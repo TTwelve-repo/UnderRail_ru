@@ -9,6 +9,9 @@
 
 Автор адаптации: th12
 
+
+Из ридми русификатора (Версия 0.13.4):
+
 Авторы перевода:
 
 Перевод Экспедиции и последующих патчей: mrn0body, marmonn, nikakbe, Evilkiss, DragonZH (Cibeast), Малдер Фокс (Brakus), Ailet (Alexis4), Se_rgus2008, Happy_Prince, vlamen, jagerhorn, Dimon485.
