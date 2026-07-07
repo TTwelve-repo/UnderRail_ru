@@ -1,0 +1,102 @@
+﻿=>q1_original
+Excuse me, are you $(context.player.Name)? I've got a message for $(#him/her).<end>
+
+=>q1
+Простите, вы $(context.player.Name)? У меня для не$(#го/ё) сообщение.<end>
+
+=>a2_original
+Yup, that's me.<end>
+
+=>a2
+Да, это я.<end>
+
+=>q3_original
+Good, I've been waiting here for an hour or so; thought you weren't gonna show up... Anyway, as I mentioned, I have an important message for you.<end>
+
+=>q3
+Отлично, я жду вас здесь уже порядка часа, думал, что вы уже не появитесь... В любом случае, как я уже сказал, у меня есть для вас важное сообщение.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+Lieutenant Nigel Stratford from Praetorian Security wishes to speak with you. The matter is very important and you should go to him without delay.<end>
+
+=>q5
+Лейтенант Найджел Стратфорд из Преторианской службы безопасности желает поговорить с вами. У него к вам есть очень важное дело, и вы должны направиться к нему без промедления.<end>
+
+=>a6_original
+Is that all?<end>
+
+=>a6
+Это всё?<end>
+
+=>q7_original
+That is all.<end>
+
+=>q7
+Это всё.<end>
+
+=>a8_original
+See you around then. Goodbye.<end>
+
+=>a8
+Ну тогда -- увидимся. До свидания.<end>
+
+=>a9_original
+Thank you. Here's a charon for your troubles. ::Give him one charon.::<end>
+
+=>a9
+Спасибо. Вот вам харон за ваши услуги. ::Дать ему один харон.::<end>
+
+=>q10_original
+I don't ne-- ::He takes the charon.:: Thank you very much! Have a nice day.<end>
+
+=>q10
+Мне не... ::Он берёт харон.:: Спасибо большое! Хорошего вам дня.<end>
+
+=>a11_original
+Goodbye.<end>
+
+=>a11
+До свидания.<end>
+
+=>q12_original
+Joseph Harlan from Coretech wishes to speak with you. The matter is very important and you should go to him without delay.<end>
+
+=>q12
+Джозеф Арлан из КорТех желает поговорить с вами. У него к вам есть очень важное дело, и вы должны направиться к нему без промедления.<end>
+
+=>q13_original
+Ola Halidorson from JKK wishes to speak with you. The matter is very important and you should go to him without delay.<end>
+
+=>q13
+Ула Халидорсон из КБР желает поговорить с вами. У него к вам есть очень важное дело, и вы должны направиться к нему без промедления.<end>
+
+=>a14_original
+That's me, but you can also call me $(context.playerArenaTitle). I'm a gladiator.<end>
+
+=>a14
+Это я, но вы также можете называть меня $(context.playerArenaTitle). Я гладиатор.<end>
+
+=>a15_original
+Don't you recognize me? I'm $(context.player.Name), also known as $(context.playerArenaTitle) - the mighty Invictus. Speak, little man - what is this message you have for me, hm?<end>
+
+=>a15
+Разве ты не узнаёшь меня? Я $(context.player.Name), также известн$(#ый/ая) как $(context.playerArenaTitle) могущественный инвиктус. Говори, маленький человек, что там у тебя за сообщение, хм-м?<end>
+
+=>q16_original
+I'm sorry, please don't be mad. It's just a habit, I... I recognized you right away! As I mentioned, I have a message for you, Invictus.<end>
+
+=>q16
+Извините, пожалуйста, не злитесь. Это просто привычка, я... я вас сразу узнал! Как я уже сказал, у меня есть для вас важное сообщение, инвиктус.<end>
+
+=>q17_original
+That one is done. Now, where the hell do I find this Blanket guy!? ::Sighs.:: I hate this job...<end>
+
+=>q17
+Так, это готово. Теперь, где мне искать этого Коврика?! ::Вздыхает.:: Я ненавижу эту работу...<end>
+

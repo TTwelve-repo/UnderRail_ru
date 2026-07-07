@@ -1,0 +1,447 @@
+﻿=>q1_original
+::As you were describing what you saw in Tanner's room, you could clearly make out expressions of growing astonishment on council members' faces. You finish, and with that the room instantly becomes noiseless, as if empty. Until Old Jonas speaks.::<end>
+
+=>q1
+::Рассказывая, что вы нашли в комнате Таннера, вы ясно видите растущее изумление на лицах членов совета. Вы оканчиваете рассказ, и комната погружается в тишину. Наконец молчание нарушает старый Джонас.::<end>
+
+=>q2_original
+And there it is...<end>
+
+=>q2
+Вот и оно...<end>
+
+=>q3_original
+What are you talking about?<end>
+
+=>q3
+О чём вы говорите?<end>
+
+=>q4_original
+What am I talking about? Weren't you listenin', woman? This is the moment. The moment where we can finally sit down and discuss the man - if he even *is* a man at all - who's been a mystery to us for all these years, yet we never dared speak about him... it... whatever. 
+
+I know we're all thinkin' alike here, right?<end>
+
+=>q4
+О чём я говорю? Ты не слушала, женщина? Время пришло. Пора нам всем наконец присесть и обсудить человека, -- если *это* вообще человек -- который все эти годы оставался для нас загадкой. До сих пор мы на это не решались. 
+
+Я *знаю*, что у всех на уме было одно и то же.<end>
+
+=>q5_original
+Yes. ::She pauses.:: Tanner was a mystery. His appearance, background, or lack thereof, and just... his presence. He stood out so much when I saw him the first time... but no one ever spoke about him, ever, and he was a competent man so I... 
+...accepted things as they were.<end>
+
+=>q5
+Да. ::Она замолкает.:: Таннер был загадкой. Его внешность, его происхождение или отсутствие оного и просто... его присутствие. Он выделялся -- я почувствовала это, когда впервые сюда попала. Но никто никогда не обсуждал Таннера, и он знал своё дело, так что я... просто приняла всё как данность.<end>
+
+=>q6_original
+Well, Vera, child, it wasn't only you. I remember Tanner when he first came to the station. I had hair and more teeth, and the epithet "old" was far off from becomin' stuck to my name. Tanner, he looked barely different than what he looks now.<end>
+
+=>q6
+Что ж, Вера, детка, ты не была одинока. Я помню, как Таннер пришёл на станцию. У меня тогда ещё были волосы и зубов побольше, а эпитет «старый» ещё не пристал к моему имени. А Таннер -- он выглядел почти так же, как и теперь.<end>
+
+=>q7_original
+Maybe it's 'cause of that thing you saw in that room of his, $(context.player.Name). Tanner barely aged. You people might not have noticed it as much, but I did. I felt the same as Vera, and as every single soul in this station. And for a good reason - Tanner was clearly hidin' something from us, and a peek into his room, as revealin' as it is, poses more questions than answers.<end>
+
+=>q7
+Может быть, всё из-за штуки, которую $(context.player.Name) видел$(#/а) у него в комнате. Таннер едва ли постарел. Вы, ребята, может, и не очень заметили. Я думал так же, как Вера, как каждая живая душа на станции. И теперь понятно, почему -- Таннер действительно скрывал что-то от нас, и осмотр его комнаты рассказал о многом, но поднял больше вопросов, чем дал ответов.<end>
+
+=>q8_original
+::He shrugs.:: I don't know... But at least we can now openly discuss Tanner.<end>
+
+=>q8
+::Он пожимает плечами.:: Я не знаю... Но, по крайней мере, теперь мы можем открыто обсудить Таннера.<end>
+
+=>q9_original
+I do not disagree with anything said here; our opinions do not differ. However, we now need to focus on the reason - or reasons - for his disappearance and how that will affect South Gate Station. And $(context.player.Name), I feel, has more things to reveal to us about him.<end>
+
+=>q9
+Я не спорю ни с чем здесь сказанным, я того же мнения. Однако теперь мы должны сосредоточить внимание на причине или причинах его исчезновения и том, как это повлияет на станцию Саут-Гейт. А $(context.player.Name), я полагаю, может ещё кое-что нам о нём рассказать.<end>
+
+=>q10_original
+$(context.player.Name), you performed quite a few tasks for Tanner recently.<end>
+
+=>q10
+$(context.player.Name), вы ведь выполнили немало заданий для Таннера в последнее время.<end>
+
+=>q11_original
+Ever since $(#he/she) got here, Tanner's been sendin' $(#him/her) around.<end>
+
+=>q11
+С тех пор, как он$(#/а) попал$(#/а) сюда, Таннер $(#им/ей) вовсю командовал.<end>
+
+=>q12_original
+Do you know anything else you feel we should know?<end>
+
+=>q12
+Есть ли что-нибудь ещё, что мы должны знать?<end>
+
+=>q13_original
+Now's the time to talk, $(context.player.Name). Tell us what you know.<end>
+
+=>q13
+Сейчас самое время поговорить, $(context.player.Name). Расскажите, что вы знаете.<end>
+
+=>a14_original
+The tasks Tanner gave me were all somehow connected to the mysterious object which was stolen from the Faceless, causing them to invade Core City and the rest of South Underrail. I've learned that the object is a powerful one, and Tanner wanted it for himself. All this has led me all the way to Deep Caverns, where I've seen it finally get returned to the Faceless.<end>
+
+=>a14
+Задачи, которые Таннер давал мне, все были так или иначе связаны с загадочным предметом, который был украден у безликих, что послужило причиной их вторжения в Кор-Сити и другие поселения Южной Подземки. Я узнал$(#/а), что этот предмет обладает силой, которую Таннер хотел присвоить. Поиски привели меня в Глубокие пещеры, где предмет был наконец возвращён безликим.<end>
+
+=>q15_original
+Are... are you trying to say Tanner was *the* one responsible for the invasion?<end>
+
+=>q15
+Вы... вы хотите сказать, это один Таннер ответственен за всё вторжение?<end>
+
+=>q16_original
+This story gets better and better. But, what the heck is this object you're talkin' about?<end>
+
+=>q16
+История становится всё интереснее и интереснее. Это что ещё за такой предмет?<end>
+
+=>a17_original
+The object is a power source. I do not know what the Faceless are using it for, but it's definitely something important if they're willing to invade us for it. It is a polyhedron made from some unknown material. It had strange markings and what appeared to be sockets of some kind, which is probably how it is connected to whatever it's powering.<end>
+
+=>a17
+Это источник энергии. Я не знаю, для чего его используют безликие, но он для них явно важен, раз уж они решились на вторжение. Это многогранник из непонятного материала. Он покрыт странными символами и имеет какие-то разъёмы, видимо, для подключения того, что он питает.<end>
+
+=>q18_original
+Incredible. Tanner must've needed that device so badly he was willing to risk an all-out war with the Faceless. There is, however, the question of how was he able to steal it from the Faceless in the first place.<end>
+
+=>q18
+Невероятно. Таннеру, должно быть, так нужно было это устройство, что ради него он был готов развязать войну с безликими. Есть, однако, вопрос, как ему вообще удалось украсть его.<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+Someone did it for him. I found Lora Baker in Deep Caverns and she explained to me that Tanner sent her and Terry to pick up this object from some man; he must've been connected in some way to the theft, if not having done it himself. However, the earthquake prevented the Bakers from returning to SGS, and so did a gang which called itself the Acid Hunters. They killed Terry and wounded Lora, and took the item from them.<end>
+
+=>a20
+Кто-то сделал это за него. Я наш$(#ёл/ла) Лору Бейкер в Глубоких пещерах, и она рассказала мне, что Таннер послал её и Терри забрать эту вещь у какого-то мужчины; должно быть, если он и не украл его сам, то каким-то образом связан с кражей. Однако землетрясение помешало Бейкерам вернуться на ССГ, а потом они наткнулись на бандитов, называвших себя Кислотными охотниками. Они убили Терри, ранили Лору и забрали этот предмет.<end>
+
+=>q21_original
+The Faceless returned Lora; I forgot to tell you in all this rush. She is resting right now.<end>
+
+=>q21
+Безликие вернули Лору, я совсем забыла об этом сказать в спешке. Она сейчас отдыхает.<end>
+
+=>q22_original
+In any case, you mentioned you went all the way down to Deep Caverns.<end>
+
+=>q22
+Так или иначе, вы упоминали, что спустились аж в самые Глубокие пещеры.<end>
+
+=>q23_original
+Tell us how it happened.<end>
+
+=>q23
+Расскажите, как это произошло.<end>
+
+=>a24_original
+After the Acid Hunters took it from Lora and Terry, it finally ended up in Coretech's research facility, from which it was stolen by Tchortists. After infiltrating their institute, the Faceless attacked, but the object had already been sent down into Deep Caverns. So, I had no option but to follow it.<end>
+
+=>a24
+После того, как Кислотные охотники забрали его у Лоры и Терри, он в конце концов оказался в лаборатории КорТех, откуда его выкрали чортисты. Безликие взяли штурмом их институт, но к тому времени устройство уже было в Глубоких пещерах. Мне не оставалось ничего иного, кроме как последовать за ним.<end>
+
+=>q25_original
+Better and better...<end>
+
+=>q25
+Всё лучше и лучше...<end>
+
+=>q26_original
+Would you stop it, Jonas?<end>
+
+=>q26
+Может, хватит уже, Джонас?<end>
+
+=>q27_original
+Hm. It seems like everyone wanted this object, including the enigmatic Institute. Why did the Tchortists send it to Deep Caverns? What do they have there?<end>
+
+=>q27
+Хм. Похоже, всем очень нужен был этот предмет, в том числе и загадочному Институту. Зачем чортисты забрали его в Глубокие пещеры? Что у них там?<end>
+
+=>a28_original
+They have *Tchort*.<end>
+
+=>a28
+У них там *Чорт*.<end>
+
+=>q29_original
+What? What is Tchort?<end>
+
+=>q29
+Что? Какой Чорт?<end>
+
+=>a30_original
+It's one *ugly* creature. One giant, disgusting mutated mass of flesh with slimy tentacles sprouting from it.<end>
+
+=>a30
+Та ещё гадость. Огромная склизкая отвратительная туша и щупальца во все стороны.<end>
+
+=>q31_original
+::Everyone is silently exchanging glances.::<end>
+
+=>q31
+::Все замолкают, обмениваясь взглядами.::<end>
+
+=>a32_original
+I killed it and returned the object to the Faceless.<end>
+
+=>a32
+Я убил$(#/а) его и вернул$(#/а) устройство безликим.<end>
+
+=>q33_original
+You got a real pair of mighty boulders between your legs. $(#How do you even walk, son?/I mean figuratively, sweetheart.)<end>
+
+=>q33
+Да у тебя пара массивных булыжников промеж ног. $(#Как ты вообще ходишь, сынок?/Это я образно выражаюсь, доченька.)<end>
+
+=>q34_original
+Fascinating. You have seen amazing things in such a period of time, and you lived to tell the tale. But this tale presents more questions than answers, and we still don't know who Tanner truly is, what he was going to do with the Faceless device and where he is now.<end>
+
+=>q34
+Невероятно. За такое короткое время вам удалось стать свидетелем удивительных событий и выжить, не смотря ни на что. Но эта история поднимает больше вопросов, чем даёт ответов, и мы всё ещё не знаем, кто такой Таннер на самом деле, зачем ему артефакт безликих и где он сейчас.<end>
+
+=>a35_original
+There's a thing or two I've learned that might shed some light on who Tanner really is.<end>
+
+=>a35
+Я узнал$(#/а) кое-что, способное пролить свет на сущность Таннера.<end>
+
+=>q36_original
+Do tell us, $(context.player.Name).<end>
+
+=>q36
+Расскажите нам, $(context.player.Name).<end>
+
+=>a37_original
+I've met this humanoid creature which calls itself Rahm-Umbra. We've met in Deep Caverns for the first time, but it seems we were both involved in all these important events regarding the Faceless object.<end>
+
+=>a37
+Со мной повстречалось существо, назвавшее себя Рам-Умбра. Мы впервые увиделись Глубоких пещерах, но, судя по всему, нас и до этого связывали события вокруг артефакта безликих.<end>
+
+=>q38_original
+Can you describe it?<end>
+
+=>q38
+Не могли бы вы описать его?<end>
+
+=>a39_original
+He is lean, tall, about as tall as Tanner, and has a prosthetic arm and a leg. He wears a metallic-looking mask and instead of eyes he has four lenses. One other striking feature is that he has six digits on each of his hands. <end>
+
+=>a39
+Он худой, высокий, примерно ростом с Таннера, у него протез руки и ноги. На лице металлическая маска, а на месте глаз четыре линзы. Ещё одна интересная особенность в том, что у него по шесть пальцев на руках.<end>
+
+=>q40_original
+As tall as Tanner... mask...<end>
+
+=>q40
+Высокий как Таннер... в маске...<end>
+
+=>a41_original
+He is a powerful individual, even capable of things like instant teleportation. The technology he wields is far more advanced than anything we've ever seen.<end>
+
+=>a41
+Это могущественное существо, способное, например, на мгновенную телепортацию. Он обладает технологией куда более развитой, чем всё, известное нам.<end>
+
+=>q42_original
+Yeah... go on.<end>
+
+=>q42
+Да... продолжайте.<end>
+
+=>a43_original
+He and Tanner seem to be of the same species, from what I understood. Rahm-Umbra wants to assassinate him, and he seems to have been trying to find him for a long time. Now that he has finally discovered him, Tanner slipped away and fled to North Underrail.<end>
+
+=>a43
+Они с Таннером, похоже, одной расы, насколько я понимаю. Рам-Умбра хочет убить его, и он, похоже, шёл по следу Таннера долгое время. Теперь, когда он наконец нашёл его, Таннер ускользнул и бежал в Северную Подземку.<end>
+
+=>q44_original
+So, what you're tryin' to say is, Tanner has been posing as a human in order to hide from a whatever-the-hell-it-is assassin and now bolted as soon as this... Ram-Ember sniffed him out.<end>
+
+=>q44
+Хочешь сказать, Таннер притворялся человеком для того, чтобы спрятаться от этого хрен-пойми-что-за-убийцы и удрал, как только этот... Рамумбер унюхал его.<end>
+
+=>q45_original
+Everything makes sense now. The Faceless object, Tanner's appearance, that stasis cell in his room, his departure.<end>
+
+=>q45
+Всё встало на свои места. Артефакт безликих, появление Таннера, эта стазисная ячейка у него в комнате, его исчезновение.<end>
+
+=>q46_original
+We still don't know what he was gonna do with that gizmo, but I can bet the five hairs on my head it's related to him not wantin' to get zapped by his fellow kinsman.<end>
+
+=>q46
+Мы до сих пор наверняка не знаем, что он собирался делать с этой хреновиной, но ставлю свои последние пять волосин, он хотел с её помощью улизнуть от этого своего родственничка.<end>
+
+=>q47_original
+Gentlemen... I think a long meeting is ahead of us.<end>
+
+=>q47
+Господа... Похоже, нас сегодня ждёт длинное заседание.<end>
+
+=>q48_original
+Thank you for everything, $(context.player.Name). The rest of us have a long discussion ahead. You, on the other hand, might want to get some rest - some good rest. You've done more than enough. Afterward, you should come to my office.<end>
+
+=>q48
+Спасибо вам за всё, $(context.player.Name). Теперь нам нужно будет всё тщательно обсудить. Вы, с другой стороны, должно быть, хотите немного отдохнуть. Вы этого определённо заслуживаете. Зайдите ко мне в кабинет, когда будете готовы.<end>
+
+=>a49_original
+I will. ::Go to your room.::<end>
+
+=>a49
+Зайду. ::Идти в свою комнату.::<end>
+
+=>a50_original
+I've met this humanoid creature which calls itself Rahm-Umbra. We've met even before Deep Caverns and it seems we were both involved in all these important events regarding the Faceless object.<end>
+
+=>a50
+Со мной повстречалось существо, назвавшее себя Рам-Умбра. Мы впервые увиделись ещё до моего визита в Глубокие пещеры, и, судя по всему, нас связывали события вокруг артефакта безликих.<end>
+
+=>a51_original
+On second thought, forget about it; it's irrelevant after all.<end>
+
+=>a51
+Если подумать, забудьте об этом; в конце концов, это не имеет значения.<end>
+
+=>a52_original
+Sadly, this is all I know.<end>
+
+=>a52
+К сожалению, это всё, что я знаю.<end>
+
+=>q53_original
+$(context.player.Name), thank you for everything. You've done enough for now. We've got a few more things to discuss on this matter. Meanwhile, you might want to get some rest - some good rest. 
+
+Come to my office afterward.<end>
+
+=>q53
+$(context.player.Name), спасибо вам за всё. На сегодня вы сделали достаточно. Нам ещё нужно обсудить несколько сопутствующих вопросов, а вы идите и отдохните как следует.
+
+А потом зайдите ко мне в кабинет.<end>
+
+=>a54_original
+I helped the Faceless fight it. With our forces combined, the creature is dead and the item has been returned to its owners.<end>
+
+=>a54
+Я помог$(#/ла) безликим в битве с ним. Объединёнными усилиями мы убили тварь и вернули устройство.<end>
+
+=>q55_original
+Damn, $(context.player.Name), fighting alongside them Faceless. You must've done somethin' pretty darn good to make them trust you so.<end>
+
+=>q55
+Однако, $(context.player.Name), вам довелось сражаться бок о бок с безликими. Непросто, наверное, было заслужить их доверие.<end>
+
+=>a56_original
+The Faceless took care of the creature. I was only an observer in this whole mess.<end>
+
+=>a56
+Безликие позаботились о твари. Мне оставалось только наблюдать за этим бардаком.<end>
+
+=>q57_original
+Even being an observer in all that takes a good pair of boulders between your legs. $(#How do you even walk, son?/I mean figuratively, sweetheart.)<end>
+
+=>q57
+Да у тебя пара массивных булыжников промеж ног. $(#Как ты вообще ходишь, сынок?/Это я образно выражаюсь, доченька.)<end>
+
+=>a58_original
+I'm guessing they wanted to use it for something, but a guess is the best I've got.<end>
+
+=>a58
+Я могу только предположить, что у них был план, как его использовать.<end>
+
+=>q59_original
+So, the Faceless took it from the Tchortists?<end>
+
+=>q59
+Итак, безликие отобрали его у чортистов?<end>
+
+=>a60_original
+If it wasn't for me the Faceless would've never retrieved the object. I took care of everything, they just came along to thank me.<end>
+
+=>a60
+Если бы не я, безликим никогда бы не вернуть устройство. Я всё устроил$(#/а); спасибо сказали -- и то ладно.<end>
+
+=>a61_original
+I helped the Faceless. With our forces combined, the object is now back to where it belongs.<end>
+
+=>a61
+Я помог$(#/ла) безликим. Объединёнными усилиями мы вернули устройство.<end>
+
+=>a62_original
+The Faceless took care of it. I was only an observer in this whole mess.<end>
+
+=>a62
+Безликие обо всём позаботились. Мне оставалось только наблюдать за этим бардаком.<end>
+
+=>a63_original
+The object somehow ended up in Coretech's research facility, from which it was stolen by Tchortists. After infiltrating their institute, the Faceless attacked, but the object had already been sent down into Deep Caverns. So, I had no option but to follow it.<end>
+
+=>a63
+Устройство каким-то образом оказалось в лаборатории КорТех, откуда его выкрали чортисты. Безликие взяли штурмом их институт, но к тому времени устройство уже было в Глубоких пещерах. Мне не оставалось ничего иного, кроме как последовать за ним.<end>
+
+=>q64_original
+Lora? In Deep Caverns? She's alive? What happened to her?<end>
+
+=>q64
+Лора в Глубоких пещерах? Она жива? Что с ней случилось?<end>
+
+=>a65_original
+I wasn't able to bring her back from Deep Caverns. The Faceless must've taken her with them, and I don't know where she is now.<end>
+
+=>a65
+Мне не удалось вытащить её из Глубоких пещер. Её, должно быть, забрали безликие, и я не знаю, где она теперь.<end>
+
+=>q66_original
+That is unfortunate news indeed, but we need to return to this Faceless object. You mentioned you went all the way down to Deep Caverns.<end>
+
+=>q66
+Это печальные новости, но нам всё ещё нужно вернуться к этому артефакту безликих. Вы упомянули, что спускались в Глубокие пещеры.<end>
+
+=>a67_original
+I'm afraid she died shortly after we spoke.<end>
+
+=>a67
+Боюсь, она умерла вскоре после нашего разговора.<end>
+
+=>a68_original
+Someone must've done it for him, but how the whole theft was accomplished, that I do not know.<end>
+
+=>a68
+Кто-то сделал это за него; я не знаю, как им это удалось.<end>
+
+=>a69_original
+I don't know.<end>
+
+=>a69
+Я не знаю.<end>
+
+=>a70_original
+I don't know what it does, but I have seen it. It is a polyhedron made of some unknown material; it had strange markings and what appeared to be sockets of some kind.<end>
+
+=>a70
+Я не знаю, что это такое, но я его видел$(#/а). Это многогранник из непонятного материала, он покрыт странными символами и имеет какие-то разъёмы.<end>
+
+=>a71_original
+I don't know what it does and I've never had the chance to see it.<end>
+
+=>a71
+Я не знаю, что он делает, и никогда не видел$(#/а) его.<end>
+
+=>q72_original
+It must've been something important enough for him to risk an all-out war with the Faceless. There is, however, the question of how was he able to steal it from the Faceless in the first place.<end>
+
+=>q72
+Ему, должно быть, так нужно было это устройство, что ради него он был готов развязать войну с безликими. Есть, однако, вопрос, как ему вообще удалось украсть его.<end>
+
+=>a73_original
+I know nothing more than what I've already told you.<end>
+
+=>a73
+Мне больше нечего вам рассказать.<end>
+

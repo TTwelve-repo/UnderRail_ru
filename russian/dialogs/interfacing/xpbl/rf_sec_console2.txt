@@ -1,0 +1,182 @@
+﻿=>q1_original
+::LEMCO LC387 - ::<end>
+
+=>q1
+::ЛЕМКО LC387 - ::<end>
+
+=>q2_original
+::Welcome, P. Bridges::
+
+<end>
+
+=>q2
+::Добро пожаловать, Ф. Бриджес::
+<end>
+
+=>q3_original
+::Please select one of the following options: ::<end>
+
+=>q3
+::Пожалуйста, выберите одну из следующих опций: ::<end>
+
+=>a4_original
+::Surveillance system::<end>
+
+=>a4
+::Система видеонаблюдения::<end>
+
+=>q5_original
+::Surveillance system is online.
+
+Number of active security cameras in Nexus of Technology: $(context.loc_xpbl_rf_numberOfSecCamerasActive)::<end>
+
+=>q5
+::Система видеонаблюдения: онлайн.
+
+Количество задействованных камер видеонаблюдения в комплексе Технологии Нексуса: $(context.loc_xpbl_rf_numberOfSecCamerasActive)::<end>
+
+=>a6_original
+::[Hacking] Disable the surveillance system::<end>
+
+=>a6
+::[Хакерство] Отключить систему видеонаблюдения::<end>
+
+=>q7_original
+::Disabling surveillance system...
+
+Level 0... Done.
+Level 1... Done.
+Level 2... Done.
+Level 3... Done.
+Level 4... Done.
+Level 5... Done.
+Level 6... Done.
+Level 7... Done.
+Level 8... Done.
+Level 9... Done.
+Logging... Done.
+
+Surveillance system disabled successfully..::<end>
+
+=>q7
+::Отключение системы видеонаблюдения...
+
+Уровень 0... Готово.
+Уровень 1... Готово.
+Уровень 2... Готово.
+Уровень 3... Готово.
+Уровень 4... Готово.
+Уровень 5... Готово.
+Уровень 6... Готово.
+Уровень 7... Готово.
+Уровень 8... Готово.
+Уровень 9... Готово.
+Сохранение лога... Готово.
+
+Система видеонаблюдения успешно отключена...::<end>
+
+=>q8_original
+::Surveillance system is offline.::<end>
+
+=>q8
+::Система видеонаблюдения: оффлайн.::<end>
+
+=>a9_original
+::Back::<end>
+
+=>a9
+::Назад::<end>
+
+=>q10_original
+::Unknown error::<end>
+
+=>q10
+::Неизвестная ошибка::<end>
+
+=>a11_original
+::Toggle north section gate::<end>
+
+=>a11
+::Переключить северные ворота::<end>
+
+=>a12_original
+::Toggle south section gate::<end>
+
+=>a12
+::Переключить южные ворота::<end>
+
+=>a13_original
+::Toggle south section gate::<end>
+
+=>a13
+::Переключить южные ворота::<end>
+
+=>q14_original
+::Warning: Gate locked.
+
+You do not have permission to open this gate. Please contact a security supervisor for more details.::<end>
+
+=>q14
+::Внимание: ворота заблокированы.
+
+У вас отсутствует разрешение на открытие данных ворот. Свяжитесь с инспектором охраны для дополнительной информации::<end>
+
+=>a15_original
+::[Hacking] Unlock the gate::<end>
+
+=>a15
+::[Хакерство] Разблокировать ворота::<end>
+
+=>q16_original
+::Security technology level south section gate is now unlocked.
+
+::<end>
+
+=>q16
+::Южные ворота уровня службы безопасности технологий разблокированы.
+
+::<end>
+
+=>a17_original
+::Back::<end>
+
+=>a17
+::Назад::<end>
+
+=>a18_original
+::Contact active security supervisor::<end>
+
+=>a18
+::Связаться с действующим инспектором охраны::<end>
+
+=>q19_original
+::No active security supervisors detected. There may be temporary communication problems preventing this. 
+
+Please try again later.::<end>
+
+=>q19
+::Действующих инспекторов охраны не обнаружено. Возможно, это случилось по причине временных проблем со связью.
+
+Попытайтесь ещё раз позже.::<end>
+
+=>a20_original
+::Summon available Servants::<end>
+
+=>a20
+::Вызвать доступных слуг::<end>
+
+=>a21_original
+::Exit::<end>
+
+=>a21
+::Выход::<end>
+
+=>q22_original
+::Welcome, guest::
+
+<end>
+
+=>q22
+::Добро пожаловать, гость::
+<end>
+

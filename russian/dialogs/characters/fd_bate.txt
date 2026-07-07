@@ -1,0 +1,298 @@
+﻿=>q1_original
+::He seems to be deeply focused on some papers laid out in front of him..::<end>
+
+=>q1
+::Похоже, он глубоко сосредоточен на каких-то бумагах, разложенных перед ним...::<end>
+
+=>q2_original
+Listen, kiddo, I know you're busy and all that... but I've got something I'd like to talk to you about. It's pretty important.<end>
+
+=>q2
+Послушай, $(#друг/подруга), я знаю, что у тебя дела и всё такое... но я кое о чём хочу с тобой поговорить. Это довольно важно.<end>
+
+=>a3_original
+Let's hear it.<end>
+
+=>a3
+Давай, говори.<end>
+
+=>q4_original
+I think you should know this kiddo, you are a part of the family now. One of our patrols was, well, ambushed by the Lurkers. Only one man managed to escape, and he told us that the rest were taken east, probably deep into Lurker territory.<end>
+
+=>q4
+Я думаю, тебе следует знать, $(#друг/подруга), ведь ты теперь часть семьи. Один из наших патрулей угодил в засаду скрытней. Только одному человеку удалось спастись, он и рассказал нам, что остальных утащили на восток, вероятно, в глубину территории скрытней.<end>
+
+=>a5_original
+I already found them. They're all dead.<end>
+
+=>a5
+Я уже наш$(#ёл/ла) их. Они все мертвы.<end>
+
+=>q6_original
+What? Oh no... Damn it! Damn it!<end>
+
+=>q6
+Что? О нет... проклятье! Проклятье!<end>
+
+=>q7_original
+I was hoping for... ::He sighs.:: Well, forget about it now. Thank you for telling me this, kiddo, I'll inform the rest of the gang of this. Anyway, what did you want to talk about in the first place?<end>
+
+=>q7
+Я надеялся... ::Он вздыхает.:: Ну, теперь об этом можно забыть. Спасибо, что сказал$(#/а) мне, $(#друг/подруга), я дам знать остальным. Ладно, о чём ты там хотел$(#/а) поговорить?<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+I found the fighters captured by the Lurkers. They are dead.<end>
+
+=>a9
+Я наш$(#ёл/ла) бойцов, захваченных скрытнями, они мертвы.<end>
+
+=>a10_original
+I released the prisoners beneath the Lurker encampment.<end>
+
+=>a10
+Я освободил$(#/а) заключённых, удерживаемых в лагере скрытней.<end>
+
+=>q11_original
+Yes, they made it here. All three of them are back, safe and sound, and a little shaken up! It's all thanks to you kiddo!<end>
+
+=>q11
+Да, они уже здесь. Все трое вернулись, в целости и сохранности, пусть и немного шокированы! Это всё благодаря тебе, $(#друг/подруга)!<end>
+
+=>q12_original
+You did good, and therefore, we've got something for you, as a token of gratitude. Go and talk to Becket about it.<end>
+
+=>q12
+Ты молодец, и поэтому у нас есть кое-что для тебя, в знак благодарности. Поговори с Бекетом.<end>
+
+=>q13_original
+Unfortunately, only two made it back. They are shaken up a bit but... they're alive. You did good, $(context.player.Name).<end>
+
+=>q13
+К сожалению, только двое вернулись. Их трясёт немного, но... они живы. Ты молодец, $(context.player.Name).<end>
+
+=>q14_original
+Unfortunately, there is only one survivor. Shaken up a bit but alive. I wish more could be saved, but you did good, $(context.player.Name).<end>
+
+=>q14
+К сожалению, выжил только один. Трясёт немного, но жить будет. Хотелось бы, чтобы удалось спасти ещё кого-нибудь, но ты всё равно молодец, $(context.player.Name).<end>
+
+=>a15_original
+What can you tell me about the Free Drones?<end>
+
+=>a15
+Что ты можешь рассказать мне о Вольных шершнях?<end>
+
+=>q16_original
+That's us! ::He laughs.:: I think I'll start from the beginning. After Biocorp was taken over by Protectorate, there was no one to compete with them over North Underrail. Over the course of several years, the Cans solidified their rule and demonstrated how brutal they can be. For instance, the great riot against an invasive privacy law led to five hundred and forty six civilian casualties.<end>
+
+=>q16
+Это мы! ::Он смеётся.:: Думаю, я начну с самого начала. После захвата Биокорп Протекторатом некому стало конкурировать с ними в Северной Подземке. В течение нескольких лет банки установили свои правила и продемонстрировали, какими жестокими могут быть. Например, большой бунт против закона «О неприкосновенности личной жизни» привёл к гибели пятисот сорока шести участников из числа гражданского населения.<end>
+
+=>q17_original
+Come on, kiddo, those people didn't kill themselves - the Cans did! But even despite that, many are still supporting the Protectorate! Fools...
+
+Anyway, some eleven-twelve years ago, a young anarchist named Wallace Steel founded a movement that will fight the tyrants. Thus, the Free Drones were born. A small group of rebels at first, they spread the truth about Protectorate. Wallace was soon imprisoned and executed, but the movement grew.<end>
+
+=>q17
+Ты же понимаешь, $(#друг/подруга), эти люди не убивали друг друга -- им помогли! Но даже несмотря на это, многие до сих пор поддерживают Протекторат! Дураки...
+
+Во всяком случае, одиннадцать-двенадцать лет назад один молодой анархист по имени Уоллес Стальной основал движение, которое бы боролось с тиранами. Так появились Вольные шершни. Поначалу, небольшая группа мятежников, распространяющая правду о Протекторате. Уоллес был вскоре заключён в тюрьму и казнён, но движение его росло.<end>
+
+=>q18_original
+Now, we are powerful in the North, not so much in the South. Here, the Protectorate hasn't had the time to reveal its true face, and because of the constant problems with raiders and the like, many fall for the story of protection and unification.
+
+I could go on and on, but this should be enough for now, kiddo.<end>
+
+=>q18
+Сейчас мы сильны на севере, не так сильны на юге. Здесь, Протекторат не успел ещё раскрыть своё истинное лицо, и из-за постоянных проблем с рейдерами многим по душе сказки о защите и объединении.
+
+Я мог бы продолжать и продолжать, но этого должно быть достаточно, $(#друг/подруга).<end>
+
+=>a19_original
+What can you tell me about the Protectorate?<end>
+
+=>a19
+Что ты можешь рассказать мне о Протекторате?<end>
+
+=>q20_original
+What can be said about the oppressors? Well...
+
+a. They are lead by a ruthless and power-hungry tyrant who wants to control the whole Underrail,
+b. They kill or brainwash, or better - enslave everyone who's against them or against the "integration,"
+c. They hide behind the idea of unification and claim they want to protect everyone, but everyone and his pet rat knows that's a filthy lie.<end>
+
+=>q20
+Что можно сказать об угнетателях? Ну...
+
+Во-первых, ими руководит беспощадный и властолюбивый тиран, который хочет контролировать всю Подземку.
+Во-вторых, они убивают или зомбируют, вернее, порабощают всех, кто против них или против «интеграции».
+В-третьих, они прикрываются идеей объединения и утверждают, что хотят защитить всех, но это подлое враньё.<end>
+
+=>q21_original
+I don't know about you, kiddo, but come on! They "protect" people by killing them? Sure, they take over some stations peacefully, but others, those who object to their lies, they are subjugated by brutal force. Besides, even if the integration was one hundred percent peaceful, the dictatorship would soon become apparent. Surface, if you will.<end>
+
+=>q21
+Да брось, $(#друг/подруга)! Они «защищают» людей, убивая их? Конечно, они занимают некоторые станции мирно, но другие, те, кто возражает против их лжи, берутся грубой силой. Кроме того, даже если интеграция была на сто процентов мирной, диктатура вскоре становится очевидной. Всплывает на поверхность, если хочешь.<end>
+
+=>a22_original
+What can you tell me about Trenton?<end>
+
+=>a22
+Что ты можешь рассказать мне о Трентоне?<end>
+
+=>q23_original
+Corben and I have known each other for... years, kiddo. You have to spend some time with him to truly understand him. He seems... hmmm, very stiff and formal, and at first glance he's often mistaken for being cold-blooded and emotionless, something that is more fitting of a Protectorate scumbag than a Free Drone.<end>
+
+=>q23
+С Корбеном мы знакомы уже... много лет, $(#друг/подруга). Нужно провести немало времени с ним, чтобы по-настоящему понять его. Он выглядит... хм-м-м, очень жёстким и сухим, с первого взгляда его легко принять за хладнокровного и бесчувственного, больше похожего на чиновника Протектората, чем на Вольного шершня.<end>
+
+=>q24_original
+The truth is quite the opposite, however. He really cares about the Free Drones ideology, but keeps all his troubles and worries to himself. Also, he's a brilliant strategist, just brilliant, unmatched by even the best the arrogant Cans have to offer.<end>
+
+=>q24
+Правда -- совсем в другом, однако. Он действительно принял к сердцу идеологию Вольных шершней, но держит все свои беды и заботы при себе. Кроме того, он блестящий стратег, просто гениальный, непревзойдённый даже самыми высокомерными банками.<end>
+
+=>a25_original
+What can you tell me about Marcella?<end>
+
+=>a25
+Что ты можешь рассказать мне о Марселле?<end>
+
+=>q26_original
+::His stare turns sorrowful.:: Please kiddo, I'd rather not talk about it. Marcella and I... we, we had something special.<end>
+
+=>q26
+::Его взгляд полон скорби.:: Пожалуйста, $(#друг/подруга), я предпочёл бы не говорить об этом. Марселла и я... у нас было нечто особенное.<end>
+
+=>q27_original
+Look, I just can't talk about it right now. She disappeared two months ago and... and it would be too painful for me if we found out she's been dealing with the Protectorate. Bloody Cans.<end>
+
+=>q27
+Слушай, я просто не могу сейчас говорить об этом. Она исчезла два месяца назад, и... и мне было бы слишком больно узнать, что она сотрудничала с Протекторатом. Долбаными банками.<end>
+
+=>a28_original
+Bye.<end>
+
+=>a28
+До свидания.<end>
+
+=>a29_original
+What do you want me to do?<end>
+
+=>a29
+Что ты хочешь от меня?<end>
+
+=>q30_original
+Well, I'd like to send an army to raze the Lurkers and rescue our fighters, but we are short on people, as always. So, I'm looking for volunteers to go into the Lurker territory and look for the captured fighters.<end>
+
+=>q30
+Ну, я бы с удовольствием послал армию, чтобы сровнять скрытней с землёй и спасти наших бойцов, но у нас мало людей, как всегда. Так что я ищу добровольцев, готовых пойти на территорию скрытней и отыскать захваченных в плен бойцов.<end>
+
+=>q31_original
+I'm not cold hearted. I know our men and women, despite being really brave, are very uncomfortable when it comes to fighting Lurkers. I understand it, Lurkers are monsters. So I reckon, I'll ask for volunteers first, instead of just picking at random who should go and look for Free Drones that could already be dead. So, what's your take on this?<end>
+
+=>q31
+Я не бессердечный. Я знаю, что наши мужчины и женщины, несмотря на всю свою храбрость, очень неуютно себя чувствуют, когда дело доходит до схватки со скрытнями. Я понимаю, ведь скрытни -- монстры. Поэтому я ищу добровольцев, вместо того, чтобы просто выбирать наугад, кому идти искать Вольных шершней, которые могут уже быть мертвы. Так, что ты скажешь?<end>
+
+=>a32_original
+I'm up for it. If there's even a slight chance that our brothers and sisters are alive, I say we should go for it.<end>
+
+=>a32
+Я возьмусь за это. Если есть даже небольшая вероятность того, что наши братья и сёстры живы, я считаю, мы должны попытаться.<end>
+
+=>q33_original
+Excellent. Lurkers have a large encampment east of our base, I'm thinking that's the most probable place to take the captives to, but nothing is certain.<end>
+
+=>q33
+Отлично. У скрытней есть большой лагерь к востоку от нашей базы, я думаю, там, наиболее вероятно, держат пленников, но ничего определённого сказать нельзя.<end>
+
+=>a34_original
+Lurkers, here I come.<end>
+
+=>a34
+Скрытни, я иду за вами.<end>
+
+=>q35_original
+That's the spirit, kiddo! I admire your courage!<end>
+
+=>q35
+Вот и молодец, $(#друг/подруга)! Я восхищаюсь твоим мужеством!<end>
+
+=>q36_original
+<end>
+
+=>q36
+<end>
+
+=>a37_original
+Are there more volunteers or am I the only one?<end>
+
+=>a37
+Есть ещё добровольцы, или только я?<end>
+
+=>q38_original
+Frankly, it's been a mess here since it happened and I'm not sure how we're standing. I'll let you know when I find out more, kiddo.<end>
+
+=>q38
+Честно говоря, тут был такой бардак, когда всё случилось, так что я не уверен. Я дам тебе знать, когда узнаю больше, $(#друг/подруга).<end>
+
+=>a39_original
+I'll pass. I'm not willing to risk my life for something so uncertain.<end>
+
+=>a39
+Я пас. Я не буду рисковать жизнью, когда нет никакой уверенности.<end>
+
+=>q40_original
+I understand. I was just asking. Well, kiddo, what was it you wanted to talk to me in the first place?<end>
+
+=>q40
+Я понимаю. Я просто спросил. Ну, $(#друг/подруга), так о чём ты хотел$(#/а) со мной поговорить?<end>
+
+=>a41_original
+I heard Lurkers are not the friendliest people. The patrolmen must be dead already.<end>
+
+=>a41
+Я слышал$(#/а), скрытни не самый дружелюбный народ. Патрульные, должны быть, уже мертвы.<end>
+
+=>q42_original
+Maybe they are, but I just can't let it go. So, I'm looking for volunteers to go into the Lurker territory and look for the captured fighters.<end>
+
+=>q42
+Может быть, так и есть, но я просто не могу это так оставить. Так что я ищу добровольцев, готовых пойти на территорию скрытней и отыскать захваченных в плен бойцов.<end>
+
+=>a43_original
+Let me guess... You want me to rescue them.<end>
+
+=>a43
+Дай угадаю... ты хочешь, чтобы я спас$(#/ла) их.<end>
+
+=>q44_original
+Actually, I'm looking for volunteers to go into the Lurker territory and look for the captured fighters.<end>
+
+=>q44
+Действительно, я ищу добровольцев, готовых пойти на территорию скрытней и отыскать захваченных в плен бойцов.<end>
+
+=>a45_original
+Yay, more work! This is going to be good.<end>
+
+=>a45
+Ура, ещё работа! Дела идут в гору.<end>
+
+=>q46_original
+Come on, there's no need to be sarcastic. This is important so listen up.<end>
+
+=>q46
+Да ладно, не надо язвить. Это важно, так что слушай.<end>
+
+=>q47_original
+Hey, kiddo.<end>
+
+=>q47
+Привет, $(#друг/подруга).<end>
+

@@ -1,0 +1,452 @@
+﻿=>q1_original
+::The pale skinny man turns to you and instantly unleashes a torrent of words. The words are expelled with such speed that you find keeping track of what he's saying a great difficulty. His rapid, twitchy motions and the constant need to alternate between looking at you and the numerous monitors in front of him is both intriguing as well as uncanny.::
+
+Hey; hey; hey; you must be $(context.player.Name)? Hmmm? Hmmm? It's good to meet you, I'm Twitch. I said, it's good to meet you, I'm Twitch!<end>
+
+=>q1
+::Бледный тощий мужчина поворачивается к вам и мгновенно обрушивает на вас поток слов. Слова летят с такой скоростью, что вы понимаете их с большим трудом. Его резкие, дёрганные движения и постоянная необходимость попеременно глядеть то на вас, то на многочисленные мониторы перед ним, одновременно интригуют и пугают.::
+
+Эй; эй; эй; ты, должно быть $(context.player.Name)? Хм-м-м? Хм-м-м? Приятно познакомиться, я Твич. Я сказал, приятно познакомиться, я Твич!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Why are you doing that strange thing?<end>
+
+=>a3
+Почему ты так странно делаешь?<end>
+
+=>q4_original
+Doing what? ::He looks at a monitor.:: Oh, wait; let me zoom that in; more; more; Shame. The resolution is far too low to discern anything. I can't... ::He looks at you.:: Doing what, heh, doing what?<end>
+
+=>q4
+Делаю что? ::Он смотрит на монитор.:: Ой, подожди; дай-ка, увеличу; ближе; ближе; блин. Разрешение слишком низкое, ничего не различить. Я не могу... ::Он смотрит на вас.:: Что делаю, хех, что делаю?<end>
+
+=>a5_original
+The multitasking. It's creeping me out, man. Can't you focus on one thing at a time?<end>
+
+=>a5
+Всё сразу. Мне от этого не по себе, парень. Ты не можешь сосредоточиться на одной вещи за раз?<end>
+
+=>q6_original
+::He turns toward you.:: If I focus on one thing, then I'm missing something else. I need to be on a constant lookout in order to register and process everything that is happening. Simply by focusing all my attention to you, $(context.player.Name), I've already missed several important events.<end>
+
+=>q6
+::Он поворачивается к вам.:: Если я сосредотачиваюсь на чём-то одном, то упускаю что-то другое. Мне нужно постоянно наблюдать, чтобы регистрировать и обрабатывать всё, что происходит. Только сосредоточив всё своё внимание на тебе, $(context.player.Name), я уже пропустил несколько важных событий.<end>
+
+=>q7_original
+::He looks at the monitors again.:: My way is the optimal way!<end>
+
+=>q7
+::Он смотрит на мониторы ещё раз.:: Мой метод -- самый оптимальный!<end>
+
+=>a8_original
+Never mind. Let's talk about something else.<end>
+
+=>a8
+Неважно. Давайте поговорим о чём-нибудь другом.<end>
+
+=>q9_original
+Just be quick about it, things are happening and I don't know if I'll be able to... :: He focuses on one of the monitors.::<end>
+
+=>q9
+Только поторопись, столько всего происходит, не знаю, успею ли... ::Он сосредотачивается на одном из мониторов.::<end>
+
+=>a10_original
+What do you do around here?<end>
+
+=>a10
+Что ты здесь делаешь?<end>
+
+=>q11_original
+Scrutinize, study, analyze and then extrapolate, conclude, calculate. ::He focuses on something on one of the monitors.:: Seventeen, I should write that down. Yes, the technology allows me to be a nearly omnipresent observer. I perceive what only few can so if you ever need some surveillance help, I'm your man.<end>
+
+=>q11
+Рассматриваю, изучаю, анализирую и экстраполирую, делаю выводы, вычисляю. ::Он вглядывается в один из мониторов.:: Семнадцать, надо записать. Да, технология позволяет мне быть почти вездесущим наблюдателем. Я вижу то, что могут лишь немногие, так что если тебе понадобится помощь с наблюдением, я к твоим услугам.<end>
+
+=>q12_original
+By the way, you look like you've gained a few pounds. ::He looks at a monitor.:: Just an observation.<end>
+
+=>q12
+Кстати, похоже, ты набрал$(#/а) пару килограмм. ::Он смотрит на монитор.:: Просто наблюдение.<end>
+
+=>q13_original
+By the way, is that a bald patch on your head? Maybe it's just the lighting. ::He looks at the monitor.::<end>
+
+=>q13
+Кстати, это у тебя плешь на голове? Может, просто освещение. ::Смотрит на монитор.::<end>
+
+=>a14_original
+I might need some surveillance help. <end>
+
+=>a14
+Мне может понадобиться некоторая помощь с наблюдением.<end>
+
+=>q15_original
+Hey, whatever you need. ::He looks at the monitor.::<end>
+
+=>q15
+Эй, у меня есть всё, говори, что хочешь. ::Он смотрит на монитор.::<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>a17_original
+I need some surveillance equipment to spy on the Talloski family in Core City.<end>
+
+=>a17
+Мне нужно оборудование для наблюдения, чтобы пошпионить за семьёй Таллоски в Кор-Сити.<end>
+
+=>q18_original
+Please wait... ::He hastily types something on the keyboard, then turns around to you. You feel like you have his full attention, as strange as it may be.::
+
+I have just the right thing for you. As a matter of fact, I believe you're already familiar with the piece of equipment I'm about to present to you.<end>
+
+=>q18
+Пожалуйста, подожди... ::Он спешно вводит что-то на клавиатуре, потом поворачивается к вам. Вы чувствуете, что он уделяет вам всё своё внимание, как бы странно это ни было.::
+
+У меня есть то что надо. Собственно говоря, я думаю, ты уже знаком$(#/а) с этим оборудованием.<end>
+
+=>q19_original
+::Twitch releases a loud whistle. Almost instantly, you hear the sound of something skittering across the metal floor, something tiny. You have heard this sound before, you remember. A burrower spawn reveals itself and comes toward Twitch, proceeding to climb his leg with quick motions of its tiny legs, going all the way up to his shiny bald head, on top of which it finally rests.::<end>
+
+=>q19
+::Твич издаёт громкий свист. Почти мгновенно до вас доносится топот крошечных ножек по металлическому полу. Вам уже доводилось слышать этот звук прежде. Крошечный могильщик подбегает к Твичу и влезает по его ноге резвыми движениями крохотных ножек, наверх до самой блестящей лысины хозяина, на вершине которой, наконец, устраивается отдохнуть.::<end>
+
+=>a20_original
+Oh, that ugly thing again.<end>
+
+=>a20
+Ох, опять этот уродец.<end>
+
+=>q21_original
+Beauty is in the eye of the beholder. Whether you like it or not - the spawn is yours to command. As before, you are to release it in a ventilation shaft of your choosing; it will stay there and... do its job.
+
+Once the spawn is in place, return to me. I'll keep a close eye on every bit of information it sends back. Hmmm, I said, I'll keep a close eye on everything it sends back.<end>
+
+=>q21
+Красота в глазах смотрящего. Нравится он тебе или нет -- жучок в твоём распоряжении. Как и прежде, тебе нужно запустить его в нужную систему вентиляции; он будет оставаться там и... делать свою работу.
+
+Как только он будет на месте, возвращайся ко мне. Я рассмотрю каждый бит информации, который он отправит. Хм-м-м, я сказал, что внимательно рассмотрю все данные от него.<end>
+
+=>q22_original
+::The creature climbs down onto his left shoulder. He brings his mouth close to it, just like Abram did before, almost like speaking to it, but no sounds come from either of the two strange creatures. Twitch then extends his arm toward you and touches your shoulder, allowing the little one to walk across to you. Again, it finds home in a comfortable pocket in which it finally comes to a still.::<end>
+
+=>q22
+::Тварюшка спускается ему на левое плечо. Он подносит губы близко к нему, как Абрам прежде, будто говорит с ним, но никаких звуков ни от одного из этих двух странных существ не слышно. Твич протягивает руку и касается вашего плеча, позволяя малышу перейти на вас. Вновь он находит дом в уютном кармане, в котором наконец замирает.::<end>
+
+=>a23_original
+Yay, I love when creepy things crawl all over me.<end>
+
+=>a23
+Ура, люблю, когда жуткие твари ползают по мне.<end>
+
+=>q24_original
+You should be used to it by now. Take care of it, and see you later. I have to return to my monitors; I've probably missed so much inf-- ::He turns around, instantly gluing his eyes one of the monitors.::<end>
+
+=>q24
+Ты уже долж$(#ен/на) бы привыкнуть. Береги его, увидимся позже. Я должен вернуться к мониторам, я, наверное, столько всего пропус... ::Твич отворачивается, мгновенно впиваясь глазами в один из мониторов.::<end>
+
+=>a25_original
+Thanks Twitch, I'll be on my way now. See you later.<end>
+
+=>a25
+Спасибо Твич, я пойду. Увидимся позже.<end>
+
+=>q26_original
+Take care of it, and see you later. I have to return to my monitors; I've probably missed so much inf-- ::He turns around, instantly gluing his eyes one of the monitors.::<end>
+
+=>q26
+Ты уже долж$(#ен/на) бы привыкнуть. Береги его, увидимся позже. Я должен вернуться к мониторам, я, наверное, столько всего пропус... ::Твич отворачивается, мгновенно впиваясь глазами в один из мониторов.::<end>
+
+=>a27_original
+Don't you have something a bit more traditional? Eh?<end>
+
+=>a27
+Нет у тебя чего-нибудь более традиционного? А?<end>
+
+=>q28_original
+::Twitch laughs.:: I would be ashamed of myself if I'd have given you anything but the best we have to offer. Trust me, this bad boy is more than fitting for the task at hand. As before, you are to release it in a ventilation shaft of your choosing; it will stay there and... do its job.
+
+Once the spawn is in place, return to me. I'll keep a close eye on everything it sends back. Hmmm, I said, I'll keep a close eye on everything it sends back.<end>
+
+=>q28
+::Твич ржёт.:: Мне было бы стыдно перед собой, не дай я тебе лучшее из всего, что есть. Поверь мне, это плохиш более чем подходит для работы. Как и прежде, тебе нужно запустить его в нужную систему вентиляции; он будет оставаться там и... делать свою работу.
+
+Как только он будет на месте, возвращайся ко мне. Я рассмотрю каждый бит информации, который он отправит. Хм-м-м, я сказал, что внимательно рассмотрю все данные от него.<end>
+
+=>a29_original
+Ah, we meet again, my insectoid companion.<end>
+
+=>a29
+Ага, мы встретились снова, мой насекомый друг.<end>
+
+=>q30_original
+$(context.player.Name), you are already familiar with this little bad boy. As before, you are to release it in a ventilation shaft of your choosing; it will stay there and... do its job.
+
+Once the spawn is in place, return to me. I'll keep a close eye on everything it sends back. Hmmm, I said, I'll keep a close eye on everything it sends back.<end>
+
+=>q30
+$(context.player.Name), ты уже знаком$(#/а) с этим маленьким негодяем. Как и прежде, тебе нужно запустить его в нужную систему вентиляции; он будет оставаться там и... делать свою работу.
+
+Как только он будет на месте, возвращайся ко мне. Я рассмотрю каждый бит информации, который он отправит. Хм-м-м, я сказал, что внимательно рассмотрю все данные от него.<end>
+
+=>a31_original
+Nothing at the moment. I suppose I could ask you something else.<end>
+
+=>a31
+Ничего, пока. Можно узнать ещё кое-что?<end>
+
+=>q32_original
+Ask...<end>
+
+=>q32
+Спрашивай...<end>
+
+=>a33_original
+I'd like to return the spawn. I never got the chance to use it.<end>
+
+=>a33
+Я бы хотел$(#/а) вернуть личинку. У меня не было шанса выпустить её.<end>
+
+=>q34_original
+::Twitch stops what he was doing and focuses on the matter at hand. You let the spawn cross over to him, after which they again perform the "silent speaking" ritual. Finally, after their communication is over, the spawn climbs down and skitters away into darkness.::<end>
+
+=>q34
+::Твич отвлекается, уделяя внимание насущному вопросу. Вы позволяете личинке перелезть на него, после чего они снова выполняют ритуал «безмолвного разговора». Наконец, когда их общение заканчивается, личинка сбегает на пол и исчезает в темноте.::<end>
+
+=>q35_original
+He's a good boy, isn't he?  Hmmm? I said, isn't he?::He returns to one of his monitors.::<end>
+
+=>q35
+Он хороший мальчик, правда? Хм-м-м? Я говорю, правда? ::Он возвращается к одному из своих мониторов.::<end>
+
+=>a36_original
+I released the spawn.<end>
+
+=>a36
+Я выпустил$(#/а) личинку.<end>
+
+=>q37_original
+That sounded so... ominous. Release the spawn! ::Before you even get a chance to process what he said, he repeats it, as if expecting you to have answered it already.:: I said, release the spawn! Anyway, I am aware you released it, because I already had some information sent by it.<end>
+
+=>q37
+Это прозвучало так... зловеще. Выпустить личинку! ::Прежде чем вы успеваете понять то, что он сказал, он повторяет высказывание, будто ожидая, что вы ответите.:: Я сказал, выпустить личинку! В любом случае, я знаю, ты выпустил$(#/а) его, потому что у меня уже есть от него некоторые сведения.<end>
+
+=>a38_original
+Got something interesting?<end>
+
+=>a38
+Есть что интересное?<end>
+
+=>q39_original
+Well, so fa-- ::He focuses on one of the monitors for a brief moment.:: --r, the only thing of any interest was a discussion between a man referred to as Vlatko and his son, Maxim. It appears that their big-screen... ::He quickly glances at another monitor.:: big-screen monitor broke.<end>
+
+=>q39
+Ну, дав... ::Он отвлекается на один из мониторов на секунду.:: ай. Единственное, что может пригодиться -- дискуссия между мужчиной по имени Влатко и его сыном -- Максимом. Похоже, что их широкоэкранный... ::он быстро смотрит на другой монитор.:: широкоэкранный монитор сломался.<end>
+
+=>q40_original
+This prevents them from watching ArenaNow. They seem pretty... ::He focuses on one of the monitors.:: pretty distressed by this.<end>
+
+=>q40
+Из-за этого они не могут смотреть Арену. Они, вроде, очень... ::Он смотрит на один из мониторов.:: очень огорчены этим.<end>
+
+=>a41_original
+I see... Okay, call me if anything new happens. I'll see what I can do with this information.<end>
+
+=>a41
+Ясно... ладно, сообщи мне, если произойдёт что-нибудь ещё. Я посмотрю, что смогу сделать с этой информацией.<end>
+
+=>q42_original
+I will. ::He returns to one of his monitors.::<end>
+
+=>q42
+Ок. ::Он возвращается к одному из своих мониторов.::<end>
+
+=>a43_original
+Just tell me already.<end>
+
+=>a43
+Просто скажи уже.<end>
+
+=>q44_original
+Someone's impa-- ::He focuses on one of the monitors for a split second.:: --tient. Anyway, the only thing of interest so far was a discussion between a man referred to as Vlatko and his son, Maxim. It appears that their big-screen... ::He quickly glances at another monitor.:: big-screen monitor broke.<end>
+
+=>q44
+Кто-то нётер... ::Он отвлекается на один из мониторов на секунду.:: пелив. Короче, единственное, что может пригодиться -- дискуссия между мужчиной по имени Влатко и его сыном -- Максимом. Похоже, что их широкоэкранный... ::он быстро смотрит на другой монитор.:: широкоэкранный монитор сломался.<end>
+
+=>a45_original
+How and why did you join Oculus?<end>
+
+=>a45
+Как и почему ты попал в Окулус?<end>
+
+=>q46_original
+I was skilled enough to be... ::He looks at a monitor.:: What is he doing? Get out of there! ::He returns to you.:: I was skilled enough to be invited to meet Azif. Just like you, I started doing small-time jobs in Core City for people who later turned out to be... ::He looks at a monitor.:: Oculites? There?<end>
+
+=>q46
+Моих умений было достаточно, чтобы... ::Он смотрит на монитор.:: Что он делает? Уходи оттуда! ::Он возвращается к вам.:: Из-за моих умений, меня пригласили на встречу с Азифом. Совсем как ты, я начал с небольших заданий в Кор-Сити от людей, которые впоследствии оказались... ::Он смотрит на монитор.:: Окулиты? Там?<end>
+
+=>q47_original
+Anyway, I needed the money for my addiction. Those were hard times. I'm off the stuff now. Hmmm? I said, I'm off the stuff now... ::He looks at a monitor.::<end>
+
+=>q47
+Короче, мне нужны были деньги на моё пристрастие. Это были тяжёлые времена. Теперь я держусь. Хм-м-м? Я сказал, что держусь... ::Смотрит на монитор.::<end>
+
+=>a48_original
+Motion?<end>
+
+=>a48
+Подальше от Движения?<end>
+
+=>q49_original
+::He laughs.:: No, Motion is weak, insignificant compared to what I did, $(context.player.Name). Hmmm? Yes, weak compared to what I did!
+
+It's called SSDMT-7; don't ask me about the... ::He looks at a monitor.:: Gauntlet?<end>
+
+=>q49
+::Он смеётся.:: Нет, Движение это фигня, ничто по сравнению с тем, на чём я сидел, $(context.player.Name). Хм-м-м? Да, ничто по сравнению с тем, на чём я сидел!
+
+Это называется ССДМТ-7; не спрашивай меня про... ::Он смотрит на монитор.:: Смертельный забег?<end>
+
+=>q50_original
+Anyway, I was approached and told I had done well, that I had incredible perception and that Azif would like to talk to me. So, I casually strolled through the caves and that's... ::He looks at a monitor.:: That's huge...<end>
+
+=>q50
+Короче, ко мне просто подошли и сказали, что я хорошо справился, что у меня невероятное восприятие, и что Азиф хотел бы поговорить со мной. Вот так, я прогулялся по пещерам, и какая... ::Он смотрит на монитор.:: Какая огромная...<end>
+
+=>a51_original
+::Let him continue.::<end>
+
+=>a51
+::Не перебивать.::<end>
+
+=>a52_original
+What can you tell me about Oculus?<end>
+
+=>a52
+Что ты можешь рассказать про Окулус?<end>
+
+=>q53_original
+It's a high tech pyramid, built by... ::He focuses on a monitor.:: Free Drones? ::He turns back to you.:: I wasn't talking to you, sorry. Built by Godmen; that's how we call the mysterious beings we know nothing about.<end>
+
+=>q53
+Эту высокотехнологичную пирамиду построили... ::Он смотрит на монитор.:: Вольные шершни? ::Он поворачивается назад к вам.:: Я не с тобой разговаривал, извини. Её построили Боголюди, как мы их называем -- загадочные существа, о которых нам ничего не известно.<end>
+
+=>q54_original
+It - the Oculus - is incredibly advanced; it is more sophisticated than anything even the most powerful people in Underrail possess. I adore some of the toys I have available here. I'm talking about surveillance tech, of course. Nothing in existence beats Oculus' arsenal of high-tech gadgetry. ::He laughs for a split second then abruptly stops.::<end>
+
+=>q54
+Он -- Окулус -- невероятно продвинут; он более сложен, чем всё, чем обладают самые могущественные люди в Подземке. Я обожаю некоторые здешние игрушки. Я говорю о технологиях наблюдения, конечно. Ничто из существующего не сравнится с арсеналом высокотехнологичных устройств Окулуса. ::Он смеётся долю секунды, затем резко останавливает.::<end>
+
+=>a55_original
+Who is that six-fingered cyborg?<end>
+
+=>a55
+Кто тот шестипалый киборг?<end>
+
+=>q56_original
+A client. Do not talk to him; he doesn't want to be talked to. Hmm? I said do not talk to him.<end>
+
+=>q56
+Клиент. Не разговаривай с ним, он не любитель болтать. Хм-м? Я сказал -- не говори с ним.<end>
+
+=>q57_original
+::He leans toward one of the monitors.:: Interesting, he was alive a few minutes ago...<end>
+
+=>q57
+::Он склоняется к одному из мониторов.:: Интересно, он был жив несколько минут назад...<end>
+
+=>a58_original
+What can you tell me about those robed oculites? <end>
+
+=>a58
+Что можешь рассказать о тех окулитах в робах?<end>
+
+=>q59_original
+::He answers you while still watching one of the monitors.:: Colloquially known as Whisperers, the deadly psi-warriors belonging to a clan called Khazum Morakht guard Oculus vigilantly. All Khazum Morakht members are highly intelligent individuals who join the clan at a young age and receive training in all major psi disciplines. Only upon mastering all of those can they swear an oath before being allowed to perform their duty.<end>
+
+=>q59
+::Он отвечает вам, не отрываясь от одного из мониторов.:: В просторечии известные как Шепчущие, смертоносные пси-воины, принадлежащие к клану Хазум Морахт, бдительные стражи Окулуса. Все члены Хазум -- высокоинтеллектуальные личности, вступившие в клан в юном возрасте и прошедшие подготовку во всех основных пси-дисциплинах. После освоения всех их, они должны дать клятву, прежде чем будут допущены к исполнению своего долга.<end>
+
+=>q60_original
+Once they swear to protect someone or something they will do so until death. Most often, it's the death of their opponents - rare are the cases where the members of Khazum Morakht were killed on duty. There is a common misconception that they are mute, while in fact they are not; it is by their free will that they chose not to speak in order to-- ::He stops abruptly.::<end>
+
+=>q60
+Однажды поклявшись защищать кого-то или что-то, они будут делать это до самой смерти. Чаще всего -- смерти противников -- лишь в редких случаях члены Хазум Морахт гибнут на посту. Существует распространённое заблуждение, что они немы, в действительности это не так; по собственной воле, они предпочитают не говорить, чтобы...:: Он резко осекается.::<end>
+
+=>q61_original
+That is all I can tell you at the moment. Hmmm? Hmmm? I said, that's all for now. ::He focuses on one of the monitors.::<end>
+
+=>q61
+Это всё, что я могу сказать на данный момент. Хм-м-м? Хм-м-м? Я сказал, что на сегодня всё. ::Он не сводит глаз с одного из мониторов.::<end>
+
+=>a62_original
+Can you watch the Arena on one of these monitors?<end>
+
+=>a62
+А ты можешь смотреть Арену на одном из этих мониторов?<end>
+
+=>q63_original
+::Twitch glances at you, then returns to his monitors.:: Of course I can, $(context.player.Name). I lived in Core City before I came here; I was so addicted to watching... ::Turns at a different monitor.:: to watching the Arena. A bloodthirsty maniac! Yeah, that's what I was...<end>
+
+=>q63
+::Твич бросает взгляд на вас, потом возвращается к мониторам:: Конечно, могу, $(context.player.Name). Я жил в Кор-Сити, прежде чем попал сюда, и так пристрастился... ::Поворачивается к другому монитору.:: к Арене. Кровожадный маньяк! Да, вот каким я был...<end>
+
+=>q64_original
+Let me play it on that monitor. ::One press of a button later.:: There, now we... Oh, joy - it is Mark the Impaler! How typical of him: He's impaling a man.<end>
+
+=>q64
+Я выведу на тот монитор. ::Он давит на кнопку.:: Так, что у нас... О, гляди -- это Марк Протыкатель! Как на него похоже: он кого-то протыкает.<end>
+
+=>q65_original
+
+Before you ask, yes, I've seen your fight with Carnifex: You dominated. ::He focuses on one of his monitors.::<end>
+
+=>q65
+Прежде чем ты спросишь -- да, я видел твой бой с Карнифексом: ты победил$(#/а). ::Он сосредоточен на одном из мониторов.::<end>
+
+=>q66_original
+
+::He focuses on one of his monitors.::<end>
+
+=>q66
+::Его взгляд сосредоточен на одном из мониторов.::<end>
+
+=>a67_original
+Can I ask you about some of the other oculites?<end>
+
+=>a67
+Можешь рассказать мне о других окулитах?<end>
+
+=>q68_original
+::He begins turning his head toward you, stopping midway, eyes still stuck to the monitor.:: No. If you wish to know more about someone, ask them yourself.<end>
+
+=>q68
+::Он наклоняет голову в вашу сторону, но не до конца, так, что его глаза всё ещё прикованы к монитору.:: Нет. Если хочешь узнать о ком-то, у них и спрашивай.<end>
+
+=>q69_original
+::His head returns to its original position.::<end>
+
+=>q69
+::Его голова возвращается в исходное положение.::<end>
+
+=>a70_original
+Goodbye, Twitch.<end>
+
+=>a70
+Пока, Твич.<end>
+
+=>q71_original
+::Looks at you.:: Good to... ::Then at a monitor, then you again.:: see you again... ::Then at a monitor, then you again.:: $(context.player.Name)!<end>
+
+=>q71
+::Смотрит на вас.:: Приятно... ::Отвлекается на монитор, потом снова обращается к вам.:: видеть тебя снова... ::Смотрит на монитор, потом снова на вас.:: $(context.player.Name)!<end>
+

@@ -1,0 +1,510 @@
+﻿=>q1_original
+Damn it, so it was all for nothing.<end>
+
+=>q1
+Проклятье, так это всё было зря.<end>
+
+=>q2_original
+Well, at least now I know you are someone who can get the job done.
+
+Here's your payment.<end>
+
+=>q2
+Ну, по крайней мере, теперь я знаю, что тебе можно доверить работу.
+
+Вот оплата.<end>
+
+=>a3_original
+Wait, I wanted to investigate that...<end>
+
+=>a3
+Подожди, я хочу посмотреть, что там...<end>
+
+=>q4_original
+Are you insane? I'm not having that door open for one more second. Do you know what those creatures can do?
+
+Burrowers are not to be messed with unless absolutely necessary.<end>
+
+=>q4
+У тебя крыша поехала? Я больше не позволю открыть эту дверь ни на секунду. Ты знаешь, на что способны эти твари?
+
+С могильщиками лучше не связываться без крайней необходимости.<end>
+
+=>a5_original
+::[Persuade]:: Come on, it's a scavenging opportunity. Who knows what I might find?<end>
+
+=>a5
+::[Убеждение]:: Да брось, это отличная возможность. Кто знает, что я могу найти?<end>
+
+=>q6_original
+Alright. It's your worthless hide. But if tomorrow I wake up in a station full of freaking burrower spawns, it's you I'm going to kill first. ::He hands you the key card back.::<end>
+
+=>q6
+Ладно, это твоя жалкая шкура на кону. Но если завтра я проснусь на станции, полной долбаных могильщиков, то первым делом я убью *тебя*. ::Он возвращает вам ключ-карту.::<end>
+
+=>q7_original
+Let's pack it up, boys.
+
+Catch you later, $(context.player.Name).<end>
+
+=>q7
+Давайте, собирайтесь, парни.
+
+Ещё увидимся, $(context.player.Name).<end>
+
+=>a8_original
+::Continue::<end>
+
+=>a8
+::Продолжить::<end>
+
+=>q9_original
+It's not a scavenging opportunity, it's a death wish. And if it was just your hide that you were risking, I wouldn't give a damn, but I can't have those critters getting out and about. <end>
+
+=>q9
+Это не отличная возможность, а покушение на самоубийство. Если бы ты рисковал$(#/а) только своей шкурой, мне было бы плевать, но я не хочу, чтобы эти твари выбрались оттуда и расползлись.<end>
+
+=>q10_original
+You are not getting this key card. Now get out of here!<end>
+
+=>q10
+Ты не получишь эту карту. А теперь проваливай!<end>
+
+=>q11_original
+Let's pack it up, boys.<end>
+
+=>q11
+Собираемся, парни.<end>
+
+=>a12_original
+::Continue::<end>
+
+=>a12
+::Продолжить::<end>
+
+=>a13_original
+Alright, fine.<end>
+
+=>a13
+Что ж, ладно.<end>
+
+=>q14_original
+Don't be in such a rush to get yourself killed. There'll be plenty of opportunities.<end>
+
+=>q14
+Не торопись так убиться. У тебя будет ещё много возможностей.<end>
+
+=>a15_original
+Thanks.<end>
+
+=>a15
+Спасибо.<end>
+
+=>q16_original
+Yeah?<end>
+
+=>q16
+Да?<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+I've found the key card that should open that vault.<end>
+
+=>a18
+Я наш$(#ёл/ла) ключ-карту, которая должна открыть это хранилище.<end>
+
+=>q19_original
+Good work. Let's give it a try.<end>
+
+=>q19
+Хорошая работа. Давай попробуем.<end>
+
+=>a20_original
+::Continue::<end>
+
+=>a20
+::Продолжить::<end>
+
+=>a21_original
+There are people on the lower levels of the compound.<end>
+
+=>a21
+Там люди на нижних уровнях комплекса.<end>
+
+=>q22_original
+So?<end>
+
+=>q22
+И?<end>
+
+=>a23_original
+Some raiders held them hostage, but I helped them.<end>
+
+=>a23
+Какие-то рейдеры держали их в плену, но я их спас$(#/ла).<end>
+
+=>q24_original
+Well done. Now, you got the keycard I asked you to find?<end>
+
+=>q24
+Отлично. Так, ты наш$(#ёл/ла) ключ-карту, как я просил?<end>
+
+=>a25_original
+They are being held hostage by some raiders. We have to help them.<end>
+
+=>a25
+Они находятся в плену у каких-то рейдеров. Мы должны им помочь.<end>
+
+=>q26_original
+Tough.<end>
+
+=>q26
+Не повезло.<end>
+
+=>a27_original
+You aren't going to help them?<end>
+
+=>a27
+Ты не собираешься помочь им?<end>
+
+=>q28_original
+Why would I? That's their problem, not ours. Listen, if you want to risk your neck for some random nobodies, go ahead. I want the keycard to open this vault. End of story.<end>
+
+=>q28
+Зачем это мне? Это их проблема, не наша. Слушай, если ты хочешь рискнуть своей шеей ради нескольких случайных ничтожеств, -- вперёд. Мне нужна ключ-карта, чтобы открыть это хранилище. Конец истории.<end>
+
+=>a29_original
+I just wanted to inform you.<end>
+
+=>a29
+Я просто хотел$(#/а) держать тебя в курсе.<end>
+
+=>q30_original
+Good, but I have no interest in who lives in here. All I want is for you to get back to searching for that keycard I asked you.<end>
+
+=>q30
+Хорошо, но меня не интересует, кто здесь живёт. Всё, чего я хочу, это чтобы ты наш$(#ёл/ла) ключ-карту, как я просил.<end>
+
+=>a31_original
+Never mind.<end>
+
+=>a31
+Неважно.<end>
+
+=>q32_original
+Enough of that, now. We have work to do.<end>
+
+=>q32
+Достаточно об этом. У нас много работы.<end>
+
+=>a33_original
+I didn't find anything.<end>
+
+=>a33
+Я ничего не наш$(#ёл/ла).<end>
+
+=>q34_original
+Well keep looking then.<end>
+
+=>q34
+Ну, тогда продолжай искать.<end>
+
+=>a35_original
+::[Persuade]:: Look, I've gone all the way down and found nothing. There is no way to open that vault.<end>
+
+=>a35
+::[Убеждение]:: Слушай, я спустил$(#ся/ась) до самого низа и ничего не наш$(#ёл/ла). Нет никакого способа открыть это хранилище.<end>
+
+=>q36_original
+Hrm... still, it was worth a shot. Let's pack it up, boys.<end>
+
+=>q36
+Хм... что ж, попытка не пытка. Давайте собираться, парни.<end>
+
+=>a37_original
+::Continue::<end>
+
+=>a37
+::Продолжить::<end>
+
+=>q38_original
+You just haven't been looking hard enough. Now go back out there and don't come back until you find something.<end>
+
+=>q38
+Ты просто искал$(#/а) недостаточно усердно. Иди назад и не возвращайся, пока не найдёшь что-нибудь.<end>
+
+=>a39_original
+Alright.<end>
+
+=>a39
+Ладно.<end>
+
+=>a40_original
+What is this place?<end>
+
+=>a40
+Что это за место?<end>
+
+=>q41_original
+This is the GMS compound. Used to belong to our old *friends* from Omega. They abandoned it at some point. But not before sealing it shut. The bastards.<end>
+
+=>q41
+Это комплекс GMS. Раньше принадлежал нашим старым *друзьям* из Омеги. В определённый момент они покинули его. Но не забыли закрыть всё на замок. Ублюдки.<end>
+
+=>q42_original
+We tried to break in a number of times, but it was no use. Now the earthquake has done the work for us.<end>
+
+=>q42
+Мы уже пытались попасть внутрь несколько раз, но без толку. Теперь землетрясение сделало всю работу за нас.<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+What does GMS stand for?<end>
+
+=>a44
+Что значит GMS?<end>
+
+=>q45_original
+I have no idea. But I doubt it was vital for their operations, as it was one of the first buildings they abandoned when their manpower started dwindling.<end>
+
+=>q45
+Понятия не имею. Но я сомневаюсь, что тут было что-то жизненно для них важное, так как это было одно из первых зданий, которые они бросили, когда их силы начали истощаться.<end>
+
+=>a46_original
+Who are the Omega?<end>
+
+=>a46
+Что это за Омега?<end>
+
+=>q47_original
+They were a station we competed with for the control of the South Gate area.<end>
+
+=>q47
+Это была станция, с которой мы боролись за контроль над районом Саут-Гейт.<end>
+
+=>a48_original
+So what happened to Omega? I'm guessing you won.<end>
+
+=>a48
+А что случилось с Омегой? Предположу, что вы победили.<end>
+
+=>q49_original
+Half of them are dead now and others are scattered over the rest of the Underrail. So, yeah, we won.<end>
+
+=>q49
+Половина из них мертвы, а другие разбросаны по всей Подземке. Так что да, мы победили.<end>
+
+=>a50_original
+You killed half of them?! Why?<end>
+
+=>a50
+Вы убили половину из них?! Почему?<end>
+
+=>q51_original
+Hey, I don't have time to teach you bloody history. <end>
+
+=>q51
+Эй, у меня нет времени учить тебя долбаной истории.<end>
+
+=>q52_original
+Life is tough, especially here in the south. We did what had to be done.<end>
+
+=>q52
+Жизнь жестока, особенно здесь на юге. Мы сделали то, что должно.<end>
+
+=>a53_original
+Was there no way to coexist with them?<end>
+
+=>a53
+Не было способа жить с ними в мире?<end>
+
+=>a54_original
+I guess it was you or them.<end>
+
+=>a54
+Что ж, или вы или они.<end>
+
+=>q55_original
+Exactly. <end>
+
+=>q55
+Точно.<end>
+
+=>a56_original
+I see.<end>
+
+=>a56
+Ясно.<end>
+
+=>a57_original
+Right. So back to business.<end>
+
+=>a57
+М-да. Итак, вернёмся к делу.<end>
+
+=>q58_original
+You ready?<end>
+
+=>q58
+Ты готов$(#/а)?<end>
+
+=>a59_original
+What's going on here exactly?<end>
+
+=>a59
+Что здесь происходит?<end>
+
+=>q60_original
+We're trying to break into that vault over there, but it's not going too well.<end>
+
+=>q60
+Мы пытаемся вломиться в это вот хранилище, но дело идёт не слишком.<end>
+
+=>a61_original
+What's so important about that vault?<end>
+
+=>a61
+Что такого важного в этом хранилище?<end>
+
+=>q62_original
+Well, according to an encrypted message we intercepted back during our war with the Omega, there's reason to believe they sealed off something of value within this vault.<end>
+
+=>q62
+Ну, согласно зашифрованному сообщению, что мы перехватили ещё во время нашей войны с Омегой, есть причины полагать, что они запечатали что-то ценное в этом хранилище.<end>
+
+=>a63_original
+::[Intelligence]:: Wait a second, I thought you said this place wasn't critical for them.<end>
+
+=>a63
+::[Интеллект]:: Погоди-ка, ты же вроде сказал, что это место было для них некритично.<end>
+
+=>q64_original
+That doesn't mean it's not valuable. Dying man has no use for gold, but those who remain do.<end>
+
+=>q64
+Это не значит, что тут нет ничего ценного. Мертвецам золото не нужно, в отличие от живых.<end>
+
+=>q65_original
+Anyway, I think they meant to reclaim it once the conflict was over. They lost, though, and it wasn't safe for them to be around here anymore. And maybe we killed the only man who knew how to open this blasted door.<end>
+
+=>q65
+В любом случае, я думаю, они собирались вернуть его себе после того, как война закончится. Но они проиграли, и им было небезопасно оставаться здесь дальше. И, может быть, мы убили единственного человека, который знал, как открыть эту сраную дверь.<end>
+
+=>q66_original
+In any case, we need to get to the other side of that door.<end>
+
+=>q66
+В любом случае, нам нужно попасть внутрь.<end>
+
+=>a67_original
+Right, so how do we open it?<end>
+
+=>a67
+Хорошо, и как мы его откроем?<end>
+
+=>q68_original
+I need you to find the way to open that door. There must be a security card somewhere which unlocks it. Your job is to find it.<end>
+
+=>q68
+Мне нужно, чтобы ты наш$(#ёл/ла) способ открыть эту дверь. Где-то должна быть карточка, которая разблокирует замок. Твоя задача: найти её.<end>
+
+=>q69_original
+You might need to get to the levels below. The elevator is out of commission because the place is running on auxiliary power, so be resourceful.<end>
+
+=>q69
+Возможно, тебе придётся спуститься на нижние уровни. Лифт не работает, потому что здание функционирует на резервном питании, так что прояви находчивость.<end>
+
+=>a70_original
+Alright, I'm off.<end>
+
+=>a70
+Ладно, я пош$(#ёл/ла).<end>
+
+=>a71_original
+I'm to go down there alone? What are the rest of you going to do?<end>
+
+=>a71
+Я пойду туда од$(#ин/на)? Что остальные будут делать?<end>
+
+=>q72_original
+We'll continue trying to open the door manually. <end>
+
+=>q72
+Мы будем пытаться открыть двери вручную.<end>
+
+=>q73_original
+What? Are you scared of a few rathounds? Go get the bloody door opened, you ninny.<end>
+
+=>q73
+Что? Ты испугал$(#ся/ась) пары крысоволков? Иди и найди способ открыть эту драную дверь, нюня.<end>
+
+=>a74_original
+Forget it. I'm not risking my neck for this.<end>
+
+=>a74
+Забудь. Я не собираюсь рисковать своей шеей ради этого.<end>
+
+=>a75_original
+I see.<end>
+
+=>a75
+Ясно.<end>
+
+=>q76_original
+Good.<end>
+
+=>q76
+Хорошо.<end>
+
+=>a77_original
+So how can I help?<end>
+
+=>a77
+И как я могу помочь?<end>
+
+=>a78_original
+I see. Let me ask you something else.<end>
+
+=>a78
+Ясно. Позволь мне спросить кое-что ещё.<end>
+
+=>q79_original
+Yeah?<end>
+
+=>q79
+Да?<end>
+
+=>a80_original
+What do you need me to do?<end>
+
+=>a80
+Что ты хочешь, чтобы я сделал$(#/а)?<end>
+
+=>a81_original
+Wait. I got to take care of something first.<end>
+
+=>a81
+Подожди. Мне сперва надо кое о чём позаботиться.<end>
+
+=>q82_original
+Sure took your time in getting here.<end>
+
+=>q82
+Ты явно не спешил$(#/а) добраться сюда.<end>
+
+=>q83_original
+You're not supposed to be in here. Go snooping somewhere else.<end>
+
+=>q83
+Ты не долж$(#ен/на) быть здесь. Иди порыскай где-нибудь ещё.<end>
+

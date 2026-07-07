@@ -1,0 +1,244 @@
+﻿=>q1_original
+Eidein's Library will not fall into their hands!<end>
+
+=>q1
+Библиотека Эйдейна не попадёт в их лапы!<end>
+
+=>q2_original
+::The woman, upon noticing you approach, puts her hand on her chest and salutes you. Her voice is quiet, almost a whisper, yet it sounds perfectly clear and understandable thanks to the almost unreal silence within the library.::
+
+Tchort is evolution. Welcome to Eidein's Library, $(#brother/sister). I am Curator Nenna. Can I help you with anything?<end>
+
+=>q2
+::Женщина, заметив ваше приближение, кладёт руку себе на грудь и выполняет чортистское приветствие. Её тихий голос -- почти шёпот, звучит вполне ясно и понятно, благодаря почти противоестественной тишине в библиотеке.::
+
+Чорт -- это эволюция. Добро пожаловать в Библиотеку Эйдейна, $(#брат/сестра). Я куратор Ненна. Могу я вам чем-нибудь помочь?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+::[Persuade]:: If I could be trusted with the Reaching Man, which allowed me to become a Tchortist despite the Institute not accepting new members, then how can I not be trusted to download a few investigative papers to study in private?<end>
+
+=>a4
+::[Убеждение]:: Если мне можно доверить Достигающего, который позволил мне стать Чортистом, несмотря на то, что Институт не принимает новых членов, то как мне не доверить загрузку нескольких следственных документов для изучения в частном порядке?<end>
+
+=>q5_original
+The Reaching Man is... While you truly are well-evolved, novitiate... Don't misunderstand me, please, but the propagator rights are a completely, completely different matter...<end>
+
+=>q5
+Достигающий... На данном этапе ты действительно хорошо развит, послушник... Не пойми меня неправильно, пожалуйста, но права распространителя - это совсем, совсем другое дело...<end>
+
+=>q6_original
+::She stops. The library is too silent to make the wait comfortable.::
+
+I'll grant you propagator rights. After giving it a thought, I'd rather not retard your progress.<end>
+
+=>q6
+::Она останавливается. В библиотеке слишком тихо, чтобы ожидание было комфортным.::
+
+Я предоставлю вам права распространителя. В следствии размышлений, я бы предпочла не замедлять ваше развитие.<end>
+
+=>q7_original
+Do be discreet, please. ::She hands you a library propagator card.::
+
+And don't share copies with anyone outside the Institute unless instructed otherwise.<end>
+
+=>q7
+Будьте осмотрительны, пожалуйста. ::Она вручает вам библиотечную карточку пропагандиста.::
+
+И не передавайте копии никому за пределами Института, если нет иных указаний.<end>
+
+=>q8_original
+You truly are well-evolved, novitiate - don't misunderstand me, please - but propagator rights are a completely separate matter.<end>
+
+=>q8
+Ты действительно хорошо развит, послушник - пойми меня правильно, пожалуйста, - но права распространителя - это совсем другое дело.<end>
+
+=>q9_original
+My answer is still going to be no.<end>
+
+=>q9
+Мой ответ по-прежнему "нет".<end>
+
+=>a10_original
+Certain files require curator or propagator rights so that they can be transferred to a memory stick. Any way for me to obtain such rights?<end>
+
+=>a10
+Для некоторых файлов требуются права куратора или распространителя, чтобы их можно было перенести на карту памяти. Есть ли способ получить такие права?<end>
+
+=>q11_original
+Only curators can have curator rights, and only notability and certain members of Propagation can have the privilege of having a propagator card entrusted to them.<end>
+
+=>q11
+Только кураторы могут иметь права куратора, и только заслуженные и убеждённые члены Распространения могут получить привилегию иметь доверенную им карту распространителя.<end>
+
+=>a12_original
+Why Propagation?<end>
+
+=>a12
+Почему Распространение?<end>
+
+=>q13_original
+Most members don't need to download files - they can read everything here, in the library; it minimizes risks of valuable information falling into undesirable hands as well. But they, the propagators, they are the ones who propagate Tchortism to the world - they require physical media to do so.<end>
+
+=>q13
+Большинству членов не нужно скачивать файлы - они могут прочитать всё здесь, в библиотеке; это также минимизирует риски попадания ценной информации в нежелательные руки. Но, пропагандистам, которые распространяет Чортизм в мире - им для этого нужны физические носители.<end>
+
+=>a14_original
+Is there any way for me to gain this privilege, sister?<end>
+
+=>a14
+Есть ли способ получить эту привилегию для меня, сестра?<end>
+
+=>q15_original
+I'm afraid not, $(#brother/sister). It takes a long time even for members of Propagation to obtain their propagator cards.
+
+How can I just hand one over to you?<end>
+
+=>q15
+Боюсь, что нет, $(#брат/сестра). Даже членам Распространения требуется много времени, чтобы получить свои карты распространителя.
+
+Так могу ли я просто передать тебе одну?<end>
+
+=>a16_original
+What can you tell me about Eidein's Library?<end>
+
+=>a16
+Что вы можете рассказать мне о Библиотеке Эйдейна?<end>
+
+=>q17_original
+Eidein's Library is the major repository of information for the Institute of Tchort. The library's database offers over six million pages of textual content ranging from both contemporary and historical works in different scientific fields, as well as of preserved works of literary arts, journals, documents and other. Most of it is in digital form, accessible to all members at any time, but there is also a significant number of physical copies which, due to their rarity as well as the fragility of the medium, require special permissions.<end>
+
+=>q17
+Библиотека Эйдейна является основным хранилищем информации Института Чорта. База данных Библиотеки содержит более шести миллионов страниц текстовых материалов -- как современных, так и исторических трудов в различных научных областях, а также хранит произведения литературного искусства, журналы, документы и другое. Большая их часть хранится в цифровой форме и доступна для всех членов Института в любое время, но есть также значительное количество физических копий, которые, вследствие редкости, а также хрупкости, требуют специального разрешения.<end>
+
+=>q18_original
+It goes without saying that Eidein's Library contains the single most important, most monumental document in the history of Tchortism - the Original Report, written by none other than Eidein himself. Being a novitiate, you are advised to start with the Original Report before moving on to more current Tchort-related works.<end>
+
+=>q18
+Само собой разумеется, что библиотека Эйдейна содержит наиболее важный, монументальный документ в истории чортизма -- Первичный Отчёт, написанный никем иным, как самим Эйдейном. Как послушнику, вам рекомендуется начать с Первичного Отчёта, прежде чем перейти к более современным работам о Чорте.<end>
+
+=>a19_original
+What exactly is the Original Report?<end>
+
+=>a19
+Что такое Первичный Отчёт?<end>
+
+=>q20_original
+Ah, the Original Report was written a hundred years ago, when Eidein first discovered Tchort in the dark depths of the Deep Caverns. This short text describes the event itself, Eiden's original discoveries and thoughts. Essentially, it narrates the genesis of Tchortism.<end>
+
+=>q20
+Ах, Первичный Отчёт был написан сто лет назад, когда Эйдейн впервые обнаружил Чорта во мраке Глубоких пещер. Этот короткий текст описывает само событие, первоначальные находки и мысли Эйдейна. По сути, он повествует о происхождении чортизма.<end>
+
+=>q21_original
+If you haven't read it still, $(#brother/sister), do so as soon as possible. I - and I am being completely honest here - have read it an uncountable amount of times, and I am most certainly not the only one to have done so.<end>
+
+=>q21
+Если вы ещё не читали его, $(#брат/сестра), сделайте это как можно скорее. Я совершенно честно заявляю, что прочитала его бесчисленное множество раз, и я определённо не одна такая.<end>
+
+=>a22_original
+Thank you, I had other questions.<end>
+
+=>a22
+Спасибо, у меня были другие вопросы.<end>
+
+=>q23_original
+::She nods.::<end>
+
+=>q23
+::Она кивает.::<end>
+
+=>a24_original
+Can you tell me something about the library's history?<end>
+
+=>a24
+Можете рассказать мне что-нибудь об истории библиотеки?<end>
+
+=>q25_original
+I can give you some brief information, yes. This room we are currently in was a library from the very day the building was constructed. While it was much smaller... I should say humbler with respect to available information, it was nonetheless just as integral to the Institute of Tchort as it is today, embracing all those who seek knowledge with wide open arms.<end>
+
+=>q25
+Я могу дать вам краткую справку, да. В этом самом зале Библиотека размещается с самого дня постройки здания. Хотя, раньше она была гораздо меньше... или, лучше сказать, скромнее в отношении имеющейся информации, но, тем не менее, она всегда являлась неотъемлемой частью Института Чорта -- как и сегодня, открывая двери для всех тех, кто стремится к знанию.<end>
+
+=>q26_original
+Sadly, the Great Earthquake turned it - as well as the whole West Wing - into rubble back in year twenty-four. Most physical copies the library contained were destroyed, with only a few salvaged copies retrieved from the rubble. What a waste. Of course, Eidein knew that the library *had* to be restored to its previous glory, so according to his will the library was rebuilt within a relatively short period of time. Institute members named the library in his honor, and it remained so until this day.<end>
+
+=>q26
+К сожалению, Большое землетрясение в году двадцать четвёртом превратило её, а также и всё западное крыло, в груду развалин. Большинство физических носителей были уничтожены, и лишь немногие копии удалось извлечь из-под завалов. Какая утрата. Конечно, Эйдейн знал, что библиотека *должна* быть восстановлена во всём своём величии, так что, по его воле, её отстроили в относительно короткий срок. Сотрудники института назвали библиотеку в его честь, такой она и остаётся по сей день.<end>
+
+=>q27_original
+I hope that is the answer you sought. Was there anything else you wished to ask me?<end>
+
+=>q27
+Я надеюсь, что этот ответ вы искали. Хотите спросить что-нибудь ещё?<end>
+
+=>a28_original
+I am looking for a rassophore called Nevil. Have you seen him recently?<end>
+
+=>a28
+Я разыскиваю рясофора по имени Невил. Вы не видели его в последнее время?<end>
+
+=>q29_original
+No, I'm afraid not. He hasn't been here since... hmmm, nearly a month, frankly.<end>
+
+=>q29
+Нет, боюсь, что нет. Он не был здесь с тех пор... хм-м, почти месяц уже, честно говоря.<end>
+
+=>q30_original
+Yes, I believe it was a month. Sure of it. By the way, what do you mean by "looking for him"? What happened, $(#brother/sister)?<end>
+
+=>q30
+Да, я думаю, что он не был здесь уже как месяц. Уверена в этом. Кстати, вы сказали что «разыскиваете» его? Что-то случилось, $(#брат/сестра)?<end>
+
+=>a31_original
+He disappeared.<end>
+
+=>a31
+Он пропал.<end>
+
+=>q32_original
+Oh... I'm sorry I couldn't be of more help. I hope everything turns out well, $(#brother/sister). Best of luck.<end>
+
+=>q32
+Ох... мне жаль, что я ничем не могу помочь. Надеюсь, с ним всё будет хорошо, $(#брат/сестра). Удачи.<end>
+
+=>a33_original
+Never mind, that is all I needed to know. Goodbye.<end>
+
+=>a33
+Нет, это всё, что мне нужно было знать. До свидания.<end>
+
+=>q34_original
+Tchort guide you, $(#brother/sister). Read well.<end>
+
+=>q34
+Чорт направит вас, $(#брат/сестра). Читайте больше.<end>
+
+=>a35_original
+Tchort guide you, Nenna.<end>
+
+=>a35
+Чорт направит вас, Ненна.<end>
+
+=>q36_original
+And you too, $(#brother/sister). Read well.<end>
+
+=>q36
+И вас тоже, $(#брат/сестра). Читайте больше.<end>
+
+=>a37_original
+Goodbye, Nenna.<end>
+
+=>a37
+До свидания, Ненна.<end>
+
+=>q38_original
+Need a recommendation, $(#brother/sister)?<end>
+
+=>q38
+Нужна рекомендация, $(#брат/сестра)?<end>
+

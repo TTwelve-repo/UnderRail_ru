@@ -1,0 +1,277 @@
+﻿=>q1_original
+::LEMCO LMIE-1
+
+Note: This device has been unlocked by Senior Security Officer Jordan Grayling and does not require authorization in order to write data.
+
+Detecting active RFID microchip implants...
+
+::<end>
+
+=>q1
+::ЛЕМКО LMIE-1
+
+Примечание: Это устройство разблокировано старшим офицером службы безопасности Джорданом Грейлингом и не требует авторизации для записи данных.
+
+Обнаружение активных RFID микрочипов-имплантатов...
+
+::<end>
+
+=>q2_original
+::2 active microchip implants ::<end>
+
+=>q2
+::Обнаружено 2 активных микрочипа-имплантата::<end>
+
+=>q3_original
+::detected.::<end>
+
+=>q3
+::.::<end>
+
+=>a4_original
+::Access RFID041317-674F::<end>
+
+=>a4
+::Доступ к RFID041317-674F::<end>
+
+=>q5_original
+::RFID041317-674F::<end>
+
+=>q5
+::RFID041317-674F::<end>
+
+=>a6_original
+::Read personal information::<end>
+
+=>a6
+::Личная информация::<end>
+
+=>q7_original
+::Personal information: 
+
+PID: 041317-674F
+Full name: Phil Norman Bridges
+Birth date: LE 04.13.91
+Age: N/A (more than 250 years)
+Address: F-2-35
+Contact: phil.n.bridges
+Occupation: E-E3 (electrical engineer)
+Marital status: Married (to Astrid Kristian Jacobsen)::<end>
+
+=>q7
+::Личная информация: 
+
+ИН: 041317-674F
+ФИО: Фил Норман Бриджес
+Дата рождения: л. э. 04.13.91
+Возраст: нет (больше 250 лет)
+Адрес: F-2-35
+Контакты: фил.н.бриджес
+Род занятий: ИЭ3 (инженер-электрик)
+Семейное положение: женат (на Астрид Кристиан Якобсен)::<end>
+
+=>q8_original
+::Security clearance level: C-4::<end>
+
+=>q8
+::Уровень допуска: С-4::<end>
+
+=>a9_original
+::Back::<end>
+
+=>a9
+::Назад::<end>
+
+=>q10_original
+::Security clearance level: C-2::<end>
+
+=>q10
+::Уровень допуска: С-2::<end>
+
+=>a11_original
+::Read medical information::<end>
+
+=>a11
+::Медицинская информация::<end>
+
+=>q12_original
+::Height: 192cm
+Weight: 87kg 
+::<end>
+
+=>q12
+::Рост: 192см
+Вес: 87кг
+::<end>
+
+=>q13_original
+::Blood pressure: 120/80
+::<end>
+
+=>q13
+::Кровяное давление: 120/80
+::<end>
+
+=>q14_original
+::Blood type: AB-
+Known allergies: none::<end>
+
+=>q14
+::Группа крови: IV-
+Известные аллергии: нет::<end>
+
+=>a15_original
+::Full medical record::<end>
+
+=>a15
+::Полная медицинская карта::<end>
+
+=>q16_original
+::Error 01: Unable to open file RFID041317-674F_Medical_Record.mci::<end>
+
+=>q16
+::Ошибка 01: Невозможно открыть файл RFID041317-674F_Медецинская_Карта.mci::<end>
+
+=>q17_original
+::Blood pressure: Unavailable (last recorded: 311/284)
+::<end>
+
+=>q17
+::Кровяное давление: Недоступно (последняя запись: 311/284)
+::<end>
+
+=>a18_original
+::Implant information::<end>
+
+=>a18
+::Информация об имплантате::<end>
+
+=>q19_original
+::Implant ID: RFID041317-674F
+Manufacturer: LEMCO
+Model name: L-RFID 2.4
+Firmware version: v35n-LE-88-x
+Total physical memory: 16 MB
+LIN address: Unavailable
+Signal strength: Unavailable
+
+Implanted at: Lemurian Health Center
+Implantation date: LE 13.03.102::<end>
+
+=>q19
+::ID импланта: RFID041317-674F
+Производитель: ЛЕМКО
+Модель: L-RFID 2.4
+Версия прошивки: v35n-LE-88-x
+Физической памяти: 16 MB
+Адрес ИСЛ: Недоступно
+Сила сигнала: Недоступно
+
+Имплантировано в: Центр здоровья лемуриан
+Дата имплантации: LE 13.03.102::<end>
+
+=>a20_original
+::Tracking information::<end>
+
+=>a20
+::Отслеживаемая информация::<end>
+
+=>q21_original
+::Error 08: Tracking information currently unavailable.::<end>
+
+=>q21
+::Ошибка 08: Отслеживаемая информация в данный момент недоступна.::<end>
+
+=>a22_original
+::Change security clearance level::<end>
+
+=>a22
+::Изменение уровня допуска::<end>
+
+=>q23_original
+::Current security clearance level: C-4::<end>
+
+=>q23
+::Текущий уровень допуска: C-4::<end>
+
+=>q24_original
+
+::Available security clearance level codes: C-0, C-1, C-2, C-3, C-4.::<end>
+
+=>q24
+::Доступные коды уровней допуска: C-0, C-1, C-2, C-3, C-4.::<end>
+
+=>a25_original
+::Upgrade security clearance level.::<end>
+
+=>a25
+::Повысить уровень допуска.::<end>
+
+=>q26_original
+::Done.
+
+Security clearance level for microchip implant RFID041317-674F has been upgraded to C-4.::<end>
+
+=>q26
+::Выполнено.
+
+Уровень допуска для микрочипа-имплантата RFID041317-674F был повышен до уровня C-4.::<end>
+
+=>q27_original
+::Current security clearance level: C-2::<end>
+
+=>q27
+::Текущий уровень допуска: C-2::<end>
+
+=>a28_original
+::Back::<end>
+
+=>a28
+::Назад::<end>
+
+=>a29_original
+::Access RFID191026-835T::<end>
+
+=>a29
+::Доступ к RFID191026-835T::<end>
+
+=>q30_original
+::Accessing RFID191026-835T...::<end>
+
+=>q30
+::Получение доступа к RFID191026-835T::<end>
+
+=>q31_original
+::Error: Connection lost.
+
+Please make sure that the microchip implant is operational and within range of the device. If the problem persists, visit your nearest medical office or contact health.medtech.implant for more information.::<end>
+
+=>q31
+::Ошибка: Соединение потеряно.
+
+Пожалуйста, убедитесь, что микрочип-имплантат работает и находится в пределах досягаемости устройства. Если проблема не устранена, обратитесь в ближайший медицинский офис или обратитесь в службу поддержки здоровье.медтех.имплантат для получения дополнительной информации.::<end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>a33_original
+::Turn off::<end>
+
+=>a33
+::Выключить::<end>
+
+=>q34_original
+::1 active microchip implant ::<end>
+
+=>q34
+::Обнаружен 1 активный микрочип-имплантат::<end>
+
+=>q35_original
+::No active microchip implants detected.::<end>
+
+=>q35
+::Активных микрочипов-имплантатов не обнаружено.::<end>
+

@@ -1,0 +1,109 @@
+﻿=>q1_original
+::BCE-BFMC - Biocorp Core Electronics
+Firmware version: 1.17::
+
+::Blast Furnace Monitoring Console, Status: Overcharged::
+
+::Explosive and/or Reactive (ERCW) chemical waste status: Explosive disposal procedure activated at 145% power.
+Toxic and/or Radioactive (TRW) waste status: Incinerating explosive disposal procedure activated at 97% power.
+Isolated and/or Unique (IUW) waste status: Disposal procedure completed successfully.::
+<end>
+
+=>q1
+::БКЭ-ПКДП - Биокорп Кор Электроникс
+Версия прошивки: 1.17::
+
+::Консоль мониторинга доменной печи, состояние: перегрузка::
+
+::Состояние взрывоопасных и/или химически активных отходов (ВХАО): процедура обезвреживания взрывоопасных веществ активирована при мощности 145%.
+Статус токсических и/или радиоактивных отходов (ТРО): процедура сжигания взрывоопасных веществ активирована при мощности 97%.
+Статус единичных и особых отходов (ЕОО): процедура обезвреживания успешно завершена.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Manage ERCW disposal procedure (in process)::<end>
+
+=>a3
+::Управление процедурой обезвреживания ВХАО (выполняется)::<end>
+
+=>a4_original
+::Manage TRW disposal procedure (in process)::<end>
+
+=>a4
+::Управление процедурой обезвреживания ТРО (выполняется)::<end>
+
+=>a5_original
+::Manage IUW disposal procedure (completed)::<end>
+
+=>a5
+::Управление процедурой обезвреживания ЕОО (завершено)::<end>
+
+=>q6_original
+::Successfully isolated highly valuable components. 
+
+Manage IUW disposal procedure (completed)::<end>
+
+=>q6
+::Высокоценные компоненты успешно отделены.
+
+Управление процедурой обезвреживания ЕОО (завершено)::<end>
+
+=>a7_original
+::Unlock container 1.::<end>
+
+=>a7
+::Открыть контейнер 1.::<end>
+
+=>q8_original
+::Container 1 unlocked.::<end>
+
+=>q8
+::Контейнер 1 открыт.::<end>
+
+=>a9_original
+::Unlock container 2.::<end>
+
+=>a9
+::Открыть контейнер 2.::<end>
+
+=>q10_original
+::Container 2 unlocked.::<end>
+
+=>q10
+::Контейнер 2 открыт.::<end>
+
+=>a11_original
+::Engage waste filtration (container 1) ::<end>
+
+=>a11
+::Включить фильтрацию отходов (контейнер 1) ::<end>
+
+=>a12_original
+::Engage waste filtration (container 2) ::<end>
+
+=>a12
+::Включить фильтрацию отходов (контейнер 2) ::<end>
+
+=>a13_original
+::Back::<end>
+
+=>a13
+::Назад::<end>
+
+=>a14_original
+::Run diagnostics::<end>
+
+=>a14
+::Запустить диагностику::<end>
+
+=>a15_original
+::Leave.::<end>
+
+=>a15
+::Уйти::<end>
+

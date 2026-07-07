@@ -1,0 +1,116 @@
+﻿=>q1_original
+::LEMCO L-MSU - Medication Synthesis Unit
+
+Please select the item you want to synthesize. The percentage of total MedSynth chemical content required for synthesis is displayed next to each item.
+
+::<end>
+
+=>q1
+::ЛЕМКО L-MSU - Медицинский синтезатор
+
+Выберите предмет, который вы желаете синтезировать. Процент от общего количества химического вещества, содержащего в МедСинте, необходимый для синтеза, указан рядом с каждым из предметов.
+
+::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::MSCC gauge level: $(context.loc_xpbl_as_medicationSynthesisCanisterCharge)%::<end>
+
+=>q3
+::Уровень хим. в-ва в МС: $(context.loc_xpbl_as_medicationSynthesisCanisterCharge)%::<end>
+
+=>q4_original
+:: - Please replace the MedSynth chemical canister.::<end>
+
+=>q4
+:: - Замените в МедСинте бак для химических веществ.::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::Synthesize advanced health hypo (-10%)::<end>
+
+=>a6
+::Синтезировать улучшенный стимулятор (-10%)::<end>
+
+=>q7_original
+::Preparing container... Done.
+
+Synthesizing...
+ 
+Synthesis successful. Please collect your item from the deposit tray.::<end>
+
+=>q7
+::Подготовка контейнера... Выполнено.
+Синтезирование...
+Синтез прошёл успешно. Пожалуйста, заберите ваш продукт из лотка выдачи.::<end>
+
+=>a8_original
+::Synthesize morphine shot (-10%)::<end>
+
+=>a8
+::Синтезировать инъекцию морфина (-10%)::<end>
+
+=>a9_original
+::Synthesize adrenaline shot (-10%)::<end>
+
+=>a9
+::Синтезировать инъекцию адреналина (-10%)::<end>
+
+=>a10_original
+::Synthesize psi booster (-5%)::<end>
+
+=>a10
+::Синтезировать пси-усилитель (-5%)::<end>
+
+=>a11_original
+::Synthesize desaturated psionic inhalant (-5%)::<end>
+
+=>a11
+::Синтезировать ненасыщенный псионический ингалянт (-5%)::<end>
+
+=>a12_original
+::Synthesize focus stim (-15%)::<end>
+
+=>a12
+::Синтезировать стимулятор внимания (-15%)::<end>
+
+=>a13_original
+::Synthesize jumping bean (-15%)::<end>
+
+=>a13
+::Синтезировать прыгающий боб (-15%)::<end>
+
+=>a14_original
+::Synthesize bullhead (-20%)::<end>
+
+=>a14
+::Синтезировать болвана (-20%)::<end>
+
+=>a15_original
+::Synthesize third eye (-25%)::<end>
+
+=>a15
+::Синтезировать третий глаз (-25%)::<end>
+
+=>a16_original
+::Synthesize hypercerebrix (-30%)::<end>
+
+=>a16
+::Синтезировать гиперцеребрикс (-30%)::<end>
+
+=>a17_original
+::Exit::<end>
+
+=>a17
+::Выход::<end>
+

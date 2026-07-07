@@ -1,0 +1,2411 @@
+﻿=>q1_original
+::You step down from the table, and Ladelman stops rocking it.:: There you go, $(context.npc_xpbl_ladelman_playerName). Now you're ready to do all of that on a real jet. 
+
+Was I a good serpent? Gotcha leeeeeg, you gonna die, bwahahah!<end>
+
+=>q1
+::Вы слезаете со стола, и Лэйдельман перестаёт его расскачивать.:: Ну вот, $(context.npc_xpbl_ladelman_playerName). Теперь ты готов$(#/а) сделать всё это на реальном гидроцикле.
+
+Был ли я хорошим змеем? Схватил за нооогу, теперь ты умрёшь, бха-ха-ха-ха!<end>
+
+=>a2_original
+Uncanny.<end>
+
+=>a2
+Зловещим.<end>
+
+=>q3_original
+Yeeeeeah!<end>
+
+=>q3
+Да-а-а-а-а-а!<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+I'd like you to help me with naval combat.<end>
+
+=>a5
+Мне хотелось бы, что ты помог мне в морском бою.<end>
+
+=>q6_original
+Fifty coins. ::He puts his hand out.:: As my dad used to say, if you're hardcore at somethin', you're hardcore at somethin'. And I'm hardcore at this, so I want fifty coins.<end>
+
+=>q6
+Пятьдесят монет. ::Он протягивает руку.:: Как говорил мой папа, если ты когда-нибудь хардкор в чём-то, то ты хардкор в чём-то. И я хардкор в этом, поэтому я хочу пятьдесят монет.<end>
+
+=>a7_original
+Here you go. ::Give him fifty stygian coins.::<end>
+
+=>a7
+Вот, возьмите. ::Дать ему 50 стигийских монет.::<end>
+
+=>q8_original
+Yeeeeeah! <end>
+
+=>q8
+Да-а-а-а-а-а!<end>
+
+=>q9_original
+::To your and Marcus' surprise ::<end>
+
+=>q9
+::К вашему и Маркусу удивлению ::<end>
+
+=>q10_original
+::he jumps on the table, his head brushing against the tent's roof upon standing fully upright.:: Now, $(context.npc_xpbl_ladelman_playerName), rock that table back and forth. 
+
+Think like a wave. Waaaave... Whoosh and whoosh and whoosh...<end>
+
+=>q10
+::он прыгает на стол, его голова касается потолка палатки, когда он стоит в полный рост.:: А теперь, $(context.npc_xpbl_ladelman_playerName), раскачивай этот стол взад и вперёд.
+
+Думай о волне. Вооолна... Бах и бах и бах...<end>
+
+=>a11_original
+::Rock the table.::<end>
+
+=>a11
+::Раскачивать стол.::<end>
+
+=>q12_original
+::He shakes his head.:: Zone me out with a rusty pipe... I said *wave* - not whaaaaaaaaaeEeeeeeeeEeeeeeeE! 
+
+Make me feel like I'm on a jet. Back and forth - back and forth!<end>
+
+=>q12
+::Он качает головой.:: Отруби меня ржавой трубой... Я сказал "волна", а не вввввооооолллллл! 
+
+Заставь меня почувствовать, что я на гидроцикле. Назад и вперёд - назад и вперёд!<end>
+
+=>a13_original
+Why not do this in a real jet?<end>
+
+=>a13
+Почему бы не попробовать это на реальном гидроцикле?<end>
+
+=>q14_original
+*My* lesson - *my* teachin' methods!<end>
+
+=>q14
+"Мой" урок - "мои" методы обучения!<end>
+
+=>a15_original
+::Be a wave.::<end>
+
+=>a15
+::Будь волной.::<end>
+
+=>q16_original
+Yeeeeeeeah, now pay attention...<end>
+
+=>q16
+Дааааа, теперь обрати внимание...<end>
+
+=>a17_original
+::End Dialog.::<end>
+
+=>a17
+::Завершить диалог.::<end>
+
+=>q18_original
+::To your surprise ::<end>
+
+=>q18
+::К вашему удивлению ::<end>
+
+=>a19_original
+I'll think about it.<end>
+
+=>a19
+Я подумаю об этом.<end>
+
+=>q20_original
+Don't think too much, $(context.npc_xpbl_ladelman_playerName) - you might decide to keep that money for yourself!<end>
+
+=>q20
+Не тяни с этим, $(context.npc_xpbl_ladelman_playerName) - возможно, ты захочешь оставить деньги при себе!<end>
+
+=>a21_original
+Is there a way for me to get a better jet ski around here?<end>
+
+=>a21
+Есть ли возможность приобрести получше гидроцикл тут вокруге?<end>
+
+=>q22_original
+Well, you got the Patroller now. That thing's a lot more hardcore than that piece o' junk you started with. <end>
+
+=>q22
+Ну, у тебя уже есть патрульный. Эта штука гораздо более хардкорная, чем та штука, с которой ты начинал$(#/а).<end>
+
+=>q23_original
+If you want somethin' better... ::He leans closer so that Marcus couldn't hear him.:: <end>
+
+=>q23
+Если ты хочешь что-то получше... ::Он наклоняется ближе, чтобы Маркус его не услышал.::<end>
+
+=>q24_original
+You could jet out of the Black Sea and visit Ray's Shop at the Core City docks, eastern section, where we were at, remember?
+
+<end>
+
+=>q24
+Ты мог$(#/ла) бы свалить из Чёрного моря и посетить магазин Рэя в доках Кор-Сити, на востоке, где мы были, помнишь?
+<end>
+
+=>q25_original
+Dominatin' selection of jets and parts, and Ray's himself's a hardcore guy. Real hardcore.<end>
+
+=>q25
+Доминирующий выбор гидроциклов и запчастей, а Рэй сам хардкорный парень. Настоящий хардкор.<end>
+
+=>q26_original
+In and out, no one'll know.<end>
+
+=>q26
+Туда и обратно, и никто не узнает.<end>
+
+=>q27_original
+However... <end>
+
+=>q27
+Однако...<end>
+
+=>q28_original
+Yeah, $(context.npc_xpbl_ladelman_playerName), I hear ya. A crappy jet feels like bettin' your coins on a challenger who uses 'is *actual* name. 
+
+Uh, not that it ever happened to me, nah. <end>
+
+=>q28
+Ага, $(context.npc_xpbl_ladelman_playerName), я тебя понимаю. Дерьмовый гидроцикл кажется, как будто ты ставишь свои деньги на противника, которому больше подходит это "настоящее" имя.
+
+Ух, не то, что это когда-либо случалось со мной, ха-ха.<end>
+
+=>q29_original
+Anyway, listen: <end>
+
+=>q29
+Так или иначе, послушай вот что:<end>
+
+=>a30_original
+I need some parts for my jet ski. Do you happen to sell any?<end>
+
+=>a30
+Мне нужны некоторые запчасти для моего гидроцикла. Ты случайно не продаёшь?<end>
+
+=>q31_original
+I can only sell you vehicle repair kits. Everythin' else's strictly regulated, and the only paperwork I can stand is the pipeworks paperwork, if you know what I mean, bwahaha!<end>
+
+=>q31
+Я могу продать тебе только ремкомплекты для транспорта. Всё остальное строго регламентировано, и единственные документы, которые я могу держать, - это документы трубочистов, если ты понимаешь, о чём я, бха-ха-ха!<end>
+
+=>q32_original
+Anyway, see Ray. He'll have anythin' you need. <end>
+
+=>q32
+Так или иначе, сходи к Рэю. У него есть всё, что тебе нужно.<end>
+
+=>q33_original
+But... ::He leans closer so that Marcus couldn't hear him.:: <end>
+
+=>q33
+Но... ::Он наклоняется ближе, чтобы Маркус его не услышал.::<end>
+
+=>a34_original
+Where did you say Ray's shop was?<end>
+
+=>a34
+Где, ты говоришь, находится магазин Рэя?<end>
+
+=>q35_original
+At the eastern docks in Core City. <end>
+
+=>q35
+В восточных доках в Кор-Сити.<end>
+
+=>a36_original
+Have you ever worked for Ray? It seems kind of an obvious choice for you.<end>
+
+=>a36
+Ты когда-нибудь работал на Рэя? Это кажется очевидным выбором для тебя.<end>
+
+=>q37_original
+It'd be a dream come true! I mean, who wouldn't wanna be workin' with the most dominatin' jets in South Underrail! It's like workin' at a strip joint where the girls don't talk, bwahahaha!<end>
+
+=>q37
+Это была бы мечта! Я имею в виду, кто бы не хотел работать с самыми доминирующими гидроциклами в Южной Подземке! Это как работать в стриптиз-баре, где девушки не разговаривают, бха-ха-ха-ха!<end>
+
+=>a38_original
+But...?<end>
+
+=>a38
+Но?..<end>
+
+=>q39_original
+But... ::He shrugs.:: Things just haven't worked out yet. It's like when you were a kid and had a crush on that cute chick, but either some other guy got her or you got some other girl. 
+
+The timin' was never right, you know, but she was kinda always in the back of your head. Ah, the good ol' days.<end>
+
+=>q39
+Но... ::Он пожимает плечами.:: Обстоятельства пока ещё не сложились. Это как когда ты был ребёнком и был влюблён в одну симпатичную цыпочку, но либо другому парню досталась она, либо ты встретил другую девушку.
+
+Знаешь, просто было неподходящее время, но она всегда оставалась в твоих мыслях. Ах, добрые старые времена.<end>
+
+=>q40_original
+But now that I'm done here... I'll go see Ray yet again. Swear on my sister Lilly.<end>
+
+=>q40
+Но теперь, когда я закончил здесь... я снова отправлюсь к Рэю. Клянусь своей сестрой Лилли.<end>
+
+=>q41_original
+But after I'm done here... I'll go see Ray yet again. Swear on my sister Lilly.<end>
+
+=>q41
+Но после того, как я закончу здесь... я снова отправлюсь к Рэю. Клянусь своей сестрой Лилли.<end>
+
+=>a42_original
+I need some help fighting on a jet ski.<end>
+
+=>a42
+Я хочу научиться сражаться на гидроцикле.<end>
+
+=>q43_original
+Wait, wait, wait... <end>
+
+=>q43
+Постой, постой, постой...<end>
+
+=>q44_original
+The Invictus $(#him/her)self <end>
+
+=>q44
+Сам$(#/а) Инвиктус<end>
+
+=>q45_original
+is asking *me* for help with fighting? Me?
+
+::He is speechless for a moment, his darting eyes reflecting his mental search for the right words.::
+
+Hardcore!<end>
+
+=>q45
+просит меня научить сражаться? Меня?
+
+::На мгновение он теряет дар речи, по его бегающему взгляду видно, что он находится в поиске подходящих слов.::
+
+Хардкорно!<end>
+
+=>a46_original
+Your fandom pleases the Invictus. But we haven't got all day.<end>
+
+=>a46
+Твой фанатизм нравится Инвиктусу. Но у нас нет целого дня.<end>
+
+=>q47_original
+Yeah, yeah, jets are wobbly. Fightin's tough. I may not dominate, but I've had enough experience zonin' out freelooters and other kinds of sea zoners to humbly say I'm "pretty hardcore."<end>
+
+=>q47
+Да, да, гидроциклы шатает. Сражения жёстки. Я может и не доминирую, но у меня было достаточно опыта вырубать флибустьеров и других видов морских зонеров, говоря просто - я "весьма хардкорный".<end>
+
+=>a48_original
+Freelooters?<end>
+
+=>a48
+Флибустьеров?<end>
+
+=>q49_original
+You know, random pirate wannabes who think they're hardcore just 'cause they got somethin' vibratin' under their crotch.<end>
+
+=>q49
+Знаешь, случайные пиратские выскочки, которые думают, что они хардкор просто потому, что у них что-то вибрирует между ног.<end>
+
+=>a50_original
+So, can you give me a few tips?<end>
+
+=>a50
+Итак, ты можешь дать мне несколько советов?<end>
+
+=>q51_original
+I can give you more than a tip - I could teach you some basic naval combat. <end>
+
+=>q51
+Я могу дать тебе больше, чем совет - я могу научить тебя основным принципам морского боя.<end>
+
+=>q52_original
+For you, totally free of charge.<end>
+
+=>q52
+Для тебя совершенно бесплатно.<end>
+
+=>a53_original
+Excellent.<end>
+
+=>a53
+Отлично.<end>
+
+=>a54_original
+Let's get going.<end>
+
+=>a54
+Тогда приступим.<end>
+
+=>a55_original
+::Nod.::<end>
+
+=>a55
+::Кивнуть.::<end>
+
+=>q56_original
+Fifty coins and I got you covered. <end>
+
+=>q56
+Пятьдесят монет, и я обо всём позабочусь.<end>
+
+=>a57_original
+Thank you, thank you. Now, can you help me?<end>
+
+=>a57
+Спасибо, спасибо. А теперь ты можешь мне помочь?<end>
+
+=>a58_original
+So...<end>
+
+=>a58
+Итак...<end>
+
+=>a59_original
+::Say nothing.::<end>
+
+=>a59
+::Промолчать.::<end>
+
+=>q60_original
+A seasoned gladiator <end>
+
+=>q60
+Опытн$(#ый/ая) гладиатор$(#/ша)<end>
+
+=>a61_original
+I got other questions.<end>
+
+=>a61
+У меня были другие вопросы.<end>
+
+=>q62_original
+Oooooh.<end>
+
+=>q62
+Оооо.<end>
+
+=>q63_original
+<end>
+
+=>q63
+<end>
+
+=>a64_original
+Show me what you have in stock. ::Barter.::<end>
+
+=>a64
+Покажи мне, что у тебя в ассортименте. ::Обмен.::<end>
+
+=>a65_original
+About collecting my pay...<end>
+
+=>a65
+О сборе моей оплаты...<end>
+
+=>q66_original
+Ah, I think you should see the sec-chef for that.<end>
+
+=>q66
+Ах, я думаю, тебе стоит поговорить об этом со спец-поваром.<end>
+
+=>a67_original
+Sec-chef? Why him?<end>
+
+=>a67
+Со спец-поваром? Почему с ним?<end>
+
+=>q68_original
+Don't ask me, $(context.npc_xpbl_ladelman_playerName). Probably 'cause there ain't no one else and he's already workin' with coinage. 
+
+This pipeworkin' expedition's turned everythin' upside down. ::He shakes his head.::<end>
+
+=>q68
+Не спрашивай меня, $(context.npc_xpbl_ladelman_playerName). Вероятно, потому что больше никого не осталось, и он уже работает с монетами.
+
+Эта трубочистская экспедиция перевернула всё с ног на голову. ::Он качает головой.::<end>
+
+=>a69_original
+Got it. Before I go to his kitchen...<end>
+
+=>a69
+Понял$(#/а). Прежде чем я отправлюсь на его кухню...<end>
+
+=>q70_original
+Yeah?<end>
+
+=>q70
+Да?<end>
+
+=>a71_original
+I'll go see him straight away then.<end>
+
+=>a71
+Я отправлюсь к нему прямо сейчас.<end>
+
+=>q72_original
+::He just nods.::<end>
+
+=>q72
+::Он просто кивает.::<end>
+
+=>a73_original
+How can you boast about your sister being a prostitute?<end>
+
+=>a73
+Как ты можешь хвастаться тем, что твоя сестра проститутка?<end>
+
+=>q74_original
+Hey, hey, Lilly ain't no disease-ridden zoner-grinder. She's got standards! She's got the looks and the charm... and that's why my sweet little sis lives a better *pipeworkin'* life than me! Got this nice place in Core City, food, water, fine clothes, *coins*... while I'm 'ere <end>
+
+=>q74
+Эй, эй, Лилли не какая-нибудь заразная точильщица-зонер. У неё есть стандарты! У неё есть внешность и очарование... и вот почему моя милая маленькая сестрёнка живёт лучшей *трубочисткой* жизнью, чем я! А у меня есть это милое местечко в Кор-Сити, еда, вода, хорошая одежда, *монеты*... пока я здесь<end>
+
+=>q75_original
+waitin' to get zoned out.<end>
+
+=>q75
+жду, чтобы меня отправили в зону.<end>
+
+=>q76_original
+It's just good ol' grindin' anyway, the fun stuff. She ain't gettin' beaten up or, or asked to eat five *raw* hoppers in a single go. I ain't worried about 'er - she's doin' hardcore.<end>
+
+=>q76
+Короче, это старая добрая мясорубка, самая веселуха. Её не бьют, не просят съесть пятерых *сырых* пещерников за раз. Я не беспокоюсь за неё -- она делает полный хардкор.<end>
+
+=>q77_original
+Hell, if I had her bosomage ya bet I'd be monetizin' those babies as well, bwahahaha! But alas, all I got is a hairy, laddish chest.<end>
+
+=>q77
+Чёрт возьми, если бы у меня была её грудь, держу пари, я бы тоже монетизировал этих младенцев, бва-ха-ха-ха! Но, увы, всё, что у меня есть, - это волосатая, мальчуганская грудь.<end>
+
+=>q78_original
+sweatin' my ass with all you people.<end>
+
+=>q78
+потею задницей со всеми вами.<end>
+
+=>a79_original
+Did you seriously call Todd a pipeworker?<end>
+
+=>a79
+Ты серьёзно называешь Тодда трубочистом?<end>
+
+=>q80_original
+Yeeeeeah! <end>
+
+=>q80
+Да-а-а-а-а-а!<end>
+
+=>q81_original
+The Lemurian almost got a heart attack when Ladelman jumped out of the tent, yelling "hardcore" and "Where's my pipeworker?".<end>
+
+=>q81
+У лемурийца чуть не случился сердечный приступ, когда Лэйдельман выпрыгнул из палатки, выкрикивая "хардкор" и "Где мой трубочист?".<end>
+
+=>q82_original
+C'mon, Marky, I was just tryin' to be friendly! He likes me! 
+
+And he's not *just* a Lemurian: He's one and a half Lemurians with the weight he's packin', bwahahaha! <end>
+
+=>q82
+Ну же, Марки, я просто пытался быть дружелюбным! Он нравиться мне!
+
+И он не "просто" лемурийец: он полтора лемурийца, плюс ещё вес его пениса, бха-ха-ха-ха!<end>
+
+=>q83_original
+Anyway, he <end>
+
+=>q83
+Так или иначе, у него<end>
+
+=>q84_original
+had trouble - how do you say - interepertin'... uh, figurin' out what I was sayin' and thought I called 'im a *piper*. So he kept repetin' that... before the sec-trooper took 'im away to Ginger.
+
+You know what? I'm gonna call 'im Todder from now on. Because of all that.<end>
+
+=>q84
+были проблемы - как бы это сказать - в речи... гм, пытаясь понять, что я сказал и о чём подумал, я назвал его "трубачом". Так что он стал повторять это... пока охранник не отвёл его к Рыжему.
+
+Знаешь что? С этого момента я буду называть его "Мальш". Из-за всего этого.<end>
+
+=>q85_original
+Now that I think about it... Todder sounds kinda like toddler. Hmmm...<end>
+
+=>q85
+Если задуматься... Мальш звучит как малыш. Хм-м-м...<end>
+
+=>q86_original
+<end>
+
+=>q86
+<end>
+
+=>q87_original
+As long as you don't tell him he's *lardcore*.<end>
+
+=>q87
+До тех пор, пока ты не скажешь ему, что он "лардкор".<end>
+
+=>q88_original
+Did you just hear that, $(context.npc_xpbl_ladelman_playerName), did you? Marky's got it! Oooooh, I'm so proud of 'im I'd kiss 'im if I didn't know where he'd just been, bwahahaha!<end>
+
+=>q88
+Ты это слышал$(#/а), $(context.npc_xpbl_ladelman_playerName), слышал$(#/а)? Марки понял! Ооооо, я так горжусь им, я бы расцеловал его, если бы не знал, откуда он только что пришёл, бха-ха-ха-ха!<end>
+
+=>q89_original
+He <end>
+
+=>q89
+У него<end>
+
+=>a90_original
+I wanted to ask you about some of the people in this camp.<end>
+
+=>a90
+Я хочу расспросить тебя о некоторых людях в этом лагере.<end>
+
+=>q91_original
+Eh... Fewer and fewer left to talk about, $(context.npc_xpbl_ladelman_playerName). <end>
+
+=>q91
+Э-э... Всё меньше и меньше остаётся с кем поговорить, $(context.npc_xpbl_ladelman_playerName).<end>
+
+=>q92_original
+How about we discuss somethin' else? What do you say?<end>
+
+=>q92
+Как насчёт того, чтобы обсудить что-то другое? Что скажешь?<end>
+
+=>q93_original
+Ooooh, tittle-tattlin'.<end>
+
+=>q93
+Ооо, слухи, сплетни, пересуды...<end>
+
+=>q94_original
+<end>
+
+=>q94
+<end>
+
+=>a95_original
+Tell me about Professor Oldfield.<end>
+
+=>a95
+Расскажи мне о профессоре Олдфилде.<end>
+
+=>q96_original
+Professor Oldfield is one of the most respected professors at the University of Dis, and one of the rare experts in the areas of supercorporation and Biocorp history. It was his research efforts which led to the organization of this expedition.<end>
+
+=>q96
+Профессор Олдфилд один из самых уважаемых профессоров в университете Дис и один из немногочисленных экспертов в области суперкорпораций и истории Биокорп. Именно его исследовательские усилия привели к организации этой экспедиции.<end>
+
+=>q97_original
+You Northerners and your la-di-da schools. Here you just need some common sense beaten into you with a sturdy leather belt when you're young, and off you go!<end>
+
+=>q97
+Какие же вы, северяне, с вашими *бла-бла-бла* школами. Вам просто нужно немного здравого смысла, вбитого в вас крепким кожаным ремнём, пока вы ещё молоды, и всё!<end>
+
+=>q98_original
+But educational institutions provide a proper learning environment and a systematic approach to teaching wherein students, under the direction of qualified teachers, can progress quickly and without gaps in knowledge which often occur when they're self-taught.<end>
+
+=>q98
+Но образовательные учреждения обеспечивают надлежащую учебную среду и системный подход, при котором студенты под руководством квалифицированных преподавателей могут быстро прогрессировать и не иметь пробелов в знаниях, которые часто возникают, когда они самообучаются.<end>
+
+=>q99_original
+And then you get folks which can spew out long la-di-da sentences but can't even catch a damn hopper. There's also brainwashin'. Don't forget brainwashin', Marky! They're teachin' you what they want you to know, like *their* history... and *their* math.<end>
+
+=>q99
+А потом вы получаете людей, которые могут часами балаболить, но не в состоянии поймать грёбаного пещерника. Есть ещё промывание мозгов. Не забудь промыть мозги, Марки! Они учат тебя тому, что хотят, чтобы ты знал, например, их истории... и их математике.<end>
+
+=>q100_original
+There's no point arguing with you, Tone, is there?<end>
+
+=>q100
+С тобой, Тон, спорить бесполезно, так ведь?<end>
+
+=>q101_original
+'Cause life gave *me* all the best arguments, Marky, bwahaha!<end>
+
+=>q101
+Потому что жизнь обеспечила *меня* лучшими аргументами, Марки, ха-ха-ха!<end>
+
+=>a102_original
+bout the professor...<end>
+
+=>a102
+насчёт профессора...<end>
+
+=>q103_original
+You know, when I heard about the expedition, I was real worried about who I was goin' with to the Hell's Gut. I felt easier when I saw Aegis with lotsa guns, yeah, but meetin' the head of the expedition, now you gotta have someone who knows his stuff and ain't a derailedman who's gonna get you all zoned out.
+
+But when I talked to the professor... I liked 'im. I liked 'im. He knew his stuff, seemed level-headed... and offered me a lot of coins.<end>
+
+=>q103
+Знаешь, когда я услышал об экспедиции, то очень забеспокоился о том, с кем мне придётся отправиться в Адский котёл. И да, я почувствовал облегчение, когда узнал про Эгиду, с их большим количеством пушек, но оставался глава экспедиции, ведь должен же быть кто-то, кто знает своё дело, а не какой-то двинутый на голову, который собирается тебя угробить.
+
+Но когда я поговорил с профессором... Он мне понравился. Понравился. Он знал своё дело, казался уравновешенным... и посулил мне кучу монет.<end>
+
+=>q104_original
+And you might even learn something interesting here.<end>
+
+=>q104
+И ты мог бы даже научиться чему-нибудь полезному.<end>
+
+=>q105_original
+I ain't against learnin' Marky, I'm just against school. But you know what? If someone ever put a gun to my head and forced me to go to school, I'd ask for Professor Oldfield to teach me.<end>
+
+=>q105
+Я не против знаний, Марки, мне просто не нравятся школы. Но знаешь что? Если кто-нибудь приставит мне к голове пистолет и заставит пойти в школу, то я попрошу профессора Олдфилда стать моим учителем.<end>
+
+=>q106_original
+Otherwise I'd just eat the bullet.<end>
+
+=>q106
+В противном случае - лучше пуля.<end>
+
+=>a107_original
+Tell me about Chief Briggs.<end>
+
+=>a107
+Расскажи мне о шефе Бриггсе.<end>
+
+=>q108_original
+Chief Briggs is--<end>
+
+=>q108
+Шеф Бриггс...<end>
+
+=>q109_original
+Now, now, even though both of you expect me to... dislike our good ol' Briggsy, I gotta give them man the credit for what he's doin' here.<end>
+
+=>q109
+Ну-ну, даже если вы оба предполагаете, что я... ненавижу нашего доброго старину Бриггси, я должен отдать ему должное за то, что он здесь делает.<end>
+
+=>q110_original
+Briggsy?<end>
+
+=>q110
+Бриггси?<end>
+
+=>q111_original
+No, I'm hardcore serious. The man is responsible not only for his clients but for his soldiers and any left-handed zoner who thought he was gonna stuff his pants with so much coin he was gonna look like his cobbles have turned into boulders after this gig. It ain't easy.<end>
+
+=>q111
+Нет, я серьёзно. Этот человек несёт ответственность не только перед своими заказчиками, но и в ответе за своих солдат, и за любого криворукого зонера, который считал, что набьёт свои штаны таким количеством монет, что будет казаться, будто у него там вместо его *камушков* огромные булыжники. Это не так-то просто.<end>
+
+=>q112_original
+Uh...<end>
+
+=>q112
+Э-э...<end>
+
+=>q113_original
+Yes. I get scolded all the time, but ain't always wrong. He may be a grumpy jerk, but he's gotta keep this place runnin' and safe. I dig that. It's stressful. He wasn't *as* grumpy when we first came here, after all.
+
+And he may be so stuck up...<end>
+
+=>q113
+Да, меня часто ругают, но я не всегда ошибаюсь. Он может вести себя, как сварливый козёл, но он должен следить за порядком и безопасностью. Я это понимаю, хотя это непросто. В конце концов, он не был таким, когда мы только прибыли сюда.
+
+И иногда он такой высокомерный...<end>
+
+=>q114_original
+We get the point, Tone.<end>
+
+=>q114
+Мы поняли, Тон.<end>
+
+=>q115_original
+His sense of humor might be as absent as Marky's liveliness...<end>
+
+=>q115
+У него так же отсутствует чувство юмора, как у Марки весёлое настроение...<end>
+
+=>q116_original
+...As absent as your sense of decency or knowing when to shut up. We got it two supply trips to Core City ago, Tone.<end>
+
+=>q116
+Оно так же отсутствует, как твоё чувство приличия и понимания, когда следует заткнуться. Мы поняли это, Тон, ещё две поездки назад до Кор-Сити.<end>
+
+=>q117_original
+He-he... I like him when he's got a good comeback.<end>
+
+=>q117
+Ха-ха... Люблю, когда он остроумно отвечает.<end>
+
+=>a118_original
+Ladelman, tell me about yourself.<end>
+
+=>a118
+Лэйдельман, расскажи мне о себе.<end>
+
+=>q119_original
+Well, $(context.npc_xpbl_ladelman_playerName), I am, whatcha call it - a *Tony of all trades*. My life has had so many twists and turns and tunnels and crevices and drops and whatnot that I never got the chance to settle in one place on one job.<end>
+
+=>q119
+Что ж, $(context.npc_xpbl_ladelman_playerName), я бы назвал себя: Тони - мастер на все руки. В моей жизни было столько перипетий, взлётов и падений, и всего подобного, что у меня никогда не было шанса, который бы позволил мне осесть в одном месте, и на постоянной работе.<end>
+
+=>q120_original
+You've been living in Core City for five years. That's worth something.<end>
+
+=>q120
+Ты в Кор-Сити уже пять лет. Это что-то да значит.<end>
+
+=>q121_original
+Well, yeah... yeah, but where in Core City? I used to live in the Drop Zone at first, fixin' shacks and cookin' barrel soup until I could get outta that place. That hairy, greasy zoner who mistook me for his wife one night is an experience I'll never recover from. If my hardcore sister Lilly hadn't helped me out, I would've been snugglin' with fat zoners for a few more months. Buncha smelly drop-offs.
+
+Only after I rented a place in the residential area did I start livin' like a man.<end>
+
+=>q121
+Ну да... но где? Сначала я жил в Зоне провала, чинил лачуги и варил суп в бочках, пока не выбрался оттуда. Однажды, один волосатый, жирный зонер ночью перепутал меня со своей женой, от этого переживания я никогда не оправлюсь. Если бы меня не спасла моя крутая сестрёнка Лилли, меня бы ещё несколько месяцев тискали толстые зонеры. Толпа вонючих отбросов.
+
+Только после того, как я снял квартиру в жилом районе, я почувствовал себя человеком.<end>
+
+=>a122_original
+Do you know where the Wardell residence is? That's where I'm living right now.<end>
+
+=>a122
+Ты знаешь, где находится дом Уорделла? Я сейчас там живу.<end>
+
+=>q123_original
+You son of a fat rat... <end>
+
+=>q123
+Ты сын жирной крысы...<end>
+
+=>q124_original
+Who'd you zone out to-- Oh, wait... Right.<end>
+
+=>q124
+Кого тебе пришлось убить... Ой, постой... Точно.<end>
+
+=>q125_original
+Anyways, <end>
+
+=>q125
+В любом случае,<end>
+
+=>q126_original
+I got here 'cause of my pal Danky Max. He told me some wimps from the North were lookin' for a guide.<end>
+
+=>q126
+Я оказался здесь благодаря моему приятелю Данки Максу. Он сказал мне, что какие-то лузеры с севера ищут проводника.<end>
+
+=>q127_original
+Yet they somehow picked him.<end>
+
+=>q127
+И всё же они почему-то выбрали тебя.<end>
+
+=>q128_original
+"Yet tha sumha..." - shut up! I've been all over South Underrail: Born in Junkyard, fixed quads in Rail Crossin', hunted in Hathor, mined in Foundry - and lived. But most importantly, I was raised on a damn boat! My dad, a sailor like no other, he took me all over the waterways before I got my first jet and could ride alongside 'im. He's one of the rare people who had the guts to sail through the Black Strait and peer into the Hell's Gut. Swear on my sister Lilly!
+
+And now... *I'm* here. Tony Ladelman.<end>
+
+=>q128
+Бе-бе-бе... Замолкни! Я облазил всю Южную Подземку: родился на Свалке, чинил квадроциклы на Переезде, охотился в лагере Хатор, работал на Литейной и... и не загнулся. Но главное, я провёл всё детство на грёбаной лодке! Мой отец моряк, каких уж нет, водил меня по всем водным путям, пока я не обзавёлся своим гидроциклом и не стал путешествовать с ним на пару. Он один из тех редких людей, у которых хватило мужества пройти сквозь Чёрный пролив и заглянуть в Адский котёл. Клянусь моей сестрой Лилли!
+
+А теперь... теперь я здесь. Тони Лэйдельман.<end>
+
+=>q129_original
+::He turns to you.:: ...Helpin' that ungrateful wimp over there, bwahaha!<end>
+
+=>q129
+::Он обращается к вам.:: ...Помогаю тому неблагодарному тюфяку... Ха-ха-ха!<end>
+
+=>q130_original
+Who'd you zone out to get to live there?<end>
+
+=>q130
+Кого тебе пришлось убить, чтобы поселиться там?<end>
+
+=>a131_original
+Joe De Pacino, an ancient rathound with psionic powers and a gang of mercenaries.<end>
+
+=>a131
+Джо Де Пачино, древнего крысоволка с псионическими способностями и шайку наёмников.<end>
+
+=>q132_original
+Hm. Fair enough. <end>
+
+=>q132
+Хм, вопросов нет...<end>
+
+=>q133_original
+Welcome to the neighborhood, neighbor.<end>
+
+=>q133
+Добро пожаловать в наши ряды.<end>
+
+=>a134_original
+Joe De Pacino and a gang of mercenaries. And almost an ancient rathound with psionic powers.<end>
+
+=>a134
+Джо Де Пачино с шайкой наёмников. И почти что древнего крысоволка с псионическими способностями.<end>
+
+=>a135_original
+A psycho from the sewers, a buff zoner and his three wives and a gang of mercenaries.<end>
+
+=>a135
+Психа из канализации, "баффаного" зонера и его три жены и банду наёмников.<end>
+
+=>a136_original
+A psycho from the sewers and a gang of mercenaries.<end>
+
+=>a136
+Псих из канализации и банду наёмников.<end>
+
+=>a137_original
+A buff zoner and his three wives and a gang of mercenaries.<end>
+
+=>a137
+"Баффаного" зонера и его три жены и банду наёмников.<end>
+
+=>a138_original
+A derailed JKK operative, bunch of mutants, coil spiders and muties.<end>
+
+=>a138
+Поехавшего оперативника КБР, группу мутантов, электропауков и выродков.<end>
+
+=>a139_original
+A lot of people, actually.<end>
+
+=>a139
+Вообще-то, многих...<end>
+
+=>a140_original
+Some Tchortists.<end>
+
+=>a140
+Нескольких чортистов.<end>
+
+=>q141_original
+Ugh, Tchortists. <end>
+
+=>q141
+Тьфу, чортисты.<end>
+
+=>a142_original
+No one. I earned it through hard work.<end>
+
+=>a142
+Никого. Я заслужил$(#/а) это место тяжёлым трудом.<end>
+
+=>q143_original
+If hard work's all it takes I'd be a pipeworkin' oligarch right now. <end>
+
+=>q143
+Если тяжёлая работа - это всё, что нужно, я уже был бы трубочистким олигархом.<end>
+
+=>a144_original
+Hard work... for the right people.<end>
+
+=>a144
+Тяжёлая работа... для правильных людей.<end>
+
+=>q145_original
+That, my friend, makes more sense.<end>
+
+=>q145
+Это, мой $(#/по)друг$(#/а), более логично.<end>
+
+=>a146_original
+How did you end up working with the expedition?<end>
+
+=>a146
+Как ты оказался в экспедиции?<end>
+
+=>a147_original
+Marcus, tell me about yourself.<end>
+
+=>a147
+Маркус, расскажи мне о себе.<end>
+
+=>q148_original
+I'm a sec-engineer. I handle weapons, electronic equipment, shield emitters, turrets. Surveillance too. Those sorts of things.<end>
+
+=>q148
+Я спец-инженер, занимаюсь оружием, электронным оборудованием, щитовыми излучателями и турелями. Также на мне системы наблюдения и т.п.<end>
+
+=>q149_original
+Hey, how long have you been here again?<end>
+
+=>q149
+А как давно ты на службе?<end>
+
+=>q150_original
+About three and a half years. I'm one of the newer and younger employees here, as most sec-troopers are either experienced Protectorate soldiers or have worked in security or law enforcement for a while.<end>
+
+=>q150
+Почти три с половиной года. Я один из новых и молодых сотрудников, большинство спец-охранников либо опытные солдаты Протектората, либо какое-то время работали в службе безопасности или силах правопорядка.<end>
+
+=>q151_original
+Three and a half years on a single job? Damn... I change 'em like I change sock-- Uh... bad example. 
+
+I change 'em, nnnnn, often.<end>
+
+=>q151
+Три с половиной года на одном месте? Охренеть... А я меняю работу, как носки... гмм, плохой пример. 
+
+Я меняю её... ээээ... часто.<end>
+
+=>q152_original
+Well, even though it might be hard to say so in conditions like these, but I'm happy working for Aegis Incorporated. The pay is good, but most importantly I find being a sec-engineer a lot more satisfying and fulfilling than what I did before, no matter how tough supporting this entire operation may be.<end>
+
+=>q152
+Что ж, даже находясь в таких трудных условиях, я рад, что работаю на Эгиду Инкорпорейтед. Зарплата хорошая, но самое главное, я нахожу, что служба спец-инженером мне более нравится, чем то, что я делал раньше, независимо от сложностей этой операции.<end>
+
+=>q153_original
+Ain't life perfect, Marky? I felt the same when I switched from assemblin' hand grenades to repairin' machine guns. Safer, simpler job that paid better, and the proprietor had this hot blonde daughter. Come to think of it, I lost that job 'cause of her. Yeeeeah...<end>
+
+=>q153
+Разве жизнь не прекрасна, Марки? У меня было то же самое чувство, когда я вместо сборки ручных гранат занялся ремонтом пулемётов. Простая, более безопасная работа, которая лучше оплачивалась, и поближе к хозяйской дочке, горячей блондиночке... Если подумать, то я и потерял эту работу из-за неё. Так-то вот.<end>
+
+=>q154_original
+Our life stories are exactly the same.<end>
+
+=>q154
+Истории наших жизней очень похожи.<end>
+
+=>q155_original
+::He smiles.:: Sure are, Marky, sure are.<end>
+
+=>q155
+::Он улыбается.:: Знамо дело, Марки.<end>
+
+=>q156_original
+
+
+We just gotta make it outta here alive.<end>
+
+=>q156
+Нам бы только выбраться отсюда живыми.<end>
+
+=>a157_original
+What can you tell me about Yahota?<end>
+
+=>a157
+Что ты можешь сказать о Яхоте?<end>
+
+=>q158_original
+She was what we call a *security specialist*.<end>
+
+=>q158
+Она была, как мы говорим, *специалистом по безопасности*.<end>
+
+=>a159_original
+Sec-spec Yahota?<end>
+
+=>a159
+Специалист по безопасности Яхота?<end>
+
+=>q160_original
+No, no - *sec-specialist*. She assumes roles which require expertise beyond that of the normal sec-troopers. The general population thinks our job consists of simply escorting and protecting clients from one place to the other, but as you've seen for yourself by now, we are capable of doing much more than that. 
+
+We sometimes need to function like a small army and thus require people with a variety of skills.<end>
+
+=>q160
+В её обязанности входит то, на что не способны обычные спец-охранники. Большинство людей считают, что наша работа состоит лишь в защите и сопровождении клиентов из одного места в другое, но, как ты уже знаешь, мы способны на гораздо большее. 
+
+Иногда нам приходится действовать подобно небольшой армии, и поэтому требуются люди с различными навыками.<end>
+
+=>q161_original
+She is a master of infiltration and a sharpshooter like no other. And she can hit a man straight in the eye from five hundred meters away, and she does *not* have any kind of ocular augmentation. Hard to believe, but it's true.<end>
+
+=>q161
+Отличная разведчица и лучший снайпер, каких я только знал. Она с расстояния в пятьсот метров может попасть человеку прямо в глаз, и без каких-либо улучшений для глаз. В это сложно поверить, но это правда.<end>
+
+=>q162_original
+Maybe she should've augmented her attitude a bit. The chick<end>
+
+=>q162
+Может ей лучше немного улучшить своё поведение, а то эта цыпочка<end>
+
+=>q163_original
+was <end>
+
+=>q163
+Разве жизнь не прекрасна, Марки? У меня было то же самое чувство, когда я вместо сборки ручных гранат занялся ремонтом пулемётов. Простая, более безопасная работа, которая лучше оплачивалась, и поближе к хозяйской дочке, горячей блондиночке... Если подумать, то я и потерял эту работу из-за неё. Так-то вот.<end>
+
+=>q164_original
+actin' like she's the chief herself. I mean, if you wanna be the boss of me, you gotta have *some* curves, baby. Yeeeah!<end>
+
+=>q164
+ведёт себя так, будто она - шеф. Я к тому, что если ты хочешь возглавлять, то у тебя, детка, должно быть наличие некоторых округлостей... Ха-ха!<end>
+
+=>q165_original
+Well, she was second in command here. Not saying she wasn't a bit difficult sometimes, but let's face it, she earned it. She's been on many jobs, always performing flawlessly in pretty much any role you put her.<end>
+
+=>q165
+Вообще-то, она была второй по старшинству. Не скажу, что с ней легко работалось, но если честно, по труду и награда. Она была на многих заданиях и всегда безупречно выполняла любую поставленную ей задачу.<end>
+
+=>q166_original
+Earned it, eh? You know about these rumors...<end>
+
+=>q166
+По труду и награда?.. А ты знаешь, что про неё ходили слухи?<end>
+
+=>q167_original
+Rumors? You mean that she's Briggs' daught--<end>
+
+=>q167
+Слухи?.. Ты имеешь в виду, что она дочь Бриггса?..<end>
+
+=>q168_original
+That they were grindin'!<end>
+
+=>q168
+Я имею в виду, что они шпилились!<end>
+
+=>q169_original
+::His eyes almost pop out of their sockets.:: What!?<end>
+
+=>q169
+::Его глаза почти вылезают из орбит.:: Чего?!<end>
+
+=>q170_original
+You know, nooky-nooky, rumpy-pumpy. Sure, they kinda look alike and have the same grumpy attitude, and I can imagine you sec-troopers barkin' up that cliff. But every laborer I talked to said, "Yup, they's grindin' alright." Swear on my sister Lilly!
+
+I mean, he asked to see 'er straight away after we came back from Core City? What's that tellin' you, eh, Marky? 
+
+He came back for that tawin' freezer kiss - cold but sloppy, bwahahaha!<end>
+
+=>q170
+Ну, шпили-вили, пестики-тычинки... не понимаешь что ли? Да, они похожи друг на друга и такие же ворчуны, и я знаю, что вы, охранники, думаете по этому поводу. Но каждый рабочий, с кем я говорил, мне отвечал: "Да они точно шпилятся." Клянусь моей сестрой Лилли!
+
+Подумай, он позвал её к себе сразу после того, как мы вернулись из Кор-Сити? Что скажешь на это, Марки? 
+
+Он вернулся за поцелуем снежной королевы, пусть холодным, но влажным... Ха-ха-ха!<end>
+
+=>q171_original
+Damn it, Tone, she's dead. Can't you show some respect?<end>
+
+=>q171
+Проклятие, Тон, она мертва. Не мог бы ты проявить хоть чуточку уважения?<end>
+
+=>q172_original
+::He pauses, his eyes veering to the side.:: Yeah, sorry, Marky. You know me. I got a bit carried away.<end>
+
+=>q172
+::Он делает паузу, отводя глаза в сторону.:: Да, извини, Марки. Ты же меня знаешь. Я немного увлёкся.<end>
+
+=>q173_original
+It's telling me we're done discussing this.<end>
+
+=>q173
+Мы не будем это обсуждать.<end>
+
+=>q174_original
+Eh... what a dropjoy.<end>
+
+=>q174
+Ох... как жалко-то.<end>
+
+=>q175_original
+That they're grindin'!<end>
+
+=>q175
+Я имею в виду, что они шпилятся!<end>
+
+=>q176_original
+Well, she is second in command here. Not saying she is not a bit difficult sometimes, but let's face it, she earned it. She's been on many jobs, always performing flawlessly in pretty much any role you put her.<end>
+
+=>q176
+Вообще-то, она вторая по старшинству. Не скажу, что с ней легко работается, но если честно, по труду и награда. Она была на многих заданиях и всегда безупречно выполняла любую поставленную ей задачу.<end>
+
+=>q177_original
+'s <end>
+
+=>q177
+Разве жизнь не прекрасна, Марки? У меня было то же самое чувство, когда я вместо сборки ручных гранат занялся ремонтом пулемётов. Простая, более безопасная работа, которая лучше оплачивалась, и поближе к хозяйской дочке, горячей блондиночке... Если подумать, то я и потерял эту работу из-за неё. Так-то вот.<end>
+
+=>q178_original
+She is what we call a *security specialist*.<end>
+
+=>q178
+Она, как мы говорим, *специалист по безопасности*.<end>
+
+=>a179_original
+Seeger...<end>
+
+=>a179
+Сигер...<end>
+
+=>q180_original
+Ginger! Professor's computer guy. Can't dig half the things he's sayin'.<end>
+
+=>q180
+Рыжеголовый! Компьютерщик профессора. Я не понимаю и половины из того, что он говорит.<end>
+
+=>q181_original
+He can't understand half the things you're saying.<end>
+
+=>q181
+А ему не понятна половина того, что ты говоришь.<end>
+
+=>q182_original
+Well ain't that pipeworkin', bwahahaha!<end>
+
+=>q182
+Ну разве это не трубочистно... Ха-ха-ха!<end>
+
+=>q183_original
+To clarify, $(context.player.Name), it's not the technical terms that confuse Tone - most of the time - it's the Hexagonian slang he's using. And to tell you the truth, even though I visit Hexagon fairly regularly, I too can sometimes struggle with some of the new terms he's using. It all changes so fast.<end>
+
+=>q183
+Чтобы было понятно, $(context.player.Name), Тон пользуется не какими-то техническими терминами, а сленгом жителей Шестигранника. И хотя я довольно регулярно там бываю, меня тоже иногда ставят в тупик его новые словечки. Всё так быстро меняется.<end>
+
+=>q184_original
+X-this, x-that. It's a one-trick hopper, don't you think?<end>
+
+=>q184
+Ну, то-сё... Это слова узкого профиля.<end>
+
+=>q185_original
+You mean like pipe-this, pipe-that?<end>
+
+=>q185
+Ты хотел сказать *труба*-то, *труба*-сё?<end>
+
+=>q186_original
+Damn it, Marky, you really gotta make this hardcore for me, don't you?<end>
+
+=>q186
+Чёрт возьми, Марки, ты теперь всегда будешь говорить весь хардкор за меня?<end>
+
+=>a187_original
+But why Ginger? Don't think I've heard anyone else call him that.<end>
+
+=>a187
+А почему *рыжеголовый*? Не слышал$(#/а), чтобы кто-то ещё так его называл.<end>
+
+=>q188_original
+I dunno. That's the first thing that came to my mind when I saw 'im. He's... kinda Ginger.<end>
+
+=>q188
+Не знаю, это первое, что пришло мне в голову... рыжеголовый.<end>
+
+=>a189_original
+Why not, say, Dreadlocks?<end>
+
+=>a189
+А почему бы тогда не *дредлок*?<end>
+
+=>q190_original
+Ah, no, that'd make him sound far too hardcore for someone who's playin' with computers all day, bwahaha!
+
+But at that the kid's dominatin'. And at makin' coffee! Yeeeeah, that stuff's hardcore!<end>
+
+=>q190
+О, нет, это слишком хардкорно для того, кто целыми днями играется с компьютерами... Ха-ха-ха!
+
+Но это то, в чём детвора шарит. Также, это была бы лажа! Такая хрень только для хардкорных!<end>
+
+=>a191_original
+Tell me about Doc Savage.<end>
+
+=>a191
+Расскажи мне о докторе Диком.<end>
+
+=>q192_original
+Doc Savage is our chief security medic. He's a veteran who's been with Aegis Incorporated since the very foundation.<end>
+
+=>q192
+Доктор Дикий - наш главный медик. Он старожил, работает в Эгиде Инкорпорейтед с самого основания.<end>
+
+=>q193_original
+Well, this job he ain't takin' all too well. Can't make it without his smokes. Here you're hardcore if you get to have a smoke once a month!<end>
+
+=>q193
+Ну, здесь у него не всё гладко получается. Особенно без сигарет. Какая может быть работа, если ты куришь раз в месяц!<end>
+
+=>q194_original
+This expedition's difficult for all of us, Tone, but Doc's the one treating all the sick and dying. To my knowledge Aegis has never done anything at this scale before and with so many casualties.
+
+And there are some other problems as well, but I'd rather we don't go into that.<end>
+
+=>q194
+Эта экспедиция доставляет всем проблемы, Тон, но доктор лечит всех. Насколько мне известно, Эгида раньше никогда не участвовала ни в чём подобном, и с таким количеством потерь.
+
+Есть и другие проблемы, но мне бы хотелось, чтобы мы в них не вдавались.<end>
+
+=>q195_original
+Wait a second, wait... It's a woman, right? Every time someone mentions "other problems," it's gotta be a pipeworkin' woman. What snake messed 'im up, eh?<end>
+
+=>q195
+Нет, нет, нет, погоди-ка... Здесь замешана женщина? Каждый раз, когда кто-то говорит "другие проблемы", то дело точно в женщине. Что за деваха его окрутила?<end>
+
+=>q196_original
+He's married. And I said we aren't discussing that.<end>
+
+=>q196
+Он женат. И как я уже сказал, мы не будем это обсуждать.<end>
+
+=>q197_original
+Aaaaaah, then it's all clear: She didn't want 'im comin' here. It's gotta be that. That's what women are like, Marky. Some of my best mates hoppered out of some dangerous stuff 'cause of girlfriends. 
+
+Now, sometimes they're right, sometimes they're dead wrong, but women, they always gotta meddle.<end>
+
+=>q197
+Ага... тогда всё ясно: она не хотела, чтобы он отправлялся сюда. Ну, это так и должно быть. Такова натура женщин, Марки. Некоторые из моих лучших друзей выпутались из довольно опасных передряг благодаря подружкам. 
+
+И что тут скажешь, иногда они правы, иногда чертовски ошибаются, но на то они и женщины, они имеют право на свой голос.<end>
+
+=>q198_original
+As for Doc, just add the sick and dyin' all around 'im and it's no wonder he needs them smokes. Don't envy the son of a rat one bit.<end>
+
+=>q198
+А что касается доктора, просто представь всех этих больных и умирающих вокруг него, поэтому неудивительно, что ему так не хватает этих самых сигарет. Этому сукиному сыну не позавидуешь.<end>
+
+=>a199_original
+I'd like to discuss something else.<end>
+
+=>a199
+Я хотел$(#/а) бы обсудить ещё кое-что.<end>
+
+=>q200_original
+Yeah?<end>
+
+=>q200
+Да?<end>
+
+=>a201_original
+A Tony-of-all-trades, you say?<end>
+
+=>a201
+Тони на все руки, говоришь?<end>
+
+=>q202_original
+Tone of all trades, yeah.<end>
+
+=>q202
+Тони на все руки, ага.<end>
+
+=>q203_original
+<end>
+
+=>q203
+<end>
+
+=>a204_original
+::[Guns]:: Do you just maintain firearms or do you have any gunsmithing experience?<end>
+
+=>a204
+::[Пушки]:: Ты просто держишь огнестрельное оружие или у тебя есть опыт в оружейном деле?<end>
+
+=>q205_original
+I got one word for you: Sewage pipe molotov launcher. That's four words, but it's also one of my finest creations. You put the molotov in, light the rag, pull the trigger and zone out any pipeworker dumb enough to mess with you.<end>
+
+=>q205
+У меня есть для тебя одно волшебное слово: канализационно-трубный гранатомёт молотова. Это четыре слова, но также одно из моих лучших творений. Ты заряжаешь молотов, поджигаешь тряпку и накрываешь любого трубочиста, настолько глупого, чтобы состязаться с тобой.<end>
+
+=>q206_original
+<end>
+
+=>q206
+<end>
+
+=>q207_original
+Tone of all trades.<end>
+
+=>q207
+Тон - мастер на все руки.<end>
+
+=>q208_original
+Tony of all trades!<end>
+
+=>q208
+Тони - мастер на все руки.<end>
+
+=>a209_original
+::[Guns] or [Heavy Guns]:: Do you just maintain firearms or do you have any gunsmithing experience?<end>
+
+=>a209
+::[Пушки] или [Тяжёлое оружие]:: Ты просто держишь огнестрельное оружие или у тебя есть опыт в оружейном деле?<end>
+
+=>a210_original
+::[Throwing]:: Ever worked as an animal catcher? Throwing nets or perhaps things of a more lethal nature.<end>
+
+=>a210
+::[Бросок]:: Когда-нибудь работал ловцом животных? Бросать сети или вещи более смертоносного характера.<end>
+
+=>q211_original
+$(context.npc_xpbl_ladelman_playerName), I lived by the Mushroom Cove most of my life. Used to be the second best hopper netter back in my teens. Chased 'em into their crevices back when I was slimmer.<end>
+
+=>q211
+$(context.npc_xpbl_ladelman_playerName), я жил в Грибной бухте большую часть своей жизни. Когда-то, в подростковом возрасте был вторым лучшим ловшиком пещерников. Гнали их обратно в свои щели, когда я был стройнее.<end>
+
+=>a212_original
+Who was the first?<end>
+
+=>a212
+Кто был первым?<end>
+
+=>q213_original
+::He turns serious.:: Tim Cobblejock. But he couldn't catch that one psi beetle that sneaked up on him...<end>
+
+=>q213
+::Он становится серьёзным.:: Тим Коббледжок. Но он не мог схватить этого пси-жука, который подкрался к нему...<end>
+
+=>a214_original
+::[Crossbows]:: What about crossbows? Ever dabbled in those kinds of weapons?<end>
+
+=>a214
+::[Арбалеты]:: Что насчёт арбалетов? Когда-нибудь баловался с этими видами оружия?<end>
+
+=>q215_original
+Pffffffffft! Do I work with crossbows, $(#he/she) says? I made my own simple crossbow before I had a gun. With it I shot bats, rats and rabid feral cats. Then I made a better one and moved onto hoppers. Then some punks beat me up and stole it. Then I returned to shootin' bats, rats and rabid feral cats.
+
+Do I work with crossbows!<end>
+
+=>q215
+Пфффф! Имею ли я дело с арбалетами, он$(#/а) спрашивает? Я сделал себе собственный простой арбалет, прежде чем у меня появился пистолет. С его помощью я стрелял по летучим мышам, крысам и бешеным диким кошкам. Когда я сделал лучше и перешёл на пещерников. Потом какие-то панки избили меня и украли его. После чего я начал опять стрелять в летучих мышей, крыс и бешеных диких кошек.
+
+Я имею дело с арбалетами!<end>
+
+=>a216_original
+::[Melee]:: Martial arts?<end>
+
+=>a216
+::[Ближний бой]:: Боевые искусства?<end>
+
+=>q217_original
+When I was a kid I taught my best friends Shacky, Burly and Slim the metro-famous *Lad Down Hard*, a mysterious and hardcore ancient martial art from East Underrail... which I had developed a few months prior after gettin' my ass repeatedly zoned out by this kid, Brutal Joe.
+
+One mirror-shatterin' *ugly* son of a rat.<end>
+
+=>q217
+Когда я был маленьким, я учил своих лучших друзей Шаки, Берли и знаменитого в метро Слима - "Трудного дитя", таинственному и хардкорному древнему боевому искусству из Восточной Подземки... которое я разработал несколькими месяцами ранее после того, как несколько раз получил по своему заду пареньком по имени Брутальный Джо.
+
+Зеркало не выдерживающий "уродливый" крысёныш.<end>
+
+=>q218_original
+Lad Down Hard ended up bein' real dominatin'. Mostly because it involved kickin' people in the crotch.
+
+Who's brutal now, Joe? Bwahahaha!<end>
+
+=>q218
+"Трудное дитя" оказался "настоящим доминатором". Главным образом, потому что он любил пинать людей между ног.
+
+И кто теперь брутальный, Джо? Бха-ха-ха-ха!<end>
+
+=>a219_original
+::[Hacking]:: You surely aren't into hacking?<end>
+
+=>a219
+::[Хакерство]:: Ты точно не из хакеров?<end>
+
+=>q220_original
+Sure I am. That time when I worked as a butcher I used to hack 'em hopper heads off all day long. Yeeeeah, ya littl' food-offs, bwahaha!<end>
+
+=>q220
+Точно, из них. В то время, когда я работал мясником, я целыми днями хакал головы пещерников. Даааа, ваши маленькие кочерышки, бха-ха-ха!<end>
+
+=>a221_original
+::[Lockpicking]:: Locksmithing?<end>
+
+=>a221
+::[Взлом замков]:: Слесарное дело?<end>
+
+=>q222_original
+$(context.npc_xpbl_ladelman_playerName),you ain't a Junkyard child if you didn't know how to pick the padlock to your neighbor's shack. Yeeeah! 
+
+But fast forward a few years later and I'm helpin' this locksmith design better locks by pickin' and bustin' them all day long.<end>
+
+=>q222
+$(context.npc_xpbl_ladelman_playerName), ты явно не дитя Свалки, если не знаешь, как взломать висячий замок на хижине соседа. Даааа!
+
+Но перенесёмся на несколько лет вперёд, и я помогаю этому слесарю изобрести лучше замки, взламывая и ломая их целыми днями.<end>
+
+=>q223_original
+You either die a snotty little thief, or you remain unshot long enough to see yourself become a sell-out. But Ol' Toby, he paid me some good coins.<end>
+
+=>q223
+Ты либо умрёшь никчёмным сопливым вором, либо останешься непристреленным достаточно долго, чтобы увидеть себя востребованным. Но Старый Тоби, заплатил мне неплохую сумму.<end>
+
+=>a224_original
+::[Pickpocketing]:: What about the oldest trade of them all - pickpocketing.<end>
+
+=>a224
+::[Карманная кража]:: Как насчёт самого старого ремесла из всех - карманных краж.<end>
+
+=>q225_original
+That's not the oldest trade as far as I know, bwahahaha. ::He slaps his butt.::
+
+*But*! I have done some pickpocketin', eeeeh, but for the exact opposite reasons - to see how I could protect against it. Yeeeeeah!<end>
+
+=>q225
+Это не самое старое ремесло, насколько мне известно, бха-ха-ха-ха. ::Он шлёпает по своему заду.::
+
+"Но"! У меня был опыт в карманных кражах, ээээх, но совершенно по противоположным причинам - чтобы узнать, как я могу защититься от этого. Даааа!<end>
+
+=>q226_original
+Lotsa pickpocketers in Core City, pipeworkin' drop-offs. So after practicin' on some drunks I designed a couple of anti-pickpocketin' devices to protect my stuff. I had this miniature bear trap - finger trap, I called it - I used to put in my pocket. Had a single zoner lose a finger three separate times, bwahaha! 
+Also there was the "nail pocket" - lotsa nails on the inside. One guy's hand got stuck inside and I had to walk 'im to an enforcer like that. That was hardcore, if a bit messy.<end>
+
+=>q226
+В Кор-Сити много карманщиков, трубочистских отбросов. Поэтому после практики на некоторых пьяниц я спроектировал пару устройств против карманных краж, чтобы обеспечить защиту своим вещам. У меня была эта миниатюрная ловушка на медведей - ловушка для пальцев, как я её называл, - я обычно клал её в карман. Один зонер потерял палец три раза подряд, бха-ха-ха!
+Также был "гвоздевой карман" - много гвоздей в кармане. Рука одного парня застряла внутри, и мне пришлось вести его охраннику в таком виде. Это было хардкорно, хотя и немного странно.<end>
+
+=>q227_original
+Maybe I should've opened a shop for that kinda stuff. I was dominatin'. 
+
+Well, yeah, except the shot-away. It was... loud. And gets you soaked in blood and bits.<end>
+
+=>q227
+Может быть, мне стоило было открыть магазин для такого рода вещей. Я был доминирующим. 
+
+Ну, э-э, кроме пьяниц. Это слишком... шумно. И зыбрызгивает тебя кровью и остальным.<end>
+
+=>a228_original
+::[Traps]:: How about trapping?<end>
+
+=>a228
+::[Ловушки]:: Как насчёт ловушек?<end>
+
+=>q229_original
+Done that too. Was taught by the best, in fact: the hunters of Camp Hathor. Lived there for a few months. Actually, in a stranded boat near the camp, but that's hardly worse than sleepin' in the camp itself, bwahaha!<end>
+
+=>q229
+Этим тоже занимался. На самом деле обучался лучшими охотниками из лагеря Хатор. Прожил там несколько месяцев. На самом деле, в пришвартованной лодке возле лагеря, но это вряд ли хуже, чем спать в самом лагере, бха-ха-ха!<end>
+
+=>q230_original
+They thought I was, and I quote: "Pretty damn not so bad for a zoner." Yeeeeeeah! Makes me proud.<end>
+
+=>q230
+Они думали, что я - цитирую: "Чертовски неплох для зонера." Дааааа! Меня аж гордость распирает.<end>
+
+=>a231_original
+::[Mechanics]:: So you're both a quad and jet mechanic, right?<end>
+
+=>a231
+::[Механика]:: Значит, ты механик квадро- и гидроциклов, да?<end>
+
+=>q232_original
+Yeah. But the greatest compliment I ever got was back when I was workin' as a quad mechanic. Dirty the whole day, *every* day, reekin' of oil and electrolyte and brew. So, I was fixin' this dominatin' E-series Metrothunder for this well-known motorhead, and I overheard 'im talkin' to my boss: "I wouldn't take a can of eels from his hand, but damn the kid's got it."<end>
+
+=>q232
+Ага. Но самый когда-либо лучший комплимент, который мне говорили, был, когда я ещё работал механиком квадроциклов. Весь день грязный, каждый день, пахнешь маслом, электролитом и пойлом. Итак, я чинил этот доминирующий Метрогром серии E для одного очень известного моторхэда, и я услышал его разговор с моим боссом: "Я бы не взял и банки угрей из его рук, но, дьявол, пацан не из робких."<end>
+
+=>q233_original
+Should've stayed workin' on quads, but it was them or jets. Yeeeeah!<end>
+
+=>q233
+Нужно было остаться работать с квадроциклами, но либо они или гидроциклы. Дааааа!<end>
+
+=>a234_original
+::[Electronics]:: How experienced are you with electronic devices?<end>
+
+=>a234
+::[Электроника]:: Насколько хорошо ты разбираешься в электронных устройствах?<end>
+
+=>q235_original
+Next to Marky... 
+
+I'm nothin'. Zoner.<end>
+
+=>q235
+Почти, как Марки...
+
+Я - ничто. Зонер.<end>
+
+=>q236_original
+::He nods silently.::<end>
+
+=>q236
+::Он молча кивает.::<end>
+
+=>q237_original
+::He speaks with a smug smile.:: Tell $(#'im/'er), Markyeh!<end>
+
+=>q237
+::Он говорит с самоуверенной ухмылкой.:: Скажи $(#ему/ей), Марки!<end>
+
+=>q238_original
+Ladelman? Wouldn't let him change my navcom's batteries.<end>
+
+=>q238
+Лэйдельман? Не позволил бы ему заменить батареи моего навкома.<end>
+
+=>q239_original
+I'll give you batteries... 
+
+...up your ass, you lousy wimp. Just you wait, bwahaha!<end>
+
+=>q239
+Я засуну батареи... 
+
+...в твою задницу, ах, ты паршивая тряпка. Погоди только, бха-ха-ха!<end>
+
+=>q240_original
+::He turns to you.:: <end>
+
+=>q240
+::Он поворачивается к вам.::<end>
+
+=>a241_original
+::[Chemistry]:: Ever mixed chemicals?<end>
+
+=>a241
+::[Химия]:: Когда-нибудь смешивал химические вещества?<end>
+
+=>q242_original
+Oh, yes. Back in Junkyard I was workin' with Bonzo, Zag, Tookie and Gleen. Nice guys. Hardcore shroomheads. We made *fun* chemicals together. Everyone around us dug 'em, and we earned some decent coins from it.<end>
+
+=>q242
+О да. Ещё на Свалке, я работал с Бонзо, Загом, Туки и Глин. Хорошие ребята. Хардкорные грибоголовы. Мы вместе создали "забавные" химические вещества. Все вокруг употребляли их, и мы заработали на этом весьма неплохие монеты.<end>
+
+=>q243_original
+But, the old sayin' is there for a reason: "Never get high on your own supply." And they did that a lot. So they started mixin' somethin' they shouldn't have and, well, Bonzo got blown to pieces. 
+
+And Zag. 
+
+And Tookie. 
+
+Gleen was just incinerated.<end>
+
+=>q243
+Но старая поговорка как раз к месту: "Никогда не лови кайф от собственного товара". А они этим часто занимались. Так что они начали смешивать что-то, чего не стоило, и, что ж, Бонзо разорвало на куски.
+
+И Зага. 
+
+И Туки. 
+
+Глин просто сгорел.<end>
+
+=>q244_original
+Me, I wasn't there at the time 'cause I was doin' Gleen's sister Neena. She was as fun as a rag doll, but boy am I glad I did 'er that day.<end>
+
+=>q244
+Я, меня не было там в то время, потому что был с сестрой Глин Ниной. Она была такой же весёлой, как тряпичная кукла, но, блин, я рад, что взял её в тот день.<end>
+
+=>a245_original
+::[Biology]:: Any medical experience?<end>
+
+=>a245
+::[Биология]:: Есть какой-нибудь опыт в медицине?<end>
+
+=>q246_original
+I got my veterinary certificate a few years ago. Well, the certificate was a handshake and a brew for helpin' this guy neuter his boars, eh - chisel their rocks off. But that was just an informal formality, as I'd been workin' on his humble ranch, this nice little place overlookin' the waterways, on and off for a few years beforehand and learned everythin' there is to know about pigs and pig anatomy.<end>
+
+=>q246
+Я получил свой ветеринарный сертификат несколько лет назад. Ну, сертификат состоял из рукопожатия и пива за помощь одному парню кастрировать его кабанов, э-э... отрезать их яйца. Но это была лишь неофициальная формальность, так как я работал на его скромном ранчо, в этом милом маленьком месте с видом на водные пути, открывал и закрывал несколько лет перед этим и узнал всё, что нужно знать о свиньях и их анатомии.<end>
+
+=>q247_original
+And since pigs and folks and zoners are all similar on the inside, I've been usin' this knowledge to treat people whenever the opportunity arose. With hardcore success!<end>
+
+=>q247
+А поскольку свиньи, люди и зонеры одинаковы внутри, я использую эти знания для лечения людей при каждой возможности. С хардкорным успехом!<end>
+
+=>a248_original
+::[Tailoring]:: How well can you sew?<end>
+
+=>a248
+::[Шитьё]:: Насколько ты хорош в шитье?<end>
+
+=>q249_original
+As well as the Invictus dominates. My poor mom had shaky hands and could never get the thread through the eye, so I picked up sewin' before I picked up brewin', bwahahah! A few years of experience and I was a decent tailor, fixin' stuff for the locals.
+
+In fact, *ehem*, I sewed a couple of dominatin' dresses for my sister Lilly. Yeeeeah!<end>
+
+=>q249
+Так же хорош, как и Инвиктус в доминировании. У моей бедной мамы тряслись руки, и она никогда не могла попасть в ушко, поэтому я стал быстрее шить, чем пить, бха-ха-ха-ха! Несколько лет работы, и я стал приличным портным, подлатывая вещи местным.
+
+На самом деле, "гм", я сшил пару доминирующих платьев для моей сестры Лилли. Даааа!<end>
+
+=>a250_original
+::[Mercantile]:: How about the trading business?<end>
+
+=>a250
+::[Торговля]:: Как насчёт опыта в коммерции?<end>
+
+=>q251_original
+One of my more recent jobs was workin' as a door-to-door salesman for a new line of Coretech vacuum bots, up in Core City's residential area. They went like derailed! I even sold a couple to them zoners at Core City Housin' Corporation. I was thinkin': "Yeeeeah! Fat rat society, here I come!"<end>
+
+=>q251
+Одна из моих последних работ была работа в качестве коммивояжёра, продовал новую линию вакуумных ботов КорТех в жилом районе Кор-Сити. Они ушли, как поехавшие! Мне даже удалось продать пару зонерам из Жилищной корпорации Кор-Сити. Я подумал: "Даааа! Жирное общество крыс, я уже иду!"<end>
+
+=>q252_original
+Unfortunately, it turned out they had defective power cells and started explodin'. Guess I stayed with malnourished rats, bwahaha! <end>
+
+=>q252
+К сожалению, оказалось, что в них были дефектные элементы питания и они начали взрываться. Похоже, я остался с истощёнными крысами, бха-ха-ха!<end>
+
+=>a253_original
+::[Intimidation]:: You'd pass for a bouncer.<end>
+
+=>a253
+::[Запугивание]:: Ты сойдёшь за вышибалу.<end>
+
+=>q254_original
+::He rubs his bald head.:: Yeah, did that a few times. It's hardcore when you're startin' out: You shine your boots, your brass knuckles and your dome, thinkin' you're so hardcore people are gonna be checkin' their pipes when you come up to them with your best Imma-zone-you-out face. 
+
+And then you get run over by this stimmed up, brewed-out a hundred-and-thirty-kilo roid train. After a while I got tired of washin' my own blood from my shirts.<end>
+
+=>q254
+::Он проводит рукой по своей лысой голове.:: Да, бывало пару раз такое. Это хардкорно, когда ты начинаешь: Ты натираешь свои ботинки, свой медный костет и свою лысину, думая, что ты такой хардкорный, и, что люди начнут собирать свои кости, когда ты придёшь к ним cо своим лучшим выражением лица я-вас-сейчас-отзонирую.
+
+А потом вас сносит этот возбуждённый, выпивший сто тридцати килограммовый поезд. Через какое-то время мне надоело отмывать свою кровь от своей одежды.<end>
+
+=>q255_original
+But, I was once a scarebat for a day. This guy was tryin' to keep bats away from his mushrooms. 
+
+I put on that face, and no bat *dared* comin' near, bwahahaha!<end>
+
+=>q255
+Однажды мне пришлось быть пугалом целый день. Этот парень пытался отгонять летучих мышей от своих грибов.
+
+Я состряпал это лицо, и ни одна летучая мышь "не смела" подойти, бха-ха-ха-ха!<end>
+
+=>a256_original
+::[Persuasion]:: How about acting?<end>
+
+=>a256
+::[Убеждение]:: Что насчёт актёрской игры?<end>
+
+=>q257_original
+After a couple of days here I could do everyone at the camp: voice, mannerisms, the whole deal.<end>
+
+=>q257
+После несколько дней здесь я мог парадировать всех в лагере: голос, манеры, всё такое.<end>
+
+=>q258_original
+But... I'm sorry. I'm not feelin' it now. You know. ::He shakes his head.::<end>
+
+=>q258
+Но... Прошу прощения. Сейчас, не до этого. Понимаете. ::Он качает головой.::<end>
+
+=>q259_original
+Check this out and see if you can recognize anyone...
+
+Khm, khm. La-la-la-di-daaaaaa! Khm.
+
+Here we go.<end>
+
+=>q259
+Взгляни-ка и скажи, сможешь ли узнать кого-нибудь...
+
+Гм, гм. Ла-ла-ла-ди-даааааа! Гм.
+
+Вот так.<end>
+
+=>q260_original
+::He puts on an austere expression.:: "Ladelman. I hate you because my mother never let me have fun."<end>
+
+=>q260
+::Он делает серьёзное лицо.:: "Лэйдельман. Я ненавижу тебя, так как моя мама никогда не позволяла мне веселиться."<end>
+
+=>q261_original
+::Then he lets his face droop.:: Mmm. Another *Savage* joke... ::He sighs.:: <end>
+
+=>q261
+::Потом серьёзность сходит с его лица.:: М-м-м. Ещё одна *Дикая* шутка... ::Он вздыхает.::<end>
+
+=>q262_original
+::Then he brings his fingers and thumbs together into an "O" shape and puts them over his eyes.:: 
+
+Oh goodness me! I say, and if I may be so bold as to comment on another man's appearance - in a strictly honest and objective way, I must add - but by the caverns, this young Ladelman sure is a dashin' fellow! Dominatin'ly hardcorely!<end>
+
+=>q262
+::Затем он соединяет свои пальцы в виде буквы "О" и поднимает их над глазами.:: 
+
+О, Господи! Я хочу сказать, что если я могу быть настолько смелым, чтобы комментировать внешность другого человека - откровенно и объективно, я должен добавить - клянусь Подземкой, этот молодой Лэйдельман, несомненно, бравый малый! Доминирует хардкорно!<end>
+
+=>q263_original
+::Then he grabs an imaginary t-flask of coffee and runs his hand through where his dreadlocks, or hair in general, would be.:: 
+
+'Kay: Xin' xer xes xtra in xo xy xcell xa.<end>
+
+=>q263
+::Затем он берёт воображаемую т-флягу с кофе и проводит рукой по тому месту, где должны были быть его дреды или вообще волосы.:: 
+
+::Говорит: "О'кей", а потом следует набор слов ненормативной лексики.::<end>
+
+=>q264_original
+::Then he turns his head aside, eyes closed, head low, and speaks in a whispery, husky voice.:: 
+
+I never asked to be a part of this fraggin' imitation.<end>
+
+=>q264
+::Затем он поворачивает голову в сторону, глаза закрыты, голова опущена, и говорит тихим, хриплым голосом.:: 
+
+Я никогда не просил быть частью этой грёбаной имитации.<end>
+
+=>q265_original
+::And lastly, he looks at Marky.:: I wish I was as hardcore as Ladelman.<end>
+
+=>q265
+::И наконец, он смотрит на Марки.:: Я хотел бы быть таким же хардкорным, как Лэйдельман.<end>
+
+=>q266_original
+Yeah, right.<end>
+
+=>q266
+Ага, точно.<end>
+
+=>q267_original
+And handsome. Yeaaah, that bald head.<end>
+
+=>q267
+И красивым. Дааа, с этой лысой головой.<end>
+
+=>q268_original
+What the--?<end>
+
+=>q268
+Что за?..<end>
+
+=>q269_original
+And funny. 
+
+And tough.
+
+And...<end>
+
+=>q269
+И смешной.
+
+И крутой.
+
+И...<end>
+
+=>q270_original
+Would you stop already?<end>
+
+=>q270
+Может уже остановишься?<end>
+
+=>q271_original
+Bwahahaha!<end>
+
+=>q271
+Ха-ха-ха!<end>
+
+=>a272_original
+::[Any psionic discipline]:: But I betcha never worked with psionic equipment.<end>
+
+=>a272
+::[Любое псионическое обучение]:: Бьюсь об заклад, что ты никогда не работал с псионическим оборудованием.<end>
+
+=>q273_original
+A-HA! That's where you're wrong! I was once takin' care of this - what's it called - idiot savant psionic. Uh, for coins. Don't ask. 
+
+He was, eh, dominated in the head - but *dominatin'* at psionics. You dig?<end>
+
+=>q273
+А-ХА! Вот здесь ты не прав$(#/а)! Однажды, я позаботился об этом - как это называется - идиотский савант-псионик. Ух, за деньги. Не спрашивай.
+
+Он был, э-э, доминирующий на голову - но "доминирующий" псиониками. Сечёшь?<end>
+
+=>q274_original
+Anyway, I used to tweak the guy's psi band all the time. Started out of boredom, but then I got really interested in how it all works. After a while I noticed my tweaks were startin' to... actually have some positive effects, yeah.
+
+Shame he incinerated himself in the end.<end>
+
+=>q274
+Так или иначе, я всё врёмя настраивал пси-обруч парня. Начал со скуки, но потом действительно заинтересовался тем, как всё это работает. Через некоторое время я заметил, что мои настройки начали... на самом деле иметь некоторые положительные эффекты, да.
+
+Жаль, что он сжёг себя в итоге.<end>
+
+=>a275_original
+We'll return to this later.<end>
+
+=>a275
+Мы вернёмся к этому позже.<end>
+
+=>q276_original
+Yeah.<end>
+
+=>q276
+Да.<end>
+
+=>q277_original
+And a master of about half, bwahaha!<end>
+
+=>q277
+И мастер примерно на половину, бха-ха-ха!<end>
+
+=>a278_original
+::[Mercantile]:: You sneaky rascal.<end>
+
+=>a278
+::[Торговля]:: Ты подлый негодяй.<end>
+
+=>q279_original
+I'm not really in the mood, $(context.npc_xpbl_ladelman_playerName). What is this about?<end>
+
+=>q279
+Я не совсем в настроении, $(context.npc_xpbl_ladelman_playerName). О чём ты?<end>
+
+=>a280_original
+::Lean closer.:: You must've smuggled some kind of contraband into the camp during your resupply trip to Core City. Maybe there's something I'd be intersted in buying as well.<end>
+
+=>a280
+::Наклониться ближе.:: Ты наверняка привёз контрабанду в лагерь посте поездки в Кор-Сити. Возможно, у тебя найдётся что-нибудь, что меня заинтересует.<end>
+
+=>q281_original
+::Marcus casts a suspicious gaze upon you two the moment you said the word "contraband," as though he could somehow hear or sense its utterance despite your almost inaudible delivery.::<end>
+
+=>q281
+::Маркус бросает на вас подозрительный взгляд в тот момент, когда вы произносите слово "контрабанда", как будто он может каким-то образом услышать или понять ваше высказывание, несмотря на вашу почти тихую речь.::<end>
+
+=>q282_original
+Sorry to disappoint you, $(context.npc_xpbl_ladelman_playerName), but I'd never do such a thing. Mostly because Briggs would hang me by my... ::He glances down.::... best friends if he ever found out.<end>
+
+=>q282
+Жаль тебя разочаровывать, $(context.npc_xpbl_ladelman_playerName), но я бы никогда не стал заниматься этим. В основном, потому что Бриггс подвесил бы меня за моих... ::Он смотрит вниз.:: верных друзей, если бы он узнал.<end>
+
+=>q283_original
+::He then leans closer and whispers.:: <end>
+
+=>q283
+::Затем он наклоняется ближе и шепчет.::<end>
+
+=>q284_original
+But His Domination, the Invictus would never reveal it to 'im, right?<end>
+
+=>q284
+Но Его Доминирование, Инвиктус никогда не сообщит ему об этом, ведь так?<end>
+
+=>q285_original
+Look, Briggs is a bit strict when it comes to certain things like booze or drugs, but I figured the sec-troopers are havin' it real hardcore out here and need some stuff to relax or... to give them an edge when the crap hits the zoner.
+
+Lemme show you what I mean.<end>
+
+=>q285
+Послушай, Бриггс немного строг, когда дело доходит до определённых вещей, таких как выпивка или наркотики, но я подумал, что охранникам по-настоящему хардкорно тут и они нуждаются в каких-то вещах, чтобы расслабиться или... дать им преимущество, когда дерьмо попадёт в зонера.
+
+Позволь мне показать тебе, что я имею в виду.<end>
+
+=>a286_original
+::Barter.::<end>
+
+=>a286
+::Обмен.::<end>
+
+=>q287_original
+But he won't, will he?<end>
+
+=>q287
+Но он бы не стал, не так ли?<end>
+
+=>q288_original
+Yeah. What you see is all I got.<end>
+
+=>q288
+Ага. То, что ты видишь, это всё, что у меня есть.<end>
+
+=>q289_original
+::He smiles.:: Me?<end>
+
+=>q289
+::Он улыбается.:: Я?<end>
+
+=>a290_original
+::[Mercantile] Lean closer.:: You sure about that... "stuff" you may have sneaked in?<end>
+
+=>a290
+::[Торговля] Наклониться ближе.:: Ты в этом уверен... эти "вещи", похоже, ворованные?<end>
+
+=>a291_original
+I was told to talk to you if I had any questions about jet skis.<end>
+
+=>a291
+Мне сказали поговорить с вами, если у меня возникнут вопросы о гидроциклах.<end>
+
+=>q292_original
+Yeah. I've been in love with jets since I was a teen. I ride 'em, I fix 'em - I know all about 'em.<end>
+
+=>q292
+Да. Я влюблён в гидроциклы с тех пор, как я был подростком. Я езжу на них, я чиню их - я знаю о них всё.<end>
+
+=>a293_original
+About jet skis...<end>
+
+=>a293
+О гидроциклах...<end>
+
+=>q294_original
+::He grabs the imaginary jet ski handles.:: Wroooom! What about 'em?<end>
+
+=>q294
+::Он хватает за воображаемые грипсы гидроцикла.:: Врууум! Что насчёт них?<end>
+
+=>a295_original
+Bye.<end>
+
+=>a295
+До свидания.<end>
+
+=>a296_original
+Bye, Ladelman.<end>
+
+=>a296
+До свидания, Лэйдельман.<end>
+
+=>a297_original
+::Say nothing.::<end>
+
+=>a297
+::Промолчать.::<end>
+
+=>q298_original
+Can't talk now. Hardcore busy.<end>
+
+=>q298
+Не могу сейчас говорить. Ужасно занят.<end>
+
+=>q299_original
+Pipeworkin' drop-off!<end>
+
+=>q299
+Трубочистское дерьмо!<end>
+
+=>q300_original
+<end>
+
+=>q300
+<end>
+
+=>q301_original
+<end>
+
+=>q301
+<end>
+
+=>q302_original
+Ready for carnage, $(context.npc_xpbl_ladelman_playerName).<end>
+
+=>q302
+Готовся к бойне, $(context.npc_xpbl_ladelman_playerName).<end>
+
+=>q303_original
+Imma grind those pipeworkin' bastard sons of sows right in their ugly...<end>
+
+=>q303
+Я собираюсь врезать этим трубочистским ублюдкам свиноматок прямо в их уродливые...<end>
+
+=>q304_original
+Yeeeah, I think I saw somethin' like this in the Arena once.<end>
+
+=>q304
+Дааа, припоминаю, что я когда-то видел что-то подобное на Арене.<end>
+
+=>q305_original
+Marky's goin' home to Maria. I'll make sure of it.<end>
+
+=>q305
+Марки поедет домой к Марии. Я позабочусь об этом.<end>
+
+=>q306_original
+Damn it, Marky...<end>
+
+=>q306
+Проклятие, Марки...<end>
+
+=>q307_original
+Zone out the pipeworkers!<end>
+
+=>q307
+Уничтожить трубочистов!<end>
+
+=>q308_original
+<end>
+
+=>q308
+<end>
+
+=>q309_original
+We got 'em.<end>
+
+=>q309
+Мы их прикончили.<end>
+
+=>q310_original
+I think we got them. Yeeeah.<end>
+
+=>q310
+Я думаю, что мы их прикончили. Даааа.<end>
+
+=>q311_original
+We got a big-ass dominator statue in the camp!<end>
+
+=>q311
+У нас есть огромная доминирующая статуя в лагере!<end>
+
+=>q312_original
+<end>
+
+=>q312
+<end>
+
+=>q313_original
+We dominated those bastards!<end>
+
+=>q313
+Мы доминируем этих ублюдков!<end>
+
+=>q314_original
+Damn... that was hardcore.<end>
+
+=>q314
+Дьявол... это было хардкорно.<end>
+
+=>q315_original
+Speak to Marcus if you wanna get your gear. It's that wimp over there.<end>
+
+=>q315
+Если хочешь получить своё снаряжение, то говори с Маркусом. Это вон тот слабак.<end>
+
+=>q316_original
+The chief wants to see you. Seemed pissed off, so good luck.<end>
+
+=>q316
+Шеф хочет тебя видеть. Похоже, что он взбешён, так что удачи.<end>
+
+=>q317_original
+Hey, $(context.npc_xpbl_ladelman_playerName). Stoppin' by one last time before <end>
+
+=>q317
+Эй, $(context.npc_xpbl_ladelman_playerName). Решил$(#/а) зайти в последний раз перед<end>
+
+=>q318_original
+we leave?<end>
+
+=>q318
+тем, как мы уйдём?<end>
+
+=>q319_original
+<end>
+
+=>q319
+<end>
+
+=>a320_original
+Yeah, I need some supplies. ::Barter.::<end>
+
+=>a320
+Да, мне нужны кое-какие припасы. ::Обмен.::<end>
+
+=>a321_original
+No. Just came to say goodbye.<end>
+
+=>a321
+Нет. Просто приш$(#ёл/ла) сказать пока.<end>
+
+=>q322_original
+Take care, $(context.npc_xpbl_ladelman_playerName). And stay hardcore. Yeeeeah.<end>
+
+=>q322
+Береги себя, $(context.npc_xpbl_ladelman_playerName). И оставайся хардкорн$(#ым/ой). Дааааа.<end>
+
+=>a323_original
+::Leave without saying a word.::<end>
+
+=>a323
+::Уйти, не сказав ни слова.::<end>
+
+=>q324_original
+you leave?<end>
+
+=>q324
+отъездом?<end>
+
+=>q325_original
+::You find him disassembling some rifles and packing ammo.:: I can't wait to get out of this pipeworkin' place. ::He cleans his forehead with a handkerchief and squeezes it by his side.:: Yeeeeah!<end>
+
+=>q325
+::Вы застаёте его, когда он разбирает винтовки и упаковывает патроны.:: Жду не дождусь, когда выберусь из этого трубочистского места. ::Он вытерает лоб платком и выжимает его рядом с собой.:: Даааа!<end>
+
+=>a326_original
+How are you faring?<end>
+
+=>a326
+Как поживаешь?<end>
+
+=>q327_original
+Ah, feelin' kinda dominated. Had to get used to keepin' my mouth shut, ha-ha!<end>
+
+=>q327
+Ах, чувствую себя как дома. Привык держать рот на замке, ха-ха!<end>
+
+=>q328_original
+I've lost a lot of friends in my lifetime. But watchin' this camp gettin' emptier... that's gonna stay with me for a while.<end>
+
+=>q328
+Я потерял много друзей в своей жизни. Но смотреть, как этот лагерь пустеет... к этому так быстро не привыкнешь.<end>
+
+=>a329_original
+I hope you haven't disassembled everything. ::Barter.::<end>
+
+=>a329
+Я надеюсь, что ты не всё разобрал. ::Обмен.::<end>
+
+=>q330_original
+::He pauses for a moment.:: Uh... you know, $(context.npc_xpbl_ladelman_playerName), I was wonderin'... Can I get your autograph? That'd be so hardcore!<end>
+
+=>q330
+::Он замолкает на мгновение.:: Гм... знаешь, $(context.npc_xpbl_ladelman_playerName), я тут подумал... Могу ли я получить твой автограф? Это было бы так круто!<end>
+
+=>q331_original
+::He pulls out a blood-spattered cheering glove with two extended fingers and "Arena" printed on it. You see a number of signatures on it: Bloodgod - written in blood - Mower, Zone-out, Decapito and others.::
+
+This is my cheerin' glove. It had seen a lot. ::He hands you a black marker pen.::<end>
+
+=>q331
+::Он вытаскивает окровавленную перчатку болельщика на двух вытянутых пальцах, на которую нанесено слово "Арена". Вы видите ряд подписей на ней: Кровавый бог - написано кровью - Косец, Вырубальщик, Обезглавленный и другие.::
+
+Это моя перчатка болельщика. Она многое повидала. ::Он протягивает тебе чёрный маркер.::<end>
+
+=>a332_original
+::Sign as Invictus.::<end>
+
+=>a332
+::Подписаться как Инвиктус.::<end>
+
+=>q333_original
+Yeeeeeeeeeeeeeeeah! Dominatin'! Thank you so much! ::He looks at the glove again.:: Yeeeah...<end>
+
+=>q333
+Даааааааааааа! Доминация! Огромное спасибо тебе! ::Он снова смотрит на перчатку.:: Дааа...<end>
+
+=>a334_original
+Now, I hope you haven't disassembled everything. ::Barter.::<end>
+
+=>a334
+Итак, я надеюсь, ты не всё разобрал ещё. ::Обмен.::<end>
+
+=>a335_original
+There was something I wanted to ask you.<end>
+
+=>a335
+Я хотел$(#/а) поговорить с вами ещё кое о чём.<end>
+
+=>a336_original
+I'll leave you to your work. Goodbye, Ladelman.<end>
+
+=>a336
+Не буду больше тебя отвлекать. Всего хорошего, Лэйдельман.<end>
+
+=>q337_original
+See ya, $(context.npc_xpbl_ladelman_playerName). Take care, you hardcore son of a rat.<end>
+
+=>q337
+Увидимся, $(context.npc_xpbl_ladelman_playerName). Береги себя, хардкорный крысёныш.<end>
+
+=>a338_original
+::Sign as $(context.playerArenaTitle).::<end>
+
+=>a338
+::Подписать «$(context.playerArenaTitle)».::<end>
+
+=>a339_original
+::Sign as $(context.player.Name).::<end>
+
+=>a339
+::Подписать «$(context.player.Name)».::<end>
+
+=>a340_original
+I'm sorry, I don't do autographs.<end>
+
+=>a340
+Извини, но я не оставляю автографы.<end>
+
+=>q341_original
+Well, uh, I guess if dominatin' in the Arena wasn't enough... ::He puts the marker pen away, sadly looks at the glove one more time before putting it away as well.::<end>
+
+=>q341
+Что ж, ух, я просто подумал, что если доминирования на Арене не было достаточно... ::Он убирает маркер, с печалью смотрит на перчатку ещё раз, прежде чем убрать её.::<end>
+
+=>a342_original
+::Shake your head.::<end>
+
+=>a342
+::Покачать головой.::<end>
+
+=>a343_original
+No.<end>
+
+=>a343
+Нет.<end>
+
+=>a344_original
+I hope you haven't disassembled everything. ::Barter.::<end>
+
+=>a344
+Я надеюсь, что ты не всё разобрал. ::Обмен.::<end>
+
+=>q345_original
+Once again, thanks for the autograph, $(context.npc_xpbl_ladelman_playerName).<end>
+
+=>q345
+Ещё раз, спасибо за автограф, $(context.npc_xpbl_ladelman_playerName).<end>
+
+=>q346_original
+Yeah, $(context.npc_xpbl_ladelman_playerName)?<end>
+
+=>q346
+Да, $(context.npc_xpbl_ladelman_playerName)?<end>
+
+=>q347_original
+<end>
+
+=>q347
+<end>
+
+=>q348_original
+Damn! Thought Briggs was gonna drop me off to the serpents or somethin' back then! At least Marky trusted me. Mhm, he trusted me. 
+
+The wimp, bwahahaha!<end>
+
+=>q348
+Проклятие! Мне казалось, что Бриггс собирался бросить меня к змеям или ещё что-нибудь! По крайней мере, Марки доверял мне. Хм, он доверял мне.
+
+Тряпка, бха-ха-ха-ха!<end>
+
+=>q349_original
+Pipeworks! Our weapons and ammo supplies are droppin' faster than a drunk zoner. Don't know how much longer we're gonna make it before we're gonna have to start flingin' rocks at our enemies.<end>
+
+=>q349
+Труба! Наше оружие и боеприпасы заканчиваются быстрее, чем падает пьяный зонер. Не знаю, сколько ещё у нас времени осталось, прежде чем мы начнём бросать камни в наших врагов.<end>
+
+=>q350_original
+Yeah?<end>
+
+=>q350
+Да?<end>
+
+=>q351_original
+Why'd I even come to this pipeworkin' Hell's... *Ass*!<end>
+
+=>q351
+Зачем я вообще пришёл в эту трубочисткую адскую... "задницу"!<end>
+
+=>q352_original
+<end>
+
+=>q352
+<end>
+
+=>q353_original
+<end>
+
+=>q353
+<end>
+
+=>q354_original
+Hey, $(context.npc_xpbl_ladelman_playerName).<end>
+
+=>q354
+Привет, $(context.npc_xpbl_ladelman_playerName).<end>
+
+=>q355_original
+::He seems lost in thought, then he turns to you.::
+
+Hey there. What's up?<end>
+
+=>q355
+::Кажется, он погружён в свои мысли, затем поворачивается к вам.::
+
+О, привет! Как дела?<end>
+
+=>q356_original
+::He takes a deep breath.:: <end>
+
+=>q356
+::Он делает глубокий вдох.::<end>
+
+=>q357_original
+We got ourselves one big-ass hardcore dominatin' Naga-trooper patrollin' the beaches. <end>
+
+=>q357
+Теперь у нас есть хардкорный доминируюищий огромный Нага-солдат, который патрулирует пляжи.<end>
+
+=>q358_original
+Imagine that thing in the Arena... Yeeeeeah.<end>
+
+=>q358
+Представь себе эту вещь на Арене... Дааааа.<end>
+
+=>q359_original
+<end>
+
+=>q359
+<end>
+
+=>q360_original
+$(context.npc_xpbl_ladelman_playerName)... What's up?<end>
+
+=>q360
+$(context.npc_xpbl_ladelman_playerName)... Как дела?<end>
+
+=>q361_original
+Any natives in sight, $(context.npc_xpbl_ladelman_playerName)? Makes me feel like them Arena challengers waitin' for a match with the beasts.<end>
+
+=>q361
+Туземцев не видно, $(context.npc_xpbl_ladelman_playerName)? Чувствую себя, как те претенденты на Арене, ожидающие поединка со зверьём.<end>
+
+=>q362_original
+Hey there, fellow Southerner.<end>
+
+=>q362
+Привет, дорог$(#ой/ая) южан$(#ин/ка).<end>
+
+=>q363_original
+$(context.npc_xpbl_ladelman_playerName), you guys keepin' the professor safe? Don't want folks grindin' us Southerners if he gets snatched again.<end>
+
+=>q363
+$(context.npc_xpbl_ladelman_playerName), вы, ребята, охраняете профессора? Не хочу, чтобы народ оскорблял нас, южан, если его снова схватят.<end>
+
+=>q364_original
+Feelin' much better now that I ain't dreamin' no pipeworkin' serpents.<end>
+
+=>q364
+Чувствую себя намного лучше cейчас, когда больше не снятся трубочистские змеи.<end>
+
+=>q365_original
+Yeeeah, zone 'em out, all them pirates. 
+
+Filthy sea zoners...<end>
+
+=>q365
+Даааа, уничтожь их, все этих пиратов.
+
+Грязные морские зонеры...<end>
+
+=>q366_original
+Mah Naga's still treadin' the beaches. Yeeeeah.<end>
+
+=>q366
+Моя Нага всё ещё топчет пляжи. Даааа.<end>
+
+=>q367_original
+Feels... strange without Briggsy around. Uh, Chief. Chief.<end>
+
+=>q367
+Чувствую... странно без Бриггси. Ух, шеф. Шеф.<end>
+
+=>q368_original
+::He throws aside an empty ammo box.:: That one's done...<end>
+
+=>q368
+::Он бросает в сторону пустой ящик с боеприпасами.:: Этот пуст...<end>
+

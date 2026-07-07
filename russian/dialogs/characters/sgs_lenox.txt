@@ -1,0 +1,1556 @@
+﻿=>q1_original
+::He completely ignores you.::<end>
+
+=>q1
+::Он игнорирует вас.::<end>
+
+=>q2_original
+Pat... Everyone will know what happened, brother. I swear.<end>
+
+=>q2
+Пат... все узнают, что случилось, брат. Клянусь.<end>
+
+=>q3_original
+::The man stares at his nearly empty glass in silence, his mind clearly elsewhere.::<end>
+
+=>q3
+::Мужчина молча уставился в свой почти пустой стакан, явно в глубоких раздумьях.::<end>
+
+=>a4_original
+Lenox Pierce?<end>
+
+=>a4
+Ленокс Пирс?<end>
+
+=>q5_original
+::He snaps out, raising his head to reveal a deathly pale visage. His sluggish eyes soon focus on you, and soon begins mumbling, communicating both with his speech and his alcohol breath.:: Um... What...?
+
+::A pause ensues.:: Yes! ::He lowers his voice.:: I mean yes, I am Lenox Pierce. Are you...?<end>
+
+=>q5
+::Он возвращается в реальность и поднимает голову, показывая мертвенно-бледное лицо. Его глаза вяло фокусируются на вас, и он начинает говорить заплетающимся языком, обдавая вас парами алкоголя.:: Э-э... Что?..
+
+::Пауза.:: Да! ::Он понижает голос.:: То есть, да -- я Ленокс Пирс. А вы?..<end>
+
+=>a6_original
+Yes, Jack sent me to talk to you. You can call me $(context.player.Name).<end>
+
+=>a6
+Да, Джек послал меня поговорить с вами. Вы можете звать меня $(context.player.Name).<end>
+
+=>q7_original
+Nice to meet you, um, $(context.player.Name). How are you, um, doing?<end>
+
+=>q7
+Приятно познакомиться, эм, $(context.player.Name). Как ваши, эм, дела?<end>
+
+=>a8_original
+I'm doing well, thank you for asking.<end>
+
+=>a8
+У меня всё в порядке, спасибо.<end>
+
+=>q9_original
+Good... um... That is good...<end>
+
+=>q9
+Хорошо... эм... это хорошо...<end>
+
+=>a10_original
+Jack told me you need some help?<end>
+
+=>a10
+Джек сказал мне, что вам нужна помощь.<end>
+
+=>q11_original
+That is correct... unfortunately...<end>
+
+=>q11
+Совершенно верно... к несчастью...<end>
+
+=>q12_original
+Look, $(context.player.Name), I need you to help me find out how my brother died. Pat... um, Patrick Pierce, my brother, came to South Gate Station over a year ago. He was a good man, he was good with, um, electronics. That's what he did here. My dear Pat... ::His voice begins to shake, but he composes himself.::<end>
+
+=>q12
+Так вот, $(context.player.Name), я хочу, чтобы вы помогли мне узнать, как умер мой брат. Пат... эм, Патрик Пирс, мой брат, приехал на станцию Саут-Гейт больше года назад. Он был хорошим человеком, он разбирался в, эм, в электронике. Он с ней работал здесь. Мой дорогой Пат... ::Его голос начинает дрожать, но он берёт себя в руки.::<end>
+
+=>q13_original
+Something like a month... um, yeah, a month and a half ago, he was found dead in his room. Lying in bed, dead. I... I came here to see what happened, and I was told he died in his sleep. Tanner, the councilor, he told me Doctor Pasquale checked his... Pat's body but doesn't know the exact cause of death. Doesn't bleeding know the cause of death!?<end>
+
+=>q13
+Где-то месяц... эм, да, я думаю, что это было полтора месяца назад, он был найден мёртвым в своей комнате. В постели, мёртвым. Я... я приехал сюда, чтобы узнать, что случилось, и мне сказали, что он умер во сне. Таннер, советник, -- он сказал мне, что доктор Паскуаль осмотрел его... тело Патрика, но не установил точную причину смерти. Что значит -- не установил причину смерти?!<end>
+
+=>a14_original
+Okay, calm down, Lenox, calm down. What can I do to help you?<end>
+
+=>a14
+Ладно, Ленокс, успокойтесь, успокойтесь. Что я могу сделать для вас?<end>
+
+=>q15_original
+Damn it all... Just damn it. Look, something's wrong! My brother was a healthy man; had some back issues, but that's all! I need to know the truth. What if he was killed in some accident and they are covering it up!? What if someone killed him!? It's tearing me apart. Tanner won't help me anymore, as far as he's concerned, he's done with it.
+
+But I'm not...<end>
+
+=>q15
+Пошло оно всё... Поверьте мне, здесь что-то не так! Мой брат был здоровым человеком; да, у него болела спина, но это и всё! Я должен знать правду. Что если это была авария, и они это скрывают?! Что если его кто-то убил?! Это не даёт мне покоя. Таннер не хочет мне больше помогать -- он решил, что дело закрыто.
+ 
+Но не я...<end>
+
+=>q16_original
+Um... I'm not... Cause of death unknown. Yeah, right.<end>
+
+=>q16
+Эм... Я так не уверен... Причина смерти неизвестна. Ага, конечно.<end>
+
+=>a17_original
+I'll help you. We'll find out what really happened to your brother.<end>
+
+=>a17
+Я помогу вам. Мы узнаем, что в действительности случилось с вашим братом.<end>
+
+=>q18_original
+Please forgive me, I get emotional and um... This is really painful to me. He was my older brother... I have no one else. Look, I'm not sure I was understandable enough earlier. I'm, um, I'm very tired; I don't sleep well. If you need to ask me something, I'll be here.<end>
+
+=>q18
+Пожалуйста, простите меня, я не могу сдерживать эмоции, и, эм... мне очень больно. Он был моим старшим братом... у меня больше никого нет. Слушайте, извините, если я недостаточно понятно изъясняюсь. Я, эм, я очень устал; я плохо сплю. Если вам нужно будет спросить у меня что-нибудь, я буду здесь.<end>
+
+=>q19_original
+Oh! Almost forgot this. ::He hands you a keycard.:: This is my brother's room keycard, in case you need to... um... need to check his room. Take it.<end>
+
+=>q19
+Ой! Чуть не забыл. ::Он вручает вам ключ-карту.:: Это ключ от комнаты моего брата, на всякий случай... эм... если вам надо осмотреть его комнату. Возьмите его.<end>
+
+=>a20_original
+I'd like to talk to you first.<end>
+
+=>a20
+Сперва я хотел$(#/а) бы поговорить с вами.<end>
+
+=>q21_original
+Ask me anything you need.<end>
+
+=>q21
+Спрашивайте всё, что вам надо.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>a23_original
+What can you tell me about Patrick?<end>
+
+=>a23
+Что вы можете мне рассказать о Патрике?<end>
+
+=>q24_original
+Pat was a good man; um, hard working, dedicated. He was the best brother a man can hope for.<end>
+
+=>q24
+Пат был хорошим человеком; эм, трудолюбивым, целеустремлённым. Он был самым лучшим братом на свете.<end>
+
+=>q25_original
+I... I just can't let this all go, you dig... I have had this terrible feeling about his death, and these jerks won't let me know the truth. I know it. I know it, damn it.
+
+Whatever happened to him, he didn't, um... he didn't deserve it. That I can swear!<end>
+
+=>q25
+Я... Я просто не могу это так оставить, сечёшь... У меня такое ужасное чувство, что в его смерти не всё чисто, а эти уроды не говорят мне правду. Я это знаю. Проклятье, я знаю это.
+
+То, что с ним случилось, он не... он этого не заслужил. Я могу поклясться!<end>
+
+=>a26_original
+Did your brother ever mention anything to you about Spectres or Operation Banishment?<end>
+
+=>a26
+Ваш брат упоминал что-нибудь про Призраков или Операцию Изгнание?<end>
+
+=>q27_original
+Um...  No, he never did. Not as far as I can remember it, no... Why?<end>
+
+=>q27
+Эм... нет, никогда. Нет, насколько я помню, нет... А что?<end>
+
+=>a28_original
+I asked around and found out Pat was a part of that operation while he was working for Praetorian Security.<end>
+
+=>a28
+Я поспрашивал$(#/а) людей и выяснил$(#/а), что Пат принимал участие в одной операции в то время, как он работал на Преторианскую службу безопасности.<end>
+
+=>q29_original
+He never told me about it. I, um, I can't help you. I'm sorry.<end>
+
+=>q29
+Он мне не рассказывал. Я, эм, я не могу вам помочь. Простите.<end>
+
+=>a30_original
+Never mind, let me ask you something else.<end>
+
+=>a30
+Неважно, скажи мне сперва кое-что другое.<end>
+
+=>q31_original
+Okay...<end>
+
+=>q31
+Ладно...<end>
+
+=>a32_original
+What did Patrick do in Core City?<end>
+
+=>a32
+Что Патрик делал в Кор-Сити?<end>
+
+=>q33_original
+Didn't I tell you about that, um, already?<end>
+
+=>q33
+Разве я уже не рассказывал вам, эм, об этом?<end>
+
+=>a34_original
+Nope.<end>
+
+=>a34
+Нет.<end>
+
+=>q35_original
+Strange... I could have sworn I mentioned it...<end>
+
+=>q35
+Странно... могу поклясться, я об этом упомянул...<end>
+
+=>q36_original
+Pat and I, we were orphans; our mother, um, died when we were young, and dad... we never, um... never met him. So, we had to take care of ourselves, um, or, um, more precisely - Pat had to take care of us both.<end>
+
+=>q36
+Мы с Патом были сиротами; наша мама, эм, умерла, когда мы были маленькими, а папа... мы, хм... не знали его. Поэтому нам пришлось самим заботиться о себе, эм, или, эм, точнее, Пату пришлось заботиться о нас обоих.<end>
+
+=>q37_original
+After years of doing whatever earns coin - scavenging and the like, you dig - Pat and I came to Core City. It was just after Biocorp fell apart. Um, maybe some time after. Riots and chaos filled the streets. Praetorian Security, newly formed at the time, needed men to help them fight the, um, rioters and... all that bunch.<end>
+
+=>q37
+Несколько лет мы делали всё, чтобы добыть денег -- собирали хлам и всё такое, сечёшь. Потом мы с Патом отправились в Кор-Сити. Это было сразу после развала Биокорп. Эм, наверное, некоторое время спустя. На улицах царил хаос и беспорядки. Преторианской службе безопасности, которая тогда только образовалась, нужны были люди, чтобы бороться с, эм, бунтовщиками и... всем этим сбродом.<end>
+
+=>q38_original
+The pay was good, so he, um, Pat joined. He was young and, you dig... burly, so he became an enforcer.<end>
+
+=>q38
+Платили хорошо, так что он, эм, Пат, записался. Он был молодой и, сечёшь... крепкий парень, так что он стал бойцом.<end>
+
+=>a39_original
+What can you tell me about Praetorian Security?<end>
+
+=>a39
+Что вы можете мне рассказать о Преторианской службе безопасности?<end>
+
+=>q40_original
+They were trying to take control over the city... and um, they eventually did. They are one of the major factions in Core City now. But they were a marble back then compared to the boulder they, um, are now.<end>
+
+=>q40
+Они пытались взять контроль над городом... и, эм, им это в итоге удалось. Теперь они являются одной из основных фракций в Кор-Сити. Но тогда они были маленьким камушком по сравнению с валуном, которым они являются сейчас.<end>
+
+=>a41_original
+Please, continue.<end>
+
+=>a41
+Пожалуйста, продолжайте.<end>
+
+=>q42_original
+Pat and I both stayed in Core City due to his work, um, and it went well for a while. Unfortunately, he was hurt during one of the riots: A brute with a sledgehammer, um, slammed him right in the spine. The bastard got him real bad, so bad he had to leave Praetorian Security, as he couldn't do his, his job anymore. He was also hurt, um, mentally: He saw things, horrible things; rarely talked about it, but I could see it. <end>
+
+=>q42
+Пат и я жили в Кор-Сити из-за его работы, эм, и некоторое время всё было хорошо. К сожалению, он был ранен во время одного из бунтов: какая-то скотина с кувалдой, эм, врезала ему прямо по спине. Этот ублюдок ударил очень сильно, и Патрику пришлось покинуть ПСБ, потому что он больше не мог выполнять свою работу. Он также пострадал, эм, душевно: он видел вещи, ужасные вещи; мы редко говорили об этом, но я-то знал.<end>
+
+=>q43_original
+We left Core City after that. Nothing for us there anymore. I took care of him until his back got better, um... and then we split. He went around, learned to work with electronics; he didn't want to be a scavenger his whole life. So he roamed, um, before settling here. Here, in South Gate Station. He told me he was happy here, that he finally found a place he can feel safe and... at home. ::Tears begin rolling out of his eyes to refil his glass.:: Damn it...<end>
+
+=>q43
+После этого мы уехали из Кор-Сити. Нас ничего там не держало. Я заботился о нём, пока его спине не стало лучше, эм... а потом мы расстались. Он путешествовал, научился работать с электроникой; он не хотел всю жизнь собирать мусор. Так он и путешествовал, эм, пока не осел здесь. Здесь, на станции Саут-Гейт. Он рассказывал мне, что он был здесь счастлив, что он наконец нашёл место, где он может чувствовать себя в безопасности и... дома. ::Слёзы катятся по его щекам и капают в стакан.:: Блин...<end>
+
+=>a44_original
+What about you? What did you do after you split?<end>
+
+=>a44
+А что насчёт вас? Что вы делали после того, как расстались с братом?<end>
+
+=>q45_original
+::He wipes his eyes.:: I had to learn to take care of myself. I, um... went to work in Foundry for a while, as a miner. But since I valued my life somewhat, I left that place. The pay was good, you dig, um, but that place is a deathtrap. Then I worked at Junkyard docks... I did all sorts of things, um... it would take time to mention them all.<end>
+
+=>q45
+::Он вытирает глаза.:: Мне пришлось учиться заботиться о себе. Я, эм... пошёл работать шахтёром на Литейную, но ненадолго. Поскольку я ценил свою жизнь, я уволился. Платили там хорошо, сечёшь, эм, но место это гиблое. Потом я работал на Свалке в доках... я много чем занимался, эм... можно долго перечислять.<end>
+
+=>a46_original
+Let's change the subject.<end>
+
+=>a46
+Давайте сменим тему.<end>
+
+=>q47_original
+::He nods.::<end>
+
+=>q47
+::Он кивает.::<end>
+
+=>a48_original
+You did, but remind me again.<end>
+
+=>a48
+Да, но напомните мне ещё раз.<end>
+
+=>q49_original
+Um, fine. Here we go again.<end>
+
+=>q49
+Эм, ладно. Слушайте снова.<end>
+
+=>a50_original
+No, because you're a wreck and you forget to tell me important things.<end>
+
+=>a50
+Нет, потому что ты развалина и забываешь рассказать про важные вещи.<end>
+
+=>q51_original
+Why is it so important? It happened a long time ago.<end>
+
+=>q51
+Почему это так важно? Это было давным-давно.<end>
+
+=>a52_original
+You just answer the question and I'll decide if it's important.<end>
+
+=>a52
+Просто ответьте на вопрос, а я решу, важно ли это.<end>
+
+=>q53_original
+Um, okay... no need to get all pissy.<end>
+
+=>q53
+Эм, хорошо... незачем так нервничать.<end>
+
+=>a54_original
+Just spill it.<end>
+
+=>a54
+Рассказывайте уже.<end>
+
+=>a55_original
+I have reasons to believe that your brother was murdered.<end>
+
+=>a55
+У меня есть основания полагать, что ваш брат был убит.<end>
+
+=>q56_original
+::Lenox's eyes enlarge, revealing fully how bloodshot they actually are.:: Re-Really? My... I... Do you know who did it?<end>
+
+=>q56
+::Глаза Ленокса расширяются, и вы видите, как сильно они налиты кровью.:: П-правда? Мой... Я... Вы знаете, кто это сделал?<end>
+
+=>q57_original
+<end>
+
+=>q57
+<end>
+
+=>a58_original
+Pasquale.<end>
+
+=>a58
+Паскуаль.<end>
+
+=>q59_original
+Why would he do something like that?<end>
+
+=>q59
+Зачем ему это делать?<end>
+
+=>a60_original
+I'm not sure exactly, but I think I have some promising leads.<end>
+
+=>a60
+Я ещё не уверен$(#/а), но у меня есть несколько многообещающих зацепок.<end>
+
+=>q61_original
+Let's hear it then.<end>
+
+=>q61
+Тогда рассказывайте.<end>
+
+=>q62_original
+::[You need to present clues that made you suspect Pasquale was the killer.]::<end>
+
+=>q62
+::[Представить улики, которые подтверждают, что убийца -- Паскуаль.]::<end>
+
+=>a63_original
+::General clues.::<end>
+
+=>a63
+::Разные улики.::<end>
+
+=>q64_original
+I'm listening...<end>
+
+=>q64
+Я слушаю...<end>
+
+=>q65_original
+<end>
+
+=>q65
+<end>
+
+=>a66_original
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>a66
+Кто-то проколол Патрику нос и повредил мозг.<end>
+
+=>q67_original
+Go on...<end>
+
+=>q67
+Продолжайте...<end>
+
+=>a68_original
+Pasquale claims he can't determine Patrick's cause of death and was the only one to examine the body.<end>
+
+=>a68
+Паскуаль утверждает, что он не может определить причину смерти Патрика, и он был единственным, кто осматривал тело.<end>
+
+=>a69_original
+Pasquale has extensive medical knowledge and could come up with an undetectable way to kill Patrick.<end>
+
+=>a69
+Паскуаль имеет обширные медицинские познания, и он мог придумать способ незаметно убить Патрика.<end>
+
+=>a70_original
+He refuses to examine the body again.<end>
+
+=>a70
+Он отказывается осмотреть тело ещё раз.<end>
+
+=>a71_original
+Patrick was blamed for many problems in SGS.<end>
+
+=>a71
+Патрика обвиняли в возникновении ряда проблем на ССГ.<end>
+
+=>a72_original
+::Back.::<end>
+
+=>a72
+::Назад.::<end>
+
+=>a73_original
+::Murder weapon clues.::<end>
+
+=>a73
+::Улики, касающиеся орудия убийства.::<end>
+
+=>q74_original
+I'm listening...<end>
+
+=>q74
+Я слушаю...<end>
+
+=>q75_original
+<end>
+
+=>q75
+<end>
+
+=>a76_original
+Patrick was killed with a pistol.<end>
+
+=>a76
+Патрик был убит из пистолета.<end>
+
+=>q77_original
+I see...<end>
+
+=>q77
+Понимаю...<end>
+
+=>a78_original
+Patrick was killed with a bone chisel.<end>
+
+=>a78
+Патрик был убит костным долотом.<end>
+
+=>a79_original
+Patrick was killed with a bone drill.<end>
+
+=>a79
+Патрик был убит костным сверлом.<end>
+
+=>a80_original
+Patrick was killed with a scalpel.<end>
+
+=>a80
+Патрик был убит скальпелем.<end>
+
+=>a81_original
+Patrick was killed with a knife.<end>
+
+=>a81
+Патрик был убит ножом.<end>
+
+=>a82_original
+Patrick was killed with a hammer.<end>
+
+=>a82
+Патрик был убит молотком.<end>
+
+=>a83_original
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a83
+Патрик был задушен подушкой в своей комнате.<end>
+
+=>a84_original
+Patrick was killed with a large surgical needle.<end>
+
+=>a84
+Патрик был убит большой хирургической иглой.<end>
+
+=>a85_original
+::Back.::<end>
+
+=>a85
+::Назад.::<end>
+
+=>a86_original
+::Finish presenting the clues.::<end>
+
+=>a86
+::Закончить представлять улики.::<end>
+
+=>q87_original
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q87
+Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много для меня информации...<end>
+
+=>q88_original
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>q88
+Подождите, подождите. То, что вы говорите, не сходится. Извините, но вы меня не убедили.<end>
+
+=>q89_original
+Um... I'm not convinced Pasquale did it... I don't know, I'm gonna need more evidence than that.<end>
+
+=>q89
+Эм... я не думаю, что это сделал Паскуаль... Я не знаю, мне нужно больше доказательств.<end>
+
+=>a90_original
+I don't know.<end>
+
+=>a90
+Я не знаю.<end>
+
+=>q91_original
+::He sighs.:: Well, that wasn't helpful.<end>
+
+=>q91
+::Он вздыхает.:: Ну что же, очень жаль.<end>
+
+=>a92_original
+Big Bret.<end>
+
+=>a92
+Большой Брет.<end>
+
+=>q93_original
+Why would he do something like that?<end>
+
+=>q93
+Зачем ему это делать?<end>
+
+=>a94_original
+Bret and Patrick had some conflicts over some heaters installed in the hopper pens.<end>
+
+=>a94
+Брет и Патрик поссорились из-за каких-то обогревателей в загоне для пещерников.<end>
+
+=>q95_original
+What? Big Bret... I don't know... Um, what evidence do you have?<end>
+
+=>q95
+Что? Большой Брет... я не знаю... Эм, какие у вас есть доказательства?<end>
+
+=>q96_original
+::[You need to present clues that made you suspect Bret was the killer.]::<end>
+
+=>q96
+::[Представить улики, которые подтверждают, что убийца -- Брет.]::<end>
+
+=>a97_original
+::General clues::<end>
+
+=>a97
+::Разные улики.::<end>
+
+=>q98_original
+I'm listening...<end>
+
+=>q98
+Я слушаю...<end>
+
+=>q99_original
+<end>
+
+=>q99
+<end>
+
+=>a100_original
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>a100
+Кто-то проколол Патрику нос и повредил мозг.<end>
+
+=>q101_original
+Go on...<end>
+
+=>q101
+Продолжайте...<end>
+
+=>a102_original
+Patrick and Bret had arguments over the installation of heaters in cave hopper pens.<end>
+
+=>a102
+Патрик и Брет поспорили по поводу установки обогревателей в загоне для пещерников.<end>
+
+=>a103_original
+Bret came angry to Patrick's room and they had a verbal argument.<end>
+
+=>a103
+Брет пришёл злой в комнату Патрика, и они поругались.<end>
+
+=>a104_original
+Big Bret had a cut on his forehead he claims was from falling.<end>
+
+=>a104
+У Большого Брета был порез на лбу -- как он утверждал, от падения.<end>
+
+=>a105_original
+Pasquale doesn't want to reveal that Bret was the murderer. That is why he doesn't want to perform the autopsy again.<end>
+
+=>a105
+Паскуаль не хочет раскрывать, что убийца -- Брет. Вот почему он не хочет провести повторное вскрытие.<end>
+
+=>a106_original
+Bret smashed the thermostat Patrick installed earlier in the pens.<end>
+
+=>a106
+Брет разбил термостат, который Патрик ранее установил в загоне.<end>
+
+=>a107_original
+Patrick was blamed for many problems in SGS.<end>
+
+=>a107
+Патрика обвиняли в возникновении ряда проблем на ССГ.<end>
+
+=>a108_original
+::Back.::<end>
+
+=>a108
+::Назад.::<end>
+
+=>a109_original
+::Murder weapon clues.::<end>
+
+=>a109
+::Улики, касающиеся орудия убийства.::<end>
+
+=>q110_original
+I'm listening...<end>
+
+=>q110
+Я слушаю...<end>
+
+=>q111_original
+<end>
+
+=>q111
+<end>
+
+=>a112_original
+Patrick was killed with a pistol.<end>
+
+=>a112
+Патрик был убит из пистолета.<end>
+
+=>q113_original
+I see...<end>
+
+=>q113
+Понимаю...<end>
+
+=>a114_original
+Patrick was killed with a bone chisel.<end>
+
+=>a114
+Патрик был убит костным долотом.<end>
+
+=>a115_original
+Patrick was killed with a bone drill.<end>
+
+=>a115
+Патрик был убит костным сверлом.<end>
+
+=>a116_original
+Patrick was killed with a scalpel.<end>
+
+=>a116
+Патрик был убит скальпелем.<end>
+
+=>a117_original
+Patrick was killed with a knife.<end>
+
+=>a117
+Патрик был убит ножом.<end>
+
+=>a118_original
+Patrick was killed with a hammer.<end>
+
+=>a118
+Патрик был убит молотком.<end>
+
+=>a119_original
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a119
+Патрик был задушен подушкой в своей комнате.<end>
+
+=>a120_original
+Patrick was killed with a large surgical needle.<end>
+
+=>a120
+Патрик был убит большой хирургической иглой.<end>
+
+=>a121_original
+::Finish presenting the clues.::<end>
+
+=>a121
+::Закончить представлять улики.::<end>
+
+=>q122_original
+That makes perfect sense. Um, that... that bastard! Thank you... Thank you! You finally discovered who killed Pat! You can return to Jack for your payment. I... I finally know what happened to Pat.<end>
+
+=>q122
+Ну конечно, всё сходится. Эм, этот... этот ублюдок! Спасибо... спасибо! Вы наконец узнали, кто убил Пата! Можете возвращаться к Джеку за вашей наградой. Я... я наконец знаю, что произошло с Патом.<end>
+
+=>a123_original
+What will you do now?<end>
+
+=>a123
+Что вы будете делать теперь?<end>
+
+=>q124_original
+::He pauses.:: Um, I'll talk to... <end>
+
+=>q124
+::Он замолкает.:: Эм, я поговорю... об этом с<end>
+
+=>q125_original
+one of the councilors <end>
+
+=>q125
+одним из советников.<end>
+
+=>q126_original
+about this. I'll take care of, of everything.<end>
+
+=>q126
+Я позабочусь обо всём.<end>
+
+=>a127_original
+So long, Lenox. Rest well, now that you know the truth.<end>
+
+=>a127
+Прощайте, Ленокс. Теперь вы можете отдохнуть -- вы знаете правду.<end>
+
+=>q128_original
+I will.<end>
+
+=>q128
+Хорошо.<end>
+
+=>q129_original
+Tanner <end>
+
+=>q129
+Таннером.<end>
+
+=>q130_original
+I'm not really convinced. Um, sorry, but that's not good enough.<end>
+
+=>q130
+Я не убеждён. Эм, простите, но этого недостаточно.<end>
+
+=>q131_original
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q131
+Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много для меня информации...<end>
+
+=>q132_original
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>q132
+Подождите, подождите. То, что вы говорите, не сходится. Извините, но вы меня не убедили.<end>
+
+=>a133_original
+Quinton.<end>
+
+=>a133
+Куинтон.<end>
+
+=>q134_original
+Why would he do something like that?<end>
+
+=>q134
+Зачем ему это делать?<end>
+
+=>a135_original
+Quinton thought Patrick was deliberately hurting the hoppers that are used to feed the station.<end>
+
+=>a135
+Куинтон думал, что Патрик намеренно навредил пещерникам, которые идут на мясо для станции.<end>
+
+=>q136_original
+Huh... Maybe you're onto something. What clues do you have?<end>
+
+=>q136
+А... может быть, дело в этом. Какие у вас есть улики?<end>
+
+=>q137_original
+::[You need to present clues that made you suspect Quinton was the killer.]::<end>
+
+=>q137
+::[Представить улики, которые подтверждают, что убийца -- Куинтон.]::<end>
+
+=>a138_original
+::General clues.::<end>
+
+=>a138
+::Разные улики.::<end>
+
+=>q139_original
+I'm listening...<end>
+
+=>q139
+Я слушаю...<end>
+
+=>q140_original
+<end>
+
+=>q140
+<end>
+
+=>a141_original
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>a141
+Кто-то проколол Патрику нос и повредил мозг.<end>
+
+=>q142_original
+Go on...<end>
+
+=>q142
+Продолжайте...<end>
+
+=>a143_original
+Quinton retreived a deadly toxin from the medical storage.<end>
+
+=>a143
+Куинтон взял смертельный яд из медицинского хранилища.<end>
+
+=>a144_original
+Patrick and Bret had arguments over the installation of heaters in cave hopper pens.<end>
+
+=>a144
+Патрик и Брет поспорили по поводу установки обогревателей в загоне для пещерников.<end>
+
+=>a145_original
+Quinton supported Bret in the heater scandal.<end>
+
+=>a145
+Куинтон поддержал Брета в споре по поводу обогревателей.<end>
+
+=>a146_original
+Quinton came to Patrick's room and warned him that he's endangering the station by messing up the heaters in hopper pens.<end>
+
+=>a146
+Куинтон пришёл к Патрику в комнату и предупредил его, что он подвергает опасности станцию, потому что испортил обогреватели в загоне для пещерников.<end>
+
+=>a147_original
+Pasquale doesn't want to reveal that Quinton was the murderer. That is why he doesn't want to perform the autopsy again.<end>
+
+=>a147
+Паскуаль не хочет раскрывать, что убийца -- Куинтон. Вот почему он не хочет провести повторное вскрытие.<end>
+
+=>a148_original
+Quinton has extensive medical knowledge and could come up with an undetectable way to kill Patrick.<end>
+
+=>a148
+Куинтон имеет обширные медицинские познания, и он мог придумать способ незаметно убить Патрика.<end>
+
+=>a149_original
+Patrick was blamed for many problems in SGS.<end>
+
+=>a149
+Патрика обвиняли в возникновении ряда проблем на ССГ.<end>
+
+=>a150_original
+::Back.::<end>
+
+=>a150
+::Назад.::<end>
+
+=>a151_original
+::Murder weapon clues.::<end>
+
+=>a151
+::Улики, касающиеся орудия убийства.::<end>
+
+=>q152_original
+I'm listening...<end>
+
+=>q152
+Я слушаю...<end>
+
+=>q153_original
+<end>
+
+=>q153
+<end>
+
+=>a154_original
+Patrick was killed with a pistol.<end>
+
+=>a154
+Патрик был убит из пистолета.<end>
+
+=>q155_original
+Hmmm...<end>
+
+=>q155
+Хм-м...<end>
+
+=>a156_original
+Patrick was killed with a bone chisel.<end>
+
+=>a156
+Патрик был убит костным долотом.<end>
+
+=>a157_original
+Patrick was killed with a bone drill.<end>
+
+=>a157
+Патрик был убит костным сверлом.<end>
+
+=>a158_original
+Patrick was killed with a scalpel.<end>
+
+=>a158
+Патрик был убит скальпелем.<end>
+
+=>a159_original
+Patrick was killed with a knife.<end>
+
+=>a159
+Патрик был убит ножом.<end>
+
+=>a160_original
+Patrick was injected with burrower poison and killed.<end>
+
+=>a160
+Патрика убили, вколов ему яд могильщика.<end>
+
+=>a161_original
+Patrick was injected with dimethylmercury and killed.<end>
+
+=>a161
+Патрика убили, вколов ему диметил.<end>
+
+=>a162_original
+Patrick was killed with a hammer.<end>
+
+=>a162
+Патрик был убит молотком.<end>
+
+=>a163_original
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a163
+Патрик был задушен подушкой в своей комнате.<end>
+
+=>a164_original
+Patrick was killed with a large surgical needle.<end>
+
+=>a164
+Патрик был убит большой хирургической иглой.<end>
+
+=>a165_original
+::Back.::<end>
+
+=>a165
+::Назад.::<end>
+
+=>a166_original
+::Finish presenting the clues.::<end>
+
+=>a166
+::Закончить представлять улики.::<end>
+
+=>q167_original
+I'm not really convinced. Um, sorry, but that's not good enough.<end>
+
+=>q167
+Я не убеждён. Эм, простите, но этого недостаточно.<end>
+
+=>q168_original
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q168
+Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много для меня информации...<end>
+
+=>q169_original
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>q169
+Подождите, подождите. То, что вы говорите, не сходится. Извините, но вы меня не убедили.<end>
+
+=>a170_original
+Arlene.<end>
+
+=>a170
+Арлин.<end>
+
+=>q171_original
+Why would she do something like that?<end>
+
+=>q171
+Зачем ей это делать?<end>
+
+=>a172_original
+Old Jonas.<end>
+
+=>a172
+Старый Джонас.<end>
+
+=>q173_original
+Why would he do something like that?<end>
+
+=>q173
+Зачем ему это делать?<end>
+
+=>a174_original
+Mordre.<end>
+
+=>a174
+Мордре.<end>
+
+=>q175_original
+Why would he do something like that?<end>
+
+=>q175
+Зачем ему это делать?<end>
+
+=>a176_original
+He had reasons for revenge.<end>
+
+=>a176
+У него были основания для мести.<end>
+
+=>q177_original
+Um, revenge? Tell me what you know.<end>
+
+=>q177
+Эм, мести? Скажите мне, что вы знаете?<end>
+
+=>q178_original
+::[You need to tell Lenox the clues that made you suspect Mordre was the killer.]::<end>
+
+=>q178
+::[Представить улики, которые подтверждают, что убийца -- Мордре.]::<end>
+
+=>a179_original
+::General clues.::<end>
+
+=>a179
+::Разные улики.::<end>
+
+=>q180_original
+I'm listening...<end>
+
+=>q180
+Я слушаю...<end>
+
+=>q181_original
+<end>
+
+=>q181
+<end>
+
+=>a182_original
+Something was used to pierce Patrick's nose and damage the brain.<end>
+
+=>a182
+Кто-то проколол Патрику нос и повредил мозг.<end>
+
+=>q183_original
+Yeah, keep going...<end>
+
+=>q183
+Ага, продолжайте...<end>
+
+=>a184_original
+Spectres are elite assassins who are famous for killing their targets by stabbing them through the nose, killing them and leaving a wound that is difficult to find.<end>
+
+=>a184
+Призраки -- это элитные убийцы, которые известны тем, что убивают своих жертв уколом через нос, оставляя рану, которую трудно обнаружить.<end>
+
+=>a185_original
+During his Praetorian Security days, Patrick was a part of the operation that hunted down and killed the remaining Spectres, Biocorp's elite special forces unit.<end>
+
+=>a185
+Во время работы в Преторианской службе безопасности Патрик участвовал в операции, целью которой было выслеживание и ликвидация оставшихся членов Призраков -- элитного подразделения Биокорп.<end>
+
+=>a186_original
+Mordre's real name is Michael Mordington.<end>
+
+=>a186
+Настоящее имя Мордре -- Майкл Мордингтон.<end>
+
+=>a187_original
+Mordre had a Spectre insignia that confirms that he was one of their members.<end>
+
+=>a187
+У Мордре был знак отличия Призраков, который подтверждает его принадлежность к ним.<end>
+
+=>a188_original
+Patrick was blamed for many problems in SGS.<end>
+
+=>a188
+Патрика обвиняли в возникновении ряда проблем на ССГ.<end>
+
+=>a189_original
+Michael Mordington was a member of the Spectre unit.<end>
+
+=>a189
+Майкл Мордингтон был членом Призраков.<end>
+
+=>a190_original
+Mordre confessed the murder. He was a Spectre, an elite Biocorp special forces unit that was cleaned up by Praetorian Security. Your brother was a part of the operation, and Mordre found out.<end>
+
+=>a190
+Мордре признался в убийстве. Он был членом Призраков -- элитного спецподразделения Биокорп, которое было зачищено Преторианской службой безопасности. Ваш брат участвовал в этой операции, и Мордре узнал об этом.<end>
+
+=>q191_original
+I... can't believe it! Um, that... that bastard! Thank you, thank you! You finally discovered who killed Pat! ::His face visibly brightens up.:: You can return to Jack for your payment. I... I finally know what happened to Pat. ::He begins laughing.::<end>
+
+=>q191
+Я... не могу в это поверить! Эм, этот... этот ублюдок! Спасибо... спасибо! Вы наконец узнали, кто убил Пата! Можете возвращаться к Джеку за вашей наградой. Я... я наконец знаю, что произошло с Патом. ::Он начинает смеяться.::<end>
+
+=>q192_original
+<end>
+
+=>q192
+<end>
+
+=>a193_original
+::Back.::<end>
+
+=>a193
+::Назад.::<end>
+
+=>a194_original
+::Murder weapon clues.::<end>
+
+=>a194
+::Улики, касающиеся орудия убийства.::<end>
+
+=>q195_original
+I'm listening...<end>
+
+=>q195
+Я слушаю...<end>
+
+=>q196_original
+<end>
+
+=>q196
+<end>
+
+=>a197_original
+Patrick was killed with a pistol.<end>
+
+=>a197
+Патрик был убит из пистолета.<end>
+
+=>q198_original
+Go on...<end>
+
+=>q198
+Продолжайте...<end>
+
+=>a199_original
+Patrick was killed with a bone chisel.<end>
+
+=>a199
+Патрик был убит костным долотом.<end>
+
+=>a200_original
+Patrick was killed with a bone drill.<end>
+
+=>a200
+Патрик был убит костным сверлом.<end>
+
+=>a201_original
+Patrick was killed with a scalpel.<end>
+
+=>a201
+Патрик был убит скальпелем.<end>
+
+=>a202_original
+Patrick was killed with a knife.<end>
+
+=>a202
+Патрик был убит ножом.<end>
+
+=>a203_original
+Patrick was killed with a hammer.<end>
+
+=>a203
+Патрик был убит молотком.<end>
+
+=>a204_original
+Patrick was suffocated with a pillow in his room.<end>
+
+=>a204
+Патрик был задушен подушкой в своей комнате.<end>
+
+=>a205_original
+Patrick was killed with a large surgical needle.<end>
+
+=>a205
+Патрик был убит большой хирургической иглой.<end>
+
+=>a206_original
+::Back.::<end>
+
+=>a206
+::Назад.::<end>
+
+=>a207_original
+::Finish presenting the clues.::<end>
+
+=>a207
+::Закончить представлять улики.::<end>
+
+=>q208_original
+Um, that... that bastard! Thank you... Thank you! You finally discovered who killed Pat! You can return to Jack for your payment. I... I finally know what happened to Pat.<end>
+
+=>q208
+Эм, этот... этот ублюдок! Спасибо... спасибо! Вы наконец узнали, кто убил Пата! Можете возвращаться к Джеку за вашей наградой. Я... я наконец знаю, что произошло с Патом.<end>
+
+=>q209_original
+I'm not really convinced. Um, sorry, but that's not good enough.<end>
+
+=>q209
+Я не убеждён. Эм, простите, но этого недостаточно.<end>
+
+=>q210_original
+Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
+
+=>q210
+Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много для меня информации...<end>
+
+=>q211_original
+Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
+
+=>q211
+Подождите, подождите. То, что вы говорите, не сходится. Извините, но вы меня не убедили.<end>
+
+=>a212_original
+Ezra.<end>
+
+=>a212
+Эзра.<end>
+
+=>a213_original
+Essie.<end>
+
+=>a213
+Эсси.<end>
+
+=>a214_original
+Lucas.<end>
+
+=>a214
+Лукас.<end>
+
+=>a215_original
+Gorsky.<end>
+
+=>a215
+Горский.<end>
+
+=>a216_original
+Harold.<end>
+
+=>a216
+Гарольд.<end>
+
+=>a217_original
+Harland.<end>
+
+=>a217
+Харланд.<end>
+
+=>a218_original
+Bisson.<end>
+
+=>a218
+Биссон.<end>
+
+=>a219_original
+Vera.<end>
+
+=>a219
+Вера.<end>
+
+=>a220_original
+Roman.<end>
+
+=>a220
+Роман.<end>
+
+=>a221_original
+Tanner.<end>
+
+=>a221
+Таннер.<end>
+
+=>a222_original
+I don't know yet, but I'll find out.<end>
+
+=>a222
+Я ещё не знаю, но я выясню.<end>
+
+=>q223_original
+Oh, man. I'm gonna need another drink...<end>
+
+=>q223
+Ох, блин. Мне нужно ещё выпить...<end>
+
+=>a224_original
+Tell me about your brother's past again.<end>
+
+=>a224
+Расскажите мне снова о прошлом вашего брата.<end>
+
+=>a225_original
+What do you think caused Patrick's death?<end>
+
+=>a225
+Как вы думаете, что вызвало смерть Патрика?<end>
+
+=>q226_original
+Well, you said he was murdered, so I think you know more about it than me.<end>
+
+=>q226
+Ну, вы сказали, что его убили, так что я думаю, что вы знаете об этом больше меня.<end>
+
+=>q227_original
+Please hurry up with the frickin' investigation. You have gotten me all nervous and... look my hands are shaking! Hurry, damn it.<end>
+
+=>q227
+Пожалуйста, поторопитесь с этим проклятым расследованием. Я от этого весь нервный и... смотрите -- у меня руки дрожат! Поспешите, проклятье.<end>
+
+=>q228_original
+Something's wrong, just wrong! A healthy man died in his sleep without a known cause? And they, um, told me there is no point in investigating any further? There is no evidence of "foul play" or... or whatever they said. Natural death?<end>
+
+=>q228
+Что-то не так, совсем не так! Здоровый человек умирает во сне без видимой причины? И они, эм, говорят мне, что дальнейшее расследование не имеет смысла? Нет никаких «следов насилия» или... или как они там сказали. Естественная смерть?<end>
+
+=>q229_original
+That is why *you* are here! I want... I need the truth!<end>
+
+=>q229
+Вот для этого здесь *вы*! Я хочу... я хочу знать правду!<end>
+
+=>a230_original
+I need the password for Patrick's laptop.<end>
+
+=>a230
+Мне нужен пароль к ноутбуку Патрика.<end>
+
+=>q231_original
+Um... let me think...<end>
+
+=>q231
+Эм... дайте подумать...<end>
+
+=>q232_original
+Try "Sec-1456." Or was it, um... "Sec-1465." It was his old password. If he hadn't... um, changed it. But I doubt it, he's been using that one for years.<end>
+
+=>q232
+Попробуйте «ПСБ-1456». Или, может, эм... «ПСБ-1465». Это был его старый пароль. Если он не... эм, не изменил его. Но это вряд ли, он использовал один пароль много лет...<end>
+
+=>a233_original
+One more thing...<end>
+
+=>a233
+Ещё кое-что...<end>
+
+=>q234_original
+Hmm?<end>
+
+=>q234
+Хм-м?<end>
+
+=>a235_original
+Thanks for the passwords. I'll go try them out.<end>
+
+=>a235
+Спасибо за пароли. Я пойду попробую их.<end>
+
+=>a236_original
+I did my best, but I can't find out how your brother died. I am stopping the investigation.<end>
+
+=>a236
+Я сделал$(#/а) всё возможное, но мне не удалось выяснить, как умер ваш брат. Я прекращаю расследование.<end>
+
+=>q237_original
+::Lenox's face reddens with anger, yet, his eyes start watering, eventually leading to tears. He bows his head and starts weeping. Moments later, he raises his head, as if he wanted to say something, yet he decides to just wave you away.::<end>
+
+=>q237
+::Ленокс краснеет от злости, но его глаза слезятся. Он опускает голову и начинает плакать. Несколько секунд спустя он поднимает голову, как будто хочет что-то сказать, но вместо этого только жестом прогоняет вас.::<end>
+
+=>a238_original
+::Leave.::<end>
+
+=>a238
+::Уйти.::<end>
+
+=>a239_original
+Bye.<end>
+
+=>a239
+До свидания.<end>
+
+=>a240_original
+I'll go check his room first, then we'll talk.<end>
+
+=>a240
+Сначала я пойду осмотрю его комнату, потом мы ещё поговорим.<end>
+
+=>a241_original
+It's gonna be tough, I can't make any promises. But I'm on the job.<end>
+
+=>a241
+Это будет непросто, так что я не стану давать обещаний. Но я берусь за работу.<end>
+
+=>a242_original
+No more drinks for you! Control yourself, man.<end>
+
+=>a242
+Хватит пить! Возьмите себя в руки.<end>
+
+=>q243_original
+Shut up! I'm not drunk - I'm devastated! Look, something's wrong! My brother was a healthy man; he had some back issues, but that's all! I need to know the truth. What if he was killed in some accident and they are covering it up!? What if someone killed him!? 
+
+It's tearing me apart. Tanner won't help me anymore. As far as he's concerned, he's done with it.
+
+But I'm not...<end>
+
+=>q243
+Заткнись! Я не пьян, я просто в отчаянии! Поверьте мне, здесь что-то не так! Мой брат был здоровым человеком; да, у него болела спина, но это и всё! Я должен знать правду. Что, если это была авария, и они это скрывают?! Что, если его кто-то убил?! 
+
+Это не даёт мне покоя. Таннер не хочет мне больше помогать -- он уже решил, что дело закрыто.
+
+Но не я...<end>
+
+=>a244_original
+Can we begin already?<end>
+
+=>a244
+Может, начнём уже?<end>
+
+=>q245_original
+Yes... yes we can. I didn't mean to, um, drag on. I'm sorry.<end>
+
+=>q245
+Да... да, давайте. Я не хотел, эм, заговариваться. Простите.<end>
+
+=>a246_original
+You wouldn't mind if we skip the friendly chat? <end>
+
+=>a246
+Вы не возражаете, если мы перейдём сразу к делу?<end>
+
+=>q247_original
+Not at all. As you can see, I'm very bad at these things... ::He smiles.:: Plus I, um, have some things on my mind further... um, distracting me. That's why we're here.<end>
+
+=>q247
+Вовсе нет. Как видите, я не очень силён в этих вещах... ::Он улыбается.:: К тому же, тяжёлые, эм, мысли ещё больше... эм, отвлекают меня. Поэтому мне нужна ваша помощь.<end>
+
+=>a248_original
+I got my toe bitten off by a rathound. Other than that, I'm fine.<end>
+
+=>a248
+Мне крысоволк палец на ноге откусил. А так, всё в порядке.<end>
+
+=>q249_original
+Oh, I am very sorry to hear that. It must've been painful.<end>
+
+=>q249
+О, мне очень жаль слышать это. Должно быть, было больно.<end>
+
+=>a250_original
+Sort of, but I've been through worse.<end>
+
+=>a250
+Немного, но бывало и хуже.<end>
+
+=>q251_original
+Again, I'm, um, sorry to hear that. Um, how about we finally begin?<end>
+
+=>q251
+Опять же, мне, эм, мне жаль это слышать. Эм, может быть, начнём?<end>
+
+=>a252_original
+It was. I don't want to talk about it.<end>
+
+=>a252
+Ещё как. Я не хочу говорить об этом.<end>
+
+=>q253_original
+I'm sorry. Um, how about we finally begin?<end>
+
+=>q253
+Простите. Эм, может быть, начнём?<end>
+
+=>a254_original
+Just traveling around, nothing really important. Boring stuff. As usual.<end>
+
+=>a254
+Просто путешествую, ничего особо важного. Скукота. Как обычно.<end>
+
+=>a255_original
+::Leave.::<end>
+
+=>a255
+::Уйти.::<end>
+
+=>q256_original
+Hmm? Oh, $(context.player.Name).<end>
+
+=>q256
+Хм? О, $(context.player.Name).<end>
+

@@ -1,0 +1,415 @@
+﻿=>q1_original
+::It doesn't take too long for you to finally meet the sergeant. He stands before you proud and solid as a rock, displaying a stern face only slightly diluted by worry and uncertainty. A salute appears almost instantly, and his spoken words aren't far behind.::
+
+Sergeant First Class Timothy Holloway.<end>
+
+=>q1
+::Вскоре вы наконец-то встречаете сержанта. Он стоит перед вами, гордый и непреклонный как скала, демонстрируя суровое лицо, лишь слегка тронутое печатью беспокойства и неопределённости. Воинское приветствие предваряет слова.::
+
+Сержант первого класса Тимоти Холлоуэй.<end>
+
+=>a2_original
+::Salute.:: Corporal $(context.player.Name), sir.<end>
+
+=>a2
+::Приветствовать.:: Капрал $(context.player.Name), сэр.<end>
+
+=>q3_original
+So, they've finally sent someone. I expected an army, but I got one $(#man/woman). ::He chuckles in a rather lifeless fashion.:: I never met you before, so you must have enlisted after I left the base. Welcome to Underrail Protectorate, Corporal - welcome to hell.<end>
+
+=>q3
+Итак, они наконец прислали кого-то. Я ожидал целой армии, но вижу только одного человека. ::Он безразлично хмыкает.:: Я не встречал вас раньше, так что вы, должно быть, были зачислены уже после того, как я покинул базу. Добро пожаловать в Протекторат Подземки, капрал -- добро пожаловать в ад.<end>
+
+=>q4_original
+But enough about that. Let's talk, Corporal.<end>
+
+=>q4
+Но хватит об этом. Давайте поговорим, капрал.<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Why did you leave Fort Apogee? What caused you to abandon your duty?<end>
+
+=>a6
+Почему вы покинули форт Апогей? Что заставило вас отказаться от своих обязанностей?<end>
+
+=>q7_original
+::He seems hesitant to speak. From the look in his eyes you draw a conclusion that there is an internal conflict within him; as if one side of him wants to give you an answer, while the other demands he does not.::<end>
+
+=>q7
+::Кажется, он сомневается, стоит ли отвечать. Глядя в его глаза, вы видите внутреннюю борьбу. Будто, с одной стороны, он хочет дать вам ответ, а с другой -- молчать.::<end>
+
+=>a8_original
+I'm here to help you save your skin, Holloway. As well as your men's. And I can only do that if you tell me what happened.<end>
+
+=>a8
+Я здесь, чтобы помочь сохранить вашу шкуру, Холлоуэй. А также ваших людей. И я могу это сделать, только если вы расскажете мне что случилось.<end>
+
+=>q9_original
+::Holloway's eyes light up. Your words struck a chord with him, and you see he's about to open up.::
+
+It's a long story... It's not one specific thing which happened that made me lead my men here. It's an ongoing problem I have had with the Protectorate. I am disappointed, and I'm furious at the same time. At both the Protectorate and myself.<end>
+
+=>q9
+::У Холлоуэя загораются глаза. Ваши слова задели его за живое, и он вот-вот расколется.::
+
+Это длинная история... Не было какой-то одной конкретной причины, заставившей меня привести людей сюда. Всё дело в Протекторате. Я разочарован и взбешён одновременно. Как на Протекторат, так и на себя.<end>
+
+=>a10_original
+Go on, I'm all ears.<end>
+
+=>a10
+Продолжайте, я в$(#есь/ся) внимание.<end>
+
+=>q11_original
+::Holloway takes a deep breath.::
+
+Listen to me carefully, Corporal. I've been a proud member of Underrail Protectorate forces for years. I've fought and killed many, more than I'd like to admit, in order to save others, to protect others, to allow others to live better lives. But lately, that is not what I have been doing.<end>
+
+=>q11
+::Холлоуэй делает глубокий вдох.::
+
+Слушайте меня внимательно, капрал. Я был уважаемым членом Протектората Подземки в течение многих лет. Я сражался и убил многих -- больше чем хотел бы признать -- ради спасения других, чтобы защитить их, позволить им жить лучше. Но в последнее время я занимался совсем не этим.<end>
+
+=>q12_original
+Lately... I have been killing innocent people... and I have ordered my men to do the same.<end>
+
+=>q12
+В последнее время... я убивал невинных людей... и я приказывал своим людям делать то же самое.<end>
+
+=>a13_original
+But... why?<end>
+
+=>a13
+Но... почему?<end>
+
+=>q14_original
+Because *I* was ordered the same thing, Corporal. I didn't know who I was killing at the time. 
+
+Raiders? Bad intel, but they're dead anyway - good job, Holloway! Good job, Sarge. Free Drones? Bad intel, those weren't the Free Drones, but they might have helped them at one point. Intel "suggested" so. Good job, Sarge! Good job!<end>
+
+=>q14
+Потому что *мне* было это приказано, капрал. Я не знал, кого я убью в следующий раз. 
+
+Рейдеры? Неправильные сведения, но они мертвы, в любом случае -- хорошая работа, Холлоуэй! Хорошая работа, сержант. Вольные шершни? У вас неправильные сведения, то были не Вольные шершни, но их возможные пособники. Разведка «предположила» так. Хорошая работа, сержант! Хорошая работа!<end>
+
+=>q15_original
+Like they didn't care. Some of my superiors didn't even blink when I confronted them about it. "Who cares, they are all ratters!" - one lieutenant even said.
+
+I felt like I'm crazy, derailed. It made me sick, that's not what I signed for, damn it!<end>
+
+=>q15
+Будто им плевать. Некоторые из моих начальников даже не моргнут, когда я докладываю об этом. «Какая разница, они все крысятники!» -- один лейтенант так и сказал.
+
+Мне казалось, что я схожу с ума, поехал. Меня от этого тошнит, не за этим я сюда пришёл!<end>
+
+=>q16_original
+I am not the only one who thinks that way, Corporal. See all these men? They felt betrayed too. Protectorate, now it seems to me, is not about protecting anyone but... about something I don't understand anymore. Maybe the people in charge changed, or maybe I was blind all along.
+
+I tried to get to the colonel, but I was shot down long before I could even reach him. Officers, those bigots and sadists I confronted, started backstabbing me - spreading the word I'd gone mad! They knew what I was going to do and so they made their moves quicker than the blink of an eye.<end>
+
+=>q16
+И я не единственный, кто так думает, капрал. Видите этих людей? Они тоже чувствуют себя обманутыми. Протекторат, как мне кажется, уже не защищает, а... я уже ничего не понимаю. Может быть, командование изменилось, или, может быть, я был слеп всё это время.
+
+Я пытался добраться до полковника, но был осажен задолго до того, как смог дотянуться до него. Офицеры -- сплошь мракобесы и садисты, они предали меня -- распространяли слухи, будто бы я сошёл с ума! Они знали, что я собирался сделать, поэтому действовали на опережение.<end>
+
+=>q17_original
+I couldn't fight it! It felt like one of those dreams where you try to outrun something but you just cannot. You feel slow and sluggish as you run - like your legs are made of pure lead. And you try and you try... but you're too slow... My foes were always ahead of me, spreading their lies...
+
+Eventually I realized it probably wouldn't do a damn thing even if I did manage to speak to the colonel. So I made a conscious decision to leave Fort Apogee with my men, who felt the same way I did.<end>
+
+=>q17
+Я не мог бороться с ними! Был как в том сне, когда пытаешься обогнать что-то, но не можешь. Чувствуешь медлительность и вялость своего движения -- будто ноги сделаны из чистого свинца. А ты всё пытаешься и пытаешься... но слишком медлителен... Враги были всегда на шаг впереди меня, распространяя свою ложь...
+
+В конце концов я понял, что ничего не добьюсь, даже если мне удастся поговорить с полковником. Поэтому я принял осознанное решение покинуть форт Апогей со своими людьми, чувствовавшими то же самое, что и я.<end>
+
+=>q18_original
+::He sighs.:: That is all there is to it, Corporal. Those were my reasons for leaving Fort Apogee with my men.<end>
+
+=>q18
+::Он вздыхает.:: Вот и всё, капрал. Таковы мои причины ухода из форта Апогей вместе со своим отрядом.<end>
+
+=>a19_original
+No one is completely innocent.<end>
+
+=>a19
+Невинных нет.<end>
+
+=>q20_original
+Hogwash, Corporal! I don't know what the hell you're thinking, but an increasing number of people I was ordered to kill... we were ordered to kill weren't neither bandits, nor raiders, nor Free Drones. They were regular people. Some poor bastards get bullets between their eyes, and the excuse is always "bad intel." Bad intel, but good job, Sergeant Holloway. Good job! You did your duty.<end>
+
+=>q20
+Ерунда, капрал! Я не знаю, какого хрена вы думаете, но всё больше и больше людей, которых мне приказывали убивать... нам приказывали убить не бандитов, не рейдеров, не Вольных шершней. Обычных людей. Некоторым беднягам всаживают пулю между глаз, а отговорка всегда -- «ошибка разведки». Неправильные сведения, но хорошая работа, сержант Холлоуэй. Хорошая работа! Вы выполнили свой долг.<end>
+
+=>a21_original
+I don't see what could possibly make you abandon your duty, Holloway.<end>
+
+=>a21
+Я не понимаю, что могло заставить вас отказаться от исполнения своего долга, Холлоуэй.<end>
+
+=>a22_original
+I see you don't want to tell me that, fine. Let's ask a different question.<end>
+
+=>a22
+Я вижу, вы не хотите говорить, что ж, хорошо. Давайте зайдём с другой стороны.<end>
+
+=>q23_original
+::Holloway says nothing.::<end>
+
+=>q23
+::Холлоуэй ничего не говорит.::<end>
+
+=>a24_original
+Your story changes everything. Maybe I can talk to the colonel and explain everything to him and convince him not to be too hard on you.<end>
+
+=>a24
+Ваш рассказ всё меняет. Может быть, я смогу поговорить с полковником, объяснить ему ситуацию и убедить его не быть слишком строгим с вами.<end>
+
+=>q25_original
+Corporal... the only thing we want is to be left alone. I think that is impossible, but if you're willing to give it a shot, then I have no objections.<end>
+
+=>q25
+Капрал... единственное, чего мы хотим -- чтобы нас оставили в покое. Я думаю, что это невозможно, но если вы готовы попытаться -- у меня нет возражений.<end>
+
+=>a26_original
+I'll be back once I've talked to the colonel.<end>
+
+=>a26
+Я вернусь, когда поговорю с полковником.<end>
+
+=>q27_original
+::He nods.:: My men will lead you out.
+
+Thank you... Corporal.<end>
+
+=>q27
+::Он кивает.:: Мои люди проводят вас.
+
+Спасибо... капрал.<end>
+
+=>a28_original
+::Leave.::<end>
+
+=>a28
+::Уйти.::<end>
+
+=>a29_original
+You are not hiding very well. The Protectorate knows you're here, as you can see.<end>
+
+=>a29
+Вы не слишком хорошо спрятались. Протекторат знает, что вы здесь, как видите.<end>
+
+=>q30_original
+I never had any illusion that we'd escape the all-seeing eye of the Protectorate. We could have tried making a run for Core City but... we'd bite the dust long before we reached it.<end>
+
+=>q30
+У меня не было иллюзий, что мы сможем скрыться от всевидящего ока Протектората. Попытайся мы сбежать в Кор-Сити... нас бы настигли задолго до того, как мы добрались бы до него.<end>
+
+=>q31_original
+Here, at least, we can stand proud, for now. We'll see what's going to happen.<end>
+
+=>q31
+Здесь, по крайней мере, мы пока можем сохранить достоинство. Посмотрим, что произойдёт.<end>
+
+=>a32_original
+I'm here to convince you to return to Fort Apogee and surrender.<end>
+
+=>a32
+Я здесь, чтобы убедить вас вернуться в Форт Апогей и сдаться.<end>
+
+=>q33_original
+You sound determined. So, you want me to return and what... be executed for desertion? I know you think I'm not the one who should talk of honor, but I don't see any honor in being shot like a pig.<end>
+
+=>q33
+Вижу, вы настроены решительно. Итак, вы хотите, чтобы я вернулся и -- что?.. -- был казнён за дезертирство? Я знаю, по-вашему я не имею права говорить о чести, но я не вижу никакой чести в том, чтобы быть застреленным, как свинья.<end>
+
+=>a34_original
+You think you can evade the Protectorate forever?<end>
+
+=>a34
+Вы думаете, что сможете скрываться от Протектората вечно?<end>
+
+=>q35_original
+::He pauses.:: No... No I don't.<end>
+
+=>q35
+::Он замолкает.:: Нет... Нет.<end>
+
+=>q36_original
+I mean, a whole platoon could be waiting in a dark tunnel to attack, for all I know. Maybe this is the end.<end>
+
+=>q36
+Не исключено, что целый взвод уже сидит в засаде в тёмном тоннеле. Может быть, это конец.<end>
+
+=>a37_original
+::[Persuade]:: You can't escape court-martial, but, if you surrender peacefully, you might get off easier. It's still better than getting shot.<end>
+
+=>a37
+::[Убеждение]:: Вам не уклониться от трибунала, но, если сдадитесь мирно, наказание может быть смягчено. Это всё равно лучше, чем быть застреленным.<end>
+
+=>q38_original
+::All eyes seem to be on Holloway. His men are standing still, waiting for his response. They know what he says next is going to be very crucial. He thinks long and hard, and then he looks at every single one of his men. No words are said, but you feel as if they're communicating. Soon, you get your answer.::<end>
+
+=>q38
+::Все взоры устремлены на Холлоуэя. Его люди стоят неподвижно, ожидая его ответа. Они знают, что от его слов сейчас зависит всё. Он думает долго и сосредоточенно, затем обводит взглядом каждого из своих людей. Не произнесено ни единого слова, но вы чувствуете, что они разговаривают. Наконец, вы получаете ответ.::<end>
+
+=>q39_original
+You convinced me, Corporal. We will surrender peacefully. <end>
+
+=>q39
+Вы убедили меня, капрал. Мы сдадимся без боя.<end>
+
+=>a40_original
+Glad you were reasonable, Holloway. Time to move.<end>
+
+=>a40
+Рад$(#/а), что вы проявили благоразумие, Холлоуэй. Время выдвигаться.<end>
+
+=>q41_original
+::He turns to his men.:: We're moving out, soldiers. ASAP! Get your stuff and move out.
+
+We're returning to Fort Apogee.<end>
+
+=>q41
+::Он поворачивается к своим бойцам.:: Мы уходим, солдаты. Как можно скорее! Собирайте свои вещи, и снимаемся.
+
+Мы возвращаемся в форт Апогей.<end>
+
+=>a42_original
+::Watch them as they leave.::<end>
+
+=>a42
+::Наблюдать, как они уходят.::<end>
+
+=>q43_original
+So I'll rot like a pig for the rest of my life? That's not an option I'm interested in.<end>
+
+=>q43
+Значит, гнить как свинья всю оставшуюся жизнь? Этот вариант меня не интересует.<end>
+
+=>a44_original
+::[Intimidate]:: If you don't surrender now, you will be shot like a pig anyway. Not just you, all men you've basically led to death.<end>
+
+=>a44
+::[Запугивание]:: Если не сдадитесь сейчас, вас всё равно застрелят, как свинью. Не только вас, но и людей, которых вы, по сути, привели на смерть.<end>
+
+=>q45_original
+::All eyes are on Holloway. His men are waiting for his crucial response. He thinks long and hard, and then he looks at every single one of his men. No words are said, but you feel as if they're communicating. Soon, you get your answer.::
+<end>
+
+=>q45
+::Все взоры устремлены на Холлоуэя. Его люди ждут судьбоносного решения. Он думает долго и сосредоточенно, затем обводит взглядом каждого из своих людей. Не произнесено ни единого слова, но вы чувствуете, что они разговаривают. Наконец, вы получаете ответ.::<end>
+
+=>q46_original
+They followed me willingly, Corporal. And if we're destined to be shot... like pigs if it must be so, then we'll do it as free men.<end>
+
+=>q46
+Они добровольно последовали за мной, капрал. И если нам суждено быть убитыми... как свиньи, если так должно быть, то мы встретим судьбу как свободные люди.<end>
+
+=>a47_original
+I have other questions.<end>
+
+=>a47
+У меня есть другие вопросы.<end>
+
+=>q48_original
+Of course, Corporal.<end>
+
+=>q48
+Конечно, капрал.<end>
+
+=>a49_original
+I convinced the colonel to reduce your punishment. He will also start an investigation that is to determine if what you told me is true.<end>
+
+=>a49
+Я уговорил$(#/а) полковника смягчить наказание. Он также начнёт расследование, чтобы определить правдивость ваших слов.<end>
+
+=>q50_original
+::Holloway seems relieved.::
+
+Well... it's better than I expected, it most certainly is...<end>
+
+=>q50
+::Холлоуэй немного оживляется.::
+
+Что ж... это больше, чем я ожидал, определённо...<end>
+
+=>a51_original
+You do have to return to Fort Apogee and turn in all your equipment. You will still face court-martial, but I doubt the punishment will be as severe.<end>
+
+=>a51
+Вы должны вернуться в форт Апогей и сдать всё оружие и снаряжение. Вы будете подвергнуты трибуналу, но я не думаю, что наказание будет суровым.<end>
+
+=>q52_original
+That is something I'm willing to accept. Corporal, I must thank you for this. You've helped us so much.
+
+We will head to Fort Apogee at once. ::He salutes you, then turns to his men.::
+
+Alright, soldiers, let's move out.<end>
+
+=>q52
+На такое я готов согласиться. Капрал, я должен поблагодарить вас. Вы здорово помогли нам.
+
+Мы сейчас же отправляемся в форт Апогей. ::Он приветствует вас, потом поворачивается к своим бойцам.::
+
+Ладно, солдаты, мы выдвигаемся.<end>
+
+=>a53_original
+I need to leave, but I'll return again.<end>
+
+=>a53
+Мне нужно идти, но я вернусь.<end>
+
+=>a54_original
+I think we're done here, Holloway. You'll get the Protectorate answer shortly.<end>
+
+=>a54
+Я думаю, это всё, Холлоуэй. Вы получите ответ Протектората в самое ближайшее время.<end>
+
+=>q55_original
+I'll be waiting for it. Goodbye, Corporal. Have a good life.<end>
+
+=>q55
+Я буду ждать. До свидания, капрал! Живите долго.<end>
+
+=>a56_original
+::Leave.::<end>
+
+=>a56
+::Уйти.::<end>
+
+=>a57_original
+I'm going to kill you all, you honorless bastards! ::Attack!::<end>
+
+=>a57
+Я убью вас всех, бесчестные ублюдки! ::Напасть!::<end>
+
+=>a58_original
+You gave away your rank when you abandoned your duty, Holloway. I'm Corporal $(context.player.Name).<end>
+
+=>a58
+Вы потеряли звание, когда предали свой долг, Холлоуэй. Я капрал $(context.player.Name).<end>
+
+=>q59_original
+Perhaps, Corporal, perhaps... I know what I did - what we all did. But to these few men, I'm still Sarge. And in all honesty, that's what matters more to me.<end>
+
+=>q59
+Возможно, капрал, возможно... Я знаю, что я сделал -- что мы все сделали. Но для этих немногих людей я всё ещё сержант. И положа руку на сердце, это для меня важнее всего.<end>
+
+=>q60_original
+So, Corporal, here you are. I expected an army, but I got one $(#man/woman). ::He chuckles in a rather lifeless fashion.:: I never met you before, so you must have enlisted after I had left the base. Welcome to Underrail Protectorate, Corporal - welcome to hell.<end>
+
+=>q60
+Итак, капрал, вот и вы. Я ожидал целой армии, но вижу только одного человека. ::Он безразлично хмыкает.:: Я не встречал вас раньше, так что вы, должно быть, были зачислены уже после того, как я покинул базу. Добро пожаловать в Протекторат Подземки, капрал -- добро пожаловать в ад.<end>
+
+=>q61_original
+We meet again, Corporal.<end>
+
+=>q61
+Мы встретились снова, капрал.<end>
+

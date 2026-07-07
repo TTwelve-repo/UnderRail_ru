@@ -1,0 +1,286 @@
+﻿=>q1_original
+::The man clears his throat before speaking.::
+
+Good day, $(#sir/ma'am). I'm Overseer Kevin Grey of the Foundry Guard. Do you need assistance?<end>
+
+=>q1
+::Мужчина откашливается, прежде чем начать говорить.::
+
+Добрый день, $(#сэр/мадам). Я Кевин Грей, смотритель Литейной. Вам нужна моя помощь?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+You know... I'm interested in obtaining some weapons and ammo. Could you by any chance... help with any of that, hmm?<end>
+
+=>a3
+Вы знаете... меня интересует оружие и боеприпасы. Быть может, вы могли бы... помочь мне в этом вопросе?<end>
+
+=>q4_original
+I... don't know what you're talking about. Perhaps you should see one of the local merchants regarding... that.<end>
+
+=>q4
+Я... не знаю, о чём вы говорите. Возможно, вам стоит посетить местных торговцев по этому... вопросу.<end>
+
+=>a5_original
+::[Mercantile]:: Shame, I suppose I'll have to spend my money elsewhere. That will be difficult. 'Cause I have lots of it. Yeah.<end>
+
+=>a5
+::[Торговля]:: Жаль, придётся, видимо, мне потратить свои деньги в другом месте. Боюсь, это будет нелегко. Потому что у меня их куча. М-да.<end>
+
+=>q6_original
+Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
+
+=>q6
+Ладно, ладно. Вы слышали верно, я могу вам достать боевое оружие и боеприпасы, но, просто для ясности: никому ни слова об этом. Понятно?<end>
+
+=>a7_original
+Show me what you've got. ::Barter.::<end>
+
+=>a7
+Покажите, что у вас есть. ::Обмен.::<end>
+
+=>q8_original
+Can't help you with that, I'm terribly sorry. Is there something else you wanted to ask me?<end>
+
+=>q8
+Я не могу вам с этим помочь, мне очень жаль. Есть ли что-то ещё, о чём вы хотели спросить меня?<end>
+
+=>a9_original
+::[Persuade]:: Oh, you *do* know what I'm talking about. I've been told you're the one to talk to if I need weapons. I can keep quiet, I promise.<end>
+
+=>a9
+::[Убеждение]:: О, вы знаете, о чём я говорю. Мне сказали, что именно с вами стоит поговорить, если мне нужно оружие. Я умею держать язык за зубами, обещаю.<end>
+
+=>q10_original
+Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
+
+=>q10
+Ладно, ладно. Вы слышали верно, я могу вам достать боевое оружие и боеприпасы, но, просто для ясности: никому ни слова об этом. Понятно?<end>
+
+=>q11_original
+I think you're talking to the wrong person. I can't help you, I'm terribly sorry.<end>
+
+=>q11
+Мне кажется, вы меня не за того принимаете. Я не могу вам помочь, сожалею.<end>
+
+=>a12_original
+Oh well. In that case, I'd like to ask you something else.<end>
+
+=>a12
+Ну что ж. В таком случае, я хотел$(#/а) бы узнать ещё кое-что.<end>
+
+=>q13_original
+Like what?<end>
+
+=>q13
+Например?<end>
+
+=>a14_original
+::[Mercantile]:: I'm a serious buyer, Kevin, and I think you haven't realized that just yet. Why I say that? Well, I still haven't really seen any of the really high-grade stuff someone such as yourself should be offering.<end>
+
+=>a14
+::[Торговля]:: Я серьёзный покупатель, Кевин, и я думаю, вы ещё этого не осознали. Почему я так говорю? Ну, я до сих пор не видел$(#/а) ни одной из действительно классных вещей, которые такой человек навроде вас должен быть способен мне предложить.<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>q16_original
+Well... A serious buyer should have some serious coin on $(#him/her). Alright, alright. I'll show you the rest of my inventory. But you know the drill: You keep quiet about this and we're golden. Yes?<end>
+
+=>q16
+Что ж... У серьёзного покупателя должны быть серьёзные деньги. Хорошо, хорошо. Я покажу все мои товары. Но вы знаете правила: вы помалкиваете, и мы в золоте. Так?<end>
+
+=>q17_original
+Alright. Check this out.<end>
+
+=>q17
+Хорошо. Взгляните сюда.<end>
+
+=>a18_original
+::Barter.::<end>
+
+=>a18
+::Обмен.::<end>
+
+=>q19_original
+What you see is what you get. I've got nothing else to show you.<end>
+
+=>q19
+Всё, что есть -- перед вами. Мне нечего больше вам предложить.<end>
+
+=>a20_original
+Where do you get all these weapons, if I may ask?<end>
+
+=>a20
+Где вы берёте всё это оружие, если не секрет?<end>
+
+=>q21_original
+That is none of your business.<end>
+
+=>q21
+Это не ваше дело.<end>
+
+=>q22_original
+I'll pretend you never asked me this question.<end>
+
+=>q22
+Я сделаю вид, что вы не задавали мне этого вопроса.<end>
+
+=>a23_original
+What does an overseer do?<end>
+
+=>a23
+А чем занимается смотритель?<end>
+
+=>q24_original
+Oversees the Foundry guards. I think it's pretty self-explanatory.<end>
+
+=>q24
+Курирует Стражей Литейной. Я думаю, это достаточно очевидно.<end>
+
+=>q25_original
+Any more questions?<end>
+
+=>q25
+Ещё вопросы?<end>
+
+=>a26_original
+Do you remember anyone coming to you with any strange items? Anything really striking?<end>
+
+=>a26
+Вы не помните, не приносили ли вам какие-нибудь странные предметы? Ничего действительно поразительного?<end>
+
+=>q27_original
+Really striking? That's very vague. No... I don't remember anything like that. Sorry, it's not like I have a lot of people coming here.<end>
+
+=>q27
+Прямо таки, поразительного? Как-то расплывчато. Нет... я не помню ничего подобного. Мне очень жаль, но у меня не так уж много посетителей.<end>
+
+=>q28_original
+Maybe you should ask around; news of unusual things spread pretty fast throughout Foundry, as is the case with any station.<end>
+
+=>q28
+Может быть, вам стоит поспрашивать вокруг; новости о необычной находке распространились бы довольно быстро по всей Литейной, как и в случае с любой другой станцией.<end>
+
+=>a29_original
+What can you tell me about Foundry?<end>
+
+=>a29
+Что вы можете рассказать мне про Литейную?<end>
+
+=>q30_original
+Foundry is undeniably the safest station in South Underrail. It is utterly unbreachable and, let me tell you straight away, it's rivaling even Underrail Protectorate's Fort Apogee. All that due to a strong position and the indisputable valor of the Foundry Guard, who exist to serve and protect all within the station walls. If you find yourself in any trouble, or need help otherwise, simply find one of the guards and they will gladly assist you.<end>
+
+=>q30
+Литейная -- это, несомненно, самая безопасная станция в Южной Подземке. Она совершенно неприступна, и, извините за прямоту, могла бы составить конкуренцию форту Апогей Протектората Подземки. Всё это благодаря отличной подготовке и несомненной доблести Стражи Литейной, которая существует, чтобы служить и защищать людей в пределах периметра станции. Если вы попадёте в какие-нибудь неприятности, или вам будет нужна другая помощь, просто найдите одного из Стражей, и он с удовольствием поможет вам.<end>
+
+=>q31_original
+Although, maybe you can take care of yourself just fine.<end>
+
+=>q31
+Хотя, может быть, вы и сами можете позаботиться о себе просто замечательно.<end>
+
+=>q32_original
+One word of warning, though: Don't go near the mine. Also, if you need water, Claude can help you with that; avoid other sources. You'll hear him before you see him, don't worry.<end>
+
+=>q32
+Я только хочу вас предупредить: не приближайтесь к шахте. Ещё, если вам нужна вода, вам поможет Клод; избегайте других источников. Вы услышите его раньше чем увидите, не волнуйтесь.<end>
+
+=>q33_original
+That's all you need to know for now. Take care.<end>
+
+=>q33
+Это всё, что вам нужно сейчас знать. Берегите себя.<end>
+
+=>a34_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a34
+Как дела теперь, когда шахта вновь открылась?<end>
+
+=>q35_original
+You came here to hear me congratulate you on a job well done? To thank you for helping us take care of the Beast? Listen, $(context.player.Name), the Foundry Guard can handle its own problems; there was never a need for an outsider to interfere. Remember that. You just came along for the ride.<end>
+
+=>q35
+Вы пришли сюда, чтобы услышать от меня поздравления с хорошо проделанной работой? Чтобы я поблагодарил вас за помощь со Зверем? Слушайте, $(context.player.Name), Стража Литейной может сама решать свои проблемы; не было необходимости постороннего вмешательства. Помните это. Вам просто было с нами по пути.<end>
+
+=>q36_original
+On the other hand - you have guts, I can give you that. But don't let it go to your head, understand?<end>
+
+=>q36
+С другой стороны, я признаю, храбрости вам не занимать. Просто не зазнавайтесь, хорошо?<end>
+
+=>a37_original
+Do you know anything about the mine creatures?<end>
+
+=>a37
+Вы что-нибудь знаете о существах в шахте?<end>
+
+=>q38_original
+Ah... you learned about that quickly. Well, few people have seen those things in person. What happened was, some miners tunneled into a cavern and ran into these odd rocky creatures. Those things were incredibly aggressive and the mining operation had to be halted, rightfully so. Some miners were - sadly - killed, and because of that we're on high alert right now. We even suspect that the creatures are somehow... uh... never mind.<end>
+
+=>q38
+Ах... вы уже узнали об этом. Ну, мало кто видел этих тварей лично. Случилось так: шахтёры прорыли туннель в пещеру и наткнулись на этих странных каменных существ. Эти штуки были невероятно агрессивными, и горные работы пришлось приостановить -- и правильно. Несколько шахтёров, к несчастью, погибли, и из-за этого мы находимся в состоянии повышенной готовности. Мы даже подозреваем, что эти существа каким-то образом... э-э... неважно.<end>
+
+=>q39_original
+The officials are currently discussing the situation and planning the next move. We'll see what they'll come up with. In the mean time, you take care and keep away from the mine. Understand?<end>
+
+=>q39
+Чиновники сейчас обсуждают положение дел и планируют следующий шаг. Посмотрим, что они придумают. Пока же, вы берегите себя и держитесь подальше от шахты. Понятно?<end>
+
+=>a40_original
+Why didn't someone already arrest that derailed robed dude?<end>
+
+=>a40
+Почему никто уже не арестует этого поехавшего в робе?<end>
+
+=>q41_original
+You mean the Tchort guy? I'd rather shoot him, but that would be against the law. As for not arresting him, I suppose someone higher up the chain grew fond of the guy, I don't know. Besides, he never caused any major disturbance, he's only annoying the marbles out of everyone.<end>
+
+=>q41
+Вы имеете в виду этого чувака с его Чортом? Я предпочёл бы пристрелить его, но это было бы против закона. А что до ареста, может, кто-то выше по цепочке полюбил парня, я не знаю. Кроме того, он никогда не вызывал неприятностей, только действует на нервы прохожим.<end>
+
+=>q42_original
+And he never gets tired! Unbelievable...<end>
+
+=>q42
+И он никогда не устаёт! Невероятно...<end>
+
+=>a43_original
+I have to go. See you later.<end>
+
+=>a43
+Мне нужно идти. Увидимся позже.<end>
+
+=>q44_original
+Hey - just in time. Check out the new stuff I just got.<end>
+
+=>q44
+Привет, вы как раз вовремя. Посмотрите нам мой новый товар.<end>
+
+=>a45_original
+Maybe later. I came here for other reasons.<end>
+
+=>a45
+Может, позже; я здесь не за этим.<end>
+
+=>q46_original
+What other reasons?<end>
+
+=>q46
+Тогда зачем?<end>
+
+=>q47_original
+Need something?<end>
+
+=>q47
+Вам что-то нужно?<end>
+

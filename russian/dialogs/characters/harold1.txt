@@ -1,0 +1,986 @@
+﻿=>q1_original
+Ah, $(context.player.Name), glad you're here. There's something I need to discuss with you. Got a moment?<end>
+
+=>q1
+А, $(context.player.Name), хорошо что вы здесь. Мне кое-что нужно обсудить с вами. Есть минутка?<end>
+
+=>a2_original
+Of course Harold, what's this all about?<end>
+
+=>a2
+Конечно, Гарольд, что случилось?<end>
+
+=>q3_original
+I wanted to talk to you about something that is luckily not *as* urgent at this moment, but important none the less. You see, after the earthquake we experienced a major power outage; whole station went black. Usually when things like that happen, our backup generators switch on to provide power until we get our main power back.<end>
+
+=>q3
+Я хотел поговорить с вами кое о чём, что к счастью не *так* уж срочно на данный момент, но, тем не менее, важно. Видите ли, после землетрясения мы пережили отключение электроэнергии; вся станция отключилась. Обычно, когда происходит что-то подобное, наши резервные генераторы запускаются и снабжают нас электроэнергией, пока мы не восстановим основное питание.<end>
+
+=>a4_original
+Keep talking, I'm interested.<end>
+
+=>a4
+Продолжайте, я слушаю.<end>
+
+=>q5_original
+Will do. The thing is, there is a delay before the backup generators kick in. It's usually just several seconds, but that means we have an interruption in power, and for many reasons that is unacceptable. Just imagine you're in the med bay, being operated on, and suddenly there's no power anymore. That's just one example; I won't go into mentioning all the systems in SGS that require constant power supply.<end>
+
+=>q5
+Спасибо. Проблема в том, что есть пауза перед тем как включатся резервные генераторы. Обычно она всего несколько секунд, но это означает, что у нас отключится всё питание, и это недопустимо по многим причинам. Вот представьте, что вы в лазарете лежите на операции, и вдруг гаснет свет. Это только один пример; я не буду перечислять все системы на ССГ, которые требуют непрерывного электроснабжения.<end>
+
+=>q6_original
+Now, this time, during the earthquake, we've had such a large number of batteries die all at once it's insane. Yes, most of them were *pretty* old optoelectric nuclear batteries; don't mistake them for common nickel-palladium fusion batteries, though. These are very rare.<end>
+
+=>q6
+Но в этот раз, во время землетрясения, у нас сдохло столько аккумуляторов сразу, что это просто безумие. Да, большинство из них были *очень* старыми оптоэлектрическими ядерными батареями; не путайте их с обычными никель-палладиевыми батареями синтеза. Эти найти очень трудно.<end>
+
+=>a7_original
+Interesting, but what do you need me for?<end>
+
+=>a7
+Интересно, но зачем вам нуж$(#ен/на) я?<end>
+
+=>q8_original
+Currently, we have a few optoelectric batteries to spare, but if they keep dying, we're gonna be in big trouble. So, I want you to go to an old battery recycling plant not too far away from here; it's to the east, past the Crossroad Caves. It's been out of commission for years, but maybe you can find something there that we can use. Spare optoelectric cells, related equipment or blueprints... you find any of that, make sure you bring it to me.
+
+There's no other place we know of that might have anything similar.<end>
+
+=>q8
+В настоящее время у нас ещё есть несколько оптоэлектрических батарей в запасе, но если они продолжат выходить из строя, то у нас будут большие проблемы. Поэтому я хочу, чтобы вы сходили на старый завод по переработке батарей, который находится недалеко на восток отсюда, за перекрёстком пещер. Он не работает уже много лет, но может быть вы найдёте там что-нибудь, что мы можем использовать. Запасные оптоэлектрические ячейки, оборудование или чертежи... если найдёте что-нибудь из этого -- обязательно принесите мне.
+
+Мы не знаем больше никакого места, где могло бы быть что-нибудь подобное.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+Something like this?<end>
+
+=>a10
+Что-то вроде этого?<end>
+
+=>q11_original
+::Harold's eyebrows shoot up at the mere sight of the thing you brought him.:: Wow, yes, that looks useful. Lemme take a look at it. ::He inserts the drive into his portable computer and takes a look at it.:: Hmm, I was hoping for some info on how to make our own battery, but this has got information on how to revive the dead ones. This is nearly as good. Ha, I never knew you could do that with a photovoltaic cell.<end>
+
+=>q11
+::Гарольд вскидывает брови при одном взгляде на то, что вы ему принесли.:: Ого, да, выглядит интересно. Дайте мне взглянуть. ::Он вставляет накопитель в свой портативный компьютер и смотрит на экран.:: Хм, я надеялся найти информацию о том, как нам самим делать батареи, но здесь есть информация о том, как можно восстановить неисправные. Это почти так же хорошо. Ха, я и не знал, что так можно делать с фотогальванической ячейкой.<end>
+
+=>a12_original
+Glad you're happy.<end>
+
+=>a12
+Я рад$(#/а), что вы довольны.<end>
+
+=>q13_original
+I am, this is really going to solve our problems. Now, as far as a reward go. I'm willing to offer you three hundred credits for this find.<end>
+
+=>q13
+Да, это действительно может решить наши проблемы. Теперь поговорим о вознаграждении. Я готов предложить вам триста кредитов за эту находку.<end>
+
+=>a14_original
+That's fine with me.<end>
+
+=>a14
+Меня это устраивает.<end>
+
+=>q15_original
+Right then. Here's your reward. ::Gives you 300 credits.:: <end>
+
+=>q15
+Ну ладно. Вот ваша награда. ::Он даёт вам 300 кредитов ССГ.::<end>
+
+=>q16_original
+See you around, $(context.player.Name).<end>
+
+=>q16
+Увидимся, $(context.player.Name).<end>
+
+=>a17_original
+::[Mercantile]:: I think I deserve a bit more credits for something this important. Something like five hundred credits should be enough.<end>
+
+=>a17
+::[Торговля]:: Думаю, я заслуживаю больше денег за такую важную работу. Скажем, пятисот кредитов должно хватить.<end>
+
+=>q18_original
+Okay, you have a point, five hundred credits it is. But not a single credit more. ::He gives you 500 credits:: <end>
+
+=>q18
+Ладно, вы правы, пусть будет пятьсот кредитов. Но ни кредитом больше. ::Он даёт вам 500 кредитов ССГ::<end>
+
+=>q19_original
+Sorry, no can do, three hundred is all I can offer you. Is it a deal?<end>
+
+=>q19
+К сожалению, я не могу. Триста -- это всё, что я могу вам предложить. По рукам?<end>
+
+=>a20_original
+It'll do.<end>
+
+=>a20
+Сойдёт.<end>
+
+=>a21_original
+Any rewards?<end>
+
+=>a21
+Как насчёт награды?<end>
+
+=>q22_original
+Definitely, three hundred credits for this thing.<end>
+
+=>q22
+Разумеется, я дам вам за эту вещь триста кредитов.<end>
+
+=>a23_original
+Deal, I'm on the job.<end>
+
+=>a23
+Договорились, я берусь за эту работу.<end>
+
+=>q24_original
+Excellent. Now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there. If you can bring me something good, I'll pay you three hundred credits.<end>
+
+=>q24
+Отлично. Только имейте в виду, что землетрясение обвалило некоторые участки пещеры, так что вам, вероятно, понадобится взрывчатка. Кроме этого, будьте осторожны на самом заводе; он был заброшен долгое время, так что никто не знает, что ждёт вас внутри. Если вы сможете принести что-нибудь полезное, я заплачу вам триста кредитов.<end>
+
+=>q25_original
+Good luck, $(context.player.Name). See you later.<end>
+
+=>q25
+Удачи, $(context.player.Name). Увидимся позже.<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>a27_original
+Before I leave...<end>
+
+=>a27
+Прежде чем я уйду...<end>
+
+=>q28_original
+Yes?<end>
+
+=>q28
+Да?<end>
+
+=>q29_original
+<end>
+
+=>q29
+<end>
+
+=>a30_original
+Do you have any stuff to trade?<end>
+
+=>a30
+У вас есть вещи на обмен?<end>
+
+=>q31_original
+I've got plenty. Take a look.<end>
+
+=>q31
+У меня всего полно. Взгляните.<end>
+
+=>a32_original
+::Barter.::<end>
+
+=>a32
+::Обмен.::<end>
+
+=>a33_original
+Show me what you got. ::Barter.::<end>
+
+=>a33
+Покажите, что у вас есть. ::Обмен.::<end>
+
+=>a34_original
+Tanner tells me you know of a way to restore power to the outposts to the north.<end>
+
+=>a34
+Таннер сказал мне, что вы знаете способ, как восстановить питание на форпостах к северу отсюда.<end>
+
+=>q35_original
+::He nods.:: Right. I remember taking a look at the power generator there a while back. I couldn't do anything about it back then because I didn't have this. ::He rummages through the boxes that are on the table before producing something resembling an energy core.::<end>
+
+=>q35
+::Он кивает.:: Верно. Я помню, как осматривал тамошний генератор. Тогда я не мог ничего с ним сделать, потому что у меня не было вот этого... ::Он роется в коробках, что лежат на столе перед ним, пока наконец не извлекает нечто, напоминающее энергетическое ядро.::<end>
+
+=>q36_original
+Here. It's a flux controller. If you insert it into the slot at the front of the power generator, it *should* get it running again. <end>
+
+=>q36
+Вот. Это регулятор потока. Достаточно вставить его в гнездо на передней панели электрогенератора, и он *должен* снова заработать.<end>
+
+=>q37_original
+After that you ought to be able to reactivate all the outposts. I'm afraid you'll have to do that manually, though. You see, each of them has a switch that cuts off the power in case of a hazard.<end>
+
+=>q37
+После этого вы, скорее всего, сможете включить питание на всех форпостах. Но, боюсь, вам придётся сделать это вручную. Видите ли, на каждом из них есть рубильник, который прекращает подачу энергии в случае аварии.<end>
+
+=>a38_original
+Got it, thanks. I'll give it a try.<end>
+
+=>a38
+Понял$(#/а), спасибо. Я попробую.<end>
+
+=>a39_original
+Is the minibot ready yet?<end>
+
+=>a39
+Минибот уже готов?<end>
+
+=>q40_original
+Hey, I'm working as fast as I can here.<end>
+
+=>q40
+Эй, я работаю так быстро, как только могу.<end>
+
+=>q41_original
+I'll let you know when I'm done, don't worry. Just be patient, okay?<end>
+
+=>q41
+Не беспокойтесь, я сообщу вам, когда закончу. Просто наберитесь терпения, ладно?<end>
+
+=>a42_original
+Harland needs a bot.<end>
+
+=>a42
+Харланду нужен бот.<end>
+
+=>q43_original
+Harland? What kind of bot?<end>
+
+=>q43
+Харланду? Какой бот?<end>
+
+=>a44_original
+A bot that can explore this pitch-black cave I found in the under-passages. He needs it to be remote-controlled, and to have a camera.<end>
+
+=>a44
+Бот, способный исследовать беспросветную пещеру, которую я обнаружил$(#/а) в подземных проходах. Он должен обладать дистанционным управлением и хорошей камерой.<end>
+
+=>q45_original
+Right, right... So an RC bot that can navigate difficult terrain... ::He starts looking around the shop.:: ...has to have a camera, and has to have some kind of illumination. ::And then his eyes fall upon a dismantled bot underneath one of the tables.::
+
+A minibot... a minibot explorer.<end>
+
+=>q45
+Хорошо, хорошо... Значит, радиоуправляемый бот для пересечённой местности... ::Он начинает осматривать мастерскую.:: ...нужна камера и какое-нибудь освещение. ::И тут его взгляд падает на разобранного робота, лежащего под одним из столов.::
+
+Минибот... минибот-исследователь.<end>
+
+=>q46_original
+You know, you're in luck: Gorsky's team brought back some bot power cores from GMS, and I think there's just the right one for this bot among them. If I can then mount a headlight... hmmm, install a camera... and then... yes, yes. That could work indeed.<end>
+
+=>q46
+Знаете, вам повезло: команда Горского доставила из комплекса GMS несколько энергетических ядер для ботов, и мне кажется, среди них есть подходящее. Если мне удастся закрепить фонарь... хм-м-м, установить камеру... а затем... да, конечно. Это и правда может сработать.<end>
+
+=>q47_original
+Yes, I can do what you ask.<end>
+
+=>q47
+Да, я могу выполнить вашу просьбу.<end>
+
+=>a48_original
+When is it going to be ready?<end>
+
+=>a48
+Когда он будет готов?<end>
+
+=>q49_original
+I'll start working on it straight away. It won't take long; I have all the necessary components right here.<end>
+
+=>q49
+Я сейчас же начну над ним работать. Это не займёт много времени, у меня здесь есть всё необходимое.<end>
+
+=>q50_original
+You can return to Harland; I'll have someone bring the explorer up when it's ready.<end>
+
+=>q50
+Вы можете возвращаться к Харланду; я попрошу кого-нибудь доставить исследователь, когда он будет готов.<end>
+
+=>q51_original
+
+
+Tell him he owes me a mushroom brew for this.<end>
+
+=>q51
+Скажи ему, что с него за это бутылка грибного пойла.<end>
+
+=>q52_original
+<end>
+
+=>q52
+<end>
+
+=>a53_original
+There was something else I needed from you.<end>
+
+=>a53
+Мне нужно ещё кое-что спросить.<end>
+
+=>q54_original
+Right.<end>
+
+=>q54
+Хорошо.<end>
+
+=>a55_original
+I'm off then.<end>
+
+=>a55
+Тогда я ухожу.<end>
+
+=>a56_original
+::Nod and leave.::<end>
+
+=>a56
+::Кивнуть и уйти.::<end>
+
+=>a57_original
+Great.<end>
+
+=>a57
+Прекрасно.<end>
+
+=>a58_original
+Hope it gets the job done.<end>
+
+=>a58
+Надеюсь, он справится с задачей.<end>
+
+=>q59_original
+Perhaps I could use that little fella over there... Mount a headlight... hmmm, install a camera... and then... yes, yes. That could work indeed.<end>
+
+=>q59
+Возможно, я мог бы использовать вон того малыша... Закрепить фонарь... хм-м-м, установить камеру... а затем... да, конечно. Это и правда может сработать.<end>
+
+=>q60_original
+I'm missing some power cores; these minibots use rather specific ones - don't ask.
+
+I'll put something together, but it might take a while.<end>
+
+=>q60
+Мне не достаёт энергетических ядер; у этих миниботов они довольно специфические - не спрашивайте.
+
+Я постараюсь что-нибудь придумать, но это может занять какое-то время.<end>
+
+=>a61_original
+When is it going to be ready?<end>
+
+=>a61
+Когда он будет готов?<end>
+
+=>q62_original
+Can't tell exactly. <end>
+
+=>q62
+Точно сказать не могу.<end>
+
+=>q63_original
+You go do other things, and I'll start working on it straight away. I'll mail you when I'm done, and I'll have someone bring the explorer up to Harland.<end>
+
+=>q63
+Займитесь пока другими делами, а я сейчас же начну над ним работать. Когда закончу, я пришлю вам письмо и попрошу кого-нибудь доставить исследователь Харланду.<end>
+
+=>a64_original
+I knew I could count on you.<end>
+
+=>a64
+Я знал$(#/а), что могу на вас рассчитывать.<end>
+
+=>a65_original
+Hope it gets the job done.<end>
+
+=>a65
+Надеюсь, он справится с задачей.<end>
+
+=>a66_original
+So, you wanted to talk to me about something?<end>
+
+=>a66
+Итак, вы хотели поговорить со мной о чём-то?<end>
+
+=>q67_original
+Oh yes. <end>
+
+=>q67
+А, да.<end>
+
+=>a68_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a68
+Что вы знаете о смерти Патрика Пирса?<end>
+
+=>q69_original
+Ah, yes. I knew Pat well, he was a man one could truly rely on. An honest man. I felt... really sad when I heard about his death, you know. And seeing his brother in tears when he first came here after he found out. Man, it's been like two months and he still comes back here.<end>
+
+=>q69
+Ах, да. Я хорошо знал Пата, он был человеком на которого всегда можно было положиться. Честным человеком. Мне было... действительно грустно, когда я услышал о его смерти, вы знаете. И вид его брата в слезах, когда он впервые приехал сюда, после того как узнал. Прошло уже, наверное, два месяца, а он всё равно возвращается сюда.<end>
+
+=>q70_original
+I just don't get why Pasquale doesn't do the full autopsy and put this thing to rest. But, it's his business.<end>
+
+=>q70
+Я не понимаю, почему Паскуаль не сделал полное вскрытие и закрыл расследование. Но это его дело.<end>
+
+=>a71_original
+Can you tell me what he was like as a person?<end>
+
+=>a71
+Можете ли вы сказать, каким он был человеком?<end>
+
+=>q72_original
+A hardworking man, fun to hang out with. You would be hard pressed to find someone who disliked him. Well, maybe Big Bret, as the two of them had several heated arguments over the way Pat installed some of the hopper pen heaters. Bret can be impulsive at times, he... he takes his job seriously, and it is a serious job, I agree, but he can take it too far sometimes.<end>
+
+=>q72
+Он был трудолюбив, и с ним было весело. Вам будет трудно найти кого-то, кому он не нравился. Ну, может быть Большой Брет -- эти двое несколько раз жарко спорили про обогреватели, которые Пат установил в клетке для пещерников. Брет может быть вспыльчив временами, он... он серьёзно относится к своим обязанностям. У него серьёзная работа, я не спорю, но временами он принимает её слишком близко к сердцу.<end>
+
+=>a73_original
+I've changed my mind about that battery recycling plant...<end>
+
+=>a73
+Я передумал$(#/а) насчёт этого завода по переработке батарей...<end>
+
+=>q74_original
+Ah, yes. Will you go there and check it out?<end>
+
+=>q74
+А, да. Вы сходите туда и посмотрите?<end>
+
+=>a75_original
+About the battery recycling plant...<end>
+
+=>a75
+Насчёт завода по переработке батарей...<end>
+
+=>q76_original
+Ah, yes?<end>
+
+=>q76
+А, да?<end>
+
+=>a77_original
+Yes, you'll love this. Here's a blueprint that contains something about optoelectric nuclear batteries. I think you'll find it useful.<end>
+
+=>a77
+Да, вам это понравится. Вот чертёж, в котором есть что-то про оптоэлектрические ядерные батареи. Я думаю, что вам эта информация пригодится.<end>
+
+=>q78_original
+::Harold's eyebrows shoot up at the mere sight of the thing you brought him.:: Wow, what a lucky find. Great, lemme take a look at it. ::He inserts the drive into his portable computer and takes a look at it.:: Hmm, I was hoping for some info on how to make our own battery, but this has got information on how to revive the dead ones. This is nearly as good. Ha, I never knew you could do that with a photovoltaic cell.<end>
+
+=>q78
+::Гарольд вскидывает брови при одном взгляде на то, что вы ему принесли.:: Ого, это удачная находка. Отлично, позвольте мне взглянуть. ::Он вставляет накопитель в свой портативный компьютер и смотрит на экран.:: Хм, я надеялся найти информацию о том, как нам самим делать батареи, но здесь есть информация о том, как можно восстановить неисправные. Это почти так же хорошо. Ха, я и не знал, что так можно делать с фотогальванической ячейкой.<end>
+
+=>a79_original
+Great, glad you're happy.<end>
+
+=>a79
+Отлично, я рад$(#/а), что вы довольны.<end>
+
+=>q80_original
+As I promised, here's your reward. ::He gives you 500 SGS credits.:: <end>
+
+=>q80
+Как я и обещал, вот ваша награда. ::Он даёт вам 500 кредитов ССГ.::<end>
+
+=>q81_original
+As I promised, here's your reward. ::He gives you 300 SGS credits.:: <end>
+
+=>q81
+Как я и обещал, вот ваша награда. ::Он даёт вам 300 кредитов ССГ.::<end>
+
+=>a82_original
+I just want my credits.<end>
+
+=>a82
+Я просто хочу получить свои деньги.<end>
+
+=>q83_original
+Fine, fine. You're so impatient. <end>
+
+=>q83
+Ладно, ладно. Вы так нетерпеливы.<end>
+
+=>a84_original
+I've been to the plant, but there's nothing but junk, junk, and some more junk. I'm not going back there, if you want to search it again, find someone else.<end>
+
+=>a84
+Я был$(#/а) на заводе, но там ничего кроме хлама и хлама, только ещё немного хлама. Я не хочу возвращаться туда, и если хотите обыскать его опять, найдите кого-нибудь другого.<end>
+
+=>q85_original
+Darn it. I was hoping for at least something useful. Right, at least we've tried. Maybe we could check it out later again if we have the manpower.<end>
+
+=>q85
+Вот незадача. Я надеялся получить хотя бы что-то полезное. Ну ладно, по крайней мере, мы попытались. Может быть, мы могли бы проверить его потом ещё раз, если у нас будут свободные люди.<end>
+
+=>a86_original
+What about my reward?<end>
+
+=>a86
+Что насчёт моего вознаграждения?<end>
+
+=>q87_original
+What reward? The deal was I give you the credits if you bring something useful from the plant. You brought nothing. Simple.<end>
+
+=>q87
+Какой награды? Мы договорились, что я заплачу вам, если вы принесёте что-нибудь полезное с завода. Вы ничего не принесли. Вот и всё.<end>
+
+=>a88_original
+Now that I think about it... I believe I've missed a spot while searching. I'll go check it out again.<end>
+
+=>a88
+Хотя, если подумать... Мне кажется, я кое-что пропустил$(#/а) во время поисков. Я пойду ещё раз всё проверю.<end>
+
+=>q89_original
+Right, go along then.<end>
+
+=>q89
+Понятно, не буду вас задерживать.<end>
+
+=>a90_original
+Oh yeah, forgot about that. Oh well, whatcha gonna do. I'm still not going back.<end>
+
+=>a90
+Ах да, я совсем забыл$(#/а). Ну ладно, что поделаешь. Я пока не собираюсь туда возвращаться.<end>
+
+=>q91_original
+Yeah, yeah. See you around.<end>
+
+=>q91
+Да, да. Увидимся.<end>
+
+=>a92_original
+Whatever, I'm gone.<end>
+
+=>a92
+Как скажете, я пош$(#ёл/ла).<end>
+
+=>a93_original
+I'll be back later.<end>
+
+=>a93
+Я вернусь позже.<end>
+
+=>q94_original
+Right. See ya around.<end>
+
+=>q94
+Ага, ещё увидимся.<end>
+
+=>a95_original
+What are your thoughts on the Faceless retreat?<end>
+
+=>a95
+Что вы думаете об отступлении безликих?<end>
+
+=>q96_original
+Well, first of all, from the seismic analysis I did, it appears that the Faceless invasion and the recent earthquake are *not* connected in any way. That's first. As for your question, I feel that the Oligarchs are not responsible for the invasion, at least not directly. I've talked to people around here, and all of them are yapping about the Oligarchs. Oligarchs this, Oligarchs that... Nah.<end>
+
+=>q96
+Ну во-первых, судя по моему сейсмическому анализу, похоже, что вторжение безликих и недавнее землетрясение *никак* не связаны. Это во-первых. Что касается вашего вопроса, -- я думаю, что олигархи не несут ответственности за вторжение, по крайней мере не непосредственно. Я обсуждал это со многими людьми здесь, и все они упоминают олигархов. Олигархи то, олигархи сё... нет...<end>
+
+=>q97_original
+It's the location. The Faceless needed to block the road to the North, and the best place to do so is Core City. Must be that. That's why they didn't take the city itself, you see. And... and they were seen all over South Underrail, so apparently not all their forces were focused on the blockade.<end>
+
+=>q97
+Это всё из-за места. Безликим необходимо было перекрыть путь на север, и лучшим местом для этого является Кор-Сити. Наверняка так. Вот почему они не взяли сам город, понимаете? И... ещё их видели по всей Южной Подземке, так что, видимо, не все их силы были брошены на блокаду.<end>
+
+=>q98_original
+Right. Now why did all of this happen? ::He shrugs.:: It's too early to know. I don't know.<end>
+
+=>q98
+Так. А вот почему всё это произошло? ::Он пожимает плечами.:: Пока слишком рано что-то говорить, я считаю.<end>
+
+=>a99_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a99
+Что вы думаете о вторжении безликих?<end>
+
+=>q100_original
+What I'm curious about is its timing. Is it related to the recent earthquake? I'm going to study the seismic recordings to try to discover the source of the disturbance.<end>
+
+=>q100
+Что мне интересно, это момент, который они выбрали. Связано ли это с недавним землетрясением? Я собираюсь изучить сейсмические записи, чтобы попытаться обнаружить источник возмущения.<end>
+
+=>a101_original
+Let me know if you find something out.<end>
+
+=>a101
+Сообщите мне, если что-нибудь найдёте.<end>
+
+=>q102_original
+Will do.<end>
+
+=>q102
+Сделаем.<end>
+
+=>a103_original
+What's your opinion on Tanner's disappearance?<end>
+
+=>a103
+Что вы думаете об исчезновении Таннера?<end>
+
+=>q104_original
+I don't know who he was or *why* this is all happening, but I do know I've noticed a drastic increase in power levels since his disappearance. Clear as a mindshroom in the black, I tell you. He had something in his room drawing a lot of power, and I think that's the reason Ezra wanted me to go to Tanner's room with him.<end>
+
+=>q104
+Я не знаю, кто он был и *почему* это всё происходит, но я точно знаю, что отметил резкое увеличение уровня энергии после его исчезновения. Ясно как мозгляк в темноте, скажу я вам. У него было что-то в комнате, требующее много энергии, и я думаю, что в этом причина того, что Эзра хотел, чтобы я пошёл вместе с ним в комнату Таннера.<end>
+
+=>q105_original
+Once we go to check it out, I'll have more answers. I hope.<end>
+
+=>q105
+Как только мы это сделаем, у меня будет больше ответов. Надеюсь.<end>
+
+=>a106_original
+I was just looking around. See you later.<end>
+
+=>a106
+Я просто осматриваюсь. Увидимся позже.<end>
+
+=>a107_original
+See ya.<end>
+
+=>a107
+Увидимся.<end>
+
+=>a108_original
+::Nod and leave.::<end>
+
+=>a108
+::Кивнуть и уйти.::<end>
+
+=>a109_original
+That's a lot of work. I expect a compensation.<end>
+
+=>a109
+Это сложная работа. Я ожидаю вознаграждения.<end>
+
+=>q110_original
+Don't worry about that. If you can find something good, you'll receive three hundred credits. Also, now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there.<end>
+
+=>q110
+Не беспокойтесь об этом. Если вы сможете найти что-то полезное, вы получите триста кредитов. Только имейте в виду, что землетрясение обвалило некоторые участки пещеры, так что вам, вероятно, понадобится взрывчатка. Кроме этого, будьте осторожны на самом заводе; он был заброшен долгое время, так что никто не знает, что ждёт вас внутри.<end>
+
+=>a111_original
+Deal.<end>
+
+=>a111
+Договорились.<end>
+
+=>q112_original
+Right, that's what I like to hear. <end>
+
+=>q112
+Отлично, это я и хотел услышать.<end>
+
+=>a113_original
+::[Mercantile]:: I think I deserve a bit more credits for something this important. Something like five hundred credits should be enough.<end>
+
+=>a113
+::[Торговля]:: Думаю, я заслуживаю больше денег за такую важную работу. Скажем, пятисот кредитов должно хватить.<end>
+
+=>q114_original
+Okay, you have a point. Five hundred credits it is. But not a single credit more. Is it a deal now?<end>
+
+=>q114
+Ладно, вы правы. Пусть будет пятьсот кредитов. Но ни одним кредитом больше. Теперь договорились?<end>
+
+=>a115_original
+Yeah, that's more like it.<end>
+
+=>a115
+Вот это другое дело.<end>
+
+=>q116_original
+Right, that should be all. <end>
+
+=>q116
+Ладно, вроде, это всё.<end>
+
+=>q117_original
+Sorry, no can do. Three hundred is all I can offer you. Is it a deal?<end>
+
+=>q117
+К сожалению, я не могу. Триста -- это всё, что я могу вам предложить. Договорились?<end>
+
+=>a118_original
+I'll think about it.<end>
+
+=>a118
+Я подумаю об этом.<end>
+
+=>q119_original
+Fine, you do that and let me know later.<end>
+
+=>q119
+Ладно, подумайте и дайте мне знать.<end>
+
+=>a120_original
+In the meantime...<end>
+
+=>a120
+А пока...<end>
+
+=>a121_original
+Why can't you use different batteries?<end>
+
+=>a121
+Почему нельзя использовать другие батареи?<end>
+
+=>q122_original
+Well, the thing is simple. SGS was originally built by the Biocorp's military, long before anyone of us even came here, so obviously they had some advanced tech at their disposal. Optoelectric nuclear batteries were already in use, and even though theoretically you could use fusion batteries, or any other type, we've had no luck with that. It's like the system refuses to work with anything else.<end>
+
+=>q122
+Ну, тут всё просто. ССГ изначально была построена военными Биокорп задолго до того, как кто-либо из нас попал сюда. Естественно, у них был доступ к передовым технологиям. Были использованы оптоэлектрические ядерные батареи, и хотя, теоретически, мы могли бы использовать термоядерные батареи или батареи любого другого типа, у нас ничего из этого не вышло. Как будто система отказывается работать с чем-либо ещё.<end>
+
+=>a123_original
+::[Electronics]:: I see. By the way, how do these optoelectric batteries work? I'm really interested.<end>
+
+=>a123
+::[Электроника]:: Понятно. Кстати, как эти оптоэлектрические батареи работают? Мне правда интересно.<end>
+
+=>q124_original
+It's complicated... You sure you can understand it?<end>
+
+=>q124
+Это сложно... Вы уверены, что сможете разобраться?<end>
+
+=>a125_original
+Fusion cells have their cathodes made from nickel-oxide, and their anodes from palladium. Palladium is used because it can absorb up to nine hundred times its own volume of hydrogen, although, the details of this process are still poorly understood. And through electrolysis within the cell hydrogen nuclei are combined, thus forming a new nucleus and releasing energy.<end>
+
+=>a125
+Ячейки синтеза имеют катоды, изготовленные из оксида никеля, и аноды из палладия. Палладий может поглотить объём водорода до девятьсот раз превышающий его собственный, хотя подробности этого процесса до сих пор плохо изучены. В ходе электролиза внутри ячейки, ядра водорода соединяются, образуя новые ядра и высвобождая энергию.<end>
+
+=>q126_original
+::Harold nods in approval.:: Oooh! Well done. I really had no idea you knew so much about fusion batteries. Your impressive knowledge could really be useful around the station, you know that? Anyway, you should easily understand how optoelectric batteries work.<end>
+
+=>q126
+::Гарольд одобрительно кивает.:: О-о-о! Молодец. Я, правда, понятия не имел, что вы так много знаете о термоядерных батарейках. Такие впечатляющие познания могли бы очень пригодиться на станции, вы знаете это? Во всяком случае, вам несложно будет понять, как работают оптоэлектрические батареи.<end>
+
+=>q127_original
+You see, optoelectrical batteries use a beta-emmiter that is suspended in gas or liquid containing luminescent gas. When the beta active nuclides emit beta particles, they excite their own electrons in the narrow excimer band at a minimum of thermal losses, such that this radiation is converted in a high band gap photovoltaic layer very efficiently into electricity. <end>
+
+=>q127
+Видите ли, оптоэлектрические батареи используют бета-излучатель, взвешенный в газе или жидкости, содержащей люминесцентный газ. Когда бета-активные нуклиды испускают бета-частицы, они возбуждают собственные электроны в узком эксимерном диапазоне при минимальных тепловых потерях таким образом, что это излучение очень эффективно преобразуется в электричество в широкой запрещённой зоне фотогальванического слоя.<end>
+
+=>a128_original
+Ah, that is quite interesting, and makes perfect sense. You learn something new every day.<end>
+
+=>a128
+Ах, это довольно интересно и очень логично. Каждый день узнаёшь что-то новое.<end>
+
+=>q129_original
+I agree, it's rather fascinating. That's why I do these things - cause science is awesome. ::He laughs.:: It's a pleasure to be discussing something like this with you, $(context.player.Name). But now's the time to get back to business. Will you go to the recycling plant for us?<end>
+
+=>q129
+Я согласен, это довольно увлекательно. Вот почему я этим занимаюсь: наука это круто. ::Он смеётся.:: Приятно было поговорить с вами об этом, $(context.player.Name). Но сейчас самое время вернуться к делу. Вы сходите на перерабатывающий завод?<end>
+
+=>a130_original
+I know how lithium-ion batteries work. The cathode attracts lithium-ions, therefore making it more positively charged than the anode, which  in turn attracts negatively charged electrons. They also have a very high energy density, compared to most other batteries.<end>
+
+=>a130
+Я знаю, как работают литий-ионные батареи. Катод притягивает ионы лития, таким образом становясь положительно заряженным, тогда как анод притягивает отрицательно заряженные электроны. Они имеют очень высокую плотность энергии по сравнению с большинством других батарей.<end>
+
+=>q131_original
+Well done, I see you have some advanced knowledge on how batteries work. But still, I think optoelectric batteries are just a tiny bit too advanced for you. Anyhow, will you go to the battery recycling plant for us?<end>
+
+=>q131
+Отлично, я вижу, вы хорошо понимаете как работают батареи. Но всё же я думаю, что оптоэлектрические батареи немного сложноваты для вас. Так или иначе, вы сходите на перерабатывающий завод?<end>
+
+=>a132_original
+Well, I know most batteries have some sort of an electrolyte, and positively and negatively charged electrodes. The electrons flow through the circuit from one electrode to the other, generating an electric current.<end>
+
+=>a132
+Ну, я знаю, что большинство батарей содержат какой-то электролит и положительные и отрицательные электроды. Электроны текут по замкнутому контуру от одного электрода к другому, создавая электрический ток.<end>
+
+=>q133_original
+That is true, but still, optoelectric batteries are a bit more advanced than that. Anyhow, back to business. Will you go to the recycling plant for us?<end>
+
+=>q133
+Это так, но оптоэлектрические батареи немного более продвинутые. Ну да ладно, вернёмся к делу. Вы сходите на перерабатывающий завод?<end>
+
+=>a134_original
+Fusion battery facilitates extremely small scale nuclear fusion in order to produce a single high energy discharge.<end>
+
+=>a134
+Батарея синтеза запускает реакцию термоядерного синтеза в чрезвычайно малых масштабах с целью получения одного мощного разряда энергии.<end>
+
+=>q135_original
+I see you've read the label, but I'm sorry, optoelectric batteries seem really advanced for you. Now, will you go to the recycling plant for us?<end>
+
+=>q135
+Я вижу, что вы прочитали этикетку, но извините, оптоэлектрические батареи, кажется, слишком сложны для вас. Ну что, вы сходите на перерабатывающий завод?<end>
+
+=>a136_original
+I know that when you press a switch, the lights turn on.<end>
+
+=>a136
+Я знаю, что если нажать на выключатель, загорается свет.<end>
+
+=>q137_original
+I'm sure you do. Sorry, optoelectric batteries are way too advanced for you. Now, will you go to the recycling plant for us?<end>
+
+=>q137
+Это уже кое-что. К сожалению, оптоэлектрические батареи слишком сложны для вас. Ну что, вы сходите на перерабатывающий завод?<end>
+
+=>a138_original
+I can't. Maybe I shouldn't have asked.<end>
+
+=>a138
+Я не смогу. Может быть, мне не стоило спрашивать.<end>
+
+=>q139_original
+Right, now, back to business. Will you go to the recycling plant for us?<end>
+
+=>q139
+Ладно, вернёмся к делу. Вы сходите на перерабатывающий завод?<end>
+
+=>a140_original
+I see... Now, about searching that recycling plant.<end>
+
+=>a140
+Понятно... Теперь, насчёт этого перерабатывающего завода...<end>
+
+=>q141_original
+Right, will you do it?<end>
+
+=>q141
+Да, та вы поможете мне?<end>
+
+=>a142_original
+Too much work, I'll think about it...<end>
+
+=>a142
+У меня слишком много дел, я подумаю об этом...<end>
+
+=>a143_original
+Yawn, can you just skip to the chase?<end>
+
+=>a143
+Это скучно, почему бы вам не перейти к делу?<end>
+
+=>q144_original
+Sorry, I can get carried away sometimes. I'll keep it short. <end>
+
+=>q144
+Извините, я могу иногда увлекаться. Я постараюсь покороче.<end>
+
+=>a145_original
+Could you skip the tech stuff? Just tell me what to do.<end>
+
+=>a145
+Не могли бы вы пропустить технические подробности? Просто скажите, что мне делать.<end>
+
+=>q146_original
+I could. A lot of our optoelectric nuclear batteries used to maintain uninterrupted power during a power outage died  when we used them after the earthquake. These are very rare, don't mistake them for regular nickel-palladium fusion cells that can be found everywhere.<end>
+
+=>q146
+Я мог бы. Много оптоэлектрических ядерных батарей, которые мы используем для поддержания бесперебойного питания, сдохли после землетрясения. Они очень редкие, не путайте их с обычными термоядерными никель-палладиевыми ячейками, которые можно найти повсюду.<end>
+
+=>a147_original
+I'm sorry, I'm in a hurry. We'll talk later.<end>
+
+=>a147
+Извините, я спешу. Мы поговорим позже.<end>
+
+=>q148_original
+Okay, but when you have the time, please see me.<end>
+
+=>q148
+Ладно, но когда у вас будет время, пожалуйста, зайдите ко мне.<end>
+
+=>q149_original
+Howdy, howdy. Hey, I've already sent the explorer to Harland. Installed everything you $(#guys/two) asked for. Just remind him to charge it properly; yeah, don't want it running out of energy at the worst possible time.<end>
+
+=>q149
+Приветик. Эй, я уже отправил исследователь Харланду. Установил всё, о чём вы, $(#парни/ребята), просили. Только напомните, чтобы он полностью его зарядил; да, не хотелось бы, чтобы в самый неподходящий момент у него закончилась энергия.<end>
+
+=>q150_original
+We lost Gorsky. I'd say rest in peace, but Gorsky and peace? Nah...<end>
+
+=>q150
+Я слышал, мы потеряли Горского. Я бы сказал -- покойся с миром, но Горский и мир? Не-а...<end>
+
+=>q151_original
+The whole station's buzzing about what happened at the bar. <end>
+
+=>q151
+Вся станция гудит о том, что произошло в баре.<end>
+
+=>q152_original
+Glad to see you're still in one piece, $(context.player.Name). Heard it was ugly.<end>
+
+=>q152
+Я рад, что с вами всё в порядке, $(context.player.Name). Слышал, это было ужасно.<end>
+
+=>q153_original
+
+
+Anyway, what do you need?<end>
+
+=>q153
+Ладно, что тебе нужно?<end>
+
+=>q154_original
+::He shakes his head.:: Just when you think you've seen every psionic trick in the database, something new surprises you. Right, eh?<end>
+
+=>q154
+::Он качает головой.:: Стоит только подумать, что в базе данных уже есть все псионические трюки, как находится что-то новенькое. Верно?<end>
+
+=>q155_original
+Howdy, $(context.player.Name). I got some new stuff available if you wanna take a look.<end>
+
+=>q155
+Привет, $(context.player.Name). У меня новый ассортимент, не желаете взглянуть?<end>
+
+=>q156_original
+Howdy. Heard you went to GMS. Did you find anything interesting?<end>
+
+=>q156
+Привет. Слышал, вы были в GMS. Нашли что-нибудь интересное?<end>
+
+=>q157_original
+What's up?<end>
+
+=>q157
+В чём дело?<end>
+
+=>q158_original
+Howdy. You must be the new $(#guy/girl). Name's Harold.
+
+I'm in charge of this little workshop here.<end>
+
+=>q158
+Приветик. Вы, должно быть, т$(#от/а) новеньк$(#ий/ая). Меня зовут Гарольд.
+
+Я отвечаю за эту маленькую мастерскую.<end>
+
+=>a159_original
+Nice to meet you, Harold. I'm $(context.player.Name).<end>
+
+=>a159
+Очень приятно, Гарольд. Я $(context.player.Name).<end>
+
+=>q160_original
+So... you looking for something specific or just looking around?<end>
+
+=>q160
+Так... вам нужно что-то конкретное или вы просто осматриваетесь?<end>
+
+=>a161_original
+Name's $(context.player.Name).<end>
+
+=>a161
+Меня зовут $(context.player.Name).<end>
+

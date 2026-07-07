@@ -1,0 +1,116 @@
+﻿=>q1_original
+Good day, Invictus. Go right in.<end>
+
+=>q1
+Добрый день, инвиктус. Заходите.<end>
+
+=>q2_original
+$(context.playerArenaTitle)?<end>
+
+=>q2
+$(context.playerArenaTitle)?<end>
+
+=>q3_original
+Hey, $(context.player.Name), how's it going?<end>
+
+=>q3
+Привет, $(context.player.Name), как дела?<end>
+
+=>q4_original
+If you'd excuse me, I have some important work to do.<end>
+
+=>q4
+Извините, у меня есть важные дела.<end>
+
+=>q5_original
+::The man separates his stare from the papers on the desk and looks up. Immediately, he points his crooked index finger at you.:: 
+
+Listen, $(#man/woman), I've already told you your son never ca--! Oh... oh - good day, $(#sir/ma'am), good day. I apologize for raising my voice, but I thought you were someone else. Some stupid $(#codger/hag) has been bugging me all day about... well, never mind.
+
+Ehm, so, how may I help you?<end>
+
+=>q5
+::Мужчина отрывает взгляд от бумаг на столе и поднимает глаза. Он мгновенно направляет свой кривой указательный палец в вашу сторону.:: 
+
+Слушайте, $(#мужчина/женщина), я уже сказал, что ваш сын никогда не при... Ох... о, добрый день, $(#сэр/мэм). Добрый день! Прошу прощения за мой тон, я принял вас за кого-то другого. Од$(#ин/на) стар$(#ый/ая) $(#пердун/ведьма) не даёт покоя мне весь день из-за... ну, неважно.
+
+М-м-м, итак, чем я могу вам помочь?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Hi there. What can you tell me about this place?<end>
+
+=>a7
+Привет. Что вы можете рассказать мне об этом месте?<end>
+
+=>q8_original
+This is the Core City Arena - a place where only the most daring men and women come to meet each other - and terrifying, vicious beasts - in brutal combat. All matches are fought to the death, and many do not survive even their first one. But if you are able to live and dominate the opposition, then good coin awaits you. And who knows - maybe one day *you* will get to become a famous gladiator. <end>
+
+=>q8
+Это Арена Кор-Сити -- место, куда приходят только самые смелые мужчины и женщины, чтобы встретиться друг с другом -- а также со страшными, смертоносными тварями -- в жестокой битве. Все матчи ведутся до смерти, и многие участники даже не проходят дальше первого, но если вы способны выживать и доминировать над оппонентом, то вас ждёт достойная награда. И, кто знает, может быть, однажды именно *вы* станете знаменитым гладиатором.<end>
+
+=>q9_original
+Interested in applying, $(#sir/ma'am)?<end>
+
+=>q9
+Хотите подать заявку, $(#сэр/мэм)?<end>
+
+=>a10_original
+Sounds tempting. Where do I apply?<end>
+
+=>a10
+Звучит заманчиво. Где мне записаться?<end>
+
+=>q11_original
+Excellent. There is courage within you after all, $(#sir/ma'am). ::He points to the door next to him.:: Take this door, go *all* the way down and speak to a man called Lanista. Big guy wearing metal armor. He'll tell you everything you need to know.<end>
+
+=>q11
+Отлично. Всё-таки в вас живёт храбрость, $(#сэр/мэм). ::Он указывает на дверь рядом.:: Входите в эту дверь, идите до *самого* конца и поговорите с мужчиной по имена Ланиста. Такой здоровяк в металлической броне. Он расскажет всё, что вам нужно знать.<end>
+
+=>a12_original
+Will do.<end>
+
+=>a12
+Пойдёт.<end>
+
+=>a13_original
+Sounds really dangerous. I'll think about it.<end>
+
+=>a13
+Звучит и правда опасно. Я подумаю об этом.<end>
+
+=>q14_original
+No problem at all, $(#sir/ma'am). There is no shame in quaking before violent death. ::He smiles.:: You think about all that. I'll be here if you decide to apply for the Arena.<end>
+
+=>q14
+Никаких проблем, $(#сэр/мэм). Нет ничего постыдного в боязни насильственной смерти. ::Он улыбается.:: Вы обдумайте это всё. Я буду здесь, если вы решите подать заявку на Арену.<end>
+
+=>a15_original
+What can you tell me about the Arena?<end>
+
+=>a15
+Что вы можете рассказать об Арене?<end>
+
+=>q16_original
+The answer is simple: The Arena is a place where only the most daring men and women come to meet each other - and terrifying, vicious beasts - in brutal combat. All matches are fought to the death, and many do not survive even their first one. But if you are able to live and dominate the opposition, then good coin awaits you. And who knows - maybe one day *you* will get to become a famous gladiator.<end>
+
+=>q16
+Ответ прост: Арена -- это место, куда приходят только самые смелые мужчины и женщины, чтобы встретиться друг с другом -- а также со страшными, смертоносными тварями -- в жестокой битве. Все матчи ведутся до смерти, и многие даже не проходят дальше первого, но если вы способны выживать и доминировать над оппонентом, то вас ждёт достойная награда. И, кто знает, может быть, однажды именно *вы* станете знаменитым гладиатором.<end>
+
+=>a17_original
+I changed my mind about the Arena. Where can I apply?<end>
+
+=>a17
+Я передумал$(#/а) по поводу Арены. Где я могу подать заявку?<end>
+
+=>a18_original
+So long.<end>
+
+=>a18
+Пока.<end>
+

@@ -1,0 +1,708 @@
+﻿=>q1_original
+::You come up to a rangy-looking ferryman loading some boxes into what is presumably his own ferry. He wipes the sweat from his forehead with the back of his hand and smiles, all the while rubbing that same sweat onto the back of his pants. He addresses you in a raspy baritone voice.::
+
+Greetings, $(#laddie/lassie), I be Cap'n Coltrane, 'n' I got lots of interestin' tales to tell to those who sail with me, aye, for I'd seen things ye wouldn't believe.<end>
+
+=>q1
+::Вы подходите к подтянутому капитану, который занят погрузкой каких-то коробок на паром. Похоже, это его собственное судно. Он вытирает пот со лба тыльной стороной ладони и улыбается, уже вытирая ту же самую руку о заднюю сторону штанов. Затем он обращается к вам хриплым баритоном.::
+
+Приветствую, $(#малец/милаха), я капитан Колтрейн, яр-р. Куда путь буш даёшь? Я могу поведать много интересных историй тем, кто идёт со мной; капитан Колтрейн, ага, я видел вещи, в которые никто не поверит.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I need to get to Junkyard.<end>
+
+=>a3
+Мне нужно попасть на Свалку.<end>
+
+=>q4_original
+Ye pullin' me leg, $(#laddie/lassie)? Looks to me ye already got a vessel, it does.<end>
+
+=>q4
+Да ты мя разыгрываешь, $(#малец/милаха)? Сдаётся мне, у тя уже есть посудина.<end>
+
+=>q5_original
+Yarr, that's gunna cost ye *fourty* coins. 'Tis th' Grim Jetters, they be everywhere now.<end>
+
+=>q5
+Яр-р, это будет стоить те *сорок* монет. Всё эти Беспощадные всадники, они теперь повсюду.<end>
+
+=>a6_original
+Here you go. ::Give him 40 stygian coins.::<end>
+
+=>a6
+Вот, держи. ::Дать ему 40 стигийских монет.::<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>q8_original
+Now, matey, let me tell ye a story 'bout th' nastiest, foulest grog I've ever tasted in me life. Yarr. It be seventeen weeks ago, in a crummy bar in a settlement overlookin' th' dark waters o' North Underrail. It all began when a drunk Protectorate soldier approached me 'n' said "Ahoy, matey, how ye be doin'?"...<end>
+
+=>q8
+Теперь, дружище, позволь мне поведать те историю о самом отвратительном, самом мерзком гроге, который я когда-либо пробовал в своей жизни. Яр-р. Было это семнадцать недель назад в грязном баре в поселении, с видом на тёмные воды северной Подземки. Всё началось, когда ко мне подошёл пьяный солдат Протектората и сказал: «Э-хей, приятель, как дела?»<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+::Sail to Core City.::<end>
+
+=>a11
+::Плыть в Кор-Сити.::<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>a13_original
+::Sail to Junkyard.::<end>
+
+=>a13
+::Плыть на Свалку.::<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+::Sail to SGS.::<end>
+
+=>a15
+::Плыть на ССГ.::<end>
+
+=>q16_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout me encounter with 'tis sea leviathan, a serpent three-- no, four boats long, thick as a sewage pipe - 'n' just as fetid. Phew! Twas near Core City, when one of me passengers, a drunken sailor from th' far west, beshouted: "Yarr, matey, a wild sea mustang be approachin' fast..."<end>
+
+=>q16
+А теперь, $(#паренёк/девчушка), позволь рассказать те историю о моей встрече с морским левиафаном, змеем длиной в три... нет, в целых четыре лодки, толщиной со сточную трубу - и таким же зловонным. Фу! Я был уже на подходе к Кор-Сити, когда один из моих пассажиров, пьяный моряк с далёкого запада, закричал: "Яр-р, дружище, быстро приближается дикий морской мустанг..."<end>
+
+=>q17_original
+Now, matey, let me tell ye 'tis story 'bout a water-dwelling devil that had such ghastly nail-fins, such malevolent bulging eyes, such impenetrable red scales, such uncountable serrated teeth, such thick 'n' tenticular tongues - yet such frail and puny bowels...<end>
+
+=>q17
+Теперь, дружище, позволь мне поведать те «эту историю» о обитающем в воде дьяволе, у которого были такие ужасные ласты, злобные выпуклые глаза и крепкая красная чешуя, много-много острых зубов, и ещё толстые языки-щупальца - кроме одного, у него были очень слабые кишки...<end>
+
+=>q18_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout how 'tis hopper I bet me hard-earned coins on blew up into disappointin' chunkery right before th' end of th' race. Twas a few months ago, yarr, when I stopped by th' hopper racin' track northeast o' Th' Rig for some fun...<end>
+
+=>q18
+А теперь, $(#паренёк/девчушка), давай-ка я расскажу те историю о том, как пещерника, на которого я поставил свои кровно заработанные, разорвало на кусочки прямо перед финишем. Яр-р, это произошло пару месяцев назад, когда, чтобы немного развлечься, я заскочил на пещерникодром к северо-востоку от Буровой...<end>
+
+=>q19_original
+Now, $(#laddie/lassie), let me tell ye 'tis story 'bout a one-eyed, one-legged, one-armed ferryman called Half-Done Jim...<end>
+
+=>q19
+Теперь, $(#паренёк/девчушка), позвольте мне рассказать вам историю про одноглазого, одноногого, однорукого паромщика по имени Полу-готовый Джим...<end>
+
+=>q20_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout how I fought off a dozen pirates o' th' eastern waters, th' scurvy bandits o' South Underrail rivers 'n' lakes. 'N' ponds. "Ahoy," th' passenger next to me had shouted 'n' pointed east: "Thar they be comin' from, yarr!"...<end>
+
+=>q20
+А теперь, $(#паренёк/девчушка), позволь мне рассказать те историю о том, как я отбился от дюжины пиратов восточных вод, жалких речных и озёрных бандитов с Южной Подземки. "Э-хей", - крикнул пассажир рядом со мной, указывая на восток: "Они приходят оттуда, яр-р-р!"...<end>
+
+=>q21_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout 'tis diver called Blubber Jack who dove too deep, too fast, 'n' with too-little oxygen in 'is tanks. 'E told me to sail to a spot 'e called, "Th' spot for deep divin', yarr," 'n' offered me such coinage I simply couldn't refuse...<end>
+
+=>q21
+Теперь, $(#паренёк/девчушка), позвольте мне рассказать те историю о ныряльщике по имени Блаббер Джек, который нырял слишком глубоко, слишком быстро, и слишком мало кислорода было в его резервуарах. Он велел мне плыть к месту, которое он называл "место для глубокого нырка, яр-р", и предложил мне столько монет, что я просто не мог отказаться...<end>
+
+=>q22_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout th' seventh son of a seventh son of a seventh son of a lake-dog who had thought 'e couldn't have any kids...<end>
+
+=>q22
+Теперь, $(#парнишка/девчушка), позволь мне рассказать те историю о седьмом сыне седьмого сына седьмого сына озёрного пса, который думал, что у них не может быть детей <end>
+
+=>q23_original
+Now, matey, let me tell ye 'tis story 'bout a throng o' obsidian ants in a ferry carryin' hopper meat from Camp Hathor to Core City. 'Tis ferry, it be mine, yarr. It started while we were passin' Drag 'n' Drop, when th' person next to me felt debilitatin' pain in 'is shin...<end>
+
+=>q23
+А теперь, $(#приятель/подруга), позволь мне рассказать те историю о толпе обсидиановых муравьёв на пароме, перевозившем мясо пещерников из лагеря Хатор в Кор-Сити. Тот паром, был моим, яр-р. Всё началось, когда мы проходили мимо Тяни-Толкай, один человек рядом со мной почувствовал колющую боль в голени...<end>
+
+=>q24_original
+Now, matey, let me tell ye 'tis story 'bout a cat, a dog, a handful of lice, a hobo, a dirty spade 'n' a large bag that reeked o' death 'n' mindshrooms. So, 'tis hobo walks onto me ferry, yarr...<end>
+
+=>q24
+Теперь, дружище, позволь мне поведать те «эту историю» о коте, собаке, грязной лопатке и большой сумке, которая пахла смертью и мозгляками. Итак, этот бродяга заходит на мой паром, яр-р...<end>
+
+=>q25_original
+Now, matey, let me tell ye 'tis story 'bout a lofty man made o' steel who could leap into nothingness, leavin' behind 'im only a bluish trail o' mystery, yarr. It all began when I was ferryin' 'tis pregnant woman to Core City...<end>
+
+=>q25
+А теперь, $(#паренёк/девчушка), позволь мне рассказать те эту историю о высоком человеке, сделанном из стали, который мог прыгнуть в небытие, оставив после себя лишь голубоватый след тайны, яр-р. Всё началось, когда я перевозил эту беременную женщину в Кор-Сити...<end>
+
+=>q26_original
+Now, matey, let me tell ye a story 'bout 'tis scavenger who went everywhere, picked up everythin' - even if it be nailed to th' ground itself, yarr - 'n' bewailed how merchants would not buy 'is scavenge-booty. It all started when 'e tried to load a mine cart full o' blood-stained clothin' into me ferry...<end>
+
+=>q26
+А теперь, дружище, позволь мне рассказать те историю о том, как этот мусорщик ходил повсюду, подбирал всё подряд - даже если это было прибито гвоздями к земле, яр-р - и плакал потому, что купцы не покупают такой хлам. Всё началось, когда он попытался погрузить на мой паром тележку с окровавленной одеждой...<end>
+
+=>q27_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout 'tis man who had been to all bars 'n' could drink all th' brews o' th' world, who could pour snake-venom grog into 'is belly 'n' not be battin' an eye. 'N' 'is hangovers were these hallucinations 'e thought to be visions but were really just th' effects of 'is body coping with th' strong booze. It all started many years ago, when I was sittin' in Kareem's Bar in Junkyard, waitin' for a surprise...<end>
+
+=>q27
+Теперь, $(#паренёк/девчушка), позвольте мне рассказать те историю о том, как это человек, который был во всех барах и мог пить всё варево мира, мог залить змеиный яд в брюхо и глазом не моргнуть. Похмелье было галлюцинациями, которые он считал видениями, но на самом деле это были просто последствия того, что тело справляется с крепкой выпивкой. Всё началось много лет назад, когда я сидел в баре Карима на Свалке, ожидая сюрприза...<end>
+
+=>q28_original
+Now, $(#laddie/lassie), let me tell ye a story 'bout th' horrors of th' ol' world seas. Back in those days, as th' legends go, th' seas were vast and ye could get lost in them 'n' be alone for months. So vast they were, aye. Thar was 'tis cap'n called Blondbeard 'n 'is ship Oligarch Theodore's Death. One day, th' cap'n noticed a swarm of sea crawlers below deck. Yarr...<end>
+
+=>q28
+Теперь, $(#паренёк/девчушка), позвольте мне рассказать те историю об ужасах старых морей. В те времена, как говорят легенды, моря были огромны, и вы могли заблудиться в них и остаться в одиночестве на несколько месяцев. Такие огромные они были, ага. Это был Белобородый, капитан корабля Смерть Олигарха Теодора. Однажды капитан заметил под палубой рой морских краулеров. Яар-р...<end>
+
+=>a29_original
+I've changed my mind.<end>
+
+=>a29
+Я ещё подумаю.<end>
+
+=>q30_original
+Blimey! Ye be pullin' me leg $(#laddie/lassie).<end>
+
+=>q30
+Чтоб мне провалиться! Ты надо мной издеваешься, $(#дружок/лапочка).<end>
+
+=>q31_original
+Yarr, that's gunna cost ye twenty coins.<end>
+
+=>q31
+Яр-р, это обойдётся те в двадцать монет.<end>
+
+=>a32_original
+Here you go. ::Give him 20 stygian coins.::<end>
+
+=>a32
+Идёт. ::Дать ему 20 стигийских монет.::<end>
+
+=>a33_original
+I need to get to SGS.<end>
+
+=>a33
+Мне нужно добраться до ССГ.<end>
+
+=>q34_original
+Aye. That gunna be *thirty* coins. 'Tis th' Grim Jetters, they be everywhere now.<end>
+
+=>q34
+Ага. Это будет стоить те *тридцать* монет. Всё эти Беспощадные всадники, они теперь повсюду.<end>
+
+=>a35_original
+Here. ::Give him 30 stygian coins.::<end>
+
+=>a35
+Вот. ::Дать ему 30 стигийских монет.::<end>
+
+=>q36_original
+Aye. That gunna be fifteen coins.<end>
+
+=>q36
+Ага, это обойдётся те в пятнадцать монет.<end>
+
+=>a37_original
+Here. ::Give him 15 stygian coins.::<end>
+
+=>a37
+Вот. ::Дать ему 15 стигийских монет.::<end>
+
+=>a38_original
+I need to get to Core City.<end>
+
+=>a38
+Мне нужно попасть в Кор-Сити.<end>
+
+=>q39_original
+Aye! It'll cost ye *sixty* coins. 'Tis th' Grim Jetters, they be everywhere now.<end>
+
+=>q39
+Ага! Это будет стоить те *шестьдесят* монет. Всё эти Беспощадные всадники, они теперь повсюду.<end>
+
+=>a40_original
+Here you go. ::Give him 60 stygian coins.::<end>
+
+=>a40
+Вот, держи. ::Дать ему 60 стигийских монет.::<end>
+
+=>q41_original
+Aye! It'll cost ye thirty coins.<end>
+
+=>q41
+Ага! Это обойдётся те в тридцать монет.<end>
+
+=>a42_original
+Here you go. ::Give him 30 stygian coins.::<end>
+
+=>a42
+Вот, держи. ::Дать ему 30 стигийских монет.::<end>
+
+=>a43_original
+I need to get to Forsaken Island.<end>
+
+=>a43
+Мне нужно попасть на Покинутый остров.<end>
+
+=>q44_original
+Nay...<end>
+
+=>q44
+Отставить...<end>
+
+=>a45_original
+Nay what?<end>
+
+=>a45
+Что «отставить»?<end>
+
+=>q46_original
+I don't sail thar, $(#laddie/lassie), for it be too risky. Strong currents 'n' island devils make that place... very undesirable.<end>
+
+=>q46
+Я не плаваю туды, $(#друже/деточка), слишком рискованно. Сильные течения у острова дьявола делают это место... очень нежелательным.<end>
+
+=>a47_original
+But I really need to go there.<end>
+
+=>a47
+Но мне действительно нужно туда попасть.<end>
+
+=>q48_original
+ Ye can try swimmin'. ::He laughs.:: Thar was 'tis lad a few years back...<end>
+
+=>q48
+Можете попробовать вплавь. ::Он смеётся.:: Был один парень несколько лет назад...<end>
+
+=>a49_original
+I am not going to swim there. And I'm not interested in the story about the lad.<end>
+
+=>a49
+Я не собираюсь купаться. И меня не интересует история об этом парне.<end>
+
+=>q50_original
+Aye, aye... I can see with me sharp eye yer getting mighty upset. Wanna sail somewhere else, though?<end>
+
+=>q50
+Ой, ой... Вижу своим глазом у тя расстроенный вид. Хошь, могу отвезти тя куда-нибудь ещё?<end>
+
+=>a51_original
+What about the lad?<end>
+
+=>a51
+Что насчёт мальчика?<end>
+
+=>q52_original
+'E tried swimin'.<end>
+
+=>q52
+Он пробовал вплавь.<end>
+
+=>a53_original
+And?<end>
+
+=>a53
+И?<end>
+
+=>q54_original
+'E got eaten by chompers, aye.<end>
+
+=>q54
+Его слопали зубастики, вот так.<end>
+
+=>a55_original
+Comforting.<end>
+
+=>a55
+Утешительно.<end>
+
+=>q56_original
+Even if 'e hadn't, 'e'd never have overcome the strong currents surroundin' the island, aye. It'd have thrashed 'im around like a three-sheets-to-the-wind landlubber would thrash a cutlass while fightin' off a colony of sea bats. Aye.<end>
+
+=>q56
+Даже если бы он этого не сделал, он никогда не смог бы преодолеть сильные течения, окружающие остров, да. Он бы его поколотил, как сухопутная крыса с тремя простынями на ветру колотит абордажной саблей, отбиваясь от колонии морских летучих мышей. Ага.<end>
+
+=>a57_original
+Let us change the subject.<end>
+
+=>a57
+Давай сменим тему.<end>
+
+=>q58_original
+Aye?<end>
+
+=>q58
+Ага?<end>
+
+=>a59_original
+I have something more important to do right now. See ya.<end>
+
+=>a59
+Сейчас у меня есть, кое-что более важное. До встречи.<end>
+
+=>q60_original
+Aye. Farewell, $(#laddie/lassie).<end>
+
+=>q60
+Ага. Прощай, $(#паренёк/девчушка).<end>
+
+=>a61_original
+I see. I'd like to go somewhere else, please.<end>
+
+=>a61
+Понятно. Тогда мне нужно в другое место.<end>
+
+=>q62_original
+Aye?<end>
+
+=>q62
+Ага?<end>
+
+=>a63_original
+Whatever. If you won't take me I'll find someone else.<end>
+
+=>a63
+Как хотите. Если вы мне не поможете, я найду кого-нибудь ещё.<end>
+
+=>q64_original
+::He laughs out loud.:: Good luck, matey.<end>
+
+=>q64
+::Он громко смеётся.:: Удачи, друже.<end>
+
+=>a65_original
+Do you know anything about the Black Sea?<end>
+
+=>a65
+Ты знаешь что-нибудь о Чёрном море?<end>
+
+=>q66_original
+Aye, th' Hell's Gut. It be north of here 'n' east of Dreadpool. It be a place of danger 'n' mystery, aye. Pirates - bloodthirsty, filthy 'n' deadly - be livin' thar. I've never sailed thar, nor have I been near it, for it's not only pirates who should be feared... but other things.<end>
+
+=>q66
+Ага, Адский котёл. Это на север отсюда и к востоку от озера Страха. Это место опасности и тайн. Там обитают кровожадные, грязные и смертельно опасные пираты. Я никогда не ходил дотуда, даже близко не был, потому что следует страшиться не только пиратов... но и кое-чего другого.<end>
+
+=>a67_original
+What other things?<end>
+
+=>a67
+Что ещё?<end>
+
+=>q68_original
+Thar be creatures that rarely venture into our waters. Water serpents so large 'n' toxic they could easily capsize yer ferry, or sink it by meltin' 'er with their acid spit. It happened to old salt Cap'n Bebop, the jazz o' th' South Underrail waters, 'cause 'e got too near th' Hell's Gut. Aye. Some say it be pirate chemical weapons, but us ferrymen know better.<end>
+
+=>q68
+Эти существа редко заходят в наши воды. Водяные змеи настолько велики и токсичны, что могут запросто опрокинуть паром или потопить его, расплавив борта плевками кислоты. Это случилось со старым капитаном Бибопом, виртуозом вод южной Подземки, потому что он слишком близко подошёл к Адскому котлу. Так-то вот... Некоторые заявляют, что это пиратское химическое оружие, но нам-то, паромщикам, лучше знать.<end>
+
+=>q69_original
+Thar be other things as well: giant crabs, giant bats that suck yer blood 'n'... bright-blue spirits, like orbs o' light, that sometimes haunt those who be sailin' near th' Black Sea, aye. 'N' those who come *too* near, th' Glowing Canine can make 'em go derailed. 
+
+That's why th' pirates are hidin' thar, for no sane man would be lookin' for 'em in...<end>
+
+=>q69
+Там будут и другие вещи: гигантские крабы, гигантские летучие мыши, которые сосут вашу кровь... ярко-синие духи, как шары света, которые иногда преследуют тех, кто плывёт рядом с Чёрным морем, да. А те, кто подходит слишком близко к Светящимся клыкам могут заставить их сойти с рельсов.
+
+Вот почему пираты прячутся, потому что ни один здравомыслящий человек не будет искать их в...<end>
+
+=>q70_original
+The Hell's Gut. Yarr.<end>
+
+=>q70
+Адском котле. Яр-р.<end>
+
+=>a71_original
+How do I sail to...<end>
+
+=>a71
+Как мне доплыть до...<end>
+
+=>q72_original
+Aye?<end>
+
+=>q72
+Ага?<end>
+
+=>q73_original
+<end>
+
+=>q73
+<end>
+
+=>a74_original
+Core City?<end>
+
+=>a74
+Кор-Сити?<end>
+
+=>q75_original
+Th' speediest way to reach it would be to sail north thru th' Dreadpool, aye, then west till th' Rig, then north from thar.<end>
+
+=>q75
+Быстрее всего до него добраться - это идти на север через озеро Страха, затем на запад до Буровой, а оттуда опять на север.<end>
+
+=>q76_original
+But th' pirates be infestin' th' Dreadpool, so I'd instead suggest ye head south then west thru th' Meatway, then head north till ye smell th' nauseatin' reek of Core City's port.<end>
+
+=>q76
+Но на озере Страха полно пиратов, так что я бы посоветовал те идти на юг, потом на запад через Мясной путь, а потом на север, пока не почувствуешь тошнотворный запах порта Кор-Сити.<end>
+
+=>q77_original
+south then west thru th' Meatway, then head north past SGS 'n' Junkyard until ye can smell th' nauseatin' reek of Core City's port.<end>
+
+=>q77
+на юг, затем на запад через Мясной путь, затем направляйся на север мимо ССГ и Свалки, пока не почувствуешь тошнотворный запах порта Кор-Сити.<end>
+
+=>q78_original
+Alternatively, ye could go <end>
+
+=>q78
+Кроме того, ты мог$(#/а) бы пойти<end>
+
+=>a79_original
+South Gate Station?<end>
+
+=>a79
+Станции Саут-Гейт?<end>
+
+=>q80_original
+Head south till ye can turn west thru th' Meatway. Follow it 'n' ye'll find yerself in th' Chancer's Bay, 'n' from there just head north.<end>
+
+=>q80
+Следуй на юг, пока не сможешь повернуть на запад через Мясной путь. Пройдя его, ты окажешься в заливе Аферистов, а оттуда просто направляйся на север.<end>
+
+=>q81_original
+SGS is on th' eastern side o' th' bay.<end>
+
+=>q81
+ССГ находится на восточной стороне бухты.<end>
+
+=>q82_original
+Junkyard's on th' western side o' th' bay.<end>
+
+=>q82
+Свалка находится на западной стороне бухты.<end>
+
+=>a83_original
+Junkyard?<end>
+
+=>a83
+Свалки?<end>
+
+=>a84_original
+Never mind.<end>
+
+=>a84
+Неважно.<end>
+
+=>q85_original
+I won't, yarr!<end>
+
+=>q85
+Ага, яр-р!<end>
+
+=>a86_original
+I'd like to ask you something else.<end>
+
+=>a86
+Я бы хотел$(#/а) спросить ещё кое-что.<end>
+
+=>q87_original
+Aye.<end>
+
+=>q87
+Ага.<end>
+
+=>a88_original
+You talk... differently.<end>
+
+=>a88
+Ты можешь говорить... иначе.<end>
+
+=>q89_original
+Yarr, I don't dig what ye be meanin', $(#laddie/lassie)?<end>
+
+=>q89
+Яр-р, я не втыкаю о чём ты, $(#паренёк/девчушка)?<end>
+
+=>a90_original
+That. "Yarr", "ye be" and all that. Where are you from?<end>
+
+=>a90
+Это. "Яр-р", "буш" и всё такое. Откуда ты?<end>
+
+=>q91_original
+Oh, 'tis just th' way I talk. Aye. ::He laughs.:: I be from afar, sailed 'ere from the shiverin', salty southern waters where slick iridescent eels 'n' giant black urchins be livin'. Thar, all th' folks be talkin' like 'tis. Me lake-dog of a father, rest 'is salty soul, 'e be speakin' in such thick accent not even mother or us, 'is sons, could understand a word o' what 'e was utterin'.<end>
+
+=>q91
+О, я просто так разговариваю. Ага. ::Он смеётся.:: Я приплыл сюда издалека, из наводящих дрожь южных солёных вод, где обитают скользкие переливающиеся угри и гигантские чёрные морские ежи. Там все так тарабарят. Мы - просоленные озёрные волки, говорим с таким сильным акцентом, что даже родная мать нас, сыновей, не может понять о чём мы плетём.<end>
+
+=>a92_original
+And what is this place called?<end>
+
+=>a92
+Как называется это место?<end>
+
+=>q93_original
+Jade Harbor. It be way down south, far away from where ye 'n' I be right now. It be a place o' joy, mystery, adventure, 'n' spooky things. I could tell ye stories that'll shiver yer timbers right outta yer trousers. I could tell ye one or two - or three if th' right opportunity be, th' next time ye happen to hop into me ferry, aye.<end>
+
+=>q93
+Нефритовая бухта. Это далеко на юг от того места, где мы сейчас находимся. Это место веселья, тайн, приключений и жутких вещей. Я мог бы рассказать истории, которые заставят тя трястись от страха. Я мог бы рассказать одну или две - или три, при удобной возможности, в следующий раз, когда те случится пойти на моём пароме, ага.<end>
+
+=>a94_original
+Can you tell me one now?<end>
+
+=>a94
+Вы можете рассказать мне про это сейчас?<end>
+
+=>q95_original
+No. I got things to do. Got boxes to load in. Engine to check, aye. But if ye will hop into me ferry, then that be a different story. ::He laughs.:: Then we'll have th' time.<end>
+
+=>q95
+Нет. У меня есть дела. Надо погрузить ящики, проверить двигатель, ага. Но если ты запрыгнешь ко мне на паром, это будет совсем другое дело. ::Он смеётся.:: Тогда у нас будет время.<end>
+
+=>a96_original
+::[Intelligence][Persuade]:: I don't think that's how you naturally speak at all. I think it's all some kind of an act to draw customers in. Am I right?<end>
+
+=>a96
+::[Интеллект][Убеждение]:: Я не думаю, почему ты так вообще говоришь. Я думаю, что это всего лишь для привлечения клиентов. Правильно?<end>
+
+=>q97_original
+Blimey! I already explained it to ye: I shout like 'tis 'cause that's th' way folks be talkin' in Jade Harbor. Now, if ye don't believe th' words from me mouth, well, thar's nothin' else I can do to sink yer opinion, matey. I be tellin' ye th' truth. <end>
+
+=>q97
+Чтоб мне провалиться! Я уже объяснял те: я говорю так, потому что так говорят люди в Нефритовой бухте. Если ты не веришь мои словам, что ж, я больше ничего не могу сделать, чтобы потопить твоё мнение. Честно говорю.<end>
+
+=>q98_original
+Th' truth 'n'... 'n' nothin' but th' truth. Aye.<end>
+
+=>q98
+Правда, ничего кроме правды. Ага.<end>
+
+=>a99_original
+Come on, I won't tell anyone. Besides, I could... send some people your way. Recommend you.<end>
+
+=>a99
+Пойдём, я никому не скажу. Кроме того, я мог бы... отправить людей по-твоей рекомендации.<end>
+
+=>q100_original
+::He remains silent.::<end>
+
+=>q100
+::Он молчит.::<end>
+
+=>a101_original
+Come on now.<end>
+
+=>a101
+Давай же.<end>
+
+=>q102_original
+::The man furtively checks whether anybody else is too close to the two of you. He leans closer and whispers in a voice that has now sunk a few semitones lower, that no longer rasps the ear or bears the weight of theatrics.::
+
+Look, $(#man/sister), you're crampin' my style. Yes, you got it, I get more customers if I do the act and tell them all the funny stories, okay? People like that kind of stuff. Do you know how hard it is to compete with the big fish like Cap'n Svana or Rastko, hmm? A man's gotta stand out somehow, especially if my ferry ain't as fast or spacious as theirs.<end>
+
+=>q102
+::Мужчина украдкой проверяет, нет ли кого-нибудь ещё рядом с вами. Он наклоняется ближе и шепчет голосом в котором не остаётся ни капли пафоса и театральности.::
+
+Слушай, $(#брат/сестра), тебя смущает мой стиль. Смекаешь, у меня буд больше клиентов, если я буд травить смешные байки, хорошо? Людям нравятся такие вещи. Знаешь, как трудно конкурировать с такими акулами, как капитан Свана или Растко, хм? Нужно как-то выделяться, особенно если мой паром не такой быстрый и большой, как у них.<end>
+
+=>q103_original
+I ain't doin' anything bad, okay. There's nothin' wrong with it if the people enjoy it.<end>
+
+=>q103
+Я не сделал ничего плохого. Нет ничего плохого в том, если люди наслаждаются этим.<end>
+
+=>a104_original
+But where did you learn to talk like that?<end>
+
+=>a104
+Но откуда ты научился так говорить?<end>
+
+=>q105_original
+My granddad used to tell me these old world stories about pirates. ::He nods.:: Back then, you see, the word pirate used to mean "sea merchant." Yeah. And, well, these wealthy and noble pirates would trade with various ships, or other pirates, right there on the sea, and their lives were full of adventure and drama and fightin' with sea beasts and giant pentapuses with eight tentacles. The word pirate nowadays means something completely different - ain't got a clue how that came to be - but I liked those stories. So after startin' my business and havin' people avoid me like the plague... I started doin' this thing.<end>
+
+=>q105
+Мой дедушка рассказывал мне истории старого мира о пиратах. ::Он кивает.:: Тогда, видишь ли, слово "пират" означало "морской торговец"." Да. И эти богатые и благородные пираты торговали с различными кораблями, или другими пиратами, прямо там, в море, и их жизнь будет полна приключений и драм, и сражений с морскими зверями и гигантскими пентапусами с восемью щупальцами. Слово "пират" в наши дни означает что-то совершенно другое - понятия не имею, как это произошло, но мне понравились эти истории. Так что после того, как я начал свой бизнес, а люди избегали меня, как чумы... Тогда я применил эту затею.<end>
+
+=>q106_original
+The Core City tourists loved it, I remember - loved it. Then other folks started diggin' it, and yeah, I've been doin' it ever since. It secured me my fair share of customers. I make up most of the stories now, but I still use the ones I remembered. The way I speak, that's pretty much how granddad delivered it, how he impersonated those old world pirates. Hell, I don't even know what words like "timber" mean, but I suppose I don't even need to. No one asked me what it meant. Ever.<end>
+
+=>q106
+Я помню, что туристам из Кор-Сити это нравилось. Тогда другие люди начали интересоваться, и да, я делаю это с тех пор. Это обеспечило мне мою долю клиентов. Сейчас я сочиняю большинство историй, но я всё ещё использую, которые я запомнил. Как я говорю, это в значительной степени то, как дедушка это делал, как он выдавал себя за тех пиратов старого мира. Тысяча чертей, я даже не знаю, что означают слово «лес», но, полагаю, мне даже не нужно знать. Никто никогда не спрашивал меня, что это значит.<end>
+
+=>q107_original
+Now please, I got kids to feed, so... ::He clears his throat.:: ...don't ye be crampin' me privateerin', $(#laddie/lassie), as they used to shout. Yarr, scurvy dogs o' th' sea.<end>
+
+=>q107
+Теперь, пожалуйста, мне надо детей кормить, так что... ::Он откашливается.:: Не стесняйтесь меня, частника, $(#паренёк/девчушка), как они обычно кричали. Яр-р, собачья цинга на море.<end>
+
+=>a108_original
+I'm waiting.<end>
+
+=>a108
+Я жду.<end>
+
+=>a109_original
+So?<end>
+
+=>a109
+И?<end>
+
+=>a110_original
+::Wait.::<end>
+
+=>a110
+::Ждать.::<end>
+
+=>q111_original
+<end>
+
+=>q111
+<end>
+
+=>q112_original
+So, are ye sailin' somewhere or not?<end>
+
+=>q112
+Итак, плывём куда, нет?<end>
+
+=>a113_original
+Speaking of boat rides...<end>
+
+=>a113
+Говорить о поездках на лодке...<end>
+
+=>a114_original
+I have to go. Godspeed, matey!<end>
+
+=>a114
+Мне нужно идти. Счастливого пути, приятель!<end>
+
+=>a115_original
+Bye.<end>
+
+=>a115
+До встречи.<end>
+
+=>q116_original
+Ahoy, matey!<end>
+
+=>q116
+Э-хей, дружище!<end>
+

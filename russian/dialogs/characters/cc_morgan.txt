@@ -1,0 +1,388 @@
+﻿=>q1_original
+Goodbye, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q1
+До свидания, мис$(#тер/с) $(context.player.Name).<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+Well, here we are. This is the entrance hallway, which you have already seen as evidenced by your earlier comment...<end>
+
+=>q3
+Ну, вот мы и здесь. Это прихожая, которую вы уже видели, о чём свидетельствует ваш комментарий раньше...<end>
+
+=>a4_original
+Indeed, but I'm more interested in you explaining the existence of this large pile of debris which implies that the rest of my residence is in similar condition.<end>
+
+=>a4
+И правда, но меня больше интересует, как вы объясните существование этой большой кучи мусора, которая намекает, что остальная часть моего дома находится в похожем состоянии.<end>
+
+=>q5_original
+Do not be concerned with it - it will be taken care of on city's expense. Please, allow me to explain the whole situation to you before you jump to conclusions...<end>
+
+=>q5
+Не беспокойтесь, об этом позаботятся за городской счёт. Пожалуйста, позвольте мне объяснить ситуацию, прежде чем вы сделаете поспешные выводы...<end>
+
+=>q6_original
+Structurally speaking, the building is in excellent condition; what you see here is only the product of an unfortunate accident caused by the previous owner, Mister Hank Wardell, an aging Northerner with too much time on his hands.<end>
+
+=>q6
+В конструктивном смысле, здание находится в отличном состоянии; то, что вы видите здесь -- всего лишь результат несчастного случая, произошедшего по вине предыдущего владельца -- мистера Хэнка Уорделла, стареющего северянина с избытком свободного времени.<end>
+
+=>a7_original
+What did he do, make explosives?<end>
+
+=>a7
+Что он делал, варил взрывчатку?<end>
+
+=>q8_original
+You can say that; at least, he *was* successful in creating an explosion powerful enough to demolish the whole residence - if you can call that a success. Mister Wardell had a laboratory set up inside and apparently had an interest in, ehm, experimenting with highly volatile substances for reasons unknown to anyone but him. The results were his premature death, of course, and the severe damaging of the building, as you can see. 
+
+Now, considering that he had lived alone and had no known heirs, this building became city property after his unfortunate demise. Now it is being handed over to you, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q8
+Вы правы; как минимум, он преуспел в создании взрыва настолько мощного, что он разнёс целый дом, если это можно назвать успехом. Мистер Уорделл организовал лабораторию внутри и, видимо, увлекался, кхм, экспериментами с взрывоопасными веществами по причинам никому кроме него неизвестным. Результат -- его преждевременная кончина, разумеется, а также серьёзные повреждения здания, как вы видите. Учитывая, что он жил один и не имел никаких известных наследников, это здание незамедлительно перешло в городскую собственность после его скоропостижной смерти. И теперь оно передаётся вам, мис$(#тер/с) $(context.player.Name).<end>
+
+=>q9_original
+Now we move to the part that interests you the most, I presume: The renovation of the ground floor will be paid for by the city; you just need to visit Core City Housing Company office so that we can take care of that for you; the floor above and the floor below, however, will have to be funded from your own pocket, I'm afraid. Still, considering that you were gifted a very spacious residence in the most prestigious part of Core City, I believe the deal is indeed fair!<end>
+
+=>q9
+Теперь мы переходим к той части, которая, как я полагаю, интересует вас больше всего: ремонт первого этажа будет оплачивать город; вам просто необходимо посетить офис Жилищной корпорации Кор-Сити, чтобы мы могли об этом позаботиться для вас; однако я боюсь, что ремонт этажа выше и этажа ниже вам придётся финансировать из собственного кармана. Но учитывая, что вам подарили очень просторную резиденцию в самой престижной части Кор-Сити, мне кажется, что это весьма удачная сделка!<end>
+
+=>a10_original
+Interesting. Anyway, what can you tell me about the house layout before handing me my keys?<end>
+
+=>a10
+Интересно. А что вы можете рассказать мне о планировке дома, прежде чем передадите мне ключи?<end>
+
+=>q11_original
+Yes, well, the house, as I already mentioned, has three floors: The ground floor is where the living room, kitchen, dining room as well as several other small rooms are located; the second floor has the main bedroom, gym, work room and a lovely balcony overlooking the entrance to the house.<end>
+
+=>q11
+Да, ну, как я уже упомянул, дом имеет три этажа: на первом этаже находятся гостиная, кухня, столовая, а также несколько других небольших помещений; на втором этаже -- главная спальня, тренажёрный зал, рабочий кабинет и прекрасный балкон с видом на вход в дом.<end>
+
+=>q12_original
+And finally, the basement level provides several rooms which can be arranged to your liking. Perhaps making a workshop if you are the... crafty type, if I am to express myself in that manner. Just please, do not demolish the house like your predecessor did.<end>
+
+=>q12
+И наконец, в подвале предусмотрено несколько комнат, которые могут быть организованы по вашему вкусу. Возможно, мастерская, если вы... любите мастерить что-либо, если мне будет позволено высказаться именно таким образом. Только, пожалуйста, не взрывайте дом, как ваш предшественник.<end>
+
+=>a13_original
+I see. Can I have the keys now?<end>
+
+=>a13
+Понятно. Могу я получить ключи сейчас?<end>
+
+=>q14_original
+But of course. Here is your key. ::He hands you the residence key.::<end>
+
+=>q14
+Ну конечно. Вот ваш ключ. ::Он вручает вам ключ от дома.::<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>q16_original
+There is nothing else for me to say but - goodbye!<end>
+
+=>q16
+Больше мне нечего сказать, кроме как -- до свидания!<end>
+
+=>a17_original
+::End Dialog.::<end>
+
+=>a17
+::Завершить диалог.::<end>
+
+=>q18_original
+Do you have any further questions before we depart?<end>
+
+=>q18
+У вас есть ещё вопросы, прежде чем мы расстанемся?<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+Where can I find Core City Housing Corporation?<end>
+
+=>a20
+Где я могу найти Жилищную корпорацию Кор-Сити?<end>
+
+=>q21_original
+Our office is conveniently located just across the street from here; it is very difficult to miss. You've probably seen the furniture section from outside, that is the building. Now, our company offers numerous housing-related services you'll need in order to revert your residence back to its full glory.<end>
+
+=>q21
+Наш офис удобно расположен прямо через дорогу отсюда, его очень сложно не заметить. Вы, должно быть, уже видели магазин мебели снаружи -- это и есть наше здание. Также, наша компания предлагает множество связанных с жильём услуг, которые потребуются вам для того, чтобы восстановить прежнее великолепие вашей резиденции.<end>
+
+=>q22_original
+Is that all the questions you had, $(#Mister/Miss) $(context.player.Name)?<end>
+
+=>q22
+Это всё, что вы хотели узнать, мис$(#тер/с) $(context.player.Name)?<end>
+
+=>a23_original
+What can you tell me about the neighborhood?<end>
+
+=>a23
+Что вы можете рассказать мне о соседях?<end>
+
+=>q24_original
+Your residence is situated in Core City's major residential district, and therefore one can expect much higher living conditions than anywhere else: low crime rates, availability and proximity of goods and services providers, high level sanitation... need I go on. The bottom line is - you have nothing to worry about.<end>
+
+=>q24
+Ваша резиденция расположена в главном жилом районе Кор-Сити, и поэтому вы можете ожидать гораздо более высокие условия жизни, чем где-либо ещё: низкий уровень преступности, доступность и близость товаров и услуг, высокий уровень санитарии... стоит ли продолжать? Короче говоря, вам не о чем беспокоиться.<end>
+
+=>q25_original
+Of course, with the Faceless at our doorstep, nothing is certain anymore. But thankfully our brave defenders will keep us safe from that menace.<end>
+
+=>q25
+Конечно, когда безликие на нашем пороге, ни в чём больше нет определённости. Но, к счастью, наши храбрые защитники будут охранять нас от этой угрозы.<end>
+
+=>q26_original
+Still, recently there have been a few minor reports of, ehm, zoners disturbing public order. I suppose the stand-off with the Faceless allowed for such things to happen. So keep that in mind, but don't concern yourself with it too much.<end>
+
+=>q26
+Всё же, недавно было несколько незначительных донесений о, кхм, нарушении общественного порядка зонерами. Я полагаю, такие вещи могли произойти из-за противостояния с безликими. Так что имейте это в виду, но не беспокойтесь об этом слишком сильно.<end>
+
+=>a27_original
+What else can you tell me about the previous owner, other than he demolished the whole place?<end>
+
+=>a27
+Что ещё вы можете рассказать мне о предыдущем владельце, кроме того, что он взорвал весь дом?<end>
+
+=>q28_original
+I'm afraid I can't reveal any more of his personal details.<end>
+
+=>q28
+Боюсь, я не могу раскрывать его личной информации.<end>
+
+=>q29_original
+Any other questions?<end>
+
+=>q29
+Ещё вопросы?<end>
+
+=>a30_original
+Why won't the city pay for the whole renovation?<end>
+
+=>a30
+Почему город полностью не оплатит ремонт?<end>
+
+=>q31_original
+While I, unfortunately, don't have an answer to that question, I feel the need to remind you of one thing: You have been given this residence completely free; you suffered no expenses for the property, nor the documentation, nor anything else, and while it is true that it is... mmm, not in the best condition at the moment, it is one of the largest and most prestigious residences in the district, which is also one of the most desirable living location not just in Core City - but in whole South Underrail.<end>
+
+=>q31
+Несмотря на то, что я, к сожалению, не имею ответа на этот вопрос, я вынужден напомнить вам одну вещь: вы получили этот дом совершенно бесплатно; вы не понесли расходов ни на имущество, ни на документацию, ни на что-либо ещё, и хотя это правда, что это здание... м-м-м, на данный момент не в лучшем состоянии, это одна из крупнейших и наиболее престижных резиденций в районе, который также является одним из самых желанных мест для жизни не только в Кор-Сити, но и в целом на юге Подземки.<end>
+
+=>q32_original
+I'm sure there were good reasons for the partial renovation. Now, did you have any other questions for me?<end>
+
+=>q32
+Я уверен, что существовали веские причины для проведения лишь частичного ремонта. Итак, у вас есть другие вопросы?<end>
+
+=>a33_original
+I have no more questions.<end>
+
+=>a33
+У меня больше нет вопросов.<end>
+
+=>q34_original
+Ah, well in that case, I bid you farewell, $(#Mister/Miss) $(context.player.Name). Trust me, after a bit of tiding up, your residence will look as good as new. And don't forget - Core City Housing Corporation's office is just across the street. 
+
+Enjoy your new home.<end>
+
+=>q34
+Ах, ну в таком случае, я прощаюсь с вами, мис$(#тер/с) $(context.player.Name). Поверьте, после небольшой уборки ваша резиденция будет выглядеть как новая. И не забывайте, офис Жилищной корпорации Кор-Сити находится напротив. 
+
+Наслаждайтесь вашим новым домом.<end>
+
+=>a35_original
+I knew there was some catch! Just gimme the damn keys and get out of my house.<end>
+
+=>a35
+Я знал$(#/а), что есть какой-то подвох! Давайте сюда ключи и убирайтесь из моего дома.<end>
+
+=>q36_original
+::He frowns.:: I've never seen such ungratefulness. Here is your key, $(#Mister/Miss) $(context.player.Name). ::He hands you the residence key.::<end>
+
+=>q36
+::Он хмурится.:: Я никогда не видел такой неблагодарности. Вот ваш ключ, мис$(#тер/с) $(context.player.Name). ::Он вручает вам ключ от дома.::<end>
+
+=>a37_original
+Care to explain the debris blocking the entrance?<end>
+
+=>a37
+Потрудитесь объяснить, почему вход заблокирован обломками?<end>
+
+=>a38_original
+What the bloody hell...?<end>
+
+=>a38
+Что за?..<end>
+
+=>q39_original
+Please, while I do understand the reasoning behind your frustration, I must firmly ask you to calm down and watch your tone. It is not how it seems, so let's not jump to conclusions here. Allow me to explain everything to you now...<end>
+
+=>q39
+Пожалуйста, хотя я понимаю ваше разочарование, я должен настоятельно попросить вас успокоиться и следить за своим тоном. Всё не так, как кажется, поэтому давайте не делать поспешных выводов. Позвольте мне всё объяснить вам...<end>
+
+=>a40_original
+Stop being such a smartass and tell me why does my house look like it was used as an explosive test site!<end>
+
+=>a40
+Перестаньте умничать и скажите мне, почему мой дом выглядит так, будто здесь испытывали взрывчатку!<end>
+
+=>q41_original
+Well, here we are now. First off, this is the entrance hallway...<end>
+
+=>q41
+Ну, вот мы и здесь. Во-первых, это прихожая...<end>
+
+=>a42_original
+What is the meaning of this!? Why is my house in ruins?<end>
+
+=>a42
+Что за?!.. Почему мой дом в руинах?<end>
+
+=>a43_original
+You expect me to live in this dump? I can't even get past the stinking rubble and see the rest of the house. I want answers - NOW!<end>
+
+=>a43
+Вы хотите, чтобы я жил$(#/а) в этой помойке? Я не могу даже пробраться через этот вонючий завал и увидеть остальную часть дома. Мне нужны ответы, НЕМЕДЛЕННО!<end>
+
+=>q44_original
+Follow me, please.<end>
+
+=>q44
+Пожалуйста, следуйте за мной.<end>
+
+=>q45_original
+::Well-dressed and clean shaved, this elegant-looking man switches the suitcase he's carrying from his right to his left hand and moves to shake yours, doing so with a firm grip.::
+
+$(#Mister/Miss) $(context.player.Name), I'm glad you have finally arrived. My name is Samuel Morgan, and I work for the Core City Housing Corporation as a real estate agent. As you were already informed, I am here to introduce you to your new residence, present you with the keys and answer any questions you might have.<end>
+
+=>q45
+::Хорошо одетый и чисто выбритый, этот элегантно выглядящий мужчина перекладывает дипломат из правой руки в левую и подходит, чтобы пожать вашу, демонстрируя крепкую хватку.::
+
+Мис$(#тер/с) $(context.player.Name), я рад, что вы наконец прибыли. Меня зовут Самюэль Морган, и я работаю в Жилищной корпорации Кор-Сити в качестве агента по недвижимости. Как вы уже знаете, я здесь, чтобы презентовать вам ваше новое место жительства, вручить вам ключи и ответить на любые возникшие у вас вопросы.<end>
+
+=>a46_original
+I can't wait to see it, Mister Morgan.<end>
+
+=>a46
+Я не могу дождаться, чтобы увидеть его, мистер Морган.<end>
+
+=>q47_original
+Yes, your enthusiasm is perfectly understandable, and in that case, I suggest we go inside and continue the conversation there. Follow me, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q47
+Да, ваш энтузиазм вполне понятен, и, в таком случае, я предлагаю пройти внутрь и продолжить разговор там. Следуйте за мной, мис$(#тер/с) $(context.player.Name).<end>
+
+=>q48_original
+<end>
+
+=>q48
+<end>
+
+=>a49_original
+I'm right behind you.<end>
+
+=>a49
+Показывайте дорогу.<end>
+
+=>a50_original
+I gotta do something first. I'll be back quickly.<end>
+
+=>a50
+Мне надо кое-что сделать. Скоро вернусь.<end>
+
+=>q51_original
+Now? But... Alright, I'll wait here, but please do hurry up.<end>
+
+=>q51
+Сейчас? Но... ладно, я подожду здесь, но, пожалуйста, поторопитесь.<end>
+
+=>a52_original
+Can we skip the chatter and move on to business?<end>
+
+=>a52
+Мы можем пропустить болтовню и перейти к делу?<end>
+
+=>q53_original
+Um, yes, I see you are in a bit of a rush. Follow me, I will lead you inside.<end>
+
+=>q53
+Хм, да, я вижу, что вы немного торопитесь. Следуйте за мной, я провожу вас внутрь.<end>
+
+=>a54_original
+Whoa, please tell me that this large building is my new house!<end>
+
+=>a54
+Оу, пожалуйста, скажите мне, что это большое здание -- мой новый дом!<end>
+
+=>q55_original
+Why, yes it is! Living in such an enormous space is quite a privilege, I must admit. Since I am certain that you cannot wait to see it from the inside, I suggest we move inside and continue the conversation there.<end>
+
+=>q55
+Ну конечно! Жить на такой огромной площади -- довольно большая честь, надо признать. Поскольку я уверен, что вы не можете дождаться, чтобы увидеть всё изнутри, я предлагаю пройти внутрь и продолжить разговор там.<end>
+
+=>a56_original
+I already took a peek to see what's inside.<end>
+
+=>a56
+Я уже успел$(#/а) посмотреть, что внутри.<end>
+
+=>q57_original
+You... did? But how on earth did you manage to do that?<end>
+
+=>q57
+Вы... уже? Но как вам это удалось?<end>
+
+=>a58_original
+A master never reveals his secrets.<end>
+
+=>a58
+Мастер никогда не раскрывает свои секреты.<end>
+
+=>q59_original
+::Your answer seems to confuse him even more.:: I don't know what to say to that... I think it would be wisest if we were to go inside and continue the conversation there.<end>
+
+=>q59
+::Ваш ответ, кажется, запутал его ещё больше.:: Я не знаю, что на это ответить... я думаю, было бы мудро пройти внутрь и продолжить разговор там.<end>
+
+=>a60_original
+I'm a clever $(#man/gal).<end>
+
+=>a60
+Я способн$(#ый/ая).<end>
+
+=>q61_original
+Are you ready to see your new home, $(#Mister/Miss) $(context.player.Name)?<end>
+
+=>q61
+Вы готовы увидеть свой новый дом, мис$(#тер/с) $(context.player.Name)?<end>
+
+=>a62_original
+Just one more thing. Be patient.<end>
+
+=>a62
+Ещё кое-что. Будьте терпеливы.<end>
+
+=>q63_original
+::He says nothing, but a grumpy stare conveys his thoughts well enough.::<end>
+
+=>q63
+::Он ничего не говорит, но сердитый взгляд передаёт его настроение достаточно хорошо.::<end>
+

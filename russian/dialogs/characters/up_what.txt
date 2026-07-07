@@ -1,0 +1,102 @@
+﻿=>q1_original
+::The filthy and foul-smelling old man gives you a wicked stare akin to a serpent's - but one with a slight mental retardation. Afterwards, he opens his mouth so wide it makes him look like he is just about to vomit. He doesn't, thankfully, but he still holds the expression, saying nothing at any point during his peculiar introduction.::<end>
+
+=>q1
+::Грязный и дурно пахнущий старик окидывает вас злым змеиным взглядом с лёгким намёком на умственную отсталость. Затем он открывает рот так широко, будто его вот-вот стошнит. К счастью, ничего подобного не происходит, но лицо его по-прежнему перекошено, и он так ничего и не произносит во время этого своеобразного приветствия.::<end>
+
+=>a2_original
+Hi, I'm $(context.player.Name). Who are you?<end>
+
+=>a2
+Привет, я $(context.player.Name). Кто вы?<end>
+
+=>q3_original
+::He yells loudly.:: WHAT!?<end>
+
+=>q3
+::Он громко кричит.:: ЧТО?!<end>
+
+=>a4_original
+Let me repeat that... Hi, I'm $(context.player.Name). Who are you?<end>
+
+=>a4
+Позвольте повторить... Привет, я $(context.player.Name). А кто вы?<end>
+
+=>q5_original
+WHAT!?<end>
+
+=>q5
+ЧТО?!<end>
+
+=>a6_original
+Um... can you understand what I'm saying?<end>
+
+=>a6
+Хм... вы понимаете, о чём я говорю?<end>
+
+=>q7_original
+WHAT!?<end>
+
+=>q7
+ЧТО?!<end>
+
+=>a8_original
+I give up... Goodbye.<end>
+
+=>a8
+Я сдаюсь... до свидания.<end>
+
+=>q9_original
+WHAT!?<end>
+
+=>q9
+ЧТО?!<end>
+
+=>a10_original
+So long, you derailed idiot.<end>
+
+=>a10
+Прощай, поехавший идиот.<end>
+
+=>a11_original
+What the hell is wrong with you?<end>
+
+=>a11
+Да что с вами такое?<end>
+
+=>a12_original
+Are you deaf? Mentally retarded? What's wrong with you?<end>
+
+=>a12
+Вы что, глухой? Умственно отсталый? Что с вами?<end>
+
+=>a13_original
+::Leave.::<end>
+
+=>a13
+::Уйти.::<end>
+
+=>a14_original
+Um... are you okay?<end>
+
+=>a14
+Эм... вы в порядке?<end>
+
+=>q15_original
+::He yells loudly.:: WHAT!?<end>
+
+=>q15
+::Он громко кричит.:: ЧТО?!<end>
+
+=>a16_original
+I asked if you were okay?<end>
+
+=>a16
+Я спросил$(#/а), с вами всё в порядке?<end>
+
+=>q17_original
+WHAT!?<end>
+
+=>q17
+ЧТО?!<end>
+

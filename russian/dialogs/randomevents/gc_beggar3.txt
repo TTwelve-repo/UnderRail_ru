@@ -1,0 +1,242 @@
+﻿=>q1_original
+::A young man, enveloped in a rough and well-worn robe, turns to you and speaks with a frail voice.::
+
+Hey, $(#man/sister), got a charon? ::He extends his hand toward you.::<end>
+
+=>q1
+::Молодой человек, одетый в грубый и изношенный халат, поворачивается к вам и слабым голосом говорит. ::
+
+Эй, $(#брат/сестра), есть харон? Протягивает к вам руку.::<end>
+
+=>q2_original
+::[Perception] Your eyes are not easily distracted by the open hand hovering before you, seemingly asking for generosity, as the other one seems far more worthy of your attention. It is out of plain sight, perhaps tucked into the long sleeve or is missing altogether. Yet the way he moves that whole arm to the back, subtly trying to conceal it from your prying eyes, makes the alarm bells in your head start ringing.::<end>
+
+=>q2
+::[Восприятие] Ладонь перед вами просящая подаяния пытается отвлечь от чего-то зажатого в другой руке. Может это что-то спрятано в рукав или его и вовсе нет. Тем не менее, его попытка убрать руку за спину привлекает ваше внимание.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Here. ::Give him one stygian coin.::<end>
+
+=>a4
+Вот. ::Дать ему одну стигийскую монету.::<end>
+
+=>q5_original
+::He pulls a knife on you.:: Thanks, but I'd rather have *everything* you got. Gimme the money! NOW!<end>
+
+=>q5
+::Он направляет на Вас нож.:: Спасибо, но я хотел бы получить *всё*, что у тебя есть. Гони деньги! НЕМЕДЛЕННО!<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Please don't hurt me. Here, take everything! ::Give him all your money.::<end>
+
+=>a7
+Пожалуйста, не бейте меня. Вот, возьмите всё! ::Отдать ему все свои деньги.::<end>
+
+=>q8_original
+::A crooked smirk appears on his face as you transfer all of your funds into his possession.:: 
+
+Yeah, yeah, that's the stuff. Yeah. Now stand still!<end>
+
+=>q8
+::Кривая ухмылка появляется на его лице, когда вы передаёте все свои деньги.::
+
+Да, да, вот это вещь. Да. А теперь замри!<end>
+
+=>a9_original
+::Stand still.::<end>
+
+=>a9
+::Он замер.::<end>
+
+=>q10_original
+::He glances behind him while keeping his knife pointed at you. After showing you his rotten grinning teeth one last time he runs away, occasionally turning around to check whether you're following. A blink or two later - and he has vanished completely.::<end>
+
+=>q10
+::Он оглядывается позади себя, наставив на вас свой нож. Ухмыльнувшись напоследок, он убегает от вас, иногда оглядываясь, чтобы убедиться, что вы его не преследуете. Пару мгновений спустя он полностью исчезает.::<end>
+
+=>a11_original
+::Watch as he flees.::<end>
+
+=>a11
+::Смотришь, как он убегает.::<end>
+
+=>a12_original
+::Fight!::<end>
+
+=>a12
+::Бой!::<end>
+
+=>a13_original
+I've got nothing, I swear. Not a single coin.<end>
+
+=>a13
+У меня ничего нет, клянусь. Ни единой монеты.<end>
+
+=>q14_original
+Fool! ::He lunges at you.::<end>
+
+=>q14
+Дурак! ::Он бросается на тебя.::<end>
+
+=>a15_original
+::Fight!::<end>
+
+=>a15
+::Бой!::<end>
+
+=>q16_original
+Are you deaf? Gimme the money or I'll drive this knife through your skull! YOU HEAR ME!<end>
+
+=>q16
+Ты оглох? Давай деньги или я воткну этот нож тебе в череп! ТЫ МЕНЯ СЛЫШИШЬ!<end>
+
+=>a17_original
+No.<end>
+
+=>a17
+Нет.<end>
+
+=>q18_original
+Don't be stupid, $(#man/sister)! Just gimme the money!<end>
+
+=>q18
+Не дури, $(#мужик/сестра)! Просто отдай свои бабки!<end>
+
+=>a19_original
+Hey, buddy, let's not be hasty. How about we talk this over a drink - or a meal, even better?<end>
+
+=>a19
+Эй, приятель, не гони коней. Как насчёт того, что мы говорим об этом за выпивкой или, что лучше, едой?<end>
+
+=>q20_original
+How about you shut your pie hole and GIMME THE DAMN MONEY ALREADY!? Before I cut you up!<end>
+
+=>q20
+А может, ты уже захлопнешь свою пасть и ОТДАШЬ ЭТИ СРАНЫЕ ДЕНЬГИ!? Пока я не порезал тебя!<end>
+
+=>a21_original
+::[Intimidate]:: A man once pulled a knife on me just like this. I pulled out his spine through his ass.<end>
+
+=>a21
+::[Запугать]:: Один человек тоже направил на меня нож так, как и ты. Я вырвал ему позвоночник. Через задницу.<end>
+
+=>q22_original
+::He takes a step back and away for you, his eyes on you the whole time. Then he bolts without uttering a word.::<end>
+
+=>q22
+::Он делает шаг назад, подальше от вас, его глаза следят за вами всё время. Затем, не произнося ни слова, убегает::<end>
+
+=>a23_original
+Oh, you're not going anywhere! ::Attack!::<end>
+
+=>a23
+Ты никуда не пойдёшь! ::Напасть!::<end>
+
+=>a24_original
+Run, you spineless bastard! You're a... ::Taunt him as he flees.::<end>
+
+=>a24
+Давай, беги, ты, бесхребетный ублюдок! Ты... ::Дразните его, пока он убегает.::<end>
+
+=>a25_original
+Oh, I've got something you'll like very much, punk. ::Attack!::<end>
+
+=>a25
+О, у меня есть кое-что, что тебе понравится, панк. ::Напасть!::<end>
+
+=>a26_original
+Here's five charons. ::Give him five stygian coins.::<end>
+
+=>a26
+Вот пять харонов. ::Дать ему пять стигийских монет.::<end>
+
+=>a27_original
+Take this. ::Give him ten stygian coins.::<end>
+
+=>a27
+Возьми это. ::Дать ему десять стигийских монет.::<end>
+
+=>a28_original
+How about twenty? ::Give him twenty stygian coins.::<end>
+
+=>a28
+Дюжины хватит? ::Дать ему двадцать стигийских монет.::<end>
+
+=>a29_original
+Here's fifty charons. ::Give him fifty stygian coins.::<end>
+
+=>a29
+Тут пятьдесят харонов. ::Дать ему пятьдесят стигийских монет.::<end>
+
+=>a30_original
+This is your lucky day, friend. Here's one hundred charons. ::Give him one hundred stygian coins.::<end>
+
+=>a30
+Сегодня твой счастливый день. ::Дать ему сотню стигийских монет.::<end>
+
+=>q31_original
+::He pulls a knife on you.:: It is, it is, 'cause I'm gonna take *all* your money, you rich bastard. Gimme the money! NOW!<end>
+
+=>q31
+::Он направляет на Вас нож.:: Так и есть, потому что я собираюсь забрать *все* твои деньги, ты богатый ублюдок. Давай сюда деньги! НЕМЕДЛЕННО!<end>
+
+=>a32_original
+Sorry, man, but I'm all out.<end>
+
+=>a32
+Извини, чувак, но я всё.<end>
+
+=>q33_original
+::He pulls a knife on you.:: I don't think so. Gimme all your money! NOW!<end>
+
+=>q33
+::Он направляет на тебя нож.:: Не думаю. Отдай мне все твои деньги! Живо!<end>
+
+=>a34_original
+Find a job, you sloth.<end>
+
+=>a34
+Найди работы, лентяй.<end>
+
+=>q35_original
+::He pulls a knife on you.:: How about robbery, huh? Gimme all your money! NOW!<end>
+
+=>q35
+::Он направляет на тебя нож.:: Что насчёт ограбления? Отдай мне все твои деньги! Живо!<end>
+
+=>a36_original
+::[Intimidate]:: You pull out whatever it is you're hiding in that sleeve and I'll pull out your spine right through your ass. Well?<end>
+
+=>a36
+::[Запугивание]:: Ты вытаскиваешь всё, что ты спрятал в рукаве, или я выдёргиваю твой позвоночник из твоей задницы. Хорошо?<end>
+
+=>q37_original
+::He pulls a knife on you.:: This? You talkin' about this? ::He slashes your stare in half only a few centimeters away from your eyeballs.:: Gimme all your money! NOW!<end>
+
+=>q37
+::Он направляет на тебя нож.:: Это? Ты говорил об этом? ::Он рассекает им всего в нескольких сантиметрах от ваших глаз.:: Гони мне все свои деньги! НЕМЕДЛЕННО!<end>
+
+=>a38_original
+Not so fast, punk! ::Attack!::<end>
+
+=>a38
+Не так быстро, панк! ::Напасть!::<end>
+
+=>q39_original
+$(#Man/Sister)?<end>
+
+=>q39
+$(#Мужик/Сестра)?<end>
+

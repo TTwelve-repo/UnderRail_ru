@@ -1,0 +1,1886 @@
+﻿=>q1_original
+::You wait while Quinton completes his examination, observing him as he performs it with great focus and care, how after only a few minutes he makes it seem as if he had been handling these creatures for years. Slowly and steadily, he finishes the examination. He places the creature back into its mobile jail, turns to you, but only to inform you that he needs to leave and do one more test. 
+
+The two are gone for a while...::<end>
+
+=>q1
+::Вы ждёте, пока Куинтон закончит своё исследование, наблюдая за тем, как он выполняет его с особым вниманием и заботой, так что уже через несколько минут вам кажется, будто он работал с этими тварями уже долгие годы. Медленно, но уверенно, он заканчивает экспертизу и помещает существо обратно в его переносную камеру, после чего обращается к вам, но только для того, чтобы сообщить, что ему нужно отойти и сделать ещё один тест.
+
+Забрав клетку, он покидает вас надолго...::<end>
+
+=>q2_original
+::Soon he returns to you with a genuine smile on his face, overflowing with excitement. He wastes no time.::
+
+I'm back, $(context.player.Name). Hope you didn't fall asleep waiting for me.<end>
+
+=>q2
+::Вскоре он возвращается к вам с искренней улыбкой на лице, излучающей восторг. Он не терял времени даром.::
+
+Вот и я, $(context.player.Name)! Надеюсь, вы не уснули, ожидая меня.<end>
+
+=>a3_original
+You seem happy. I hope you've got something good for me.<end>
+
+=>a3
+Вы выглядите довольным. Надеюсь, у вас есть что-то хорошее для меня.<end>
+
+=>q4_original
+You'll see.<end>
+
+=>q4
+Сейчас увидите.<end>
+
+=>q5_original
+First, without dissecting the creature - which I would never do without consulting you - I can tell you a couple of things I've learned so far: Their heads *do* appear to be used for actual drilling: Even though I haven't been able to see it in action yet, obviously, the combination of the unique shape of the head and the surprisingly powerful musculature makes me feel that it engages its whole body during the process. Maybe it, say, rotates itself in short bursts, or maybe it coils up and releases the energy in that manner; I'm just speculating. What is a fact, though, is that the head is very, very tough, so I have no doubt that it can bore through hard material without much of an issue.<end>
+
+=>q5
+Во-первых, я ещё не препарировал существо -- я бы не посмел, не посоветовавшись с вами -- но я уже могу сказать пару вещей: их головы, по-видимому, действительно используются для бурения. Хотя я, очевидно, сам не мог видеть их в действии, сочетание уникальной формы головы и необычайно мощной мускулатуры заставляют меня предположить, что оно использует в процессе всё своё тело. Возможно, скажем, оно вращается короткими рывками, а может быть сворачивается как пружина, а затем высвобождает энергию -- я просто предполагаю. Но факт в том, что его голова очень, очень прочна, и я не сомневаюсь, что ему не составит больших проблем пробуриться через твёрдые материалы.<end>
+
+=>q6_original
+As for the rest of the creature's body, it is segmented and has a decently thick skin covered in what appear to be very soft, delicate scales, or at least something similar to it; as in snakes, it probably helps them move, possibly to retain moisture too. The skin is also highly sensitive, which makes sense for a creature limited in ways it can acquire information about its environment, hm. There are a few other details about it, but those are quite minor and uninteresting.<end>
+
+=>q6
+Что касается остального тела существа, то оно сегментировано и имеет очень толстую кожу, покрытую какими-то очень мягкими и лёгкими чешуйками или, по крайней мере, чем-то похожим на них; как у змей, это, вероятно, помогает им двигаться, и, возможно, удерживать влагу. Кожа также очень чувствительная, что имеет смысл для существа, ограниченного в способах получать информацию об окружающей среде, хм. Есть ещё несколько деталей, но они незначительны и неинтересны.<end>
+
+=>q7_original
+Now, what I did was a quick superficial examination; I'd need to dissect the creature to really tell you more about its anatomy. However, I saved the good stuff for last!<end>
+
+=>q7
+Но я выполнил только быстрый поверхностный осмотр; мне нужно препарировать это существо, чтобы больше рассказать вам об его анатомии. Однако я приберёг самое интересное напоследок!<end>
+
+=>q8_original
+I decided to do some psi readings - that's why I left the room earlier - and the readings were off the charts! Hm. In fact, the creature exhibits a psi signature so strong that I'm surprised it does not have some defensive psi abilities at its disposal. However, the signature is also incredibly complex, and I am not ashamed of telling you even I am having problems interpreting it.<end>
+
+=>q8
+Я решил сделать некоторые пси-измерения -- за этим я уходил -- и все показатели зашкаливают! Хм. Должен сказать, существо демонстрирует настолько сильный пси-отпечаток, что я удивлён отсутствием у него защитных пси-способностей. Однако этот отпечаток ещё и невероятно сложный, и я не боюсь признать, что у меня возникли проблемы с его интерпретацией.<end>
+
+=>q9_original
+::He shrugs.:: I'm afraid that analyzing it is well above my skill level. But I am absolutely, one-hundred-percent positive that understanding this psi signature will not only help you on your - for lack of a better word - quest, but also pave way to engrossing scientific discoveries. For those of us who care, if nothing else.
+ 
+So there, that is all I have for you.<end>
+
+=>q9
+::Он пожимает плечами.:: Боюсь, что такой анализ намного выше уровня моей компетенции. Но я абсолютно, на сто процентов уверен, что расшифровка этого пси-отпечатка может не только помочь вам в вашем -- за отсутствием лучшего слова -- квесте, но также проложит путь увлекательным научным открытиям. Для тех из нас, кого это волнует, по крайней мере.
+Так что вот, это всё, что я могу сказать вам.<end>
+
+=>a10_original
+That is all very interesting. Regarding this psi signature, do you know anyone I can take this larva to?<end>
+
+=>a10
+Это всё очень интересно. Что касается пси-отпечатка: вы знаете, кому я могу показать эту личинку?<end>
+
+=>q11_original
+Well, as far as psi in general is concerned, Ezra is the top expert in SGS, so he is the right person to bring this critter to, hm. If he can't help you... then you're stuck.
+
+Yeah, well... ::He hands you the crate back.:: Here. Captivating little thing this is. And feisty.<end>
+
+=>q11
+Что касается пси в целом, Эзра главный эксперт на ССГ, так что отнести это существо лучше к нему, хм. Если уж он не сможет вам помочь... тогда вы в тупике.
+
+Да, что ж... ::Он протягивает вам ящик.:: Вот. Очаровательный малыш. И неугомонный.<end>
+
+=>a12_original
+I'll bring this to him then. Thanks.<end>
+
+=>a12
+Тогда я отнесу её ему. Спасибо.<end>
+
+=>a13_original
+Yeah, See you around.<end>
+
+=>a13
+Ага, увидимся.<end>
+
+=>a14_original
+What have you discovered?<end>
+
+=>a14
+Что вы узнали?<end>
+
+=>a15_original
+I did. And I was dreaming that I was waiting for you. Go figure. What've you go for me?<end>
+
+=>a15
+Уснул$(#/а). И мне снилось, что я жду вас. Представьте себе. Что вы узнали?<end>
+
+=>q16_original
+$(context.player.Name). Vera was looking for you. Seemed very urgent. I suggest you go talk to her as soon as you can.<end>
+
+=>q16
+$(context.player.Name). Вера вас искала. Похоже, что-то срочное. Вам следует пойти и поговорить с ней как можно скорее.<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+Do you have anything to trade?<end>
+
+=>a18
+Есть что-нибудь на обмен?<end>
+
+=>q19_original
+::He stops working, sets the knife aside and carefully removes his gloves.::
+
+Of course.<end>
+
+=>q19
+::Он прерывает работу, откладывает нож в сторону и осторожно снимает перчатки.::
+
+Конечно.<end>
+
+=>a20_original
+::Barter.::<end>
+
+=>a20
+::Обмен.::<end>
+
+=>a21_original
+Let's trade. ::Barter.::<end>
+
+=>a21
+Давайте торговать. ::Обмен.::<end>
+
+=>a22_original
+Hey Quinton, could you take a look at this for me? ::Show him the broken-off spike.::<end>
+
+=>a22
+Вы не могли бы взглянуть на это? ::Показать ему отломанный шип.::<end>
+
+=>q23_original
+Hm. What is this?<end>
+
+=>q23
+Хм. Что это такое?<end>
+
+=>a24_original
+Steve.<end>
+
+=>a24
+Стив.<end>
+
+=>q25_original
+Steve?<end>
+
+=>q25
+Стив?<end>
+
+=>a26_original
+Yeah, a pirate.<end>
+
+=>a26
+Ага, пират.<end>
+
+=>q27_original
+Pyrite? But pyrite is gold-colored, while this is...<end>
+
+=>q27
+Пирит? Но пирит золотистого цвета, а это...<end>
+
+=>a28_original
+No, not pyrite the fool's gold, but *pirate* the devilishly-handsome outlaw that sails the waterways on an eternal quest for fine booty.<end>
+
+=>a28
+Нет, не пирит, который "золото дураков", а *пират* - дьявольски красивый разбойник, бороздящий водные пути в вечной погоне за хорошей добычей.<end>
+
+=>q29_original
+::He looks at the spike, clearly confused.:: 
+
+Wait, wait, wait... *This*... ::He raises it to eye-level.:: this used to be a pirate?<end>
+
+=>q29
+::Он растерянно смотрит на шип.:: 
+
+Стоп, стоп, стоп... *Это*... ::Он подносит его к глазам.:: это раньше было пиратом?<end>
+
+=>a30_original
+Yeah. The guy I broke this piece off had been fully solidified by what I think is some kind of psionic force.<end>
+
+=>a30
+Да. Парень, от которого я отломил$(#/а) этот кусок, полностью окаменел, как мне кажется, от воздействия некой псионической силы.<end>
+
+=>q31_original
+Ah, I see what this is all about now. Hm, well, psionics are always a possibility...<end>
+
+=>q31
+А, теперь я понимаю, что всё это значит. Хм, ну, с псионикой возможно всякое...<end>
+
+=>a32_original
+I had this analyzed and discovered it's made of pure carbon. I was wondering if you can give me some explanation as to how this transformation from flesh to *this* could have taken place.<end>
+
+=>a32
+Я проанализировал его и обнаружил, что он состоит из чистого углерода. Мне интересно, как бы вы объяснили такую трансформацию из плоти в *это*.<end>
+
+=>q33_original
+Pyrolysis.<end>
+
+=>q33
+Пиролиз.<end>
+
+=>a34_original
+::[Chemistry]:: Pyrolysis, as in decomposition of materials through high temperature?<end>
+
+=>a34
+::[Химия]:: Пиролиз, как при разложении материалов под воздействием высокой температуры?<end>
+
+=>q35_original
+In an *inert* atmosphere. That's the important bit. Because otherwise it's just good ol' burning.<end>
+
+=>q35
+В *инертной* атмосфере. Это главное условие. Потому что в противном случае это всего лишь старое доброе горение.<end>
+
+=>q36_original
+If you thermally treat an organic - carbon-based - material in an inert atmosphere, the absence of reactive gasses allows the material to undergo physical and chemical separation into different molecules. This is how you obtain things like... hm, biochar, for example. In the most extreme case of pyrolysis, called carbonization, the end result is mostly carbon.<end>
+
+=>q36
+При термической обработке органического - основанного на углероде - материала в инертной атмосфере отсутствие реакционных газов делает возможным физико-химическое разделение материала на различные молекулы. Вот таким образом и получаются такие вещи, как... хм, пироуголь, например. В предельных случаях пиролиза, называемых карбонизацией, итоговым результатом становится преимущественно углерод.<end>
+
+=>q37_original
+Looking at the sample you brought me here, I'd say that is precisely what happened to the man this used to be a part of. I am no geologist, but carbon allotropes - different forms in which an element can exist - produced naturally through high pressure are things like diamond or graphite, the latter of which is formed in very thin, easily shearable layers.<end>
+
+=>q37
+Глядя на принесённый вами образец, я бы сказал, что именно это и произошло с человеком, частью которого он был. Я не геолог, но углеродные аллотропы - различные формы, в которых может существовать элемент - полученные естественным путём под высоким давлением, представляют собой такие вещества, как алмаз или графит, последний из которых образует очень тонкие, легко отделяемые слои.<end>
+
+=>q38_original
+As you've noticed yourself, hm, here that is not the case, as <end>
+
+=>q38
+Как вы сами заметили, хм, в данном случае это не так,<end>
+
+=>q39_original
+the layers are fused together in an uneven fashion; that makes natural origin improbable. No, no... the more I think about it the more I'm convinced this is just a strangely-shaped piece of pyrolytic carbon - similar to graphite, but artificial and imperfect.<end>
+
+=>q39
+слои сплавлены неравномерно, что делает естественное происхождение сомнительным. Нет, нет... чем больше я о нём думаю, тем больше убеждаюсь, что это просто кусок пиролитического углерода странной формы - напоминающий графит, но искусственный и несовершенный.<end>
+
+=>a40_original
+To be honest, Quinton, I haven't expected such an extensive answer.<end>
+
+=>a40
+Честно говоря, Куинтон, я не ожидал$(#/а) от вас такого обстоятельного ответа.<end>
+
+=>q41_original
+I've performed the procedure in the past, so I know a thing or two about it.<end>
+
+=>q41
+В прошлом мне доводилось проводить этот процесс, так что я в нём кое-что смыслю.<end>
+
+=>a42_original
+But, if I understood correctly, pyrolyzation only works in the absence of oxygen. This guy was carbonized in the middle of a cave.<end>
+
+=>a42
+Но, если я правильно понял$(#/а), пиролиз возможен только в отсутствие кислорода. А этот парень обуглился прямо посреди пещеры.<end>
+
+=>q43_original
+Then the acting psionic force you suspect of somehow... did not involve oxygen. May I ask where you found this carbonized man?<end>
+
+=>q43
+Значит, действующая псионическая сила, о которой вы подозреваете, каким-то образом... отдельна от кислорода. Могу я спросить, где вы нашли этого обуглившегося мужчину?<end>
+
+=>a44_original
+He struck a psi monolith with a mining pick.<end>
+
+=>a44
+Он ударил по пси-монолиту шахтёрской киркой.<end>
+
+=>q45_original
+A psi monolith? I've heard about strange pillars holding great psionic powers within them. I've never seen one myself, however.<end>
+
+=>q45
+Пси-монолит? Я слышал о странных монолитах, в которых заключены огромные псионические силы. Но сам я их никогда не видел.<end>
+
+=>a46_original
+This one's at the entrance to the Black Sea. Tall, angular and brilliant structure whose presence warps perception. Difficult to describe.<end>
+
+=>a46
+Этот находится у входа в Чёрное море. Высокая, угловатая и блестящая структура, само присутствие которой искажает восприятие. Такое сложно описать.<end>
+
+=>q47_original
+I can only imagine. You know, I wouldn't mind you telling me about these monoliths when you have the time, as you seem to know quite a few things about them. More than I do, that is for certain.<end>
+
+=>q47
+Могу только догадываться. Знаете, я был бы не против, если бы вы рассказали мне об этих монолитах, когда у вас найдётся время, ведь вы, кажется, многое о них знаете. Уж точно больше меня.<end>
+
+=>a48_original
+Sure. Now, where were we...<end>
+
+=>a48
+Конечно. Так, на чём мы остановились...<end>
+
+=>q49_original
+Carbonization, yes. So apparently when he - the pirate - struck the monolith he unleashed some kind of psionic force which carbonized him regardless of the surrounding atmosphere, most likely in an instant. <end>
+
+=>q49
+Карбонизация, да. По всей видимости, когда он - пират - ударил по монолиту, то высвободил некую псионическую силу, обуглившую его вне зависимости от окружающей атмосферы, причём, скорее всего, мгновенно.<end>
+
+=>q50_original
+Looking at the sample and basing my hypothesis on the things you've told me, that seems like the most plausible explanation.<end>
+
+=>q50
+Основываясь на гипотезе, построенной на вашем рассказе и изучении образца, я нахожу это наиболее правдоподобным объяснением.<end>
+
+=>a51_original
+This does explain a few things. Thanks a lot, Quinton. Appreciate it.<end>
+
+=>a51
+Это кое-что объясняет. Большое спасибо, Куинтон. Очень вам признател$(#ен/ьна).<end>
+
+=>q52_original
+Any time, $(context.player.Name). <end>
+
+=>q52
+В любое время, $(context.player.Name).<end>
+
+=>q53_original
+You sure bring me interesting things to study. <end>
+
+=>q53
+Обязательно приносите мне интересные вещи для изучения.<end>
+
+=>q54_original
+<end>
+
+=>q54
+<end>
+
+=>q55_original
+Was there anything else you needed from me?<end>
+
+=>q55
+Вы хотели ещё что-нибудь?<end>
+
+=>a56_original
+That was all I needed to know. Thanks.<end>
+
+=>a56
+Это всё, что мне нужно было знать. Спасибо.<end>
+
+=>a57_original
+I see. I have no further questions. Gotta run.<end>
+
+=>a57
+Ясно. Вопросов больше нет. Мне нужно бежать.<end>
+
+=>q58_original
+See you around, $(context.player.Name). <end>
+
+=>q58
+Увидимся, $(context.player.Name).<end>
+
+=>a59_original
+::Nod.:: Now, we were...<end>
+
+=>a59
+::Кивнуть.:: Итак, мы говорили...<end>
+
+=>a60_original
+I'm sorry, but I can't tell you.<end>
+
+=>a60
+Извините, но я не могу вам сказать.<end>
+
+=>q61_original
+Hm. Then there’s not much more I can tell you. <end>
+
+=>q61
+Хм. Тогда я больше ничего не смогу вам сказать.<end>
+
+=>q62_original
+The bottom line is, this man was somehow instantly carbonized. <end>
+
+=>q62
+Суть в том, что этот человек каким-то образом мгновенно карбонизировался.<end>
+
+=>a63_original
+I just found him in some cave.<end>
+
+=>a63
+Я просто наткнул$(#ся/ась) на него в какой-то пещере.<end>
+
+=>a64_original
+You may not.<end>
+
+=>a64
+Не можете.<end>
+
+=>q65_original
+Here, <end>
+
+=>q65
+В данном же случае<end>
+
+=>a66_original
+What is pyrolysis?<end>
+
+=>a66
+Что такое пиролиз?<end>
+
+=>q67_original
+Pyrolysis is a process of thermal composition of organic materials in an inert atmosphere, meaning it's either performed in a vacuum or by using an inert gas instead of oxygen.<end>
+
+=>q67
+Пиролиз - это процесс термического разложения органических материалов в инертной атмосфере, то есть он протекает либо в вакууме, либо с использованием инертного газа вместо кислорода.<end>
+
+=>a68_original
+::[Chemistry]:: To me it looks like some kind of graphite: It has that slick feel to the touch and a layered structure if you look at the place where I broke it off, but as you can probably tell the layers are fused in a lot of places, and the material is clearly not as brittle as graphite.<end>
+
+=>a68
+::[Химия]:: На мой взгляд, это похоже на некую разновидность графита: он гладкий на ощупь и имеет слоистую структуру, если взглянуть на обломанный край, но, как вы, вероятно, заметили, слои сливаются во многих местах, и материал явно не такой хрупкий, как графит.<end>
+
+=>q69_original
+Yes, yes, I can see that. <end>
+
+=>q69
+Да, да, я вижу это.<end>
+
+=>q70_original
+::He carefully inspects the sample.:: Hm. You know what this reminds me of? It reminds me of something you'd get as a result of pyrolysis.<end>
+
+=>q70
+::Он тщательно рассматривает образец.:: Хм. Знаете, что мне это напоминает? Он напоминает мне то, что получается в результате пиролиза.<end>
+
+=>a71_original
+So what do you reckon?<end>
+
+=>a71
+Так что вы думаете?<end>
+
+=>a72_original
+No, not pyrite the fool's gold, but *pirate* the filthy, smelly water bandit that pollutes the waterways with his mere presence.<end>
+
+=>a72
+Нет, не пирит, который "золото дураков", а *пират* - мерзкий, вонючий бандит, оскверняющий водные пути одним своим присутствием.<end>
+
+=>a73_original
+No, not pyrite the fool's gold, but *pirate* the person that robs ferries.<end>
+
+=>a73
+Нет, не пирит, который "золото дураков", а *пират* - тот, кто грабит паромы.<end>
+
+=>a74_original
+A pirate.<end>
+
+=>a74
+Пират.<end>
+
+=>a75_original
+I need someone to supply a friend of mine with certain plants and fungi. His name is Dude and he'll even collect it himself so you won't have to ship it out anywhere.<end>
+
+=>a75
+Мне нужно найти для одного моего друга поставщика растений и грибов. Его зовут Чувак, и он даже будет приезжать за ними сам, так что вам не придётся беспокоиться о доставке.<end>
+
+=>q76_original
+Hm. What mushrooms and plants?<end>
+
+=>q76
+Хм. Какие ему нужны растения и грибы?<end>
+
+=>a77_original
+Mindshrooms, red dreams and lake poppies. We need lots of it. The more you have, the better.<end>
+
+=>a77
+Мозгляки, красный сон и озёрный мак. Нам их нужно много. Чем больше, тем лучше.<end>
+
+=>q78_original
+We have plenty to spare, fortunately. We can make a deal. What is it for, if I may ask?<end>
+
+=>q78
+К счастью, у нас они в избытке. Мы могли бы заключить сделку. Могу я поинтересоваться, зачем они вам?<end>
+
+=>a79_original
+::[Persuade] or [Mercantile]:: He's starting a small brewery in Core City and is trying to create new and interesting types of brew. If you can supply him with enough material, his business is bound to grow, resulting in higher profits for *everyone* involved.<end>
+
+=>a79
+::[Убеждение]/[Торговля]:: Мы открываем совместное предприятие в Кор-Сити и хотим попробовать найти новые интересные рецепты самогона. Если вы сможете предоставить ему достаточно материалов, его бизнес обязательно вырастет, равно как и прибыли для *всех* партнёров.<end>
+
+=>q80_original
+I have witnessed more than one brewery go down because of risky business ventures such as the one you describe.<end>
+
+=>q80
+На моей памяти не одно «предприятие» печально закончило из-за рискованных авантюр, подобных описанной вами.<end>
+
+=>a81_original
+Dude is special. What he can do no one else can.<end>
+
+=>a81
+Чувак особенный. Он может такое, чего не может никто.<end>
+
+=>q82_original
+Heard that before... ::He pauses.:: ...but then again...
+
+Alright. You've convinced me. I'll make sure he gets what he needs.<end>
+
+=>q82
+Слышал об этом раньше... ::Он делает паузу.:: ...теперь вот опять...
+
+Хорошо. Вы убедили меня. Я позабочусь, чтобы он получил то, что ему нужно.<end>
+
+=>q83_original
+Now... <end>
+
+=>q83
+Что же...<end>
+
+=>q84_original
+Payment?<end>
+
+=>q84
+Оплата?<end>
+
+=>a85_original
+Upon pickup. You iron out the details with him.<end>
+
+=>a85
+При получении. Обсудите детали с ним.<end>
+
+=>q86_original
+Acceptable. Tell your friend we have a deal.<end>
+
+=>q86
+Приемлемо. Передайте своему другу, что мы договорились.<end>
+
+=>a87_original
+Alright. You'll hear from him soon.<end>
+
+=>a87
+Хорошо. Скоро он с вами свяжется.<end>
+
+=>q88_original
+I'll be waiting for him.<end>
+
+=>q88
+Буду ждать.<end>
+
+=>q89_original
+Hm. Heard that before too. <end>
+
+=>q89
+Хм. Слышал о таком и раньше.<end>
+
+=>a90_original
+He's making a potion that when drank allow one to travel through rifts in reality.<end>
+
+=>a90
+Он варит зелье, которое позволяет ему путешествовать через разломы в реальности.<end>
+
+=>q91_original
+::He stares at you blankly.::<end>
+
+=>q91
+::Он смотрит на вас ничего не выражающим взглядом.::<end>
+
+=>a92_original
+Just kidding.<end>
+
+=>a92
+Шучу.<end>
+
+=>q93_original
+Hm.<end>
+
+=>q93
+Хм.<end>
+
+=>a94_original
+It's not psychedelic drugs, let me tell you that.<end>
+
+=>a94
+Речь не про какие-то галлюциногены -- это я вам обещаю.<end>
+
+=>a95_original
+It's for his... medicine. Yes.<end>
+
+=>a95
+Ему нужно... лекарство. Да.<end>
+
+=>a96_original
+Can you help me or not?<end>
+
+=>a96
+Вы можете мне помочь или нет?<end>
+
+=>a97_original
+You may not.<end>
+
+=>a97
+Не можете.<end>
+
+=>a98_original
+About those mine creatures from Foundry...<end>
+
+=>a98
+О тех существах из шахты Литейной...<end>
+
+=>q99_original
+Ah, yes. I'm listening.<end>
+
+=>q99
+Ах, да. Я слушаю.<end>
+
+=>q100_original
+<end>
+
+=>q100
+<end>
+
+=>a101_original
+There are these highly aggressive quadrupedal creatures, most easily recognized by shells made of rock with metallic blades protruding from their backs. Ever seen anything like that?<end>
+
+=>a101
+Там появились крайне агрессивные четвероногие твари, которых легко узнать по каменным панцирям с металлическими лезвиями, торчащими со спины. Вы когда-нибудь видели что-нибудь подобное?<end>
+
+=>q102_original
+Hm. Never, but it sounds really intriguing. I'd remember it, that's for sure.<end>
+
+=>q102
+Хм. Никогда, но звучит интересно. Я бы такое запомнил, это точно.<end>
+
+=>q103_original
+If you could bring me some part of the creature, or a live specimen, then I'd be more than happy to share anything I learn with you.<end>
+
+=>q103
+Если бы вы смогли принести мне часть существа или живую особь, то я с радостью поделился бы с вами всем, что узнаю.<end>
+
+=>a104_original
+There are these worm-like things, with weird heads shaped like small drills.<end>
+
+=>a104
+Там появились такие червеподобные твари со странными головами, похожими на маленькие дрели.<end>
+
+=>q105_original
+Drills? I've seen a fair share of odd beings, but one with a drill for head? Never in my lifetime!<end>
+
+=>q105
+Дрели? Я изрядно повидал странных существ, но с дрелью на голове? Никогда в моей жизни!<end>
+
+=>q106_original
+Could you catch one, if that's possible? I'd love to take a look at the creature, and you too need some answers, or else you wouldn't be talking to me in the first place, hm?<end>
+
+=>q106
+Вы могли бы поймать одного такого, если это возможно? Я хотел бы взглянуть на существо, и вам тоже нужны ответы, иначе вы не говорили бы со мной, А?<end>
+
+=>a107_original
+I have a piece of the rock creature.<end>
+
+=>a107
+У меня есть кусок каменного существа.<end>
+
+=>q108_original
+Hm, let me see. ::Quinton inspects the piece you gave him.:: Fascinating! As if you detached this from a piece of machinery and, and not a living, breathing creature. This is from its back, right? Is that what you said?<end>
+
+=>q108
+Хм, дайте мне взглянуть. ::Куинтон осматривает фрагмент, который вы ему дали.:: Невероятно! Как будто вы оторвали это от машины, а не живого существа. Это с его спины, верно? Вы же так сказали? <end>
+
+=>a109_original
+::[Biology]:: Yes. Judging by the placement, their function is purely a defensive one; a few of these might be found on the tail, but considering how short it is, I doubt in its effectiveness as an offensive weapon.<end>
+
+=>a109
+::[Биология]:: Да. Судя по размещению, их функция является исключительно оборонительной; несколько из них расположены на хвосте, но, учитывая, насколько он короткий, я сомневаюсь в его эффективности как наступательного оружия.<end>
+
+=>q110_original
+Yes, yes. But, do you have any information on its predators, if any? What kind of a predator would it take for a creature to develop these quite unprecedented defense mechanisms. What eats a creature encased in a rock shell and is covered with metal spikes, hm?<end>
+
+=>q110
+Да-да. А есть ли у вас какая-либо информация о хищниках, охотящихся на него, если таковые вообще имеются? Какая угроза вынудила бы существо развить такие совершенно беспрецедентные защитные механизмы? Кто может есть животных, закованных в каменный панцирь и покрытых металлическими шипами, хм?<end>
+
+=>a111_original
+::[Intelligence]:: What if they haven't evolved naturally? What if they were artificially selected for a purpose? Not saying they don't have a predator, but perhaps we're looking at this from the wrong angle.<end>
+
+=>a111
+::[Интеллект]:: А что, если они не развивались естественным путём? Что, если они были искусственно выведены для какой-то цели? Не утверждаю, что они не имеют хищников, но, может быть, мы смотрим на вопрос не с той стороны.<end>
+
+=>q112_original
+That is... hm, that is a possibility. ::He suddenly falls silent, his mind withdrawing into deep thought.::<end>
+
+=>q112
+Это... хм, это не исключено. ::Он внезапно замолкает и погружается в глубокие раздумья.::<end>
+
+=>q113_original
+::He returns shortly.:: But why and by whom... Biocorp? I mean... ::He sighs.:: You know, I'd rather not go into this right now, as we'd be going into some serious speculations and I don't think we have a lot of information. Unless... we do. Do you know anything else?<end>
+
+=>q113
+::Он вскоре возвращается к вам.:: Но зачем, и кто?.. Биокорп? То есть... ::Он вздыхает.:: Знаете, лучше не будем сейчас в это углубляться, потому что мы входим в область туманных догадок, и я не думаю, что у нас есть достаточно информации. Если только... есть что-то ещё. Вы знаете что-нибудь ещё?<end>
+
+=>a114_original
+Not really.<end>
+
+=>a114
+Вряд ли.<end>
+
+=>q115_original
+::He nods.:: How about we take a look at what we have before us, hm?<end>
+
+=>q115
+::Он кивает.:: Как насчёт того, чтобы взглянуть на то, что у нас есть, хм?<end>
+
+=>q116_original
+Well, <end>
+
+=>q116
+Что ж,<end>
+
+=>q117_original
+this is what I can tell you about the creature by looking at this: So, they have a primarily defensive purpose, just like we talked. Now, I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
+
+=>q117
+вот, что я могу рассказать вам о существе, просто взглянув на него: Итак, у них прежде всего защитная функция, как мы уже обсудили. Я не вижу никаких полостей или каналов для нервов и кровеносных сосудов или другой органической ткани. Например, чтобы проиллюстрировать, что я имею в виду, возьмём наши собственные кости: Мы выращиваем их в ходе процесса, называемого окостенением. Вы знаете, что это такое?<end>
+
+=>a118_original
+::[Biology]:: Yes, specialized cells produce calcium which synthesizes bones.<end>
+
+=>a118
+::[Биология]:: Да, специализированные клетки вырабатывают кальций, который синтезирует кости.<end>
+
+=>q119_original
+Exactly. <end>
+
+=>q119
+Точно.<end>
+
+=>q120_original
+Now, bone tissue is usually composed of a mineral matrix which contains these cells, and bones themselves are composed of approximately seventy percent mineral content. This blade here, this is one solid piece of metal. No organic matter whatsoever, no porosity and no traces that this grew out of a living being.<end>
+
+=>q120
+Итак, костная ткань обычно состоит из минерального скелета, который содержит эти клетки, а сами кости приблизительно на семьдесят процентов состоят из минеральных веществ. Но это лезвие -- это один сплошной кусок металла. Никакой органики, никакой пористости и никаких следов того, что оно выросло из живого существа.<end>
+
+=>a121_original
+How does it grow then?<end>
+
+=>a121
+Тогда как оно растёт?<end>
+
+=>q122_original
+Hm, that I don't know. Tooth enamel, for instance, is almost completely made of hydroxylapatite - a kind of calcium phosphate, with the rest being water and a hint of organic matter. Enamel is formed within the gums, before the tooth grows out, so there is a possibility that this blade is formed within the shell and grows out later. But how... I don't know. Right now I can only make speculations.<end>
+
+=>q122
+Хм, этого я не знаю. Например, зубная эмаль почти полностью состоит из гидроксиапатита -- разновидности фосфата кальция, а остальное -- вода и чуть органики. Эмаль образуется в дёснах, прежде чем зуб вырастает, так что есть вероятность того, что это лезвие формируется внутри панциря и вырастает позже. Но как... я не знаю. Сейчас я могу только догадываться.<end>
+
+=>q123_original
+Here, take this blade back. If you want to test its composition, better have that done by someone, well, someone who is not a biologist, that's for sure. ::A smile lifts his mask slightly up.:: If you can bring me any other part of the creature, or a live specimen, then we have ourselves a winner. This, however... I'm sorry. This is all fascinating, in any case.<end>
+
+=>q123
+Вот, возьмите лезвие обратно. Если вы хотите проверить его состав, лучше бы это сделал кто-то, ну, кто-то не биолог, это уж точно. ::Улыбка слегка приподнимает его маску.:: Если вы сможете принести мне любую другую часть существа или живой экземпляр, то у нас будет победитель. Однако это... извините. В любом случае, это всё невероятно.<end>
+
+=>a124_original
+I've captured one of these worms.<end>
+
+=>a124
+Я поймал$(#/а) одного из этих червей.<end>
+
+=>q125_original
+::Quinton inspects the creature as it squirms inside the crate. As soon as it spots him, the creature begins thrashing about, ocassionally stopping to aim its head at him and screech in an act of desperate intimidation.:: Now this is what I'm talking about! I'd like to take a look at it. Anything I should know before opening the crate? How dangerous is it?<end>
+
+=>q125
+::Куинтон осматривает существо, которое извивается внутри ящика. Как только оно замечает его, существо начинает метаться из стороны в сторону, иногда ненадолго останавливаясь, чтобы нацелиться в его сторону и угрожающе заверещать.:: Вот то, что надо! Я бы хотел на него взглянуть. Мне что-нибудь нужно знать перед тем, как открыть ящик? Насколько оно опасно?<end>
+
+=>a126_original
+You've got nothing to worry about. I handled it with my bare hands.<end>
+
+=>a126
+Вам не о чем беспокоиться. Я брал$(#/а) его голыми руками.<end>
+
+=>q127_original
+::He carefully grabs the creature, holding it firmly as it wriggles in his hands. He takes a good look at it, charmed by its oddity and alien form, before he turns to you.::
+
+Please wait while I examine it. This won't take long. ::The creature suddenly makes a few powerful motions, wailing its unheld ends and shakes Quinton's upper body and prompting him to even spread his legs a bit in order to maintain proper balance; he is able to control it, however.:: This one's a fighter!<end>
+
+=>q127
+::Куинтон осторожно хватает существо, крепко удерживая его, пока оно извивается в его руках. Он пристально вглядывается в него, очарованный его диковинной и чуждой формой, прежде чем повернуться к вам.::
+Пожалуйста, подождите, пока я осмотрю его. Это не займёт много времени.
+::Вдруг существо совершает несколько мощных рывков, размахивая свободным концом тела, пошатнув Куинтона и заставляя его переступить, чтобы сохранить равновесие; всё же ему удаётся удержать его.::
+Каков боец!<end>
+
+=>a128_original
+::Wait.::<end>
+
+=>a128
+::Ждать.::<end>
+
+=>a129_original
+I'd be *very* cautious if I were you.<end>
+
+=>a129
+На вашем месте я был$(#/а) бы *очень* осторож$(#ен/на).<end>
+
+=>a130_original
+I was fortunate I had a helmet, or else it'd have drilled right through my skull.<end>
+
+=>a130
+Мне повезло, что на мне был шлем, иначе он просверлил бы мне череп.<end>
+
+=>q131_original
+::He stares blankly at you for a second, processing your statement, but in the end he doesn't bite.:: You're pulling my leg, $(context.player.Name)?<end>
+
+=>q131
+::Мгновенье он непонимающе смотрит на вас, переваривая ваше заявление, но в итоге не ведётся.:: Вы меня разыгрываете, $(context.player.Name)?<end>
+
+=>a132_original
+I understand. I'd like to change the subject to something else.<end>
+
+=>a132
+Я понимаю. Давайте поговорим о другом.<end>
+
+=>q133_original
+Okay.<end>
+
+=>q133
+Хорошо.<end>
+
+=>a134_original
+I'll get going now. See you later when I learn something new.<end>
+
+=>a134
+Я пойду. Увидимся позже, когда узнаю что-то новое.<end>
+
+=>a135_original
+No, what is that?<end>
+
+=>a135
+Нет, а что это?<end>
+
+=>q136_original
+Your bones contains cells called osteoblasts which secrete the minerals necessary to form bone. The process by which they do this is called ossification.<end>
+
+=>q136
+Ваши кости содержит клетки, называемые остеобластами, которые выделяют минералы, необходимые для образования костной ткани. Процесс, с помощью которого они это делают, называется окостенением.<end>
+
+=>a137_original
+Not yet.<end>
+
+=>a137
+Пока нет.<end>
+
+=>a138_original
+I haven't seen any predators, or noticed signs thereof. What if they are at the top of the food chain?<end>
+
+=>a138
+Я не видел$(#/а) никаких хищников или их следов. Что, если они находятся на вершине пищевой цепи?<end>
+
+=>q139_original
+If they're fungivores, then perhaps, as it would be hard to imagine creatures of such weight - and they have to be heavy, built like this - chasing down or ambushing their prey. Natural selection would not favor them, I don't think. But again, why the shell? The blades?<end>
+
+=>q139
+Если они грибоядны, то это возможно, так как трудно представить существа такого веса -- а они должны быть тяжёлыми, с таким сложением, -- преследующими или заманивающими в ловушку свою жертву. Естественный отбор не пощадил бы их, я так думаю. Но опять же, зачем панцирь? Лезвия?<end>
+
+=>q140_original
+I mean, it could be a way to attract females, as using vast resources to impress one is not uncommon in the animal world... or the human world, but... It's still a bit too far-fetched. No, don't think that is the case here.<end>
+
+=>q140
+Скажем, накопление значительных ресурсов может быть способом привлечения самок, поскольку это не редкость в животном мире... да и у людей, но... Но всё равно это домыслы. Нет, скорее всего, дело не в этом.<end>
+
+=>q141_original
+Hm. Back to the blade *in* hand. Well, <end>
+
+=>q141
+Хм. Возвращаясь к нашему лезвию. Ну,<end>
+
+=>a142_original
+That I don't know.<end>
+
+=>a142
+Этого я не знаю.<end>
+
+=>a143_original
+Yes, their backs are covered with these blades.<end>
+
+=>a143
+Да, их спины покрыты этими лезвиями.<end>
+
+=>q144_original
+Hm. Well, <end>
+
+=>q144
+Хм. Хорошо,<end>
+
+=>q145_original
+this is what I can tell you about the creature by looking at this: Considering that you told me the blades grow out of its back, I can guess that it serves a defensive purpose. I see no cavities or canals for nerves or blood vessels to go through, or to accommodate any kind of organic matter. To illustrate what I mean, I'll take our very own bones as an example: We grow our bones through a process called ossification. Do you know what that is?<end>
+
+=>q145
+вот, что я могу рассказать вам о существе, просто взглянув на него: Принимая во внимание, что вы мне рассказали, про его растущие из спины лезвия, я могу предположить, что они служат защитной цели. Я не вижу никаких полостей или каналов для нервов и кровеносных сосудов или другой органической ткани. Например, чтобы проиллюстрировать, что я имею в виду, возьмём наши собственные кости: Мы выращиваем их в ходе процесса, называемого окостенением. Вы знаете, что это такое?<end>
+
+=>a146_original
+On the other hand, let's discuss something else.<end>
+
+=>a146
+С другой стороны, давайте обсудим кое-что ещё.<end>
+
+=>a147_original
+I'd like to have a certain substance tested.<end>
+
+=>a147
+Я хотел$(#/а) бы, чтобы вы проверили некое вещество.<end>
+
+=>q148_original
+::He slowly turns around.:: Hm?<end>
+
+=>q148
+::Он медленно оборачивается.:: Хм?<end>
+
+=>a149_original
+It's some sort of a combat drug called Hercules. I have a reason to believe it might be very harmful to humans.<end>
+
+=>a149
+Это что-то вроде боевого стимулятора под названием «Геракл». У меня есть причины полагать, что оно может быть очень вредным для человека.<end>
+
+=>q150_original
+You should take it to Pasquale then. He can run tests and tell you exactly what are its effects on the human body.<end>
+
+=>q150
+В таком случае, вам следует показать это Паскуалю. Он может провести тесты и сказать точно, какое воздействие оно оказывает на организм человека.<end>
+
+=>a151_original
+Thanks for the info. Goodbye.<end>
+
+=>a151
+Спасибо за информацию. До свидания.<end>
+
+=>q152_original
+::He nods and returns to his work.::<end>
+
+=>q152
+::Он кивает и возвращается к работе.::<end>
+
+=>a153_original
+I wanted to ask you about some odd creatures that are plaguing Foundry at the moment. Thought you might know something.<end>
+
+=>a153
+Я хотел$(#/а) спросить вас о странных существах, которые сейчас доставляют большие неприятности на Литейной. Может быть вы что-то знаете.<end>
+
+=>q154_original
+Foundry? Hm, sure, sure. Can you describe these creatures to me?<end>
+
+=>q154
+На Литейной? Хм, конечно, конечно. Вы можете описать мне этих существ?<end>
+
+=>a155_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a155
+Что вы знаете о смерти Патрика Пирса?<end>
+
+=>q156_original
+Hm? Patrick? Was it a heart attack? I forgot. I remember all the fuss about it. Was it a heart attack or... Hm, can't remember. It happened two months ago. I don't see why is it important anyway.<end>
+
+=>q156
+Хм? Патрика? Кажется, сердечный приступ? Я забыл. Но я помню весь сыр-бор вокруг этого. Это был сердечный приступ или... Хм, не могу вспомнить. Это случилось два месяца назад. В любом случае, я не понимаю, почему это так важно.<end>
+
+=>a157_original
+Can you tell me what was he like as a person?<end>
+
+=>a157
+Можете рассказать, каким он был человеком?<end>
+
+=>q158_original
+He was a friendly guy, approachable. We were a different sort of people: He'd hang out more with people like Harold or Wayne than me or Bret, for example. But he was polite and we'd chat from time to time.<end>
+
+=>q158
+Он был дружелюбным парнем, свойским. Мы с ним были разными: он предпочитал общаться с людьми вроде Гарольда или Уэйна, а не со мной или Бретом, например. Но он был вежлив, и мы беседовали время от времени.<end>
+
+=>q159_original
+Although, just before he died, Bret complained about some heaters he was installing in the hopper pens. Said he did a sloppy job. It was true, the poor hoppers were about to die from overheating. Bret got... a *bit* mad, and I understand him fully. I even talked to Patrick once about the whole situation.<end>
+
+=>q159
+Хотя, перед его смертью Брет жаловался на какие-то обогреватели, которые он установил в загонах для пещерников. Сказал, что он схалтурил. Это правда, бедные пещерники чуть не умерли от перегрева. Брет... *немного* разозлился, и я его понимаю полностью. Я даже говорил с Патриком на этот счёт.<end>
+
+=>a160_original
+I managed to run out of putrefying bolts. Got more?<end>
+
+=>a160
+У меня кончились разлагающие болты. Ещё есть?<end>
+
+=>q161_original
+::He nods.:: I do. It's going to take some time before I make another batch, so make these bolts count, hm? ::He then hands you 10 putrefying bolts.:: <end>
+
+=>q161
+::Он кивает.:: Да. Потребуется некоторое время, прежде чем я сделаю ещё одну партию. Вы потратили их с пользой? ::Он вручает вам 10 разлагающих болтов.::<end>
+
+=>a162_original
+Before I leave...<end>
+
+=>a162
+Прежде чем я уйду...<end>
+
+=>q163_original
+Yes?<end>
+
+=>q163
+Да?<end>
+
+=>a164_original
+The tissue sample's as good as yours. For real this time.<end>
+
+=>a164
+Образец ткани так же хорош, как и вы. На этот раз серьёзно.<end>
+
+=>a165_original
+::Nod and leave.::<end>
+
+=>a165
+::Кивнуть и уйти.::<end>
+
+=>a166_original
+What kind of creature is that?<end>
+
+=>a166
+Что это за существо?<end>
+
+=>q167_original
+It's a burrower. It's one nasty creature that digs around, laying eggs all over the place. They are more numerous deeper underground, but you can still find a few roaming the Lower Underrail and the surrounding caves.<end>
+
+=>q167
+Это могильщик. Очень нехорошее существо, которое роет норы и откладывает яйца повсюду. Они чаще встречаются глубже под землёй, но всё равно можно найти несколько колоний в Нижней Подземке и окружающих её пещерах.<end>
+
+=>q168_original
+If you meet one, be careful. It will spit thick hard spines at you that are coated with poison.<end>
+
+=>q168
+Если встретите такого, будьте осторожны. Он будет плевать в вас толстыми жёсткими шипами, которые покрыты ядом.<end>
+
+=>a169_original
+What are you doing exactly?<end>
+
+=>a169
+Что вы, собственно, сейчас делаете?<end>
+
+=>q170_original
+I'm collecting its poison glands. We can use those to produce other chemicals or to coat crossbow bolts.<end>
+
+=>q170
+Я собираю его ядовитые железы. Мы можем использовать их для производства препаратов или покрытия арбалетных болтов.<end>
+
+=>a171_original
+What's in that room over there?<end>
+
+=>a171
+А что вон в той комнате?<end>
+
+=>q172_original
+We're growing mushrooms of different kinds there, of course, most notably the mindshrooms. They are one of the most potent, and certainly one of the safest psionic catalysts. The largely popular psi boosters are made from mindshrooms, in case you didn't know.<end>
+
+=>q172
+Там мы выращиваем разные виды грибов, в первую очередь, конечно, мозгляки. Они являются одним из самых мощных и, безусловно, одним из самых безопасных пси-катализаторов. Большинство популярных пси-усилителей изготавливаются из мозгляков, если вы не знали.<end>
+
+=>a173_original
+I'm told you can teach psionics.<end>
+
+=>a173
+Мне сказали, что вы обучаете псионике.<end>
+
+=>q174_original
+Hm. Yes, that is correct. Are you interested in learning perhaps?<end>
+
+=>q174
+Хм. Да, это верно. Вы заинтересованы в обучении?<end>
+
+=>a175_original
+Yes. Will you teach me?<end>
+
+=>a175
+Да. Вы научите меня?<end>
+
+=>q176_original
+Hmm... I heard you scored highly on Tanner's tests, so yes, I will teach you what I can.<end>
+
+=>q176
+Хм-м... Я слышал, вы набрали высокий бал в тестах Таннера, так что да, я научу вас тому, что умею.<end>
+
+=>q177_original
+If you perform one little task for me.<end>
+
+=>q177
+Если вы выполните для меня одно небольшое задание.<end>
+
+=>a178_original
+Which task is that?<end>
+
+=>a178
+Что это за задание?<end>
+
+=>q179_original
+You see, I was conducting some experiments on rathounds a while back. Was quite close to a breakthrough as well, until... a little accident happened and Bret forced me to get rid of the creatures. Hm.<end>
+
+=>q179
+Видите ли, некоторое время тому назад я проводил некоторые эксперименты на крысоволках. И был довольно близок к прорыву, но потом... случилась небольшая авария, и Брет заставил меня избавиться от тварей. Хм.<end>
+
+=>q180_original
+Now I cannot finish the experiments. Not here anyway.<end>
+
+=>q180
+Теперь я не могу закончить эксперименты. По крайней мере не здесь.<end>
+
+=>q181_original
+<end>
+
+=>q181
+<end>
+
+=>a182_original
+What kind of experiments were you conducting?<end>
+
+=>a182
+Какого рода эксперименты вы проводили?<end>
+
+=>q183_original
+I was working on developing a substance that would transform the muscle and other types of tissue into a potent mushroom fertilizer.<end>
+
+=>q183
+Я работал над веществом, которое могло бы превращать мышечную и другие виды тканей в эффективное грибное удобрение.<end>
+
+=>a184_original
+What happened?<end>
+
+=>a184
+Что случилось?<end>
+
+=>q185_original
+Well, I never really had an appropriate place to keep the rathounds, so I drilled breathing holes into a couple of those large crates and kept them there. It turns out I underestimated them and after a while they... chewed their way out of their predicament.<end>
+
+=>q185
+Ну, у меня не было подходящего места, чтобы держать крысоволков, так что я просверлил дырки для воздуха в паре больших ящиков и держал их там. Оказалось, что я недооценил их, и через некоторое время они... прогрызли себе выход из заточения.<end>
+
+=>a186_original
+What do you need me to do?<end>
+
+=>a186
+Что вам нужно от меня?<end>
+
+=>q187_original
+I have prepared the final version of the concoction and filled a set of crossbow bolts with it. I need you to go out there into the caves and shoot a rathound with it, and then once it's dead, collect a tissue sample from around the wound.<end>
+
+=>q187
+Я подготовил окончательный вариант состава и наполнил им несколько арбалетных болтов. Мне нужно, чтобы вы отправились в пещеры и подстрелили ими крысоволка, а затем, после его смерти, собрали образец тканей из места вокруг раны.<end>
+
+=>q188_original
+If you don't have a crossbow, you can borrow mine. It's in that locker over there in the corner. It's not like I get to use it much these days anyway.<end>
+
+=>q188
+Если у вас нет арбалета, я могу дать вам свой. Он там, в шкафчике, в углу. Всё равно я не думаю, что он мне ещё пригодится.<end>
+
+=>a189_original
+And if I do this, you'll teach me for free?<end>
+
+=>a189
+И если я это сделаю, вы будете учить меня бесплатно?<end>
+
+=>q190_original
+I'll teach you one psi ability for free. You'll have to pay for the rest.<end>
+
+=>q190
+Я научу вас одной пси-способности бесплатно. Вам придётся заплатить за остальные.<end>
+
+=>a191_original
+I'll do it.<end>
+
+=>a191
+Я соглас$(#ен/на).<end>
+
+=>q192_original
+Excellent. <end>
+
+=>q192
+Превосходно.<end>
+
+=>q193_original
+Here are the bolts. Good hunting.<end>
+
+=>q193
+Держите болты, и удачной охоты.<end>
+
+=>a194_original
+The tissue sample's as good as yours. I'll be back soon.<end>
+
+=>a194
+Образец ткани так же хорош, как и вы. Я скоро вернусь.<end>
+
+=>a195_original
+::[Mercantile]:: Make that two free psi abilities and you got yourself a deal.<end>
+
+=>a195
+::[Торговля]:: Давай так: две бесплатных пси-способности, и мы договорились.<end>
+
+=>q196_original
+Hrm... Very well, but you better bring me a good tissue sample.<end>
+
+=>q196
+Хм... Хорошо, но я надеюсь, что вы принесёте мне хороший образец.<end>
+
+=>q197_original
+Not a chance, it's one psi ability - take it or leave it.<end>
+
+=>q197
+Не пойдёт, одна пси-способность: соглашайтесь или отказывайтесь.<end>
+
+=>a198_original
+I'll take it.<end>
+
+=>a198
+Я соглас$(#ен/на).<end>
+
+=>a199_original
+I'll pass.<end>
+
+=>a199
+Я отказываюсь.<end>
+
+=>q200_original
+Suit yourself.<end>
+
+=>q200
+Как вам будет угодно.<end>
+
+=>a201_original
+Forget it.<end>
+
+=>a201
+Забудьте об этом.<end>
+
+=>a202_original
+Sorry, but I don't have time for this right now. Perhaps later.<end>
+
+=>a202
+Извините, но у меня нет времени прямо сейчас. Возможно позже.<end>
+
+=>q203_original
+Hm. If you change your mind let me know.<end>
+
+=>q203
+Хм. Если передумаете, дайте мне знать.<end>
+
+=>a204_original
+Figures.<end>
+
+=>a204
+Ясное дело.<end>
+
+=>q205_original
+Indeed, nothing is free. <end>
+
+=>q205
+Действительно, ничего не бывает бесплатно.<end>
+
+=>a206_original
+Maybe later.<end>
+
+=>a206
+Может быть позже.<end>
+
+=>a207_original
+No. I was just curious.<end>
+
+=>a207
+Нет. Мне было просто любопытно.<end>
+
+=>q208_original
+I see. Well, if you'll excuse me, I have work to do.<end>
+
+=>q208
+Понимаю. Ну, если вы меня извините, мне надо работать.<end>
+
+=>a209_original
+Tell me about that task you mentioned earlier.<end>
+
+=>a209
+Расскажите мне про то задание, о котором вы упоминали раньше.<end>
+
+=>a210_original
+I've decided to help you with that experiment after all.<end>
+
+=>a210
+Я решил$(#/а) помочь вам с этим экспериментом.<end>
+
+=>a211_original
+Here's the tissue sample you wanted.<end>
+
+=>a211
+Вот образец ткани, что вы просили.<end>
+
+=>q212_original
+Excellent. Give it here.<end>
+
+=>q212
+Превосходно. Давайте сюда.<end>
+
+=>q213_original
+I'm going to resume my tests right away.<end>
+
+=>q213
+Я смогу возобновить свои эксперименты незамедлительно.<end>
+
+=>a214_original
+Don't forget my training.<end>
+
+=>a214
+Не забудьте о моём обучении.<end>
+
+=>q215_original
+Yes, yes, of course. Just let me know when you're ready to begin your lessons.<end>
+
+=>q215
+Да, да, конечно. Просто дайте мне знать, когда будете готовы начать уроки.<end>
+
+=>a216_original
+Catch you later.<end>
+
+=>a216
+Увидимся позже.<end>
+
+=>a217_original
+I found a nest of burrowers over at GMS.<end>
+
+=>a217
+Я наш$(#ёл/ла) гнездо могильщиков в GMS.<end>
+
+=>q218_original
+::His stare reveals genuine interest.:: Really? How many are there? Were you able to collect some venom glands?<end>
+
+=>q218
+::Его пристальный взгляд выражает неподдельный интерес.:: Правда? Сколько их там? Вам удалось собрать сколько-нибудь ядовитых желёз?<end>
+
+=>a219_original
+I'm afraid not. It's sealed off behind a solid steel gate and Gorsky won't give me the access card.<end>
+
+=>a219
+Боюсь, что нет. Гнездо скрыто за крепкими стальными дверями, и Горский не даёт мне карту доступа.<end>
+
+=>q220_original
+Unacceptable! I'll call him immediately. I'll even go to Tanner if I have to. They know I need all the venom glands I can get for my research.<end>
+
+=>q220
+Недопустимо! Я позвоню ему немедленно. Я пойду к Таннеру, если придётся. Они знают, что мне нужно как можно больше этих ядовитых желёз для моих исследований.<end>
+
+=>q221_original
+You just go talk to Gorsky again in a minute and he better give you that access card then.<end>
+
+=>q221
+Вы просто идите поговорите с Горским ещё раз чуть позже, и лучше бы он дал вам карточку доступа.<end>
+
+=>q222_original
+If you get to hunt down some burrowers, I'll gladly trade for their venom glands. Be careful, though, these critters will not relinquish them for free.<end>
+
+=>q222
+Если вы отправляетесь поохотиться на могильщиков, я с радостью совершу торговую сделку за их ядовитые железы. Но будьте осторожны, эти твари не отдадут их просто так.<end>
+
+=>a223_original
+What are your thoughts on the Faceless retreat?<end>
+
+=>a223
+Что вы думаете об отступлении безликих?<end>
+
+=>q224_original
+::He shrugs.:: Good. Excellent.<end>
+
+=>q224
+::Он пожимает плечами.:: Хорошо. Отлично.<end>
+
+=>q225_original
+I'm more worried about what's going to happen here, now that Tanner is gone.<end>
+
+=>q225
+Меня больше беспокоит, что будет здесь теперь, когда Таннера больше нет.<end>
+
+=>a226_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a226
+Что вы думаете о вторжении безликих?<end>
+
+=>q227_original
+I dissected all kinds of monsters in my lab and learned their secrets, but I must admit the Faceless are still a mystery to me.<end>
+
+=>q227
+Я вскрывал всевозможных монстров в своей лаборатории и узнал их секреты, но я должен признать, что безликие до сих пор остаются загадкой для меня.<end>
+
+=>q228_original
+What I wouldn't give for a fresh corpse of a Faceless... but then again, I heard bad things happen to those who try and linger near their dead. People say their brethren come for their corpses; they leave no man behind, apparently, dead or alive. So, maybe it's for the best they are not readily available. ::He laughs.::<end>
+
+=>q228
+Что бы я только не отдал за свежий труп безликого... но, опять же, я слышал, что плохие вещи происходят с теми, кто задерживается вблизи их мёртвых. Люди говорят, что их братья приходят за телами; они никого не бросают -- неважно, мёртвого или живого. Так, может, это и к лучшему, что их так непросто найти. ::Он смеётся.::<end>
+
+=>q229_original
+Are they just religious like that, or is there something behind their masks that they hide? I wonder.<end>
+
+=>q229
+Является это своего рода ритуалом, или есть что-то за их масками, что они скрывают? Интересно.<end>
+
+=>a230_original
+I want to learn some psi abilities.<end>
+
+=>a230
+Я хочу изучить пси-способности.<end>
+
+=>q231_original
+::He nods.:: Hm. Metathermics are my specialty. <end>
+
+=>q231
+::Он кивает.:: Хм. Моя специализация -- метатермика.<end>
+
+=>q232_original
+I can teach you cryokinesis, cryostasis, pyrokinesis and pyrokinetic stream.<end>
+
+=>q232
+Я могу научить вас криокинезу, криостазису, пирокинезу и пирокинетическому потоку.<end>
+
+=>q233_original
+<end>
+
+=>q233
+<end>
+
+=>a234_original
+Tell me about cryokinesis.<end>
+
+=>a234
+Расскажите мне о криокинезе.<end>
+
+=>q235_original
+Basically, cryokinesis is any process that involves materializing and launching ice projectiles. Most commonly the projectile takes the form of a pointy shard. Aside from causing direct harm, it will also disperse cold vapors on impact.
+
+It will cost you fifty credits to learn this.<end>
+
+=>q235
+В принципе, криокинез -- это любой процесс, который предполагает материализацию и запуск ледяных снарядов. Чаще всего, снаряд принимает форму заострённого осколка. Помимо нанесения прямого вреда, он также распространяет холодные пары при столкновении.
+
+Обучение будет стоить вам пятьдесят кредитов.<end>
+
+=>a236_original
+Agreed. Here you go.<end>
+
+=>a236
+Соглас$(#ен/на). Вот, держите.<end>
+
+=>q237_original
+Let's begin your lessons then...<end>
+
+=>q237
+Тогда начнём ваш урок...<end>
+
+=>a238_original
+::Continue::<end>
+
+=>a238
+::Продолжить::<end>
+
+=>a239_original
+I still have a freebie.<end>
+
+=>a239
+У меня всё ещё есть халява.<end>
+
+=>q240_original
+I was hoping you forgot.<end>
+
+=>q240
+Я надеялся, что вы забудете.<end>
+
+=>a241_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a241
+У меня сейчас нет таких денег. Чему ещё вы можете научить меня?<end>
+
+=>a242_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a242
+Хотя, если подумать, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>a243_original
+Tell me about pyrokinesis. ::[Requires: Metathermics 25]::<end>
+
+=>a243
+Расскажите мне о пирокинезе. ::[Требуется: Метатермика 25]::<end>
+
+=>q244_original
+There's not much to tell. It's one of the most potent and most destructive psionics known to man. You materialize a giant ball of superheated gas and hurl it as far away from you as possible. It explodes on impact and burns everything to smithereens.
+
+It will cost you two hundred fifty credits to learn this.<end>
+
+=>q244
+Тут не о чем особо рассказывать. Это одна из самых сильных и разрушительных псионик, известных человеку. Вы создаёте гигантский шар раскалённого газа и швыряете его как можно дальше от себя, насколько это возможно. Он взрывается от удара и сжигает всё в пух и прах.
+
+Обучение обойдётся вам в двести пятьдесят кредитов.<end>
+
+=>a245_original
+Agreed. Here you go.<end>
+
+=>a245
+Соглас$(#ен/на). Вот, держите.<end>
+
+=>q246_original
+<end>
+
+=>q246
+<end>
+
+=>q247_original
+Let's begin then, shall we?<end>
+
+=>q247
+Давайте тогда начнём, быть может?<end>
+
+=>a248_original
+::Continue::<end>
+
+=>a248
+::Продолжить::<end>
+
+=>q249_original
+You are not ready for that yet.<end>
+
+=>q249
+Вы ещё не готовы к этому.<end>
+
+=>a250_original
+I still have a freebie.<end>
+
+=>a250
+У меня всё ещё есть халява.<end>
+
+=>q251_original
+::Sigh.:: I never should have made that deal.<end>
+
+=>q251
+::Он вздыхает.:: Я не должен был соглашаться на эту сделку.<end>
+
+=>q252_original
+Yes, but you are not ready for that yet.<end>
+
+=>q252
+Да, но вы к этому ещё не готовы.<end>
+
+=>a253_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a253
+У меня сейчас нет таких денег. Чему ещё вы можете научить меня?<end>
+
+=>a254_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a254
+Хотя, если подумать, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>a255_original
+Tell me about cryostasis. ::[Requires: Metathermics 35]::<end>
+
+=>a255
+Расскажите мне о криостазисе. ::[Требуется: Метатермика 35]::<end>
+
+=>q256_original
+As the name suggests, cryostasis allows you to suspend a creature in a block of solid ice for a short while. Be careful, though the ice is solid on the inside, it's very vulnerable on the outside so tampering with it may cause it to shatter and release the creature prematurely.
+
+It will cost you one hundred fifty credits to learn this.<end>
+
+=>q256
+Как подсказывает название, криостазис позволяет запереть существо в глыбе твёрдого льда на короткое время. Будьте осторожны, хотя лёд твёрдый внутри, он очень уязвим извне, так что внешнее воздействие может привести к его разрушению и ваш противник освободится преждевременно.
+
+Обучение будет стоить вам сто пятьдесят кредитов.<end>
+
+=>a257_original
+Agreed. Here you go.<end>
+
+=>a257
+Соглас$(#ен/на). Вот, держите.<end>
+
+=>q258_original
+<end>
+
+=>q258
+<end>
+
+=>q259_original
+Shall we begin?<end>
+
+=>q259
+Давайте начнём?<end>
+
+=>a260_original
+::Continue::<end>
+
+=>a260
+::Продолжить::<end>
+
+=>q261_original
+You are not ready for that yet.<end>
+
+=>q261
+Вы ещё не готовы к этому.<end>
+
+=>a262_original
+I still have a freebie.<end>
+
+=>a262
+У меня всё ещё есть халява.<end>
+
+=>q263_original
+Yes... yes, you do. <end>
+
+=>q263
+Да... да, конечно.<end>
+
+=>q264_original
+Yes, but you are not ready for that yet.<end>
+
+=>q264
+Да, но вы к этому ещё не готовы.<end>
+
+=>a265_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a265
+У меня сейчас нет таких денег. Чему ещё вы можете научить меня?<end>
+
+=>a266_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a266
+Хотя, если подумать, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>a267_original
+Tell me about pyrokinetic stream. ::[Requires: Metathermics 35]::<end>
+
+=>a267
+Расскажите мне о пирокинетическом потоке.. ::[Требуется: Метатермика 35]::<end>
+
+=>q268_original
+It basically works like a flamethrower. You project a stream of fire burning everything in a straight line and it lasts as long as you can maintain your focus.
+
+It will cost you two hundred credits to learn this.<end>
+
+=>q268
+В принципе, это работает как огнёмет. Вы выбрасываете поток огня, сжигающий всё по прямой линии, и он длится, пока вы сохраняете сосредоточенность.
+
+Обучение будет стоить вам двести кредитов.<end>
+
+=>a269_original
+Agreed. Here you go.<end>
+
+=>a269
+Соглас$(#ен/на). Вот, держите.<end>
+
+=>q270_original
+<end>
+
+=>q270
+<end>
+
+=>q271_original
+Let's begin your lessons then...<end>
+
+=>q271
+Тогда начнём ваш урок...<end>
+
+=>a272_original
+::Continue::<end>
+
+=>a272
+::Продолжить::<end>
+
+=>q273_original
+You are not ready for that yet.<end>
+
+=>q273
+Вы ещё не готовы к этому.<end>
+
+=>a274_original
+I still have a freebie.<end>
+
+=>a274
+У меня всё ещё есть халява.<end>
+
+=>q275_original
+Very well. <end>
+
+=>q275
+Очень хорошо.<end>
+
+=>q276_original
+Yes, but you are not ready for that yet.<end>
+
+=>q276
+Да, но вы к этому ещё не готовы.<end>
+
+=>a277_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a277
+У меня сейчас нет таких денег. Чему ещё вы можете научить меня?<end>
+
+=>a278_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a278
+Хотя, если подумать, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>a279_original
+Never mind. Let's talk about something else.<end>
+
+=>a279
+Неважно. Давайте поговорим о чём-нибудь другом.<end>
+
+=>q280_original
+Such as?<end>
+
+=>q280
+Например?<end>
+
+=>a281_original
+Never mind.<end>
+
+=>a281
+Неважно.<end>
+
+=>q282_original
+Anything on Tanner? No? Hm.<end>
+
+=>q282
+Есть что-нибудь о Таннере? Нет? Хм.<end>
+
+=>q283_original
+Lenox, that derailed lunatic! We lost a good man because of him, but someone else is going to answer for this. Where was the security? Are we allowing everyone to go where they please around here?<end>
+
+=>q283
+Ленокс, этот поехавший псих! Мы потеряли хорошего человека из-за него, но кто-то ещё ответит за всё это. Где была охрана? Мы позволяем кому попало идти туда, куда ему заблагорассудится?<end>
+
+=>q284_original
+That friend of yours, Dude. He is quite an... unusual character.<end>
+
+=>q284
+Этот ваш друг -- Чувак. Он довольно... примечательный персонаж.<end>
+
+=>a285_original
+Oh, yes. Tell me about it.<end>
+
+=>a285
+О да. С этим не поспоришь.<end>
+
+=>q286_original
+He arrived here not too long after you and I spoke. Can't say he had quite a... wholesome appearance, but he was polite. We... had a bit of an argument over him wanting to pay me in brew, but we sorted that out somehow. However, what I found most baffling was his departure.<end>
+
+=>q286
+Он прибыл сюда вскоре после нашего с вами разговора. Не могу сказать, что его внешний вид... внушал мне доверие, но он был вежлив. Мы... немного поспорили, потому что он сначала хотел заплатить мне самогоном, но в итоге мы каким-то образом договорились. Но что действительно меня озадачило, так это то, как мы расстались.<end>
+
+=>q287_original
+After picking up the package he went inside the storage room. I saw him and yelled to him that is not where the elevator is, but he still went inside. <end>
+
+=>q287
+Забрав товар, он пошёл на склад. Я это заметил и крикнул ему, что лифт в другой стороне, но он всё равно зашёл на склад.<end>
+
+=>q288_original
+Bret and <end>
+
+=>q288
+Подошёл Брет.<end>
+
+=>q289_original
+I checked the storage room, but he wasn't there.<end>
+
+=>q289
+Мы осмотрели складское помещение, но его нигде не было.<end>
+
+=>q290_original
+<end>
+
+=>q290
+<end>
+
+=>a291_original
+He was, uh...<end>
+
+=>a291
+Он просто, э...<end>
+
+=>q292_original
+He was pulling a prank on us. Must've. There is no other exit from that room. Your friend surely is... odd.<end>
+
+=>q292
+Он нас разыгрывал. Вне сомнений. Из того помещения нет других выходов. Ваш друг точно... странный.<end>
+
+=>a293_original
+Uh, yes, prank. Dude's a prankster at heart, yes, ha-ha-ha. Anyway, there was something I wanted to ask you...<end>
+
+=>a293
+Э-э, да, разыгрывал. Чувак -- такой шутник, да, ха-ха-ха. Так вот, я хотел$(#/а) вас спросить...<end>
+
+=>a294_original
+Storage room... I need to check something quickly. Be right back.<end>
+
+=>a294
+Склад... Мне нужно кое-что проверить. Я скоро вернусь.<end>
+
+=>a295_original
+Um...<end>
+
+=>a295
+Эм...<end>
+
+=>a296_original
+Yes, you know...<end>
+
+=>a296
+Да, знаете...<end>
+
+=>a297_original
+Ah, you see...<end>
+
+=>a297
+А, видите ли...<end>
+
+=>a298_original
+Why?<end>
+
+=>a298
+Что?<end>
+
+=>q299_original
+<end>
+
+=>q299
+<end>
+
+=>q300_original
+I heard what happened to Newton. It's... a shame, but Bret told him to be careful, and warned him about psi-beetles. He should've been more careful.<end>
+
+=>q300
+Я слышал, что случилось с Ньютоном. Это... ужасно, но Брет велел ему быть осторожным, и предупреждал о пси-жуках. Он должен был быть осторожнее.<end>
+
+=>q301_original
+I've heard all about Newton. Good work, $(context.player.Name).<end>
+
+=>q301
+Мне уже всё рассказали про Ньютона. Хорошая работа, $(context.player.Name).<end>
+
+=>q302_original
+Forgot something?<end>
+
+=>q302
+Что-то забыли?<end>
+
+=>q303_original
+::You come up to a rangy man with long hair who is cutting open the head of a large, monstrous creature; formerly an untameable beast, it is now but a stiff volunteer to postmortem dissection - to science. And soon enough, the man makes the final incision, after which he pushes his hand through to extract a single long, sharp spine. Greenish, sticky fluid dribbles out of the opening and all over the floor as the man wipes the spine clean before laying it aside, and that is the moment in which he notices you.::
+
+Careful, you don't want to get in contact with its toxin.<end>
+
+=>q303
+::Вы подходите к стройному мужчине с длинными волосами, который вскрывает череп большого уродливого создания -- не так давно неукротимого зверя, а теперь всего лишь неподвижного добровольца для посмертного препарирования в научных целях. Вскоре мужчина делает последний надрез, после чего засовывает руку внутрь и извлекает длинный острый шип. Липкая зелёная жидкость капает из разреза и растекается по полу, пока мужчина вытирает шип, прежде чем отложить его в сторону, и в этот момент он замечает вас.::
+
+Осторожно, действие этого токсина вам не понравится.<end>
+
+=>q304_original
+::He returns to cutting through the creature as he talks to you.::
+
+My name is Quinton. Don't bother introducing yourself, I know who you are. You're $(context.player.Name), and you just got admitted to the station.<end>
+
+=>q304
+::Он разговаривает с вами, не прекращая препарировать существо.::
+
+Меня зовут Куинтон. Не надо представляться, я знаю кто вы. Вы $(context.player.Name), и вас недавно приняли на станцию.<end>
+
+=>q305_original
+I'd shake your hand, but you can see why that wouldn't be a good idea.<end>
+
+=>q305
+Я пожал бы вам руку, но вы видите, почему это не было бы хорошей идеей.<end>
+

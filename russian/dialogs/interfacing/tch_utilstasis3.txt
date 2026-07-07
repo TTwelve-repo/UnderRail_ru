@@ -1,0 +1,90 @@
+﻿=>q1_original
+::Subject Name: B-004
+
+Age: 6
+
+Gender: Male
+
+Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
+
+Vital Status: Deceased::<end>
+
+=>q1
+::Имя объекта: Б-004
+
+Возраст: 6
+
+Пол: Мужской
+
+Примечания: Объект страдает множественными тяжёлыми нарушениями дыхания (подробности под кодом Т-889-Л). Удерживается на жизнеобеспечении и наблюдается до дальнейшего распоряжения.
+
+Состояние здоровья: Умерший::<end>
+
+=>a2_original
+::Exit::<end>
+
+=>a2
+::Выход::<end>
+
+=>q3_original
+::Subject Name: B-004
+
+Age: 6
+
+Gender: Male
+
+Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
+
+Vital Status: Severe::<end>
+
+=>q3
+::Имя объекта: Б-004
+
+Возраст: 6
+
+Пол: Мужской
+
+Примечания: Объект страдает множественными тяжёлыми нарушениями дыхания (подробности под кодом Т-889-Л). Удерживается на жизнеобеспечении и наблюдается до дальнейшего распоряжения.
+
+Состояние здоровья: Тяжёлое::<end>
+
+=>a4_original
+::Disable life support::<end>
+
+=>a4
+::Отключить жизнеобеспечение::<end>
+
+=>q5_original
+::Are you sure you want to disable life support?::<end>
+
+=>q5
+::Вы уверены, что хотите отключить жизнеобеспечение?::<end>
+
+=>a6_original
+::Yes::<end>
+
+=>a6
+::Да::<end>
+
+=>q7_original
+::Life support disabled::<end>
+
+=>q7
+::Жизнеобеспечение отключено::<end>
+
+=>q8_original
+::The moment you turn off life support, the creature inside the glass container opens its eyes and begins to move. Its weak arms move with little coordination as it thrashes around its soon-to-be grave. It watches you with its murky, dark and distressed eyes before it eventually gives up.
+
+Its body goes limp, its head drops forward - its eyes remain open but unable to see.::<end>
+
+=>q8
+::В момент отключения жизнеобеспечения существо внутри стеклянной камеры открывает глаза и начинает двигаться. Его слабые руки неловко шевелятся, и оно отчаянно дёргается в своей будущей могиле. Оно смотрит на вас своими мутными, тёмными, неспокойными глазами, прежде чем наконец сдаётся и умирает.
+
+Его тело обмякло, голова падает вперёд -- его глаза остаются открытыми, но больше не могут видеть.::<end>
+
+=>a9_original
+::No::<end>
+
+=>a9
+::Нет::<end>
+

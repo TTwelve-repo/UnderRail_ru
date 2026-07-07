@@ -1,0 +1,196 @@
+﻿=>q1_original
+Leave.<end>
+
+=>q1
+Уйти.<end>
+
+=>q2_original
+Speak to His Excellency, Harmost Stavros.<end>
+
+=>q2
+Говорите с Его Превосходительством гармостом Ставросом.<end>
+
+=>q3_original
+::Rassophore Prevlic quietly looks at you, not saying a single word. You somehow suspect that his facial expression is just as emotionless as his mask is.::<end>
+
+=>q3
+::Рясофор Превлич спокойно смотрит на вас, не произнося ни слова. Вам почему-то кажется, что выражение его лица так же безэмоционально, как и его маска.::<end>
+
+=>a4_original
+Can I, um, take a look at what you have available, brother?<end>
+
+=>a4
+Могу я, э-э, посмотреть, что есть у вас в наличии, брат?<end>
+
+=>q5_original
+::He nods after a short delay.::<end>
+
+=>q5
+::Он кивает после короткой паузы.::<end>
+
+=>a6_original
+::Barter.::<end>
+
+=>a6
+::Обмен.::<end>
+
+=>a7_original
+Tchort guide you, brother.<end>
+
+=>a7
+Чорт направит вас, брат.<end>
+
+=>a8_original
+::Leave without saying anything.::<end>
+
+=>a8
+::Уйти, ничего не сказав.::<end>
+
+=>q9_original
+::Rassophore Prevlic slowly lifts his right arm and places it on his chest in an effort to greet you, while his left arm remains dangling lifelessly by his side. His face may be invisible to you, but you sense that there is a certain aura of bleakness surrounding him, expressed by his motions and speech, accented by his pendulous arm, and you're certain that it would be deeply reflected in his eyes were they not hidden behind the mask.::
+
+Tchort is evolution. I am Rassophore Prevlic. What can I help you with, $(#brother/sister)?<end>
+
+=>q9
+::Рясофор Превлич медленно поднимает правую руку и кладёт её на грудь в попытке поприветствовать вас, в то время как его левая рука безжизненно болтается сбоку. Хотя его лицо и невидимо для вас, но вы чувствуете, что этого человека окружает некий ореол мрачности, выраженный в подчёркнуто плавных движениях руки и речи, вы уверены, что это же было бы отражено в его глазах, не будь они скрыты за маской.::
+
+Чорт -- это эволюция. Я рясофор Превлич. Чем могу помочь вам, $(#брат/сестра)?<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+What do you have for trade? ::Barter.::<end>
+
+=>a11
+Что у вас есть на продажу? ::Обмен.::<end>
+
+=>a12_original
+I would like to ask you some questions about Cytosine Outpost and the recent Faceless attacks.<end>
+
+=>a12
+Я хотел$(#/а) бы задать вам несколько вопросов о форпосте Цитозин и последних атаках безликих.<end>
+
+=>q13_original
+I... I'm afraid I'd rather not speak of, em, any of the recent events regarding the Faceless or...<end>
+
+=>q13
+Я... я бы предпочёл не говорить о, э-э, недавних событиях, связанных с безликими или...<end>
+
+=>q14_original
+::He shrugs.:: I'm sorry. I'm sure someone else could answer those questions for you.<end>
+
+=>q14
+::Он пожимает плечами.:: Простите. Я уверен, что кто-нибудь другой сможет ответить на эти вопросы.<end>
+
+=>a15_original
+What is wrong with your arm?<end>
+
+=>a15
+Что случилось с вашей рукой?<end>
+
+=>q16_original
+::He gives it a quick look, hesitating to answer. A couple of moments later, he replies.:: This? This... A round went through the inner part of my shoulder during... em, one of the recent attacks. It went through the... brachial plexus - those are, em, nerves supplying the arm - and since then I've been having... difficulties with it.<end>
+
+=>q16
+::Он окидывает вас быстрым взглядом, не решаясь ответить. Пару мгновений спустя он всё же отвечает.:: С этой? Это всё... пуля, попавшая мне в плечо во время... эм, одной из последних атак. Она прошла через... плечевое сплетение -- сквозь нервный узел, отвечающий за руку -- с тех пор у меня возникли... трудности с ней.<end>
+
+=>q17_original
+::His voice trembles.:: I mean... "difficulties" - I can't even feel the useless, vestigial thing, let alone move it. ::He pauses.:: Look at it, it's pathetic! I will never get to use it again, I just know it, even if we *do* survive the onslaught. They'll... ::He begins to hyperventilate.:: They'll come back, $(#brother/sister), em, they'll come back. They'll cull us... They'll finish the job! We will die!<end>
+
+=>q17
+::Его голос дрожит.:: То есть... «трудности» -- я даже не чувствую этот бесполезный рудиментарный отросток, не то что могу пошевелить. ::Он замолкает.:: Посмотрите на неё, не рука -- пародия! Я никогда больше не смогу пользоваться ей, я знаю, даже *если* мы переживём эту бойню. Они будут... ::Он начинает задыхаться.:: Они вернутся, $(#брат/сестра), они вернутся. Они выполят нас... они закончат работу! Мы умрём!<end>
+
+=>a18_original
+::[Persuade]:: Calm down, brother. Everything is going to be alright. Tchort needs you to think straight, and to perform your duty proudly. Get a hold of yourself - you are a rassophore.<end>
+
+=>a18
+::[Убеждение]:: Успокойся, брат. Всё будет хорошо. Чорт нуждается в тебе, в твоей ясной голове и способности выполнять свой долг с честью. Возьми себя в руки, ты же рясофор.<end>
+
+=>q19_original
+::He takes a single deep breath which seems to calm him down.:: You... you are right... Yes, you are right! It's not over yet. My brothers and sisters - some of them in even worse condition - persevere, and so must I!<end>
+
+=>q19
+::Он делает глубокий вдох, который, кажется, немного успокаивает его.:: Вы... вы правы... Да, вы правы! Это ещё не конец. Мои братья и сёстры -- некоторым из них ещё хуже чем мне -- не сдаются, поэтому и я должен!<end>
+
+=>q20_original
+::His voice changes; even though you cannot see under his mask, you are sure that there is a smile beneath it.::
+
+Yes, we have to be strong. Thank you, $(#brother/sister), your... your words mean a lot to me.<end>
+
+=>q20
+::Его голос меняется; даже не видя под маской его лица, вы уверены, что на нём улыбка.::
+
+Да, мы должны быть сильными. Спасибо, $(#брат/сестра), ваши... ваши слова много значат для меня.<end>
+
+=>q21_original
+No, no, no - the Faceless are strong, they will overrun us... They...<end>
+
+=>q21
+Нет, нет, нет, безликие сильны, они захватят нас... они...<end>
+
+=>q22_original
+::He snaps out of it just before losing it completely.:: Calm down... calm down... ah...
+
+Let's... we have to change the subject, $(#brother/sister). Em, need any supplies? Yes?<end>
+
+=>q22
+::Он успокаивается, едва полностью не потеряв контроль над собой.:: Спокойно... Спокойно... ах...
+
+Давайте... нам надо сменить тему, $(#брат/сестра). Эм, вам нужны какие-нибудь припасы? Да?<end>
+
+=>a23_original
+Seems like it. But we are all destined to die at some point, aren't we? So, why not die bravely while trying to preserve Tchort. Isn't that what guides us, Rassophore Prevlic? Isn't that our purpose?<end>
+
+=>a23
+Похоже, что да. Но нам всем суждено когда-то умереть, не так ли? Так почему бы не умереть мужественно, защищая Чорта. Разве это не то, чем мы руководствуемся, рясофор Превлич? Разве не в этом наша цель?<end>
+
+=>q24_original
+::He freezes in an instant and remains motionless until you begin to notice him shiver with fear. He grabs his head with his one good arm and begins weeping. Few moments pass before he manages to say one final word to you.::
+
+Leave...<end>
+
+=>q24
+::Он мгновенно замирает и кажется неподвижным до тех пор, пока вы не замечаете, что он дрожит от страха. Он хватается за голову своей здоровой рукой и начинает плакать. Проходит некоторое время, прежде чем может сказать вам последнее слово.::
+
+Уходите...<end>
+
+=>a25_original
+Yeah... um...<end>
+
+=>a25
+Да... хм...<end>
+
+=>a26_original
+I'll be leaving you. See ya.<end>
+
+=>a26
+Я пойду. Увидимся.<end>
+
+=>a27_original
+Tchort guide you, brother.<end>
+
+=>a27
+Чорт направит вас, брат.<end>
+
+=>q28_original
+Tchort guide you.<end>
+
+=>q28
+Чорт направит вас.<end>
+
+=>a29_original
+See you later, Prevlic.<end>
+
+=>a29
+Увидимся позже, Превлич.<end>
+
+=>q30_original
+Yes, $(#brother/sister)?<end>
+
+=>q30
+Да, $(#брат/сестра)?<end>
+

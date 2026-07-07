@@ -1,0 +1,42 @@
+﻿=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+You're not supposed to be here, $(context.player.Name).<end>
+
+=>q2
+Вам сюда нельзя, $(context.player.Name).<end>
+
+=>q3_original
+Please leave.<end>
+
+=>q3
+Пожалуйста, уходите.<end>
+
+=>q4_original
+Hey, what are you doing here?<end>
+
+=>q4
+Эй, что вы здесь делаете?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+Not now.<end>
+
+=>q6
+Не сейчас.<end>
+
+=>q7_original
+Can't talk now, $(context.player.Name).<end>
+
+=>q7
+Не могу сейчас разговаривать, $(context.player.Name).<end>
+

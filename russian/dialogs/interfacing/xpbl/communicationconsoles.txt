@@ -1,0 +1,409 @@
+﻿=>q1_original
+::LEMCO LC387 - ::<end>
+
+=>q1
+::ЛЕМКО LC387 - ::<end>
+
+=>q2_original
+::Welcome, P. Bridges
+
+::<end>
+
+=>q2
+::Добро пожаловать, Ф. Бриджес
+
+::<end>
+
+=>q3_original
+::Dispatcher Terminal - ::<end>
+
+=>q3
+::Терминал диспетчера - ::<end>
+
+=>q4_original
+::Arch Island Keep
+
+Unable to connect to LIN. Only local data is available.::<end>
+
+=>q4
+::Хранилище Арч-Айленда
+
+Невозможно подключиться к ИСЛ. Доступны только локальные данные.::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::View dispatcher logs::<end>
+
+=>a6
+::Просмотр журналов диспетчера::<end>
+
+=>q7_original
+::No connection. Only local and most recent logs available.
+
+Dispatcher logs:::<end>
+
+=>q7
+::Нет соединения. Доступны только последние локальные журналы.
+
+Журналы диспетчера::<end>
+
+=>a8_original
+::Arch Island Keep - LE 16.10.122::<end>
+
+=>a8
+::Хранилище Арч-Айленда - л. э. 16.10.122::<end>
+
+=>q9_original
+::LE 16.10.122:
+
+Time: 12:34. From: Nexus (K7). To: Keep (E6). Unit: T-033. Cargo Id: 8901733.
+Time: 13:00. From: Keep (E6). To: West Depot (B7). Unit: T-033. Cargo Id: None.
+Time: 13:44. From: Nexus (K7). To: Keep (E6). Unit: T-015. Cargo Id: 9980182.
+Time: 13:50. From: West Depot (B7). To: Keep (E6). Unit: HT-001. Cargo Id: 0287899.
+Time: 14:30. From: Keep (E6). To: Quarry (L5). Unit: HT-001. Cargo Id: None.
+Time: 14:34. From: Keep (E6). To: Nexus (K7). Unit: T-015. Cargo Id: 1903561.
+Time: 18:22. From: Crimson (H7). To: Keep (E6). Unit: P-010. Cargo Id: PASS3.
+Time: 18:31. From: Keep (E6). To: Crimson (H7). Unit: P-010. Cargo Id: PASS3.
+Time: 20:34. From: Quarry (L5). To: Keep (E6). Unit: HT-001. Cargo Id: 7773910.
+Time: 21:32. From: Citadel (G1). To: Keep (E6). Unit: P-011. Cargo Id: PASS1.
+Time: 22:42. From: Keep (E6). To: BSBRF (K11). Unit: P-011. Cargo Id: PASS1.::<end>
+
+=>q9
+::16.10.122 л. э.:
+
+Время: 12:34. Из: Нексус (K7). В: Хранилище (E6). Ед.: T-033. ИД груза: 8901733.
+Время: 13:00. Из: Хранилище (E6). В: Западный склад (B7). Ед.: T-033. ИД груза: Нет.
+Время: 13:44. Из: Нексус (K7). В: Хранилище (E6). Ед.: T-015. ИД груза: 9980182.
+Время: 13:50. Из: Западный склад (B7). В: Хранилище (E6). Ед.: HT-001. ИД груза: 0287899.
+Время: 14:30. Из: Хранилище (E6). В: Карьер (L5). Ед.: HT-001. ИД груза: Нет.
+Время: 14:34. Из: Хранилище (E6). В: Нексус (K7). Ед.: T-015. ИД груза: 1903561.
+Время: 18:22. Из: Багровый луг (H7). В: Хранилище (E6). Ед.: P-010. ИД груза: PASS3.
+Время: 18:31. Из: Хранилище (E6). В: Багровый луг (H7). Ед.: P-010. ИД груза: PASS3.
+Время: 20:34. Из: Карьер (L5). В: Хранилище (E6). Ед.: HT-001. ИД груза: 7773910.
+Время: 21:32. Из: Цитадель (G1). В: Хранилище (E6). Ед.: P-011. ИД груза: PASS1.
+Время: 22:42. Из: Хранилище (E6). В: Исследовательский центр (K11). Ед.: P-011. ИД груза: PASS1.<end>
+
+=>a10_original
+::Import coordinates to your NCD::<end>
+
+=>a10
+::Скопировать координаты в ваш навком::<end>
+
+=>q11_original
+::Importing coordinates...
+
+West Storage Depot - B7
+Arch Island Keep - E6
+Crimson Meadow Horticulture Center - H7
+Nexus of Technology - K7
+Blistering Shores Research Facility - L12
+Viridescent Quarry - L4
+
+Imported successfully.
+::<end>
+
+=>q11
+::Ввод координат...
+
+Западный складской комплекс - B7
+Хранилище Арч-Айленда - E6
+Агроцентр Багровый луг - H7
+Технологии Нексуса - K7
+Исследовательский центр Бурлящих берегов - L12
+Зеленоватый карьер - L4
+
+Ввод завершён.
+::<end>
+
+=>a12_original
+::Obtain Course docking coordinates for listed locations::<end>
+
+=>a12
+::Получить курсовые координаты стыковки для перечисленных объектов::<end>
+
+=>q13_original
+::No coordinates available.::<end>
+
+=>q13
+::Координаты недоступны.::<end>
+
+=>a14_original
+::Back::<end>
+
+=>a14
+::Назад::<end>
+
+=>a15_original
+::Crimson Meadow Horticulture Center - LE 15.10.122::<end>
+
+=>a15
+::Агроцентр Багровый луг - л. э. 15.10.122::<end>
+
+=>q16_original
+::LE 15.10.122:
+
+Time: 10:28. From: Quarry (L5). To: Crimson (H7). Unit T-021. Cargo Id: 2911326.
+Time: 11:12. From: Crimson (H7). To: Citadel (G1).Unit T-021. Cargo Id: None.
+Time: 11:51. From: Crimson (H7). To: Health (I1). P-009. Cargo Id: PASS3.
+Time: 13:22. From: Keep (E6). To: Crimson (H7). HT-004. Cargo Id: 9187332.
+Time: 14:35. From: JSHQ (F12). To: Crimson (H7). P-001. Cargo Id: PASS1.
+Time: 15:09. From: Crimson (H7). To: West Depot (B7). HT-004. Cargo Id: 1787920.
+Time: 17:31. From: Crimson (H7). To: JSHQ (F12). P-001. Cargo Id: PASS1.
+Time: 17:38. From: LEMCO (K3). To: Crimson (H7). HT-002. Cargo Id: 0029321.
+Time: 17:54. From: Nexus (K7). To: Crimson (H7). P-023. Cargo Id: PASS2.
+Time: 18:03. From: Crimson (H7). To: LEMCO (K3). HT-002. Cargo Id: None.
+Time: 19:24. From: Crimson (H7). To: Nexus (K7). P-023. Cargo Id: PASS2.
+Time: 21:21. From: BSBRF (K11). To: Crimson (H7). Unit: T-011. Cargo Id: 2018706.
+Time: 22:19. From: Crimson (H7). To: BSBRF (K11). Unit: T-011. Cargo Id: None.
+Time: 23:23. From: Citadel (G1). To: Crimson (H7). Unit: P-009. Cargo Id: PASS3.::<end>
+
+=>q16
+::15.10.122 л. э.:
+
+Время: 10:28. Из: Карьер (L5). В: Багровый луг (H7). Ед.: T-021. ИД груза: 2911326.
+Время: 11:12. Из: Багровый луг (H7). В: Цитадель (G1). Ед.: T-021. ИД груза: Нет.
+Время: 11:51. Из: Багровый луг (H7). В: Центр здоровья (I1). Ед.: P-009. ИД груза: PASS3.
+Время: 13:22. Из: Хранилище (E6). В: Багровый луг (H7). Ед.: HT-004. ИД груза: 9187332.
+Время: 14:35. Из: ЕЦБ (F12). В: Багровый луг (H7). Ед.: P-001. ИД груза: PASS1.
+Время: 15:09. Из: Багровый луг (H7). В: Западный склад (B7). Ед.: HT-004. ИД груза: 1787920.
+Время: 17:31. Из: Багровый луг (H7). В: ЕЦБ (F12). Ед.: P-001. ИД груза: PASS1.
+Время: 17:38. Из: ЛЕМКО (K3). В: Багровый луг (H7). Ед.: HT-002. ИД груза: 0029321.
+Время: 17:54. Из: Нексус (K7). В: Багровый луг (H7). Ед.: P-023. ИД груза: PASS2.
+Время: 18:03. Из: Багровый луг (H7). В: ЛЕМКО (K3). Ед.: HT-002. ИД груза: Нет.
+Время: 19:24. Из: Багровый луг (H7). В: Нексус (K7). Ед.: P-023. ИД груза: PASS2.
+Время: 21:21. Из: Исследовательский центр (K11). В: Багровый луг (H7). Ед.: T-011. ИД груза: 2018706.
+Время: 22:19. Из: Багровый луг (H7). В: Исследовательский центр (K11). Ед.: T-011. ИД груза: Нет.
+Время: 23:23. Из: Цитадель (G1). В: Багровый луг (H7). Ед.: P-009. ИД груза: PASS3.::<end>
+
+=>a17_original
+::Import coordinates to your NCD::<end>
+
+=>a17
+::Скопировать координаты в ваш навком::<end>
+
+=>q18_original
+::Importing coordinates...
+
+Viridescent Quarry - L4
+Crimson Meadow Horticulture Center - H7
+Lemurian Health Center - I1
+Citadel of Life - G1
+Arch Island Keep - E6
+Joint Security Headquarters - F12
+Lemurian Manufacturing Complex - K3
+Nexus of Technology - K7
+Blistering Shores Research Facility - L12
+
+Importing successful.
+::<end>
+
+=>q18
+::Ввод координат...
+
+Зеленоватый карьер - L4
+Агроцентр Багровый луг - H7
+Центр здоровья лемуриан - I1
+Цитадель жизни - G1
+Хранилище Арч-Айленда - E6
+Единый Центр Безопасности - F12
+Лемурийский производственный комплекс - K3
+Технологии Нексуса - K7
+Исследовательский центр Бурлящих берегов - L12
+
+Ввод завершён.
+::<end>
+
+=>a19_original
+::Obtain Course docking coordinates for listed locations::<end>
+
+=>a19
+::Получить курсовые координаты стыковки для перечисленных объектов::<end>
+
+=>q20_original
+::Obtaining coordinates...::<end>
+
+=>q20
+::Получение координат...::<end>
+
+=>q21_original
+::Joint Security Headquarters - N/A
+Arch Island Keep - Error (Unable to obtain coordinates)
+Abyssal Station Zero Elevators - 020 476 118 263 2115
+Nexus of Technology - Error (Unable to obtain coordinates)
+Blistering Shores Research Facility - N/A
+::<end>
+
+=>q21
+::Единый Центр Безопасности - Н/Д
+Хранилище Арч-Айленда - Ошибка (Не удалось получить координаты)
+Подъёмники станции Зеро - 020 476 118 263 2115
+Технологии Нексуса - Ошибка (Не удалось получить координаты)
+Исследовательский центр Бурлящих берегов - L12::<end>
+
+=>a22_original
+::Import coordinates to NCD::<end>
+
+=>a22
+::Скопировать координаты в ваш навком::<end>
+
+=>q23_original
+::Course coordinates imported successfully.::<end>
+
+=>q23
+::Курсовые координаты введены успешно.::<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>q25_original
+::LE 17.10.122:
+
+Time: 09:02. From:  JSHQ (F12). To: Keep (E6). Unit: ST-004. Cargo Id: SEC1.
+Time: 09:02. From:  JSHQ (F12). To: Keep (E6). Unit: HT-002. Cargo Id: 2298148.
+Time: 09:04. From:  JSHQ (F12). To: Keep (E6). Unit: ST-001. Cargo Id: SEC1.
+Time: 09:07. From:  JSHQ (F12). To: Keep (E6). Unit: ST-003. Cargo Id: SEC1.
+Time: 09:07. From:  JSHQ (F12). To: Keep (E6). Unit: ST-005. Cargo Id: SEC1.
+Time: 09:08. From:  JSHQ (F12). To: Keep (E6). Unit: SC-010. Cargo Id: SEC1.
+Time: 09:09. From:  JSHQ (F12). To: Keep (E6). Unit: SC-004. Cargo Id: SEC1.
+Time: 09:11. From:  JSHQ (F12). To: Keep (E6). Unit: SC-007. Cargo Id: SEC1.
+Time: 09:22. From:  JSHQ (F12). To: AbyssE (L2). Unit: SP-001. Cargo Id: ACoNR.
+Time: 09:47. From:  Nexus (K7). To: JSHQ (F12). Unit: P-010. Cargo Id: PASS1.
+Time: 10:22. From:  LEMCO (K3). To: JSHQ (F12). Unit: P-020. Cargo Id: PASS1.
+Time: 10:24. From:  LEMCO (K3). To: JSHQ (F12). Unit: P-006. Cargo Id: PASS2.
+Time: 10:33. From:  BSBRF (K11). To: JSHQ (F12). Unit: T-017. Cargo Id: 6608310.::<end>
+
+=>q25
+::17.10.122 л. э.:
+
+Время: 09:02. Из:  ЕЦБ (F12). В: Хранилище (E6). Ед.: ST-004. ИД груза: SEC1.
+Время: 09:02. Из:  ЕЦБ (F12). В: Хранилище (E6). Ед.: HT-002. ИД груза: 2298148.
+Время: 09:04. Из:  ЕЦБ (F12). В: Хранилище (E6). Ед.: ST-001. ИД груза: SEC1.
+Время: 09:07. Из:  ЕЦБ (F12). В: Хранилище (E6). Ед.: ST-003. ИД груза: SEC1.
+Время: 09:07. Из:  ЕЦБ (F12). В: Хранилище (E6). Ед.: ST-005. ИД груза: SEC1.
+Время: 09:08. Из:  ЕЦБ (F12). В: Хранилище (E6). Ед.: SC-010. ИД груза: SEC1.
+Время: 09:09. Из:  ЕЦБ (F12). В: Хранилище (E6). Ед.: SC-004. ИД груза: SEC1.
+Время: 09:11. Из:  ЕЦБ (F12). В: Хранилище (E6). Ед.: SC-007. ИД груза: SEC1.
+Время: 09:22. Из:  ЕЦБ (F12). В: Лифт Зеро (L2). Ед.: SP-001. ИД груза: АКоНР.
+Время: 09:47. Из:  Нексус (K7). В: ЕЦБ (F12). Ед.: P-010. ИД груза: PASS1.
+Время: 10:22. Из:  ЛЕМКО (K3). В: ЕЦБ (F12). Ед.: P-020. ИД груза: PASS1.
+Время: 10:24. Из:  ЛЕМКО (K3). В: ЕЦБ (F12). Ед.: P-006. ИД груза: PASS2.
+Время: 10:33. Из:  Исследовательский центр (K11). В: ЕЦБ (F12). Ед.: T-017. ИД груза: 6608310.::<end>
+
+=>a26_original
+::Import coordinates to your NCD::<end>
+
+=>a26
+::Скопировать координаты в ваш навком::<end>
+
+=>q27_original
+::Importing coordinates...
+
+Joint Security Headquarters - F12
+Arch Island Keep - E6
+Abyssal Station Zero Elevators - L2
+Nexus of Technology - K7
+Lemurian Manufacturing Complex - K3
+Blistering Shores Research Facility - L12
+
+Importing successful.
+::<end>
+
+=>q27
+::Ввод координат...
+
+Единый Центр Безопасности - F12
+Хранилище Арч-Айленда - E6
+Подъёмники станции Зеро - L2
+Технологии Нексуса - K7
+Лемурийский производственный комплекс - K3
+Исследовательский центр Бурлящих берегов - L12
+
+Ввод завершён.
+::<end>
+
+=>a28_original
+::Obtain Course docking coordinates for listed locations::<end>
+
+=>a28
+::Получить курсовые координаты стыковки для перечисленных объектов::<end>
+
+=>a29_original
+::Write the coordinates down manually::<end>
+
+=>a29
+::Записать координаты вручную::<end>
+
+=>q30_original
+::You write down the Course docking coordinates.::<end>
+
+=>q30
+::Вы записываете курсовые координаты стыковки.::<end>
+
+=>a31_original
+::Back::<end>
+
+=>a31
+::Назад::<end>
+
+=>q32_original
+::Unknown error.::<end>
+
+=>q32
+::Неизвестная ошибка.::<end>
+
+=>a33_original
+::Joint Security Headquarters - LE 17.10.122::<end>
+
+=>a33
+::Единый Центр Безопасности - л. э. 17.10.122::<end>
+
+=>a34_original
+::Back.::<end>
+
+=>a34
+::Назад.::<end>
+
+=>a35_original
+::Exit::<end>
+
+=>a35
+::Выход::<end>
+
+=>q36_original
+::Crimson Meadow Horticulture Center
+
+Unable to connect to LIN. Only local data is available.::<end>
+
+=>q36
+::Агроцентр Багровый луг
+
+Невозможно подключиться к ИСЛ. Доступны только локальные данные.::<end>
+
+=>q37_original
+::Joint Security Headquarters
+
+Unable to connect to LIN. Only local data is available.::<end>
+
+=>q37
+::Единый Центр Безопасности
+
+Невозможно подключиться к ИСЛ. Доступны только локальные данные.::<end>
+
+=>q38_original
+::Welcome, guest
+
+::<end>
+
+=>q38
+::Добро пожаловать, гость
+
+::<end>
+

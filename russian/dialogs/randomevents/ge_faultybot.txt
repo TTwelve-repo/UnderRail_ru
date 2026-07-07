@@ -1,0 +1,202 @@
+﻿=>q1_original
+::As before, you topple the bot on its back and take a look at its insides.::<end>
+
+=>q1
+::Вы вновь опрокидываете робота на спину и заглядываете внутрь корпуса.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Examine the hardware.::<end>
+
+=>a3
+::Осмотреть его механизм.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+::[Mechanics] Since the bot did go around you when you stood in its path, you suspect that its sensors are working at least somewhat well, so you turn your attention to the servo-pneumatic system which controls the bot's motion. After spending some time inspecting various components, you find that a few of the pneumatic valves aren't working as they should, thus causing the servomotors to run asynchronously and hinder the bot's movement.::<end>
+
+=>q5
+::[Механика] Поскольку робот всё-таки обошёл вас, когда вы встали у него на пути, вы решаете, что его сенсоры, по крайней мере, в удовлетворительном состоянии, так что вы обращаете внимание на сервопневматическую систему, которая управляет его движением. Проведя некоторое время за осмотром компонентов, вы обнаруживаете, что некоторые из пневматических клапанов неисправны, что вызывает рассинхронизацию сервоприводов и приводит к нарушению движения робота.::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+::[Electronics] Meanwhile, you spot what appears to be a high-frequency energy shield emitter. This emitter itself is specifically built for the bot's body shape, size, power source as well as specific means of control, so it cannot be simply removed and used as a normal shield would without some heavy modifications. However, you might be able to remove the quality high-frequency modulator, which can be reused later for a different energy shield emitter.::<end>
+
+=>q7
+::[Электроника] Между тем вы замечаете нечто, похожее на высокочастотный модулятор щита. Сам излучатель разработан специально под корпус, размер, источник питания и управление робота, так что его не удастся просто извлечь и использовать как обычный щит без значительной модификации. Однако вам, возможно, удалось бы снять высокочастотный модулятор, и его потом можно было бы использовать в другом излучателе.::<end>
+
+=>q8_original
+::You take a look around the interior in hopes you will spot something else of interest, but you find nothing.::<end>
+
+=>q8
+::Вы осматриваете внутренности в надежде найти ещё что-нибудь интересное, но ничего не находите.::<end>
+
+=>q9_original
+::You stare at the complex machinery, mostly focusing on what appears to be some kind of servomechanism, but since you know so little about it you aren't able to find a cause for this bot's strange walking pattern.::<end>
+
+=>q9
+::Вы разглядываете сложную машину, обращая особенное внимание на ту её часть, которая, похоже, представляет собой какой-то сервомеханизм, но, поскольку вы слишком мало о нём знаете, вам не удаётся найти причину странного поведения робота.::<end>
+
+=>a10_original
+::[Mechanics] Repair the faulty pneumatic valves.::<end>
+
+=>a10
+::[Механика] Починить неисправные пневматические клапаны.::<end>
+
+=>q11_original
+::Fortunately, you do not need to completely replace the faulty valves, as you are able to repair them on the spot. Already you notice how the bots legs - still flailing about - now seem to be flailing a lot more synchronously. Hopefully it will now be able to walk in a straight line.::<end>
+
+=>q11
+::К счастью, полная замена неисправных клапанов не потребуется -- вам удаётся починить их на месте. Вы тут же замечаете, как ноги робота, до этого беспорядочно болтавшиеся, теперь болтаются намного более синхронизировано. Вы надеетесь, что теперь он будет способен ходить по прямой.::<end>
+
+=>q12_original
+::While the valves seemed like a relatively simple fix, now that you look at it you realize that you will not be able to repair them on the spot. Rather, you will need to acquire the replacement valves for this particular servopneumatic system, and that is something you don't remember ever seeing available anywhere.::<end>
+
+=>q12
+::Хотя поначалу неисправность клапанов не выглядела серьёзной, взглянув поближе, вы понимаете, что не сможете починить их сейчас. Похоже, вам пришлось бы найти на замену клапаны для этой конкретной сервопневматической системы, а таких вы раньше нигде в продаже не видели.::<end>
+
+=>a13_original
+::[Electronics] Remove the high frequency shield modulator.::<end>
+
+=>a13
+::[Электроника] Снять высокочастотный модулятор щита.::<end>
+
+=>q14_original
+::You carefully disconnect the bot's shield emitter from its power supply and successfully remove the modulator.::<end>
+
+=>q14
+::Вы осторожно отключаете излучатель щита робота от источника питания и успешно вынимаете модулятор.::<end>
+
+=>q15_original
+::Fortunately, the bot does not react to you fiddling with its shield emitter.::<end>
+
+=>q15
+::К счастью, робот никак не реагирует на ваше ковыряние в его излучателе щита.::<end>
+
+=>q16_original
+::As you try to remove the modulator a spark and a puff of smoke appear before your eyes. The matching smell reaches your nose quickly, and you lift your head up and observe the now-useless modulator. You thought removing all the cables would be enough to safely remove the component, but the result conclusively disproved your hastily-conceived hypothesis, it seems.::<end>
+
+=>q16
+::Когда вы пытаетесь извлечь модулятор, проскакивает искра и облачко дыма поднимается перед вашими глазами. Вы также чувствуете характерный запах и поднимаете голову, чтобы осмотреть теперь бесполезный модулятор. Вы думали, что достаточно отключить все кабели, чтобы его можно было извлечь безопасно, но похоже, что практика показала, насколько сильно вы ошибались.::<end>
+
+=>a17_original
+::Close the panel and let the bot go.::<end>
+
+=>a17
+::Закрыть панель и отпустить робота.::<end>
+
+=>q18_original
+::You close the panel and stand up from the bot. It gets back onto its legs surprisingly nimbly and walks away from you in a straight line as if nothing ever happened.::<end>
+
+=>q18
+::Вы закрываете панель и поднимаетесь с колен. Робот с удивительной ловкостью переворачивается на ноги и уверенно уходит прочь по прямой, как ни в чём не бывало.::<end>
+
+=>q19_original
+::You close the panel and stand up from the bot. It gets back onto its legs surprisingly nimbly and returns to its circular motion.::<end>
+
+=>q19
+::Вы закрываете панель и поднимаетесь с колен. Робот с удивительной ловкостью переворачивается на ноги и возобновляет кружение.::<end>
+
+=>q20_original
+::You see a lone plasma sentry walking in circles. It does not appear to be hostile.::<end>
+
+=>q20
+::Вы видите одинокого плазменного стража, который шагает кругами. Похоже, что он неагрессивен.::<end>
+
+=>a21_original
+::Approach and examine it.::<end>
+
+=>a21
+::Подойти и осмотреть его.::<end>
+
+=>q22_original
+::However, that appears to be more difficult than you thought initially. 
+
+You stand in front of the bot: It circumvents you but still manages to step on your foot.
+
+You grab it from behind by its two laser cannons: It drags you along with it. Slowly.
+
+You grab it by its two hind legs: The same as previously, with the added benefit of you looking more idiotic in this position.::<end>
+
+=>q22
+::Однако это оказывается сложнее, чем вы изначально предполагали.
+
+Вы встаёте на пути у робота -- он обходит вас, но всё же умудряется наступить вам на ногу.
+
+Вы держите его сзади за корпус спаренной лазерной установки -- он тащит вас за собой. Медленно.
+
+Вы хватаете его за задние ноги -- с тем же результатом, только теперь вы ещё и выглядите как $(#круглый дурак/набитая дура).::<end>
+
+=>q23_original
+::Mildly frustrated, you release your hold and grab the bot's upper half from behind and topple it toward you. On its back it lies now, its legs aimed forward and walking on nothing but air, and this is the position which is most suitable for you to examine its cybernetic insides.::<end>
+
+=>q23
+::С некоторым раздражением вы отпускаете робота, хватаете его за верхнюю заднюю часть и опрокидываете на себя. Теперь он лежит на спине, его ноги направлены вперёд и перебирают воздух. Такое положение лучше всего подходит, чтобы осмотреть его кибернетические внутренности.::<end>
+
+=>q24_original
+::You sit on the bot so it doesn't spring back onto its pointy feet, situating your rear somewhat uncomfortably between the two laser guns and onto a flat metal plate. From here, you are staring at a panel that seems secured by a few rusty screws; being this close you also notice how the exterior has been eaten away by corrosion so much that you could probably make all the screws fall out with one well-aimed kick.::<end>
+
+=>q24
+::Вы усаживаете робота так, чтобы он не вскочил снова на свои заострённые ноги, несколько неудобно садитесь сами между двумя лазерными пушками на плоскую металлическую пластину. Отсюда вам хороша видна панель, которая закреплена, судя по всему, несколькими ржавыми винтами. С такого близкого расстояния вы также замечаете, что его внутренности настолько проржавели, что вы, вероятно, смогли бы вышибить все винты одним хорошим пинком.::<end>
+
+=>a25_original
+::Open the panel.::<end>
+
+=>a25
+::Открыть панель.::<end>
+
+=>q26_original
+::Some yanking is all it took for you to separate the panel from the body. The screws either break or pop out, and as soon as you move the panel, warm, stuffy air begins exuding from inside. Dust, cobwebs and some thick grimy matter cover the interior, but that should by no means impede your tinkering.::<end>
+
+=>q26
+::Потребовалось лишь немного усилий, чтобы отделить панель от корпуса. Винты ломаются и выскакивают, и как только вы снимаете панель, поток тёплого и душного воздуха вырывается изнутри. Пыль, паутина и какое-то чёрное смолистое вещество покрывают там всё, но это не должно помешать вашей работе.::<end>
+
+=>a27_original
+::Kick the bot.::<end>
+
+=>a27
+::Пнуть робота.::<end>
+
+=>q28_original
+::From your sitting position you slam the bot with your mighty boot and - only a few of the screws pop out of their holes. However, the bot doesn't seem to enjoy what you did. One hot plasma ball leaves the large cannon - fortunately pointed away from your flesh; simultaneously, a light show erupts all around you, and the rapidly heating barrels by your sides force you to disengage. As you step off, the bot gets back onto its legs with rather surprising nimbleness. 
+
+Then, it acquires its target.::<end>
+
+=>q28
+::Из вашего сидячего положения вы хорошенько прикладываете робота своим могучим пинком, но лишь несколько винтов выскакивают из своих гнёзд. Однако не похоже, чтобы ему понравилось такое обращение. Шар раскалённой плазмы вылетает из дула главного орудия -- к счастью, направленного не в сторону вашей мягкой плоти. Одновременно целое лазерное шоу разворачивается вокруг, и быстро раскаляющиеся стволы пушек по бокам от вас заставляют вас отскочить. Стоит вам спрыгнуть с него, робот с удивительной ловкостью переворачивается на ноги.
+
+Затем он захватывает цель.::<end>
+
+=>a29_original
+::Fight!::<end>
+
+=>a29
+::Бой!::<end>
+
+=>a30_original
+::Leave it.::<end>
+
+=>a30
+::Оставить его в покое.::<end>
+
+=>q31_original
+::The bot is still walking in circles.::<end>
+
+=>q31
+::Робот по-прежнему шагает кругами.::<end>
+

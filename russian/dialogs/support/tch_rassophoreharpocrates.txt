@@ -1,0 +1,276 @@
+﻿=>q1_original
+DEVOLVED FACELESS!<end>
+
+=>q1
+БЕЗЛИКИЕ ДЕГЕНЕРАТЫ!<end>
+
+=>q2_original
+::The rassophore guard motions you to stop.::
+
+Stop, $(#brother/sister). The area behind us is blocked off due to earthquake damage.<end>
+
+=>q2
+::Охранник-рясофор останавливает вас.::
+
+Остановитесь, $(#брат/сестра). Этот проход закрыт из-за повреждений, нанесённых землетрясением.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+How much damage did the earthquake do?<end>
+
+=>a4
+Какой ущерб нанесло землетрясение?<end>
+
+=>q5_original
+Well, before the earthquake struck there was only a small room behind the door at the end of the corridor. Now, the wall fell down and revealed an opening into an abandoned station. It is all ruined; nothing of use there.<end>
+
+=>q5
+Ну, до землетрясения здесь была только маленькая комната за дверью в конце коридора. Теперь стена упала, и открылся проход на заброшенную станцию. Там всё в руинах, ничего полезного.<end>
+
+=>q6_original
+We've locked the door to keep someone from going there by accident... but it also serves as an obstacle should something try to come to us.<end>
+
+=>q6
+Мы закрыли дверь, чтобы туда никто не забрёл... ну и на случай, если оттуда что-то вылезет.<end>
+
+=>a7_original
+Do you really think that a locked door will prevent something from getting in?<end>
+
+=>a7
+Вы думаете, что запертая дверь помешает чему-нибудь пробиться внутрь?<end>
+
+=>q8_original
+By the Tchort, no... But slow down enough for us to summon reinforcements? Yes.<end>
+
+=>q8
+Конечно нет... но она задержит его достаточно, чтобы мы успели вызвать подкрепление.<end>
+
+=>q9_original
+In any case, we are ready and alert. Also, we are in a lot better position here, I believe, than our rassophore colleagues guarding the West Wing entrance. ::He laughs.::<end>
+
+=>q9
+В любом случае, мы готовы и начеку. Кроме того, у нас тут пост получше, я думаю, чем у наших коллег-рясофоров, охраняющих вход в западное крыло. ::Он смеётся.::<end>
+
+=>q10_original
+I shouldn't be laughing.<end>
+
+=>q10
+Мне не следовало смеяться.<end>
+
+=>a11_original
+Thanks, that is all I needed to know. I'll be on my way then.<end>
+
+=>a11
+Спасибо, это всё, что мне было нужно. Я пойду по своим делам.<end>
+
+=>q12_original
+Tchort guide you.<end>
+
+=>q12
+Чорт направит вас.<end>
+
+=>a13_original
+I am here on Mediant Samuel's orders to investigate Utility Station 7.<end>
+
+=>a13
+Я здесь по приказу медианта Самюэля, чтобы осмотреть Служебную станцию 7.<end>
+
+=>q14_original
+Mediant? Well, if Mediant Samuel ordered it then I will give you the key that will...<end>
+
+=>q14
+Медианта? Ну раз медиант Самюэль приказал, я дам вам ключ от...<end>
+
+=>q15_original
+::His focus shifts from the unfinished sentence to patting all his pockets in a vain attempt to find the key he is supposed to give you. You know what happened to the key, yes you do, but you choose to remain silent. The poor man excavates his whole robe before turning to the floor, but it too doesn't provide the key. He seaches for a full minute before eventually giving up.::
+
+Magnificent Tchort! I... I am sorry, but I can't find it... somehow. I... I'm sorry. ::He shrugs.::<end>
+
+=>q15
+::Он не заканчивает фразы и начинает копаться по карманам в поисках ключа. Вам, конечно же, известно, куда делся ключ, но вы предпочитаете промолчать. Бедняга выворачивает робу на изнанку и начинает осматривать пол под ногами, но так и не находит ключа. Минуту спустя он наконец сдаётся.::
+
+Чорт великолепный! Я... я сожалею, но я не могу его найти... почему-то. Я... мне очень жаль. ::Он пожимает плечами.::<end>
+
+=>a16_original
+You are an incompetent moron. I'll find a way to get through the door. Move aside!<end>
+
+=>a16
+Вы некомпетентный идиот. Я сам$(#/а) открою эту дверь. С дороги!<end>
+
+=>q17_original
+::He bows his head down and keeps silent.::<end>
+
+=>q17
+::Он склоняет голову и молчит.::<end>
+
+=>a18_original
+That's okay, brother, it could have happened to anyone. I'll get through those doors without a problem. Trust me.<end>
+
+=>a18
+Ничего страшного, брат, это могло случиться с кем угодно. Эта дверь не станет для меня препятствием, поверьте.<end>
+
+=>q19_original
+I am really sorry about the inconvenience... I just don't know what happened to it. I am very sorry, again. Tchort guide you.<end>
+
+=>q19
+Я очень извиняюсь за причинённые неудобства... я просто не знаю, куда он делся. Я ещё раз очень извиняюсь. Чорт направит вас.<end>
+
+=>q20_original
+In that case, $(#brother/sister), take this key. ::He hands you a key.:: It unlocks the door at the end of the corridor.<end>
+
+=>q20
+В таком случае, $(#брат/сестра), возьмите этот ключ. ::Он вручает вам ключ.:: Он отпирает дверь в конце коридора.<end>
+
+=>q21_original
+The utility station should be to the left from where you enter the station, in the far left corner. Good luck and Tchort guide you.<end>
+
+=>q21
+Служебная станция должна быть налево от входа, в дальнем углу. Удачи, и Чорт направит вас.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>a23_original
+Thanks, I might just need it.<end>
+
+=>a23
+Спасибо, удача мне может пригодиться.<end>
+
+=>a24_original
+Thank you, brother. Tchort guide you too.<end>
+
+=>a24
+Спасибо, брат. Чорт направит вас тоже.<end>
+
+=>a25_original
+I need to pass in order to perform *important* scientific work for Principal Investigator Schteff.<end>
+
+=>a25
+Мне нужно пройти туда, чтобы провести *важную* научную работу для научного руководителя Штеффа.<end>
+
+=>q26_original
+Principal Investigator, you say? Hmmm... alright, $(#brother/sister), in that case I will give you...<end>
+
+=>q26
+Для научного руководителя, говорите? Хм-м-м... ладно, $(#брат/сестра), в таком случае я дам вам...<end>
+
+=>a27_original
+I am looking for a rassophore called Nevil. Have you seen him recently?<end>
+
+=>a27
+Я ищу рясофора по имени Невил. Вы его не видели?<end>
+
+=>q28_original
+Nevil, you say? Ouch! I heard he's in big trouble; Mediant seemed pretty mad when he heard that Nevil hasn't reported, that's for sure. 
+
+However, we saw him for a brief time right before he went missing.<end>
+
+=>q28
+Невил, говорите? Ой, я слышал, что он в большой беде; медиант был очень зол, когда услышал, что Невил не вернулся. 
+
+Однако мы видели его незадолго до исчезновения.<end>
+
+=>a29_original
+Tell me all about it.<end>
+
+=>a29
+Расскажите мне всё, что видели.<end>
+
+=>q30_original
+He passed by, greeted us, we had a short chat, then he went back up towards the library. That's the last time we saw him, $(#brother/sister).<end>
+
+=>q30
+Он прошёл мимо, поздоровался с нами, мы поболтали, потом он ушёл назад в сторону библиотеки. Больше мы его не видели, $(#брат/сестра).<end>
+
+=>a31_original
+You never left your post, even for a moment?<end>
+
+=>a31
+И с тех пор вы не оставляли свой пост, даже на минуту?<end>
+
+=>q32_original
+No, we did n-- I mean, actually... there was an emergency down in the utility section...<end>
+
+=>q32
+Нет, мы не... Хотя, знаете... произошла ведь авария в служебном помещении...<end>
+
+=>a33_original
+What kind of an emergency?<end>
+
+=>a33
+Какая авария?<end>
+
+=>q34_original
+One of the pipes ruptured. There was a gas leak which, in turn, caused a small fire. Both of us, Benedict and I, ran down to help put the fire out. Luckily, no one was hurt. We were there for, I'd say fifteen minutes or so, give or take.<end>
+
+=>q34
+Трубу разорвало. Была утечка газа и небольшой пожар. Мы с Бенедиктом побежали вниз, чтобы помочь потушить огонь. К счастью, никто не пострадал. Нас не было, я бы сказал, минут пятнадцать или около того.<end>
+
+=>a35_original
+Hmmm... I'll continue looking for him. Tchort guide you.<end>
+
+=>a35
+Хм-м-м... я продолжу поиски. Чорт направит вас.<end>
+
+=>a36_original
+Interesting... I'll get back to work now. So long.<end>
+
+=>a36
+Любопытно... ну, у меня дела. Пока.<end>
+
+=>a37_original
+I see... before I get back to my search, I had a few more questions for you.<end>
+
+=>a37
+Понятно... прежде чем я вернусь к поискам, позвольте задать вам несколько вопросов.<end>
+
+=>q38_original
+Yes?<end>
+
+=>q38
+Да?<end>
+
+=>a39_original
+I believe Mediant Samuel mentioned that someone saw him a few hours ago. He must have been referring to you.<end>
+
+=>a39
+Кажется, медиант Самюэль упомянул, что кто-то видел его несколько часов назад. Наверное, он имел в виду вас.<end>
+
+=>q40_original
+Yes. <end>
+
+=>q40
+Да.<end>
+
+=>a41_original
+See you later, brother. Tchort guide you.<end>
+
+=>a41
+Увидимся позже, брат. Чорт направит вас.<end>
+
+=>a42_original
+I have to go. Goodbye.<end>
+
+=>a42
+Мне нужно идти. До свидания.<end>
+
+=>q43_original
+These tremors just won't stop, huh, $(#brother/sister)?<end>
+
+=>q43
+Эти толчки всё никак не прекратятся, да, $(#брат/сестра)?<end>
+
+=>q44_original
+$(#Brother/Sister)?<end>
+
+=>q44
+$(#Брат/Сестра)?<end>
+

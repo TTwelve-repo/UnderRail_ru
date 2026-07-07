@@ -1,0 +1,81 @@
+﻿=>q1_original
+::The crane is fully operational. It can be used for some heavy lifting.::<end>
+
+=>q1
+::Кран в рабочем состоянии. Его можно использовать для подъёма тяжестей.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Descend into the cave using the chain.::<end>
+
+=>a3
+::Спуститься по цепи в пещеру.::<end>
+
+=>a4_original
+::Climb up the chain.::<end>
+
+=>a4
+::Подняться по цепи.::<end>
+
+=>a5_original
+::Leave.::<end>
+
+=>a5
+::Уйти::<end>
+
+=>q6_original
+::Before you lies an abandoned crane with a visibly torn chain. Other than that, the crane itself seems to be in decent shape.  ::
+
+<end>
+
+=>q6
+::Перед вами заброшенный кран с заметно изношенной цепью. Но в остальном, он, кажется, в приличном состоянии. ::
+<end>
+
+=>q7_original
+::Tools and spare parts used for the crane's maintenance are sitting nearby.::<end>
+
+=>q7
+::Рядом лежат инструменты и запчасти для обслуживания крана.::<end>
+
+=>a8_original
+::[Mechanics] Attempt to repair the chain.::<end>
+
+=>a8
+::[Механика] Попытаться отремонтировать цепь.::<end>
+
+=>q9_original
+::Browsing the available toolkit, you quickly pick out a spare chain and an advanced soldering tool.::
+
+<end>
+
+=>q9
+::Осмотрев доступный набор инструментов, вы сразу же выбираете запасную цепь и продвинутый паяльник.::
+<end>
+
+=>q10_original
+::Applying your knowledge in mechanics, using the soldering tool, you manage to sucessfully repair the chain. Although not ideal, the new chain you've created, according to your estimation, should be able to easily handle your own weight. ::<end>
+
+=>q10
+::Применяя свои познания в механике, вы с помощью паяльника успешно ремонтируете цепь, пусть и не идеально. Но по вашей оценке, новая цепь должна с лёгкостью выдерживать ваш собственный вес. ::<end>
+
+=>q11_original
+::Despite giving your best effort to repair the chain, you were unable to do so.::<end>
+
+=>q11
+::Несмотря на все ваши усилия по ремонту цепи, вам так и не удаётся этого сделать.::<end>
+
+=>q12_original
+::The crane's chain is visibly damaged, hence making it unusable.::
+
+<end>
+
+=>q12
+::Цепь крана заметно повреждена, из-за чего им невозможно воспользоваться.::
+<end>
+

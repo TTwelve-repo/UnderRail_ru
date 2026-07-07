@@ -1,0 +1,325 @@
+﻿=>q1_original
+Look, uhm, leave me be, aight?<end>
+
+=>q1
+Слушай, м-м-м, отстань, ладно?<end>
+
+=>q2_original
+Uhm, good luck I guess.<end>
+
+=>q2
+М-м-м, удачи, наверное.<end>
+
+=>q3_original
+::As you come closer, you gaze upon a visibly nervous person. His clothing is dirty and wrinkly, most notably his goggles, which are damaged to the point of making them a clear obstruction to the wearer. 
+
+Once he notices you, he lifts them up to reveal his bloodshot eyes.::
+
+<end>
+
+=>q3
+::Подойдя ближе, вы замечаете, что этот человек явно на нервах. Его одежда помята и запачкана, особенно выделяются очки, заношенные до такой степени, что становятся явной помехой для владельца.
+
+Заметив вас, он приподнимает их, открывая налитые кровью глаза.::
+
+<end>
+
+=>q4_original
+Hey, uhm. Come 'ere, I've got a lil' challenge for ya. ::He speaks with quavering voice.::<end>
+
+=>q4
+Эй, м-м-м. Подойди, у меня для тебя есть небольшое испытание. ::Его голос заметно дрожит.::<end>
+
+=>a5_original
+Okay, let me hear it.<end>
+
+=>a5
+Хорошо, рассказывай.<end>
+
+=>q6_original
+I'm Noz and, uhm, I was tryna get into the storeroom down the hallway, ya know.<end>
+
+=>q6
+Зовут меня Ноз и, эм, я, ну знаешь, пытался попасть в кладовую дальше по коридору.<end>
+
+=>a7_original
+What has prevented you?<end>
+
+=>a7
+Что же тебе помешало?<end>
+
+=>q8_original
+Ya see, I, uhm, I already have the keycard to get in there 'n' all, but when I was gettin' close I heard uhm-- ::His left hand suddenly twitches.:: a crawler, a cursed crawler in there.<end>
+
+=>q8
+Понимаешь, я, м-м-м, у меня уже есть ключ-карта для доступа туда и всё такое, но только я подошёл поближе, как услышал, хм-м... ::Его левая рука внезапно дёргается.:: краулера, там внутри чёртов краулер.<end>
+
+=>a9_original
+So instead you want *me* to get into that storeroom?<end>
+
+=>a9
+Так ты хочешь, чтобы *я* сходил$(#/а) в эту кладовую?<end>
+
+=>q10_original
+Uhm, I guess challenge wasn't the right word for the lil' trouble we've got here. ::He rubs his eyes.:: <end>
+
+=>q10
+Хм, пожалуй, испытание - не самое подходящее слово для этой небольшой проблемки. ::Он трёт глаза.::<end>
+
+=>q11_original
+Look, I'll give you this keycard and you get in there, grab all ya want and, uhm, promise to leave something in there for me, aight? ::He scratches his left eyebrow.::<end>
+
+=>q11
+Слушай, я дам тебе ключ-карту, а ты войдёшь туда и возьмёшь всё, что пожелаешь, но, хм-м, пообещай, что оставишь и мне что-нибудь, ладно? ::Он почёсывает левую бровь.::<end>
+
+=>a12_original
+Alright, sounds good. I'll hit you up when I'm done.<end>
+
+=>a12
+Ладно, звучит неплохо. Я сообщу тебе, как закончу.<end>
+
+=>q13_original
+Uhm, give me a, uhm, second I was sure I had it on me just a, uhh, moment ago. ::After initially reaching for his right pocket, he frantically starts searching through all of his pockets, trying to find the keycard.::
+<end>
+
+=>q13
+Дай-ка мне, хм-м, секундочку, я уверен, что он только что был при мне. ::Проверив сначала правый карман, он лихорадочно принимается рыться во всех по очереди, пытаясь отыскать ключ-карту.::<end>
+
+=>q14_original
+::His chaotic search turns into a sudden realization after a few moments.::
+
+Raaah! You stole it from me! Time to die!<end>
+
+=>q14
+::Через пару мгновений его сумбурные поиски прерывает внезапное осознание.::
+
+А-а-а! Это ты стащил$(#/а) его у меня! За это ты сдохнешь!<end>
+
+=>a15_original
+::Fight.::<end>
+
+=>a15
+::Бой.::<end>
+
+=>q16_original
+'Ere you go. ::Hands you over the keycard.::<end>
+
+=>q16
+Держи. ::Передаёт вам ключ-карту.::<end>
+
+=>a17_original
+::[Intelligence]:: Why are you still here if those crawlers are as fearsome as you say? Shouldn't you be running scared?<end>
+
+=>a17
+::[Интеллект]:: А чего ж ты всё ещё здесь, раз эти краулеры такие страшные, как ты говоришь? Разве ты не должен был убежать в страхе?<end>
+
+=>q18_original
+I-I, umm, uhm, I, ... ::His shaking hands move slowly towards his waist.::<end>
+
+=>q18
+Я... я, м-м-м, хм... я... ::Трясущимися руками он медленно тянется к поясу.::<end>
+
+=>a19_original
+Listen here, I'll be doing things on my own now, get it?<end>
+
+=>a19
+Слушай сюда, теперь я всё сделаю по-своему, понял?<end>
+
+=>q20_original
+Whatever. <end>
+
+=>q20
+Как скажешь.<end>
+
+=>a21_original
+The jig is up - time to die! ::Attack!::<end>
+
+=>a21
+Твоя песенка спета - пора умирать! ::Напасть!::<end>
+
+=>a22_original
+::[Perception]:: Why are you not tagging along with me? Are you trying to backstab me?<end>
+
+=>a22
+::[Восприятие]:: Почему бы тебе не последовать за мной? Или ты просто пытаешься меня подставить?<end>
+
+=>a23_original
+Tell me about those crawlers.<end>
+
+=>a23
+Расскажи мне о краулерах.<end>
+
+=>q24_original
+Yeah, uhm, those fiendish monsters. Ya sure you haven't heard of 'em before? Everybody knows about 'em.<end>
+
+=>q24
+Ну, хм-м, это жестокие твари. Ты уверен$(#/а), что не слышал$(#/а) о них прежде? Да про них все знают.<end>
+
+=>a25_original
+Nevermind, I actually did hear of them them before.<end>
+
+=>a25
+Неважно, я и правда уже слышал$(#/а) о них.<end>
+
+=>a26_original
+No, tell me more about them.<end>
+
+=>a26
+Нет, расскажи мне о них.<end>
+
+=>q27_original
+::His body twitches.:: 
+
+I've only heard about 'em from others. Ya see, uhm, they are the fiends of your worst dreams. They be creepin' the walls in darkness like spiders or somethin' and they said once you see em' ya ain't gettin' away, ::As he speaks, his pronunciation shifts back and forth.::<end>
+
+=>q27
+::Его тело пробирает судорога.::
+
+Я знаком с ними лишь по рассказам. Видишь ли, хм-м, они - исчадия ада из твоих худших кошмаров. В темноте они ползают по стенам, подобно паукам, и говорят, что если ты их увидишь, тебе уже никуда не деться. ::Пока он говорит, его акцент то и дело меняется.::<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+::[Perception]:: Your accent, you seem to be struggling with it. What's up with that?<end>
+
+=>a29
+::[Восприятие]:: Твой акцент. Похоже, тебе трудно с ним справиться. Что с ним такое?<end>
+
+=>q30_original
+Umm, uhh, wha' do y-ya mean? ::He stands back a little. ::<end>
+
+=>q30
+Эм-м, что т-ты имеешь в виду? ::Он немного отступает назад. ::<end>
+
+=>a31_original
+::[Intelligence]:: You are faking it aren't you, just like this whole story of yours?<end>
+
+=>a31
+::[Интеллект]:: Ты имитируешь его, и историю свою ты выдумал, не так ли?<end>
+
+=>a32_original
+I think I'll just do things on my own from here.<end>
+
+=>a32
+Думаю, дальше я буду действовать по-своему.<end>
+
+=>a33_original
+I just find it a little bit odd, that's all.<end>
+
+=>a33
+Мне это кажется немного странным, вот и всё.<end>
+
+=>q34_original
+::He clears some sweat from his forhead.::
+
+<end>
+
+=>q34
+::Он вытирает пот со лба.::
+
+<end>
+
+=>q35_original
+<end>
+
+=>q35
+<end>
+
+=>a36_original
+I fear nothing, nor do I care. You want me to get into the storeroom and clear the mess for you?<end>
+
+=>a36
+Я ничего не боюсь, и вообще, мне всё равно. Ты хочешь, чтобы я сходил$(#/а) в кладовую и подчистил$(#/а) там для тебя?<end>
+
+=>a37_original
+I've hacked my way in there already. You are lying to me.<end>
+
+=>a37
+Я уже пробрал$(#ся/ась) туда. Ты лжёшь мне.<end>
+
+=>a38_original
+I don't need help from the likes of you.<end>
+
+=>a38
+Мне не нужна помощь таких, как ты.<end>
+
+=>a39_original
+Let me think about it.<end>
+
+=>a39
+Дай мне подумать об этом.<end>
+
+=>a40_original
+I'll just take everything! ::Attack!::<end>
+
+=>a40
+Я просто возьму всё! ::Напасть!::<end>
+
+=>a41_original
+Are you scared?<end>
+
+=>a41
+Ты напуган?<end>
+
+=>a42_original
+::Keep listening.::<end>
+
+=>a42
+::Продолжать слушать.::<end>
+
+=>a43_original
+Wait, who are you?<end>
+
+=>a43
+Подожди, а ты кто такой?<end>
+
+=>a44_original
+What challenge?<end>
+
+=>a44
+Что за испытание?<end>
+
+=>q45_original
+Whoa, whoa - hold your train up. ::His eyes open up as he's surprised by your direct approach.:: 
+
+<end>
+
+=>q45
+Ого, притормози. ::Он широко раскрывает глаза, удивляясь вашей прямолинейности.::
+
+<end>
+
+=>a46_original
+::Turn around and leave.::<end>
+
+=>a46
+::Развернуться и уйти.::<end>
+
+=>q47_original
+So, uhm, changed ya mind?<end>
+
+=>q47
+Ну, м-м-м, передумал$(#/а)?<end>
+
+=>a48_original
+Yeah, im listening.<end>
+
+=>a48
+Да, я слушаю.<end>
+
+=>a49_original
+Hmm, yeah, let's hear it.<end>
+
+=>a49
+Хм-м, ага, выкладывай.<end>
+
+=>a50_original
+::Turn around and leave.::<end>
+
+=>a50
+::Развернуться и уйти.::<end>
+

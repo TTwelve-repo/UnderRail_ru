@@ -1,0 +1,393 @@
+﻿=>q1_original
+::Security Agency ESA-25M3
+
+Please step on the marked spot and face the assembler to start the procedure.::<end>
+
+=>q1
+::Охранное агентство ЭСА-25М3
+
+Пожалуйста, встаньте на отмеченное место и повернитесь лицом к сборщику, чтобы начать процедуру.::<end>
+
+=>a2_original
+::Face the machine.::<end>
+
+=>a2
+::Лицом к машине.::<end>
+
+=>q3_original
+::Performing initial scan...
+
+::<end>
+
+=>q3
+::Выполнение начального сканирования...
+
+::<end>
+
+=>q4_original
+::Warning: unrecognized user or body template. All exoskeleton suits are fitted to specific body types and cannot be assembled without creating a template first.
+
+Would you like to create a new template now?::<end>
+
+=>q4
+::Предупреждение: нераспознанный шаблон пользователя или тела. Все экзоскелетные костюмы подгоняются под определённый тип тела и не могут быть собраны без предварительно созданного шаблона.
+
+Вы хотите создать новый шаблон прямо сейчас?::<end>
+
+=>a5_original
+::Add new template::<end>
+
+=>a5
+::Добавить новый шаблон::<end>
+
+=>q6_original
+::Please remain still for the duration of the procedure until prompted otherwise.
+
+Performing a full body scan... Completed.
+Collecting biometric data... Completed.
+Scanning for CC marker... Completed - marker not found.::<end>
+
+=>q6
+::Пожалуйста, сохраняйте неподвижность в течение всей процедуры, пока не будет получен иной сигнал.
+
+Выполнение полного сканирования тела... Завершено.
+Сбор биометрических данных... Завершено.
+Сканирование на наличие маркера CC... Завершено - маркер не найден.::<end>
+
+=>q7_original
+::Please ::<end>
+
+=>q7
+::Пожалуйста ::<end>
+
+=>q8_original
+::turn your head to your left.::<end>
+
+=>q8
+::поверните голову налево.::<end>
+
+=>a9_original
+::Look left.::<end>
+
+=>a9
+::Посмотреть налево.::<end>
+
+=>q10_original
+::Please ::<end>
+
+=>q10
+::Пожалуйста ::<end>
+
+=>q11_original
+::turn your head to your right.::<end>
+
+=>q11
+::поверните голову направо.::<end>
+
+=>a12_original
+::Look right.::<end>
+
+=>a12
+::Посмотреть направо.::<end>
+
+=>q13_original
+::You may face forward.
+
+Please raise your arms above your head and remain still.::<end>
+
+=>q13
+::Вы можете стоять лицом вперёд.
+
+Пожалуйста, поднимите руки над головой и не двигайтесь.::<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+::Raise your arms.::<end>
+
+=>a15
+::Поднять руки.::<end>
+
+=>q16_original
+::You may lower your arms.
+
+Please crouch.::<end>
+
+=>q16
+::Вы можете опустить руки.
+
+Пожалуйста, присядьте.::<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+::Crouch.::<end>
+
+=>a18
+::Присесть.::<end>
+
+=>q19_original
+::You may stand up.
+
+Performing final calculations... Completed.
+Creating template and registering user... Completed.
+
+New template added: ::<end>
+
+=>q19
+::Вы можете встать.
+Выполнение окончательных расчётов... Завершено. Создание шаблона и регистрация пользователя... Завершено.
+Добавлен новый шаблон: ::<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+::EST0257M::<end>
+
+=>q21
+::EST0257M::<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>q23_original
+::No exoskeleton suits available at the moment. 
+
+Please load components into the assembler before proceeding.::<end>
+
+=>q23
+::В данный момент экзоскелетные костюмы не доступны.
+
+Пожалуйста, загрузите компоненты в сборщик, прежде чем приступить к процессу сборки.::<end>
+
+=>a24_original
+::Exit::<end>
+
+=>a24
+::Выход::<end>
+
+=>q25_original
+::Exoskeleton suit already registered to this body template.::<end>
+
+=>q25
+::Экзоскелетный костюм уже зарегистрирован для этого шаблона тела.::<end>
+
+=>a26_original
+::[Debug] Unregister suit.::<end>
+
+=>a26
+::[Отладка] Снять с учёта костюм.::<end>
+
+=>q27_original
+::Unregistering suit... Completed.::<end>
+
+=>q27
+::Снятие с учёта костюма... Завершено.::<end>
+
+=>q28_original
+::Please select which exoskeleton suit you want to register to this body template. A single user can be issued only one suit.::<end>
+
+=>q28
+::Пожалуйста, выберите, какой экзоскелетный костюм вы хотите зарегистрировать на этом шаблоне тела. Одному пользователю может быть выдан только один костюм.::<end>
+
+=>q29_original
+<end>
+
+=>q29
+<end>
+
+=>a30_original
+::Combat Exoskeleton::<end>
+
+=>a30
+::Боевой экзоскелет::<end>
+
+=>q31_original
+::Suit registered successfully. 
+
+::<end>
+
+=>q31
+::Костюм успешно зарегистрирован.
+
+::<end>
+
+=>q32_original
+::CC marker not found or recognized. A skulljack cannot be installed without it, and the suit will not be able to monitor and regulate neurocognitive processes.
+
+Would you like to proceed with suit assembly regardless?::<end>
+
+=>q32
+::CC-маркер не найден или не распознан. Без него установка черепного разъёма невозможна, а костюм не сможет контролировать и регулировать нейрокогнитивные процессы.
+
+Вы хотите продолжить сборку костюма без него?::<end>
+
+=>a33_original
+::Assemble exoskeleton::<end>
+
+=>a33
+::Собрать экзоскелет::<end>
+
+=>a34_original
+::Technomedic Exoskeleton::<end>
+
+=>a34
+::Экзоскелет техномедика::<end>
+
+=>a35_original
+::Intercessor Exoskeleton::<end>
+
+=>a35
+::Экзоскелет заступника::<end>
+
+=>a36_original
+::Psychophract Exoskeleton::<end>
+
+=>a36
+::Экзоскелет психофракта::<end>
+
+=>a37_original
+::[Hacking] Unregister current exoskeleton suit.::<end>
+
+=>a37
+::[Взлом] Снять с учёта текущий экзоскелетный костюм.::<end>
+
+=>q38_original
+<end>
+
+=>q38
+<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>q40_original
+<end>
+
+=>q40
+<end>
+
+=>q41_original
+::Error: Unauthorized access attempt detected!
+
+Logging...::<end>
+
+=>q41
+::Ошибка: Обнаружена попытка несанкционированного доступа!
+
+Запись в журнал...::<end>
+
+=>q42_original
+::EST0257F::<end>
+
+=>q42
+::EST0257F::<end>
+
+=>a43_original
+::Jump.::<end>
+
+=>a43
+::Прыгнуть.::<end>
+
+=>q44_original
+::Please do not deviate from the instuctions: crouch.::<end>
+
+=>q44
+::Пожалуйста, не отклоняйтесь от инструкций: присядьте.::<end>
+
+=>a45_original
+::Bend over.::<end>
+
+=>a45
+::Нагнуться.::<end>
+
+=>a46_original
+::Abort procedure.::<end>
+
+=>a46
+::Прервать процедуру.::<end>
+
+=>a47_original
+::Raise your left arm only.::<end>
+
+=>a47
+::Поднять только левую руку.::<end>
+
+=>q48_original
+::Please raise both your arms above your head.::<end>
+
+=>q48
+::Пожалуйста, поднимите обе руки над головой.::<end>
+
+=>a49_original
+::Raise your right arm only.::<end>
+
+=>a49
+::Поднять только правую руку.::<end>
+
+=>a50_original
+::Wave with both your arms as wide as you can.::<end>
+
+=>a50
+::Махать обеими руками как можно шире.::<end>
+
+=>q51_original
+::Please keep your arms still.::<end>
+
+=>q51
+::Пожалуйста, не двигайте руками.::<end>
+
+=>a52_original
+::Look left.::<end>
+
+=>a52
+::Посмотреть налево.::<end>
+
+=>q53_original
+::Please do not deviate from the instuctions: ::<end>
+
+=>q53
+::Пожалуйста, не отклоняйтесь от инструкций: ::<end>
+
+=>a54_original
+::Look right.::<end>
+
+=>a54
+::Посмотреть направо.::<end>
+
+=>q55_original
+::Please do not deviate from the instructions: ::<end>
+
+=>q55
+::Пожалуйста, не отклоняйтесь от инструкций: ::<end>
+
+=>q56_original
+::Template detected: ::<end>
+
+=>q56
+::Обнаружен шаблон: ::<end>
+
+=>a57_original
+::Leave.::<end>
+
+=>a57
+::Уйти::<end>
+

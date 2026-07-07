@@ -1,0 +1,490 @@
+﻿=>q1_original
+::You come up to an average-height blond man holding a real book in his hand, reading it quietly. He is dressed in a stylish, high-cost suit while wearing equally fashionable shoes, all free of even a speck of dust. Meanwhile, his physique is as unimpressive as his gelled hair, seeing that an average South Underrailer can break him in two without breaking a sweat.
+
+He closes the book, takes a brief look at you and begins the conversation with an entirely unique greeting.::
+
+Can ho, approacher!<end>
+
+=>q1
+::Вы подходите к блондину среднего роста, держащему в руках настоящую книгу, которую он молча читает. Он одет в стильный дорогой костюм и носит столь же модную обувь, на которой не заметно ни пылинки. Между тем, его телосложение совершенно не впечатляет, как и его прилизанные волосы. Кажется, что обычный южанин мог бы с лёгкостью переломить его пополам без особых усилий. 
+
+Он захлопывает книжку, окидывает вас взглядом и начинает разговор с совершенно необычного приветствия.::
+
+Чомо, прихож$(#ий/ая)!<end>
+
+=>a2_original
+What?<end>
+
+=>a2
+Что?<end>
+
+=>q3_original
+Gah, I see you are one of the uneducated ones, which doesn't flummox me one bit, considering our current location. This is Core City after all. No matter, since you're already here I might as well educate you, if only a bit. Hear me...<end>
+
+=>q3
+Хах, я вижу вы тоже из неучёных, но меня этим не фломмишь. Это же Кор-Сити, в конце концов. Неважно. Раз уж вы здесь, я могу научить вас, хотя бы немного. Слушайте...<end>
+
+=>q4_original
+The language you witnessed me using is called Advatongue, and it is a contemporary, modernized and improved version of the language most of us use - Commontongue, as I will refer to it from now on. For, you see, I was feeling indisposed and exhausted of all the inconsistencies and, how do I express myself... unnaturalness of Commontongue. Thus I, Professor Norman Hack of the University of Dis, one day made a conscious decision to liberate some of my time, sit down and do my best to ameliorate this stale mess into one endearing, beautiful language. Muchpretty tongue!<end>
+
+=>q4
+Вы только что слышали, как я говорил с вами на адваязе -- современной, модернизированной и улучшенной версии языка, который используют большинство из нас -- всеобяза, как я буду называть его. Видите ли, я давно чувствовал себя недовольным и уставшим от всех несоответствий и, как бы тут выразиться... неестественности всеобяза. Так что я, профессор Норман Хак из университета Дис, в один прекрасный день принял здравое обдуманное решение выкроить время, сесть и сделать всё возможное, чтобы свести весь этот закосневший беспорядок в один красивый, ласкающий ухо язык. Крутецкое звякало!<end>
+
+=>q5_original
+It resembles the Commontongue, true, but only to a minuscule degree. For instance, Commontongue was a language dominated by exceptions to rules, relying on memorizing phonic patterns in order to maintain proper pronounciation, strict sentence structure... I could go on and on. All this has been evicted in Advatongue, for the whole language has been standardized and tuned toward absolute consistency in every aspect imaginable, creating a clearer, more natural lingual experience free of ambiguity. Muchpretty!<end>
+
+=>q5
+Он несколько похож на всеобяз -- правда -- но лишь в незначительной степени. Например, всеобяз -- язык, в котором доминируют исключения из правил; он опирается на запоминание звуковых структур в целях поддержания правильного произношения, строгой структуры предложения... я мог бы продолжать и продолжать. Всё это вычищено из адваяза, весь язык был стандартизирован и приспособлен к абсолютной согласованности во всех мыслимых аспектах, и результатом стал более чёткий, более естественный языковый опыт, свободный от любой двусмысленности. Крутотень!<end>
+
+=>q6_original
+There is so much more to speak of it, but first I'd like for you to tell me why you're here and what do you want from me?<end>
+
+=>q6
+Я мог бы рассказать намного, намного больше, но сначала я хотел бы послушать, почему вы здесь и чего хотите от меня?<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+I noticed the guy outside also speaks Advatongue.<end>
+
+=>a8
+Я заметил$(#/а) парня снаружи, который тоже говорит на адваязе.<end>
+
+=>q9_original
+Ah, yay. Rick-gentleman. He's my student, and a bright young man, I must say. I started teaching him shortly after I had arrived to Core City. I rented this... how to refer to it without making it seem better than it actually is... *space* here, and I put up an Advatongue course ad. Rick-gentleman was the first one to respond to the ad; he was the only one to respond to the ad.<end>
+
+=>q9
+О, точняк. Рик-джентльмен. Он мой студент -- выдающийся молодой человек, должен сказать. Я начал обучать его вскоре после того, как прибыл в Кор-Сити. Я арендовал этот... как бы так сказать, чтобы не прозвучало, будто «тут» лучше чем есть на самом деле... это вот... *пространство*, и разместил рекламу курса адваяза. Рик-джентльмен был первым, кто откликнулся на объявление; он был единственным, кто откликнулся.<end>
+
+=>q10_original
+He clearly realized the importance of Advatongue, unlike other denizens of this linguistic cesspit. I mean, even despite my disproval of Commontongue, the things I've heard here made my ears bleed and my mind wail in agony. Being hammered in the head with "hardcore" and "dominating" every two seconds is only the beginning of the story. Pipeworker!? Atrocity!<end>
+
+=>q10
+Он быстро понял важность адваяза, в отличие от других обитателей этой лингвистической помойки. Я хочу сказать, что даже несмотря на моё неодобрение всеобязя, вещи, что я слышал здесь, вызывают у меня ушное кровотечение, а мой разум воет в агонии. То, что меня бомбардировали каждые две секунды словами «хардкор» и «доминирующий» -- это только начало. «Трубочист»?! Дикость!<end>
+
+=>q11_original
+Advatongue as an official language of... well, even a station, let alone a region will have to wait; however, I hope that goal will be achieved one day. If that means teaching one student at a time, then I better persevere.<end>
+
+=>q11
+Мечте об адваязе в качестве официального языка... ну, даже отдельной станции, не говоря уже о регионе, придётся подождать; тем не менее, я надеюсь, что однажды моя цель будет достигнута. Если это означает, что придётся обучать по одному человеку за раз, то мне придётся проявить настойчивость.<end>
+
+=>a12_original
+Can you teach me a few Advatongue phrases?<end>
+
+=>a12
+Не могли бы вы научить меня некоторым фразам на адваязе?<end>
+
+=>q13_original
+You wish to learn a few phrases? Wonderful! It is my aim to proliferate the number of Advatongue speakers, as you may have already deduced.
+
+What phrases are you interested in?<end>
+
+=>q13
+Вы хотите выучить несколько фраз? Замечательно! Моя цель -- увеличить количество знатоков адваяза, как вы, возможно, уже поняли. 
+
+Какие фразы вас интересуют?<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+Hello.<end>
+
+=>a15
+Здравствуйте.<end>
+
+=>q16_original
+That is an easy one. It's "Can ho."<end>
+
+=>q16
+Очень просто. Это «чомо»<end>
+
+=>q17_original
+You already heard me say that one when we met. Be careful: "A" in "can" is pronounced like "a" in "cargo."<end>
+
+=>q17
+Вы уже слышали, как я произнёс это, когда мы встретились. Будьте внимательны: «о» в «чо» произносится, как «о» в «лом».<end>
+
+=>a18_original
+Goodbye.<end>
+
+=>a18
+До свидания.<end>
+
+=>q19_original
+Gah, it's a very simple word. "Gone ho." It is quite similar to "can ho."<end>
+
+=>q19
+Хах, это очень простое слово. «Доймо». Очень похоже на «чомо».<end>
+
+=>q20_original
+Naturally, you could also use a more complicated phrase like "observant u soclos," which is most similar to "see you around." Or, you could even say "gahgone," which is unique to Advatongue. It's a word that expresses a happy goodbye.<end>
+
+=>q20
+Вообще-то говоря, вы могли бы также использовать более сложные фразы, например: «завижу тя скоротак», которая близка по значению к «увидимся». Или можно ещё сказать: «покеда», что уникально для адваяза. Это слово выражает счастливое прощание.<end>
+
+=>a21_original
+You look very nice today.<end>
+
+=>a21
+Вы сегодня отлично выглядите.<end>
+
+=>q22_original
+Oh, yay, that one is "u appar muchpretty au."<end>
+
+=>q22
+О, точняк, это будет «ошентылюбо».<end>
+
+=>q23_original
+It is a beautiful language, isn't it? Courtesy, or "meengoood," is the foundation of Advatongue; should you decide to learn more about the language, you would realize that it contains countless words which do not exist in Commontongue, words which allow you to convey gentility and refinement in many beautiful ways. Afterwards, once you finally look back at the language you had used before, it will seem like you had been outright *cursing* with pretty much every word you uttered. ::He sighs.::
+
+It will make you feel like a "peasanut."<end>
+
+=>q23
+Это красивый язык, не так ли? Вежливость, или «хоороошообраащаемость» -- основа адваяза; если вы решите узнать побольше о языке, то поймёте, что он содержит бесчисленное множество слов, попросту не существующих во всеобязе -- слов, которые позволяют передать вежливость и утончённость многими прекрасными способами. Когда вы после этого взглянете на язык, который использовали ранее, вам покажется, будто вы *ругаетесь* через каждое слово. ::Он вздыхает.::
+
+Вы будете себя чувствовать подобно быдланту.<end>
+
+=>a24_original
+You ugly bastard.<end>
+
+=>a24
+Ты уродливый ублюдок.<end>
+
+=>q25_original
+Nay, nay, nay! Why use such harsh language? Advatongue is meant to be beautiful and amiable.<end>
+
+=>q25
+Не, не, не! Зачем использовать такие грубые слова? Адваяз создан, чтобы быть красивым и любезным.<end>
+
+=>q26_original
+::He sighs.:: Well, technically you could say "U unatractiv shlomor." But please, do avoid unpleasantries.<end>
+
+=>q26
+::Он вздыхает.:: Ну, теоретически, вы могли бы сказать: «Ты стойный шломор». Но, пожалуйста, избегайте нелюбезностей.<end>
+
+=>a27_original
+You should die in a fire.<end>
+
+=>a27
+Надеюсь, ты сгоришь в аду.<end>
+
+=>q28_original
+Whatan? Of all the innumerable phrases I could teach you in Advatongue, you chose this?<end>
+
+=>q28
+Чивого? Из всех бесчисленных фраз адваяза, которым я могу научить вас, вы выбрали эту?<end>
+
+=>q29_original
+::He sighs.:: It's "U hothot hrnk."<end>
+
+=>q29
+::Он вздыхает.:: Это будет: «Ты хрнк горячогорячо».<end>
+
+=>a30_original
+Good job.<end>
+
+=>a30
+Хорошая работа.<end>
+
+=>q31_original
+You mean with Advatongue? Oh, thank you. It's true, I rarely get the recognition! Truthis, truthis... 
+
+Oh, you mean you want me to...?<end>
+
+=>q31
+Вы имеете в виду адваяз? Ох, спасибо. Это правда, я так редко получаю признание! Впарвду, впарвду...
+
+О, или вы хотите знать, как?..<end>
+
+=>q32_original
+Gah, sorry. Good job is "goood workan."<end>
+
+=>q32
+Хах, простите. Хорошая работа -- это «хоороошоо слабала».<end>
+
+=>a33_original
+Rathound.<end>
+
+=>a33
+Крысоволк.<end>
+
+=>q34_original
+Skwiksamuch.<end>
+
+=>q34
+Нималаписк.<end>
+
+=>q35_original
+Disgusting animals. Unatractiv, yay.<end>
+
+=>q35
+Отвратительные животные. Стойные, точняк.<end>
+
+=>a36_original
+I'm going to pulverize your bones and smash your skull to tiny bits!<end>
+
+=>a36
+Я сотру в порошок твои кости и разобью твой череп на мелкие кусочки!<end>
+
+=>q37_original
+Please don-- I mean, hmm, why such hateful language? I don't think I even have a word for "pulverize," but I'll give it my best to appease your hunger for violent language.<end>
+
+=>q37
+Пожалуйста, не... Ну зачем так злобно? Я думаю, у меня даже такого выражения в лексиконе нет, аналогичного «стереть в порошок», но я сделаю всё, что смогу, чтобы утолить вашу потребность в грубых выражениях.<end>
+
+=>q38_original
+I iswill muchbroke ur waaitstik and boom ur mindkanta toso hardrecept totos. 
+
+So violent, jaazuz!<end>
+
+=>q38
+Я те шибкодам попожедалке и бумбум те в думоед и зырять бу какты корчадашь.
+
+Жёски, жазу!<end>
+
+=>a39_original
+I've had enough of this, let's talk about something else.<end>
+
+=>a39
+С меня довольно, давайте поговорим о чём-нибудь другом.<end>
+
+=>q40_original
+Yay?<end>
+
+=>q40
+Дад?<end>
+
+=>q41_original
+Certainly. What phrase would you like to learn in Advatongue?<end>
+
+=>q41
+Конечно. Какие фразы на адваязе вы хотели бы выучить?<end>
+
+=>a42_original
+What can you tell me about Core City?<end>
+
+=>a42
+Что вы можете рассказать мне про Кор-Сити?<end>
+
+=>q43_original
+It's just like most South Underrail stations. Linguistically perverted to the point of creating an impression that commoners who live here are struggling with their very own language. And I thought Commontongue in its untainted form was abhorrent enough. I just dread that one day the way commoners converse here won't slither into my own speech in some perfidious way.<end>
+
+=>q43
+Он такой же, как и большая часть станций Южной Подземки. До того лингвистически извращённый, что создаётся впечатление, что простолюдины, которые живут здесь, не справляются даже со своим собственным языком. А я-то думал, что всеобяз в его неиспорченной форме и так был достаточно отвратительным. Я просто страшусь, что однажды то, как общаются здешние обыватели, каким-нибудь самым вероломным образом просочится в мою собственную речь.<end>
+
+=>q44_original
+Indeed, coming here was a muchmindclonking experience. If it wasn't for my student, I would've gone insane listening to those JKK workers discussing their "trims" and other menial things.<end>
+
+=>q44
+Да, приезд сюда был для меня супермазгоклонковым опытом. Если бы не мой ученик, я сошёл бы с ума, слушая, как эти рабочие из КБР обсуждают увиденное по «триму» и прочие постылые темы.<end>
+
+=>a45_original
+What can you tell me about the Arena?<end>
+
+=>a45
+Что вы можете рассказать об Арене?<end>
+
+=>q46_original
+Gah, that buffoonery!? Bafoonsohard! Please, I don't wish to speak about it.<end>
+
+=>q46
+Хах, эта клоунада?! КлоунАДА! Пожалуйста, не хочу говорить об этом.<end>
+
+=>q47_original
+The Arena is the sort of thing that appeals to only the most primitive southerners. Which is the majority...<end>
+
+=>q47
+Арена -- одна из тех вещей, что привлекают только самых примитивных южан. Каких большинство...<end>
+
+=>a48_original
+What can you tell me about JKK?<end>
+
+=>a48
+Что вы можете рассказать мне о КБР?<end>
+
+=>q49_original
+JKK. As soon as I open my doors I am greeted by the sight of their headquarters. They broadcast that perfectly dreadful Arena, feeding it to the unwashed masses. On top of it, they organize betting to further relieve the poor creatures' already barren pockets; their heads are already desolate, so why not their pockets too.<end>
+
+=>q49
+КБР. Как только я открываю свою дверь, меня встречает вид их штаб-квартиры. Они вещают эту ужасную Арену, скармливая зрелище немытым массам. Сверх того, они принимают ставки, чтобы начисто опустошить тощие карманы этих бедолаг; их головы уже пусты, так почему бы не вытряхнуть и их карманы заодно.<end>
+
+=>q50_original
+I'd rather not have anything to do with JKK, donotdo. And I have no better opinion of Coretech or Praetorian Security, for that matter. Primitive lot.<end>
+
+=>q50
+Я бы предпочёл не иметь ничего общего с КБР, ничаво. И я не лучшего мнения о КорТех или ПСБ, если на то пошло. Примитивные плебеи.<end>
+
+=>a51_original
+What can you tell me about the Oligarchy?<end>
+
+=>a51
+Что вы можете рассказать про олигархов?<end>
+
+=>q52_original
+I haven't personally met the fewthatanrul. The Oligarchs, that is. My information on them is limited, I'm afraid, but my personal experience - mostly from observation, but also from other, unfortunate incidents - dictates that I can only draw a single conclusion, which is that they are managing this city in a selfish, incompetent, and rather oppressive manner.<end>
+
+=>q52
+Я не встречался лично с текторулями. Олигархами, то есть. Мои знания о них ограничены, я боюсь, но мой личный опыт, основанный большей частью на наблюдениях, а также других неприятных инцидентах, диктует лишь один вывод, заключающийся в том, что они управляют городом очень эгоистичным, некомпетентным, и довольно деспотичным образом.<end>
+
+=>q53_original
+Gah, at least no one disturbs me anymore. If we ignore the environment itself, that is.<end>
+
+=>q53
+Хах. По крайней мере, больше никто меня не беспокоит. Если игнорировать саму окружающую среду, конечно.<end>
+
+=>a54_original
+See you around, Norman.<end>
+
+=>a54
+Увидимся, Норман.<end>
+
+=>q55_original
+In Advatongue it's: "Observant u soclos, Norman-gentleman." Remember that, please.<end>
+
+=>q55
+На адваязе это будет: «Завижу тя скоротак, Норман-джентльмен». Запомните это, пожалуйста.<end>
+
+=>a56_original
+Observant u soclos, Norman-gentleman.<end>
+
+=>a56
+Завижу тя скоротак, Норман-джентльмен.<end>
+
+=>q57_original
+Goood, ur learningmuch.<end>
+
+=>q57
+Отлична-а-а, твоя многанаучит.<end>
+
+=>a58_original
+You talk funny.<end>
+
+=>a58
+Вы забавно говорите.<end>
+
+=>a59_original
+Can ho!<end>
+
+=>a59
+Чомо!<end>
+
+=>q60_original
+::A joyful smile materializes on his face.:: Ah, finally someone who is not an uncultured swine. You speak Advatongue, yes? U speakish Advatongue, yay?<end>
+
+=>q60
+::Довольная улыбка появляется на его лице.:: О, наконец хоть кто-то, кто не является некультурным быдлом. Вы говорите на адваязе, не так ли? Гришь тына адваязе, точняк?<end>
+
+=>a61_original
+Yay.<end>
+
+=>a61
+Точняк.<end>
+
+=>q62_original
+Keh, final aperson that speakish Advatongue inCore City. Allbody here isusing commtongue, soyay attime bevery mindclonking tolistenin dem speakish primitiv.<end>
+
+=>q62
+Кех, наканецта личночел, что звякало по адваяз, вКор Сити. Вся шобла сдесь пользует всеобяз, такшта иногда мазгоклонк слышать ихний примитив.<end>
+
+=>a63_original
+Yay?<end>
+
+=>a63
+Дад?<end>
+
+=>q64_original
+Gah, truthis, truthis! Realization, whatan ur titlegiven?<end>
+
+=>q64
+Хах, впарвду, впарвду! Пагади, чивого тя заимязвать?<end>
+
+=>a65_original
+Yay?<end>
+
+=>a65
+Дад?<end>
+
+=>q66_original
+::A dull expression overcomes his so-far joyful face, and you manage to spot a barely noticeable twitch on the side of his lips.:: 
+
+You have no idea what I'm talking about, right?<end>
+
+=>q66
+::Разочарование стирает с его лица улыбку, и вам удаётся заметить небольшое подёргивание в уголке его губ.:: 
+
+Вы понятия не имеете, о чём я говорю, не так ли?<end>
+
+=>a67_original
+Yay?<end>
+
+=>a67
+Дад?<end>
+
+=>q68_original
+Stop fooling around, you... you uneducated $(#man/woman)! Uneducatid, jaazuz! I find your behavior increasingly inappropriate, yet, I must say, I am still willing to educate you on this - in your mind - convoluted situation. Hear now...<end>
+
+=>q68
+Прекратите дурачиться, вы... вы $(#неотесаный/необразованная) $(#мужчина/женщина)! Ниабразовано, жазу! Я нахожу ваше поведение всё более неуместным, однако я должен сказать, что всё ещё готов обучать вас даже в этой запутанной -- для вас -- ситуации. Так вот...<end>
+
+=>a69_original
+I understand some of it, but not everything.<end>
+
+=>a69
+Я понял$(#/а) кое-что, но не всё.<end>
+
+=>q70_original
+I don't think you understand me at all. <end>
+
+=>q70
+Я думаю, вы вообще не понимаете меня.<end>
+
+=>q71_original
+Khm, and for an instant I thought I found someone who comprehends me. No matter, since you're already here I might as well educate you, if only a bit. Hear now...<end>
+
+=>q71
+Хм, на мгновение я подумал, что нашёл кого-то, кто понимает меня. Неважно. Раз уж вы здесь, я могу научить вас, хотя бы немного. Слушайте...<end>
+
+=>a72_original
+No, not a word.<end>
+
+=>a72
+Нет, ни слова.<end>
+
+=>a73_original
+I don't think I understand you fully.<end>
+
+=>a73
+Я не совсем понимаю вас.<end>
+
+=>a74_original
+Sorry, I didn't understand anything.<end>
+
+=>a74
+К сожалению, я ничего не понял$(#/а).<end>
+
+=>a75_original
+I lost you. I don't have a clue what you're talking about.<end>
+
+=>a75
+Я упустил$(#/а) нить разговора. Я не имею понятия, о чём вы говорите.<end>
+
+=>a76_original
+Nah, I just repeated what you said.<end>
+
+=>a76
+Не-а, я просто повторил$(#/а) то, что вы сказали.<end>
+
+=>q77_original
+Can ho, whatan could I doo for u?<end>
+
+=>q77
+Чомо, чивого сделашь для тя?<end>
+

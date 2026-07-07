@@ -1,0 +1,1442 @@
+﻿=>q1_original
+::Walking up the stairs, your presence briefly interrupts an ongoing conversation. However as you keep approaching, they continue where they've left off. ::
+
+There's no way we're going back in there again. The place was a bloody nightmare, I'm telling you. ::Both of them turn towards you, and for a moment, the rigmaster seems surprised to see you.:: <end>
+
+=>q1
+::Звук ваших шагов по лестнице ненадолго прерывает беседу. Однако, когда вы приближаетесь, она продолжается с того, на чём остановилась. ::
+
+Это место было настоящим кровавым кошмаром, говорю же тебе. ::Они поворачиваются к вам, и на мгновение распорядитель буровой кажется удивлённым вашим появлением.::<end>
+
+=>q2_original
+This is the $(#guy/girl) I've told you about. Glad to see Ion has brought you here. How's it been? ::It would seem that the return to her home has restored her completely. She seems genuinely happy to see you, as she has a huge grin on her face.::<end>
+
+=>q2
+Это т$(#от парень/а девушка), про котор$(#ого/ую) я рассказывала. Рада видеть, что Ион привёл тебя сюда. Как делишки? ::Похоже, что возвращение домой, полностью восстановило её силы. Кажется, она искренне рада вас видеть, о чём свидетельствует её широкая улыбка.::<end>
+
+=>a3_original
+I've accepted Ion's invitation up here. He said you wanted to see me.<end>
+
+=>a3
+Я принял$(#/а) предложение Иона прийти сюда. Он сказал, что ты хотела меня увидеть.<end>
+
+=>q4_original
+That's correct. I... hmm.. ::She thinks for a moment.:: Oh, how rude of me, I've just remembered. You never told me your name.<end>
+
+=>q4
+Это верно. Я... хм... ::Она на мгновение задумывается.:: О, как грубо с моей стороны, но я только вспомнила, что так и не спросила, как тебя зовут.<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+I'm $(context.player.Name) from South Gate Station.<end>
+
+=>a6
+Я $(context.player.Name) со станции Саут-Гейт.<end>
+
+=>q7_original
+::She points at her brother.:: And this is Krom, my twin brother. Finally the two of you meet. 
+
+It would only be fair to let you know about, you know, how things turned up.<end>
+
+=>q7
+::Она указывает на брата.:: А это Кром, мой брат-близнец. Наконец-то вы встретились.
+
+Справедливо сообщить о том, ну, как ты уже знаешь всё обернулось.<end>
+
+=>q8_original
+In our eyes, The Rig was *the* golden opportunity. One we could not miss. And for the most part, that was true. But nothin' comes for free in these caves. And the cost we've had to pay, almost sunk us all to the bottom. ::He crosses his hands.:: And now, the place's all ours.<end>
+
+=>q8
+В наших глазах Буровая была *золотым* шансом. Тот, который мы не могли упустить. И по большей части это было правдой. Но в этих пещерах ничего не даётся безвозмездно. И цена, которую нам пришлось заплатить, почти опустила нас на дно. ::Он скрещивает руки.:: Но теперь это место наше.<end>
+
+=>q9_original
+This all misunderstandin' - big swing and a miss. Some of our best crewmen are down for good. That's a great shame. But with the family restored, think of it all as just a big collateral. Men drown for much, much less. It's just the way around 'ere.<end>
+
+=>q9
+Всё это недоразумение - большой замах и огромный промах. Некоторые из наших лучших компаньонов погибли. Это великий позор. Но теперь, когда семья восстановлена, думайте обо всём этом как о уплаченной цене. Люди тонут за гораздо, гораздо меньшее. Просто здесь всё наоборот.<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+Have you made some changes?<end>
+
+=>a11
+Вы внесли какие-то изменения?<end>
+
+=>q12_original
+We'll have to keep it clean goin' forward. Everyone's out there to get us. ::He glances over at the windows.:: With Kaya by my side now, we're not backin' down. <end>
+
+=>q12
+Мы не забросим это место, и будем двигаясь только вперёд. Так мы приблизимся к тому, кем были друг для друга когда-то. ::Он бросает взгляд на окна.:: Теперь, когда Кая рядом со мной, мы не отступим.<end>
+
+=>a13_original
+What about the Protectorate? <end>
+
+=>a13
+А что насчёт Протектората?<end>
+
+=>q14_original
+They know little of the new situation here. We are still decidin' what to do about 'em. Considerin' everythin', it's in our best interest to maintain our rep with the bastards. We can't afford any more trouble... for now. Soon... there'll be a time and place... just for that.<end>
+
+=>q14
+Им мало что известно о нынешней ситуации. Мы всё ещё не решили, как с ними поступить. Но учитывая все обстоятельства, в наших же интересах сохранить репутацию у этих ублюдков. Сейчас определённо не лучшее время и место для этого.<end>
+
+=>a15_original
+Can you tell me more about Ion?<end>
+
+=>a15
+Можешь рассказать мне побольше об Ионе?<end>
+
+=>q16_original
+Ion is someone I've put a lot of trust into. His wayward ways make wonders come true. Let's just say, he's best at recruitin' people to do the dirty work done - fast and clean. ::He laughs.::<end>
+
+=>q16
+Ион - тот, кому я действительно могу доверять. Его своенравные методы творят чудеса. Скажем так, он лучший в вербовке людей для грязной работёнки. ::Он смеётся.::<end>
+
+=>a17_original
+Are you concerned with the pirate raids?<end>
+
+=>a17
+Ты обеспокоен пиратскими налётами?<end>
+
+=>q18_original
+Jetters have caused so much disturbance to what we have tried to establish 'ere. The Protectorate's finest now sleep with the fishes. They've had to have some insiders in there. Still hard to believe it all, you know? <end>
+
+=>q18
+Всадники серьёзно пошатнули тот порядок, который мы пытались здесь установить. Лучшие люди Протектората теперь покоятся с рыбками. Должно быть, они внедрили кого-то из своих людей. До сих пор сложно во всё это поверить, понимаешь?<end>
+
+=>q19_original
+Their efforts are staggerin' for sure, but they don't stand a chance against us. <end>
+
+=>q19
+Их успехи, конечно, ошеломляют, но у них всё равно нет ни единого шанса против нас.<end>
+
+=>a20_original
+How naive of you to let me in here. I'll sink the Rig! ::Attack!::<end>
+
+=>a20
+Как же наивно было пустить меня сюда. Я потоплю Буровую! ::Напасть!::<end>
+
+=>a21_original
+Glad to hear all of that. Is there anything else?<end>
+
+=>a21
+Приятно всё это слышать. Ещё что-нибудь?<end>
+
+=>q22_original
+That would be all for now. At this point, The Rig will have to wait for any new... gang members. Ion's waiting for you outside. I've left a little something for your efforts. It should suffice for all the trouble. ::She winks.:: <end>
+
+=>q22
+Пока всё. На этом этапе Буровой придётся искать новых... членов банды. Сейчас Ион ждёт тебя снаружи. Я кое-что оставила для вашего подспорья. Этого должно хватить на все неприятности. ::Она подмигивает.::<end>
+
+=>q23_original
+Restorin' the family has a price none could ever repay easily. You have my respect... ::He bows slightly.:: Good luck, huntin' and scrappin'.<end>
+
+=>q23
+Восстановление нашей семьи имеет такую цену, которую никто никогда не сможет возместить. Я уважаю тебя... ::Он слегка кланяется.:: Удачной охоты и битвы.<end>
+
+=>a24_original
+Good luck to you too. ::Leave.::<end>
+
+=>a24
+И тебе удачи. ::Уйти.::<end>
+
+=>a25_original
+::Wave and leave.::<end>
+
+=>a25
+::Помахать и уйти.::<end>
+
+=>a26_original
+::Nod and leave.::<end>
+
+=>a26
+::Кивнуть и уйти.::<end>
+
+=>a27_original
+I'm $(context.player.Name), the lone scavenger.<end>
+
+=>a27
+Я $(context.player.Name), мусорщ$(#ик/ца)-одиночка.<end>
+
+=>a28_original
+I'm $(context.player.Name).<end>
+
+=>a28
+Я $(context.player.Name).<end>
+
+=>a29_original
+I don't feel like revealing my name, sorry.<end>
+
+=>a29
+Извини, но я не хочу раскрывать своего имени.<end>
+
+=>q30_original
+::The rigmaster raises his hand. The hand gesture suggests cease of conversation. Your passive answer doesn't yield a favourable expression on his face, as his large eyebrows frown with displeasure.:: She wishes to introduce us. ::He quickly glances over to her, and then back to you.:: No matter, I can do it myself. I'm Kromilus, and you can call me Krom.:: He reaches out for a handshake. In doing so, he reveals his arms which is covered in faint tattoos all the way to his wrist. You cannot make much of those as they seem to be almost entirely faded out. However it would seem that their purpose was to cover various injuries he had sustained earlier in his life.::<end>
+
+=>q30
+::Распорядитель буровой поднимает руку. Этот жест предполагает прекращение разговора. Ваш ответ явно его не обрадовал, так как он недовольно нахмурил свои большие брови.:: Она хочет представить нас. ::Он быстро переводит взгляд на неё, затем снова на вас.:: Неважно, я сам могу это сделать. Я Кромилус, но ты можешь звать меня Кром. ::Он протягивает руку для рукопожатия. Когда он делает это, на его руках становятся заметны тусклые татуировки, покрывающие запястья. Вам не удаётся их разобрать, так как со временем они практически выцвели. Однако, по-видимому, их целью было прикрыть различные травмы, полученные им в прошлом.::<end>
+
+=>a31_original
+Glad to meet you. ::Accept handshake.::<end>
+
+=>a31
+Рад$(#/а) познакомиться. ::Принять рукопожатие.::<end>
+
+=>q32_original
+::He grips your hand firmly and you manage to retain a strong grip. The handshake last for a bit too much, after which, he calmly returns back to his previous position.:: Strong handshake, strong character: is the way I see things.<end>
+
+=>q32
+::Он крепко сжимает вашу руку, но и вы не уступаете ему в этом. Рукопожатие длится излишне долго, и после него он спокойно возвращается на прежнее место.:: Сильное рукопожатие - сильный характер: лично я так это воспринимаю.<end>
+
+=>q33_original
+I've brought you here to express my gratitude for the insight you've provided for me in a time of great need. Now, with that knowledge, I've opened myself about many things to Krom and I'm pleased to announce that once again we are back to the ways of old. Well... at least to a reasonable degree. ::She smiles.::<end>
+
+=>q33
+Я позвала тебя сюда, чтобы выразить благодарность за моё прозрение в тот момент, когда я в нём сильно нуждалась. Теперь, с этим пониманием, я во многом стала откровеннее с Кромом, и рада сообщить, что у нас всё снова вернулось на круги своя. Ну... во всяком случае, в пределах разумного. ::Она улыбается.::<end>
+
+=>a34_original
+::Quietly accept the handshake.::<end>
+
+=>a34
+::Молча принять рукопожатие.::<end>
+
+=>a35_original
+::Refuse the handshake.::<end>
+
+=>a35
+::Отвергнуть рукопожатие.::<end>
+
+=>q36_original
+Hmm.. Is there something wrong?<end>
+
+=>q36
+Хм-м... Что-то не так?<end>
+
+=>a37_original
+I just don't like shaking hands.<end>
+
+=>a37
+Я просто не люблю жать руки.<end>
+
+=>q38_original
+::He turns his head slightly to the side and looks at you from the corner of his left eye.:: Hmm... is that so? Be it your way, for you have already done a great deal for me by rescuin' Kaya. Be as it may though, I don't take refusals likely and I wish this meetin' to end. Kaya, please show our *guest* the way out.<end>
+
+=>q38
+::Он слегка поворачивает голову набок и косит на вас левым глазом.:: Хм... ну, раз так. Будь по-твоему, ведь ты и так уже много для меня сделал$(#/а), выручив Каю. Как бы то ни было, я не терплю такой грубости и хочу, чтобы эта встреча закончилась. Кая, будь добра, покажи нашему *гостю* выход.<end>
+
+=>q39_original
+Uhhh... I din't forsee this... ::Her lips make a weird gesture, indicating she feels uncomfortable.:: Umm... Okay, well uhh. At least I tried. Perhaps I could... ::The situation you are in, makes her stop to rethink what she should say next.::
+
+I-I... ::She starts looking around, trying to find something. This weird situation has made her act unpredictable. The silence drags on, as she struggles to formulate a follow-up.:: Not to escalate things further I suggest you take your leave now. ::She makes a slight hand gesture, pointing to the entrance from which you've arrived.::<end>
+
+=>q39
+Да-а-а... этого я не ожидала... ::Её губы странно изгибаются, что говорит о чувстве неловкости.:: Хм-м-м... Что ж, ладно. По крайней мере, я попыталась. Возможно, мне стоит... ::Эта неловкая ситуация, заставляет её остановиться, чтобы подумать, что же ей сказать дальше.::
+
+Я-я... ::Она оглядывается по сторонам, будто пытаясь что-то найти, и вообще ведёт себя очень странно. Молчание всё тянется, пока она пытается обдумать дальнейшие действия.:: Чтобы ещё больше не нагнетать обстановку, я прошу тебя сейчас же уйти. ::Она легонько указывает на выход, через который вы вошли.::<end>
+
+=>a40_original
+Bye.<end>
+
+=>a40
+Пока.<end>
+
+=>a41_original
+::Turn around and leave.::<end>
+
+=>a41
+::Развернуться и уйти.::<end>
+
+=>a42_original
+Can we just proceed without that?<end>
+
+=>a42
+Можем мы просто обойтись без этого?<end>
+
+=>a43_original
+You've exposed yourselves, fools! ::Attack!::<end>
+
+=>a43
+Вы беззащитны, придурки! ::Напасть!::<end>
+
+=>a44_original
+I'm pleased to see you two back together. A family reunited.<end>
+
+=>a44
+Я рад$(#/а), что вы снова вместе. Семья воссоединилась.<end>
+
+=>q45_original
+Thanks to you. Our... ::she stops.:: *my* struggle was hard indeed. Before you, I didn't really know what made me go on the treacherous ways. ::She sighs.:: Now, that we are together, we can continue where we left off. Your words struck me like an earthquake and from them I've learned so much. ::She looks to the ground.::
+
+Uhh... ::She peeks at you.:: How rude of me. After all we've been through I forgot to ask you for your name.<end>
+
+=>q45
+Благодаря тебе. Наша... ::она прерывается.:: *моя* борьба была действительно трудной. До тебя я и сама толком не знала, что заставило меня пойти по этому опасному пути. ::Она вздыхает.:: Теперь, когда мы вместе, мы можем продолжить с того, на чём остановились. Твои слова поразили меня, подобно землетрясению, и я многое из них почерпнула. ::Она опускает взгляд.::
+
+Э-эм... ::Она поглядывает на вас.:: Это так грубо с моей стороны. После всего, через что мы прошли, я даже забыла спросить твоё имя.<end>
+
+=>a46_original
+It's been alright I guess.<end>
+
+=>a46
+Думаю, всё в порядке.<end>
+
+=>q47_original
+Aww, come on. Cheer up! ::She performs a tiny hop in place.:: This is a great day for all of us.
+
+<end>
+
+=>q47
+Ой, да ладно тебе. Выше нос! ::Она слегка подпрыгивает на месте.:: Это прекрасный день для всех нас.
+<end>
+
+=>q48_original
+<end>
+
+=>q48
+<end>
+
+=>q49_original
+A new start... Just like you've suggested.<end>
+
+=>q49
+Новое начало... Как ты и советовал$(#/а).<end>
+
+=>q50_original
+My new family.<end>
+
+=>q50
+Моя новая семья.<end>
+
+=>q51_original
+I feel like... at home.<end>
+
+=>q51
+Я чувствую себя... дома.<end>
+
+=>q52_original
+New life to get used to.<end>
+
+=>q52
+К новой жизни нужно привыкнуть.<end>
+
+=>q53_original
+I was getting sick of the waters back on the Rig.<end>
+
+=>q53
+Меня уже тошнило от вод Буровой.<end>
+
+=>q54_original
+So many things to take care of.<end>
+
+=>q54
+О стольком нужно позаботиться.<end>
+
+=>q55_original
+I still think about him... We're still family, you know.<end>
+
+=>q55
+Я по-прежнему думаю о нём... Мы всё-таки семья, понимаешь?<end>
+
+=>q56_original
+::Nom, nom, nom...::<end>
+
+=>q56
+::Ням-ням-ням...::<end>
+
+=>q57_original
+They are constantly confusing me with Izumi. ::Giggles.::<end>
+
+=>q57
+Они постоянно путают меня с Изуми. ::Хихикает.::<end>
+
+=>q58_original
+Darling and I shared similar fates. Both of our families are gone now.<end>
+
+=>q58
+У нас с Дарлинг схожие судьбы. Мы обе остались без семьи.<end>
+
+=>q59_original
+<end>
+
+=>q59
+<end>
+
+=>q60_original
+Everyone... dead.<end>
+
+=>q60
+Все... мертвы.<end>
+
+=>q61_original
+I can't believe it...<end>
+
+=>q61
+Не могу поверить...<end>
+
+=>q62_original
+My life... is all empty now.<end>
+
+=>q62
+Теперь моя жизнь... пуста.<end>
+
+=>q63_original
+::Weeps.::<end>
+
+=>q63
+::Плачет.::<end>
+
+=>q64_original
+<end>
+
+=>q64
+<end>
+
+=>q65_original
+I will... figure a way out of here.<end>
+
+=>q65
+Я придумаю... как отсюда выбраться.<end>
+
+=>q66_original
+I managed to get this far on my own.<end>
+
+=>q66
+Мне самой удалось так далеко зайти.<end>
+
+=>q67_original
+The damn spiders... If I could only somehow...<end>
+
+=>q67
+Долбаные пауки... Если бы я только могла...<end>
+
+=>q68_original
+And the mutants... ::Spits on the ground.::<end>
+
+=>q68
+А эти мутанты... ::Плюёт на землю.::<end>
+
+=>q69_original
+::She is feeling a bit better now that she can stand upright without the need of assistance.:: What do we do now?<end>
+
+=>q69
+::Похоже, ей стало немного получше, и теперь она может стоять без посторонней помощи.:: Что теперь?<end>
+
+=>q70_original
+<end>
+
+=>q70
+<end>
+
+=>a71_original
+Let's talk.<end>
+
+=>a71
+Давай поговорим.<end>
+
+=>q72_original
+What is it that you wish to know?<end>
+
+=>q72
+Что же ты хочешь узнать?<end>
+
+=>q73_original
+<end>
+
+=>q73
+<end>
+
+=>a74_original
+Tell me more about your brother.<end>
+
+=>a74
+Расскажи мне побольше о своём брате.<end>
+
+=>q75_original
+Hmph, twins. Born and left to die in the middle of the bloody caves. But we were not going down without a fight. And so, we fought. All the way, ::She frowns:: *together*. Until one day... the Black Eels and The Rig. They were fragile and ripe for the taking. Instead, there was a winner and a loser. And you're not looking at former.<end>
+
+=>q75
+Хм, близнецы. Родившиеся и оставшиеся умирать посреди кровавых пещер. Но не собиравшиеся сдаваться без боя. Весь путь прошедшие ::Она хмурится:: *вместе*. Пока однажды... Чёрные угри и Буровая. Их отношения стали хрупкими и созрели для того, чтобы их можно было сломать. Они стали победителями и проигравшими. И ты смотришь не на прежних.<end>
+
+=>q76_original
+There was not a damned thing we didn't work on together. We knew the caves like the back of our hands; not a rock stood unturned... ::She looks to the ground.:: There was nothing that would halt us. And that's exactly why we made it... this far. 
+
+It was ourselves that tore everything apart. Most of all... the two of us... Ambition, opportunity quenched our old ways... perhaps forever. <end>
+
+=>q76
+Не было ни одного чёртового дела, над которым бы мы не работали вместе. Мы знали пещеры как свои пять пальцев; каждый камень, каждую щепочку... ::Она смотрит на землю.:: Не было ничего, что могло бы нас остановить. И именно поэтому мы зашли... так далеко.
+
+Это мы сами всё разорвали на части. Больше всего... мы сами... Амбиции, возможности погасили в нас старые привычки... возможно, уже навсегда.<end>
+
+=>a77_original
+Why do they see you as a traitor?<end>
+
+=>a77
+Почему они считают тебя предательницей?<end>
+
+=>q78_original
+I've accepted an offer... which I though would get me closer to... argh! ::She looks to the ground. Disappointed with her actions, she kicks a nearby rock in rage. After a little while she calms down.:: A damned deal with the Protectorate. It gave me a purpose in life. I wanted to bring back the old ways we used to have. ::She stops.:: But I... I was denied and I... have failed. Now my brother sees me as a traitor... Gahh! The Rig was a mistake!<end>
+
+=>q78
+Я приняла предложение... которое, как я думала, сблизит нас... с братом. ::Она опускает взгляд и от досады за свои поступки яростно пинает ближайший камень. Но вскоре успокаивается.:: Чёртова сделка с Протекторатом. Она дала мне цель в жизни. Я хотела вернуть нас, теми кем когда-то мы были. ::Она прерывается.:: Но мне... мне отказали, и я потерпела неудачу. В *его* глазах я стала ничтожеством... Чёрт! Буровая была большой ошибкой!<end>
+
+=>q79_original
+I... I thought I could rise in ranks at the Rig. With the Protectorate's backing, I thought I could close in the gap. They... they made my scavenging runs... yield good loot for the Eels. ::She nods.:: In return, they kept asking questions. The more I opened up to them, the more they rewarded me. What a false hope that was. ::She looks to the ground.:: Look at me now... I have nothing left.<end>
+
+=>q79
+Я... я рассчитывала, что смогу продвинуться по рангу на Буровой. При поддержке Протектората, я надеялась сократить пропасть, разделявшую нас. Они... они заставляли меня рыться в чужом мусоре... предоставляя за это Угрям хорошую добычу. ::Она с упрёком водит головой.:: И какое-то время это работало. Они продолжали задавать вопросы, и чем больше информации я им открывала, тем больше они меня вознаграждали. Какая это была ложная надежда. ::Она опускает взгляд.:: А теперь погляди на меня. Я осталась ни с чем.<end>
+
+=>a80_original
+When did you join the Black Eels?<end>
+
+=>a80
+Когда ты примкнула к Чёрным угрям?<end>
+
+=>q81_original
+Gangs left and right. By now, you should know how things go down around here. The Eels were devouring themselves. Everybody was looking for ways... to take over. It all originated from Junkyard. There was an idea... to run the gang as a some sort of *co-rule*. They couldn't make up their minds... and trouble followed suit. Together, the two of us... managed to end the infighting by leading the charge.<end>
+
+=>q81
+Банды повсюду, куда ни плюнь. Ты уже долж$(#ен/на) понимать, как тут всё устроено. Угри пожирали самих себя. Каждый искал способ захватить власть над Буровой. Всё началось на Свалке. Возникла идея организовать нечто вроде *совместного управления*. Они никак не могли определиться, и их преследовали неприятности. Прибавь к этому всестороннее давление, и получишь полный бардак. Мы вдвоём разобрались в этом и сумели положить конец междоусобице, возглавив атаку.<end>
+
+=>q82_original
+The joint-rule thing, I... I thought we could make it work. The Junkyard and the Rig. We thought the two of us would run those places. Instead, The Rig was given to my brother and Silas took over the dockyard. ::She covers her eyes. A tear runs down her face.:: I was cast aside like a piece of trash, and he was made a "king". A damned rigmaster. I was just another footsoldier... ::She sighs.:: Turned into a goon.
+
+To be on the top of the mountain... and to fall so hard... so fast.<end>
+
+=>q82
+Эта затея с совместным управлением... я думала, у нас всё получится. Свалка и Буровая. Мы предполагали, что будем вдвоём управлять ими. Однако, вместо этого, Буровую передали моему брату, а верфь перешла Сайласу. ::Она закрывает глаза, и по её щеке скатывается слеза.:: Меня отшвырнули в сторону, как какой-то мусор, а его сделали "королём". Чёртовым распорядителем Буровой. Я была просто ещё одним солдатом... ::Она вздыхает.:: Очередным головорезом.
+
+Быть на вершине горы... и упасть так жёстко... так быстро.<end>
+
+=>a83_original
+::[Perception] or [Intelligence]:: Your speech pattern. I expected you to sound differently. Where are you from exactly?<end>
+
+=>a83
+::[Восприятие] или [Интеллект]:: Твоя манера речи. Я ожидал$(#/а), что ты будешь говорить иначе. Откуда ты родом?<end>
+
+=>q84_original
+Good catch. ::She nods.:: For all we knew, we were the children of the caves. Adaptation was the only way to make due. Words can make bridges... but your actions... they either connect the tunnels... or get you dug deep below them.<end>
+
+=>q84
+Хорошо подмечено. ::Она кивает.:: Насколько нам известно, мы были детьми пещер. А умение приспосабливаться было единственным способом добиться должного. Просто удивительно, как слова могут соединять мосты... ну а действия... либо соединяют туннели... либо заставляют копать глубоко под ними.<end>
+
+=>a85_original
+I'm a corporal of the Protectorate. We can provide you with cover.<end>
+
+=>a85
+Я капрал Протектората. Мы можем обеспечить тебе защиту.<end>
+
+=>q86_original
+You... with them too? Ugh... I guess that makes us... allies of sorts. <end>
+
+=>q86
+Так ты... тоже с ними? Ну... думаю, это делает нас, в каком-то смысле, союзниками.<end>
+
+=>a87_original
+That is correct. And we take good care of all who share our common goals. The Protectorate will provide a secure shelter for you.<end>
+
+=>a87
+Это верно. И мы заботимся обо всех, кто разделяет с нами общие цели. Протекторат предоставит тебе надёжное убежище.<end>
+
+=>q88_original
+I suppose... I have no other options. ::She closes her eyes for a moment.:: Fine. Tell me what to do.<end>
+
+=>q88
+Полагаю... других вариантов у меня и нет. ::Она на миг закрывает глаза.:: Ладно. Скажи мне, что нужно делать.<end>
+
+=>a89_original
+::Explain to her where to find a nearest Protectorate outpost.::<end>
+
+=>a89
+::Объяснить ей, где находится ближайший форпост Протектората.::<end>
+
+=>q90_original
+Can we leave this place now?<end>
+
+=>q90
+Теперь мы можем уйти отсюда?<end>
+
+=>a91_original
+Get on the scrap jet outside and sail to any of the Protectorate outposts nearby. They will take care of the rest.<end>
+
+=>a91
+Забирай Металлоломщик снаружи пещеры и плыви к любому из ближайших форпостов Протектората. Обо всём остальном они позаботятся.<end>
+
+=>q92_original
+I... hope they'll take me. I-I don't have anything left. Thank you.<end>
+
+=>q92
+Надеюсь... они меня примут. У меня ничего не осталось. Спасибо.<end>
+
+=>q93_original
+<end>
+
+=>q93
+<end>
+
+=>a94_original
+Protectorate will take good care of you. Safe travels.<end>
+
+=>a94
+Протекторат о тебе позаботится. Удачного пути.<end>
+
+=>a95_original
+It's still too dangerous. I'll clear the way. Stay here.<end>
+
+=>a95
+Это всё ещё слишком опасно. Я расчищу путь, а ты побудь пока здесь.<end>
+
+=>a96_original
+Wherever Protectorate's foot steps, suffering and destruction follows. You must break free.<end>
+
+=>a96
+Куда бы ни ступила нога Протектората, за ними всюду следуют страдания и разрушения. Тебе нужно освободиться.<end>
+
+=>q97_original
+H-how? What must I do? I just... don't see a place for me anymore.<end>
+
+=>q97
+К-как? Что я могу сделать? Я больше... не вижу для себя подходящего места.<end>
+
+=>a98_original
+Free Drones will offer you a new start. We are all victims of Protectorate's wrong-doings.<end>
+
+=>a98
+Вольные шершни могут дать тебе новое начало. Все мы - жертвы преступных действий Протектората.<end>
+
+=>q99_original
+Free Drones? I've heard about them. All I know that... ::She nods.:: indeed they provide shelter for those who feel expelled. But... I-I... don't know. ::She looks at the palm of her hand. She inspects it carefully for a few moments.:: Fine, I'll join you. I don't have much choice.<end>
+
+=>q99
+Вольные шершни? Я о них слышала. Всё, что я знаю... ::Она кивает.:: они и правда предоставляют убежище любому, кто считает себя изгнанником. ::Она смотрит на свою ладонь и несколько секунд внимательно её изучает.:: Ладно, я с вами. У меня и выбора-то особого нет.<end>
+
+=>a100_original
+::Tell her about the under-passage location. Mention the interphone and provide her the code.::<end>
+
+=>a100
+::Рассказать ей о месте в подземных проходах и сообщить пароль.::<end>
+
+=>q101_original
+Okay. I will try to find them. Is it safe to leave this place, now?<end>
+
+=>q101
+Хорошо. Я постараюсь их найти. Можно ли теперь безопасно покинуть это место?<end>
+
+=>a102_original
+I've cleared the way for you. Take the scrap jet outside and find the rest of the Free Drones.<end>
+
+=>a102
+Я расчистил$(#/а) тебе путь. Бери Металлоломщик снаружи пещеры и отправляйся к остальным Вольным шершням.<end>
+
+=>q103_original
+A new life... So many things to learn all over again... But it'll be worth it. Thank you for giving me a new place I can call home.<end>
+
+=>q103
+Новая жизнь... Столькому предстоит заново научиться... но это того стоит... Спасибо, что предложил$(#/а) мне новое место, которое я смогу назвать домом.<end>
+
+=>q104_original
+<end>
+
+=>q104
+<end>
+
+=>a105_original
+Together we'll fight for what is right. The Free Drones will provide you with everything you need. See you soon.<end>
+
+=>a105
+Мы вместе будем бороться за правое дело. Вольные шершни обеспечат тебя всем необходимым. Скоро увидимся.<end>
+
+=>a106_original
+Not yet. I will clear the way soon.<end>
+
+=>a106
+Пока нет. Но скоро я расчищу путь.<end>
+
+=>a107_original
+It would be best for you to start anew. There is no way Black Eels would welcome you back.<end>
+
+=>a107
+Для тебя будет лучше начать всё сначала. Чёрные угри ни за что не примут тебя обратно.<end>
+
+=>q108_original
+This thought was on my mind ever since... all this happened. But how? Aren't we both now stuck here?<end>
+
+=>q108
+Эта мысль не покидает меня с тех пор, как... всё это произошло. Но как? Разве мы здесь не застряли?<end>
+
+=>a109_original
+I will provide you with a vehicle. After the way is clear I'm sure you can find some residence over at Core City. You have proven yourself enough. Some heat won't stop you.<end>
+
+=>a109
+Я предоставлю тебе транспорт. Когда путь будет свободен, отправляйся в Кор-Сити, я уверен$(#/а), ты подыщешь себе какое-нибудь жилище. Ты уже доказала, что умеешь выпутываться из передряг.<end>
+
+=>q110_original
+Thank you... I... I'll be waiting here.<end>
+
+=>q110
+Спасибо... Я... я буду ждать здесь.<end>
+
+=>a111_original
+The way is cleared. A scrap jet is waiting for you outside.<end>
+
+=>a111
+Дорога расчищена. Металлоломщик ждёт тебя снаружи.<end>
+
+=>q112_original
+I... I'll not give up yet. There is so much more to see...T-to do. Thank you for giving me another chance.<end>
+
+=>q112
+Я... я не собираюсь сдаваться. Столько всего ещё нужно увидеть... и-и сделать. Спасибо, что дал$(#/а) мне ещё один шанс.<end>
+
+=>q113_original
+<end>
+
+=>q113
+<end>
+
+=>a114_original
+Everybody deserves a second chance. Take care.<end>
+
+=>a114
+Каждый заслуживает второго шанса. Береги себя.<end>
+
+=>a115_original
+Be right back.<end>
+
+=>a115
+Скоро вернусь.<end>
+
+=>a116_original
+::[Persuasion]:: Perhaps... There is a way to fix what's broken.<end>
+
+=>a116
+::[Убеждение]:: Возможно... есть способ вам с братом наладить отношения.<end>
+
+=>q117_original
+There is? How? ::She looks you in the eyes. You have her full attention.::<end>
+
+=>q117
+Думаешь, есть? И как? ::Она выжидающе смотрит в ваши глаза.::<end>
+
+=>a118_original
+No mere quarrel should be able to sever a family. The history the two of you share, tramples this meager set of unfortunate events, and you should be able to sail right past it all.<end>
+
+=>a118
+Никакая ссора не должна быть способна разлучить семью. История, которую вы двое переживаете, попирает этот скудный набор печальных событий, и вы должны просто пройти мимо всего этого.<end>
+
+=>q119_original
+::She interrupts you.:: I-I've never seen it that way. Perhaps... I... just asked too much out of him.<end>
+
+=>q119
+::Она перебивает вас.:: Я никогда не рассматривала это с такой стороны. Возможно... я... просто многого от него требовала.<end>
+
+=>a120_original
+Eventually, the sands of time will bury everything. Live for what there's left of it. Speak to him. Remind him who you are and what you've been through to get there.<end>
+
+=>a120
+Рано или поздно, песок времени исчезает. Живи ради того, что ещё осталось. Поговори с ним. Напомните ему, кто вы и через что вам пришлось пройти.<end>
+
+=>q121_original
+We... we did make it alive this far... And I... I'll own up to my mistakes. ::She looks directly at you.:: There's nothing else left to lose anyway...<end>
+
+=>q121
+Мы... мы живы до сих пор... И я... Я признаю свои ошибки. ::Она смотрит на вас.:: В любом случае терять больше нечего...<end>
+
+=>a122_original
+It is a risk worthy of undertaking.<end>
+
+=>a122
+Ради этого стоит рискнуть.<end>
+
+=>q123_original
+Thank you... I... We must find a way to... get out of this place now.<end>
+
+=>q123
+Спасибо... Мне... Нам нужно найти способ... как можно быстрее убраться отсюда.<end>
+
+=>a124_original
+The path is clear for you now. Take the scrap jet outside and go back to The Rig.<end>
+
+=>a124
+Путь уже свободен. Бери Металлоломщик снаружи пещеры и возвращайся обратно на Буровую.<end>
+
+=>q125_original
+Hopefully he will... heed me out. I'll admit my wrongdoings to him and... perhaps... we can figure a way out.<end>
+
+=>q125
+Надеюсь, он выслушает меня. Я признаюсь ему в своих ошибках, и... возможно... мы сумеем найти выход.<end>
+
+=>q126_original
+<end>
+
+=>q126
+<end>
+
+=>a127_original
+Good luck.<end>
+
+=>a127
+Удачи.<end>
+
+=>a128_original
+It's still too dangerous. Let me take care of that.<end>
+
+=>a128
+Это всё ещё слишком опасно. Давай, я сам$(#/а) разберусь с этим.<end>
+
+=>a129_original
+Hmm, come to think of it... I need a moment.<end>
+
+=>a129
+Хм-м, дай мне подумать об этом... Мне нужна минутка.<end>
+
+=>q130_original
+I don't even know, anymore.<end>
+
+=>q130
+Я уже совсем не уверена.<end>
+
+=>q131_original
+I... I just don't see it. There is no way after... all that I've done.<end>
+
+=>q131
+Я... я просто его не вижу. Это невозможно после... всего, что я сделала.<end>
+
+=>a132_original
+The Black Eels were right all along. You made a terrible mistake raising your hand on them.<end>
+
+=>a132
+Чёрные угри были правы. Ты совершила ужасную ошибку, подняв на них оружие.<end>
+
+=>q133_original
+And did I deserve to die for it?<end>
+
+=>q133
+Так что же, я заслуживаю за это смерти?<end>
+
+=>a134_original
+You sure did! ::Attack!::<end>
+
+=>a134
+Конечно, заслуживаешь! ::Напасть!::<end>
+
+=>a135_original
+That is not for me to decide. You are on your own now.<end>
+
+=>a135
+Это не мне решать. Теперь ты сама по себе.<end>
+
+=>q136_original
+Then leave me be!<end>
+
+=>q136
+Тогда уходи!<end>
+
+=>a137_original
+::Leave.::<end>
+
+=>a137
+::Уйти::<end>
+
+=>a138_original
+I don't think I can help you out. You're on your own now.<end>
+
+=>a138
+Вряд ли я смогу тебе помочь. Теперь ты сама по себе.<end>
+
+=>q139_original
+Fine... Nothing changes then. I... I need to be alone now.<end>
+
+=>q139
+Ладно... Значит, ничего не изменилось. А сейчас... мне нужно побыть одной.<end>
+
+=>a140_original
+Good luck.<end>
+
+=>a140
+Удачи.<end>
+
+=>a141_original
+Let me make this all easy for you! By finishing what they've started! ::Attack!::<end>
+
+=>a141
+Давай я для тебя всё упрощу! Закончив то, что они начали! ::Напасть!::<end>
+
+=>a142_original
+::Nod and leave.::<end>
+
+=>a142
+::Кивнуть и уйти.::<end>
+
+=>a143_original
+I need some time alone. I'll be back.<end>
+
+=>a143
+Мне нужно ненадолго уединиться. Я вернусь.<end>
+
+=>a144_original
+The Rig is no more.<end>
+
+=>a144
+Буровой больше нет.<end>
+
+=>q145_original
+What? Can't be? W-what happened? ::She's taken back by what you've said. Her eye pupils widen up as she stares at you, frozen in place.::<end>
+
+=>q145
+Что? Не может быть! Ч-что случилось? ::Ваши слова застигли её врасплох. И пока она глядит на вас, застыв на месте, её зрачки расширяются.::<end>
+
+=>a146_original
+The Pirates raided it. They've killed everyone in sight.<end>
+
+=>a146
+Её разграбили пираты. Они убили всех, кого заметили.<end>
+
+=>q147_original
+Jetters? ::She raises her weapon.:: I... I can't believe it. ::Soon after she lowers her shotgun as her hands start shaking.:: Leave me be. ::She points to the exit of the cave.::<end>
+
+=>q147
+Всадники? ::Она поднимает оружие.:: Я... я поверить не могу. ::Вскоре она опускает дробовик, так как её руки начинают дрожать.:: Оставь меня. ::Она указывает на выход из пещеры.::<end>
+
+=>a148_original
+Goodbye.<end>
+
+=>a148
+До свидания.<end>
+
+=>a149_original
+::Turn around and leave.::<end>
+
+=>a149
+::Развернуться и уйти.::<end>
+
+=>a150_original
+I've slaughtered everyone.<end>
+
+=>a150
+Я перебил$(#/а) всех и каждого.<end>
+
+=>q151_original
+::She points her shotgun at you.:: How could YOU! ::She shouts in rage.:: Argh!<end>
+
+=>q151
+::Она наставляет на вас дробовик.:: Да как ты мог$(#/ла)! ::От ярости она начинает кричать.:: Ар-р-р!<end>
+
+=>a152_original
+::Fight!::<end>
+
+=>a152
+::Бой!::<end>
+
+=>a153_original
+I have no idea. Someone has completely destroyed the place.<end>
+
+=>a153
+Понятия не имею. Но кто-то полностью её уничтожил.<end>
+
+=>q154_original
+That's impossible. ::She looks at the ground.:: I'm trully all on my own now... I... ::She sighs.:: Leave me be, please.<end>
+
+=>q154
+Это невозможно. ::Она опускает взгляд.:: Теперь я действительно сама по себе... Я... ::Она вздыхает.:: Пожалуйста, оставь меня одну.<end>
+
+=>a155_original
+It's still too dangerous for you to leave. Give me more time. ::Leave.::<end>
+
+=>a155
+Идти всё ещё слишком опасно. Дай мне немного времени. ::Уйти.::<end>
+
+=>a156_original
+::Leave.::<end>
+
+=>a156
+::Уйти::<end>
+
+=>q157_original
+::Right before she has turned around to face you, she was leaning against the wall with her left hand. In the other hand, she holds a shotgun at which she was staring aimlessly. From the back, her clothes are all muddy and partially stiched up. The exposed parts of her damaged body armor, reveal newly applied bandages, which cover her right shoulder. Her footwear is drenched in blood, which has started to fade out at this point. Said stains, produce a myriad of smells, one would find hard to stand next to for a longer period of time. As you get close, she slowly turns towards you.::<end>
+
+=>q157
+::Прежде чем повернуться к вам, она опирается на стену левой рукой. Вторая её рука сжимает дробовик, на который она уставилась пустым взглядом. Сзади вся её одежда запачкана, и кое-где стоят заплатки. В броне зияют дыры, сквозь которые видны свежие бинты, наложенные на правое плечо. Её обувь насквозь пропитана кровью, которая уже стала выцветать. Эти пятна, производят обилие запахов, из-за чего трудно находиться рядом в течение долгого времени. Когда вы подходите ближе, она медленно поворачивается к вам.::<end>
+
+=>q158_original
+::It would seem that this is the woman, mentioned by the person you've talked to on the other side of the cave called: Kaya. From time to time, the hand which she's using to hold the shotgun, jitters slightly. It is obvious to you that she is drained completely, as her grip on the gun is weak.::<end>
+
+=>q158
+::Видимо, это та самая женщина, о которой упоминал человек на другой стороне пещеры - Кая. Время от времени рука, которой она держит дробовик, слегка подрагивает. Она едва может его удержать, очевидо, что она полностью истощена.::<end>
+
+=>q159_original
+::She struggles to point the gun at you, only making it half way, aiming close to your feet.:: You... Who the hell are *you*? ::With pale voice she utters those words, barely holding up altogether.
+
+Despite everything, determination is still present within her, as she keeps trying to straighten her back and pose a threat to you.::<end>
+
+=>q159
+::Она изо всех сил старается наставить на вас оружие, но не может достаточно поднять его даже для того, чтобы нацелиться на ваши ноги.:: Ты... *Ты* кто, нахрен, так$(#ой/ая)? ::Произносит она эти слова слабо и и тихо, едва держится на ногах.
+
+Несмотря на это, она не растеряла решимости и продолжает пытаться выпрямить спину, чтобы представлять для вас угрозу.::<end>
+
+=>q160_original
+<end>
+
+=>q160
+<end>
+
+=>a161_original
+Preserve your strength. I'm not here to hurt you.<end>
+
+=>a161
+Побереги свои силы. Я тебя не трону.<end>
+
+=>q162_original
+::The tension on her face slowly fades away. Almost a minute passes before she continues to talk, as it seems she's trying to rest.:: How... how did you make it here? ::The little break she took reinvigorates her voice.::<end>
+
+=>q162
+::Напряжение на её лице медленно исчезает. Прежде чем она продолжает говорить, так как кажется, что она пытается отдохнуть.:: Как... как ты сюда попал$(#/а)? ::Небольшой перерыв, кажется, сделал её голос более живее.::<end>
+
+=>a163_original
+I've fought my way through here. Bunch of mutants and other creatures were in my way.<end>
+
+=>a163
+Я пробивал$(#ся/ась) сюда с боем. У меня на пути было полно мутантов и других тварей.<end>
+
+=>q164_original
+You... alone? ::Your words bring back some confidence into her.:: Maybe... there's an out after all... <end>
+
+=>q164
+Ты... в одиночку? ::Ваши слова возвратили ей немного уверенности.:: Возможно, всё-таки есть выход...<end>
+
+=>a165_original
+There are still a few left. Let's just say it was manageable. I'd like to know how you ended up in this cave?<end>
+
+=>a165
+Их там осталось ещё немного. Но, скажем так, это поправимо. Я хотел$(#/а) бы узнать, как ты оказалась в этой пещере?<end>
+
+=>q166_original
+::Her eyes now look past you, seemingly focused on to nothing.:: Likely the same way you did... Through the opening in the... waterways. We sailed from The Rig. Sent by my brother, the Rigmaster. ::She shakes her head.:: Our group rode in... pumped for some action. And it all went well until... <end>
+
+=>q166
+::Сейчас её взгляд проходит сквозь вас, ни за что не цепляясь.:: Скорее всего, так же, как и вы... Через огромный пролом. Вас прислал мой брат начальник Буровой. ::Она водит головой из стороны в сторону.:: Он отправил нас сюда, чтобы мы осмотрелись, поискали что-нибудь полезное. И... всё это казалось мне неплохой затеей до сих пор...<end>
+
+=>a167_original
+Until?<end>
+
+=>a167
+Пока что?<end>
+
+=>q168_original
+We arrived to some shacks... Mutants all around us. ::She closes her eyes.:: Huge rocks started flying our way from all over... One of our guys got hit - his legs shattered like it was nothing.. He grabbed onto me... pulled him over. ::She looks down.:: We were forced to land. Freaks cornered us up against a huge metal wall. There was no way out, but to climb it.<end>
+
+=>q168
+Мы подошли к каким-то лачугам... Повсюду появились мутанты. ::Она закрывает глаза.:: В нас начали лететь огромные камни. Одному парню раздробило ноги за считанные секунды... Он вцепился в меня... я вытащила его. ::Она смотрит вниз.:: Мы были вынуждены выйти на берег. Уроды загнали нас в угол у огромной металлической стены. Выхода не было, оставалось только перелезть её.<end>
+
+=>q169_original
+No clue how we did it... but we made it up there.:: Remorse can be seen on her face. She stops for a while before taking another deep breath.:: They've derailed us completely. ::She points to her head.:: With some stuff I've had left on me... I've tried to patch us up. We pushed onward.<end>
+
+=>q169
+Понятия не имею, как мы это сделали... но мы сделали это. ::На её лице видно раскаяние. Она останавливается на некоторое время, прежде чем сделать ещё один вздох.:: Они практически разбили нас. ::Она указывает на свою голову.:: Кое-какими вещами, которые у меня остались... Я подлатала нас. И мы двинулись дальше.<end>
+
+=>a170_original
+Where are the others now?<end>
+
+=>a170
+Где сейчас остальные?<end>
+
+=>q171_original
+All done and gone... ::She pauses briefly. Quiet crackling of the shotgun's grip can be heard. Added to that, her hands start shaking making the weapon rattle.:: Once we made it here... all hell broke loose. The one I rescued earlier, whom we had dragged all the way, spoke up from his... foul mouth. He... he started accusing me of treason. Telling the others I've turned my back on them. Called me a rat. A SNITCH!:: She stomps the ground.::<end>
+
+=>q171
+Их больше нет... ::Она делает короткую паузу. Слышно только тихое потрескивание рукоятки дробовика. Вдобавок, её рука начинает дрожать, что заставляет оружие также стучать.:: Спустя какое-то время мы добрались сюда. А потом... начался настоящий ад. Тот, кого я ранее спасла, кого мы тащили сюда весь путь, заговорил своим скверным ртом. Он... он стал обвинять меня в измене. Сказал остальным, что я отвернулась от них. Назвал меня крысой. СТУКАЧКОЙ! ::Она в гневе топает ногой.::<end>
+
+=>a172_original
+What exactly caused the first fatality you've mentioned?<end>
+
+=>a172
+А что послужило причиной первой смерти, о которой ты упомянула?<end>
+
+=>q173_original
+On our way here, we had to go through caves filled with spiders. It became almost impossible to navigate through the webs they've spun. He was the one caught in their trap. ::She shakes her head.:: Shortly after he... ended up getting electrocuted. ::She places her right hand over her eyes.:: Poor Sean, never stood a chance.<end>
+
+=>q173
+Чтобы добраться сюда, нам пришлось идти через пещеры, кишащие пауками. Было практически невозможно сориентироваться в их паутине. Он-то и угодил в их ловушку. ::Она качает головой.:: После чего... его мгновенно убило током. ::Она закрывает глаза правой рукой.:: Бедный Шон, у него не было ни шанса.<end>
+
+=>a174_original
+What happened next?<end>
+
+=>a174
+Что было дальше?<end>
+
+=>q175_original
+After I pulled the trigger, I-I... I was in shock. All the build up... couldn't hold it any more. My days were numbered. But... I was not to sit by and watch. ::She looks at her weapon.:: They are but ashes now.<end>
+
+=>q175
+После того, как я нажала курок, мной... мной овладело безумие. Я просто не могла сдержать всего, что накопилось. Они оскорбляли меня, как только это было возможно. Я знала, что должно было случиться, мои дни были сочтены. Но... это не означало, что я буду сидеть сложа руки и наблюдать. ::Она смотрит на своё оружие.:: Теперь от них остался лишь пепел.<end>
+
+=>a176_original
+I've been told only half of the story here. The dying man on the other side of this cave told me as much.<end>
+
+=>a176
+Я слышал$(#/а) лишь половину этой истории. Её рассказал умирающий человек на той стороне пещеры.<end>
+
+=>q177_original
+Half of the story? ::This surprises her, as her eyebrows raise up. She then glances at you for a few seconds, only to turn away right after..:: Pfft... And what did he tell you?<end>
+
+=>q177
+Половину истории? ::Она в удивлении поднимает брови, глядит на вас пару секунд, после чего отворачивается.:: Пф-ф... И что же он рассказал тебе?<end>
+
+=>a178_original
+He called you a traitor.<end>
+
+=>a178
+Он назвал тебя предательницей.<end>
+
+=>q179_original
+Have you been sent here to finish the job? ::Once again she's trying to lift up her gun. This time, she has regained some strength and is able to aim somewhat properly.::<end>
+
+=>q179
+Тебя послали сюда, чтобы закончить дело? ::Она вновь пытается поднять оружие. На этот раз, немного передохнув, она в состоянии направить его на вас.::<end>
+
+=>q180_original
+<end>
+
+=>q180
+<end>
+
+=>a181_original
+I'm all on my own.<end>
+
+=>a181
+Я сам$(#/а) по себе.<end>
+
+=>q182_original
+::She lowers the weapon.:: I've tried to break free. But... I just can't do it alone.<end>
+
+=>q182
+::Она опускает оружие.:: Я пыталась вырваться. Но... мне просто не справиться в одиночку.<end>
+
+=>a183_original
+Tell me more.<end>
+
+=>a183
+Расскажи мне подробнее.<end>
+
+=>q184_original
+Ugh... ::She covers her eyes with her left hand.:: I... my brother. There is nothing left in my life. ::She wipes tears from her eyes.:: He... he wanted to get rid of me. How could he forsake our family? ::She shakes her head.:: Sent me with his goons... to take me out. And they... started calling me names... A traitor? Seriously? ::She gasps.:: I pulled the trigger. And after the mayhem, I was the last one left standing.<end>
+
+=>q184
+Ах... ::Она прикрывает глаза левой рукой.:: Я... мой брат. В моей жизни больше ничего не осталось. ::Она вытирает слёзы рукой.:: Он... он хотел избавиться от меня. Как он мог отречься от нашей семьи? ::Она качает головой.:: Отправил меня со своими громилами... чтобы они меня убрали. И они... стали обзывать меня... ::Она говорит исподлобья.:: Крысой-стукачкой. У меня не было выбора... Я спустила курок. А после хаос, осталась только я.<end>
+
+=>a185_original
+They gave me no directions. All they wanted to know is whether or not your group made it alive.<end>
+
+=>a185
+Они не дали мне никаких указаний. Они лишь хотели выяснить, выжила ли твоя группа.<end>
+
+=>q186_original
+They are sending out more people here ::She looks to the ground.::. And I... I need help...<end>
+
+=>q186
+Они отправляют сюда всё больше людей ::Она опускает взгдяд.:: И мне... мне нужна помощь...<end>
+
+=>a187_original
+After everything I've learned... I indeed side with the Black Eels.<end>
+
+=>a187
+После всего, что я узнал$(#/а)... я на стороне Чёрных угрей.<end>
+
+=>q188_original
+You leave me no choice. Leave me be, or face the faith of the rest of my group.<end>
+
+=>q188
+Ты не оставляешь мне выбора. Лучше оставь меня в покое или тебя постигнет судьба остальной моей группы.<end>
+
+=>a189_original
+As you wish. I've learned enough.<end>
+
+=>a189
+Как скажешь. Я узнал$(#/а) достаточно.<end>
+
+=>a190_original
+Your group was not meant to be. I'll make sure of it! ::Attack!::<end>
+
+=>a190
+Твоей группе не суждено было выжить. Я позабочусь об этом! ::Напасть!::<end>
+
+=>a191_original
+::Turn around and leave.::<end>
+
+=>a191
+::Развернуться и уйти.::<end>
+
+=>a192_original
+I've had enough. I'll mind my own business.<end>
+
+=>a192
+С меня довольно. Я не собираюсь лезть не в своё дело.<end>
+
+=>a193_original
+In the end he was regretful for everything that has transpired here. I didn't catch much more than that.<end>
+
+=>a193
+Он сожалел обо всём, что здесь в итоге случилось. Это единственное, что я смог$(#/ла) понять.<end>
+
+=>q194_original
+Hmph. A fool. What else could a backstabber say. Hmph... ::she tilts her chin up slightly.:: at least it seems he had a change of heart.<end>
+
+=>q194
+Пф-ф. Вот кретин. Что же ещё мог сказать предатель? Хм-м... ::она слегка задирает подбородок.:: по крайней мере, он, вроде как, изменил свои взгляды.<end>
+
+=>a195_original
+::Keep listening, quietly.::<end>
+
+=>a195
+::Продолжать молча слушать.::<end>
+
+=>a196_original
+Yeah, piece of cake. What about you though? How did you get in here?<end>
+
+=>a196
+Да, пустяки. Но, что насчёт тебя? Как ты здесь оказалась?<end>
+
+=>a197_original
+Tool of the trade. I don't reveal my ways.<end>
+
+=>a197
+С помощью подручных средств. Я не раскрываю свои методы.<end>
+
+=>q198_original
+I guess... It's not like I've earned to know that... ::She exhales loudly.:: What now?<end>
+
+=>q198
+Пожалуй... я не заслуживаю твоего доверия... ::Она громко вздыхает.:: Что теперь?<end>
+
+=>a199_original
+Worry not. I wish you no harm. Tell me how did you end up in here?<end>
+
+=>a199
+Не волнуйся. Я не желаю тебе зла. Расскажи мне, как ты здесь оказалась?<end>
+
+=>a200_original
+That's beside the point. I'd like to know what's going on here.<end>
+
+=>a200
+Это не имеет значения. Я хочу узнать, что здесь происходит.<end>
+
+=>q201_original
+I suppose you're right... Who am I to ask that... ::She takes a deep breath.:: I was tricked. Lured here to be burried forever. ::She shakes her head, side to side in disapproval.:: By the very own people I used to live with. Day by day we've scoured the waterways. And just like that... They attempted to get rid of me this way. Not on my watch. Hmph.<end>
+
+=>q201
+Пожалуй, ты прав$(#/а)... Кто я такая, чтобы спрашивать... ::Она делает глубокий вдох.:: Меня обманули. Заманили сюда, чтобы я навсегда осталась здесь. ::Она с горечью качает головой.:: Те самые люди, с которыми я когда-то жила. Изо дня в день мы вместе прочёсывали водные пути. И вот так просто... Они пытались избавиться от меня. Пф-ф, только не в мою смену.<end>
+
+=>a202_original
+I have hard time keeping up. Care to elaborate a bit?<end>
+
+=>a202
+Не могу уловить суть. Может расскажешь поподробнее?<end>
+
+=>a203_original
+Help me connect the dots here.<end>
+
+=>a203
+Помоги мне восполнить пробелы.<end>
+
+=>a204_original
+I've just walked in here. I mean no harm.<end>
+
+=>a204
+Я просто бродил$(#/а) здесь. Я не причиню вреда.<end>
+
+=>q205_original
+::She covers her eyes with her left hand. Fatigue and better judgement make her calm down immediately. Tears start to drop down her tired face, as she slowly wipes them off.:: I-I'm... sorry. ::She speaks in quiet whispers as she thinks outloud.:: What do I do now? What...:: She seems to be mourning for something that has happened.::<end>
+
+=>q205
+::Она прикрывает глаза левой рукой. Усталость и голос разума помогают ей немедленно успокоиться. Слёзы начинают течь по её усталому лицу, и она неспешно их вытирает.:: П-прости... прости меня. ::Она говорит тихим шёпотом, размышляя вслух.:: Что же мне теперь делать? Что... ::Похоже, она скорбит о том, что с ней случилось.::<end>
+
+=>a206_original
+No offense taken. Tell me, what's going on here?<end>
+
+=>a206
+Никаких обид. Расскажи мне, что здесь происходит?<end>
+
+=>q207_original
+A huge disaster. I've never imagined this day would come... And all this... because... ::She stops talking and few more tears drop down her face.::<end>
+
+=>q207
+Полная катастрофа. Я и представить себе не могла, что этот день настанет... И всё... из-за того... ::Она замолкает, и слёзы снова катятся по её щекам.::<end>
+
+=>a208_original
+Because of what?<end>
+
+=>a208
+Из-за чего?<end>
+
+=>a209_original
+Why are you crying?<end>
+
+=>a209
+Почему ты плачешь?<end>
+
+=>q210_original
+I've made a mistake... They've made a mistake... This is all a huge mess.<end>
+
+=>q210
+Я совершила ошибку... Они совершили ошибку... Всё это - сплошная ошибка.<end>
+
+=>a211_original
+I'm not following.<end>
+
+=>a211
+Я не понимаю.<end>
+
+=>a212_original
+I'm aware of your situation here. I only wish to talk.<end>
+
+=>a212
+Я знаю о твоём положении. Я просто хочу поговорить.<end>
+
+=>q213_original
+::Midway during your sentence, it would seem she was hoping you would not act agressively towards her as she calms herself down by stopping her attempts to point the gun at you. She closes her eyes and proceedes to hear you out.:: So... You spoke to him. I thought he'd be dead by now.<end>
+
+=>q213
+::На середине вашего предложения, она, похоже, успокоилась и прекратила попытки наставить на вас оружие, расчитывая, что вы не станете проявлять к ней враждебность. Она закрыла глаза и спокойно вас выслушала.:: Значит... ты говорил$(#/а) с ним. Я думала, что он уже мёртв.<end>
+
+=>a214_original
+He is dead.<end>
+
+=>a214
+Он мёртв.<end>
+
+=>q215_original
+I don't care. Wish I never knew him.<end>
+
+=>q215
+Мне плевать. Лучше бы я его вообще не знала.<end>
+
+=>a216_original
+I was sent here to find out what has happened to your group.<end>
+
+=>a216
+Мне поручили выяснить, что случилось с твоей группой.<end>
+
+=>q217_original
+Huh? Who... who sent you?<end>
+
+=>q217
+А? Кто... кто тебя послал?<end>
+
+=>a218_original
+Ion from the Rig sent me here.<end>
+
+=>a218
+Ион с Буровой отправил меня сюда.<end>
+
+=>q219_original
+Ion. I see. So... you are working for them, too?<end>
+
+=>q219
+Ион. Ясно. Значит... ты тоже работаешь на них?<end>
+
+=>a220_original
+Private matter.<end>
+
+=>a220
+Это частное дело.<end>
+
+=>q221_original
+Let me guess. It was someone from RIg?<end>
+
+=>q221
+Дай-ка угадаю. Это был кто-то с Буровой?<end>
+
+=>a222_original
+Yes, it was Ion.<end>
+
+=>a222
+Да, это был Ион.<end>
+
+=>a223_original
+I'm not repeating myself. Let's change the subject back to the current situation. What happened here?<end>
+
+=>a223
+Я не собираюсь повторять. Лучше вернёмся к насущным вопросам. Что здесь случилось?<end>
+
+=>q224_original
+Hmph... ::Her eyes glance, side to side as she thinks for a bit.:: Fine. ::She exhales loudly.:: It's not like I have much options left here.
+
+
+
+<end>
+
+=>q224
+Хм... ::Во время недолгих раздумий её взгляд бегает из стороны в сторону.:: Ладно. ::Она громко выдыхает.:: Похоже, у меня не так уж и много вариантов.
+
+
+<end>
+
+=>a225_original
+I wish to know more, how exactly did you end up in here?<end>
+
+=>a225
+Я хочу узнать поподробнее, как именно ты здесь оказалась?<end>
+
+=>a226_original
+Time for you to join the others who have fallen here! ::Attack!::<end>
+
+=>a226
+Пора тебе присоединиться к остальным покойникам! ::Напасть!::<end>
+
+=>a227_original
+I will finish what the Black Eels started. ::Attack!::<end>
+
+=>a227
+Я закончу начатое Чёрными угрями. ::Напасть!::<end>
+
+=>a228_original
+::Try to back away.::<end>
+
+=>a228
+::Попытаться уйти.::<end>
+
+=>q229_original
+::She raises her shotgun.:: And where do you think you're going?<end>
+
+=>q229
+::Она поднимает свой дробовик.:: И куда это ты собраешься?<end>
+
+=>a230_original
+Sorry, I only wanted to make sure of something.<end>
+
+=>a230
+Извини, я просто хотел$(#/а) кое в чём удостовериться.<end>
+
+=>q231_original
+Oh yeah? ::She raises her gun.:: And I'll make sure you're NOTHING!<end>
+
+=>q231
+Да ну? ::Она поднимает оружие.:: Я удостоверюсь в том, что тебя НЕ БУДЕТ!<end>
+
+=>a232_original
+::Fight!::<end>
+
+=>a232
+::Бой!::<end>
+
+=>a233_original
+::Ignore her.::<end>
+
+=>a233
+::Проигнорировать её.::<end>
+
+=>q234_original
+I'm all alone now... AND I INTEND TO STAY SO!<end>
+
+=>q234
+Теперь я совсем одна... И Я ПОЗАБОЧУСЬ, ЧТОБЫ ТАК И БЫЛО!<end>
+

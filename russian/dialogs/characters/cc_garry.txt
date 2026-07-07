@@ -1,0 +1,502 @@
+﻿=>q1_original
+::Garry greets you with a smile.:: Well, well, $(context.playerArenaTitle), I guess no one is able to stop you. You have just one more opponent standing between you and the title. Invictus! Must feel good, I presume.<end>
+
+=>q1
+::Гарри встречает вас улыбкой.:: Ну и ну, $(context.playerArenaTitle), посмотрите только, вас никому не остановить. Только один противник остался между вами и высшим титулом. Инвиктус! Хорошее, должно быть, чувство.<end>
+
+=>a2_original
+It does. It does feel *really* good.<end>
+
+=>a2
+Действительно. *Очень* приятное чувство.<end>
+
+=>q3_original
+Great. You're going up against one difficult opponent. Not everyone can become the Invictus, you know. I just wanted to wish you luck. I have no advice to offer to you when it comes to Dread Lord, but I don't think you need any.<end>
+
+=>q3
+Замечательно. На этот раз у вас будет очень непростой противник. Не каждый может стать инвиктусом, знаете ли. Я только хотел пожелать вам удачи. У меня нет для вас совета относительно Властелина ужаса, да я и не думаю, что он вам нужен.<end>
+
+=>a4_original
+Thank you.<end>
+
+=>a4
+Спасибо.<end>
+
+=>q5_original
+You're welcome.<end>
+
+=>q5
+Пожалуйста.<end>
+
+=>q6_original
+Listen here, my dear friend: Being the enthusiast I am, I'm going to make sure I get as close as I can to the bloodbath. I wouldn't want to miss this match, even if it kills me. ::He laughs.::
+
+See you later, $(context.playerArenaTitle).<end>
+
+=>q6
+Послушайте, мой дорогой друг: будучи энтузиастом, я всегда стараюсь оказаться так близко, как я только могу к кровопролитию. Я бы не смог пропустить этот матч, даже если это убьёт меня. ::Он смеётся.::
+
+Увидимся, $(context.playerArenaTitle).<end>
+
+=>a7_original
+See you later, Garry.<end>
+
+=>a7
+Увидимся позже, Гарри.<end>
+
+=>a8_original
+I don't need luck. I'll be sending Dread Lord to sleep from which he is never going to wake up.<end>
+
+=>a8
+Мне не нужна удача. Я отправлю Властелина ужаса в кошмар, от которого он уже не проснётся.<end>
+
+=>q9_original
+Perhaps you don't, but it never hurts to have luck on your side, does it? ::He laughs.::<end>
+
+=>q9
+Вам -- возможно, и не нужна, но немного удачи никогда не помешает, не так ли? ::Он смеётся.::<end>
+
+=>a10_original
+I'm ready to fight this Dread Lord. Nothing can stand in my way!<end>
+
+=>a10
+Я готов$(#/а) к схватке с этим Властелином ужаса. Никто не может стоять на моём пути!<end>
+
+=>q11_original
+Yes, Dread Lord. You're going up against one difficult opponent. Not everyone can become the Invictus, you know. I just wanted to wish you luck. I have no advice to offer to you when it comes to Dread Lord, but I don't think you need any.<end>
+
+=>q11
+Да, это Властелин ужаса. У вас будет очень непростой противник. Не каждый может стать инвиктусом, знаете ли. Я только хотел пожелать вам удачи. У меня нет для вас совета относительно него, да я и не думаю, что он вам нужен.<end>
+
+=>a12_original
+Can you tell me something about my opponent?<end>
+
+=>a12
+Можете ли вы рассказать мне что-нибудь про моего противника?<end>
+
+=>q13_original
+Well, I can't say much, other that you're up against a difficult opponent. Not everyone can become the Invictus, you know. I just wanted to wish you luck. I have no advice to offer to you when it comes to Dread Lord, but I don't think you need any.<end>
+
+=>q13
+Ну, не могу вам многого сказать, кроме того, что у вас будет очень непростой противник. Не каждый может стать инвиктусом, знаете ли. Я только хотел пожелать вам удачи. У меня нет для вас совета относительно Властелина ужаса, да я и не думаю, что он вам нужен.<end>
+
+=>q14_original
+::A robed figure steps up and talks to you.:: $(context.player.Name). I want to congratulate you on your victory. That last match of yours - perfection!<end>
+
+=>q14
+::К вам подходит человек в мантии.:: $(context.player.Name). Я хочу поздравить вас с победой. Ваш последний матч -- само совершенство!<end>
+
+=>a15_original
+Thank you, I try my best.<end>
+
+=>a15
+Спасибо, я стараюсь изо всех сил.<end>
+
+=>q16_original
+I can see that. My name's Garry. I'm an enthusiast - a bloodthirsty maniac if you will. ::He smiles.::<end>
+
+=>q16
+Я это вижу. Меня зовут Гарри. Я энтузиаст, кровожадный маньяк, так сказать. ::Он улыбается.::<end>
+
+=>q17_original
+I hope I'm not bothering you too much, but, wow, you are making remarkable progress. You caught the eye of the crowd extremely fast, I can tell you that. That's pretty amazing. And pretty rare. Are you by any chance, how do I put this, backed up by any of the families?<end>
+
+=>q17
+Надеюсь, я не слишком назойлив, но, вау, ваши успехи впечатляют. Вы привлекли внимание толпы необычайно быстро, скажу я вам. Это замечательно. Такое случается очень редко. Мне интересно, вас... как бы это сказать, не поддерживает ли вас какая-либо из семей?<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+What do you mean?<end>
+
+=>a19
+Что вы имеете в виду?<end>
+
+=>q20_original
+::He chuckles.:: I'm talking about the Oligarchs, of course. You know, Knight family? Simmons? Edstrom, perhaps?<end>
+
+=>q20
+::Он хихикает.:: Я говорю об олигархах, конечно. Вы знаете, семья Найтов? Симмонсы? Эдстром, быть может?<end>
+
+=>a21_original
+I work for Coretech, if that's what you mean.<end>
+
+=>a21
+Я работаю на КорТех, если вы это имеете в виду.<end>
+
+=>q22_original
+::He nods.:: Yes. Makes sense.<end>
+
+=>q22
+::Он кивает.:: Да. Я так и думал.<end>
+
+=>a23_original
+What exactly do you want from me?<end>
+
+=>a23
+Что именно вы от меня хотите?<end>
+
+=>q24_original
+From you? I'm just an enthusiast. Been one for years. And you are new to the Arena and have great potential. I know a lot about the gladiators you'll be battling, and judging by your skills, you'll battle many more. I simply want to be helpful.<end>
+
+=>q24
+От вас? Я просто энтузиаст. Я был им в течение многих лет. А вы -- новичок на Арене и обладаете большим потенциалом. Я много знаю про гладиаторов, с которыми вы будете сражаться, и, судя по вашим умениям, у вас впереди ещё не один матч. Я просто хочу вам помочь.<end>
+
+=>a25_original
+All help is welcome.<end>
+
+=>a25
+Любая помощь приветствуется.<end>
+
+=>q26_original
+Good. ::He smiles.:: I happen to know who your next opponent is, and I can offer a bit of advice. You know, just based on watching him battle other gladiators.<end>
+
+=>q26
+Хорошо. ::Он улыбается.:: Так уж вышло, что я знаю, кто ваш следующий противник, и могу предложить небольшой совет. Вы знаете, на основе просмотра его гладиаторских поединков.<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>a28_original
+What can you tell me about my next opponent?<end>
+
+=>a28
+Что вы можете мне сказать о моём следующем противнике?<end>
+
+=>q29_original
+You will be fighting Bull's Eye. He's mean, he's fast, and he's damn accurate with his crossbow. One of the most dominating marksmen currently. The important thing to note here is that his success does not only come from his ability to send a bolt through a fly's wing without killing the thing, but also from the fact that he dips his bolts into various poisons. If you're not careful, your blood will quickly be filled with lethal concoctions. Make sure you're ready for it.<end>
+
+=>q29
+Вы будете сражаться с Аспидом. Он быстр, он беспощаден, и он очень хорошо стреляет из арбалета. Один из самых доминирующих стрелков на данный момент. Важно отметить, что ключ к его успеху не только в способности попасть болтом в крылышко летящей мухи, но и в том, что его болты начинены различными ядами. Если вы не будете осторожны, ваша кровь моментально наполнится смертоносными смесями. Будьте готовы к такому повороту дел.<end>
+
+=>q30_original
+On the other hand, he is lightly armored. Hit him fast and hit him hard, and he'll be no match for you. 
+
+Good luck.<end>
+
+=>q30
+С другой стороны, у него слабая защита. Бейте быстро и бейте сильно, и он не сможет вам противостоять.<end>
+
+=>q31_original
+Your next opponent is going to be Master Exploder, a mute grenadier. Little is known about him... well, other than the fact that he revels in blowing his opponents to bits. He himself wears a blast suit, naturally, so keep that in mind.<end>
+
+=>q31
+Вашим следующим противником будет Мастер-Детонатор. Немой пироманьяк. Мало что известно о нём и о его прошлом. Ну... кроме того, что он любит огонь и взрывать своих противников на много-много ошмётков. Конечно, сам он носит огнезащитный костюм, так что имейте это в виду.<end>
+
+=>q32_original
+Use cover and take him out fast, or else you're going to end up splattered all over the arena. 
+
+Good luck.<end>
+
+=>q32
+Используй защиту и не затягивай бой, иначе твои ошмётки тела будут раскиданы по всей арене.<end>
+
+=>q33_original
+Chemical Agent. Name says it all. I don't know where that guy came from, but he is one repulsive creature. Not much of a challenge on his own, but he got this far thanks to a pair of mutated dogs. Those critters ripped numerous challengers and gladiators apart like nothing.<end>
+
+=>q33
+Химикат. Имя говорит само за себя. Я не знаю, откуда появился этот парень, но он чрезвычайно омерзительный персонаж. Сам-то он -- небольшая проблема, но он смог забраться так далеко благодаря парочке собак-мутантов, которые легко разорвали на части уже многих претендентов и гладиаторов.<end>
+
+=>q34_original
+So, get yourself some anti-corrosive protection. That's the best advice I can give you. And watch out for his pets. 
+
+Good luck.<end>
+
+=>q34
+А значит, оденьте защиту от кислоты. Вот лучший совет, который я могу вам дать. И берегитесь его питомцев.
+
+Удачи.<end>
+
+=>q35_original
+The guy's name is Surgeon. A savage, likes to end his opponents by cutting their jugular and drinking their blood as it sprays from their neck. The crowd loves it, yet many - especially less experienced - gladiators despise him, and it is not for his brutal showmanship...<end>
+
+=>q35
+Этого парня зовут Хирург. Дикарь, любит добивать своих противников, рассекая ярёмную вену, и при этом ещё и пьёт брызжущую кровь. Толпа от этого в восторге, но многие гладиаторы его ненавидят, особенно менее опытные, и не только за эти зверства...<end>
+
+=>q36_original
+Of course, he didn't get this far thanks to that gimmick, so be aware that you are facing a hardcore opponent. His range is short, as his weapon of choice is a knife, so try to stay out of his range, or at least make sure your neck is protected. 
+
+Good luck.<end>
+
+=>q36
+Конечно же, он заслужил свою славу не только этим трюком, так что имейте в виду, перед вами хардкорный противник. Он сражается на короткой дистанции, и его излюбленным оружием является нож, так что постарайтесь не подпустить его близко или хотя бы берегите шею.<end>
+
+=>q37_original
+You'll be facing Zap. Now, this guy is one of the most entertaining gladiators in the Arena history, if I may say so. A tech savvy zoner who uses energy weapons and bots to make sure his opponents do not get to fight another match.<end>
+
+=>q37
+Против вас выйдет Трах. Позволю себе заметить, этот парень -- один из самых интересных гладиаторов за всю историю Арены. Этот зонер разбирается в технике и использует энергетическое оружие и роботов, чтобы наверняка гарантировать, что его противники не доживут до следующего матча.<end>
+
+=>q38_original
+He relies on energy shields, so have something in handy to neutralize it and simply unleash the fury. 
+
+Good luck.<end>
+
+=>q38
+Он полагается на энергетический щит, так что будьте готовы нейтрализовать его или просто обрушить на него огневую мощь.<end>
+
+=>q39_original
+I'm afraid I can't give you much advice on your next opponent. You'll be up against Stygian Exorcist. He recently became a gladiator, and just annihilated his way through to where he is now. So fast even, by the time I realized he was even a gladiator, he became one of the best. He is a psi master that uses bilocation to make short work of his opponents.<end>
+
+=>q39
+Боюсь, я не смогу дать вам хорошего совета насчёт следующего противника. Вы встретитесь со Стигийским экзорцистом. Он недавно стал гладиатором и просто снёс всех на своём пути. Это произошло так быстро, что когда я впервые о нём услышал, он уже был одним из лучших. Он является мастером пси и расправляется с противниками, используя билокацию.<end>
+
+=>q40_original
+I have nothing else to say to you but good luck.<end>
+
+=>q40
+Мне больше нечего вам сказать, только пожелаю вам удачи.<end>
+
+=>a41_original
+How did you become such an enthusiast?<end>
+
+=>a41
+Как вы стали таким энтузиастом?<end>
+
+=>q42_original
+It's been a passion of mine for years. I enjoy the fighting, the brutal deaths, the skill involved, the theatrics - everything. I rarely miss a match, and I've sunk enough charons into it to restore South Underrail's entire railroad. ::He laughs.:: It's pipes and barrels to me.<end>
+
+=>q42
+Уже много лет Арена является моей страстью. Я обожаю всё -- бои, жестокие смерти, мастерство участников, театральность. Я редко пропускаю матч, и харонов, которые я вложил в неё, хватило бы, чтобы восстановить все железные дороги Южной Подземки. ::Он смеётся.:: Это мои трубы и бочки.<end>
+
+=>q43_original
+The Arena is pipes and barrels to me. I never get tired of it.<end>
+
+=>q43
+Арена -- мои трубы и бочки. Она мне никогда не надоест.<end>
+
+=>a44_original
+Do you also watch the Gauntlet?<end>
+
+=>a44
+А Смертельный забег вы тоже смотрите?<end>
+
+=>q45_original
+Yes, but, to be honest, I'm not nearly as delighted by it like I'm with the Arena. It's fun, it's violent - it's death. But... watching gladiators face each other with only one thing in mind and *executing* it in the most violently entertaining way possible is much more appealing to me than pulling a lever at the end.<end>
+
+=>q45
+Да, но, честно говоря, я не настолько в восторге от него, как от Арены. Это весело, это жестоко -- это смерть. Но... смотреть, как гладиаторы сходятся лицом к лицу -- целеустремлённые, яркие, яростные -- это мне куда интереснее, чем то, как кто-то просто дёргает за рычаг.<end>
+
+=>q46_original
+The Gauntlet also lacks the live crowd, which to me detracts from the experience. After all, hearing so many mouths screaming "KILL, KILL" is something I can never get tired of. In the end, I suppose it is an entertaining gimmick to most, but it will never, ever match the Arena.<end>
+
+=>q46
+А ещё Смертельному забегу не хватает живой толпы, что снижает для меня накал эмоций. Слышать, как столько ртов кричат «УБЕЙ, УБЕЙ!» -- от этого я никогда не устаю. В общем, это интересная диковинка для многих, но ему никогда не сравниться с Ареной.<end>
+
+=>a47_original
+So, who is your favourite gladiator?<end>
+
+=>a47
+А кто ваш любимый гладиатор?<end>
+
+=>q48_original
+Let me think...<end>
+
+=>q48
+Дайте подумать...<end>
+
+=>q49_original
+Disembowelina is simply fantastic: The looks, the skill, the brutality - she's got it all. But I'll put her in second place. My top gladiator is, unsurprisingly, Dread Lord. He is the current Invictus. Yet I somehow have a feeling he won't be one for much longer...<end>
+
+=>q49
+Потрошилла просто восхитительна: красота, мастерство, жестокость -- у неё есть всё. Но я, всё же, поставлю её на второе место. Мой топовый гладиатор -- Властелин ужаса, что неудивительно. Это он является теперешним инвиктусом. Но у меня такое предчувствие, что это ненадолго...<end>
+
+=>a50_original
+How can you possibly know who's going to be my next opponent?<end>
+
+=>a50
+Откуда вы знаете, кто будет моим следующим противником?<end>
+
+=>q51_original
+I'm an enthusiast.<end>
+
+=>q51
+Я энтузиаст.<end>
+
+=>a52_original
+Still, you know a bit too much. Got someone on the inside?<end>
+
+=>a52
+И всё-таки, вы знаете слишком много. У вас есть свой человек внутри?<end>
+
+=>q53_original
+::He laughs.:: I wish I did. But no. I just...<end>
+
+=>q53
+::Он смеётся.:: Хотел бы я. Но нет. Я просто...<end>
+
+=>q54_original
+I just know how things work. Experience, trust me.<end>
+
+=>q54
+Я просто знаю, как обстоят дела. Опыт, поверьте мне.<end>
+
+=>a55_original
+I see. I had other questions.<end>
+
+=>a55
+Понятно. У меня были другие вопросы.<end>
+
+=>q56_original
+Sure. That's why I'm here.<end>
+
+=>q56
+Конечно. Вот почему я здесь.<end>
+
+=>a57_original
+Did you ever try becoming a gladiator?<end>
+
+=>a57
+Вы сами пробовали стать гладиатором?<end>
+
+=>q58_original
+I wanted to, actually. But, sadly, I have a rare disease that... prevents me from ever becoming a gladiator.<end>
+
+=>q58
+Действительно, я хотел. Но, к сожалению, у меня редкое заболевание... которое мешает мне стать гладиатором.<end>
+
+=>q59_original
+There is nothing I can do about it.<end>
+
+=>q59
+Я ничего не могу с этим поделать.<end>
+
+=>a60_original
+What sort of disease?<end>
+
+=>a60
+Какая болезнь?<end>
+
+=>q61_original
+It is a rare genetic disease. Osteogenesis imperfecta, as it's called. My bones are brittle and wouldn't last much in a fight of any kind. My case is a bit milder. I lead a relatively normal life, but I have to be careful. A simple fall would result in a broken bone most likely.<end>
+
+=>q61
+Это редкое генетическое заболевание. Незавершённый остеогенез -- так оно называется. Мои кости хрупки и не выдержат в поединке. Хотя мой случай не самый страшный. Я могу вести относительно нормальную жизнь, но должен быть осторожен. Простое падение может легко закончиться переломом кости.<end>
+
+=>q62_original
+Thankfully, living in Core City, as hardcore of a city as it may be, still means I have options to avoid lifestyles which would increase my chance of getting hurt. My job is safe, my life is safe.<end>
+
+=>q62
+К счастью, в Кор-Сити, каким бы хардкорным он ни был, у меня есть возможность вести такой образ жизни, который позволяет мне избегать травм. Моя работа безопасна, моя жизнь в безопасности.<end>
+
+=>a63_original
+I'll be seeing you later. Goodbye.<end>
+
+=>a63
+Увидимся позже. До свидания.<end>
+
+=>a64_original
+What do you get out of this? Do you want me to pay you for this information?<end>
+
+=>a64
+Что вы с этого получите? Хотите, чтобы я заплатил$(#/а) вам за информацию?<end>
+
+=>q65_original
+No, no. I'm an enthusiast, as I said already. I simply enjoy everything Arena-related and... things have become a bit stale lately. And I feel you can stir things up, and that is why I don't want you to die too soon, to be honest. I happen to know who your next opponent is, and I can offer a bit of advice on fighting him. I've seen many of his battles, so I've picked up a few things.<end>
+
+=>q65
+Нет, нет. Я энтузиаст, как я уже говорил. Я просто получаю удовольствие от Арены и всего, что связано с ней... но в последнее время всё стало слишком привычным. Я чувствую, что вы можете встряхнуть это место, и именно поэтому я, честно говоря, не хочу, чтобы вы погибли слишком быстро. Так уж вышло, что я знаю, кто ваш следующий противник, и могу предложить небольшой совет. Вы знаете, на основе просмотра его гладиаторских поединков.<end>
+
+=>a66_original
+I don't think I need anyone's help.<end>
+
+=>a66
+Я не думаю, что мне нужна чья-либо помощь.<end>
+
+=>q67_original
+That is up to you. Still, I happen to know who your next opponent is, and I can offer a bit of advice on fighting him. I've seen many of his battles, so I've picked up a few things.<end>
+
+=>q67
+Как скажете. И всё же, так уж вышло, что я знаю, кто ваш следующий противник, и могу предложить небольшой совет. Вы знаете, на основе просмотра его гладиаторских поединков.<end>
+
+=>a68_original
+You seem to know a lot about the Arena.<end>
+
+=>a68
+Похоже, вы много знаете об Арене.<end>
+
+=>q69_original
+I'm just an enthusiast. Been one for years. And you are new to the Arena and have great potential. I know a lot about the gladiators you'll be battling, and judging by your skills, you'll battle many more. I simply want to be helpful.<end>
+
+=>q69
+Я просто энтузиаст. Я был им в течение многих лет. А вы новичок на Арене и обладаете большим потенциалом. Я много знаю про гладиаторов, с которыми вы будете сражаться, и, судя по вашим умениям, у вас впереди ещё не один матч. Я просто хочу вам помочь.<end>
+
+=>a70_original
+I work for JKK, if that's what you mean.<end>
+
+=>a70
+Я работаю на КБР, если вы это имеете в виду.<end>
+
+=>a71_original
+I work for Praetorian Security, if that's what you mean.<end>
+
+=>a71
+Я работаю на Преторианскую службу безопасности, если вы это имеете в виду.<end>
+
+=>a72_original
+Nope, I've got nothing to do with any of them.<end>
+
+=>a72
+Нет, у меня нет никаких дел ни с кем из них.<end>
+
+=>q73_original
+No? Then you most definitely should. It will help you a lot with your career. Trust me.<end>
+
+=>q73
+Нет? Тогда вам определённо стоит попробовать. Это во многом поможет вашей карьере. Поверьте мне.<end>
+
+=>a74_original
+You mean, like one of the Oligarchs?<end>
+
+=>a74
+Вы имеете в виду одного из олигархов?<end>
+
+=>q75_original
+Bingo. So...? Are you?<end>
+
+=>q75
+Бинго. Итак?.. Я прав?<end>
+
+=>a76_original
+It was an easy match, I'd say.<end>
+
+=>a76
+Долж$(#ен/на) признаться, это был довольно лёгкий матч.<end>
+
+=>q77_original
+Some challengers die during their first match. You've already survived how many? Five matches? That's quite an achievement. Listen here, my name's Garry. I'm an enthusiast - a bloodthirsty maniac if you will. ::He smiles.::<end>
+
+=>q77
+Некоторые претенденты погибают в первом матче. Вы уже пережили -- сколько? Пять? Это немалое достижение. Слушайте, меня зовут Гарри. Я энтузиаст, кровожадный маньяк, так сказать. ::Он улыбается.::<end>
+
+=>q78_original
+I hope I'm not bothering you, but I need to ask you something. Like I said, you've shown some incredible progress. A couple of matches and you've already battled and killed a very difficult opponent. That is admirable. Are you by any chance, how do I put this, backed up by any of the families?<end>
+
+=>q78
+Надеюсь, я не слишком назойлив, но хочу вас кое о чём спросить. Как я уже сказал, вы достигли невероятного успеха. Всего несколько матчей, и вы уже убили очень сильного противника. Это достойно восхищения. Мне интересно, вас... как бы это сказать, не поддерживает ли вас какая-либо из семей?<end>
+
+=>a79_original
+Yeah... Who are you?<end>
+
+=>a79
+Ага... кто вы?<end>
+
+=>q80_original
+I'm Garry and I'm an enthusiast - a bloodthirsty maniac if you will. ::He smiles.::<end>
+
+=>q80
+Я Гарри -- энтузиаст, кровожадный маньяк, так сказать. ::Он улыбается.::<end>
+
+=>q81_original
+$(context.player.Name). Fierce as always.<end>
+
+=>q81
+$(context.player.Name). Беспощад$(#ен/на), как всегда.<end>
+

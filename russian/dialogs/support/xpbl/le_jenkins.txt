@@ -1,0 +1,288 @@
+﻿=>q1_original
+I cannot speak to you now, sec-trooper.<end>
+
+=>q1
+Сейчас не до разговоров, охранник.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::The woman talks into her navcom device.::
+
+The standing one? Understood. Out.<end>
+
+=>q3
+::Женщина говорит в свой навком.::
+
+Тот, что стоит? Понятно. Отбой.<end>
+
+=>q4_original
+Sec-trooper $(context.player.Name). I'm Sec-trooper Jenkins. <end>
+
+=>q4
+Спец-охранник $(context.player.Name). Я - спец-охранник Дженкинс.<end>
+
+=>a5_original
+Pleased to meet you. The chief sent me here to receive the keys to one of the jet skis.<end>
+
+=>a5
+Приятно познакомиться. Шеф отправил меня сюда за ключами от одного из гидроциклов.<end>
+
+=>q6_original
+Have you ridden one before?<end>
+
+=>q6
+Вы уже катались на таком раньше?<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+No.<end>
+
+=>a8
+Нет.<end>
+
+=>q9_original
+Don't worry. While there are many different types of jet skis, the one you'll be using is fairly simple to operate. <end>
+
+=>q9
+Ничего страшного. Хотя существует множество различных типов гидроциклов, тот, которым вы будете пользоваться, довольно прост в управлении.<end>
+
+=>q10_original
+You put the key into the ignition, start it, hold the bars with both hands and press the levers behind them to accelerate. Most jet skis do not have brakes; you simply release the levers and the force of the water will stop it fast. Jet skis are simple to operate, but it takes some time getting used to riding them. 
+
+Also, don't make sudden turns until you gain some experience, okay?<end>
+
+=>q10
+Вставляете ключ в замок зажигания, заводите его, берётесь за поручни обеими руками и нажимаете на рычаги за ними для ускорения. У большинства гидроциклов нет тормозов; просто отпустите рычаги, и давление воды быстро остановит его. Гидроциклы просты в управлении, но требуется некоторое время, чтобы привыкнуть к езде на них.
+
+И ещё, не совершайте резких поворотов, пока не наберётесь опыта, хорошо?<end>
+
+=>q11_original
+Now, while technically you can use a variety of types of energy cells to charge a jet ski, it is best to use high-capacity fusion cells; these have been specifically designed to be used with vehicles and large machinery.<end>
+
+=>q11
+Так вот, хотя технически для зарядки гидроцикла вы можете использовать различные типы элементов питания, лучше всего использовать ядерные батареи большой ёмкости; они были специально разработаны для использования с транспортными средствами и крупным оборудованием.<end>
+
+=>q12_original
+What else, what else... Mmm, yes: If your jet ski runs out of power, don't worry - your backup generator will automatically kick in. It will allow your jet ski to move, but it is going to be very, *very* slow.<end>
+
+=>q12
+Что ещё, что ещё... Ммм, да: если у вашего гидроцикла закончится энергия, не волнуйтесь - резервный генератор включится автоматически. Это позволит вашему гидроциклу продолжить движение, но он будет очень, *очень* медленным.<end>
+
+=>q13_original
+You'll be using one of the two makeshift jet skis we acquired recently.<end>
+
+=>q13
+Вы будете пользоваться одним из двух самодельных гидроциклов, которые мы недавно приобрели.<end>
+
+=>q14_original
+Yours is the <end>
+
+=>q14
+Ваш - тот,<end>
+
+=>q15_original
+smaller one. <end>
+
+=>q15
+что поменьше.<end>
+
+=>q16_original
+Do not let their appearance deceive you; they are mechanically in good condition.<end>
+
+=>q16
+Не позволяйте их внешнему виду обмануть вас; их механизмы в хорошем состоянии.<end>
+
+=>a17_original
+But I thought I was going to get one of the good ones.<end>
+
+=>a17
+Но я рассчитывал$(#/а) получить один из лучших.<end>
+
+=>q18_original
+They are far too valuable to be given to inexperienced personnel. For now, you will be using the one I showed you.<end>
+
+=>q18
+Их ценность слишком велика, чтобы доверить неопытному персоналу. А пока вы будете пользоваться тем, что я вам показала.<end>
+
+=>a19_original
+I understand. Can I get the keys now?<end>
+
+=>a19
+Я понимаю. Могу я получить ключи прямо сейчас?<end>
+
+=>q20_original
+Yes. <end>
+
+=>q20
+Да.<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>q22_original
+This is it. ::She hands you key to your jet ski.::<end>
+
+=>q22
+Вот. ::Она вручает вам ключ от вашего гидроцикла.::<end>
+
+=>q23_original
+If you need energy cells to recharge your jet ski, see Marcus. And remember, it's best to use high-capacity fusion cells. For maintenance, repairs and technical inquiry, talk to Ladelman.<end>
+
+=>q23
+Если вам нужны элементы питания для зарядки гидроцикла, обратитесь к Маркусу. И помните, что лучше всего использовать ядерные батареи большой ёмкости. По вопросам обслуживания, ремонта и техосмотра обращайтесь к Лэйдельману.<end>
+
+=>q24_original
+That is all the time I have: I need to return to my patrol duty soon. Good luck, sec-trooper, and take care of your jet.<end>
+
+=>q24
+У меня больше нет времени: мне нужно как можно скорее вернуться к патрулированию. Удачи вам, охранник, и позаботьтесь о своём гидроцикле.<end>
+
+=>a25_original
+Good luck to you as well, Sec-trooper Jenkins.<end>
+
+=>a25
+Удачи и вам, охранник Дженкинс.<end>
+
+=>q26_original
+::She nods and leaves.::<end>
+
+=>q26
+::Она кивает и уходит.::<end>
+
+=>a27_original
+Don't you worry a thing, sec-trooper. I know how to handle these babies.<end>
+
+=>a27
+Ни о чём не волнуйтесь, охранник. Я знаю, как обращаться с этими крошками.<end>
+
+=>a28_original
+Eh... yeah, I will.<end>
+
+=>a28
+Э-э... да, конечно.<end>
+
+=>a29_original
+I'll try. Goodbye.<end>
+
+=>a29
+Я постараюсь. До свидания.<end>
+
+=>q30_original
+::She searches for the key but can't seem to find it.::
+
+Odd. I am certain I had it a moment ago. I must've dropped it just after... ::She looks down.:: Hmm.<end>
+
+=>q30
+::Она ищет ключ, но не может его найти.::
+
+Странно. Уверена, что он был у меня всего минуту назад. Должно быть, я уронила его сразу после того... ::Она смотрит вниз.:: Хмм.<end>
+
+=>a31_original
+I'll look for it. Perhaps someone else already found it. Now, is there anything else you wanted to tell me about the jet ski?<end>
+
+=>a31
+Я поищу его. Возможно, кто-нибудь уже обнаружил его. А теперь, может, вы ещё что-нибудь расскажете мне о гидроцикле?<end>
+
+=>q32_original
+Damn it... ::She looks up.:: Please do that, I am in quite a hurry. And yes, there is something else I wanted to tell you. <end>
+
+=>q32
+Проклятье... ::Она поднимает глаза.:: Пожалуйста, сделайте это, я очень спешу. И да, есть ещё кое-что, что я хотела бы вам рассказать.<end>
+
+=>q33_original
+<end>
+
+=>q33
+<end>
+
+=>q34_original
+Here you are. ::She hands you the jet ski key.::<end>
+
+=>q34
+Вот ты где. ::Она вручает вам ключ от гидроцикла.::<end>
+
+=>q35_original
+larger one. <end>
+
+=>q35
+что побольше.<end>
+
+=>a36_original
+No, and I've heard they're difficult to ride and extremely dangerous.<end>
+
+=>a36
+Нет, и я слышал$(#/а), что они сложны в управлении и очень опасны.<end>
+
+=>q37_original
+Some are. Those that have been damaged, modified by non-professionals, have faulty components... But the one you'll be using has been properly maintained and is fairly simple to operate. <end>
+
+=>q37
+Некоторые - да. Те, что были повреждены, модифицированы дилетантами, содержат неисправные компоненты... Но тот, который вы будете использовать, правильно обслуживался и довольно прост в управлении.<end>
+
+=>a38_original
+Yes.<end>
+
+=>a38
+Да.<end>
+
+=>q39_original
+Good. Then I don't need to explain how to ride one. <end>
+
+=>q39
+Хорошо. Тогда мне не нужно объяснять, как на нём ездить.<end>
+
+=>a40_original
+I'm a pro. Just let me have one and off I go.<end>
+
+=>a40
+Я профи. Просто дайте мне один, и я погнал$(#/а).<end>
+
+=>q41_original
+Excellent then. <end>
+
+=>q41
+Что ж, отлично.<end>
+
+=>a42_original
+I came here to receive the keys to one of the jet skis.<end>
+
+=>a42
+Я здесь, чтобы получить ключи от одного из гидроциклов.<end>
+
+=>a43_original
+Where's my jet?<end>
+
+=>a43
+Где мой гидроцикл?<end>
+
+=>q44_original
+It's right over there. Have you ridden a jet ski before?<end>
+
+=>q44
+Он прямо вон там. Вы прежде катались на гидроцикле?<end>
+
+=>a45_original
+What's up, yo?<end>
+
+=>a45
+Чё как, йоу?<end>
+
+=>q46_original
+Khm. Have you ridden a jet ski before?<end>
+
+=>q46
+Кхм. Вы прежде катались на гидроцикле?<end>
+

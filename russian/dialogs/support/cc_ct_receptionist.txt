@@ -1,0 +1,254 @@
+﻿=>q1_original
+Excuse me, $(#sir/ma'am), but I'm going to have to ask you to leave.<end>
+
+=>q1
+Простите, $(#сэр/мэм), но я вынуждена попросить вас удалиться.<end>
+
+=>q2_original
+::The young woman meets your approach with a chalk-white smile and a polite greeting.::
+
+Greetings, $(#sir/ma'am), and welcome to Coretech. How may I help you?<end>
+
+=>q2
+::Молодая женщина встречает вас жемчужной улыбкой и вежливо приветствует.::
+
+Здравствуйте, $(#сэр/мэм), и добро пожаловать в КорТех. Чем я могу вам помочь?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+I'm looking for work. Do you have anything available?<end>
+
+=>a4
+Я ищу работу. У вас есть что-нибудь в наличии?<end>
+
+=>q5_original
+Most certainly, $(#sir/ma'am). Coretech is the top technology research and application company in Underrail. We have several open positions in the fields of geophysics, chemistry and ballistics. Could you please specify your qualifications so that we may proceed?<end>
+
+=>q5
+Разумеется, $(#сэр/мэм). КорТех является крупнейшим разработчиком и производителем высокотехнологичной продукции в Подземке. У нас открыты вакансии в области геофизики, химии и баллистики. Пожалуйста, опишите вашу квалификацию, чтобы я могла продолжить.<end>
+
+=>a6_original
+::[Electronics]:: How about a different branch of physics? I'm good with electronics. Will that do?<end>
+
+=>a6
+::[Электроника]:: А что насчёт других направлений физики? Я хорошо разбираюсь в электронике. Это вам подойдёт?<end>
+
+=>q7_original
+I'm afraid not. As I said, we are in need of someone who is an expert in geophysics, not electronics. But we might have something else available. <end>
+
+=>q7
+Боюсь, нет. Как я уже сказала, нам нужен эксперт по геофизике, а не электронике. Но, у нас может найтись что-нибудь ещё.<end>
+
+=>q8_original
+
+
+Could you please tell me your full name?<end>
+
+=>q8
+Не могли бы вы назвать мне ваше полное имя?<end>
+
+=>a9_original
+$(context.player.Name).<end>
+
+=>a9
+$(context.player.Name).<end>
+
+=>q10_original
+Allow me to do a quick check on you. ::She starts typing something on the keyboard.::<end>
+
+=>q10
+Позвольте, мне нужно провести быструю проверку. ::Она начинает стучать по клавиатуре.::<end>
+
+=>q11_original
+::Soon, she shakes her head and continues.:: It seems that you have already been hired by a different employer. I'm afraid we cannot offer you a job due to our company policy. Still, thank you for applying.<end>
+
+=>q11
+::Вскоре она качает головой и произносит.:: Похоже, что вы уже наняты другим работодателем. Боюсь, что политика компании не позволяет мне предложить вам работу. Так или иначе, благодарю вас за проявленный интерес.<end>
+
+=>a12_original
+Thank you for your time.<end>
+
+=>a12
+Спасибо за помощь.<end>
+
+=>a13_original
+Yeah, well, who cares about your stupid company anyway. Goodbye!<end>
+
+=>a13
+Кому нужна ваша дурацкая компания. До свидания!<end>
+
+=>q14_original
+Hmm, I see. You seem to be in luck, $(#sir/ma'am). We do have a position available. Please, if you'd like, talk to Mister Joseph Harlan. He's in the office right next to this one, down the hallway, first door to the left. 
+
+Oh, and before you go: I also need to inform you that the upper floor is off limits to all nonemployees. Thank you.<end>
+
+=>q14
+Хм, всё ясно. Что ж, вам повезло, $(#сэр/мэм). У нас есть открытая вакансия. Если вы заинтересованы, прошу вас поговорить с мистером Джозефом Арланом. Вы найдёте его кабинет рядом, по коридору первая дверь налево. 
+
+О, и, пока вы не ушли, я также обязана сообщить вам, что верхний этаж закрыт для посетителей. Спасибо.<end>
+
+=>a15_original
+Thank you, I'll go see him.<end>
+
+=>a15
+Спасибо, я пойду поговорю с ним.<end>
+
+=>a16_original
+I had some other questions.<end>
+
+=>a16
+У меня есть ещё вопросы.<end>
+
+=>q17_original
+Feel free to ask me anything.<end>
+
+=>q17
+Пожалуйста, не стесняйтесь.<end>
+
+=>a18_original
+I'm sorry, but this isn't for me. Can we discuss something else?<end>
+
+=>a18
+Мне жаль, но это не для меня. Обсудим что-нибудь другое?<end>
+
+=>a19_original
+::[Chemistry]:: I'm a self-taught chemist.<end>
+
+=>a19
+::[Химия]:: Я кое-что понимаю в химии.<end>
+
+=>q20_original
+We are in need of someone who is an *expert* in organic chemistry. But we might have something else available. <end>
+
+=>q20
+Нам нужен *эксперт* в области органической химии. Но, возможно, у меня есть кое-что ещё.<end>
+
+=>a21_original
+::[Guns]:: If by "ballistics" you mean someone that can shoot a gun, then I'm your $(#man/woman)!<end>
+
+=>a21
+::[Огнестрельное оружие]:: Если под «баллистикой» вы имеете в виду меткую стрельбу, тогда я -- т$(#от/а), кто вам нуж$(#ен/на)!<end>
+
+=>q22_original
+Well, I'm afraid not. We are in need of a ballistics *expert*. But we might have something else available. <end>
+
+=>q22
+Боюсь, это не совсем то. Нам нужен *научный специалист* по баллистике. Но, возможно, у меня есть кое-что ещё.<end>
+
+=>a23_original
+::[Heavy Guns]:: I shoot big guns. Really big guns.<end>
+
+=>a23
+::[Тяжёлое оружие]:: Я стреляю из больших пушек. Очень больших пушек.<end>
+
+=>q24_original
+That's very good, but we're not in need of... that at the moment. But we might have something else available. <end>
+
+=>q24
+Это очень хорошо, но в данный момент мы не нуждаемся в... этом. Но, возможно, у меня есть кое-что ещё.<end>
+
+=>a25_original
+::[Crossbows]:: As a proficient crossbow user, I think I know a thing or two about ballistics.<end>
+
+=>a25
+::[Арбалеты]:: Как специалист по арбалетам, полагаю, я кое-что понимаю в баллистике.<end>
+
+=>a26_original
+::[Tailoring]:: How about a tailor? I can design and make you wonderful lab coats or security uniforms. Imagine: $(context.player.Name)'s Coreware - clothing of the future, today.<end>
+
+=>a26
+::[Шитьё]:: А портные вам не нужны? Я могу придумывать и шить для вас замечательные лабораторные халаты и форму для охранников. Представьте: $(context.player.Name) Дизайнс -- одежда будущего сегодня.<end>
+
+=>q27_original
+::Her response comes after a slight delay.:: 
+
+Ehm... We don't have an open position for that. But we might have something else available. <end>
+
+=>q27
+::Она делает небольшую паузу.:: 
+
+Эм... У нас нет подобной вакансии. Но, у нас может найтись что-нибудь ещё. $(context.player.Name) -- ваше полное имя, да?<end>
+
+=>a28_original
+::[Mechanics]:: I suppose you aren't looking for a mechanical engineer or anything similar?<end>
+
+=>a28
+::[Механика]:: Вам случайно не нужен инженер или кто-нибудь в этом роде?<end>
+
+=>q29_original
+I'm afraid not. Not at the moment, at least. But we might have something else available. <end>
+
+=>q29
+Боюсь, нет. По крайней мере, не на данный момент. Но, у нас может найтись что-нибудь ещё.<end>
+
+=>a30_original
+::[Biology]:: You don't work with living creatures much, do you?<end>
+
+=>a30
+::[Биология]:: Полагаю, вы не работаете с живыми организмами, не так ли?<end>
+
+=>q31_original
+If by that you mean: "Do we have an open position for a biologist?", then the answer is no, I'm afraid. But we might have something else available. <end>
+
+=>q31
+Если вы хотите спросить: "Нет ли у нас открытой вакансии биолога?" То я боюсь, что нет. Но, у нас может найтись что-нибудь ещё.<end>
+
+=>a32_original
+::[Hacking]:: Need someone who's good with computers?<end>
+
+=>a32
+::[Хакерство]:: Вам нужен человек, который хорошо разбирается в компьютерах?<end>
+
+=>a33_original
+Yes, qualifications. Is there any other kind of work I could do here?<end>
+
+=>a33
+Да, квалификация. Есть ли ещё какая-нибудь работа, которую я мог бы здесь выполнить?<end>
+
+=>q34_original
+Well, we might have something available. <end>
+
+=>q34
+Возможно, у нас есть что-то в наличии.<end>
+
+=>a35_original
+I don't think I have the right qualifications. I've got other questions for you, though.<end>
+
+=>a35
+Не думаю, что вам подойдёт моя квалификация. У меня есть ещё вопросы.<end>
+
+=>a36_original
+What can you tell me about Coretech?<end>
+
+=>a36
+Расскажите мне о КорТех.<end>
+
+=>q37_original
+Coretech is the primary technology research, manufacturing and application company in Core City. Being a successor to the great Biocorp, Coretech employs some of the brightest minds in solving difficult problems of today.<end>
+
+=>q37
+КорТех является крупнейшим разработчиком и производителем высокотехнологичной продукции в Подземке. Будучи преемником великой корпорации Биокорп, КорТех нанимает ярчайшие умы для решения сложных проблем современности.<end>
+
+=>q38_original
+Coretech's desire to create a better future for everyone through technological advancement remains unmatched.<end>
+
+=>q38
+Никто так, как КорТех, не желает создать лучшее будущее для всех посредством технологического прогресса.<end>
+
+=>a39_original
+I'll be going now.<end>
+
+=>a39
+Я пойду.<end>
+
+=>q40_original
+Welcome back, $(#sir/ma'am). How may I help you?<end>
+
+=>q40
+Рада вас снова видеть, $(#сэр/мэм). Чем я могу вам помочь?<end>
+

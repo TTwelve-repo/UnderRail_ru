@@ -1,0 +1,992 @@
+﻿=>q1_original
+Goodbye, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q1
+До свидания, мис$(#тер/с) $(context.player.Name).<end>
+
+=>q2_original
+I'm very sorry, but I've been informed you were hired by a different employer. In such cases it would be against the company regulations to offer you a position in Coretech. I hope you understand.
+
+I'm going to have to ask you to leave now, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q2
+Сожалею, но мне сообщили, что вы уже наняты другим работодателем. В этом случае правила запрещают мне предлагать вам работу в компании КорТех. Надеюсь, вы понимаете.
+
+Я вынужден попросить вас удалиться, мис$(#тер/с) $(context.player.Name).<end>
+
+=>a3_original
+I understand completely. Goodbye and have a nice day.<end>
+
+=>a3
+Я всё понимаю. До свидания и хорошего дня.<end>
+
+=>a4_original
+Your loss. Goodbye.<end>
+
+=>a4
+Ваша потеря. До свидания.<end>
+
+=>a5_original
+To hell with your regulations! ::Leave.::<end>
+
+=>a5
+Дурацкие правила! ::Уйти.::<end>
+
+=>q6_original
+What are you doing here? Go to the warehouse!<end>
+
+=>q6
+Что вы здесь делаете? Отправляйтесь на склад!<end>
+
+=>q7_original
+I thought I showed you the door already, $(#Mister/Miss) $(context.player.Name).<end>
+
+=>q7
+Кажется, я уже указал вам на дверь, мис$(#тер/с) $(context.player.Name).<end>
+
+=>q8_original
+Agent $(context.player.Name), I have some good news for you. ::He smiles.:: Mister Simmons would like to speak with you. He seems very impressed by how efficiently and effectively you've been accomplishing your tasks ever since you started working for us. 
+
+He's upstairs - best not keep him waiting.<end>
+
+=>q8
+Агент $(context.player.Name), У меня для вас есть хорошие новости. ::Он улыбается.:: Мистер Симмонс хочет поговорить с вами. Он, похоже, очень впечатлён тем, насколько эффективно и действенно вы справлялись со своими заданиями с тех пор, как начали работать на нас.
+
+Он наверху и лучше не заставлять его ждать.<end>
+
+=>a9_original
+I'll go see him.<end>
+
+=>a9
+Я пойду поговорю с ним.<end>
+
+=>q10_original
+::The man behind the desk greets you with a closed-lip smile, one you'll find almost never leaves his face, while his superficially good-natured eyes are always focused on you, scrutinizing every motion you make and seem capable of picking up every single detail, no matter how minuscule it might be. It is an inescapable feeling, and it is making you suddenly become self-conscious of your appearance and behavior, and how will any of that reflect on the interview you are about to have.::
+
+Welcome, $(context.player.Name). I'm Joseph Harlan and it is a pleasure to meet you. I'd like for us to move on to the reason why you're here, if you don't mind. So, you are interested in working for Coretech?<end>
+
+=>q10
+::Мужчина за столом приветствует вас формальной улыбкой, одной из тех, что почти никогда не покидают лицо. Его с виду доброжелательный взгляд постоянно направлен на вас, внимательно изучая каждое ваше движение, и кажется, он способен заметить каждую деталь -- неважно, насколько незначительную. Это ощущение, от которого невозможно избавиться, вдруг заставляет вас начать беспокоиться о своей внешности и поведении, и том, как они отразятся на предстоящем разговоре.::
+
+Добро пожаловать, $(context.player.Name). Я Джозеф Арлан, приятно познакомиться с вами. Если вы не возражаете, я бы хотел незамедлительно перейти к сути дела. Итак, вы заинтересованы в работе на КорТех?<end>
+
+=>a11_original
+Indeed. I personally think it's an honor and a privilege to work for a company of Coretech's magnitude.<end>
+
+=>a11
+Именно так. Я лично думаю, что это большая честь и привилегия -- работать на компанию столь известную, как КорТех.<end>
+
+=>q12_original
+Well said, I already like you. ::He smiles.:: You might find it surprising, but I'm positive you're the right person for the job I'm about to offer you. Or, as the numerous residents of Core City would say, you'd dominate it.<end>
+
+=>q12
+Хорошо сказано, вы мне уже нравитесь. ::Он улыбается.:: Не удивляйтесь, но я уверен, что вы -- наиболее подходящий человек для той работы, которую я собираюсь вам предложить. Или, как сказали бы многие жители Кор-Сити, вы бы её задоминировали.<end>
+
+=>a13_original
+What exactly is this job you're talking about?<end>
+
+=>a13
+О какой именно работе идёт речь?<end>
+
+=>q14_original
+I'll be honest with you, $(context.player.Name). Coretech, because of its wealth, status and importance to this city has numerous enemies trying to bring it down. It's a sad state of affairs, I know, but that's the state of the world we live in. Of course, we have our own security forces; however, their effectiveness against more surreptitious threats is quite limited.<end>
+
+=>q14
+Я буду честен с вами, $(context.player.Name). КорТех, из-за нашего богатства, положения и значения для этого города, имеет многочисленных врагов, которые пытаются разрушить всё, что мы создали. Это печальное положение дел, я знаю, но в таком мире мы живём. Конечно, у нас есть наши собственные силы безопасности, однако их эффективность в противостоянии более изощрённым угрозам является ограниченной.<end>
+
+=>q15_original
+We are in need of someone who can act as a low profile agent, is capable and willing and can accomplish given tasks effectively without ever being associated with Coretech, should $(#he/she) be compromised. Now, I must make one thing clear: We aren't talking about any illegal or immoral affairs here, or anything similar. We simply seek our safety and the prosperity of Core City, and for that it is sometimes necessary to act in the way I've described.
+ 
+Are you interested?<end>
+
+=>q15
+Нам нужен кто-то, кто смог бы выступить в качестве секретного агента, способного и готового выполнить поставленные задачи эффективно и не привлечь внимания к КорТех в случае своего раскрытия. Прежде всего, позвольте мне прояснить одну вещь: речь не идёт о каких-либо незаконных или аморальных делах или о чём-то в этом роде. Мы просто желаем безопасности для себя и процветания для Кор-Сити, и для этого иногда необходимо действовать так, как я описал.
+Вас это заинтересовало?<end>
+
+=>a16_original
+You can count me in.<end>
+
+=>a16
+Я соглас$(#ен/на).<end>
+
+=>q17_original
+::He smiles.:: Excellent. Those words mark the beginning of a very important chapter in your life. You are now an employee of Coretech and are free to move around most of the building; some areas are off-limits, of course. You will be paid for each individual job accomplished. Generously, rest assured. 
+
+And last, but not least, your safety is guaranteed within the Coretech building. I noticed you are quite a combat-ready sort of person, but in here you may be at ease.<end>
+
+=>q17
+::Он улыбается.:: Отлично. Эти слова знаменуют начало очень важной главы в вашей жизни. Вы теперь сотрудник КорТех, и можете свободно перемещаться в пределах этого здания; доступ в некоторые зоны, разумеется, по-прежнему ограничен. Каждое ваше задание будет оплачиваться отдельно и щедро, будьте в этом уверены. 
+
+И последнее, но не менее важное: на территории КорТех ваша безопасность гарантируется. Я заметил, что вы довольно боеспособный человек, но здесь вы можете расслабиться.<end>
+
+=>q18_original
+::He walks to one of the wardrobes and grabs two matte black zip bags, one large and bulky, the other small.::
+
+::He puts them on his colleague's desk and unzips the large one first.:: This is your uniform - a state-of-the-art energizing vest. It provides good ballistic protection, but more importantly, it can keep your equipment powered up via wireless energy transmission.
+
+::Then he opens the smaller one.:: And this is your tactical respirator. It's lightweight and comes with dual filter canisters, smart lenses and other integrated devices.<end>
+
+=>q18
+::Он подходит к одному из шкафов и берёт две матово-чёрные сумки на молнии, одна большая и громоздкая, другая маленькая.::
+
+::Он ставит их на стол и расстёгивает большую.:: Это ваша униформа - современный энергетический жилет. Он обеспечивает хорошую баллистическую защиту, но что ещё более важно, он может поддерживать питание вашего снаряжения при помощи беспроводной передачи энергии.
+
+::Затем он открывает маленькую сумку.:: А это ваш тактический респиратор. Он лёгкий и поставляется с двумя фильтрующими контейнерами, умным объективом и другими встроенными устройствами.<end>
+
+=>q19_original
+::He puts the empty bags aside and turns to you.:: <end>
+
+=>q19
+::Он откладывает пустые сумки в сторону и поворачивается к вам.::<end>
+
+=>q20_original
+There. That issue's been rectified.<end>
+
+=>q20
+Вот. Эта проблема решена.<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>a22_original
+I'd like to see what you have in store. ::Barter.::<end>
+
+=>a22
+Я бы хотел$(#/а) бы взглянуть, что вы продаёте. ::Обмен.::<end>
+
+=>a23_original
+For some reason I still haven't gotten my uniform.<end>
+
+=>a23
+По какой-то причине мне до сих пор не выдали форму.<end>
+
+=>q24_original
+That's... that's very unusual.<end>
+
+=>q24
+Это... это очень необычно.<end>
+
+=>a25_original
+::[Mercantile]:: I am looking for high quality gear. I believe you can offer me much better equipment than what you're currently showing me.<end>
+
+=>a25
+::[Торговля]:: Мне нужно высококачественное оборудование. Полагаю, вы в состоянии предложить мне кое-что получше того, что у вас в ассортименте сейчас.<end>
+
+=>q26_original
+The last time I checked, that sort of equipment is quite above your pay grade, $(context.player.Name). Am I wrong?<end>
+
+=>q26
+Насколько мне известно, такое снаряжение не по вашей зарплате, $(context.player.Name). Или я ошибаюсь?<end>
+
+=>a27_original
+I have many sources of income.<end>
+
+=>a27
+У меня много источников дохода.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+::He smiles.:: Good to hear. Very well, $(context.player.Name), this is what I have.<end>
+
+=>q29
+::Он улыбается.:: Рад это слышать. Хорошо, $(context.player.Name), вот что у меня есть.<end>
+
+=>a30_original
+::Barter.::<end>
+
+=>a30
+::Обмен.::<end>
+
+=>q31_original
+::He smiles.:: Perhaps you should wait for a pay raise, $(context.player.Name).<end>
+
+=>q31
+::Он улыбается.:: Может быть, вам стоит подождать повышения зарплаты, $(context.player.Name).<end>
+
+=>a32_original
+Mr. Simmons told me to speak to you about something but didn't specify what it was.<end>
+
+=>a32
+Мистер Симмонс сказал мне поговорить с вами о чём-то, но не уточнил, о чём именно.<end>
+
+=>q33_original
+::He nods.:: Despite the unfortunate outcome of your last mission, which I'm sure was something that couldn't have been prevented, Mr. Simmons is greatly pleased by your performance so far to the point of arranging for you to become the owner of one of the largest houses in Core City's residential district. Yes, you heard me right. ::He smiles.::<end>
+
+=>q33
+::Он кивает.:: Несмотря на неудачный исход вашей последней миссии, что, несомненно, было невозможно предотвратить, мистер Симмонс настолько впечатлён вашей работой, что желает предоставить вам один из крупнейших домов в жилом районе Кор-Сити. Да, вы не ослышались. ::Он улыбается.::<end>
+
+=>q34_original
+All paperwork has already been done, I can say; you need not worry about it. You should now go and speak with a Core City Housing Corporation representative who is waiting for you in Core City's residential district. His name is Mr. Samuel Morgan, and I hope you won't keep him waiting long. ::He smiles.::<end>
+
+=>q34
+Все документы уже подписаны, что сказать; вам не нужно ни о чём беспокоиться. Вам достаточно сейчас пойти и поговорить с представителем Жилищной корпорации Кор-Сити, который уже ожидает вас в жилом районе Кор-Сити. Его зовут мистер Самюэль Морган, и я надеюсь, что вы не заставите его долго ждать. ::Он улыбается.::<end>
+
+=>a35_original
+I'm not yet so familiar with that part of Core City. How do I find this residential area?<end>
+
+=>a35
+Я ещё плохо ориентируюсь в той части Кор-Сити. Как мне найти этот жилой район?<end>
+
+=>q36_original
+It is in the easternmost section of this level, past the Praetorian Security headquarters. You will recognize the residential district easily; go to its northern part where you will meet Mr. Morgan. He will it give you the keys and answer all your further questions.<end>
+
+=>q36
+Он находится на самом востоке этого уровня, за штаб-квартирой Преторианской службы безопасности. Вы легко узнаете этот район; там идите на север, вас будет ждать мистер Морган. Он даст вам ключи и ответит на все вопросы.<end>
+
+=>a37_original
+I wanted to ask you something else before I leave.<end>
+
+=>a37
+Прежде чем я пойду, позвольте спросить ещё что-нибудь.<end>
+
+=>q38_original
+Go ahead.<end>
+
+=>q38
+Продолжай.<end>
+
+=>a39_original
+I'll be on my way then. See you later, Harlan, and thank Mr. Simmons for me.<end>
+
+=>a39
+Тогда я, пожалуй, пойду. Увидимся позже, Арлан, и поблагодарите от меня мистера Симмонса.<end>
+
+=>q40_original
+I will. Enjoy your new home.<end>
+
+=>q40
+Разумеется. Надеюсь, вам понравится ваш новый дом.<end>
+
+=>a41_original
+Mr. Simmons told me to see you about a store.<end>
+
+=>a41
+Мистер Симмонс сказал, что я могу поговорить с вами насчёт магазина.<end>
+
+=>q42_original
+::He nods.:: You have been granted access to our internal store. Whenever you need to browse it, just speak to me. ::He smiles.::<end>
+
+=>q42
+::Он кивает.:: Вам был предоставлен доступ к нашему внутреннему складу. Всякий раз, когда вам будет угодно просмотреть ассортимент, просто обратитесь ко мне. ::Он улыбается.::<end>
+
+=>a43_original
+I'd like to see what you have available. ::Barter.::<end>
+
+=>a43
+Я бы хотел$(#/а) бы взглянуть, что у вас есть. ::Обмен.::<end>
+
+=>a44_original
+The warehouse has been secured.<end>
+
+=>a44
+Склад в безопасности.<end>
+
+=>q45_original
+Agent Henderson? She hasn't reported back yet.<end>
+
+=>q45
+А что Агент Хендерсон? Она ещё не отчиталась.<end>
+
+=>a46_original
+I'm afraid Agent Henderson is dead.<end>
+
+=>a46
+Боюсь, что агент Хендерсон погибла.<end>
+
+=>q47_original
+Oh... ::His stare drops down for an instant, but then focuses back on you.:: That is bad news indeed. She was a fantastic person. Sadly, you two didn't get the chance to meet before this incident. It's such a shame. Shame. But, tell me, what happened down there? Faceless?<end>
+
+=>q47
+Ох... ::Он опускает глаза на мгновение, но затем его взгляд возвращается к вам.:: Это очень плохие новости. Она была прекрасным человеком. Как жаль, что у вас не было шанса познакомиться с ней. Какая потеря. Потеря. Но расскажите мне, что там произошло? Безликие?<end>
+
+=>a48_original
+Mercenaries stormed the warehouse, and there was a lot of them. They somehow managed to deactive the security systems before attacking.<end>
+
+=>a48
+Наёмники напали на склад, и их там было много. Каким-то образом им удалось отключить охранную систему перед нападением.<end>
+
+=>q49_original
+I see. This isn't a normal raid. Those systems are not easy to access. We're dealing with serious people here, $(context.player.Name). I'll need to speak to Mr. Simmons about this.<end>
+
+=>q49
+Понимаю. Это не был простой налёт. К этим системам нелегко подобраться. Наши враги серьёзно настроены, $(context.player.Name). Мне нужно поговорить об этом с мистером Симмонсом.<end>
+
+=>q50_original
+As for you, you did your job as best as you could, $(context.player.Name). Take this. ::He hands you 500 charons and a tactical vest.::
+
+And... we will make a public announcement regarding Henderson's funeral. You could attend it if you want.<end>
+
+=>q50
+Что до вас, вы выполнили свою работу так хорошо, как могли, $(context.player.Name). Возьмите это. ::Он протягивает вам 500 харонов и тактический жилет.::
+
+И... мы сделаем публичное объявление о похоронах Хендерсон. Вы можете присутствовать, если пожелаете.<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>q52_original
+One more thing remains, Agent. ::He smiles.:: Mister Simmons would like to speak with you. He seems very impressed by how efficiently and effectively you've been accomplishing your tasks ever since you started working for us. 
+
+He's upstairs - best not keep him waiting.<end>
+
+=>q52
+Ещё кое-что, агент. ::Он улыбается.:: Мистер Симмонс хотел бы поговорить с вами. Он, похоже, очень впечатлён тем, насколько эффективно и действенно вы справлялись со своими заданиями с тех пор, как начали работать на нас.
+
+Он наверху и лучше не заставлять его ждать.<end>
+
+=>q53_original
+I have nothing for you at the moment, but you will be called when you're needed. ::He smiles.::<end>
+
+=>q53
+Сейчас у меня ничего для вас нет, но вам сообщат, когда вы вновь понадобитесь. ::Он улыбается.::<end>
+
+=>q54_original
+::Harlan smiles.:: $(context.player.Name), Agent Henderson already reported back. You did a great job there. I was really worried it was the Faceless attacking us, I can say.<end>
+
+=>q54
+::Арлан улыбается.:: $(context.player.Name), агент Хендерсон уже отчиталась. Вы отлично справились там. Что сказать, я действительно волновался, что это безликие напали на нас.<end>
+
+=>q55_original
+You delivered yet again, $(context.player.Name). You never disappoint. Take this. ::He hands you 500 charons and a tactical vest.::<end>
+
+=>q55
+Вы снова успешно справились с задачей, $(context.player.Name). Вы нас никогда не подводите. Держите. ::Он протягивает вам 500 харонов и тактический жилет.::<end>
+
+=>a56_original
+I'm ready for my next task.<end>
+
+=>a56
+Я готов$(#/а) к выполнению следующего задания.<end>
+
+=>q57_original
+This one is very serious, Agent. We've discovered that our prototype ICPD has been stolen from one of our labs, and one of our employees, Luben Greenhorn, is a prime suspect in this matter, I can say. He vanished around the time the device disappeared, and he is one of the rare people who had easy access to the device.<end>
+
+=>q57
+На этот раз дело очень серьёзное, агент. Мы обнаружили, что из одной из наших лабораторий был украден прототип ДВД, и главным подозреваемым является один из наших сотрудников, Любен Гринхорн, что сказать. Он исчез примерно в то же время, что и устройство, и он один из немногих, кто имел доступ к устройству.<end>
+
+=>q58_original
+We're searching the company grounds as well as the whole residential district - including his home, of course - but unfortunately, we still haven't been able to track him down. We tried keeping this whole situation quiet, but I fear we now have no other options but to pull all our resources for this one. That's where you come in: I want you to join the search for the device. While the device is of the utmost priority, Luben himself should be brought in for questioning as well. However, should he resist, you are free to neutralize him.<end>
+
+=>q58
+Мы ведём поиски в зданиях компании, а также во всём жилом районе, в том числе и у него дома, разумеется, но, к сожалению, нам до сих пор не удаётся разыскать его. Мы старались не предавать эту информацию огласке, но, боюсь, у нас сейчас нет других вариантов, кроме как стянуть все наши ресурсы. Вот что от вас требуется: я хочу, чтобы вы присоединились к поискам устройства. Приоритетом является нахождение устройства, а сам Любен должен быть доставлен для допроса. Тем не менее, если он окажет сопротивление, вам разрешается нейтрализовать его.<end>
+
+=>q59_original
+One more thing, $(context.player.Name): Luben, like most employees with his clearance level, has an intradermal chip planted in his arm, so take this tracker: The chip is difficult to safely remove, but desperate times call for desperate measures - so expect everything.
+
+ICPD *must* be returned to Coretech, I repeat that one final time. Otherwise it might fall into the wrong hands. <end>
+
+=>q59
+И ещё одно, $(context.player.Name): Любен, как и другие сотрудники с его уровнем допуска, имеет подкожный чип в руке, так что возьмите этот локатор. Безопасно извлечь такой чип сложно, но времена отчаяния требуют отчаянных мер, так что возможно всякое.
+
+ДВД *должен* быть возвращён КорТех, повторю это ещё раз. В противном случае он может попасть в не те руки.<end>
+
+=>a60_original
+I have the ICPD. ::Show him the device.::<end>
+
+=>a60
+ДВД у меня. ::Показать ему устройство.::<end>
+
+=>q61_original
+::Harlan smiles, this time with such delight it seems almost out of place.:: Perfect. You delivered again, I can say, and I am becoming more and more certain that we have made the right choice by accepting you as our employee. 
+
+And Luben? What of him?<end>
+
+=>q61
+::Арлан улыбается, на этот раз так искренне, что это кажется почти неуместным.:: Превосходно. Что сказать, вы вновь оказались на высоте, и я ещё раз убеждаюсь, что мы сделали правильный выбор, приняв вас в качестве нашего сотрудника. 
+
+А Любен? Что с ним?<end>
+
+=>a62_original
+Dead.<end>
+
+=>a62
+Мёртв.<end>
+
+=>q63_original
+I see. I guess you had no choice. <end>
+
+=>q63
+Понятно. Полагаю, у вас не было выбора.<end>
+
+=>q64_original
+Here is your payment. You are shaping up to be a valuable asset, I can say. Good work, $(context.player.Name). I think the equipment provided with the payment will be satisfactory. ::Hands you 400 charons and an energy pistol.::<end>
+
+=>q64
+Вот ваша оплата. Что сказать, вы оправдываете наши вложения. Хорошая работа, $(context.player.Name). Полагаю, снаряжение, прилагающееся к деньгам, устроит вас. ::Он протягивает вам 400 харонов и энергетический пистолет.::<end>
+
+=>q65_original
+Now, I believe there is-- ::His headset starts flashing red, interrupting his sentence.:: 
+
+Hm, would you excuse me for a second? This seems important.<end>
+
+=>q65
+Теперь, я полагаю, что... ::Его шлемофон начинает мигать красным, прерывая его.:: 
+
+Эм, извините меня на секунду? Кажется, это важно.<end>
+
+=>q66_original
+::He responds to the call: The more he listens the more serious his expression becomes. At the same time you hear numerous resounding footsteps as they stampede from one side of the hallway to the other. 
+
+After a minute of silence, Harlan answers with a simple "I understand." He then looks at you, his countenance unchanged.::<end>
+
+=>q66
+::Он отвечает на звонок: чем дальше он слушает, тем больше мрачнеет его лицо. В то же время вы слышите топот многочисленных ног, бегущих от одной стороны коридора к другой. 
+
+После минуты молчания, Арлан коротко отвечает: «Я понял» -- и поворачивается к вам, выражение его лица всё ещё взволновано.::<end>
+
+=>q67_original
+We have an emergency. One of our warehouses is under attack. We don't know who's behind it; maybe it's the Faceless, maybe... Just go there and help our forces repel the attackers! The warehouse is located in the city, just west from the main city entrance.<end>
+
+=>q67
+У нас чрезвычайная ситуация. На один из наших складов совершено нападение. Мы не знаем, кто за этим стоит; может быть, это безликие, может... Просто поспешите туда и помогите нашим войскам отразить нападение! Склад расположен здесь, в городе, прямо на запад от главного входа в город.<end>
+
+=>q68_original
+Expect anything, $(context.player.Name). If you need to arm yourself, do so quickly, for every second counts.<end>
+
+=>q68
+Будьте готовы ко всему, $(context.player.Name). Если вам нужно вооружиться, делайте это быстро, на счету каждая секунда.<end>
+
+=>q69_original
+Now go, there is no time to lose! Agent Henderson and her men will meet you there.<end>
+
+=>q69
+Теперь идите, нельзя терять время! На месте вас встретит агент Хендерсон и её люди.<end>
+
+=>q70_original
+Did you at least manage to learn something from him?<end>
+
+=>q70
+Вы хоть что-нибудь узнали от него?<end>
+
+=>a71_original
+He was waiting for someone, probably to hand over the ICPD. I managed to trick him into believing that I'm the one whom he was supposed to meet; he seemed terrified of me, so I guess whoever is truly behind all of this has quite an image. While I haven't managed to learn the name of this group, he did mention the name of my "boss": A Mister Halidorson. That is all I know.<end>
+
+=>a71
+Он ждал кого-то; вероятно, чтобы передать ДВД. Мне удалось прикинуться, что это именно с мной он должен был встретиться. Похоже, что он меня сильно боялся, так что тот, кто на самом деле стоит за этим, должен обладать внушительной репутацией. Хотя мне не удалось узнать название этой группы, он упомянул имя моего «босса»: некий мистер Халидорсон. Это всё, что я знаю.<end>
+
+=>q72_original
+Halidorson? Are you sure?<end>
+
+=>q72
+Халидорсон? Вы уверены?<end>
+
+=>a73_original
+Pretty much.<end>
+
+=>a73
+Да, вполне.<end>
+
+=>q74_original
+I do not recognize the name. I will relay this information to the intelligence department, and I hope we'll have some results soon. The name is most likely a pseudonym, though, but one never knows; we can only hope that some grunt accidentally revealed the true name of his employer to Luben. Things of this kind have happened in the past, I can say.
+
+<end>
+
+=>q74
+Мне не знакомо это имя. Я передам эти данные в службу информации, и, надеюсь, скоро мы будем знать больше. Вероятнее всего, это псевдоним, но всё может быть. Можно только надеяться, какая-нибудь мелкая сошка случайно раскрыла Любену настоящее имя своего нанимателя. Что сказать, такое уже бывало.
+<end>
+
+=>q75_original
+We'll look further into this. The ICPD is in our hands and safe, and *that* is our primary concern.<end>
+
+=>q75
+Мы ещё проведём собственное расследование. ДВД в безопасности в наших руках, и *это* самое для нас главное.<end>
+
+=>a76_original
+Yes. You know who he is?<end>
+
+=>a76
+Да. Вы знаете кто он такой?<end>
+
+=>a77_original
+He was waiting for someone, probably to hand over the ICPD. I managed to trick him into believing that I'm the one whom he was supposed to meet; he seemed terrified of me, so I guess whoever is truly behind all of this has quite an image. However, I haven't managed to learn more than that.<end>
+
+=>a77
+Он ждал кого-то; вероятно, чтобы передать ДВД. Мне удалось прикинуться, что это именно с мной он должен был встретиться. Похоже, что он меня сильно боялся, так что тот, кто на самом деле стоит за этим, должен обладать внушительной репутацией. Однако больше мне ничего не удалось узнать.<end>
+
+=>q78_original
+That is interesting. It could be one of the Core City gangs known for their brutality, perhaps used as a proxy for some larger entity; no small-time gangs would dare do anything like this on their own, unless they value their lives very little. 
+
+<end>
+
+=>q78
+Интересно. Это может быть одна из известных свой жестокостью банд Кор-Сити, возможно, использованная некоей более крупной организацией в своих целях. Мелкие бандиты не осмелились бы на подобное, если ценят свои жизни.
+
+<end>
+
+=>a79_original
+He was waiting for someone, probably to hand over the ICPD. But other than that I learned nothing.<end>
+
+=>a79
+Он ждал кого-то; вероятно, чтобы передать ДВД. Но больше мне ничего не удалось узнать.<end>
+
+=>q80_original
+That we could've expected. Had you been able to bring him in, we could have extracted valuable information from him. But the most important objective has been accomplished, thankfully.<end>
+
+=>q80
+Понятно. Полагаю, у вас не было выбора; мы могли бы получить от него важную информацию, но, к счастью, основная цель была достигнута.<end>
+
+=>a81_original
+Nothing.<end>
+
+=>a81
+Поговорим позже.<end>
+
+=>q82_original
+That is unfortunate. Had you been able to bring him in, we could have extracted valuable information from him. But the most important objective has been accomplished, thankfully.<end>
+
+=>q82
+Понятно. Полагаю, у вас не было выбора; мы могли бы получить от него важную информацию, но, к счастью, основная цель была достигнута.<end>
+
+=>a83_original
+I found him, but he managed to escape before I got the chance to apprehend him.<end>
+
+=>a83
+Я наш$(#ёл/ла) его, но ему удалось убежать, прежде чем я смог$(#/ла) его схватить.<end>
+
+=>a84_original
+That mole managed to dig its way out of this one.<end>
+
+=>a84
+На этот раз кроту удалось прокопать выход.<end>
+
+=>q85_original
+I see. We could have extracted valuable information from him, but the most important objective has been accomplished, thankfully.<end>
+
+=>q85
+Понятно. Мы могли бы получить от него важную информацию, но, к счастью, основная цель была достигнута.<end>
+
+=>a86_original
+I never found him. The ICPD was in possession of some gangsters.<end>
+
+=>a86
+Я так его и не наш$(#ёл/ла). ДВД оказался в руках каких-то бандитов.<end>
+
+=>q87_original
+That is rather peculiar, I can say. Do you have any information on how they obtained it?<end>
+
+=>q87
+Что сказать, это довольно странно. Известно ли вам, как он к ним попал?<end>
+
+=>a88_original
+No idea.<end>
+
+=>a88
+Без понятия.<end>
+
+=>q89_original
+Really, strange. But the main objective is accomplished - that is what matters the most; the device is back with us again.<end>
+
+=>q89
+Действительно, странно. Но главная цель достигнута. Устройство снова у нас.<end>
+
+=>a90_original
+What is ICPD?<end>
+
+=>a90
+Что такое ДВД?<end>
+
+=>q91_original
+ICPD stands for Intracranial pressure destabilizer, and it is a prototype device we've been developing at the moment. It has a rounded shape with four small legs at the bottom and a protruding vertical piece at the top. I understand it is a bit difficult to describe, but you will easily recognize it when you see it.<end>
+
+=>q91
+ДВД расшифровывается как дестабилизатор внутричерепного давления, это прототип устройства, которое мы разрабатываем в данный момент. Оно имеет округлую форму с четырьмя ножками в нижней части и выступающей вертикальной деталью сверху. Я понимаю, что это не очень хорошее описание, но вы легко узнаете его, когда увидите.<end>
+
+=>q92_original
+The rest is classified.<end>
+
+=>q92
+Остальное засекречено.<end>
+
+=>a93_original
+Who is this Luben, and why would he steal the device?<end>
+
+=>a93
+Кто такой этот Любен, и зачем ему воровать устройство?<end>
+
+=>q94_original
+He was a member of our internal security forces, someone dependable enough to have access to even the most restricted areas of this building. Not so much anymore, I can say.<end>
+
+=>q94
+Он был членом наших сил внутренней безопасности, человеком достаточно доверенным, чтобы иметь доступ к самым засекреченным зонам этого здания. Что сказать, больше это не так.<end>
+
+=>q95_original
+No one has any proof of his motives, yet. We have some suspicions, but we'll set our speculations aside.<end>
+
+=>q95
+Никто пока не знает, каковы были его мотивы. У нас есть некоторые подозрения, но мы не хотим строить догадки.<end>
+
+=>q96_original
+Retrieval of the device is our top priority, so that is where our focus should lie, $(context.player.Name).<end>
+
+=>q96
+Возвращение устройства -- наша приоритетная задача, на этом мы должны сосредоточить все силы, $(context.player.Name).<end>
+
+=>a97_original
+I'm ready for my first task.<end>
+
+=>a97
+Я готов$(#/а) к моему первому заданию.<end>
+
+=>q98_original
+Good. Your first task, $(context.player.Name), is to find one of our agents who has recently disappeared. He is known under the pseudonym Raul. ::He shows you an image of a black man with dreadlocks.:: Take a look at this picture: Notice a distinctive scar on his right cheek. He should have returned from his task several days ago, yet he stopped communicating with us right about that time.<end>
+
+=>q98
+Хорошо. Ваше первое задание, $(context.player.Name), состоит в том, чтобы найти одного из наших агентов, который недавно пропал. Он работает под псевдонимом Рауль. ::Он показывает вам фотографию чернокожего мужчины с дредами.:: Взгляните на эту фотографию; заметьте характерный шрам на правой щеке. Он должен был вернуться с задания несколько дней назад, но как раз в это время связь с ним прекратилась.<end>
+
+=>q99_original
+He was last seen entering the Core City sewer system. The sewers are not the most hospitable place, I can say, but the Faceless are one more reason why you must take extra care when going there. 
+
+Find out what happened to Raul, then return to me.<end>
+
+=>q99
+В последний раз его видели входящим в систему канализации Кор-Сити. Что сказать, не самое гостеприимное место, но есть причина, по которой отправляясь туда нужно проявлять особую осторожность -- безликие. 
+
+Выясните, что случилось с Раулем, а потом возвращайтесь ко мне.<end>
+
+=>a100_original
+What was he doing in the sewers?<end>
+
+=>a100
+Что он делал в канализации?<end>
+
+=>q101_original
+He was on a confidential mission, the details of which I can't reveal to you.<end>
+
+=>q101
+Он был на секретном задании, детали которого я не могу раскрыть.<end>
+
+=>a102_original
+Actually, I recognize that man. I already saw him.<end>
+
+=>a102
+Вообще-то, я узнаю этого человека. Я уже видел$(#/а) его.<end>
+
+=>q103_original
+::Harlan looks at you, eyes open in surprise.::
+
+Where is he? What happened to him?<end>
+
+=>q103
+::Арлан смотрит на вас с нескрываемым удивлением.::
+
+Где он? Что с ним случилось?<end>
+
+=>a104_original
+He was killed by some derailed guy from the sewers.<end>
+
+=>a104
+Его убил какой-то поехавший мужик из канализации.<end>
+
+=>q105_original
+I see. That is unfortunate. Did he happen to have any documents on him?<end>
+
+=>q105
+Вот значит, как. Это прискорбно. При нём были какие-нибудь документы?<end>
+
+=>a106_original
+I found nothing.<end>
+
+=>a106
+Я ничего не наш$(#ёл/ла).<end>
+
+=>q107_original
+::He nods.:: No matter then. You've done what was asked of you, so it's time for you to receive your first payment. Here are some charons, and a device I think you'll find quite useful. ::Hands you 300 charons and an energy shield emitter.::<end>
+
+=>q107
+::Он кивает.:: Тогда это всё. Вы сделали то, что от вас требовалось, а значит, пора вам получить свою первую награду. Вот несколько харонов и кое-какое снаряжение. Думаю, оно вам пригодится. ::Он протягивает вам 300 харонов и генератор энергетического щита.::<end>
+
+=>q108_original
+You deliver, I can say. ::He smiles.:: I have more work for you.<end>
+
+=>q108
+Что сказать, вы справились. ::Он улыбается.:: У меня есть ещё работа для вас.<end>
+
+=>a109_original
+I think not.<end>
+
+=>a109
+Думаю, нет.<end>
+
+=>a110_original
+Nope.<end>
+
+=>a110
+Не-а.<end>
+
+=>a111_original
+I found his corpse in a facility of sorts in the northern section of the sewers. He seems to have been killed by a cannibal who didn't get the chance to eat him yet.<end>
+
+=>a111
+Я обнаружил$(#/а) его тело в каком-то помещении в северной части канализации. Похоже, что он был убит каннибалом, но съесть он его так и не успел.<end>
+
+=>q112_original
+That must've been a gruesome death. Sadly, despite our best efforts, Core City still hides these demented, twisted freaks under the rug. On the other hand, if it was the Faceless that got to him, maybe his fate would've been even worse.
+
+Now, tell me, did Raul have any documents on him?<end>
+
+=>q112
+Это, должно быть, была ужасная смерть. К сожалению, несмотря на все наши усилия, в подполье Кор-Сити всё ещё скрываются подобные уроды и психи. С другой стороны, если бы до него добрались безликие, то его участь могла бы быть куда хуже.
+
+А теперь скажите мне, у Рауля были при себе какие-нибудь документы?<end>
+
+=>a113_original
+I'm on the job.<end>
+
+=>a113
+Я займусь этим.<end>
+
+=>q114_original
+Good. I'll be waiting.<end>
+
+=>q114
+Хорошо. Я буду ждать.<end>
+
+=>a115_original
+I found Raul.<end>
+
+=>a115
+Я наш$(#ёл/ла) Рауля.<end>
+
+=>q116_original
+I see. Where is he? What happened to him?<end>
+
+=>q116
+Хорошо. Где он? Что с ним случилось?<end>
+
+=>a117_original
+What can you tell me about Coretech?<end>
+
+=>a117
+Что вы можете рассказать мне о КорТех?<end>
+
+=>q118_original
+Coretech is the premier technology research and application company in the whole Underrail. Founded by Rupert Simmons, it develops and manufactures a wide range of products and solutions for military, domestic as well as entertainment purposes and more. For instance, we supplied the systems used in the Arena, as well as designed and manufactured the complex machinery that makes the Gauntlet possible.<end>
+
+=>q118
+КорТех является лидером в области технологических исследований и прикладных решений во всей Подземке. Наша компания основана Рупертом Симмонсом, она разрабатывает и производит широкий спектр продуктов и решений для военных, бытовых, а также развлекательных целей, и многое другое. К примеру, мы поставляем системы, используемые на Арене, а также разработали и изготовили сложный комплекс оборудования, сделавшего возможным Смертельный забег.<end>
+
+=>q119_original
+These two alone define Core City as the entertainment capital of Underrail. We are innovative and determined to create a better world for everyone. And in these very troubling times, we feel we make a difference.<end>
+
+=>q119
+Два этих шоу сделали Кор-Сити столицей развлечений Подземки. Мы используем решительный и новаторский подход, чтобы создать лучшую жизнь для всех. И в эти непростые времена мы чувствуем, что сможем добиться перемен.<end>
+
+=>a120_original
+What can you tell me about JKK?<end>
+
+=>a120
+Что вы можете рассказать мне о КБР?<end>
+
+=>q121_original
+::He smiles.:: JKK is a large company owned by Gunnar Edstrom. He came to Core City many years ago and delivered something the other two Oligarchs needed.<end>
+
+=>q121
+::Он улыбается.:: КБР -- крупная компания, принадлежащая Гуннару Эдстрому. Он приехал в Кор-Сити много лет назад и смог дать двум другим олигархам то, что им было нужно.<end>
+
+=>q122_original
+Back then, the Arena was pretty much a local event. But JKK made the first Arena match broadcast, and over time it became what it is now. Now they control the betting, they transport animals to the Arena and much more, I can say. Those tri-monitors on the streets - "trims," as they're called - those are being installed and maintained by JKK.<end>
+
+=>q122
+Тогда Арена была в значительной степени лишь локальным событием. Но КБР провели первую трансляцию матча Арены, и со временем она стала тем, чем является сейчас. Теперь они принимают ставки, они привозят животных для Арены и делают многое другое, что сказать. Те тройные мониторы на улицах -- «тримы», так их называют, -- их установили КБР.<end>
+
+=>q123_original
+Keep one thing in mind though, Agent: There is more to JKK than what I've just told you. Their operatives are capable of doing very, very sickening things, and they have eyes and ears everywhere. Just... just keep that in mind.<end>
+
+=>q123
+Необходимо учитывать одну вещь, агент: помимо того, что я сейчас сказал, у КБР есть ещё одна сторона. Их оперативники способны на ужасающие поступки, и их глаза и уши повсюду. Просто... имейте это в виду.<end>
+
+=>a124_original
+What can you tell me about Praetorian Security?<end>
+
+=>a124
+Что вы можете рассказать мне о Преторианской службе безопасности?<end>
+
+=>q125_original
+Praetorian Security is owned by Chief Archibald Knight, and it can be considered the dominant security force in Core City, I can say. Still, while they claim they are the best, I have to disagree. They have the numerical advantage, but Coretech's security forces have much better training and equipment.<end>
+
+=>q125
+Преторианская служба безопасности принадлежит шефу Арчибальду Найту, и её можно считать доминирующей силой безопасности в Кор-Сити, что сказать. Однако, хотя они и утверждают, что являются лучшими, я вынужден не согласиться. Они имеют численное преимущество, но силы безопасности КорТех лучше подготовлены и вооружены.<end>
+
+=>q126_original
+Praetorian Security is so... old-fashioned. But, let them have it their way. Of course, all this is between you and me, Agent. ::Smiles.::<end>
+
+=>q126
+Преторианская служба безопасности так... старомодна. Но пусть они идут своим путём. Разумеется, это всё между нами, агент. ::Он улыбается.::<end>
+
+=>a127_original
+I have to go now. Goodbye.<end>
+
+=>a127
+Мне пора идти. До свидания.<end>
+
+=>q128_original
+With that out of the way, I can say I already have a task for you.<end>
+
+=>q128
+Ну если так, то у меня уже есть задание для вас.<end>
+
+=>a129_original
+How do you know you can trust me?<end>
+
+=>a129
+Откуда вы знаете, что мне можно доверять?<end>
+
+=>q130_original
+We know. We have our ways.<end>
+
+=>q130
+Мы это знаем. У нас свои источники.<end>
+
+=>a131_original
+Before I accept anything, I'd like to know more about Coretech.<end>
+
+=>a131
+Прежде чем согласиться, я хотел$(#/а) бы узнать побольше о КорТех.<end>
+
+=>q132_original
+::He smiles.:: Of course. Coretech is the premier technology research and application company in the whole Underrail. Founded by Rupert Simmons, it develops and manufactures a wide range of products and solutions for military, domestic as well as entertainment purposes and more. For instance, we supplied the systems used in the Arena, as well as designed and manufactured the complex machinery that makes the Gauntlet possible.<end>
+
+=>q132
+::Он улыбается.:: Разумеется. КорТех является лидером в области технологических исследований и прикладных решений во всей Подземке. Наша компания основана Рупертом Симмонсом, она разрабатывает и производит широкий спектр продуктов и решений для военных, бытовых, а также развлекательных целей и многое другое. К примеру, мы поставляем системы, используемые на Арене, а также разработали и изготовили сложный комплекс оборудования, сделавший возможным Смертельный забег.<end>
+
+=>q133_original
+These two alone define Core City as the entertainment capital of Underrail. We are innovative and determined to create a better world for everyone. And in these very troubling times, we feel we make a difference.<end>
+
+=>q133
+Два этих шоу сделали Кор-Сити столицей развлечений Подземки. Мы используем решительный и новаторский подход, чтобы создать лучшую жизнь для всех. И в эти непростые времена мы чувствуем, что сможем добиться перемен.<end>
+
+=>a134_original
+I'd like to think about this.<end>
+
+=>a134
+Мне надо подумать об этом.<end>
+
+=>q135_original
+Please do, $(#Mister/Miss) $(context.player.Name). But don't take too long. ::He smiles.:: I will wait for you to make up your mind.<end>
+
+=>q135
+Разумеется, мис$(#тер/с) $(context.player.Name). Только не затягивайте. ::Он улыбается.:: Я дам вам время подумать.<end>
+
+=>a136_original
+Could you just skip all this nonsense and tell me what work you've got for me.<end>
+
+=>a136
+Может, вы пропустите всю эту чушь и просто скажете, какую работу вы для меня приготовили.<end>
+
+=>q137_original
+::The smile on his face slowly starts fading away.::
+
+I would like to clarify one thing before we continue, and I hope you will pay attention to my words. As the things currently stand, Coretech is willing to offer you a unique opportunity to become a member of its powerful family; you are in a position to receive hefty pay and be under the protection of one of the largest companies in Core City, yet you behave so infantile? That attitude won't get you far, I can say. Unless you want to waste this opportunity, I recommend you show some respect.<end>
+
+=>q137
+::Его улыбка начинает медленно таять.::
+
+Прежде чем мы продолжим, я хотел бы прояснить одну вещь, и я надеюсь, вы внимательно выслушаете мои слова. На данный момент КорТех готовы предложить вам уникальную возможность стать членом нашей могущественной семьи; вы могли бы хорошо зарабатывать и рассчитывать на покровительство одной из крупнейших компаний Кор-Сити, а вы ведёте себя так несерьёзно? С подобным отношением вы ничего не добьётесь, что сказать. Если вы не хотите упустить такую возможность, рекомендую вам проявить толику уважения.<end>
+
+=>a138_original
+I'm sorry, it won't happen again.<end>
+
+=>a138
+Простите, это больше не повторится.<end>
+
+=>q139_original
+::He smiles again.:: Good. We will ignore what happened a moment ago. Let us continue.<end>
+
+=>q139
+::Он снова улыбается.:: Хорошо. Мы забудем то, что произошло минуту назад. Давайте продолжим.<end>
+
+=>a140_original
+Go to hell, jackass, you can't tell me what to do!<end>
+
+=>a140
+Иди в жопу, придурок, не тебе указывать, что мне делать!<end>
+
+=>q141_original
+I see. Perhaps I was wrong about you. The door is that way. Goodbye and please - don't come back.<end>
+
+=>q141
+Всё ясно. Возможно, я был не прав насчёт вас. Дверь вон там. Уходите и, пожалуйста, не возвращайтесь.<end>
+
+=>a142_original
+Yes, I most definitely am.<end>
+
+=>a142
+Да, я здесь как раз за этим.<end>
+
+=>q143_original
+That's great to hear. You radiate enthusiasm, I can say. You might find it surprising, but I'm positive you're the right person for the job I'm about to offer you. Or, as the numerous residents of Core City would say, you'd dominate it.<end>
+
+=>q143
+Рад это слышать. Вы излучаете энтузиазм, что сказать. Не удивляйтесь, но я уверен, что вы -- наиболее подходящий человек для той работы, которую я собираюсь вам предложить. Или, как сказали бы многие жители Кор-Сити, вы бы её задоминировали.<end>
+
+=>a144_original
+Sure.<end>
+
+=>a144
+Ага.<end>
+
+=>q145_original
+Not generous with words, I can say. ::He smiles.:: You might find it surprising, but I'm positive you're the right person for the job I'm about to offer you. Or, as the numerous residents of Core City would say, you'd dominate it.<end>
+
+=>q145
+Что сказать, вы не щедры на слова. ::Он улыбается.:: Не удивляйтесь, но я уверен, что вы -- наиболее подходящий человек для той работы, которую я собираюсь вам предложить. Или, как сказали бы многие жители Кор-Сити, вы бы её задоминировали.<end>
+
+=>q146_original
+What did you decide?<end>
+
+=>q146
+Итак, что вы решили?<end>
+
+=>a147_original
+I'll need to think some more. I'll be back later.<end>
+
+=>a147
+Мне нужно подумать ещё немного. Я ещё вернусь.<end>
+
+=>q148_original
+$(context.player.Name), pleasure to see you. The Praetorians are surely enjoying their glory, I can say. Let them have it.<end>
+
+=>q148
+$(context.player.Name), рад видеть вас. Преторианцы, несомненно, сейчас наслаждаются своей славой. Что сказать, пускай.<end>
+
+=>q149_original
+$(context.player.Name), some new equipment has just arrived, and I thought you'd be interested to see what it is.<end>
+
+=>q149
+$(context.player.Name), только что поступило новое оборудование, и, я думаю, вам было бы интересно на него взглянуть.<end>
+
+=>a150_original
+I'd be more than happy. ::Barter.::<end>
+
+=>a150
+С превеликим удовольствием. ::Обмен.::<end>
+
+=>a151_original
+It'll have to wait, because I wanted to ask you something first.<end>
+
+=>a151
+С этим придётся подождать, потому что сперва у меня были к вам некоторые вопросы.<end>
+
+=>q152_original
+Go ahead.<end>
+
+=>q152
+Продолжай.<end>
+
+=>q153_original
+$(context.player.Name), it is a pleasure to see you, as always.<end>
+
+=>q153
+$(context.player.Name), рад вас видеть снова.<end>
+

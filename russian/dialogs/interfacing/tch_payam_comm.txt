@@ -1,0 +1,268 @@
+﻿=>q1_original
+::You get no response.::<end>
+
+=>q1
+::Вы не получаете ответа.::<end>
+
+=>q2_original
+::Something tells you it is not wise to touch this intercom right now.::<end>
+
+=>q2
+::Что-то подсказывает вам, что было бы неразумно использовать этот интерком сейчас.::<end>
+
+=>q3_original
+::A slow, unhurried male voice is heard from the intercom.::
+
+Tchort is evolution, $(#brother/sister). What do you need?<end>
+
+=>q3
+::Размеренный, неторопливый мужской голос раздаётся из интеркома.::
+
+Чорт -- это эволюция, $(#брат/сестра). Что вам нужно?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Can you open the gate for me?<end>
+
+=>a5
+Не могли бы вы открыть для меня ворота?<end>
+
+=>q6_original
+Opening the gate now, $(#brother/sister). Tchort guide you.<end>
+
+=>q6
+Открываю ворота, $(#брат/сестра). Чорт направит вас.<end>
+
+=>a7_original
+Tchort guide you too, brother.<end>
+
+=>a7
+Чорт направит и вас, брат.<end>
+
+=>a8_original
+Bye bye.<end>
+
+=>a8
+Пока-пока.<end>
+
+=>a9_original
+I need to leave the Institute building.<end>
+
+=>a9
+Мне нужно покинуть здание Института.<end>
+
+=>q10_original
+What is the reason for your egress, $(#brother/sister)?<end>
+
+=>q10
+Какова цель вашего ухода, $(#брат/сестра)?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+I'm on official Institute business.<end>
+
+=>a12
+Я по официальному делу Института.<end>
+
+=>q13_original
+Official business? On whose authority?<end>
+
+=>q13
+По официальному делу? По чьему приказу?<end>
+
+=>a14_original
+Principal Investigator Rista.<end>
+
+=>a14
+Научного руководителя Ристы.<end>
+
+=>q15_original
+Yes, I have been informed of that, $(#brother/sister).<end>
+
+=>q15
+Да, меня об этом проинформировали, $(#брат/сестра).<end>
+
+=>a16_original
+Oh, and I might need to take several trips back and forth.<end>
+
+=>a16
+О, и я, возможно, несколько раз пройду туда и обратно.<end>
+
+=>q17_original
+I will note that. <end>
+
+=>q17
+Возьму на заметку.<end>
+
+=>a18_original
+Principal Investigator Georgis.<end>
+
+=>a18
+Научного руководителя Георгиса.<end>
+
+=>a19_original
+Principal Investigator Schteff.<end>
+
+=>a19
+Научного руководителя Штеффа.<end>
+
+=>a20_original
+Uh...<end>
+
+=>a20
+Э-э...<end>
+
+=>q21_original
+I don't know anyone called "Uh." In fact, I should warn you not to give false statements concerning your egress.<end>
+
+=>q21
+Я не знаю никого по имени «Э-э». Кстати, я должен предупредить вас не давать ложных показаний относительно вашего ухода.<end>
+
+=>a22_original
+It's a private matter.<end>
+
+=>a22
+Это моё личное дело.<end>
+
+=>q23_original
+What kind of private matter?<end>
+
+=>q23
+Какое личное дело?<end>
+
+=>a24_original
+It's very personal.<end>
+
+=>a24
+Очень личное.<end>
+
+=>q25_original
+How long will you be out?<end>
+
+=>q25
+Как долго вы будете отсутствовать?<end>
+
+=>a26_original
+I'll be back quickly.<end>
+
+=>a26
+Я скоро вернусь.<end>
+
+=>q27_original
+Everything you said has been noted. <end>
+
+=>q27
+Всё, что вы сказали, было записано.<end>
+
+=>a28_original
+Not soon, that's for sure.<end>
+
+=>a28
+Долго, это точно.<end>
+
+=>a29_original
+I have no idea.<end>
+
+=>a29
+Я понятия не имею.<end>
+
+=>a30_original
+I need to meet someone.<end>
+
+=>a30
+Мне нужно встретиться кое с кем.<end>
+
+=>a31_original
+To roam South Underrail.<end>
+
+=>a31
+Побродить по Южной Подземке.<end>
+
+=>a32_original
+I need to visit my settlement.<end>
+
+=>a32
+Мне нужно навестить моё поселение.<end>
+
+=>a33_original
+Nothing important, I'm just going to the courtyard.<end>
+
+=>a33
+Ничего важного, я просто иду во двор.<end>
+
+=>q34_original
+What for?<end>
+
+=>q34
+Зачем?<end>
+
+=>a35_original
+Just to stretch my legs.<end>
+
+=>a35
+Просто, чтобы размять ноги.<end>
+
+=>a36_original
+To talk to some of the people out front.<end>
+
+=>a36
+Поговорить с людьми у входа.<end>
+
+=>a37_original
+Could you just let me go without all these questions?<end>
+
+=>a37
+А нельзя просто выпустить меня без всех этих вопросов?<end>
+
+=>q38_original
+Please answer my question, $(#brother/sister); I'm just following the rules.<end>
+
+=>q38
+Пожалуйста, ответьте на мой вопрос, $(#брат/сестра). Я просто выполняю инструкцию.<end>
+
+=>a39_original
+I would like to ask you a few questions.<end>
+
+=>a39
+Я хотел$(#/а) бы задать вам несколько вопросов.<end>
+
+=>q40_original
+Come into my office then, $(#brother/sister).<end>
+
+=>q40
+В таком случае, заходите в мой кабинет, $(#брат/сестра).<end>
+
+=>a41_original
+On my way, brother.<end>
+
+=>a41
+Уже иду, брат.<end>
+
+=>a42_original
+Okay.<end>
+
+=>a42
+Хорошо.<end>
+
+=>a43_original
+I changed my mind, I don't need anything.<end>
+
+=>a43
+Я передумал$(#/а), мне ничего не нужно.<end>
+
+=>q44_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q44
+Чорт направит вас, $(#брат/сестра).<end>
+

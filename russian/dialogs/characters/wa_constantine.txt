@@ -1,0 +1,454 @@
+﻿=>q1_original
+::As you approach Constantine you hear an unfamiliar cracking sound coming from outside, lasting but an instant. While certainly not deafening, it is loud enough to startle you. One moment later, another sound is heard - that of a dead body tumbling down the outside wall, after which everything becomes quiet again. Constantine simply laughs at the whole event.::
+
+Take that!<end>
+
+=>q1
+::Приближаясь к Константину, вы вдруг услышали незнакомый трещащий звук снаружи, быстро прервавшийся. Хотя он был, конечно, не оглушительный, но достаточно громкий, чтобы привлечь ваше внимание. Чуть позже доносится ещё один звук -- мёртвого тела, скатывающегося по стене пещеры, после чего снова становится тихо. Константин только посмеивается.::
+
+Готов!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me what you have in store. ::Barter::<end>
+
+=>a3
+Покажите, что у вас есть на продажу. ::Обмен::<end>
+
+=>a4_original
+::[Mercantile]:: Say... how about you show me the really good stuff, huh? Just because I'm relatively new here doesn't mean I'm poor.<end>
+
+=>a4
+::[Торговля]:: Скажите... как насчёт того, чтобы показать мне хороший товар, а? То, что я здесь недавно, не означает, что у меня нет денег.<end>
+
+=>q5_original
+What makes you think I have the "good stuff"?<end>
+
+=>q5
+Почему вы считаете, что у меня есть «хороший товар»?<end>
+
+=>a6_original
+Being observant is a requirement here if I'm not mistaken.<end>
+
+=>a6
+Наблюдательность является одним из требований здесь, если я не ошибаюсь.<end>
+
+=>q7_original
+Observant, you say... ::He pauses.:: Well, that you most certainly are, $(context.player.Name). Take a look at this.<end>
+
+=>q7
+Наблюдательность, говорите... ::Он замолкает.:: Знаете, $(context.player.Name), её вам не занимать. Взгляните на это.<end>
+
+=>a8_original
+::Barter.::<end>
+
+=>a8
+::Обмен.::<end>
+
+=>q9_original
+No, it doesn't. But it doesn't mean you're rich either. In any case, I've got nothing else for you.<end>
+
+=>q9
+Не означает. Но и обратного это не означает тоже. В любом случае, нет у меня для вас другого товара.<end>
+
+=>a10_original
+How and why did you join Oculus?<end>
+
+=>a10
+Как и почему вы попали в Окулус?<end>
+
+=>q11_original
+Well, we all go through a similar phase. You do small jobs, then, if they like you, they give you bigger jobs, those that require more of your skills. You've been through it all, you know it.<end>
+
+=>q11
+Ну, все мы проходили через подобное. Сначала -- небольшие задания, затем, если не лажать, дают работу посложнее, где требуется больше навыков. Вы прошли через это, вы и сами в курсе.<end>
+
+=>q12_original
+As to *why* I joined...
+
+::He raises his voice.:: So that I could stand around all day in this cramped bloody, freaking bloody pyramid bottom 2x2 platform... Arrrgh!<end>
+
+=>q12
+Что до того, *зачем* я здесь...
+
+::Он повышает голос.:: Чтобы стоять весь день на самом дне пирамиды на этой тесной долбаной уродской площадке два на два... У-у-у-у!<end>
+
+=>q13_original
+::Clears throat.:: I apologize. Um... It was a pursuit of... work. Work brings money, money can be used to buy food and equipment. So, now I'm here. Selling... equipment...
+
+For money!<end>
+
+=>q13
+::Он откашливается.:: Я приношу свои извинения. Эм... я был в поисках... работы. Работа приносит деньги, на деньги можно купить продовольствие и оборудование. Так я оказался здесь. Продаю... оборудование...
+
+За деньги!<end>
+
+=>a14_original
+So, how does it feel working in the lowest level of Oculus? Isn't it a bit... cramped in here?<end>
+
+=>a14
+И каково работать на самом нижнем уровне Окулуса? Не слишком... тесновато здесь?<end>
+
+=>q15_original
+Of course it's cramped, do you really think I haven't noticed!? I can't even move a foot without bumping into something! All these bloody boxes, I wish I could just kick them all into the abyss! Arggh!<end>
+
+=>q15
+Конечно тут тесно, думаете, я не заметил?! Я не могу даже пошевелить ногой, не натыкаясь на что-нибудь! Все эти долбаные коробки, хотел бы я просто выбросить их в пропасть! А-а-ар!<end>
+
+=>q16_original
+::Clears throat.:: I apologize, you shouldn't have witnessed that. I agree, the area is a bit... hmm, lacking in terms of space, and in addition, being in the lowest part of Oculus, I... hear things trying to get in.<end>
+
+=>q16
+::Откашливается.:: Я прошу прощения, вы ничем не заслужили подобное зрелище. Согласен, здесь немного... хм, не хватает пространства, и кроме того, потому что мы в самой низкой части Окулуса, я... слышу, как разное пытается попасть внутрь.<end>
+
+=>a17_original
+What things?<end>
+
+=>a17
+Какое -- разное?<end>
+
+=>q18_original
+Well, crawlers, for instance, I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
+
+=>q18
+Ну, краулеры например; я слышу, как они взбираются по стенам. Слабый звук внизу Окулуса, медленно приближающийся... всё отчётливей. Потом он затихает... Вы забываете про существо, но оно всё ещё там; может быть, оно слышит что-то живое внутри... что-то... съедобное.<end>
+
+=>q19_original
+But then the EDS fries the bugs! ::He laughs.:: They scream as their smoking carcasses fall into the darkness! I hate them, I hate them so much, as well as those bloody Lunatics!<end>
+
+=>q19
+А потом ЭСО поджаривает жуков! ::Смеётся.:: Они визжат, а их дымящиеся тушки падают во тьму! Я ненавижу их, я ненавижу их так же, как этих проклятых Психотиков!<end>
+
+=>a20_original
+If you hear strange things, then maybe it's time to lay off the brew.<end>
+
+=>a20
+Если вы слышите странные звуки, то, возможно, вам не стоит так налегать на самогон.<end>
+
+=>q21_original
+::The moment he hears you uttering those words, his jaw clenches and the face slowly turns red. His piercing stare feels like you've been exposed to high-frequency radiation that's tearing through your tissue. He quickly calms down, slowly exhales and regains his natural color.::
+
+Khm, I hope you were joking... I don't drink.<end>
+
+=>q21
+::Как только он слышит эти слова, его челюсть поджимается, а лицо медленно краснеет. Его пронизывающий взгляд, словно высокочастотное излучение, прожигает вас. Он быстро успокаивается, медленно выдыхает и вновь обретает естественный цвет.::
+
+Хм, я надеюсь вы пошутили... я не пью.<end>
+
+=>q22_original
+I was talking about crawlers, not something I imagined, as you... *jokingly* implied. I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
+
+=>q22
+Я говорю о краулерах, не о чем-то воображаемом, как вы... *шутливо* намекнули. Я слышу, как они взбираются по стенам. Слабый звук внизу Окулуса, медленно приближающийся... всё отчётливей. Потом он затихает... Вы забываете про существо, но оно всё ещё там; может быть, оно слышит что-то живое внутри... что-то... съедобное.<end>
+
+=>a23_original
+What is EDS?<end>
+
+=>a23
+Что такое ЭСО?<end>
+
+=>q24_original
+Electric Defense System. Not the official name, though, the original one is only known to... to whomever built Oculus.<end>
+
+=>q24
+Электрическая Система Обороны. Неофициальное название, настоящее известно... тому, кто построил Окулус.<end>
+
+=>q25_original
+I have no idea how it works, but in essence, it sends a surge of electricity through anything it deems dangerous, frying it. And it's smart, the system knows what should and what shouldn't be killed. It can be, well, distracting at times... hearing burning Lunatics scream and tumble into the abyss. But again, it also brings a smile to my face.<end>
+
+=>q25
+Я понятия не имею, как она работает, но, в сущности, она посылает электрический разряд через всё, что сочтёт опасным, поджаривает его. И это умная система, она знает, что должно и что не должно быть убито. Иногда отвлекает, знаете ли... звуки горящих Психотиков, которые кричат и падают в пропасть. Но, опять же, мне такое только в радость.<end>
+
+=>q26_original
+'Cause I hate those bastards!<end>
+
+=>q26
+Потому что я ненавижу этих ублюдков!<end>
+
+=>a27_original
+You mentioned Lunatics, who are they?<end>
+
+=>a27
+Вы упомянули Психотиков, расскажете про них?<end>
+
+=>q28_original
+You don't know who Lunatics are? Stick around and you might find out. Well, you'll hear them trying to climb the Oculus, for they reside very close to the bottom of it. Unlike crawlers, Lunatics always come in groups.<end>
+
+=>q28
+Вы не знаете, кто такие Психотики? Погуляйте вокруг, и может быть узнаете. Ну, услышите, как они пытаются подняться на Окулус, потому они живут очень близко от его основания. В отличие от краулеров, Психотики всегда приходят группами.<end>
+
+=>a29_original
+Do they bother you often?<end>
+
+=>a29
+Они часто беспокоят вас?<end>
+
+=>q30_original
+Do they? Do they? They bloody do! It's like I was cursed by this, this orb of annoyance that flies around my head and causes all sorts of, of infuriating things to happen!<end>
+
+=>q30
+Они? Меня? Да, ещё как! Я будто проклят этим, этим долбаным шаром, что летает вокруг моей головы и притягивает всякие раздражающие вещи!<end>
+
+=>q31_original
+"WHAAAAAAAAAAAA! We'll get inside, even though there is a pile of burned corpses below the Oculus." 
+
+They just... have to give it another go! And another, and another...<end>
+
+=>q31
+У-У-У-У-У-У-У! Мы попадаем внутрь, хоть там и куча обгоревших трупов, но нет, мы попробуем ещё раз! И ещё и ещё...<end>
+
+=>q32_original
+Khm... I apologize. These things really bother me sometimes and I might... overreact at times.<end>
+
+=>q32
+Хм... прошу прощения. Эти вещи действительно беспокоят меня, и иногда я могу перегнуть палку... иногда.<end>
+
+=>a33_original
+You still didn't tell me who these Lunatics actually are.<end>
+
+=>a33
+Вы всё ещё не сказали мне, кто эти Психотики на самом деле.<end>
+
+=>q34_original
+Lunatics are... hmmm, think of Ironheads and Lurkers. A bandit gang that is similar in size, but composing mostly of psionics. Powerful psionics, while we're at it, but the trade-off is that they are insane and unpredictable.<end>
+
+=>q34
+Психотики... хм-м-м, они вроде Железноголовых или скрытней. Банда схожего размера, но эта, в основном состоит из псиоников. Мощных псиоников, позволю себе заметить, но при этом безумных и непредсказуемых.<end>
+
+=>q35_original
+That is why the morons try to jump all over the bloody Oculus and disturb us! What a bunch of thick-headed cretins! Arrrgh!<end>
+
+=>q35
+Вот почему дебилы пытаются запрыгнуть на Окулус и надоедают нам! Что за толпа тупоголовых кретинов! А-а-ар!<end>
+
+=>a36_original
+Let's discuss something else.<end>
+
+=>a36
+Давайте обсудим что-нибудь другое.<end>
+
+=>q37_original
+Sure, but discuss what?<end>
+
+=>q37
+Конечно, но что обсуждать?<end>
+
+=>a38_original
+Did they ever make it in?<end>
+
+=>a38
+У них когда-нибудь получалось попасть внутрь?<end>
+
+=>q39_original
+Never. The EDS is there to prevent any unwanted entity from entering the Oculus. Lunatics are unwanted, therefore, they end up as ashes scattered all over the cave floor.<end>
+
+=>q39
+Никогда. ЭСО не пропустит нежелательных лиц в Окулус. Психотики являются нежелательными, поэтому они становятся пеплом, устилающим пол пещеры.<end>
+
+=>q40_original
+Personally, I've grown sick of those bloody idiots. It warms my heart to hear them die.<end>
+
+=>q40
+Лично мне надоели эти недоумки. Мне по сердцу слышать, как они умирают.<end>
+
+=>a41_original
+What can you tell me about Oculus?<end>
+
+=>a41
+Что вы можете рассказать мне про Окулус?<end>
+
+=>q42_original
+Oculus? You came down here to ask me that? You expect me... ME to answer your stupid questions!? "What can you tell me about Oculus?" Go ask Azif, he brought you here anyway...<end>
+
+=>q42
+Про Окулус? Вы спустились сюда, чтобы спросить меня об этом? Вы думаете, мне... МНЕ нечего больше делать, только отвечать на глупые вопросы?! «Что вы можете рассказать мне про Окулус?» Идите, расспрашивайте Азифа, это он вас сюда притащил...<end>
+
+=>q43_original
+::He takes a deep breath.:: I'm sorry, I guess I am a bit nervous.<end>
+
+=>q43
+::Он делает глубокий вдох.:: Простите, я немного нервничаю.<end>
+
+=>a44_original
+Who is that six-fingered cyborg?<end>
+
+=>a44
+Кто тот шестипалый киборг?<end>
+
+=>q45_original
+Six? That's what we call him. Six. Because of his fingers. Six. That's how many there are. Um, yes...<end>
+
+=>q45
+Шесть? Мы так и зовём его. Шесть. Из-за его пальцев. Шесть. Столько у него их есть. Хм, да...<end>
+
+=>q46_original
+In any case, the cyborg is not the most... approachable type, so to say, so keep that in mind if you see him around here again. No one knows where he comes from or what he's truly capable of; we only know he's a client and that's all we need to.<end>
+
+=>q46
+В любом случае, этот киборг не самый... дружелюбный тип, так что вы это учтите, если снова его здесь увидите. Никто не знает, откуда он взялся или на что по-настоящему способен; мы только знаем, что он клиент, и это всё, что нам нужно знать.<end>
+
+=>q47_original
+Still, you might try asking Azif about him, but I wouldn't put my charons on getting an answer.<end>
+
+=>q47
+Всё равно, попробуйте спросить о нём у Азифа, но я и ломаного харона не поставлю, что получите ответ.<end>
+
+=>q48_original
+In any case, I suggest you do not bother the cyborg, no matter how intriguing he might appear. He's not the most... approachable type, so to say. No one knows where he comes from or what he's truly capable of; we only know he's a client and that's all we need to.<end>
+
+=>q48
+В любом случае, я советую не приставать к этому киборгу, неважно, насколько интригующим он может казаться. Он не самый... дружелюбный тип. Никто не знает, откуда он взялся или на что по-настоящему способен; мы только знаем, что он клиент, и это всё, что нам нужно знать.<end>
+
+=>a49_original
+Can I ask you something about the people in the Oculus?<end>
+
+=>a49
+Могу ли я узнать у вас что-нибудь о других людях в Окулусе?<end>
+
+=>q50_original
+Whom do you want to know about, $(context.player.Name)?<end>
+
+=>q50
+Кто вас интересует, $(context.player.Name)?<end>
+
+=>a51_original
+Abram.<end>
+
+=>a51
+Абрам.<end>
+
+=>q52_original
+Why him? Why did you ask about him first? It could've been any-bloody-else but you had to ask about him! What the hell is wrong with you!? Huh?<end>
+
+=>q52
+Почему он? Почему вы спрашиваете о нём, в первую очередь? Это мог бы быть любой другой выродок, но вы должны были спросить именно о нём! Что с вами такое?! А?<end>
+
+=>q53_original
+This is so damn tiring, always him! It's always bloody him!<end>
+
+=>q53
+Как же это меня утомило, всегда он! Всегда этот хмырь!<end>
+
+=>q54_original
+::He calms down.:: I apologize for this. I really do. Um... can we not discuss other people in the future? Thank you, um, thank you.<end>
+
+=>q54
+::Он успокаивается.:: Я прошу прощения. Мне не стоило этого говорить. Хм... может быть, не будем больше обсуждать других людей? Спасибо, э-э-э, спасибо.<end>
+
+=>a55_original
+Jack Quicksilver.<end>
+
+=>a55
+Скользкий Джек.<end>
+
+=>a56_original
+Azif.<end>
+
+=>a56
+Азиф.<end>
+
+=>a57_original
+Twitch.<end>
+
+=>a57
+Твич.<end>
+
+=>a58_original
+Phyllis.<end>
+
+=>a58
+Филлис.<end>
+
+=>q59_original
+Why her? Why did you ask about her first? It could've been any-bloody-else but you had to ask about her! What the hell is wrong with you!? Huh?<end>
+
+=>q59
+Почему она? Почему вы спрашиваете о ней, в первую очередь? Это могла бы быть любая другая дура, но вы должны были спросить именно о ней! Что с вами такое?! А?<end>
+
+=>q60_original
+This is so damn tiring, always her! It's always bloody her!<end>
+
+=>q60
+Как же это меня утомило, всегда она! Вечно эта тварь!<end>
+
+=>a61_original
+Actually, no one. I had other questions.<end>
+
+=>a61
+На самом деле, особо никто. У меня были другие вопросы.<end>
+
+=>q62_original
+Not a problem. I'm not going anywhere.<end>
+
+=>q62
+Не проблема. Я никуда не денусь.<end>
+
+=>a63_original
+What can you tell me about those robed oculites? <end>
+
+=>a63
+Что вы можете рассказать мне о тех окулитах в робах?<end>
+
+=>q64_original
+We call them Whisperers. They are quite an interesting breed, I must say. They all belong to a single clan of psi-warriors, who call themselves Khazum Morakht. A very rough sounding word, I know. But believe me, it fits them well.<end>
+
+=>q64
+Мы называем их Шепчущими. Довольно интересная порода, надо сказать. Все они принадлежат к одному клану пси-воинов, называющих себя Хазум Морахт. Очень грубо звучит, знаю. Но поверьте, название подходит им хорошо.<end>
+
+=>q65_original
+They were here long before I arrived. I think they are all from North Underrail. You will find them throughtout Oculus, standing still, observing what happens around them, assessing everyone and everything. You can't initiate a conversation with them, trust me, I've tried... Especially with that one in the corner of this platform. ::Mutters something to himself.::<end>
+
+=>q65
+Они были здесь задолго до меня. Я думаю, все они из Северной Подземки. Найти их можно по всему Окулусу, просто стоят на месте, наблюдают за окружением, оценивают всех и вся. Поговорить с ними не выйдет, поверьте, я пробовал... особенно с тем, что в углу. ::Он что-то бормочет про себя.::<end>
+
+=>a66_original
+Catch you later.<end>
+
+=>a66
+Увидимся позже.<end>
+
+=>q67_original
+::You come up to a tall man with a mildly irritated look on his face. Despite that, his tone of voice is generally welcoming and doesn't imply that your presence bothers him.::
+
+And who do my eyes see? A newcomer. Welcome, $(context.player.Name), to a place that doesn't exist... to most people. I'm Constantine, the Oculus quartermaster.<end>
+
+=>q67
+::Перед вами высокий мужчина со слегка раздражённым выражением на лице. Несмотря на это, его тембр голоса весьма приветлив и не показывает, что ваше присутствие ему мешает.::
+
+Кто тут у нас? Новичок. Добро пожаловать, $(context.player.Name), в место, которого не существует... для большинства людей. Я Константин, квартирмейстер Окулуса.<end>
+
+=>q68_original
+Hey, I've got some new gear for you.<end>
+
+=>q68
+Привет, у меня есть новое снаряжение для вас.<end>
+
+=>a69_original
+Show it to me. ::Barter.::<end>
+
+=>a69
+Показывайте товар. ::Обмен.::<end>
+
+=>a70_original
+Good. But let me ask you something first.<end>
+
+=>a70
+Хорошо, но сначала я хотел$(#/а) бы кое-что спросить.<end>
+
+=>q71_original
+I'm listening.<end>
+
+=>q71
+Я слушаю.<end>
+
+=>q72_original
+What do you need, $(context.player.Name)?<end>
+
+=>q72
+Что вам нужно, $(context.player.Name).<end>
+

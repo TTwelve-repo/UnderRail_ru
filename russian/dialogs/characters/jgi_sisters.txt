@@ -1,0 +1,756 @@
+﻿=>q1_original
+::Two robed women stand in the middle of a small cavern, facing each other. Their gleaming eyes become focused on you the moment you reveal your presence. The darkness of the cave as well as that of their hoods make it difficult for you to discern any facial features of these two women, but the details are not your concern right now - their hostile poses are.::<end>
+
+=>q1
+::Две женщины в длинных робах стоят посреди небольшой пещеры, лицом друг к другу. Их блестящие глаза направляются на вас, как только вы обнаруживаете своё присутствие. В темноте пещеры вы не можете разобрать их лиц, скрытых под капюшонами, но не это вас беспокоит. Вы чувствуете исходящую от них враждебность.::<end>
+
+=>q2_original
+::One of the two women speaks with a frigid, unwelcoming voice.::
+
+Identify yourself, visitor. Who are you and what is your purpose here?<end>
+
+=>q2
+::Внезапно вы слышите холодный, недружелюбный голос. Говорит одна из двух женщин.::
+
+Представьтесь, гость$(#/я). Кто вы, и с какой вы здесь целью?<end>
+
+=>a3_original
+I'm $(context.player.Name) and I mean you no harm.<end>
+
+=>a3
+Меня зовут $(context.player.Name) и я не причиню вам вреда.<end>
+
+=>q4_original
+::The two women exchange looks, but not words. A short glance is all it takes for them to know what the other one is thinking, it seems.::
+
+$(context.player.Name)... I am Adira, and this is my sister Beatrice.<end>
+
+=>q4
+::Две женщины обмениваются взглядами, но не словами. Короткий взгляд -- всё, что им требуется, чтобы понять друг друга.::
+
+$(context.player.Name)... Я Адира, а это моя сестра Беатрис.<end>
+
+=>q5_original
+Your purpose here, $(context.player.Name)?<end>
+
+=>q5
+Зачем вы здесь, $(context.player.Name)?<end>
+
+=>a6_original
+I heard about the monster - Behemoth.<end>
+
+=>a6
+Я слышал$(#/а) о чудовище -- Исполине.<end>
+
+=>q7_original
+::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::
+
+Many came here for this very reason. I'm sure you walked past the remains of some on your way in.<end>
+
+=>q7
+::Две женщины обмениваются взглядами ещё раз. На этот раз их бессловесное общение занимает больше времени, чем раньше. Наконец вы получаете свой ответ.::
+
+Многие пришли сюда именно по этой причине. Я уверена, что вы проходили мимо их останков по дороге сюда.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+What can you tell me about the Forsaken Behemoth?<end>
+
+=>a9
+Вы можете рассказать мне про Забытого Исполина?<end>
+
+=>q10_original
+::She smiles.:: You've gotten this far, so I think you deserve the truth. The Forsaken Behemoth doesn't exist. All the things you've been told are, in fact, false.<end>
+
+=>q10
+::Она улыбается.:: Вы так далеко забрались; я думаю, что вы заслуживаете знать правду. Забытого Исполина не существует. Всё, что вы о нём слышали -- по сути, ложь.<end>
+
+=>q11_original
+Everything you heard is a product of my sister's skillful manipulation. If one has the ability to control fire, moving air to create frightening sounds is not an issue. Especially when the entrance to the cave helps it resonate and reach the ears of superstitious ferrymen.<end>
+
+=>q11
+Всё, что вы слышали -- это результат умелых манипуляций моей сестры. Когда умеешь управлять огнём и движением воздуха, создать пугающие звуки не проблема. Особенно, когда пещера помогает им усилиться и достигнуть ушей суеверных паромщиков.<end>
+
+=>a12_original
+I guess your ruse worked. You convinced a lot of people that this island is the home of a terrifying monster.<end>
+
+=>a12
+Похоже, что ваша уловка сработала. Вы убедили многих людей, что этот остров является домом для ужасающего чудовища.<end>
+
+=>q13_original
+Ironically, our whole plan also attracted a fair number of crazy monster hunters - or at least what we suspect they were, since they came well armed.<end>
+
+=>q13
+По иронии судьбы, наш план также привлекает немало сумасшедших охотников на чудовищ. Или, по крайней мере, мы подозреваем, что охотников, поскольку они приходят хорошо вооружёнными.<end>
+
+=>q14_original
+And some of them were really rude. They still haven't left the island to this day! It's impolite to overstay your welcome, I say. ::She flashes a malicious smile.::<end>
+
+=>q14
+И некоторые из них были крайне невежливы. Они не покинули этот остров и по сей день! Это так невежливо -- злоупотреблять нашим гостеприимством, скажем так. ::Она дарит вам ехидную улыбку.::<end>
+
+=>a15_original
+So basically, there's nothing interesting on this island.<end>
+
+=>a15
+Так что, в принципе, нет ничего интересного на этом острове.<end>
+
+=>q16_original
+No... Unless you think hoppers and mindshrooms are interesting.<end>
+
+=>q16
+Нет... если только вас не интересуют пещерники и мозгляки.<end>
+
+=>q17_original
+Nothing interesting at all?<end>
+
+=>q17
+Вообще ничего интересного?<end>
+
+=>q18_original
+The visitor meant other than the two of us...<end>
+
+=>q18
+Гость$(#/я) имел$(#/а) в виду -- кроме нас...<end>
+
+=>q19_original
+I'm sure of that...<end>
+
+=>q19
+Конечно же...<end>
+
+=>a20_original
+I had other questions...<end>
+
+=>a20
+У меня были другие вопросы...<end>
+
+=>q21_original
+::They both nod.::<end>
+
+=>q21
+::Они обе кивают.::<end>
+
+=>a22_original
+But why are you doing all this?<end>
+
+=>a22
+Но зачем вы всё это делаете?<end>
+
+=>q23_original
+We don't like visitors. I think that's fairly obvious.<end>
+
+=>q23
+Мы не любим посетителей. Я думаю, что это достаточно очевидно.<end>
+
+=>a24_original
+I see you really don't want visitors here.<end>
+
+=>a24
+Я вижу, вы очень не любите посетителей.<end>
+
+=>a25_original
+I heard about a creature called Forsaken Behemoth living on this island. Do you know anything about that?<end>
+
+=>a25
+Я слышал$(#/а) о существе, называемом Забытым Исполином, которое живёт на этом острове. Вы что-нибудь знаете о нём?<end>
+
+=>a26_original
+How did you two end up here, if I may ask?<end>
+
+=>a26
+Как вы двое оказались здесь, если не секрет?<end>
+
+=>q27_original
+Allow us to tell you a story...<end>
+
+=>q27
+Позвольте нам рассказать вам историю...<end>
+
+=>a28_original
+Alright. You may start.<end>
+
+=>a28
+Ладно. Начинайте.<end>
+
+=>q29_original
+::You manage catch a little smile on Adira's face, vanishing as quickly as it appeared. Even if it was there only for a brief moment, you could tell that hiding behind that smile was not joy but, in fact, sadness.::<end>
+
+=>q29
+::Вам удаётся заметить лёгкую улыбку на лице Адиры, которая исчезает так же быстро, как и появилась. Несмотря на мимолётность, вы понимаете, что за ней скрывается не радость, а печаль.::<end>
+
+=>q30_original
+A young girl was born and raised in a small station far away from here. The girl had a twin sister whom she loved more than anything in this world. The two were inseparable.<end>
+
+=>q30
+Одна девушка родилась и выросла на маленькой станции далеко отсюда. У девушки была сестра-близнец, которую она любила больше всего на свете. Двое были неразлучны.<end>
+
+=>q31_original
+The sisters were inseparable - as most twins tend to be. As unfortunate as it is, several tragedies made the bond between the sisters even stronger than before. Their father, a good and caring man, died from the hands of vile raiders that had constantly circled the station like packs of hungry rathounds. Their mother, a gorgeous woman and equally - if not more - caring than the father died from a broken heart.<end>
+
+=>q31
+Сёстры были неразлучны, как это обычно бывает с близнецами. Различные несчастья только укрепили связь между ними. Их отец, добрый и заботливый человек, погиб от рук подлых рейдеров, которые постоянно крутились возле станции, словно стая голодных крысоволков. Их мать, прекрасная женщина и столь же, если не более заботливая, чем отец, скончалась от разрыва сердца.<end>
+
+=>q32_original
+The little girl and her sister were left living with their grandmother, an old, disabled woman who could barely take care of herself, let alone feed and raise two young girls.<end>
+
+=>q32
+Маленькая девочка и её сестра остались жить с бабушкой -- старой, больной женщиной, которая едва могла позаботиться о себе, не то что кормить и растить двух малолетних девочек.<end>
+
+=>q33_original
+The sisters never loved her. She was a selfish and bitter old woman. It was a miracle how she even managed to raise such a selfless and intelligent son when she herself was quite the opposite.<end>
+
+=>q33
+Сёстры никогда не любили её. Она была эгоистичной и злой старухой. Это чудо, как она вообще смогла вырастить такого бескорыстного и умного сына, когда она сама была ему полной противоположностью.<end>
+
+=>q34_original
+The next page of the story spells poverty and a life that was about to get even harder: The girl and her sister shared a gift - they were psionics. One was gifted with the ability to control fire, one the ability to control frost.<end>
+
+=>q34
+Следующая страница истории рассказывает о нищете и жизни, которая становилась только тяжелее: девушка и её сестра делили дар -- они были псиониками. Одна обладала способностью управлять огнём, другая -- холодом.<end>
+
+=>q35_original
+Control is the wrong word here, for they had no real control over their abilities and there was no one in that small, forgotten station that could help them embrace this ability that they possessed and teach them how to use it properly.<end>
+
+=>q35
+Но управлять -- это не то слово, ведь они не умели действительно контролировать свои способности, и никого не было на этой маленькой, забытой станции, кто мог бы помочь им понять эти способности, которыми они обладали, и научить их как правильно их использовать.<end>
+
+=>q36_original
+Accidental fires, flying ice spikes and an occasional frozen door knob quickly raised the whole station to its feet; the residents were filled with fear as well as prejudice.<end>
+
+=>q36
+Случайные пожары, летающие сосульки и даже, изредка, замёрзшие дверные ручки быстро подняли всю станцию на ноги; жители были полны страха и предрассудков.<end>
+
+=>q37_original
+The sisters were scared too; they didn't want to hurt anyone, they tried not to. It was a true horror. There was no one to guide them, show them the right way to innervate and use their abilities - no one to help them! All they got were looks of fear and prejudice, and even hatred. Even their own grandmother proved even more useless and selfish than what the girls had originally thought.<end>
+
+=>q37
+Сёстры тоже были напуганы; они не хотели никого обижать, они пытались. Это был настоящий ужас. Некому было направить их, показать им верный путь, чтобы совладать со своими способностями -- некому помочь! Были только взгляды, полные страха, и предрассудков, и даже ненависти. Даже их собственная бабушка оказалась ещё более бесполезной и эгоистичной, чем девочки думали изначально.<end>
+
+=>q38_original
+Fear overcame the simple-minded. The girls were forced to leave in fear of their "evil" powers hurting the community. Grandmother had a pseudo-wise explanation which, at least in her own distorted mind, justified such actions. The sisters were given some money, some clothes, some food, and were told to go to Core City. There, someone could perhaps help them.<end>
+
+=>q38
+Страх одолел простодушных. Девочки были изгнаны, из опасения, что их «злые» способности навредят людям. Бабушка придумала псевдомудрое объяснение, которое, по крайней мере, в её собственном искажённом сознании, оправдывало такие действия. Сёстрам дали немного денег, немного одежды, немного еды, и сказали ехать в Кор-Сити. Там, возможно, кто-то сможет им помочь.<end>
+
+=>q39_original
+Nonsense...<end>
+
+=>q39
+Бред...<end>
+
+=>q40_original
+The capital of decadence, torn apart by rioters, was luckily not the destination of the little sisters. They were sick of people, of the whole treacherous human race! The bastards, the inconsiderate walking piles of rathound excrement threw us out - FORCED US OUT like we were... like we weren't even human beings... If we had been eaten by rabid animals right outside the station they wouldn't have cared one stinking bit! They got rid of us. We were not their problem anymore, and that's all they cared about.<end>
+
+=>q40
+Столица упадка, раздираемая бунтовщиками, к счастью, не стала сестричкам новым домом. Они были сыты по горло людьми, всем предательским человеческим семенем! Сволочи, бесчувственные ходячие кучи крысоволчьих экскрементов, вышвырнули нас -- ВЫБРОСИЛИ НАС, как будто... как не людей... Если бы нас сожрали бешеные животные прямо за воротами станции, им было бы наплевать! Они избавились от нас. Мы больше не были их проблемой -- и это всё, что их интересовало.<end>
+
+=>q41_original
+::She gives her sister a short glance.:: Naturally, a place - any place untainted by humans was the best place for the little sisters to settle. Not only that, but it also had to be difficult for anyone to reach this place. The little girls tried to find a ferryman to take them to Forsaken Island, an island surrounded by dangerous currents that had doomed a vast number of unfortunate boats in the past and was often avoided. As there was no one willing to take them there, they had to... *steal* their ride.<end>
+
+=>q41
+::Она бросает взгляд на сестру.:: Естественно, место -- любое место, незапятнанное людьми, было лучше для сестричек. Кроме того, оно также должно было быть труднодоступным для всех. Маленькие девочки пытались найти паромщика, который отвёз бы их на Покинутый остров -- остров, окружённый опасными течениями, которые уже обрекли на погибель огромное количество лодок, и который все избегали. И не было никого, готового отвезти их туда, им пришлось... *украсть* лодку.<end>
+
+=>q42_original
+The island offered them a life of isolation and sufficient resources to survive. They grew up, and many years later they eventually mastered their "cursed" gifts. They sought and gained control over the abilities that were a burden up to that point. <end>
+
+=>q42
+Остров подарил им уединение и достаточно ресурсов для жизни. Они выросли, и много лет спустя освоили свой «проклятый» дар. Они искали и обрели контроль над способностями, которые прежде были для них лишь обузой.<end>
+
+=>q43_original
+In the end, they only needed each other in life. Through joint effort they managed to survive through everything. And to this day, their bond is stronger then ever. And so are their powers.<end>
+
+=>q43
+В конце концов, им нужны были только они сами. Совместными усилиями, им удалось пережить всё. И по сей день их связь сильнее чем когда-либо. И также их силы.<end>
+
+=>a44_original
+That was a really sad story. Some people are so small-minded! But as you said, who needs those bastards!<end>
+
+=>a44
+Это была очень грустная история. Некоторые люди такие недалёкие! Но, как вы и сказали -- кому нужны эти ублюдки!<end>
+
+=>q45_original
+Well... what's done is done. It's all in the past now.<end>
+
+=>q45
+Ну... что сделано, то сделано. Теперь это всё в прошлом.<end>
+
+=>q46_original
+Ugh... I still hate them to this day! I wish...<end>
+
+=>q46
+Уф... я ненавижу их по сей день! Если бы...<end>
+
+=>q47_original
+You wish nothing, Beatrice. Leave it be.<end>
+
+=>q47
+Хватит, Беатрис. Оставь.<end>
+
+=>q48_original
+I... ::She sighs.:: Yes, sister. I'll leave it be.<end>
+
+=>q48
+Я... ::Она вздыхает.:: Да, сестра. Я оставлю.<end>
+
+=>q49_original
+::Both of them fall silent. They seem to have drifted off, perhaps somewhere far back in the past.::<end>
+
+=>q49
+::Обе они замолкают. Они, похоже, задумались; возможно, о давнем прошлом.::<end>
+
+=>a50_original
+You might not agree with me, but you were a potential danger to those people. Psionics out of control don't seem safe to me.<end>
+
+=>a50
+Вы можете не соглашаться со мной, но вы были потенциальной угрозой для этих людей. Неуправляемая псионика кажется мне не безопасной.<end>
+
+=>q51_original
+So, throwing us out was perfectly justified according to you? How can you say such a thing? All we needed was some love... some understanding, some help. Nothing else. And we got none of it, not even a little.<end>
+
+=>q51
+По-вашему, выгонять нас было вполне оправдано? Как вы можете говорить такие вещи? Всё, что нам было нужно -- немного любви... какое-то понимание, помощь. Больше ничего. И мы не получили ничего из этого -- ни капельки.<end>
+
+=>q52_original
+We never hurt anyone, and never would have - not even by accident!<end>
+
+=>q52
+Мы ни разу не обидели никого, и никогда бы не стали, даже случайно!<end>
+
+=>a53_original
+I'm sorry. I didn't mean to sound like I support their decision. Forget I said anything.<end>
+
+=>a53
+Извините. Я не хочу сказать, что я поддерживаю их решение. Забудьте.<end>
+
+=>a54_original
+Yeah, whatever you say. I had other question.<end>
+
+=>a54
+Да неважно. У меня был другой вопрос.<end>
+
+=>q55_original
+::Both of them put on a frown but say nothing.::<end>
+
+=>q55
+::Они обе хмурятся, но ничего не говорят.::<end>
+
+=>a56_original
+I don't know what to say to all this...<end>
+
+=>a56
+Я не знаю, что сказать...<end>
+
+=>q57_original
+That's alright. There are times when words cannot describe something you wish to express.<end>
+
+=>q57
+Это ничего. Бывают моменты, когда слова не могут описать то, что вы хотели бы выразить.<end>
+
+=>q58_original
+Adira and I sometimes don't utter a single word for a whole day or two. Yet, we never fail to understand each other.<end>
+
+=>q58
+Адира и я иногда не произносим ни одного слова за весь день или два. Однако мы всегда понимаем друг друга.<end>
+
+=>q59_original
+Actually, we haven't talked this much in a long, long time...<end>
+
+=>q59
+Признаться, мы столько не говорили уже долгое, долгое время...<end>
+
+=>q60_original
+Well now we have a visitor. ::She smiles.::<end>
+
+=>q60
+Ну, теперь же у нас гость$(#/я). ::Она улыбается.::<end>
+
+=>a61_original
+Now that was a long story! Hey, I grew a long gray beard!<end>
+
+=>a61
+Вот это была очень длинная история! Смотрите -- у меня выросла огромная седая борода!<end>
+
+=>q62_original
+::Both sisters stand in disbelief. Your comment wasn't the one they expected, it seems. They look at each other for a second before Adira replies.::
+
+I am at a loss for words, visitor.<end>
+
+=>q62
+::Обе сестры стоят в недоумении. Похоже, что они не ожидали такого комментария. Они смотрят друг на друга, и Адира отвечает.::
+
+У меня нет слов, гость$(#/я).<end>
+
+=>q63_original
+You think you're funny? You think you can come to our home and act like a jerk!? Why I'll...<end>
+
+=>q63
+Вы думаете, что это смешно? Вы думаете, что можете прийти к нам домой и вести себя как клоун?! Вот я...<end>
+
+=>a64_original
+I'm sorry, okay! I didn't mean it like that. Again, I'm sorry.<end>
+
+=>a64
+Простите, ладно? Я не это имел$(#/а) в виду. Ещё раз, простите.<end>
+
+=>q65_original
+Let's all calm down. You better watch your words next time, visitor.<end>
+
+=>q65
+Давайте все успокоимся. Вы лучше следите за своими словами в следующий раз, гость$(#/я).<end>
+
+=>q66_original
+::Beatrice says nothing. She just stares at you.::<end>
+
+=>q66
+::Беатрис ничего не говорит. Она просто смотрит на вас.::<end>
+
+=>q67_original
+Did you have any other questions, visitor?<end>
+
+=>q67
+У вас есть ещё вопросы, гость$(#/я)?<end>
+
+=>a68_original
+What? Please continue. I'm really interested in what you were going to say.<end>
+
+=>a68
+Что? Пожалуйста, продолжайте. Мне очень интересно, что вы собирались сказать.<end>
+
+=>q69_original
+That's it! You're going down!<end>
+
+=>q69
+Ну всё! Тебе крышка!<end>
+
+=>a70_original
+::Fight!::<end>
+
+=>a70
+::Бой!::<end>
+
+=>a71_original
+Wow, someone's oversensitive!<end>
+
+=>a71
+Ух ты, кто-то слишком чувствительная!<end>
+
+=>q72_original
+Overse--!? That's it! You're going down!<end>
+
+=>q72
+Чувстви... Ну всё! Тебе крышка!<end>
+
+=>a73_original
+What a long story! If I were a man, I'd be sporting a long gray beard by now!<end>
+
+=>a73
+Какая длинная история! Будь я мужчиной, я бы уже отрастила длинную седую бороду!<end>
+
+=>a74_original
+I think you misheard me. I didn't ask for a story, I asked you to tell me how you ended up here.<end>
+
+=>a74
+Я думаю, вы меня не поняли. Мне не нужна история, я хочу знать, как вы оказались здесь.<end>
+
+=>q75_original
+ALLOW us to tell you a story...<end>
+
+=>q75
+*Позвольте* нам рассказать вам историю...<end>
+
+=>a76_original
+Actually, before you start, I had other questions I wanted to ask you.<end>
+
+=>a76
+Вообще-то, прежде чем вы начнёте, позвольте задать вам пару вопросов.<end>
+
+=>a77_original
+What do you do to pass the time here?<end>
+
+=>a77
+Что вы делаете, чтобы скоротать время?<end>
+
+=>q78_original
+Besides fishing, picking mushrooms and hunting hoppers...<end>
+
+=>q78
+Помимо ловли рыбы, сбора грибов и охоты на пещерников...<end>
+
+=>q79_original
+I like creating ice sculptures...<end>
+
+=>q79
+Я люблю создавать ледяные скульптуры...<end>
+
+=>q80_original
+I enjoy creating dancing flames of various shapes and sizes...<end>
+
+=>q80
+Мне нравится создавать танцующие языки пламени различных форм и размеров...<end>
+
+=>q81_original
+We come up with interesting tales...<end>
+
+=>q81
+Мы придумываем интересные истории...<end>
+
+=>q82_original
+Or just meditate... or practice our skills.<end>
+
+=>q82
+Или просто медитируем... или тренируем свои навыки.<end>
+
+=>q83_original
+Life here is not as boring as one might think. Trust us.<end>
+
+=>q83
+Жить здесь не так скучно, как может показаться. Поверьте.<end>
+
+=>a84_original
+Have you ever left this island after you came here?<end>
+
+=>a84
+Вы когда-нибудь покидали этот остров после того, как приехали сюда?<end>
+
+=>q85_original
+No...<end>
+
+=>q85
+Нет...<end>
+
+=>q86_original
+No! Why would we do that?<end>
+
+=>q86
+Нет! Зачем нам это делать?<end>
+
+=>q87_original
+We don't need anything from the outside world; we have everything we need *right* here.<end>
+
+=>q87
+Нам ничего не нужно от внешнего мира; у нас есть всё, что нам нужно *прямо* тут.<end>
+
+=>a88_original
+Well, I have to be leaving now. Goodbye.<end>
+
+=>a88
+Ладно, мне пора. До свидания.<end>
+
+=>q89_original
+Where do you think you're going?<end>
+
+=>q89
+Куда это вы собрались?<end>
+
+=>a90_original
+Home.<end>
+
+=>a90
+Домой.<end>
+
+=>q91_original
+Did you really think we were gonna let you just leave this place and tell anyone about what you witnessed here?<end>
+
+=>q91
+Вы действительно думаете, что мы позволим вам просто так покинуть это место и кому-то рассказать о том, что вы видели здесь?<end>
+
+=>a92_original
+But you seemed talkative and friendly.<end>
+
+=>a92
+Но вы казались разговорчивы и дружелюбны.<end>
+
+=>q93_original
+In all honesty, it was interesting to hear another voice. Perhaps something of the outside world, not that it matters much. In the end, we can't let you get out of here alive.<end>
+
+=>q93
+Положа руку на сердце, нам было интересно услышать новый голос. Возможно, что-нибудь из внешнего мира; не имеет особого значения. В конце концов, мы не можем позволить вам уйти отсюда жив$(#ым/ой).<end>
+
+=>a94_original
+::[Persuade]:: Okay, kill me. Then my powerful friends, who know I'm here, will come looking for me - armed to the teeth. After all, they will be expecting the Behemoth to be here so they'll pack quite a bit of firepower. Can you deal with all of them?<end>
+
+=>a94
+::[Убеждение]:: Ладно, убьёте вы меня. И тогда мои могущественные друзья, которые знают, что я здесь, придут меня искать -- вооружённые до зубов. В конце концов, они ожидают найти здесь Исполина, так что запасутся огневой мощью. Вы сможете справиться с ними со всеми?<end>
+
+=>q95_original
+::Adira is silent, and so is her sister.::<end>
+
+=>q95
+::Адира молчит, как и её сестра.::<end>
+
+=>a96_original
+I know it's hard to trust a complete stranger, but at least give it a shot. What I saw here will remain between you and me. You have my word.<end>
+
+=>a96
+Я знаю, трудно довериться совершенно незнакомому человеку, но по крайней мере, попробуйте. То, что я видел$(#/а) здесь, останется между вами и мной. Даю вам слово.<end>
+
+=>q97_original
+::Looks are exchanged between the sisters once again. Your answer came quickly, preceded only by a short sigh.::
+
+You convinced us. We won't stop you from leaving, $(context.player.Name). You are free to go.<end>
+
+=>q97
+::Сёстры вновь обмениваются взглядами. Их ответ следует за лёгким вздохом.::
+
+Вы нас убедили. Мы не станем останавливать вас, $(context.player.Name). Вы можете идти.<end>
+
+=>a98_original
+Well, I'm outta here. So long!<end>
+
+=>a98
+Ну, тогда я пойду. Всего хорошего!<end>
+
+=>a99_original
+Goodbye.<end>
+
+=>a99
+До свидания.<end>
+
+=>q100_original
+Your excuse is pathetic! Let's get this over with!<end>
+
+=>q100
+Ваше выдумки убоги! Покончим с этим!<end>
+
+=>a101_original
+I promise I'll bring you a gift if you let me go! I'll get you something nice!<end>
+
+=>a101
+Я обещаю, что привезу вам подарок, если вы меня отпустите! Я привезу вам что-нибудь красивое!<end>
+
+=>q102_original
+Oooh! I want a doll! ::She laughs out loud.:: Actually... no. I don't need a stinking doll!<end>
+
+=>q102
+О-о-о-о! Я хочу куклу! ::Она громко смеётся.:: Или... нет. Мне не нужна вонючая кукла!<end>
+
+=>q103_original
+The talk is over!<end>
+
+=>q103
+Разговор окончен!<end>
+
+=>a104_original
+I'll give you money if you let me live!<end>
+
+=>a104
+Я дам вам денег, если вы сохраните мне жизнь!<end>
+
+=>q105_original
+::She laughs out loud.:: Money? We have no use for that here! That was pathetic!<end>
+
+=>q105
+::Она громко смеётся.:: Деньги? Зачем они нам здесь? Какой бред!<end>
+
+=>a106_original
+I'm not going down without a fight! ::Attack!::<end>
+
+=>a106
+Я не сдамся без боя! ::Напасть!::<end>
+
+=>a107_original
+I just wanted to take a look around.<end>
+
+=>a107
+Я просто хотел$(#/а) осмотреться.<end>
+
+=>a108_original
+To kill all the hoppers on the island! I hate those filthy creatures!<end>
+
+=>a108
+Убить всех пещерников на острове! Я ненавижу этих грязных тварей!<end>
+
+=>a109_original
+I'm going on a new adventure!<end>
+
+=>a109
+Я собираюсь на поиски новых приключений!<end>
+
+=>a110_original
+To grab something to eat. I'm starving.<end>
+
+=>a110
+Чтобы найти что-нибудь поесть. Я умираю с голоду.<end>
+
+=>a111_original
+I gotta go.<end>
+
+=>a111
+Мне надо идти.<end>
+
+=>a112_original
+A strong current pulled the ferry I was on and I ended up stranded here. I originally intended to go to Core City, but I guess I will be spending some time on this cursed place.<end>
+
+=>a112
+Сильное течение увлекло паром, на котором я плыл$(#/а), и я оказал$(#ся/ась) здесь. Изначально, я планировал$(#/а) плыть в Кор-Сити, но похоже на то, что мне придётся некоторое время провести в этом проклятом месте.<end>
+
+=>q113_original
+::The two women exchange looks yet again. This time, their wordless communication took a bit longer than previously. Still, you eventually get your response.::
+
+The Forsaken Island itself is very dangerous, and so are the waters around it. You are lucky to still be breathing, visitor.<end>
+
+=>q113
+::Две женщины обмениваются взглядами ещё раз. На этот раз их бессловесное общение занимает больше времени, чем раньше. Наконец вы получаете свой ответ.::
+
+Покинутый остров сам по себе очень опасен, как и воды вокруг него. Вам повезло, что вы ещё дышите, гость$(#/я).<end>
+
+=>a114_original
+I wanted to explore the Forsaken Island despite the tales of a great and deadly creature inhabiting it.<end>
+
+=>a114
+Я хотел$(#/а) исследовать Покинутый остров, несмотря на рассказы об огромном и опасном создании, живущем здесь.<end>
+
+=>a115_original
+I'm here to kill you, steal your stuff and then try to sell it to someone. Die! ::Attack!::<end>
+
+=>a115
+Я здесь, чтобы убить вас и украсть ваши пожитки, чтобы потом попытаться продать их кому-нибудь. Умри! ::Напасть!::<end>
+
+=>a116_original
+Who are *you* and what is going on here?<end>
+
+=>a116
+Кто *вы* и что здесь происходит?<end>
+
+=>q117_original
+We *suggest* you answer our question first, visitor.<end>
+
+=>q117
+Мы *советуем* вам сначала ответить на наш вопрос, гость$(#/я).<end>
+
+=>a118_original
+I don't think so, ladies.<end>
+
+=>a118
+Я так не думаю, дамы.<end>
+
+=>q119_original
+So rude...<end>
+
+=>q119
+Как грубо...<end>
+
+=>a120_original
+I guess I took a wrong turn. Sorry for the disturbance. Bye bye!<end>
+
+=>a120
+Кажется, я ошиб$(#ся/лась) пещерой. Извините за беспокойство. Пока-пока!<end>
+
+=>q121_original
+Stop right there! Take a step back and it'll be your last one. Answer our question, visitor! Who are you and what are you doing here?<end>
+
+=>q121
+Стойте! Сделайте ещё шаг, и он станет вашим последним. Отвечайте на наш вопрос, гость$(#/я)! Кто вы и что вы здесь делаете?<end>
+
+=>q122_original
+::The two sisters are silent.::<end>
+
+=>q122
+::Две сестры молчат.::<end>
+

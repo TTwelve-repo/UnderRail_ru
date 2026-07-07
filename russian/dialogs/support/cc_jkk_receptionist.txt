@@ -1,0 +1,182 @@
+﻿=>q1_original
+I though you said you didn't want this "stupid" job? Get lost.<end>
+
+=>q1
+Вам, кажется, не нужна была эта «дурацкая» работа? Ну и проваливайте.<end>
+
+=>q2_original
+::The man stops typing and looks at you.::
+
+Welcome to JKK headquarters, $(#Mister/Miss)...?<end>
+
+=>q2
+::Мужчина перестаёт печатать и поднимает глаза на вас.::
+
+Добро пожаловать в штаб-квартиру КБР, мис$(#тер/с)?..<end>
+
+=>a3_original
+$(context.player.Name).<end>
+
+=>a3
+$(context.player.Name).<end>
+
+=>q4_original
+$(#Mister/Miss) $(context.player.Name), nice to meet you. My name is Van. How can I help you?<end>
+
+=>q4
+Приятно познакомиться, мис$(#тер/с) $(context.player.Name). Меня зовут Ван. Чем я могу вам помочь?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+I'm looking for some work.<end>
+
+=>a6
+Я ищу работу.<end>
+
+=>q7_original
+Very good. And what kind of work are you looking for?<end>
+
+=>q7
+Очень хорошо. И какая работа вам нужна?<end>
+
+=>a8_original
+Something fun that pays good.<end>
+
+=>a8
+Что-нибудь нескучное, с хорошей оплатой.<end>
+
+=>q9_original
+::He laughs.:: Aren't we all! Well, if you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
+
+=>q9
+::Он смеётся.:: Как я вас понимаю! Что ж, дайте мне минутку, я посмотрю, есть ли что-нибудь в наличии.<end>
+
+=>q10_original
+::Van presses a button on his headset and starts speaking to someone. You pretend not to listen, but you can hear your name being mentioned a couple of times. The man remains almost expressionless, yet you somehow catch that there's something wrong. After several minutes, the conversation ends.::<end>
+
+=>q10
+::Ван нажимает кнопку на своей гарнитуре и начинает с кем-то разговаривать. Вы делаете вид, что не слушаете, но вам удаётся уловить только собственное имя, которое упоминается несколько раз. Выражение лица мужчины остаётся без изменения, но вы чувствуете, что что-то не так. Через несколько минут он вновь обращается к вам.::<end>
+
+=>q11_original
+$(#Mister/Miss) $(context.player.Name), I'm very sorry, but we can't offer you a working position here at JKK at the moment. The reason for this is, if I've been told correctly, that you are already working for a different organization. I apologize again, and wish you a dominating day.<end>
+
+=>q11
+Мис$(#тер/с) $(context.player.Name), мне очень жаль, но я не могу предложить вам работу в КБР в данный момент по той причине, что вы, как я понял, уже работаете на другую организацию. Я ещё раз извиняюсь и желаю вам доминирующего дня.<end>
+
+=>a12_original
+Thank you for your time. Goodbye.<end>
+
+=>a12
+Спасибо за помощь. До свидания.<end>
+
+=>a13_original
+Well, I didn't even want this stupid job. So long.<end>
+
+=>a13
+Не очень-то мне и нужна эта дурацкая работа. Пока.<end>
+
+=>q14_original
+::Van presses a button on his headset and starts speaking to someone. You pretend not to listen, but you can hear your name being mentioned a couple of times, and also notice that the man nods his head several times, as if he's agreeing with something that's been said. After several minutes, the conversation ends.::<end>
+
+=>q14
+::Ван нажимает кнопку на своей гарнитуре и начинает с кем-то разговаривать. Вы делаете вид, что не слушаете, но вам удаётся уловить только собственное имя, которое упоминается несколько раз, а мужчина кивает, как бы соглашаясь с тем что ему говорят. Через несколько минут он вновь обращается к вам.::<end>
+
+=>q15_original
+Sorry to keep you waiting, but in return, I have some good news: It might seem like a coincidence, but we are in need of a capable individual, and *you* just might be the one. If you're still interested, I'll let you through to Miss Vivian Young. You'll find her right near the entrance, just beyond this door.
+
+And before I forget: You can only move about the first floor of the building. Access to other areas is forbidden to visitors. Just to be clear.<end>
+
+=>q15
+Извините за задержку, но взамен у меня есть хорошая новость: по удачному стечению обстоятельств нам как раз нужен способный индивидуум, и *вы*, возможно, нам подойдёте. Если вы всё ещё заинтересованы, я направляю вас к мисс Вивиан Янг. Вы найдёте её неподалёку, прямо за этой дверью.
+
+И пока я не забыл: вам предоставлен доступ к первому этажу здания. Доступ к другим областям запрещён для посетителей. Здесь такие правила.<end>
+
+=>a16_original
+Thank you. I will go see Miss Young now.<end>
+
+=>a16
+Спасибо. Я иду к мисс Янг.<end>
+
+=>a17_original
+Got it. See ya.<end>
+
+=>a17
+Ясно. До встречи.<end>
+
+=>a18_original
+I don't know, what do you have available?<end>
+
+=>a18
+Ну не знаю, а что у вас есть?<end>
+
+=>q19_original
+We might have something... If you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
+
+=>q19
+Что-то должно быть... дайте мне минутку, я посмотрю, есть ли что-нибудь в наличии.<end>
+
+=>a20_original
+I have no idea. Literally.<end>
+
+=>a20
+Я понятия не имею, честное слово.<end>
+
+=>q21_original
+Perhaps there is something for you... If you'd excuse me for a brief moment, I'll see if we happen to have anything available.<end>
+
+=>q21
+Возможно, у нас найдётся что-нибудь как раз для вас. Дайте мне минутку, я посмотрю, есть ли что-нибудь в наличии.<end>
+
+=>a22_original
+On the other hand, I need to ask you something else.<end>
+
+=>a22
+Позвольте сперва узнать кое-что ещё.<end>
+
+=>q23_original
+Definitely. Ask me anything.<end>
+
+=>q23
+Разумеется. Спрашивайте что хотите.<end>
+
+=>a24_original
+What can you tell me about JKK?<end>
+
+=>a24
+Расскажите мне о КБР.<end>
+
+=>q25_original
+JKK is *the* major broadcasting organization in Core City. We make sure every Arena match is brought to the people of both South and North Underrail. Even the poorest zoners get the chance to experience the brutality of the Arena. <end>
+
+=>q25
+КБР -- это крупнейшая организация эфирного вещания в Кор-Сити. Мы транслируем матчи Арены как на Южную, так и на Северную Подземку. Даже беднейшие из зонеров имеют возможность увидеть всю брутальность Арены.<end>
+
+=>q26_original
+Moreover, for those interested in betting on the Arena matches, JKK is the organization responsible for it, and much more. Without JKK, Core City would not be what it is today.<end>
+
+=>q26
+Более того, КБР организует также и приём ставок на матчи Арены и многое другое. Без КБР, Кор-Сити не стал бы тем, чем является сегодня.<end>
+
+=>a27_original
+So long.<end>
+
+=>a27
+Пока.<end>
+
+=>q28_original
+What's up, $(context.player.Name)?<end>
+
+=>q28
+Как дела, $(context.player.Name)?<end>
+
+=>q29_original
+Good day, $(#Mister/Miss) $(context.player.Name). How can I help you?<end>
+
+=>q29
+Добрый день, мис$(#тер/с) $(context.player.Name). Чем я могу вам помочь?<end>
+

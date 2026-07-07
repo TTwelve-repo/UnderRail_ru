@@ -1,0 +1,482 @@
+﻿=>q1_original
+Gotta roll, $(#buddy/sister)!<end>
+
+=>q1
+Пора валить, $(#приятель/сестрёнка)!<end>
+
+=>q2_original
+Outta my way!<end>
+
+=>q2
+Прочь с дороги!<end>
+
+=>q3_original
+::He shakes off his shackles with exalatation.:: Yes! YES! That's it $(#buddy/sister)! Yeah! <end>
+
+=>q3
+::Он с восторгом сбрасывает оковы.:: Да! ДА! Вот и всё, $(#приятель/сестрёнка)! Да-а!<end>
+
+=>q4_original
+::He quickly wipes the smile of his face, however. He nervously glances behind him, then left and right, then at you.::
+
+Thanks a lot. You saved my ass. I gotta run, but not before I give you somethin'... <end>
+
+=>q4
+::Однако, он быстро стирает улыбку с лица, нервно оглядывается назад, затем направо и налево, а потом и на вас.::
+
+Огромное спасибо. Ты спас$(#/ла) мою задницу. Мне нужно бежать, но не раньше, чем я дам тебе кое-что...<end>
+
+=>q5_original
+Damn, I haven't moved my fingers in a while...
+
+::He stretches his fingers by closing and opening his hands a few times. Then - he submerges one of them right into his pants.::<end>
+
+=>q5
+Проклятье, давненько я не шевелил пальцами...
+
+::Он разминает пальцы, сжимая и разжимая ладони несколько раз. А затем - погружает одну из них прямиком в штаны.::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+::Wait and see what he's going to pull out.::<end>
+
+=>a7
+::Подождать и посмотреть, что он вытащит.::<end>
+
+=>q8_original
+::A cigar case. A small, single-cigar tubular case is what he is now holding in his hand. Chromed and sweaty, he opens it and gently pulls out a cigar.::
+
+This, this was made in North Underrail. You'll never find this down here in the South, no, no. Take it. ::He hands you the cigar but slips the case into his pants.:: If you don't smoke, it's worth good coin. <end>
+
+=>q8
+::Портсигар. Маленький футляр для одной сигары - вот, что он сейчас держит в руке. Хромированный и мокрый от пота. Он открывает его и бережно достаёт сигару.::
+
+Эта, эта была скручена в Северной Подземке. Здесь, на юге, такого не найти, нет-нет. Возьми её. ::Он протягивает вам сигару, но портсигар прячет в карман брюк.:: Если не куришь, она стоит хороших денег.<end>
+
+=>q9_original
+Gotta roll, $(#buddy/sister). Take care.<end>
+
+=>q9
+Пора валить, $(#приятель/сестрёнка). Береги себя.<end>
+
+=>a10_original
+You too, man.<end>
+
+=>a10
+Ты тоже, дружище.<end>
+
+=>a11_original
+Thanks... I guess.<end>
+
+=>a11
+Спасибо... наверное.<end>
+
+=>a12_original
+::Nod and smile.::<end>
+
+=>a12
+::Кивнуть и улыбнуться.::<end>
+
+=>a13_original
+::Say nothing.::<end>
+
+=>a13
+::Промолчать.::<end>
+
+=>a14_original
+::Silently stare at the cigar in your hand.::<end>
+
+=>a14
+::Молча разглядывать сигару в вашей руке.::<end>
+
+=>a15_original
+I'm not into guys.<end>
+
+=>a15
+Я не увлекаюсь парнями.<end>
+
+=>a16_original
+What, here?<end>
+
+=>a16
+Что, здесь?<end>
+
+=>a17_original
+I'm fine with this.<end>
+
+=>a17
+А я и не против.<end>
+
+=>a18_original
+No!<end>
+
+=>a18
+Нет!<end>
+
+=>a19_original
+NOOOOOOOOO! ::Attack!::<end>
+
+=>a19
+НЕЕЕЕЕЕЕЕТ! ::Напасть!::<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>a21_original
+I guess you *really* love muscular women.<end>
+
+=>a21
+Похоже, ты, и правда, *любишь* мускулистых женщин.<end>
+
+=>a22_original
+You're not really my type.<end>
+
+=>a22
+Ты совсем не в моём вкусе.<end>
+
+=>q23_original
+::A shackled figure draws near. Panting, with fear and death deeply engraved in his eyes, he runs up to you. Covered in gore of his unseen captors, he extends his arms encased in metal and pleads for freedom.::
+
+Hey, you! ::He stops and catches his breath.:: You. $(#Buddy/Sister), you gott--you gotta help me! Get this thing off of my hands! ::He violently shakes his arms.:: Bust it, hack it - just get it off!<end>
+
+=>q23
+::Скованная фигура приближается. Тяжело дыша, со страхом и смертью, глубоко запечатлёнными в его глазах, он бросается к вам. Покрытый кровью своих похитителей, он протягивает руки, закованные в металл, и молит о свободе.::
+
+Эй, ты! ::Он останавливается и переводит дыхание.:: Ты. $(#Приятель/Сестрёнка)!, ты дол... ты долж$(#ен/на) мне помочь! Сними эту штуку с моих рук! ::Он яростно трясёт руками.:: Сломай, взломай - просто сними это!<end>
+
+=>q24_original
+::You take a close look: The restraining device is made of solid, heavy metal and it joins and completely isolates the hands. The lock itself seems to be a sophisticated electronic one, probably also capable of being controlled wirelessly, and it has a red light on one side indicating the current locked state. Blood, bits of hair and tissue as well as deformities in the metal, however, paint a grim image of this device's unintended application.::
+
+Stop staring at it and get it off, $(#buddy/sister)! Please!<end>
+
+=>q24
+::Вы присматриваетесь: удерживающее устройство изготовлено из цельного тяжёлого металла, оно сковывает и полностью изолирует руки. Сам замок выглядит изощрённым электронным устройством, вероятно, способным управляться по беспроводной сети, а на одной из его сторон горит красный огонёк, указывающий на текущее состояние блокировки. Кровь, клочки волос и тканей, а также деформация металла рисуют мрачный образ непреднамеренного использования этого устройства.::
+
+Хватит на него пялиться, лучше сними его, $(#приятель/сестрёнка)! Пожалуйста!<end>
+
+=>q25_original
+<end>
+
+=>q25
+<end>
+
+=>a26_original
+Who did this to you?<end>
+
+=>a26
+Кто это сделал с тобой?<end>
+
+=>q27_original
+The freakin' Lurkers, that's who! I ain't gonna end up on a platter. <end>
+
+=>q27
+Долбаные скрытни, вот кто! Я не собираюсь заканчивать жизнь на тарелке.<end>
+
+=>q28_original
+Look, will you help me or not? ::He glances behind him.:: I ain't got much time.<end>
+
+=>q28
+Слушай, ты мне поможешь или нет? ::Он оглядывается назад.:: У меня не так много времени.<end>
+
+=>a29_original
+I don't buy it. This device looks more like something proper law enforcement would use rather than Lurkers.<end>
+
+=>a29
+Я на это не куплюсь. Это устройство больше похоже на те, что обычно используют органы правопорядка, а не скрытни.<end>
+
+=>q30_original
+Are you kiddin' me? 'Cause it got shiny lights on the side? You can get these everywhere... I...<end>
+
+=>q30
+Ты чего, прикалываешься? Это из-за того, что сбоку у него лампочки горят? Да такие можно найти где угодно... Я...<end>
+
+=>q31_original
+Listen to me. I beg of you - get this thing off of my hands, please! Please, $(#buddy/sister)! I ain't got much time.<end>
+
+=>q31
+Послушай. Умоляю тебя, сними эту хреновину с моих рук, пожалуйста! Ну же, $(#приятель/сестрёнка)! У меня мало времени.<end>
+
+=>a32_original
+::[Persuade]:: Look, I *know* you aren't running away from Lurkers. Tell me who's after you so I could misdirect them if I meet them.<end>
+
+=>a32
+::[Убеждение]:: Слушай, я *знаю*, что ты бежишь не от скрытней. Скажи мне, кто за тобой охотится, чтобы я мог$(#/ла) сбить их со следа, если встречу.<end>
+
+=>q33_original
+W-- Why would you do that?<end>
+
+=>q33
+За... Зачем тебе это?<end>
+
+=>a34_original
+I believe every man should be free.<end>
+
+=>a34
+Я верю, что каждый человек заслуживает свободы.<end>
+
+=>q35_original
+Oh, really...<end>
+
+=>q35
+Ох, вот как...<end>
+
+=>q36_original
+Look, you're right... I'm not running away from Lurkers. It's... the bounty hunters. They're after me. A five-man group caught up with me and... ::He looks at the bloodied hunk of metal enclosing his arms.:: here's two of them. But I didn't do nothin', I swear! I was set up. <end>
+
+=>q36
+Слушай, ты прав$(#/а). Я бегу не от скрытней. Это... охотники за головами. За моей головой. Группа из пяти человек догнала меня и... ::Он смотрит на окровавленный кусок металла, сковывающий его руки.:: вот двое из них. Но я ничего не сделал, клянусь! Меня подставили.<end>
+
+=>a37_original
+I believe you.<end>
+
+=>a37
+Я тебе верю.<end>
+
+=>q38_original
+Good, good. <end>
+
+=>q38
+Хорошо, хорошо.<end>
+
+=>q39_original
+I'll be heading west, as far and as fast as I can. If you meet someone who's after me, point them anywhere but west. Got it? Anywhere but west.<end>
+
+=>q39
+Я отправлюсь на запад, так далеко и так быстро, как только смогу. Если встретишь кого-нибудь, из моих преследователей, направь их куда угодно, только не на запад. Понятно? Куда угодно, только не на запад.<end>
+
+=>a40_original
+Yes. "Set up."<end>
+
+=>a40
+Ну да. "Подставили."<end>
+
+=>q41_original
+Look, I... did do something things, took a few things and punched a few people... in Dis, way up north. But I got pinned with murder and got a large bounty on my head. It ain't right. Ain't right. That's the truth, I swear. Now listen: <end>
+
+=>q41
+Смотри, я... действительно кое-что сделал, взял пару вещей и наподдал паре людей... в Дис, это далеко на севере. Но меня обвинили в убийстве и назначили большую награду за мою голову. Это несправедливо. Неправильно. Это правда, клянусь. А теперь слушай:<end>
+
+=>a42_original
+Just tell me the truth or else you're gonna be wearing that thing a whole lot longer.<end>
+
+=>a42
+Просто расскажи мне правду, иначе ты будешь носить эту штуку ещё очень долго.<end>
+
+=>a43_original
+I knew it! You're coming with me, scumbag.<end>
+
+=>a43
+Я так и знал$(#/а)! Ты идёшь со мной, подонок.<end>
+
+=>q44_original
+You'll never take me alive, you bastard!<end>
+
+=>q44
+Тебе не взять меня живым, $(#ублюдок/сволочь)!<end>
+
+=>a45_original
+::Fight!::<end>
+
+=>a45
+::Бой!::<end>
+
+=>q46_original
+Well... I doubt you're gonna be able to misdirect Lurkers - 'cause they gonna cut you up like a pig. Now get me out of this thing. Please!<end>
+
+=>q46
+Ну... я сомневаюсь, что тебе удастся сбить со следа скрытней, поскольку они разрежут тебя, как свинью. А теперь вытащи меня из этой штуки. Пожалуйста!<end>
+
+=>a47_original
+I just want to help.<end>
+
+=>a47
+Я просто хочу помочь.<end>
+
+=>a48_original
+Because I went through the same thing many years ago, friend.<end>
+
+=>a48
+Потому что я сам$(#/а) пережил$(#/а) подобное несколько лет назад, дружище.<end>
+
+=>a49_original
+You aren't going to trick me. You're coming with me, scum! I'm going to bring you to the nearest station and then we'll see what's really going on here.<end>
+
+=>a49
+Тебе меня не одурачить. Ты идёшь со мной, подонок! Я доставлю тебя на ближайшую станцию, тогда и разберёмся, что здесь происходит на самом деле.<end>
+
+=>a50_original
+Stand still and I'll try to open the lock.<end>
+
+=>a50
+Стой смирно, а я попробую открыть замок.<end>
+
+=>q51_original
+::He glances behind him.:: Yeah, yeah, but try and keep it quick, $(#buddy/sister).<end>
+
+=>q51
+::Он оглядывается назад.:: Да, да, но постарайся управиться побыстрее, $(#приятель/сестрёнка).<end>
+
+=>a52_original
+::[Strength]:: I've got strong hands.<end>
+
+=>a52
+::[Сила] У меня сильные руки.<end>
+
+=>q53_original
+The...?
+
+::You grasp the restraining device with both of your hands and feel for any structural weaknesses; it's been deformed by bashing someone's brains in, after all. And there it is...::<end>
+
+=>q53
+Что?..
+
+::Вы обеими руками хватаетесь за сдерживающее устройство и пытаетесь нащупать любые слабые места в конструкции; в конце концов, оно было деформировано выбиванием чьих-то мозгов. И вот оно...::<end>
+
+=>q54_original
+::You begin pounding the restraining device with your mighty fist, hitting just the spots you consider to be the weakest while holding it in place with your other hand. Once you've felt it has had enough, you tightly grasp both sides of the device with both of your hands, just around the area where the man's wrists meet the device, and pull laterally outward. You let out a victorious cry, while the metal screams in defeat as you're tearing its body asunder.
+
+The man gawks at you in awe. His hands are now free.::<end>
+
+=>q54
+::Вы начинаете долбить по сдерживающему устройству своим могучим кулаком, попадая только в те места, которые считаете наиболее уязвимыми, одновременно удерживая его на месте другой рукой. Как только вы почувствовали, что с него достаточно, вы крепко хватаетесь за устройство с обеих сторон, как раз в том месте, где запястья мужчины соприкасаются с ним, и тянете в стороны. Вы издаёте победный крик, в то время как металл стонет от поражения, пока вы разрываете его корпус на части.
+
+Мужчина таращится на вас с изумлением. Теперь его руки свободны.::<end>
+
+=>q55_original
+I can't believe... what you just did. <end>
+
+=>q55
+Поверить не могу... что ты только что сделал$(#/а) это.<end>
+
+=>q56_original
+I've never seen such a display of strength... You... tore it to pieces. W-what did your parents feed you with? <end>
+
+=>q56
+Никогда не видел такого проявления силы... Ты... разорвал его на куски. Да ч-чем тебя родители кормили?<end>
+
+=>q57_original
+A woman... so strong... Shank *me* - that is freakin' hot! Oh, yeah. Damn, sister!<end>
+
+=>q57
+Женщина... такой силы... Пырните *меня* - это чертовски горячо! О-о, да. Блин, сестрёнка!<end>
+
+=>q58_original
+::You begin pounding the restraining device with your mighty fist, hitting just the spots you consider to be the weakest while holding it in place with your other hand. But neither is your fist mighty nor is your pain tolerance high enough to continue bashing this hunk of metal. You try grabbing it from multiple sides and angles, trying to pull it apart somehow, but all you are able to produce is an expression of someone who looks as though $(#he/she) is struggling with constipation.::<end>
+
+=>q58
+::Вы начинаете долбить по сдерживающему устройству своим могучим кулаком, попадая только в те места, которые считаете наиболее уязвимыми, одновременно удерживая его на месте другой рукой. Однако, ваш кулак недостаточно могуч, а терпимость к боли недостаточно высока, чтобы продолжать колотить этот кусок металла. Вы пробуете ухватить его с разных сторон и под разными углами, стараясь хоть как-то раздвинуть, но всё, на что вы способны - это выражение лица человека, выглядящего так, словно он борется с запором.::<end>
+
+=>q59_original
+Hey, $(#buddy/sister), stop fooling around and try to get this thing off of my hands for real. ::He glances behind him.:: They could catch up to me any moment now.<end>
+
+=>q59
+Эй, $(#приятель/сестрёнка), кончай дурачиться и постарайся по-настоящему снять эту штуку с моих рук. ::Он оглядывается назад.:: Они могут нагнать меня в любой момент.<end>
+
+=>a60_original
+::[Strength]:: I've got this crowbar I could try.<end>
+
+=>a60
+::[Сила] У меня есть ломик, могу попробовать.<end>
+
+=>q61_original
+Great! Go for it, $(#buddy/sister)!
+
+::The man kneels down and places his restrained hands on the ground. You jam the crowbar between the man's wrists and attempt to pry it open.::<end>
+
+=>q61
+Отлично! Вперёд, $(#приятель/сестрёнка)!
+
+::Мужчина опускается на колени и кладёт скованные руки на землю. Вы вставляете лом между его запястьями и пробуете разомкнуть устройство.::<end>
+
+=>q62_original
+::You press your weight against one end of the crowbar, leaning towards the man while having the other end push away from him. You feel it - it's close to giving in! You lean one more time, using all the power you can muster, and the device breaks apart, sending a few pieces flying forward. The man's hands are now free.::<end>
+
+=>q62
+::Вы давите своим весом на один конец лома, наклонившись к мужчине, в то время как другой конец отталкивается от него. Вы чувствуете это - оно готово поддаться! Вы наклоняетесь ещё раз, используя всю силу, которую можете собрать, и устройство разлетается на части, отправив несколько частей вперёд. Руки мужчины теперь свободны.:<end>
+
+=>q63_original
+Yes! YES! That's it $(#buddy/sister)!<end>
+
+=>q63
+Да! ДА! Вот и всё, $(#приятель/сестрёнка)!<end>
+
+=>q64_original
+::You press your weight against one end of the crowbar, leaning towards the man while having the other end push away from him. You feel it - it's close to giving in! You lean one more time, using all the power you can muster - and your hands slip and you almost kiss the ground with your nose. You give it another go - so close! But after that kiss actually happens you decide that, for your own sake, it might be better to figure out some other way to break his hands free.::<end>
+
+=>q64
+::Вы давите своим весом на один конец лома, наклонившись к мужчине, в то время как другой конец отталкивается от него. Вы чувствуете это - оно готово поддаться! Вы наклоняетесь ещё раз, используя всю силу, которую можете собрать - и ваши руки соскальзывают, а вы почти целуете землю носом. Вы делаете ещё одну попытку - так близко! Но после того, как поцелуй всё-таки состоялся, вы решаете, что для вашего же блага лучше придумать какой-нибудь другой способ освободить его руки.::<end>
+
+=>q65_original
+You okay? Is it bleeding? Damn it, $(#buddy/sister), you better try something else. Can you pick the lock?<end>
+
+=>q65
+Ты в порядке? Кровь идёт? Проклятье, $(#приятель/сестрёнка), тебе лучше попробовать что-нибудь другое. Ты сможешь открыть замок?<end>
+
+=>a66_original
+Sorry, man, but I don't know how to get these things off.<end>
+
+=>a66
+Извини, чувак, но я не знаю, как снять эти штуки.<end>
+
+=>q67_original
+You're useless! Outta my way!<end>
+
+=>q67
+От тебя никакого толка! Прочь с дороги!<end>
+
+=>q68_original
+<end>
+
+=>q68
+<end>
+
+=>a69_original
+::Let him go.::<end>
+
+=>a69
+::Позволить ему уйти.::<end>
+
+=>a70_original
+::Attack!::<end>
+
+=>a70
+::Напасть!::<end>
+
+=>a71_original
+I changed my mind. You're on your own. Off you go then.<end>
+
+=>a71
+Я передумал$(#/а). Ты сам по себе. А теперь ступай.<end>
+
+=>q72_original
+Bastard! Outta my way!<end>
+
+=>q72
+$(#Ублюдок/Тварь)! Прочь с дороги!<end>
+
+=>a73_original
+This doesn't have anything to do with me, pal. Find someone else to help you.<end>
+
+=>a73
+Это меня не касается, приятель. Найди кого-нибудь другого, кто поможет тебе.<end>
+
+=>a74_original
+I bet whoever you escaped from is going to pay good money to see you back alive...<end>
+
+=>a74
+Могу поспорить, тот, от кого ты сбежал, заплатит хорошие деньги, чтобы ты вернулся живым...<end>
+
+=>q75_original
+So?<end>
+
+=>q75
+И?<end>
+

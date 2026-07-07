@@ -1,0 +1,873 @@
+﻿=>q1_original
+Wow, wow, WOW! I... ::He pauses.:: I... have no idea what to say. Carnifex? What? When? Um... you killed my favorite gladiator! I...I...
+
+L-Look at me - I'm completely bamboozled! What you did was... amazing! Brutal! Hardcore! ::He pauses.:: And... I guess I'm gonna have to... have to get used to calling you Invictus now. Damn...
+<end>
+
+=>q1
+Вау, вау, ВАУ! Я... ::Он замолкает.:: Я... понятия не имею, что сейчас сказать. Карнифекс? Что? Когда? Эм-м... ты убил$(#/а) моего любимого гладиатора! Я... я...
+
+Посмотри на меня -- я совершенно сбит с толку! Это было потрясающе! Зверски! Хардкорно! ::Он делает паузу.:: И... Похоже, что мне придётся привыкать называть тебя инвиктусом. Блин...<end>
+
+=>q2_original
+Damn it, Carnifex, you got dominated...
+
+::He hands you 1000 stygian coins.:: Congratulations... This is your reward, um... Invictus.<end>
+
+=>q2
+Эх, проклятье, Карнифекс, тебя одолели...
+
+::Он протягивает вам 1000 стигийских монет.:: Поздравляю... Это ваша награда, эм... инвиктус.<end>
+
+=>a3_original
+I wanna dominate more opponents!<end>
+
+=>a3
+Я хочу доминировать ещё противников!<end>
+
+=>q4_original
+You want more? ::He smiles.:: A true gladiator! But there is nothing available at the moment.<end>
+
+=>q4
+Ты хочешь ещё? ::Он смеётся.:: Истинный гладиатор! Только ничего нет в наличии на данный момент.<end>
+
+=>q5_original
+Few are willing to fight the Invictus, and considering you dominated a fair number of the top gladiators in such a short time... You get some rest and enjoy your success for a while. Time for new matches will come, don't worry.<end>
+
+=>q5
+Немного желающих биться с инвиктусом, учитывая, что ты победил$(#/а) многих лучших гладиаторов. Отдохни пока и насладись своим успехом. Время новых боёв придёт, не волнуйся.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+I'm ready to battle Dread Lord.<end>
+
+=>a7
+Я готов$(#/а) к битве с Властелином ужаса.<end>
+
+=>q8_original
+This is it, $(context.player.Name): The time has come for you to become the Invictus! I'm not gonna give you some cliche speech before the match, I'm just gonna say this: Get in there - and dominate!<end>
+
+=>q8
+Вот оно, $(context.player.Name) пришло время тебе стать инвиктусом! Я не буду говорить громких слов перед матчем. Я просто скажу: иди и одержи верх!<end>
+
+=>a9_original
+::Start the match.::<end>
+
+=>a9
+::Начать матч.::<end>
+
+=>a10_original
+I'm ready for my next match.<end>
+
+=>a10
+Я готов$(#/а) к своему следующему матчу.<end>
+
+=>q11_original
+You're up against Bull's Eye. You take him out, and you get to become a real gladiator!<end>
+
+=>q11
+Ты выступишь против Аспида. Победи его, и станешь настоящим гладиатором!<end>
+
+=>q12_original
+Oh, and you're on prime time now. Make sure to, I dunno, entertain the crowd.<end>
+
+=>q12
+О, и ты сейчас в прайм-тайм. Постарайся, я не знаю, развлечь толпу.<end>
+
+=>a13_original
+::Start the match.::<end>
+
+=>a13
+::Начать матч.::<end>
+
+=>q14_original
+Next opponent is... Master Exploder! Now, this is your first fight as a gladiator so keep calm and, I dunno, dominate him! Ready to go $(context.playerArenaTitle)?<end>
+
+=>q14
+Следующий противник... Мастер-Детонатор! Это твой первый бой как гладиатора, так что сохраняй спокойствие и, я не знаю, одолей его! Ты готов$(#/а), $(context.playerArenaTitle)?<end>
+
+=>a15_original
+::Start the match.::<end>
+
+=>a15
+::Начать матч.::<end>
+
+=>q16_original
+This guy is no halfwit, believe me! Chemical Agent is his name, and if you've seen any of his fights you know only a pile of melted goo remains of his opponents once he's done with them. But, don't let that scare you! You can do this.<end>
+
+=>q16
+Этот парень не дурень, поверь! Химикат его имя, и, если ты видел$(#/а) его бои, ты знаешь, что когда он расправляется со своими противниками, то от них остаётся лишь лужа расплавленной слизи. Но не позволяй этому напугать тебя! Ты сможешь уделать его.<end>
+
+=>a17_original
+::Start the match.::<end>
+
+=>a17
+::Начать матч.::<end>
+
+=>q18_original
+I have some news for you: The death of Chemical Agent caused some serious ruckus up there - in a positive sense. Everyone keeps talking about you and your dominating matches. You're becoming a big player now - don't forget that!<end>
+
+=>q18
+У меня есть новости для тебя: смерть Химиката вызвала серьёзный шум, в положительном смысле. Все только и говорят о тебе и твоём доминировании на Арене. Для тебя начинается игра по-крупному, не забывай об этом!<end>
+
+=>q19_original
+Anyhow, you're up against the Surgeon. Now this guy can be described as, I dunno - a freakin' psychopath! You think the fans are the only bloodthirsty maniacs around here? Think again, $(context.playerArenaTitle)...<end>
+
+=>q19
+В любом случае, твой противник -- Хирург. Этого парня можно охарактеризовать... я не знаю, как долбаного психопата! Ты думаешь, что это здешние болельщики -- кровожадные маньяки? Подумай ещё раз, $(context.playerArenaTitle)...<end>
+
+=>a20_original
+::Start the match.::<end>
+
+=>a20
+::Начать матч.::<end>
+
+=>q21_original
+Hey, you're up against Zap. Now that guy is one nasty zoner, let me tell you that! He just dominated his way through anything with a pulse! If that wasn't enough - he brought a plasma sentry with him and, I dunno - dominated some more! But he's not better than you, so go in there and waste the pipeworker and send his junkbots to the scrapyard.<end>
+
+=>q21
+Эй, против тебя будет Трах. Этот парень -- весьма неприятный зонер, позволь тебе сказать! Он просто задоминировал всех на своём пути! Как будто этого было недостаточно, он притащил с собой плазменного стража, и, я не знаю, стал доминировать ещё больше! Но он не опаснее чем ты, так что идти туда и завали этого трубочиста и отправь его хламоботов на свалку.<end>
+
+=>a22_original
+::Start the match.::<end>
+
+=>a22
+::Начать матч.::<end>
+
+=>q23_original
+You're running low on opponents; not many gladiators are willing to stand before you as of late. As a matter of fact, only one gladiator is still willing to fight you, and he's a tough opponent...<end>
+
+=>q23
+У тебя заканчиваются оппоненты; в последнее время немного гладиаторов готовы встать против тебя. Собственно говоря, только один гладиатор по-прежнему готов драться с тобой, и он так просто не сдастся.<end>
+
+=>q24_original
+The Stygian Exorcist - at the moment second only to Dread Lord, the Invictus. And I'm not gonna lie to you, he's one tough bastard. Good luck!<end>
+
+=>q24
+Стигийский экзорцист, на данный момент он уступает только Властелину ужаса, нынешнему инвиктусу. Не буду тебе врать, он жёсткий ублюдок. Удачи!<end>
+
+=>a25_original
+::Start the match.::<end>
+
+=>a25
+::Начать матч.::<end>
+
+=>a26_original
+I'm ready for the next match.<end>
+
+=>a26
+Я готов$(#/а) к своему следующему матчу.<end>
+
+=>q27_original
+Do you like psi beetles? Actually - I don't care, you're fighting them anyway.<end>
+
+=>q27
+Тебе нравится пси-жуки? На самом деле, мне плевать, ты дерёшься с ними в любом случае.<end>
+
+=>a28_original
+::Start the match.::<end>
+
+=>a28
+::Начать матч.::<end>
+
+=>q29_original
+Guess what's next in line for you? No guess? ::He grins.:: Siphoners!<end>
+
+=>q29
+Угадай, кто следующий на очереди? Не знаешь? ::Он ухмыляется.:: Брызгуны!<end>
+
+=>a30_original
+::Start the match.::<end>
+
+=>a30
+::Начать матч.::<end>
+
+=>q31_original
+This is gonna be a tough one: you're about to fight some nasty burrowers. I mean, you and two other challengers, as usual. Good luck, hal-- $(context.player.Name). <end>
+
+=>q31
+На этот раз будет непросто: ты будешь драться с весьма зубастыми могильщиками. То есть, ты и два других претендента, как обычно. Удачи, $(context.player.Name).<end>
+
+=>a32_original
+::Start the match.::<end>
+
+=>a32
+::Начать матч.::<end>
+
+=>q33_original
+Good news! Or bad, I dunno, depends on the perspective. No more beasts for you. You're gonna fight Pulverizer.<end>
+
+=>q33
+Хорошие новости! Или плохие, я не знаю, зависит от точки зрения. Для тебя больше нет зверья. Ты будешь биться с Крушителем.<end>
+
+=>a34_original
+Who's that?<end>
+
+=>a34
+Кто это?<end>
+
+=>q35_original
+He used to be a pretty good gladiator back in the day, but then he really started to badmouth Carnifex - one of the greatest and most beloved gladiators in the Arena history! And before you know it, everyone hates the guy to the point of some zoner from the crowd trying to shoot him in the face!<end>
+
+=>q35
+Он раньше был довольно неплохим гладиатором, но потом он начал чернить Карнифекса, одного из величайших и самых любимых гладиаторов в истории Арены! И не успел я глазом моргнуть, как все уже ненавидят этого парня настолько, что какой-то зонер из толпы пытается выстрелить ему в лицо!<end>
+
+=>q36_original
+He's not a prime time fighter anymore... He has dropped down to fighting halfwits lik-- khm, challengers like you. If you dominate him, you might just put yourself under the spotlight.<end>
+
+=>q36
+Он больше не боец для прайм-тайм... он скатился до драк с дурнями.. кхм, претендентами вроде тебя. Если ты возьмёшь над ним верх, то сможешь привлечь к себе внимание.<end>
+
+=>a37_original
+::Start the match.::<end>
+
+=>a37
+::Начать матч.::<end>
+
+=>a38_original
+Whoever he is, he's about to get hurt!<end>
+
+=>a38
+Кем бы он ни был, ему будет больно!<end>
+
+=>q39_original
+I like your enthusiasm! Let's get you in there then.<end>
+
+=>q39
+Мне нравится твой энтузиазм! Давай приступать.<end>
+
+=>a40_original
+I'm ready for my first match.<end>
+
+=>a40
+Я готов$(#/а) к своему первому матчу.<end>
+
+=>q41_original
+Good. You'll be fighting some rathounds with two other poor ha--
+
+*Challengers*. Two other challengers. Let's get you going.<end>
+
+=>q41
+Хорошо. Ты будешь биться с несколькими крысоволками в компании двух других несчастных ду...
+
+*Претендентов*. Двух других претендентов. Давай начинать.<end>
+
+=>a42_original
+::Start the match.::<end>
+
+=>a42
+::Начать матч.::<end>
+
+=>a43_original
+I would like to apply for the Gauntlet.<end>
+
+=>a43
+Я хотел$(#/а) записаться на Смертельный забег.<end>
+
+=>q44_original
+Sure, you need to go to a different building though. To get there, go past Hardcore City Bar, then take a turn to the north, then west over a small bridge. I dunno, it's very hard to miss.<end>
+
+=>q44
+Тебе нужно идти в другое здание. Чтобы попасть туда, иди мимо бара Хардкор-Сити, поверни на север, затем на запад через небольшой мост. Не знаю, очень трудно пройти мимо.<end>
+
+=>q45_original
+Just don't expect a flashy building; unlike the Arena, the Gauntlet has no live audience so there is no need for anything “grandiose.” The personnel there should recognize you easily, so just find miss Andrea and she'll explain everything to you.<end>
+
+=>q45
+Только не ожидай увидеть красивое здание. В отличие от Арены, Смертельный забег не имеет живой аудитории, поэтому нет необходимости в чём-то «грандиозном». Сотрудники должны легко тебя признать, просто найди мисс Андреа, и она всё тебе объяснит.<end>
+
+=>q46_original
+Sure, I'll contact Andrea and tell her you're coming. You need to go to a different building though. To get there, go past Hardcore City Bar, then take a turn to the north, then west over a small bridge. I dunno, it's very hard to miss.<end>
+
+=>q46
+Конечно, я свяжусь с Андреа и скажу ей, что ты придёшь. Тебе нужно идти в другое здание. Чтобы попасть туда, иди мимо бар Хардкор-Сити, поверни на север, затем на запад через небольшой мост. Не знаю, очень трудно пройти мимо.<end>
+
+=>q47_original
+Don't expect a flashy building; unlike the Arena, the Gauntlet has no live audience so there is no need for anything “grandiose.” Anyway, just talk to miss Andrea there and she will explain everything.<end>
+
+=>q47
+Не ожидай увидеть красивое здание. В отличие от Арены, Смертельный забег не имеет живой аудитории, поэтому нет необходимости в чём-то «грандиозном». Просто найди мисс Андреа, и она всё объяснит.<end>
+
+=>q48_original
+Hold on halfwit, you can't just apply to the Gauntlet. It's not like the Arena where anyone can just, I dunno, go in there and fight... and probably die. The Gauntlet is highly challenging; only those who have already proven themselves to be hardcore enough can become runners.<end>
+
+=>q48
+Постой, дур$(#ень/очка), нельзя просто взять и записаться на Смертельный забег. Это не Арена, где любой желающий может просто, я не знаю, зайти и драться... и, скорее всего, сдохнуть. Смертельный забег является сложным испытанием; только те, кто уже показал себя достаточно хардкорно, могут стать бегунами.<end>
+
+=>q49_original
+And you haven't. Yet...<end>
+
+=>q49
+А это не про тебя. Пока что...<end>
+
+=>a50_original
+I came here to fight.<end>
+
+=>a50
+Я приш$(#ёл/ла) сюда, чтобы биться.<end>
+
+=>q51_original
+::He nods.:: Good, good, good. I'm Syntar Lanista, and I'm in charge of recruiting fighters and organizing matches. Your name is...?<end>
+
+=>q51
+::Он кивает.:: Хорошо, хорошо, хорошо. Я Синтар Ланиста, и я отвечаю за набор бойцов и организацию поединков. Тебя как зовут?<end>
+
+=>a52_original
+$(context.player.Name).<end>
+
+=>a52
+$(context.player.Name).<end>
+
+=>q53_original
+Good. Now, I dunno... ::He scratches his head.:: unless you've been living in Deep Caverns or something like that, you should be familiar with how the Arena works? Right?<end>
+
+=>q53
+Хорошо. Дальше, я не знаю... ::Он чешет голову.:: если только ты не из Глубоких пещер или типа того, ты ведь знаешь как работает Арена? Да?<end>
+
+=>a54_original
+Some explaining wouldn't hurt.<end>
+
+=>a54
+Небольшое объяснение не повредит.<end>
+
+=>q55_original
+::He sighs.:: It's simple: Once you apply to become a challenger, you go in and fight either until you drop dead or dominate your opponent. Crowd might decide your fate if you surrender or somehow can't finish the fight, but most of the time they'll want you dead. Yup.
+
+At first you'll be fighting various beasts, and then - if you survive through that - you get to fight other challengers. Next: Once a fight is over, you come to me and receive your reward. Now, if the crowd likes you *and* you manage to survive a couple of matches, you could earn some pretty good money out of this.<end>
+
+=>q55
+::Он вздыхает.:: Всё просто: как только ты записываешься претендентом, ты идёшь и дерёшься пока или не сдохнешь или не задоминируешь противника. Толпа может решить твою судьбу, если ты сдаёшься или ещё как-то не можешь закончить бой, но обычно они хотят тебя убить. Ага.
+
+Сначала ты будешь драться с разными тварями, а затем, если выживешь, ты получишь возможность сражаться с другими претендентами. Далее, как только бой закончится, ты приходишь ко мне и получаешь своё вознаграждение. Так вот, если ты понравишься толпе *и* тебе удастся пережить пару матчей, то можно заработать неплохие деньги.<end>
+
+=>q56_original
+But, most folks who come here don't. Is that it, or do you want to know more?<end>
+
+=>q56
+Но большинству людей, которые приезжают сюда, это не удаётся. Это всё, или ты хочешь знать что-то ещё?<end>
+
+=>a57_original
+I want to know more.<end>
+
+=>a57
+Я хочу знать больше.<end>
+
+=>q58_original
+::He sighs even harder than before.:: Please try to survive for at least a few matches, so that this doesn't feel like a complete waste of my time.
+
+Anyway, if you can make it to prime time, you get to fight gladiators. If you kill a gladiator you become one. Now that's no easy task: You gotta be good - gotta be hardcore - and the crowd has to be entertained by your fighting skills. Still, if you manage it, I dunno - more coin for you, but also more difficult matches await you. The highest title you can attain is the *Invictus*... but that's really, really far off.<end>
+
+=>q58
+::Он вздыхает ещё тяжелее, чем раньше.:: Пожалуйста, постарайся протянуть хотя бы пару матчей, чтобы это не оказалось пустой тратой моего времени.
+
+Рассказываю: если ты сможешь попасть в прайм-тайм, то получишь возможность сражаться с гладиаторами. Если убьёшь гладиатора, ты сам$(#/а) становишься одн$(#им/ой) из них. А вот это непростая задача: нужно быть умелым, нужно быть хардкорным, и толпе должно нравиться, как ты дерёшься. И если ты справишься, в чём я сомневаюсь, получаешь больше денег, и более сложные матчи. Высший титул называется инвиктус, но тебе до него очень, очень далеко.<end>
+
+=>q59_original
+And that covers the basics. If you understood all that, just sign here. ::He hands you a piece of paper.:: If you don't know how to write your whole name, just put "X" instead.<end>
+
+=>q59
+Это всё основы. Если ты понял$(#/а), то подпиши здесь. ::Он вручает вам бумажку.:: Если не знаешь, как написать своё имя, просто поставь крестик.<end>
+
+=>a60_original
+What am I signing?<end>
+
+=>a60
+Что я подписываю?<end>
+
+=>q61_original
+::He sighs.:: It reads here you applied to fight in the Arena of your own accord, and that we - the Core City Arena - are not responsible for any injuries or death. And some other, um, unimportant stuff.<end>
+
+=>q61
+::Он вздыхает.:: Тут написано, что ты по доброй воле желаешь биться на Арене, и что мы -- Арена Кор-Сити -- не несём ответственности за любые травмы или смерть. Ну и другая, хм, скучная дребедень.<end>
+
+=>a62_original
+::Sign with "$(context.player.Name)."::<end>
+
+=>a62
+::Подписать «$(context.player.Name)».::<end>
+
+=>q63_original
+So you know how to write your name after all! Congratulations - you are now a challenger.<end>
+
+=>q63
+Вижу, ты всё-таки умеешь писать своё имя! Поздравляю, теперь ты претендент.<end>
+
+=>q64_original
+Ready for your first fight?<end>
+
+=>q64
+Готов$(#/а) к первому бою?<end>
+
+=>a65_original
+::Sign with "X".::<end>
+
+=>a65
+::Поставить крестик.::<end>
+
+=>q66_original
+Just as I suspected! Well - congratulations, you are now a challenger.<end>
+
+=>q66
+Как я и думал! Что ж, поздравляю, теперь ты претендент.<end>
+
+=>a67_original
+I'm ready to fight.<end>
+
+=>a67
+Я готов$(#/а) к бою.<end>
+
+=>q68_original
+Good, thank you. I get tired of telling the same things over and over and over again to people that, mostly, get killed within the first few minutes of their first match.
+
+So, one thing before you can start your first match. Sign here. ::Hands you a piece of paper.:: If you don't know how to write your whole name, just write "x."<end>
+
+=>q68
+Хорошо, спасибо. Я устал рассказывать одно и то же снова и снова и снова людям, которые в основном помирают в течение первых минут первого матча.
+
+Так, осталась одна вещь, прежде чем ты можешь начать свой первый матч: подпиши здесь! ::Он вручает вам бумажку.:: Если не знаешь, как написать своё имя, просто поставь крестик.<end>
+
+=>a69_original
+Let's skip the talk - and start the fighting!<end>
+
+=>a69
+Давай прекратим разговоры и начнём бой!<end>
+
+=>q70_original
+Good, good, good! ::He smiles.:: This is gonna be quick! There is just one thing before you can start your first match: Sign here! ::He hands you a piece of paper.:: If you don't know how to write your whole name, just write "x."<end>
+
+=>q70
+Хорошо, хорошо, хорошо! ::Он улыбается.:: Сейчас всё будет! Только одна вещь, прежде чем ты можешь начать свой первый матч: подпиши здесь! ::Он вручает вам бумажку.:: Если не знаешь, как написать своё имя, просто поставь крестик.<end>
+
+=>a71_original
+What can you tell me about that doctor over there?<end>
+
+=>a71
+Можешь рассказать мне о том враче?<end>
+
+=>q72_original
+Filibert? Well, I dunno, let's see... He's our mortician physician, which means he takes care of the living, as well as the dead. We had some halfwit called... what was it... Fixer, yeah. Junkyarder, I believe. Had a wild stare. He used to work here a couple of years ago; the idiot used to throw folks who were *still* alive down the chute while laughing maniacally!<end>
+
+=>q72
+О Филиберте? Ну, я не знаю, посмотрим... он наш целитель-гробовщик, то есть он заботится о живых, равно как и о мёртвых. Раньше у нас был какой-то дурень, звался... как это... Костоправ, да. Свалочник, кажется. С таким безумным взглядом. Он работал здесь пару лет назад; идиот скидывал людей *ещё* живых в трупопровод и при этом маниакально смеялся!<end>
+
+=>q73_original
+So we kicked that pipeworker out and got Doc Filibert, who does a very good job. And does it with such passion!<end>
+
+=>q73
+Ну мы и выперли этого трубочиста и взяли дока Филиберта, который делает очень хорошую работу. И делает её с таким энтузиазмом!<end>
+
+=>a74_original
+I'd like to ask you some questions about the Arena.<end>
+
+=>a74
+Я бы хотел$(#/а) задать несколько вопросов по поводу Арены.<end>
+
+=>q75_original
+Sure, go ahead.<end>
+
+=>q75
+Конечно, валяй.<end>
+
+=>q76_original
+<end>
+
+=>q76
+<end>
+
+=>a77_original
+Can you tell me the basics about fighting in the Arena?<end>
+
+=>a77
+Можешь рассказать мне основы Арены?<end>
+
+=>q78_original
+It's simple: you go in there and engage in a fight till death. Some challengers and gladiators fight beasts, some fight between themselves. If a challenger defeats a gladiator, he or she earns the title of a gladiator. Nearly all gladiators come up with cool names, because, I dunno, people love seeing Mad Butchers and Deathhammers crushing each other's skulls.<end>
+
+=>q78
+Всё просто: ты идёшь туда и вступаешь в бой до смерти. Некоторые претенденты и гладиаторы дерутся со зверями, некоторые сражаются между собой. Если претендент побеждает гладиатора, он или она получает звание гладиатор. Почти все гладиаторы придумывают себе крутые имена, потому что, ну не знаю, люди любят смотреть как Безумные мясники и Забойщики разбивают друг другу черепа.<end>
+
+=>q79_original
+If one is really good, he or she can confront the current Invictus - which is the highest title one can achieve in the Arena - and take the title after Invictus' dead corpse hits the ground. There can be only *one* Invictus, after all. ::He grins.:: Whoever becomes the Invictus - he or she wins at life. Literally! You know what I'm talking about: fame, money - whatever you may desire!<end>
+
+=>q79
+Если кто-то действительно хорош, он или она может бросить вызов текущему инвиктусу -- это наивысший титул на Арене -- и взять этот титул, когда труп инвиктуса падёт на землю. В конце концов, может быть только *один* инвиктус. ::Он ухмыляется.:: Тот, кто становится инвиктусом -- он или она выигрывает в жизни. В буквальном смысле! Ты знаешь, о чём я говорю: слава, деньги -- всё, что можно пожелать!<end>
+
+=>a80_original
+How did the Arena come to be?<end>
+
+=>a80
+Как появилась Арена?<end>
+
+=>q81_original
+Well, I dunno, the story begins some ten or so years ago when this place was in hell; you know - after the demise of Biocorp. People were fighting, dominating each other *all* over the city. Gangs went rampant. Hardcore carnage was the name of the game. But, after things started to settle down in the years after the demise and security forces began to regain control over the streets, on this very spot - where we're standing right now - people started having skirmishes and slew each other for... I dunno, various reasons. Again, all this began happening some ten or so years ago.
+
+There was no Arena building back then - just hardcore ruins. People gathered to watch those, and even cheered for their favorites! So - you guessed it - someone had an idea to make it commercial and earn some good coin off it!<end>
+
+=>q81
+Ну, я не знаю, каких-то лет десять назад здесь был сущий ад. Знаешь, после кончины Биокорп. Люди дрались, доминировали друг друга по *всему* городу. Хардкорная бойня. Но после того, как стало поспокойнее и силы безопасности начали восстанавливать контроль над улицами, на этом самом месте, где мы стоим прямо сейчас, люди снова начали драться и убивать друг друга... я не знаю, в силу различных причин.
+
+Тогда не было Арены, только хардкорные руины. Люди собирались, чтобы посмотреть, и даже болели за своих любимцев! Ну и, как можно догадаться, кому-то пришла идея сделать на этом бизнес и заработать хорошую денежку!<end>
+
+=>q82_original
+The idea was this: Everyone can settle their differences in battle, and if you want to watch it - pay up! And people wanted to see blood so much that it was an instant hit!
+
+The man responsible for that was Archibald Knight, the majority owner of Arena, chief of Praetorian Security *and* one of the Oligarchs. Yeah... in the years after its conception, and with the assistance of Coretech and JKK, the Arena has been modernized, broadcasted throughout Underrail and currently brings so much charons into this city it'd make your head spin and drop off. ::He chuckles.::<end>
+
+=>q82
+Идея была такова: каждый может урегулировать разногласия в бою, а если хочешь посмотреть -- плати! И люди так хотели видеть кровь, что Арена моментально стала хитом!
+
+Человеком, ответственным за неё, был Арчибальд Найт -- основной владелец Арены, начальник Преторианской службы безопасности *и* один из олигархов. Да... через много лет после основания и при содействии КорТех и КБР, Арена была модернизирована, начались трансляции по всей Подземке, и в настоящее время она приносит так много харонов в этот город, что у тебя просто закружится голова. ::Он хихикает.::<end>
+
+=>q83_original
+And just recently, less than a year ago, the Gauntlet was built. And the people fell in love with it instantly! That's it - short history of our Arena. ::He laughs.:: Hardcore, isn't it?<end>
+
+=>q83
+И только недавно, меньше года назад, построили Смертельный забег. И народ сразу же полюбил его! Вот она, краткая история нашей Арены. ::Он смеётся.:: Хардкор, да?<end>
+
+=>a84_original
+What can you tell me about Carnifex?<end>
+
+=>a84
+Что ты можешь мне рассказать про Карнифекса?<end>
+
+=>q85_original
+Oh - he's the most hardcore gladiator ever! With over two hundred victories, he holds the highest kill count of all gladiators! This now-legend became Invictus about three years ago, and defeated all who dared challenge his title since then. He was loved so much for his skill, showmanship and brutality that even after his retirement he is still considered *the* Invictus by the public.<end>
+
+=>q85
+О, он самый хардкорный гладиатор всех времён! Более двухсот побед, самый длинный список жертв среди всех гладиаторов! Он стал легендарным инвиктусом около трёх лет назад и победил всех, кто осмеливался оспорить его титул. Его так любили за мастерство, эффектность и жестокость, что даже после того, как он перестал выступать, публика до сих пор считает его инвиктусом.<end>
+
+=>q86_original
+::He leans closer to you.:: I have nearly all ArenaNow broadcasts of his fights, even some extra rare videos. I dunno, I just like seeing that man dominate. So much... domination.<end>
+
+=>q86
+::Он наклоняется ближе.:: У меня есть почти все записи трансляций Арены Сегодня с его боями, даже некоторые довольно раритетные видео. Я не знаю, мне просто нравится смотреть, как он доминирует. Столько... доминирования.<end>
+
+=>a87_original
+What happens if I defeat everyone?<end>
+
+=>a87
+Что будет, если я смогу победить всех?<end>
+
+=>q88_original
+Well, you can't defeat "everyone"! There will always be new beasts, challengers and gladiators dominating each other in the Arena.<end>
+
+=>q88
+Ну, нельзя же победить вообще «всех»! Всегда найдутся новые звери, претенденты и гладиаторы, чтобы доминировать друг друга на Арене.<end>
+
+=>q89_original
+That's just the way it is - and no one is complaining. ::He laughs.::<end>
+
+=>q89
+Такова природа вещей, и никто не жалуется. ::Он смеётся.::<end>
+
+=>a90_original
+When do I get to become a gladiator?<end>
+
+=>a90
+Когда я смогу стать гладиатором?<end>
+
+=>q91_original
+You have to kill a gladiator to become one.<end>
+
+=>q91
+Тебе надо убить гладиатора, чтобы стать одним из них.<end>
+
+=>q92_original
+Simple.<end>
+
+=>q92
+Всё просто.<end>
+
+=>a93_original
+What can you tell me about the Gauntlet?<end>
+
+=>a93
+Что ты можешь рассказать мне про Смертельный забег?<end>
+
+=>q94_original
+The Gauntlet was built, I dunno, less than a year ago... ten months maybe. The Oligarchy needed something fresh - something exciting. And oh, did they come up with something: with the help of Coretech they devised a huge and complex elevator system which transports Gauntlet runners to randomly chosen rooms, each of which contains various challenges for them to complete.<end>
+
+=>q94
+Смертельный забег построили, я не знаю, меньше года назад... может, десять месяцев. Олигархам нужно было что-то свежее, что-то интригующее. И они придумали кое-что: с помощью КорТех они построили огромную и сложную систему лифтов, которые перевозят бегунов Смертельного забега в произвольно выбранные комнаты, в каждой из которых их ждут разные испытания.<end>
+
+=>q95_original
+Just like in Arena, it's all till death. Only the runner that completes the Gauntlet first gets to live. I mean, who would wanna have it any other way? Eh?<end>
+
+=>q95
+Как и на Арене, это битва насмерть. Только бегун, который завершает Смертельный забег первым, будет жить. Иначе кто бы захотел это смотреть? А?<end>
+
+=>a96_original
+Let's discuss something else.<end>
+
+=>a96
+Давай обсудим что-нибудь другое.<end>
+
+=>q97_original
+::He nods.::<end>
+
+=>q97
+::Он кивает.::<end>
+
+=>q98_original
+::He sighs.:: Sure, go ahead. I dunno, what do you want to know?<end>
+
+=>q98
+::Он вздыхает.:: Конечно, валяй. Ну не знаю... что тебе рассказать?<end>
+
+=>a99_original
+See you later.<end>
+
+=>a99
+Увидимся позже.<end>
+
+=>a100_original
+Thank you, Lanista. I appreciate it. What happens now?<end>
+
+=>a100
+Спасибо, Ланиста. Я ценю это. Что дальше?<end>
+
+=>q101_original
+Well, I can try to arrange some fights for you. But, there is nothing available at the moment.<end>
+
+=>q101
+Ну, я могу попробовать организовать несколько боёв для тебя. Но ничего нет в наличии на данный момент.<end>
+
+=>a102_original
+Finally, I need some rest.<end>
+
+=>a102
+Наконец-то, мне нужно немного отдохнуть.<end>
+
+=>q103_original
+You should get some rest. I don't think I can arrange any more matches for you at the moment. Maybe later. ::He shrugs.::<end>
+
+=>q103
+И тебе нужно немного отдохнуть. Я не думаю, что смогу организовать ещё матчей для тебя в данный момент. Может быть позже. ::Он пожимает плечами.::<end>
+
+=>q104_original
+You should get some rest while I set up the match.<end>
+
+=>q104
+Ты иди отдохни, пока я организую матч.<end>
+
+=>q105_original
+Good, good, good, $(context.playerArenaTitle)! You are now one step away from becoming the Invictus! This is the reward for this match. ::Hands you 800 stygian coins.::<end>
+
+=>q105
+Хорошо, хорошо, хорошо, $(context.playerArenaTitle)! Теперь ты находишься в одном шаге от титула инвиктуса! Вот награда за этот матч. ::Даёт вам 800 стигийских монет.::<end>
+
+=>q106_original
+What happens next is this: You go get some rest while I organize a match between you and Dread Lord. And make sure you rest well.
+
+Come see me later.<end>
+
+=>q106
+Дальше будет вот что: ты иди отдохни, а я организую поединок между тобой и Властелином ужаса. И обязательно хорошо отдохни.
+
+Зайди ко мне позже.<end>
+
+=>q107_original
+Ran out of batteries! ::He laughs.:: Damn it Jerry, you sure have a good sense of humor, hah. As for you, $(context.playerArenaTitle), that was hardcore - but that was to be expected from you. Still, take some advice from me: don't let all these victories go to your head; no one is invincible, got it? ::He hands you 700 stygian coins.::<end>
+
+=>q107
+Сели батарейки! ::Он смеётся.:: Проклятье, Джерри, хорошее у тебя всё-таки чувство юмора, хах. Что до тебя, $(context.playerArenaTitle), это был хардкор, а иного никто и не ожидал от тебя. Но прими ещё один маленький совет от меня: не позволяй всем этим победам вскружить тебе голову; никто не является неуязвимым, понимаешь? ::Он протягивает вам 700 стигийских монет.::<end>
+
+=>q108_original
+Wow! I'm not even gonna say anything. Just... take this. ::He hands you 600 stygian coins.::<end>
+
+=>q108
+Вау! Я даже не буду ничего говорить. Просто... возьми. ::Он протягивает вам 600 стигийских монет.::<end>
+
+=>q109_original
+You're really getting good at this! Chemical Agent and his puppies stood undefeated until you came along and dominated them. ::He hands you 500 stygian coins.::
+
+Oh, one important thing: I talked to some people and, long story short, I think you'd do great in the Gauntlet. If you're interested in becoming a runner, talk to me about it.<end>
+
+=>q109
+У тебя неплохо получается! Химикат и его щенки оставались непобеждёнными, пока не появил$(#ся/ась) ты и не задоминировал$(#/а) их. ::Он протягивает вам 500 стигийских монет.::
+
+Ах да, ещё одна важная вещь: я поговорил кое с кем, короче говоря, я думаю, в Смертельном забеге у тебя всё будет супер. Если ты заинтересован$(#/а) в том, чтобы стать бегуном, поговори со мной.<end>
+
+=>q110_original
+::He laughs.:: Good, good, good! I guess you weren't blown away by Master Exploder! ::He continues laughing.:: You know the drill; take this. ::He gives you 400 stygian coins.::<end>
+
+=>q110
+::Он смеётся.:: Хорошо, хорошо, хорошо! Я знал, что ты не сдуешься перед Мастером-Детонатором! ::Он продолжает смеяться.:: Ты знаешь порядок, это тебе. ::Он даёт вам 400 стигийских монет.::<end>
+
+=>q111_original
+You halfwit! ::He laughs.:: I can't believe it, you sure know how to entertain the crowd! They all yelled $(context.playerArenaTitle)! Do you know how rare it is for a challenger to be so loved by the audience during $(#his/her) first fight with a gladiator? Do you?<end>
+
+=>q111
+Ты дур$(#ень/очка)! ::Он смеётся.:: Я не могу в это поверить, ты точно знаешь как развлечь толпу! Они все кричали $(context.playerArenaTitle)! Знаешь ли ты, как часто претендент настолько нравится зрителям в свой первый бой с гладиатором? Знаешь?<end>
+
+=>a112_original
+I don't really care - that was awesome!<end>
+
+=>a112
+Мне, по правде говоря, плевать -- это было круто!<end>
+
+=>q113_original
+Listen to me carefully: you gotta keep this thing going. You're a gladiator now, the crowd loves you, and don't you dare pull out now when you've got the heads rolling. Do you hear me, halfwit?<end>
+
+=>q113
+Слушай меня внимательно: ты долж$(#ен/на) продолжать в том же духе. Ты теперь гладиатор, толпа любит тебя, и не смей соскакивать сейчас, когда катятся головы. Ты меня слышишь, дур$(#ень/очка)?<end>
+
+=>q114_original
+Some people would kill to get to the place where... um... yeah... ::Laughs.:: Here's your money. And it's gonna get better and better from now on. ::Hands you 300 stygian coins.::<end>
+
+=>q114
+Некоторые готовы убить, чтобы попасть туда, где... хм... да... ::Смеётся.:: Вот твои деньги. И отныне их будет становиться всё больше и больше. ::Даёт вам 300 стигийских монет.::<end>
+
+=>a115_original
+Meh, I don't get what the big deal is.<end>
+
+=>a115
+Ха, мне-то что с того.<end>
+
+=>q116_original
+I don't think you realize what this means, $(context.player.Name)! <end>
+
+=>q116
+Похоже, что ты не понимаешь, что это значит, $(context.player.Name)!<end>
+
+=>a117_original
+I'm guessing very rare?<end>
+
+=>a117
+Дай угадаю, это большая редкость?<end>
+
+=>q118_original
+Very rare. <end>
+
+=>q118
+Большая редкость.<end>
+
+=>q119_original
+Don't be impatient, come back later.<end>
+
+=>q119
+Прояви немного терпения, возвращайся позже.<end>
+
+=>q120_original
+That was one hell of a fight! Good job, $(context.player.Name). Now brace yourself, I have some good news: some folks up there loved your performance so far.<end>
+
+=>q120
+Это был адский бой! Хорошая работа, $(context.player.Name). Теперь приготовься, у меня есть хорошие новости: некоторым людям наверху очень понравились твои выступления.<end>
+
+=>q121_original
+::He makes a dramatic pause.:: You're gonna be a prime time challenger! Not a gladiator yet, you gotta defeat one to earn that title. But this is big anyway! And to think I almost threw away that application form you signed!<end>
+
+=>q121
+::Он делает драматическую паузу.:: Ты будешь в прайм-тайм, претендент! Ты пока ещё не гладиатор, но тебе нужно победить одного из них, чтобы заработать этот титул. Но это всё равно круто! И подумать только, я чуть было не выбросил твою заявку!<end>
+
+=>q122_original
+Now, I'm gonna schedule your first prime time match. You come back later and get ready for some real domination!<end>
+
+=>q122
+Теперь мне надо запланировать твой первый матч в прайм-тайм. Зайди чуть позже и будь готов$(#/а) доминировать!<end>
+
+=>q123_original
+::He looks at you for several seconds with a confused look on his face, as if he is wondering why you aren't leaving. Then he raises his eyebrows in a moment of realization.::
+
+Oh, I forgot your reward! Why didn't you say something? ::Hands you 200 stygian coins.:: There, now get some rest and see you later.<end>
+
+=>q123
+::Он смотрит на вас несколько секунд с растерянным выражением на лице, как будто недоумевает, почему вы ещё здесь. Наконец он вскидывает брови в миг озарения.::
+
+Ой, я забыл твою награду! Почему ты молчишь? ::Он суёт вам в руки 200 стигийских монет.:: Ну вот, теперь отдохни немного, и увидимся позже.<end>
+
+=>q124_original
+Congratulations, most challengers can't make it this far. Halfwits! ::He laughs.:: You know the drill, take this. ::He gives you 150 stygian coins.::<end>
+
+=>q124
+Поздравляю, большинство претендентов не заходят так далеко. Дурни! ::Он смеётся.:: Ты знаешь что дальше, вот деньги. ::Он даёт вам 150 стигийских монет.::<end>
+
+=>q125_original
+I'm starting to like you... you're turning out better than I originally thought. I apologize if I ever called you a halfwit! Here's some coins, as usual. ::He gives you 100 stygian coins.::<end>
+
+=>q125
+Ты мне начинаешь нравиться... ты оказал$(#ся/ась) лучше чем я сперва думал. Прошу прощения, если я когда-то называл тебя дур$(#нем/очкой)! Вот немного монет, как обычно. ::Он даёт вам 100 стигийских монет.::<end>
+
+=>q126_original
+Listen, $(context.player.Name), that wasn't bad at all! Here's your reward. ::He gives you 75 stygian coins.:: You still have your limbs attached, which is always good. ::He laughs.::<end>
+
+=>q126
+Слушай, $(context.player.Name), это было не так уж плохо! Вот твоя награда. ::Он даёт вам 75 стигийских монет.:: Твои конечности всё ещё на месте, а это хороший знак. ::Он смеётся.::<end>
+
+=>q127_original
+Good, good, good. You survived; you're not such a halfwit after all. Here's your reward. ::He gives you 50 stygian coins.:: 
+
+Also, everything in the loot locker - right behind me - is yours.<end>
+
+=>q127
+Хорошо, хорошо, хорошо. Ты выжил$(#/а); ты не так$(#ой/ая) дур$(#ень/очка), в конце концов. Вот твоя награда. ::Он даёт вам 50 стигийских монет.:: 
+
+Кроме того, всё, что в шкафчике, прямо за мной, твоё.<end>
+
+=>a128_original
+Only fifty?<end>
+
+=>a128
+Всего пятьдесят?<end>
+
+=>q129_original
+What more do you want? This was your first match. The more matches you survive, the better the payment.
+
+Ready for more?<end>
+
+=>q129
+Чего ещё ты хочешь? Это был твой первый матч. Чем больше боёв проживёшь, тем лучше оплата.
+
+Готов$(#/а) к большему?<end>
+
+=>a130_original
+Thanks, I'm ready for more.<end>
+
+=>a130
+Спасибо, я готов$(#/а) продолжать.<end>
+
+=>q131_original
+I'm sure you are...<end>
+
+=>q131
+Ну конечно же...<end>
+
+=>q132_original
+::Your approach transforms the man's sharply lined face into one dull expression, further emphasized by a drawn out sigh that follows it. The big fellow lazily rises from behind his desk and greets you with a level of enthusiasm already implied by the first few seconds of your encounter. Even his initial words - which come after he scratches his beard for two good seconds - sound like they have just woken up and are stumbling on their way out; however, already the second sentence gets carried by a fully projected and articulate voice fitting for a man of his stature.::
+
+Here comes another one... Hey there, welcome to the Arena. Are you lost or are you here to fight?<end>
+
+=>q132
+::Ваше приближение нагоняет тоскливую мину на угловатое лицо этого мужчины, затем следует затяжной вздох. Здоровяк лениво поднимается из-за стола и приветствует вас с соответствующим энтузиазмом. Пару длинных секунд почесав свою бороду, он говорит таким тоном, будто только что проснулся, и его слова спотыкаются на пути. Однако уже второе предложение звучит полностью членораздельно и произнесено голосом, подходящим для человека его комплекции.::
+
+Вот ещё од$(#ин/на)... Привет, добро пожаловать на Арену. Ты заблудил$(#ся/ась), или ты здесь, чтобы биться?<end>
+
+=>q133_original
+Invictus?<end>
+
+=>q133
+Инвиктус?<end>
+
+=>q134_original
+Here to cause even more carnage, $(context.playerArenaTitle)?<end>
+
+=>q134
+Приш$(#ёл/ла) устроить ещё больше резни, $(context.playerArenaTitle)?<end>
+
+=>q135_original
+Hey, $(context.player.Name). Ready to kill some more?<end>
+
+=>q135
+Привет, $(context.player.Name). Готов$(#/а) убивать ещё?<end>
+
+=>q136_original
+Ready for another match?<end>
+
+=>q136
+Готов$(#/а) к очередному матчу?<end>
+

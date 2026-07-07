@@ -1,0 +1,96 @@
+﻿=>q1_original
+::Before you is a quite unusual console. Its display only shows a field for current sequence and for the inputs. The console consists of only four buttons labeled: L, S, submit sequence and clear. ::
+
+<end>
+
+=>q1
+::Перед вами довольно необычная консоль. На её дисплее отображается только поле для текущей последовательности и для ввода. На консоли всего четыре кнопки с надписями: Д, К, подтвердить последовательность и очистить.::
+<end>
+
+=>q2_original
+::You assume that L would stand for something long or large, and S would stand for short or small.::
+
+<end>
+
+=>q2
+::Вы предполагаете, что Д может означать что-то длинное или долгое, а К - что-то короткое или краткое.::
+<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+::Current sequence: $(context.loc_dun_ccResOffice_currentSequence)::<end>
+
+=>q4
+::Текущая последовательность: $(context.loc_dun_ccResOffice_currentSequence)::<end>
+
+=>a5_original
+::Press L button.::<end>
+
+=>a5
+::Нажать кнопку Д.::<end>
+
+=>a6_original
+::Press S button.::<end>
+
+=>a6
+::Нажать кнопку К.::<end>
+
+=>a7_original
+::Submit sequence.::<end>
+
+=>a7
+::Подтвердить последовательность.::<end>
+
+=>q8_original
+::Mismatched sequence, please try again.::<end>
+
+=>q8
+::Неверная последовательность. Пожалуйста, повторите попытку.::<end>
+
+=>q9_original
+::Letters L and S, may stand you for something that is long or large, and short or small, respectively.::
+
+<end>
+
+=>q9
+::Буквы Д и К, могут обозначать что-то длинное или долгое, а также короткое или краткое, соответственно.::
+<end>
+
+=>q10_original
+::Sequence matched, granting access to main storage room.::
+
+<end>
+
+=>q10
+::Последовательность совпадает. Предоставление доступа к основному складскому помещению.::
+<end>
+
+=>q11_original
+::Come back in two weeks and/or contact the console administrator for further use.::<end>
+
+=>q11
+::Возвращайтесь через две недели и/или свяжитесь с администратором консоли для дальнейшего использования.::<end>
+
+=>a12_original
+::Leave.::<end>
+
+=>a12
+::Уйти::<end>
+
+=>a13_original
+::Clear.::<end>
+
+=>a13
+::Очистить.::<end>
+
+=>a14_original
+::Leave.::<end>
+
+=>a14
+::Уйти::<end>
+

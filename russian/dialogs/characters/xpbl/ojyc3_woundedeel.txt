@@ -1,0 +1,845 @@
+﻿=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Go... away.<end>
+
+=>q2
+Пойди... прочь.<end>
+
+=>q3_original
+::Wheeze.::<end>
+
+=>q3
+::Хрипит.::<end>
+
+=>q4_original
+Just let me... die.<end>
+
+=>q4
+Просто дай мне... умереть.<end>
+
+=>q5_original
+::Coughs.::<end>
+
+=>q5
+::Кашляет::<end>
+
+=>q6_original
+::Holds his chest.:: Aaahhh...<end>
+
+=>q6
+::Держится за грудь.:: А-а-ах...<end>
+
+=>q7_original
+::The trail of blood leads you to a man, tucked in a corner, quietly moaning in pain. His eyes are closed, and from time to time, he makes loud noises while coughing out saliva mixed with some blood. He's in terrible shape, as tiny gunshot wounds are all over his body. Both of his legs are covered in green stains, as they stretch out lifelessly on the floor. His left arm holds a firm grip on the rock he's leaning on, and it seems to be the only thing keeping him away from collapsing down to the floor. Despite your proximity to him, he doesn't notice you.::<end>
+
+=>q7
+::Кровавый след приводит вас к забившемуся в угол мужчине, который тихо стонет от боли. Его глаза закрыты, и время от времени он громко откашливает слюну вперемешку с кровью. Он в ужасном состоянии, всё его тело испещрено небольшими огнестрельными ранами. Обе его ноги покрыты зелёными пятнами и лежат безжизненно вытянутыми. Облокотившись на камень, он крепко обхватывает его левой рукой, и, похоже, это единственное, что удерживает его от падения. Несмотря на то, что вы стоите рядом, он вас не замечает.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+::Approach closer.::<end>
+
+=>a9
+::Подойти ближе.::<end>
+
+=>q10_original
+::Your approach remains unregistered. From this point of view, you can see the struggle he's been through. The clothes hes wearing, from the back side, are torn apart, for it seems that he has been dragged on the floor, before he got here. Relaxed muscles on his face show little life remaining. His skin is pale to a point, where it almost provides a source of light in the narrow corner of the cave where he rests now. Acidic residue covers the lower parts of his body, which has caused severe damage to his flesh. Several spots of his body are covered in messy bandages, but without maintenance at this point, their effectiveness is questionable. Stench from his devastated body is making it hard to stand this close to him. You are now within a hand's reach from him.<end>
+
+=>q10
+::Ваше приближение остаётся незамеченным. Отсюда вам становится понятней, через что ему пришлось пройти. Его одежда с обратной стороны разодрана в клочья так, как если бы его волокли по земле, прежде чем он оказался здесь. Расслабленные мышцы лица говорят о том, что жить ему осталось недолго. Его кожа бледна настолько, что чуть ли не освещает тесный угол пещеры, в котором он сейчас покоится. Остатки кислоты покрывают нижнюю часть его тела, где заметны серьёзные ожоги. Кое-где наложены грязные повязки, но без должного ухода их эффективность сомнительна. Вонь от его покалеченного тела мешает стоять так близко. Сейчас вы от него на расстоянии вытянутой руки.::<end>
+
+=>a11_original
+Can I tend to your wounds?<end>
+
+=>a11
+Можно мне заняться твоими ранами?<end>
+
+=>q12_original
+::He slowly opens his right eye, which gazes past you. Before speaking up, he makes a loud cough, spitting out nasty liquid which misses you by a hair. With his mouth open, he uses minimal movement of his jaw to talk back. Barely audible words start coming out of his mouth.::
+
+Sadistic... Are you, now? Haven't you... had enough... already?<end>
+
+=>q12
+::Он медленно открывает правый глаз, но взгляд устремлён куда-то мимо вас. Прежде чем заговорить, он громко откашливается, выплёвывая противную жидкость, которая чуть в вас не попадает. Чтобы ответить, он приоткрывает рот и едва заметно шевелит челюстью. Из его рта вырываться почти неразличимые слова.::
+
+Издеваешься... что-ли? Этого тебе... ещё... не достаточно?<end>
+
+=>a13_original
+I'm a doctor. I wish to help you.<end>
+
+=>a13
+Я врач и хочу помочь тебе.<end>
+
+=>q14_original
+You became... a doctor? ::He moves his head to the left side. In that process, it reveals and stretches his neck sinew, exposing further his damaged skin.:: Is that annother... cruel joke of yours?<end>
+
+=>q14
+Теперь, значит... ты врач? ::Он поворачивает голову налево. При этом сухожилия его шеи растягиваются, ещё больше обнажая повреждённую кожу.:: Это ещё одна... твоя злая шутка?<end>
+
+=>a15_original
+I've just arrived on the scene and I'm an actual doctor. I have no idea who do you think you are talking to.<end>
+
+=>a15
+Я прибыл$(#/а) сюда только что, и я действительно врач. Понятия не имею, с кем, по-твоему, ты разговариваешь.<end>
+
+=>q16_original
+::His head tilts up slightly towards you. He attempts to regain focus for a moment and you can see his right eye's pupil focus on your face. This move severely drains his remaining strength, as he proceeds to drop back and close his eyes.:: Ahh... I-I'm sorry... I thought it was... someone else... Don't bother... doin' anythin'; with me... We tried to... do our job... And we failed.<end>
+
+=>q16
+::Он слегка наклоняет голову в вашу сторону и пытается ненадолго сфокусировать зрение. Вы видите, как зрачок его правого глаза фокусируется на вашем лице. Это действие истощает его последние силы, и, закрыв глаза, он откидывается назад.:: Ах... п-прости... я думал, это... кое-кто другой... Не трудись... помогать мне. Мы пытались... выполнить свою работу... И мы облажались.<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+Tell me what happened here.<end>
+
+=>a18
+Расскажи мне, что здесь произошло.<end>
+
+=>q19_original
+We were sent out here... to do the dirty work... She betrayed us... and he told us to repay her... in kind. ::Several moments pass by as he tries to regain breath to speak up.:: That didnt go... as planned... And now... all of us are trapped here. Come to think of it... all this was not... ::wheeze:: worth it.<end>
+
+=>q19
+Нас отправили сюда... выполнить грязную работу... Она предала нас... и он велел нам отплатить ей... тем же. ::Ему требуется некоторое время, чтобы перевести дыхание и продолжить говорить.:: Но всё пошло не так... как планировалось... И теперь... мы все здесь в ловушке. Если подумать... всё это... ::хрипит:: того не стоило.<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>a21_original
+Who sent you here?<end>
+
+=>a21
+Кто послал вас сюда?<end>
+
+=>q22_original
+Her brother... The rigmaster himself.<end>
+
+=>q22
+Её брат... Сам распорядитель Буровой.<end>
+
+=>a23_original
+Who is she?<end>
+
+=>a23
+Кто она?<end>
+
+=>q24_original
+Rigmaster's sister... ::he coughs.:: Kaya.<end>
+
+=>q24
+Сестра распорядителя... ::он кашляет.:: Кая.<end>
+
+=>a25_original
+Why were you sent out here?<end>
+
+=>a25
+Зачем вас сюда послали?<end>
+
+=>q26_original
+This place... opened up after the quake... We were sent here... to make it seem... as if were explorin'... ::He coughs.:: It was a mistake.<end>
+
+=>q26
+Это место... открылось после землетрясения... Нас послали сюда... чтобы всё выглядело... будто мы отправились его исследовать... ::Он кашляет.:: Это было ошибкой.<end>
+
+=>a27_original
+How many of you were sent out here?<end>
+
+=>a27
+Сколько вас сюда отправили?<end>
+
+=>q28_original
+There were four of us... And on the way in... The freaks struck me off of my jet ski... ::With a tiny hand gesture he points to his legs.:: They broke my legs... ::He moans in pain.:: From then on... when they started to carry me over... I blacked out.<end>
+
+=>q28
+Нас было четверо... По дороге... меня сбили с гидроцикла уроды... ::Лёгким жестом руки он указывает на свои ноги.:: Они сломали мне ноги... ::Он стонет от боли.:: Когда меня понесли... я отключился.<end>
+
+=>a29_original
+What happened when you woke up?<end>
+
+=>a29
+Что случилось, когда ты очнулся?<end>
+
+=>q30_original
+I was in this cave... And it was only three of us left... Soon after... they started to argue... about where to go next... ::He coughs.:: And then ... I-I called her out... For what she was... and that caused them both... To go crazy... The rest is... what you see.<end>
+
+=>q30
+Я оказался в этой пещере... Нас осталось только трое... Вскоре... они начали спорить о том... куда идти дальше... ::Он кашляет.:: И тогда... я назвал её той... кто она есть... Она просто обезумела. Остальное... ты можешь видеть.<end>
+
+=>a31_original
+What caused all this?<end>
+
+=>a31
+Из-за чего всё это началось?<end>
+
+=>q32_original
+She ... ahhh ...Kaya is... a double agent... She was snitchin' on us... For a long time...She... she was rattin' us out... to the Protectorate. ::He takes a deep breath.:: All this was meant to be... w-we... were supposed to get... rid of her... Make it all seem... natural.<end>
+
+=>q32
+Она... а-ах... Кая... двойной агент... Она стучала на нас... долгое время... Она... она сливала всё... Протекторату. ::Он делает глубокий вдох.:: Всё это было задумано, чтобы... избавиться от неё... Чтобы это выглядело... естественным.<end>
+
+=>q33_original
+<end>
+
+=>q33
+<end>
+
+=>a34_original
+Why did she betray you?<end>
+
+=>a34
+Почему она предала вас?<end>
+
+=>q35_original
+I-I... don't know.:: He coughs.:: This has to do with something... between her and her brother.<end>
+
+=>q35
+Я... не знаю. ::Он кашляет.:: Это как-то связано... с её отношениями с братом.<end>
+
+=>a36_original
+She is dead. I've killed her.<end>
+
+=>a36
+Она мертва. Я убил$(#/а) её.<end>
+
+=>q37_original
+Ahhh... ::He exhales loudly.:: The traitor... is gone. Th--... ::He stops as some bodily fluid clots his throat. He manages to turn his head to the side to spit it out.:: Thank you.<end>
+
+=>q37
+А-ах... ::Он громко выдыхает.:: Предательницы... больше нет. Сп... ::Он прерывается из-за каких-то выделений подступивших к его горлу. Ему удаётся повернуть голову, чтобы выплюнуть их.:: Спасибо.<end>
+
+=>a38_original
+Rest well.<end>
+
+=>a38
+Покойся с миром.<end>
+
+=>q39_original
+::He chuckles. After that he makes a small handwave with his idle hand, indicating that he's done talking.::<end>
+
+=>q39
+::Он тихонько посмеивается. После чего делает слабый взмах рукой, показывая, что разговор окончен.::<end>
+
+=>a40_original
+Goodbye.<end>
+
+=>a40
+До свидания.<end>
+
+=>a41_original
+It's the least I could do, I guess.<end>
+
+=>a41
+Это меньшее, что я мог$(#/ла).<end>
+
+=>q42_original
+::He nods and with his idle hand gives you a thumbs up. After that he makes a hand gesture indicating that he is done talking, as it seems his time has ran out.::<end>
+
+=>q42
+::Он кивает и поднимает большой палец на свободной руке. После чего делает рукой жест, показывающий, что разговор окончен. Кажется, его время подходит к концу.::<end>
+
+=>a43_original
+I see. So that makes her my colleague of sorts.<end>
+
+=>a43
+Ясно. Значит, в каком-то смысле, мы с ней коллеги.<end>
+
+=>q44_original
+W-what? Are.. you... one of them? I suppose... you got what you wanted... By dividing us... ::He coughs.:: You won't stop at anythin'... To rule all...<end>
+
+=>q44
+Ч-что? Так... ты... од$(#ин/на) из них? Полагаю... вы своего добились... Разделив нас... ::Он кашляет.:: Вы ни перед чем не остановитесь... Чтобы править всеми...<end>
+
+=>a45_original
+That's right.<end>
+
+=>a45
+Верно.<end>
+
+=>q46_original
+::At this point he has stopped responding to you. It seems he has lost all will to keep going as he loosens his grip on the rock he held. In doing so, it causes him to crumble down on the ground. His breathing stops and he shows no signs of life.::<end>
+
+=>q46
+::Он вам не отвечает. Кажется, он утратил всякое желание продолжать. Его рука, которой он держался за камень, слабеет, и он падает на землю. Дыхание останавливается, и больше он не подаёт никаких признаков жизни.::<end>
+
+=>a47_original
+Serves you well.<end>
+
+=>a47
+Тебе же лучше.<end>
+
+=>a48_original
+::Leave.::<end>
+
+=>a48
+::Уйти::<end>
+
+=>a49_original
+The strong rule.<end>
+
+=>a49
+Правит сильнейший.<end>
+
+=>a50_original
+A Protectorate snitch. They are all over the place.<end>
+
+=>a50
+Протекторатская крыса. Их повсюду хватает.<end>
+
+=>q51_original
+Yeah... and who knows how long she did this... She was with us... For as long as I can remember the place.<end>
+
+=>q51
+Ага... и кто знает, как долго она этим занималась... Она была с нами... сколько я себя помню.<end>
+
+=>a52_original
+Protectorate must be squashed. I'll make sure of it.<end>
+
+=>a52
+Протекторат необходимо раздавить. Я об этом позабочусь.<end>
+
+=>q53_original
+They were our... allies... But this... This is too much.<end>
+
+=>q53
+Они были нашими... союзниками... Но это... Это уже слишком.<end>
+
+=>a54_original
+Free drones will liberate all from their cruel machinations.<end>
+
+=>a54
+Вольные шершни избавят всех от их безжалостных козней. <end>
+
+=>q55_original
+Free Dro... nes? Ahhh... ::His head tilts back, and he loosens up his grip which causes him to crumble down on the ground. He shows no signs of life.::<end>
+
+=>q55
+Вольные шер... шни? А-ах...::Его голова запрокидывается, а рука, которой он держался, слабеет, после чего он падает на землю и больше не подаёт никаких признаков жизни.::<end>
+
+=>a56_original
+Another one claimed by them.<end>
+
+=>a56
+Ещё один пал их жертвой.<end>
+
+=>a57_original
+::Leave.::<end>
+
+=>a57
+::Уйти::<end>
+
+=>a58_original
+Do you know where is she now?<end>
+
+=>a58
+Ты не знаешь, где она сейчас?<end>
+
+=>q59_original
+Since the carnage she has caused... I have passed out... several times... It's a miracle... that I'm still alive.
+
+She has probably... managed to get out... of this mess.<end>
+
+=>q59
+После бойни, которую она тут устроила... я отключился... и не раз... Просто чудо... что я ещё жив.
+
+Вероятно... ей удалось выбраться... из этой заварушки.<end>
+
+=>a60_original
+I'll look around, then.<end>
+
+=>a60
+Тогда я пойду осмотрюсь.<end>
+
+=>a61_original
+There had to be another way to avoid all this.<end>
+
+=>a61
+Наверняка был способ избежать всего этого.<end>
+
+=>q62_original
+Perhaps there was... But now... all we have left... is this mess. <end>
+
+=>q62
+Возможно, и был... Но теперь... у нас остался... только этот бардак.<end>
+
+=>a63_original
+Fine, I'll see what I can do about all of this.<end>
+
+=>a63
+Ладно, посмотрим, что я могу тут сделать.<end>
+
+=>a64_original
+::Leave.::<end>
+
+=>a64
+::Уйти::<end>
+
+=>a65_original
+What she did was wrong.<end>
+
+=>a65
+Она совершила серьёзную ошибку.<end>
+
+=>q66_original
+We all see it the same... way. Too bad... It seems... She has won. ::He relaxes his body even more, showing that he has little left inside him. He tries to lift his left hand to make a gesture, but you cannot make much out of it.:: I need to rest now... My time has ran out.<end>
+
+=>q66
+Мы все сходимся в этом... мнении. Слишком серьёзную... И кажется... Она победила. ::Похоже, ему осталось недолго, о чём свидетельствует его совсем обмякшее тело. Он пытается поднять левую руку, чтобы совершить жест, но вы не очень-то его понимаете.:: Сейчас мне нужно отдохнуть... Моё время на исходе.<end>
+
+=>a67_original
+I've had enough for now. ::Leave.::<end>
+
+=>a67
+С меня уже достаточно. ::Уйти.::<end>
+
+=>q68_original
+::He doesn't seem to show any reaction to your comment.::<end>
+
+=>q68
+::Он никак не реагирует на ваши слова.::<end>
+
+=>a69_original
+::Leave.::<end>
+
+=>a69
+::Уйти::<end>
+
+=>a70_original
+There is always a chance.<end>
+
+=>a70
+Всегда есть шанс.<end>
+
+=>q71_original
+Heh... Maybe... For you to... do... To finish the job we were meant to. ::The hand he was using to hold firm, loosens it's grip. It causes him to slide down a bit, closer to the pool of blood on the ground, which has accumulated over time below him.:: She... she turned on us... Betrayed us... all.<end>
+
+=>q71
+Хех... Возможно... для тебя... Чтобы завершить то, что мы начали. ::Рука, которой он крепко держался, ослабевает, из-за чего он немного сползает вниз, ближе к луже собственной крови, скопившейся под ним со временем.:: Она... она отвернулась от нас... Предала нас... всех.<end>
+
+=>a72_original
+Is insanity all that has left of you?<end>
+
+=>a72
+Безумие - это всё, что у тебя осталось?<end>
+
+=>q73_original
+If that's what you... call it... then sure. What you did to us... argh... The damage you've... caused... Insanity is perhaps the best word... to describe you now. ::He slightly readjusts his position.::
+
+
+
+<end>
+
+=>q73
+Раз ты это так... называешь... то конечно. Все твои поступки... а-ах... Весь ущерб... нанесённый тобой... Пожалуй, безумие - самое подходящее слово... чтобы сейчас тебя описать. ::Он немного меняет своё положение.::
+
+
+<end>
+
+=>q74_original
+Heh... ::he coughs::. Whatever you... you do. It won't make you any less... of a... traitor.<end>
+
+=>q74
+Хех... ::Он кашляет.:: Делай... что хочешь. Но от этого ты не перестанешь быть... предателем.<end>
+
+=>q75_original
+<end>
+
+=>q75
+<end>
+
+=>a76_original
+I'm not the person you think you are talking with.<end>
+
+=>a76
+Я не тот человек, за которого ты меня принимаешь.<end>
+
+=>a77_original
+Those random insults won't phase me.<end>
+
+=>a77
+Эти твои случайные оскорбления меня не трогают.<end>
+
+=>q78_original
+::He nods slightly.:: Stubborn... as usual. I guess... there is something good... in being like that.<end>
+
+=>q78
+::Он слегка кивает.:: Всё то же... упрямство. Пожалуй... в этом есть... что-то хорошее.<end>
+
+=>a79_original
+You are not in position to call me names.<end>
+
+=>a79
+Ты не в том положении, чтобы меня оскорблять.<end>
+
+=>q80_original
+Look at... yourself. You could've... had it all. The Black Eels... did so much for you... And this is how... you repay us. <end>
+
+=>q80
+Взгляни... на себя. У тебя... могло быть всё. Чёрные угри... столько для тебя сделали... И вот... твоя благодарность.<end>
+
+=>a81_original
+Who do you think you are talking to?<end>
+
+=>a81
+С кем ты, по-твоему, разговариваешь?<end>
+
+=>a82_original
+Say your last, before I snuff you out.<end>
+
+=>a82
+Даю тебе последнее слово, прежде чем я тебя прикончу.<end>
+
+=>q83_original
+He... he will make you pay... for this... The Black... Eels. Will be the last one... standing.<end>
+
+=>q83
+Он... он заставит тебя заплатить... за это... Последнее слово... будет за Чёрными угрями.<end>
+
+=>a84_original
+::[Intimidation]:: Who's *he*? Tell me or I'll make sure your suffering increases tenfold.<end>
+
+=>a84
+::[Запугивание]:: Кто *он*? Говори, или я гарантирую, что твои страдания возрастут десятикратно.<end>
+
+=>q85_original
+::He tries to move his hand to hold onto himself. However, in all the pain he's experiencing, he has lost spatial awareness, as his arm instead, goes wandering in random directions.:: Your brother... The rigmaster... All the... Black Eels... will cast you out. Y-you... snitch! ::He exhales loudly.:: 
+
+Now... leave me be, Kaya.<end>
+
+=>q85
+::Он пытается нащупать себе опору. Однако, из-за сильной боли он утратил ощущение пространства, и его рука мечется во все стороны.:: Твой брат... Распорядитель Буровой... Все... Чёрные угри... отреклись от тебя. Т-ты... крыса! ::Он громко выдыхает.::
+
+А теперь... проваливай, Кая.<end>
+
+=>a86_original
+Kaya? Who's that?<end>
+
+=>a86
+Кая? Кто это?<end>
+
+=>a87_original
+::Finish him off.::<end>
+
+=>a87
+::Прикончить его.::<end>
+
+=>a88_original
+::Leave.::<end>
+
+=>a88
+::Уйти::<end>
+
+=>q89_original
+You won... that time. But not now. Now... all what's left for me... is to die. I have... nothing to lose now.<end>
+
+=>q89
+В тот раз... победа была за тобой. Но не сейчас. Сейчас... всё, что мне остаётся... это умереть. Мне уже... нечего терять.<end>
+
+=>a90_original
+Treachery is who I am.<end>
+
+=>a90
+Предательство - моя натура.<end>
+
+=>q91_original
+::Those words produce a tiny smile on his face.:: At least you... now admit to it. The way things were... I expected you... not to change at all.<end>
+
+=>q91
+::Эти слова вызывают у него едва заметную улыбку.:: По крайней мере... теперь ты признаёшь это. Учитывая то, что было... я ожидал, что ты... ничуть не изменишься.<end>
+
+=>a92_original
+I'll rip out your tongue for calling me that! ::Kill him.::<end>
+
+=>a92
+За твои слова я вырву тебе язык! ::Убить его.::<end>
+
+=>a93_original
+I don't know who you are talking about. All I want to do is help you.<end>
+
+=>a93
+Я не знаю, о ком ты говоришь. Я просто хочу помочь тебе.<end>
+
+=>a94_original
+::[Persuasion]:: Remain calm, I've only just arrived to this scene. I'm the only one in position that can save you from whatever has happened to you here.<end>
+
+=>a94
+::[Убеждение]:: Успокойся, я прибыл$(#/а) сюда только что. И я - единственн$(#ый/ая), кто может вытащить тебя из ситуации, в которой ты здесь оказался.<end>
+
+=>q95_original
+Just arrived... ::For a brief moment he manages to focus on you. He makes a slight nod. Suddenly, his pain worsens, as his head drops back onto the rocks his leaning on.:: It's... too late for me...<end>
+
+=>q95
+Только прибыл$(#/а)... ::На миг ему удаётся сфокусироваться на вас, и он слегка кивает. Внезапно его боль усиливается, и его голова падает обратно на камни, на которые он опирается.:: Для меня... уже слишком поздно...<end>
+
+=>a96_original
+Sadistic? Yeah, that's my second name.<end>
+
+=>a96
+Издеваюсь? О, да, это моё любимое дело.<end>
+
+=>a97_original
+::Whisper: ::Hello.<end>
+
+=>a97
+::Прошептать: ::Привет.<end>
+
+=>q98_original
+Ahhh... Is this it? <end>
+
+=>q98
+А-а-ах... это оно?<end>
+
+=>a99_original
+::Whisper::: Yes, it is.<end>
+
+=>a99
+::Прошептать: ::Да, это оно.<end>
+
+=>q100_original
+I... I'm sorry... Ahhh... ::He exhales all the remaining air he had inside him. His arm which held the nearby stone, loosens it's grip which causes his body to crumble down on to the ground.::<end>
+
+=>q100
+Мне... мне жаль... А-а-ах... ::Он выдыхает из лёгких весь оставшийся воздух. Его рука, которой он держался за ближайший камень, слабеет, и его тело падает на землю.::<end>
+
+=>a101_original
+::Watch him die.::<end>
+
+=>a101
+::Смотреть, как он умирает.::<end>
+
+=>a102_original
+It is what?<end>
+
+=>a102
+Что "оно"?<end>
+
+=>a103_original
+Remain calm. I'm here to help you.<end>
+
+=>a103
+Успокойся. Я здесь, чтобы помочь тебе.<end>
+
+=>a104_original
+::Yell::: BOO!.<end>
+
+=>a104
+::Крикнуть: ::БУ!<end>
+
+=>q105_original
+::Your yell causes no reaction from him. All it did was make him aware that you are very close to him, as he slowly opens his right eye to look at you. However, you notice that it only looks in your direction, aimlessly. His mouth opens and with minimal jaw movement he addresses you.::
+
+So... funny. Came back here... to mock me... durin'... ::wheeze:: my last moments?<end>
+
+=>q105
+::Ваш крик не вызывает у него никакой реакции, но даёт ему понять, что вы совсем рядом. Он медленно открывает правый глаз, чтобы взглянуть на вас. Однако, вы замечаете, что хоть его взгляд и направлен в вашу сторону, он совершенно несфокусирован. Он приоткрывает рот, и, едва шевеля челюстью, обращается к вам.::
+
+Как... смешно. Возвращаешься сюда... чтобы поглумиться... надо мной... ::хрипит:: в мои последние минуты?<end>
+
+=>a106_original
+I guess you can call it that.<end>
+
+=>a106
+Наверное, можно и так сказать.<end>
+
+=>a107_original
+Sorry. It was inappropriate to do that.<end>
+
+=>a107
+Прости. Это было неподобающе.<end>
+
+=>a108_original
+What has happened to you?<end>
+
+=>a108
+Что с тобой случилось?<end>
+
+=>q109_original
+Just finish... this... You have... ::wheeze:: won.<end>
+
+=>q109
+Просто... закончи это... Победа... ::хрипит:: за тобой.<end>
+
+=>a110_original
+Finish what? I've just arrived here.<end>
+
+=>a110
+Закончить что? Я только что сюда прибыл$(#/а).<end>
+
+=>a111_original
+I enjoy watching you struggle.<end>
+
+=>a111
+Мне нравится смотреть, как ты страдаешь.<end>
+
+=>a112_original
+::End his misery.::<end>
+
+=>a112
+::Закончить его страдания.::<end>
+
+=>a113_original
+::Turn around and leave.::<end>
+
+=>a113
+::Развернуться и уйти.::<end>
+
+=>a114_original
+Do you need help?<end>
+
+=>a114
+Тебе помощь нужна?<end>
+
+=>q115_original
+Why would... you save me... after what... we've done to you? ::He coughs some blood.::<end>
+
+=>q115
+Зачем... тебе спасать меня... после того... что мы с тобой сделали? ::Он кашляет кровью.::<end>
+
+=>a116_original
+What are you talking about?<end>
+
+=>a116
+О чём ты?<end>
+
+=>a117_original
+What have you done to me?<end>
+
+=>a117
+А что вы со мной сделали?<end>
+
+=>q118_original
+Acting... in good faith now? A traior... such as yourself... This... I don't understand.<end>
+
+=>q118
+Теперь... разыгрываешь благородство? После... такого предательства... Этого... мне не понять.<end>
+
+=>a119_original
+I'm serious.<end>
+
+=>a119
+Я серьёзно.<end>
+
+=>q120_original
+I-I.... I will not yield to... traitors. Go away...<end>
+
+=>q120
+Я... я не склоняюсь перед... предателями. Убирайся...<end>
+
+=>a121_original
+Fine.<end>
+
+=>a121
+Ладно.<end>
+
+=>a122_original
+::Leave.::<end>
+
+=>a122
+::Уйти::<end>
+
+=>a123_original
+Were you one of the members sent out to this area from the Rig?<end>
+
+=>a123
+Ты из той группы, что отправили сюда с Буровой?<end>
+
+=>q124_original
+Aaahh... What? ::He coughs.:: What sort... of question... is that? You actin'... nuts?<end>
+
+=>q124
+А-а-ах... Что? ::Он кашляет.:: Что это... за вопрос... такой? Ты что... совсем спятил?<end>
+
+=>a125_original
+I'm trying to figure out what has happened here.<end>
+
+=>a125
+Я пытаюсь выяснить, что здесь случилось.<end>
+
+=>q126_original
+::This seems to be one of the party members dispatched from the Rig, as Kaya mentioned earlier. Her description matches the sight before you, as this man is not for long in this world. His body is ravaged by pellets fired from Kaya's shotgun. In addtition, his legs covered in green goo, stretch out on the floor lifelessly. All of his remaining attention is devoted to his struggle to maintain breathing, as he slowly exhales and inhales with his eyes closed. Your presence is unnoticed by him.::<end>
+
+=>q126
+::Похоже, это один из членов группы, посланной с Буровой, о котором упоминала Кая. Этот мужчина подходит под её описание, ведь ему недолго осталось в этом мире. Всё его тело изрешечено дробью, выпущенной из дробовика Каи. К тому же, его ноги, покрытые зелёной слизью, лежат безжизненно вытянутыми. Всё своё внимание он уделяет борьбе за поддержание дыхания, совершая неспешные вдохи и выдохи с закрытыми глазами. Вашего присутствия он не замечает.::<end>
+
+=>q127_original
+<end>
+
+=>q127
+<end>
+
+=>a128_original
+What has caused you to turn on Kaya?<end>
+
+=>a128
+Что заставило тебя пойти против Каи?<end>
+
+=>q129_original
+Huh? ::His body twitches as he realizes you are standing in front of him.:: W-who... who are you?<end>
+
+=>q129
+А? ::Он дёргается всем телом, когда понимает, что вы стоите перед ним.:: К-кто... кто ты?<end>
+
+=>a130_original
+I'm her friend. Now speak up.<end>
+
+=>a130
+Я её $(#друг/подруга). А теперь говори.<end>
+
+=>q131_original
+She has... found company... Another... ::wheeze:: traitor has... joined her cause... There is a special place... for people like you....<end>
+
+=>q131
+Она нашла... себе компанию... Ещё од$(#ин/на)... ::хрипит:: предатель$(#/ница)... присоединивш$(#ийся/аяся) к её делу... Это особое место... для таких, как ты...<end>
+
+=>a132_original
+It is in your best interest to tell me. Perhaps I can make things back to normal.<end>
+
+=>a132
+В твоих же интересах рассказать мне это. Возможно, я смогу всё исправить.<end>
+
+=>q133_original
+Is that... so? ::It takes him a few moments to formulate a thought. A tear drops from his left eye.:: Don't you... see the state I'm in? ::He slowly moves his head from side to side, somewhat using his chin to direct you where to look at. It is clear at this point that the wounds he has are fatal, and that it is only a matter of time before he is gone.:: <end>
+
+=>q133
+Правда... что ли? ::Ему нужно немного времени, чтобы сформулировать мысль. И когда это происходит, из его левого глаза капает слеза.:: Ты что... не видишь, в каком я состоянии? ::Он медленно поворачивает голову, указывая подбородком, куда вам смотреть. Становится очевидно, что полученные им раны слишком серьёзны, и его смерть - лишь вопрос времени.::<end>
+
+=>a134_original
+Your time is almost up. Perhaps your last moments could be used to make things better.<end>
+
+=>a134
+Твоё время на исходе, но ты мог бы использовать его, чтобы помочь всё наладить.<end>
+
+=>q135_original
+::He tilts his head up slightly, and smiles.:: You see... she... she started to rat on us... As a... double agent for Protectorate... They wanted... to know more... of our doings on... the Rig.<end>
+
+=>q135
+::Он немного наклоняет голову и улыбается.:: Понимаешь... она... она начала стучать на нас... Став... двойным агентом Протектората... Они хотели... разузнать о наших делах... на Буровой.<end>
+
+=>a136_original
+It doesn't matter who I am.<end>
+
+=>a136
+Кто я, не имеет значения.<end>
+
+=>q137_original
+Yeah... nothing matters now. Please... leave me be... The traitor has won... and the things will have to... go on with that... ::Shortly after, he stops talking completely, as it seems he is not interested in having a conversation with you.::<end>
+
+=>q137
+Да... теперь уже ничто не имеет значения. Прошу... оставь меня... Предательница победила... и с этим уже... ничего не поделаешь... ::Он замолкает и, видимо, больше не заинтересован продолжать с вами разговор.::<end>
+

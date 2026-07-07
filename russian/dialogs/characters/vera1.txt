@@ -1,0 +1,1118 @@
+﻿=>q1_original
+::While there are still signs of concern intertwined into her expression, you notice more confidence and resolution in her stance and speech.::
+
+Did you rest well, $(context.player.Name)?<end>
+
+=>q1
+::Хотя признаки беспокойства на её лице ещё можно заметить, сейчас стало куда больше уверенности и стойкости в её манерах и речи.::
+
+Вы хорошо отдохнули, $(context.player.Name)?<end>
+
+=>a2_original
+Yes, I did.<end>
+
+=>a2
+Да, хорошо.<end>
+
+=>q3_original
+::She nods.::
+
+Do you know why I wanted to speak to you?<end>
+
+=>q3
+::Она кивает.::
+
+Вы знаете, почему я хотела поговорить с вами?<end>
+
+=>a4_original
+You wanted to ask me something.<end>
+
+=>a4
+Вы хотели спросить меня о чём-то?<end>
+
+=>q5_original
+Yes. To be more specific, I wanted to offer something to you.<end>
+
+=>q5
+Да. Точнее, я хотела вам кое-что предложить.<end>
+
+=>q6_original
+How would you like to become one of the South Gate Station councilors?<end>
+
+=>q6
+Вы не хотели бы занять место советника станции Саут-Гейт?<end>
+
+=>a7_original
+Why me?<end>
+
+=>a7
+Почему я?<end>
+
+=>q8_original
+South Underrail hasn't been this turbulent ever since the break-up of Biocorp: Earthquake, Faceless invasion, United Stations integration and increasing conflicts between Underrail Protectorate and the Free Drones, to mention but a few. <end>
+
+=>q8
+Южная Подземка не испытывала таких бурных потрясений с распада Биокорп: землетрясение, нашествие безликих, интеграция в Объединённые Станции и эскалация конфликта между Протекторатом и Вольными шершнями -- и это даже не полный список.<end>
+
+=>q9_original
+After you left, the council discussed you and your recent, first-hand experiences throughout South Underrail. We feel what you know would be of great use to our station. That is why we offer you this position, and it is something upon which we all agreed.<end>
+
+=>q9
+После того, как вы ушли, в совете обсуждали вас и ваши недавние похождения по Южной Подземке. Мы считаем, что вы очень пригодились бы нашей станции. Именно поэтому мы предлагаем вам эту должность, на чём мы сошлись единогласно.<end>
+
+=>q10_original
+You don't have to answer right away; think about this. You will most likely take over some of Tanner's duties, some of the ones you could manage. At first, then... well, we'll get into the details and specifics after you give me a positive answer.<end>
+
+=>q10
+Вам не обязательно отвечать сразу, подумайте об этом. Вы, скорее всего, примете на себя часть обязанностей Таннера, с которыми сможете управиться. Это для начала, потом... ну, углубимся в детали и конкретику после того, как вы дадите положительный ответ.<end>
+
+=>q11_original
+Do you want to become a councilor, $(context.player.Name)?<end>
+
+=>q11
+Вы хотите стать советником, $(context.player.Name)?<end>
+
+=>a12_original
+I accept. I want to become a South Gate Station councilor. ::Ends the game.::<end>
+
+=>a12
+Я соглас$(#ен/на). Я хочу стать советником станции Саут-Гейт. ::[Конец игры].::<end>
+
+=>q13_original
+::Vera smiles.:: I am pleased to hear that. We both know that is the right decision. ::Another smile escapes her, lasting for a brief moment.:: I'm sure you will do excellent work.<end>
+
+=>q13
+::Вера улыбается.:: Я рада это слышать. Мы оба знаем, что это правильное решение. ::Она вновь слегка улыбается.:: Я уверена, что вы отлично справитесь.<end>
+
+=>a14_original
+I hope so too. Now what happens?<end>
+
+=>a14
+Я тоже на это надеюсь. Что теперь?<end>
+
+=>q15_original
+Now... you begin.<end>
+
+=>q15
+Теперь... вы приступаете.<end>
+
+=>a16_original
+::End Dialog.::<end>
+
+=>a16
+::Завершить диалог.::<end>
+
+=>a17_original
+What benefits does a councilor get?<end>
+
+=>a17
+Какие преимущества даёт должность советника?<end>
+
+=>q18_original
+You will be able to directly influence the future of South Gate Station. Right now, we all live in similar living conditions, so do not expect a significant improvement in that regard. However, you will receive a better pay, respect both in and outside of South Gate Station and more.<end>
+
+=>q18
+Вы сможете напрямую влиять на будущее станции Саут-Гейт. На данный момент мы все живём в схожих условиях, поэтому не стоит ожидать существенного улучшения в этом отношении. Однако вы получите более высокую зарплату и уважение, как на станции, так и за её пределами, а также многое другое.<end>
+
+=>a19_original
+I will have to think about it.<end>
+
+=>a19
+Мне надо подумать.<end>
+
+=>q20_original
+Certainly. There is no pressure on you. We simply feel you would be a valuable contribution to the council. I will be here once you've make your decision.<end>
+
+=>q20
+Конечно. Никто не давит на вас. Мы просто считаем, что вы стали бы ценным членом совета. Найдите меня здесь, когда вы примете решение.<end>
+
+=>a21_original
+I understand. I had some other questions to ask you.<end>
+
+=>a21
+Я понимаю. У меня есть ещё несколько вопросов.<end>
+
+=>q22_original
+Certainly, $(context.player.Name).<end>
+
+=>q22
+Конечно, $(context.player.Name).<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>a24_original
+How's Lora holding up? Did you manage to speak to her?<end>
+
+=>a24
+Как Лора? Вам удалось поговорить с ней?<end>
+
+=>q25_original
+She is still unconscious. Pasquale told me her condition is stable, but he doesn't know when she'll regain her consciousness.<end>
+
+=>q25
+Она всё ещё без сознания. Паскуаль сказал, что её состояние стабильно, но он не знает, когда она очнётся.<end>
+
+=>q26_original
+We will have to be patient.<end>
+
+=>q26
+Мы должны набраться терпения.<end>
+
+=>a27_original
+Did the Faceless return Lora?<end>
+
+=>a27
+Безликие вернули Лору?<end>
+
+=>q28_original
+Yes. Malcom informed me that Faceless have appeared just east of Crossroad Watch. We were worried they came with hostile intentions, but after seeing that they were carrying Lora, we sent a few men out. The Faceless simply turned her in and left.<end>
+
+=>q28
+Да. Мальком сообщил мне, что безликие появились к востоку от перекрёстка пещер. Мы боялись, что они пришли с враждебными намерениями, но, увидев, что они несут Лору, мы послали нескольких человек навстречу. Безликие просто отдали её и ушли.<end>
+
+=>q29_original
+She is in the med bay, resting.<end>
+
+=>q29
+Она в лазарете, отдыхает.<end>
+
+=>a30_original
+Gorsky died in Core City.<end>
+
+=>a30
+Горский погиб в Кор-Сити.<end>
+
+=>q31_original
+::Your words provoke a shocked expression.::
+
+What? I cannot believe it... This is horrible, horrible. And at a time like this.<end>
+
+=>q31
+::Ваши слова заставляют её измениться в лице.::
+
+Что? Я не могу в это поверить... это ужасно, ужасно. И в такой момент.<end>
+
+=>q32_original
+Gorsky and I may have had... disagreements, but I always held respect for him. He did a lot for this station. That is two councilors we have lost in a short period of time. Difficult times lay ahead of us.<end>
+
+=>q32
+Горский и я, возможно... имели определённые разногласия, но я всегда питала уважение к нему. Он многое сделал для этой станции. Мы потеряли двух советников в такой короткий период времени. Трудные времена впереди.<end>
+
+=>a33_original
+::Show Vera the keycard you found.:: Did this belong to the Bakers?<end>
+
+=>a33
+::Показать Вере ключ-карту, которую вы нашли.:: Это принадлежало Бейкерам?<end>
+
+=>q34_original
+::Vera inspects the card.:: Yes, it is but... ::She pauses.:: Why are you giving this to me? Where did you find this? What happened?<end>
+
+=>q34
+::Вера осматривает карту.:: Да, но... ::Она замолкает.:: Почему вы отдаёте это мне? Где вы это нашли? Что случилось?<end>
+
+=>a35_original
+I found it on a man's corpse in a deserted camp, located in the caves north of the Rail Crossing train station. I'm afraid that corpse was Terry's. Lora was nowhere to be seen.<end>
+
+=>a35
+Я наш$(#ёл/ла) её на теле мужчины в заброшенном лагере, расположенном в пещерах к северу от Переезда. Я боюсь, что тело принадлежит Терри. Лоры нигде не было видно.<end>
+
+=>q36_original
+::Vera opens her mouth to say something, but falls silent. Several seconds pass before she advances the conversation.:: This is very bad... The Bakers were wonderful people... and... 
+
+Have you learned anything else about what happened to them? Any clues, anything at all?<end>
+
+=>q36
+::Вера открывает рот, чтобы что-то сказать, но замолкает. Проходит пара секунд, прежде чем она продолжает разговор.:: Это очень плохо... Бейкеры были замечательными людьми... и... 
+
+Вы узнали что-нибудь ещё о том, что с ними случилось? Какие-то улики, хоть что-нибудь?<end>
+
+=>a37_original
+I found out they were killed by the Acid Hunters, a group of scavengers from Core City.<end>
+
+=>a37
+Я узнал$(#/а), что их убили Кислотные охотники -- группа мусорщиков из Кор-Сити.<end>
+
+=>q38_original
+Scavengers? But, why? How do you know all that?<end>
+
+=>q38
+Мусорщики? Но зачем? Откуда вы всё это знаете?<end>
+
+=>a39_original
+I met them and their leader, Cornell, confessed. They wanted to rob them, so they followed them to Rail Crossing.<end>
+
+=>a39
+Я встретил$(#ся/ась) с ними, и их лидер -- Корнелл -- во всём признался. Они хотели ограбить Бейкеров, и для этого они последовали за ними на Переезд.<end>
+
+=>q40_original
+That is horrible, but it makes no sense! Why put in so much effort into robbing specifically Terry and Lora?<end>
+
+=>q40
+Это ужасно, но бессмысленно! Зачем тратить столько усилий, чтобы ограбить именно Терри и Лору?<end>
+
+=>a41_original
+The Acid Hunters wanted some special cube the Bakers had in their possession.<end>
+
+=>a41
+Кислотным охотникам был нужен какой-то особенный куб, имевшийся у Бейкеров.<end>
+
+=>q42_original
+::Vera blankly stares at you.:: A cube? What cube? I was never told anything about... any cube. I need to ask Tanner about this, he is the last one who talked to them. I mean, when they contacted us from Core City.<end>
+
+=>q42
+::Вера непонимающе смотрит на вас.:: Куб? Какой куб? Никогда ничего не слышала о... каком-то кубе. Мне нужно спросить Таннера об этом, он последний, кто разговаривал с ними. То есть, когда они связались с нами из Кор-Сити.<end>
+
+=>q43_original
+So, these Acid Hunters... What happened to them? You said you met them?<end>
+
+=>q43
+А эти Кислотные охотники... что с ними? Вы сказали, что встречались с ними?<end>
+
+=>a44_original
+Yes, in Core City. They were hiding in the sewers. Long story.<end>
+
+=>a44
+Да, в Кор-Сити. Они прятались в канализации. Долгая история.<end>
+
+=>q45_original
+Are they still there?<end>
+
+=>q45
+Они всё ещё там?<end>
+
+=>a46_original
+No, they are no longer in their hideout. I don't know where they are now.<end>
+
+=>a46
+Нет, они больше не в убежище. Я не знаю, где они сейчас.<end>
+
+=>q47_original
+Right... I won't go into any more details about... them. Just tell me one more thing. You said Lora's body was nowhere to be found? What if she is alive?<end>
+
+=>q47
+Да... не будем вдаваться в подробности о... них. Только скажите мне одну вещь. Вы сказали, что тела Лоры нигде не было? Что, если она жива?<end>
+
+=>a48_original
+Lora was taken by the Faceless. I wasn't able to bring her back.<end>
+
+=>a48
+Лора захвачена безликими. Я не смог$(#/ла) вернуть её.<end>
+
+=>q49_original
+The Faceless? What happened to her?<end>
+
+=>q49
+Безликими? Что с ней случилось?<end>
+
+=>a50_original
+I'm guessing the Faceless took her back to their own city. She is not in Deep Caverns anymore.<end>
+
+=>a50
+Я думаю, безликие забрали её в свой город. Она больше не в Глубоких пещерах.<end>
+
+=>q51_original
+That is terrible! This whole invasion turned into such a horrible thing.<end>
+
+=>q51
+Это кошмар! Нашествие превратилось в такой ужас.<end>
+
+=>q52_original
+Well... Thank you, $(context.player.Name). I will speak to the rest of the council about this. ::She sighs.::<end>
+
+=>q52
+Ну, что ж... спасибо, $(context.player.Name). Я поговорю с остальными советниками по этому поводу. ::Она вздыхает.::<end>
+
+=>a53_original
+I had some questions...<end>
+
+=>a53
+У меня были вопросы...<end>
+
+=>q54_original
+::She looks at you, awaiting your question.::<end>
+
+=>q54
+::Она смотрит на вас, ожидая вопроса.::<end>
+
+=>a55_original
+I will leave you now. Goodbye, Vera.<end>
+
+=>a55
+Я оставлю вас. До свидания, Вера.<end>
+
+=>a56_original
+I do not know.<end>
+
+=>a56
+Я не знаю.<end>
+
+=>a57_original
+I'm afraid she's dead.<end>
+
+=>a57
+Я боюсь, что она мертва.<end>
+
+=>a58_original
+Cornell confessed he shot them both and left them for dead. I don't know what happened to her body.<end>
+
+=>a58
+Корнелл признался, что застрелил их и бросил умирать. Я не знаю, что случилось с её телом.<end>
+
+=>q59_original
+I know even less... ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: <end>
+
+=>q59
+Я знаю ещё меньше... ::Вера делает продолжительную паузу, явно переживая. Затем она берёт себя в руки.::<end>
+
+=>q60_original
+Well... Thank you, $(context.player.Name). I will take the keycard and speak to the rest of the council about this. ::She sighs.::<end>
+
+=>q60
+Ну, что ж... спасибо, $(context.player.Name). Я возьму эту карточку и поговорю с остальными советниками по этому поводу. ::Она вздыхает.::<end>
+
+=>a61_original
+There is a possibility...<end>
+
+=>a61
+Есть такая возможность...<end>
+
+=>q62_original
+There is... ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: <end>
+
+=>q62
+Есть... ::Вера делает продолжительную паузу, явно переживая. Затем она берёт себя в руки.::<end>
+
+=>a63_original
+Perhaps, but highly unlikely. Those caves harbor some deadly critters.<end>
+
+=>a63
+Это возможно, но маловероятно. В тех пещерах много смертоносных тварей.<end>
+
+=>q64_original
+Yes, yes... I see your point. ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: <end>
+
+=>q64
+Да, да... я понимаю, о чём вы. ::Вера делает продолжительную паузу, явно переживая. Затем она берёт себя в руки.::<end>
+
+=>a65_original
+No way. Those caves are like a death trap.<end>
+
+=>a65
+Вряд ли. Эти пещеры -- как смертельная ловушка.<end>
+
+=>q66_original
+I suppose you are right... ::Vera makes a lengthy pause, visibly distressed by the conversation. She then recomposes herself and continues.:: <end>
+
+=>q66
+Я полагаю, вы правы... ::Вера делает продолжительную паузу, явно переживая. Затем она берёт себя в руки.::<end>
+
+=>a67_original
+There was another pool of blood next to Terry's. Perhaps some animals dragged the body away.<end>
+
+=>a67
+Там была ещё одна лужа крови, рядом с трупом Терри. Возможно, какие-нибудь животные утащили тело.<end>
+
+=>q68_original
+::She frowns in disgust.:: Please, I don't want that image in my head. ::She makes a waving motion, as if driving away the dreadful image that was constructed inside her mind. Afterwards, she makes a lengthy pause, visibly distressed by the conversation. Then, she recomposes herself and continues.:: <end>
+
+=>q68
+::Она морщится от отвращения.:: Пожалуйста, я не хочу представлять себе эту картину. ::Она делает рукой движение, будто отгоняя страшный воображаемый образ. После этого Вера делает продолжительную паузу, явно переживая. Затем она берёт себя в руки.::<end>
+
+=>a69_original
+They are all dead. I made sure they were dead before I left.<end>
+
+=>a69
+Они все мертвы. Я проверил$(#/а), прежде чем уйти.<end>
+
+=>q70_original
+::Even though you get no immediate response, you have a feeling she approves of your actions.:: Just tell me one more thing. You said Lora's body was nowhere to be found? What if she is alive?<end>
+
+=>q70
+::Даже не получив ответа, вы чувствуете, что она одобряет ваши действия.:: Только скажите мне одну вещь. Вы сказали, что тела Лоры нигде не было? Что, если она жива?<end>
+
+=>a71_original
+That I don't know.<end>
+
+=>a71
+Этого я не знаю.<end>
+
+=>a72_original
+One of the train operators told me the Bakers were led away from the Rail Crossing train station by some thugs who were wielding chemical weapons. They were probably the ones who killed Terry.<end>
+
+=>a72
+Один из машинистов сказал мне, что Бейкеров увели с Переезда какие-то головорезы с химическим оружием. Они, вероятно, и убили Терри.<end>
+
+=>q73_original
+That is horrible! So they were at Rail Crossing after all, or at least they managed to reach the station. What of Lora? Do you think she could have survived somehow? Escaped her captors, perhaps?<end>
+
+=>q73
+Это ужасно! Так они всё-таки были на Переезде, или, по крайней мере, им удалось добраться до станции. Что с Лорой? Думаете, она могла выжить? Бежать от похитителей, может быть?<end>
+
+=>a74_original
+Sadly, that is all I know.<end>
+
+=>a74
+К сожалению, это всё, что я знаю.<end>
+
+=>q75_original
+::She nods several times.:: Lora's body wasn't there, you say? What if she is alive?<end>
+
+=>q75
+::Она кивает несколько раз.:: Тела Лоры там не было, говорите? Что, если она жива?<end>
+
+=>a76_original
+Is there something I can do to help with the Faceless situation?<end>
+
+=>a76
+Я могу что-то сделать, чтобы помочь в этой ситуации с безликими?<end>
+
+=>q77_original
+Yes, two of our own, Terry and Lora Baker, were on a merchant mission to the north when the Faceless invaded. We know they didn't get caught behind the blockade because they messaged in from the Core City before the assault happened.<end>
+
+=>q77
+Да, двое наших -- Терри и Лора Бейкер -- были с торговой миссией на севере, когда напали безликие. Мы знаем, что они не отрезаны блокадой, потому что получили от них сообщение из Кор-Сити до начала нападения.<end>
+
+=>q78_original
+They were supposed to head straight back to SGS, but then this earthquake happened and blocked the railway, preventing their return. They might have stopped by Rail Crossing, in which case they might have been caught by whatever trouble is happening there.<end>
+
+=>q78
+Они должны были возвращаться прямиком на ССГ, но случилось это землетрясение и перекрыло железную дорогу. Они, возможно, остановились на Переезде и задержались из-за каких-то проблем там.<end>
+
+=>q79_original
+Gorsky tells me you know how to handle trouble. Investigate these two places, find the Bakers and return them home safely.<end>
+
+=>q79
+Горский говорит, вы знаете, как решать такие вопросы. Обследуйте эти два места, найдите Бейкеров и верните их домой в целости и сохранности.<end>
+
+=>q80_original
+I hope it won't come to this, but if... they didn't make it, make sure you return their valuables and trade goods then.<end>
+
+=>q80
+Я надеюсь, что до этого не дойдёт, но если... они не выжили, тогда верните все их товары и ценности.<end>
+
+=>a81_original
+Alright, got it.<end>
+
+=>a81
+Ладно, понятно.<end>
+
+=>a82_original
+I'm about to head out to investigate the Faceless situation. Tanner mentioned you had a job for me as well.<end>
+
+=>a82
+Я собираюсь отправиться исследовать ситуацию с безликими. Таннер упомянул, что у вас тоже есть работа для меня.<end>
+
+=>a83_original
+Who are the Faceless exactly?<end>
+
+=>a83
+Кто такие безликие?<end>
+
+=>q84_original
+We don't know. They live somewhere in the tunnels below. They are human, I hope, but I'm not sure since I've never seen one without a mask.<end>
+
+=>q84
+Мы не знаем. Они живут где-то в туннелях ниже. Они люди, я надеюсь, но не уверена, поскольку никогда не видела их без масок.<end>
+
+=>a85_original
+What can you tell me about Core City?<end>
+
+=>a85
+Что вы можете рассказать мне про Кор-Сити?<end>
+
+=>q86_original
+It's a city to the north that spans both levels of Underrail. It serves as a gateway to both the Upper Underrail and to the United Stations territories to the north.<end>
+
+=>q86
+Это город на севере, который охватывает оба уровня Подземки. Он выступает чем-то вроде шлюза в Верхнюю Подземку и на территорию Объединённых Станций на севере.<end>
+
+=>q87_original
+The city used to be controlled by the Biocorp's security forces, but they went rogue and split into smaller factions. This was followed by a couple of years of street wars between these factions. <end>
+
+=>q87
+Город контролировался силами безопасности Биокорп, но они вышли из-под контроля и раскололись на более мелкие группировки. Затем последовало несколько лет уличных войн между этими фракциями.<end>
+
+=>q88_original
+The fighting ceased eventually in light of outside threats and serious infrastructural problems and nowadays the three surviving factions rule the city together through their appointed mayors.<end>
+
+=>q88
+Со временем боевые действия прекратились перед лицом внешней угрозы и серьёзных инфраструктурных проблем. В настоящее время три уцелевших фракции правят городом вместе, посредством назначенных мэров.<end>
+
+=>a89_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a89
+Что вы знаете о смерти Патрика Пирса?<end>
+
+=>q90_original
+He died in his sleep. While it's true that Pasquale never discovered the exact cause of death, I believe it's nothing to worry about. Someone suggested a bacteria that live in the ventilation system, but that would mean the death of us all, wouldn't it?<end>
+
+=>q90
+Он умер во сне. Хотя Паскуаль не выяснил точную причину смерти, я не думаю, что нам есть о чём беспокоиться. Кто-то предположил, что это бактерии, живущие в вентиляционной системе, но из-за них погибли бы все, не так ли?<end>
+
+=>q91_original
+If you want to learn more, just go talk to Pasquale. I'm sure he'll tell you all you want to know. I'm far too busy anyway.<end>
+
+=>q91
+Если вы хотите узнать больше, поговорите с Паскуалем. Я уверена, он расскажет вам всё, что вы хотите знать. Я слишком занята.<end>
+
+=>a92_original
+Can you tell me a bit about United Stations?<end>
+
+=>a92
+Можете ли вы рассказать мне немного об Объединённых Станциях?<end>
+
+=>q93_original
+Certainly. United Stations, also called Union by some, is a confederacy of stations in north and central Underrail. It's an attempt to unify the entirety of Underrail so that we could all work together towards a better future for the human race.<end>
+
+=>q93
+Конечно. Объединённые станции, также называемые Союзом, являются конфедерацией станций на севере и в центре Подземки. Это попытка объединить всю Подземку, чтобы мы могли все вместе работать ради лучшего будущего для человеческой расы.<end>
+
+=>q94_original
+Similar to our station, the Union is ruled by a Council of Five. Most stations of the Union have some degree of autonomy as well. <end>
+
+=>q94
+Как и наша станция, Союз управляется Советом пяти. Большинство станций Союза также имеют некоторую степень автономии.<end>
+
+=>q95_original
+The United Stations are constantly expanding and while no stations here in the south are yet to become part of it, something like that will surely happen in the near future.<end>
+
+=>q95
+Объединённые Станции постоянно расширяются, и хотя нам здесь на юге ещё только предстоит стать их частью, что-то подобное непременно произойдёт в ближайшем будущем.<end>
+
+=>a96_original
+I want to learn about the Protectorate.<end>
+
+=>a96
+Я хочу узнать о Протекторате.<end>
+
+=>q97_original
+The Underrail Protectorate is a military organization that protects the United Stations from external and internal threats. It predates the Union itself and it also played a crucial role in its creation.<end>
+
+=>q97
+Протекторат Подземки -- военная организация, которая защищает Объединённые Станции от внешних и внутренних угроз. Он предшествовал Союзу и сыграл решающую роль в его создании.<end>
+
+=>q98_original
+The Protectorate is under the command of General Melek, who is widely considered to be the most powerful man in Underrail. He holds a special place on the United Stations' Council of Five, and some also believe him to be de facto ruler of it.<end>
+
+=>q98
+Протекторатом командует генерал Мелек, который считается самым влиятельным человеком в Подземке. Он занимает особое место в Совете пяти, правящем Объединёнными Станциями, и некоторые также считают его де-факто единоличным правителем.<end>
+
+=>a99_original
+Are there plans for SGS to join the United Stations at some point?<end>
+
+=>a99
+Есть ли у ССГ планы вступить в Объединённые Станции когда-нибудь?<end>
+
+=>q100_original
+Our citizens, and our councilors, are divided on that matter. <end>
+
+=>q100
+Наши граждане и советники разделились в этом вопросе.<end>
+
+=>q101_original
+We currently have good trading relations with the Union and I personally think it would be a good idea to be among the first to join it here in the south. We are arguably the most powerful faction in these parts so we could position ourselves advantageously in their organization and also retain a high degree of independence.<end>
+
+=>q101
+В настоящее время у нас хорошие торговые отношения с Союзом, и я лично думаю, было бы неплохо в числе первых присоединиться к нему здесь, на юге. Мы, вероятно, самая сильная фракция в этих краях, так что мы сможем выгодно позиционировать себя в их организации, а также сохранить высокую степень независимости.<end>
+
+=>q102_original
+This would also ensure we avoid any potential military conflict in the future should the Protectorate decide to move against some of the... less-civilized communities in the neighborhood.<end>
+
+=>q102
+Это также позволит нам избежать любых возможных военных конфликтов в будущем, если Протекторат решит выступить против некоторых... менее цивилизованных сообществ региона.<end>
+
+=>q103_original
+But as I said, not everyone agrees with me here. You must understand that many of our current citizens come from... organizations that have, for various reasons, been Protectorate's targets in the past, so they are not very keen on being buddies with their old enemies.<end>
+
+=>q103
+Но, как я уже говорила, не все согласны со мной. Вы должны понимать, что многие из наших граждан пришли сюда... из организаций, которые по разным причинам были целями Протектората в прошлом, поэтому они не очень стремятся подружиться со своими старыми врагами.<end>
+
+=>q104_original
+<end>
+
+=>q104
+<end>
+
+=>q105_original
+But let me ask you what is your opinion on the matter? Would you like to see your station become a member of the United Stations?<end>
+
+=>q105
+Но позвольте спросить, каково ваше мнение по этому вопросу? Хотели бы вы видеть свою станцию частью Объединённых Станций?<end>
+
+=>a106_original
+Yeah, I think it's a good idea. Humanity is certainly better off united.<end>
+
+=>a106
+Да, я думаю, это хорошая идея. Человечеству, безусловно, лучше объединиться.<end>
+
+=>q107_original
+I'm very glad to hear that and I couldn't agree more.<end>
+
+=>q107
+Я очень рада это слышать, и я с вами полностью согласна.<end>
+
+=>a108_original
+I'm not sure. I'm reserving judgment until I learn more about all this.<end>
+
+=>a108
+Я не уверен$(#/а). Я отложил$(#/а) бы своё решение, пока не узнаю побольше обо всём этом.<end>
+
+=>q109_original
+You are a wise $(#man/woman). I hope that, like me, your future dealings with the United Stations will encourage you to support their efforts.<end>
+
+=>q109
+Вы умн$(#ый/ая) $(#мужчина/женщина). Я надеюсь, что ваши будущие контакты с Объединёнными Станциями побудят вас поддержать их усилия.<end>
+
+=>a110_original
+Hell no. It just sounds to me like a silly facade for this Melek guy ruling the Underrail through a gun.<end>
+
+=>a110
+Ещё чего. По мне, всё это -- лишь глупое прикрытие для этого Мелека, который хочет править Подземкой железной рукой.<end>
+
+=>q111_original
+That may not be completely untrue, but keep in mind that every great civilization was created with a gun or a sword. I expect that in the future, in a more peaceful and safer time the focus will shift from the Protectorate towards the civil rule of the Union.
+
+We'll see. I hope you'll change your mind soon and give the United Stations a chance.<end>
+
+=>q111
+В этом, возможно, есть доля истины, но примите во внимание, что каждая великая цивилизация была создана огнём и мечом. Я ожидаю, что в будущем, в более мирное и безопасное время, акцент будет смещаться от власти Протектората к гражданскому правлению Союза.
+
+Увидим. Я надеюсь, что вы вскоре измените своё мнение и дадите Объединённым Станциям шанс.<end>
+
+=>a112_original
+Tanner mentioned you need some documents delivered to an embassy in Junkyard.<end>
+
+=>a112
+Таннер упомянул, что вам надо доставить какие-то документы в посольство на Свалке.<end>
+
+=>q113_original
+That's right. If you're heading that way you can deliver them for me.<end>
+
+=>q113
+Совершенно верно. Если вы направляетесь туда, вы могли бы доставить их для меня.<end>
+
+=>a114_original
+Sure, I'm going there right now.<end>
+
+=>a114
+Конечно, я иду туда прямо сейчас.<end>
+
+=>q115_original
+Great. Here are the documents. I'll let them know that you're coming. 
+
+Have a safe journey and send my regards to the ambassador.<end>
+
+=>q115
+Отлично. Вот документы. Я дам им знать о вашем визите. 
+
+Счастливого пути, и моё почтение послу.<end>
+
+=>a116_original
+See you later.<end>
+
+=>a116
+Увидимся позже.<end>
+
+=>a117_original
+Perhaps later. Still got more work to do around here.<end>
+
+=>a117
+Возможно, позже. У меня ещё много работы здесь.<end>
+
+=>q118_original
+Alright. Let me know when you're ready to head over there.<end>
+
+=>q118
+Ладно. Дайте мне знать, когда будете готовы отправиться туда.<end>
+
+=>a119_original
+I can take those documents now. I'm heading out to Junkyard.<end>
+
+=>a119
+Я могу взять ваши документы. Я как раз направляюсь на Свалку.<end>
+
+=>a120_original
+I delivered the trading documents.<end>
+
+=>a120
+Я доставил$(#/а) документы.<end>
+
+=>q121_original
+Excellent. It's good to know I can count on you to get the job done.<end>
+
+=>q121
+Отлично. Приятно знать, что я могу рассчитывать на вас.<end>
+
+=>a122_original
+You wanted to tell me something.<end>
+
+=>a122
+Вы хотели мне что-то сказать?<end>
+
+=>a123_original
+You needed me for something?<end>
+
+=>a123
+Вы хотели меня о чём-то попросить?<end>
+
+=>a124_original
+No.<end>
+
+=>a124
+Нет.<end>
+
+=>q125_original
+I wanted to offer something to you.<end>
+
+=>q125
+Я хотела вам кое-что предложить.<end>
+
+=>a126_original
+I feel I could've rested some more.<end>
+
+=>a126
+Я бы не прочь ещё немного побездельничать.<end>
+
+=>a127_original
+I think I did.<end>
+
+=>a127
+Да, наверное.<end>
+
+=>q128_original
+Go speak to Ezra, $(context.player.Name).<end>
+
+=>q128
+Поговорите с Эзрой, $(context.player.Name).<end>
+
+=>q129_original
+::From the moment you stepped into the room, Vera's eyes were fixed on you. However, you are aware that the worried look is not only due to your lengthy absence.::
+
+$(context.player.Name), I am so glad you are alive. After we heard Protectorate forces were moving toward the Institute of Tchort and not hearing from you for so long, we became really worried.<end>
+
+=>q129
+::Едва вы входите в комнату, взгляд Веры становится прикован к вам. Тем не менее, вы понимаете, что обеспокоена она не только из-за вашего длительного отсутствия.::
+
+$(context.player.Name), я так рада, что вы живы. После того, как мы услышали, что Протекторат выступил против Института Чорта, и долго не имея весточки от вас, мы стали очень беспокоиться.<end>
+
+=>a130_original
+Thank you for your concern, but I am fine.<end>
+
+=>a130
+Спасибо за заботу, я в порядке.<end>
+
+=>q131_original
+::She nods.:: I am sure you want to rest, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q131
+::Она кивает.:: Я знаю, что вы хотите отдохнуть, и я не стала бы вас беспокоить, но кое-что случилось: Таннер исчез.<end>
+
+=>q132_original
+<end>
+
+=>q132
+<end>
+
+=>a133_original
+I know.<end>
+
+=>a133
+Я знаю.<end>
+
+=>q134_original
+::She pauses.:: So... the word is already out.<end>
+
+=>q134
+::Она замолкает.:: Так... слухи уже пошли.<end>
+
+=>a135_original
+Tell me about Tanner's disappearance.<end>
+
+=>a135
+Расскажите мне про исчезновение Таннера.<end>
+
+=>q136_original
+He left his office some time ago, and no one has seen him since. No one saw him leave through any of the station's exits, like he vanished. This has never happened before. So many things are happening around South Underrail and his disappearance worries me.<end>
+
+=>q136
+Он вышел из своего кабинета некоторое время назад, и никто не видел его с тех пор. Никто не видел, чтобы он покидал станцию через один из выходов, он будто исчез. Такого ещё никогда не случалось. Так много всего происходит в Южной Подземке, и его исчезновение меня беспокоит.<end>
+
+=>q137_original
+::Vera looks at you, as if wanting to say something, but that statement seems like it has been replaced by a different one.::
+
+We still haven't checked his room. Since you are here, I think it is best you do it.<end>
+
+=>q137
+::Вера смотрит на вас, как будто желая что-то сказать, но в последний момент меняет решение.::
+
+Мы ещё не проверяли в его комнате. Раз уж вы здесь, я думаю, лучше всего это сделать вам.<end>
+
+=>a138_original
+No problem, Vera. I will do it.<end>
+
+=>a138
+Нет проблем, Вера. Я сделаю это.<end>
+
+=>q139_original
+<end>
+
+=>q139
+<end>
+
+=>q140_original
+Usually, I would approach Gorsky with these kinds of things, but since he... is not with us anymore, you are the one I would trust the most with something this important.<end>
+
+=>q140
+Обычно я обращалась к Горскому с такого рода вопросами, но поскольку его... больше нет с нами, вы единственн$(#ый/ая), кому я могу доверить что-то столь важное.<end>
+
+=>a141_original
+In that case, I guess I will have to do it.<end>
+
+=>a141
+В таком случае, похоже, что придётся мне.<end>
+
+=>q142_original
+See Ezra; he will let you into Tanner's room. Keep your eyes open and try to find anything at all which might shed some light on what is going on here.<end>
+
+=>q142
+Поговорите с Эзрой -- он впустит вас в комнату Таннера. Держите ухо востро и постарайтесь найти хоть что-нибудь, способное пролить свет на происходящее здесь.<end>
+
+=>a143_original
+On my way.<end>
+
+=>a143
+Я пойду.<end>
+
+=>q144_original
+Good. Meanwhile, I think it's time I assemble the council. Return to me once you and Ezra inspect Tanner's room.<end>
+
+=>q144
+Хорошо. Между тем, думаю, самое время собрать совет. Возвращайтесь ко мне, когда осмотрите комнату Таннера.<end>
+
+=>a145_original
+What do you want me to do?<end>
+
+=>a145
+Что вы от меня хотите?<end>
+
+=>q146_original
+Usually, I would approach Gorsky with these kinds of things, but since he is still in Core City that leaves you as the one I would trust the most with something this important.<end>
+
+=>q146
+Обычно я обращалась к Горскому с такого рода вопросами, но поскольку он всё ещё в Кор-Сити, вы единственн$(#ый/ая), кому я могу доверить что-то столь важное.<end>
+
+=>a147_original
+I haven't had the time to tell you yet, but Gorsky died in Core City.<end>
+
+=>a147
+У меня не было времени сказать вам, но Горский погиб в Кор-Сити.<end>
+
+=>q148_original
+::Your words provoke a shocked expression.::
+
+What? I cannot believe it... this is... No...<end>
+
+=>q148
+::Ваши слова заставляют её измениться в лице.::
+
+Что? Я не могу в это поверить... это... Нет...<end>
+
+=>q149_original
+This is horrible, horrible. And at a time like this. Please, $(context.player.Name), go speak to Ezra; he will let you into Tanner's room. Um, I'm sorry... I... Anyway, keep your eyes open and try to find anything at all which might shed some light on what is going on here.<end>
+
+=>q149
+Это ужасно, ужасно. И в такой момент. Пожалуйста, $(context.player.Name), идите поговорите с Эзрой -- он впустит вас в комнату Таннера. Э-э-э, простите... я... в любом случае, держите ухо востро и постарайтесь найти хоть что-нибудь, что может пролить свет на происходящее.<end>
+
+=>a150_original
+Why me?<end>
+
+=>a150
+Почему я?<end>
+
+=>a151_original
+Don't you have someone else to do these kind of things? It's always me.<end>
+
+=>a151
+Разве у вас нет кого-нибудь специально для таких вещей? Всегда я.<end>
+
+=>a152_original
+When?<end>
+
+=>a152
+Когда?<end>
+
+=>a153_original
+What do you mean?<end>
+
+=>a153
+Что вы имеете в виду?<end>
+
+=>a154_original
+We have yet to determine if I'm *actually* alive, considering the things I've been through.<end>
+
+=>a154
+Нам ещё предстоит определить, *на самом ли деле* я жив$(#/а), -- учитывая, через что мне пришлось пройти.<end>
+
+=>q155_original
+I understand. And you deserve rest. I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q155
+Я понимаю. И вы заслужили отдых. Я не стала бы вас беспокоить, но кое-что случилось: Таннер исчез.<end>
+
+=>a156_original
+I need some rest.<end>
+
+=>a156
+Мне нужно немного отдохнуть.<end>
+
+=>q157_original
+I am sure you do, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q157
+Конечно, вы правы, и я не стала бы вас беспокоить, но кое-что случилось: Таннер исчез.<end>
+
+=>a158_original
+::Nod.::<end>
+
+=>a158
+::Кивнуть.::<end>
+
+=>q159_original
+I am sure you want to rest, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q159
+Я знаю, что вы хотите отдохнуть, и я не стала бы вас беспокоить, но кое-что случилось: Таннер исчез.<end>
+
+=>a160_original
+You didn't seriously think I was going to die? ::Laugh.::<end>
+
+=>a160
+Неужели вы серьёзно думали, что я умру? ::Смеясь.::<end>
+
+=>q161_original
+::A sign of being uneasy shoots across Vera's face. She then continues.:: I am sure you want to rest, and I wouldn't want to delay it any longer, but something happened: Tanner disappeared.<end>
+
+=>q161
+::Тень замешательства скользит по лицу Веры.:: Я знаю, что вы хотите отдохнуть, и я не стала бы вас беспокоить, но кое-что случилось: Таннер исчез.<end>
+
+=>q162_original
+::You met Vera previously during your testing period. She is one of the councilors here at the South Gate Station.::
+
+Good to see you've found your way to my office, $(context.player.Name). How do you like your new home so far?<end>
+
+=>q162
+::Вы встречали Веру ранее, во время прохождения тестов. Она служит одним из советников на станции Саут-Гейт.::
+
+Рада видеть, что вы нашли дорогу в мой кабинет, $(context.player.Name). Как вам нравится ваш новый дом?<end>
+
+=>a163_original
+It's pretty good. I can see myself staying here for a long time.<end>
+
+=>a163
+Довольно неплохо. Я подумываю остаться здесь надолго.<end>
+
+=>q164_original
+That's good to hear.
+
+So anyway, how can I help you?<end>
+
+=>q164
+Приятно слышать.
+
+Так как я могу помочь вам?<end>
+
+=>a165_original
+It's been fine so far.<end>
+
+=>a165
+До сих пор всё было неплохо.<end>
+
+=>q166_original
+Very good.
+
+So what can I do for you?<end>
+
+=>q166
+Очень хорошо.
+
+Так, что я могу сделать для вас?<end>
+
+=>a167_original
+People keep sending me to solo dangerous missions, it's derailed!<end>
+
+=>a167
+Люди отправляют меня в одиночку на опасные задания, тут и поехать недолго!<end>
+
+=>q168_original
+They must have faith in your abilities and, considering you're still alive, I guess their trust was not misplaced.<end>
+
+=>q168
+Значит они верят в ваши способности, и, учитывая, что вы всё ещё живы, я думаю, что они в вас не ошиблись.<end>
+
+=>q169_original
+So, anyway, how can I help you?<end>
+
+=>q169
+В любом случае, чем я могу вам помочь?<end>
+
+=>q170_original
+Have you heard what's happening in Core City?<end>
+
+=>q170
+Вы слышали, что происходит в Кор-Сити?<end>
+
+=>a171_original
+Yes.<end>
+
+=>a171
+Да.<end>
+
+=>q172_original
+It's crazy, isn't it? I'm wondering just what the Faceless want. It's very atypical of them to attack a station state.<end>
+
+=>q172
+Это какое-то безумие, вы не находите? Мне интересно только, чего безликие хотят. Совершенно нетипично для них вот так напасть на город.<end>
+
+=>a173_original
+No.<end>
+
+=>a173
+Нет.<end>
+
+=>q174_original
+The Faceless blockaded the city. They drilled right into the city perimeter defenses with their machines and caught them by surprise. Now we're cut off from the North and cannot receive any assistance from the Protectorate.<end>
+
+=>q174
+Безликие осадили город. Они пробурились под периметром обороны в своих машинах и застали их врасплох. Теперь мы отрезаны от Севера и не можем получить никакой поддержки от Протектората.<end>
+
+=>q175_original
+Unbelievable - a homicide inside the station! The word will surely get out, surely. I just hope it doesn't tarnish our reputation. This station is supposed to be safe.
+
+::She takes a deep breath.:: Excuse me, please. Uh, how can I help you?<end>
+
+=>q175
+Невероятно - убийство внутри станции! Наверняка, всё станет известно. Я просто надеюсь, что это не испортит нашу репутацию. Станция должна считаться безопасной.
+
+::Она глубоко вздыхает.:: Простите, пожалуйста. Чем могу помочь?<end>
+
+=>q176_original
+$(context.player.Name). The whole station's talking about you. I hope Gorsky didn't give you too much trouble.
+
+So, how can I help you?<end>
+
+=>q176
+$(context.player.Name). Вся станция говорит о вас. Надеюсь, Горский не доставил вам слишком много проблем.
+
+Итак, чем я могу вам помочь?<end>
+
+=>q177_original
+Yes? How can I help you, $(context.player.Name)?<end>
+
+=>q177
+Да? Чем я могу помочь вам, $(context.player.Name)?<end>
+

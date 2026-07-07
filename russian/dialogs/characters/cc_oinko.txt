@@ -1,0 +1,490 @@
+﻿=>q1_original
+::The pig speaks to you.:: Ah, $(context.player.Name), glad you could make it. I'm Oinko. I mean, my dear, dear friend Ditch is the one who named me so, to be exact. I personally fail to see how pigs make oinking sounds; to my ears it sounds more like snorting, but in the end - who am I to complain? We shall stick with Oinko.
+
+I must tell you, human, I rarely have any conversational partners coming here, sadly, so this is quite an exciting moment for me! I can't wait to... socialize again with someone other than Ditch.<end>
+
+=>q1
+::Поросёнок говорит.:: Ах, $(context.player.Name), рад, что вы всё-таки пришли. Я Хрюк. Вернее, мой дорогой-предорогой друг Дитч назвал меня так. Мне лично не кажется, что свиньи издают хрюкающие звуки; на мой слух, это больше похоже на фырканье, но, в конце концов, кто я такой, чтобы жаловаться? Будем придерживаться Хрюка.
+
+Я должен сказать вам, человек, что, к сожалению, сюда редко приходят собеседники, так что для меня это довольно волнующий момент! Я жду не дождусь, чтобы... снова пообщаться с кем-нибудь другим, кроме Дитча.<end>
+
+=>a2_original
+How do you know my name?<end>
+
+=>a2
+Откуда ты знаешь как меня зовут?<end>
+
+=>q3_original
+Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
+
+=>q3
+О, я просто сказал наугад, и, судя по вашей реакции, попал в точку! ::Смеётся как свинья.:: Я шучу, шучу. Я знаю ваше имя... из прошлого. Как так? Что же, чтобы выяснить это, вам придётся мобилизовать всю мозговую мощь, что скрывается в вашем странной формы черепе.<end>
+
+=>q4_original
+Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
+
+=>q4
+Подумайте хорошенько, но не дайте вашей голове взорваться, человек. Это означало бы преждевременный конец нашей беседы, чего никто не хочет. Уж я-то точно.<end>
+
+=>a5_original
+Oh, well, nice to meet you. I suppose.<end>
+
+=>a5
+О, ну в таком случае, приятно познакомиться.<end>
+
+=>q6_original
+To tell you the truth, I'm just glad you didn't say something akin to: "Oh, my beloved mother - it's a talking pig! How odd is that! I'll point at you in amazement!" It just gets... tiresome after a while.<end>
+
+=>q6
+Сказать по правде, я рад, что вы не кричите что-нибудь вроде: «О, возлюбленная матерь, это говорящая свинья! Как же это необычно! Я буду показывать на тебя пальцем в изумлении!» Это просто так... утомляет со временем.<end>
+
+=>q7_original
+Anyway, human, shall we chat? What do you say to *that*? ::Giggles like a pig.::<end>
+
+=>q7
+Ну так что, человек, пообщаемся? Что ты скажешь на *это*? ::Хихикает как свинья.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+How did you know my name?<end>
+
+=>a9
+Откуда ты знаешь моё имя?<end>
+
+=>q10_original
+Oh, I just took a wild guess, and judging by your reaction - I believe got it right! ::Laughs like a pig.:: I jest, I jest. I know your name from... before. How so? Ah well, to figure that out you'll have to harness all that brainpower you've got in your oddly shaped skull.<end>
+
+=>q10
+О, я просто сказал наугад, и, судя по вашей реакции, попал в точку! ::Смеётся как свинья.:: Я шучу, шучу. Я знаю ваше имя... из прошлого. Как так? Что же, чтобы выяснить это, вам придётся мобилизовать всю мозговую мощь, что скрывается в вашем странной формы черепе.<end>
+
+=>q11_original
+Think hard - but don't let your head explode, human. It would mean a premature ending to our conversation, and no one wants that. I know I don't.<end>
+
+=>q11
+Подумайте хорошенько, но не дайте вашей голове взорваться, человек. Это означало бы преждевременный конец нашей беседы, чего никто не хочет. Уж я-то точно.<end>
+
+=>a12_original
+I'd like to know your opinion on city-related matters.<end>
+
+=>a12
+Я бы хотел$(#/а) узнать твоё мнение по городским делам.<end>
+
+=>q13_original
+Ah, why not!<end>
+
+=>q13
+Ах, почему бы и нет!<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+What can you tell me about Drop Zone?<end>
+
+=>a15
+Что ты можешь мне рассказать о Зоне провала?<end>
+
+=>q16_original
+The Drop Zone is a term for this... slum you and me are currently in. You see, human, Drop Zone was gradually consructed over the years as more and more of the poor humans were forced to live on the brinks of Core City. ::Snorts.:: Basically, these zoner humans were squeezed between society on one side and death by high velocity impacts on the other. One wrong step, and you fall to your doom.<end>
+
+=>q16
+Зона провала -- это название... этих трущоб, где мы в настоящее время находимся. Видите ли, человек, Зона провала постепенно строилась годами, когда всё больше и больше бедных людей вытеснялись на края Кор-Сити. ::Хрюкает.:: Можно сказать, эти люди-зонеры оказались зажаты между обществом с одной стороны и смертью от удара о грунт на высокой скорости -- с другой. Один неверный шаг, и ты упадёшь, на свою погибель.<end>
+
+=>q17_original
+Where the name for it comes from is apparent to you, I hope. You've probably heard terms like "dropping off" or "zoning out." That all originated because of this place. All in all, a horrible place to live, but I guess most of us are stuck here.
+
+Oh, Drop Zone... if it wasn't for that sweet, delicious barrel soup, I'd have absolutely nothing good to say about it! ::Snorts.::<end>
+
+=>q17
+Происхождение названия должно быть очевидно для вас, я надеюсь. Вы, должно быть, уже слышали такие термины, как «провалиться» или «отправить в зону». Они возникли благодаря этому месту. В целом, ужасное место для жизни, но, похоже, большинство из нас застряли здесь.
+
+О, Зона провала... Если бы не этот душистый, восхитительный суп из бочки, мне бы было абсолютно нечего хорошего сказать о тебе! ::Хрюкает.::<end>
+
+=>a18_original
+What can you tell me about the Arena?<end>
+
+=>a18
+Что ты можешь рассказать об Арене?<end>
+
+=>q19_original
+The Arena is a great way to pacify the impoverished masses, such as these zoner humans here in Drop Zone. You see, $(context.player.Name), when you can give the rabble something to occupy their - mostly - simple minds, you divert attention from other things. Like hunger, disease and rioting!<end>
+
+=>q19
+Арена -- это отличный способ усмирить беднейшие массы -- такие, как эти люди-зонеры в Зоне провала. Видите ли, $(context.player.Name), когда вы можете чем-то занять этот сброд, в основной массе скудный умом, их внимание отвлекается от других вещей. Вроде голода, болезней и беспорядков!<end>
+
+=>q20_original
+Also, the Arena fills the city's treasury room like... like... one of the zoner neighbors fills that sweet red barrel full of soup. The tantalizing smell! ::Snorts.:: Anyway, as you can see, the coins simply do not end up in the hands of zoner humans. And, well, once people are poor, they try to steal friendly pigs and eat them! Funnily, some humans eat other humans, like in the case of Lurker humans who sometimes emerge from the under-passages.<end>
+
+=>q20
+Кроме того, Арена наполняет городскую казну, как... как... один из соседей-зонеров наполняет ароматным супом ту красную бочку. Манящий запах! ::Хрюкает.:: В любом случае, как видите, деньги попросту не задерживаются в руках людей-зонеров. А бедные люди пытаются украсть дружелюбных свиней и съесть их! Забавно, что некоторые люди едят других людей, как в случае с людьми-скрытнями, которые иногда выходят из подземных проходов.<end>
+
+=>q21_original
+Zoner humans are bad, but I'd rather be surrounded by them than those kin-eating meanies. ::Snorts.::<end>
+
+=>q21
+Люди-зонеры плохие, но я предпочитаю быть среди них, чем с теми каннибалами. ::Хрюкает.::<end>
+
+=>a22_original
+What can you tell me about the Gauntlet?<end>
+
+=>a22
+Что ты можешь мне рассказать про Смертельный забег?<end>
+
+=>q23_original
+Just like the Arena, it's simply another way to waste people's energy on silly, meaningless and outright brutal entertainment. I just fail to see the point of humans running and fighting through some awfully dangerous rooms so that they may die horribly in the process. ::Snorts.::<end>
+
+=>q23
+Как и Арена, это просто ещё один способ направить энергию людей на глупые, бессмысленные и откровенно жестокие развлечения. Я просто не вижу смысла в беготне через очень опасные комнаты, в которых можно умереть ужасной смертью. ::Хрюкает.::<end>
+
+=>q24_original
+Ditch loves watching it nearly as much as the Arena. I keep trying to convince him otherwise, but he just doesn't seem to understand what I'm saying. I guess this human desire for carnage... heh, "beautiful" carnage is just too strong.<end>
+
+=>q24
+Дитч любит это смотреть, почти как Арену. Я пытаюсь переубедить его, но он, кажется, просто не понимает, о чём я говорю. Похоже, что это чисто человеческое стремление к резне -- хех, «прекрасной» резне -- слишком сильно.<end>
+
+=>a25_original
+What can you tell me about the Oligarchy?<end>
+
+=>a25
+Что ты можешь рассказать про олигархов?<end>
+
+=>q26_original
+The Oligarchy? ::Laughs.:: Ah, they are the reason Core City is so decadent. My dear human, you have no idea how horrible these men were, are, and will be until they all go belly up. All they care about is brainwashing people into watching that horrible Arena, so that they can do whatever they want while the average human is distracted by high-definition violence. ::Snorts.:: It makes perfect sense: It's all about power and money.<end>
+
+=>q26
+Олигархи? ::Смеётся.:: Ах, они являются причиной упадка Кор-Сити. Мой дорогой человек, вы не представляете, как ужасны эти люди были, есть и будут до тех пор, пока не склеят ласты. Всё, что их волнует, -- это промывка мозгов людям посредством этой ужасной Арены, чтобы им можно было делать всё, что они хотят, пока среднестатистический человек отвлечён просмотром насилия в высокой чёткости. ::Хрюкает.:: Это совершенно логично: всё вертится вокруг власти и денег.<end>
+
+=>q27_original
+Even what they have is not enough: They constantly work behind each other's backs, secretly sabotaging one another, but only up to a certain point - to keep each other in check. They never do anything openly, never to take full control of the city, because in the end, they need each other to keep on ruling this decadent place. Humans - they sure are complicated. ::Snorts.::<end>
+
+=>q27
+Даже того, что они имеют, недостаточно: они постоянно действуют друг у друга за спиной, тайно саботируют друг друга, но только до определённой степени -- чтобы держать друг друга в узде. Они никогда открыто не делают ничего, чтобы попытаться установить полный контроль над городом, потому что в конце концов они нужны друг другу, чтобы держать на плаву это насквозь прогнившее место. Люди -- какие же они сложные. ::Хрюкает.::<end>
+
+=>a28_original
+What can you tell me about Coretech?<end>
+
+=>a28
+Что ты можешь мне рассказать о КорТех?<end>
+
+=>q29_original
+::Snorts.:: Ah, Coretech... Humans will tell you that it's the successor to Biocorp, that they'll lead us into future with their advanced technology and shiny appliances! But no! They are corporate pigs-- err, I mean scum...<end>
+
+=>q29
+::Хрюкает.:: Ах, КорТех... Люди скажут вам, что это преемница Биокорп, что они ведут нас в будущее своими передовыми технологиями и блестящими игрушками! Но нет! Они корпоративные свиньи... э-э-э, то есть, мрази...<end>
+
+=>q30_original
+Seriously - they are owned by one of the Oligarchs, blast it! Bad humans they are, all of the Oligarchs. ::Snorts.::<end>
+
+=>q30
+Неудивительно, они ведь принадлежат одному из олигархов! Плохие они люди, все эти олигархи. ::Хрюкает.::<end>
+
+=>a31_original
+What can you tell me about JKK?<end>
+
+=>a31
+Что ты можешь мне рассказать о КБР?<end>
+
+=>q32_original
+Here's somethin-- ::Snorts.:: Pardon me! Here's something interesting about JKK: They are the worst. Alright, they broadcast the Arena, the Gauntlet, have the betting monopoly... That's all fine and dandy. But they are much more sinister than that!<end>
+
+=>q32
+Вот кое-что... ::Хрюкает.:: Прошу прощения! Вот вам кое-что интересное про КБР: они хуже всех. Ладно, они транслируют Арену, Смертельный забег, контролируют букмекерский бизнес... Это всё хорошо и гладко. Но на деле они гораздо более зловещи, чем эта обёртка!<end>
+
+=>q33_original
+Secret operations, assassinations, torture, sabotage, brainwashing! They know everything that's going on in the city - maybe even about this conversation - and if you get in their way, you get zoned out in a flash. Ah, I'll never understand you humans. Except for Ditch, but he's got that piggy-wiggy goodness in his heart. ::Snorts.::<end>
+
+=>q33
+Тайные операции, убийства, пытки, саботаж, промывка мозгов! Они знают всё, что происходит в городе, может быть, даже об этом разговоре и если вы встанете на их пути, отправитесь в зону в мгновение ока. Ах, я никогда не пойму вас, людей. Кроме Дитча, но у него есть присущая только свиньям безумная доброта в сердце. ::Хрюкает.::<end>
+
+=>a34_original
+What can you tell me about Praetorian Security?<end>
+
+=>a34
+Что ты можешь мне рассказать о Преторианской службе безопасности?<end>
+
+=>q35_original
+::Snorts.:: "Security." ::Laughs like a pig.:: No security there; don't fall for that, human. Maybe if one's wealthy and lives residential level of Core City and has his own personal security and a near-endless supply of consumables. Here? In Drop Zone? Never ever seen them enforce the law, well, other than that one group near the lower bridge; I have no idea why they're there.<end>
+
+=>q35
+::Хрюкает.:: «Безопасности». ::Смеётся как свинья.:: Нет там никакой безопасности, не ведитесь на это, человек. Возможно, если вы состоятельны и живёте в жилой зоне Кор-Сити, имеете свою личную охрану и почти бесконечный запас провианта. Здесь? В Зоне провала? Никогда не видел их на страже закона, кроме той одной группы, возле нижнего моста; я понятия не имею, что они там делают.<end>
+
+=>q36_original
+::Snorts.:: It's very sad, is it not?<end>
+
+=>q36
+::Хрюкает.:: Это очень печально, не правда ли?<end>
+
+=>a37_original
+What can you tell me about Hardcore City Bar?<end>
+
+=>a37
+Что ты можешь мне рассказать про бар Хардкор-Сити?<end>
+
+=>q38_original
+I never had the chance to visit it; Ditch is afraid someone is going to steal and eat me, so I never ever get a chance to leave this comfy room. Even if we ignore the previous statement, I just dislike the idea of visiting places like that. Drunk people are hungry, and I'm a pig. But I have heard stuff about the bar, though...<end>
+
+=>q38
+У меня не было возможности посетить его; Дитч боится, что кто-нибудь может украсть и съесть меня, так что я никогда не покидаю этой уютной комнаты. Даже если не принимать это в расчёт, мне просто не нравится мысль о посещении подобных мест. Пьяные люди голодны, а я свинья. Но я кое-что слышал о баре...<end>
+
+=>q39_original
+That it is hardcore, that it dominates and... that it's full of drunks. That's pretty much all I know. I'm one dull pig, I know. ::Snorts.::<end>
+
+=>q39
+Что он хардкорный, что он доминирует и... там полно алкашей. Это всё, что я могу сказать. Я довольно скучная свинья, я знаю. ::Хрюкает.::<end>
+
+=>a40_original
+What can you tell me about Tchortists?<end>
+
+=>a40
+Что ты можешь мне рассказать о чортистах?<end>
+
+=>q41_original
+What? I'm sorry, I don't know anything about "Tchortists."<end>
+
+=>q41
+Что? Простите, я ничего не знаю о «чортистах».<end>
+
+=>q42_original
+Is it edible? ::Snorts.::<end>
+
+=>q42
+Это что-то съедобное? ::Хрюкает.::<end>
+
+=>a43_original
+Maybe we should discuss something else.<end>
+
+=>a43
+Может быть, обсудим что-нибудь другое?<end>
+
+=>q44_original
+I accept your proposal. ::Snorts.::<end>
+
+=>q44
+Я принимаю ваше предложение. ::Хрюкает.::<end>
+
+=>a45_original
+What can you tell me about Ditch?<end>
+
+=>a45
+Что ты можешь мне рассказать о Дитче?<end>
+
+=>q46_original
+Ditch? Oh, he's an interesting human, indeed he is. The poor fellow really had a rough life: His whole family was slain by vile bandits when he was but a little boy, and after that horrifying event he was adopted by another human. Who was also killed some time later. Also by bandits, but not the same. I think. Horrible, simply horrible! ::Snorts.::
+
+These tragic events, as well as the hard life that soon followed, morphed him into one distinctive human. He is difficult to describe, though, and one needs to spend some time with him to "get" what he's all about.<end>
+
+=>q46
+Дитч? Да, он интересный человек, действительно. Жизнь жестоко обошлась с беднягой: когда он был маленьким мальчиком, вся его семья была убита мерзкими бандитами; после этого ужасающего случая его усыновил другой человек. И его тоже скоро убили. Тоже бандиты, но уже другие. Вроде бы. Ужасно, просто ужасно! ::Хрюкает.::
+
+Эти трагические события и тяжёлая жизнь, которая затем последовала, превратили его в непростого человека. Его трудно описать, нужно провести с ним некоторое время, чтобы понять, какой он.<end>
+
+=>a47_original
+How did you end up with him?<end>
+
+=>a47
+Как ты с ним связался?<end>
+
+=>q48_original
+Met him while running away from trouble; stayed with him for-- ::Snorts loudly.:: PARDON ME!<end>
+
+=>q48
+Встретил его, убегая от проблем; остался с ним ради... ::Громко хрюкает.:: ПРОШУ ПРОЩЕНИЯ!<end>
+
+=>q49_original
+What was I saying? Oh, yes: Stayed with him for his rather unique and interesting character.<end>
+
+=>q49
+Что я говорил? Ах, да: я остался с ним, поскольку он довольно уникальный и интересный персонаж.<end>
+
+=>q50_original
+And because he protects me from hungry humans. Indeed.<end>
+
+=>q50
+И ещё потому что он защищает меня от голодных людей. Точно.<end>
+
+=>a51_original
+Let's discuss something else.<end>
+
+=>a51
+Давай обсудим что-нибудь другое.<end>
+
+=>q52_original
+Sure. ::Snorts.::<end>
+
+=>q52
+Конечно. ::Хрюкает.::<end>
+
+=>a53_original
+Aren't you supposed to be dead?<end>
+
+=>a53
+Разве ты не должен быть мёртв?<end>
+
+=>q54_original
+Yes, your point is?<end>
+
+=>q54
+Да, а что?<end>
+
+=>a55_original
+Dead creatures don't talk.<end>
+
+=>a55
+Мёртвые не говорят.<end>
+
+=>q56_original
+Well now, apparently they do, human. What is wrong with you, have you been taking something funny?<end>
+
+=>q56
+Ну теперь, видимо, говорят, человек. Что с вами, вы под веществами?<end>
+
+=>q57_original
+Get a hold of yourself, $(#man/woman)!<end>
+
+=>q57
+Держите себя в руках, $(#мужчина/женщина)!<end>
+
+=>a58_original
+Never mind.<end>
+
+=>a58
+Неважно.<end>
+
+=>q59_original
+That was a strange question...<end>
+
+=>q59
+Это был странный вопрос...<end>
+
+=>a60_original
+How do you feel about the Faceless invasion?<end>
+
+=>a60
+Что ты думаешь по поводу вторжения безликих?<end>
+
+=>q61_original
+Invasion? Don't know anything about that. I... Now that I think about it, I *did* hear some zoner humans yelling: "Faceless! Faceless!" but I thought they were just killing some other zoner human and ripping his face off. It happens.<end>
+
+=>q61
+Вторжения? Ничего об этом не знаю. Я... Хотя, если подумать, я *слышал*, как какие-то люди-зонеры орали: «Безликие! Безликие!», но я думал, что они просто убивают других людей-зонеров и отрывают им лица. Такое бывает.<end>
+
+=>q62_original
+::Snorts.:: Silly zoner humans...<end>
+
+=>q62
+::Хрюкает.:: Глупые люди-зонеры...<end>
+
+=>a63_original
+See you later, Oinko.<end>
+
+=>a63
+Ещё увидимся, Хрюк.<end>
+
+=>q64_original
+See you later, human.<end>
+
+=>q64
+Ещё увидимся, человек.<end>
+
+=>a65_original
+You can talk!?<end>
+
+=>a65
+Ты говоришь?!<end>
+
+=>q66_original
+Let me check that for a second... ::Clears throat.:: Testing... Testing... Yes, your statement seems correct - I can actually talk! Never noticed that. Thank you for bringing it to my attention, human. Really perceptive of you. Yes.<end>
+
+=>q66
+Дайте секунду, проверить... ::Откашливается.:: Проба... Раз, раз... Да, ваше утверждение выглядит верным -- я на самом деле могу говорить! Никогда не замечал. Спасибо вам, что обратили на это моё внимание, человек. Вы необычайно проницательны. Да.<end>
+
+=>a67_original
+No need to be a jerk about it. I never had the chance to talk to a pig before.<end>
+
+=>a67
+Незачем так издеваться. Мне раньше не доводилось говорить со свиньёй.<end>
+
+=>q68_original
+Agh. Look, being viewed as a jerk most definitely wasn't my intention. Sincerely. You have a point, maybe I did overreact a bit there. Let's just forget about this and start anew, shall we?<end>
+
+=>q68
+Ё. Послушайте, издеваться над вами определённо не входило в мои намерения. Честно. Вы правы, возможно я немного перегибаю палку. Давайте просто забудем об этом и начнём всё заново, хорошо?<end>
+
+=>q69_original
+I'm sure we can find better topics to discuss.<end>
+
+=>q69
+Я уверен, мы сможем найти темы, более достойные обсуждения.<end>
+
+=>a70_original
+I apologize, it's just that I've never talked to a pig.<end>
+
+=>a70
+Я прошу прощения, просто я ещё никогда не говорил$(#/а) со свиньёй.<end>
+
+=>q71_original
+Ah, well, in all honesty - I might have overreacted in this instance. I too apologize for that; let's forget about all this and simply start anew, shall we?<end>
+
+=>q71
+Ах, ну, положа руку на сердце, возможно я погорячился. Я тоже извиняюсь; давайте просто забудем об этом и начнём всё заново, хорошо?<end>
+
+=>a72_original
+A talking pig? Is this some kind of trick!?<end>
+
+=>a72
+Говорящая свинья? Это какой-то фокус?!<end>
+
+=>q73_original
+"A talking human? Is this some trick?" Now, I hope you realize how utterly ridiculous that sounds, am I right? Yes, I CAN speak, human, and I simply fail to see what all the fuss is about. ::Sighs.:: Always the same...<end>
+
+=>q73
+Говорящий человек? Это какой-то фокус? Теперь, я надеюсь, вы понимаете, как смешно это звучит, правда? Да, я МОГУ говорить, человек, и я просто не понимаю, с чего такая суета. ::Вздыхает.:: Всегда одно и то же...<end>
+
+=>a74_original
+I'm starving! I hope you won't mind if I take a few bites out of ya. ::Attack!::<end>
+
+=>a74
+Я умираю с голоду! Надеюсь, ты не будешь возражать, если я укушу тебя пару раз. ::Напасть!::<end>
+
+=>q75_original
+::Horrified eyes begin a nervous dance.::
+
+Oink!<end>
+
+=>q75
+::Его испуганные глаза начинают нервный танец.::
+
+Ойнк!<end>
+
+=>a76_original
+::Attack!::<end>
+
+=>a76
+::Напасть!::<end>
+
+=>a77_original
+Nice to meet you. I suppose...<end>
+
+=>a77
+Приятно познакомиться. Наверное...<end>
+
+=>q78_original
+Ah, back for more chatting, human?<end>
+
+=>q78
+Ах, вы вернулись ещё поболтать, человек?<end>
+
+=>q79_original
+Snort!<end>
+
+=>q79
+Хрю!<end>
+

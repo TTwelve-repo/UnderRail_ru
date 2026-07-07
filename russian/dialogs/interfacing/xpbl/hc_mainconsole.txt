@@ -1,0 +1,294 @@
+﻿=>q1_original
+::LEMCO LC387 - ::<end>
+
+=>q1
+::ЛЕМКО LC387 - ::<end>
+
+=>q2_original
+::Welcome, P. Bridges
+
+::
+
+<end>
+
+=>q2
+::Добро пожаловать, Ф. Бриджес
+
+::
+<end>
+
+=>q3_original
+::Nursery 1 status: 
+   Temperature: 43.6° (avg.)
+   Humidity: sensor data unavailable!
+   Illumination: 24 lx (avg.)
+
+Nursery 2 status: 
+   Temperature: 32.3° (avg.)
+   Humidity: 52.7% (avg.)
+   Illumination: sensor data unavailable!
+   
+Nursery 3 status: 
+   Temperature: 39.1° (avg.)
+   Humidity: 57.4% (avg.)
+   Illumination: 17 lx (avg.)::<end>
+
+=>q3
+::Рассадник 1 статус: 
+   Температура: 43.6° (средн.)
+   Влажность: данные датчика недоступны!
+   Освещение: 24 лк (средн.)
+
+Рассадник 2 статус: 
+   Температура: 32.3° (средн.)
+   Влажность: 52.7% (средн.)
+   Освещение: данные датчика недоступны!
+   
+Рассадник 3 статус: 
+   Температура: 39.1° (средн.)
+   Влажность: 57.4% (средн.)
+   Освещение: 17 лк (средн.)::<end>
+
+=>q4_original
+::Irrigation: Auto (sensor data unavailable!)
+Fertilization: Auto (fertilizer mixture canisters need replacement!)
+
+::<end>
+
+=>q4
+::Орошение: авто (данные датчика недоступны!)
+Удобрение: авто (канистры со смесью удобрений нуждаются в замене!)
+
+::<end>
+
+=>q5_original
+::Ventilation: Manual (on for all nurseries)::<end>
+
+=>q5
+::Вентиляция: ручное управление (включено для всех рассадников)::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+::Ventilation system management::<end>
+
+=>a7
+::Управление системой вентиляции::<end>
+
+=>q8_original
+::Ventilation control: Manual
+
+Nursery 1 ventilation unit: On
+Nursery 2 ventilation unit: On
+Nursery 3 ventilation unit: On::<end>
+
+=>q8
+::Управление вентиляцией: ручное
+
+Вентиляционная установка рассадника 1: вкл.
+Вентиляционная установка рассадника 2: вкл.
+Вентиляционная установка рассадника 3: вкл.::<end>
+
+=>a9_original
+::Back::<end>
+
+=>a9
+::Назад::<end>
+
+=>q10_original
+::Ventilation control: Manual
+
+Nursery 1 ventilation unit: Off
+Nursery 2 ventilation unit: Off
+Nursery 3 ventilation unit: Off::<end>
+
+=>q10
+::Управление вентиляцией: ручное
+
+Вентиляционная установка рассадника 1: откл.
+Вентиляционная установка рассадника 2: откл.
+Вентиляционная установка рассадника 3: откл.::<end>
+
+=>a11_original
+::Turn on ventilation units::<end>
+
+=>a11
+::Включить вентиляционные установки::<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+::Turning on ventilation units...
+
+Turning on ventilation unit for Nursery 1... Success.
+Turning on ventilation unit for Nursery 2... Success.
+Turning on ventilation unit for Nursery 3... Success.::<end>
+
+=>q13
+::Включение вентиляционных установок...
+
+Включение вентиляционной установки рассадника 1... Успешно.
+Включение вентиляционной установки рассадника 2... Успешно.
+Включение вентиляционной установки рассадника 3... Успешно.::<end>
+
+=>q14_original
+::You do not have permission to perform this action. Minimum clearance level required is C-3.::<end>
+
+=>q14
+::У вас нет разрешения на выполнение этого действия. Минимальный требуемый уровень допуска - С-3.::<end>
+
+=>a15_original
+::[Hacking] Turn on ventilation units.::<end>
+
+=>a15
+::[Хакерство] Включить вентиляционные установки::<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>q17_original
+::Unknown error! Logging...
+
+::<end>
+
+=>q17
+::Неизвестная ошибка! Сохранение лога...
+
+::<end>
+
+=>a18_original
+::Back::<end>
+
+=>a18
+::Назад::<end>
+
+=>a19_original
+::Main::<end>
+
+=>a19
+::Главная::<end>
+
+=>a20_original
+::Irrigation system management::<end>
+
+=>a20
+::Управление системой орошения::<end>
+
+=>q21_original
+::Irrigation control: Auto
+
+Sensor data unavailable! Please contact HTS.::<end>
+
+=>q21
+::Управление орошением: автоматическое
+
+Данные датчиков недоступны! Пожалуйста, свяжитесь с техподдержкой.::<end>
+
+=>a22_original
+::Fertilization system management::<end>
+
+=>a22
+::Управление системой удобрения::<end>
+
+=>q23_original
+::Fertilizer administration: Auto
+
+Fertilizer canisters (CH9) - All empty. Please replace.
+
+Fertilizer canisters (CH9-S) - All empty. Please replace.
+
+Fertilizer canisters (NAH5) - All empty. Please replace.
+
+Fertilizer canisters (ASO12) - All empty. Please replace.
+
+Fertilizer canisters (DT3) - All empty. Please replace.
+
+Fertilizer canisters (DT4) - All empty. Please replace.::<end>
+
+=>q23
+::Введение удобрений: автоматическое
+
+Канистры с удобрением (СН9) - все пустые. Пожалуйста, замените.
+
+Канистры с удобрением (CH9-S) - все пустые. Пожалуйста, замените.
+
+Канистры с удобрением (NAH5) - все пустые. Пожалуйста, замените.
+
+Канистры с удобрением (ASO12) - все пустые. Пожалуйста, замените.
+
+Канистры с удобрением (DT3) - все пустые. Пожалуйста, замените.
+
+Канистры с удобрением (DT4) - все пустые. Пожалуйста, замените.::<end>
+
+=>a24_original
+::Pesticide administration system management::<end>
+
+=>a24
+::Управление системой введения пестицидов::<end>
+
+=>q25_original
+::Pesticide administration: Disabled
+
+Note: Automated pesticide administration disabled until further notice. All UHI-X-400 pesticide canisters (active and passive) have been moved to Cryostorage Block 1.::<end>
+
+=>q25
+::Введение пестицидов: отключено
+
+Примечание: автоматическое введение пестицидов отключено до дальнейших распоряжений. Все канистры с пестицидами UHI-X-400 (активные и пассивные) были перемещены в блок криохранилища 1.::<end>
+
+=>a26_original
+::Summon available strongman::<end>
+
+=>a26
+::Вызвать доступного силача::<end>
+
+=>q27_original
+::No available strongmen detected. Your request has been placed in a queue.::<end>
+
+=>q27
+::Доступных силачей не обнаружено. Ваш запрос помещён в очередь.::<end>
+
+=>a28_original
+::Summon available handmaiden::<end>
+
+=>a28
+::Вызвать доступную служанку::<end>
+
+=>q29_original
+::No available handmaidens detected. Your request has been placed in a queue.::<end>
+
+=>q29
+::Доступных служанок не обнаружено. Ваш запрос помещён в очередь.::<end>
+
+=>a30_original
+::Exit::<end>
+
+=>a30
+::Выход::<end>
+
+=>q31_original
+::Ventilation: Manual (off for all nurseries)::<end>
+
+=>q31
+::Вентиляция: ручное управление (выключено для всех рассадников)::<end>
+
+=>q32_original
+::Welcome, guest::
+
+<end>
+
+=>q32
+::Добро пожаловать, гость::
+<end>
+

@@ -1,0 +1,370 @@
+﻿=>q1_original
+::LEMCO L-MSU-P4 - Medication Synthesis Unit
+
+This unit is a working prototype and as such might exhibit errors during operation. Contact us at nexus.medtech.medsynth for problem reporting and suggestions. 
+
+Please select the item you want to synthesize. The percentage of total MedSynth chemical content required for synthesis is displayed next to each item.
+
+::<end>
+
+=>q1
+::ЛЕМКО L-MSU-P4 - Медицинский синтезатор
+
+Данное устройство является прототипом, в связи с чем в его работе возможно возникновение ошибок. Свяжитесь с нами через нексус.медтех.медсинт, чтобы сообщить о проблемах или предложениях.
+
+Выберите предмет, который вы желаете синтезировать. Процент от общего количества химического вещества, содержащего в МедСинте, необходимый для синтеза, указан рядом с каждым из предметов.
+
+::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::MSCC gauge level: $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::<end>
+
+=>q3
+::Уровень хим. в-ва в МС: $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::<end>
+
+=>q4_original
+:: - Please replace the MedSynth chemical canister.::<end>
+
+=>q4
+:: - Замените в МедСинте бак для химических веществ.::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::Synthesize antidote (-5%)::<end>
+
+=>a6
+::Синтезировать противоядие (-5%)::<end>
+
+=>q7_original
+::Preparing container... Done.
+
+Synthesizing...
+ 
+Synthesis successful. Please collect your item from the deposit tray.::<end>
+
+=>q7
+::Подготовка контейнера... Выполнено.
+Синтезирование...
+Синтез прошёл успешно. Пожалуйста, заберите ваш продукт из лотка выдачи.::<end>
+
+=>a8_original
+::Synthesize health hypo (-5%)::<end>
+
+=>a8
+::Синтезировать стимулятор (-5%)::<end>
+
+=>a9_original
+::Synthesize advanced health hypo (-10%)::<end>
+
+=>a9
+::Синтезировать улучшенный стимулятор (-10%)::<end>
+
+=>a10_original
+::Synthesize morphine shot (-10%)::<end>
+
+=>a10
+::Синтезировать инъекцию морфина (-10%)::<end>
+
+=>a11_original
+::Synthesize adrenaline shot (-10%)::<end>
+
+=>a11
+::Синтезировать инъекцию адреналина (-10%)::<end>
+
+=>a12_original
+::Synthesize psi booster (-5%)::<end>
+
+=>a12
+::Синтезировать пси-усилитель (-5%)::<end>
+
+=>a13_original
+::Synthesize desaturated psionic inhalant (-5%)::<end>
+
+=>a13
+::Синтезировать ненасыщенный псионический ингалянт (-5%)::<end>
+
+=>a14_original
+::Synthesize irongut (-15%)::<end>
+
+=>a14
+::Синтезировать стальной желудок (-15%)::<end>
+
+=>a15_original
+::Synthesize coagulation shot (-15%)::<end>
+
+=>a15
+::Синтезировать коагуляционную инъекцию (-15%)::<end>
+
+=>a16_original
+::Other medication::<end>
+
+=>a16
+::Другие препараты::<end>
+
+=>q17_original
+::Synthesis of these types of medication is currently disabled. Check work log for more information.::<end>
+
+=>q17
+::Синтез препаратов данного типа в настоящее время отключён. Проверьте рабочий журнал для получения дополнительной информации.::<end>
+
+=>a18_original
+::[Hacking] Enable synthesis of more medication types::<end>
+
+=>a18
+::[Хакерство] Включить синтез дополнительных типов препаратов.<end>
+
+=>q19_original
+::Please wait...::<end>
+
+=>q19
+::Пожалуйста, подождите...::<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+::Warning: Synthesis of these types of medication hasn't been fully tested and could result in malsynthesized substances or even complete synthesis failures!
+
+::<end>
+
+=>q21
+::Внимание: синтез препаратов данного типа не был полностью протестирован, что может привести к ошибочному синтезу другого вещества и даже полному сбою синтеза!
+
+::<end>
+
+=>q22_original
+::MSCC gauge level: $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::<end>
+
+=>q22
+::Уровень хим. в-ва в МС: $(context.loc_xpbl_rf_medicationSynthesisCanisterCharge)%::<end>
+
+=>q23_original
+:: - Please replace the canister.::<end>
+
+=>q23
+:: - Пожалуйста, замените канистру.::<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>a25_original
+::Synthesize focus stim (-15%)::<end>
+
+=>a25
+::Синтезировать стимулятор внимания (-15%)::<end>
+
+=>q26_original
+::Preparing container... Done.
+
+Synthesizing...
+
+::<end>
+
+=>q26
+::Подготовка контейнера... Готово.
+
+Синтезирование...
+
+::<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>q28_original
+::Synthesis unsuccessful!
+
+Disposing of waste product...
+
+Waste disposal successful.::<end>
+
+=>q28
+::Синтез не выполнен!
+
+Утилизация отходов...
+
+Утилизация отходов прошла успешно.::<end>
+
+=>q29_original
+::Synthesis data has been logged for evaluation.
+
+::<end>
+
+=>q29
+::Синтез данных был зарегистрирован для определения качества.
+
+::<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>q31_original
+::Synthesis successful. Please collect your item from the deposit tray.::<end>
+
+=>q31
+::Синтез выполнен успешно. Пожалуйста, заберите продукт из лотка выдачи.::<end>
+
+=>a32_original
+::Synthesize super health hypo (-15%)::<end>
+
+=>a32
+::Синтезировать суперстимулятор (-15%)::<end>
+
+=>q33_original
+::Preparing container... Done.
+
+Synthesizing...
+
+::<end>
+
+=>q33
+::Подготовка контейнера... Готово.
+
+Синтезирование...
+
+::<end>
+
+=>q34_original
+<end>
+
+=>q34
+<end>
+
+=>q35_original
+<end>
+
+=>q35
+<end>
+
+=>a36_original
+::Synthesize supersoldier drug (-25%)::<end>
+
+=>a36
+::Синтезировать сыворотку сверхсолдата (-25%)::<end>
+
+=>q37_original
+::Preparing container... Done.
+
+Synthesizing...
+
+::<end>
+
+=>q37
+::Подготовка контейнера... Готово.
+
+Синтезирование...
+
+::<end>
+
+=>q38_original
+<end>
+
+=>q38
+<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>a40_original
+::Synthesize psi reinvigorator (-30%)::<end>
+
+=>a40
+::Синтезировать пси-ативатор (-30%)::<end>
+
+=>q41_original
+::Preparing container... Done.
+
+Synthesizing...
+
+::<end>
+
+=>q41
+::Подготовка контейнера... Готово.
+
+Синтезирование...
+
+::<end>
+
+=>q42_original
+<end>
+
+=>q42
+<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+::Back::<end>
+
+=>a44
+::Назад::<end>
+
+=>q45_original
+::Unknown error! 
+
+Rebooting...::<end>
+
+=>q45
+::Неизвестная ошибка! 
+
+Перезагрузка...::<end>
+
+=>a46_original
+::Synthesize focus stim (-15%)::<end>
+
+=>a46
+::Синтезировать стимулятор внимания (-15%)::<end>
+
+=>a47_original
+::Synthesize super health hypo (-15%)::<end>
+
+=>a47
+::Синтезировать суперстимулятор (-15%)::<end>
+
+=>a48_original
+::Synthesize supersoldier drug (-25%)::<end>
+
+=>a48
+::Синтезировать сыворотку сверхсолдата (-25%)::<end>
+
+=>a49_original
+::Synthesize psi reinvigorator (-30%)::<end>
+
+=>a49
+::Синтезировать пси-ативатор (-30%)::<end>
+
+=>a50_original
+::Exit::<end>
+
+=>a50
+::Выход::<end>
+

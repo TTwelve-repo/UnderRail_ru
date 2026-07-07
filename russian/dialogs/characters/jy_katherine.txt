@@ -1,0 +1,428 @@
+﻿=>q1_original
+Alright, I fixed the necklace as best as I could. Receiver should still work, but you'll only be able to pinpoint the location at short distances.<end>
+
+=>q1
+Ладно, я починила ожерелье, насколько смогла. Приёмник должен всё ещё работать, но ты сможешь определить местоположение только на небольшой дистанции.<end>
+
+=>q2_original
+No luck with the emitter component, but perhaps that's for the best. You don't know who might be, heh, holdin' the other receiver, if you dig.<end>
+
+=>q2
+Не повезло с компонентой-излучателем, но, возможно, это и к лучшему. Как знать, кто может владеть вторым приёмником.<end>
+
+=>q3_original
+::A young, slender, tall redhead stands before you. She addresses you with a rather thick accent.::
+
+I see you ain't from around here, $(#slick/sis). I'm Katherine, and I run this little shop. You here lookin' for some electronics, maybe?<end>
+
+=>q3
+::Перед вами стоит молодая, стройная, высокая рыжеволосая девушка. Она обращается к вам с довольно сильным акцентом.::
+
+Вижу, ты не местн$(#ый/ая), $(#красавчик/сестрёнка). Я Кэтрин, и это мой маленький магазин. Ты ищешь какую-нибудь электронику, быть может?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Show me what you have. ::Barter.::<end>
+
+=>a5
+Покажите мне, что у вас есть. ::Обмен.::<end>
+
+=>a6_original
+Hey, Katherine, do you know what this is? ::Show her the damaged necklace.::<end>
+
+=>a6
+Эй, Кэтрин, вы знаете, что это? ::Показать ей повреждённое ожерелье.::<end>
+
+=>q7_original
+Lemme see. ::She inspects the necklace.::<end>
+
+=>q7
+Дай-ка взглянуть. ::Она осматривает ожерелье.::<end>
+
+=>q8_original
+Hmmmm... I've... yeah, I've seen these before. It's one of them tracker-emitter necklaces. Folks that wanted to make sure not to lose each other in Underrail - like scavengers, for example - used to make these.<end>
+
+=>q8
+Я видела такие прежде. Это ожерелье -- трекер-излучатель. Раньше такие делали люди, которые хотели гарантию, что не потеряют друг друга в Подземке -- например мусорщики.<end>
+
+=>q9_original
+This one seems to be one part of a pair. It's basically both a receiver and an emitter so either necklace of the pair can be used to track the other one.<end>
+
+=>q9
+Это, кажется, одно из пары. В нём есть и приёмник и излучатель, так что любое ожерелье из пары может быть использовано для отслеживания второго.<end>
+
+=>q10_original
+::She pauses, taking a look at the necklace again.:: Not any more, obviously, since the thing is broken.<end>
+
+=>q10
+::Она делает паузу, снова взглянув на ожерелье.:: Уже видимо нет, так как вещь сломана.<end>
+
+=>a11_original
+Can you repair it?<end>
+
+=>a11
+Ты можешь его отремонтировать?<end>
+
+=>q12_original
+The receiver... possibly. But I doubt it's gonna be workin' as well as it used to. I mean... that's the way things are. Emitter is way beyond repair, though. All in all, the fixin' would cost you fifteen charons. Interested?<end>
+
+=>q12
+Приёмник... возможно. Но я сомневаюсь, что он будет работать так же хорошо, как раньше. Я имею в виду... так уж получилось. Но излучатель уже не восстановить. В общем, починка будет стоить тебе пятнадцать харонов. Интересует?<end>
+
+=>a13_original
+Sure, here's fifteen. ::Give her 15 stygian coins::<end>
+
+=>a13
+Конечно, вот пятнадцать. ::Дать ей 15 стигийских монет::<end>
+
+=>q14_original
+Alright, lemme see what I can do.<end>
+
+=>q14
+Ладно, давай посмотрим, что я могу сделать.<end>
+
+=>a15_original
+::End Dialog::<end>
+
+=>a15
+::Завершить диалог.::<end>
+
+=>a16_original
+Perhaps later.<end>
+
+=>a16
+Возможно позже.<end>
+
+=>q17_original
+Fine with me. I'm gonna be here if you change your mind.<end>
+
+=>q17
+Как хочешь. Я буду здесь, если передумаешь.<end>
+
+=>a18_original
+Alright, thanks for the info.<end>
+
+=>a18
+Хорошо, спасибо за информацию.<end>
+
+=>a19_original
+So, can you repair this damaged necklace?<end>
+
+=>a19
+Так ты можешь восстановить это повреждённое ожерелье?<end>
+
+=>a20_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a20
+Торговцы здесь принимают только стигийские монеты? Где мне их взять?<end>
+
+=>q21_original
+Yeah, look for a Black Eel by the name of Colton. Colton. He can set you up for some charons if you provide him other currencies.<end>
+
+=>q21
+Ищи Чёрного угря по имени Колтон. Он может снабдить тебя харонами, в обмен на другую валюту.<end>
+
+=>a22_original
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>a22
+Скажите, у вас случайно нет контроллера бурового ротора класса Броненосец?<end>
+
+=>q23_original
+No drill parts, sorry. Ain't got anythin' of the kind.<end>
+
+=>q23
+Деталей для бура нет, извини. Ничего такого.<end>
+
+=>q24_original
+Good luck findin' it, though. That junk's *old*. 
+
+I've only ever seen one... yeah, one Armadillo, and that thing was stripped down to the bone. All the way to the bone, $(#slick/sis).<end>
+
+=>q24
+И удачи в поисках. Это *старый* хлам.
+
+Я встречала только один... да, один Броненосец, и эта штука была разобрана до костей. До самых костей, $(#красавчик/сестрёнка).<end>
+
+=>a25_original
+Any hints as to where I should look?<end>
+
+=>a25
+Есть какие-нибудь идеи, где можно поискать?<end>
+
+=>q26_original
+Well, uh, I mean, you can try the bigger junk merchants at the docks and the Depot B. If that fails, there might be one somewhere in Depot A, but it ain't worth riskin' your neck.<end>
+
+=>q26
+Ну, ты можешь попробовать обойти основных торговцев хламом на пристани и на Складе Б. Если эта затея провалится, возможно, такая деталь есть где-нибудь на Складе А, но это не стоит того, чтобы рисковать собственной шеей.<end>
+
+=>a27_original
+What's so bad about Depot A?<end>
+
+=>a27
+Что такого плохого на Складе А?<end>
+
+=>q28_original
+Rabid mutated dogs for starters, that much I know myself. Granted, I've never been too far in, but those who *have* and returned in one piece claim there are also rogue turrets, mine fields and even mutated folks in there. All sorts of freakin' dangerous stuff.<end>
+
+=>q28
+Бешеные мутировавшие собаки для начала, это я точно гарантирую. Конечно, я никогда не заходила далеко, но те кто ходил *и* возвращался целыми, рассказывали также о взбесившихся турелях, минных полях и даже о мутировавших людях. О всяких долбанутых опасных штуках.<end>
+
+=>q29_original
+If you really want to check it out for yourself, you gonna have to convince Scrappers to let you in, 'cause the entrance to Depot A is, well, it is from within their base.<end>
+
+=>q29
+Если ты действительно так хочешь поискать там, тебе придётся убедить Утильщиков пропустить тебя, потому что вход на Склад А находится на их базе.<end>
+
+=>a30_original
+Before I leave, there was something else I wanted to ask you.<end>
+
+=>a30
+Перед уходом я хотел$(#/а) спросить кое о чём ещё.<end>
+
+=>q31_original
+Shoot.<end>
+
+=>q31
+Валяй.<end>
+
+=>a32_original
+I see. Appreciate the info. I'll be on my way now.<end>
+
+=>a32
+Ясно. Спасибо за информацию. Я тогда пойду.<end>
+
+=>a33_original
+Thanks for the tips. Gotta run now.<end>
+
+=>a33
+Спасибо за советы. Надо бежать.<end>
+
+=>a34_original
+Thanks. I feel I'm going to need it.<end>
+
+=>a34
+Спасибо. Чувствую, она мне понадобится.<end>
+
+=>a35_original
+How come your store is here in the slums?<end>
+
+=>a35
+Как вышло, что вы открыли магазин здесь, в трущобах?<end>
+
+=>q36_original
+This the only buildin' I could get my hands on.<end>
+
+=>q36
+Это единственное строение, которое я смогла заполучить.<end>
+
+=>q37_original
+And it ain't that bad, $(#slick/sis), seriously. There ain't any really comfortable place to live in Junkyard unless you one of the wealthier merchants with a place in the residential district, or a high rankin' gangster.<end>
+
+=>q37
+Всё не так уж плохо. На Свалке не существует удобных мест для жизни, если только ты не один из богатых торговцев с домом в жилой зоне или высокопоставленный гангстер.<end>
+
+=>a38_original
+So how's life in the slums?<end>
+
+=>a38
+Ну и как жизнь в трущобах?<end>
+
+=>q39_original
+For me, it's alright. I make enough coin from tradin' with the local customers and folks from the outside. Yeah, it's alright.<end>
+
+=>q39
+У меня всё в порядке. Я зарабатываю достаточно денег на торговле с местными клиентами и приезжими. Да, всё хорошо.<end>
+
+=>q40_original
+But for those poor saps out there it must be terrible. They're surrounded by heavily armed men from all sides. They can do little to protect themselves. <end>
+
+=>q40
+Но для здешних бедных олухов это должно быть ужасно. Они окружены вооружёнными людьми со всех сторон, но мало что могут сделать, чтобы защитить себя.<end>
+
+=>q41_original
+I mean, it's bad enough they gotta keep an eye out for their neighbors that might knife them in their sleep for a piece of cave hopper meat or an eel, or some petty coin - or just 'cause they derailed, but gangsters and thugs also sweep in from time to time to take whatever they fancy.<end>
+
+=>q41
+Мало того, что они должны опасаться своих соседей, которые могут зарезать их во сне ради угря или куска мяса пещерника, но бандиты и головорезы тоже заходят время от времени, забирая всё, что им понравится.<end>
+
+=>q42_original
+The Protectorate promises to bring the Union laws and protection, but so far nothin' has changed. Nothin'. Lotsa hobos just take to the caves instead, spelunkin' around, and maybe they right in doing so. Heck, they might not find more safety, but at least there's more food to be found out there.<end>
+
+=>q42
+Протекторат обещает принести законы Союза и защиту, но до сих пор ничего не изменилось. Многие бродяги просто бегут в пещеры вместо этого, и, возможно, они правы. Там не менее опасно чем здесь, но по крайней мере больше пищи.<end>
+
+=>a43_original
+I'm looking for a guy named Blaine. Seen him around?<end>
+
+=>a43
+Я ищу парня по имени Блэйн. Не знаете такого?<end>
+
+=>q44_original
+Mmm... maybe, *maybe*. What's it worth to you?<end>
+
+=>q44
+М-м-м... может быть. Насколько это тебя интересует?<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>a46_original
+::[Persuade]:: Let's say I'll owe you a favor if you point me in the right direction.<end>
+
+=>a46
+::[Убеждение]:: Допустим, я буду у тебя в долгу, если укажешь мне верное направление.<end>
+
+=>q47_original
+Hmm... alright. That might come in handy.<end>
+
+=>q47
+Хм... ладно. Это может пригодиться.<end>
+
+=>q48_original
+Look for him in the Lower Underrail near SGS. He has his shop of sorts in the under-passage there. Not everyone can get in, though. You gonna have to ring the intercom two times quickly, once long and then two times quickly again. Dig that? Two quick, one long, two quick and you in.<end>
+
+=>q48
+Ищи его в Нижней Подземке рядом с ССГ. У него там что-то вроде магазина в нижних проходах, но не каждый может попасть внутрь. Тебе нужно сделать два коротких звонка в интерком, потом один длинный и ещё два коротких. Понятно? Два коротких, один длинный, два коротких, и тебя пропустят внутрь.<end>
+
+=>a49_original
+I dig. Thanks, sis.<end>
+
+=>a49
+Ус$(#ёк/екла). Спасибо, сестрёнка.<end>
+
+=>a50_original
+I understand. I'll see you around, Katherine.<end>
+
+=>a50
+Я понял$(#/а). Увидимся, Кэтрин.<end>
+
+=>q51_original
+No deal, $(#slick/sis). You gonna have to do better than that.<end>
+
+=>q51
+Не пойдёт, $(#красавчик/сестрёнка). Тебе придётся предложить что-нибудь получше.<end>
+
+=>a52_original
+Got some charons here I'm looking to spend. What's you price?<end>
+
+=>a52
+У меня есть несколько харонов, и я ищу, как их потратить. Сколько ты хочешь?<end>
+
+=>q53_original
+Gimme a hundred of those and I'll tell you where to find him.<end>
+
+=>q53
+Дай мне сотню, и я скажу где его найти.<end>
+
+=>a54_original
+Fine, here you go. ::Give her 100 stygian coins.::<end>
+
+=>a54
+Хорошо, вот, держите. ::Дать ей 100 стигийских монет.::<end>
+
+=>q55_original
+Look for him in the Lower Underrail, near SGS. He got his shop of sorts in the under-passage there. Not everyone can get in, though. You gonna have to ring the intercom two times quickly, once long and then two times quickly again. Dig that? Two quick, one long, two quick and you in.<end>
+
+=>q55
+Ищи его в Нижней Подземке рядом с ССГ. У него там что-то вроде магазина в нижних проходах. Не каждый может попасть внутрь, тебе нужно позвонить в интерком два раза коротко, потом один длинный и ещё два коротких. Понятно? Два быстрых, один длинный, два быстрых, и ты внутри.<end>
+
+=>a56_original
+::[Mercantile]:: I'll give you fifty and a big smile.<end>
+
+=>a56
+::[Торговля]:: Предлагаю пятьдесят и широкую улыбку.<end>
+
+=>q57_original
+Seventy-five, keep the smile.<end>
+
+=>q57
+Семьдесят пять. И можешь приберечь улыбку.<end>
+
+=>a58_original
+Deal! ::Give her 75 stygain coins.::<end>
+
+=>a58
+Договорились! ::Дать ей 75 стигийских монет.::<end>
+
+=>a59_original
+Forget it.<end>
+
+=>a59
+Забудь.<end>
+
+=>q60_original
+No way. One hundred or forget it.<end>
+
+=>q60
+Не пойдёт. Сотня или забудь.<end>
+
+=>a61_original
+Alright, here you go. ::Give her 100 stygian coins.::<end>
+
+=>a61
+Хорошо, возьми. ::Дать ей 100 стигийских монет.::<end>
+
+=>a62_original
+I'll pass.<end>
+
+=>a62
+Я пас.<end>
+
+=>a63_original
+That's a bit too steep for me.<end>
+
+=>a63
+Это немного дороговато для меня.<end>
+
+=>q64_original
+Oh, yeah? Well too bad. Come back when you richer, you hear?<end>
+
+=>q64
+Ах, так? Что ж, очень жаль. Возвращайся, когда разбогатеешь, ты слышишь?<end>
+
+=>a65_original
+Not much really.<end>
+
+=>a65
+Не так уж значительно.<end>
+
+=>q66_original
+Then we don't have much to talk about, do we?<end>
+
+=>q66
+Тогда нам не о чем говорить, не так ли?<end>
+
+=>a67_original
+About Blaine...<end>
+
+=>a67
+Насчёт Блэйна...<end>
+
+=>q68_original
+Got an offer for me?<end>
+
+=>q68
+У тебя есть ко мне деловое предложение?<end>
+
+=>a69_original
+I have to go.<end>
+
+=>a69
+Мне нужно идти.<end>
+
+=>q70_original
+How you doin'? Back for some shoppin'?<end>
+
+=>q70
+Как дела? Вернул$(#ся/ась) за покупками?<end>
+

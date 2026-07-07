@@ -1,0 +1,600 @@
+﻿=>q1_original
+Go bother someone else, Judge $(context.player.Name).<end>
+
+=>q1
+Иди доставай кого-нибудь другого, судья $(context.player.Name).<end>
+
+=>q2_original
+Get lost.<end>
+
+=>q2
+Отвали.<end>
+
+=>q3_original
+He's gone.<end>
+
+=>q3
+Он ушёл.<end>
+
+=>a4_original
+He sure is.<end>
+
+=>a4
+Это точно.<end>
+
+=>q5_original
+Just before the Faceless retreated, he disappeared. Just before you returned from Deep Caverns, he disappeared. Makes a man wonder...
+
+What did you need, $(context.player.Name)?<end>
+
+=>q5
+Прямо перед тем, как безликие ушли, он исчез. Как раз перед тем, как вы вернулись из Глубоких пещер, он исчез. Заставляет задуматься...
+
+Что вам нужно, $(context.player.Name)?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+I've brought you some meat for the eels.<end>
+
+=>a7
+Я принёс вам немного мяса для угрей.<end>
+
+=>q8_original
+Good. Do you want to trade it?<end>
+
+=>q8
+Хорошо. Обменяете его на что-нибудь?<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+What can you offer?<end>
+
+=>a10
+Что вы можете предложить?<end>
+
+=>q11_original
+How about a health hypo?<end>
+
+=>q11
+Как насчёт стимулятора?<end>
+
+=>a12_original
+Sounds fair. I'll take it.<end>
+
+=>a12
+Звучит неплохо. Я соглас$(#ен/на).<end>
+
+=>q13_original
+Good.<end>
+
+=>q13
+Хорошо.<end>
+
+=>q14_original
+Now to catch some eels.<end>
+
+=>q14
+Теперь наловим угрей.<end>
+
+=>a15_original
+I had more questions, actually.<end>
+
+=>a15
+Честно говоря, у меня была ещё пара вопросов.<end>
+
+=>q16_original
+Ask.<end>
+
+=>q16
+Спрашивай.<end>
+
+=>a17_original
+I'll leave you to it. Good luck.<end>
+
+=>a17
+Ну, не буду мешать. Удачи.<end>
+
+=>a18_original
+::[Mercantile]:: Make it two and you have a deal.<end>
+
+=>a18
+::[Торговля]:: Давайте два, и мы договорились.<end>
+
+=>q19_original
+You drive a hard bargain, but very well.<end>
+
+=>q19
+Вы умеете торговаться, ну хорошо.<end>
+
+=>q20_original
+No, one hypo. Take it or leave it.<end>
+
+=>q20
+Нет, один стимулятор. Берите или уходите.<end>
+
+=>a21_original
+Alright, I'll take it.<end>
+
+=>a21
+Ладно, я соглас$(#ен/на).<end>
+
+=>a22_original
+In that case I'll pass.<end>
+
+=>a22
+В таком случае, я пас.<end>
+
+=>a23_original
+Actually, I decided not to trade.<end>
+
+=>a23
+Вообще-то, я решил$(#/а) не меняться.<end>
+
+=>q24_original
+Stop wasting my time then.<end>
+
+=>q24
+Тогда прекратите тратить моё время.<end>
+
+=>a25_original
+You can have it for free. It's no big deal.<end>
+
+=>a25
+Можете взять его бесплатно. Это пустяки.<end>
+
+=>q26_original
+I *never* take charity. We must trade.<end>
+
+=>q26
+Я *никогда* не принимаю подачек. Мы должны обменяться.<end>
+
+=>a27_original
+Sorry, but I need it as well.<end>
+
+=>a27
+Извините, но мне оно само$(#му/ой) нужно.<end>
+
+=>a28_original
+I know you killed Patrick Pierce.<end>
+
+=>a28
+Я знаю, что вы убили Патрика Пирса.<end>
+
+=>q29_original
+Killed? Patrick Pierce died in his sleep.<end>
+
+=>q29
+Убил? Патрик Пирс умер во сне.<end>
+
+=>a30_original
+::[Persuade]:: You were a member of the Spectres, the only one who survived Operation Banishment and you decided to take revenge on Patrick, knowing that he was a part of the operation.<end>
+
+=>a30
+::[Убеждение]:: Вы были членом Призраков, одним из тех, кто пережил операцию Изгнание, и вы решили отомстить Патрику, зная, что он участвовал в операции.<end>
+
+=>q31_original
+::Silence. He stands expressionless. Only after a few tense moments does he draw one long final smoke from his cigar, his motions calm and collected, before gently dropping it in the water. Silence, but it soon comes to an end.::
+
+Yes. You got me. Tell Pat you got his murderer's confession.<end>
+
+=>q31
+::Он стоит бесстрастно, в тишине. Только после нескольких напряжённых мгновений он делает последнюю длинную затяжку, его движения спокойны и собраны, когда он мягко бросает сигару в воду. Вскоре он нарушает молчание.::
+
+Да. Вы поймали меня. Передайте Пату, что вы получили признание его убийцы.<end>
+
+=>a32_original
+::[Persuade]:: Wait! I still haven't told anyone about this. I'll let you go and we'll forget this conversation ever took place.<end>
+
+=>a32
+::[Убеждение]:: Подождите! Я до сих пор не сказал$(#/а) об этом никому. Я позволю вам уйти, и мы забудем, что этот разговор вообще состоялся.<end>
+
+=>q33_original
+::Mordre stops. An answer follows shortly.::
+
+I don't know what game you're playing, but I'm definitely not staying here to find out. Outta my way.<end>
+
+=>q33
+::Мордре останавливается.::
+
+Я не знаю, в какую игру вы играете, но я определённо не останусь здесь, чтобы узнать. Прочь с дороги.<end>
+
+=>a34_original
+::Let him leave.::<end>
+
+=>a34
+::Позволить ему уйти.::<end>
+
+=>q35_original
+::Mordre completely ignores your suggestion.::<end>
+
+=>q35
+::Мордре полностью игнорирует ваше предложение.::<end>
+
+=>a36_original
+::Fight!::<end>
+
+=>a36
+::Бой!::<end>
+
+=>q37_original
+::He pauses, slowly shaking his head from side to side. Then, he smiles.:: 
+
+This conversation is over, friend. I mean, Judge $(context.player.Name). I pity you. Go bother someone else.<end>
+
+=>q37
+::Он делает паузу, медленно качая головой из стороны в сторону. Затем он улыбается.:: 
+
+Разговор окончен, друг. То есть, судья $(context.player.Name). Мне жаль вас. Идите доставайте кого-нибудь другого.<end>
+
+=>a38_original
+::[Intimidate]:: I know you killed him, I have all the evidence about you and the Spectres and Operation Banishment. Confess, or I'll do what Praetorian Security failed - murder all of you scumbags.<end>
+
+=>a38
+::[Запугивание]:: Я знаю, что вы убили его, я знаю всё о вас, о Призраках и операции Изгнание. Сознавайтесь, или я сделаю то, что не удалось ПСБ -- убью вас всех до последнего, отморозков.<end>
+
+=>a39_original
+My mistake. Wrong man. Sorry.<end>
+
+=>a39
+Я ошиб$(#ся/лась). Вы не тот человек. Извините.<end>
+
+=>q40_original
+Hold it, friend. You accused me of committing a murder. That's not something to be taken lightly. I demand an explanation.<end>
+
+=>q40
+Постойте, $(#друг/подруга). Вы обвинили меня в убийстве. Это не шуточное дело. Я требую объяснений.<end>
+
+=>a41_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a41
+Что вы знаете о смерти Патрика Пирса?<end>
+
+=>q42_original
+Died in his sleep. That's how I remember it, at least.<end>
+
+=>q42
+Умер во сне. По крайней мере, насколько я помню.<end>
+
+=>a43_original
+Can you tell me what was he like as a person?<end>
+
+=>a43
+Можете рассказать, каким он был человеком?<end>
+
+=>q44_original
+Patrick... He was okay. People liked him, he had some good friends here in SGS. I'd met him in the bar a few times; we would chat, but we never socialized more than that.<end>
+
+=>q44
+Патрик... Он был неплохим парнем. Людям он нравился, у него были хорошие друзья здесь на ССГ. Я встречал его в баре пару раз, мы болтали, но, помимо этого, мы не общались.<end>
+
+=>a45_original
+Tell me about deep eels.<end>
+
+=>a45
+Расскажите мне про угрей.<end>
+
+=>q46_original
+There are many kinds of deep eels. Most are delicious and very easy to cook and eat. The blue eel is everyone's favorite, including me.<end>
+
+=>q46
+Есть множество видов глубинных угрей. Большинство из них вкусные, их очень легко приготовить и съесть. Синих угрей все обожают, включая меня.<end>
+
+=>q47_original
+The further you go down the Celeritas, however, the more dangerous eels you find. It's the very nature of this world of ours - the deeper you go, the more dangerous it becomes.<end>
+
+=>q47
+Чем дальше вы спускаетесь по Селеритас, тем более опасных угрей найдёте. Это сама природа нашего мира -- чем глубже вы спускаетесь, тем опаснее он становится.<end>
+
+=>a48_original
+What is this place?<end>
+
+=>a48
+Что это за место?<end>
+
+=>q49_original
+It's called Mushroom Cove. But it's basically a big lake where all these little streams converge and form the Celeritas River. It then runs all the way down to the very bottom of the Deep Caverns.<end>
+
+=>q49
+Оно называется Грибная бухта. Но, вообще, это большое озеро, в котором соединяются все маленькие ручейки и образуют реку Селеритас. Отсюда она течёт до самого дна Глубоких пещер.<end>
+
+=>a50_original
+So how's the fishing going?<end>
+
+=>a50
+Хорошо клюёт?<end>
+
+=>q51_original
+Could be better. I was hoping to catch some deep eels, but I forgot to bring meat, and the eels don't care for worms much; use those only if you want to drown them.<end>
+
+=>q51
+Могло быть и лучше. Я надеялся поймать несколько угрей, но забыл взять мясо, а угрей не слишком интересуют черви -- их здесь только топить.<end>
+
+=>a52_original
+Tell me about deep eels.<end>
+
+=>a52
+Расскажите мне про угрей.<end>
+
+=>a53_original
+What kind of meat do you need?<end>
+
+=>a53
+Какое мясо вам нужно?<end>
+
+=>q54_original
+Any meat will do, but raw red meat works best. I could hunt down a hopper, but I cannot leave the rods unattended.<end>
+
+=>q54
+Любое мясо, но сырое красное мясо подходит лучше всего. Я бы поймал пещерника, но не могу оставить удочки без присмотра.<end>
+
+=>a55_original
+I'll get you some meat.<end>
+
+=>a55
+Я принесу вам мяса.<end>
+
+=>q56_original
+That would be great.<end>
+
+=>q56
+Это было бы здорово.<end>
+
+=>a57_original
+I've got some meat right here.<end>
+
+=>a57
+У меня есть мясо с собой.<end>
+
+=>a58_original
+Better come prepared next time then.<end>
+
+=>a58
+Что же, лучше приходить подготовленным в следующий раз.<end>
+
+=>q59_original
+::He nods.:: Yeah.<end>
+
+=>q59
+::Он кивает.:: Да.<end>
+
+=>a60_original
+Too bad.<end>
+
+=>a60
+Жаль.<end>
+
+=>a61_original
+I didn't catch your name the first time.<end>
+
+=>a61
+Я не расслышал$(#/а) ваше имя в первый раз.<end>
+
+=>q62_original
+::The indifferent expression persists.:: I'd tell you that, but then I'd have to kill you. Just call me Mordre.<end>
+
+=>q62
+::Он сохраняет равнодушное выражение лица.:: Я бы вам сказал, но тогда мне пришлось бы вас убить. Зовите меня Мордре.<end>
+
+=>a63_original
+::[Intimidate]:: I'd like to see you try.<end>
+
+=>a63
+::[Запугивание]:: Я бы хотел$(#/а) на это посмотреть.<end>
+
+=>q64_original
+No, you wouldn't.<end>
+
+=>q64
+Нет, не хотели бы.<end>
+
+=>a65_original
+In that case, Mordre will do.<end>
+
+=>a65
+В таком случае, пусть будет Мордре.<end>
+
+=>q66_original
+Good.<end>
+
+=>q66
+Хорошо.<end>
+
+=>a67_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a67
+Что вы думаете о вторжении безликих?<end>
+
+=>q68_original
+The Faceless spared them. There's nothing more to say.<end>
+
+=>q68
+Безликие пощадили их. Говорить тут не о чем.<end>
+
+=>q69_original
+If only the Faceless could've somehow taken out the Oligarchs. Underrail would surely be a better place without them.<end>
+
+=>q69
+Если бы только безликие смогли как-то уничтожить олигархов. Подземка была бы намного лучше без них.<end>
+
+=>q70_original
+The "Oligarchs" of the Core City are not as powerful as they thought they were, sitting their fat behinds in their luxury city apartments, surrounded by their armored guards.<end>
+
+=>q70
+«Олигархи» Кор-Сити не такие могущественные, как они привыкли думать, просиживая свои жирные задницы в роскошных апартаментах в окружении своих бронированных охранников.<end>
+
+=>q71_original
+I hope they realize that the Faceless could have also drilled their way inside the city if they truly wanted to take it. Lucky for them, the Faceless probably have no interest in their junk.<end>
+
+=>q71
+Надеюсь, они понимают, что безликие могли бы точно так же пробурить себе путь внутрь города, если бы они действительно хотели захватить его. К счастью для них, безликие, похоже, не заинтересованы в их барахле.<end>
+
+=>a72_original
+I have a feeling you don't have much love for the Core City.<end>
+
+=>a72
+Кажется, вы не слишком любите Кор-Сити.<end>
+
+=>q73_original
+It is their police and their so called "Oligarchs" that I dislike.<end>
+
+=>q73
+Скорее, этих так называемых «олигархов» их полицию.<end>
+
+=>q74_original
+They used to be loyal to Biocorp: One was the chief of Core City security, the other the chief of the Core City research department. Yet when the main headquarters in North Underrail was invaded by the Protectorate all those years ago, they did nothing.<end>
+
+=>q74
+Когда-то они служили Биокорп: один был начальником службы безопасности Кор-Сити, другой возглавлял там отдел исследований. Но когда много лет назад главная штаб-квартира в Северной Подземке была атакована Протекторатом, они не сделали ничего, чтобы помочь.<end>
+
+=>q75_original
+And not only did they sit their disloyal behinds safely behind the barricades of the Core City, the greedy bastards actually started turning on each other; from top to bottom, everyone was trying to secure the most comfortable part of the city for himself.<end>
+
+=>q75
+И мало того, что эти предатели сидели в безопасности за стенами Кор-Сити, жадные ублюдки начали враждовать между собой; сверху донизу, каждый пытался заполучить самую комфортную часть города для себя.<end>
+
+=>q76_original
+And now these greedy traitors serve as the government and law enforcement of the city. That's not a place I would want to be a citizen of.<end>
+
+=>q76
+И теперь эти жадные предатели стали правительством и законниками города. Это не то место, где я хотел бы жить.<end>
+
+=>a77_original
+That's a nice cigar you have there.<end>
+
+=>a77
+Хорошая у вас сигара.<end>
+
+=>q78_original
+Thanks.<end>
+
+=>q78
+Спасибо.<end>
+
+=>a79_original
+Where did you get them? It must've cost a lot.<end>
+
+=>a79
+Где вы их берёте? Она, наверное, обошлась вам в круглую сумму.<end>
+
+=>q80_original
+I have ways, and the cost, it's not as much as you'd think. ::He draws a smoke, and his expression improves.:: I enjoy smoking here. No one to complain, no one to ask for a cigar.<end>
+
+=>q80
+У меня есть нужные связи, а цена не настолько большая, как можно подумать. ::Он делает затяжку, и выражение его лица меняется.:: Мне нравится курить здесь. Никто не жалуется, никто не просит сигару.<end>
+
+=>a81_original
+Got a spare cigar?<end>
+
+=>a81
+Можно и мне сигару?<end>
+
+=>q82_original
+No.<end>
+
+=>q82
+Нет.<end>
+
+=>q83_original
+::He draws another smoke.::<end>
+
+=>q83
+::Он делает ещё одну затяжку.::<end>
+
+=>a84_original
+I suppose so.<end>
+
+=>a84
+Понимаю.<end>
+
+=>a85_original
+Nothing really. Was just stopping by.<end>
+
+=>a85
+Я тут мимоходом. Просто заш$(#ёл/ла) проведать.<end>
+
+=>a86_original
+You talking about Tanner?<end>
+
+=>a86
+Вы говорите о Таннере?<end>
+
+=>q87_original
+Of course. <end>
+
+=>q87
+Конечно.<end>
+
+=>a88_original
+Who?<end>
+
+=>a88
+Кто?<end>
+
+=>q89_original
+Tanner, of course. <end>
+
+=>q89
+Таннер, конечно.<end>
+
+=>q90_original
+What do you want?<end>
+
+=>q90
+Чего вы хотите?<end>
+
+=>q91_original
+Something you need?<end>
+
+=>q91
+Вам что-то нужно?<end>
+
+=>q92_original
+::The middle-aged man, tall and wide-shouldered, stands by the coast, smoking a cigar and observing the calm water. As you come near, he turns around; he eyes you for a moment, maintaining an indifferent expression, and then speaks to you in a low, raspy voice.::
+
+Don't stomp around. You're scaring the fish away.<end>
+
+=>q92
+::Мужчина средних лет, высокий и широкоплечий, стоит на берегу, курит сигару и наблюдает за спокойной водой. Когда вы приближаетесь, он оборачивается; он смотрит на вас мгновение, сохраняя безразличное выражение лица, после чего говорит низким, хриплым голосом.::
+
+Не топайте тут. Вы распугаете всю рыбу.<end>
+
+=>q93_original
+You're that $(#guy/girl) that was running Tanner's tests, right. $(context.player.Name), was it?
+
+I guess you got admitted.<end>
+
+=>q93
+Вы т$(#от/а) $(#парень/девушка), что прош$(#ёл/ла) все тесты Таннера, да? $(context.player.Name)?
+
+Я вижу, вас приняли.<end>
+
+=>a94_original
+Yeah, and who're you?<end>
+
+=>a94
+Да, а кто вы?<end>
+
+=>a95_original
+I'd love to stay and chat, but I got things to do.<end>
+
+=>a95
+Хотелось бы остаться и поболтать, но у меня дела.<end>
+
+=>q96_original
+Off you go then, but do it *quietly.*<end>
+
+=>q96
+Тогда ступай, но делай это *тихо*.<end>
+

@@ -1,0 +1,54 @@
+﻿=>q1_original
+Protect Eidein!<end>
+
+=>q1
+Защищайте Эйдейна!<end>
+
+=>q2_original
+You are not supposed to be here!<end>
+
+=>q2
+Вам сюда нельзя!<end>
+
+=>q3_original
+Eidein is waiting for you in his office, $(context.player.Name).<end>
+
+=>q3
+Эйдейн ожидает вас в своём кабинете, $(context.player.Name).<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+Tchort is evolution.<end>
+
+=>q5
+Чорт -- это эволюция.<end>
+
+=>q6_original
+$(#Brother/Sister)?<end>
+
+=>q6
+$(#Брат/Сестра)?<end>
+
+=>q7_original
+Magnificent Tchort! Did you feel that, $(#brother/sister)?<end>
+
+=>q7
+Чорт великолепный! Вы это тоже почувствовали, $(#брат/сестра)?<end>
+
+=>q8_original
+Eidein is very busy, so try to be brief.<end>
+
+=>q8
+Эйдейн очень занят, поэтому постарайтесь быть кратки.<end>
+
+=>q9_original
+May I help you?<end>
+
+=>q9
+Могу ли я чем-то помочь вам?<end>
+

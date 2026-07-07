@@ -1,0 +1,972 @@
+﻿=>q1_original
+::The man pays no attention to you since he seems to be engaged in a conversation with the other man.::<end>
+
+=>q1
+::Мужчина не обращает внимания на вас, так как он сейчас беседует с другим человеком.::<end>
+
+=>q2_original
+You're back. Upon conducting an investigation, we discovered that the rifle you gave me was indeed used to kill Bolivar Daud, based on the caliber, angle of shot, etc. We have no evidence that could prove that Todor fired the gun, as there were no fingerprints on the rifle, nor any other clues. We also have no way to link the gun to Micas either.<end>
+
+=>q2
+Вы вернулись. В ходе расследования, мы установили, основываясь на калибре, угле выстрела и т. д., что винтовка, которую вы дали мне, действительно была использована для убийства Боливара Дауда. У нас нет доказательств того, что стрелял Тодор, на винтовке не было отпечатков пальцев и каких-либо других улик. Мы также не смогли связать оружие с Микасом.<end>
+
+=>q3_original
+Still, due to the lack of evidence, as well as your involvement in the case, Todor Sallywatch is now a free man.<end>
+
+=>q3
+Из-за отсутствия доказательств, а также вашего вмешательства в дело, Тодор Саллиуотч теперь на свободе.<end>
+
+=>q4_original
+We will attempt to locate Micas. Hopefully, that will lead us to the real murderer. Consider your friend a free man.<end>
+
+=>q4
+Мы постараемся найти Микаса. Надеюсь, он наведёт нас на настоящего убийцу. Ваш друг свободен.<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+I talked to the Faceless.<end>
+
+=>a6
+Я разговаривал$(#/а) с безликими.<end>
+
+=>q7_original
+It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in. In any case, since you still risked your life, the reward is yours. ::He hands you 100 stygian coins.::<end>
+
+=>q7
+Это уже не имеет значения, поскольку безликие отступили из Подземки. В любом случае, поскольку вы всё равно рисковали своей жизнью, награда ваша. ::Он даёт вам 100 стигийских монет.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+You talked to them? What did you find out?<end>
+
+=>q9
+Вы говорили с ними? Что вы узнали?<end>
+
+=>a10_original
+They are looking for some kind of item - something that means a lot to them. They never explained its appearance, just said that it looks very distinct.<end>
+
+=>a10
+Они ищут какую-то штуку, которая много значит для них. Они мне её не описали, а только сказали, что она очень необычно выглядит.<end>
+
+=>q11_original
+We will still need to stay alert, as it could be some kind of ruse. As for the item, if it even exists, I will order my men to investigate if any strange objects have been seen in Foundry. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
+
+=>q11
+Мы всё равно должны оставаться начеку, так как это может оказаться уловкой. Что до этого предмета, если он вообще существует, я прикажу своим людям разузнать, были ли какие-то странные предметы замечены на Литейной. Вы хорошо справились. Вот ваша награда. ::Он даёт вам 100 стигийских монет.::<end>
+
+=>a12_original
+They are looking for some kind of item - something that means a lot to them, but it turned out that this item wasn't in Foundry. After talking to them about it, they got into their tunneler and left.<end>
+
+=>a12
+Они искали какую-то штуку, которая много значит для них, но выяснилось, что её нет на Литейной. После разговора они залезли в свой проходчик и укатили.<end>
+
+=>q13_original
+Interesting. We will still need to stay alert, as it could be some kind of ruse, but the fact that they weren't hostile to you is not a bad indicator by all means. You did well. Here's your reward. ::He hands you 100 stygian coins.::<end>
+
+=>q13
+Интересно. Мы всё равно должны оставаться начеку, так как это может оказаться уловкой, но то, что они не были враждебно настроены, это хороший знак. Вы хорошо справились. Вот ваша награда. ::Он даёт вам 100 стигийских монет.::<end>
+
+=>a14_original
+They were on a patrol and their tunneler broke down. They'll leave as soon as they fix it.<end>
+
+=>a14
+Они патрулировали, и их проходчик сломался. Они уедут, как только его починят.<end>
+
+=>q15_original
+Broke down? I hope you didn't believe that, $(context.player.Name). This worries me to a degree, but then again, they weren't hostile to you. I'll instruct my men to be on their guard in any case. You did your work well. Here's your reward. ::He hands you 100 stygian coins.::<end>
+
+=>q15
+Сломался? Я надеюсь, вы сами не поверили в это, $(context.player.Name). Это меня беспокоит меня, но, с другой стороны, они не были враждебно настроены к вам. Я поручу своим людям быть настороже. Вы хорошо справились. Вот ваша награда. ::Он даёт вам 100 стигийских монет.::<end>
+
+=>a16_original
+They are planning a massive invasion on Foundry. This group is on a reconnaissance mission to test Foundry's defenses!<end>
+
+=>a16
+Они планируют массированное вторжение на Литейную. Эту группу послали на разведку, чтобы проверить вашу оборону!<end>
+
+=>q17_original
+Muck! I'll mobilize everything we have available this instant. Foundry will not fall. You did this station a great favor by telling me this. ::He hands you 100 stygian coins.::<end>
+
+=>q17
+Шлак! Нужно немедленно привести в готовность всё, что мы имеем в наличии. Литейная не падёт. Известив меня, вы сослужили этой станции большую службу. ::Он даёт вам 100 стигийских монет.::<end>
+
+=>a18_original
+I killed the Faceless near Foundry.<end>
+
+=>a18
+Я убил$(#/а) безликих возле Литейной.<end>
+
+=>q19_original
+Alone? Did they attack you?<end>
+
+=>q19
+В одиночку? Они напали на вас?<end>
+
+=>a20_original
+Yes.<end>
+
+=>a20
+Да.<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>q22_original
+It doesn't matter anymore, as the Faceless have already retreated from every location they were spotted in.<end>
+
+=>q22
+Это уже не имеет значения, поскольку безликие отступили из Подземки.<end>
+
+=>a23_original
+And... about my reward?<end>
+
+=>a23
+И... моя награда?<end>
+
+=>q24_original
+For what? You failed to provide me the information at the time, so you will not receive a reward.<end>
+
+=>q24
+За что? Вы не смогли предоставить мне информацию вовремя, так что вы не получите вознаграждение.<end>
+
+=>a25_original
+The most important things is that they didn't attack Foundry.<end>
+
+=>a25
+Главное то, что они не напали на Литейную.<end>
+
+=>q26_original
+That is truly the case, $(context.player.Name).<end>
+
+=>q26
+Это действительно так, $(context.player.Name).<end>
+
+=>q27_original
+::He pauses to think.:: We are still in the dark regarding their motives, and killing their troops will surely provoke a hostile response. I'll mobilize everything we have available this instant. ::He hands you 100 stygian coins.:: This is for risking your neck. Now, I have to attend to the troops.<end>
+
+=>q27
+::Он делает паузу, чтобы подумать.:: Мы по-прежнему находимся в неведении относительно их мотивов, а нападение на их войска, несомненно, спровоцирует враждебную реакцию. Я приведу в готовность все наши силы. ::Он даёт вам 100 стигийских монет.:: Вот вам за то, что рисковали своей шеей. Теперь я должен заняться войсками.<end>
+
+=>a28_original
+No, I just attacked them on sight. They didn't look like the friendliest bunch.<end>
+
+=>a28
+Нет, я напал$(#/а) перв$(#ым/ой). Они выглядели враждебно.<end>
+
+=>a29_original
+The Faceless left before I had the chance to discover their intentions.<end>
+
+=>a29
+Безликие ушли прежде чем мне удалось раскрыть их намерения.<end>
+
+=>a30_original
+I need to talk to you about a prisoner called Todor Sallywatch.<end>
+
+=>a30
+Мне нужно поговорить с вами о заключённом по имени Тодор Саллиуотч.<end>
+
+=>q31_original
+Todor... Todor Sallywatch... Isn't that the man who killed Bolivar Daud? Accused of killing. Due to Judge Taylor's passing, I will be dealing with all criminal cases. So, what was it you wanted to talk about?<end>
+
+=>q31
+Тодор... Тодор Саллиуотч... это не тот ли, который убил Боливара Дауда? Обвиняемый в убийстве. После смерти судьи Тейлора, я буду рассматривать все уголовные дела. Так о чём вы хотели поговорить?<end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>a33_original
+I have the weapon that was used to kill Bolivar Daud.<end>
+
+=>a33
+У меня есть оружие, которым убили Боливара Дауда.<end>
+
+=>q34_original
+::Chief takes a careful look at the rifle.:: What've you got?<end>
+
+=>q34
+::Шеф внимательно осматривает винтовку.:: Что тут у вас?<end>
+
+=>a35_original
+I found this rifle on the roof of the building overlooking the alley Bolivar Daud was shot in. I found out that Bolivar was supposed to meet an arms merchant named Oliver Micas. They had an argument, and Micas later had him shot.<end>
+
+=>a35
+Я наш$(#ёл/ла) эту винтовку на крыше здания, с которой видно улицу, на которой был застрелен Боливар Дауд. Я узнал$(#/а), что Боливар должен был встретиться там с торговцем оружием по имени Оливер Микас. Ранее они поссорились, и Микас убил его.<end>
+
+=>q36_original
+Micas... Micas... I remember that name mentioned. But all that you told me still doesn't prove that he killed Daud. I might need more than that.<end>
+
+=>q36
+Микас... Микас... это имя уже всплывало. Но то, что вы сказали мне, ещё не доказывает, что он убил Дауда. Мне потребуется больше чем это.<end>
+
+=>a37_original
+Well, you have no evidence on Sallywatch either.<end>
+
+=>a37
+Ну, и на Саллиуотча у вас тоже нет доказательств.<end>
+
+=>q38_original
+I see. You've already proven you are a good investigator, so I'll trust you on this one. I'll take the rifle and see what information we have on Micas. I'll have my men right on it.<end>
+
+=>q38
+Понимаю. Вы уже показали себя хорошим следователем, так что я доверюсь вам. Я возьму винтовку и посмотрю, что у нас есть на Микаса. Мои люди немедленно этим займутся.<end>
+
+=>a39_original
+::Give him the sniper rifle.::<end>
+
+=>a39
+::Дать ему снайперскую винтовку.::<end>
+
+=>q40_original
+That is good. I'll pass this on and see if this was indeed the weapon Daud was killed with. I'll also see if we can learn anything more from the weapon. Come see me later, and I'll have an answer.<end>
+
+=>q40
+Хорошо. Мы проверим, действительно ли это оружие, из которого был убит Дауд. Я также попытаюсь узнать что-нибудь об этом оружии. Зайдите ко мне позже, и у меня будет для вас ответ.<end>
+
+=>a41_original
+Got it. See you.<end>
+
+=>a41
+Ясно. Увидимся.<end>
+
+=>a42_original
+Well, what proves Sallywatch killed Daud? You're keeping him in prison based on... nothing.<end>
+
+=>a42
+Ну, и что доказывает, что Саллиуотч убил Дауда? Вы держите его в тюрьме, основываясь... ни на чём.<end>
+
+=>a43_original
+Some, like, dude or chick who ain't Todor shot Bolivar with this rifle. In the head. Yeah.<end>
+
+=>a43
+Какой-то, типа, чувак или чувиха, но не Тодор, застрелил Боливара с этой винтовки. В башку. Да.<end>
+
+=>q44_original
+::The chief stares at you, evidently irritated by your response.:: I would like you to be serious now. Give me a proper explanation or stop bothering me.<end>
+
+=>q44
+::Шеф смотрит на вас, очевидно, раздражённый вашим ответом.:: Прошу вас, будьте серьёзны. Объясните всё как следует или прекратите действовать мне на нервы.<end>
+
+=>a45_original
+I need to do some more investigating.<end>
+
+=>a45
+Мне нужно ещё кое-что выяснить.<end>
+
+=>a46_original
+I believe he is innocent and should be released.<end>
+
+=>a46
+Я считаю, что он невиновен и должен быть освобождён.<end>
+
+=>q47_original
+$(context.player.Name), you've already proven trustworthy, and I thank you for all the help so far. But I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with other cases.
+
+The reason I haven't begun is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
+
+=>q47
+$(context.player.Name), вы уже доказали свою надёжность, и я благодарю вас за всю оказанную нам помощь. Но у меня сейчас столько работы, что я ещё даже не приступил к этому делу, а большинство наших следователей заняты другими делами.
+
+Причина, по которой я ещё не начинал, в том, что мы ещё не нашли орудие убийства. Если вам удастся найти его или любые другие улики, дело сдвинется, и мы сможем скорее освободить его.<end>
+
+=>a48_original
+It's a deal. I'll be back with some evidence.<end>
+
+=>a48
+По рукам. Я вернусь с доказательствами.<end>
+
+=>q49_original
+I haven't even gotten to this case yet, with all the work I have at the moment, and most of our investigators are busy with something else.
+
+Despite this, you are a stranger to us, and I have no reason to trust you. I can't have just about anyone be an investigator.<end>
+
+=>q49
+У меня сейчас столько работы, что я ещё даже не приступил к этому делу, а большинство наших следователей заняты другими делами.
+
+Поймите, что вы для нас чужак, и у меня нет оснований доверять вам. Я не могу позволить вести следствие кому попало.<end>
+
+=>a50_original
+I see. I'll be back.<end>
+
+=>a50
+Понятно. Я ещё вернусь.<end>
+
+=>a51_original
+I think I've proven to you that I can be trusted. I want to help with the Daud murder case.<end>
+
+=>a51
+Я думаю, что у вас достаточно оснований доверять мне. Я хочу помочь с делом об убийстве Дауда.<end>
+
+=>q52_original
+That is correct, $(context.player.Name). I see you are interested in this case and I will not say no to a helping hand. I still have to get to this case, the reason for this being is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
+
+=>q52
+Это так, $(context.player.Name). Я вижу, что вы заинтересованы в этом деле и я не стану отталкивать руку помощи. Я отложил это дело пока что, потому что мы ещё не нашли орудие убийства. Если вам удастся найти его или любые другие улики, дело сдвинется, и мы сможем скорее освободить его.<end>
+
+=>a53_original
+I already have what I believe is the murder weapon.<end>
+
+=>a53
+Я уже наш$(#ёл/ла) предполагаемое орудие убийства.<end>
+
+=>a54_original
+Actually, let's talk about something else.<end>
+
+=>a54
+Давайте лучше поговорим о чём-нибудь другом.<end>
+
+=>q55_original
+Let's.<end>
+
+=>q55
+Давайте.<end>
+
+=>q56_original
+Yes?<end>
+
+=>q56
+Да?<end>
+
+=>a57_original
+Are there any jobs available around here?<end>
+
+=>a57
+Нет ли у вас какой работы для меня?<end>
+
+=>q58_original
+Hm. As a matter of fact, I believe I might have something for you.<end>
+
+=>q58
+Хм. Собственно говоря, у меня для вас кое-что есть.<end>
+
+=>a59_original
+Let's hear it.<end>
+
+=>a59
+Рассказывайте.<end>
+
+=>q60_original
+Very good. You are, I presume, familiar with the Ironheads, one of the largest gangs in Lower Underrail. Well, one of their clans is causing a lot of trouble to Foundry and the whole region. These scum - and that is what they are - are being led by a man who calls himself Balor, a man known for two things: his immense physical strength and a sinister red cybernetic eye. And unfortunately for us, I suppose his successful leadership can be added to that list.<end>
+
+=>q60
+Отлично. Вы, я полагаю, знаете о Железноголовых -- одной из крупнейших банд в Нижней Подземке. Так вот, один из их кланов доставляет много проблем для Литейной и всего региона. Этими подонками, именно подонками, руководит некто, называющий себя Бэйлор -- человек, известным двумя вещами: своей огромной физической силой и зловещим красным кибернетическим глазом. И, к сожалению для нас, я полагаю, успешное лидерство может быть добавлено в этот список.<end>
+
+=>q61_original
+We - Foundry - have placed a bounty on his head for *one* *thousand* charons. If you can bring me his eye as proof, the money's all yours.<end>
+
+=>q61
+Мы -- Литейная -- назначили большую награду за его голову: *одну* *тысячу* харонов. Если вы сможете принести мне его глаз в качестве доказательства, все эти деньги ваши.<end>
+
+=>q62_original
+<end>
+
+=>q62
+<end>
+
+=>a63_original
+I'll do it.<end>
+
+=>a63
+Я сделаю это.<end>
+
+=>q64_original
+Very good. Best of luck. And remember - bring me his eye as proof.<end>
+
+=>q64
+Очень хорошо. Удачи. И не забудьте, что мне нужен его глаз как доказательство.<end>
+
+=>q65_original
+<end>
+
+=>q65
+<end>
+
+=>a66_original
+::Give him the cybernetic eye without saying anything.::<end>
+
+=>a66
+::Просто дать ему кибернетический глаз.::<end>
+
+=>q67_original
+::He smiles briefly.:: Pure gold. I see you ran into him already, and I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for everyone but them. ::He hands you 1000 stygian coins.::<end>
+
+=>q67
+::Он коротко улыбается.:: Чистое золото. Вижу, вы уже успели с ним столкнуться, и я очень рад, что вы сумели справиться с такой сложной задачей. Теперь, когда он мёртв, мы подождём и посмотрим, что будет с Железноголовыми. Я ожидаю благоприятного исхода, благоприятного для нас. ::Он даёт вам 1000 стигийских монет.::<end>
+
+=>q68_original
+You earned this. Well done.<end>
+
+=>q68
+Вы это заслужили. Отличная работа.<end>
+
+=>a69_original
+What else can you tell me about this Balor guy and where I can find him?<end>
+
+=>a69
+Что ещё вы можете рассказать мне об этом Бэйлоре и где его найти?<end>
+
+=>q70_original
+Not much is known about Balor. Some say that he is over two meters tall, some that he can snap a rathound's spine in two with *one* hand, and some even reported him flinging broken-off stalagmites at his enemies. A boss, to use a colloquial expression. Of course, some of these claims are outrageous, but one seems consistent: He is more often than not described as wielding a sledgehammer so heavy only he is able to lift it. As one story goes, he even offered one disarmed train guard the chance to use the hammer against him, but the fellow might as well have been trying to raise a boulder.<end>
+
+=>q70
+Не так много известно о Бэйлоре. Некоторые говорят, что он за два метра ростом, некоторые, что он может переломить крысоволка пополам одной рукой, а некоторые даже утверждают, что он бросается во врагов отломанными сталагмитами. Настоящий босс, так сказать. Конечно, многие из этих утверждений являются выдумками, но одно похоже на правду: почти все свидетели утверждают, что он орудует кувалдой, такой тяжёлой, что только он способен поднять её. Говорят, он даже предложил однажды захваченному охраннику поезда шанс использовать эту кувалду против него, но парень с тем же успехом мог бы пытаться поднять валун.<end>
+
+=>q71_original
+As for where to find him, his clan is situated in Warehouse Block Beta, south of Foundry. The Ironhead activity in that area is quite heavy, and all of the recent attacks came from that direction. If Balor is really there, he has some of the best security in South Underrail.<end>
+
+=>q71
+Что касается того, где его найти, его клан расположился в складском комплексе Бета, к югу от Литейной. Активность Железноголовых в этом районе весьма высокая, и все недавние нападения исходили оттуда. Если Бэйлор действительно там, то у него одна из лучших защит в Южной Подземке.<end>
+
+=>a72_original
+How do I get to this Warehouse Block Beta?<end>
+
+=>a72
+Как мне добраться до этого складского комплекса Бета?<end>
+
+=>q73_original
+It is south of here, but to actually reach it you'll either have to go west and then south, or east then south from Foundry entrance.<end>
+
+=>q73
+Это к югу отсюда, но чтобы туда добраться, вам придётся сперва отправиться на запад, а затем на юг, либо сперва на восток, а затем на юг от входа на Литейную.<end>
+
+=>q74_original
+Both ways lead to the warehouse block, and both should be well defended.<end>
+
+=>q74
+Обе дороги ведут к складскому комплексу, и обе должны быть хорошо охраняемы.<end>
+
+=>q75_original
+<end>
+
+=>q75
+<end>
+
+=>a76_original
+I'll find and kill Balor.<end>
+
+=>a76
+Я найду и убью Бэйлора.<end>
+
+=>a77_original
+I have his eye right here. ::Give him the eye.::<end>
+
+=>a77
+Вот его глаз. ::Отдать ему глаз.::<end>
+
+=>q78_original
+::He smiles briefly.:: Pure gold. I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for us. ::He hands you 1000 stygian coins.::<end>
+
+=>q78
+::Он коротко улыбается.:: Чистое золото. Я очень рад видеть, что вы сумели справиться с такой сложной задачей. Теперь, когда он мёртв, мы подождём и посмотрим, что будет с Железноголовыми. Я ожидаю благоприятного исхода, благоприятного для нас. ::Он даёт вам 1000 стигийских монет.::<end>
+
+=>a79_original
+What can you tell me about these Ironheads?<end>
+
+=>a79
+Что вы можете рассказать мне об этих Железноголовых?<end>
+
+=>q80_original
+They are the best organized gang in Lower Underrail. While technically composed of multiple different clans, their cooperation and common interests clearly make them a part of a bigger whole. They have been increasingly more difficult to repel in the recent years: Previously, they were but a nuisance, not much different than other lowlifes roaming the metro. But steadily, they have grown in size and power. They are intercepting travelers and merchants near stations, attacking heavily-protected convoys and have, in general, grown more bold and - dare I say - more cunning.<end>
+
+=>q80
+Они -- самая организованная банда в Нижней Подземке. Хотя, по сути, они состоят из многочисленных разных кланов, сотрудничество и общие интересы, очевидно, делают их частью большего целого. В последние годы нам всё труднее давать им отпор: раньше они были только помехой, не сильно отличались от остальных подонков, населяющих по метро. Но постепенно они выросли в размере и силе. Они перехватывают путников и торговцев возле станций, нападают на хорошо охраняемые конвои и вообще стали сильнее и, осмелюсь сказать, умнее.<end>
+
+=>q81_original
+We have more than enough firepower for them to even think about attacking the station itself, but the areas near Foundry, those are difficult to protect effectively.<end>
+
+=>q81
+У нас более чем достаточно огневой мощи, чтобы они даже не думали о нападении на саму станцию, но в окрестностях Литейной трудно обеспечить эффективную защиту.<end>
+
+=>q82_original
+Other than that, I can't tell you much more. We learn about them only through their misdeeds, and since the name Balor grew more and more associated with those, I can safely say that his leadership is what made the local Ironheads a dangerous enemy.<end>
+
+=>q82
+К сожалению, это всё, что я могу вам сказать. Мы узнаём о них только по их преступлениям, и поскольку имя Бэйлора всё чаще и чаще ассоциируется с ними, я могу с уверенностью сказать, что именно его лидерство сделало Железноголовых опасным врагом.<end>
+
+=>a83_original
+Let's talk about something else.<end>
+
+=>a83
+Давайте поговорим о чём-нибудь другом.<end>
+
+=>a84_original
+Let me think about it. Meanwhile, let's talk about something else.<end>
+
+=>a84
+Мне надо подумать. Между тем, давайте поговорим о чём-нибудь другом.<end>
+
+=>a85_original
+I changed my mind. Let's talk about something else.<end>
+
+=>a85
+Давайте лучше поговорим о чём-нибудь другом.<end>
+
+=>q86_original
+Like what?<end>
+
+=>q86
+Например?<end>
+
+=>a87_original
+About Balor...<end>
+
+=>a87
+Насчёт Бэйлора...<end>
+
+=>q88_original
+Yes?<end>
+
+=>q88
+Да?<end>
+
+=>a89_original
+I would like to report a planning of a murder.<end>
+
+=>a89
+Я бы хотел$(#/а) сообщить о запланированном убийстве.<end>
+
+=>q90_original
+I'm listening.<end>
+
+=>q90
+Я слушаю.<end>
+
+=>a91_original
+::Explain how Nicolas wanted you to kill Olivia.::<end>
+
+=>a91
+::Объяснить, что Николас хотел, чтобы вы убили Оливию.::<end>
+
+=>a92_original
+::Explain how Olivia wanted you to kill Nicolas.::<end>
+
+=>a92
+::Объяснить, что Оливия хотела, чтобы вы убили Николаса.::<end>
+
+=>a93_original
+::Explain how both Olivia and Nicolas wanted you to kill the other.::<end>
+
+=>a93
+::Объяснить, что Оливия и Николас хотели убить друг друга с вашей помощью.::<end>
+
+=>a94_original
+Sorry, I've made a mistake. Forget I said anything.<end>
+
+=>a94
+Извините, я ошиб$(#ся/лась). Забудьте.<end>
+
+=>q95_original
+These things are serious, $(context.player.Name). Making mistakes could have serious consequences.<end>
+
+=>q95
+Это серьёзное дело, $(context.player.Name). Ошибки могут иметь серьёзные последствия.<end>
+
+=>a96_original
+One of your residents is being held captive by some bandits. They're in a camp near Foundry.<end>
+
+=>a96
+Одного из ваших граждан держат в плену какие-то бандиты. У них лагерь недалеко от Литейной.<end>
+
+=>q97_original
+I'm terribly sorry, but there's nothing I can do about that at the moment. The mayor had issued strict orders that the Foundry Guard should not interfere with these types of situations *outside* of Foundry, even if it the situation revolves around one of our residents. <end>
+
+=>q97
+Мне очень жаль, но я ничего не могу с этим поделать на данный момент. Мэр издал строгий приказ, что Стража Литейной не должна вмешиваться в подобные ситуации *за* пределами Литейной, даже если вовлечён один из наших жителей.<end>
+
+=>a98_original
+Would it do any good if I talked to him?<end>
+
+=>a98
+Может быть, мне поговорить с ним?<end>
+
+=>q99_original
+You can try, but I am certain that will not acomplish anything.<end>
+
+=>q99
+Вы можете попробовать, но я не думаю, что из этого что-то выйдет.<end>
+
+=>a100_original
+Well, thanks a lot!<end>
+
+=>a100
+Хорошо, спасибо большое!<end>
+
+=>q101_original
+::He stares at you, and responds after a few seconds.:: That is the current situation. We're not discussing this any further.<end>
+
+=>q101
+::Он смотрит на вас и отвечает через несколько секунд.:: Такова текущая ситуация. Это не обсуждается.<end>
+
+=>a102_original
+I recently found out that the Institute of Tchort commisions Foundry to make metal figurines for them.<end>
+
+=>a102
+Мне стало известно, что Институт Чорта заказывал на Литейной металлические статуэтки.<end>
+
+=>q103_original
+Tchort? I think you made a mistake. As far as I am aware, there is only the Institute, the one in Upper Underrail.The term Tchort, that I only heard uttered by the mouth of that madman in the streets.<end>
+
+=>q103
+Чорта? Я думаю, что вы ошиблись. Насколько мне известно, существует только один Институт в Верхней Подземке. Про Чорта я слышал только от этого безумца на улице.<end>
+
+=>q104_original
+In any case, it shouldn't come as a surprise that we manufactured these figurines for them, as whole South Underrail turns to us when it cames to any kind of metalworks.<end>
+
+=>q104
+В любом случае, ничего удивительного, что они заказали эти статуэтки у нас. Вся Южная Подземка покупает нашу продукцию из металла.<end>
+
+=>a105_original
+What do you know about this Institute?<end>
+
+=>a105
+Что вы знаете об этом Институте?<end>
+
+=>q106_original
+::He thinks for a second, then replies.:: I really couldn't tell you anything meaningful. I've only heard of the name and that is all I know.<end>
+
+=>q106
+::Он задумывается на секунду, затем отвечает.:: Я действительно не могу сказать вам ничего полезного. Я слышал только имя и это всё, что я знаю.<end>
+
+=>a107_original
+What do you know about the mine creatures?<end>
+
+=>a107
+Что вам известно о существах в шахте?<end>
+
+=>q108_original
+I cannot discuss that with you. I'm sorry. That is classified information.<end>
+
+=>q108
+Я не могу обсуждать это с вами. Простите. Это является секретной информацией.<end>
+
+=>q109_original
+Anything else?<end>
+
+=>q109
+Что-нибудь ещё?<end>
+
+=>a110_original
+I noticed that one of your investigators has a strange speech disorder.<end>
+
+=>a110
+Я заметил$(#/а), что один из ваших следователей имеет странное расстройство речи.<end>
+
+=>q111_original
+Yes, Doctor Stevenson told him it's called... hmmm... receptive aphasia. I've never heard of the term myself before, to tell you the truth, but rest assured, he is one of our finest investigators, even with his disability.<end>
+
+=>q111
+Да, доктор Стивенсон сказал ему, чтобы это называется... хм-м... сенсорная афазия. Я никогда раньше не слышал про такое, по правде говоря, но не сомневайтесь -- даже не смотря на это заболевание, он является одним из наших лучших следователей.<end>
+
+=>q112_original
+Not that we have that many crime investigations in Foundry - as this is a safe station - but still, when situations like this one happen to arise, I can dispatch him and be perfectly confident in his abilities.<end>
+
+=>q112
+Не то чтобы у нас велось много криминальных расследований -- Литейная, всё-таки, весьма безопасная станция. Но когда подобная необходимость возникает, я могу направить его и быть уверен в его силах.<end>
+
+=>a113_original
+I'd like to talk about Evelyn Ingram.<end>
+
+=>a113
+Я бы хотел$(#/а) бы поговорить об Эвелин Ингрэм.<end>
+
+=>q114_original
+::He pauses for a moment.:: Yes? What about her?<end>
+
+=>q114
+::Он замолкает на мгновение.:: Да? А что с ней?<end>
+
+=>a115_original
+I've found evidence that she's a murderer. Take a look at this. ::Give him the flash drive with data from her computer.::<end>
+
+=>a115
+Я наш$(#ёл/ла) доказательства, что она убийца. Взгляните на это. ::Дать ему флешку с данными из её компьютера.::<end>
+
+=>q116_original
+::Chief carefully examines the files from the drive. You wait for him while he does so, but it doesn't take long for him to return to you.:: 
+
+This is serious. We've had some people gone missing lately but most of these disappearances were attributed to creatures from the mine. I'll send a few men to her home at once. Is there anything else I need to know?<end>
+
+=>q116
+::Шеф тщательно изучает файлы. Вам приходится немного подождать, но вскоре он обращается к вам.:: 
+
+Это серьёзно. В последнее время у нас пропало несколько человек, но это приписывали тварям из шахты. Я немедленно отправлю людей к ней домой. Что-нибудь ещё, что мне нужно знать?<end>
+
+=>a117_original
+She's dead. I had to kill her in self defence.<end>
+
+=>a117
+Она мертва. Мне пришлось убить её в целях самообороны.<end>
+
+=>q118_original
+I'll send some men to see what's going on. You wait here with me.<end>
+
+=>q118
+Я отправлю людей посмотреть, что происходит. Вы ждите здесь, со мной.<end>
+
+=>a119_original
+::Wait.::<end>
+
+=>a119
+::Ждать.::<end>
+
+=>a120_original
+Stupid woman attacked me, I had to kill her!<end>
+
+=>a120
+Эта дура напала на меня, и мне пришлось убить её!<end>
+
+=>a121_original
+No, just go and arrest that derailed woman. She also took all my stuff, and I'm gonna need that back.<end>
+
+=>a121
+Нет, просто идите и арестуйте эту поехавшую бабу. Она также забрала все мои вещи, и мне надо их вернуть.<end>
+
+=>q122_original
+I'll send a few men now. You wait here with me.<end>
+
+=>q122
+Я пошлю туда несколько человек. Вы ждите здесь, со мной.<end>
+
+=>a123_original
+That is all I know.<end>
+
+=>a123
+Это всё, что я знаю.<end>
+
+=>q124_original
+Good. I'll send a few men now. You wait here with me.<end>
+
+=>q124
+Хорошо. Я пошлю туда несколько человек. Вы ждите здесь, со мной.<end>
+
+=>a125_original
+That derailed witch drugged me and tried to kill me!<end>
+
+=>a125
+Эта поехавшая ведьма опоила меня и пыталась убить!<end>
+
+=>q126_original
+You do know we're talking about Evelyn Ingram, wife of the previous chief of the Foundry Guard? These are serious accusations you're making.<end>
+
+=>q126
+Вы понимаете, что говорите об Эвелин Ингрэм, жене предыдущего шефа Стражи Литейной? Это серьёзные обвинения.<end>
+
+=>a127_original
+I'm serious. I had to kill her in self defence!<end>
+
+=>a127
+Это правда. Мне пришлось убить её в целях самообороны!<end>
+
+=>q128_original
+I see. I'll send a few men to her home at once. You wait here with me.<end>
+
+=>q128
+Понятно. Я пошлю несколько человек к ней домой. Вы ждите здесь, со мной.<end>
+
+=>a129_original
+I'm serious, I barely escaped! She's still searching for me. And what's even worse, she took all my stuff!<end>
+
+=>a129
+Это правда, я едва спас$(#ся/лась)! Она всё ещё ищет меня. И что ещё хуже, она забрала все мои вещи!<end>
+
+=>q130_original
+Very well. I'll send a few men to her home at once. You wait here with me.<end>
+
+=>q130
+Хорошо. Я пошлю несколько человек к ней домой. Вы ждите здесь, со мной.<end>
+
+=>a131_original
+On second thought, I'd like to talk about something else.<end>
+
+=>a131
+Вообще-то, давайте поговорим о чём-нибудь другом.<end>
+
+=>q132_original
+I'm listening.<end>
+
+=>q132
+Я слушаю.<end>
+
+=>a133_original
+Can you tell me something about Foundry?<end>
+
+=>a133
+Можете ли вы рассказать мне немного про Литейную?<end>
+
+=>q134_original
+I suppose I can. Foundry is a proud mining community that, thanks to a mine rich in different metals - predominantly iron - has a strong strategic position in Lower Underrail. It might seem like I'm boasting, but the Foundry Guard is above any station force you'll see. We have trained and well-equipped men, ready to swiftly deal with any and all threats. <end>
+
+=>q134
+Почему бы и нет. Литейная -- это гордая шахтёрская станция, занимающая сильную стратегическую позицию в Нижней Подземке, благодаря шахте, богатой разными металлами -- преимущественно, железом. Может показаться, что я хвастаюсь, но Стража Литейной -- это лучшая вооружённая сила среди всех станций. Наши люди превосходно обучены и экипированы и готовы справиться с любыми угрозами.<end>
+
+=>q135_original
+Unfortunately, the only thing the Foundry Guard cannot combat is the foul air, but that is an issue we are working on mitigating.<end>
+
+=>q135
+К сожалению, единственное, с чем не справиться Страже Литейной -- это с загрязнённым воздухом, но мы работаем над этим.<end>
+
+=>a136_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a136
+Как дела теперь, когда шахта вновь открылась?<end>
+
+=>q137_original
+I never broke my pick; I knew we were going to overcome this problem one way or the other. With the mine operational and Foundry safe once again, we will maintain our position as the dominant force in the region.<end>
+
+=>q137
+Я не сломал кирку; я знал, что мы решим эту проблему, так или иначе. С вновь работающей шахтой и восстановленным порядком, Литейная сохраняет свою позицию как доминирующая сила в регионе.<end>
+
+=>q138_original
+If the Faceless dare attack, they'll find themselves in a world of hurt.<end>
+
+=>q138
+Если безликие осмелятся напасть, мы дадим им отпор.<end>
+
+=>q139_original
+Now that the Faceless have retreated from Core City, Underrail is safe once again, and we have even less to worry about.<end>
+
+=>q139
+Теперь, когда безликие отступили от Кор-Сити, в Подземке вновь безопасно. Одним поводом для беспокойства меньше.<end>
+
+=>q140_original
+We cannot be touched.<end>
+
+=>q140
+Нас им не тронуть.<end>
+
+=>a141_original
+I need to go. See you later.<end>
+
+=>a141
+Мне пора идти. Увидимся позже.<end>
+
+=>q142_original
+<end>
+
+=>q142
+<end>
+
+=>q143_original
+What you've just told me is rather interesting, but by no means impossible. I'll order my men to bring both of them so that we can get to the bottom of this. Also, in the future, do not try to play a hitman. As soon as you encounter anything suspicious, come report to us. That is why we are here.<end>
+
+=>q143
+То, что вы рассказали мне, довольно интересно, но ни в коем случае не невозможно. Я прикажу моим людям взять их обоих, чтобы мы смогли добраться до сути. Также, в будущем не пытайтесь играть в наёмного убийцу. Как только вы обнаружите что-нибудь подозрительное, доложите нам. Это наша работа.<end>
+
+=>q144_original
+In any case, thank you for the help. Keeping Foundry as safe as possible is our primary concern. Now, if you'd excuse me, I need to deal with the situation at hand.<end>
+
+=>q144
+В любом случае, спасибо за помощь. Безопасность Литейной -- наша главная задача. А теперь прошу извинить меня, мне нужно разбираться с текущими делами.<end>
+
+=>q145_original
+<end>
+
+=>q145
+<end>
+
+=>q146_original
+Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men arrested her just moments ago and will interrogate her as soon as possible, while some are still on the scene.<end>
+
+=>q146
+Невероятно: скрытый бункер, полный трупов. Я не могу поверить, что Эвелин была способна такое чудовищное преступление. Вам повезло, что вы сумели уйти жив$(#ым/ой). Мои люди уже арестовали её и скоро будут допрашивать, в то время как на месте преступления ведётся следствие.<end>
+
+=>q147_original
+Also, they found this key on her, I guess you'll need it to get your belongings back. You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
+
+=>q147
+Также, они нашли этот ключ, я думаю, он вам понадобится, чтобы вернуть свои вещи. Изобличив её, вы спасли много жизней, примите это скромное вознаграждение. ::Он даёт вам 250 стигийских монет.::<end>
+
+=>q148_original
+Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. You are lucky to have managed to save your hide there. My men have found her corpse and are still on the scene of the crime. You are free to go; you acted in self-defense.<end>
+
+=>q148
+Невероятно: скрытый бункер, полный трупов. Я не могу поверить, что Эвелин была способна на такое чудовищное преступление. Вам повезло, что вы сумели уйти жив$(#ым/ой). Мои люди уже нашли её тело и проводят следствие. К вам нет претензий, вы просто защищались.<end>
+
+=>q149_original
+You saved lives by exposing her, and for that, here's a small reward. ::He gives you 250 stygian coins.::<end>
+
+=>q149
+Изобличив её, вы спасли много жизней, примите это скромное вознаграждение. ::Он даёт вам 250 стигийских монет.::<end>
+
+=>q150_original
+Unbelievable, a hidden bunker full of corpses. I can't believe Evelyn out of all people was capable of committing such monstrous murders. My men are still on the scene, and you, I thank you for notifying us of all this. Who knows how many more men could have been murdered. I dare not to think about it. Here's a small reward for your troubles. ::He gives you 250 stygian coins.::<end>
+
+=>q150
+Невероятно: скрытый бункер, полный трупов. Я не могу поверить, что Эвелин была способна на такое чудовищное преступление. Мои люди всё ещё на месте, а вас я благодарю за то, что сообщили нам об этом. Кто знает, сколько ещё человек могли погибнуть. Страшно подумать. Примите это небольшое вознаграждение за хлопоты. ::Он даёт вам 250 стигийских монет.::<end>
+
+=>q151_original
+You are free to go.<end>
+
+=>q151
+Вы свободны.<end>
+
+=>q152_original
+$(context.player.Name), so far you've proven to me you are a $(#man/woman) I can trust, and because of that I have a small job for you.<end>
+
+=>q152
+$(context.player.Name), до сих пор вы проявили себя как человек, которому я могу доверять, и у меня есть для вас небольшое задание.<end>
+
+=>q153_original
+The Foundry Guard patrolmen have spotted a group of Faceless just west of Foundry. I would like you to go on a reconnaissance mission for us.<end>
+
+=>q153
+Патруль Стражи Литейной обнаружил группу безликих к западу от станции. Я бы хотел, чтобы вы провели для нас разведку.<end>
+
+=>q154_original
+We've been observing them for some time now, but their intentions are not yet clear to us. I just want you to try and find out what they're up to. Nothing else. Your reward will be one hundred charons if you can accomplish the job.<end>
+
+=>q154
+Мы наблюдали за ними в течение некоторого времени, но их намерения пока нам не ясны. Я хочу, чтобы вы просто попытались выяснить, что они затеяли. Больше ничего. Если вам это удастся, ваша награда составит сто харонов.<end>
+
+=>a155_original
+Actually, I already talked to them.<end>
+
+=>a155
+Вообще-то, я уже говорил$(#/а) с ними.<end>
+
+=>a156_original
+I took care of them. They are all dead.<end>
+
+=>a156
+Я разобрал$(#ся/ась) с ними. Они все мертвы.<end>
+
+=>a157_original
+I wanted to talk to you about something first.<end>
+
+=>a157
+Сперва я хотел$(#/а) поговорить с вами кое о чём.<end>
+
+=>q158_original
+Go ahead.<end>
+
+=>q158
+Спрашивайте.<end>
+
+=>a159_original
+Understood. I'm on my way.<end>
+
+=>a159
+Понятно. Я пойду туда.<end>
+
+=>q160_original
+Yes?<end>
+
+=>q160
+Да?<end>
+

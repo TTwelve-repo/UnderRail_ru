@@ -1,0 +1,214 @@
+﻿=>q1_original
+::The short, chubby fellow greets you with an amiable smile and appears to be the owner of the store. However, it instantly becomes clear that he is also a proud owner of one more thing - a long, strong and exceptionally well cared-for beard, one he subconsciously strokes with great delight. Sadly, his voice is in the opposite condition: It has an unhealthy rasp to it and as soon as it rises in pitch even slightly it begins to break - thin out into a weak, breathy voice.::
+
+Good day, $(#sir/ma'am). My name is Bobby Bass, and I wholeheartedly welcome you to my reputable store.<end>
+
+=>q1
+::Невысокий круглолицый хозяин магазина встречает вас любезной улыбкой. Вам в глаза мгновенно бросается его длинная, густая и исключительно хорошо ухоженная борода, которую он механически поглаживает с явным удовольствием. К сожалению, его голос находится не в таком хорошем состоянии: в нём присутствует нездоровая хрипота и он мгновенно ломается, стоит его владельцу повысить его.::
+
+Добрый день, $(#сэр/мэм). Меня зовут Бобби Басс, и я от всего сердца приветствую вас в моём магазине.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me the stuff. ::Barter.::<end>
+
+=>a3
+Покажите мне, что у вас есть. ::Обмен.::<end>
+
+=>a4_original
+What do you sell here?<end>
+
+=>a4
+Что вы тут продаёте?<end>
+
+=>q5_original
+Oh, this is Foundry's general store and it offers a wide variety of items: all kinds of tools and mining equipment, weapons, ammunition, armors, clothes... ::He chuckles.:: Need I go on? All in all, feel free to take a look around, 'cause I'm sure you're bound to find something to your liking.<end>
+
+=>q5
+О, здесь главный магазин Литейной, и мы предлагаем широкий ассортимент товаров: инструмент и горное оборудование всех видов, оружие, боеприпасы, доспехи, одежда... ::Он хихикает.:: Стоит ли продолжать? Прошу вас, осмотритесь, я уверен, что вы обязательно найдёте что-нибудь по вкусу.<end>
+
+=>q6_original
+::He coughs.:: Of course, everything comes at an affordable price, tehe!<end>
+
+=>q6
+::Он кашляет.:: Конечно же, всё по доступным ценам, хе-хе!<end>
+
+=>a7_original
+What can you tell me about this place?<end>
+
+=>a7
+Что вы можете рассказать мне об этом месте?<end>
+
+=>q8_original
+Well... ::He coughs.:: well, Foundry is a mining community. Here, we predominantly mine iron, but the mine is rich with metals like aluminum or titanium, among other things. Most of the population works in the mine, so you can... ::He coughs.:: guess people don't exactly come to Foundry to search for an exciting and innovative work, tehe. ::He begins laughing but is interrupted by coughing.::<end>
+
+=>q8
+Ну... ::Он кашляет.:: Ну, Литейная -- это шахтёрское поселение. Здесь мы преимущественно добываем железо, но шахта богата и другими металлами, такими как алюминий или титан, например. Большинство населения работает в шахте, так что... ::Он кашляет.:: Как понимаете, люди приходят на Литейную не в поисках интересной и прогрессивной работы, хе-хе. ::Он начинает смеяться, но его прерывает кашель.::<end>
+
+=>q9_original
+The best thing about this place is definitely the Foundry Guard. They kept us safe from those mean rock creatures. Bless them!<end>
+
+=>q9
+Лучшее что есть в этом месте -- определённо Стража Литейной. Они защитили нас от этих каменных тварей. Слава им!<end>
+
+=>q10_original
+If you're interested in becoming a miner, you might have to wait a bit. Some mean-looking creatures have ::He coughs.:: showed up in the mine, and it's temporarily closed because of it.<end>
+
+=>q10
+Если вы желаете стать шахтёром, вам, возможно, придётся немного подождать. Какие-то злобные существа... ::Он кашляет.:: появились в шахте, и она временно закрыта из-за этого.<end>
+
+=>a11_original
+Do you know anything about those mine creatures?<end>
+
+=>a11
+Вы что-нибудь знаете об этих существах в шахте?<end>
+
+=>q12_original
+Not much... ::He coughs.:: Just that they've killed some folks and that the mine is closed because of them.<end>
+
+=>q12
+Немного... ::Он кашляет.:: Только то, что они убивают людей и что из-за них закрыта шахта.<end>
+
+=>q13_original
+But I'm sure the Foundry Guard will deal with those mean creatures quite soon. They've got capable men and women working there, and if they can stop barrenheads, tehe, and others from harming us, they'll be able to deal with a few pesky critters too. Right? ::He coughs.::<end>
+
+=>q13
+Но я уверен, что Стража Литейной скоро покончит с этими мерзкими тварями. Там работают очень способные мужчины и женщины, и если они могут остановить чугуноголовых, хе-хе, и других бандитов, то конечно же они в состоянии пристрелить несколько надоедливых тварей. Ведь так? ::Он кашляет.::<end>
+
+=>a14_original
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>a14
+Вы не помните, приносили ли вам какие-нибудь странные предметы? Я не могу дать вам описание, но это что-то, что вы, несомненно, запомнили бы.<end>
+
+=>q15_original
+Interesting that you ask me that: Just recently a strange-looking guy walked in here with a metal box and asked me if I'm interested in buying it. He said there was something "special" in that box. ::He pauses for a moment before continuing.:: Why are you asking me all this?<end>
+
+=>q15
+Представьте себе, да. Совсем недавно сюда приходил странного вида парень с металлической коробкой и спрашивал меня, не куплю ли я её. Он сказал, что внутри неё что-то «особенное». ::Он замолкает на мгновение, прежде чем продолжить.:: А почему вас это интересует?<end>
+
+=>a16_original
+Do you know who he was or what was in the box?<end>
+
+=>a16
+Вы знаете, с кем он был и что было в коробке?<end>
+
+=>q17_original
+Well, no. The man seemed really... off-putting, like someone I wouldn't trust with a bag of gravel, you know. So I told him I'm not interested. Who knows what I could have gotten myself into back then had I bought that thing. After that, he just said goodbye. I peeked through the door after he had left and saw him with some other strange people walking to the bar. Or at least it appeared so from where I was standing.<end>
+
+=>q17
+Ну, нет. Этот мужчина выглядел... отталкивающе, из тех, кому бы я не доверил и мешок гравия, так сказать. Поэтому я сказал ему, что мне это не интересно. Кто знает, во что бы я ввязался, если бы купил эту вещь. После этого он просто сказал до свидания. Я выглянул из дверей после того, как он ушёл, и видел его в компании других странный людей. Они пошли в бар. Ну или по направлению к нему.<end>
+
+=>a18_original
+You didn't get see the contents of the box?<end>
+
+=>a18
+Вы не видели, что в коробке?<end>
+
+=>q19_original
+No, I didn't. I was curious, but I thought, the less I know, the better. ::He coughs.:: So, what is this all about? Who was that man? You look like you know something I don't.<end>
+
+=>q19
+Нет, не видел. Мне было любопытно, но я подумал, что чем меньше я знаю, тем лучше. ::Он кашляет.:: Итак, в чём же было дело? Кто был тот человек? Похоже, вы знаете что-то, чего я не знаю.<end>
+
+=>a20_original
+He's just an old friend of mine. Thank you for your time.<end>
+
+=>a20
+Мой старый друг. Спасибо за ваше время.<end>
+
+=>q21_original
+Um, okay. You're welcome... I suppose.<end>
+
+=>q21
+Хм, ладно. Пожалуйста...<end>
+
+=>a22_original
+The man is some lowlife bandit; you did good by not dealing with him.<end>
+
+=>a22
+Он просто поганый бандит; вы поступили правильно, что не стали вести с ним дел.<end>
+
+=>q23_original
+I knew it! He just had that look about him. Whew, I sure made the right choice, tehe.<end>
+
+=>q23
+Я так и знал! Он и выглядел как бандит. Уф, хорошо, что я сделал правильный выбор, хе-хе.<end>
+
+=>a24_original
+The less you know, the better.<end>
+
+=>a24
+Чем меньше вы знаете, тем лучше.<end>
+
+=>q25_original
+I... Well you got me there, tehe.<end>
+
+=>q25
+Я... Вы, пожалуй, правы, хе-хе.<end>
+
+=>a26_original
+I have my reasons. Please continue.<end>
+
+=>a26
+У меня есть свои причины. Пожалуйста, продолжайте.<end>
+
+=>q27_original
+Okay... So, um, the man seemed really... off-putting, like someone I wouldn't trust with a bag of gravel, you know. So I told him I'm not interested. Who knows what I could have gotten myself into back then had I bought that thing. After that, he just said goodbye. I peeked through the door after he had left and saw him with some other people going to the bar. Or at least it appeared so from where I was standing.<end>
+
+=>q27
+Ладно... этот, эм, мужчина выглядел... отталкивающе, из тех, кому бы я не доверил и мешок гравия, так сказать. Поэтому я сказал ему, что мне это не интересно. Кто знает, во что бы я ввязался, если бы купил эту вещь. После этого он просто сказал до свидания. Я выглянул из дверей после того, как он ушёл, и видел его в компании других странный людей. Они пошли в бар. Ну, или по направлению к нему.<end>
+
+=>a28_original
+Who is that derailed man outside?<end>
+
+=>a28
+Кто этот поехавший на улице?<end>
+
+=>q29_original
+I think he's on some drugs, to tell you the truth. There's something about him that makes me think so. And I'd heard some Core City folks talking about using some "hardcore" drugs there. ::He coughs.:: Maybe that's what he has been taking, but... I don't know for sure. He doesn't sound like he's from Core City.<end>
+
+=>q29
+По-моему, он сидит на каких-то веществах. Что-то в нём есть такое, что наводит на эту мысль. И я слышал, как некоторые люди из Кор-Сити говорят о каких-то «хардкорных» препаратах, которые там в ходу. ::Он кашляет.:: Может быть, и он такие принимает, но... я точно не знаю. Он разговаривает не так, как люди из Кор-Сити.<end>
+
+=>q30_original
+All in all, we just ignore him. He's a bit loud, but other than that he causes no harm. Just ignore him and you're golden.<end>
+
+=>q30
+Обычно, мы просто не обращаем на него внимания. Он немного шумит, но, кроме этого, никому не наносит вреда. Просто игнорируйте его, и всё будет хорошо.<end>
+
+=>a31_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a31
+Как дела теперь, когда шахта вновь открылась?<end>
+
+=>q32_original
+The mayor took care of everything, just as I suspected. I saw the public speaking, and I saw you there with him. Tehe, you must be proud to have worked together with, with the brave men and women of the Foundry Guard. I know I'd be if I was in the presence of those bosses! ::He coughs.::<end>
+
+=>q32
+Мэр обо всём позаботился, как я и думал. Я был на его выступлении и видел вас там. Хе-хе, вы, должно быть, гордитесь, что работали вместе с отважными мужчинами и женщинами Стражи Литейной. Я-то уж точно был бы рад в компании таких боссов! ::Он кашляет.::<end>
+
+=>q33_original
+Tehe.<end>
+
+=>q33
+Хе-хе.<end>
+
+=>a34_original
+See you around. Bye.<end>
+
+=>a34
+Увидимся. До свидания.<end>
+
+=>q35_original
+Hello again, $(#sir/ma'am). What may I interest you in this time, hmm?<end>
+
+=>q35
+И снова здравствуйте, $(#сэр/мэм). Чем я могу заинтересовать вас сегодня, хм?<end>
+

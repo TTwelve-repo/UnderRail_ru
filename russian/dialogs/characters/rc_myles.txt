@@ -1,0 +1,2533 @@
+﻿=>q1_original
+We're closed.<end>
+
+=>q1
+Мы закрыты.<end>
+
+=>q2_original
+Alright, it's up and emitting. Now, if you don't mind, I'm gonna put some distance between it and myself, just in case the Faceless figure out what's going on and decide to plasma-melt it.<end>
+
+=>q2
+Хорошо, он работает и излучает. Теперь, если вы не против, я предпочту сохранять некоторую дистанцию между ним и мной на случай, если безликие выяснят что происходит и решат закидать его плазмой.<end>
+
+=>q3_original
+You have fun now...<end>
+
+=>q3
+Развлекайтесь...<end>
+
+=>q4_original
+Alright - it's done! ::He hands you the refurbished weapon.:: Hope you're happy.<end>
+
+=>q4
+Хорошо - готово! ::Он вручает вам отремонтированное оружие.:: Надеюсь, вы довольны.<end>
+
+=>q5_original
+That was a lot of work, had to go over all the internal parts, then find the right chemicals to treat them - and don't get me started on the external bits. ::He shakes his head but still maintains a smile.::<end>
+
+=>q5
+Было много работы, нужно было пройтись по всем внутренним частям, затем найти нужные химикаты для их обработки - и лучше не будем поднимать тему внешних деталей. ::Он качает головой, но продолжает улыбаться.::<end>
+
+=>q6_original
+Was a lot of fun. If you ever find another chunk of history like this - bring it in.<end>
+
+=>q6
+Было очень весело. Если вы когда-нибудь найдёте ещё такую часть истории - несите.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Let me see what you have to trade. ::Barter.::<end>
+
+=>a8
+Показывайте что у вас есть на продажу. ::Обмен.::<end>
+
+=>a9_original
+Did you ever work on old world firearms before?<end>
+
+=>a9
+Вы когда-нибудь раньше работали над огнестрельным оружием старого мира?<end>
+
+=>q10_original
+Old world? Yeah, I've worked on a couple during my lifetime. ::His face brightens up as he continues.:: You know, what I love the most about some of them is this material they're made of, this... 
+
+...*wood*.<end>
+
+=>q10
+Старый мир? Да, я работал над парой изделий за свою жизнь. ::Его лицо светлеет, когда он продолжает.:: Знаете, что мне больше всего нравится в некоторых из них, так это материал, из которого они сделаны, а именно...
+
+...*дерево*.<end>
+
+=>a11_original
+Wood?<end>
+
+=>a11
+Дерево?<end>
+
+=>q12_original
+Wood.<end>
+
+=>q12
+Дерево.<end>
+
+=>q13_original
+It's this... hard fibrous material. You don't see that in any of the Biocorp's weapons, no.<end>
+
+=>q13
+Это... твёрдый волокнистый материал. Вы не увидите этого ни в одном оружии БиоКорп, нет.<end>
+
+=>a14_original
+::Show him AKX.:: You mean like here?<end>
+
+=>a14
+::Показать ему АКМ.:: Вы имеете в виду это?<end>
+
+=>q15_original
+Would you... ::He smiles.:: Would you look at that beauty. Yes, that's wood. Isn't it great?<end>
+
+=>q15
+Вы... ::Он улыбается.:: Вы только посмотрите на эту красоту. Да, это дерево. Разве оно не великолепно?<end>
+
+=>q16_original
+::After looking at it for some more, he continues.:: <end>
+
+=>q16
+::Посмотрев ещё немного, он продолжает.::<end>
+
+=>q17_original
+Of all the things that exist in this wretched world, this *wood* is something I can find little information about. I only learned its name from some ancient schematic I had.<end>
+
+=>q17
+Из всех вещей, существующих в этом жалком мире, это *дерево* - то, о чём я могу найти мало информации. Я узнал его название только из какой-то древней схемы, которая у меня была.<end>
+
+=>q18_original
+All in all, old world weapons, wooden or not, working with those is a whole lot different than fixing yokel guns. <end>
+
+=>q18
+В общем, оружие старого мира, деревянное или нет, работа с ним сильно отличается от починки современного двуствольного оружия.<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+So, can you take a look at this? ::Give him Dragunov.::<end>
+
+=>a20
+Не могли бы вы взглянуть на это? ::Дать ему снайперскую винтовку Драгунова.::<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>q22_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q22
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q23_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Spearhead frame for some spare parts. ::[Quality 110]::
+
+Add to that a high resolution digital scope and you'll end up with one powerful rifle.<end>
+
+=>q23
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Лидер для некоторых запасных частей. ::[Качество 110]::
+
+Добавьте к этому цифровой прицел высокого разрешения, и вы получите одну мощную винтовку.<end>
+
+=>a24_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a24
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>q25_original
+::He takes everything, including the weapon.:: Alright, time to get started. <end>
+
+=>q25
+::Он забирает всё, включая оружие.:: Ладно, пора начинать.<end>
+
+=>q26_original
+I'm... excited, to be honest.<end>
+
+=>q26
+Я... взволнован, если честно.<end>
+
+=>q27_original
+Should go smoother with the technical manuals you brought me, so I don't think it'll take too long. <end>
+
+=>q27
+С техническими руководствами, что вы мне принесли, должно пройти более гладко, так что не думаю, что это займёт слишком много времени.<end>
+
+=>q28_original
+Anything else you need before I start?<end>
+
+=>q28
+Вам нужно ещё что-нибудь, прежде чем я начну?<end>
+
+=>q29_original
+Can't tell how long it's gonna take exactly, but it won't be quick. <end>
+
+=>q29
+Не могу точно сказать, сколько это займёт времени, но это будет не быстро.<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+Can we negotiate the price?<end>
+
+=>a31
+Можем ли мы договориться о цене?<end>
+
+=>q32_original
+Negotiate the price? Do you know how much work this is gonna take? I'm working with something fairly new. I know, I know - *old*, but new to me. My time is worth that much.<end>
+
+=>q32
+Договориться о цене? Ты хоть представляешь, сколько времени займёт эта работа? Я имею дело с чем-то довольно новым. Знаю, знаю - *старым*, но для меня-то это новое. Именно столько стоит моё время.<end>
+
+=>a33_original
+You could've just said no.<end>
+
+=>a33
+Ты мог бы просто сказать нет.<end>
+
+=>q34_original
+*No*.<end>
+
+=>q34
+*Нет*.<end>
+
+=>q35_original
+But... ::He pauses briefly.:: *If* you can save me time and effort, then I suppose I can lower the price.<end>
+
+=>q35
+Но... ::Он делает короткую паузу.:: *Если* вы сэкономите мне время и силы, тогда, полагаю, я смогу снизить цену.<end>
+
+=>a36_original
+::[Mechanics]:: Sure, I'm ready. Just wheel in a chair for me.<end>
+
+=>a36
+::[Механика]:: Конечно, я готов$(#/а). Просто подкати мне кресло<end>
+
+=>q37_original
+::He waves your idea away.:: No, no. I work with no one. <end>
+
+=>q37
+::Он отмахивается от вашей идеи.:: Нет, нет. Я ни с кем не работаю.<end>
+
+=>q38_original
+What I meant was, if you can find me some, say, schematics, erm - technical manuals or anything of the such it'd help me a lot. It doesn't even have to be for *this* weapon specifically, as a lot of these old world weapons - just like contemporary ones - share parts and design paradigms between them.
+
+That'd save me some time, and it'd save you some coins.<end>
+
+=>q38
+Я имел в виду, что если вы сможете найти, скажем, схемы, технические руководства или что-то подобное, то это мне очень поможет. Даже не обязательно специально для *этого* оружия, так как оружие старого мира - так же, как и современное - имеют общие детали и парадигмы дизайна.
+
+Это сэкономило бы мне время, а вам немного монет.<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>a40_original
+"Old World Firearms." Over thirty thousand technical manuals for, well, old world firearms. ::Put the memory stick on the counter as a full stop to your statement.::<end>
+
+=>a40
+«Огнестрельное оружие Старого мира». Более тридцати тысяч технических руководств по огнестрельному оружию старого мира. ::Положить карту памяти на прилавок, чтобы поставить точку в вашем отчёте.::<end>
+
+=>q41_original
+::He glances at it, then you, then takes it as if it were made of finest wood.:: Didn't know such a thing even existed...<end>
+
+=>q41
+::Он смотрит на него, потом на вас, а потом воспринимает его так, как будто он сделан из лучшего дерева.:: Не знал, что такое вообще существует...<end>
+
+=>a42_original
+You better believe it.<end>
+
+=>a42
+Лучше поверь.<end>
+
+=>q43_original
+Yeah...<end>
+
+=>q43
+Да...<end>
+
+=>q44_original
+Can't wait to check out this little train of goodies here. <end>
+
+=>q44
+Не терпится увидеть этот небольшой поезд вкусностей.<end>
+
+=>q45_original
+Not only is this gonna help me plenty, it's gonna be a riveting read as well.<end>
+
+=>q45
+Мало того, что это мне очень поможет, так ещё и чтение будет захватывающим.<end>
+
+=>a46_original
+Think that should cover pretty much any firearm I bring to you.<end>
+
+=>a46
+Думаю, это должно касаться практически любого огнестрельное оружие, которое я принесу.<end>
+
+=>a47_original
+I found these technical manuals for contemporary and historical pistols and submachine guns.<end>
+
+=>a47
+Я нашёл эти технические руководства для современных и исторических пистолетов и пистолетов-пулемётов.<end>
+
+=>q48_original
+You... did? That's great! ::He pockets the memory stick after taking a look at it.::<end>
+
+=>q48
+Сделано? Замечательно! ::Он кладёт карту памяти в карман едва взглянув на них.::<end>
+
+=>a49_original
+I found these technical manuals for contemporary and historical rifles and shotguns.<end>
+
+=>a49
+Я нашёл эти технические руководства для современных и исторических винтовок и дробовиков.<end>
+
+=>a50_original
+I found these technical manuals for contemporary and historical machine guns.<end>
+
+=>a50
+Я нашёл эти технические руководства для современных и исторических пулемётов.<end>
+
+=>a51_original
+I found these technical manuals for contemporary and historical grenade and rocket launchers.<end>
+
+=>a51
+Я нашёл эти технические руководства для современных и исторических гранатомётов.<end>
+
+=>a52_original
+I've got this old world handgun...<end>
+
+=>a52
+У меня есть этот пистолет старого мира...<end>
+
+=>q53_original
+::He eagerly waits for you to continue.::<end>
+
+=>q53
+::Он с нетерпением ждёт, когда вы продолжите.::<end>
+
+=>q54_original
+<end>
+
+=>q54
+<end>
+
+=>a55_original
+::Show him Bieretta 99.::<end>
+
+=>a55
+::Показать ему Беретту 99.::<end>
+
+=>q56_original
+<end>
+
+=>q56
+<end>
+
+=>q57_original
+Very nice, very nice. ::He aims the gun at the wall.:: Feels good in the hands, I gotta say. Good sights too. 
+
+::He then checks the barrel end.:: It's threaded. Could add a silencer to it.<end>
+
+=>q57
+Очень мило, очень мило. ::Он целится в стену.:: Приятно держать в руках, должен сказать. Прицел тоже хорош.
+
+::Затем он проверяет конец ствола.:: О имеется резьба. Можно добавить глушитель.<end>
+
+=>q58_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q58
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q59_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Neo Luger frame for some spare parts. ::[Quality 110]::
+
+Add to that a silencer and an extended mag and you'll end up with a top-tier pistol.<end>
+
+=>q59
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Нео Люгер для некоторых запасных частей. ::[Качество 110]::
+
+Добавьте к этому глушитель и увеличенный магазин, и вы получите первоклассный пистолет.<end>
+
+=>a60_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
+
+=>a60
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) и все необходимые компоненты.::<end>
+
+=>a61_original
+I have another weapon I wanted to show you...<end>
+
+=>a61
+У меня есть ещё одно оружие, которое я хочу тебе показать...<end>
+
+=>q62_original
+Alright.<end>
+
+=>q62
+Ладно.<end>
+
+=>a63_original
+I'll think about it. Meanwhile, there's this unrelated thing...<end>
+
+=>a63
+Я подумаю об этом. Там было что-то несвязанное...<end>
+
+=>q64_original
+Ah... Let's hear it then.<end>
+
+=>q64
+А, тогда рассказывайте.<end>
+
+=>a65_original
+::Show him Glück 17.::<end>
+
+=>a65
+::Показать ему Глок 17.::<end>
+
+=>q66_original
+<end>
+
+=>q66
+<end>
+
+=>q67_original
+*Glück?* ::He comments after reading its name on the side.:: What kind of a name is Glück? ::He handles the pistol for a few moments, then continues.:: Feels very modern, though. Light, good sights... large magazine.<end>
+
+=>q67
+*Glück?* ::Он комментирует, прочитав название сбоку.:: Что за имя такое Глок? ::Некоторое время он держит пистолет в руках, затем продолжает.::Однако выглядит очень современно. Лёгкий, хороший прицел... большой магазин.<end>
+
+=>q68_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q68
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q69_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 120]::
+
+Add to that a rapid reloader and an extended mag and you'll end up with a top-tier pistol.<end>
+
+=>q69
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Ястреб для некоторых запасных частей. ::[Качество 120]::
+
+Добавьте к этому быструю перезарядку и расширенный магазин, и вы получите пистолет высшего уровня.<end>
+
+=>a70_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a70
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a71_original
+::Show him TT 3000.::<end>
+
+=>a71
+::Показать ему TT 3000.::<end>
+
+=>q72_original
+<end>
+
+=>q72
+<end>
+
+=>q73_original
+Looks like a robust pistol. ::He checks the trigger and the slide.:: Unrefined, sure, but looks like an effective weapon. ::He looks down the sights.:: Although... ::He smirks.:: These sights are no good. Bad picture, not illuminated. Hard to shoot this in the dark.<end>
+
+=>q73
+На первый взгляд надёжный пистолет. ::Он проверяет спусковой крючок и затвор.:: Неочищенный, конечно, но выглядит как эффективное оружие. ::Он смотрит на прицел.:: Хотя... ::Он ухмыляется.:: Эти прицелы никуда не годятся. Плохая картинка, без подсветки. Тяжело стрелять в потёмках.<end>
+
+=>q74_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q74
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q75_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Hawker frame for some spare parts. ::[Quality 110]::
+
+Add to that a laser sight and you'll end up with a top-tier pistol.<end>
+
+=>q75
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Сокольник для некоторых запасных частей. ::[Качество 110]::
+
+Добавьте к этому лазерный прицел, и вы получите первоклассный пистолет.<end>
+
+=>a76_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a76
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a77_original
+::Show him W&S .44 Magnum.::<end>
+
+=>a77
+::Показать ему S&W .44 Магнум.::<end>
+
+=>q78_original
+<end>
+
+=>q78
+<end>
+
+=>q79_original
+What a beautiful revolver... A fourty-four, right? ::He spins the cylinder a few times, cocks the hammer, and then dry fires it a few times.:: The trigger's good. ::He extends his arm and aims the gun at a wall.:: Damn, feels like I could blow a guy's head clean off with this beauty.<end>
+
+=>q79
+Какой красивый револьвер... Сорок четыре, да? ::Он крутит цилиндр несколько раз, взводит курок, а затем несколько раз стреляет вхолостую.:: Курок исправен. ::Он протягивает руку и целится в стену.:: Чёрт, такое ощущение, что я мог бы снести парню голову начисто этой красоткой.<end>
+
+=>q80_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q80
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q81_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons.
+
+Say yes and I'll turn this beauty into a true beast.<end>
+
+=>q81
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов.
+
+Скажи да, и я превращу эту красавицу в настоящего зверя.<end>
+
+=>a82_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a82
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет.::<end>
+
+=>a83_original
+::Show him Wasteland Hawk.::<end>
+
+=>a83
+::Показать ему Пустынный орёл.::<end>
+
+=>q84_original
+<end>
+
+=>q84
+<end>
+
+=>q85_original
+What the...? ::He picks up the handgun, surprised by its weight.:: That's one boulder of a pistol! At least two kilos, if not more.
+
+Doesn't look practical, but I sure as hell wouldn't wanna stare down *that* barrel.<end>
+
+=>q85
+Что за...? ::Он поднимает пистолет, удивлённый его весом.:: Это какая-то разновидность пистолета! Не меньше двух килограммов, если не больше.
+
+Выглядит непрактично, даже смотреть не хочу на *эту* бочку.<end>
+
+=>q86_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q86
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q87_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hammerer frame for some spare parts. ::[Quality 125]::
+
+You get me that and I'll make this hand cannon even more powerful.<end>
+
+=>q87
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Молотобоец для некоторых запасных частей. ::[Качество 125]::
+
+Дай мне это, и я сделаю эту ручную пушку ещё мощнее.<end>
+
+=>a88_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary components.::<end>
+
+=>a88
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) и все необходимые компоненты.::<end>
+
+=>a89_original
+::Show him ZC 99.::<end>
+
+=>a89
+::Показать ему Застава ЦЗ 99.::<end>
+
+=>q90_original
+<end>
+
+=>q90
+<end>
+
+=>q91_original
+Hmmm, hefty gun. ::He pulls the slide.:: Solid steel. Very good.
+
+::He plays with the ambidextrous controls for a bit, tests the trigger and feels with his thumb the loaded chamber indicator pin at the top of the handgun.:: Robust - and remarkably... *authoritative.*<end>
+
+=>q91
+Ммм, здоровенная пушка. ::Он тянет затвор.:: Твёрдая сталь. Отлично.
+
+::Он немного поиграл с симметричным управлением, проверил спусковой крючок и нащупал большим пальцем индикатор заряженного патронника в верхней части пистолета.:: Надёжный - и удивительно... *авторитетный.*<end>
+
+=>q92_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q92
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q93_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Falchion frame for some spare parts. ::[Quality 110]::
+
+Add to that a rapid reloader and you'll end up with a top-tier pistol.<end>
+
+=>q93
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Ястреб для некоторых запасных частей. ::[Качество 110]::
+
+Добавьте к этому быструю перезарядку, и вы получите пистолет высшего уровня.<end>
+
+=>a94_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a94
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a95_original
+I have a different kind of weapon in mind.<end>
+
+=>a95
+У меня на уме совсем другое оружие.<end>
+
+=>a96_original
+I've got this old world submachine gun...<end>
+
+=>a96
+У меня есть этот пистолет-пулемёт старого мира...<end>
+
+=>q97_original
+::He eagerly waits for you to continue.::<end>
+
+=>q97
+::Он с нетерпением ждёт, когда вы продолжите.::<end>
+
+=>q98_original
+<end>
+
+=>q98
+<end>
+
+=>a99_original
+::Show him K&H MP6.::<end>
+
+=>a99
+::Показать ему H&K MP5.::<end>
+
+=>q100_original
+<end>
+
+=>q100
+<end>
+
+=>q101_original
+Now this is what I call an SMG. ::He flips the fire selector, going from the symbol of a single red bullet, to three, and then finally to seven.:: Very well illustrated. ::He then flips it into its safe position - a crossed out white bullet.::<end>
+
+=>q101
+А вот то, что я называю SMG. ::Он щёлкает селектором огня, переходя от символа одиночной красной пули к трём и, наконец, к семи.:: Очень хорошо проиллюстрировано. ::Затем он ставит его на предохранитель - перечёркнутая белая пуля.::<end>
+
+=>q102_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q102
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q103_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Steel Cat frame for some spare parts. ::[Quality 115]::
+
+Add to that a muzzle brake and you'll end up with a mean submachine gun.<end>
+
+=>q103
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Стальной кот для некоторых запасных частей. ::[Качество 115]::
+
+Добавьте к этому дульный тормоз, и вы получите посредственный пистолет-пулемёт.<end>
+
+=>a104_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a104
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a105_original
+::Show him Mini-Izu.::<end>
+
+=>a105
+::Показать ему Мини-Узи.::<end>
+
+=>q106_original
+<end>
+
+=>q106
+<end>
+
+=>q107_original
+::He takes the miniature submachine gun.:: Crude little weapon. Short barrel, probably low accuracy.
+
+::He performs a few quick draws.:: But, but... You can come up to someone and just... ::He aims it with one hand.:: ...*unload* and see what happens.<end>
+
+=>q107
+::Он берёт миниатюрный пистолет-пулемёт.:: Грубое маленькое оружие. Короткий ствол, наверное низкая точность.
+
+::Он делает несколько быстрых щелчков.:: Но, но... Ты можешь подойти к кому-нибудь и просто... ::Он целится одной рукой.:: ...*разрядится* и смотреть, что получилось.<end>
+
+=>q108_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q108
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q109_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a decent Jackrabbit frame for some spare parts. ::[Quality 100]::
+
+Add to that a rapid reloader and you'll end up with a mean little submachine gun.<end>
+
+=>q109
+	
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится приличная рама Заяц для некоторых запасных частей. ::[Качество 100]::
+Добавьте к этому быструю перезарядку, и вы получите небольшой пистолет-пулемёт.<end>
+
+=>a110_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a110
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a111_original
+::Show him NF R90.::<end>
+
+=>a111
+::Показать ему FN P90.::<end>
+
+=>q112_original
+<end>
+
+=>q112
+<end>
+
+=>q113_original
+What an interesting-looking submachine gun... ::He removes the top-loaded magazine and marvels at the design.:: I've seen similar things, but never done like this. Looks very contemporary, and yet oddly at the same time it doesn't...<end>
+
+=>q113
+Какой интересный на вид пистолет-пулемёт... ::Он снимает магазин с верхней загрузкой и восхищается дизайном.:: Я видел подобные вещи, но никогда так не делал. Выглядит очень современно и, как ни странно, в то же время не...<end>
+
+=>q114_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q114
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q115_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Impala frame for some spare parts. ::[Quality 125]::
+
+You get me that and I'll give you a mean submachine gun.<end>
+
+=>q115
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Импала для некоторых запасных частей. ::[Качество 125]::
+
+Дай мне это, а я дам тебе средний пистолет-пулемёт.<end>
+
+=>a116_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a116
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a117_original
+::Show him Syg MPX.::<end>
+
+=>a117
+::Показать ему SIG MPX.::<end>
+
+=>q118_original
+<end>
+
+=>q118
+<end>
+
+=>q119_original
+Seems like submachine guns have changed very little since their old world counterparts. ::He aims the submachine gun at a wall, raising it and lowering a few times.:: Feels good. Has a rail interface system. Unusual one, but one. With a few tweaks I could add a few attachments...<end>
+
+=>q119
+Похоже, что пистолеты-пулемёты очень мало изменились со времён своих старых собратьев. ::Он целится из автомата в стену, поднимая и опуская её несколько раз.:: Баланс хороший. Имеет систему рельсового интерфейса. Весьма необычное. С небольшими изменениями я мог бы добавить несколько вложений...<end>
+
+=>q120_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q120
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q121_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Steel Cat frame for some spare parts. ::[Quality 125]::
+
+Add to that a laser sight and an extended magazine and you'll end up with a mean submachine gun.<end>
+
+=>q121
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Стальной кот для некоторых запасных частей. ::[Качество 125]::
+
+Добавьте к этому лазерный прицел и расширенный магазин, и вы получите посредственный пистолет-пулемёт.<end>
+
+=>a122_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a122
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a123_original
+::Show him Tommy Gun.::<end>
+
+=>a123
+::Показать ему Томми-ган.::<end>
+
+=>q124_original
+<end>
+
+=>q124
+<end>
+
+=>q125_original
+What a beauty! ::He feels the wooden furniture, taking a good look at wood's texture.:: Every gun's different. ::He aims it from the hip.:: Oddly empowering. You don't get that with most submachine guns.<end>
+
+=>q125
+Как красиво! ::Он ощупывает рукоять, внимательно рассматривая текстуру дерева.:: Все пистолеты разные. ::Он целится от бедра.:: Вдохновляющая диковинка. Этого нет у большинства пистолетов-пулемётов.<end>
+
+=>q126_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q126
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q127_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 120]::
+
+Add to that a compensator to keep it steady and you'll end up with a mean submachine gun.<end>
+
+=>q127
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Импала для некоторых запасных частей. ::[Качество 120]::
+
+Добавьте к этому компенсатор, чтобы он оставался устойчивым, и вы получите средний пистолет-пулемёт.<end>
+
+=>a128_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a128
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a129_original
+::Show him RRCh-42.::<end>
+
+=>a129
+::Показать ему ППШ-41.::<end>
+
+=>q130_original
+<end>
+
+=>q130
+<end>
+
+=>q131_original
+Ah, it's stock is made of wood. Incredible! ::He inspects the submachine gun visually.:: What a crude design. Seems like it's made from stamped steel. Still, I wouldn't want to get shot with this.<end>
+
+=>q131
+Ах, его приклад сделан из дерева. Невероятный! ::Он визуально осматривает пистолет-пулемёт.:: Какая грубая конструкция. Вроде из штампованной стали. Тем не менее, я бы не хотел, чтобы меня застрелили из этого.<end>
+
+=>q132_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q132
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q133_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Impala frame for some spare parts. ::[Quality 115]::
+
+You get me that and I'll give you a mean submachine gun.<end>
+
+=>q133
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Импала для некоторых запасных частей. ::[Качество 115]::
+
+Дай мне это, а я дам тебе средний пистолет-пулемёт.<end>
+
+=>a134_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a134
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a135_original
+I've got this old world assault rifle...<end>
+
+=>a135
+У меня есть штурмовая винтовка старого мира...<end>
+
+=>q136_original
+::He eagerly waits for you to continue.::<end>
+
+=>q136
+::Он с нетерпением ждёт, когда вы продолжите.::<end>
+
+=>q137_original
+<end>
+
+=>q137
+<end>
+
+=>a138_original
+::Show him AKX.::<end>
+
+=>a138
+::Показать ему АКМ.::<end>
+
+=>q139_original
+<end>
+
+=>q139
+<end>
+
+=>q140_original
+::He takes the rifle, presses it against his shoulder and aims down the sights at a wall.:: Feels like I'm holding so much history in my hands. Incredible.<end>
+
+=>q140
+::Он берёт винтовку, прижимает её к плечу и наводит прицел на стену.:: Такое ощущение, что у меня в руках так много истории. Невероятно.<end>
+
+=>q141_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q141
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q142_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Huszar frame for some spare parts. ::[Quality 120]::
+
+You get me that and I'll give you one sublime rifle.<end>
+
+=>q142
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Гусар для некоторых запасных частей. ::[Качество 120]::
+
+Дай мне это, и я дам тебе одну превосходную винтовку.<end>
+
+=>a143_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a143
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a144_original
+::Show him K&H KH416.::<end>
+
+=>a144
+::Показать ему H&K HK416.::<end>
+
+=>q145_original
+<end>
+
+=>q145
+<end>
+
+=>q146_original
+Interesting rifle. Supports accessories, although the rail system is a bit different. Lots of room for various attachments.<end>
+
+=>q146
+Интересная винтовка. Поддерживает аксессуары, хотя система направляющих немного отличается. Много места для различных насадок.<end>
+
+=>q147_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q147
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q148_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 120]::
+
+Add to that a forward grip and a scope and you'll end up with one sublime rifle.<end>
+
+=>q148
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Мародёр для некоторых запасных частей. ::[Качество 120]::
+
+Добавьте к этому переднюю рукоятку и прицел, и вы получите великолепную винтовку.<end>
+
+=>a149_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a149
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a150_original
+::Show him N16.::<end>
+
+=>a150
+::Показать ему M16.::<end>
+
+=>q151_original
+<end>
+
+=>q151
+<end>
+
+=>q152_original
+::He holds the rifle, staring at it for a while before speaking.:: You know, it's as if I'm looking at a... at a proto-rifle. Somehow it reminds me of many assault rifles, yet simpler and more elegant somehow.<end>
+
+=>q152
+::Он держит винтовку, некоторое время смотрит на неё, прежде чем заговорить.:: Знаешь, я как будто смотрю на... на протовинтовку. Чем-то она мне напоминает многие штурмовые винтовки, но как-то проще и элегантнее.<end>
+
+=>q153_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q153
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q154_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Marauder frame for some spare parts. ::[Quality 130]::
+
+You get me that and I'll give you one sublime rifle.<end>
+
+=>q154
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Мародёр для некоторых запасных частей. ::[Качество 130]::
+
+Дай мне это, и я дам тебе одну превосходную винтовку.<end>
+
+=>a155_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a155
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a156_original
+::Show him NF F2500.::<end>
+
+=>a156
+::Показать ему FN F2500.::<end>
+
+=>q157_original
+<end>
+
+=>q157
+<end>
+
+=>q158_original
+Very modern-looking. ::He aims the rifle at a wall for a few seconds, then continues.:: If you hadn't told me this is an old world weapon I would've thought this was just some regular rifle.<end>
+
+=>q158
+Очень современный вид. ::Несколько секунд он целится из винтовки в стену, затем продолжает.:: Если бы вы не сказали мне, что это оружие Старого мира, я бы подумал, что это обычная винтовка.<end>
+
+=>q159_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q159
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q160_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
+
+Add to that a rapid reloader and you'll end up with one sublime rifle.<end>
+
+=>q160
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Также мне понадобится качественная рама Шершень для некоторых запасных частей. ::[Качество 135]::
+
+Добавьте к этому быструю перезарядку, и вы получите превосходную винтовку.<end>
+
+=>a161_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a161
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a162_original
+::Show him Steyr-Auch.::<end>
+
+=>a162
+::Показать ему Steyr AUG.::<end>
+
+=>q163_original
+<end>
+
+=>q163
+<end>
+
+=>q164_original
+A bullpup design. Light, very light. Has integrated optics. ::He looks through it.:: Kinda basic but gets the job done. 
+
+::He inspects it again, his eyes lingering on its transparent magazine.:: Striking rifle for sure. Damn.<end>
+
+=>q164
+Дизайн булл-пап . Лёгкий, очень лёгкий. Имеет встроенную оптику. ::Смотрит в прицел.:: Довольно просто, но работу свою выполняет .
+
+::Он снова осматривает его, его глаза задерживаются на открытом магазине.:: Уверенная винтовка. Чёрт возьми.<end>
+
+=>q165_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q165
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q166_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Hornet frame for some spare parts. ::[Quality 135]::
+
+Add to that an extended magazine and you'll end up with one sublime rifle.<end>
+
+=>q166
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Также мне понадобится качественная рама Шершень для некоторых запасных частей. ::[Качество 135]::
+
+Добавьте к этому расширенный магазин, и вы получите великолепную винтовку.<end>
+
+=>a167_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a167
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a168_original
+I've got this old world machine gun...<end>
+
+=>a168
+У меня есть этот пулемёт старого мира...<end>
+
+=>q169_original
+::He eagerly waits for you to continue.::<end>
+
+=>q169
+::Он с нетерпением ждёт, когда вы продолжите.::<end>
+
+=>q170_original
+<end>
+
+=>q170
+<end>
+
+=>a171_original
+::Show him N60 The Warthog.::<end>
+
+=>a171
+::Показать ему M60 Бородавочник.::<end>
+
+=>q172_original
+<end>
+
+=>q172
+<end>
+
+=>q173_original
+Oh, damn - feels like I'm handling a boar. ::He tries resting it against his hip, and thereagainst is where he finds it most comfortable.:: 
+
+Now this... this feels a hell of a lot better. ::He grins with satisfaction.::<end>
+
+=>q173
+Ох, чёрт - такое ощущение, что я управляюсь с кабаном. ::Он пробует приложить его к бедру, и в таком он, похоже, находит его наиболее удобным.::
+
+Вот так... так гораздо лучше. ::Он удовлетворённо ухмыляется.::<end>
+
+=>q174_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q174
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q175_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Guardian frame for some spare parts. ::[Quality 130]::
+
+Add to that an 80-round ammo belt and I'll give you one awe-inspiring machine gun.<end>
+
+=>q175
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Страж для некоторых запасных частей. ::[Качество 130]::
+
+Добавьте к этому ленточный магазин на 80 патронов и я дам вам один потрясающий пулемёт.<end>
+
+=>a176_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a176
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a177_original
+::Show him MG3-42.::<end>
+
+=>a177
+::Показать ему MG3-42.::<end>
+
+=>q178_original
+<end>
+
+=>q178
+<end>
+
+=>q179_original
+::He inspects the machine gun in silence, but his progressively brightening expression tells you all you need to know.:: What a piece - what *a* piece. And whoever preserved it did an incredible job at it: Feels almost like a more recent recreation of a proven old world design.<end>
+
+=>q179
+::Он молча осматривает пулемёт, но его постепенно светлеющее выражение лица говорит обо всём, что нужно знать.:: Что за штука - что за штука. И тот, кто его сохранил, проделал невероятную работу: Чувствуется, что это почти современное воссоздание проверенной конструкции старого мира.<end>
+
+=>q180_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q180
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q181_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Ratchet frame for some spare parts. ::[Quality 120]::
+
+Add to that a 100-round ammo belt and an ergonomic handle and I'll give you one awe-inspiring machine gun.<end>
+
+=>q181
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Храповик для некоторых запасных частей. ::[Качество 120]::
+
+Добавьте к этому ленточный магазин на 100 патронов и эргономичную рукоятку, и я дам вам один потрясающий пулемёт.<end>
+
+=>a182_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a182
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a183_original
+::Show him Brno LMG.::<end>
+
+=>a183
+::Показать ему ZB-30 Зорка.::<end>
+
+=>q184_original
+<end>
+
+=>q184
+<end>
+
+=>q185_original
+Now, that's an unusual place to put the mag. ::He inspects the top-loaded magazine and tries aiming through the sights that are offset to the left.:: Well, if you're left-handed, you're pretty screwed. But it does appear to have been built out of quality materials, so it must've done its job well for someone to hold onto and maintain it all this time.<end>
+
+=>q185
+Это необычное место для магазина. ::Он осматривает магазин, заряженный доверху, и пытается прицелиться через прицел, который смещён влево.:: Ну, если вы левша, то вам придётся несладко. Но, судя по всему, орудие сделано из качественных материалов, так что, тот кто-то хранил и обслуживал его всё это время, должен был хорошо выполнять свою работу.<end>
+
+=>q186_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q186
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q187_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a good Tango frame for some spare parts. ::[Quality 115]::
+
+Add to that a 65-round magazine and a muzzle brake and I'll give you one awe-inspiring machine gun.<end>
+
+=>q187
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Танго для некоторых запасных частей. ::[Качество 115]::
+
+Добавьте к этому коробчатый магазин на 65 патронов и дульный тормоз, и я дам вам один внушающий благоговение пулемёт.<end>
+
+=>a188_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a188
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a189_original
+::Show him GlaShaG-9.::<end>
+
+=>a189
+::Показать ему GlaShaG-9.::<end>
+
+=>q190_original
+<end>
+
+=>q190
+<end>
+
+=>q191_original
+::He looks at it not only as an old-world peculiarity, but as a sort of a puzzle as well.:: Wait, where's the motor? ::He manually turns the barrel assembly, the regularly-spaced clicks amusingly symbolizing the inner workings of his muddled thinking.:: It's self-powered? It's self-powered *and* it can use an external motor? 
+
+Well, well... now I'm getting ideas.<end>
+
+=>q191
+::Он смотрит на него не только как на особенность старого мира, но и как на своеобразную головоломку.:: Погодите, а где же мотор? ::Он вручную поворачивает ствол в сборе, регулярно раздающиеся щелчки забавно символизируют внутреннюю работу его запутанных мыслей.:: Это самопитание? Самостоятельное питание *и* возможность использования внешнего двигателя?
+
+Так, так... теперь у меня есть идеи.<end>
+
+=>q192_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q192
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q193_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Destroyer frame for some spare parts. ::[Quality 125]::
+
+You get me that and a 100-round ammo belt and a Jumpstarter 2 motor and I'll unlock its true hybrid-powered potential.<end>
+
+=>q193
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Разрушитель для некоторых запасных частей. ::[Качество 125]::
+
+Добавьте к этому ленточный магазин на 100 патронов, и мотор Jumpstarter 2, и я раскрою его истинный гибридный потенциал.<end>
+
+=>a194_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a194
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a195_original
+I've got this old world shotgun...<end>
+
+=>a195
+У меня есть этот дробовик старого мира...<end>
+
+=>q196_original
+::He eagerly waits for you to continue.::<end>
+
+=>q196
+::Он с нетерпением ждёт, когда вы продолжите.::<end>
+
+=>q197_original
+<end>
+
+=>q197
+<end>
+
+=>a198_original
+::Show him Double-barreled shotgun.::<end>
+
+=>a198
+::Показать ему двуствольный дробовик.::<end>
+
+=>q199_original
+<end>
+
+=>q199
+<end>
+
+=>q200_original
+Now, I've seen double-barreled shotguns, but ones with a stock made of wood... Gives the weapon a much different, historic look.<end>
+
+=>q200
+Так вот, я видел двуствольное ружьё, но с деревянным прикладом... Придаёт оружию совсем другой, исторический вид.<end>
+
+=>q201_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q201
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q202_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. The barrel ends are corroded, so I'll just use one of Travis' machines to cut it a bit shorter. You'll get a bigger spread, which is not always a bad thing, but the gun will definitely work a lot more reliably.
+
+Say yes and you'll be shooting this double-barreled beast with style.<end>
+
+=>q202
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Концы ствола покрыты коррозией, так что я воспользуюсь одной из машинок Трэвиса, чтобы немного подрезать ствол. Вы получите больший разброс, что не всегда плохо, но пистолет определённо будет работать намного надёжнее.
+
+Скажите «да», и вы будете стильно стрелять в этого двуствольного зверя.<end>
+
+=>a203_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a203
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет.::<end>
+
+=>a204_original
+::Show him Salvation-13.::<end>
+
+=>a204
+::Показать ему Спасение-13.::<end>
+
+=>q205_original
+<end>
+
+=>q205
+<end>
+
+=>q206_original
+::He flips the interesting holed stock.:: Never seen anything like it. ::Then he pumps the shotgun, the sound it made provoking him to grin with satisfaction.:: Oh, yeah...<end>
+
+=>q206
+::Он подбрасывает на руке интересный приклад с отверстиями.:: Никогда не видел ничего подобного. ::Затем он заряжает дробовик, звук этого действа вызывает у него удовлетворённую ухмылку.:: О, да...<end>
+
+=>q207_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q207
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q208_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Despot frame for some spare parts. ::[Quality 135]::
+
+You get me that and I'll give you one powerful shotgun.<end>
+
+=>q208
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Деспот для некоторых запасных частей. ::[Качество 135]::
+
+Дай мне это, и я дам тебе один мощный дробовик.<end>
+
+=>a209_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a209
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a210_original
+::Show him Rancor.::<end>
+
+=>a210
+::Показать ему Злобу.::<end>
+
+=>q211_original
+<end>
+
+=>q211
+<end>
+
+=>q212_original
+This... is a shotgun? ::He takes the shotgun, amazed by its curious design.:: At first glance it looked like it fires grenades or something of that kind. Incredible...<end>
+
+=>q212
+Это... дробовик? ::Он берёт дробовик, поражённый его необычным дизайном.:: На первый взгляд он выглядит так, будто из него стреляют гранатами или чем-то в этом роде. Невероятно...<end>
+
+=>q213_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q213
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q214_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tyranny frame for some spare parts. ::[Quality 135]::
+
+You get me that and I'll give you one powerful shotgun.<end>
+
+=>q214
+Я сделаю это за $(tempcontext.RefurbishmentPrice) хароноа. Мне также понадобится качественная рама Тиран для некоторых запасных частей. ::[Качество 135]::
+
+Дай мне это, и я дам тебе один мощный дробовик.<end>
+
+=>a215_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a215
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a216_original
+I've got this old world sniper rifle...<end>
+
+=>a216
+У меня есть снайперская винтовка старого мира...<end>
+
+=>q217_original
+::He eagerly waits for you to continue.::<end>
+
+=>q217
+::Он с нетерпением ждёт, когда вы продолжите.::<end>
+
+=>q218_original
+<end>
+
+=>q218
+<end>
+
+=>a219_original
+::Show him AFW.::<end>
+
+=>a219
+::Показать ему AWF.::<end>
+
+=>q220_original
+<end>
+
+=>q220
+<end>
+
+=>q221_original
+This is one slick sniper rifle. ::He aims it at a wall.:: If only I was in a thousand-meter tunnel. With the right scope, I could pick anyone off - with a headshot. Damn...<end>
+
+=>q221
+Это одна гладкая снайперская винтовка. ::Он целится в стену.::Если бы я был в тысячеметровом туннеле. С правильным прицелом я мог бы застрелить кого угодно - выстрелом в голову. Чёрт побери...<end>
+
+=>q222_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q222
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q223_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Reaper frame for some spare parts. ::[Quality 120]::
+
+Add to that a bipod and you'll end up with one powerful rifle.<end>
+
+=>q223
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Жнец для некоторых запасных частей. ::[Качество 120]::
+
+Добавьте к этому сошки, и вы получите одну мощную винтовку.<end>
+
+=>a224_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a224
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a225_original
+::Show him Black Arrow.::<end>
+
+=>a225
+::Показать ему Чёрную стрелу.::<end>
+
+=>q226_original
+<end>
+
+=>q226
+<end>
+
+=>q227_original
+::You drop the rifle on the counter, perpendicular to the latter's length, and the thud sends everything on the counter bouncing a few centimeters into the air.:: Hey, watch it! ::He looks at the gun like a curious child.:: What is this thing made for, anyway? Shooting trains? Damn...<end>
+
+=>q227
+::Вы бросаете винтовку на прилавок перпендикулярно длине последнего, и от удара всё на прилавке подпрыгивает на несколько сантиметров в воздух.:: Эй, смотрите! ::Он смотрит на оружие, как любопытный ребёнок.:: И вообще, для чего эта штука? Поезд застрелить? Чёрт возьми...<end>
+
+=>q228_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q228
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q229_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Harbinger frame for some spare parts, and some super steel. ::[Both quality 145]:: The super steel is needed to make a few replacement parts, for which I'll need one of Travis' machines. 
+
+You get me all that I'll give you an *absolute* killing machine.<end>
+
+=>q229
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Вестник для некоторых запасных частей и немного сверхстали. ::[Оба качества 145]:: Суперсталь нужна для изготовления нескольких запасных частей, для чего мне понадобится одна из машин Трэвиса.
+
+Дай мне всё это, и я дам тебе *абсолютную* машину для убийств.<end>
+
+=>a230_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a230
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a231_original
+::Show him Dragunov.::<end>
+
+=>a231
+::Показать ему снайперскую винтовку Драгунова.::<end>
+
+=>q232_original
+<end>
+
+=>q232
+<end>
+
+=>q233_original
+Wait a minute - I know this rifle! ::He smiles, clearly appreciating the look of the wooden components.:: What a beauty! Yes, yes, one of Herve's men brought it from somewhere one day, but the rat bastard would never let me touch it. ::Then his face turns serious. His eyes fall upon you, but he decides against commenting any further.::<end>
+
+=>q233
+Подождите, я знаю эту винтовку! ::Он улыбается, явно оценивая внешний вид деревянных деталей.:: Какая красота! Да-да, один из людей Эрве однажды принёс её откуда-то, но этот крысиный ублюдок ни за что не дал мне к ней прикоснуться. ::Затем его лицо становится серьёзным. Он оценивающе смотрит на вас, но решает не комментировать дальше.::<end>
+
+=>q234_original
+<end>
+
+=>q234
+<end>
+
+=>a235_original
+I've got this old world grenade launcher...<end>
+
+=>a235
+У меня есть этот старый добрый гранатомёт старого мира...<end>
+
+=>q236_original
+::He eagerly waits for you to continue.::<end>
+
+=>q236
+::Он с нетерпением ждёт, когда вы продолжите.::<end>
+
+=>q237_original
+<end>
+
+=>q237
+<end>
+
+=>a238_original
+::Show him Thumper.::<end>
+
+=>a238
+::Показать ему M79 Тампер.::<end>
+
+=>q239_original
+<end>
+
+=>q239
+<end>
+
+=>q240_original
+This looks... military. ::He marvels at the wooden stock for a while before elaborating further.:: Most of the shoulder-fired single-shots I see are makeshift tube-with-trigger kind of weapons, so seeing how a military of the past designed these... now that's a novelty. ::He pushes the barrel locking hatch and lets gravity pull the barrel down.:: Could use some love, but otherwise... ::He closes the action.:: ...it's rock solid.<end>
+
+=>q240
+Выглядит... по-военному. ::Он некоторое время любуется деревянным прикладом, прежде чем рассказать дальше.:: Большинство плечевых однозарядных орудий, которые я видел, - это самодельные трубки со спусковым курком, так что увидеть, как военные-инженеры прошлого спроектировали этот... это для меня новинка. ::Он нажимает на защёлку для запирания ствола и позволяет гравитации потянуть ствол вниз.:: Не помешало бы немного доработать, но в остальном... ::Он закрывает механизм.:: ...он надёжен.<end>
+
+=>q241_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q241
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q242_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons.
+
+Say yes and I'll turn this into an even more rocking grenade launcher.<end>
+
+=>q242
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов.
+
+Скажи да, и я превращу это в ещё более мощный ствольный гранатомёт.<end>
+
+=>a243_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a243
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет.::<end>
+
+=>a244_original
+::Show him Milcore MGL.::<end>
+
+=>a244
+::Показать ему M32 Милкор МПГ.::<end>
+
+=>q245_original
+<end>
+
+=>q245
+<end>
+
+=>q246_original
+Hey, this one's pretty light. And I guess this launcher is proof that simplicity was, is, and always will be a key concept in firearm development. ::He rotates the cylinder.:: The springs are still good. ::He then aims it across the room.:: But I'd still prefer a proper scope on this one. 
+
+Boom!<end>
+
+=>q246
+Эй, этот красавец довольно лёгкий. И я полагаю, что эта пусковая установка - доказательство того, что простота была, есть и всегда будет ключевой концепцией в разработке огнестрельного оружия: Пружины всё ещё хороши. ::Затем он прицеливается через комнату.:: Но я всё же предпочёл бы установить на него нормальный прицел.
+
+Бабах!<end>
+
+=>q247_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q247
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+<end>
+
+=>q248_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Mangonel frame for some spare parts. ::[Quality 125]::
+
+Add to that an 8-shot cylinder and a launcher scope, and I'll give you one rocking grenade launcher.<end>
+
+=>q248
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится качественная рама Мангонель для некоторых запасных частей. ::[Качество 125]::
+
+Добавьте к этому 8 зарядный барабан и прицел гранатомёта, и вы получите ствольный гранатомёт.<end>
+
+=>a249_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a249
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a250_original
+::Show him Punisher.::<end>
+
+=>a250
+::Показать ему XM-25 Каратель.::<end>
+
+=>q251_original
+<end>
+
+=>q251
+<end>
+
+=>q252_original
+This, uh, weights a lot more than I thought it would. And would you look at the calculator on this thing. ::He toys with the targeting controls for a moment before putting it on the counter.:: *Fascinating*. These old target acquisition and fire control systems truly are a sight to behold whenever they show up.<end>
+
+=>q252
+Он весит гораздо больше, чем я думал. И посмотрите на калькулятор на этой штуке. ::Он немного повозился с управлением наведением, прежде чем положить его на стойку.:: *Захватывающе*. Эти старые системы захвата цели и управления огнём действительно представляют собой фантастическое зрелище, когда они наводятся.<end>
+
+=>q253_original
+::After thoroughly inspecting the weapon, he nods and addresses you.::
+
+<end>
+
+=>q253
+::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+
+<end>
+
+=>q254_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Tsar frame for some spare parts. ::[Quality 130]::
+
+Add to that a 10-round magazine and a long 25mm barrel, and I'll give you one rocking grenade launcher.<end>
+
+=>q254
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Также мне понадобится качественная рама Царь для некоторых запасных частей. ::[Качество 130]::
+
+Добавьте к этому коробочный 10 зарядный магазин для гранатомёта и длинный ствол на 25 мм, и вы получите ствольный гранатомёт.<end>
+
+=>a255_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
+
+=>a255
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+
+=>a256_original
+I've got this old world rocket launcher...<end>
+
+=>a256
+У меня есть эта старая ракетная установка...<end>
+
+=>q257_original
+::He eagerly waits for you to continue.::<end>
+
+=>q257
+::Он с нетерпением ждёт, когда вы продолжите.::<end>
+
+=>q258_original
+<end>
+
+=>q258
+<end>
+
+=>a259_original
+::Show him N202 Gleam.::<end>
+
+=>a259
+::Покажите ему N202 Gleam.::<end>
+
+=>q260_original
+<end>
+
+=>q260
+<end>
+
+=>q261_original
+::He makes some room on the counter for a weapon of such unapologetic proportions.:: Damn... four tubes. Enough to blow up a station or two. ::Then he looks through each tube.:: Hm. One is damaged. Bent inward. Someone must've dropped it real good. Looks fixable, though.<end>
+
+=>q261
+::Он освобождает место на столе для оружия таких непристойных размеров.:: Вот это да... четыре трубы. Хватит, чтобы взорвать станцию, а то и две. ::Он заглябывает в каждую труку.:: Хм. Тут повреждения. Деформирован профиль. Должно быть, кто-то как следует уронил... Но ничего непоправимого.<end>
+
+=>q262_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. First I'll need some super steel to fix the tube. ::[Quality 110]:: Guess I could use one of Travis' machines for that.
+
+Add to that a launcher scope and a forward grip, and you'll be causing cave-ins with this thing.<end>
+
+=>q262
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Прежде всего, мне понадобится суперсталь, чтобы починить трубу. ::[Качество 110]:: Думаю, я мог бы что-то снять с одного из мопедов Трэвиса.
+
+Добавим сюда прицел для гранатомета и переднюю рукоять, и ты с этой штукой сможешь пещеру осыпать.<end>
+
+=>a263_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a263
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет.::<end>
+
+=>a264_original
+::Show him Hoatzin-84.::<end>
+
+=>a264
+::Показать ему Хоацин-84.::<end>
+
+=>q265_original
+<end>
+
+=>q265
+<end>
+
+=>q266_original
+::He picks up the launcher and aims it around the room, all the while being intently focused on its firing control unit. You take a step back after he nearly hits you in the face with the launcher's rear end.::
+
+Target at, uh, a thousand meters. Ready... Aim... **Fire!** ::Click! And then he puts it down.:: Boom, I guess. Somewhere at the other end of a very long tunnel. Amazing.<end>
+
+=>q266
+::Он взваливает на плечо пусковую установку и кружит с ней по комнате, сосредоточившись на ее блоке управления стрельбой. Вам приходится сделать шаг назад, чтобы не получить удара трубой гранатомета.::
+
+Цель на расстоянии, э-э, тысячи метров. Готовьсь... Цельсь... **ПЛИ!** ::Щелк! Он опускает установку.:: Бдыщь, видимо. Где-то на другом конце очень длинного туннеля. Потрясно.<end>
+
+=>q267_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons. I'll also need a high-quality Maul frame for some spare parts. ::[Quality 130]::
+
+Add to that an electromagnetic rail catapult, and you'll be causing cave-ins with this thing.<end>
+
+=>q267
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Еще мне понадобится качественная рама Маула на запчасти. ::[Качество 130]::
+
+Добавить сюда электромагнитную рельсовую катапульту, и ты с этой штукой сможешь пещеру осыпать.<end>
+
+=>a268_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a268
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет.::<end>
+
+=>a269_original
+::Show him SPG-7.::<end>
+
+=>a269
+::Показать ему СПГ-7.::<end>
+
+=>q270_original
+<end>
+
+=>q270
+<end>
+
+=>q271_original
+Ah, wood and steel. So simple. So elegant. ::He looks at it for a while.:: Smaller caliber, but I guess most of the rocket is outside the tube. Or is it a grenade of some kind? Well, whatever it is, seems straightforward enough.<end>
+
+=>q271
+Ах, дерево и сталь. Так просто. Так элегантно. ::Он некоторое время занят созерцанием.:: Калибр маловат; видимо, основная часть ракеты находится снаружи трубы. Или какая-нибудь граната? Ну, что бы там ни было, выглядит достаточно просто.<end>
+
+=>q272_original
+I'll do it for $(tempcontext.RefurbishmentPrice) charons.
+
+Bring me an airburst scope and an ergonomic firing mechanism, and you'll be causing cave-ins with this thing.<end>
+
+=>q272
+Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов.
+
+Принеси мне гранатометный прицел и эргономичный ударно-спусковой механизм, и ты с этой штукой сможешь пещеру осыпать.<end>
+
+=>a273_original
+Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
+
+=>a273
+Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет.::<end>
+
+=>a274_original
+What can you tell me about wood?<end>
+
+=>a274
+Что можешь рассказать о древесине?<end>
+
+=>q275_original
+Not much beyond what I told you. I first saw it on this old world rifle a scavenger friend of mine found in some old Biocorp military warehouse. More than half of that thing was made of wood, and the manual that he found with it mentions the name of the material.
+
+*One-piece wooden stock.* Still remember the line.<end>
+
+=>q275
+Не намного больше того, что я уже сказал. Я впервые увидел его на винтовке старого мира, которую мой друг-мусорщик нашёл на каком-то старом военном складе Биокорп. Больше половины этой штуки было сделано из дерева, и в инструкции, которую он нашёл вместе с ней, упоминается название материала.
+
+*Цельное деревянное ложе.* До сих пор помню эту линейку.<end>
+
+=>q276_original
+Interesting rifle that was: It was a semi-auto, loaded from the top with an eight-round clip. Powerful thing, and once you fired all the rounds, the clip flew out with a funny *ping*! Quite funny, but it's only funny until your thumb gets in the way of the bolt as it's chambering the first round of a clip you're pushing in. Both of us got *wood* thumbs - as we called them - before we learned how to properly load the rifle.<end>
+
+=>q276
+Интересная винтовка была: полуавтоматическая, заряжалась сверху восьмизарядной обоймой. Мощная штука, и как только вы отстреляли все патроны, обойма вылетела со смешным *писком*! Довольно забавно, но это забавно только до тех пор, пока ваш большой палец не встанет на пути затвора, когда он досылает первый патрон в обойму, которую вы вставляете. У нас обоих были *деревянные* большие пальцы, как мы их называли, прежде чем мы научились правильно заряжать винтовку.<end>
+
+=>a277_original
+Go on.<end>
+
+=>a277
+Продолжай.<end>
+
+=>q278_original
+All in all, <end>
+
+=>q278
+В общем и целом,<end>
+
+=>q279_original
+I really didn't have the heart to cut the rifle apart and see how the wood looks on the inside. But what I saw in the only other wooden firearm was that its wood was made with a different color and fiber size. It had its protective coating damaged, and I could feel the wood beneath. It had a very nice, smooth, smooth feel to it.<end>
+
+=>q279
+У меня действительно не хватило духу разрезать винтовку и посмотреть, как дерево выглядит внутри. Но однажды в другом деревянном огнестрельном оружии я увидел, что его древесина была другого цвета и с другим размером волокна. У него было повреждено защитное покрытие, и я чувствовал дерево под ним. У него было очень приятное, гладкое, гладкое ощущение.<end>
+
+=>q280_original
+My guess is that wood was abundant in the days when these weapons were produced. Either the materials it was made from ran out, or the technology to make it was lost. Or... more suitable materials were found. Those guns I saw had no electronics or accessory systems - maybe they predate them.
+
+::He shrugs.:: Who knows. But to me, guns with wooden furniture look the best, the best - no doubt about it.<end>
+
+=>q280
+Я полагаю, что в те дни, когда производилось это оружие, древесины было в изобилии. Либо материалы, из которых оно было сделано, закончились, либо технология его изготовления была утеряна. Или... нашлись более подходящие материалы. В тех пистолетах, которые я видел, не было ни электроники, ни вспомогательных систем - возможно, они появились раньше.
+
+::Он пожимает плечами.:: Кто знает. Но на мой вкус, лучше всего смотрятся ружья с деревянными деталями - в этом нет сомнений.<end>
+
+=>a281_original
+We were discussing the material.<end>
+
+=>a281
+Мы обсуждали материал.<end>
+
+=>q282_original
+I was *just* getting to that. <end>
+
+=>q282
+Я *как раз* подходил к этому.<end>
+
+=>a283_original
+I had something else in mind.<end>
+
+=>a283
+У меня было кое-что ещё на уме.<end>
+
+=>q284_original
+Alright.<end>
+
+=>q284
+Ладно.<end>
+
+=>a285_original
+How can I do that?<end>
+
+=>a285
+Как мне это сделать?<end>
+
+=>a286_original
+I know. But still, can we negotiate the price?<end>
+
+=>a286
+Я знаю. Но всё же, можем ли мы договориться о цене?<end>
+
+=>a287_original
+I got some other old world weapons to show you.<end>
+
+=>a287
+У меня есть ещё кое-какое оружие старого мира, чтобы показать тебе.<end>
+
+=>q288_original
+Can't wait.<end>
+
+=>q288
+Не могу дождаться.<end>
+
+=>q289_original
+
+
+So, show me what you had there again.<end>
+
+=>q289
+Итак, покажи мне, ещё раз, что там у тебя было.<end>
+
+=>q290_original
+If you got any, I'm all up for it.<end>
+
+=>q290
+Если у вас есть, я полностью за.<end>
+
+=>a291_original
+::Show him Tommy Gun.:: You mean like here?<end>
+
+=>a291
+::Показать ему Томми-ган.:: Вы имеете в виду это?<end>
+
+=>a292_original
+::Show him RRCh-42.:: You mean like here?<end>
+
+=>a292
+::Показать ему ППШ-41.:: Вы имеете в виду это?<end>
+
+=>a293_original
+::Show him Double-barreled shotgun.:: You mean like here?<end>
+
+=>a293
+::Показать ему двуствольный дробовик.:: Вы имеете в виду это?<end>
+
+=>a294_original
+::Show him Dragunov.:: You mean like here?<end>
+
+=>a294
+::Показать ему снайперскую винтовку Драгунова.:: Вы имеете в виду это?<end>
+
+=>q295_original
+<end>
+
+=>q295
+<end>
+
+=>a296_original
+::Show him Thumper.:: You mean like here?<end>
+
+=>a296
+::Показать ему M79 Тампер.:: Вы имеете в виду это?<end>
+
+=>a297_original
+::Show him SPG-7.::<end>
+
+=>a297
+::Показать ему СПГ-7.::<end>
+
+=>a298_original
+Never seen such a thing.<end>
+
+=>a298
+Никогда такого не видел.<end>
+
+=>a299_original
+What sort of firearms do you repair?<end>
+
+=>a299
+Какое огнестрельное оружие вы ремонтируете?<end>
+
+=>q300_original
+*Junk.* And I'd rather not.<end>
+
+=>q300
+*Хлам.* И я бы предпочёл этого не делать.<end>
+
+=>q301_original
+So don't come to me unless you've got something worth repairing.<end>
+
+=>q301
+Так что не приходи ко мне, если тебе нечего чинить.<end>
+
+=>a302_original
+When is my weapon going to be ready?<end>
+
+=>a302
+Когда моё оружие будет готово?<end>
+
+=>q303_original
+Hey, I barely even started! Have some patience.<end>
+
+=>q303
+Эй, я едва начал! Наберитесь терпения.<end>
+
+=>q304_original
+<end>
+
+=>q304
+<end>
+
+=>q305_original
+Almost done! Just got to do some final polishing and this beauty will be back in your hands.<end>
+
+=>q305
+Почти готово! Осталось окончательно отполировать и эта красота снова будет в ваших руках.<end>
+
+=>q306_original
+I'm done with the internals, and now I'm working on the <end>
+
+=>q306
+Я закончил с внутренностями, и теперь я работаю над<end>
+
+=>q307_original
+barrels. <end>
+
+=>q307
+стволы.<end>
+
+=>q308_original
+After that I'll do the cleaning and polishing, and that'll be that.<end>
+
+=>q308
+После этого я займусь чисткой и полировкой, и всё.<end>
+
+=>q309_original
+barrel. <end>
+
+=>q309
+ствол.<end>
+
+=>q310_original
+Still got a long way to go. I'm working on the internal mechanism, figuring out how this thing's assembled. A lot of work on the external bits after that... so come back later. *Later*.<end>
+
+=>q310
+Ещё предстоит пройти долгий путь. Я работаю над внутренним механизмом, выясняю, как устроена эта штука. После этого предстоит много работы над внешними элементами... так что зайдите позже. *Позже*.<end>
+
+=>a311_original
+About old world weapons...<end>
+
+=>a311
+Об оружии старого мира...<end>
+
+=>q312_original
+Got another one for me?<end>
+
+=>q312
+Есть ещё что для меня?<end>
+
+=>q313_original
+Alright, what've you got for me?<end>
+
+=>q313
+Хорошо, что там у тебя?<end>
+
+=>a314_original
+::[Persuade]:: Why don't we try disabling those plasma walkers anyway? Just in case the Faceless decide to attack.<end>
+
+=>a314
+::[Убеждение]:: Почему бы нам всё равно не попробовать разобрать этих плазменных роботов? Просто на случай если безликие решат напасть.<end>
+
+=>q315_original
+Hmm... I dunno... maybe that wouldn't be a bad move after all.<end>
+
+=>q315
+Хм-м... Не знаю... может быть, это было бы неплохим решением.<end>
+
+=>q316_original
+Alright, listen... take notes or whatever 'cause I'm not going to explain this again.<end>
+
+=>q316
+Ладно, слушайте... записывайте, если хотите, потому что я не собираюсь повторять это снова.<end>
+
+=>q317_original
+South of Rail Crossing there's an abandoned warehouse. Follow the eastern platform along the tracks, then turn west into the first fenced area to reach it, just after the tracks begin descending into a dark tunnel. I've been there a couple of times before, scavenging. It's not a terribly dangerous place, but it's also pretty well locked up so I couldn't get that much out of it.<end>
+
+=>q317
+К югу от Переезда есть заброшенный склад. Идите по восточной платформе вдоль рельс, потом сверните на запад на огороженную территорию как раз перед местом, где рельсы спускаются в тёмный туннель. Я был там пару раз, мусорничал. Это не слишком опасное место, но зато очень хорошо запечатанное, так что я мало что смог оттуда вытащить.<end>
+
+=>q318_original
+The strange thing about that place is that there was this room in there, and in the center of it was some sort of a pedestal. On top of it, something resembling an energy cell was attached. Bunch of power cables were connected to the pedestal like it was constantly charging the device with power, ya know.<end>
+
+=>q318
+Самым странным в этом месте была комната, в центре которой находилось что-то вроде пьедестала. Сверху на нём было закреплено что-то похожее на энергетическую ячейку. Пучок силовых кабелей был подключён к пьедесталу, как если бы для постоянной зарядки устройства, понимаете.<end>
+
+=>q319_original
+I couldn't tell exactly what it was back then, though it did seem familiar. Later I remembered seeing one of those things, the device that was on the top of the pedestal. <end>
+
+=>q319
+Я не мог тогда точно сказать, что это было, хотя оно показалось мне знакомым. Позже я вспомнил, что видел похожую штуку; я имею в виду устройство, которое было на вершине пьедестала.<end>
+
+=>q320_original
+I've read about it in a book about the Old Wars. It's called an *active pulse capacitor*, and while I don't know its inner workings, I do know it was used in combination with electromagnetic emitters to disable high power devices across a wide area.<end>
+
+=>q320
+Я читал об этом в книге о Старых Войнах. Оно называется *активный импульсный конденсатор*, и хотя я не знаю его внутреннее устройство, я знаю, что его использовали в сочетании с электромагнитными излучателями для отключения устройств высокой мощности на обширной территории.<end>
+
+=>q321_original
+Such as enemy's electronic vehicles and energy weaponry. Which is just perfect for us, because I bet if I mounted that thing on my little emitter over there I could send a pulse so strong it would knock those plasma walkers out completely.<end>
+
+=>q321
+Таких как вражеские электрические транспортные средства и энергетическое оружие. И это нам подходит идеально, потому что, готов поспорить, что если я установлю эту штуку на мой маленький излучатель вон там, то смогу послать импульс настолько сильный, что он полностью вырубит этих плазменных роботов.<end>
+
+=>q322_original
+All you have to do is go and get that thing.<end>
+
+=>q322
+Всё, что нужно, это пойти и принести эту штуку.<end>
+
+=>q323_original
+<end>
+
+=>q323
+<end>
+
+=>a324_original
+::[Intelligence]:: But there's a catch, right? You're not sure what's going to happen if you remove the capacitor from the pedestal. Otherwise you would have done so already.<end>
+
+=>a324
+::[Интеллект]:: Но есть загвоздка, верно? Вы не знаете, что произойдёт, если снять конденсатор с пьедестала. Иначе вы бы уже сами забрали его.<end>
+
+=>q325_original
+::He smirks and points his finger at you.:: You're a smart $(#boy/girl), aren't you? You're absolutely correct. Who knows what might happen if you pull that thing out. You might get electrocuted, trigger a timed bomb, who knows? It's for you to find out, not me.<end>
+
+=>q325
+::Он усмехается и трясёт на вас пальцем.:: Вы умн$(#ый/ая) $(#мальчик/девочка), не так ли? Вы совершенно правы. Никто не знает, что может случиться, если отсоединить эту штуку. Вас может убить током, запустится бомба замедленного действия, кто знает? Это вам придётся выяснить, не мне.<end>
+
+=>a326_original
+::[Intelligence]:: Wait a second. If the area is not dangerous as you said, why didn't you go back and get the capacitor yourself?<end>
+
+=>a326
+::[Интеллект]:: Подождите секундочку. Если там так безопасно, почему вы не вернулись и не забрали конденсатор себе?<end>
+
+=>q327_original
+Because I have no idea what will happen if I remove it from the pedestal, that's why. And I'm not going to risk getting myself electrocuted.<end>
+
+=>q327
+Потому что я понятия не имею, что произойдёт, если я уберу его с пьедестала -- вот почему. И я не хочу рисковать, чтобы меня там убило током.<end>
+
+=>a328_original
+Okay, I'll do it.<end>
+
+=>a328
+Хорошо, я сделаю это.<end>
+
+=>q329_original
+Very good. Bring it back to me and I'll get the emitter ready.<end>
+
+=>q329
+Очень хорошо. Принесите его мне, и я подготовлю излучатель.<end>
+
+=>a330_original
+Catch you later.<end>
+
+=>a330
+Увидимся позже.<end>
+
+=>a331_original
+You mean this thing right here?<end>
+
+=>a331
+Вы имеете в виду вот эту штуку?<end>
+
+=>q332_original
+I see you already been to the place... and taking that thing off didn't kill you. Very good.<end>
+
+=>q332
+Вижу, вы уже побывали там... и, сняв эту штуку, не отбросили копыта. Очень хорошо.<end>
+
+=>q333_original
+Give it here and I'll attach it to the emitter.<end>
+
+=>q333
+Давайте его сюда, я присоединю его к излучателю.<end>
+
+=>a334_original
+::Give him the device.::<end>
+
+=>a334
+::Отдать ему прибор.::<end>
+
+=>q335_original
+::He takes the device.:: Alright. This might take a while...<end>
+
+=>q335
+::Он берёт прибор.:: Ладно. Это может занять некоторое время...<end>
+
+=>a336_original
+::End Dialog.::<end>
+
+=>a336
+::Завершить диалог.::<end>
+
+=>a337_original
+I'll think about it.<end>
+
+=>a337
+Я подумаю.<end>
+
+=>q338_original
+Be my guest. Not enough of that happening around here.<end>
+
+=>q338
+Будьте моим гостем. Этим здесь мало кто занимается.<end>
+
+=>q339_original
+Forget it. I'm not doing anything that might provoke them.<end>
+
+=>q339
+Забудьте. Я не буду делать ничего, что может их спровоцировать.<end>
+
+=>a340_original
+Captain mentioned you have an idea how to disable the plasma walkers.<end>
+
+=>a340
+Капитан сказал, у вас есть идея как отключить плазменных роботов.<end>
+
+=>q341_original
+In the case they might move to attack. *Only* in that case. Not to launch another attack.<end>
+
+=>q341
+Если они вздумают напасть. *Только* в этом случае. Не для того, чтобы начать очередное наступление.<end>
+
+=>q342_original
+And no, I don't give a damn about Buzzer! He probably deserves whatever is coming his way. He's constantly bringing trouble to the station. Rail Crossing would be a much safer place without him.<end>
+
+=>q342
+И да, мне наплевать на Баззера! Он, скорее всего, заслужил всё то, во что влип. Он постоянно привлекает проблемы на станцию. На Переезде станет гораздо безопаснее без него.<end>
+
+=>a343_original
+I brought you that pulse capacitor thing.<end>
+
+=>a343
+Я прин$(#ёс/есла) вам эту штуку, импульсный конденсатор.<end>
+
+=>q344_original
+And it didn't fry you up in the process, I see.<end>
+
+=>q344
+Я смотрю, вас даже не поджарило в процессе.<end>
+
+=>a345_original
+Why do you think the Faceless attacked your station?<end>
+
+=>a345
+Как вы думаете, почему безликие напали на вашу станцию?<end>
+
+=>q346_original
+Don't tell me you're as stupid as the rest of these yahoos...<end>
+
+=>q346
+Не говорите мне, что вы так$(#ой/ая) же туп$(#ой/ая), как и все эти дурни...<end>
+
+=>q347_original
+They didn't attack the station. They invaded the store and the only reason anyone died is because of Captain Triggerhappy.<end>
+
+=>q347
+Они напали не на станцию. Они ворвались в магазин, и единственная причина, по которой кто-то погиб -- это наш Капитан Воинственный.<end>
+
+=>q348_original
+If the Faceless wanted us dead, we'd be dead by now, trust me. They probably just want something from Buzzer's shop. Perhaps he "scavenged" something of theirs or whatever.<end>
+
+=>q348
+Если бы безликие хотели нас убить, мы были бы уже мертвы, поверьте. Они, наверное, просто хотят что-то из магазина Баззера. Возможно, он «нашёл» что-то им принадлежащее, или типа того.<end>
+
+=>a349_original
+If you help me with the plasma walkers, I'll make it worth your while.<end>
+
+=>a349
+Если вы поможете мне с плазменными роботами, я не останусь в долгу.<end>
+
+=>q350_original
+Hmm... Very well, I'll help you for two hundred charons. Up front.<end>
+
+=>q350
+Хм... *хорошо*, я помогу вам за двести харонов. Деньги вперёд.<end>
+
+=>q351_original
+<end>
+
+=>q351
+<end>
+
+=>a352_original
+Alright, here you go. ::Give him 200 stygian coins.::<end>
+
+=>a352
+Хорошо, возьмите. ::Дать ему 200 стигийских монет.::<end>
+
+=>a353_original
+::[Mercantile]:: I'll give you a hundred and fifty.<end>
+
+=>a353
+::[Торговля]:: Я дам вам сто пятьдесят.<end>
+
+=>q354_original
+Deal.<end>
+
+=>q354
+Договорились.<end>
+
+=>q355_original
+No deal. It's two hundred charons. You dig?<end>
+
+=>q355
+Так не пойдёт. Двести харонов. Ясно?<end>
+
+=>a356_original
+I don't have that kind of money.<end>
+
+=>a356
+У меня нет таких денег.<end>
+
+=>q357_original
+Well, too bad then. I don't work for free.<end>
+
+=>q357
+Ну, очень жаль. Я не работаю забесплатно.<end>
+
+=>a358_original
+I'll think about it.<end>
+
+=>a358
+Я подумаю.<end>
+
+=>q359_original
+::He smirks.:: I'll be here when you're done thinking.<end>
+
+=>q359
+::Он ухмыляется.:: Я буду здесь, когда надумаете.<end>
+
+=>a360_original
+I'll go look for that device you mentioned.<end>
+
+=>a360
+Я пойду найду это устройство, о котором вы говорили.<end>
+
+=>a361_original
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>a361
+Я ищу Терри и Лору Бейкеров, торговцев с ССГ. Вы не видели их в последнее время?<end>
+
+=>q362_original
+Nope, not lately.<end>
+
+=>q362
+Нет, в последнее время не видел.<end>
+
+=>a363_original
+Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
+
+=>a363
+Вы не заметили, не заходил ли кто-нибудь необычный в магазин Баззера в последнее время? Кто-нибудь, кто, по вашему мнению, мог бы быть связан с нападением безликих на магазин?<end>
+
+=>q364_original
+His shop's on the other side of the station, and when it comes to customers, I mostly tend to notice the ones that come to me.<end>
+
+=>q364
+Его магазин на другой стороне станции, а что касается покупателей, меня интересуют только мои.<end>
+
+=>q365_original
+Speaking of that, and no disrespect to the derailed old fart, but his death's gonna be good for my business. ::A smile escapes him for a moment, after which he turns serious once again.::
+
+Anything else?<end>
+
+=>q365
+Кстати говоря, при всём моем уважении к поехавшему старому пердуну, его смерть пойдёт на пользу моему бизнесу. ::Непроизвольная улыбка на мгновение посещает его серьёзное лицо.::
+
+Что-нибудь ещё?<end>
+
+=>q366_original
+::He pauses, shrugs, then continues.:: I don't know. I don't remember anyone I'd pick out, really. Honestly, I'd go check the bar if I was you. That's the best place to go to if you wanna learn what happens around here.<end>
+
+=>q366
+::Он замолкает и пожимает плечами, прежде чем продолжить.:: Я не знаю. Никто мне особенно не запомнился. Я бы на вашем месте спросил в баре. Это лучшее место для того, чтобы узнать о том, что происходит в округе.<end>
+
+=>a367_original
+Do you know anything about the Free Drones?<end>
+
+=>a367
+Вы знаете что-нибудь о Вольных шершнях?<end>
+
+=>q368_original
+Heard of them, but I've got no comments.<end>
+
+=>q368
+Слышал о них, но мне нечего сказать.<end>
+
+=>q369_original
+I don't want to turn into Buzzer; he's the one constantly yapping about them. It's 'cause of him I even heard of them in the first place.<end>
+
+=>q369
+Я не хочу превратиться в Баззера; он постоянно болтал о них. Это от него я и услышал про них в первый раз.<end>
+
+=>q370_original
+::The man seems to be busily working on some electronic component, not bothering to look up.:: 
+
+You better be here to buy or sell me something, because I swear if you brought me your old broken pistol to fix, I'll shove it up your...<end>
+
+=>q370
+::Этот мужчина увлечённо работает над каким-то электронным устройством, не поднимая головы.:: 
+
+Надеюсь, что ты приш$(#ёл/ла) сюда купить или продать что-нибудь, потому что, клянусь, если ты прин$(#ёс/есла) мне свой старый пистолет на ремонт, я засуну его тебе в...<end>
+
+=>q371_original
+::He raises his head and aborts the statement.:: You're not from around here, eh? Forget what I said then. I'm just tired of fixing broken weapons for the local yokels so they can run off and blast their own feet off.<end>
+
+=>q371
+::Он поднимает голову и прерывает изложение.:: Вы не отсюда, да? Тогда забудьте, что я сказал. Я просто очень устал чинить сломанное оружие для местных олухов, чтобы они могли побежать и отстрелить себе ногу.<end>
+
+=>q372_original
+If you cannot keep your weapon in good condition you have no business shooting anything, I say, least of all the Faceless. 
+
+Anyhow, what do you need?<end>
+
+=>q372
+Если не можешь держать оружие в хорошем состоянии, то лучше и не лезь в перестрелку, -- я так считаю. Тем более с безликими. 
+
+Так, что вы хотели?<end>
+
+=>q373_original
+Hey. What do you need?<end>
+
+=>q373
+Здравствуйте. Вы что-то хотели?<end>
+
+=>q374_original
+What do you want?<end>
+
+=>q374
+Чего вы хотели?<end>
+

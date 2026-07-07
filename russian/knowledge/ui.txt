@@ -1,0 +1,1461 @@
+﻿::Nothing
+Ничего
+
+::NothingL
+ничего
+
+::Shield_Capacity
+Ёмкость
+
+::Shield_ConversionRate
+Коэффициент преобразования
+
+::Shield_DissipationRate
+Коэффициент рассеивания
+
+::Shield_Shielding
+Энергетический щит
+
+::Requires
+Требует
+
+::HoursLetter
+ ч.
+
+::MinutesLetter
+ м.
+
+::SecondsLetter
+ с.
+
+::TurnsLetter
+ х.
+
+::Turn
+Ход
+
+::TurnL
+ход
+
+::Turns4
+(4в) Ходов
+
+::Turns4L
+(4в) ходов
+
+::Turns
+(-в) Ходов
+
+::TurnsL
+(-в) ходов
+
+::Cooldown
+Задержка восстановления
+
+::RemainingCooldown
+Остающаяся задержка
+
+::RemainingCooldownL
+остающаяся задержка
+
+::Range
+Дальность
+
+::Range_Optimal
+оптимальная
+
+::Radius
+Радиус
+
+::Melee
+Ближний бой
+
+::ExtendedMelee
+Увеличенная досягаемость
+
+::Damage
+Урон
+
+::Resistances
+Сопротивления
+
+::Detection
+Обнаружение
+
+::TrapDetection
+Обнаружение ловушек
+
+::TrapDetectionShort
+Обн. ловушек
+
+::Fortitude
+Стойкость
+
+::Resolve
+Решимость
+
+::MinimalStrength
+Минимальная Сила
+
+::MinimalStrengthL
+минимальная Сила
+
+::ArmorPenalty
+Штраф брони
+
+::ArmorPenaltyL
+штраф брони
+
+::Initiative
+Инициатива
+
+::NotInvervated
+Не иннервировано
+
+::CombatStatsWindow_WindowName
+Боевые параметры
+
+::CombatStatsWindow_Tab_Base
+Базовые
+
+::CombatStatsWindow_Tab_Offense
+Нападение
+
+::CombatStatsWindow_Tab_Defense
+Защита
+
+::CombatStatsWindow_Caption_State
+Состояние
+
+::CombatStatsWindow_Caption_Weapon
+Оружие
+
+::CombatStatsWindow_Caption_Shielding
+Энергетический щит
+
+::CombatStatsWindow_Caption_Subterfuge
+Уловки
+
+::CombatStatsWindow_Caption_BaseAbilities
+Характеристики
+
+::CombatStatsWindow_Caption_Resistances
+Сопротивления
+
+::CombatStatsWindow_Psi_Skill
+значение навыка
+
+::CombatStatsWindow_Psi_CriticalHitChance
+Шанс нанести критический удар
+
+::CombatStatsWindow_Psi_CriticalHitDamageBonus
+Бонус урона при критическом ударе
+
+::CombatStatsWindow_Psi_BasePsiCostModifier
+базовый модификатор цены пси
+
+::CombatStatsWindow_WeaponDamage
+Урон от оружия
+
+::CombatStatsWindow_ActionPointCost
+Стоимость в очках действия
+
+::CombatStatsWindow_ImpactSpeed
+Скорость удара
+
+::CombatStatsWindow_CriticalHitChance
+Шанс нанести критический удар
+
+::CombatStatsWindow_CriticalHitDamageBonus
+Бонус урона при критическом ударе
+
+::CombatStatsWindow_SpecialAttackBonusDamage
+Бонус урона специальных атак
+
+::CombatStatsWindow_MaximumWeaponRange
+Предельная дальность оружия
+
+::CombatStatsWindow_OptimalWeaponRange
+Оптимальная дальность оружия
+
+::CombatStatsWindow_ShieldCapacity
+Ёмкость щита
+
+::CombatStatsWindow_ShieldCapacityShort
+Ёмкость
+
+::CombatStatsWindow_ShieldCapacity_Shielding_VeryLow
+Поглощение: очень низкая скорость
+
+::CombatStatsWindow_ShieldCapacity_Shielding_Low
+Поглощение: низкая скорость
+
+::CombatStatsWindow_ShieldCapacity_Shielding_Medium
+Поглощение: средняя скорость
+
+::CombatStatsWindow_ShieldCapacity_Shielding_High
+Поглощение: высокая скорость
+
+::CombatStatsWindow_ShieldCapacity_Shielding_VeryHigh
+Поглощение: очень высокая скорость
+
+::CombatStatsWindow_WeaponCrit
+Модификатор крита оружия
+
+::CombatStatsWindow_PsiCrit
+Модификатор крита пси
+
+::CombatStatsWindow_MechanicalResistance
+Сопротивление механическому урону
+
+::CombatStatsWindow_HeatResistance
+Сопротивление тепловому урону
+
+::CombatStatsWindow_ColdResistance
+Сопротивление урону холодом
+
+::CombatStatsWindow_ElectricalResistance
+Сопротивление урону электричеством
+
+::CombatStatsWindow_AcidResistance
+Сопротивление урону кислотой
+
+::CombatStatsWindow_EnergyResistance
+Сопротивление энергетическому урону
+
+::CombatStatsWindow_BioResistance
+Сопротивление биологическому урону
+
+::CombatStatsWindow_Label_Actionpoints
+Очки действия
+
+::CombatStatsWindow_Label_Impactspeed
+Скорость удара
+
+::CombatStatsWindow_Label_Criticalchance
+Шанс крит. удара
+
+::CombatStatsWindow_Label_Criticalbonus
+Критический урон
+
+::CombatStatsWindow_Label_Criticaldamagebonus
+Бонус критического урона
+
+::CombatStatsWindow_Label_Specialattackbonus
+Бонус спец. атак
+
+::CombatStatsWindow_Label_Maxrange
+Макс. дальность
+
+::CombatStatsWindow_Label_Optimalrange
+Оптим. дальность
+
+::CombatStatsWindow_Label_Psi_Skill
+значение навыка
+
+::CombatStatsWindow_Label_Psi_Criticalchance
+Шанс крит. удара
+
+::CombatStatsWindow_Label_Psi_Criticalbonus
+Критический урон
+
+::CombatStatsWindow_Label_Psi_Basepsicost
+Базовая цена пси
+
+::CombatStatsWindow_Label_Defense_Weaponcrit.chance
+Шанс крита оружия
+
+::CombatStatsWindow_Label_Defense_Psicrit.chance
+Шанс крита пси
+
+::CombatStatsWindow_Label_Defense_Armorpenalty
+Штраф брони
+
+::InvocationTime
+Время вызова
+
+::UsageTime
+Время использования
+
+::UsageTimeL
+время использования
+
+::ActionPoints
+Очки действия
+
+::AP
+ОД
+
+::MovementPoints
+Очки передвижения
+
+::MP
+ОП
+
+::Health
+Здоровье
+
+::HealingEffectiveness
+Эффективность лечения
+
+::HealingEffectivenessShort
+Эфф. лечения
+
+::Shield
+Щит
+
+::Delete_Button
+Удалить
+
+::Accept
+Принять
+
+::Cancel
+Отмена
+
+::Close
+Закрыть
+
+::Import
+Импорт
+
+::Yes
+Да
+
+::YesAndStopAsking
+Да, и хватит спрашивать
+
+::No
+Нет
+
+::OK
+OK
+
+::Error
+Сообщение
+
+::or
+или
+
+::and
+и
+
+::MainMenu_NewGame
+НОВАЯ ИГРА
+
+::MainMenu_ResumeLastSaved
+ПРОДОЛЖИТЬ ИГРУ
+
+::MainMenu_LoadGame
+ЗАГРУЗИТЬ ИГРУ
+
+::MainMenu_Options
+НАСТРОЙКИ
+
+::MainMenu_Credits
+АВТОРЫ
+
+::MainMenu_Exit
+ВЫХОД
+
+::Version
+Версия
+
+::MainMenu_Version
+Версия
+
+::Options_Language
+Language
+
+::Options_Tab_General
+Общие
+
+::Options_Tab_Video
+Видео
+
+::Options_Tab_Audio
+Аудио
+
+::Options_Tab_Interface
+Интерфейс
+
+::Options_Tab_Controls
+Управление
+
+::Options_Tab_Gameplay
+Игра
+
+::Options_AutosaveOnTransitions
+Автосохранение при переходе
+
+::Options_RetainSaves
+Оставлять предыдущие быстрое и автосохранение
+
+::Options_AutoOverwriteSaves
+Автоматически перезаписывать сохранения
+
+::Options_SaveCompatibilityWarning
+Предупреждение при загрузке частично совместимого сохр-я
+
+::Options_Resolution
+Разрешение
+
+::Options_DisplayMode
+Режим отображения
+
+::Options_AllowZoom
+Разрешить регулировку масштаба (SHIFT+колесико мыши)
+
+::Options_VSync
+Вертикальная синхронизация
+
+::Options_SpriteTargetMask
+Маска спрайта цели
+
+::Options_SpriteComposition
+Композитные спрайты
+
+::Options_Shader
+Затенение
+
+::Options_MasterVolume
+Общая громкость
+
+::Options_EffectsVolume
+Эффекты
+
+::Options_AmbientalVolume
+Фоновые звуки
+
+::Options_MusicVolume
+Музыка
+
+::Options_InterfaceVolume
+Звуки интерфейса
+
+::Options_MainMenuTheme
+Тема главного меню
+
+::Options_InterfaceSize
+Размер интерфейса
+
+::Options_CursorSize
+Размер курсора
+
+::Options_OnScreenKeyboard
+Экранная клавиатура
+
+::Options_PortraitLighting
+Освещение портрета
+
+::Options_DialogPortraits
+Портрет в диалоге
+
+::Options_DialogFont
+Шрифт диалогов
+
+::Options_TooltipFont
+Шрифт подсказок
+
+::Options_LabelFont
+Шрифт меток
+
+::Options_DialogBackgroundAlpha
+Фон окна диалога
+
+::Options_LogFont
+Шрифт журнала
+
+::Options_LogWidth
+Ширина журнала
+
+::Options_AutoselectTarget
+Автом. выбирать цель
+
+::Options_CharacterOutlines
+Контуры персонажей
+
+::Options_UnobscurationAlpha
+Интенсив. подсветки
+
+::Options_TransitionAlpha
+Прозрачность переходов
+
+::Options_ScrollingCombatText
+Всплывающий боевой текст
+
+::Options_SCT_Player
+Игрок
+
+::Options_SCT_Selected
+Выделено
+
+::Options_SCT_Others
+Другие
+
+::Options_SCT_Duration
+Длительность ВБТ
+
+::Option_SCT_TimeBetween
+Задержка между ВБТ
+
+::Options_SCT_AggregateByDamageTypes
+Типы урона
+
+::Options_KeyBindings
+Клавиши
+
+::Options_FullscreenMouseLock
+Захват мыши в полноэкр. режиме
+
+::Options_RightClickScrolling
+Промотка правой кнопкой мыши
+
+::Options_ScreenEdgeScrolling
+Промотка у края экрана
+
+::Options_AutomaticallyOpenDoors
+Автоматически открывать двери
+
+::Options_AutomaticallyEndTurn
+Автоматически завершать ход
+
+::Options_CombatTaunts
+Боевые выкрики
+
+::Options_CombatMovementSpeed
+Скорость передв. в бою
+
+::Options_CombatActionSpeed
+Скорость действ. в бою
+
+::Options_Tooltip_SpriteMask
+Если игра запускается на WINE / Proton / Steam Deck, это должно быть включено, так как это значительно увеличит производительность. В противном случае, это должно быть отключено.
+
+::Options_Tooltip_SpriteComposition
+Отображать уникальное снаряжение на некоторых персонажах (в том числе, игроке).
+
+::NewGame_Tab_Rules
+Правила
+
+::Difficulty
+Сложность
+
+::NewGame_GameDifficulty
+Сложность
+
+::NewGame_GameDifficulty_Easy
+Лёгкая
+
+::NewGame_GameDifficulty_Normal
+Средняя
+
+::NewGame_GameDifficulty_Hard
+Сложная
+
+::NewGame_GameDifficulty_DOMINATING
+ДОМИНАЦИЯ
+
+::NewGame_ExperienceSystem
+Система опыта
+
+::NewGame_ExperienceSystem_Oddity
+Диковинки
+
+::NewGame_ExperienceSystem_Classic
+Классика
+
+::CharScreen_CancelNewCharGen
+Отменить создание персонажа и вернуться в главное меню?
+
+::CharScreen_CancelLevelUp
+Отменить поднятие уровня?
+
+::CharScreen_Veteran
+Ветеран
+
+::CharScreen_Tab_Base
+Базовые
+
+::CharScreen_Tab_Skills
+Навыки
+
+::CharScreen_Tab_Feats
+Умения
+
+::CharScreen_Tab_Specialization
+Специализация
+
+::CharScreen_MustEnterName
+Введите имя персонажа.
+
+::CharScreen_MustSpendAllBaseAbilities
+Распределите все очки характеристик прежде чем продолжить.
+
+::CharScreen_MustSpendAllSkills
+Распределите все очки навыков прежде чем продолжить.
+
+::CharScreen_InsufficientSkills
+Вы распределили больше очков навыков, чем у вас есть.
+
+::CharScreen_MustSpendAllFeats
+Выберите новые умения прежде чем продолжить.
+
+::CharScreen_MustSpendAllSpecs
+Распределите все очки специализаций прежде чем продолжить.
+
+::CharScreen_InsufficientSpecs
+Вы распределили больше очков специализаций, чем у вас есть.
+
+::CharScreen_NamePlaceholder
+<Введите имя>
+
+::Level
+Уровень
+
+::CharScreen_Level
+Уровень
+
+::CharScreen_RemainingPoints
+Оставшиеся очки:
+
+::CharScreen_RelatedBaseAbility
+Осн. характеристика
+
+::CharScreen_Synergies
+Синергия
+
+::CharScreen_Requirements
+Требования
+
+::OptionBox_Code_Y
+Д
+
+::OptionBox_Code_N
+Н
+
+::Psi
+Пси
+
+::PsiReserves
+Пси-резерв
+
+::PsiAbility
+Пси-способность
+
+::Feat
+Умение
+
+::RestrictedFeat
+Несовместимое умение
+
+::RestrictedFeats
+Несовместимые умения
+
+::BeInMotion
+Быть в Движении
+
+::SaveLoad_<New>
+<Новое>
+
+::SaveLoad_PlayTime
+Время игры
+
+::SaveLoad_SaveInNewSlot
+Сохранить текущую игру в новую ячейку.
+
+::SaveLoad_LoadCaption
+Загрузить
+
+::SaveLoad_SaveCaption
+Сохранить
+
+::SaveLoad_OverwriteCaption
+Перезаписать
+
+::SaveLoad_ImportCaption
+Импорт
+
+::SaveLoad_DeleteCaption
+Удалить
+
+::SaveLoad_Command_Overwrite
+Перезаписать
+
+::SaveLoad_Command_AutoOverwrite
+Перезаписать автоматически
+
+::SaveLoad_IncompatibleSave
+Это сохранение несовместимо с текущей версией игры и не может быть загружено.
+
+::SaveLoad_PartiallyCompatibleSave
+Это сохранение несовместимо с текущей версией игры и не может быть загружено. Всё равно загрузить его?
+
+::SaveLoad_Overwrite
+Перезаписать эту сохранённую игру?
+
+::SaveLoad_Delete
+Вы действительно хотите удалить эту сохранённую игру?
+
+::SaveLoad_FailedToDeletSave
+Не удалось удалить сохранённую игру.
+
+::SaveLoad_Button_Load
+Загрузить
+
+::SaveLoad_Button_Save
+Сохранить
+
+::SaveLoad_Button_Export
+Экспорт
+
+::SaveLoad_ExportedOn
+Экспортировано
+
+::SaveLoad_GameVersion
+Версия игры
+
+::SaveLoad_CharNotCompatible
+Этот персонаж несовместим с текущей версией игры и не может быть загружен.
+
+::SaveLoad_DeleteCharacter
+Вы уверены, что хотите удалить этого персонажа?
+
+::SaveLoad_FailedToDeleteCharacter
+Не удалось удалить персонажа.
+
+::GameMenu_Resume
+Продолжить
+
+::GameMenu_Save
+Сохранить
+
+::GameMenu_Load
+Загрузить
+
+::GameMenu_ExportChar
+Экспортировать персонажа
+
+::GameMenu_Options
+Настройки
+
+::GameMenu_Quit
+Выход
+
+::Msg_Exporting
+Экспорт...
+
+::Msg_Saving
+Сохранение...
+
+::SystemBar_CharacterSheet
+Лист персонажа
+
+::SystemBar_CharacterSheet_Tooltip
+Показывает основные характеристики, навыки и умения вашего персонажа.
+
+::SystemBar_CombatStats
+Боевые параметры
+
+::SystemBar_CombatStats_Tooltip
+Показывает боевые параметры вашего персонажа.
+
+::SystemBar_Inventory
+Инвентарь
+
+::SystemBar_Inventory_Tooltip
+Показывает инвентарь и снаряжение вашего персонажа.
+
+::SystemBar_Psi
+Пси
+
+::SystemBar_Psi_Tooltip
+Прежде чем вы сможете использовать пси-способности, ваш мозг должен быть иннервирован ими.
+
+::SystemBar_Crafting
+Создание предметов
+
+::SystemBar_Crafting_Tooltip
+Показывает имеющиеся у вас чертежи и позволяет создавать по ним предметы.
+
+::SystemBar_Notes
+Заметки
+
+::SystemBar_Notes_Tooltip
+Показывает ваши задания.
+
+::SystemBar_Oddities
+Диковинки
+
+::SystemBar_Oddities_Tooltip
+Показывает диковинки, которые вы видели.
+
+::SystemBar_GlobalMap
+Глобальная карта
+
+::SystemBar_GlobalMap_Tooltip
+Открыть глобальную карту.
+
+::SystemBar_Help
+Помощь
+
+::SystemBar_Help_Tooltip
+Показывает справку по интерфейсу.
+
+::SystemBar_Menu
+Меню
+
+::SystemBar_Menu_Tooltip
+Открывает главное меню.
+
+::CharInventory_Button_Sort
+Упорядочить
+
+::CharInventory_Button_TransferAll
+Перенести всё
+
+::CharInventory_Notification_EquippingApCost
+Снаряжение инструментов и оружия из инвентаря во время боя стоит {0} очков действия.
+
+::CharInventory_Notification_CannotEquipCurrently
+Ваш персонаж не в том состоянии, чтобы снаряжать или снимать предметы.
+
+::CharInventory_Notification_CannotEquipStealth
+Вы не можете надеть или снять броню, находясь в режиме скрытности или пока он перезаряжается.
+
+::CharInventory_GearSlot_Headgear
+Шлем
+
+::CharInventory_GearSlot_EnergyShieldEmitter
+Энергетический щит
+
+::CharInventory_GearSlot_Armor
+Доспех
+
+::CharInventory_GearSlot_Belt
+Пояс
+
+::CharInventory_GearSlot_Footwear
+Ботинки
+
+::CharInventory_GearSlot_PrimaryWeapon
+Основное оружие
+
+::CharInventory_GearSlot_SecondaryWeapon
+Дополнительное оружие
+
+::CharInventory_GearSlot_CombatUtility
+Боевой инструмент
+
+::CharInventory_Filter_All
+Все предметы
+
+::CharInventory_Filter_Gear
+Снаряжение
+
+::CharInventory_Filter_Combat Utilities
+Боевые инструменты
+
+::CharInventory_Filter_Ammo
+Боеприпасы
+
+::CharInventory_Filter_Consumables
+Расходные
+
+::CharInventory_Filter_Crafting
+Создание предметов
+
+::CharInventory_Filter_Tools
+Инструменты
+
+::CharInventory_Filter_Plot
+Сюжетные
+
+::CharInventory_Filter_Non-plot
+Не сюжетные
+
+::Item_TypeName_Armor Suit
+Броня
+
+::Item_TypeName_Belt
+Пояс
+
+::Item_TypeName_Footwear
+Ботинки
+
+::Item_TypeName_Headwear
+Очки/шлем
+
+::Item_TypeName_Shield Emitter
+Энергетический щит
+
+::Item_TypeName_Assault Rifle
+Автомат
+
+::Item_TypeName_Crossbow
+Арбалет
+
+::Item_TypeName_Melee Weapon
+Оружие ближнего боя
+
+::Item_TypeName_Pistol
+Пистолет
+
+::Item_TypeName_SMG
+Пистолет-пулемёт
+
+::Item_TypeName_Sniper Rifle
+Снайперская винтовка
+
+::Item_TypeName_Grenade Launcher
+Гранатомёт
+
+::Item_TypeName_Fusion Cannon
+Термоядерная пушка
+
+::Item_TypeName_LMG
+Пулемёт
+
+::Item_TypeName_Minigun
+Миниган
+
+::Item_TypeName_Rocket Launcher
+Реактивный гранатомет
+
+::Item_TypeName_Shotgun
+Дробовик
+
+::Item_TypeName_Combat Shotgun
+Боевой дробовик
+
+::Item_TypeName_Weapon
+Оружие
+
+::Item_TypeName_Ammo
+Боеприпасы
+
+::Item_TypeName_Blueprint
+Чертёж
+
+::Item_TypeName_Component
+Компонент
+
+::Item_TypeName_Consumable
+Расходный
+
+::Item_TypeName_Food
+Еда
+
+::Item_TypeName_Medicine
+Медицинский препарат
+
+::Item_TypeName_Currency
+Деньги
+
+::Item_TypeName_Document
+Документ
+
+::Item_TypeName_Energy Source
+Источник энергии
+
+::Item_TypeName_Explosive
+Взрывчатка
+
+::Item_TypeName_Enhancement
+Улучшение
+
+::Item_TypeName_Key
+Ключ
+
+::Item_TypeName_Log Entry
+Запись в журнал
+
+::Item_TypeName_Oddity
+Диковинка
+
+::Item_TypeName_Mentor
+Наставник
+
+::Item_TypeName_Tool
+Инструмент
+
+::Item_TypeName_Trap
+Ловушка
+
+::Item_TypeName_Vehicle Part
+Часть транспорта
+
+::Item_TypeName_Grenade
+Граната
+
+::Item_TypeName_Combat Utility
+Боевой инструмент
+
+::Item_TypeSuffix_TwoHanded
+(двуручное)
+
+::Item_Notification_CannotBeUsedInCombat
+Не может быть использовано в бою
+
+::Item_Notification_CannotBeRechargedInCombat
+Не может быть заряжено в бою
+
+::Item_Notification_CannotBeUsedOrRechargedInCombat
+Не может быть использовано или заряжено в бою
+
+::Item_Equip
+При экипировке
+
+::Item_Use
+Использование
+
+::Item_OnHit
+Попадание
+
+::Item_TemporaryEffects
+Временные эффекты
+
+::Item_Requirements
+Требования
+
+::Item_BatteryEnergy
+Энергия
+
+::Item_Durability
+Прочность
+
+::Item_CanBeDisassembled
+Можно разобрать.
+
+::Item_Weight
+Вес
+
+::Item_Value
+Ценность
+
+::Item_MerchantWontBuy
+Этот торговец не купит данный предмет.
+
+::Item_CannotBeSold
+Нельзя продать.
+
+::Item_SpecialMerchandise
+Специальный товар.
+
+::Item_Level
+Уровень предмета
+
+::Item_SpecialAbilities
+Специальные способности
+
+::Item_BlueprintAlreadyKnown
+Уже известно.
+
+::Item_MentorAlreadyKnown
+Уже известно.
+
+::Item_Trap_RequiredSkill
+Требуемый уровень навыка
+
+::Item_Trap_DetectionDifficulty
+Сложность обнаружения
+
+::Item_Oddity_PickUp
+Взять: (-в) Изучить этот предмет, чтобы получить {0} опыта. Вы можете изучить предметы этого типа до {1} раз(а).
+
+::Item_Oddity_PickUpM
+Взять: (Мв) Изучить этот предмет, чтобы получить {0} опыта. Вы можете изучить предметы этого типа до {1} раз(а).
+
+::Item_Oddity_PickUpM4
+Взять: (М4) Изучить этот предмет, чтобы получить {0} опыта. Вы можете изучить предметы этого типа до {1} раз(а).
+
+::Item_Oddity_Studied
+(-в) Изучено {0} / {1} раз(а).
+
+::Item_Oddity_StudiedM
+(Мв) Изучено {0} / {1} раз(а).
+
+::Item_Oddity_StudiedM4
+(М4) Изучено {0} / {1} раз(а).
+
+::Item_Weapon_ImpactSpeed
+Скорость удара
+
+::Item_Weapon_BaseActionPoints
+Базовые ОД
+
+::Item_Weapon_SpreadAngle
+Угол разброса
+
+::Item_Weapon_Precision
+Точный
+
+::Item_Weapon_CloseQuartersPrecision
+Точность в ближнем бою
+
+::Item_Weapon_MoveAndShootPrecision
+Точность после передвижения
+
+::Item_Weapon_BurstPrecision
+Точность очереди
+
+::Item_Weapon_BurstShots
+Выстрелов в очереди
+
+::Item_Weapon_MinimalWeaponSkill
+Минимальный навык оружия
+
+::Item_Weapon_ShieldBypass
+Обходит {0}% энергетического щита цели.
+
+::Item_Weapon_RequiresBothHands
+Занимает обе руки.
+
+::Item_Weapon_OnAttack
+При атаке
+
+::Item_Weapon_OnShoot
+При выстреле
+
+::Item_Weapon_OnHit
+Попадание
+
+::Item_Weapon_EnergyUsagePerShot
+Использует энергии на выстрел
+
+::Item_Weapon_EnergyUsagePerShot_None
+Нет
+
+::Item_Weapon_AmmoType
+Тип боеприпаса
+
+::Item_Weapon_MagazineCapacity
+Ёмкость магазина
+
+::Item_Weapon_ReloadingCost
+Стоимость места
+
+::Item_Weapon_Loaded
+Заряжено
+
+::Item_Weapon_Disposable
+Не может быть отремонтировано, заряжено или разряжено.
+
+::Item_Weapon_StrengthScaling
+Урон увеличен на {0}% за каждое очко Силы.
+
+::Item_Weapon_StrengthScaling1
+Урон увеличен на {0}% за каждое очко Силы свыше {1}.
+
+::Item_Weapon_EvasionIgnore
+Игнорирует до {0}% Уворота цели на близком расстоянии.
+
+::Item_Component_Quality
+Качество
+
+::Item_Component_RequiredCraftingSkills
+Требуемые навыки
+
+::Item_BlackSea_CurrentGridSquare
+Текущий квадрат сетки
+
+::Item_BlackSea_CurrentGridSquare_Unknown
+неизвестно
+
+::Crafting_Slot_Optional
+Необязательно
+
+::Crafting_Composition_Diff0
+Сложная конструкция. Использование этой ячейки также поднимет требуемый уровень навыка на
+
+::Crafting_Composition_Diff1
+от требований размещённого здесь компонента.
+
+::Vehicle_Slot_MaxSize
+Максимальный размер
+
+::Vehicle_Slot_Optional
+Необязательно
+
+::Vehicle_Part_PartSize
+Размер детали
+
+::Vehicle_Part_Power
+Мощность
+
+::Vehicle_Part_ConsumptionRatio
+Потребление
+
+::Vehicle_Part_Stability
+Устойчивость
+
+::Vehicle_Part_SpecialAbilities
+Особые свойства
+
+::Vehicle_Part_Broken
+Эта деталь сломана и требует ремонта.
+
+::InventoryNotes_ShiftClickToSplit
+Shift + ЛКМ чтобы разделить.
+
+::InventoryNotes_AltClickToTransfer
+Alt + ЛКМ чтобы переместить.
+
+::InventoryNotes_DoubleClickBlueprint
+Двойной щелчок чтобы использовать в чертеже.
+
+::InventoryNotes_DoubleClickToEquip
+Двойной щелчок чтобы экипировать.
+
+::ItemArmorBonuses_BlockChance
+Даёт шанс {0}% блокировать до {1} механического урона в ближнем бою.
+
+::ItemArmorBonuses_CannotWieldTwoHanded
+Нельзя экипировать двуручное оружие
+
+::PsiWindow_Caption
+Пси способности
+
+::PsiWindow_Button_Innervate
+Иннервировать
+
+::PsiWindow_CannotInnervateInCombat
+Нельзя иннервировать в бою.
+
+::PsiWindow_BasePsiCostModifier
+Базовый расход пси
+
+::PsiWindow_PsionicCircuit
+Псионическая цепь
+
+::PsiWindow_PsionicCircuit_Desc
+Выберите пси-способность из списка ниже и выполните иннервацию, чтобы она стала доступной для использования.
+
+::PsiWindow_LockedPsionicCircuit
+Закрытая псионическая цепь
+
+::PsiWindow_LockedPsionicCircuit_Desc
+Ваш персонаж не соответствует требованиям для разблокировки этой псионической цепи.
+
+::Blueprint_AlreadyObtained
+(уже получено)
+
+::Blueprint_Downloaded
+Вы загрузили новый чертёж
+
+::CharacterImmunities_DisplayText_None
+Ничего
+
+::CharacterImmunities_DisplayText_MindAffecting
+атакам воздействующим на разум
+
+::CharacterImmunities_DisplayText_Placeholder
+неизвестно
+
+::CharacterImmunities_DisplayText_Stun
+оглушению и дезориентации
+
+::CharacterImmunities_DisplayText_Incapacitation
+ошеломлению
+
+::CharacterImmunities_DisplayText_Blind
+ослеплению
+
+::CharacterImmunities_DisplayText_MindControl
+управлению разумом
+
+::CharacterImmunities_DisplayText_Chill
+переохлаждению
+
+::CharacterImmunities_DisplayText_Freeze
+заморозке
+
+::CharacterImmunities_DisplayText_Slow
+замедлению
+
+::CharacterImmunities_DisplayText_Root
+обездвиживанию
+
+::CharacterImmunities_DisplayText_CriticalHits
+критическим ударам
+
+::CharacterImmunities_DisplayText_Bleeding
+кровотечению
+
+::CharacterImmunities_DisplayText_Fear
+страху
+
+::CharacterImmunities_DisplayText_Burning
+горению
+
+::CharacterImmunities_DisplayText_Poison
+яду
+
+::CharacterImmunities_DisplayText_ShortCircuiting
+короткому замыканию
+
+::CharacterImmunities_DisplayText_Dismantle
+разборке
+
+::CharacterImmunities_DisplayText_Caltrops
+колючкам
+
+::CharacterImmunities_DisplayText_AcidPuddles
+кислотным лужам
+
+::CharacterImmunities_DisplayText_Unbalancing
+неустойчивости
+
+::CharacterImmunities_DisplayText_Decapitation
+обезглавливанию
+
+::CharacterImmunities_DisplayText_Bilocation
+билокации
+
+::CharacterImmunities_DisplayText_AiScrambling
+скремблированию ИИ
+
+::CharacterImmunities_DisplayText_DirtyKickExtraStun
+доп. оглушению от грязного удара
+
+::CharacterImmunities_DisplayText_KneecapShot
+выстрелу в колено
+
+::WeaponAggregateSubtype_DisplayName_Unknown
+Неизвестное оружие
+
+::WeaponAggregateSubtype_DisplayName_Unknown_Plural
+Неизвестное оружие
+
+::WeaponAggregateSubtype_DisplayName_FirearmPistol
+Огнестрельный пистолет
+
+::WeaponAggregateSubtype_DisplayName_FirearmPistol_Plural
+Огнестрельные пистолеты
+
+::WeaponAggregateSubtype_DisplayName_EnergyPistol
+Энергетический пистолет
+
+::WeaponAggregateSubtype_DisplayName_EnergyPistol_Plural
+Энергетические пистолеты
+
+::WeaponAggregateSubtype_DisplayName_Crossbow
+Арбалет
+
+::WeaponAggregateSubtype_DisplayName_Crossbow_Plural
+Арбалеты
+
+::WeaponAggregateSubtype_DisplayName_Sniper
+Снайперская
+
+::WeaponAggregateSubtype_DisplayName_Sniper_Plural
+Снайперские
+
+::WeaponAggregateSubtype_DisplayName_SMG
+Пистолет-пулемёт
+
+::WeaponAggregateSubtype_DisplayName_SMG_Plural
+Пистолеты-пулемёты
+
+::WeaponAggregateSubtype_DisplayName_AssaultRifle
+Автомат
+
+::WeaponAggregateSubtype_DisplayName_AssaultRifle_Plural
+Автоматы
+
+::WeaponAggregateSubtype_DisplayName_ChemicalPistol
+Химический пистолет
+
+::WeaponAggregateSubtype_DisplayName_ChemicalPistol_Plural
+Химические пистолеты
+
+::WeaponAggregateSubtype_DisplayName_Shotgun
+Дробовик
+
+::WeaponAggregateSubtype_DisplayName_Shotgun_Plural
+Дробовики
+
+::WeaponAggregateSubtype_DisplayName_GrenadeLauncher
+Гранатомёт
+
+::WeaponAggregateSubtype_DisplayName_GrenadeLauncher_Plural
+Гранатомёты
+
+::WeaponAggregateSubtype_DisplayName_RocketLauncher
+Реактивный гранатомёт
+
+::WeaponAggregateSubtype_DisplayName_RocketLauncher_Plural
+Реактивные гранатомёты
+
+::WeaponAggregateSubtype_DisplayName_EnergyWeapon
+Энергетическое оружие
+
+::WeaponAggregateSubtype_DisplayName_EnergyWeapon_Plural
+Энергетическое оружие
+
+::WeaponAggregateSubtype_DisplayName_Crowbar
+Ломик
+
+::WeaponAggregateSubtype_DisplayName_Crowbar_Plural
+Ломики
+
+::WeaponAggregateSubtype_DisplayName_BluntMelee
+Дробящее оружие
+
+::WeaponAggregateSubtype_DisplayName_BluntMelee_Plural
+Дробящее оружие
+
+::WeaponAggregateSubtype_DisplayName_BladedMelee
+Клинковое оружие
+
+::WeaponAggregateSubtype_DisplayName_BladedMelee_Plural
+Клинковое оружие
+
+::WeaponAggregateSubtype_DisplayName_Gloves
+Кулачное оружие
+
+::WeaponAggregateSubtype_DisplayName_Gloves_Plural
+Кулачное оружие
+
+::WeaponAggregateSubtype_DisplayName_Spears
+Копьё
+
+::WeaponAggregateSubtype_DisplayName_Spears_Plural
+Копья
+
+::WeaponAggregateSubtype_DisplayName_Sword
+Меч
+
+::WeaponAggregateSubtype_DisplayName_Sword_Plural
+Мечи
+
+::WeaponAggregateSubtype_DisplayName_Unarmed
+Безоружных атак
+
+::WeaponAggregateSubtype_DisplayName_Unarmed_Plural
+Безоружных атак
+
+::CooldownCategory_DisplayText_None
+ничего
+
+::CooldownCategory_DisplayText_Sprint
+Спринт
+
+::CooldownCategory_DisplayText_EvasiveManeuvers
+Манёвр уворота
+
+::CooldownCategory_DisplayText_Stealth
+Скрытность
+
+::CooldownCategory_DisplayText_DirtyKick
+Низкий удар
+
+::CooldownCategory_DisplayText_TrapArming
+установка ловушек
+
+::CooldownCategory_DisplayText_Bilocation
+билокации
+
+::CooldownCategory_DisplayText_PseudoSpatialProjection
+Псевдо-пространственная проекция
+

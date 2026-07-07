@@ -1,0 +1,3777 @@
+﻿=>q1_original
+::He is focused on packing.::<end>
+
+=>q1
+::Он сосредоточен на упаковке вещей.::<end>
+
+=>q2_original
+Æterbæren!
+
+::The man swiftly grabs his spear and assumes a fighting stance.::<end>
+
+=>q2
+Итербэрен!
+
+::Человек быстро хватает своё копьё и принимает боевую стойку.::<end>
+
+=>a3_original
+::Show him your open palms and try to act as nonthreatening as possible.::<end>
+
+=>a3
+::Покажите ему свои открытые ладони и постарайтесь вести себя как можно более миролюбиво.::<end>
+
+=>q4_original
+::Your peaceful actions do not seem to have the desired effect: ::<end>
+
+=>q4
+::Ваши мирные действия не произвели на него желаемый эффект: ::<end>
+
+=>q5_original
+::He advances forward, skillfully maintaining his stance and keeping himself well behind the deadly tip of his spear which is now, in turn, getting dangerously close to your own body.::<end>
+
+=>q5
+::Он продвигается вперёд, грамотно сохраняя свою позу и держась на дистанции от смертоносного наконечника своего копья, которое теперь, в свою очередь, находится опасно близко перед вашим телом.::<end>
+
+=>a6_original
+Forskar Flotsourmir!<end>
+
+=>a6
+Форскар флотсоурмир!<end>
+
+=>q7_original
+::The name roots him in place. It does not disarm the man - the spear tip still hovers before you - but instead makes him echo the name, uttering it with great respect and pride.::
+
+Forskarr Flottsørmir.<end>
+
+=>q7
+::Это имя буквально пригвождает его. От него он не опускает оружие, наконечник копья всё ещё маячит перед лицом, но вместо этого оно заставляет его повторять имя, произнося его с большим уважением и гордостью.::
+
+Форскарр Флотсоурмир.<end>
+
+=>a8_original
+Forskarr Flotsourmir!<end>
+
+=>a8
+Форскарр флотсоурмир!<end>
+
+=>q9_original
+::He echoes it again, louder and fiercer.::
+
+Forskarr Flottsørmir!<end>
+
+=>q9
+::Он повторяет снова, громче и яростнее.::
+
+Форскарр Флотсоурмир!<end>
+
+=>a10_original
+Forskarr Flotsourmir!<end>
+
+=>a10
+Форскарр флотсоурмир!<end>
+
+=>q11_original
+Dur... hruknepönen ot meltønge lætta?<end>
+
+=>q11
+Ду... крукнепонен от мелтонг лэтта?<end>
+
+=>a12_original
+::Shrug your shoulders.::<end>
+
+=>a12
+::Пожать плечами.::<end>
+
+=>q13_original
+::He briefly inspects you, his eyes mostly focused on your upper body.::
+
+Dur nikkt vertään det saperønt ot Firg, met Flottsørmir Dur forskarren. Polløknæ...<end>
+
+=>q13
+::Он бегло оглядывает вас, его глаза в основном сфокусированы на вашей верхней части тела.::
+
+Ду никт вертан дет саперонт от фирг, мет Флотсоурмир ду форскаррен. Поллокнэ...<end>
+
+=>q14_original
+::You both stare at each other motionlessly. As the atmosphere begins to cool down, you notice a pleasant smell of crab meat being cooked over a steady, calm fire; the sight of it glimmering so succulently is as inviting as the host wasn't during the first moments of your encounter. But even that seems to be changing: The man slowly crouches next to the fire, places his spear at his feet and checks the tender meat. He is still quite cautious of you but seems at ease enough that you may attempt to approach him.::<end>
+
+=>q14
+::Вы оба, стоя неподвижно, какое-то время сверлите друг друга взглядом, но когда атмосфера враждебности начинает спадать, вы отмечаете приятный запах жарящегося на небольшом костре крабового мяса и вид этого сочного мяса, столь же привлекателен, как и неприятие вида его хозяина в первые минуты вашей встречи. Но всё меняется: мужчина усаживается у костра, кладёт рядом копьё и проверяет нежное мясо. Он всё ещё с опаской относится к вам, но ведёт себя достаточно спокойно, чтобы попытаться подойти к нему.::<end>
+
+=>a15_original
+::Pat your chest.:: $(context.player.Name). ::Then point your finger at him.::<end>
+
+=>a15
+::Ткнуть себя в грудь.:: $(context.player.Name). ::Затем указать пальцем на него.::<end>
+
+=>q16_original
+::He observes you with an expressionless countenance.::<end>
+
+=>q16
+::Он наблюдает за вами с непроницаемым выражением лица.::<end>
+
+=>a17_original
+::Pat your chest again.:: $(context.player.Name). Me. ::Point at him.:: You...?<end>
+
+=>a17
+::Снова ткнуть себя в грудь.:: $(context.player.Name). Я. ::Указать на него.:: Ты?..<end>
+
+=>q18_original
+::He hesitates...::<end>
+
+=>q18
+::Он колеблется...::<end>
+
+=>q19_original
+::...but then places his hand on his chest and imitates your gesture.::
+
+Yngwar.<end>
+
+=>q19
+::...но затем тычет себе в грудь, имитируя ваш жест.::
+
+Ингвар.<end>
+
+=>q20_original
+Ik - Yngwar. Dur - $(context.player.Name).<end>
+
+=>q20
+Ик - Ингвар. Ду - $(context.player.Name).<end>
+
+=>q21_original
+::He returns to his work, producing a few skewers made of bone from the leather sack next to him. He seems focused on food preparation, but he's indubitably aware of everything you do. He removes the cooked meat from the fire and replaces it with fresh skewers.::<end>
+
+=>q21
+::Он возвращается к своему делу и достаёт из кожаного мешка, лежащего рядом, несколько костяных шпажек. Он, кажется, сосредоточен на приготовлении пищи, но, несомненно, осведомлён обо всём, что вы делаете. Он снимает приготовленное мясо с огня и заменяет его свежими шампурами.::<end>
+
+=>a22_original
+::Approach him and stand by the fire with him.::<end>
+
+=>a22
+::Подойти и встать рядом с ним у огня.::<end>
+
+=>q23_original
+::He shows no objection to you approaching him.::<end>
+
+=>q23
+::Он не возражает против того, что вы приближаетесь к нему.::<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>a25_original
+About Sjörsr...<end>
+
+=>a25
+Насчёт Съёрса...<end>
+
+=>q26_original
+::He nods.::<end>
+
+=>q26
+::Он кивает.::<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>a28_original
+Where was he hit, again? ::Gesture something piercing your flesh.::<end>
+
+=>a28
+Повторяю, куда его ранили? ::Изобразить, как что-то пронзает вашу плоть.::<end>
+
+=>q29_original
+::He observes you for a moment...::<end>
+
+=>q29
+::Какой-то миг он наблюдает за вами...::<end>
+
+=>q30_original
+::Then shows the point of impact on himself: He was hit in his $(GiantSkerderHitBodyPart_DisplayName).::<end>
+
+=>q30
+::Затем показать на себе: Он был ранен в $(GiantSkerderHitBodyPart_DisplayName).::<end>
+
+=>a31_original
+What happened to his body? ::Gesture it as best as you can.::<end>
+
+=>a31
+Где его тело? ::Изобразить как можно более понятно.::<end>
+
+=>q32_original
+::He draws water, then the ground, then huge, towering bones sticking out. Above it, he draws a rune of some kind.::<end>
+
+=>q32
+::Он рисует воду, затем землю, затем огромные, торчащие кверху кости. И над всем этим он рисует какую-то руну.::<end>
+
+=>q33_original
+<end>
+
+=>q33
+<end>
+
+=>a34_original
+::Point to the rune, then gesture scribbling.:: Can you write that down for me?<end>
+
+=>a34
+::Указать на руну, а затем изобразить будто пишешь.:: Можешь написать это для меня?<end>
+
+=>q35_original
+::He doesn't seem to understand but draws the rune deeper.::<end>
+
+=>q35
+::Он, похоже, не осознаёт, но рисует руну более глубоко.::<end>
+
+=>a36_original
+::Point to a piece of leather lying on the ground next to his sack.:: Can I have that? Can, uh, Ik, I don't know, tekken that?<end>
+
+=>a36
+::Указывая на кусок кожи лежащий на земле рядом с его мешком.:: Можно мне это взять? Можно... ээ, "ик"... как же сказать... это "теккен"?<end>
+
+=>q37_original
+::He nods and takes the leather. But instead of giving it to you, he first burns the end of one of the skewers in the fire and then uses it to write the rune into the leather. Then he hands it to you.::
+
+Sjörsr akkøsska firt bryjäällen ot ponne bitt.<end>
+
+=>q37
+::Он кивает и берёт кожаное изделие. Затем обжигает конец одного из шампуров над огнём и использует его, чтобы написать руну на коже. После возвращает его вам.::
+
+Съёрс аккоска фирт брияллен от понне бит.<end>
+
+=>a38_original
+Never mind.<end>
+
+=>a38
+Неважно.<end>
+
+=>a39_original
+::Inquire about something else.::<end>
+
+=>a39
+::Спросить о чём-нибудь другом.::<end>
+
+=>q40_original
+::He is silent.::<end>
+
+=>q40
+::Он молчит.::<end>
+
+=>a41_original
+What does it mean?<end>
+
+=>a41
+Что она означает?<end>
+
+=>q42_original
+::He explains no further but tends to his fire instead.::<end>
+
+=>q42
+::Он больше ничего не объясняет, но вместо этого направляется к своему костру.::<end>
+
+=>a43_original
+::Nod and change the subject.::<end>
+
+=>a43
+::Кивнуть и сменить тему.::<end>
+
+=>q44_original
+::He tends to his fire in silence.::<end>
+
+=>q44
+::Он молча направляется к своему костру.::<end>
+
+=>q45_original
+::He points to his drawing of huge, towering bones sticking out. Above it, there is a rune of some kind.::<end>
+
+=>q45
+::Он указывает на рисунок огромных, торчащих кверху костей. Над ним какая-то руна.::<end>
+
+=>a46_original
+About Sjoersr...<end>
+
+=>a46
+Насчёт Съёрса...<end>
+
+=>a47_original
+Yngwar... <end>
+
+=>a47
+Ингвар...<end>
+
+=>q48_original
+Jakke...<end>
+
+=>q48
+Якке...<end>
+
+=>a49_original
+You are different from your brethren, the Sørmirbæren. Durg, um... bitt... um...<end>
+
+=>a49
+Ты не похож на своих собратьев, Соурмирбэрен. Дург, ээ... бит... гмм...<end>
+
+=>q50_original
+Ik mætäre: Ik ænnerfe bitt.<end>
+
+=>q50
+Ик мита: Ик иннафи бит.<end>
+
+=>a51_original
+Jakke. Durg ænnerfen bitt. The rituals, the, um... the shapes you saw in the light... Lysbørggamen.<end>
+
+=>a51
+Якке. Дург иннафин бит. Ритуалы, ээ... фигуры, которые были на свету... Лисбургамэн.<end>
+
+=>q52_original
+::He nods.:: Ik mætäre.
+
+::He draws the symbol of Flottsørmir in the sand with his trusty bone knife.::<end>
+
+=>q52
+::Он кивает.:: Ик мэта.
+
+::Он рисует на песке символ Флотсоурмира своим верным костяным ножом.::<end>
+
+=>q53_original
+::There is no doubt that He is the Serpent, that He is the Father who gave them their strength, skill and bloodthirst. He gave them this sea to be their homeland and its many inhabitants to slay. But the Way the spiriters want Yngwar to follow is wrong. 
+
+He understands that now.::<end>
+
+=>q53
+::Нет сомнений, что Он - это Змей, Он - Отец, давший им силу, умение и кровожадность. Он подарил им это море, чтобы оно стало для них родиной и способом пропитания. Но Путь, по которому духопоклонники говорят идти Ингвару, неправилен. 
+
+Он понял это теперь.::<end>
+
+=>q54_original
+Durg Æterbæren bitt... 
+
+::You may or may not understand. That is not important to Yngwar.::<end>
+
+=>q54
+Дург итербэрен бит... 
+
+::Понимаете вы или нет, это не важно для Ингвара.::<end>
+
+=>a55_original
+Hvæy Durg... uh, vertään er kæ Merg? Why tell me all of that, then?<end>
+
+=>a55
+Хвей дург... гм, вертан эр ки мерг? Тогда зачем ты мне всё это рассказываешь?<end>
+
+=>q56_original
+::By trying to explain to an Otherborn the things that troubled him he understood them better himself. He understood them well enough. Now he knows what he must do.::<end>
+
+=>q56
+::Пытаясь объяснить другому человеку то, что беспокоило его, он сам стал лучше понимать это. Он осознал это достаточно хорошо. Теперь он знает, что должен делать.::<end>
+
+=>q57_original
+::There is another way, the Way of the Warrior, the Way of Man, where eyes do not have to be blinded to see, where limbs do not have to be shed away to be strong. Because Yngwar can be much stronger as Flottsørmir's warrior than as Flottsørmir's serpent.::
+
+Det Krigsfarvääj - vääj ot det lemann.<end>
+
+=>q57
+::Есть и другой путь, Путь воина, Путь человека, где глаза не надо ослеплять, чтобы видеть, где нет нужды отказываться от своих конечностей, чтобы стать сильным. Потому что Ингвар может быть гораздо сильнее воина Флотсоурмира, чем змея Флотсоурмира.::
+
+Дет кригсфарвэй - вэй от дет леманн.<end>
+
+=>q58_original
+::An old, weak sailor slew Flottsørmir's greatest warrior with a tiny glowing rock. Yngwar must go to its "source," the glow itself and begin his Way there.::<end>
+
+=>q58
+::Старый, слабый моряк убил величайшего воина Флотсоурмира крошечным светящимся камнем. Ингвар должен отправиться к его "источнику", самому свечению, и начать свой Путь там.::<end>
+
+=>q59_original
+<end>
+
+=>q59
+<end>
+
+=>a60_original
+You're going to the monolith? ::Point southeast.::<end>
+
+=>a60
+Ты собираешься к Монолиту? ::Указать на юго-восток.::<end>
+
+=>q61_original
+::The word "monolith" seems to confuse him temporarily, but he still nods in affirmation.::<end>
+
+=>q61
+::Слово "монолит", кажется, на время сбивает его с толку, но он всё-таки утвердительно кивает.::<end>
+
+=>a62_original
+::Tell him about what you saw in the monolith's vision.::<end>
+
+=>a62
+::Рассказать ему о том, что вы видели в видении монолита.::<end>
+
+=>q63_original
+::He expressionlessly waits for you to say something.::<end>
+
+=>q63
+::Он равнодушно ждёт, когда вы что-нибудь скажете.::<end>
+
+=>a64_original
+::Try to explain to him the things you saw: the traveler, the king, the two shafts of pure light...::<end>
+
+=>a64
+::Попытаться объяснить ему то, что вы видели: странника, короля, два столба чистого света...::<end>
+
+=>q65_original
+::He follows your narrative with acute attention, interpreting the discrepancies between his and your conception as to receive as much information as possible. The traveler, the light, the falling king - it all seems to make sense to him.::<end>
+
+=>q65
+::Он крайне внимательно следит за вашим рассказом, истолковывая расхождения между своей и вашей концепцией, чтобы получить как можно больше информации. Странник, свет, падение короля - всё это, кажется, обретает для него смысл.::<end>
+
+=>q66_original
+::He raises his spear just as you were about to get to the part with the burning light, implicitly taking on the role of the traveler.::<end>
+
+=>q66
+::Он поднимает своё копьё как раз в тот момент, когда вы собирались перейти к части с обжигающим светом, косвенно принимая на себя роль странника.::<end>
+
+=>q67_original
+::He lowers the spear, looks at you and nods, pleased and proud.::<end>
+
+=>q67
+::Он опускает копьё, смотрит на вас и кивает, довольный и гордый.::<end>
+
+=>a68_original
+::Try to explain to him the few things you saw: the slithering serpent, the crown upon the stone...::<end>
+
+=>a68
+::Попытаться объяснить ему то немногое, что вы видели: скользящую змею, корону на камне...::<end>
+
+=>q69_original
+::He pauses. You get the feeling he understood most of what you were trying to communicate, but your words leave him pondering.::<end>
+
+=>q69
+::Он делает паузу. У вас создаётся впечатление, что он понял большую часть того, что вы пытались донести до него, но ваши слова оставили его в раздумьях.::<end>
+
+=>q70_original
+::He raises his head and responds.::
+
+<end>
+
+=>q70
+::Он поднимает голову и отвечает.::
+<end>
+
+=>q71_original
+Det Krigsfarvääj Ik møsst trekke.<end>
+
+=>q71
+Дет кригсфарвей ик мосст трекке.<end>
+
+=>a72_original
+::Explain to him that you saw blinding fires burning all warriors who dare approach it - for eternity.::<end>
+
+=>a72
+::Объяснить ему, что вы видели ослепляющий огонь, сжигающий всех воинов, осмелившихся приблизиться к нему - навечно.::<end>
+
+=>q73_original
+::He is focused on your narrative and quickly shows signs of dissatisfaction.::
+
+Krökø! Durg höppælysk gørren Merg!<end>
+
+=>q73
+::Он сосредоточен на вашем повествовании и вскоре выражает признаки недовольства.::
+
+Кроко! Дург хёппелиск йоррен мерг!<end>
+
+=>q74_original
+::Distrust grows in his eyes because things don't make sense to him. He senses your deception and responds by grabbing his spear...::
+
+<end>
+
+=>q74
+::Недоверие растёт в его глазах, потому что вещи не обладают для него смыслом. Он чувствует ваш обман и отвечает на него, хватая своё копьё.::
+<end>
+
+=>a75_original
+::Fight!::<end>
+
+=>a75
+::Бой!::<end>
+
+=>a76_original
+::Say nothing.::<end>
+
+=>a76
+::Промолчать.::<end>
+
+=>q77_original
+::He remains expressionless.::<end>
+
+=>q77
+::Он остаётся равнодушным.::<end>
+
+=>a78_original
+You aren't afraid that the Lysbørggamen might kill you?<end>
+
+=>a78
+Ты не боишься, что Лисбургамэны могут убить тебя?<end>
+
+=>q79_original
+::He shakes his head.:: Ik ænnerfe bitt.<end>
+
+=>q79
+::Он качает головой.:: Ик иннафи бит.<end>
+
+=>a80_original
+There is another monolith, deep below the surface of the sea.<end>
+
+=>a80
+Есть ещё один монолит, глубоко под поверхностью моря.<end>
+
+=>q81_original
+Ænnerfen grønt stänn? Hvær er bitt?<end>
+
+=>q81
+Неужели всё время идёт зелёный дождь? Где укусы?<end>
+
+=>a82_original
+It's in, um... *Abyssal* Station. ::Point down, deep, deep down, and explain to him what you experienced as best as you can.::<end>
+
+=>a82
+Это, эм... Станция *Бездна*. ::Указать вниз, вглубь, глубже ниже, и объясните ему, что у вас есть опыт, и вы знаете как лучше.::<end>
+
+=>q83_original
+::He's captivated by your story, trying his best to understand every word and every gesture you utter and make. The very existence of this underwater place and how you reached it via a "floating shell," it fascinates him so much, but the moment you mention the Shadowlith... his attention turns into something else, something more - recognition.::
+
+Det Mørrstänn!<end>
+
+=>q83
+::Он очарован вашей историей, изо всех сил старается понять каждое слово и каждый жест, что вы произносите и делаете. Само существование этого подводного места и то, как вы туда попали через "плавающую оболочку", его так завораживает, но в тот момент, когда вы упоминаете Тенесвет... его внимание переключается на что-то другое, нечто большее - узнавание.::
+
+Тёмная Башня!<end>
+
+=>q84_original
+::The Black Rock - in the Temple of the Tides. It's the same thing you're describing, the only difference being their relative sizes: The rock beneath the sea is larger than a man - a transcended even; the rock in the Temple is small, yet it's as heavy as a thousand rocks. 
+
+The spiriters use this relic for various rituals and enchantments; they mind-speak with it - and they say it speaks back in His tongue.::<end>
+
+=>q84
+::Чёрная скала - в Храме Приливов. Это то же самое, что вы описываете, с той лишь разницей, что их размеры относительны: скала под водой больше человека - даже выше; скала в храме маленькая, но тяжёлая, как тысяча камней.
+
+Духовники используют эту реликвию для различных ритуалов и чар; они мысленно говорят с ним - и утверждают, что он говорит в ответ на Его языке.::<end>
+
+=>q85_original
+::He works out that the two rocks were one even before you got to mention the missing piece from the top of the Shadowlith - you could see it clearly in his eyes - and the darkening effect - he recognizes it just the same. The gloom beyond the windows, the opening portals, the serpentine void creatures, these he finds hard to interpret properly, but he *feels* the essence of what you experienced. Yet somehow it remains unclear whether he interprets it to be reality as you understand it, or something one would experience in a ritualistic trance, or even something else entirely.
+
+In any case, you end your story with the submarine's ascent.::<end>
+
+=>q85
+::Он выясняет, что две скалы были одним целым, ещё до того, как вы упомянули недостающий кусок с вершины Тенесвет - вы могли ясно видеть это в его глазах - и эффект затемнения - он всё равно узнает это. Мрак за окнами, открывающиеся порталы, змеиные создания пустоты - всё это ему трудно интерпретировать должным образом. но он *чувствует* суть того, что вы испытали. И всё же почему-то остаётся неясным, интерпретирует ли он это как реальность, как вы её понимаете, или что-то, что можно было бы пережить в ритуальном трансе, или даже что-то совсем другое.
+
+В любом случае, вы заканчиваете свой рассказ всплытием подводной лодки.:<end>
+
+=>q86_original
+::After some thinking he relays his thoughts briefly: Had he heard this earlier in his life, it would reinforce his faith in the Way of the spiriters - for this Black Rock would be the supreme source of His immense influence, lying deep in His underwater realm, waiting for the transcended ones to swim to it. But now that he recognizes the connection between the two Great Rocks and the two Ways, and that the Black Rock's "glow" is to the spiriters what Lysbørggamen is to him, he understands even more why he must follow a different Way.::
+
+Det Krigsfarvääj - vääj ot det lemann! ::He repeats resolutely.::<end>
+
+=>q86
+::После некоторого размышления он кратко излагает свои мысли: Если бы он услышал это раньше в своей жизни, это укрепило бы его веру в Путь духов - ибо эта Чёрная Скала была бы высшим источником Его огромного влияния, лежащим глубоко в Его подводном царстве, ожидая, когда превзошедшие доплывут до него. Но теперь, когда он осознал связь между двумя Великими Скалами и двумя Путями, и что «сияние» Чёрной Скалы для спиритов то же, что Конец игры для него, он ещё больше понимает, почему он должен следовать другому Пути.::
+
+Эта военная дорога - дорога от ле Мана! ::Решительно повторяет он.::<end>
+
+=>a87_original
+How will you leave? ::Gesture a boat sailing away.::<end>
+
+=>a87
+Как же ты выберешься отсюда? ::Жестом показать уплывающую лодку.::<end>
+
+=>q88_original
+::His eyes trace the surrounding walls all the way to the ceiling. Then he raises his hands...::<end>
+
+=>q88
+::Его взгляд скользит по окружающим стенам до самого потолка. Затем он поднимает руки...::<end>
+
+=>q89_original
+::...and mimics climbing.::<end>
+
+=>q89
+::...и имитирует подъём.::<end>
+
+=>a90_original
+::Take a step back.:: Then go.<end>
+
+=>a90
+::Сделать паузу.:: Уходи.<end>
+
+=>q91_original
+::He looks at his things and begins counting them using his phalanges, doing so in groups of six, as before. Once he reaches his other, deformed hand you notice something odd - his index finger on that hand has four phalanges, making that the only grouping wherein he has counted seven items.
+
+It makes you wonder for a few moments, and then...::<end>
+
+=>q91
+::Он смотрит на свои вещи и начинает считать их фалангами пальцев, делая это группами по шесть, как и раньше. Как только он достигает другой, деформированной руки, вы замечаете кое-что странное - его указательный палец на этой руке состоит из четырёх фаланг, что делает эту группу единственной, в которой он насчитал семь предметов.
+
+Это заставляет вас задуматься на какое-то время, а затем...::<end>
+
+=>q92_original
+::He sits by the fire and begins pulling things out of a leather sack.::<end>
+
+=>q92
+::Он садится у огня и начинает доставать вещи из кожаного мешка.::<end>
+
+=>a93_original
+::Wait and see what he does.::<end>
+
+=>a93
+::Ждать и смотреть, что он сделает.::<end>
+
+=>q94_original
+::He grabs a stone mortar, a bone pestle, a bag of white pearls and a reed brush. He crushes the pearls into fine powder, pours in some water from one waterskin and some sticky, honey-like substance from another, smaller one. He then pours everything into a thin bowl and heats it over the fire, mixing it until its consistency turns thick.::<end>
+
+=>q94
+::Он хватает каменную ступку, костяной пестик, мешочек с белым жемчугом и тростниковую кисточку. Он растирает жемчуг в мелкий порошок, наливает немного воды из одного бурдюка и немного липкого, похожего на мёд вещества из другого, поменьше. Затем выливает всё это в тонкую чашу и нагревает на огне, перемешивая до тех пор, пока консистенция не становится густой.::<end>
+
+=>q95_original
+::The warpaint is ready, and after waiting for it to cool off a bit he applies it to his face, smearing his skin with his hands, but the scales he treats with the reed brush.
+
+Now he's ready.::<end>
+
+=>q95
+::Боевая краска готова, и, подождав, пока она немного остынет, он наносит её на лицо, растирая кожу руками, но чешуйки он обрабатывает тростниковой кисточкой.
+
+Теперь он готов.::<end>
+
+=>a96_original
+Good luck, Yngwar. ::Leave.::<end>
+
+=>a96
+Удачи тебе, Ингвар. ::Уйти.::<end>
+
+=>a97_original
+::Just leave.::<end>
+
+=>a97
+::Просто уйти.::<end>
+
+=>a98_original
+I cannot let you kill in Flottsørmir's name, savage! ::Attack!::<end>
+
+=>a98
+Я не могу позволить тебе убивать во имя Флотсоурмира, дикарь! ::Напасть!::<end>
+
+=>a99_original
+Well, screw you too.<end>
+
+=>a99
+Ну и хрен с тобой тоже.<end>
+
+=>q100_original
+::He raises his hand.::<end>
+
+=>q100
+::Он поднимает руку.::<end>
+
+=>a101_original
+::Observe him.::<end>
+
+=>a101
+::Наблюдать за ним.::<end>
+
+=>q102_original
+::Now that you don't have to worry about him driving his spear between your eyes you can use the aforementioned to observe him at leisure. For instance, only now do you notice that his left forearm and hand are larger and of less regular shape than his right: The fingers are thicker and somewhat crooked at the joints - making them less dexterous when doing fine, precise work, such as putting meat on or turning the skewers - and the scales on that arm almost form a sturdy, reptilian gauntlet; almost - as there are a few patches of exposed purple-red flesh.::<end>
+
+=>q102
+::Теперь, когда нет нужды волноваться, что он вгонит копьё вам между глаз, вы можете использовать эти методы, чтобы наблюдать за ним на досуге. Так, например, вы только теперь заметили, что его левое предплечье и кисть больше и немного неправильной формы, чем правые: пальцы толще и несколько искривлены в суставах, что делает их менее ловкими при выполнении тонкой и точной работы, такой как надевание мяса или вращение шампуров. Чешуя на этой руке более крепкая и выглядит, словно это перчатка, так как под ней видна пара участков обнажённой, пурпурно-красной плоти.::<end>
+
+=>q103_original
+::There are many other details you notice: the tattoo on his chest - the same one you keep seeing around - the numerous bony piercings, the quality leather belt and backpack strap, the loincloth made of a material much finer and oddly more elegant than the simple furry greaves he's wearing.::<end>
+
+=>q103
+::Вы замечаете множество других деталей: татуировка на его груди такая же, что и виденная вами ранее, многочисленный пирсинг из костей, качественный кожаный ремень и рюкзак с ремешком, набедренная повязка, сделанная из материала намного более тонкого и до странности более элегантного, чем его меховые поножи..::<end>
+
+=>q104_original
+::[Perception] There is, in fact, plenty of visual conflict in his appearance: For each of his serpentine features there is an opposing humanizing one, like the way his scales grow around, and therefore emphasize, his biceps - perhaps the most recognizable symbol of male strength - or the difference between his cruder, malforming hand and his accurate, if scale-covered normal one.
+
+Even the dominant, curved lines of the tattoo are but boxed into the outlinear matrix of his pectoral and abdominal muscles.::<end>
+
+=>q104
+::[Восприятие] Вообще-то, в его внешности много визуальных противоречий: Для каждой из его змеиных черт есть противоположная, человеческая; например, его растущая на теле чешуя, и тем самым подчёркивающая его бицепсы - возможно, самый узнаваемый символ мужской силы - или разница между его грубой, деформированной рукой и его нормальной, если покрытие чешуёй можно считать нормальным.
+
+Даже преобладающие, изогнутые линии татуировки всего лишь заключены в контурную матрицу его грудных и брюшных мышц..::<end>
+
+=>q105_original
+::As you finish examining him, so does he finish examining you.::<end>
+
+=>q105
+::Когда вы заканчиваете осматривать его, он заканчивает осматривать вас.::<end>
+
+=>a106_original
+::Point at him.:: Yngwar.<end>
+
+=>a106
+::Указать на него.:: Ингвар.<end>
+
+=>q107_original
+::He is silent.::<end>
+
+=>q107
+::Он молчит.::<end>
+
+=>a108_original
+Uh... ::Pat your chest.:: 
+
+$(context.player.Name) - brave. ::Look brave as best as you can.::
+
+$(context.player.Name) - smart. ::Tap your head and hope he gets it.::
+
+$(context.player.Name) - adventurer. ::Use two fingers to imitate a person's legs.::
+<end>
+
+=>a108
+Хм... ::Ткнуть себя в грудь.:: 
+
+$(context.player.Name) - бравый. ::Изобразить, насколько это возможно, бравый вид.::
+
+$(context.player.Name) - умный. ::Указываете на свою голову, надеясь, что он поймёт.::
+
+$(context.player.Name) - авантюрист. ::Используя два пальца, имитируете ходьбу человека.::<end>
+
+=>q109_original
+::A moment passes.::
+
+$(context.player.Name)...<end>
+
+=>q109
+::Секунду спустя.::
+
+$(context.player.Name)...<end>
+
+=>q110_original
+Æterbæren. Dur Æterbæren.
+
+Yngwar - Sørmirbæren.
+
+Yngwar - Skærder.
+
+Yngwar - trekker... ::He mimics your walking fingers.::<end>
+
+=>q110
+Итербэрен. Ду итербэрен.
+
+Ингвар - соурмирбэрен.
+
+Ингвар - скэрдер.
+
+Ингвар - треккер... ::Он изображает ходьбу пальцами.::<end>
+
+=>q111_original
+::He picks up his knife, a blade made of bone and painted with blood, and approaches the sand. He starts by drawing waves, then ground above it. Tents soon emerge, people and livestock follow. He draws a doming cavern above it all, and places himself to the left, where the dome meets the water, far away from his tribe. He rests the knife's point on the drawn version of himself and says...::
+
+Yngwar. Yngwar. ::He pats his chest.::<end>
+
+=>q111
+::Он берёт в руки нож с костяным лезвием, красный от крови, и усаживается на песок. Он начинает рисовать волны, а затем землю над ними. Вскоре появляются палатки, люди и скот. Над всем этим он рисует куполообразную пещеру и помещает себя слева, где купол касается воды и вдалеке от своего племени. Он указывает концом ножа на нарисованную версию себя и говорит...::
+
+Ингвар. Ингвар. ::Он бьёт себя в грудь.::<end>
+
+=>q112_original
+$(context.player.Name). ::He points to you, then the sand.::<end>
+
+=>q112
+$(context.player.Name). ::Он указывает на вас, потом на песок.::<end>
+
+=>q113_original
+<end>
+
+=>q113
+<end>
+
+=>a114_original
+::Draw South Gate Station.::<end>
+
+=>a114
+::Нарисовать станцию Саут-Гейт.::<end>
+
+=>q115_original
+::You pick up a small sharp bone and start drawing the floors of South Gate Station, one by one, starting with the lowest one. As the floors multiply, so do the details that give the drawing some character: the shooting range, the bar, the hopper pen...
+
+The last inhabitant you draw is a hunchbacked stick figure standing outside the lowest floor.::<end>
+
+=>q115
+::Вы берёте маленькую острую кость и начинаете рисовать этажи станции Саут-Гейт, один за другим, начиная с самого нижнего. По мере того как этажи множатся, множатся и детали, придающие рисунку некую общность: тир, бар, загоны для пещерников...
+
+Последний житель, которого вы рисуете, - это сгорбленную фигурку, стоящую на нижнем этаже.::<end>
+
+=>q116_original
+::He observes your drawing with curiosity before adding a wave just below the ground floor, making it look as though most of the station is underwater.::<end>
+
+=>q116
+::Он внимательно рассматривает ваш рисунок, перед тем, как добавить волны чуть ниже первого этажа, что создало впечатление, будто большая часть станции под водой.::<end>
+
+=>a117_original
+::Draw the Institute of Tchort.::<end>
+
+=>a117
+::Нарисовать институт Чорта.::<end>
+
+=>q118_original
+::You pick up a small sharp bone and draw a large eye from which tentacles emerge - the entrance to the Institute. You then proceed to draw its layout, connecting the squares which represent floors and rooms with stairs and long hallways. The numerous vases also help to embellish the drawing. ::<end>
+
+=>q118
+::Вы берёте маленькую острую кость и рисуете большой глаз, из которого появляются щупальца - вход в институт. Затем вы начинаете рисовать его планировку, соединяя квадраты, которые представляют собой этажи и комнаты, при помощи лестниц и длинных коридоров. Многочисленные вазы также помогают украсить рисунок. ::<end>
+
+=>q119_original
+::And then, a large number of stick figures arrive and kill everyone.::<end>
+
+=>q119
+::А затем появляется большое количество фигурок и всех убивают.::<end>
+
+=>q120_original
+::The onslaught disturbs him slightly, but not for the expected reasons, it seems. He points to the tentacles a few times, their slithery nature obviously provoking great interest in him. He shakes his head and speaks.::
+
+Tirg sørmiren zöne Tir krigsppæt nikkt. Nikkt. Tir Dødten bitt, husse.<end>
+
+=>q120
+::Это нападение слегка встревожило его, но, похоже, по не совсем обычным причинам. Он несколько раз указывает на щупальца, их скользкая природа явно вызывает у него большой интерес. Он качает головой и говорит.::
+
+Тирг соурмирен зёнэ тир кригспьет никт. Никт. Тир Додтен бит, хуссе.<end>
+
+=>a121_original
+That is Tchort you're pointing at. Tchort. Tchort.<end>
+
+=>a121
+Это Чорт, на кого ты указываешь. Чорт. Чорт.<end>
+
+=>q122_original
+Tchort. Tchort...<end>
+
+=>q122
+Чорт. Чорт...<end>
+
+=>q123_original
+Fir... ::He pats his chest.:: Forskarr Flottsørmir! Tir... ::He points to the stick Tchortists.:: Forskarr Tchort. Fir - Sørmirbæren. Tir - Tchortbæren. Jakke. 
+
+Met Flottsørmir... möktter! Möktter!<end>
+
+=>q123
+Фир... ::Он хлопает себя по груди.:: Форскарр Флотсоурмир! Тир... ::Он указывает на Чортистов.:: Форскарр Чорт. Фир - Соурмирбэрен. Тир - Чортбэрен. Якке.
+
+Мет Флотсоурмир... мёкте! Мёкте!<end>
+
+=>q124_original
+Forskarr Flottsørmir!<end>
+
+=>q124
+Форскарр Флотсоурмир!<end>
+
+=>a125_original
+No. No Flotsourmir - Tchort!<end>
+
+=>a125
+Нет. Не Флотсоурмир - Чорт!<end>
+
+=>q126_original
+Tchort? ::He spits at you.:: Forskarr Flottsørmir! ::He shoves you away and grabs his spear.::<end>
+
+=>q126
+Чорт? ::Он плюёт на вас.:: Форскарр Флотсоурмир! ::Он отталкивает вас и хватает своё копьё.::<end>
+
+=>a127_original
+Forskar Flotsourmir.<end>
+
+=>a127
+Форскар флотсоурмир.<end>
+
+=>q128_original
+::He looks at the drawing some more, ::<end>
+
+=>q128
+::Он снова смотрит на рисунок,::<end>
+
+=>q129_original
+::then turns around to check his crab meat.::<end>
+
+=>q129
+::затем разворачивается, чтобы проверить своё крабовое мясо.::<end>
+
+=>a130_original
+::Say nothing.::<end>
+
+=>a130
+::Промолчать.::<end>
+
+=>q131_original
+<end>
+
+=>q131
+<end>
+
+=>q132_original
+::He points to the tentacles a few times, their slithery nature obviously provoking great interest in him.::
+
+Flottsørmir? Ik se nikkt jørre aut.<end>
+
+=>q132
+::Он несколько раз указывает на щупальца, их скользкая природа явно вызывает у него большой интерес.::
+
+Флотсоурмир? Ик сей никт йоррэ от.<end>
+
+=>a133_original
+No, that is Tchort. Tchort.<end>
+
+=>a133
+Нет, это Чорт. Чорт.<end>
+
+=>a134_original
+::Draw the expedition camp.::<end>
+
+=>a134
+::Нарисовать лагерь экспедиции.::<end>
+
+=>q135_original
+::You pick up a small sharp bone and start by drawing the many tents in the camp, and then eclipse them all with a tall lighthouse::<end>
+
+=>q135
+::Вы берёте маленькую острую кость и начинаете рисовать множество палаток в лагере, а затем перекрываете это всё высоким маяком.::<end>
+
+=>q136_original
+::atop which a lone figure stands. ::<end>
+
+=>q136
+::а на самом верху стоит одинокая фигура. ::<end>
+
+=>q137_original
+::You add jet skis patrolling around it, sec-troopers fighting sea serpents, laborers carrying boxes and Chief Briggs yelling at Ladelman.::<end>
+
+=>q137
+::Вы добавляете гидроциклы, патрулирующие округу, спец-охранников, сражающихся с морскими змеями, рабочих, несущих коробки, и шефа Бриггса, орущего на Лэйдельмана.::<end>
+
+=>q138_original
+::He observes your drawing with curiosity, but you notice that he does not recognize the camp. He nods a few times and adds a few tribal details to your tents.::
+
+Jakke... Tyrten gøttæ aule päkke-päkke.<end>
+
+=>q138
+::Он с любопытством разглядывает ваш рисунок, но вы замечаете, что он не узнаёт лагерь. Он кивает несколько раз и добавляет несколько племенных деталей к вашим палаткам.::
+
+Якке... Титн готте оле пэке-пэке.<end>
+
+=>q139_original
+::. ::<end>
+
+=>q139
+::. ::<end>
+
+=>a140_original
+::Draw the Free Drones base.::<end>
+
+=>a140
+::Нарисовать базу Вольных шершней.::<end>
+
+=>q141_original
+::You pick up a small sharp bone and start by drawing the railway. Then you draw a network of tunnels underneath it. And then you cram an entire community of stick figures in a few small rooms, with Hutch and Laser guarding the entrance.::<end>
+
+=>q141
+::Вы берёте маленькую острую кость и начинаете рисовать железную дорогу. Затем ниже рисуете сеть туннелей и запихиваете целое общину фигурок в несколько маленьких комнат, с Хатчем и Лазером, охраняющими вход.::<end>
+
+=>q142_original
+::He observes your drawing with curiosity, then points at Laser.::
+
+Mø? ::He then starts mooing.:: Mø?<end>
+
+=>q142
+::Он внимательно рассматривает ваш рисунок, а затем указывает на Лазера.::
+
+Му? ::Он начинает мычать.:: Муу?<end>
+
+=>a143_original
+Um, yes. Mu.<end>
+
+=>a143
+Хм, да. Му.<end>
+
+=>q144_original
+::He moos one more time, ::<end>
+
+=>q144
+::Он мычит ещё раз, ::<end>
+
+=>a145_original
+No. Woof-woof.<end>
+
+=>a145
+Нет. Гав-гав.<end>
+
+=>q146_original
+Woof-woof...? Bau-bau? ::He barks like a dog as his gaze turns southeast.::<end>
+
+=>q146
+Гав-гав?.. Воф-воф? ::Он лает, как собака, пока его взгляд устремлён на юго-восток.::<end>
+
+=>a147_original
+Yes. Bau-bau.<end>
+
+=>a147
+Да. Воф-воф.<end>
+
+=>q148_original
+::He barks one more time, ::<end>
+
+=>q148
+::Он лает ещё раз, ::<end>
+
+=>a149_original
+Not bau-bau - woof-woof!<end>
+
+=>a149
+Не воф-фоф - гав-гав!<end>
+
+=>q150_original
+Bau-bau!<end>
+
+=>q150
+Воф-воф!<end>
+
+=>a151_original
+::Draw Fort Apogee.::<end>
+
+=>a151
+::Нарисовать форт Апогей.::<end>
+
+=>q152_original
+::You pick up a small sharp bone and start by drawing a large courtyard where stick figures stand in ranks. You then proceed to draw the layout of the base, the barracks, the repair bay, consulate and, of course, the boxing ring. And you do not forget to draw a large robot at the entrance.::<end>
+
+=>q152
+::Вы берёте маленькую острую кость и начинаете рисовать большой двор, где фигурки стоят рядами. Затем рисуете планировку базы, казарм, ремонтного блока, консульства и, конечно же, боксёрского ринга. И не забываете нарисовать большого робота у входа.::<end>
+
+=>q153_original
+::He observes your drawing with curiosity, then points at the Dreadnought.::
+
+Dänn... aen truppal skærder. Jakke! ::Its drill-arm seems to interest him the most.:: Et grønt bitt!
+<end>
+
+=>q153
+::Он внимательно рассматривает ваш рисунок, а затем указывает на дредноут.::
+
+Ден... ин труппал скэрдер. Якке! ::Его рука-бур, похоже, заинтересовала его больше всего.:: Эт гронт бит!<end>
+
+=>a154_original
+::Draw Port Ceto.::<end>
+
+=>a154
+::Нарисовать Порт-Чето.::<end>
+
+=>q155_original
+::You use your finger to draw waves, then on them a large ship surrounded by platforms. You protect them with high walls and within them add stick figures of different shapes and sizes; the smallest one is surrounded by three lady stick figures. On the outside you add patrolling jetters, and that provokes a reaction from Yngwar...::<end>
+
+=>q155
+::Вы используете свой палец, чтобы нарисовать волны, а затем на них большой корабль, окружённый платформами. Вы защищаете их высокими стенами и внутри них добавляете фигурки разных форм и размеров; самая маленькая из них окружена тремя женскими фигурками. Снаружи вы добавляете патрулирующие гидроциклы, и это вызывает реакцию у Ингвара...::<end>
+
+=>q156_original
+::He shoves you away with his enlarged hand while grabbing his spear with the other.::<end>
+
+=>q156
+::Он отталкивает вас своей большей рукой, а другой хватается за копьё.::<end>
+
+=>a157_original
+::Draw railroad tracks and empty roads.::<end>
+
+=>a157
+::Нарисовать железнодорожные пути и дороги.::<end>
+
+=>q158_original
+::You use your finger to draw a network of interweaving roads and railways. You draw gangs, dogs and rathounds - the last two with little difference - inhabiting these, and then you add moving trains and broken down quad bikes.::<end>
+
+=>q158
+::Вы используете свой палец, чтобы нарисовать сеть перекрещивающихся дорожных и железных магистралей. Затем рисуете банды, собак и крысоволков, двух последних с незначительным отличием, обитающих там, и добавляете движущиеся поезда и сломанные квадроциклы.::<end>
+
+=>q159_original
+::He observes your drawing with curiosity, then points at the railway.::
+
+Bæn... trekkergar jömt mitt bæn. ::He picks up a few bones and places them parallel to one another, just like rail ties. He finds this interesting.:: Bæntrekkergar.<end>
+
+=>q159
+::Он внимательно рассматривает ваш рисунок, а затем указывает на железную дорогу.::
+
+Бэн... треккергар ёмт митт бэн. ::Он берёт несколько косточек и выкладывает их параллельно друг другу, как шпалы. Ему кажется это занимательным.:: Бэнтреккергар.<end>
+
+=>a160_original
+::Draw the sea.::<end>
+
+=>a160
+::Нарисовать море.::<end>
+
+=>q161_original
+::You use your finger to draw waves before finishing the drawing by adding a small boat.::<end>
+
+=>q161
+::Вы используете свой палец, чтобы нарисовать волны и прежде чем закончить рисунок добавляете небольшую лодку.::<end>
+
+=>q162_original
+::He observes your drawing with curiosity, then draws a man on the boat, and some kind of smoke following him. ::<end>
+
+=>q162
+::Он внимательно рассматривает ваш рисунок, а затем рисует человека на лодке, и какой-то клуб дыма, который следует за ним. ::<end>
+
+=>a163_original
+::Shake your head.::<end>
+
+=>a163
+::Покачать головой.::<end>
+
+=>q164_original
+::He points to you again, then at the sand.::<end>
+
+=>q164
+::Он снова указывает на вас, а затем на песок.::<end>
+
+=>q165_original
+<end>
+
+=>q165
+<end>
+
+=>q166_original
+::He spits on the ground and waves you away, following it with some unintelligible cursing.::
+
+Trekkenørgen... Trekkenørgen!<end>
+
+=>q166
+::Он сплёвывает на землю и отмахивается от тебя, сопровождая это каким-то непонятным ругательством.::
+
+Треккенорген... Треккенорген!<end>
+
+=>a167_original
+What?<end>
+
+=>a167
+Что?<end>
+
+=>q168_original
+::He grabs his spear.::<end>
+
+=>q168
+::Он хватает своё копьё.::<end>
+
+=>a169_original
+I get it. ::Leave.::<end>
+
+=>a169
+Понятно. ::Уйти.::<end>
+
+=>a170_original
+::Leave without saying a word.::<end>
+
+=>a170
+::Уйти, не сказав ни слова.::<end>
+
+=>a171_original
+::Attack!::<end>
+
+=>a171
+::Напасть!::<end>
+
+=>a172_original
+::Do nothing.::<end>
+
+=>a172
+::Ничего не делать.::<end>
+
+=>a173_original
+::Point at his arm, or more specifically its scaly skin.::<end>
+
+=>a173
+::Указать на его руку, заостряя внимание на её чешуйчатой коже.::<end>
+
+=>q174_original
+::He inspects you, then starts touching your clothes.::<end>
+
+=>q174
+::Он внимательно осматривает вас, затем начинает трогать вашу одежду.::<end>
+
+=>a175_original
+::Push him away.:: Outta my space.<end>
+
+=>a175
+::Оттолкнуть его.:: Вали отсюда.<end>
+
+=>q176_original
+::He responds by shoving you back. ::<end>
+
+=>q176
+::Он реагирует, отталкивая вас назад. ::<end>
+
+=>q177_original
+<end>
+
+=>q177
+<end>
+
+=>a178_original
+::Say nothing, just stare at him.::<end>
+
+=>a178
+::Ничего не говоря, просто пялиться на него.::<end>
+
+=>q179_original
+::He looks at you for a moment, then ::<end>
+
+=>q179
+::Он смотрит на вас мгновение, а затем ::<end>
+
+=>q180_original
+::returns to attending his fireplace.::<end>
+
+=>q180
+::возвращается к своему костру.::<end>
+
+=>a181_original
+Watch it!<end>
+
+=>a181
+Смотри!<end>
+
+=>a182_original
+::Slap his hand aside.:: Don't touch me!<end>
+
+=>a182
+::Оттолкнуть его руку в сторону.:: Не трогай меня!<end>
+
+=>q183_original
+::He grabs your arm mid-air and shoves you away. ::<end>
+
+=>q183
+::Он перехватывает вашу руку и отталкивает вас. ::<end>
+
+=>a184_original
+::Step away from him.:: No.<end>
+
+=>a184
+::Отойти от него.:: Нет.<end>
+
+=>q185_original
+::He too steps back.:: <end>
+
+=>q185
+::Он тоже делает шаг назад.::<end>
+
+=>q186_original
+Dänn Rætter bitt. Grønt rætter... Hvær Dur ykdrääsil kær grønt rætten?<end>
+
+=>q186
+Ден рэттер бит. Гронт рэттер... Хвеа ду икдросил кеа гронт рэттен?<end>
+
+=>a187_original
+::[Intelligence] It's the regalia. Something about it fascinates him.::<end>
+
+=>a187
+::[Интеллект] Моя одежда? Что-то в ней его завораживает.::<end>
+
+=>q188_original
+Rætter. ::He points to your regalia.:: Rætter. Grønt! ::He gestures something large.::<end>
+
+=>q188
+Рэттер. ::Он указывает на вашу одежду.:: Рэттер. Гронт! ::Он изображает нечто большое.::<end>
+
+=>a189_original
+::[Intelligence] It's the regalia. Perhaps he's never seen a rathound before.:: Reter, yes. Big reters in Underrail. ::Gesture how big.::<end>
+
+=>a189
+::[Интеллект] Моя одежда? Может он раньше никогда не видел крысоволка.:: Да, *рэттер*. В Подземке большие *рэттер-ы*. ::Показываете руками насколько большие.::<end>
+
+=>q190_original
+Rætterheund? 
+
+Ønderr-räyl...<end>
+
+=>q190
+Рэттерхунд? 
+
+Ондер-айль...<end>
+
+=>q191_original
+<end>
+
+=>q191
+<end>
+
+=>a192_original
+There rats big. Not good for nom nom. ::Mimic eating and make a sour face..:: But good for clothes. ::Appear comfortable in your regalia.::<end>
+
+=>a192
+Здесь крысы большие. Ням-ням - не вкусно. ::Изобразить процесс поедания пищи и сделать кислое лицо..:: Но для одежды самое то. ::Показать насколько вам удобно в ней.::<end>
+
+=>q193_original
+::He finds your explanation amusing and points at his loincloth, making himself look rather comfy as well.::<end>
+
+=>q193
+::Он находит ваше объяснение забавным и указывая на свою набедренную повязку также делает вид, что ему комфортно.::<end>
+
+=>q194_original
+::He inspects the regalia for a few more moments, then ::<end>
+
+=>q194
+::Он ещё какое-то время осматривает одежду, а затем ::<end>
+
+=>a195_original
+There rats big. Good for nom nom. ::Mimic eating and make a pleased face..:: But better for clothes. ::Appear comfortable in your regalia.::<end>
+
+=>a195
+Здесь крысы большие. Ням-ням - не вкусно. ::Изобразить процесс поедания пищи и сделать кислое лицо.:: Для одежды лучше всего. ::Показать насколько вам удобно в ней.::<end>
+
+=>a196_original
+Yes.<end>
+
+=>a196
+Да.<end>
+
+=>a197_original
+::Nod and leave it at that.::<end>
+
+=>a197
+::Кивнуть и оставить всё как есть.::<end>
+
+=>a198_original
+Rathound?<end>
+
+=>a198
+Крысоволк?<end>
+
+=>q199_original
+Rættenheund?<end>
+
+=>q199
+Рэттерхунд?<end>
+
+=>a200_original
+Yes. Big rats from Underrail.<end>
+
+=>a200
+Да. В Подземке большие крысы.<end>
+
+=>q201_original
+Ønderr-räyl...<end>
+
+=>q201
+Ондер-айль...<end>
+
+=>a202_original
+I don't get it.<end>
+
+=>a202
+Я не понимаю.<end>
+
+=>q203_original
+::He shakes his head, looks at the regalia some more, then ::<end>
+
+=>q203
+::Он качает головой, бросает ещё один взгляд на вашу одежду, а затем ::<end>
+
+=>a204_original
+::Shrug your shoulders.::<end>
+
+=>a204
+::Пожать плечами.::<end>
+
+=>a205_original
+::[Intelligence] It's the regalia. Perhaps he's never seen a rathound before.:: Not reter - reterhound. Big retenhounds in Underrail. ::Gesture how big.::<end>
+
+=>a205
+::[Интеллект] Моя одежда? Может он раньше никогда не видел крысоволка.:: Не *рэттер* - это крыса, то есть крысоволк. В Подземке большие крысоволки. ::Показываете руками насколько большие.::<end>
+
+=>a206_original
+What?<end>
+
+=>a206
+Что?<end>
+
+=>a207_original
+::Shrug your shoulders.::<end>
+
+=>a207
+::Пожать плечами.::<end>
+
+=>a208_original
+::Let him keep touching you.::<end>
+
+=>a208
+::Позволить ему продолжить касаться к вам.::<end>
+
+=>q209_original
+Hvarga? <end>
+
+=>q209
+Сварга?<end>
+
+=>q210_original
+<end>
+
+=>q210
+<end>
+
+=>q211_original
+::He grabs his bone knife...::<end>
+
+=>q211
+::Он выхватывает свой костяной нож...::<end>
+
+=>q212_original
+::...and begins drawing in the sand. This in combination with his gesturing and an occassional sentence forms a narrative you try your best to follow.::<end>
+
+=>q212
+::...и начинает рисовать на песке, что в сочетании с его жестами и редкими фразами формирует историю, которую вы изо всех сил стараетесь понять.::<end>
+
+=>a213_original
+::[Intelligence] Observe and listen.::<end>
+
+=>a213
+::[Интеллект] Смотреть и слушать.::<end>
+
+=>q214_original
+::His tale begins with the difference between the two skins: One you are born with, the other you earn. Not everyone can earn it, no, as not everyone is strong enough - not everyone has been destined to achieve transcendence. "Abyssal" transcendence, it seems, for he looks down and points his hands to the ground, his palms being fully open.::
+
+Skærden... Forskarr Flottsørmir! Forskarr Pöm.<end>
+
+=>q214
+::Его рассказ начинается с разности двух кож. С одной вы рождаетесь, другую надо заслужить. Нет, не каждый способен её заслужить, так как не каждый достаточно силён и не всякому суждено достичь запредельности. Или вернее, безграничной запредельности, так как он смотрит вниз и указывает раскрытыми ладонями на землю.::
+
+Скэрден... Форскарр Флотсоурмир! Форскарр пом.<end>
+
+=>q215_original
+::Men who relay Flotsourmir's messages organize some kind of ritualistic drinking of a "potion of serpent essence." It drops men to the ground and makes them convulse like serpents in pain. It burns from below and outside but later they feel that very serpentine essence imbuing them. Weaklings die. The strong will begin or continue their transformation. 
+
+But then he speaks of further rituals: They all begin with the consumption of these potions, but each one is followed by new challenges. And then he abruptly stops.::<end>
+
+=>q215
+::Те, кто передают послания Флотсоурмира, во время ритуала предлагают выпить какое-то "зелье змеиной эссенции". От него люди падают на землю и извиваются от боли, подобно змеям. Жжёт внутри и снаружи тела, но позже приходит чувство наполнения змеиной сущностью. Слабые умирают. Сильные могут продолжить свою трансформацию. 
+
+Затем он рассказывает о дополнительных ритуалах: Все они начинаются с употребления этих зелий, но за каждым из них следуют новые проблемы. А потом он внезапно замолкает.::<end>
+
+=>q216_original
+::He starts by showing you the difference between the two skins, but you gain no new information. It seems that strong ones get scales, and weaker ones not so much. And then he points his hands downward with palms fully open.::
+
+Skærden... Forskarr Flottsørmir! Forskarr Pöm.<end>
+
+=>q216
+::Для начала, он показывает на разность двух кож, что для вас не новость. И кажется, что кто сильнее, получают много чешуи, а более слабые меньше. А затем он указывает своими руками, с открытыми ладонями, вниз.::
+
+Скэрден... Форскарр Флотсоурмир! Форскарр пом.<end>
+
+=>q217_original
+::But then you begin to lose him. He describes drinking something, that you manage to catch, but the rest goes right over your head. And then he abruptly stops.::<end>
+
+=>q217
+::Но потом вы начинаете терять нить разговора. Вам удаётся понять, что некто что-то пьёт, но остальное выше вашего понимания. А потом он внезапно замолкает.::<end>
+
+=>q218_original
+::He's waiting.::<end>
+
+=>q218
+::Он ждёт.::<end>
+
+=>q219_original
+<end>
+
+=>q219
+<end>
+
+=>a220_original
+::[Intelligence] Bring your arm next to his and point out the difference. Then point to his arm and make a talking mouth with your hand.::<end>
+
+=>a220
+::[Интеллект] Приставить свою руку к его и указать на различия. Затем указать на его руку и изобразить жестом говорящий рот.::<end>
+
+=>q221_original
+::He stares at you.::<end>
+
+=>q221
+::Он смотрит на вас.::<end>
+
+=>a222_original
+::Point at his scales again.::<end>
+
+=>a222
+::Снова указать на его чешую.::<end>
+
+=>a223_original
+::Touch his scales.:: Yes, yes. Sourmirhud.<end>
+
+=>a223
+::Коснуться его чешуи.:: Да, да. Соурмирху.<end>
+
+=>a224_original
+::Wait.::<end>
+
+=>a224
+::Ждать.::<end>
+
+=>a225_original
+Come on, damn it!<end>
+
+=>a225
+Давай, чёрт тебя побери.<end>
+
+=>a226_original
+::Point to his scales.:: Sourmirhud. Sourmirhud.<end>
+
+=>a226
+::Указать на его чешую.:: Соурмирху. Соурмирху.<end>
+
+=>q227_original
+Jakke, Sørmirhud.<end>
+
+=>q227
+Якке, соумирху.<end>
+
+=>a228_original
+::Point to his scales again.:: Sourmirhud, man. Tell me about sourmirhud.<end>
+
+=>a228
+::Указать снова на его чешую.:: Соурмирху, мужчина. Расскажи мне о соурмирху.<end>
+
+=>q229_original
+::He frowns.::
+
+Sørmirhud! Ah, gäkkter!<end>
+
+=>q229
+::Он хмурит брови.::
+
+Соурмирху! Э, гакктэ!<end>
+
+=>a230_original
+::Point to his scales angrily.:: Tell me about the goddamned sourmirhud!<end>
+
+=>a230
+::Сердито указать на его чешую.:: Расскажи мне о чёртовой соурмирху!<end>
+
+=>a231_original
+::Inquire about something else.::<end>
+
+=>a231
+::Спросить о чём-нибудь другом.::<end>
+
+=>q232_original
+::You decide it's best to change the subject until you can figure out a way to communicate your thoughts better.::<end>
+
+=>q232
+::Вы решаете, что лучше всего сменить тему, пока вы не найдёте способ лучше передать свои мысли.::<end>
+
+=>q233_original
+::He moves his fingers over his rough scales.::
+
+Sørmirhud...
+
+::Then he touches his human skin.::
+
+Bærenhud...<end>
+
+=>q233
+::Он проводит пальцами по своей жёсткой чешуе.::
+
+Соурмирху...
+
+::Затем он касается своей человеческой кожи.::
+
+Бэренху...<end>
+
+=>a234_original
+::Touch your skin.:: Barenhud?<end>
+
+=>a234
+::Прикоснуться к своей коже.:: Бэренху?<end>
+
+=>q235_original
+Jakke. Bærenhud.<end>
+
+=>q235
+Якке. Бэренху.<end>
+
+=>a236_original
+::Touch your skin.:: Sourmirhud?<end>
+
+=>a236
+::Прикоснуться к своей коже.:: Соурмирху?<end>
+
+=>q237_original
+Nikke. <end>
+
+=>q237
+Никке.<end>
+
+=>a238_original
+::Point at his drawing of himself.:: Why Yngwar here?<end>
+
+=>a238
+::Указать на его рисунок самого себя.:: Зачем Ингвар здесь?<end>
+
+=>q239_original
+::You can see it in his eyes that he understands, but he still shakes his head.::
+
+Nikke.<end>
+
+=>q239
+::Вы определяете по его глазам, что он понимает, но он всё ещё качает головой.::
+
+Никке.<end>
+
+=>a240_original
+::Point again.:: Why Yngwar here?<end>
+
+=>a240
+::Повторить вопрос.:: Зачем Ингвар здесь?<end>
+
+=>q241_original
+Stulle, Æterbæren! Krökø!<end>
+
+=>q241
+Стулле, итербэрен! Кроко!<end>
+
+=>a242_original
+::Imitate shooing away.:: Yngwar thrown out?<end>
+
+=>a242
+::Изобразить как будто прогоняешь кого-то.:: Ингвара выгнали?<end>
+
+=>a243_original
+::Imitate fear.:: Yngwar afraid of something and ran away?<end>
+
+=>a243
+::Изобразить страх.:: Ингвар чего-то испугался и убежал?<end>
+
+=>a244_original
+::Leave it be.::<end>
+
+=>a244
+::Оставить его.::<end>
+
+=>a245_original
+::Do the drinking motion.:: Drinking, you mentioned... uh, showed you were drinking something.<end>
+
+=>a245
+::Сделать глотательное движение.: Пить, ты упоминал... тьфу, показывал, что что-то пьёшь.<end>
+
+=>q246_original
+::He does the drinking motion alright, but everything after that is incomprehensible.::<end>
+
+=>q246
+::Он немного жестикулирует, но вы разбираете только жест питья.::<end>
+
+=>q247_original
+::Perhaps hearing everything in context again will help you understand what he meant better.::<end>
+
+=>q247
+::Возможно, если снова всё полностью послушать, это поможет вам лучше понять, о чём он говорит.::<end>
+
+=>a248_original
+::Imitate drinking a potion, then point to his scales.:: Rituals. Tell me about the rituals.<end>
+
+=>a248
+::Показать, будто пьёшь зелье, а затем указать на его чешую.:: Ритуал. Расскажи мне о ритуалах.<end>
+
+=>q249_original
+::He pauses, observing you intently.::
+
+Hvæy? Hvæy græss Ik vertää ot krønn et tø Durg?<end>
+
+=>q249
+::Он останавливается, пристально наблюдая за вами.::
+
+Хвей? Хвей гасс ик веатца от конн ит ту Дург?<end>
+
+=>a250_original
+::[Intelligence] You think he's asking you why he should be telling you all of this.:: You - Yngwar, great warrior. I, uh... Ik - $(context.player.Name), want become greater too. ::Gesture it as best as you can.::<end>
+
+=>a250
+::[Интеллект] Вы решаете, что он спрашивает вас, зачем он должен вам всё это рассказывать.:: Ты - Ингвар, великий воин. Я, ээ... Я - $(context.player.Name), хочу тоже прославиться. ::Показать это жестами, насколько это возможно.::<end>
+
+=>q251_original
+Durg Æterbæren bitt. Durg mætären Firg køkörr nikkt.
+
+::He makes a lengthy pause, his eyes darting between you and the skewers.::<end>
+
+=>q251
+Дург Итербэрен бит. Дург митаэн фирг кукор никт.
+
+::Он делает долгую паузу, его глаза мечутся между вами и шампурами.::<end>
+
+=>q252_original
+Rit... øal. Ritøal.
+
+Ritøal - Sørmirvääj.<end>
+
+=>q252
+Рит... юль. Ритюль.
+
+Ритюль - Сормирвяай.<end>
+
+=>a253_original
+::[Intelligence] Observe and listen.::<end>
+
+=>a253
+::[Интеллект] Смотреть и слушать.::<end>
+
+=>q254_original
+::He gestures drinking and shows the pain coming from below and outside. Then it subsides, and he feels much closer to the great serpents - like he's becoming one. The first ritual he describes is swimming deep, deep down, as far as possible. But the way the swimming is performed is different: His legs are tied together, his hands as well, so what he's doing is basically wriggling through the water.::
+
+Sørmirlemen.<end>
+
+=>q254
+::Он жестом показывает, будто пьёт, а затем приходящую боль, в животе и по всему телу. После оседает на землю, и изображает змею, как будто он и есть большая змея. Первый ритуал, который он описывает, - это ныряние на глубину, насколько это возможно. Но способ ныряния отличается: его ноги и руки соединены вместе, поэтому со стороны кажется будто он извивается в воде.::
+
+Соурмирлемэн.<end>
+
+=>q255_original
+::He seems frustrated, but you cannot figure out why. He clenches his hand into a fist ::<end>
+
+=>q255
+::Он, похоже, раздражён, но вы не можете понять, почему. Он сжимает пальцы в кулак ::<end>
+
+=>q256_original
+::and again describes those men who relay Flottsørmir's messages - spiriters, but this time he's sulking.::<end>
+
+=>q256
+::и снова описывает тех людей, что передают послания Флотсоурмира - духопоклонников, но на этот раз он сердится.::<end>
+
+=>q257_original
+::He drinks an imaginary potion again and begins: They are in a temple to whose waters a great serpent has been summoned. The powerful eyes of the High Spiriter can hold it in place until other spiriters can use air potions to pacify it. Then he entered its mouth and got swallowed, his arms and legs tied together. He was supposed to stay in its stomach and let its strong acid "lustrate" him and help him burn away his birthskin. But the serpent was not dazed enough and began thrashing about. Then it swam deep down with him still inside it.::<end>
+
+=>q257
+::Он снова пьёт воображаемое зелье и начинает: Они были в храме, к водам которого был призван великий змей. Верховный духопоклонник взглядом удерживал его на месте, пока другие духи применяли воздушную эссенцию, чтобы успокоить его. Затем он попал в его рот и был проглочен, его руки и ноги были связаны вместе. Он должен был оставаться в его желудке и позволить сильной кислоте "очистить" его, помочь ему выжечь свою родную кожу. Но змей не достаточно оцепенел, и начал метаться, а потом нырнул вглубь моря с ним внутри него.::<end>
+
+=>q258_original
+::A dazed serpent cannot crush you in its stomach because its muscles get numbed, but this one squeezed him harder and harder. He undid his bonds and started crawling out. Then he saw a spear before him, a spear from one of the transcended who was hit by the serpent's tail and dropped it. He grabbed it near the tip with both of his hands as the serpent tried biting them down with its debilitated jaws - and then drove the tip through its eye...::<end>
+
+=>q258
+::Впавший в оцепенение змей не может раздавить вас в своём животе, так как его мышцы слабеют, но этот сжимал его всё сильнее и сильнее. Он развязал свои путы и начал выползать наружу. Затем он увидел перед собой копьё одного из преступивших порог, его ударил хвост змея и он уронил его. Он схватил его обеими руками, и когда змей пытался укусить их своими ослабевшими челюстями, вогнал прямо в глаз...::<end>
+
+=>q259_original
+::He emerged from the water, bathed in the serpent's acid and blood. He is a strong warrior of Flotsourmir, and he has defeated the great serpent like no Serpentborn before him has.
+
+But the spiriters... they objected.::<end>
+
+=>q259
+::Он вышел из воды, залитый кислотой и кровью змея. Он сильный воин Флотсоурмира, и он победил великого змея, как ни один змеерождённый до него.
+
+Но духопоклонники... они были против.::<end>
+
+=>q260_original
+::He blasphemed - again. He should not be swimming with his arms free. He should not be climbing out of the water by using his legs. He should not be killing prey with tools and weapons. They told him these things before.
+
+And he should not have used a spear - a weapon - to slay a great serpent during the ritual. After many tides he will have to abandon his arms and legs, and with them daggers and knives and spears.::<end>
+
+=>q260
+::Он богохульствовал, снова. Он не должен был плавать со свободными руками. Не должен вылезать из воды, используя свои ноги. Не должен убивать добычу при помощи приспособлений и оружия. Они уже говорили ему об этом раньше.
+
+И он не должен был во время ритуала использовать копьё, как оружие, для убийства великого змея. После многих приливов ему придётся отказаться от своих рук и ног, и в придачу от кинжалов, ножей и копий.::<end>
+
+=>q261_original
+Ik forskarr Flottsørmir, Yngwar forskarr Flottsørmir... met æter Sørmirbæren forskarr Flottsørmir nikkt det klögar ot Yngwar.<end>
+
+=>q261
+Ик форскарр Флотсоурмир, Ингвар форскарр Флотсоурмир... мит итер Соурмирбэрен форскарр Флотсоурмир никт дет клогар от Ингвар.<end>
+
+=>q262_original
+::Yngwar was no weakling but a mighty warrior, so he was only exiled and not slain. Now he lives here alone, and he ponders...::<end>
+
+=>q262
+::Ингвар был могучим воином, а не слабаком, поэтому его просто изгнали, а не убили. Теперь он живёт здесь один и размышляет...::<end>
+
+=>q263_original
+::and describes certain people about whose purpose you aren't exactly sure.::<end>
+
+=>q263
+::и описывает каких-то людей, в предназначении которых вы точно не уверены.::<end>
+
+=>q264_original
+::He drinks an imaginary potion again, and this is where you begin to lose him. The ritual involves deep waters and great serpents and ends in one's or more than one's death. But something is not right, and his sense of triumph - possibly because he is their slayer - soon diminishes.::<end>
+
+=>q264
+::Он снова пьёт воображаемое зелье, и здесь вы начинаете терять суть его рассказа. Ритуал включает в себя глубокие воды и великих змей, а заканчивается смертью одного или нескольких человек. Но что-то проходит не так, и его торжество - может, потому, что он их убил - вскоре идёт на спад.::<end>
+
+=>a265_original
+::Bow your head.:: Please, Yngwar, tell me. ::Gesture speaking with your hand.::<end>
+
+=>a265
+::Склонить голову.:: Пожалуйста, Ингвар, расскажи. ::Изобразить разговор жестами.::<end>
+
+=>q266_original
+::He observes you with disdain. ::<end>
+
+=>q266
+::Он наблюдает за вами с презрением. ::<end>
+
+=>a267_original
+I'm a mighty warrior, rrrrggh! ::Pat your chest.::<end>
+
+=>a267
+Я могучий воин, гррр! ::Ткнуть себя в грудь.::<end>
+
+=>a268_original
+Yngwar mighty warrior, rrrrggh! ::Point to him.::<end>
+
+=>a268
+Ингвар могучий воин, гррр! ::Указать на него.::<end>
+
+=>a269_original
+::Stare at him and remain silent.::<end>
+
+=>a269
+::Уставиться на него и хранить молчание.::<end>
+
+=>q270_original
+::You stare at him. He stares at you. Nothing happens until he returns to his cooking.::<end>
+
+=>q270
+::Вы смотрите на него. Он смотрит на вас. Ничего не происходит и он возвращается к своей стряпне.::<end>
+
+=>a271_original
+::Shake your head.::<end>
+
+=>a271
+::Покачать головой.::<end>
+
+=>q272_original
+::He simply returns to his cooking.::<end>
+
+=>q272
+::Он просто возвращается к своей стряпне.::<end>
+
+=>a273_original
+Why does Yngwar perform the rituals differently? ::Gesture it as best as you can.::<end>
+
+=>a273
+Почему Ингвар выполняет ритуалы по-другому? ::Показать жестами как можно лучше, как вы можете.::<end>
+
+=>q274_original
+::He pauses, thinking, and after a moment he begins explaining.::<end>
+
+=>q274
+::Он делает паузу, задумывается, и через мгновение начинает объяснять.::<end>
+
+=>q275_original
+Ik völle...
+
+::He wants to be the strongest warrior - weaker than no one. He wants to slay his enemies, the Otherborn and everyone who gets in his way or desecrates Flotsourmir, the same one who will bring him closer to himself through abyssal transcendence and grant him great strength. The spiriters interpret His will and tell the warriors how they should obey it.::<end>
+
+=>q275
+Ик вёлле...
+
+::Он хочет стать самым сильным воином. никого не слабее. Он хочет убить своих врагов, Инорожденных и всех, кто встанет на его пути или осквернит Флотсоурмир, того же, кто вернёт его, приблизит к себе через безграничную запредельность и дарует ему великую силу. Духопоклонники истолковывают Его волю и говорят воинам, как они должны ей подчиняться..::<end>
+
+=>q276_original
+::For years the spiriters guided the "skerders" - the transcended ones - and Yngwar obeyed. After all, the spiriters themselves have performed their own rituals and obeyed His will to become spiriters, only their gift was not strength of body but strength of mind and senses. 
+
+But at some point Yngwar began to doubt what the spiriters were saying.::<end>
+
+=>q276
+::В течение многих лет духопоклонники руководили "скеадашами" - умеющими выходить за пределы возможного - и Ингвар повиновался им. Ведь они сами проводили свои ритуалы и повинуясь Его воле становились духопоклонниками, только их дар не в возможностях тела, а в силе разума и чувств. 
+
+Но в какой-то момент Ингвар начал сомневаться в том, что говорят духопоклонники.::<end>
+
+=>q277_original
+::He looks at his enlarged hand, then the other one.::
+
+Merg hännten jyköstönne pøss bitt.<end>
+
+=>q277
+::Он бросает взгляд сначала на свою большую руку, потом на другую.::
+
+Мерг хантин икостон посс бит.<end>
+
+=>q278_original
+::The large one is strong and powerful. But for it to become stronger it must lose other strengths. That makes it, in fact, weaker.::<end>
+
+=>q278
+::Более сильный и могучий. Но для того, чтобы стать сильнее, он должен потерять свои другие сильные стороны. По сути, это делает его слабее.::<end>
+
+=>q279_original
+::Great serpents are powerful swimmers because of their big tails. 
+
+Stronger legs are better for swimming, fused legs even better; but at the same time they become worse, since unfused they can be brought closer or farther at will and used for many other purposes.::<end>
+
+=>q279
+::Большие змеи - отличные пловцы, благодаря своим большим хвостам. 
+
+Сильные ноги лучше подходят для плавания, а сросшиеся ноги ещё лучше; но в месте с тем они и хуже, так как не сросшиеся могут приблизиться или отдалиться и быть использованы для многих других целей.::<end>
+
+=>q280_original
+::Tools that help too much are for the weak - and make people weak - but tools that allow a strong man to become stronger are good. Weapons too - they should not be warriors themselves but help warriors be better warriors. That is good.
+
+Why abandon them?::<end>
+
+=>q280
+::Механизмы, которые излишне облегчают жизнь, предназначены для слабых и делают людей слабыми, но те, что позволяют сильному человеку стать сильнее - это хорошо. Это касается и вооружения, они не должны убивать сами по себе, а должны помогать воинам стать лучше. Это правильно.
+
+Так зачем их выбрасывать?::<end>
+
+=>q281_original
+Krökø!
+
+::To slay a great serpent from inside its jaws, bathed in its acid is a feat no Sourmirbaren has achieved, and he did it with his arms and a weapon. Then Yngwar got exiled for it - for being strong, for being a warrior. Is this really Flotsourmir's will?::<end>
+
+=>q281
+Кроко!
+
+::Убить великого змея изнутри будучи погружённым в его кислоту, - это подвиг, который не был по силам Соурмирбэрен, и он совершил его своими руками и оружием. Затем Ингвара изгнали за то, что он сильный, за то, что он воин. Действительно ли это воля Флотсоурмира?::<end>
+
+=>q282_original
+::As time went on, he saw less and less sense in the things the spiriters were saying, and saw even in the most powerful warriors weaknesses he did not want to have.::<end>
+
+=>q282
+::Со временем он всё меньше видел смысл в том, что говорили духопоклонники, и видел даже в самых сильных воинах слабости, которых не хотел иметь.::<end>
+
+=>a283_original
+You, uh, Durg... ::Point at him.:: said at some point Durg began doubting the spiriters words. ::Gesture it as best as you can.:: When? ::Shrug your shoulders.::<end>
+
+=>a283
+Ты, ээ... Дург... ::Указывая на него.:: говорил, что в какой-то момент начал сомневаться в словах духопоклонников. ::Вы дополняете жестами свои слова.:: А когда? ::Пожимая плечами.::<end>
+
+=>q284_original
+::He shuts his eyes and shields them with his arms.::
+
+Lysbørggamen.<end>
+
+=>q284
+::Он зажмуривает глаза и закрывает их руками.::
+
+Лисбургамэн.<end>
+
+=>q285_original
+<end>
+
+=>q285
+<end>
+
+=>a286_original
+Lysburgamen. ::Close and open your eyes.:: Tell me about it.<end>
+
+=>a286
+Лисбургамэн. ::Закрыть и открыть глаза.:: Расскажи мне.<end>
+
+=>q287_original
+::He shakes his head.::
+
+Nikke.<end>
+
+=>q287
+::Он качает головой.::
+
+Никке.<end>
+
+=>a288_original
+Please, Yngwar, would you tell me?<end>
+
+=>a288
+Пожалуйста, Ингвар, расскажи мне?<end>
+
+=>a289_original
+Come on!<end>
+
+=>a289
+Ну давай!<end>
+
+=>a290_original
+::Close and open your eyes again.::<end>
+
+=>a290
+::Закрыть и снова открыть глаза.::<end>
+
+=>q291_original
+Et brønt det unner ønnt æppen aböö gymmon det øyen. ::He closes his eyes tightly.::<end>
+
+=>q291
+Ит бронт дет инна онт эррен апу гиммон дет оин. ::Он крепко закрывает глаза.::<end>
+
+=>q292_original
+<end>
+
+=>q292
+<end>
+
+=>a293_original
+::[Intelligence] Put your hand on your chest.:: Here? It burns here?<end>
+
+=>a293
+::[Интеллект] Положить руку себе на грудь.:: Здесь? Здесь жжёт?<end>
+
+=>q294_original
+Jakke. ::He begins to describe it::<end>
+
+=>q294
+Якке. ::Он начинает изображать её::<end>
+
+=>a295_original
+::[Intelligence] Observe and listen.::<end>
+
+=>a295
+::[Интеллект] Смотреть и слушать.::<end>
+
+=>q296_original
+::It is near the exit from the Black Sea, the light which burns the "essence." Men die when they stare at or approach it. Everyone sleeps with their back turned toward it, or hunt, kill, perform rituals - with their faces turned away from the light which burns the "essence."::<end>
+
+=>q296
+::Свет, который сжигает "сущность", находится недалеко от выхода из Чёрного моря. Мужчины умирают, когда смотрят на него или приближаются к нему. Каждый спит, повернувшись к нему спиной, и даже охотится, убивает, совершает ритуалы, отвернувшись от света, который сжигает "сущность".::<end>
+
+=>q297_original
+::He was a young boy, perhaps in early teens, when his boat went missing; he had failed to secure it properly and the current carried it south. Knowing that his father would rip off one of the "teeth in his skin" for such neglect as losing one's own boat, or that the spiriters might deem him unworthy of abyssal transcendence, he went with his brother Asmögar on his boat to search for it.::<end>
+
+=>q297
+::Он был ещё маленьким, возможно, подростком, когда его лодка пропала; он не закрепил её должным образом, и её унесло течением на юг. Подозревая, что за потерю лодки отец может вырвать один из "зубьев на его коже", или что духопоклонники могут посчитать его недостойным безграничной запредельности, он отправился вместе со своим братом Асмогаром на его лодке искать её.::<end>
+
+=>q298_original
+::They both knew the dangers, knew it was forbidden, but he had to find his boat. And they did find it near the sea's exit, but as soon as they approached it, the light appeared on the cliff to their left and blinded them. His brother did not survive. He collapsed and died on the spot. Yngwar lived.::<end>
+
+=>q298
+::Они оба знали, что это опасно и запрещено, но он должен был найти свою лодку. И они нашли её на выходе из моря, но как только приблизились к ней, слева от них появился свет на утёсе и ослепил их. Его брат не выжил. Он упал и умер на месте. Ингвар выжил.::<end>
+
+=>q299_original
+::He managed to recover his boat and row back home. His brother he left in his own. He never told anyone what exactly happened there: The two went hunting and his brother was devoured by serpents. That's all they needed to know.::<end>
+
+=>q299
+::Ему удалось вернуть лодку и вернуться домой. Брата он оставил так как есть. Он никому не рассказывал, что именно там произошло: Они отправились на охоту и его брата поглотили змеи. Это всё, что им нужно было знать.::<end>
+
+=>q300_original
+::He thought he survived because he was stronger than his brother, but later he realized there was something else. His burning was different than what everyone spoke of in the legends, and in the blinding light he managed to see...
+
+He hesitates to continue.::<end>
+
+=>q300
+::Он думал, что выжил, потому что был сильнее своего брата, но позже понял, что было что-то ещё. Его жжение отличалось от того, как говорилось в легендах, и в слепящем свете он различил...
+
+Он не решается продолжать.::<end>
+
+=>q301_original
+<end>
+
+=>q301
+<end>
+
+=>a302_original
+H-- hvarga, um... se, Yngwar? What did you see?<end>
+
+=>a302
+С-сварга, ээ... так, Ингвар? Что ты видел?<end>
+
+=>q303_original
+::He stares at you with amazement.::
+
+Dur... vertään jakkt? 
+
+Ik se... Ik se...<end>
+
+=>q303
+::Он изумлённо смотрит на вас.::
+
+Ду... вертаан яккт? 
+
+Ик си... ик си...<end>
+
+=>q304_original
+::He saw shapes. Human shapes. Or so he thinks.
+
+He felt the burning sensation radiating from inside and above, scorching what was below and to the side. It hurt him greatly, and the pain he can remember clearly.
+
+But a similar thing he would feel again.::<end>
+
+=>q304
+::Он увидел силуэты. Человеческие силуэты. По крайней мере, так он думает.
+
+Он почувствовал жар, исходящий изнутри и сверху, обжигающий то, что было внизу и по бокам. Ему стало невыносимо больно, и он отчётливо помнит эту боль.
+
+Однако, нечто подобное он почувствует снова.::<end>
+
+=>a305_original
+This other event, that is the one when Ferryman killed Sjörsr.<end>
+
+=>a305
+Это другое событие, то самое, когда Паромщик убил Сьёрса.<end>
+
+=>q306_original
+Jakke.<end>
+
+=>q306
+Якке.<end>
+
+=>q307_original
+::After the second event, something in Yngwar was different. He was impressed by the same "essence" that terrified him beforehand. His ways departed from the Way of the Serpent more and more, culminating in events he had already explained.::<end>
+
+=>q307
+::После второго события в Ингваре что-то изменилось. Он был поражён той самой "сущностью", что пугала его и прежде. Его пути всё больше и больше отклонялись от Пути змея, что достигло кульминации в событиях, которые он уже объяснил.::<end>
+
+=>a308_original
+Go on, Yngwar.<end>
+
+=>a308
+Продолжай, Ингвар.<end>
+
+=>q309_original
+::The next event happened a few years later: ::<end>
+
+=>q309
+::Следующее событие произошло несколько лет спустя: ::<end>
+
+=>q310_original
+::The spiriters had led a group of warriors to an island to the east, whose ground is "born of fire." They were performing a ritual for the strongest warrior of His...::
+
+Sjörsr.
+
+::As tall as two warriors and more than that as heavy, he could crush his enemies easily by stomping or throwing boulders at them, or by squeezing their entrails out with his bare hands. But he preferred a hammer made from a severed head of a stone beast he had slain himself.::<end>
+
+=>q310
+::Духопоклонники привели группу воинов на восточный остров, чья земля "зародилась из огня". Они совершили ритуал для сильнейшего воина Его...::
+
+Съёрса.
+
+::Ростом, как два воина, и кроме того, более сильный, он с лёгкостью мог сокрушить своих врагов, топча или забрасывая их камнями, или раздавливая их потроха голыми руками. Но он предпочитал молот, сделанный из отрубленной головы каменного зверя, которого он сам убил.::<end>
+
+=>q311_original
+::It was a ritual dedicated to his "further" transformation, the abandonment of the "unnecessary." But then, before the ritual could begin, the Ferryman came with a staff of burning pearls. All of them, the warriors, the spiriters, all felt something horrible about his aura. He wanted to challenge $(context.npc_xpbl_yngwar_playerDiction_flotsormir)'s mightiest warrior, but he did not use the staff.::<end>
+
+=>q311
+::Этот ритуал был посвящён его "дальнейшему" преображению и отказу от "ненужного", но прежде чем ритуал начался, появился Паромщик, держащий посох с обжигающими жемчужинами. И все, воины, духопоклонники, все почувствовали нечто ужасное в его ауре. Он хотел бросить вызов самому могущественному воину $(context.npc_xpbl_yngwar_playerDiction_flotsormir), но не стал использовать посох.::<end>
+
+=>q312_original
+::Sjörsr ::<end>
+
+=>q312
+::Съёрс ::<end>
+
+=>q313_original
+::picked him up and threw him about. Everyone was laughing at the weak old fool, and his disturbing aura was gone. But then as ::<end>
+
+=>q313
+::поднял его и швырнул в сторону. Все смеялись над слабым старым дураком, и его тревожная аура исчезла. Но затем, когда ::<end>
+
+=>q314_original
+::Sjörsr ::<end>
+
+=>q314
+::Съёрс ::<end>
+
+=>q315_original
+::was celebrating his strength - the gift of His - the old man got up and threw something at him, hitting him in the $(GiantSkerderHitBodyPart_DisplayName).::<end>
+
+=>q315
+::праздновал свою силу - дар от него - старик встал и бросил в него чем-то, попав в $(GiantSkerderHitBodyPart_DisplayName).::<end>
+
+=>q316_original
+::It was something small and glowing that burned the inner "essence::<end>
+
+=>q316
+::Это было нечто маленькое и светящееся, что сжигало внутреннюю "сущность::<end>
+
+=>q317_original
+::," just like the light from the cliff - radiating from inside and above and burning what is below and to the side.::<end>
+
+=>q317
+", подобно свету со скалы, исходящему изнутри и сверху и обжигающему всё, что внизу и по бокам.::<end>
+
+=>q318_original
+::Ferryman stood proud and strong, an Otherborn who slew the mightiest $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) warrior. Someone as strong as that deserves respect, even if he is Otherborn. 
+
+The Ferryman picked up his staff and walked back to his ship. And since he was respected, and feared among some, he was free to sail their waters.::<end>
+
+=>q318
+::Паромщик стоял гордый и сильный, как Инорождённый, что сразил самого могучего воина $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). Столь сильный человек заслуживает уважения, хоть он и Инорождённый.
+
+Паромщик взял свой посох и пошёл обратно к своему судну. И поскольку многие уважали его и боялись, он мог свободно плавать по их водам.::<end>
+
+=>q319_original
+::When Yngwar talked to other warriors, no one felt the aura like Yngwar did, and the object he threw looked like nothing more than a small rock. Only Yngwar saw its glow.::<end>
+
+=>q319
+::Когда Ингвар спрашивал других воинов, никто не чувствовал ауру так, как чувствовал он, и предмет, который бросил старик, казался им ничем иным, как маленьким камнем. Только Ингвар видел его свечение.::<end>
+
+=>q320_original
+<end>
+
+=>q320
+<end>
+
+=>q321_original
+::He turns to his fire and stares at it.::<end>
+
+=>q321
+::Он поворачивается к костру и пристально смотрит на него.::<end>
+
+=>q322_original
+::." He shuts his eyes.::
+
+Lysbørggamen.
+<end>
+
+=>q322
+".:: Он закрывает глаза.::
+
+Лисбургамэн.<end>
+
+=>q323_original
+::Sjoersr ::<end>
+
+=>q323
+::Съёрс ::<end>
+
+=>q324_original
+::Sjoersr ::<end>
+
+=>q324
+::Съёрс ::<end>
+
+=>q325_original
+::But Yngwar's tale becomes confusing at this point: The two brothers went to search for the boat, but the blinding light from the cliff killed his brother on the spot.::<end>
+
+=>q325
+::Но в этом месте рассказ Ингвара становится непонятным: Два брата отправились на поиски лодки, но ослепительный свет со скалы убил его брата.::<end>
+
+=>q326_original
+::Yngwar, obviously, survived and returned home, but the details surrounding it are somewhat unclear to you. And at the very end there is something he wanted to say but after noticing your confusion decided against it.::<end>
+
+=>q326
+::Очевидно, что Ингвар выжил и вернулся домой, но подробности этого дела для вас несколько неясны. И в самом конце он хотел что-то добавить, но заметив, что вы его плохо понимаете, решил этого не делать.::<end>
+
+=>a327_original
+It burns your eyes? ::Point to eyes.::<end>
+
+=>a327
+Оно жжёт глаза? ::Указать на глаза.::<end>
+
+=>q328_original
+Nikkt, nikkt. <end>
+
+=>q328
+Никт, никт.<end>
+
+=>a329_original
+Lysburgamen, again. ::Close and open your eyes.::<end>
+
+=>a329
+Повторяю, Лисбургамэн. ::Закрыть и открыть глаза.::<end>
+
+=>q330_original
+::He begins...::<end>
+
+=>q330
+::Он начинает...::<end>
+
+=>a331_original
+$(context.npc_xpbl_yngwar_playerDiction_sormirbaren).<end>
+
+=>a331
+$(context.npc_xpbl_yngwar_playerDiction_sormirbaren).<end>
+
+=>q332_original
+::He nods.::<end>
+
+=>q332
+::Он кивает.::<end>
+
+=>q333_original
+<end>
+
+=>q333
+<end>
+
+=>a334_original
+What happens if Magnar dies? ::Gesture neck slashing.::<end>
+
+=>a334
+Что будет, если Магнар умрёт? ::Показать будто перерезаешь шею.::<end>
+
+=>a335_original
+Tell me more about the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::Gesture him to go on.::<end>
+
+=>a335
+Расскажи больше о $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::Показать жестом, чтобы продолжал.::<end>
+
+=>q336_original
+::He draws two more warriors.::
+
+Növdægaren - Eldrän ønnt Bænkräster.<end>
+
+=>q336
+::Он рисует ещё двоих воинов.::
+
+Новдэгарен - Элдрен онт Бинкрастер.<end>
+
+=>q337_original
+::He looks at the drawing and ponders for a few moments. ::<end>
+
+=>q337
+::Он смотрит на рисунок и задумывается на несколько секунд. ::<end>
+
+=>q338_original
+::However, he seems unwilling to proceed.:: 
+
+Nikke.
+
+::Perhaps you need to gain his trust a bit more.::<end>
+
+=>q338
+::Однако, похоже, он не хочет продолжать.:: 
+
+Никке.
+
+::Возможно, вам нужно больше его доверия.::<end>
+
+=>a339_original
+Eldren.<end>
+
+=>a339
+Элдрен.<end>
+
+=>q340_original
+::His mother gave birth to abominable children. None were strong enough to survive. After her fifth child no man would lay with her, yet she still gave birth to a son...::
+
+Eldrän, det Növdægar.<end>
+
+=>q340
+::От его матери рождались поганые дети. Ни один из них не прожил достаточно долго. После её пятого ребёнка ни один мужчина не хотел разделять с ней ложе, но она всё равно явила на свет сына...::
+
+Элдрен, дет новдэгар.<end>
+
+=>q341_original
+::He Who Carries Ancient Fire. The spiriters deemed him a special servant of $(context.npc_xpbl_yngwar_playerDiction_flotsormir), as he displayed not only great strength but could invoke his inner ancient fire to smite his enemies.::<end>
+
+=>q341
+::Тот, Кто Несёт Древний Огонь. Духопоклонники считали его особенным слугой $(context.npc_xpbl_yngwar_playerDiction_flotsormir), поскольку он проявил не только великую силу, но и смог использовать свой внутренний древний огонь для поражения своих врагов.::<end>
+
+=>q342_original
+::He challenged outer fires, walked across the scalding fields, bathed himself in boiling springs. He eventually lost his sight but not his perception.::
+
+Pör Eld Stæm <end>
+
+=>q342
+::Он бросал вызов опасностям, пересекал раскалённые поля, купался в кипящих источниках. В конце концов он потерял зрение, но не восприятие.::
+
+По элд стим<end>
+
+=>q343_original
+gussæppten det növdægar bitt, met det Magnar Pör øsseppta har fylle.<end>
+
+=>q343
+гуссэптен дет новдегар бит, мит дет Магнар Пор оссепта ха филле.<end>
+
+=>a344_original
+Eldrän.<end>
+
+=>a344
+Элдран.<end>
+
+=>a345_original
+Benkrester.<end>
+
+=>a345
+Бинкрастер.<end>
+
+=>q346_original
+::He is the son of the finest $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) bonesmith...::
+
+Røssar.
+
+::Son of Jyktar, father of eight children, all sons, but only one stayed as his heir in craft, as the rest sought transcendence. But the one that stayed built with his father a suit of armor made of bone and leather for himself.::<end>
+
+=>q346
+::Он сын самого лучшего $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) мастера костей...::
+
+Россар.
+
+::Сын Джиктара, отца восьми детей, и все сыновья, но только один продолжил его дело, а остальные же стремились к безграничности. Он создал вместе с отцом для себя доспехи из кости и кожи.::<end>
+
+=>q347_original
+::The father died before the armor was completed. The son used some of his father's bones to do so.::
+
+Bænkräster, det Növdægar.<end>
+
+=>q347
+::Отец умер до того, как доспех был закончен. Сын использовал некоторые кости отца, чтобы доделать его.::
+
+Бинкрастер, дет новдэгар.<end>
+
+=>q348_original
+::His brothers perished, as they were too weak for transcendence. He buried them all and now guards their graveyard.::
+
+Pör Bæn Stæm <end>
+
+=>q348
+::Его братья погибли, так как были слишком слабы для безграничности. Он похоронил их всех и теперь охраняет их могилы.::
+
+По бин стим<end>
+
+=>a349_original
+Bænkräster<end>
+
+=>a349
+Бинкрастер<end>
+
+=>a350_original
+Flotsurmshpeter.<end>
+
+=>a350
+Флотсурмшпетер.<end>
+
+=>q351_original
+::He draws a tall, thin figure above whose head spikes or teeth form a semicircle. One arm is holding a spear or a staff while the other is holding something resembling a lantern in which he draws a single dot.::
+
+Øyensørm det Flottsørmsppæter...<end>
+
+=>q351
+::Он рисует высокую, худую фигуру, над головой которой шипы или зубы образуют полукруг. Одна рука держит копьё или посох, в то время как в другой что-то похожее на фонарь, внутри которого он добавляет небольшое пятнышко.::
+
+Оинсоурм дет флотсоурмшпетер...<end>
+
+=>a352_original
+::[Intelligence] Observe and listen.::<end>
+
+=>a352
+::[Интеллект] Смотреть и слушать.::<end>
+
+=>q353_original
+::Yngwar points to his own serpentine eyes then draws them next to the "Spiriter of Him."::<end>
+
+=>q353
+::Ингвар указывает на свои змеиные глаза, затем рисует их рядом с "духопоклонник Его."::<end>
+
+=>q354_original
+::The Serpent's Eyes is the highest of the spiriters, one that truly senses what He commands. When the water rises he goes to the Temple of the Tides and doesn't leave until it drops again. Yet when the waters are restless, it means $(context.npc_xpbl_yngwar_playerDiction_flotsormir) is restless, and this marks the beginning of a long period of time during which the High Spiriter is in the temple, sensing what He commands.::<end>
+
+=>q354
+::Взор Змея - это верховный духопоклонник, тот, кто истинно истолковывает Его волю. Когда вода поднимается, он входит в храм Приливов и не уходит, пока она не спадает. Но когда вода неспокойна, неспокоен и $(context.npc_xpbl_yngwar_playerDiction_flotsormir), и это знаменует начало длительного периода времени, в течение которого верховный духопоклонник пребывает в храме и внимает Его приказам.::<end>
+
+=>q355_original
+::The Eyes of the Serpent has spiriters to relay his messages for him, but important and urgent messages he will relay to the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) through dreams. Once the water has calmed down and His will sensed and obeyed, the Spiriter of Him will emerge from the temple.::<end>
+
+=>q355
+::Взор Змея имеет духопоклонников, которые передают его сообщения для Него, но важные и срочные сообщения он передаст $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) через сны. Как только вода успокоится и воля Его будет воспринята и соблюдена, духопоклонник Его выйдет из храма.::<end>
+
+=>q356_original
+::The Serpent's Eyes is the highest of all the spiriters, that you understand clearly, but the rest is somewhat murky. He spends his time in a water temple of sorts and apparently communicating with $(context.npc_xpbl_yngwar_playerDiction_flotsormir).::<end>
+
+=>q356
+::Взор Змея - это самый главный из всех духопоклонников, это то, что вы ясно поняли, но всё остальное малопонятно. Он проводит время в каком-то храме воды и, по-видимому, общается с $(context.npc_xpbl_yngwar_playerDiction_flotsormir).::<end>
+
+=>q357_original
+::You can hardly make out the rest, but there is something striking about a certain gesture Yngwar has made, something that has to do with the mind.::<end>
+
+=>q357
+::Остальное малопонятно, но в одном из жестов Ингвара есть нечто отличительное, что-то, что имеет отношение к разуму.::<end>
+
+=>a358_original
+::Point to your head.:: Eh, mind. You were showing something about mind.<end>
+
+=>a358
+::Указать на свою голову.:: Гм, разум. Ты хотел сказать что-то о разуме.<end>
+
+=>q359_original
+::He understands you and repeats, but you still cannot understand it. He shakes his head.::<end>
+
+=>q359
+::Он вас понимает и вновь повторяет, но вы всё равно его не понимаете. Он качает головой.::<end>
+
+=>a360_original
+Please, Yngwar, try harder, I need to know!<end>
+
+=>a360
+Пожалуйста, Ингвар, постарайся ещё, мне нужно знать!<end>
+
+=>a361_original
+Try harder, you stupid savage!<end>
+
+=>a361
+Старайся лучше, безмозглый дикарь!<end>
+
+=>a362_original
+::Inquire about something else.::<end>
+
+=>a362
+::Спросить о чём-нибудь другом.::<end>
+
+=>q363_original
+::He attends to his fire in silence.::<end>
+
+=>q363
+::Он молча занимается своим костром.::<end>
+
+=>a364_original
+Det Flottsørmsppæter.<end>
+
+=>a364
+Дет Флотсоурмшпетер.<end>
+
+=>a365_original
+Uh... spiriters - shpeters, was it?<end>
+
+=>a365
+Гм... шпетер - духопоклонник, так?<end>
+
+=>q366_original
+Det *sppæteren*. ::He extends his normal hand, palm facing up.:: 
+
+Aen sppæter. ::He touches with his thumb the lowest digital bone - the phalange - of that hand's index finger, the one closest to the palm.:: 
+
+Tvaa sppæteren. ::He then touches the middle phalange.:: 
+
+Trä sppæteren. ::Top phalange.::<end>
+
+=>q366
+Дет *шпетерен*. ::Он поднимает свою нормальную руку обращая её ладонью к вам.:: 
+
+Ин шпетер. ::Он касается большим пальцем самой нижней фаланги указательного пальца этой руки, ближайшей к ладони.:: 
+
+Тва шпетер. ::Касается он средней фаланги.:: 
+
+Тра шпетер. ::Верхняя фаланга.::<end>
+
+=>q367_original
+Mönnæ sppæteren. ::He counts twelve phalanges on his hand - the thumb is not counted - then moves to the other hand, stopping - or accenting - every two fingers, or six phalanges.::
+
+Mönnæ sppæteren...<end>
+
+=>q367
+Моннэ шпетерен. ::Он считает двенадцать фаланг на ладони, большой палец не считается, затем переходит на другой, останавливаясь - или акцентируя внимание - на каждые два пальца, или шесть фаланг.::
+
+Моннэ шпетерен...<end>
+
+=>a368_original
+Tell me more about the spiriters.<end>
+
+=>a368
+Расскажи мне поподробней о духопоклонниках.<end>
+
+=>q369_original
+::The spiriters relay $(context.npc_xpbl_yngwar_playerDiction_flotsormir)'s messages to the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). The spiriters themselves have performed their own rituals and obeyed His will to become spiriters, only their gift was not strength of body but strength of mind and senses.::<end>
+
+=>q369
+::Духопоклонники передают послания $(context.npc_xpbl_yngwar_playerDiction_flotsormir) к $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). Они сами проводили свои ритуалы и повинуясь Его воле становились духопоклонниками, только их дар не в возможностях тела, а в силе разума и чувств.::<end>
+
+=>q370_original
+::Yngwar doubts their interpretations of His will when it comes to what he and other warriors are told, but it is as clear as a spring that their rituals, their Way have brought them power. Lesser spiriters, the ones who have undergone their change the least are the weakest of mind and senses. Higher spiriters wield much greater powers, and the High Spiriter - the Spiriter of Him...::
+
+Det Flottsørmsppæter. ::...has been gifted by Him the most.::<end>
+
+=>q370
+::Ингвар сомневается в их интерпретации Его воли, особенно, когда дело доходит до того, что ему и другим воинам говорят, но так же очевидно, что их ритуалы, их Путь дал им силу. Младшие духопоклонники, претерпевшие меньшее изменение, обладают меньшими способностями ума и чувств. Старшие духопоклонники обладают гораздо большими возможностями, и есть один верховный - он духопоклонник Его...::
+
+Флотсоурмшпетер. ::...одарён Им более всего.::<end>
+
+=>a371_original
+::Point to livestock in his drawing.::<end>
+
+=>a371
+::Указать на домашний скот в его рисунке.::<end>
+
+=>q372_original
+Bisson? ::He moos.:: Mø?<end>
+
+=>q372
+Биссон? ::Он мычит.:: Му?<end>
+
+=>a373_original
+Yes. Bison.<end>
+
+=>a373
+Да. Бизон.<end>
+
+=>q374_original
+::He ::<end>
+
+=>q374
+::Он ::<end>
+
+=>q375_original
+::grabs his knife and begins drawing a herd of furry beasts.::<end>
+
+=>q375
+::хватает свой нож и начинает рисовать стадо косматых зверей.::<end>
+
+=>a376_original
+::[Intelligence] Observe.::<end>
+
+=>a376
+::[Интеллект] Наблюдать.::<end>
+
+=>q377_original
+::Even though the drawing is fairly crude and low in detail, you notice that he draws each bison - the males, females and the young - as distinct individual creatures: Some have larger horns, some are taller, and some he even draws with a unique fur pattern. From his expression and motions, it appears that he values these creatures greatly.::<end>
+
+=>q377
+::Несмотря на то, что его рисунок примитивен и слабо детализован, вы отмечаете, что он рисует каждого бизона, самцов, самок и детёнышей, со своими индивидуальными особенностями: некоторые имеют большие рога, некоторые высокие, а у некоторых даже изображает уникальность их меха. Судя по выражению его лица и движениям, он очень ценит этих существ.::<end>
+
+=>q378_original
+::The bison have been "given" to them from below, it seems, to butcher and consume, use their fur for clothing and tents, tendons for crossbows and stomachs for holding liquid; bones for everything else. The most beautiful and strongest bison are sacrificed to the serpents of $(context.npc_xpbl_yngwar_playerDiction_flotsormir), thrown into the water to be devoured. Sometimes they are thrown even to men who are becoming serpents, so that they can tear it apart with their teeth alone. 
+
+They reproduce quickly, growing to full adulthood in a few years. They are plentiful.::<end>
+
+=>q378
+::Бизоны были "дарованы" им снизу, вроде бы, для забоя и последующего употребления, с использованием их меха для одежды и палаток, сухожилий для арбалетов, а желудков, как ёмкостей для жидкости. Кости для всего остального. Самых красивых и сильных бизонов приносят в жертву змеям $(context.npc_xpbl_yngwar_playerDiction_flotsormir), сбрасывая в воду, где их пожирают. Иногда их скармливают даже людям, которые становятся змеями, так что они могут разорвать их на части только своими зубами. 
+
+Они быстро размножаются, вырастая до полной зрелости через несколько лет. Их очень много.::<end>
+
+=>q379_original
+::Their death is invaluable and irreplaceable.::<end>
+
+=>q379
+::Их смерть бесценна и незаменима.::<end>
+
+=>q380_original
+::The rest of his explanation involves a lot of animal butchery and sacrifice, and that's pretty much all you can make out.::<end>
+
+=>q380
+::Остальная часть его рассказа изобилует пояснениями о забое животных и жертвоприношениях, и это единственное, что вы поняли.::<end>
+
+=>a381_original
+MOO!<end>
+
+=>a381
+Муу!<end>
+
+=>q382_original
+::He pauses for a moment, ::<end>
+
+=>q382
+::Он делает паузу на мгновение, ::<end>
+
+=>q383_original
+Ik - Sørmirbæren. <end>
+
+=>q383
+Ик - Соурмирбэрен.<end>
+
+=>q384_original
+::He looks and begins pointing at the elements of the village he had drawn: the tents, the people, the livestock. ::<end>
+
+=>q384
+::Он перевёл взгляд вниз и начал указывать на элементы нарисованной им деревни: палатки, людей, скот. ::<end>
+
+=>q385_original
+::Then your attention falls on one larger stick figure - their leader, chieftain...::
+
+Magnar.
+
+::He is a mighty warrior, born of the serpent but is not becoming one. His strength and cunning are unmatched by any other $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) warrior, and for that he has earned the blade and shield of His, weapons that hold His essence.::<end>
+
+=>q385
+::Затем ваше внимание привлекает одна большая фигура, их предводитель или вождь...::
+
+Магнар.
+
+::Он могучий воин, рождённый от змея, но не ставший им. Его сила и хитрость не сравнится ни с одним другим $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) воином, и за это он носит Его клинок и щит, оружие, что содержит Его сущность.::<end>
+
+=>a386_original
+$(context.npc_xpbl_yngwar_playerDiction_flotsormir).<end>
+
+=>a386
+$(context.npc_xpbl_yngwar_playerDiction_flotsormir).<end>
+
+=>q387_original
+Forskarr Flottsørmir! <end>
+
+=>q387
+Форскарр Флотсоурмир!<end>
+
+=>q388_original
+::He looks down, but not in the ground itself. Rather, it is as though he is looking far into the depths beneath his feet. Then he begins drawing in the sand::<end>
+
+=>q388
+::Он смотрит вниз, но не на саму землю, а такое чувство, будто он смотрит далеко в глубину под ногами. Затем он начинает рисовать на песке::<end>
+
+=>q389_original
+::: You are able to make out a giant serpent lurking in the abyssal depths of the Black Sea. ::<end>
+
+=>q389
+::: Вы различаете гигантского змея, скрывающегося в бездонных глубинах Чёрного моря. ::<end>
+
+=>q390_original
+::He is powerful and strong, and all of the serpents are his minions and are blessed with a fraction of his strength. He sends them from the depths to feast on the weak and to test the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::<end>
+
+=>q390
+::Он могуществен и силён, все змеи его слуги и благословлены частицей его силы. Он посылает их из глубин, чтобы угощаться слабыми и для испытания $(context.npc_xpbl_yngwar_playerDiction_sormirbaren). ::<end>
+
+=>q391_original
+::The spiriters, who can sense His will the best can ask for the serpents from $(context.npc_xpbl_yngwar_playerDiction_flotsormir) for rituals in which the strongest of the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) can become more like them and acquire a part of that essence.::<end>
+
+=>q391
+::Лучше всего понимающие Его волю духопоклонники могут попросить змей $(context.npc_xpbl_yngwar_playerDiction_flotsormir) для ритуалов, в которых самый крепкий из $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) может стать более похожим на них и обрести часть их сущности.::<end>
+
+=>q392_original
+::One day, when enough $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) have been blessed with His strength and power, when enough can move and sense the world like the serpents can, then He will lead us out of these waters to conquer new ones and feast on the weaker.::<end>
+
+=>q392
+::Однажды, когда $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) будут достаточно благословлены его силой и мощью, когда смогут двигаться и воспринимать мир подобно змеям, тогда Он поведёт нас от этих вод к завоеванию новых, и слабые станут нашей пищей.::<end>
+
+=>q393_original
+::But that is the Way of the Serpent, according to the spiriters.::<end>
+
+=>q393
+::Но таков Путь Змея, по словам духопоклонников.::<end>
+
+=>q394_original
+::You struggle to understand what comes after. He notices that and stops speaking.::<end>
+
+=>q394
+::Вы изо всех сил пытаетесь понять, что происходит потом. Он замечает это и перестаёт говорить.::<end>
+
+=>q395_original
+::He looks down and begins drawing in the sand::<end>
+
+=>q395
+::Он переводит взгляд вниз и начинает рисовать на песке::<end>
+
+=>q396_original
+<end>
+
+=>q396
+<end>
+
+=>q397_original
+::, but the runes and various other symbols you are unable to comprehend.::<end>
+
+=>q397
+::, но руны и различные другие символы вы не в состоянии понять.::<end>
+
+=>q398_original
+::Perhaps you need to get more familiar with the $(context.npc_xpbl_yngwar_playerDiction_sormirbaren) culture in order to understand what he's trying to communicate.::<end>
+
+=>q398
+::Возможно, вам нужно лучше ознакомиться с культурой $(context.npc_xpbl_yngwar_playerDiction_sormirbaren), чтобы понять, что он пытается сообщить.::<end>
+
+=>a399_original
+::Point at the dead psi crab.::<end>
+
+=>a399
+::Указать на мёртвого пси-краба.::<end>
+
+=>q400_original
+Krästnint?
+
+::He points to the sand and then starts reenacting their fight while you keenly observe and try to understand what happened.::<end>
+
+=>q400
+Каастнинт?
+
+::Он указывает на песок, а затем начинает воспроизводить вашу потасовку, в то время как вы внимательно наблюдаете и пытаетесь понять, что происходит.::<end>
+
+=>a401_original
+::[Intelligence] Observe.::<end>
+
+=>a401
+::[Интеллект] Наблюдать.::<end>
+
+=>q402_original
+::He had been sleeping when he heard something. Two bent horns were slowly emerging from the sand, sparks popping in and out of existence between them. Yngwar leaped just in time to dodge the first bolt of electricity, grabbing his spear along the way. He threw it, and the spear passed by the second bolt going in the opposite direction. Both projectiles hit their targets, but only one was lethal.::<end>
+
+=>q402
+::Он спал, когда его что-то разбудило. Два изогнутых рога медленно вырастали из песка, а между ними вспыхивали и гасли искры. Ингвар отпрыгнул как раз вовремя, чтобы увернуться от первого разряда энергии, схватив по пути своё копьё. Он бросил его, и оно прошло мимо второго разряда, летящего в противоположном направлении. Оба снаряда попали в цель, но только один оказался смертельным.::<end>
+
+=>q403_original
+::It took him a moment to recover from the hit, after which he pulled out his knife and used it to make sure the crab doesn't rise again.::<end>
+
+=>q403
+::Ему потребовалось некоторое время, чтобы оправиться от удара, после чего достал нож и использовал его, чтобы удостовериться, что краб больше не поднимется.::<end>
+
+=>q404_original
+::He heard something in the sand. He looked and saw horns, probably. He starts flailing his hands and leaping left and right; you're confused and unsure what he means by all of that. All you know is that he killed it with a spear, "it" being the crab, hopefully.::<end>
+
+=>q404
+::Он услышал какой-то звук в песке. Посмотрев, он увидел рога, кажется. Он начинает размахивать руками и прыгать влево и вправо; вы сбиты с толку и точно не знаете, что он хочет этим сказать. Всё, что вы поняли, что он убил его копьём и это был краб, скорее всего.::<end>
+
+=>q405_original
+::And then he stabbed it with a knife at the very end.::<end>
+
+=>q405
+::А под конец пронзил его ножом.::<end>
+
+=>a406_original
+::Draw the pirate base in the sand.::<end>
+
+=>a406
+::Нарисовать на песке базу пиратов.::<end>
+
+=>q407_original
+Æterbæren Määskynrætter! ::He follows it up with some cursing while you focus on trying to understand what he means.::<end>
+
+=>q407
+Итербэрен мааскинрэттер! ::Он продолжает с добавлением явной брани, пока вы сосредотачиваетесь на попытке понять, о чём он говорит.::<end>
+
+=>a408_original
+::[Intelligence] Observe and listen.::<end>
+
+=>a408
+::[Интеллект] Смотреть и слушать.::<end>
+
+=>q409_original
+::Your question seems to have evoked strong emotions in him. He frowns and blinks a few times. Then he decapitates all the little jetters with his knife, ::<end>
+
+=>q409
+::Ваш вопрос, похоже, пробудил в нём сильные эмоции. Он нахмурился и несколько раз моргнул. Затем одним движением своего ножа перечеркнул ваш маленький спор, ::<end>
+
+=>q410_original
+::something he feels they deserve in real life too. These "Aterbaren" or "Eterbaren" are to be slain because they are not real warriors - they use machines and aids - yet they prance around His sea as though they were.::<end>
+
+=>q410
+::по его мнению, они заслуживают также в реальной жизни. Эти "Итербэрен" должны быть убиты, потому что они не настоящие воины, они используют машины и вспомогательные средства, но всё же рассекают вокруг по Его морю, как будто являются таковыми.::<end>
+
+=>a411_original
+::Decapitate one of the stick pirates yourself.:: Why don't you kill them? Kill them.<end>
+
+=>a411
+::Изобразить, будто отрубаешь голову одному из пиратов.:: Почему ты их не убьёшь? Убей их.<end>
+
+=>q412_original
+::He shuts his eyes so tightly it looks as though he wants to crush them with his eyelids, then shields them with both of his arms.::
+
+Lysbørggamen. Lysbørggamen. Fir nikke se kutt Lysbørggamen.
+
+::They cannot kill them because of something which blinds them.::<end>
+
+=>q412
+::Он закрывает глаза так плотно, что кажется, будто он хочет раздавить их своими веками, а затем прикрывает их обеими руками.::
+
+Лисбургамэн. Лисбургамэн. Фир никке сей кут Лисбургамэн.
+
+::Они не могут убить их, потому что что-то ослепляет их.::<end>
+
+=>a413_original
+::Erase the stick pirates, as if pushing them away.:: Why don't you drive them away? Drive away, other place.<end>
+
+=>a413
+::Затереть всех пиратов, будто освобождаясь от них.:: Почему ты не прогонишь их? Гнать их вон, в другое место.<end>
+
+=>q414_original
+Dødtrekke!<end>
+
+=>q414
+Додтрекке!<end>
+
+=>q415_original
+::but all you are able to gather is that he doesn't think too highly of them; his exact reasons elude you, however.::<end>
+
+=>q415
+::но всё, что вы поняли, что он не слишком высокого мнения о них. Однако, конкретно, почему, вы так и не поняли.::<end>
+
+=>a416_original
+::Draw the expedition camp in the sand and point at it.:: What do you know about this?<end>
+
+=>a416
+::Нарисовать на песке экспедиционный лагерь и указать на него.:: Что ты знаешь о нём?<end>
+
+=>q417_original
+::He stares at the drawing::<end>
+
+=>q417
+::Он внимательно смотрит на рисунок::<end>
+
+=>q418_original
+::, then points to you. You did draw the camp earlier, so maybe he's thinking you're showing it to him again. ::<end>
+
+=>q418
+::, затем указывает на вас. Ранее вы рисовали лагерь, так что, возможно, он думает, что вы показываете его ему снова. ::<end>
+
+=>q419_original
+::He does point to the lighthouse, muttering a few unintelligible words to himself before turning to take a look at his crab meat.::<end>
+
+=>q419
+::Он указывает на маяк, бормоча несколько неразборчивых слов, прежде чем бросить взгляд на мясо краба.::<end>
+
+=>a420_original
+::Point again.::<end>
+
+=>a420
+::Снова указать.::<end>
+
+=>q421_original
+Krökø! Ik höjekk trnenn ot tyrteneg nikkt!<end>
+
+=>q421
+Кроко! Ик хойек танен от титниг никт!<end>
+
+=>a422_original
+::Point yet again.::<end>
+
+=>a422
+::Указать ещё раз.::<end>
+
+=>a423_original
+::Inquire about something else.::<end>
+
+=>a423
+::Спросить о чём-нибудь другом.::<end>
+
+=>q424_original
+::He stares at the drawing for a bit longer but shows no signs of recognizing what it depicts.::<end>
+
+=>q424
+::Он смотрит на рисунок ещё некоторое время, но без признаков узнавания того, что на нём изображено.::<end>
+
+=>q425_original
+:: but does not appear to recognize anything in it. ::<end>
+
+=>q425
+:: но не похоже, что понял что-либо в нём. ::<end>
+
+=>a426_original
+::Draw stick figures with blobs on their bodies in the sand.:: Muties. What do you know about them?<end>
+
+=>a426
+::Нарисовать на песке фигуры со сгустками на их телах.:: Мутанты. Что ты о них знаешь?<end>
+
+=>q427_original
+::He points at the stick figures and spits on them.::
+
+Sløttebæren hur dränätt bitt!
+
+::He then starts drawing and gesturing...::<end>
+
+=>q427
+::Он показывает на фигурки и плюёт на них.::
+
+Слоттебэрен ху дранатт бит!
+
+::Затем он начинает рисовать и жестикулировать...::<end>
+
+=>a428_original
+::[Intelligence] Observe and listen.::<end>
+
+=>a428
+::[Интеллект] Смотреть и слушать.::<end>
+
+=>q429_original
+::The weaklings worship Another, but Another is weak. Instead of giving them strength, like Flotsourmir gave to the Sourmirberen, Another gave them weakness. Instead of giving them wisdom - he made them dumber than crabs. Instead of giving them perception - he made them senseless.::
+
+Mækkeren...<end>
+
+=>q429
+::Слабые поклоняются Иному, но Иной слаб. Вместо того чтобы дать им силу, как Флотсоурмир одарил Соурмирбэрен, Иной дал им слабость. Вместо того чтобы дать им мудрость, он сделал их тупее крабов. Вместо того, чтобы дать им способность восприятия, он сделал их неразумными.::
+
+Миккаэн...<end>
+
+=>a430_original
+::Decapitate one of the stick muties.:: Why don't you kill them? Kill them.<end>
+
+=>a430
+::Изобразить, будто отрубаешь голову одному из мутантов.:: Почему ты их не убьёшь? Убей их.<end>
+
+=>q431_original
+::The Serpentborn could slay them at any time, but those who relay Flotsurmir's messages say His will is to stay away. They should be left to their great suffering as punishment for their weakness.::<end>
+
+=>q431
+::Змеерождённый может уничтожить их в любое время, но те, кто передаёт послания Флотсоурмира, говорят, что Его воля - держаться подальше. Они должны оставаться и страдать, в наказание за их слабость.::<end>
+
+=>a432_original
+::Erase the stick muties, as if pushing them away.:: Why don't you drive them away? Drive away, other place.<end>
+
+=>a432
+::Затереть всех мутантов, будто освобождаясь от них.:: Почему ты не прогонишь их? Гнать их вон, в другое место.<end>
+
+=>a433_original
+::Say nothing.::<end>
+
+=>a433
+::Промолчать.::<end>
+
+=>q434_original
+::He glances at his drawing again and returns to his fire.::<end>
+
+=>q434
+::Он снова бросает взгляд на свой рисунок и возвращается к костру.::<end>
+
+=>q435_original
+::All you can make out is that he considers them weak who did something to deserve such a fate. The rest escapes you.::
+
+Mækkeren...<end>
+
+=>q435
+::Всё, что вы поняли, что он считает их слабыми, и которые заслуживают такую судьбу. Остальное вы не поняли.::
+
+Миккаэн...<end>
+
+=>a436_original
+Ferryman.<end>
+
+=>a436
+Паромщик.<end>
+
+=>q437_original
+::You can tell he recognizes the name, but he shakes his head still.::<end>
+
+=>q437
+::Вам кажется, что он признаёт имя, но он всё ещё качает головой.::<end>
+
+=>a438_original
+Sjörsr. Ferryman told me about him.<end>
+
+=>a438
+Съёрс. Паромщик рассказал мне о нём.<end>
+
+=>q439_original
+Sjörsr. Pör grønt ont grött krigsfar bitt. <end>
+
+=>q439
+Съёрс. Пор гронт онт грот кригсфар бит.<end>
+
+=>q440_original
+<end>
+
+=>q440
+<end>
+
+=>a441_original
+Tell me about him.<end>
+
+=>a441
+Расскажи мне о нём.<end>
+
+=>q442_original
+::He begins the narration in his usual way. The event he is about to describe happened years ago, when Yngwar was a young man, teenager most likely.::<end>
+
+=>q442
+::Он начинает повествование в своей обычной манере. Событие, которое он собирается описать, произошло много лет назад, когда Ингвар был молодым человеком, скорее всего подростком.::<end>
+
+=>q443_original
+::And then he falls silent.::<end>
+
+=>q443
+::И затем он замолкает.::<end>
+
+=>a444_original
+Ferryman killed him. ::Gesture a big guy falling down.::<end>
+
+=>a444
+Паромщик убил его. ::Изобразить, как большой мужик падает.::<end>
+
+=>a445_original
+Sjoersr. Ferryman told me about him.<end>
+
+=>a445
+Съёрс. Паромщик рассказал мне о нём.<end>
+
+=>a446_original
+He's this old guy on a boat. Boaten. ::Gesture a sailing boat.::<end>
+
+=>a446
+Это тот старик на лодке. Лодочник. ::Изобразить жестами лодку под парусом.::<end>
+
+=>a447_original
+Yngwar met Ferryman before? ::Gesture two finger-people shaking each other's hands.::<end>
+
+=>a447
+Ингвар встречался с паромщиком раньше? ::Изобразить жестами как два человека пожимают друг другу руки.::<end>
+
+=>q448_original
+HVARGA! Dur jysslæve Ik *beførr* middä Färrymæn!? 
+
+::He angrily reaches for his spear.::<end>
+
+=>q448
+Сварга! Ду излив ик *бифо* мидда фарримен!? 
+
+::Он злится и тянется к своему копью.::<end>
+
+=>a449_original
+::[DEBUG] Draw rune::<end>
+
+=>a449
+::[ОТЛАДКА] Рисует руну::<end>
+
+=>a450_original
+::Leave.::<end>
+
+=>a450
+::Уйти::<end>
+
+=>a451_original
+::Attack!::<end>
+
+=>a451
+::Напасть!::<end>
+
+=>a452_original
+::Attack!::<end>
+
+=>a452
+::Напасть!::<end>
+
+=>a453_original
+Forskarr Flotsourmir!<end>
+
+=>a453
+Форскарр флотсоурмир!<end>
+
+=>a454_original
+Pffffft $(context.npc_xpbl_yngwar_playerDiction_flotsormir)!<end>
+
+=>a454
+Пфф, $(context.npc_xpbl_yngwar_playerDiction_flotsormir)!<end>
+
+=>q455_original
+HVARGA!?
+
+<end>
+
+=>q455
+СВАРГА?!
+<end>
+
+=>q456_original
+::His eyes incandescent with zeal, he proceeds to spit out angry, incomprehensible insults as he leaps to end your life.::<end>
+
+=>q456
+::Его глаза пылают решимостью, он продолжает извергать злые, непонятные оскорбления, когда прыгает к концу своей жизни.::<end>
+
+=>a457_original
+::[Intelligence]:: Flotsourmir! Flotsourmir!<end>
+
+=>a457
+::[Интеллект]:: Флотсоурмир! Флотсоурмир!<end>
+
+=>a458_original
+::Raise your open hands above your head.:: Wait, wait! I mean you no harm!<end>
+
+=>a458
+::Вы поднимаете руки над головой.:: Стой, стой! Я не причиню тебе вреда!<end>
+
+=>q459_original
+::With your empty hands so high up in the air ::<end>
+
+=>q459
+::Держа руки высоко над головой ::<end>
+
+=>q460_original
+::you show yourself as an easy, defenseless target. And the warrior takes full advantage of it: He lunges forward, his spear firmly in his hands and its acute tip aimed straight at your abdomen.::<end>
+
+=>q460
+::вы показали себя лёгкой, беззащитной мишенью и воин использует эту возможность в полной мере: он бросается вперёд, крепко сжимая в руках копьё и направляя его острый наконечник прямо вам в живот.::<end>
+
+=>a461_original
+::Fight!::<end>
+
+=>a461
+::Бой!::<end>
+
+=>a462_original
+::[Intimidate] Step forward confidently while maintaining a fierce combat stance.:: Do you want to die, savage?<end>
+
+=>a462
+::[Запугивание] Делаете уверенный шаг вперёд, сохраняя при этом боевую позу.:: Тебе жить надоело, дикарь?<end>
+
+=>q463_original
+::Your profound voice, loud enough so that even his ancestors can hear it, reverberates throughout the small cave. The man takes a steady, deliberate step back, his face bearing no emotion.::<end>
+
+=>q463
+::Ваш сильный голос, настолько громкий, что его могут услышать даже его предки, разносится по всей маленькой пещере. Мужчина делает уверенный, неторопливый шаг назад, но его лицо не выражает никаких эмоций.::<end>
+
+=>a464_original
+::Move forward.:: That's it, fear me! Fear me!<end>
+
+=>a464
+::Наступать.:: Вот так, бойся меня! Бойся!<end>
+
+=>q465_original
+::He brings the spear closer to himself, holding it with both hands diagonally across his body.::<end>
+
+=>q465
+::Он прижимает копьё к себе, держа его обеими руками по диагонали к телу.::<end>
+
+=>a466_original
+::Stand your ground.::<end>
+
+=>a466
+::Стоять на месте.::<end>
+
+=>q467_original
+::He stares at you.::<end>
+
+=>q467
+::Он смотрит на вас.::<end>
+
+=>a468_original
+::Stare back.::<end>
+
+=>a468
+::Смотреть в ответ.::<end>
+
+=>q469_original
+::You can hear only the water dripping down from the ceiling.::<end>
+
+=>q469
+::Слышно только, как вода капает с потолка.::<end>
+
+=>q470_original
+Støt. ::He says firmly.::<end>
+
+=>q470
+Стот. ::Говорит он твёрдо.::<end>
+
+=>a471_original
+::Transition into a more relaxed stance but keep your stare steady.::<end>
+
+=>a471
+::Перейти в более расслабленную позу, но держать свой пристальный взгляд неподвижным.::<end>
+
+=>q472_original
+::The man slowly lowers his spear.::<end>
+
+=>q472
+::Мужчина медленно опускает своё копьё.::<end>
+
+=>a473_original
+::Stand relaxed and observe his response.::<end>
+
+=>a473
+::Встать расслабленно и наблюдать за его реакцией.::<end>
+
+=>a474_original
+What's the matter, coward!? Wanna fight? ::Take a step forward.::<end>
+
+=>a474
+Что с тобой, трус?! Хочешь сразиться? ::Сделать шаг вперёд.::<end>
+
+=>q475_original
+::As soon as you move he lunges forward with his spear aimed at you, clearly accepting your challenge.::<end>
+
+=>q475
+::Как только вы сдвигаетесь с места, он бросается вперёд с направленным на вас копьём, принимая ваш вызов.::<end>
+
+=>q476_original
+::Your unconvincing prancing proves ineffective, even prompting a contemptuous response.::
+
+Mækker!
+
+::He then lunges forward, his spear firmly in his hands and its acute tip aimed straight for your abdomen.::<end>
+
+=>q476
+::Ваши невнятные телодвижения оказываются малоэффективными, даже вызывают презрительный отклик.::
+
+Микка!
+
+::Затем он бросается вперёд, руки крепко держат копьё, а его острый наконечник направлен прямо в ваш живот.::<end>
+
+=>a477_original
+::[Melee] Engage in a spear duel.:: <end>
+
+=>a477
+::[Ближний бой] Вступить в поединок на копьях.::<end>
+
+=>q478_original
+::[Fend] You lower the tip of your spear to knee-height, keeping the end of the shaft high. He hesitates for a moment, but ultimately takes the bait. He lunges forward to impale you, but you deflect his spear with an upward motion and immediately go for his abdomen. He dodges your strike and tries cutting your face from above, but you sidestep and deflect his spear to the right.::<end>
+
+=>q478
+::[Парирование] Вы опускаете наконечник копья на уровень колена, конец древка держа высоко. Он мгновение колеблется, но в конечном счёте заглатывает наживку и бросается вперёд, собираясь пронзить вас. Вы отклоняете его копьё движением вверх и направляете своё в его живот. Он уклоняется от удара и пытается нанести режущий удар сверху по вашему лицу, но вы делаете шаг в сторону и отбиваете его копьё вправо.::<end>
+
+=>q479_original
+::This bloodless exchange lasts for several minutes, and it becomes evident that you are equally matched. You feel like your heart is about to give up, that your lungs are going to burst, but judging by your opponent's appearance, he is in no better condition.::<end>
+
+=>q479
+::Эта бескровная схватка длится несколько минут, и становится очевидно, что вы равны по силе. Вы чувствуете, что ваше сердце вот-вот откажет, а лёгкие готовы взорваться, но судя по виду вашего оппонента, он находится не в лучшем состоянии.::<end>
+
+=>q480_original
+::You sidestep to the right and lunge aggressively, attempting to impale him from that side. He catches your spear with an upward swing and deflects it further to the right, leaving you open. You dodge the attack by a hair and seize the opportunity to grasp his spear and pull it further through; he follows your pull only to kick you in the stomach. Falling backwards, you release his spear but manage to slap the top of his head with your own weapon, striking with the part of the shaft just below the tip.::<end>
+
+=>q480
+::Вы отступаете вправо и делаете агрессивный выпад, пытаясь пронзить его с этой стороны. Ударом с верха он перехватывает ваше копьё и отражает дальше вправо, открывая вас для атаки. Вы лишь чудом уклоняетесь от удара и пользуясь возможностью хватаетесь за его копьё и дёргаете на себя; следуя за копьём он делает движение вперёд и пинает вас в живот. Падая назад, вы отпускаете его копьё, но успеваете ударить его по макушке частью древка чуть ниже наконечника своего копья.::<end>
+
+=>q481_original
+::You cross your spear with his, but he instantly deflects it to the right and lunges forward. A quick sidestep is all that saves you from impalement, but you're off-balance and your guard is down. He follows with another attack...::<end>
+
+=>q481
+::Вы скрещиваете своё копьё с его, но он мгновенно отбивает его вправо и бросается вперёд. Только быстрый шаг в сторону спасает вас от смерти, но вы теряете равновесие, и ваша защита ослаблена. Он снова атакует...::<end>
+
+=>a482_original
+::Offer him some food.:: I have some food here. *Food*. Tasty, mmmm...<end>
+
+=>a482
+::Предложить ему поесть.:: У меня тут есть немного еды. *Пища*. Вкуснятина, ммм...<end>
+
+=>q483_original
+::By approaching him with food in your hand ::<end>
+
+=>q483
+::Приблизиться к нему с едой в руке. ::<end>
+
+=>a484_original
+::Turn around and attempt to flee.::<end>
+
+=>a484
+::Повернуться и попытаться убежать.::<end>
+
+=>q485_original
+::You turn to run, but you feel the man's presence frighteningly close even before you've made that very first retreating step. Panic overwhelms you without delay or a shred of mercy, because you now realize how grave the mistake that you've just made is, exposing your back so foolishly. As adrenaline rushes through your veins, your body seizes control and spins you around to face the pursuer: You've stopped, but your heart is still racing, and the only thing your eyes are able to focus on is the acute tip of a spear being directed straight at your abdomen.::<end>
+
+=>q485
+::Вы поворачиваетесь, собираясь бежать, но ещё до того как делаете первый шаг буквально кожей ощущаете пугающе близкое присутствие человека. Вас с головой захлёстывает паника, не оставляя и намёка на милосердие, только теперь вы осознаёте, насколько серьёзную и глупую ошибку вы совершили, подставив спину. Волна адреналина пробежалась по венам, тело вернулось под контроль и повернуло вас лицом к преследователю: вы не двигаетесь, сердце бешено колотится, и единственное, на чём вы можете сосредоточить внимание - это острый наконечник копья, направленный прямо в ваш живот.::<end>
+
+=>a486_original
+::Address him in a calming voice.:: It's okay, I do not want to harm you.<end>
+
+=>a486
+::Обращаетесь к нему успокаивающим голосом.:: Всё в порядке, я не собираюсь причинять тебе вред.<end>
+
+=>a487_original
+::Remain still and wait to see what happens.::<end>
+
+=>a487
+::Оставаться на месте и ждать, чтобы увидеть, что произойдёт..::<end>
+
+=>q488_original
+::He reacts to your stillness with swift movement: ::<end>
+
+=>q488
+::Он реагирует на вашу неподвижность быстрым движением: ::<end>
+
+=>a489_original
+::Assume a fighting stance as well.::<end>
+
+=>a489
+::Встать в боевую стойку.::<end>
+
+=>q490_original
+::His stance solidifies, his stare sharpens and slices through the air between the two of you. ::<end>
+
+=>q490
+::Он встаёт в твёрдую позу, зрачки сужаются, а взгляд, рассекая воздух, устремляется к вам. ::<end>
+
+=>a491_original
+::Slowly move back while maintaining eye contact.::<end>
+
+=>a491
+::Медленно пятиться назад, держа его в поле зрения.::<end>
+
+=>q492_original
+::You notice a confident change in his stance, and then he makes his next move: ::<end>
+
+=>q492
+::Вы замечаете появившуюся уверенность в его позе, а затем он делает свой следующий шаг: ::<end>
+
+=>q493_original
+Det <end>
+
+=>q493
+Дет<end>
+
+=>q494_original
+rætterheund <end>
+
+=>q494
+рэттерхунд<end>
+
+=>q495_original
+hudder! Dur sørrønten er! <end>
+
+=>q495
+хадде! Ду сёрронтен эр!<end>
+
+=>q496_original
+::He lunges at you with his spear.::<end>
+
+=>q496
+::Он бросается на тебя с копьём.::<end>
+
+=>q497_original
+grønt rætter<end>
+
+=>q497
+гронт рэттер<end>
+
+=>q498_original
+$(context.player.Name). Dur willfærren hör nikkt. <end>
+
+=>q498
+$(context.player.Name). Ду вилфэррен хё никт.<end>
+
+=>q499_original
+::He spits on the ground.::<end>
+
+=>q499
+::Он сплёвывает на землю.::<end>
+
+=>q500_original
+<end>
+
+=>q500
+<end>
+
+=>a501_original
+::Spit on the ground and leave.::<end>
+
+=>a501
+::Плюнуть на землю и уйти.::<end>
+
+=>q502_original
+<end>
+
+=>q502
+<end>
+
+=>q503_original
+::He spits as well.::<end>
+
+=>q503
+::Он тоже сплёвывает.::<end>
+
+=>a504_original
+Whatever. I'm off.<end>
+
+=>a504
+Неважно. Я ухожу.<end>
+
+=>a505_original
+::Leave.::<end>
+
+=>a505
+::Уйти::<end>
+
+=>a506_original
+I got something to say to your *Flatus*urmir! ::Make a farting sound.::<end>
+
+=>a506
+Мне нужно передать кое-что твоему Флатсурмиру! ::Издать пердящий звук.::<end>
+
+=>q507_original
+DØDTEN!
+
+<end>
+
+=>q507
+ДОДТЕН!
+<end>
+
+=>q508_original
+::He points to the exit.::<end>
+
+=>q508
+::Он указывает на выход.::<end>
+
+=>q509_original
+<end>
+
+=>q509
+<end>
+
+=>a510_original
+I'd offer you food if I had any...<end>
+
+=>a510
+Я бы предложил тебе поесть, если бы у меня что-нибудь было...<end>
+
+=>q511_original
+::He simply stares at you.::<end>
+
+=>q511
+::Он просто смотрит на вас.::<end>
+
+=>a512_original
+::Offer him some food.:: I have some food here. *Food*. Here. Tasty, mmmm...<end>
+
+=>a512
+::Предложить ему поесть.:: У меня тут есть немного еды. *Пища*. Вот. Вкуснятина, ммм...<end>
+
+=>q513_original
+<end>
+
+=>q513
+<end>
+
+=>q514_original
+<end>
+
+=>q514
+<end>
+
+=>q515_original
+::He repeats: ::<end>
+
+=>q515
+::Он повторяет: ::<end>
+
+=>q516_original
+Ik völ det <end>
+
+=>q516
+Ик вёль дет<end>
+
+=>q517_original
+rætterheund <end>
+
+=>q517
+рэттерхунд<end>
+
+=>q518_original
+hudder Dur klæppennen middä. <end>
+
+=>q518
+худда ду клэппенен мидда.<end>
+
+=>q519_original
+::He points to your rathound regalia.:: Et.<end>
+
+=>q519
+::Он указывает на вашу одежду из крысоволка.:: Ит.<end>
+
+=>q520_original
+<end>
+
+=>q520
+<end>
+
+=>a521_original
+You want my regalia? Here. ::Give him the rathound regalia.::<end>
+
+=>a521
+Тебе нужна моя одежда? Вот. ::Отдать ему одежду из крысоволка.::<end>
+
+=>q522_original
+::He takes the regalia and feels its texture with his oversized hand. He seems pleased, not so much by the texture, as rathound hair is rather coarse, but rather by its appearance as well as other, practical benefits. Then he tries it on: It's a bit of a tight fit in addition to his scales being incompatible with this type of garnment, but that does not appear to diminish his satisfaction one bit.::<end>
+
+=>q522
+::Он берёт одежду и ощупывает её своей большей рукой. Он, похоже, доволен, но не столько качеством кожи, так как шерсть довольно грубая, а скорее её внешним видом, а также практическим преимуществом. Затем он примеряет её. Она немного плотно облегает его, в дополнение к тому, что его чешуя плохо смотрится с этим типом одежды, но это ни на йоту не уменьшает его удовлетворения.::<end>
+
+=>q523_original
+::He takes it off and points for you to sit with him by the fire.:: Hör. Dääs jarve. <end>
+
+=>q523
+::Он снимает её и указывает жестом, чтобы вы сели рядом с ним у огня.:: Хё. Дес ярве.<end>
+
+=>a524_original
+What?<end>
+
+=>a524
+Что?<end>
+
+=>a525_original
+No. I'm not giving you my regalia.<end>
+
+=>a525
+Нет. Я не отдам тебе свою одежду.<end>
+
+=>a526_original
+::Shake your head.::<end>
+
+=>a526
+::Покачать головой.::<end>
+
+=>q527_original
+::He points to your clothing, then to his imaginary clothing. Perhaps he means clothing in general.::<end>
+
+=>q527
+::Он указывает на вашу одежду, затем на свою воображаемую одежду. Возможно, он имеет в виду одежду вообще.::<end>
+
+=>q528_original
+grønt rætter<end>
+
+=>q528
+гронт рэттер<end>
+
+=>q529_original
+<end>
+
+=>q529
+<end>
+
+=>q530_original
+::He glances at the food but remains silent.::<end>
+
+=>q530
+::Он смотрит на еду, но молчит.::<end>
+
+=>a531_original
+::Let him inspect the food and see if he likes anything.::<end>
+
+=>a531
+::Позволить ему осмотреть еду и определить, что из этого ему нравится.::<end>
+
+=>q532_original
+::He approaches and uses his nose to guide him. ::<end>
+
+=>q532
+::Он приближается, используя свой нос, как путеводитель. ::<end>
+
+=>q533_original
+::After a few moments he points out the food that satisfies his olfactory evaluation.::<end>
+
+=>q533
+::Спустя несколько секунд он указывает на еду прошедшую обонятельную аттестацию.::<end>
+
+=>a534_original
+::Give him a crab sandwich.::<end>
+
+=>a534
+::Дать ему сэндвич с крабовым мясом.::<end>
+
+=>q535_original
+::He takes the food and places it in a sack, nodding once afterwards after a short pause. He sits by the fire, staring in your direction...::<end>
+
+=>q535
+::Он берёт еду и кладёт её в мешок. После короткой паузы он кивает, затем садится у костра, внимательно смотря в вашу сторону...::<end>
+
+=>a536_original
+::Give him a cave hopper steak.::<end>
+
+=>a536
+::Дать ему стейк из пещерника.::<end>
+
+=>a537_original
+::Give him an eel sandwich.::<end>
+
+=>a537
+::Дать ему сэндвич с угрём.::<end>
+
+=>a538_original
+::Give him a pentapus barbecue.::<end>
+
+=>a538
+::Дать ему шашлык из пятинога.::<end>
+
+=>a539_original
+::Give him a stuffed bat.::<end>
+
+=>a539
+::Дать ему фаршированную летучую мышь.::<end>
+
+=>a540_original
+::Give him a fried siphoner tongue.::<end>
+
+=>a540
+::Дать ему жареный язык брызгуна.::<end>
+
+=>a541_original
+::Give him a sea serpent fillet.::<end>
+
+=>a541
+::Дать ему филе морского змея.::<end>
+
+=>a542_original
+::Give him a bacon and cheese sandwich.::<end>
+
+=>a542
+::Дать ему бутерброд с беконом и сыром.::<end>
+
+=>a543_original
+Actually, no food for you.<end>
+
+=>a543
+Вообще-то, для тебя нет еды.<end>
+
+=>q544_original
+::He frowns.:: Hvarga!? ::And then lunges at you with his spear.::<end>
+
+=>q544
+::Он хмурит брови.:: Сварга?! ::А затем бросается на тебя с копьём наперевес.::<end>
+
+=>a545_original
+I changed my mind...<end>
+
+=>a545
+Я передумал$(#/а)...<end>
+
+=>q546_original
+::However, none of your offerings seem to satisfy his olfactory evaluation.::<end>
+
+=>q546
+::Однако ни одно из ваших подношений, похоже, не прошло его обонятельную аттестацию.::<end>
+
+=>a547_original
+You're awfully picky for a savage...<end>
+
+=>a547
+Ты очень разборчив для дикаря...<end>
+
+=>a548_original
+Dumbass savage!<end>
+
+=>a548
+Глупый дикарь!<end>
+
+=>a549_original
+::Offer him some food.:: Food?<end>
+
+=>a549
+::Предложить ему поесть.:: Еда?<end>
+
+=>a550_original
+::Offer him some money.:: You know what this is? Money. Everyone loves money.<end>
+
+=>a550
+::Предложить ему немного денег.:: Ты знаешь, что это? Деньги. Все любят деньги.<end>
+
+=>q551_original
+::He doesn't appear interested.::<end>
+
+=>q551
+::Он не проявляет интерес.::<end>
+
+=>q552_original
+Forskarr Flottsørmir, $(context.player.Name).<end>
+
+=>q552
+Форскарр Флотсоурмир, $(context.player.Name).<end>
+
+=>q553_original
+<end>
+
+=>q553
+<end>
+
+=>a554_original
+Hey, Yngwar.<end>
+
+=>a554
+Привет, Ингвар.<end>
+
+=>q555_original
+::He yells it even louder.::
+
+Forskarr Flottsørmir!<end>
+
+=>q555
+::Он произносит ещё громче.::
+
+Форскарр Флотсоурмир!<end>
+
+=>a556_original
+I said: Hey, Yngwar.<end>
+
+=>a556
+Я говорю: Привет, Ингвар.<end>
+
+=>q557_original
+::He falls silent.::<end>
+
+=>q557
+::Он замолкает.::<end>
+
+=>a558_original
+Forskarr $(context.npc_xpbl_yngwar_playerDiction_flotsormir)! <end>
+
+=>a558
+Форскарр $(context.npc_xpbl_yngwar_playerDiction_flotsormir)!<end>
+
+=>q559_original
+::He shows no emotion.::<end>
+
+=>q559
+::Он не проявляет никаких эмоций.::<end>
+
+=>a560_original
+Forskarr $(context.player.Name)!<end>
+
+=>a560
+Форскарр $(context.player.Name)!<end>
+
+=>a561_original
+That's enough, Yngwar.<end>
+
+=>a561
+Этого достаточно, Ингвар.<end>
+
+=>a562_original
+Whatever.<end>
+
+=>a562
+Неважно.<end>
+
+=>q563_original
+Dur. $(context.player.Name).<end>
+
+=>q563
+Ду. $(context.player.Name).<end>
+

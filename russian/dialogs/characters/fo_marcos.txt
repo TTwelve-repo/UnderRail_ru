@@ -1,0 +1,404 @@
+﻿=>q1_original
+Sorry, boss, got my hands full here. ::Coughs.:: Catch me back in Foundry.<end>
+
+=>q1
+Прости, босс, работы по горло. ::Кашляет.:: Встретимся в Литейной.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+I'm really busy here. Whatever it is, it'll have to wait. :::Coughs.::<end>
+
+=>q3
+Я очень занят. Вам придётся подождать. ::Он кашляет.::<end>
+
+=>q4_original
+'Uh? Oh, it's you. 'Ey, good to see you. ::He coughs.:: As you can probably tell, we're back in business - and business is good. Golden! ::He laughs.:: 
+
+Anyways, I've got lots of work, so please be quick. Whatcha need?<end>
+
+=>q4
+Э? А, это вы. Привет, рад вас видеть. ::Он кашляет.:: Как вы уже, наверное, заметили, мы снова в деле, и дела идут хорошо. Чистое золото! ::Он смеётся.:: 
+
+Ладно, у меня много работы, так что, пожалуйста, давайте быстрее. Что нужно?<end>
+
+=>a5_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a5
+Как дела теперь, когда шахта вновь открылась?<end>
+
+=>q6_original
+I - personally - feel golden! Things are pretty much back the way they were. Sure, the mine is not completely safe yet, there's still more rockies waiting to be exterminated, yeah, but the miners are working under the protection of Foundry Guard so we're golden. Foundry's back in action!<end>
+
+=>q6
+У меня лично всё в золоте! Всё стало как прежде. Конечно, в шахте ещё не совсем безопасно, нужно подзачистить, но шахтёры уже работают под защитой Стражи Литейной, так что всё в золоте. Это означает, что Литейная снова в деле!<end>
+
+=>q7_original
+Which is obviously a good thing. ::He coughs.::<end>
+
+=>q7
+Что не может не радовать. ::Он кашляет.::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Who are you?<end>
+
+=>a9
+Кто вы?<end>
+
+=>q10_original
+I'm Marcos Banti, the mining supervisor. ::He coughs.:: Who are you?<end>
+
+=>q10
+Я Маркос Банти, начальник шахты. ::Он кашляет.:: А вы?<end>
+
+=>a11_original
+$(context.player.Name), nice to meet you.<end>
+
+=>a11
+$(context.player.Name), приятно познакомиться.<end>
+
+=>q12_original
+Yeah, yeah. Whatcha need?<end>
+
+=>q12
+Да, да. Чё надо?<end>
+
+=>a13_original
+$(context.player.Name).<end>
+
+=>a13
+$(context.player.Name).<end>
+
+=>q14_original
+So, whatcha need?<end>
+
+=>q14
+Итак, что нужно?<end>
+
+=>a15_original
+Are you Marcos Banti, the mining supervisor?<end>
+
+=>a15
+Вы Маркос Банти, начальник шахты?<end>
+
+=>q16_original
+Yeah, that's me. ::He coughs.:: Who are you?<end>
+
+=>q16
+Да, это я. ::Он кашляет.:: А кто вы?<end>
+
+=>a17_original
+Can you tell me something about yourself?<end>
+
+=>a17
+Не могли бы вы что-нибудь рассказать о себе?<end>
+
+=>q18_original
+'Uh? I can tell you that's none of your business.<end>
+
+=>q18
+А? Я могу рассказать, что это не ваше дело.<end>
+
+=>q19_original
+More questions?<end>
+
+=>q19
+Ещё вопросы?<end>
+
+=>a20_original
+What can you tell me about Foundry?<end>
+
+=>a20
+Что вы можете рассказать мне про Литейную?<end>
+
+=>q21_original
+Good ol' Foundry? It's not *as* bad in here as some people say. What folks don't understand is you can't have everything in life. Folks want the cleanest air and water in Underrail, armed troops protecting them from Ironheads, easy jobs and lotsa coins. Well - excuse me! Me, I'm golden here: Mining can fill a hardworking man's pockets really well, *if* you're careful around the mine or the metalworks.<end>
+
+=>q21
+Про старую добрую Литейку? Тут не *так* плохо, как некоторые рассказывают. Чего люди не понимают, так это что нельзя иметь в жизни всё. Они хотят самого чистого воздуха и воды в Подземке, вооружённую охрану от Железноголовых, работу полегче и кучу денег. Ну уж, извините! У меня всё в золоте: шахта очень хорошо наградит трудолюбивого человека, *но* надо соблюдать осторожность при добыче и выплавке.<end>
+
+=>q22_original
+::He coughs.:: Talking from years of experience here. You just have to be clever and take care not to die. Drink only Claude's clean water, wear your respirators at all times as well as your protective gear when you're diggin'... that sort of stuff. ::He coughs.:: Then, when you earn a lot of coin and finally get tired of Foundry, move to Core City and live like an Oligarch! Well... almost. ::He laughs.::<end>
+
+=>q22
+::Он кашляет.:: Я говорю, основываясь на многолетнем опыте. Надо просто думать башкой и соблюдать технику безопасности. Пить только чистую воду у Клода, всегда носить респиратор, а в шахте также и защитный костюм... всё вот это вот. ::Он кашляет.:: А потом, когда заработаешь много монет, и тебе наконец надоест Литейка, едешь в Кор-Сити и живёшь как олигарх! Ну... почти. ::Он смеётся.::<end>
+
+=>a23_original
+Can you tell me anything about the mine creatures?<end>
+
+=>a23
+Можете ли вы сказать мне что-нибудь существах в шахте?<end>
+
+=>q24_original
+Look, $(#man/woman), I shouldn't talk about that, you dig? ::He coughs.:: I don't want to be responsible for spreading any rumors, so my mouth is shut until the Foundry Guard deals with this whole situation.<end>
+
+=>q24
+Послушайте, $(#мужчина/девушка), мне не положено говорить об этом, понимаете? ::Он кашляет.:: Я не хочу нести ответственность за распространение слухов, так что мой рот на замке, пока Стража Литейной не разберётся со всей этой ситуацией.<end>
+
+=>q25_original
+Dig what I mean?<end>
+
+=>q25
+Смекаешь, что я имею в виду?<end>
+
+=>a26_original
+But your mayor sent me here to talk to you.<end>
+
+=>a26
+Ваш мэр прислал меня поговорить с вами.<end>
+
+=>q27_original
+'Uh? Mayor? Oh, I see - the big boss wants you to convince me to use explosives in the mine to stop the rockies. I know, I know - we already talked about it. But my answer is still the same: No can do! It'd collapse half o' the damn mine and set us back by who knows how many months. I know this mine like the back of my palm, its every nook and cranny, and I know that a detonation would hurt us more than them creatures. Using explosives should be the *last* option. Dig?<end>
+
+=>q27
+А? Мэр? Ага, ясно, -- большой босс хочет, чтобы вы убедили меня использовать взрывчатку, чтобы остановить камнюков. Знаю, знаю, мы уже об этом говорили. Но моё решение по-прежнему в силе: так нельзя! Обрушится половина шахты, и это отбросит нас назад на много месяцев. Я эту шахту знаю как свои пять пальцев, знаю каждый закуток и тупик, и я знаю, что от взрыва нам будет хуже, чем тем тварям. Взрывчатка -- наш *последний* вариант. Сечёшь?<end>
+
+=>a28_original
+Can you just tell me what you know about the creatures?<end>
+
+=>a28
+Может, просто расскажете мне, что вы знаете о них?<end>
+
+=>q29_original
+Well, I personally never saw one of those things, but the guardsmen who did told me they've got a shell made completely out of rock. I've also heard that there is a bigger rock creature that is the *real* reason why the Foundry Guard can't clear the mine. The small ones, while not exactly friable, are not that tough, but the big daddy is, like, pretty much invulnerable. ::He coughs.:: That's what I heard.<end>
+
+=>q29
+Ну, сам я никогда их не видел, но стражи рассказывали, что у них панцири полностью из камня. Я также слышал, что есть большая каменная зверюга, и это именно она -- *настоящая* причина, почему Стража Литейной не может очистить шахту. Маленькие, хотя тоже не рыхлые, не такие уж и сильные, но большой папочка, типа, практически неуязвимый. ::Он кашляет.:: Вот что я слышал.<end>
+
+=>q30_original
+::Marcos then removes one of his gloves, pulling it off one finger at a time, to reveal a huge rough-skinned hand with dirty, chipped nails. He continues with a one-sided smile.::
+
+Now, I bet no one mentioned them funny-lookin' worms to you, 'uh? ::He proceeds to imitate vermicular movement with his index finger, moving it a few centimeters to the left with each wave of motion.:: Right?<end>
+
+=>q30
+::Затем Маркос снимает перчатку, стягивая один палец за другим, обнажая огромную ладонь с грубой кожей и грязными поломанными ногтями. Он продолжает, криво ухмыляясь.::А теперь, не сомневаюсь, что при вас никто не упоминал этих странных червей, а? ::Он двигает указательным пальцем, подражая изгибающемуся червяку, с каждым взмахом перемещая его немного влево.:: Верно?<end>
+
+=>a31_original
+I have a captured one right here.<end>
+
+=>a31
+У меня тут есть один такой в клетке.<end>
+
+=>q32_original
+Ah, so you found them after all. ::He coughs.:: Still, I think you'll find what I'm about to tell you quite useful. Listen...<end>
+
+=>q32
+А, значит вы их всё-таки заметили. ::Он кашляет.:: Тем не менее, я думаю, вы найдёте то, что я собираюсь рассказать вам, довольно полезным. Слушайте...<end>
+
+=>q33_original
+Several months ago, we found chromite deposits in the mine. So far we've mostly mined iron, titanium and stuff like that, but no chromium. So, we started digging in that direction. Along the way, we found strange patches of chromite - ore you get chromium from - that had them worms in it. You know, miners would drill the ore and worms with *drills for heads* would come out of it. Never seen anything like it before. Weird stuff, I'm telling ya. The worms would just get outta there and be on their way, never bothering us or anything.<end>
+
+=>q33
+Несколько месяцев назад мы нашли залежи хромита в шахте. До сих пор мы в основном добывали железо, титан и всё такое, но не хром. И вот, мы начали копать в этом направлении. По пути мы находили такие странные участки хромита, -- это такая руда, из которой получают хром, -- и в них были эти личинки. Представляете, шахтёры бурят породу, а из неё лезут личинки. Вот такая фигня. Личинки просто разбегались и никогда не беспокоили нас.<end>
+
+=>q34_original
+Now, after the rockies attacked us, some guardsmen who went deeper into the mine told us the worms are all over the caves. I think it's all connected somehow. Maybe the rockies feed on the worms, or maybe it's something else, I don't know. Thought I should tell you that. ::He coughs.::<end>
+
+=>q34
+Теперь, когда на нас напали камнюки, некоторые стражи, которые были глубже в шахте, рассказывают, что там эти личинки повсюду. Я думаю, это всё связано как-то. Может, камнюки их едят, -- я не знаю. Вот, думал, что вам стоит знать. ::Он кашляет.::<end>
+
+=>q35_original
+::He puts his glove back on.::
+
+That's all I got for you. Tell Marshall we are *not* using explosives. Dig?<end>
+
+=>q35
+::Он снова надевает перчатку.::
+
+Это всё, что я могу сказать по этому поводу. Скажите Маршаллу, что мы *не собираемся* лезть туда со взрывчаткой. Сечёшь?<end>
+
+=>a36_original
+I saw them in the mine. What do you know about them?<end>
+
+=>a36
+Я видел$(#/а) их в шахте. Что вы про них знаете?<end>
+
+=>a37_original
+I saw them, and I've also seen similar things before. Still, what do you know about them?<end>
+
+=>a37
+Я видел$(#/а) их, кроме того я и раньше видел$(#/а) подобных червей. Но что вы знаете о них?<end>
+
+=>a38_original
+No, what kind of worms?<end>
+
+=>a38
+Не-а, что за черви?<end>
+
+=>q39_original
+But of course, the big boss failed to mention that "little" detail. I think you'll find what I'm about to tell you quite useful. Listen...<end>
+
+=>q39
+Ну конечно же, большой босс забыл упомянуть эту «маленькую» деталь. Я думаю, вы найдёте то, что я собираюсь рассказать вам, довольно полезным. Слушайте...<end>
+
+=>a40_original
+Don't you already use explosives in mining?<end>
+
+=>a40
+А разве вы не используете в работе взрывчатку?<end>
+
+=>q41_original
+Well, yes, but the part of the mine where we found the rockies is extremely unstable and *not* suited for explosives. We've got some huge cracks going across the ceiling in that area, so it doesn't take a genius to figure out what would happen. We haven't had the time to secure it, and won't thanks to the stupid rockies.<end>
+
+=>q41
+Да, конечно, но секция шахты, где мы нашли этих камнюков, является крайне нестабильной и *не* подходит для взрывных работ. Я видел несколько огромных трещин по потолку в этой секции, и не нужно быть гением, чтобы понять, что это плохой знак. У нас не было времени укрепить потолок, а теперь и не будет из-за этих камнюков.<end>
+
+=>a42_original
+I see. What can you tell me about the creatures themselves?<end>
+
+=>a42
+Вот как. Что вы можете рассказать мне про самих этих существ?<end>
+
+=>a43_original
+I dig. Let's talk about something else.<end>
+
+=>a43
+Ясно. Давайте поговорим о чём-нибудь другом.<end>
+
+=>a44_original
+So, do you have any clue how to deal with the Beast?<end>
+
+=>a44
+У вас есть какая-нибудь идея, как справиться со Зверем?<end>
+
+=>q45_original
+::He coughs.:: I have no idea. If I did, it would be dead and we would be mining.<end>
+
+=>q45
+::Он кашляет.:: Я понятия не имею. Если бы я знал, тварь уже была бы мертва, а мы возобновили бы добычу.<end>
+
+=>q46_original
+You dig?<end>
+
+=>q46
+Понятно?<end>
+
+=>a47_original
+Is there anyone here in Foundry that can inspect the worms from the mine? A biologist of some kind, expert in his field preferably.<end>
+
+=>a47
+Есть ли кто-нибудь здесь, на Литейной, кто бы мог осмотреть червей из шахты? Какой-нибудь биолог, желательно, эксперт в своей области.<end>
+
+=>q48_original
+An expert... nope. A biologist, like zoologist or similar... highly doubt it. ::He coughs.:: There ain't much work for biologists in here, being that this is, well, Foundry. Someone could've stopped by at the bar, or visit a relative, but other than that... nope.<end>
+
+=>q48
+Эксперт... не-а. Биолог -- вроде зоолога или типа того... сильно сомневаюсь... ::Он кашляет.:: Здесь не так много работы для биологов, потому что это же, ну, Литейная. Кто-то может зайти в бар или посетить родню, но помимо этого... не-а.<end>
+
+=>q49_original
+In the end, I think you're gonna have to seek help from someone outside Foundry. ::He coughs, then shrugs.::<end>
+
+=>q49
+Короче, я думаю, вам придётся обратиться за помощью к кому-нибудь не из Литейной. ::Он кашляет, затем пожимает плечами.::<end>
+
+=>a50_original
+::[Intelligence]:: Then I think my best option is to make a trip back to SGS and see Quinton.<end>
+
+=>a50
+::[Интеллект]:: Тогда я думаю, что наилучший вариант -- отправиться на ССГ и поговорить с Куинтоном.<end>
+
+=>q51_original
+There you go. ::He coughs.:: Damn friable throat... ::He coughs again.:: So, anything, 'uh, else you got to ask me?<end>
+
+=>q51
+Вот так. ::Он кашляет.:: Проклятая глотка... ::Он снова кашляет.:: Итак, ещё вопросы будут?<end>
+
+=>a52_original
+::[Intelligence]:: I could go to the Institute and see if PI Rista can help me.<end>
+
+=>a52
+::[Интеллект]:: Я мог$(#/ла) бы пойти в Институт; возможно, научный руководитель Риста поможет мне.<end>
+
+=>a53_original
+Thanks. I'll figure something out.<end>
+
+=>a53
+Благодарю. Я что-нибудь придумаю.<end>
+
+=>q54_original
+Anything, 'uh, else you got to ask me?<end>
+
+=>q54
+Что-нибудь, кхм... ещё хотите спросить?<end>
+
+=>a55_original
+::[Biology]:: Is there anyone here in Foundry that can help me inspect the worms from the mine? A biologist of some kind, expert in his field preferably. Two heads are better at tackling this than one.<end>
+
+=>a55
+::[Биология]:: Есть ли кто-нибудь здесь, на Литейной, кто бы мог осмотреть червей из шахты? Какой-нибудь биолог, желательно, эксперт в своей области. Две головы лучше, чем одна.<end>
+
+=>a56_original
+See you later.<end>
+
+=>a56
+Увидимся позже.<end>
+
+=>q57_original
+Yeah, yeah.<end>
+
+=>q57
+Да, да.<end>
+
+=>a58_original
+I'll leave you to your work.<end>
+
+=>a58
+Не буду мешать вам работать.<end>
+
+=>q59_original
+Yeah, yeah.<end>
+
+=>q59
+Да, да.<end>
+
+=>q60_original
+::The miner gestures you to stop. This chubby, wide-shouldered man lets out a single long and highly abrasive-sounding cough - much akin to a train passing through a tunnel that is too narrow, grinding its way through - before being able to address you.::
+
+'Ey, you, you don't want to go into the mine. The entrance has been closed.<end>
+
+=>q60
+::Шахтёр останавливает вас жестом. Этот мужчина круглолицый и широкоплечий. Он кашляет протяжно и очень резко, как будто поезд протиснулся в слишком узкий туннель, ободрав стены, и наконец произносит.::
+
+Эй вы, вы лучше не ходите в шахту. Этот проход закрыт.<end>
+
+=>a61_original
+Why is it closed?<end>
+
+=>a61
+Почему закрыт?<end>
+
+=>q62_original
+Some nasty creatures have shown up. Trust me - you don't want to go there. ::He coughs.::<end>
+
+=>q62
+Какие-то опасные твари завелись в шахте. Поверьте мне, нечего вам там делать. ::Он кашляет.::<end>
+
+=>a63_original
+You can't stop me from going in there!<end>
+
+=>a63
+Вы не можете запретить мне пройти!<end>
+
+=>q64_original
+'Uh? Well, I can't, that's true. But, some dangerous creatures have show up in there, so if you want to become their dinner, be my guest. ::He coughs.::<end>
+
+=>q64
+А? Ну, да, не могу. Но там появились какие-то опасные твари, так что, если хотите попасть к ним на зубок, -- милости просим. ::Он кашляет.::<end>
+
+=>q65_original
+'Uh? Need something?<end>
+
+=>q65
+А? Надо что-то?<end>
+

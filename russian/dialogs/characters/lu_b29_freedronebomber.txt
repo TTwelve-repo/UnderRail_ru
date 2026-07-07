@@ -1,0 +1,92 @@
+﻿=>q1_original
+::Frightened but determined the man confronts you.::
+
+Damn you, $(#man/woman)! You... you killed all my friends! I never wanted to do this, but it's the only way now... I can't let the Protectorate win! The Free Drones will fight on!<end>
+
+=>q1
+::Этот мужчина явно напуган, но полон решимости.::
+
+Будь ты проклят$(#/а)! Ты... ты убил$(#/а) всех моих друзей! Я не хотел этого делать, но мне больше ничего не остаётся... я не могу позволить Протекторату победить! Вольные шершни продолжат борьбу!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Why are you doing this? Are you this willing to blow yourself up only to deprive the Protectorate of some supplies?<end>
+
+=>a3
+Зачем ты это делаешь? Ты готов подорвать себя, только чтобы уничтожить немного припасов Протектората?<end>
+
+=>q4_original
+I'm a Free Drone, that's who I am! And I am eager to give my life to make *sure* those Protectorate cans are driven out of this world. They have a powerful army, they have their mighty Dreadnoughts, but we have the courage and the will to resist them... and their devious manipulations.<end>
+
+=>q4
+Я Вольный шершень -- вот кто я! И я рад отдать свою жизнь, чтобы изгнать протекторатских банок из этого мира. У них мощная армия, у них могучие дредноуты, но у нас есть мужество и воля, чтобы противостоять им... и их коварным махинациям.<end>
+
+=>q5_original
+Something I see you couldn't.<end>
+
+=>q5
+Я вижу это, в отличие от тебя.<end>
+
+=>a6_original
+::[Intimidate]:: You are not dying today. Either defuse the bomb and walk a free man, or I'll make sure I drag you far away from the blast and into the hands of men who will gladly make the rest of your life nothing but pure, unadulterated agony.<end>
+
+=>a6
+::[Запугивание]:: Я не дам тебе умереть. Или обезвредь бомбу и уйдёшь свободным человеком, или я лично оттащу тебя от взрыва и отдам в руки людей, которые будут рады превратить остаток твоей жизни в чистейшее мучение.<end>
+
+=>q7_original
+::Your message seems to him as clear as his previous determination to die in a blaze of glory, forcing him to reconsider it. He kneels next to the bomb and defuses it within a few seconds. The ticking stops, but not the beating of his heart.:: <end>
+
+=>q7
+::Ваши слова заставляют его ещё раз обдумать прежде твёрдое решение уйти в огне славы. Он встаёт на колени рядом с бомбой и отключает её несколькими движениями. Тиканье замолкает, но не стук его сердца.::<end>
+
+=>q8_original
+::As he faces you once again, he points to the now-useless object.::
+
+There. You won!<end>
+
+=>q8
+::Он поднимается и указывает на теперь бесполезную бомбу.::
+
+Вот. Ты победил$(#/а)!<end>
+
+=>a9_original
+And you get to fight another day. Scram, or you'll end up like the rest of your friends.<end>
+
+=>a9
+А ты сможешь продолжить свою борьбу. Исчезни, пока не закончил как остальные твои друзья.<end>
+
+=>a10_original
+And you have lost. ::Attack!::<end>
+
+=>a10
+А ты проиграл. ::Напасть!::<end>
+
+=>q11_original
+Then so be it! I will endure everything the Protectorate can throw at me.<end>
+
+=>q11
+Ну и пусть! Я не боюсь ничего, что может сделать со мной Протекторат.<end>
+
+=>a12_original
+Stop wasting my time. Move aside!<end>
+
+=>a12
+Прекрати тратить моё время. С дороги!<end>
+
+=>q13_original
+Make me! Death to Protectorate!<end>
+
+=>q13
+Заставь меня! Смерть Протекторату!<end>
+
+=>a14_original
+::Fight!::<end>
+
+=>a14
+::Бой!::<end>
+

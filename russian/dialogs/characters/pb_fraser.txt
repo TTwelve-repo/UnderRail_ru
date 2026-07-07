@@ -1,0 +1,602 @@
+﻿=>q1_original
+::Fraser welcomes you with a supercilious smile.:: Corporal, Corporal... how good of you to show up - and just at the right time. There is a package waiting for you. ::He produces a medium sized box with Protectorate markings and places it on the counter.:: It arrived from North Underrail a few hours ago.
+
+Now, what could be inside, Corporal? Hmm?<end>
+
+=>q1
+::Фрейзер встречает вас надменной улыбкой.:: Капрал, капрал... как хорошо, что вы зашли -- и как раз вовремя. Вас ожидает пакет. ::Он извлекает средних размеров коробку с символикой Протектората и кладёт её на прилавок.:: Он прибыл из Северной Подземки несколько часов назад.
+
+Что бы это могло быть, капрал? Хм?<end>
+
+=>a2_original
+There is only one way to find out, sir. ::Open the package.::<end>
+
+=>a2
+Есть только один способ узнать, сэр. ::Открыть пакет.::<end>
+
+=>q3_original
+::As you open the package, you are surprised to discover that it contains a full Chemical Assault Unit armor set, complete with the instantly recognizable and equally petrifying mask the unit is known for. Beneath all of that, you find a small note that simply reads, "No rest for the wicked." Staff Sergeant Fraser curiously observes you unraveling your unexpected present and quirks an eyebrow upon seeing what it contains.::
+ 
+Oh! I can see you have *really* earned the sympathies of Captain Mareth. Ah, Corporal, Corporal... I don't know how you do these things, but I salute you! That armor looks... mighty terrifying; I wish I had one in my possession, to be perfectly honest. ::He smirks.::<end>
+
+=>q3
+::Открыв пакет, вы с удивлением обнаруживаете внутри полное обмундирование группы химической и биологической атаки, в комплекте с мгновенно узнаваемой и вселяющей страх маской, которой славится подразделение. В самом низу вы находите небольшую записку, которая просто гласит: «Нет мира нечестивым». Старший сержант Фрейзер с любопытством наблюдает, как вы разворачиваете свой неожиданный подарок, и поднимает бровь, увидев что внутри.::
+ 
+Оу! Я вижу, вы *действительно* заслужили симпатии капитана Марета. Ах, капрал, капрал... я не знаю, как вам это всё удаётся, но я поздравляю вас! Вид этой брони... просто вселяет ужас; хотел бы я иметь такую, должен вам признаться. ::Он ухмыляется.::<end>
+
+=>a4_original
+Mhm. Anyway, there was something I needed of you, sir.<end>
+
+=>a4
+Угу. Мне кое-что нужно от вас, сэр.<end>
+
+=>q5_original
+Yes, Corporal?<end>
+
+=>q5
+Да, капрал?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Show me what you got. ::Barter.::<end>
+
+=>a7
+Покажите, что у вас есть. ::Обмен.::<end>
+
+=>a8_original
+::[Mercantile]:: I have a question, Staff Sergeant: Who gets access to all the high quality equipment you're hiding in your armory? The good stuff, for good soldiers. I've got all these dollars that need to be spent somewhere.<end>
+
+=>a8
+::[Торговля]:: У меня вопрос, старший сержант: Кто имеет доступ ко всему высококачественному снаряжению, которое вы прячете в своём арсенале? К хорошему товару для хороших солдат. У меня есть все эти доллары, которые нужно куда-то потратить.<end>
+
+=>q9_original
+Say no more, Corporal...<end>
+
+=>q9
+Ни слова больше, капрал...<end>
+
+=>a10_original
+::Barter.::<end>
+
+=>a10
+::Обмен.::<end>
+
+=>q11_original
+You get what you deserve, Corporal.<end>
+
+=>q11
+Вы получите то, что заслужили, капрал.<end>
+
+=>a12_original
+I'd like to exchange currency.<end>
+
+=>a12
+Я хотел$(#/а) бы обменять валюту.<end>
+
+=>q13_original
+The current exchange rate is five charons for two dollars - if you're buying dollars - and two dollars for three charons - if buying charons.<end>
+
+=>q13
+Текущий обменный курс составляет пять харонов за два доллара, если вы покупаете доллары, и два доллара за три харона, если покупаете хароны.<end>
+
+=>a14_original
+I want to buy dollars.<end>
+
+=>a14
+Я хочу купить доллары.<end>
+
+=>q15_original
+No problem, Corporal. How much do you need?<end>
+
+=>q15
+Нет проблем, капрал. Сколько вам нужно?<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>a17_original
+::Trade 5 stygian coins for 2 dollars.::<end>
+
+=>a17
+::Обменять 5 стигийских монет на 2 доллара.::<end>
+
+=>q18_original
+Here you go, Corporal. Spend the money well. ::He smirks.:: Is that all?<end>
+
+=>q18
+Держите, капрал. Потратьте эти деньги с умом. ::Он ухмыляется.:: Это всё?<end>
+
+=>a19_original
+::Trade 50 stygian coins for 20 dollars.::<end>
+
+=>a19
+::Обменять 50 стигийских монет на 20 долларов.::<end>
+
+=>a20_original
+::Trade 200 stygian coins for 80 dollars.::<end>
+
+=>a20
+::Обменять 200 стигийских монет на 80 долларов.::<end>
+
+=>a21_original
+::Trade 2000 stygian coins for 800 dollars.::<end>
+
+=>a21
+::Обменять 2000 стигийских монет на 800 долларов.::<end>
+
+=>a22_original
+I've changed my mind. I'll keep my charons.<end>
+
+=>a22
+Я передумал$(#/а). Я попридержу свои хароны.<end>
+
+=>q23_original
+It's your money. Would that be all, Corporal?<end>
+
+=>q23
+Деньги ваши. Это всё, капрал?<end>
+
+=>a24_original
+I want to buy charons.<end>
+
+=>a24
+Я хочу купить хароны.<end>
+
+=>q25_original
+No problem, Corporal. How much do you need?<end>
+
+=>q25
+Нет проблем, капрал. Сколько вам нужно?<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>a27_original
+::Trade 2 dollars for 3 stygian coins.::<end>
+
+=>a27
+::Обменять 2 доллара на 3 стигийские монеты.::<end>
+
+=>q28_original
+Here you go, Corporal. Is that all?<end>
+
+=>q28
+Держите, капрал. Это всё?<end>
+
+=>a29_original
+::Trade 20 dollars for 30 stygian coins.::<end>
+
+=>a29
+::Обменять 20 долларов на 30 стигийских монет.::<end>
+
+=>a30_original
+::Trade 200 dollars for 300 stygian coins.::<end>
+
+=>a30
+::Обменять 200 долларов на 300 стигийских монет.::<end>
+
+=>a31_original
+::Trade 2000 dollars for 3000 stygian coins.::<end>
+
+=>a31
+::Обменять 2000 долларов на 3000 стигийских монет.::<end>
+
+=>a32_original
+I changed my mind. I'll keep my dollars.<end>
+
+=>a32
+Я передумал$(#/а). Я попридержу свои доллары.<end>
+
+=>a33_original
+Thanks, I just needed the info.<end>
+
+=>a33
+Спасибо, мне просто нужна была информация.<end>
+
+=>q34_original
+Anything else, Corporal?<end>
+
+=>q34
+Что-нибудь ещё, капрал?<end>
+
+=>a35_original
+Do you work with SGS credits, by any chance?<end>
+
+=>a35
+Вы, случайно, не принимаете кредиты ССГ?<end>
+
+=>q36_original
+SGS credits? Oh, no, only charons and united stations dollars, I'm afraid.<end>
+
+=>q36
+Кредиты ССГ? О нет, боюсь, только хароны и доллары Объединённых Станций.<end>
+
+=>q37_original
+You know, perhaps I should have mentioned that earlier, but I had forgotten you were from SGS. Heh, that is one remote place; I couldn't imagine myself ever wanting to go that far south, unless it gets a bit more "northernized". No offense. ::He smirks.::<end>
+
+=>q37
+Вы знаете, пожалуй, мне стоило упомянуть об этом раньше, но я забыл, что вы с ССГ. Хех, вот это дебри; я не могу себе представить, что у меня когда-либо возникнет желание забраться так далеко на юг, если только он не станет немного более «северным». Без обид. ::Он ухмыляется.::<end>
+
+=>a38_original
+Colonel told me to see you about my pay.<end>
+
+=>a38
+Полковник сказал мне получить у вас вознаграждение.<end>
+
+=>q39_original
+Here you go, Corporal, these blues are now yours. ::He gives you 250 United Stations dollars.::<end>
+
+=>q39
+Держите, капрал, теперь эти синие -- ваши. ::Он даёт вам 250 долларов Объединённых Станций.::<end>
+
+=>q40_original
+Heh, go get yourself something nice. You deserve it.<end>
+
+=>q40
+Хех, купите себе что-нибудь красивое. Вы это заслужили.<end>
+
+=>a41_original
+I'm here for my pay.<end>
+
+=>a41
+Я приш$(#ёл/ла) за деньгами.<end>
+
+=>a42_original
+I came to collect my pay, Staff Sergeant.<end>
+
+=>a42
+Я за своей оплатой, старший сержант.<end>
+
+=>q43_original
+Heh... yes. I was informed of that. Let's see... two missions plus a bonus... That would be six hundred dollars, Corporal. That's a lot of blues... ::He smirks before continuing.:: What did you do, annihilate the Free Drones? Faceless? ::He laughs.::<end>
+
+=>q43
+Хех... да. Я был проинформирован об этом. Посмотрим... два задания плюс бонус... Ваши шестьсот долларов, капрал. Это хорошая пачка синих... ::Он ухмыляется, прежде чем продолжить.:: Что вы сделали, уничтожили Вольных шершней? Безликих? ::Он смеётся.::<end>
+
+=>a44_original
+Actually, I decimated Free Drones' main base in South Underrail, sir. Or annihilated, if you really prefer that term.<end>
+
+=>a44
+На самом деле, я уничтожил$(#/а) основную базу Вольных шершней в Южной Подземке, сэр. Ну, или истребил$(#/а), если вы предпочитаете этот термин.<end>
+
+=>q45_original
+::Fraser's smirk contracts into confusion and shuts him up for a brief moment. It doesn't last long, however.:: Well... I wasn't told anything about that yet. Strange. Truly.<end>
+
+=>q45
+::Ухмылка Фрейзера увядает, сменяется выражением замешательства и он затыкается на мгновение. Однако это не долго длится.:: Ну... мне ещё не сказали ничего об этом. Странно. Очень странно.<end>
+
+=>q46_original
+Um, here are your blues, Corporal. ::He hands you 600 United Stations dollars. His stare flees yours and hides in a chart he just picked up.::<end>
+
+=>q46
+Эм, вот ваши синие, капрал. ::Он протягивает вам 600 долларов Объединённых Станций. Он избегает вашего взгляда и прячется носом в карточку, которую только что поднял.::<end>
+
+=>a47_original
+Consul Oliver told me to see you.<end>
+
+=>a47
+Консул Оливер сказал мне встретиться с вами.<end>
+
+=>q48_original
+Corporal... Corporal... $(context.player.Name). Yes, I indeed have something for you here. Lots of blues, in fact.<end>
+
+=>q48
+Капрал... капрал... $(context.player.Name). Да, у меня действительно кое-что для вас есть. Пачка синих, на самом деле.<end>
+
+=>q49_original
+::He counts and hands you 300 United Stations dollars.:: That's three hundred, Corporal. Heh, you must've done something to really please the good consul. Spend it well.<end>
+
+=>q49
+::Он отсчитывает и протягивает вам 300 долларов Объединённых Станций.:: Вот три сотни, капрал. Хех, наш добрый консул, должно быть, очень вами доволен. Потратьте их с умом.<end>
+
+=>a50_original
+Why did you join the Protectorate?<end>
+
+=>a50
+Почему вы вступили в протекторат?<end>
+
+=>q51_original
+Corporal, Corporal... That is a good question. I joined the Underrail Protectorate to become a part of the mightiest military machinery this violent world of ours had ever seen. I was born in the North, the homeland, and felt a great... hmmm, the word eludes me... a great appeal to this idea of unifying the whole Underrail under a single, powerful rule.<end>
+
+=>q51
+Капрал, капрал... это хороший вопрос. Я вступил в Протекторат Подземки, чтобы стать частью самой могущественной военной машины, какую видел этот наш жестокий мир. Я родился на Севере, на родине, и почувствовал... хм-м-м, как бы это сказать... непреодолимую привлекательность этой идеи объединения всей Подземки в границах единого, могучего сообщества.<end>
+
+=>q52_original
+No offense, but the South is not really the most sophisticated region of Underrail, isn't it true? You ought to know it better than me. Bandits, murderers, Lunatics... Tchortists? What's up with that? As your kind would say it, South Underrail seems pretty derailed to me. It needs discipline, whether the simple folk want it or not.<end>
+
+=>q52
+Без обид, но Юг является не самым утончённым регионом Подземки, вы не находите? Уж вам ли не знать. Бандиты, убийцы, Психотики... чортисты? Что за дела? Как у вас здесь принято выражаться, Южная Подземка мне кажется довольно поехавшей. Она нуждается в дисциплине, хотят того простые люди или нет.<end>
+
+=>a53_original
+What can you tell me about the Free Drones?<end>
+
+=>a53
+Что вы можете мне рассказать про Вольных шершней?<end>
+
+=>q54_original
+I think you know enough about them, Corporal.<end>
+
+=>q54
+Я думаю, вы достаточно знаете о них, капрал.<end>
+
+=>q55_original
+::He picks up another chart and begins inspecting it.::<end>
+
+=>q55
+::Он поднимает другую карточку и начинает изучать её.::<end>
+
+=>q56_original
+Heh, Free Drones. I don't see what the big deal is about them; they are but a minor nuisance to us. Protectorate is strong enough to... wipe the ground with these anarchists.<end>
+
+=>q56
+Хех, Вольные шершни. Я не понимаю, в чём вся проблема; они лишь незначительная помеха для нас. У Протектората достаточно сил, чтобы... вытереть пол этими анархистами.<end>
+
+=>q57_original
+Corporal, Corporal... I've already heard about the Rail Crossing situation, and I know what you did. If one - no offense - simple Southerner can stand in their way, then... Well, you understand, don't you?<end>
+
+=>q57
+Капрал, капрал... Я уже слышал про ситуацию на Переезде, и я знаю о вашем участии. Если од$(#ин/на), без обид, прост$(#ой/ая) южан$(#ин/ка) может встать у них на пути, тогда... Ну, вы понимаете, да?<end>
+
+=>a58_original
+Did you just call me simple?<end>
+
+=>a58
+Вы только что назвали меня недалёк$(#им/ой)?<end>
+
+=>q59_original
+No, Corporal, you must be hearing things. Besides, I don't like that tone of yours. That's not how you talk to a superior officer.<end>
+
+=>q59
+Что вы, капрал, вы, должно быть, ослышались. Кроме того, мне не нравится ваш тон. Так не подобает обращаться к старшему по званию.<end>
+
+=>a60_original
+I have other questions.<end>
+
+=>a60
+У меня есть другие вопросы.<end>
+
+=>q61_original
+I'm not going anywhere.<end>
+
+=>q61
+Я никуда не денусь.<end>
+
+=>a62_original
+What can you tell me about Colonel Cathcart?<end>
+
+=>a62
+Что вы можете мне рассказать про полковника Каткарта?<end>
+
+=>q63_original
+An outstanding man. A truly brilliant commander, and a friend of mine, if I may say so. You've met him yourself, Corporal, I think you should've realized that by now. How can one not?<end>
+
+=>q63
+Выдающийся человек. Поистине блестящий командир и мой друг, позволю себе заметить. Вы уже встречались с ним, капрал, думаю, вы это тоже поняли. Этого нельзя не заметить.<end>
+
+=>q64_original
+I could go on and on about him, but I'll choose to be concise: Without him, Underrail Protectorate wouldn't have any presence in the South. I've been here during the crucial moments, where subtle moves meant you stay in the game or you get kicked out; he played the moves right.
+
+That's all you need to hear from me.<end>
+
+=>q64
+Я мог бы продолжать и продолжать, но я буду краток: без него у Протектората Подземки не было бы присутствия на Юге. Я был здесь в решающие моменты, когда тонкие ходы решали, останетесь ли вы в игре или будете выгнаны с позором; и он делал правильные ходы.
+
+Это всё, что вам нужно услышать от меня.<end>
+
+=>a65_original
+What can you tell me about Consul Oliver?<end>
+
+=>a65
+Что вы можете мне рассказать про консула Оливера?<end>
+
+=>q66_original
+The consul is our compatriot, a true Northerner: Educated, intelligent, honest... a good-natured man. Perhaps even too good-natured sometimes. This is South Underrail after all, and here you have to have your claws sharpened, whether you come as a Protectorate soldier or a United Stations diplomat.<end>
+
+=>q66
+Консул -- наш соотечественник, коренной северянин: образованный, интеллигентный, честный... добрый человек. Пожалуй, иногда даже слишком добрый. Это Южная Подземка, конце концов, и здесь надо держать свои когти заточенными, будь вы солдатом Протектората или дипломатом Объединённых Станций.<end>
+
+=>q67_original
+Most Southerners are so... unrefined and decadent, Corporal. Diplomacy gets incredibly difficult when you're dealing with people who aren't on the same level as you.<end>
+
+=>q67
+Большинство южан так... грубы и декадентны, капрал. Политика становится невероятно трудным занятием, когда имеешь дело с людьми, которые находятся на совсем другом уровне.<end>
+
+=>a68_original
+You have a problem with Southerners?<end>
+
+=>a68
+У вас есть какая-то проблема с южанами?<end>
+
+=>q69_original
+Corporal... Corporal. Really now, I don't know where you got that idea. I was merely talking about *certain* Southerners, the ratters. Please...
+
+You and your ideas. ::He laughs.::<end>
+
+=>q69
+Капрал... капрал. Оставьте, я не знаю, откуда у вас такие мысли. Я говорил о *некоторых* южанах, крысятниках. Прошу вас...
+
+Придумаете тоже. ::Он смеётся.::<end>
+
+=>a70_original
+What can you tell me about Luka?<end>
+
+=>a70
+Что вы можете мне рассказать про Луку?<end>
+
+=>q71_original
+Heh... Wait, who are you talking about? ::He pauses for a second.:: Luka... Luka... You mean that fat mechanic?<end>
+
+=>q71
+Хех... погодите, о ком это вы? ::Он замолкает на секунду.:: Лука... Лука... Вы имеете в виду того жирного механика?<end>
+
+=>q72_original
+::He erupts into laughter.:: How funny of you to *actually* think I'd socialize with someone like him! Ah... Anyway, I can't tell you anything at all about the man, Corporal. He is... under the radar to me, so to say.<end>
+
+=>q72
+::Он смеётся.:: Как забавно, вы *на самом деле* думаете, что я стал бы общаться с кем-то вроде него! Ах... в любом случае, я не могу сказать вам о нём ничего, капрал. Он... ниже радара для меня, так сказать.<end>
+
+=>a73_original
+What can you tell me about Anastasia?<end>
+
+=>a73
+Что вы можете мне рассказать про Анастасию?<end>
+
+=>q74_original
+Corporal, that woman is a diamond. She is a far greater hero than any one of us here, no matter how surprising that might seem to you. Her train was assaulted by the Free Drones, those barbarians, and they hurt her. And she was traveling to Fort Apogee to help our soldiers. And her reward for such a big heart? She suffered chemical burns on her body as well as pernament voice damage from the toxic gas.<end>
+
+=>q74
+Капрал, эта женщина -- алмаз. Она гораздо твёрже, чем любой из нас, как ни удивительно это может вам показаться. На её поезд напали Вольные шершни, эти варвары, и они тяжело ранили её. А она ехала в форт Апогей, чтобы помочь нашим солдатам. И её награда за такую доброту? Она пострадала от химических ожогов по всему телу, а токсичный газ лишил её голоса.<end>
+
+=>q75_original
+Heh, and do you know what she did after that, Corporal? Do you? She carried on. She knew brave Protectorate soldiers needed her help and she stayed here all these years, despite being offered to return to the homeland and retire. All on Protectorate expense.<end>
+
+=>q75
+Хех, и знаете, что она тогда сделала, капрал? Знаете? Она продолжила службу. Она знала, что храбрым солдатам Протектората нужна её помощь, и она осталась здесь на все эти годы, несмотря на то, что ей предлагали вернуться на родину и уйти на покой за счёт Протектората.<end>
+
+=>q76_original
+It takes true bravery and commitment to do that, Corporal. She's a true Northerner and an inspiration to us all.<end>
+
+=>q76
+Такое требует настоящего мужества и решимости, капрал. Она -- истинная северянка и пример для всех нас.<end>
+
+=>a77_original
+What can you tell me about Case?<end>
+
+=>a77
+Что вы можете мне рассказать про Кейса?<end>
+
+=>q78_original
+::He sighs.:: Look, Corporal, if you feel the need to ask me about various people from Fort Apogee, ask about someone important... and someone who's not a ratter, preferably. Especially not someone who is named Justin. Case. ::He laughs.::<end>
+
+=>q78
+::Он вздыхает.:: Слушайте, капрал, если вы чувствуете необходимость расспрашивать меня обо всех обитателях форта Апогей, спрашивайте про кого-нибудь важного... и не крысятника, желательно. И конечно, не про кого-то по имени Джастин. Кейс. ::Он смеётся.::<end>
+
+=>q79_original
+What a stupid name. Oh, well, what would you expect...<end>
+
+=>q79
+Какое дурацкое имя. Ох, ну что ещё можно ожидать...<end>
+
+=>a80_original
+What can you tell me about CAU?<end>
+
+=>a80
+Что вы можете мне рассказать про группу ХБА?<end>
+
+=>q81_original
+You've met Captain Mareth, I see. I admire that man, greatly, as well as his whole unit. They are highly trained in small arms combat, hand-to-hand combat, demolitions, chemical weapon combat - obviously ... What more can I say?.<end>
+
+=>q81
+Вы уже познакомились с капитаном Маретом, я вижу. Я восхищаюсь этим человеком, очень сильно, равно как и всем его отрядом. Они хорошо обучены владению стрелковым оружием, рукопашному бою, взрывному делу, химическому оружию, конечно же... Что я могу ещё сказать?<end>
+
+=>q82_original
+Ah, Corporal... Corporal, I remember one time when they were dispatched from the homeland... When was it... Two, three years ago? I met him, he was a lieutenant back then, and a marvelous man he was. Highly intelligent and to-the-point kind of man. Highly disciplined. All their missions here, as I recall, were done with great precision and efficiency.<end>
+
+=>q82
+Ах, капрал... капрал, я помню, как однажды, когда родина направила их... Когда это было... Два-три года назад? Я познакомился с ним, тогда он был лейтенантом, и каким замечательным человеком он был. Очень умным и прямолинейным человеком. Высоко дисциплинированным. Все их задачи здесь, насколько я помню, были выполнены с величайшей точностью и эффективностью.<end>
+
+=>q83_original
+Heh, now that I think of it... they should come here more often. They are efficient.<end>
+
+=>q83
+Хех, кстати, если подумать... им стоит навещать эти места почаще. Они эффективно работают.<end>
+
+=>a84_original
+What can you tell me about the Faceless?<end>
+
+=>a84
+Что вы можете мне рассказать про безликих?<end>
+
+=>q85_original
+They are not to be toyed with, Corporal, and we all understand it. They never made any hostile moves against us, at least not directly, but Port Zenith in Core City is under Protectorate control, and if the Faceless make the wrong move, they might just taste the bitter end of it. We are ready for everything, as always.<end>
+
+=>q85
+С ними шутки плохи, капрал, и мы все это понимаем. Они ещё не совершали враждебных шагов против нас, по крайней мере, не напрямую, но порт Зенит в Кор-Сити находится под контролем Протектората, и если безликие сделают неверное движение, они могут нарваться на последствия. Мы готовы ко всему, как всегда.<end>
+
+=>q86_original
+The South is really a freak show, isn't it? But, you know this very well already, so that comment was redundant, I suppose.<end>
+
+=>q86
+Здесь на Юге просто какой-то цирк уродов, не так ли? Но вы и так это прекрасно знаете, так что я думаю, это замечание было излишним.<end>
+
+=>a87_original
+::Salute and leave.::<end>
+
+=>a87
+::Козырнуть и уйти.::<end>
+
+=>a88_original
+Thank you, sir. I'm glad the captain didn't forget about me. Now, there was something else I needed of you. <end>
+
+=>a88
+Благодарю вас, сэр. Я рад$(#/а), что капитан не забыл про меня. А сейчас, мне кое-что от вас нужно.<end>
+
+=>a89_original
+I'd love to chat, sir, but I have to leave. ::Salute and leave.::<end>
+
+=>a89
+Рад$(#/а) бы поболтать, сэр, но мне нужно идти. ::Козырнуть и уйти.::<end>
+
+=>a90_original
+::Remain silent and open the package.::<end>
+
+=>a90
+::Промолчать и открыть пакет.::<end>
+
+=>q91_original
+Heh, who are you? Actually, it doesn't matter anyway. ::He waves you away.::<end>
+
+=>q91
+Хех, а вы кто? На самом деле, это неважно. ::Он отмахивается от вас.::<end>
+
+=>q92_original
+Corporal. I'm sure you'd be delighted to know that I've received new equipment you can spend your blues on.<end>
+
+=>q92
+Капрал. Думаю, вы были бы рады узнать, что я получил новое снаряжение, на которое вы можете потратить свои синие.<end>
+
+=>a93_original
+Show me what you got. ::Barter.::<end>
+
+=>a93
+Покажите, что у вас есть. ::Обмен.::<end>
+
+=>a94_original
+Later. I had some questions first.<end>
+
+=>a94
+Позже. У меня есть несколько вопросов.<end>
+
+=>q95_original
+Oh?<end>
+
+=>q95
+О?<end>
+
+=>q96_original
+::You approach the man you believe to be Staff Sergeant Fraser. You stand still and salute him, and he returns it. During this brief salute, the two of you get the chance to take look at it each other. The first thing you notice is his thin but impressively long nose sitting between his brown eyes. Beneath it, you see jagged lips slowly reshape themselves into a condescending smile, for he too must've noticed something on you that caused that smirk. Then, he opens his mouth to deliver a high-pitched, nasal voice that borders on being feminine, and thus the conversation begins.::
+
+At ease, Corporal. I'm Staff Sergeant Eric Fraser. I am the quartermaster here at Fort Apogee, so if you need equipment or need to exchange currency, I am the one to come to. Now, Corporal... what'll it be?<end>
+
+=>q96
+::Этот мужчина, должно быть, и есть старший сержант Фрейзер. Вы выпрямляетесь и приветствуете его, и он возвращает приветствие. Это даёт вам обоим возможность взглянуть друг на друга. Первое, на что вы обращаете внимание -- это его тонкий, но необычайно длинный нос, устроившийся между карих глаз. Под ним -- неровные губы, медленно изгибающиеся в снисходительной улыбке. Должно быть, он тоже заметил на вашем лице что-то забавное. Когда он открывает рот, до вас доносится пронзительный, гнусавый голос, граничащий с женским, и так начинается ваш разговор.::
+
+Вольно, капрал. Меня зовут старший сержант Эрик Фрейзер. Я начальник снабжения здесь, в форте Апогей, так что, если вам нужно оборудование или обменять валюту, -- вам ко мне. Итак, капрал... что вам нужно?<end>
+
+=>q97_original
+What do you need, Corporal?<end>
+
+=>q97
+Что вам нужно, капрал?<end>
+

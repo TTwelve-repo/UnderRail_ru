@@ -1,0 +1,418 @@
+﻿=>q1_original
+::The man greets you with a warm smile.::
+
+Ah, $(context.player.Name), good to finally meet you. I'm Malcom. How can I help you?<end>
+
+=>q1
+::Мужчина встречает вас с лёгкой улыбкой.::
+
+А, $(context.player.Name), рад наконец-то познакомиться. Я Мальком. Чем могу помочь?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Know anything about that scavenger from Mushroom Cove?<end>
+
+=>a3
+Знаешь что-нибудь об этом мусорщике из Грибной бухты?<end>
+
+=>q4_original
+Well, one of the guards found <end>
+
+=>q4
+Ну, один из охранников обнаружил<end>
+
+=>q5_original
+him <end>
+
+=>q5
+его<end>
+
+=>q6_original
+there, dying, just as I was starting my shift some hours ago. <end>
+
+=>q6
+там, почти при смерти, как раз, когда я заступал на смену, несколько часов назад.<end>
+
+=>q7_original
+$(tempContext.wasteWaterPronounCap) <end>
+
+=>q7
+$(tempContext.wasteWaterPronounCap)<end>
+
+=>q8_original
+was horribly mutated, covered in green tumors and all. <end>
+
+=>q8
+тело было покрыто ужасными мутациями, с зелёными наростами, и всё такое.<end>
+
+=>q9_original
+Terrible things happen out there all the time, but this $(context.frag_dun_wasteWater_corpseGender) was still alive when $(tempContext.wasteWaterPronoun) was brought through here. Now that's something you don't see often. Sadly, that didn't last, as $(tempContext.wasteWaterPronoun) died before reaching the medical level, though.<end>
+
+=>q9
+Там постоянно происходят ужасные вещи. Говорят, что $(tempContext.wasteWaterPronoun) привезли к нам ещё с признаками жизни. Но такое редкость и, к сожалению, это не продлилось долго, так как $(tempContext.wasteWaterPronoun)... вообщем, не успели довезти до медицинского уровня.<end>
+
+=>a10_original
+Did he manage to say who did this to him?<end>
+
+=>a10
+Он успел сказать, кто это сделал с ним?<end>
+
+=>q11_original
+No. Mushroom Cove's full of psi beetles<end>
+
+=>q11
+Нет. Грибная Бухта полна пси-жуками<end>
+
+=>q12_original
+. Could be them, as they got some nasty psi abilities at their disposal, but the way this scavenger's been hurt... it's somewhat different from anything I've seen the beetles do.<end>
+
+=>q12
+. Возможно, это они, так как у них есть неприятные пси-способности, но что касается ран на теле... это несколько отличается от всего, что я знаю о жуках.<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>a14_original
+How do I get to Mushroom Cove?<end>
+
+=>a14
+Как добраться до Грибной бухты?<end>
+
+=>q15_original
+It's a wet cave a bit south from here. <end>
+
+=>q15
+Сырая пещера немного южнее отсюда.<end>
+
+=>q16_original
+But I'd advise against going there right now, $(context.player.Name). It's a dangerous place for a rookie.<end>
+
+=>q16
+Но я бы не советовал туда идти, $(context.player.Name). Для новичка это место опасно.<end>
+
+=>q17_original
+But don't you get any strange ideas, $(context.player.Name). It's a dangerous place...<end>
+
+=>q17
+Но только никаких странных идей, $(context.player.Name). Это опасное место...<end>
+
+=>a18_original
+That's everything I needed to know.<end>
+
+=>a18
+Это всё, что мне хотелось узнать.<end>
+
+=>q19_original
+::He nods.:: Heading out?<end>
+
+=>q19
+::Он кивает.:: Выходишь?<end>
+
+=>a20_original
+That's everything I needed to know. I need to get out into the caves.<end>
+
+=>a20
+Это всё, что мне хотелось узнать. Мне нужно в пещеры.<end>
+
+=>q21_original
+You didn't get your access card yet, right? Yes. Should be around here somewhere... 
+
+::He starts looking through the drawers.::<end>
+
+=>q21
+Вы ещё не получили карту доступа, да? Да. Должна быть где-то здесь... 
+
+::Он начинает искать в ящиках.::<end>
+
+=>q22_original
+There it is. ::He produces a red access card and passes it to you.::
+
+Now listen here, this is the procedure...<end>
+
+=>q22
+Вот она. ::Он достаёт красную карточку доступа и протягивает её вам.::
+
+Теперь слушайте, порядок такой...<end>
+
+=>q23_original
+When you want to leave, you let me know and I'll open the inner gate. You then step into the transition room. Then I close the inner gate and open the outer gate and off you go.<end>
+
+=>q23
+Когда вы хотите выйти, дайте мне знать, и я открою внутренние ворота. Вы тогда заходите в комнату перехода. После чего, я закрываю внутренние ворота и открываю внешние -- и вперёд.<end>
+
+=>q24_original
+Alright, now, when you want to get back in, use the card I gave you on the console outside. Stand in front of the camera so I can confirm it's you. Then I'll open the outer gate.<end>
+
+=>q24
+Ладно, теперь, когда вы захотите вернуться, приложите карту, что я вам дал, к консоли снаружи. Стойте перед камерой, чтобы я мог убедиться, что это вы. После чего я открою внешние ворота.<end>
+
+=>q25_original
+Earlier, we used to do bioscanning everytime someone passed, but since no one ever showed up positive, it became a nuisance.<end>
+
+=>q25
+Раньше мы делали биосканирование каждого входящего, но, так как никто не показывал положительных результатов, это стало надоедать.<end>
+
+=>a26_original
+What if I *do* contract a disease?<end>
+
+=>a26
+А что, если я *действительно* заболею?<end>
+
+=>q27_original
+Then be kind enough to inform me so I can activate the turrets. They'll shred you to pieces, we'll burn the remains and everything's good.<end>
+
+=>q27
+Тогда будьте любезны сообщить мне, чтобы я мог активировать турели. Они покромсают вас на части, мы сожжём остатки, и всё будет хорошо.<end>
+
+=>q28_original
+::He chuckles.:: Just kidding... or am I.<end>
+
+=>q28
+::Он хихикает.:: Я шучу... или нет?<end>
+
+=>a29_original
+Understood.<end>
+
+=>a29
+Ясно.<end>
+
+=>q30_original
+So, you going or what?<end>
+
+=>q30
+Так, вы идёте или что?<end>
+
+=>q31_original
+ but this doesn't look like a product of their psionics. <end>
+
+=>q31
+но совсем не похоже на продукт их псионики.<end>
+
+=>a32_original
+Did she manage to say who did this to her?<end>
+
+=>a32
+Она успела сказать, кто это сделал с ней?<end>
+
+=>q33_original
+was severely burnt, smelled horribly. <end>
+
+=>q33
+тело по видимому получило сильные ожоги, а запах... ужасно.<end>
+
+=>q34_original
+had so many gunshot wounds it was impossible to count them all. <end>
+
+=>q34
+тело по видимому получило множество огнестрельных ранений, и их было столько, что и не сосчитаешь.<end>
+
+=>q35_original
+was badly electrocuted, smelled horribly. <end>
+
+=>q35
+видимо, ударило электричеством, а запах... просто ужас. <end>
+
+=>q36_original
+was horribly mauled by something, with bits of flesh dangling off. Wasn't psi beetles, that's for sure. <end>
+
+=>q36
+тело по видимому получило ужасные увечья, плоть свисала кусками. Это уж точно сделали не пси-жуки.<end>
+
+=>q37_original
+was missing patches of hair and skin - the skull was showing. But that face... like $(tempContext.wasteWaterPronoun)'s been through living hell. <end>
+
+=>q37
+голова была с отсутствующими клочьями волос и кожи... череп был виден. А $(tempContext.wasteWaterPronoun) лицо... словно... лицо человека, прошедшего через ад.<end>
+
+=>q38_original
+her <end>
+
+=>q38
+её<end>
+
+=>a39_original
+I need to get out into the caves.<end>
+
+=>a39
+Мне нужно выйти в пещеры.<end>
+
+=>a40_original
+Open the gate, please. I'm off to the caves.<end>
+
+=>a40
+Откройте ворота, пожалуйста. Я иду в пещеры.<end>
+
+=>a41_original
+Open the gate, please. I'm off to the caves.<end>
+
+=>a41
+Откройте ворота, пожалуйста. Я иду в пещеры.<end>
+
+=>q42_original
+::He nods.:: Oh, and here's a tip for you: If you find yourself surrounded by rathounds, use flares to scare them away. They'll be back, though, so try not to stick around.<end>
+
+=>q42
+::Он кивает.:: О, и вот вам совет: если окажетесь в окружении крысоволков, бросьте вспышку, чтобы их отпугнуть. Но они вернутся, так что постарайтесь не задерживаться.<end>
+
+=>a43_original
+Thanks, I'll keep that in mind.<end>
+
+=>a43
+Спасибо. Буду иметь это в виду.<end>
+
+=>q44_original
+You're good to go.<end>
+
+=>q44
+Можете идти.<end>
+
+=>a45_original
+Everyone knows that.<end>
+
+=>a45
+Это всем известно.<end>
+
+=>q46_original
+Just trying to help you out. <end>
+
+=>q46
+Просто пытаюсь вам помочь.<end>
+
+=>a47_original
+I want to stomp them out, not scare them away.<end>
+
+=>a47
+Я хочу растоптать их, а не просто отпугнуть.<end>
+
+=>q48_original
+Well then... try not to lose a foot. <end>
+
+=>q48
+Ну тогда... постарайся не потерять ногу.<end>
+
+=>a49_original
+Not right now.<end>
+
+=>a49
+Пока.<end>
+
+=>q50_original
+$(context.player.Name), where have you been all this time? Vera's been looking for you. You should go to her office as soon as possible.<end>
+
+=>q50
+$(context.player.Name), где вы были всё это время? Вера искала вас. Зайдите к ней в кабинет как можно скорее.<end>
+
+=>a51_original
+What for?<end>
+
+=>a51
+Зачем?<end>
+
+=>q52_original
+Don't know, but something's going on, $(context.player.Name). I've never seen her like this. 
+
+Just go to her.<end>
+
+=>q52
+Не знаю, но что-то происходит, $(context.player.Name). Я никогда не видел её такой. 
+
+Просто идите к ней.<end>
+
+=>a53_original
+I will. See you later.<end>
+
+=>a53
+Ладно. Увидимся позже.<end>
+
+=>q54_original
+You aren't planning on disappearing like Tanner did, right? ::He chuckles.:: Ignore that.<end>
+
+=>q54
+Вы не планируете исчезнуть, как это сделал Таннер, верно? ::Он хихикает.:: Не обращайте внимания.<end>
+
+=>q55_original
+You be careful out there. No one's safe from now 'cause of the Faceless.<end>
+
+=>q55
+Осторожней там. Никто уже не чувствует себя в безопасности из-за безликих.<end>
+
+=>q56_original
+You know, I saw that dead scavenger as <end>
+
+=>q56
+Представляешь, я видел этого мертвеца, когда<end>
+
+=>q57_original
+he <end>
+
+=>q57
+его<end>
+
+=>q58_original
+was being carried to medical. ::He shakes his head.::<end>
+
+=>q58
+везли к медикам. ::Он качает головой.::<end>
+
+=>a59_original
+I've seen the body myself. What do you know about it?<end>
+
+=>a59
+Я сам$(#/а) видел$(#/а) тело. Тебе что-то известно об этом?<end>
+
+=>q60_original
+Well, one of the guards found this dying $(context.frag_dun_wasteWater_corpseGender) in Mushroom Cove just as I was starting my shift some hours ago. <end>
+
+=>q60
+Ну, один из охранников обнаружил $(tempContext.wasteWaterPronoun) в Грибной бухте, почти при смерти, как раз, когда я заступал на смену, несколько часов назад.<end>
+
+=>a61_original
+I heard about that. What happened?<end>
+
+=>a61
+Я слышал$(#/а) об этом. А что произошло?<end>
+
+=>a62_original
+Tell me more.<end>
+
+=>a62
+Расскажи мне подробнее.<end>
+
+=>a63_original
+I'd rather not discuss that.<end>
+
+=>a63
+Мне бы не хотелось это обсуждать.<end>
+
+=>q64_original
+Fair enough. <end>
+
+=>q64
+Вполне справедливо.<end>
+
+=>q65_original
+Going somewhere?<end>
+
+=>q65
+Куда-то собираетесь?<end>
+
+=>a66_original
+Don't know, don't wanna know.<end>
+
+=>a66
+Не знаю и знать не хочу.<end>
+
+=>q67_original
+she <end>
+
+=>q67
+её<end>
+

@@ -1,0 +1,42 @@
+﻿=>q1_original
+::Where would you like to go?::<end>
+
+=>q1
+::Куда бы вы хотели отправиться?::<end>
+
+=>a2_original
+::Level 1 - Offices::<end>
+
+=>a2
+::Уровень 1 - Офисы::<end>
+
+=>a3_original
+::Level 2 - Storage::<end>
+
+=>a3
+::Уровень 2 - Склад::<end>
+
+=>a4_original
+::Level 3 - Commons::<end>
+
+=>a4
+::Уровень 3 - Общие помещения::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+::#ERROR: Level 3 outer elevator door unresponsive. Please take the stairs until the maintenance crew resolves the issue.::<end>
+
+=>q6
+::#ОШИБКА: Двери шахты лифта на уровне 3 не отвечают. Пожалуйста, воспользуйтесь лестницей, пока ремонтная бригада устраняет проблему.::<end>
+
+=>a7_original
+::Nowhere::<end>
+
+=>a7
+::Никуда::<end>
+

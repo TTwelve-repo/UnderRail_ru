@@ -1,0 +1,168 @@
+﻿=>q1_original
+You! Hold it! Let me take a look at you...<end>
+
+=>q1
+Эй! Остановитесь! Позвольте-ка мне взглянуть на вас...<end>
+
+=>q2_original
+Enforcer. Wasn't notified we had patrols in the under-passages. Could've shot you in this darkness.<end>
+
+=>q2
+Боец. Никто не говорил, что у нас есть патрули в подземных переходах. Я мог бы застрелить тебя в этой темноте.<end>
+
+=>a3_original
+It's Senior Enforcer $(context.player.Name).<end>
+
+=>a3
+Старший боец $(context.player.Name).<end>
+
+=>q4_original
+Ah, yes, $(#sir/ma'am). ::He salutes you.:: I thought I recognized you but wasn't exactly sure. <end>
+
+=>q4
+Ах да, $(#сэр/мэм). ::Он козыряет.:: Простите, что я сразу вас не узнал.<end>
+
+=>q5_original
+Anyway, we're worried about Lurkers so we have to be careful with any poor soul that comes to Core City through these passages. You're free to pass, of course.<end>
+
+=>q5
+Тем не менее, нас беспокоят Скрытни, так что приходится проверять всякого, кто приходит в Кор-Сити через эти туннели. Вы, конечно же, можете проходить.<end>
+
+=>a6_original
+Who are these Lurkers you're talking about?<end>
+
+=>a6
+Кто такие скрытни?<end>
+
+=>q7_original
+You want to tell me you traveled through the under-passages and you don't know about Lurkers!? You're pretty damn lucky you didn't find out the hard way. They are a large, extremely brutal gang that lives in these passages.<end>
+
+=>q7
+Хотите сказать, что вы прошли через эти туннели и не знаете про скрытней?! Вам крупно повезло, что не узнали. Это большая и очень жестокая банда, которая живёт в этих проходах.<end>
+
+=>q8_original
+They capture people, mutilate them... all sorts of horrible stuff. Supposedly they even *eat* their prisoners. Just... sick... Avoid them at all costs if you value the flesh on your bones.<end>
+
+=>q8
+Они ловят людей, пытают... всякая жесть. Говорят, они даже *едят* пленников. Просто... уроды... Избегайте их любой ценой, если жизнь дорога.<end>
+
+=>a9_original
+Thanks for the warning. I'll get going now.<end>
+
+=>a9
+Спасибо за предупреждение. Я, пожалуй, пойду.<end>
+
+=>a10_original
+Thank you very much. Goodbye.<end>
+
+=>a10
+Спасибо большое. До свидания.<end>
+
+=>a11_original
+I'm off duty, actually, so I'm exploring them in my own free time.<end>
+
+=>a11
+Вообще-то я не на дежурстве, поэтому изучаю их в свободное время.<end>
+
+=>q12_original
+I... see. <end>
+
+=>q12
+Я... ясно.<end>
+
+=>a13_original
+Tell me about it. I didn't know there was a checkpoint here!<end>
+
+=>a13
+Расскажите мне об этом. Я не в курсе, что здесь есть застава!<end>
+
+=>q14_original
+::He chuckles and shakes his head.:: It's always the same story. And then they wonder why we got so much friendly fire.<end>
+
+=>q14
+::Он смеётся и качает головой.:: Каждый раз одна и та же история. А потом все удивляются, почему у нас так часто стреляют по своим.<end>
+
+=>q15_original
+You look kinda familiar... Didn't I see you somewhere before?<end>
+
+=>q15
+Где-то я вас видел... мы случайно не встречались где-нибудь раньше?<end>
+
+=>a16_original
+I am Senior Enforcer $(context.player.Name) of Praetorian Security.<end>
+
+=>a16
+Я старший боец $(context.player.Name) Преторианской службы безопасности.<end>
+
+=>a17_original
+I am Enforcer $(context.player.Name) of Praetorian Security.<end>
+
+=>a17
+Я боец $(context.player.Name) Преторианской службы безопасности.<end>
+
+=>q18_original
+Yes, yes... I've seen you back in the headquarters before, that's right. <end>
+
+=>q18
+Да, да... Точно, я видел вас раньше в штабе.<end>
+
+=>a19_original
+I don't think so.<end>
+
+=>a19
+Я так не думаю.<end>
+
+=>q20_original
+Hmmm... Okay, you're good to go. We're worried about Lurkers so we have to be careful with any poor soul that comes to Core City through the passages. Welcome to Core City, and have a nice stay.<end>
+
+=>q20
+Хм-м... ладно, вы в порядке. Нас беспокоят скрытни, так что приходится проверять всякого, кто приходит в Кор-Сити через эти туннели. Добро пожаловать в Кор-Сити и приятного отдыха.<end>
+
+=>q21_original
+All clear. You're good to go. We're worried about Lurkers so we have to be careful with any poor soul that comes to Core City through these passages. Welcome to Core City, and have a nice stay.<end>
+
+=>q21
+Всё в порядке. Можете проходить. Нас беспокоят скрытни, так что приходится проверять всякого, кто приходит в Кор-Сити через эти туннели. Добро пожаловать в Кор-Сити и приятного отдыха.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>q23_original
+I think I need a vacation.<end>
+
+=>q23
+Мне надо в отпуск.<end>
+
+=>q24_original
+There's a motioner in that room over there. We often hear him talking to himself, something about doors...<end>
+
+=>q24
+В той комнате сидит подвижник. Отсюда слышно, как он разговаривает сам с собой -- что-то про двери...<end>
+
+=>q25_original
+The under-passages are extremely dangerous. Avoid at all costs.<end>
+
+=>q25
+В этих проходах крайне опасно. Избегайте их любой ценой.<end>
+
+=>q26_original
+Order through strength.<end>
+
+=>q26
+Порядок через силу.<end>
+
+=>q27_original
+::Sighs.::<end>
+
+=>q27
+::Вздыхает.::<end>
+
+=>q28_original
+Bloody Lurkers...<end>
+
+=>q28
+Проклятые скрытни...<end>
+

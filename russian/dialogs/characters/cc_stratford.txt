@@ -1,0 +1,1225 @@
+﻿=>q1_original
+Why are you still here, civilian?<end>
+
+=>q1
+Почему вы всё ещё здесь, гражданский?<end>
+
+=>q2_original
+Excuse me, civilian, but I had been informed that you are working for a different faction at the moment. Therefore, I must inform you that recruitment is impossible for you due to security risks involved. That would be all.<end>
+
+=>q2
+Извините, гражданский, но мне доложили, что вы сейчас работаете на другую организацию. Поэтому я должен сообщить, что мы не можем вас принять из-за угрозы безопасности. Это всё.<end>
+
+=>a3_original
+I was so looking forward to working for Praetorian Security, but now I see it is impossible. So long.<end>
+
+=>a3
+Я с таким нетерпением ждал$(#/а) возможности работы в Преторианской службе безопасности, но теперь вижу, что это невозможно.<end>
+
+=>a4_original
+Your loss. Goodbye.<end>
+
+=>a4
+Дело ваше. До свидания.<end>
+
+=>a5_original
+Security risks? Whatever, man, I'm out of here.<end>
+
+=>a5
+Угрозы безопасности? Как скажете, я ухожу.<end>
+
+=>q6_original
+Enforcer, Chief Knight requested to see you. You are to go meet him in his office without delay. Understood?<end>
+
+=>q6
+Боец, шеф Найт хотел вас видеть. Вы должны немедленно зайти в его кабинет. Понятно?<end>
+
+=>a7_original
+Yes, sir.<end>
+
+=>a7
+Да, сэр.<end>
+
+=>q8_original
+Splendid. Dismissed.<end>
+
+=>q8
+Великолепно. Вы свободны.<end>
+
+=>a9_original
+Understood.<end>
+
+=>a9
+Понятно.<end>
+
+=>q10_original
+::You come up to a tall man whose armor exhibits markings indicative of some higher rank. He seems to be wearing his superb and neatly trimmed mustache with great pride, and his numerous scars, sprinkled all over his aging face, serve as a much more powerful decoration than any medal ever could, you feel. Wasting no time, he moves his angular jaw to address you with a - not surprisingly - authoritative tone of voice.::
+
+Recruit. I am Lieutenant Nigel Stratford. I have been told that you are interested in joining Praetorian Security. Is that correct?<end>
+
+=>q10
+::Вы подходите к высокому мужчине, чья броня отмечена знаком высокого ранга. Он с гордостью носит свои превосходные и аккуратно подстриженные седеющие усы, как и тонкие шрамы, коими усыпано всё его лицо. Он двигает квадратной челюстью и говорит -- что не удивительно -- весьма повелительным тоном.::
+
+Новобранец. Я лейтенант Найджел Стратфорд. Мне доложили, что вы желаете вступить в ряды Преторианской службы безопасности. Это так?<end>
+
+=>a11_original
+That is correct.<end>
+
+=>a11
+Верно.<end>
+
+=>q12_original
+Splendid. ::He puts his hands behind his back and resumes.:: As you may know, Core City has been invaded by dangerous foes known as the Faceless. While their attempts at taking over the city have been successfully repelled so far, the threat is still present. On the other side, as you may also know, mobs, gangs - criminal scum of all shapes and sizes infest Core City from within. Is that correct?<end>
+
+=>q12
+Великолепно. ::Он кладёт руки за спину и продолжает.:: Как вы знаете, Кор-Сити в настоящее время находится под угрозой нашествия опасного врага, известного как безликие. Хотя их попытки завладеть городом до сих пор успешно отбивались, угроза по-прежнему присутствует. Кроме того, как вы, должно быть, знаете: шайки, банды, преступные подонки всех форм и размеров засоряют город изнутри. Вы согласны?<end>
+
+=>a13_original
+That is correct.<end>
+
+=>a13
+Верно.<end>
+
+=>q14_original
+If you want to join Praetorian Security, you must be willing to put your life on the line for every man, woman and child residing in Core City, facing all of the aforementioned - and then some. Becoming an enforcer means dealing with constant danger, means continual self-improvement, and, ultimately, means protecting those who need protection the most.
+
+Are you willing to do that?<end>
+
+=>q14
+Если вы хотите вступить в ряды Преторианской службы безопасности, вы должны быть готовы рисковать своей жизнью ради каждого мужчины, женщины и ребёнка, которые проживают в Кор-Сити, столкнуться с вышеозначенными угрозами, и не только. Стать нашим бойцом -- значит постоянно быть в опасности, совершенствовать свои навыки для того, чтобы быть способным справиться с любой ситуацией, и, в конечном счёте, чтобы защитить тех, кто нуждается в защите больше всего.
+
+Готовы ли вы к этому?<end>
+
+=>a15_original
+I am. <end>
+
+=>a15
+Готов$(#/а).<end>
+
+=>q16_original
+Splendid! That is music to my ears. Before you are officially accepted, you must know several things...<end>
+
+=>q16
+Великолепно! Рад слышать. Прежде чем вы официально приступите, запомните несколько вещей...<end>
+
+=>q17_original
+First, once you officially become a part of Praetorian Security, Praetorian security becomes a part of you. Your colleagues become your brothers and sisters. There is no gender, race or faith differences here, for you all share the same goals.<end>
+
+=>q17
+Во-первых, после того, как вы официально становитесь частью Преторианской службы безопасности, Преторианская служба безопасности становится частью вас. Ваши коллеги становятся вашими братьями и сёстрами. Ни пол, ни раса, ни вера не имеют значения -- все здесь служат одним и тем же целям.<end>
+
+=>q18_original
+Second, there is no room here for those who lack courage, commitment or integrity. Courage - to allow you to overcome all the challenges you will be facing; commitment - to maintain your sense of duty and ensure that you are fulfilling your obligations unquestionably and relentlessly; and integrity - to make sure your actions are always honest and honorable.<end>
+
+=>q18
+Во-вторых, здесь нет места тем, кому не хватает мужества, воли или честности. Мужество позволит вам преодолеть все трудности, с которыми вы столкнётесь, воля -- выполнять свой долг и обязательства с решимостью и честью, и честность -- чтобы ваши поступки были чисты и моральны.<end>
+
+=>q19_original
+You look like you are bored, Enforcer! I do talk a lot; is that what you are thinking? Am I BORING to you?<end>
+
+=>q19
+Похоже, что вам скучно, боец! Я говорю слишком много, по-вашему? Я вам НАДОЕЛ?<end>
+
+=>a20_original
+No, sir.<end>
+
+=>a20
+Нет, сэр.<end>
+
+=>q21_original
+Splendid! One more thing remains...<end>
+
+=>q21
+Великолепно! Остаётся ещё одно...<end>
+
+=>q22_original
+Third, if you do anything to dishonor this institution, or break one or several aforementioned rules in any way - consequences will be severe. But that will not happen, right? Am I right?<end>
+
+=>q22
+В-третьих, если вы сделаете что-нибудь, что опозорит эту организацию, или нарушите одно или несколько вышеуказанных правил, последствия будут тяжёлыми. Но этого не произойдёт, не так ли? Я прав?<end>
+
+=>a23_original
+Yes, sir, you are.<end>
+
+=>a23
+Да, сэр.<end>
+
+=>q24_original
+Splendid. Congratulations, and welcome to Praetorian Security. Our official motto is: "Order through strength." You must remember it.<end>
+
+=>q24
+Великолепно. Поздравляю вас, и добро пожаловать в ряды Преторианской службы безопасности. Наш официальный девиз: «Порядок через силу». Вам нужно его запомнить.<end>
+
+=>q25_original
+Now - your uniform. <end>
+
+=>q25
+А сейчас о вашей униформе.<end>
+
+=>q26_original
+You have a choice between the Peacekeeper and the Chestguard. The Peacekeeper is a heavy full-body steel armor suit that comes either with a cape or a scapular; the Chestguard is its lighter version, a tactical cuirass, and is intended to facilitate movement while still providing full riot control capability.<end>
+
+=>q26
+Вы можете выбрать между Миротворцем и Нагрудником. Миротворец это массивная стальная броня, которая поставляется с плащом или нарамником. Нагрудник - это его более лёгкая версия, тактическая кираса, облегчающая передвижение во время борьбы с беспорядками.<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>a28_original
+What's a scapular, sir?<end>
+
+=>a28
+Что ещё за нарамник, сэр?<end>
+
+=>q29_original
+::He points to the decorated green garment hanging over his armor.::
+
+This is a scapular. No functional difference between it and the cape. It is a purely aesthetic choice.<end>
+
+=>q29
+::Он указывает на разукрашенное зелёное одеяние, покрывающее его броню.:: 
+
+Это нарамник. Никакой функциональной разницы между ним и плащом нет. Это чисто эстетический выбор.<end>
+
+=>a30_original
+I'll take the Peacekeeper with scapular, sir.<end>
+
+=>a30
+Я возьму Миротворец с нарамником, сэр.<end>
+
+=>q31_original
+::He motions one of the enforcers, and in less then a minute the said returns with your new suit of armor and a metal helmet. The lieutenant points to the helmet as it's being handed to you.::
+
+That's the Lawgiver. It comes with a respiratory unit and an integrated megaphone. *Don't* even think about using it in the headquarters.<end>
+
+=>q31
+::Он делает знак одному из охранников, и тот меньше, чем за минуту возвращается с вашим новым доспехом и металлическим шлемом. Лейтенант указывает на шлем, когда передаёт его вам.::
+
+Это Законодатель. Он оснащён респиратором и встроенным мегафоном. *Даже не вздумай* использовать его в штаб-квартире.<end>
+
+=>a32_original
+Understood, sir. Thank you, sir.<end>
+
+=>a32
+Понятно, сэр. Спасибо, сэр.<end>
+
+=>q33_original
+Splendid.<end>
+
+=>q33
+Отлично.<end>
+
+=>q34_original
+<end>
+
+=>q34
+<end>
+
+=>a35_original
+I'd like to see what you have in the armory. ::Barter.::<end>
+
+=>a35
+Я хотел$(#/а) бы взглянуть, какое оружие вы продаёте. ::Обмен.::<end>
+
+=>a36_original
+For some reason I still haven't gotten my uniform.<end>
+
+=>a36
+По какой-то причине мне до сих пор не выдали форму.<end>
+
+=>q37_original
+What? That is outrageous! And you've realized this only now? ::He shakes his head.::<end>
+
+=>q37
+Что? Это возмутительно! И вы поняли это только сейчас? ::Он качает головой.::<end>
+
+=>a38_original
+::[Mercantile]:: Sir, I am looking to acquire high-grade equipment, better than what is usually available to regular enforcers.<end>
+
+=>a38
+::[Торговля]:: Сэр, мне нужно высококачественное снаряжение, лучше того, что обычно доступно для бойцов.<end>
+
+=>q39_original
+I received no word on this from the chief. Why do you think you should have better equipment than everyone else?<end>
+
+=>q39
+Я не получал никаких распоряжений от шефа по этому поводу. Почему вы считаете, что вам полагается лучшее снаряжение, чем всем остальным?<end>
+
+=>a40_original
+I can pay for it.<end>
+
+=>a40
+Я могу за него заплатить.<end>
+
+=>q41_original
+<end>
+
+=>q41
+<end>
+
+=>q42_original
+::He smiles.:: I like your straightforwardness. You did not try to maneuver me like almost all of those who dare come here with such a request; the things, the excuses - the elaboration I have heard over the years... <end>
+
+=>q42
+::Он улыбается.:: Мне нравится ваша прямота. Вы не пытаетесь юлить передо мной, как это делают почти все, кто посмел бы прийти сюда с такой просьбой; каких только изобретательных отговорок, оправданий я не слышал за эти долгие годы...<end>
+
+=>q43_original
+Even though I haven't been granted permission explicitly, I do not think that the chief would mind if I elevate your armory access level.<end>
+
+=>q43
+Хотя я и не получал прямого распоряжения, не думаю, что шеф станет возражать, если я повышу ваш уровень допуска к оружейной.<end>
+
+=>a44_original
+Thank you, sir. Can I see the equipment now? ::Barter.::<end>
+
+=>a44
+Благодарю вас, сэр. Могу я взгляну на снаряжение прямо сейчас? ::Обмен.::<end>
+
+=>q45_original
+I am sorry, but your armory access level will stay unchanged for now. It is my opinion that what is already available to you is more than enough to meet the demands of your current duties.
+
+Anything else?<end>
+
+=>q45
+Извините, но ваш уровень доступа к арсеналу останется неизменным. По моему мнению, уже имеющегося более чем достаточно для выполнения ваших текущих обязанностей.
+
+Что-нибудь ещё?<end>
+
+=>a46_original
+Chief Knight told me to see you about the armory.<end>
+
+=>a46
+Шеф Найт сказал мне зайти к вам насчёт оружейной.<end>
+
+=>q47_original
+That is correct. You are allowed to purchase weapons, ammo and other equipment from the Praetorian Security armory.<end>
+
+=>q47
+Всё верно. Вам разрешается приобретать оружие, боеприпасы и другое оборудование из оружейной Преторианской службы безопасности.<end>
+
+=>a48_original
+Great, I'll see what you have some other time.<end>
+
+=>a48
+Отлично, я посмотрю, что у вас есть как-нибудь в другой раз.<end>
+
+=>q49_original
+Right. Anything else?<end>
+
+=>q49
+Ладно. Что-нибудь ещё?<end>
+
+=>a50_original
+Chief Knight told me to talk to you about something but didn't specify what it was.<end>
+
+=>a50
+Шеф Найт сказал мне поговорить с вами о чём-то, но не уточнил, о чём именно.<end>
+
+=>q51_original
+That is correct. As of now, you can consider yourself the owner of a house in Core City's prestigious residential district. Chief Knight was impressed by your splendid performance, and has decided that this would be an adequate reward.<end>
+
+=>q51
+Всё верно. По состоянию на сейчас, вы можете считать себя владельцем дома в Кор-Сити, в престижном жилом районе. Шеф Найт был поражён вашей великолепной работой и решил, что вы заслужили соответствующую награду.<end>
+
+=>q52_original
+What you need to do now is go to the residential district - the easternmost section of this level - where a Core City Housing Corporation representative will be waiting for you. It is a more-than-adequately sized building in the northern part of the residential area and is difficult to miss.<end>
+
+=>q52
+Что вам остаётся сделать -- это пойти в жилой район -- самую восточную часть этого уровня -- там вас будет ждать представитель жилищной компании. Это огромное здание в северной части жилой зоны, его трудно не заметить.<end>
+
+=>a53_original
+I'll be sure to say my thanks to Chief Knight the next time I see him. Still, I wanted to ask you something else before I leave.<end>
+
+=>a53
+Я обязательно поблагодарю шефа Найта в следующий раз, когда увижу его. Но я хочу спросить кое-что ещё, прежде чем пойду.<end>
+
+=>q54_original
+Yes?<end>
+
+=>q54
+Да?<end>
+
+=>a55_original
+I'll be on my way then. Sir. ::Salute and leave.::<end>
+
+=>a55
+Тогда я пойду. Сэр. ::Козырнуть и уйти.::<end>
+
+=>a56_original
+I need some information on a former Praetorian Security officer. His name is Patrick Pierce.<end>
+
+=>a56
+Мне нужна информация о бывшем сотруднике ПСБ. Его зовут Патрик Пирс.<end>
+
+=>q57_original
+Patrick Pierce. Understood. I will send someone to bring me his file.<end>
+
+=>q57
+Патрик Пирс. Ясно. Я пошлю кого-нибудь принести его досье.<end>
+
+=>q58_original
+::Stratford sends one of the guards to get the file. After only a few minutes, the guard returns with a folder that contains the document about Patrick Pierce, just as you asked.::<end>
+
+=>q58
+::Стратфорд отсылает одного из охранников, чтобы принести папку. Через несколько минут, охранник возвращается с папкой, содержащей досье Патрика Пирса, как вы и просили.::<end>
+
+=>q59_original
+Here you go. You are only allowed to view this document. Copying it or taking it out of the headquarters is strictly forbidden.<end>
+
+=>q59
+Возьмите. Вам разрешено только просматривать данный документ. Копировать его или выносить с территории штаба строго запрещено.<end>
+
+=>q60_original
+::You begin reading about Patrick Pierce. He joined Praetorian Security fifteen years ago and left a year after due to severe back injuries caused by a rioter hitting him with a sledgehammer during street riots. It says in the documents that he was promoted for his heroic actions during Operation Banishment. Other than that, the document contains no interesting information.::<end>
+
+=>q60
+::Вы начинаете читать о Патрике Пирсе. Он вступил в Преторианскую службу безопасности пятнадцать лет назад и оставил службу через год из-за тяжёлой травмы спины, вызванной ударом кувалдой во время уличных беспорядков. В досье написано, что он был повышен за героические действия в ходе операции «Изгнание». Помимо этого, в досье не содержится интересной информации.::<end>
+
+=>a61_original
+What is Operation Banishment?<end>
+
+=>a61
+А что за операция Изгнание?<end>
+
+=>q62_original
+Operation Banishment... Ah, I rememer it well. One of Praetorian Security's proudest moments. The goal was to deal with the remaining Spectres, Biocorp's elite unit of deadly assassins. They went rogue after Biocorp's demise, and were too dangerous to be left unchecked.<end>
+
+=>q62
+Операция Изгнание... Ах, я хорошо её помню. Одна из лучших страниц в истории Преторианской службы безопасности. Её цель была -- разобраться с оставшимися Призраками, элитным подразделением наёмных убийц Биокорп. Они вышли из-под контроля после развала Биокорп, и было бы слишком опасно позволить им продолжить существование.<end>
+
+=>q63_original
+This operation ended with a swift termination of all Spectre members.<end>
+
+=>q63
+Эта операция закончилась быстрой ликвидацией всех членов Призраков.<end>
+
+=>a64_original
+Where can I learn more about these Spectres?<end>
+
+=>a64
+Где я могу узнать побольше об этих Призраках?<end>
+
+=>q65_original
+We have information on Spectres if you need it.<end>
+
+=>q65
+У нас есть информация о Призраках, если вам это нужно.<end>
+
+=>a66_original
+I'd like to know more about the Spectres.<end>
+
+=>a66
+Я бы хотел$(#/а) узнать побольше о Призраках.<end>
+
+=>q67_original
+Why do you need all of this, by the way?<end>
+
+=>q67
+Зачем вам это всё, кстати?<end>
+
+=>a68_original
+Direct orders from Chief Knight.<end>
+
+=>a68
+Прямой приказ шефа Найта.<end>
+
+=>q69_original
+Then you shall receive all the necessary information at once. I will send someone to bring you the files.<end>
+
+=>q69
+В таком случае, вы можете получить всю необходимую информацию незамедлительно. Я пошлю кого-нибудь принести вам документы.<end>
+
+=>q70_original
+::Again, after a few minutes, you receive a folder. You take out the document and begin reading it.::<end>
+
+=>q70
+::Через несколько минут вы получаете папку. Вы берёте документ и читаете.::<end>
+
+=>q71_original
+::This file contains all known information on Biocorp's special operations force - Spectre
+Full name: Spectre
+Part of: Biocorp Security
+Insignia: See picture below
+
+Known members list:
+
+- James C. Barlington
+- Rudolph Breinger
+- Timmy Joe Burner
+- Michael Mordington
+- Stephen Luck
+- Harkira Matamo
+- Alyssa Bane::<end>
+
+=>q71
+::Данный документ содержит все известные сведения об отряде специального назначения Биокорп - Призрак
+Полное название: Призрак
+Подразделение: Охрана Биокорп
+Знаки отличия: см. изображение ниже
+
+Известные члены:
+
+- Джеймс К. Барлингтон
+- Рудольф Брейнгер
+- Тимми Джо Бёрнер
+- Майкл Мордингтон
+- Стивен Лак
+- Харкира Матамото
+- Алисса Бэйн::<end>
+
+=>q72_original
+::- Johan Hagenstrom
+- Gunther Gunther
+
+Known information:
+
+-The Spectres were Biocorp's most elite unit, composed of a small number of highly trained operatives, and usually tasked with performing dangerous missions. They were most often sent to perform assassination missions.
+
+- Before the takeover of Biocorp, they were a part of approx. 245 operations, 156 of those were assassinations. They were (in)famous for executing their victims by stabbing them through a nostril and into the brain, leaving very little and sometimes undetectable traces of how the target was killed.
+
+- All known Spectres were killed during Operation Banishment, launched by Praetorian Security. While several bodies were never recovered, no Spectre activity was detected after the operation.::<end>
+
+=>q72
+::- Йохан Хагенстром
+- Гюнтер Гюнтер
+
+Известная информация:
+
+- Призраки были самым элитным подразделением Биокорп, состоящим из небольшого числа высококвалифицированных оперативников, которому обычно поручали выполнение опасных заданий. Чаще всего это были заказные убийства.
+
+- До захвата Биокорп, они приняли участие приблизительно в 245 операциях, 156 из них были убийства. Они были (печально) известны методом устранения своих жертв -- уколом через ноздрю в мозг, что оставляло очень мало заметных следов того, как цель была убита.
+
+- Все известные Призраки были убиты во время Операции Изгнание, проведённой Преторианской службой безопасности. Хотя некоторые тела так и не были найдены, после операции не обнаружено никакой активности Призраков.::<end>
+
+=>q73_original
+::The last page contains the picture of the Spectre insignia, which matches the one you took from Mordre.::<end>
+
+=>q73
+::На последней странице есть изображение эмблемы Призраков, аналогичное тому, что вы взяли у Мордре.::<end>
+
+=>a74_original
+::Return the folder to Stratford.:: Thank you.<end>
+
+=>a74
+::Вернуть папку Стратфорду.:: Спасибо.<end>
+
+=>q75_original
+I have already explained to you that you can not take any of these documents out of the headquarters, but if you need to see them again, come and see me. Understood?<end>
+
+=>q75
+Я уже объяснял, что вы не можете выносить эти документы из штаба, но, если вам нужно их увидеть снова, приходите ко мне. Понятно?<end>
+
+=>q76_original
+::The last page contains the picture of the Spectre insignia, which matches the one you took from Mordre.::<end>
+
+=>q76
+::На последней странице есть изображение эмблемы Призраков, аналогичное тому, что вы взяли у Мордре.::<end>
+
+=>q77_original
+::The last page contains a picture of the Spectre insignia.::<end>
+
+=>q77
+::На последней странице есть изображение эмблемы Призраков.::<end>
+
+=>a78_original
+That I may not reveal.<end>
+
+=>a78
+Этого я не могу раскрыть.<end>
+
+=>q79_original
+And why not?<end>
+
+=>q79
+И почему бы нет?<end>
+
+=>a80_original
+This is all I need. Thank you. ::Return the folder.::<end>
+
+=>a80
+Это всё, что мне нужно. Спасибо. ::Вернуть папку.::<end>
+
+=>q81_original
+::He takes the folder and nods.<end>
+
+=>q81
+::Он берёт папку и кивает.<end>
+
+=>a82_original
+This is all I need. Thank you. ::Walk away with the folder.::<end>
+
+=>a82
+Это всё, что мне нужно. Спасибо. ::Уйти с папкой.::<end>
+
+=>q83_original
+Ahem! The folder...<end>
+
+=>q83
+Кхм! Папка...<end>
+
+=>a84_original
+::Give him the folder.::<end>
+
+=>a84
+::Дать ему папку.::<end>
+
+=>q85_original
+I cannot share any such information with you, Enforcer. It is well above your paygrade.<end>
+
+=>q85
+Я не могу разглашать такую информацию, боец. Её секретность значительно выше вашего ранга.<end>
+
+=>q86_original
+So, unless a superior officer allows you to have access to these files, the answer will always be no. Understood?<end>
+
+=>q86
+Так что, пока вышестоящий офицер не предоставит вам допуск к этим документам, ответ будет нет. Понятно?<end>
+
+=>a87_original
+I'd like to view the file on the Spectres again.<end>
+
+=>a87
+Я бы хотел$(#/а) ещё раз посмотреть досье на Призраков.<end>
+
+=>a88_original
+The warehouse has been cleared.<end>
+
+=>a88
+Склад зачищен.<end>
+
+=>q89_original
+Splendid! Simply splendid! We have managed to completely eradicate the remainder of the mercenary group, making the operation a complete success. Tell me, did you manage to uncover anything of interest?<end>
+
+=>q89
+Великолепно! Просто великолепно! Мы сумели полностью уничтожить остатки группы наёмников, что означает полный успех. Скажите, удалось ли вам обнаружить что-нибудь интересное?<end>
+
+=>a90_original
+I found a destroyed security console in a room right below the warehouse.<end>
+
+=>a90
+Я наш$(#ёл/ла) разрушенный пульт охраны в комнате прямо под складом.<end>
+
+=>q91_original
+So, it appears that the security system had been sabotaged before the assault took place. That is a useful information. Splendid work so far, Enforcer.<end>
+
+=>q91
+Значит, система безопасности перед штурмом выведена из строя. Это полезная информация. Великолепная работа, боец.<end>
+
+=>q92_original
+Congratulations, I am proud to say that I am very pleased with your results. You have already outperformed most of our recruits more than I would have imagined; you would not believe how feeble most of them are. But enough chatting, take this. ::He hands you 500 charons and a suit of metal armor.::<end>
+
+=>q92
+Поздравляю, могу с гордостью сказать, что я очень доволен вашими результатами. Вы уже опередили большинство наших новобранцев; вы не поверите, насколько слабы многие из них. Но хватит болтать, возьмите это. ::Он выдаёт вам 500 харонов и металлическую броню.::<end>
+
+=>q93_original
+That is all I have for you at the moment. You will be informed when the time comes. Dismissed.<end>
+
+=>q93
+Это всё на данный момент. Вам сообщат, когда придёт время. Вы свободны.<end>
+
+=>q94_original
+There is one more thing, Enforcer: Chief Knight has requested to see you. You are to meet him in his office without delay. Understood?<end>
+
+=>q94
+Ещё кое-что, боец: шеф Найт просил вас зайти. Вы должны немедленно зайти в его кабинет. Понятно?<end>
+
+=>a95_original
+Nothing, just a lot of dead bodies.<end>
+
+=>a95
+Ничего, только куча трупов.<end>
+
+=>q96_original
+I was hoping you would learn some useful information, but no matter, you did what you could. We will investigate who was behind all this, but, truth be told, dealing with the Faceless is our top priority at the moment!<end>
+
+=>q96
+Я надеялся, что вы добудете полезную информацию, но неважно, вы сделали всё, что могли. Мы разберёмся, кто за всем этим стоит, но, сказать по правде, разобраться с безликими -- наша первоочередная задача на данный момент!<end>
+
+=>a97_original
+I'm ready for the next assignment.<end>
+
+=>a97
+Я готов$(#/а) к выполнению следующего задания.<end>
+
+=>q98_original
+Splendid. While you were down there fixing that generator, some interesting things have happened. A secluded warehouse here in Core City was attacked by a group of mercenaries. Now, those are not De Pacino's men, we can be certain of that; our intel suggests the group is no longer active after his death.<end>
+
+=>q98
+Великолепно. Пока вы чинили генератор, произошли некоторые интересные события. На уединённый склад здесь в Кор-Сити напала группа наёмников. Это были не люди де Пачино, мы можем быть в этом уверены; наша разведка предполагает, что та группа больше не активна после его смерти.<end>
+
+=>q99_original
+Your assignment is simple: We want that warehouse secured and order restored.<end>
+
+=>q99
+Ваша задача проста: удерживать этот склад и восстановить порядок.<end>
+
+=>a100_original
+Will I have any support?<end>
+
+=>a100
+Будет ли у меня поддержка?<end>
+
+=>q101_original
+I'm afraid not. Most of the mercenaries have already left the warehouse, with only a few remaining. We will assemble a larger force to deal with the retreating mercenaries, while you alone clear the warehouse.<end>
+
+=>q101
+Боюсь, что нет. Большинство наёмников уже покинули склад, и лишь немногие остались. Мы соберём большой отряд, чтобы справиться с отступающими наёмниками, в то время как вы в одиночку зачистите склад.<end>
+
+=>q102_original
+So, in short: Secure the warehouse and see if you can learn anything useful that might reveal who was behind the attack. The warehouse is located just west of the main city entrance. Did you understand everything?<end>
+
+=>q102
+Итак, вкратце: зачистите склад и осмотритесь, может быть, узнаете что-нибудь полезное, что поможет выявить, кто стоит за нападением. Склад расположен к западу от главного входа в город. Вам всё понятно?<end>
+
+=>a103_original
+Yes, sir.<end>
+
+=>a103
+Да, сэр.<end>
+
+=>q104_original
+Good luck then. Dismissed.<end>
+
+=>q104
+В таком случае, удачи вам. Вы свободны.<end>
+
+=>a105_original
+I repaired the generator.<end>
+
+=>a105
+Генератор отремонтирован.<end>
+
+=>q106_original
+Splendid! Faceless?<end>
+
+=>q106
+Великолепно! Безликие?<end>
+
+=>a107_original
+Nowhere to be seen.<end>
+
+=>a107
+Их нигде не было видно.<end>
+
+=>q108_original
+Well, splendid! As long as there are no Faceless there, everything else is irrelevant in comparison! You deserve this, Enforcer - you have performed admirably. ::Hands you 400 charons and an assault rifle.::<end>
+
+=>q108
+Ну и славно! Раз там нет безликих, всё остальное не имеет значения! Вы заслужили это, боец -- вы отлично справились. ::Он выдаёт вам 400 харонов и автомат.::<end>
+
+=>q109_original
+I have another assignment for you.<end>
+
+=>q109
+У меня есть для вас ещё одно задание.<end>
+
+=>a110_original
+I'm ready for my next assignment.<end>
+
+=>a110
+Я готов$(#/а) к следующему заданию.<end>
+
+=>q111_original
+This one is going to be a bit different than the previous one. Just today, we detected a power outage in one of the sewer areas beneath Core City. Can you tell me why that is important information to us? Any guess?<end>
+
+=>q111
+Это задание будет немного отличаться от предыдущего. Только сегодня, мы обнаружили отключение электроэнергии в одном из канализационных тоннелей под Кор-Сити. Можете сказать, почему эта информация важна для нас? Есть догадки?<end>
+
+=>a112_original
+Because sewer people need power too and it's our duty to help everyone!<end>
+
+=>a112
+Потому что жителям канализации тоже нужна электроэнергия, и наш долг -- помочь каждому!<end>
+
+=>q113_original
+Sewer people? Is this some joke to you? It is important because we are being sieged by the Faceless, forgot about that? A power outage in a situation like this is very unusual and cannot go uninvestigated! Maybe it was caused by the Faceless, maybe not, but if the former is true we must act quickly.<end>
+
+=>q113
+Жителям канализации? Вы что, смеётесь надо мной? Это важно, потому что мы осаждены безликими, или вы забыли об этом? Отключение электроэнергии в такой ситуации -- это очень необычно, такое нельзя оставлять без внимания! Возможно, это работа безликих, возможно и нет, но, если это так, действовать нужно быстро.<end>
+
+=>q114_original
+So, in short, scout out the sewers, see what is the situation with the generator, and try repairing it if possible. The sewers are not the friendliest place to be in, so take care. If you do spot the Faceless, inform me as soon as possible! The entrance to the sewers is at the docks. Once you enter, go straight and you will see a locked gate. Beyond the gate is the generator. Did you understand all that?<end>
+
+=>q114
+Итак, вкратце: разведайте канализацию, посмотрите, что с там генератором и попробуйте его отремонтировать, если это возможно. Канализация не самое дружелюбное место, так что будьте осторожны. Если заметите безликих, сообщите мне как можно скорее! Вход в канализацию находится в доках. Как только войдёте, идите прямо пока не увидите запертые ворота. За воротами находится генератор. Вам всё понятно?<end>
+
+=>a115_original
+Yes, sir.<end>
+
+=>a115
+Да, сэр.<end>
+
+=>q116_original
+Splendid, here's the key to the said gate. ::He hands you a small key.:: 
+
+Good luck. Dismissed.<end>
+
+=>q116
+Великолепно, вот ключ от ворот. ::Он протягивает вам небольшой ключ.:: 
+
+Удачи. Вы свободны.<end>
+
+=>a117_original
+I got it. I'm on the job.<end>
+
+=>a117
+Понятно. Отправляюсь на задание<end>
+
+=>a118_original
+It's never good to have a broken generator?<end>
+
+=>a118
+Сломанный генератор -- непорядок?<end>
+
+=>q119_original
+The generator itself is not the issue here. I don't want you to forget that, no matter how calm Core City might seem now, the Faceless could strike anywhere, at any moment. A power outage in a situation like this is very unusual and cannot go uninvestigated! Maybe it was caused by the Faceless, maybe not, but if the former is true we must act quickly.<end>
+
+=>q119
+Сам по себе, генератор не проблема. Не забывайте -- как бы спокойно не казалось сейчас в Кор-Сити, безликие могут нанести удар в любом месте, в любой момент. Отключение электроэнергии в такой ситуации -- это очень необычно, такое нельзя оставлять без внимания! Возможно, это работа безликих, возможно и нет, но, если это так, действовать нужно быстро.<end>
+
+=>a120_original
+Someone is doing some shady business down there?<end>
+
+=>a120
+Кто-то там проворачивает какие-то тёмные делишки?<end>
+
+=>q121_original
+Spot on! Don't forget, no matter how calm Core City might seem now, the Faceless could strike anywhere, at any moment. A power outage in a situation like this is very unusual and cannot go uninvestigated! Maybe it was caused by the Faceless, maybe not, but if the former is true we must act quickly.<end>
+
+=>q121
+В точку! Не забывайте, как бы спокойно не казалось сейчас в Кор-Сити, безликие могут нанести удар в любом месте, в любой момент. Отключение электроэнергии в такой ситуации -- это очень необычно, такое нельзя оставлять без внимания! Возможно, это работа безликих, возможно и нет, но, если это так, действовать нужно быстро.<end>
+
+=>a122_original
+I don't know.<end>
+
+=>a122
+Я не знаю.<end>
+
+=>q123_original
+You don't know? Just like that? I want you to think, not be an empty-headed buffoon! Try again.<end>
+
+=>q123
+Вы не знаете? Никаких вариантов? Я хочу, чтобы вы думали, а не были пустоголов$(#ым/ой) дур$(#нем/очкой)! Попробуйте ещё раз.<end>
+
+=>a124_original
+I still have no idea.<end>
+
+=>a124
+Я понятия не имею.<end>
+
+=>q125_original
+::He sighs.:: Fine, Enforcer. I will explain everything then.<end>
+
+=>q125
+::Вздыхает.:: Хорошо, боец. Я всё объясню.<end>
+
+=>q126_original
+A generator going out in the sewers could mean a potential security risk. Don't forget, no matter how calm Core City might seem now, the Faceless could strike anywhere, at any moment. A power outage in a situation like this is very unusual and cannot go uninvestigated! Maybe it was caused by the Faceless, maybe not, but if the former is true we must act quickly.<end>
+
+=>q126
+Поломка генератора в канализации может означать потенциальный риск безопасности. Не забывайте, как бы спокойно не казалось сейчас в Кор-Сити, безликие могут нанести удар в любом месте, в любой момент. Отключение электроэнергии в такой ситуации -- это очень необычно, такое нельзя оставлять без внимания! Возможно, это работа безликих, возможно и нет, но, если это так, действовать нужно быстро.<end>
+
+=>a127_original
+I'm ready for my first assignment.<end>
+
+=>a127
+Я готов$(#/а) к своему первому заданию.<end>
+
+=>q128_original
+Splendid. Let us begin: I want you to locate and eliminate a mercenary group that has been causing us quite some trouble here in Core City. It is led by a man known as Joe De Pacino. Taking him out will most likely cause the whole group to fall apart, so consider him your primary target. Of course, your hands are untied regarding the use of deadly force.<end>
+
+=>q128
+Великолепно. Начнём: я хочу, чтобы вы нашли и ликвидировали группу наёмников, которая вызывает у нас некоторые проблемы здесь, в Кор-Сити. Ими руководит человек, известный как Джо де Пачино. Его устранение, скорее всего, вызовет развал всей группы, поэтому мы рассматриваем его в качестве основной цели. Конечно, ваши руки развязаны в отношении применения смертельной силы.<end>
+
+=>q129_original
+We do not know the exact location of De Pacino's hideout, or else we would have eliminated that threat earlier. What we do know is that they conduct all their operations from within Core City. So, in short: Locate Joe De Pacino, eliminate him out and all who stand in your way. Do you understand everything?<end>
+
+=>q129
+Мы не знаем точного расположения убежища де Пачино, иначе мы бы уже устранили эту угрозу. Что мы точно знаем -- они проводят все свои операции с территории Кор-Сити. Итак, вкратце: найдите Джо де Пачино, устраните его и всех, кто встанет на вашем пути. Вам всё понятно?<end>
+
+=>a130_original
+I already took care of it.<end>
+
+=>a130
+Я уже позаботил$(#ся/ась) об этом.<end>
+
+=>q131_original
+::He pauses for a moment, slightly confused by your response.:: Took care of what?<end>
+
+=>q131
+::Он замолкает на мгновение, слегка сбитый с толку вашим ответом.:: Позаботились о чём?<end>
+
+=>a132_original
+Joe De Pacino. We kinda bumped into each other and well... now he's dead.<end>
+
+=>a132
+Джо де Пачино. Наши пути пересеклись, и... теперь он мёртв.<end>
+
+=>q133_original
+Well, isn't that splendiferous! You have completed your first assignment within minutes of receiving it! Technically. ::Laughs.:: You definitely deserve this. ::He gives you 300 charons and an SMG.::
+<end>
+
+=>q133
+Ну разве это не великолепно! Вы выполнили своё первое задание, не прошло и нескольких минут после его получения!.. Технически. ::Смеётся.:: Вы определённо заслужили это. ::Он даёт вам 300 харонов и пистолет-пулемёт.::<end>
+
+=>q134_original
+I have more assignments for you.<end>
+
+=>q134
+У меня есть ещё работа для вас.<end>
+
+=>a135_original
+Joe De Pacino. He was bothering my mother so I had to put the bastard in his place.<end>
+
+=>a135
+Джо де Пачино. Он приставал к моей матери, так что мне пришлось поставить этого ублюдка на место.<end>
+
+=>q136_original
+Hmmm. Well, whatever the cause - you did splendid! You have completed your first assignment within minutes! Technically. ::He laughs.:: You definitely deserve this. ::He gives you 300 charons and a submachine gun.::<end>
+
+=>q136
+Хм-м-м. Что ж, как бы там ни было, вы справились великолепно! Вы выполнили своё первое задание, не прошло и нескольких минут после его получения! Технически. ::Смеётся.:: Вы определённо заслужили это. ::Он даёт вам 300 харонов и пистолет-пулемёт.::<end>
+
+=>a137_original
+Joe De Pacino. Him and me, we had some... "issues." But not anymore.<end>
+
+=>a137
+Джо де Пачино. У нас с ним были некоторые... «разногласия». Больше -- нет.<end>
+
+=>a138_original
+Joe De Pacino. His evil ways were enough for me to firmly imprint my boots of justice into his backside.<end>
+
+=>a138
+Джо де Пачино. Он нагрешил достаточно, чтобы заслужить мой сапог правосудия в свой зад.<end>
+
+=>q139_original
+Interesting choice of words, I must confess. Still, you did splendid work! You have completed your first assignment within minutes! Technically. ::He laughs.:: You definitely deserve this. ::He gives you 300 charons and an assault rifle.::<end>
+
+=>q139
+Интересный выбор слов, должен признаться. Так или иначе, вы справились великолепно! Вы выполнили своё первое задание, не прошло и нескольких минут после его получения! Технически. ::Смеётся.:: Вы определённо заслужили это. ::Он даёт вам 300 харонов и автомат.::<end>
+
+=>a140_original
+Yes, sir.<end>
+
+=>a140
+Да, сэр.<end>
+
+=>q141_original
+In that case, you are dismissed. Good luck!<end>
+
+=>q141
+В таком случае, вы свободны. Удачи!<end>
+
+=>a142_original
+De Pacino is dead.<end>
+
+=>a142
+Де Пачино мёртв.<end>
+
+=>q143_original
+Splendid! Congratulations, you have completed your first assignment. I guess I haven't misjudged your skills. You definitely deserve this. ::He gives you 300 charons and an SMG.::<end>
+
+=>q143
+Великолепно! Поздравляю, вы завершили своё первое задание. Похоже, я правильно оценил ваши навыки. Вы заслужили награду. ::Он даёт вам 300 харонов и пистолет-пулемёт.::<end>
+
+=>a144_original
+How do I find that generator, again?<end>
+
+=>a144
+Повторите, как мне найти генератор?<end>
+
+=>q145_original
+The easiest way is to go down to the docks; there you can enter the sewers. Then simply go straight and you will see a locked gate. Use the key I gave you to unlock it, and go through. Did you understand it now?<end>
+
+=>q145
+Самый простой способ -- спуститься к докам, там вы сможете войти в канализацию. Войдя в неё, идите прямо и увидите запертые ворота. Используйте ключ, который я дал вам, чтобы отпереть их. Теперь понятно?<end>
+
+=>a146_original
+Yes, sir.<end>
+
+=>a146
+Да, сэр.<end>
+
+=>q147_original
+Splendid! Now get moving. Good luck.<end>
+
+=>q147
+Великолепно! А теперь -- вперёд. Удачи.<end>
+
+=>a148_original
+What did you say, where is that warehouse?<end>
+
+=>a148
+Как вы сказали, где этот склад?<end>
+
+=>q149_original
+Just west of the Core City entrance. That is where the warehouse is located. Understood?<end>
+
+=>q149
+К западу от главного входа в город. Вот где находится склад. Понятно?<end>
+
+=>a150_original
+Yes, sir.<end>
+
+=>a150
+Да, сэр.<end>
+
+=>q151_original
+Splendid, now get moving. Dismissed.<end>
+
+=>q151
+Великолепно, а теперь -- вперёд. Вы свободны.<end>
+
+=>a152_original
+What can you tell me about Praetorian Security?<end>
+
+=>a152
+Что вы можете рассказать мне о Преторианской службе безопасности?<end>
+
+=>q153_original
+Praetorian Security is concerned with one thing, and one thing only: The protection of all who live in Core City. That is our primary mission, and we select the finest men and women in order to make sure that safety and order within the city are maintained. We train all our recruits to become capable enforcers and send them on their duty knowing that they can get the job done.<end>
+
+=>q153
+Преторианскую службу безопасности беспокоит только одно: защита всех, кто живёт в Кор-Сити. Это наша главная задача, и мы выбираем лучших мужчин и женщин для того, чтобы обеспечивать безопасность и порядок в городе. Мы обучаем всех наших новобранцев, чтобы сделать их умелыми бойцами, и отправляем исполнять свой долг, зная, что они смогут выполнить работу.<end>
+
+=>q154_original
+We are here to maintain order - order throught strength. I believe that answers your question.<end>
+
+=>q154
+Мы здесь, чтобы поддерживать порядок -- порядок через силу. Я считаю, что ответил на ваш вопрос.<end>
+
+=>a155_original
+What can you tell me about Coretech?<end>
+
+=>a155
+Что вы можете рассказать мне о КорТех?<end>
+
+=>q156_original
+Coretech is primarily driven by technological development and production of high-tech weaponry, equipment, home appliances and the like. It is owned by Rupert Simmons, one of the Oligarchs, a former head of Biocorp's research department before its dissolution. From Praetorian Security's perspective, they do produce high-quality weaponry and equipment, that I cannot deny.<end>
+
+=>q156
+КорТех в первую очередь занимается развитием технологии и производством высокотехнологичного оружия, оборудования, бытовой техники и тому подобного. Её владельцем является Руперт Симмонс -- один из олигархов, бывший глава исследовательского отдела Биокорп до её роспуска. С точки зрения Преторианской службы безопасности, они производят высококачественное оружие и снаряжение -- этого я не могу отрицать.<end>
+
+=>q157_original
+With that said, they are arrogant. I can recall multiple statements concerning Coretech's supposed superiority over Praetorian Security in terms of personnel competency and the equipment we use. Pure nonsense.<end>
+
+=>q157
+Но помимо этого, они высокомерны. Я могу вспомнить несколько заявлений о мнимом превосходстве КорТех над Преторианской службой безопасности в плане компетентности персонала и применяемого оборудования. Бред чистой воды.<end>
+
+=>a158_original
+What can you tell me about JKK?<end>
+
+=>a158
+Что вы можете рассказать мне о КБР?<end>
+
+=>q159_original
+JKK is owned by Gunnar Edstrom, one of the Oligarchs. I am sure you know about them being the primary broadcasting company in Core City and beyond, as well as other branches they do business in. But, I feel the need to warn you about covert operations which are performed by their operatives.<end>
+
+=>q159
+КБР принадлежит Гуннару Эдстрому, одному из олигархов. Наверняка вы знаете, что эта компания осуществляет вещание на Кор-Сити и за его пределами, а также про другие отрасли их бизнеса. Но я чувствую необходимость предупредить вас о секретных операциях, которые выполняются их сотрудниками.<end>
+
+=>q160_original
+Publicly, Praetorian Security does not know about this, but in reality we are fully aware of their surreptitious actions. I cannot reveal all the details at the moment; I just want you to be aware of what I have told you. Do you understand?
+
+Any further questions?<end>
+
+=>q160
+Официально, Преторианская служба безопасности не знает об этом, но на самом деле мы хорошо осведомлены об их тайной активности. Я не могу раскрыть вам детали на данный момент; я только хочу, чтобы вы были в курсе. Понимаете?
+
+Ещё вопросы?<end>
+
+=>a161_original
+What do you think about the Faceless invasion?<end>
+
+=>a161
+Что вы думаете о вторжении безликих?<end>
+
+=>q162_original
+It will not last for much longer.<end>
+
+=>q162
+Оно долго не продлится.<end>
+
+=>q163_original
+That is all I have to say on that particular matter.<end>
+
+=>q163
+Это всё, что я могу сказать по этому вопросу.<end>
+
+=>a164_original
+::Salute and leave.::<end>
+
+=>a164
+::Козырнуть и уйти.::<end>
+
+=>q165_original
+Good. <end>
+
+=>q165
+Хорошо.<end>
+
+=>q166_original
+Now, as for your training: <end>
+
+=>q166
+Теперь, что касается твоего обучения:<end>
+
+=>q167_original
+There will be no training for you. Due to the Faceless invasion, we cannot send all our recruits through our standard training programs. You already seem capable enough. Your first assignment will show if I am correct or not.<end>
+
+=>q167
+Не будет никакого обучения: из-за вторжения безликих, мы не можем направлять всех новобранцев на обычные программы обучения. Ты уже, кажется, достаточно подготовлен$(#/а). И твоё первое задание покажет, прав я или нет.<end>
+
+=>a168_original
+I won't, sir.<end>
+
+=>a168
+Не буду, сэр.<end>
+
+=>a169_original
+When can I start with my training, sir?<end>
+
+=>a169
+Когда я смогу приступить к обучению, сэр?<end>
+
+=>a170_original
+::Nod.::<end>
+
+=>a170
+::Кивнуть.::<end>
+
+=>a171_original
+::Say nothing.::<end>
+
+=>a171
+::Промолчать.::<end>
+
+=>a172_original
+I'll take the Peacekeeper with cape, sir.<end>
+
+=>a172
+Я возьму Миротворец с плащом, сэр.<end>
+
+=>a173_original
+I'll take the Chestguard, sir.<end>
+
+=>a173
+Я возьму Нагрудник, сэр.<end>
+
+=>a174_original
+Maybe a little.<end>
+
+=>a174
+Может быть, немного.<end>
+
+=>q175_original
+Really? Splendid! In that case, I will continue, and I will make sure to be louder and possibly more boring to unnverve you even further. One more thing remains...<end>
+
+=>q175
+Правда? Великолепно! В таком случае, я продолжу, и сделаю всё, что в моих силах, чтобы быть ещё громче и как можно более скучным, чтобы досадить вам ещё больше. Остаётся ещё одно...<end>
+
+=>a176_original
+Can I think about it?<end>
+
+=>a176
+Я могу подумать некоторое время?<end>
+
+=>q177_original
+No, you cannot! There is no time to think! The Faceless could strike at any moment! This whole city could burn and crumble in a matter of minutes - reduced to ashes. Would you stop to think then? I want an answer now, recruit! Are you willing to do what I asked of you?<end>
+
+=>q177
+Нет, не можете! Нет времени думать! Безликие могут нанести удар в любой момент! Весь город может сгореть и рассыпаться в пепел за считанные минуты. Когда тут думать? Мне нужен ответ сейчас, новобранец! Готовы ли вы делать то, что я прикажу?<end>
+
+=>a178_original
+Yes, I am.<end>
+
+=>a178
+Да, конечно.<end>
+
+=>a179_original
+No, this isn't for me.<end>
+
+=>a179
+Нет, это не для меня.<end>
+
+=>q180_original
+Then you are just wasting my time, *civilian*. If you would excuse me, I have some more important matters to attend to.<end>
+
+=>q180
+Тогда вы просто зря тратите моё время, *гражданский*. С вашего позволения, у меня есть более важные дела.<end>
+
+=>a181_original
+I think so.<end>
+
+=>a181
+Думаю, что так.<end>
+
+=>q182_original
+Know it! There is no room for second thoughts and petty insecurities here, recruit.<end>
+
+=>q182
+Запомните это! Здесь нет места для раздумий и неуверенности, солдат.<end>
+
+=>a183_original
+Yes, sir!<end>
+
+=>a183
+Да, сэр!<end>
+
+=>q184_original
+Take it easy, recruit. You will have numerous chances to express your enthusiasm. ::He puts his hands behind his back and resumes.:: As you may know, Core City has been invaded by dangerous foes known only as the Faceless. While their attempts at taking over the city have been successfully repelled so far, the threat is still present. On the other side, as you may also know, mobs, gangs - criminal scum of all shapes and sizes infest Core City from within. Is that correct?<end>
+
+=>q184
+Спокойно, новобранец. У вас ещё будет множество шансов проявить рвение. ::Он кладёт руки за спину и продолжает.:: Как вы знаете, Кор-Сити в настоящее время находится под угрозой нашествия опасного врага, известного только как безликие. Хотя их попытки завладеть городом до сих пор успешно отбивались, угроза по-прежнему присутствует. Кроме того, как вы, должно быть, знаете, шайки, банды, преступные подонки всех форм и размеров засоряют город изнутри. Вы согласны?<end>
+
+=>q185_original
+$(context.player.Name), where have you been? You missed the moment our enforcers finally secured the blockade. Another great victory for Praetorian Security.<end>
+
+=>q185
+$(context.player.Name), где вы были? Вы пропустили момент, когда наши бойцы окончательно сняли блокаду. Ещё одна великая победа Преторианской службы безопасности.<end>
+
+=>q186_original
+<end>
+
+=>q186
+<end>
+
+=>q187_original
+Senior Enforcer, <end>
+
+=>q187
+Старший боец,<end>
+
+=>q188_original
+some new equipment has arrived to the Praetorian Security armory.<end>
+
+=>q188
+в оружейную Преторианской службы безопасности поступило новое снаряжение.<end>
+
+=>a189_original
+I'd like to see it straight away, sir. ::Barter.::<end>
+
+=>a189
+Я хотел$(#/а) бы взглянуть на него незамедлительно, сэр. ::Обмен.::<end>
+
+=>a190_original
+It'll have to wait a bit, sir. I came here to ask you something.<end>
+
+=>a190
+Это немного подождёт, сэр. Мне нужно у вас кое-что спросить.<end>
+
+=>q191_original
+Enforcer, <end>
+
+=>q191
+Боец.<end>
+
+=>q192_original
+Yes?<end>
+
+=>q192
+Да?<end>
+

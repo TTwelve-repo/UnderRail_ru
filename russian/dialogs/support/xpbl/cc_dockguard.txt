@@ -1,0 +1,346 @@
+﻿=>q1_original
+Did you speak with Chief Briggs?<end>
+
+=>q1
+Вы говорили с шефом Бриггсом?<end>
+
+=>q2_original
+::The guard stops you. You notice a badge on his chest - an orange and black shield, the colors being vertically divided at the center. At the bottom it reads: "Aegis."::
+
+Restricted area, $(#sir/ma'am). State your business.<end>
+
+=>q2
+::Вас останавливает охранник. В глаза бросается значок на его груди - оранжево-чёрный щит, цвета которого разделены вертикально по центру. А внизу надпись: "Эгида."::
+
+Запретная зона, $(#сэр/мэм). Изложите своё дело.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+I guess I am looking for work after all.<end>
+
+=>a4
+Думаю, мне всё-таки нужна работа.<end>
+
+=>q5_original
+Good. Do you have any combat experience?<end>
+
+=>q5
+Хорошо. У вас есть боевой опыт?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Hell yeah. These hands keep getting covered in blood and I can't seem to find a way to get them clean.<end>
+
+=>a7
+Да, чёрт возьми. Эти руки всё время покрываются кровью, и я никак не могу найти способ очистить их.<end>
+
+=>q8_original
+::The guard nods.:: <end>
+
+=>q8
+::Охранник кивает.::<end>
+
+=>q9_original
+We are Aegis Incorporated, a security company from North Underrail. We've been hired to protect scientific personnel during an important expedition to the Black Sea.<end>
+
+=>q9
+Мы - Эгида Инкорпорейтед, охранная компания из Северной Подземки. Нас наняли для охраны научного персонала в ходе важной экспедиции в Чёрное море.<end>
+
+=>q10_original
+We need highly skilled and competent individuals with sufficient combat experience. Background in personal protection, station security or similar is highly desirable but not strictly necessary. If you are capable of effectively operating alone or as part of a small, specialized team, that will greatly improve your chances of being hired. I think it is needless to say that this line of work entails great danger, but in turn know that the monetary compensation we offer will be quite appropriate.
+
+How does all of this sound to you? Do you think you meet these requirements?<end>
+
+=>q10
+Нам нужны квалифицированные и компетентные люди с достаточным боевым опытом. Опыт работы в области личной охраны, обеспечения безопасности станций или чего-то подобного крайне желателен, но не обязателен. Если вы способны эффективно работать в одиночку или в составе небольшой специализированной команды, это значительно повысит ваши шансы стать наёмным сотрудником. Полагаю, излишне говорить, что это направление работы сопряжено с большой опасностью, но в свою очередь знайте, что денежная компенсация, которую мы предлагаем, будет вполне соответствующей.
+
+Что вы обо всём этом думаете? Считаете ли вы, что соответствуете этим требованиям?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+I've spent my life staring down danger until it dragged itself away into the hole it crawled out of. So yeah, I'm your $(#guy/girl).<end>
+
+=>a12
+Я пров$(#ёл/ела) всю свою жизнь, глядя в лицо опасности, пока она не уползала в дыру, из которой вылезла. Так что да, я ваш человек.<end>
+
+=>q13_original
+Good. Proceed down this ramp and talk with Chief Briggs. 
+
+Do *not* wander around the dock. 
+
+If you interfere with anyone's work, you will be promptly removed.<end>
+
+=>q13
+Хорошо. Спускайтесь по этому трапу и поговорите с шефом Бриггсом.
+
+И не *разгуливайте* по пристани.
+
+Если будете мешать кому-либо работать, вас немедленно удалят.<end>
+
+=>a14_original
+How will I recognize him?<end>
+
+=>a14
+Как я его узнаю?<end>
+
+=>q15_original
+Easily. 
+
+::He steps aside.:: You may proceed, $(#sir/ma'am).<end>
+
+=>q15
+Легко.
+
+::Он делает шаг в сторону.:: Вы можете приступать, $(#сэр/мэм).<end>
+
+=>a16_original
+Understood. I'll go speak with him.<end>
+
+=>a16
+Понятно. Я пойду поговорю с ним.<end>
+
+=>q17_original
+::He nods.::<end>
+
+=>q17
+::Он кивает.::<end>
+
+=>a18_original
+Thanks.<end>
+
+=>a18
+Спасибо.<end>
+
+=>a19_original
+::Nod and leave.::<end>
+
+=>a19
+::Кивнуть и уйти.::<end>
+
+=>q20_original
+::He nods as well.::<end>
+
+=>q20
+::Он тоже кивает.::<end>
+
+=>a21_original
+Yes. Where do I apply?<end>
+
+=>a21
+Да. Где я могу подать заявку?<end>
+
+=>a22_original
+::Shrug your shoulders.:: I suppose. Who do I see next?<end>
+
+=>a22
+::Пожать плечами.:: Наверное. Кого мне повидать следующим?<end>
+
+=>a23_original
+I was told you are also looking for laborers and technicians.<end>
+
+=>a23
+Мне сказали, что вам также требуются рабочие и техники.<end>
+
+=>q24_original
+We were, but we've filled our quota in the meantime. Right now we are only looking for security personnel.<end>
+
+=>q24
+Так и было, но за это время мы заполнили нашу квоту. Сейчас нам нужны только сотрудники службы безопасности.<end>
+
+=>q25_original
+So, do you think you meet the requirements?<end>
+
+=>q25
+Как вы думаете, вы соответствуете этим требованиям?<end>
+
+=>q26_original
+Speaking of which, again, do you have any combat experience?<end>
+
+=>q26
+Говоря об этом, повторюсь, есть ли у вас боевой опыт?<end>
+
+=>a27_original
+Actually, I don't know much about the Black Sea, so it's not quite needless to say that it is dangerous. What is out there?<end>
+
+=>a27
+Вообще-то, я мало что знаю о Чёрном море, поэтому не стоит и говорить, что оно опасно. Так что же там такого?<end>
+
+=>q28_original
+Mostly pirates and wildlife, as well as other hostile and potentially hostile inhabitants. We have to be ready for anything we might encounter there. That is why we need the best candidates we can find.<end>
+
+=>q28
+В основном пираты и дикая природа, а также другие враждебные и потенциально враждебные обитатели. Мы должны быть готовы ко всему, с чем можем там столкнуться. Вот почему нам и нужны лучшие кандидаты, каких только можно найти.<end>
+
+=>a29_original
+How much money is "quite appropriate"?<end>
+
+=>a29
+А какая сумма "вполне соответствующая"?<end>
+
+=>q30_original
+I am not at liberty to say that either.<end>
+
+=>q30
+Этого говорить я тоже не вправе.<end>
+
+=>q31_original
+I am not at liberty to say that to you.<end>
+
+=>q31
+Я не имею права говорить вам об этом.<end>
+
+=>a32_original
+What are you looking for there?<end>
+
+=>a32
+Что вы там ищете?<end>
+
+=>a33_original
+Nah, this isn't for me. Thank you for your time.<end>
+
+=>a33
+Не, это не для меня. Спасибо, что уделили мне время.<end>
+
+=>q34_original
+::He nods.:: <end>
+
+=>q34
+::Он кивает.::<end>
+
+=>q35_original
+Move along then.<end>
+
+=>q35
+Тогда уходите.<end>
+
+=>a36_original
+Yes. I've done a lot of fighting.<end>
+
+=>a36
+Да. Мне приходилось часто сражаться.<end>
+
+=>a37_original
+I've seen my fair share of combat, yes.<end>
+
+=>a37
+Да, я повидал$(#/а) достаточно сражений.<end>
+
+=>a38_original
+Killing is my business... and business is good.<end>
+
+=>a38
+Убийства - мой бизнес... и бизнес идёт хорошо.<end>
+
+=>a39_original
+Yeah, of course I do. I wouldn't be here otherwise.<end>
+
+=>a39
+Да, разумеется, есть. Иначе меня бы здесь не было.<end>
+
+=>a40_original
+What's going on here?<end>
+
+=>a40
+Что здесь происходит?<end>
+
+=>q41_original
+::The guard briefly inspects you.::
+
+Are you looking for work?<end>
+
+=>q41
+::Охранник бегло осматривает вас.::
+
+Вы ищете работу?<end>
+
+=>a42_original
+Always.<end>
+
+=>a42
+Постоянно.<end>
+
+=>a43_original
+Yes.<end>
+
+=>a43
+Да.<end>
+
+=>a44_original
+Sure.<end>
+
+=>a44
+Конечно.<end>
+
+=>a45_original
+Not really.<end>
+
+=>a45
+Вряд ли.<end>
+
+=>a46_original
+I was told you are going on an expedition to the Black Sea and needed some extra hands.<end>
+
+=>a46
+Мне сказали, что вы отправляетесь в экспедицию на Чёрное море и вам понадобятся лишние руки.<end>
+
+=>q47_original
+::He nods.::
+
+You heard right. Do you have any combat experience?<end>
+
+=>q47
+::Он кивает.::
+
+Это правда. У вас есть боевой опыт?<end>
+
+=>a48_original
+I heard there was some work to be had here, but I didn't catch what it's about, really.<end>
+
+=>a48
+Я слышал$(#/а), что здесь есть какая-то работа, но так и не понял$(#/а), в чём она заключается.<end>
+
+=>a49_original
+Just passing by.<end>
+
+=>a49
+Я просто проходил$(#/а) мимо.<end>
+
+=>q50_original
+You're back.<end>
+
+=>q50
+Вы вернулись.<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>a52_original
+Actually, I want to join the expedition. I think I can handle anything the Black Sea can throw at me.<end>
+
+=>a52
+Вообще-то, я хочу присоединиться к экспедиции. Думаю, я справлюсь со всем, что может обрушить на меня Чёрное море.<end>
+
+=>a53_original
+I gotta go.<end>
+
+=>a53
+Мне пора идти.<end>
+

@@ -1,0 +1,394 @@
+﻿=>q1_original
+Please don't hurt me!<end>
+
+=>q1
+Пожалуйста, не бейте меня!<end>
+
+=>q2_original
+Leave me alone!<end>
+
+=>q2
+Оставьте меня в покое!<end>
+
+=>q3_original
+::A petite young woman appears to be lost in thought, her gaze fixed on some distant spot far behind you. Upon approaching her she looks at you and smiles, making her cheeks plump up. When she speaks, her voice has a mostly pleasant timbre, but there is also a hint of abrasiveness from time to time, sounding like she's suffered some degree of damage to her voice.::
+
+Hi, stranger. Are you also here to join the Tchortists?<end>
+
+=>q3
+::Миниатюрная молодая женщина, по-видимому, погружена в раздумья, устремив взор в какую-то далёкую точку позади вас. Заметив ваше приближение, она смотрит на вас и улыбается, её щёки розовеют. Её голос имеет приятный тембр, но время от времени немного хрипит, будто он пострадал от болезни или ранения.::
+
+Здравствуйте, незнаком$(#ец/ка). Вы тоже пришли, чтобы вступить в чортисты?<end>
+
+=>a4_original
+Maybe. What can you tell me about them?<end>
+
+=>a4
+Может быть. Что вы можете рассказать о них?<end>
+
+=>q5_original
+Oh. Well then... if you are - join the line, hah!
+
+But first, allow me introduce myself. I'm Daphne. Nice to meet you... ehm...?<end>
+
+=>q5
+О, ну тогда... становитесь в очередь, ха!
+
+Но во-первых, позвольте представиться. Я Дафна. Приятно познакомиться... э-э-э?..<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+It's $(context.player.Name). Nice to meet you too, Daphne.<end>
+
+=>a7
+$(context.player.Name). Приятно познакомиться, Дафна.<end>
+
+=>q8_original
+$(context.player.Name). Got it.
+
+Okay, $(context.player.Name), let's talk.<end>
+
+=>q8
+$(context.player.Name). Понятно.
+
+Ладно, $(context.player.Name), давайте поговорим.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+What can you tell me about yourself?<end>
+
+=>a10
+Что вы можете рассказать о себе?<end>
+
+=>q11_original
+I am a geneticist from Foundry.<end>
+
+=>q11
+Я генетик из Литейки.<end>
+
+=>a12_original
+What exactly do you mean by that?<end>
+
+=>a12
+Расскажите поподробнее.<end>
+
+=>q13_original
+You see, Foundry is a station, town - call it however you will - that revolves around a single thing - mining. Well, mining, processing and manufacturing products out of ore that has been mined out, true, but the most important aspect is that such place has no room for, say, a biologist. It's like a... like a... fisherman on a train station: He's got nothing to do, hah!
+
+Anyway, I had to get outta there.<end>
+
+=>q13
+Видите ли, Литейная -- это станция или город, называй, как хочешь, которая крутится вокруг единственной вещи -- добычи руды. Ну, добычи, переработки и производства продукции из руды, что добывается там, но самый важный аспект заключается в том, что там нет места для, скажем, биологов. Это как... как... рыбак на вокзале: ему там нечего делать, ха!
+
+В любом случае, мне пришлось уехать оттуда.<end>
+
+=>a14_original
+How did you end up there in the first place?<end>
+
+=>a14
+А как вы там вообще оказались?<end>
+
+=>q15_original
+My parents brought me there when I was little. The money was good, sure, but if we had gone to South Gate or Rail Crossing we would've been golden. But, oh, well... I ended up there. Years went by, I grew older. "No more will I waste my time in that dump," I said to myself. I have aspirations, and I'm gonna study as much as I can, get out of that hole and move forward in life!<end>
+
+=>q15
+Мои родители привезли меня туда, когда я была маленькой. Деньги были хорошие, конечно, но если бы мы отправились в Саут-Гейт или на Переезд -- были бы в золоте. Но, что делать... я оказалась там. Шли годы, я взрослела. «Я больше не буду тратить своё время в этой дыре», -- сказала я себе. У меня есть свои стремления, и я буду учиться столько, сколько смогу, чтобы выбраться из этой дыры и двигаться вперёд по жизни!<end>
+
+=>a16_original
+Isn't it a bit dangerous to travel around alone?<end>
+
+=>a16
+Не опасно путешествовать в одиночку?<end>
+
+=>q17_original
+Technically, it's more dangerous to live in Foundry, hah. I'm not exaggerating, $(context.player.Name). Nope.<end>
+
+=>q17
+Технически, более опасно жить в Литейке, хах. Я не преувеличиваю, $(context.player.Name). Не-а.<end>
+
+=>a18_original
+Well said. Now, let me ask you something else.<end>
+
+=>a18
+Хорошо сказано. Позвольте спросить ещё кое-что.<end>
+
+=>q19_original
+Why not, $(context.player.Name). What did you have in mind?<end>
+
+=>q19
+Почему бы и нет, $(context.player.Name). Что у вас на уме?<end>
+
+=>a20_original
+And...?<end>
+
+=>a20
+И?..<end>
+
+=>a21_original
+Actually, that tells me all I need to know. Let me ask you something else.<end>
+
+=>a21
+На самом деле, это говорит мне всё, что мне нужно знать. Позвольте задать ещё пару вопросов.<end>
+
+=>q22_original
+Nothing. I can, but I won't. Why should I expose any personal information if you couldn't find the common decency to at least introduce yourself?<end>
+
+=>q22
+Ничего. Я могла бы, но не буду. Почему я должна выкладывать персональную информацию, если вы не желаете соблюсти правила приличия и хотя бы представиться?<end>
+
+=>q23_original
+It was rhetorical; Don't answer it...<end>
+
+=>q23
+Это был риторический вопрос, не отвечайте...<end>
+
+=>a24_original
+Why are you here and what can you tell me about this place?<end>
+
+=>a24
+Почему вы здесь, и что вы можете рассказать об этом месте?<end>
+
+=>q25_original
+Well, I got tired of living in a polluted environment, that's one reason. The other is, well, this Institute of Tchort seems to need a lot of experts in the field of biology, genetics and similar. I'm not saying *I'm* an expert, but joining them could be the first step toward becoming one, hah. Besides, I'm sure they pay good money. Just look at the building.<end>
+
+=>q25
+Ну, я устала жить в этом грязном месте, это одна из причин. Ещё одна -- ну, этому Институту Чорта нужно много специалистов в области биологии, генетики и так далее. Я не говорю, что *я* специалист, но вступление к ним может быть первым шагом к тому, чтобы стать им, хах. Кроме того, я думаю, они платят хорошие деньги. Достаточно посмотреть на здание.<end>
+
+=>a26_original
+Do you even know why they need so many scientists?<end>
+
+=>a26
+Вы хоть знаете, зачем им так много учёных?<end>
+
+=>q27_original
+I know what you really mean: "Are these guys some evil cultists that perform twisted experiments and torture people and if so, why would I want to join them?" Well... ::She makes a slightly longer pause.:: Frankly, I don't know what's going on inside, but I know one thing: There is no other place in Underrail where you can go to and *not* ask yourself the same question, $(context.player.Name).<end>
+
+=>q27
+Я знаю, что вы пытаетесь сказать: «Эти ребята -- какие-то злые культисты, которые проводят жуткие эксперименты и пытают людей, а если так, зачем вам к ним присоединяться?» Ну... ::Она делает длинную паузу.:: Честно говоря, я не знаю, что происходит внутри, но я знаю одно: нет места в Подземке, куда можно пойти и *не* задавать себе тот же вопрос, $(context.player.Name).<end>
+
+=>q28_original
+This whole world is... twisted, and... despite their strange appearance these Tchortists seem like... I mean...<end>
+
+=>q28
+Весь этот мир... испорченный, и... несмотря на странный внешний вид, эти чортисты кажутся... я имею в виду...<end>
+
+=>q29_original
+Look, I'm careful... if I sense anything too strange is going on - I will back out. I haven't lost all my senses from living in Foundry, hah. Got that one?<end>
+
+=>q29
+Слушайте, я осторожна... если я почувствую что-то слишком странное, я не стану совать нос. Я не потеряла все свои чувства, живя в Литейке, хах. Дошло?<end>
+
+=>a30_original
+How about a different question?<end>
+
+=>a30
+Как насчёт другого вопроса?<end>
+
+=>q31_original
+Sure, $(context.player.Name).<end>
+
+=>q31
+Конечно, $(context.player.Name).<end>
+
+=>q32_original
+This is Institute of Tchort, the main building of the Tchortist organization. As to why I'm here...<end>
+
+=>q32
+Это Институт Чорта, главное здание чортистской организации. А почему я здесь...<end>
+
+=>q33_original
+That I'm not willing to share with you.<end>
+
+=>q33
+Этим я не буду делиться с вами.<end>
+
+=>a34_original
+What can you tell me about the Tchortists?<end>
+
+=>a34
+Что вы можете рассказать мне о чортистах?<end>
+
+=>q35_original
+From what I know, Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well. I've heard terms like "directed evolution" and "conquering the Surface," but I won't comment on those until I know more.<end>
+
+=>q35
+Насколько я знаю, Институт Чорта -- это исследовательская организация, которая служит существу по имени Чорт. Предположительно, геном этого существа крайне уникален, и всё, что они узнали от него, может быть применено и к людям. Я слышала такие высказывания, как «направленная эволюция» и «покорение Поверхности», но не могу комментировать их, пока не узнаю больше.<end>
+
+=>q36_original
+This is their main building; they supposedly have facilities in Deep Caverns as well. That's pretty much all I know, hah. It's not my fault, it's just that information on them is kind of scarce.<end>
+
+=>q36
+Это их основное учреждение; они якобы имеют ещё здания в Глубоких пещерах. Вот и всё, что я знаю, хах. Я не виновата, просто информации про них мало.<end>
+
+=>q37_original
+Institute of Tchort is a research organization that celebrates a creature called Tchort. Supposedly, that creature's genome is very unique and whatever they learned from it can be applied to humans as well.<end>
+
+=>q37
+Институт Чорта -- это исследовательская организация, которая служит существу по имени Чорт. Предположительно, геном этого существа крайне уникален, и всё, что они узнали от него, может быть применено и к людям.<end>
+
+=>q38_original
+And this is their main building.That's pretty much all I know.<end>
+
+=>q38
+Тут их главное здание. Это всё, что я знаю.<end>
+
+=>a39_original
+Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
+
+=>a39
+Ты, случайно, не видела, не проносили ли тут чортисты никакого странного артефакта? Вроде двадцатигранника.<end>
+
+=>q40_original
+What you describe, no, I haven't seen. But I remember a large group of Tchortists coming back from Core City - that's what I overheard - and they seem to have had something pretty valuable with them. Again, I sort of overheard them talk.<end>
+
+=>q40
+Ничего такого я не видела. Но помню, как большая группа чортистов возвращалась из Кор-Сити -- я подслушала -- и кажется, у них с собой было что-то очень ценное. Опять же, я вроде как подслушала их разговор.<end>
+
+=>a41_original
+What happened then?<end>
+
+=>a41
+Что случилось потом?<end>
+
+=>q42_original
+They went inside, hah, what else? Anyway, that's all I can remember seeing.<end>
+
+=>q42
+Они вошли внутрь, хах, что же ещё? В любом случае, это всё, что я могу вспомнить.<end>
+
+=>q43_original
+I don't think I have.<end>
+
+=>q43
+Не думаю.<end>
+
+=>q44_original
+Anything else?<end>
+
+=>q44
+Что-нибудь ещё?<end>
+
+=>a45_original
+I have to go. Goodbye.<end>
+
+=>a45
+Мне нужно идти. До свидания.<end>
+
+=>a46_original
+I can't reveal my name to you. It must remain a secret.<end>
+
+=>a46
+Я не могу раскрыть своё имя. Оно должно оставаться тайной.<end>
+
+=>q47_original
+::She becomes slightly uneasy after hearing what you said.:: Okay... ::She falls silent.::<end>
+
+=>q47
+::Она слегка смущена, услышав ваши слова.:: Ладно... ::Она замолкает.::<end>
+
+=>a48_original
+I was joking with you. I just wanted to see your reaction. I'm $(context.player.Name).<end>
+
+=>a48
+Я пошутил$(#/а). Просто хотел$(#/а) посмотреть на вашу реакцию. Я $(context.player.Name).<end>
+
+=>q49_original
+::At first she seems confused, then she smiles - then starts laughing.::
+
+Honestly, the way you said that was... slightly alarming. There's a lot of weird people in Underrail and... I was thinking... what does this $(#guy/woman) want from me? What are $(#his/her) true intentions? Hah!
+
+Anyway, $(context.player.Name), let's talk.<end>
+
+=>q49
+::Сначала она выглядит озадаченной, затем улыбается, затем начинает смеяться.::
+
+Честно говоря, то как вы сказали это... слегка встревожило меня. Много странных людей в Подземке, и... я думала... что эт$(#от/а) $(#парень/женщина) от меня хочет? Каковы е$(#го/ё) истинные намерения? Хах!
+
+Ну ладно, $(context.player.Name), давайте поговорим.<end>
+
+=>a50_original
+I'm sorry, but really can't tell you my name. I had some questions, though.<end>
+
+=>a50
+Я извиняюсь, но правда не могу сказать вам своё имя. Тем не менее, у меня есть несколько вопросов.<end>
+
+=>q51_original
+::She appears more reserved than previously.:: Okay, I suppose I can answer some of those.<end>
+
+=>q51
+::Она выглядит более сдержанной, чем ранее.:: Ладно, думаю, я смогу ответить на некоторые из них.<end>
+
+=>a52_original
+To be honest, I don't *want* to tell you my name, Daphne. Nice of you to tell me yours. It could prove useful.<end>
+
+=>a52
+Честно говоря, я не *хочу* говорить вам своё имя, Дафна. Спасибо, что сказали мне своё. Может пригодиться.<end>
+
+=>q53_original
+::Her eyes widen into a nervous stare as she takes a few steps back.::
+
+Look, I don't like where this is going. I think we should stop here... whoever you are! Leave me alone or I'll call for help. Goodbye.<end>
+
+=>q53
+::Её глаза расширяются, нервный взгляд становится пристальным, она делает несколько шагов назад.::
+
+Послушайте, мне не нравится, к чему всё идёт. Я думаю, что нам не о чем говорить... кто бы вы ни были! Оставьте меня в покое, или я позову на помощь. До свидания.<end>
+
+=>a54_original
+Wait, I was joking!<end>
+
+=>a54
+Подождите, я пошутил$(#/а)!<end>
+
+=>q55_original
+::She raises her voice.:: I said GOODBYE!<end>
+
+=>q55
+::Она повышает голос.:: Я сказала -- до свидания!<end>
+
+=>a56_original
+Goodbye, Daphne.<end>
+
+=>a56
+Прощайте, Дафна.<end>
+
+=>a57_original
+No, I'm just passing by. But, I had some questions if you don't mind.<end>
+
+=>a57
+Нет, я просто мимо проходил$(#/а). Но у меня есть несколько вопросов, если вы не возражаете.<end>
+
+=>q58_original
+It's not like I have anything better to do, hah! ::She pauses briefly.:: Look, I'm Daphne... Nice to meet you... ehm...?<end>
+
+=>q58
+Конечно, не то, чтобы я была занята чем-то важным, ха! ::Она делает короткую паузу.:: Я Дафна... приятно познакомиться... э-э-э?..<end>
+
+=>a59_original
+I'm sorry, I gotta go. See ya some other time.<end>
+
+=>a59
+Простите, мне нужно идти. Поговорим в другой раз.<end>
+
+=>q60_original
+Hi, $(context.player.Name). More questions?<end>
+
+=>q60
+Привет, $(context.player.Name). Опять с вопросами?<end>
+
+=>q61_original
+Hey... you.<end>
+
+=>q61
+Привет... вам.<end>
+

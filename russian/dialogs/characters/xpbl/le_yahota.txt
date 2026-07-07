@@ -1,0 +1,1424 @@
+﻿=>q1_original
+::She aims her rifle at you.::<end>
+
+=>q1
+::Она направляет свою винтовку на вас.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+So... you're that corporal $(#guy/girl). <end>
+
+=>q3
+Итак... вы тот самый капрал.<end>
+
+=>q4_original
+Hm. We'll see...<end>
+
+=>q4
+Хм. Посмотрим...<end>
+
+=>q5_original
+So... you're the new $(#guy/girl). <end>
+
+=>q5
+И так... вы т$(#от/а) нов$(#ый/ая) $(#парень/девушка).<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>q7_original
+This way, newbie!<end>
+
+=>q7
+Сюда, новичок!<end>
+
+=>q8_original
+Get ready. They're coming...<end>
+
+=>q8
+Приготовьтесь. Они идут...<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+Move! You're messing up my aim.<end>
+
+=>q10
+В сторону! Вы мешаете мне целиться.<end>
+
+=>q11_original
+::Looks through the scope.::<end>
+
+=>q11
+::Смотрит через прицел.::<end>
+
+=>q12_original
+Frag the bastards!<end>
+
+=>q12
+Бей ублюдков!<end>
+
+=>q13_original
+Worry about your own hide...<end>
+
+=>q13
+Позаботься о собственной шкуре ...<end>
+
+=>q14_original
+Congratulations, you're alive. Now report to Chief Briggs.<end>
+
+=>q14
+Поздравляю, ты жив$(#/а). А теперь доложи шефу Бриггсу.<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>q16_original
+Fraggin' pirate scum...<end>
+
+=>q16
+Грёбаная пиратская мразь...<end>
+
+=>q17_original
+Fraggin' savages...<end>
+
+=>q17
+Грёбаные дикари...<end>
+
+=>q18_original
+::Tracks the rampaging Naga Protector through her scope.:: Can't get a clear fraggin' shot...<end>
+
+=>q18
+::Ловит через свой прицел бушующего Защитника Нага.:: Никак не могу поймать его в прицел...<end>
+
+=>q19_original
+Go and pack your bags. We're getting outta Hell's Gut.<end>
+
+=>q19
+Идите и собирайте свои вещи. Мы сваливаем отсюда к чертям!<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+Good riddance. <end>
+
+=>q21
+Скатертью дорога.<end>
+
+=>q22_original
+::She returns to scanning the dim horizon.::<end>
+
+=>q22
+::Она возвращается к осмотру туманного горизонта.::<end>
+
+=>q23_original
+You shouldn't be here anymore. <end>
+
+=>q23
+Вам не следует оставаться здесь больше.<end>
+
+=>q24_original
+::Cold air surrounds the roof. Yahota stands still, gazing at the sea, her cloak flapping in the wind - which doesn't seem to bother her at all.::<end>
+
+=>q24
+::Холодный воздух обволакивает крышу. Яхота стоит на месте, глядя на море, её плащ развевается на ветру - что, по-видимому, её совсем не беспокоит.::<end>
+
+=>q25_original
+::She glances at you, but somewhat incompletely, as though allocating anything more than the edge of her peripheral vision to identify you is redundant.::
+
+It's you. What is it?<end>
+
+=>q25
+::Она бросает на вас взгляд, но как-то мельком, будто считая, что краешка глаза для вас более чем достаточно.::
+
+Это вы. Что такое?<end>
+
+=>a26_original
+Hey there.<end>
+
+=>a26
+Эй, привет.<end>
+
+=>q27_original
+::She nods, ::<end>
+
+=>q27
+::Она кивает, ::<end>
+
+=>q28_original
+::her eyes scanning the vast gloomy sea.::<end>
+
+=>q28
+::разглядывая огромное мрачное море.::<end>
+
+=>q29_original
+<end>
+
+=>q29
+<end>
+
+=>a30_original
+I'm interested in enemy activity.<end>
+
+=>a30
+Меня интересует активность врага.<end>
+
+=>q31_original
+The sea's looking calm at the moment. No enemy activity whatsoever.<end>
+
+=>q31
+Море спокойно на данный момент. Никакой вражеской активности нет.<end>
+
+=>a32_original
+There was something else I wanted to ask you...<end>
+
+=>a32
+Я хотел$(#/а) поговорить ещё кое о чём...<end>
+
+=>a33_original
+Thanks for the info. I'll leave you to your duty.<end>
+
+=>a33
+Спасибо за информацию. Не буду мешать вам нести службу.<end>
+
+=>a34_original
+I'll leave you to your duty.<end>
+
+=>a34
+Не буду мешать вам нести службу.<end>
+
+=>q35_original
+Pirates or savages?<end>
+
+=>q35
+Пиратов или дикарей?<end>
+
+=>a36_original
+Pirates.<end>
+
+=>a36
+Пиратов.<end>
+
+=>q37_original
+<end>
+
+=>q37
+<end>
+
+=>q38_original
+The whole south-eastern part of the sea is pretty much dead. Barely any pirate activity there.<end>
+
+=>q38
+Вся юго-восточная часть моря вымерла. Практически нет пиратской активности.<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>q40_original
+<end>
+
+=>q40
+<end>
+
+=>a41_original
+And the natives?<end>
+
+=>a41
+А туземцы?<end>
+
+=>q42_original
+<end>
+
+=>q42
+<end>
+
+=>q43_original
+Haven't noticed any activity lately. No moving lights, boats or anything of the sort. <end>
+
+=>q43
+В последнее время не замечаю активности. Никаких движущихся огней, лодок или чего-то подобного.<end>
+
+=>q44_original
+<end>
+
+=>q44
+<end>
+
+=>a45_original
+And the pirates?<end>
+
+=>a45
+А пираты?<end>
+
+=>q46_original
+Not much activity lately. Much fewer moving lights and boats as well. <end>
+
+=>q46
+Не так много активности в последнее время. И намного меньше движущихся огней и лодок.<end>
+
+=>q47_original
+This might be the calm before the storm.<end>
+
+=>q47
+Возможно, это затишье перед бурей.<end>
+
+=>q48_original
+<end>
+
+=>q48
+<end>
+
+=>q49_original
+Less activity than before the first attack, but still plenty.<end>
+
+=>q49
+Меньше активности, чем до первой атаки, но ещё хватает.<end>
+
+=>q50_original
+Still lots of activity. There's a lot of them there. <end>
+
+=>q50
+По-прежнему много активности. Их там ещё много.<end>
+
+=>q51_original
+Lots of activity there ever since we moved in. They are probably preparing for another attack.<end>
+
+=>q51
+Там много активности с момента нашего прибытия. Вероятно, готовятся к очередной атаке.<end>
+
+=>q52_original
+Not much activity over at the pirate base. Their patrols are becoming rather sparse as well.<end>
+
+=>q52
+На пиратской базе активность небольшая. Патрули тоже стали довольно редкими.<end>
+
+=>q53_original
+Lots of pirate jet ski patrols about. They could be up to something<end>
+
+=>q53
+Много пиратских патрулей на гидроциклах. Могут готовиться к чему-то.<end>
+
+=>q54_original
+ again<end>
+
+=>q54
+снова<end>
+
+=>q55_original
+.<end>
+
+=>q55
+.<end>
+
+=>a56_original
+Savages.<end>
+
+=>a56
+Дикарей.<end>
+
+=>a57_original
+Can you see the Ferryman anywhere?<end>
+
+=>a57
+Вы видите где-нибудь паромщика?<end>
+
+=>q58_original
+No. He sailed north into savage territory before I lost sight of him.<end>
+
+=>q58
+Нет. Он отправился на север к дикарям, а потом я потеряла его из виду.<end>
+
+=>q59_original
+But he should be in my scope again soon. <end>
+
+=>q59
+Но скоро снова должен появиться в моём прицеле.<end>
+
+=>q60_original
+He follows a fairly consistent route, visiting the mutie island and the pirate base before going north again.<end>
+
+=>q60
+Маршрут у него постоянный. Посещает остров мутантов, базу пиратов, а потом снова отправляется на север.<end>
+
+=>q61_original
+::She nods.:: He's docked at the <end>
+
+=>q61
+::Она кивает.:: Он пришвартовался к<end>
+
+=>q62_original
+pirate base. <end>
+
+=>q62
+базе пиратов.<end>
+
+=>q63_original
+He's lying on the ground and doesn't appear to be moving. Looks fragged to me.<end>
+
+=>q63
+Он лежит на земле и вроде не двигается. Похоже, захреначен.<end>
+
+=>q64_original
+pier on the southern side of the mutie island. <end>
+
+=>q64
+пирсу на южной стороне острова мутантов.<end>
+
+=>a65_original
+What can you see from here?<end>
+
+=>a65
+Что вы видите отсюда?<end>
+
+=>q66_original
+You got eyes as well...<end>
+
+=>q66
+У вас тоже есть глаза...<end>
+
+=>a67_original
+::[Perception] Look around.:: Let's put them to the test... Well, there's a... a spider, a giant spider on that island northwest of here, for instance.<end>
+
+=>a67
+::[Восприятие] Осмотреться по сторонам.:: Давайте их испытаем... Что ж, там есть... например, паук, гигантский паук на том острове к северо-западу отсюда.<end>
+
+=>q68_original
+::She looks northwest without squinting.::
+
+Yes, I see it. That's a... good catch.<end>
+
+=>q68
+::Она смотрит на северо-запад, не щурясь.::
+
+Да, я вижу его. У вас... зоркий глаз.<end>
+
+=>a69_original
+Still, I need some info on the surrounding locations and what is and has been going on around here.<end>
+
+=>a69
+Мне всё-таки нужна информация об окрестностях и о том, что происходило и происходит в округе.<end>
+
+=>q70_original
+::She inhales and exhales slowly as her eyes are panning across the scenery.:: South, it's nothing but the Jaws, as you locals call it, <end>
+
+=>q70
+::Она медленно вдыхает и выдыхает, её глаза окидывают панораму.:: На юге нет ничего, кроме Челюстей, как вы местные их называете,<end>
+
+=>q71_original
+and that glowing monolith on the cliff.<end>
+
+=>q71
+с тем светящимся монолитом на скале.<end>
+
+=>q72_original
+West, mutie island, you already know. <end>
+
+=>q72
+На западе остров мутантов, вы уже знаете.<end>
+
+=>q73_original
+Saw no activity after you left.<end>
+
+=>q73
+Не видела активности после вашего ухода.<end>
+
+=>q74_original
+East and southeast, pirate territory: <end>
+
+=>q74
+На востоке и юго-востоке территория пиратов:<end>
+
+=>q75_original
+Little to no activity. <end>
+
+=>q75
+Практически нет активности.<end>
+
+=>q76_original
+North - <end>
+
+=>q76
+На севере -<end>
+
+=>q77_original
+now that's the... fraggin' savage land. <end>
+
+=>q77
+та самая... хренова земля дикарей.<end>
+
+=>q78_original
+<end>
+
+=>q78
+<end>
+
+=>q79_original
+Haven't noticed any activity lately. No moving lights or anything of the sort. <end>
+
+=>q79
+В последнее время не замечаю активности. Никаких движущихся огней или чего-то подобного.<end>
+
+=>q80_original
+North-east, <end>
+
+=>q80
+Северо-восток,<end>
+
+=>q81_original
+that's where the horticulture center is located. You know all about that.<end>
+
+=>q81
+там расположен центр растениеводства. Вы о нём всё знаете.<end>
+
+=>q82_original
+<end>
+
+=>q82
+<end>
+
+=>q83_original
+::She pauses.:: There's also this guy cruising around on a crane ferry. Old man. Armed. Refused to cooperate. Could be a pirate, as I've seen him sail into their port on numerous occasions. I've also seen him go north into savage territory.<end>
+
+=>q83
+::Она делает паузу.:: Также есть тот мужик, разъезжающий по округе на пароме с краном. Старик. Вооружённый. Отказался сотрудничать. Может быть пират, потому что я много раз видела, как он заходит в их порт. Я также видела, как он отправляется на север на территорию дикарей.<end>
+
+=>q84_original
+::She falls silent for a moment.::
+
+Gotta keep my eyes peeled at all times. It appears as though you can see a lot from here, but everything's a lot closer than you think. Gotta stay alert.<end>
+
+=>q84
+::Она на мгновение замолкает.::
+
+Всё время нужно смотреть в оба. Кажется, что отсюда можно видеть многое, но всё гораздо ближе, чем кажется. Надо быть начеку.<end>
+
+=>q85_original
+::She turns away.::<end>
+
+=>q85
+::Она отворачивается.::<end>
+
+=>q86_original
+there's plenty of vegetation there. And some kind of... fraggin' mist, damned if I know what it is. Can't see much there, generally.<end>
+
+=>q86
+там много растительности. И какой-то... хренов туман, не знаю ни черта, что это такое. В общем, ничего толком не видно.<end>
+
+=>q87_original
+Not much activity lately. Much fewer moving lights as well. <end>
+
+=>q87
+Не так много активности в последнее время. И намного меньше движущихся огней.<end>
+
+=>q88_original
+This might be the calm before the storm.<end>
+
+=>q88
+Возможно, это затишье перед бурей.<end>
+
+=>q89_original
+<end>
+
+=>q89
+<end>
+
+=>q90_original
+Less activity than before the first attack, but still plenty.<end>
+
+=>q90
+Меньше активности, чем до первой атаки, но ещё хватает.<end>
+
+=>q91_original
+Still lots of activity. There's a lot of them. <end>
+
+=>q91
+По-прежнему много активности. Их там ещё много.<end>
+
+=>q92_original
+Lots of activity there ever since we moved in. <end>
+
+=>q92
+Там много активности с момента нашего прибытия.<end>
+
+=>q93_original
+There's a few spots which are well-illuminated; that must be where their villages are.<end>
+
+=>q93
+Есть несколько хорошо освещённых мест; это, должно быть, их поселения.<end>
+
+=>q94_original
+the savage land. <end>
+
+=>q94
+земля дикарей.<end>
+
+=>q95_original
+Lots of activity after the attack.<end>
+
+=>q95
+Много активности после нападения.<end>
+
+=>q96_original
+Lots of lights, lots of jets patrolling around. <end>
+
+=>q96
+Много огней, много гидроциклов, патрулирующих окрестности.<end>
+
+=>q97_original
+Also, the whole eastern side of the Black Sea is basalt rock, but there's also a lot of that red vegetation there.<end>
+
+=>q97
+Помимо этого вся восточная сторона Чёрного моря - базальтовая скала, но там есть много растений этих красных.<end>
+
+=>q98_original
+<end>
+
+=>q98
+<end>
+
+=>q99_original
+West, on that island, that's where the muties live. Not much activity there, generally.<end>
+
+=>q99
+На западе живут мутанты, на острове. В целом там активность небольшая.<end>
+
+=>a100_original
+You've got better eyes than me.<end>
+
+=>a100
+У вас лучше зрение, чем у меня.<end>
+
+=>q101_original
+::She nods.::<end>
+
+=>q101
+::Она кивает.::<end>
+
+=>a102_original
+I need some info on the surrounding locations and what is and has been going on around here.<end>
+
+=>a102
+Мне нужна информация об окрестностях и о том, что происходило и происходит в округе.<end>
+
+=>a103_original
+I suppose I do.<end>
+
+=>a103
+Думаю, что есть.<end>
+
+=>q104_original
+Of course you do.<end>
+
+=>q104
+Конечно, есть.<end>
+
+=>a105_original
+Just answer the damn question. I need information.<end>
+
+=>a105
+Просто ответьте на этот грёбаный вопрос. Мне нужна информация.<end>
+
+=>q106_original
+Watch it.<end>
+
+=>q106
+Смотрите.<end>
+
+=>a107_original
+Tell me about the surrounding areas.<end>
+
+=>a107
+Расскажите мне об окрестностях.<end>
+
+=>q108_original
+South, it's the Jaws <end>
+
+=>q108
+На юге - Челюсти<end>
+
+=>a109_original
+You don't seem very pleased with me being around.<end>
+
+=>a109
+Вы, кажется, не очень довольны мои присутствием.<end>
+
+=>q110_original
+::She remains silent...::<end>
+
+=>q110
+::Она хранит молчание...::<end>
+
+=>q111_original
+::...and continues staring at the sea.::<end>
+
+=>q111
+::...и продолжает смотреть на море.::<end>
+
+=>q112_original
+Company is distraction. I don't like distractions.<end>
+
+=>q112
+Компания отвлекает. Я не люблю отвлекаться.<end>
+
+=>q113_original
+But you're alright, I guess.<end>
+
+=>q113
+Но с вами всё нормально, надеюсь.<end>
+
+=>q114_original
+You're tolerable.<end>
+
+=>q114
+Потерпеть вас можно.<end>
+
+=>q115_original
+But you fight well, so you're worth something. Guess I can tolerate you.<end>
+
+=>q115
+Но вы хорошо сражаетесь, значит, чего-то стоите. Думаю, могу вас потерпеть.<end>
+
+=>a116_original
+Are you bothered by strange dreams as well?<end>
+
+=>a116
+Вас тоже беспокоят странные сны?<end>
+
+=>q117_original
+::She shakes her head...::<end>
+
+=>q117
+::Она качает головой...::<end>
+
+=>q118_original
+No. I don't dream.<end>
+
+=>q118
+Нет. Мне не снятся сны.<end>
+
+=>a119_original
+You do sleep, right?<end>
+
+=>a119
+Вы ведь спите, правда?<end>
+
+=>q120_original
+::She glances at you.:: I sleep in short, one and a half hour phases. That's one full sleep cycle. Couple of times a day. Always have.<end>
+
+=>q120
+::Она смотрит на вас.:: Я сплю небольшими промежутками, по полтора часа за раз. Это один полный цикл сна. Пару раз в день. Всегда так было.<end>
+
+=>q121_original
+If I do dream... ::She slowly shakes her head.:: I don't remember it.<end>
+
+=>q121
+Если мне и снятся сны... ::Она медленно качает своей головой.:: Я их не помню.<end>
+
+=>a122_original
+You mean, you don't sleep at all?<end>
+
+=>a122
+Вы имеете в виду, что вообще не спите?<end>
+
+=>a123_original
+I wanted to ask you about your relationship with Chief Briggs.<end>
+
+=>a123
+Хотелось бы узнать о ваших взаимоотношениях с шефом Бриггсом.<end>
+
+=>q124_original
+::She gives you a cold stare.::
+
+<end>
+
+=>q124
+::Она бросает на вас холодный взгляд.::
+<end>
+
+=>q125_original
+Bri--? ::She shakes her head.:: No. We won't be talking about the chief right now. <end>
+
+=>q125
+Бри--? ::Она качает головой.:: Нет, о шефе мы сейчас говорить не будем.<end>
+
+=>q126_original
+No... C'mon. ::She turns to the sea.::<end>
+
+=>q126
+Нет... ну же. ::Она поворачивается к морю.::<end>
+
+=>q127_original
+
+
+What's there to ask?<end>
+
+=>q127
+А что тут спрашивать? <end>
+
+=>a128_original
+Are you his daughter? I mean, you both have that silent type persona about you, and you kinda even look alike.<end>
+
+=>a128
+Вы его дочь? Я имею в виду, что вы оба молчаливые такие, и даже внешнее сходство есть.<end>
+
+=>q129_original
+::Her frigid stare persists.::<end>
+
+=>q129
+::Её взгляд по-прежнему холоден.::<end>
+
+=>q130_original
+::And then she looks away.::
+
+<end>
+
+=>q130
+::А потом она отворачивается.::
+<end>
+
+=>q131_original
+Damn, you got dumb questions. Fraggin' dumb.<end>
+
+=>q131
+Проклятие, какие же у вас тупые вопросы. Охрененно тупые.<end>
+
+=>a132_original
+Are you related in any way? Some of us have noticed some... similarities.<end>
+
+=>a132
+Вы случайно не родственники? Я и другие заметили некоторые... общие черты.<end>
+
+=>a133_original
+Are you two lovers? He asked to see you straight away after returning from Core City, and frankly, you do look like his type.<end>
+
+=>a133
+Вы любовники? Он попросил позвать вас сразу после возвращения из Кор-Сити, и, честно говоря, вы похожи на eго типаж.<end>
+
+=>q134_original
+Am I his... *what*...?<end>
+
+=>q134
+Я его... *что*?..<end>
+
+=>q135_original
+::Her lips tighten. She moves toward you; you expect assault but instead she calmly leans forward and whispers into your ear...::
+
+Richard Briggs is the chief of Aegis Incorporated and my commanding officer. Nothing more, nothing less. If you imply anything different one more time or spread any rumors, any rumors at all, you or anyone else, then know that I can easily hit a fast moving head full of *crap* out there where no one will know what happened.<end>
+
+=>q135
+::Её губы сжимаются. Она приближается; вы ожидаете нападения, но вместо этого она спокойно наклоняется вперёд и шепчет вам на ухо...::
+
+Ричард Бриггс - глава корпорации "Эгида" и мой командир. Ни больше, ни меньше. Если вы ещё раз на что-то подобное намекнёте или начнёте распространять любые слухи, вообще любые, или кто-нибудь ещё это сделает, то знайте, что я могу легко попасть в быстро движущуюся голову, набитую *дерьмом*, и никто не поймёт, что случилось.<end>
+
+=>a136_original
+Listen, everyone's already talking about it.<end>
+
+=>a136
+Послушайте, уже все об этом говорят.<end>
+
+=>q137_original
+Really now? Are they?<end>
+
+=>q137
+Да неужели? Точно?<end>
+
+=>q138_original
+Outta my sight, fraggin' insect.<end>
+
+=>q138
+Прочь с глаз моих, насекомое хреново.<end>
+
+=>q139_original
+<end>
+
+=>q139
+<end>
+
+=>a140_original
+With pleasure.<end>
+
+=>a140
+С удовольствием.<end>
+
+=>a141_original
+Serpent.<end>
+
+=>a141
+Змей.<end>
+
+=>a142_original
+::Say nothing.::<end>
+
+=>a142
+::Промолчать.::<end>
+
+=>a143_original
+Mhm. I'll try not to.<end>
+
+=>a143
+М-м-м. Я постараюсь не делать этого.<end>
+
+=>a144_original
+I won't.<end>
+
+=>a144
+Не буду.<end>
+
+=>q145_original
+::She looks at you for a few more seconds.::
+
+<end>
+
+=>q145
+::Она смотрит на вас ещё несколько секунд.::
+<end>
+
+=>a146_original
+Sorry.<end>
+
+=>a146
+Простите.<end>
+
+=>a147_original
+::Say nothing.::<end>
+
+=>a147
+::Промолчать.::<end>
+
+=>a148_original
+Don't you threaten me, you featureless slag!<end>
+
+=>a148
+Не угрожай мне, ничтожество никчёмное!<end>
+
+=>a149_original
+Nothing.<end>
+
+=>a149
+Поговорим позже.<end>
+
+=>q150_original
+::She turns away.::<end>
+
+=>q150
+::Она отворачивается.::<end>
+
+=>a151_original
+Tell me about yourself.<end>
+
+=>a151
+Расскажите мне о себе.<end>
+
+=>q152_original
+<end>
+
+=>q152
+<end>
+
+=>q153_original
+::She looks at you, sighing.::
+
+What? What? I'm a sec-specialist currently on guard duty trying to keep us all alive, okay. I'd rather be moving around like usually but... frag it, it's what I gotta do.<end>
+
+=>q153
+::Она смотрит на вас, вздыхая.::
+
+Что? Что? Я спец по безопасности, сейчас на вахте, пытаюсь нам всем жизнь сохранить, ага? Я предпочла бы в патруле быть как обычно, но... проклятие, должна быть здесь.<end>
+
+=>q154_original
+::She pauses.:: Look... I wanna be left alone. I work best *alone*: I can concentrate, I can think, I can plan my moves without depending on anyone else - and I got no attachments.
+
+So let's keep things that way. You do your job, I'll do mine.<end>
+
+=>q154
+::Она делает паузу.:: Послушайте... Я хочу, чтобы меня оставили в покое. Я лучше работаю *в одиночку*: я могу сосредоточиться, могу подумать, могу планировать свои действия и ни от кого не зависеть -- и не привязана ни к кому.
+
+Так что давайте оставим всё как есть. Вы делайте свою работу, а я свою.<end>
+
+=>q155_original
+::Silence ensues.::<end>
+
+=>q155
+::Молчание.::<end>
+
+=>q156_original
+There's nothing to tell. I'm just a sec-specialist doing my job.<end>
+
+=>q156
+Нечего рассказывать. Я просто спец по безопасности, и делаю свою работу.<end>
+
+=>q157_original
+::She gives you a freezing glance before returning to her duty.::<end>
+
+=>q157
+::Она бросает на вас ледяной взгляд, прежде чем вернуться к своим обязанностям.::<end>
+
+=>a158_original
+Any final thoughts before we depart?<end>
+
+=>a158
+Есть какие-нибудь заключительные слова перед отъездом?<end>
+
+=>q159_original
+No. No. Nothing besides what I've told you already.<end>
+
+=>q159
+Нет. Нет. Ничего, кроме того, что уже сказала.<end>
+
+=>a160_original
+Don't know what I expected.<end>
+
+=>a160
+Не знаю, чего я ожидал$(#/а).<end>
+
+=>q161_original
+::She turns toward you.::<end>
+
+=>q161
+::Она поворачивается к вам.::<end>
+
+=>q162_original
+If you expected me to open my heart to you about how it's been difficult and how I'm lucky to be alive...<end>
+
+=>q162
+Если вы ждали, что я буду изливать душу о том, как мне было трудно и как повезло, что я осталась в живых...<end>
+
+=>q163_original
+::She looks you dead in the eye.:: Frag it, $(#man/sis), just frag it. Now go pack your bags and leave me alone.<end>
+
+=>q163
+::Она смотрит прямо вам в глаза.:: Забейте, $(#братан/сестрёнка), просто забейте. А теперь идите пакуйте чемодан и оставьте меня в покое.<end>
+
+=>q164_original
+::She chuckles and returns to the sea.:: Damn, $(#man/sis). You and your questions.<end>
+
+=>q164
+::Она хихикает и поворачивается к морю.:: Проклятие, $(#братан/сестрёнка). На вас и ваши вопросы.<end>
+
+=>a165_original
+Well, it's been... interesting.<end>
+
+=>a165
+Ну это было... интересно.<end>
+
+=>a166_original
+Ah. You know, I think your attitude is the one freezing this rooftop, not the winds.<end>
+
+=>a166
+Ах. Знаете, мне кажется, что на этой крыше от вашего настроения холодрыга, а не от ветра.<end>
+
+=>q167_original
+::She frowns.:: <end>
+
+=>q167
+::Она хмурится.::<end>
+
+=>a168_original
+::Nod.::<end>
+
+=>a168
+::Кивнуть.::<end>
+
+=>a169_original
+Tell me about the monolith.<end>
+
+=>a169
+Расскажите мне о монолите.<end>
+
+=>q170_original
+::She answers coldly.:: <end>
+
+=>q170
+::Она холодно отвечает.::<end>
+
+=>q171_original
+Can't tell you much. Never seen anything like it before. It's a strange, glowing, angular structure.<end>
+
+=>q171
+Могу лишь сказать, что никогда раньше такого не видела. Это странное, светящееся, угловатое сооружение.<end>
+
+=>q172_original
+There is a human-shaped statue beside it. At first I thought it was a pirate, but it never moved. It's got something in its hands, but I can't tell what it is 'cause of the glow. 
+
+That's all I got for you.<end>
+
+=>q172
+Рядом с ним скульптура в виде человека. Сначала я думала, что это пират, но он вообще не двигался. У него что-то в руках, но из-за свечения не могу разобрать, что.
+
+Это всё, что я могу вам рассказать.<end>
+
+=>a173_original
+It's a lot colder up here. Where's all the warm air rising from below?<end>
+
+=>a173
+Здесь намного холоднее. Где же весь тёплый воздух, который снизу поднимается?<end>
+
+=>q174_original
+::She nods.:: There's a cold air current coming down from that crevice up there. ::She points to a crevice in the cavern ceiling north of you. You can see some bats approaching it from the side and being carried off course some ten meters south.::<end>
+
+=>q174
+::Она кивает.:: Из той щели наверху выходит холодный воздух. ::Она указывает на щель в потолке пещеры к северу от вас. Вы видите, как несколько летучих мышей подлетают к ней сбоку, и их отбрасывает метров на десять к югу.::<end>
+
+=>q175_original
+And it's hitting just this fraggin' lighthouse.<end>
+
+=>q175
+И дует прямо в этот грёбаный маяк.<end>
+
+=>a176_original
+How good of a shot are you?<end>
+
+=>a176
+Вы хорошо стреляете?<end>
+
+=>q177_original
+::She nods...::<end>
+
+=>q177
+::Она кивает...::<end>
+
+=>q178_original
+Outstanding. <end>
+
+=>q178
+Превосходно.<end>
+
+=>q179_original
+::She glances at you::
+
+<end>
+
+=>q179
+::Она смотрит на вас::
+<end>
+
+=>a180_original
+Don't you have any surveillance and detection equipment you can use?<end>
+
+=>a180
+Разве у вас нет приборов наблюдения и обнаружения?<end>
+
+=>q181_original
+::She answers coldly.:: <end>
+
+=>q181
+::Она холодно отвечает.::<end>
+
+=>q182_original
+NV and thermal cameras, auto-turrets, perimetral omnisensors and other automatic detection systems. We brought it all.<end>
+
+=>q182
+НВ и тепловизионные камеры, автоматические турели, периметральные омнисенсоры и другие системы автоматического обнаружения. Мы всё это сюда завезли.<end>
+
+=>a183_original
+Then why not install some of that up here?<end>
+
+=>a183
+Тогда почему бы не установить это здесь?<end>
+
+=>q184_original
+::She scans the sea from east to west.:: The Hell's Gut is too busy a place; the automatics get confused, start false alarms. Cannot be entirely relied upon. 
+
+Cameras, they require keen human eyes behind them.<end>
+
+=>q184
+::Она осматривает море с востока на запад.:: Адский котёл -- место очень оживлённое; автоматика сбивается с толку, ложную тревогу поднимает. Нельзя целиком на неё полагаться.
+
+За камерами должны быть зоркие человеческие глаза.<end>
+
+=>q185_original
+Mine are the keenest around here; all the optical equipment I'll ever need is this scope. 
+
+::She looks at it, then through it as she carries on with her duty.::<end>
+
+=>q185
+Мои здесь самые зоркие; из оптических приборов мне нужен лишь этот прицел.
+
+::Она смотрит на него, затем в него, продолжая выполнять свои обязаности.::<end>
+
+=>a186_original
+I need some information.<end>
+
+=>a186
+Мне нужна кое-какая информация.<end>
+
+=>a187_original
+Just checking up on you.<end>
+
+=>a187
+Просто проверяю.<end>
+
+=>a188_original
+We're all going to be here for a while, so why not get to know each other a bit better.<end>
+
+=>a188
+Мы тут все пока застряли, почему бы не узнать друг друга получше.<end>
+
+=>q189_original
+::She says nothing, ::<end>
+
+=>q189
+::Она молчит, ::<end>
+
+=>a190_original
+I wanted to compliment you on your fighting abilities.<end>
+
+=>a190
+Мне хотелось похвалить ваши боевые способности.<end>
+
+=>q191_original
+Guess it's time to leave this place. <end>
+
+=>q191
+Думаю, пришло время покинуть это место.<end>
+
+=>q192_original
+::She continues staring at the sea.::<end>
+
+=>q192
+::Она продолжает вглядываться в море.::<end>
+
+=>q193_original
+And we even... even got a live Lemurian out of it. ::She shakes her head in disbelief.:: <end>
+
+=>q193
+И нам даже... даже удалось заполучить живого лемурийца. ::Она недоверчиво качает головой.::<end>
+
+=>q194_original
+It's been too fraggin' long...<end>
+
+=>q194
+Это было охрененно долго...<end>
+
+=>q195_original
+::Her presence feels colder than the winds whipping the rooftop.::
+
+What?<end>
+
+=>q195
+::От её присутствия становится холоднее, чем от ветра, бушующего на крыше.::
+
+Что?<end>
+
+=>q196_original
+::She scans the sea and counts her bullets simultaneously, moving them from one satchel to the other. After reaching in the former for more and retrieving nothing, she closes the latter one and exhales softly, staring beyond the dim horizon.::<end>
+
+=>q196
+::Она осматривает море и одновременно подсчитывает свои пули, перетаскивая их из одной сумки в другую. Засунув руку в первую и не найдя больше ни одной, она закрывает вторую и тихо вздыхает, уставившись на туманный горизонт::<end>
+
+=>q197_original
+
+
+<end>
+
+=>q197
+<end>
+
+=>q198_original
+I gotta hand it to you, you got the professor back without bloodshed. I wouldn't have the patience.<end>
+
+=>q198
+Отдаю должное, вы вернули профессора без кровопролития. Мне бы терпения не хватило.<end>
+
+=>q199_original
+Smooth negotiating there.<end>
+
+=>q199
+Хорошая дипломатия.<end>
+
+=>a200_original
+Things got out of hand.<end>
+
+=>a200
+Всё вышло из-под контроля.<end>
+
+=>q201_original
+::She nods.:: They surely did.<end>
+
+=>q201
+::Она кивает.:: Определённо.<end>
+
+=>q202_original
+::She turns toward the sea.::<end>
+
+=>q202
+::Она поворачивается к морю.::<end>
+
+=>a203_original
+Did I ask for your opinion?<end>
+
+=>a203
+Я спрашивал$(#/а) ваше мнение?<end>
+
+=>q204_original
+You're getting it anyway. I did save your ass out there. You're welcome.<end>
+
+=>q204
+Вы всё равно его услышите. Я спасла вашу задницу. Можете не благодарить.<end>
+
+=>a205_original
+Thanks for busting us out of there.<end>
+
+=>a205
+Спасибо, что вытащили нас оттуда.<end>
+
+=>q206_original
+::She nods.:: All in a day's work. <end>
+
+=>q206
+::Она кивает.:: Пара пустяков.<end>
+
+=>a207_original
+I came here for some information.<end>
+
+=>a207
+Я приш$(#ёл/ла) сюда за информацией.<end>
+
+=>q208_original
+Go for it. <end>
+
+=>q208
+Действуйте.<end>
+
+=>a209_original
+::Say nothing.::<end>
+
+=>a209
+::Промолчать.::<end>
+
+=>q210_original
+The professor's back, and if we do our job right, hopefully not out of the pan and into the fraggin' fire.<end>
+
+=>q210
+Профессор вернулся, и если всё сделаем правильно, то надеюсь, что из огня да в полымя мы не попадём.<end>
+
+=>q211_original
+::She tracks the Naga Protector patrolling the beach through her scope.::
+
+I don't trust bots. But then again...<end>
+
+=>q211
+::Она ловит через свой прицел патрулирующего берег Защитника Нага.::
+
+Я не доверяю ботам. Но опять же...<end>
+
+=>q212_original
+I could see your encounter with the turrets in front of that military installation at F12<end>
+
+=>q212
+Я видела ваше столкновение с турелями перед этой военной установкой в F12<end>
+
+=>q213_original
+ and the savage party's arrival after that. They occupy a lighthouse in D10. Think that's where you've been spotted from.<end>
+
+=>q213
+и прибытие группы дикарей после этого. Они занимают маяк в D10. Думаю, это оттуда вас заметили.<end>
+
+=>q214_original
+. <end>
+
+=>q214
+.<end>
+
+=>q215_original
+::She scans the dim horizon, occassionally looking through her scope when details require closer examination.:: <end>
+
+=>q215
+::Она осматривает туманный горизонт, время от времени поглядывая в свой прицел, когда детали требуют более тщательного изучения.::<end>
+
+=>q216_original
+
+
+<end>
+
+=>q216
+<end>
+
+=>q217_original
+
+
+I gotta hand it to you, you saved all our asses. Had the pirates succeeded at the Keep, we'd be in a world of hurt right now. ::She pauses.:: This way... we got the jump on them.<end>
+
+=>q217
+Отдаю должное, вы нам всем задницы спасли. Если бы пираты преуспели в Крепости, нам бы сейчас очень больно было. ::Она делает паузу.:: Таким образом... мы их опередили.<end>
+
+=>q218_original
+::This time, however, she appears to be looking through it all.::<end>
+
+=>q218
+::Однако в этот раз она смотрит как бы сквозь всё это.::<end>
+
+=>q219_original
+
+
+Not many of us remaining. ::She looks at you as if she wants to continue but then turns away.::<end>
+
+=>q219
+Осталось нас немного. ::Она смотрит на вас, как будто хочет продолжить, но затем отворачивается.::<end>
+
+=>q220_original
+
+
+Doc bought it. Spared him the misery, if anything.<end>
+
+=>q220
+Док купил это. Во всяком случае, избавила его от страданий.<end>
+
+=>q221_original
+
+
+How painters can stand to watch something as boring as this for hours and hours is something I'll never know. <end>
+
+=>q221
+Мне никогда не понять, как художники могут стоять часами и смотреть на такие скучные вещи.<end>
+
+=>q222_original
+
+
+Ever seen a sea serpent eating a bat? The bat was flying low... then boom. Gone.<end>
+
+=>q222
+Когда-нибудь видели морского змея, поедающего летучую мышь? Летучая мышь летела низко... затем бам. Пропала.<end>
+
+=>q223_original
+
+
+You got us in. ::She nods.:: <end>
+
+=>q223
+Мы попали туда с вашей помощью. ::Она кивает.::<end>
+
+=>q224_original
+And fragged all the muties. <end>
+
+=>q224
+И захреначил$(#/а) всех мутантов.<end>
+
+=>q225_original
+Keep it up.<end>
+
+=>q225
+Так держать.<end>
+

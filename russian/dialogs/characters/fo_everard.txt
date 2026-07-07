@@ -1,0 +1,462 @@
+﻿=>q1_original
+You are no longer welcome here.<end>
+
+=>q1
+Вам здесь больше не рады.<end>
+
+=>q2_original
+::A tall, imposing figure dressed in black stands before you, calmly waiting for you to step into the room. While the man seems fairly at-ease, you sense that behind his illuminating stare there is a mind more alert than it might appear, a mind that is capable of swiftly and accurately reacting to even a slightest sign of disturbance or danger. When he eventually does open his mouth to speak he effortlessly manages to fill the small room with his platinum-heavy, ringing voice.::
+
+We have been waiting for you. I am Everard - for the time being - and I would like to welcome you to Foundry.<end>
+
+=>q2
+::Высокая, внушительная фигура, одетая в чёрное, стоит перед вами, терпеливо ожидая, пока вы зайдёте в комнату. Хотя этот мужчина выглядит довольно непринуждённо, вы чувствуете, что за его ясным взглядом кроется куда более бдительный ум, чем могло показаться вначале; ум, способный быстро и точно среагировать даже на малейший признак беспорядка или опасности. Когда он в конце концов открывает рот, его тяжёлый голос без усилий наполняет эту маленькую комнату.::
+
+Мы ждали вас. Я Эверард, -- называйте меня так, -- и я рад приветствовать вас на Литейной.<end>
+
+=>q3_original
+It's a bit chaotic here at the moment, but that should not interfere with our plans. Right?<end>
+
+=>q3
+В данный момент здесь немного беспокойно, но это ведь не помешает нашим планам. Верно?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Jack told me to talk to you about an assignment.<end>
+
+=>a5
+Джек сказал мне поговорить с вами по поводу задания.<end>
+
+=>q6_original
+I reckon he did. We have a very important situation, $(context.player.Name).<end>
+
+=>q6
+Я этого ожидал. У нас очень серьёзная ситуация, $(context.player.Name).<end>
+
+=>q7_original
+One of our own is imprisoned right here in Foundry; he allowed himself to get caught during a certain act and ended up behind bars. He is being held in Foundry prison, awaiting trial.<end>
+
+=>q7
+Один из наших попал в тюрьму здесь на Литейной; он позволил себя схватить в ходе одного дела и оказался за решёткой. Он содержится под стражей в ожидании суда.<end>
+
+=>a8_original
+What exactly happened?<end>
+
+=>a8
+Что конкретно произошло?<end>
+
+=>q9_original
+*Todor Sallywatch* was tasked with following a traveling merchant named Bolivar Daud and was to keep an eye on him. After certain events were to take place, Todor was instructed to assassinate him. Which he did.<end>
+
+=>q9
+*Тодор Салливач* выполнял задание по слежке за бродячим торговцем по имени Боливар Дауд. Получив сигнал, он должен был убить торговца. Так он и сделал.<end>
+
+=>q10_original
+But, his exfiltration was less than desirable. He was seen and allowed himself to be apprehended. The real issue here is that Todor is one of us, therefore, he knows everything we know. Right, $(context.player.Name)? And if the Foundry Guard was to find out what he knows... it would be very, *very* bad for us.<end>
+
+=>q10
+Его разоблачение было не желательным. Но он попался и позволил себя поймать. Проблема в том, что Тодор один из нас, а значит он знает всё, что знаем мы. Понятно, $(context.player.Name)? И если Стража Литейной узнает то, что знает он... это было бы очень, *очень* плохо... для нас.<end>
+
+=>a11_original
+You want me to get him out, got it.<end>
+
+=>a11
+Ясно, вы хотите, чтобы я вытащил$(#/а) его из тюрьмы.<end>
+
+=>q12_original
+Yes, get him out if possible. ::He slightly leans forward and then continues.:: If not, well...<end>
+
+=>q12
+Да, освободите его, если это возможно... ::Он слегка наклоняется вперёд.:: Если же нет, -- что ж...<end>
+
+=>q13_original
+Oh, one more thing before I let you on your mission: We have had a lucky break that bought us some time. Foundry has a single judge that handled *all* cases, and he... just recently died of food poisoning. How fortunate is that, right? With his death, Todor's case is on hold for now, giving us time to act. Or should I say, giving *you* time to act.<end>
+
+=>q13
+Да, ещё кое-что, прежде чем я отпущу вас: по удачному стечению обстоятельств, у нас есть время. На Литейной только один судья, который разбирает *все* дела, и он... совсем недавно умер от пищевого отравления. Очень удачно для нас, понимаете? После его смерти, дело Тодора рассматривать некому, что даёт нам время для действия. Точнее, это даёт *вам* время для действия<end>
+
+=>q14_original
+You may leave now. If you have any questions, I am always here.<end>
+
+=>q14
+Вы можете идти. Если у вас будут ещё вопросы, я всегда здесь.<end>
+
+=>a15_original
+What if I can't get him out of there?<end>
+
+=>a15
+Что если я не смогу вытащить его оттуда?<end>
+
+=>q16_original
+::He smiles.:: Well, then wish him a happy birthday.<end>
+
+=>q16
+::Он улыбается.:: Ну, что делать, тогда поздравьте его с днём рождения.<end>
+
+=>a17_original
+Wait - he is an assassin!?<end>
+
+=>a17
+Подождите, он убийца?!<end>
+
+=>q18_original
+He is an imprisoned assassin; there is a difference. But, you don't think you care about that detail - you care about the moral aspect. If so, then I have a simple, yet crucial advice: If you want to make progress with us, you will have to think differently, $(context.player.Name); you will have to adapt. Right?<end>
+
+=>q18
+Он убийца, сидящий под стражей -- вот что имеет значение. Но мне кажется, вас волнует не это, а моральный аспект. В таком случае, я дам вам простой, но важный совет: если вы хотите работать с нами, вам придётся научиться мыслить иначе, $(context.player.Name). Вам нужно уметь приспосабливаться. Понимаете?<end>
+
+=>a19_original
+I understand. Anyway, you want me to get him out?<end>
+
+=>a19
+Я понимаю. Так, что, вы хотите, чтобы я его освободил$(#/а)?<end>
+
+=>a20_original
+Right. All in all, what if I can't get him out of there?<end>
+
+=>a20
+Ясно. Короче, что если мне не удастся вытащить его оттуда?<end>
+
+=>a21_original
+I can't do this. I'm sorry, but I decline this job.<end>
+
+=>a21
+Я не могу этого сделать. Простите, но я не возьмусь за эту работу.<end>
+
+=>q22_original
+Disapointing. ::He turns his back toward you and falls silent.::<end>
+
+=>q22
+Я разочарован. ::Он разворачивается к вам спиной и замолкает.::<end>
+
+=>a23_original
+What a moron.<end>
+
+=>a23
+Что за придурок.<end>
+
+=>q24_original
+Harsh words, but he was careless indeed. Let us continue, shall we?<end>
+
+=>q24
+Резкие слова, но он действительно был неосмотрителен. Продолжим?<end>
+
+=>a25_original
+About Todor Sallywatch...<end>
+
+=>a25
+Насчёт Тодора Саллиуотча...<end>
+
+=>q26_original
+Yes?<end>
+
+=>q26
+Да?<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>a28_original
+I managed to get him out of the prison.<end>
+
+=>a28
+Мне удалось вытащить его из тюрьмы.<end>
+
+=>q29_original
+You killed everyone inside the prison; I don't think you even realize what you have done.<end>
+
+=>q29
+Вы всех там убили. Вы даже не думаете о последствиях.<end>
+
+=>q30_original
+You broke Todor out, though. I suppose you have done what was asked of you, technically. Return to Jack; your work here is done, $(context.player.Name).<end>
+
+=>q30
+Джек никогда бы не направил ко мне человека, не воспринимающего мир вокруг себя, верно? ::Он улыбается.::<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>q32_original
+::He smiles.:: Yes, you have done well. Where is Todor now?<end>
+
+=>q32
+::Он улыбается.:: Да, вы хорошо справились. Где теперь Тодор?<end>
+
+=>a33_original
+He said he's headed to Zeta and that you'll know what that means.<end>
+
+=>a33
+Он сказал, что пойдёт в Зету, и вы поймёте, что это значит.<end>
+
+=>q34_original
+I do. Was Todor discreet about our business in Foundry? You know what I am talking about.<end>
+
+=>q34
+Я понимаю. Скажите, смог ли Тодор сохранить в тайне наше дело на Литейной? Вы понимаете, о чём я.<end>
+
+=>a35_original
+He didn't say anything, I'm sure of it.<end>
+
+=>a35
+Он ничего не сказал. Я уверен$(#/а) в этом.<end>
+
+=>q36_original
+::He smiles.:: Good, I am very glad to hear that. You can return to Jack now; your work here is done.<end>
+
+=>q36
+::Он улыбается.:: Хорошо, я рад это слышать. Возвращайтесь к Джеку. Ваше работа здесь выполнена.<end>
+
+=>a37_original
+He snitched you out. You better be careful.<end>
+
+=>a37
+Он сдал вас. Вам лучше быть осторожней.<end>
+
+=>q38_original
+I see. I am disappointed, but in the end I expected it. I will discuss this with him personally when we meet again. And you, $(context.player.Name) - you have done well. You can return to Jack now; your work here is done.<end>
+
+=>q38
+Ясно. Я разочарован, но этого следовало ожидать. Мне придётся обсудить это с ним лично при нашей следующей встрече. А вы, $(context.player.Name) -- вы хорошо справились. Возвращайтесь к Джеку. Ваша работа здесь выполнена.<end>
+
+=>a39_original
+I don't know.<end>
+
+=>a39
+Я не знаю.<end>
+
+=>q40_original
+That was not the answer I was hoping for, $(context.player.Name). But I got it none the less and I will have to be careful from now on. Otherwise, you have done well. You can return to Jack now; your work here is done.<end>
+
+=>q40
+Это не тот ответ, который я хотел услышать, $(context.player.Name). Но это ответ, а мне теперь придётся быть осторожнее. В остальном, вы хорошо справились. Возвращайтесь к Джеку. Ваша работа здесь выполнена.<end>
+
+=>a41_original
+Todor has been silenced.<end>
+
+=>a41
+Тодор больше ничего не скажет.<end>
+
+=>q42_original
+So, it had to be done. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
+
+=>q42
+Значит, это было необходимо. Скажите, смог ли Тодор сохранить в тайне наше дело на Литейной? Вы понимаете, о чём я.<end>
+
+=>a43_original
+He didn't say anything. I'm sure of it.<end>
+
+=>a43
+Он ничего не сказал. Я уверен$(#/а) в этом.<end>
+
+=>q44_original
+That is a valuable information. But still, we're safer this way. You've done well. You can return to Jack now. Your work here is done.<end>
+
+=>q44
+Это ценная информация. Всё же, так нам спокойнее. Вы хорошо справились. Возвращайтесь к Джеку. Ваша работа здесь выполнена.<end>
+
+=>a45_original
+He snitched you out. You better be careful. <end>
+
+=>a45
+Он сдал вас. Вам лучше быть осторожней.<end>
+
+=>q46_original
+Right, we will. That is a valuable information and I thank you for it. You've done well. You can return to Jack now. Your work here is done.<end>
+
+=>q46
+Понятно, мы учтём это. Это ценная информация, и я благодарю вас за неё. Вы хорошо справились. Возвращайтесь к Джеку. Ваша работа здесь выполнена.<end>
+
+=>a47_original
+I don't know.<end>
+
+=>a47
+Я не знаю.<end>
+
+=>a48_original
+I managed to get Todor released from prison.<end>
+
+=>a48
+Мне удалось договориться об освобождении Тодора из тюрьмы.<end>
+
+=>q49_original
+Excellent, I am pleased to hear that. You did good work! Todor will be out of Foundry for a while; I'm guessing he has already headed to a safer location.
+
+Still, I have to ask you something. Tell me: Was Todor discreet about our business in Foundry? You know what I mean.<end>
+
+=>q49
+Превосходно, я рад это слышать. Вы отлично справились! Тодору лучше больше не появляться на Литейной; думаю, он уже направляется в более безопасное место.
+
+Тем не менее, я вынужден спросить: скажите, смог ли Тодор сохранить в тайне наше дело на Литейной? Вы понимаете, о чём я.<end>
+
+=>a50_original
+Why was the merchant killed?<end>
+
+=>a50
+Почему убили торговца?<end>
+
+=>q51_original
+Because someone wanted him dead. Simple, right?<end>
+
+=>q51
+Потому что кто-то хотел его смерти. Ничего странного, да?<end>
+
+=>q52_original
+Revealing who was behind it is impossible. That is something *you* are not allowed to know.<end>
+
+=>q52
+Сказать, кто стоит за этим, я не могу. Такие вещи *вам* знать не положено.<end>
+
+=>a53_original
+What can you tell me about Foundry prison?<end>
+
+=>a53
+Что вы можете мне рассказать о тюрьме Литейной?<end>
+
+=>q54_original
+Well, it is a high security area, I can tell you that. You will find the main entrance south of here, down a set of stairs; that is the only entrance, but might not be the only exit.
+
+The area has patrolling guards armed to the teeth, cameras, turrets and a set of two heavy metal splitgates separate the entry area from the cell block. Mark my words - the security is tight, and there is very little room for error.<end>
+
+=>q54
+Я могу вам сказать, что это место находится под сильной охраной. Вы найдёте центральный вход к югу отсюда, вниз по лестнице. Это единственный вход, но, возможно, не единственный выход.
+
+Патрули внутри вооружены до зубов, повсюду камеры наблюдения, турели, и двое тяжёлых металлических ворот преграждают путь к тюремному блоку. Запомните -- система безопасности на уровне, и у вас не будет права на ошибку.<end>
+
+=>q55_original
+Also, as far as I know, everything is being recorded by the cameras and, in case of emergency, reinforcements are able to arrive within a few minutes.
+
+It is a truly problematic place, isn't it?<end>
+
+=>q55
+Также, насколько мне известно, изображение с камер наблюдения записывается и, в случае чрезвычайной ситуации, подкрепление прибудет в течение нескольких минут.
+
+Проблемное место, не так ли?<end>
+
+=>a56_original
+So, with the judge dead, who decides Todor's fate?<end>
+
+=>a56
+Кто теперь решает судьбу Тодора, если судья мёртв?<end>
+
+=>q57_original
+Well, Foundry doesn't want to be like everyone else, in a sense that they disprove of serving quick "justice,"  as is common throughout South Underrail. They have their own justice system and they stick to it firmly, right? They will probably appoint a new judge before dealing with Todor.<end>
+
+=>q57
+Видите ли, Литейная не желает быть как все остальные в том плане, что они отвергают скорое на руку «правосудие», популярное во всей Южной Подземке. У них своя собственная система правосудия, и они её строго придерживаются, понимаете? Наиболее вероятно, что они назначат нового судью, прежде чем приступить к разбирательству дела Тодора.<end>
+
+=>q58_original
+But, for now, he is in the hands of the prison warden.<end>
+
+=>q58
+Но пока что он в руках начальницы тюрьмы.<end>
+
+=>a59_original
+Let me ask you something else...<end>
+
+=>a59
+Позвольте спросить у вас ещё кое-что...<end>
+
+=>q60_original
+Go ahead.<end>
+
+=>q60
+Продолжайте.<end>
+
+=>a61_original
+What can you tell me about Foundry?<end>
+
+=>a61
+Что вы можете мне рассказать о Литейной?<end>
+
+=>q62_original
+There is much one can tell about Foundry, but very little that is difficult to figure out one's own. Just look around you, and look carefully.<end>
+
+=>q62
+Многое можно рассказать о Литейной, и мало что из этого трудно увидеть самому. Просто оглянитесь вокруг и смотрите внимательно.<end>
+
+=>q63_original
+Jack would never send me a person unaware of the world around $(#him/her), right? ::He smiles.::<end>
+
+=>q63
+Джек никогда бы не направил ко мне человека, не воспринимающего мир вокруг себя, верно? ::Он улыбается.::<end>
+
+=>a64_original
+What do you mean by chaos in Foundry?<end>
+
+=>a64
+Что вы имеете в виду, говоря о беспокойной ситуации на Литейной?<end>
+
+=>q65_original
+You haven't noticed anything? Hmm, you need to keep your eyes and ears open, $(#buddy/missy). 
+
+The miners ran into strange creatures during excavation. All mining operations have been halted and will remain halted until the situation gets resolved.<end>
+
+=>q65
+Вы ничего не заметили? Хм-м, нужно всегда держать ухо востро, $(#приятель/девушка).
+
+Во время раскопок шахтёры столкнулись со странными существами. Все работы по добыче были приостановлены и не возобновятся до тех пор, пока ситуация не разрешится.<end>
+
+=>q66_original
+Closed mine hurts a mining community, right? And the creatures seem stubborn - hard to expunge. So the big heads are nervous. We'll just keep on watching and see how things develop.<end>
+
+=>q66
+Закрытая шахта это плохо для шахтёрского поселения, не правда ли? А эти существа упорны, их непросто прогнать. Итак, большие шишки на грани, нервничают. Мы же просто продолжим наблюдение, посмотрим как будут развиваться события.<end>
+
+=>a67_original
+What are you guys doing here on this roof?<end>
+
+=>a67
+Что вы, ребята, делаете тут на крыше?<end>
+
+=>q68_original
+Chillin'.<end>
+
+=>q68
+Тусим.<end>
+
+=>q69_original
+::He laughs.:: I am joking, of course. As you can see, we have a more than satisfying position here, above everyone else. We can observe them and do our work pretty much without interference, right? What is that work exactly? Some other time on that... ::He smiles.::<end>
+
+=>q69
+::Он смеётся.:: Я шучу, конечно же. Как вы видите, мы устроились здесь более чем хорошо, на самом верху. Мы можем наблюдать и делать нашу работу почти без всяких помех, согласны? А что это за работа? Я расскажу об этом в другой раз... ::Он улыбается.::<end>
+
+=>a70_original
+Goodbye Everard.<end>
+
+=>a70
+До свидания, Эверард.<end>
+
+=>q71_original
+Take care and keep your eyes open.<end>
+
+=>q71
+Будь осторож$(#ен/на) и держи глаза открытыми.<end>
+
+=>q72_original
+We have been watching you take care of this mess here in Foundry. ::He slowly claps.::
+
+Well done.<end>
+
+=>q72
+Мы наблюдали за тем, как вы справились с этим бардаком на Литейной. ::Он медленно хлопает.::
+
+Хорошая работа.<end>
+
+=>q73_original
+Yes?<end>
+
+=>q73
+Да?<end>
+

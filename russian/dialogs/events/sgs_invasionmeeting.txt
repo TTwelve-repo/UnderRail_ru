@@ -1,0 +1,190 @@
+﻿=>q1_original
+Don't you have somewhere to be?<end>
+
+=>q1
+Ты, вроде, куда-то собирал$(#ся/ась)?<end>
+
+=>q2_original
+::Gorsky and Tanner seem to be in the middle of a conversation.:: ...So I'm heading there right now to see just what the hell is going on, and considering the severity of the situation, do not expect my return anytime soon.<end>
+
+=>q2
+::Горский и Таннер, похоже, что-то обсуждают.:: ...Так что я немедленно отправляюсь туда, чтобы посмотреть, что за хрень там творится. Учитывая серьёзность положения, скоро меня не ждите.<end>
+
+=>q3_original
+::He nods in agreement to what Gorsky said, before turning to you.:: We'll need your assistance with this as well.<end>
+
+=>q3
+::Он кивает в знак согласия на слова Горского, затем обращается к вам.:: Ваша помощь тоже понадобится.<end>
+
+=>q4_original
+Some sort of an attack has been carried out against Core City up north a few hours ago. The reports are sketchy, but apparently the Faceless are involved somehow.<end>
+
+=>q4
+Несколько часов назад на Кор-Сити было совершено нападение. Отчёты отрывочны, но, судя по всему, вовлечены безликие.<end>
+
+=>q5_original
+My contact tells me that the Faceless used their tunneling machines to circumvent the city's outermost defenses and deployed their forces just outside the city, cutting off the tunnel to the north. They haven't attempted to invade the city itself though. Not yet, anyway.<end>
+
+=>q5
+Мой агент доложил, что безликие обошли внешние рубежи обороны города при помощи своих проходческих машин и осадили город, отрезав путь на север. Они не пытались проникнуть в сам город. Пока что, во всяком случае.<end>
+
+=>q6_original
+It is clear why they attacked in this particular spot. If any help was to arrive from the Protectorate up north, it would have to pass through the north tunnel. But since the tunnel is now controlled by the Faceless, it would be the easiest thing in the world for them to simply collapse it, delaying the Protectorate deployment indefinitely.<end>
+
+=>q6
+Понятно, зачем они атаковали именно в этом месте. Любая помощь из Протектората могла бы подойти только через северный туннель. Но, так как он находится под контролем безликих, им проще простого будет обвалить его, задержав подкрепления на неопределённый срок.<end>
+
+=>q7_original
+They obviously wouldn't need that tunnel themselves. They make their own.<end>
+
+=>q7
+Сам туннель им, ясное дело, не нужен. Они копают свои.<end>
+
+=>q8_original
+All this is very strange. Faceless don't usually attack unless provoked. We know that they don't like the Protectorate much and are known to skirmish with them on occasion, but as far as I can remember they've never waged war on any independent station.<end>
+
+=>q8
+Всё это очень странно. Безликие обычно не нападают, если их не спровоцировать. Мы знаем, что они не слишком любят Протекторат, известны несколько случаев стычек между ними, но войной на независимые станции они прежде не ходили.<end>
+
+=>q9_original
+But that's not all I'm afraid.<end>
+
+=>q9
+Боюсь, это ещё не всё.<end>
+
+=>q10_original
+In addition to the reports from Core City, we've also received a distress signal from Rail Crossing.  They are having troubles of their own. We don't have any details regarding this, but apparently Faceless are involved there as well.<end>
+
+=>q10
+Вдобавок к новостям из Кор-Сити, мы получили сигнал бедствия с Переезда. У них свои проблемы. Подробностей нет, но, судя по всему, и там замешаны безликие.<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+Who are the Faceless exactly?<end>
+
+=>a12
+Кто такие безликие?<end>
+
+=>q13_original
+Thing is - no one really knows. They live somewhere, or maybe everywhere, in the tunnels far below. Lower than most humans could endure living. They wear masks, never showing their faces, hence the name.<end>
+
+=>q13
+Да никто толком не знает. Они живут где-то или, может, повсюду в туннелях внизу. Ниже, чем могли бы выжить люди. Они носят маски, никогда не показывая своего лица, -- отсюда и имя.<end>
+
+=>q14_original
+Many stories about them and their origins circulate the Underrail, but it's impossible to tell which ones are true. Ask around if you're curious.<end>
+
+=>q14
+По Подземке гуляет множество легенд о том, кто они и откуда, но невозможно сказать, что из этого правда. Поспрашивайте в округе, если вам интересно.<end>
+
+=>a15_original
+Can you tell me anything about Core City?<end>
+
+=>a15
+Расскажите немного про Кор-Сити.<end>
+
+=>q16_original
+It's a city that lies on the border between the north Underrail, controlled mostly by the Protectorate and the United Stations, and the south Underrail which is where we are.<end>
+
+=>q16
+Это город, который лежит на границе между Северной Подземкой, контролируемой в основном Протекторатом и Объединёнными Станциями, и Южной Подземкой, где мы.<end>
+
+=>q17_original
+::Gorsky smirks.:: The land of the free.<end>
+
+=>q17
+::Горский ухмыляется.:: Земля свободных.<end>
+
+=>q18_original
+The Core City spans both Lower and Upper Underrail, but since the upper railroad connections have all collapsed, the city's Lower Underrail north tunnel is the only connection to the Protectorate territory.<end>
+
+=>q18
+Кор-Сити соединяет Верхнюю и Нижнюю Подземку, но верхние туннели все осыпались, и единственная его связь с территорией Протектората -- через северный туннель в Нижней Подземке.<end>
+
+=>a19_original
+What sort of place is Rail Crossing?<end>
+
+=>a19
+Что это за Переезд?<end>
+
+=>q20_original
+It's an independent station built inside an old train depot to the northwest. Relatively peaceful place. We do a good amount of trading with them.<end>
+
+=>q20
+Это независимая станция, построенная внутри старого железнодорожного депо на северо-западе. Относительно спокойное место. Мы с ними много торгуем.<end>
+
+=>a21_original
+What do you want me to do?<end>
+
+=>a21
+Что от меня требуется?<end>
+
+=>q22_original
+I want you to find out what's going on in Rail Crossing, assist them if you can and report back to me.<end>
+
+=>q22
+Узнайте, что происходит на Переезде, окажите любую помощь, если сможете, и доложите мне.<end>
+
+=>q23_original
+Avoid engaging the Faceless if possible. We don't want to draw any unwanted attention. If you can find out what is causing them to attack these places, that would be helpful.<end>
+
+=>q23
+Избегайте конфликта с безликими, если возможно. Нам ни к чему нежелательное внимание. Было бы полезно, если бы вам удалось узнать, что вызвало их нападение.<end>
+
+=>q24_original
+I'm heading out to Core City myself to check out the situation there. You should meet me there as soon as possible. Look for me in the Hardcore City Bar.<end>
+
+=>q24
+Я тоже направляюсь в Кор-Сити, чтобы оценить ситуацию. Встретимся там как можно скорее. Ищи меня в баре Хардкор-Сити.<end>
+
+=>q25_original
+Vera has a job for you as well. Be sure to speak with her before you set out.<end>
+
+=>q25
+У Веры тоже есть для вас работа. Обязательно зайдите к ней перед уходом.<end>
+
+=>a26_original
+How do I get to Rail Crossing or the Core City?<end>
+
+=>a26
+Как мне добраться до Переезда и Кор-Сити?<end>
+
+=>q27_original
+There are a couple ways to get to Rail Crossing. The easiest would be to take the train, since we cleared out the rocks. Alternatively, you could go through the side tunnels on foot, but some of them might still be collapsed, so make sure you bring some explosive charges to clear the way.
+
+As for Core City, both train and ferry are your options, with the ferry being probably a bit safer at the moment.<end>
+
+=>q27
+Есть несколько способов добраться до Переезда. Проще всего сесть на поезд, мы уже расчистили завалы. Также туда можно добраться пешком через боковые туннели. Они могут быть засыпаны, так что захватите взрывчатки.
+
+Что касается Кор-Сити, туда ходят и поезд и паром; паром сейчас будет, пожалуй, побезопаснее.<end>
+
+=>a28_original
+Alright, I'm off.<end>
+
+=>a28
+Ладно, я пош$(#ёл/ла).<end>
+
+=>q29_original
+Good luck.<end>
+
+=>q29
+Удачи.<end>
+
+=>q30_original
+You're going to need it.<end>
+
+=>q30
+Она тебе пригодится.<end>
+
+=>a31_original
+Alright. I'm off.<end>
+
+=>a31
+Ладно, я пош$(#ёл/ла).<end>
+

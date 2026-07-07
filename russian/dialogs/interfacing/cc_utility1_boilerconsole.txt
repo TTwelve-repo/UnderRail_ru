@@ -1,0 +1,178 @@
+﻿=>q1_original
+::Warning, warning!!! Waterpool cooling - critical temperature detected! 
+
+All boiling units have exceeded allowed thresholds!
+
+Emergency protocol is now available. Immediately disengage the heating units!::<end>
+
+=>q1
+::Внимание, предупреждение!!! Охлаждение бассейна - обнаружена критическая температура!
+
+Все единицы кипения превысили допустимые пороги!
+
+Аварийный протокол теперь доступен. Немедленно отключить нагревательные элементы!::<end>
+
+=>a2_original
+::Disable all heating units::<end>
+
+=>a2
+::Отключить все нагревательные элементы::<end>
+
+=>q3_original
+::Error, error, error...::<end>
+
+=>q3
+::Ошибка, ошибка, ошибка...::<end>
+
+=>a4_original
+::Go back.::<end>
+
+=>a4
+::Вернуться.::<end>
+
+=>a5_original
+::Leave.::<end>
+
+=>a5
+::Уйти::<end>
+
+=>a6_original
+::Compute cooling statistics::<end>
+
+=>a6
+::Рассчитать  статистику охлаждения::<end>
+
+=>q7_original
+::Error, error, error...::<end>
+
+=>q7
+::Ошибка, ошибка, ошибка...::<end>
+
+=>a8_original
+::Conduct emergency protocol::<end>
+
+=>a8
+::Ведение аварийного протокола::<end>
+
+=>q9_original
+::Emergency exit now available, proceed to east and take shelter within the secure room.::<end>
+
+=>q9
+::Теперь доступен аварийный выход, идите на восток и укройтесь в охраняемой комнате.::<end>
+
+=>q10_original
+::Warning, warning!!! Waterpool cooling - critical temperature detected! 
+
+Head east to the emergency exit and take shelter within the secure room.::<end>
+
+=>q10
+::Внимание, предупреждение!!! Охлаждение бассейна - обнаружена критическая температура!
+
+Идите на восток к аварийному выходу и укройтесь в охраняемой комнате.::<end>
+
+=>q11_original
+::The console displays ten distinct heat bars, each showing the current temperature they're operating with. Every boiling unit has its own set of controls, all of which are used to manipulate the amount of heat they can dish out. A separate section of the display shows the water level, as well as the humidity of nearby air.::<end>
+
+=>q11
+:: Консоль отображает десять различных полос нагрева, каждая из которых показывает текущую температуру, с которой они работают. Каждая кипящая установка имеет свой собственный набор элементов управления, каждый из которых используется для управления количеством тепла, которое они могут выделять. В отдельной части дисплея отображается уровень воды, а также влажность окружающего воздуха.::<end>
+
+=>a12_original
+::Adjust cooling/heating levels.::<end>
+
+=>a12
+::Регулировка уровней охлаждения/обогрева.::<end>
+
+=>q13_original
+::Error, error, error...::
+
+::Manual override required.::<end>
+
+=>q13
+::Ошибка, ошибка, ошибка...::
+
+::Требуется ручное управление.::<end>
+
+=>a14_original
+::Go back.::<end>
+
+=>a14
+::Вернуться.::<end>
+
+=>a15_original
+::Compute cooling statistics::<end>
+
+=>a15
+::Рассчитать  статистику охлаждения::<end>
+
+=>q16_original
+::Water levels - critical (reserves employed).
+ 
+Temperature - critical (exceeded water boiling point). 
+
+Humidity - very high (over 88%). 
+
+Power consumption - high.::<end>
+
+=>q16
+:: Уровень воды - критический (использованы реверсы).
+Температура - критическая (превышение температуры кипения воды).
+Влажность - очень высокая (более 88%).
+Энергопотребление - высокое.::<end>
+
+=>q17_original
+::Water levels - low (reverves employed).
+ 
+Temperature - high (at water boiling point). 
+
+Humidity - high (over 65%). 
+
+Power consumption - moderate/high.::<end>
+
+=>q17
+::Уровень воды - низкий (используются реверсы).
+Температура - высокая (при температуре кипения воды).
+Влажность - высокая (более 65%).
+Энергопотребление - среднее/высокое.::<end>
+
+=>q18_original
+::Water levels - stable (reverves semi-employed).
+ 
+Temperature - high (nearing water boiling point). 
+
+Humidity - high (over 41%). 
+
+Power consumption - moderate.::<end>
+
+=>q18
+::Уровень воды - стабильный (полу-занятый реверс).
+Температура - высокая (близкая к температуре кипения воды).
+Влажность - высокая (более 41%).
+Энергопотребление - умеренное.::<end>
+
+=>q19_original
+::Water levels - nominal.
+ 
+Temperature - nominal. 
+
+Humidity - nominal. 
+
+Power consumption - minimal.::<end>
+
+=>q19
+::Уровни воды - номинальные.
+Температура - номинальная.
+Влажность - номинальная.
+Энергопотребление - минимальное.::<end>
+
+=>a20_original
+::Detailed Power consumption readings::<end>
+
+=>a20
+::Подробные показания энергопотребления::<end>
+
+=>q21_original
+::The screen flickers for a moment before giving up. The action has failed.::<end>
+
+=>q21
+::Экран недолго мерцает, прежде чем выдать сообщение. Действие не выполнено.::<end>
+

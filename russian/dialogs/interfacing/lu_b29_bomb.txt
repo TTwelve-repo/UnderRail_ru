@@ -1,0 +1,258 @@
+﻿=>q1_original
+::You approach a ticking explosive device. There is a visible countdown timer, and, as you further inspect it, you notice that the explosive is housed in a crudely made square metal case. One side of the case seems loose.::<end>
+
+=>q1
+::Вы приближаетесь к тикающей бомбе. На ней виден таймер обратного отсчёта. Вы замечаете, что взрывчатка расположена в грубо сделанном металлическом корпусе. Одна сторона корпуса кажется незакреплённой.::<end>
+
+=>a2_original
+::Try to gently remove the loose side panel.::<end>
+
+=>a2
+::Попробовать аккуратно удалить незакреплённую боковую панель.::<end>
+
+=>q3_original
+::You slide the tip of one of your nails in between the panel and the casing.::<end>
+
+=>q3
+::Вы просовываете кончик ногтя между панелью и корпусом.::<end>
+
+=>a4_original
+::Gently...::<end>
+
+=>a4
+::Аккуратнее...::<end>
+
+=>q5_original
+::You've successfully opened one side of the case. Inside you see a small electrical board that's connected to what appears to be the detonator via three wires; the detonator is inserted directly into the explosive. On the board itself you notice a lit red LED, four small switches, and a small battery. You still hear the bomb ticking.::<end>
+
+=>q5
+::Вы успешно открываете одну из стенок корпуса. Внутри вы видите небольшую электрическую плату, подключённую к похожему на детонатор устройству тремя проводами. Сам детонатор непосредственно вставлен во взрывчатку. На самой плате видны горящий красный светодиод, четыре маленьких переключателя и небольшая батарея. Вы по-прежнему слышите тиканье бомбы.::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+::Inspect the battery.::<end>
+
+=>a7
+::Осмотреть батарею.::<end>
+
+=>q8_original
+::By careful inspection you notice that the battery doesn't seem to be powering the detonator itself but something else on the board. You also see one crudely soldered wire going from the battery slot to the small switches.::<end>
+
+=>q8
+::При тщательном осмотре вы видите, что батарея, похоже, питает не сам детонатор, а что-то ещё на плате. Вы также замечаете один грубо припаянный провод, идущий от гнезда батареи к небольшим переключателям.::<end>
+
+=>a9_original
+::Attempt to remove the battery.::<end>
+
+=>a9
+::Попытаться извлечь батарею.::<end>
+
+=>a10_original
+::Attempt to remove the battery.::<end>
+
+=>a10
+::Попытаться извлечь батарею.::<end>
+
+=>q11_original
+::You've managed to safely remove the battery. You immediately notice the red LED die.::<end>
+
+=>q11
+::Вам удалось благополучно извлечь батарею. Вы сразу же обращаете внимание на то, что красный светодиод погас.::<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>a13_original
+::[Traps] Attempt to remove the battery.::<end>
+
+=>a13
+::[Ловушки] Попытаться извлечь батарею.::<end>
+
+=>a14_original
+::Try something else.::<end>
+
+=>a14
+::Попробовать что-нибудь ещё.::<end>
+
+=>q15_original
+::You see the flipped switch, the red LED that stopped shining, and an empty battery slot. All that's on a board connected to the detonator via three wires. You still hear the bomb ticking.::<end>
+
+=>q15
+::Вы видите перещелкнутый переключатель, погасший красный светодиод и пустой отсек батареи. Всё это находится на плате, подключённой к детонатору тремя проводами. Вы по-прежнему слышите тиканье бомбы.::<end>
+
+=>q16_original
+::You see the flipped switch, a still lit red LED and a small battery. All that's on a board connected to the detonator via three wires. You still hear the bomb ticking.::<end>
+
+=>q16
+::Вы видите перещелкнутый переключатель, всё так же горящий красный светодиод и небольшую батарею. Всё это находится на плате, подключённой к детонатору тремя проводами. Вы по-прежнему слышите тиканье бомбы.::<end>
+
+=>q17_original
+::You see a small electrical board that's connected to what appears to be the detonator via three wires; the detonator is inserted directly into the explosive. On the board itself you notice a lit red LED, four small switches, and a small battery. You still hear the bomb ticking.::<end>
+
+=>q17
+::Вы видите небольшую электрическую плату, подключённую к похожему на детонатор устройству тремя проводами. Сам детонатор непосредственно вставлен во взрывчатку. На самой плате видны горящий красный светодиод, четыре маленьких переключателя и небольшая батарея. Вы по-прежнему слышите тиканье бомбы.::<end>
+
+=>a18_original
+::Inspect the wires.::<end>
+
+=>a18
+::Осмотреть провода.::<end>
+
+=>q19_original
+::Three wires connect the board to the detonator. They're colored red, blue and black.::<end>
+
+=>q19
+::Три провода подключены к детонатору. Они окрашены в красный, синий и чёрный цвета.::<end>
+
+=>a20_original
+::Cut the red one.::<end>
+
+=>a20
+::Перерезать красный провод.::<end>
+
+=>a21_original
+::Cut the blue one.::<end>
+
+=>a21
+::Перерезать синий провод.::<end>
+
+=>a22_original
+::Cut the black one.::<end>
+
+=>a22
+::Перерезать чёрный провод.::<end>
+
+=>a23_original
+::Cut the black one.::<end>
+
+=>a23
+::Перерезать чёрный провод.::<end>
+
+=>q24_original
+::As you cut the black wire, the ticking stops. It appears that the explosive is no longer active.::<end>
+
+=>q24
+::Как только вы разрезаете чёрный провод, тиканье прекращается. Похоже, что бомба больше не активна.::<end>
+
+=>a25_original
+::Step away from the explosive.::<end>
+
+=>a25
+::Отойти от бомбы.::<end>
+
+=>a26_original
+::[Traps] Cut the black one.::<end>
+
+=>a26
+::[Ловушки] Перерезать чёрный провод.::<end>
+
+=>a27_original
+::Inspect the switches.::<end>
+
+=>a27
+::Осмотреть переключатели.::<end>
+
+=>q28_original
+::You see four white switches on the board that are numerically labeled one through four. They only appear to be connected to the battery slot by a crudely soldered wire.::<end>
+
+=>q28
+::На плате вы видите четыре белых переключателя, пронумерованных от единицы до четырёх. Похоже, что они подсоединены только к гнезду батареи при помощи грубо припаянного провода.::<end>
+
+=>a29_original
+::Flip all the switches.::<end>
+
+=>a29
+::Щёлкнуть всеми переключателями.::<end>
+
+=>a30_original
+::Flip the first switch.::<end>
+
+=>a30
+::Щёлкнуть первым переключателем.::<end>
+
+=>a31_original
+::Flip the second switch.::<end>
+
+=>a31
+::Щёлкнуть вторым переключателем.::<end>
+
+=>q32_original
+::As you flip the switch, you hear a clicking sound coming from somewhere else on the board.::<end>
+
+=>q32
+::Как только вы щёлкаете переключателем, вы слышите ещё один щелчок, исходящий откуда-то ещё на плате.::<end>
+
+=>a33_original
+::[Traps] Flip the second switch.::<end>
+
+=>a33
+::[Ловушки] Щёлкнуть вторым переключателем.::<end>
+
+=>a34_original
+::Flip the third switch.::<end>
+
+=>a34
+::Щёлкнуть третьим переключателем.::<end>
+
+=>a35_original
+::Flip the fourth switch.::<end>
+
+=>a35
+::Щёлкнуть четвёртым переключателем.::<end>
+
+=>a36_original
+::Inspect the detonator.::<end>
+
+=>a36
+::Осмотреть детонатор.::<end>
+
+=>q37_original
+::The detonator seems firmly inserted into the body of the explosive.::<end>
+
+=>q37
+::Детонатор, судя по всему, очень прочно держится во взрывчатке.::<end>
+
+=>a38_original
+::Attempt to pull it out.::<end>
+
+=>a38
+::Попытаться вытащить его.::<end>
+
+=>a39_original
+::Gently flip the board.::<end>
+
+=>a39
+::Аккуратно перевернуть плату.::<end>
+
+=>q40_original
+::Other than a bunch of solder joints, you spot two dots in the corner, done with a black marker.::<end>
+
+=>q40
+::Помимо нескольких паяных соединений, вы замечаете в углу две точки, нанесённые чёрным маркером.::<end>
+
+=>a41_original
+::Stop defusing the explosive.::<end>
+
+=>a41
+::Прекратить обезвреживание бомбы.::<end>
+
+=>a42_original
+::Attempt to move the explosive.::<end>
+
+=>a42
+::Попробовать переместить бомбу.::<end>
+
+=>a43_original
+::Kick the explosive.::<end>
+
+=>a43
+::Пнуть бомбу.::<end>
+

@@ -1,0 +1,189 @@
+﻿=>q1_original
+::This senior Underrailer is quick to designate you as a potential customer - after taking a good look at you with his keen eyes, of course - for he seems to be a traveling merchant of some kind. The heavy load on his back must be his inventory.::
+
+<end>
+
+=>q1
+::Этот пожилой обитатель Подземки быстро опознаёт в вас потенциального покупателя, лишь бросив на вас внимательный взгляд острых глаз. Похоже, что он -- бродячий торговец, а тяжёлый груз за его спиной, должно быть, его товары.::
+<end>
+
+=>q2_original
+Greetings, youngster. <end>
+
+=>q2
+Приветствую, $(#молодой человек/девушка).<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+Need some weapons and gear? <end>
+
+=>q4
+Нужно оружие или снаряжение?<end>
+
+=>q5_original
+Got a few things a $(#guy/gal) like you might find interestin'. Wanna take a look, eh, wanna?<end>
+
+=>q5
+У меня найдётся несколько вещей, которые $(#молодой человек/девушка) вроде вас может найти интересными. Не желаете взглянуть?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Show me what you have. ::Barter.::<end>
+
+=>a7
+Покажите мне, что у вас есть. ::Обмен.::<end>
+
+=>a8_original
+So, how's life on the rails treating you?<end>
+
+=>a8
+Как вам жизнь на рельсах?<end>
+
+=>q9_original
+Meh. Not too bad, but lately I've been startin' to feel my age. It takes some effort movin' these ol' bones from one place to the next, ya know. As years go by... the distance seems greater and greater. Mmm. 
+
+But a man's gotta do what a man's gotta do if he wants to earn some half-decent coin, I tell ya what.<end>
+
+=>q9
+Ох. Не так уж плохо, но в последнее время я начинаю чувствовать свой возраст. Таскаю свои старые кости с места на место, продаю вещички и по мере того, как годы идут -- расстояние кажется всё больше и больше. Ох.
+
+Но мужик должен делать то, что должен делать мужик, если он хочет заработать немного монет, могу я сказать.<end>
+
+=>a10_original
+Are beasts and bandits giving you trouble?<end>
+
+=>a10
+Животные и бандиты доставляют вам неприятности?<end>
+
+=>q11_original
+Please. I'm a vet'ran, youngster - a true vet'ran. Been roamin' Underrail since before ya got the courage to crawl outta yer mother's tummy, he-he. I got quite a few tricks up my sleeve, don't ya worry - don't ya worry.<end>
+
+=>q11
+Попрошу. Я ветеран, $(#юноша/юная леди) -- настоящий ветеран. Я бродил по Подземке ещё с тех пор кода ты пешком под стол ходил$(#/а), хе-хе. Не переживай, у меня есть пару тузов в рукаве.<end>
+
+=>q12_original
+Instead, ya better worry about them coins ya got on you, 'cause I got some fine stuff to trade. Eh? Wanna?<end>
+
+=>q12
+Вместо этого лучше побеспокойся о тех монетах, которые у тебя с собой, потому что у меня есть кое-какие хорошие вещи на обмен. А? Желаешь?<end>
+
+=>a13_original
+Are pirates giving you trouble?<end>
+
+=>a13
+Пираты создают проблемы?<end>
+
+=>a14_original
+So, how's marine life treating you?<end>
+
+=>a14
+Как вам морская жизнь?<end>
+
+=>a15_original
+Is the pig for sale too?<end>
+
+=>a15
+Свинья тоже продаётся?<end>
+
+=>q16_original
+Oh, no, no. That's mah friend! This little fella's been helpin' me move merchandise fer years and years.<end>
+
+=>q16
+О, нет, нет. Это мой друг! Этот маленький приятель мне много лет помогал перевозить товары.<end>
+
+=>q17_original
+Ain't that right, Snorty, ain't that right?<end>
+
+=>q17
+Не так ли, Фырки, не так ли?<end>
+
+=>q18_original
+Snort!<end>
+
+=>q18
+Фырк!<end>
+
+=>q19_original
+He-he-he. Look at it! Them pigs are the smartest animals out there, lemme tell ya. 
+
+Smarter than dogs - 'n' even some people!<end>
+
+=>q19
+Хе-хе-хе. Посмотри на это! Я тебе скажу, свиньи -- самые умные животные.
+
+Умнее собак -- и даже некоторых людей!<end>
+
+=>a20_original
+Sorry, I'm not interested.<end>
+
+=>a20
+Простите, но мне это не интересно.<end>
+
+=>q21_original
+Ya sure? I'll be restin' here a while longer, so in case you change your mind, he-he, ya know where to find me.<end>
+
+=>q21
+Вы уверены? Я ещё немного здесь отдохну, так что, если вдруг передумаете, хе-хе, вы знаете где меня найти.<end>
+
+=>q22_original
+Need some electronics? <end>
+
+=>q22
+Нужна электроника?<end>
+
+=>q23_original
+Need some mechanical components? <end>
+
+=>q23
+Нужны механические компоненты?<end>
+
+=>q24_original
+Need some medications and medical equipment? <end>
+
+=>q24
+Нужны лекарства и медицинское снаряжение?<end>
+
+=>q25_original
+Need some hunting gear? <end>
+
+=>q25
+Нужно охотничье снаряжение?<end>
+
+=>q26_original
+Need some food? <end>
+
+=>q26
+Нужна еда?<end>
+
+=>q27_original
+Need some *explosives*? <end>
+
+=>q27
+Нужны *взрывчатые вещества*?<end>
+
+=>q28_original
+Got a varied assortment of things a $(#guy/gal) like you might find interestin'. Wanna take a look?<end>
+
+=>q28
+У меня широкий ассортимент товаров, которые $(#молодой человек/девушка) вроде вас может найти интересными. Не желаете взглянуть?<end>
+
+=>q29_original
+::A traveling merchant greets you.::
+
+He-he. <end>
+
+=>q29
+::Бродячий торговец приветствует вас.::
+
+Хе-хе.<end>
+

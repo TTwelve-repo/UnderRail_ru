@@ -1,0 +1,108 @@
+﻿=>q1_original
+$(#Mister/Miss) $(context.player.Name)? I have a message for you.<end>
+
+=>q1
+Мис$(#тер/с) $(context.player.Name)? У меня есть для вас сообщение.<end>
+
+=>a2_original
+Let's hear it.<end>
+
+=>a2
+Говорите.<end>
+
+=>q3_original
+::The man clears his throat.::<end>
+
+=>q3
+::Мужчина откашливается.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+Archibald Knight, chief of Praetorian Security, hereby requests that you meet him in his office at the Praetorian Security headquarters. You are to see him as soon as possible.<end>
+
+=>q5
+Шеф Преторианской службы безопасности Арчибальд Найт просит Вас встретиться с ним в его офисе в штабе Преторианской службы безопасности. Вы должны посетить его как можно скорее.<end>
+
+=>a6_original
+Is that all?<end>
+
+=>a6
+Это всё?<end>
+
+=>q7_original
+That is all.<end>
+
+=>q7
+Это всё.<end>
+
+=>a8_original
+Have a nice day.<end>
+
+=>a8
+Удачного вам дня.<end>
+
+=>a9_original
+Splendid. Invictus out!<end>
+
+=>a9
+Блестяще. Инвиктус, конец связи!<end>
+
+=>a10_original
+Thank you. Here's a charon for your troubles. ::Offer him one charon.::<end>
+
+=>a10
+Спасибо. Вот вам харон за помощь. ::Дать ему харон.::<end>
+
+=>q11_original
+Only one? ::He displays an expression of disgust.:: What a cheapskate! I'll pass.<end>
+
+=>q11
+Только один? ::Он брезгливо кривится.:: Ну и скряга! Я пас.<end>
+
+=>a12_original
+Suit yourself. Have a nice day.<end>
+
+=>a12
+Как хочешь. Хорошего дня.<end>
+
+=>a13_original
+Whatever, man. Goodbye.<end>
+
+=>a13
+Как скажешь. До свидания.<end>
+
+=>q14_original
+Rupert Simmons, president of Coretech, hereby requests that you meet him in his office at the Coretech building. You are to see him as soon as possible.<end>
+
+=>q14
+Президент КорТех Руперт Симмонс просит Вас встретиться с ним в его офисе в КорТех. Вы должны посетить его как можно скорее.<end>
+
+=>q15_original
+Gunnar Edstrom, of JKK, hereby requests that you meet him in his office in the JKK headquarters. You are to see him as soon as possible.<end>
+
+=>q15
+Гуннар Эдстром из КБР просит Вас встретиться с ним в его офисе в штаб-квартире КБР. Вы должны посетить его как можно скорее.<end>
+
+=>a16_original
+A message for me? Well, I'm all ears...<end>
+
+=>a16
+Сообщение для меня? Ну, я в$(#есь/ся) внимание...<end>
+
+=>a17_original
+Oh, joy! Can't wait to hear it.<end>
+
+=>a17
+О, восхитительно! Я не могу дождаться услышать, что вы скажете.<end>
+
+=>q18_original
+Now off to Hardcore City Bar! Dominating!<end>
+
+=>q18
+Теперь в бар Хардкор-Сити! Доминировать!<end>
+

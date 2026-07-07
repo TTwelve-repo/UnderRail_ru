@@ -1,0 +1,268 @@
+﻿=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::The soldier stands at attention and salutes you.::
+
+Welcome to Epione Lab, $(#sir/ma'am).<end>
+
+=>q3
+::Солдат стоит по стойке смирно и приветствует вас.::
+
+Добро пожаловать в лабораторию Эпиона, $(#сэр/мэм).<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+What can you tell me about Epione Lab, private?<end>
+
+=>a5
+Что вы можете мне рассказать о лаборатории Эпиона, рядовой?<end>
+
+=>q6_original
+Well, $(#sir/ma'am), Epione Lab used to be nothing but an abandoned Biocorp facility - one of many in Upper Underrail. The Underrail Protectorate troops moved in recently and occupied the area. It is well secured, and the proximity to Fort Apogee has so far been a successful deterrent against any bandit or Free Drones attacks.
+
+That's really all I can tell you, $(#sir/ma'am).<end>
+
+=>q6
+Что же, $(#сэр/мэм), прежде лаборатория Эпиона была лишь заброшенным объектом корпорации Биокорп -- одним из многих в Верхней Подземке. Недавно сюда пришли войска Протектората Подземки и заняли площадь. Лаборатория хорошо защищена, а близость форта Апогей является сдерживающим фактором для бандитов и Вольных шершней.
+
+Это всё, что я могу сказать вам, $(#сэр/мэм).<end>
+
+=>a7_original
+Why do we have troops stationed here, private? What is so important about this facility?<end>
+
+=>a7
+Зачем нам дислоцировать здесь войска, рядовой? Чем так важна эта лаборатория?<end>
+
+=>q8_original
+I'm sorry $(#sir/ma'am), but that information is classified.<end>
+
+=>q8
+Я сожалею, $(#сэр/мэм), но это секретная информация.<end>
+
+=>a9_original
+::[Persuade]:: You were informed that I was arriving here, right? Do you think I would be allowed entry here, to see everything that is happening if that sort of information were classified to me?<end>
+
+=>a9
+::[Убеждение]:: Вам же сообщили о моём прибытии, верно? Думаете, мне позволили бы войти и увидеть всё своими глазами, если бы у меня не было доступа к подобной информации?<end>
+
+=>q10_original
+Um... I suppose you are right, $(#sir/ma'am)...<end>
+
+=>q10
+Э-эм... полагаю, вы правы, $(#сэр/мэм)...<end>
+
+=>a11_original
+So what is the problem?<end>
+
+=>a11
+Так в чём же дело?<end>
+
+=>q12_original
+Okay, $(#sir/ma'am), I will answer: Epione Lab is currently undergoing a process of restoration so that it may used as an exclusively Protectorate-controlled connection to Lower Underrail, allowing us to completely bypass Core City, which has been a limiting factor ever since we first arrived here.<end>
+
+=>q12
+Хорошо, $(#сэр/мэм), я расскажу вам: в лаборатории Эпиона в настоящее время ведутся восстановительные работы с целью создания подконтрольной исключительно Протекторату линии соединения с Нижней Подземкой -- в обход Кор-Сити, который является для нас сдерживающим фактором с тех пор, как мы прибыли сюда.<end>
+
+=>a13_original
+But, what does this facility possess that would allow us to do so?<end>
+
+=>a13
+Но что такого есть на этом объекте, что позволило бы нам сделать это?<end>
+
+=>q14_original
+The whole facility stretches across multiple floors all the way down to Lower Underrail, and houses a large elevator that could be used to quickly move troops and equipment between Upper and Lower Underrail. The lower levels of Epione Lab are still in ruins, and are inaccessible for the time being, but we are making good progress, $(#sir/ma'am).<end>
+
+=>q14
+Здесь раскинулся целый комплекс на нескольких этажах, вплоть до самой Нижней Подземки, и имеется большой лифт, который можно использовать для быстрого перемещения войск и техники между Верхней и Нижней Подземкой. Нижние уровни лаборатории по-прежнему в руинах и в настоящее время недоступны, но мы работаем над этим, $(#сэр/мэм).<end>
+
+=>a15_original
+Wait, so, the only way to move personnel and equipment between Lower and Upper Underrail so far was through Core City?<end>
+
+=>a15
+Подождите, так, что, до сих пор единственный путь для перемещения персонала и оборудования между Нижней и Верхней Подземкой лежал через Кор-Сити?<end>
+
+=>q16_original
+Unfortunately, that is correct, $(#sir/ma'am). There are no other ways to move between the two, and no matter how unfavorable for us it was the only option available.<end>
+
+=>q16
+К сожалению, это так, $(#сэр/мэм). Нет других путей, и неважно, насколько это неудобно для нас, это был единственный вариант.<end>
+
+=>a17_original
+Thank you, private. I want to ask you something else.<end>
+
+=>a17
+Благодарю вас, рядовой. Я хочу спросить у вас ещё кое-что.<end>
+
+=>q18_original
+Yes, $(#sir/ma'am)?<end>
+
+=>q18
+Да, $(#сэр/мэм)?<end>
+
+=>q19_original
+I am sorry, $(#sir/ma'am), but I'm sure you'd have been given all important information during the briefing. I cannot reveal anything more than what I have already told you.<end>
+
+=>q19
+Я сожалею, $(#сэр/мэм), но всю необходимую информацию вы получили в ориентировке. Я не вправе сказать вам ничего больше.<end>
+
+=>a20_original
+Fair enough. I had other questions for you, private.<end>
+
+=>a20
+Что же, хорошо. У меня к вам есть ещё вопросы, рядовой.<end>
+
+=>q21_original
+$(#Sir/Ma'am)?<end>
+
+=>q21
+$(#Сэр/Мэм)?<end>
+
+=>a22_original
+Let me ask you something else then, private.<end>
+
+=>a22
+Позвольте мне тогда задать вам ещё один вопрос, рядовой.<end>
+
+=>q23_original
+$(#Sir/Ma'am)?<end>
+
+=>q23
+$(#Сэр/Мэм)?<end>
+
+=>a24_original
+I would like to speak to Captain Blackwall. Where can I find him?<end>
+
+=>a24
+Я желаю поговорить с капитаном Блэкуоллом. Где я могу его найти?<end>
+
+=>q25_original
+Captain Blackwall is located on the level below this one, $(#sir/ma'am). Go straight, take the double doors to the left, then down the stairs.<end>
+
+=>q25
+Капитан Блэкуолл находится уровнем ниже, $(#сэр/мэм). Идите прямо, затем через двойные двери налево, затем вниз по лестнице.<end>
+
+=>q26_original
+He can often be found near the elevator in the northern section of the building; there is a Dreadnought there clearing the rubble, so you can simply follow the sound of drilling.<end>
+
+=>q26
+Его обычно можно найти возле лифта в северной части здания; там дредноут расчищает завалы, так что просто идите на шум.<end>
+
+=>a27_original
+Thank you, soldier. I will go find him.<end>
+
+=>a27
+Спасибо, солдат. Я пойду к нему.<end>
+
+=>q28_original
+$(#Sir/Ma'am)! ::Salutes.::<end>
+
+=>q28
+$(#Сэр/Мэм)! ::Козыряет.::<end>
+
+=>a29_original
+::Return the salute and leave.::<end>
+
+=>a29
+::Козырнуть в ответ и уйти.::<end>
+
+=>a30_original
+::Just walk away.::<end>
+
+=>a30
+::Уйти.::<end>
+
+=>a31_original
+As you were, private.<end>
+
+=>a31
+Вольно, рядовой.<end>
+
+=>q32_original
+::The soldier salutes you.::<end>
+
+=>q32
+::Солдат приветствует вас.::<end>
+
+=>q33_original
+::The soldier stops you.::
+
+This is a restricted area, citizen. I'm going to have to order you to leave immediately.<end>
+
+=>q33
+::Солдат останавливает вас.::
+
+Это запретная зона, граждан$(#ин/ка). Я вынужден приказать вам немедленно покинуть территорию.<end>
+
+=>q34_original
+<end>
+
+=>q34
+<end>
+
+=>a35_original
+I um... was sent here from the high command to inspect this... facility... thing...<end>
+
+=>a35
+Я, э-э... меня прислали из штаба осмотреть этот... объект... типа...<end>
+
+=>q36_original
+::The guard points his weapon at you, looking you straight in the eyes.:: 
+
+How would you like to inspect this?<end>
+
+=>q36
+::Охранник направляет на вас оружие.:: 
+
+На, осмотри-ка вот это.<end>
+
+=>a37_original
+You can't stop me, Protectorate scum! ::Attack!::<end>
+
+=>a37
+Тебе меня не остановить, протекторатская мразь! ::Напасть!::<end>
+
+=>a38_original
+Got the message! I'm off.<end>
+
+=>a38
+Сообщение принято! Я ухожу.<end>
+
+=>a39_original
+What is this place?<end>
+
+=>a39
+Что это за место?<end>
+
+=>q40_original
+That's none of your business. Leave the area now or I will be compelled to use force. Am I clear?<end>
+
+=>q40
+Это вас не касается. Покиньте территорию немедленно, или я буду вынужден применить силу. Вам понятно?<end>
+
+=>a41_original
+I understand, goodbye.<end>
+
+=>a41
+Понятно, до свидания.<end>
+
+=>q42_original
+I though I've made myself clear when I instructed you to leave the area.<end>
+
+=>q42
+Я, кажется, достаточно ясно выразился -- немедленно покиньте территорию!<end>
+

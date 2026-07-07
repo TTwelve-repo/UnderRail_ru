@@ -1,0 +1,526 @@
+﻿=>q1_original
+So long, $(context.player.Name). I hope we see each other soon.<end>
+
+=>q1
+Давай, $(context.player.Name). Надеюсь, увидимся скоро.<end>
+
+=>q2_original
+::You see Detritus long before he sees you. His eyes are busy dancing all over the main hall, absorbing everything they see and transforming his face into one large smile which seems like it won't fade anytime soon.::<end>
+
+=>q2
+::Вы замечаете Детрита задолго до того, как он замечает вас. Его глаза мечутся по всем уголкам главного зала, впитывая всё, что видят, его лицо вытягивается в одну большую улыбку, которая, кажется, что не сойдёт в ближайшее время.::<end>
+
+=>a3_original
+Admiring the hall, I see.<end>
+
+=>a3
+Любуешься залом, как я погляжу.<end>
+
+=>q4_original
+::He lowers his eyes to meet yours.::
+
+This. place. *dominates!* I'm speechless.<end>
+
+=>q4
+::Он опускает глаза, встречая ваш взгляд.::
+
+Это. Место. *ДОМИНИРУЕТ!* У меня нет слов.<end>
+
+=>a5_original
+It definitely beats Drop Zone, doesn't it?<end>
+
+=>a5
+Явно получше Зоны провала, не так ли?<end>
+
+=>q6_original
+::He laughs.:: It sure does! Hey, I don't know if you've been told, but they're goin' to take me to Tchort!<end>
+
+=>q6
+::Он смеётся.:: Ещё как! Эй, я не знаю, сказали ли тебе уже, но они отведут меня к своему Чорту!<end>
+
+=>a7_original
+Why? I wasn't told anything about you being taken to Tchort.<end>
+
+=>a7
+Зачем? Мне не сказали, что тебя отведут к Чорту.<end>
+
+=>q8_original
+It's, um... how did they call it... Nucleus. Yeah, somethin' hardcore like that. They took my blood and did some tests, just like you told me they would. It turns out there is something special about me. I don't understand all the details, but the important thing is that they promised to allow me to stay in the Institute for good! Dominatin'!<end>
+
+=>q8
+В этот, хм... как же они его называли... Нуклеус. Да, как-то так, хардкорно. У меня брали кровь и делали какие-то тесты, как ты и говорил$(#/а). Оказывается, есть что-то особенное во мне, я не понимаю всех тонкостей, но важно то, что они обещали разрешить мне остаться в Институте! Хардкор!<end>
+
+=>q9_original
+Then they told me they need me checked out by some... investigators - is that what they call them? Anyway, these expert investigators are working in Nucleus so they gotta take me down there. 'Cause, well, from how I understand, that's where they also have some of the equipment necessary for further testing, I don't know.<end>
+
+=>q9
+Потом, они сказали мне, что меня осмотрят какие-то... исследователи, так они называют их? В любом случае, эти экспертные исследователи работают в Нуклеусе, поэтому они отведут меня туда. Потому что, ну, я так понял, у них там есть какое-то оборудование для дальнейших тестов, не знаю.<end>
+
+=>q10_original
+This is all new to me and all, but I'm sure everything is gonna be alright. I'm gonna be learning about Tchortism once I'm back from... Nucleus, right. It's... gonna be hardcore. Everything in this building is hardcore... 
+
+Luck sure took its time to say hi again. ::He laughs.::<end>
+
+=>q10
+Это всё ново для меня, но теперь всё будет в порядке. Когда вернусь из... Нуклеуса -- буду всё знать о чортизме. Это... будет хардкор. Всё в этом здании -- хардкор... 
+
+Удача, явно, опять посетила меня. ::Смеётся.::<end>
+
+=>a11_original
+How are they going to get you to Deep Caverns?<end>
+
+=>a11
+Как они собираются доставить тебя в Глубокие пещеры?<end>
+
+=>q12_original
+I don't really know much, but I heard someone mention Eidein and an elevator, and... Wait, why are you asking me this? Aren't you supposed to know that?<end>
+
+=>q12
+Я не знаю точно, но слышал, как кто-то упомянул Эйдейна и лифт и... погоди, почему ты спрашиваешь меня об этом? Разве ты не долж$(#ен/на) всё знать?<end>
+
+=>a13_original
+No reason. Forget I asked you anything.<end>
+
+=>a13
+Неважно. Забудь, что я спросил$(#/а).<end>
+
+=>q14_original
+Oh... never mind then. <end>
+
+=>q14
+А... ладно, проехали.<end>
+
+=>q15_original
+I have only one more thing to say to you, friend: Thank you. I will never forget this.
+
+I have to go now, I should be off soon. $(context.player.Name), see you around!<end>
+
+=>q15
+Только одно скажу тебе, друг: спасибо. Я этого никогда не забуду.
+
+Мне надо идти, скоро уже пора отправляться. $(context.player.Name), ещё увидимся!<end>
+
+=>a16_original
+Goodbye, Detritus. Take care.<end>
+
+=>a16
+Прощай, Детрит. Удачи.<end>
+
+=>a17_original
+So long.<end>
+
+=>a17
+Пока.<end>
+
+=>a18_original
+I'm relatively new here, so I don't know a lot of the stuff yet.<end>
+
+=>a18
+Я сравнительно недавно здесь, поэтому многого пока не знаю.<end>
+
+=>a19_original
+I'm really happy for you. I think Tchortists will treat you pretty nice here.<end>
+
+=>a19
+Я очень рад$(#/а) за тебя. Я думаю, чортисты будут относиться к тебе хорошо.<end>
+
+=>a20_original
+Yeah, cool.<end>
+
+=>a20
+Да, круто.<end>
+
+=>a21_original
+What now?<end>
+
+=>a21
+Что теперь?<end>
+
+=>a22_original
+Don't get too attached, you probably won't stay here for too long.<end>
+
+=>a22
+Не привязывайся к нему слишком сильно, ты вряд ли останешься здесь надолго.<end>
+
+=>q23_original
+About that - Tchortists are gonna to take me down to Tchort.<end>
+
+=>q23
+Да, я знаю, чортисты собираются отвести меня к Чорту.<end>
+
+=>a24_original
+Hey, Detritus, how's it going?<end>
+
+=>a24
+Привет, Детрит, как дела?<end>
+
+=>q25_original
+::You approach a young man standing next to a barrel full of boiling soup which doesn't smell nearly as life-threatening as it looks. He wears old, worn-out but clean clothes that look like they would easily disintegrate should he stand next to a passing train. His physique, on the other hand, is much more solid: Handsome, with a burly body covered in clear, uniformly toned skin. That combined with his unusually milky-white teeth makes him look like he was created to simply stand still and look good; his callused and heavily scarred hands, however, imply the opposite.::
+
+Hey... Need somethin'?<end>
+
+=>q25
+::Вы подходите к молодому человеку, стоящему у какой-то бочки с кипящим супом, который, судя по запаху, не столь опасен для жизни, как выглядит. Он одет в сильно поношенную, но чистую одежду, которая, кажется, готова рассыпаться если он встанет рядом с проходящим поездом. Его телосложение, с другой стороны, гораздо солиднее: красавец, с мускулистым телом и чистой, однотонной кожей. В сочетании с необыкновенно белыми зубами это делает его похожим на статую, созданную специально для того, чтобы просто стоять на месте и выглядеть хорошо; мозоли и шрамы на его руках, однако, указывают на обратное.::
+
+Привет... Надо чего-нибудь?<end>
+
+=>a26_original
+Hello. I'm $(context.player.Name) and I had some questions, if you have the time.<end>
+
+=>a26
+Здравствуйте. Меня зовут $(context.player.Name), и у меня были некоторые вопросы, если у вас есть время.<end>
+
+=>q27_original
+Nice to meet you, $(context.player.Name). I'm Detritus.
+
+I got nothin' better to do anyway. What did you wanna ask?<end>
+
+=>q27
+Приятно познакомиться, $(context.player.Name). Я Детрит.
+
+Делать мне всё равно нечего, если хочешь -- спрашивай.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+What can you tell me about yourself?<end>
+
+=>a29
+Можешь рассказать о себе?<end>
+
+=>q30_original
+::At first he seems a bit uneasy about the question, but then decides to answer it.:: I, well, I... I'm a simple zoner from Core City who's searchin' for something better in life. Heard of Drop Zone? I lived there my whole life. Awful place to live in. Awful people, awful food - if you can get your hands on some! And in general - it's awful!<end>
+
+=>q30
+::Поначалу он, кажется, немного смущён этим вопросом, но потом всё же решает ответить.:: Я, ну, я... я простой зонер из Кор-Сити, ищущий лучшей жизни. Слышал$(#/а) про Зону провала? Я жил там всю свою жизнь. Ужасное место. Ужасные люди, ужасная еда -- если вообще удастся достать еды! И вообще, там всё ужасно!<end>
+
+=>a31_original
+Was there anything good about the Zone for you?<end>
+
+=>a31
+Было ли хоть что-нибудь хорошее в Зоне?<end>
+
+=>q32_original
+Family, I suppose, nothing else really comes to mind. But the zone enjoys taking away good things from ya. Plague swept my whole family away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
+
+=>q32
+Семья, пожалуй, ничего другого в голову не приходит. Но Зона любит отбирать всё хорошее. Чума выкосила всю мою семью. Отца, маму, дедушку. Пятерых сестёр и двух братьев, все старше меня.<end>
+
+=>q33_original
+All gone. It is usually easy to lose life in Drop Zone, but that plague... that was pure evil.<end>
+
+=>q33
+Никого не осталось. Так легко потерять жизнь в Зоне провала, но эта чума... это было чистое зло.<end>
+
+=>a34_original
+Plague?<end>
+
+=>a34
+Чума?<end>
+
+=>q35_original
+Yes, a-- a hardcore plague dominated half the Zone several years ago. Not a lot of folks know about the plague, 'cause no one really cares what happens in the Drop Zone. But us zoners - we care. I care. My dearest are gone 'cause of that pipeworkin' plague.<end>
+
+=>q35
+Да... хардкорная чума задоминировала половину Зоны несколько лет назад. Немногие знают о чуме, потому что никого особо не заботит, что происходит в Зоне провала. Но мы, зонеры -- нам не всё равно. Мне не всё равно. Мои близкие ушли из жизни из-за этой трубочистской заразы.<end>
+
+=>a36_original
+You are lucky to be alive.<end>
+
+=>a36
+Тебе посчастливилось выжить.<end>
+
+=>q37_original
+Very lucky. And it's exactly that - luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
+
+=>q37
+Очень посчастливилось. Потому что у меня нет объяснения, как смерть пощадила меня. Я никогда не болел за всю жизнь. Никогда. Ни простудой, ни чем более серьёзным.<end>
+
+=>a38_original
+That's interesting. Maybe you were immune to the plague somehow. Have you ever been to a doctor?<end>
+
+=>a38
+Это интересно. Может быть, у тебя некий иммунитет к чуме. Ты когда-нибудь обращался к врачу?<end>
+
+=>q39_original
+::He bursts out laughing.:: Doctor? No... I'm a zoner, remember? Bah, you don't understand it. You come from a different world, you. It's all just luck. Everythin' in life is about having luck, that's what I learned. You can be good at something, sure, but if you are unlucky, then that's that. Nothing helps.
+
+Look at my hands. I've been workin' like a slave my whole life and... everythin' I've earned can easily be chucked down Pipeworks. It's miserable. I was lucky enough to survive the plague, but unlucky with everythin' else.<end>
+
+=>q39
+::Он разражается хохотом.:: К врачу? Нет... я же из Зоны, помнишь? Ба, да ты не понимаешь. Ты из другого мира. Это всё просто удача. Всё в жизни зависит от везения, вот что я понял. Ты можешь быть в чём-то хорош$(#/а), конечно, но если не повезёт -- тут и сказочке конец. Ничего не поможет.
+
+Посмотри на мои руки. Я пашу как вол всю жизнь, и... и всё, что у меня есть может вылететь в Трубы в любой момент. Это безнадёжно. Мне посчастливилось пережить чуму, но не повезло во всём остальном.<end>
+
+=>q40_original
+::He shrugs, drifting off for a moment. After taking a deep breath, he continues.:: Anyway, enough of that. Got any more questions?<end>
+
+=>q40
+::Он пожимает плечами, задумавшись на мгновение. Глубоко вздохнув, он продолжает.:: Ладно, хватит об этом. Есть ещё вопросы?<end>
+
+=>a41_original
+How about we move onto a different subject?<end>
+
+=>a41
+Как насчёт сменить тему?<end>
+
+=>q42_original
+::He shrugs.:: Okay.<end>
+
+=>q42
+::Он пожимает плечами.:: Ладно.<end>
+
+=>a43_original
+How did you manage to survive?<end>
+
+=>a43
+Как тебе удалось выжить?<end>
+
+=>q44_original
+::He shrugs.:: Luck? It must be luck, 'cause I don't have an explanation why death decided to spare me. I mean, I've never been ill in my whole life. Ever. No colds, let alone somethin' more serious.<end>
+
+=>q44
+::Он пожимает плечами.:: Повезло? Это, должно быть, была просто удача, потому что у меня нет объяснения, почему смерть пощадила меня. Я никогда не болел за всю жизнь. Никогда. Ни простудой, ни чем более серьёзным.<end>
+
+=>a45_original
+That is really sad. How about we change the subject?<end>
+
+=>a45
+Это очень печально. Как насчёт сменить тему?<end>
+
+=>a46_original
+I understand, no wonder you left.<end>
+
+=>a46
+Я понимаю, неудивительно, что ты оттуда ушёл.<end>
+
+=>q47_original
+::He shrugs.:: I mean, I had family there. But the zone enjoys taking away good things from ya, like my family. Plague swept them all away. Father, Mother, Grandad. Five sisters and two brothers, all of them older than me.<end>
+
+=>q47
+::Он пожимает плечами.:: Ну, у меня была там семья. Но Зона любит отбирать всё хорошее. Чума выкосила всю мою семью. Отца, маму, дедушку. Пятерых сестёр и двух братьев, все старше меня.<end>
+
+=>a48_original
+Someone at Institute of Tchort is interested in the fact that you survived that Drop Zone plague.<end>
+
+=>a48
+Кое-кто в Институте Чорта заинтересовался тем, что ты перенёс чуму Зоны провала.<end>
+
+=>q49_original
+::He seems surprised by your statement.:: Interested? Why?<end>
+
+=>q49
+::Он, кажется, удивлён вашими словами.:: Заинтересовался? Почему?<end>
+
+=>a50_original
+Because you're special: You survived the plague despite the fact that it killed everyone from your family. It could be something genetic for all we know!<end>
+
+=>a50
+Потому что ты особенный: ты пережил чуму, несмотря на то, что она убила всю твою семью. Это даже может быть из-за твоих генов!<end>
+
+=>q51_original
+I don't think I'm that special, I don't. ::His voice starts wavering nervously.:: And if it's in my genes - then why did my whole family die? Shouldn't we all have had that resistance if it's, how's it called - hereditary. Besides - what if it turns out that I am not special, then what's gonna happen to me?<end>
+
+=>q51
+Не думаю, что я какой-то особенный. ::Его голос начинает нервно дрожать.:: И если это в моих генах -- тогда почему вся моя семья погибла? Не должно ли и у них было быть это сопротивление, если оно, как это называется -- наследственное. Кроме того, вдруг выяснится, что я не особенный, что тогда случится со мной?<end>
+
+=>a52_original
+That I don't know; maybe you were the first with the immunity. You were the youngest of all your siblings, right? Now is not the time to have second thoughts. Do you want to get in Institute of Tchort or not?<end>
+
+=>a52
+Этого я не знаю; может быть, ты был первым с иммунитетом. Ты был самым младшим из всех братьев и сестёр, верно? Сейчас не время сомневаться. Ты хочешь попасть в Институт Чорта или нет?<end>
+
+=>q53_original
+::He calms down.:: Ahh, pipeworks... Yes, yes... you are right. But, what do they need me for? What I mean is: What will they do to me?<end>
+
+=>q53
+::Он успокаивается.:: А-а-а, трубы... Да, да... ты прав$(#/а). Но что им от меня нужно? То есть, что они будут делать со мной?<end>
+
+=>a54_original
+They are going to perform simple tests. They won't hurt you, so don't worry.<end>
+
+=>a54
+Они проведут простые тесты. Они не причинят тебе вреда, так что не волнуйся.<end>
+
+=>q55_original
+Alright - count me in. ::He flashes a joyful smile.:: Hardcore, hardcore. I'm as nervous as a caged hopper, but count me in. I'm ready.<end>
+
+=>q55
+Хорошо, я согласен. ::Он вспыхивает радостной улыбкой.:: Хардкор, хардкор. Нервничаю, будто пещерник в клетке, но я согласен. Я готов.<end>
+
+=>a56_original
+Great, I'll go talk to the Tchortists. Expect someone to come for you soon.<end>
+
+=>a56
+Отлично, пойду поговорю с чортистами. Жди, кто-нибудь придёт за тобой в ближайшее время.<end>
+
+=>a57_original
+I'll go talk to Tchortists, but I had some questions first.<end>
+
+=>a57
+Я пойду поговорю с чортистами, но у меня есть ещё несколько вопросов.<end>
+
+=>q58_original
+Yes?<end>
+
+=>q58
+Да?<end>
+
+=>a59_original
+Stop being such a wimp, Detritus! You came here to join Institute of Tchort - what more do you want!? Here's your lucky chance now - take it.<end>
+
+=>a59
+Кончай ныть, Детрит! Ты пришёл сюда, чтобы попасть в Институт Чорта -- что ещё тебе надо?! Вот твой счастливый шанс -- не упусти его.<end>
+
+=>a60_original
+Why are you here and what do you know about this place?<end>
+
+=>a60
+Почему ты здесь и что ты знаешь об этом месте?<end>
+
+=>q61_original
+This is the Institute of Tchort. The place where Tchortists live and... do whatever they do. I went to one of their lectures in Core City; it sounded hardcore even though I didn't understand half of it.<end>
+
+=>q61
+Это Институт Чорта. Место, где живут чортисты и... делают всё, что они делают. Я был на одной из их лекций в Кор-Сити; звучало хардкорно, хотя я не понял и половины.<end>
+
+=>q62_original
+Any way you look at it, it seems a lot better than the Zone... ::He looks at you after a brief pause.:: So I came here to try my luck, yeah. Maybe there's a better life waitin' for me behind that heavy gate.<end>
+
+=>q62
+Как ни посмотри, тут намного лучше, чем в Зоне... ::Он смотрит на вас после короткой паузы.:: Вот я и пришёл сюда, попытать счастья, да. Может быть, лучшая жизнь ждёт меня за этими тяжёлыми воротами.<end>
+
+=>q63_original
+For more details about Tchortists, better ask some of the smarter people 'round here. I'm sure they'll be able to explain it better than I can.<end>
+
+=>q63
+Подробнее о чортистах лучше поспрашивать умных людей здесь. Наверняка они смогут объяснить всё получше чем я.<end>
+
+=>a64_original
+What do you know about Tchortists?<end>
+
+=>a64
+Что ты знаешь о чортистах?<end>
+
+=>q65_original
+Tchortists might look like a religious cult, but they are all about science. Now, I'm not a knowledgeable fellow, so a lot of the hardcore science stuff is beyond me. But the core idea is that we're all somehow connected to this Tchort creature.<end>
+
+=>q65
+Чортисты хоть и похожи на культ, но они всё же учёные. Короче, я сам не всезнайка, всякая там наука -- мимо меня. Но основная идея в том, что мы все как-то связаны с этим Чортом.<end>
+
+=>q66_original
+It has similar DNA to us and it can do some amazin' stuff, like regenerate and live forever, adapt to anythin'... somethin' like that. What's most hardcore is that they, Tchortists, want to use the knowledge gained from Tchort to improve us, I mean, allow us to one day go to the Surface and survive there!<end>
+
+=>q66
+У него ДНК похожее на наше, но он может делать крутые штуки, типа регенерировать и жить вечно, приспосабливаться ко всякому... что-то типа того. Самое хардкорное в том, что они, чортисты, хотят использовать знания, полученные от Чорта, чтобы улучшить нас, в смысле, позволить нам однажды вернуться на Поверхность и выжить там!<end>
+
+=>q67_original
+I definitely prefer that to rottin' in that stinky Drop Zone.<end>
+
+=>q67
+Я определённо предпочитаю это тому, чтобы гнить в вонючей Зоне провала.<end>
+
+=>a68_original
+Who's the derailed geezer outside?<end>
+
+=>a68
+Кто этот поехавший старикашка снаружи?<end>
+
+=>q69_original
+Oh... ignore that stinker. He ain't right in the head. He walks around and scares people with his filthy gaping mouth. The only thing he ever says is "what?"... Just that and nothin' else.<end>
+
+=>q69
+А... не связывайся с этим пердуном. Он не дружит с головой. Ходит тут и пугает людей своим поганым разинутым ртом. Единственное, что он когда-либо говорит: «Что?»... Только это и ничего другого.<end>
+
+=>q70_original
+He is not violent, or else he would have had his innards splattered all over the floor by rassophores by now.<end>
+
+=>q70
+Он неагрессивный, иначе бы рясофоры уже размазали его кишки по полу.<end>
+
+=>a71_original
+Rassophores?<end>
+
+=>a71
+Рясофоры?<end>
+
+=>q72_original
+That is how the Tchortist soldiers are called, if I understood it correctly. I'm guessin' the word has some hardcore meaning or somethin', 'cause it sounds really weird to my ears.<end>
+
+=>q72
+Так чортисты-солдаты называются, если я правильно понял. Наверное, это значит что-то хардкорное или типа того, потому что звучит очень странно, на мой взгляд.<end>
+
+=>q73_original
+Just stay out of their way and you're good.<end>
+
+=>q73
+Просто не лезь к ним, и всё будет в порядке.<end>
+
+=>a74_original
+I had other questions?<end>
+
+=>a74
+У меня были другие вопросы.<end>
+
+=>q75_original
+Yes?<end>
+
+=>q75
+Да?<end>
+
+=>a76_original
+Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
+
+=>a76
+Ты, случайно, не видел, не проносили ли тут чортисты никакого странного артефакта? Вроде двадцатигранника.<end>
+
+=>q77_original
+I don't know anythin' about any po-li-hadrons and all that hardcore stuff. I'm just a simple zoner who minds his own business.<end>
+
+=>q77
+Я не знаю ничего про двадца-тигра-ники и весь этот хардкор. Я простой зонер, и не лезу не в свои дела.<end>
+
+=>q78_original
+Besides, I spend most of the time here and the view is not the best. Maybe other folks can help you.<end>
+
+=>q78
+Да и всё равно, я обычно здесь, а обзор тут не очень. Может быть, другие смогут тебе помочь.<end>
+
+=>a79_original
+Goodbye, Detritus.<end>
+
+=>a79
+Пока, Детрит.<end>
+
+=>a80_original
+Hey, good looking! I'm $(context.player.Name). Interested in a little chat?<end>
+
+=>a80
+Привет, красавчик! Я $(context.player.Name). Хочешь немного поболтать?<end>
+
+=>q81_original
+I can't say no. ::He smiles.:: I'm Detritus, and it's a pleasure to meet you, $(context.player.Name).
+
+What did you want to chat about?<end>
+
+=>q81
+Как я могу сказать «нет»? ::Он улыбается.:: Я Детрит, приятно познакомиться, $(context.player.Name).
+
+О чём ты хотел$(#/а) поговорить?<end>
+
+=>a82_original
+::Leave him alone.::<end>
+
+=>a82
+::Оставить его в покое.::<end>
+
+=>q83_original
+Hello again.<end>
+
+=>q83
+И снова здравствуй.<end>
+

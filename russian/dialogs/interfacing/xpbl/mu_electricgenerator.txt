@@ -1,0 +1,102 @@
+﻿=>q1_original
+::LEMCO LPSU-I4-LC387
+
+Hydrothermal generator output: <2MW
+
+::<end>
+
+=>q1
+::ЛЕМКО LPSU-I4-LC387
+
+Мощность гидротермального генератора: <2МВт
+
+::<end>
+
+=>q2_original
+::Power substation unit output: 
+                Unit 1 - On (1MW)
+                Unit 2 - Off
+
+::<end>
+
+=>q2
+::Мощность блоков подстанции: 
+                Блок 1 - Вкл. (1МВт)
+                Блок 2 - Откл.
+
+::<end>
+
+=>q3_original
+::Total output: 1.5 MW
+
+Power routing protocol: Auto::<end>
+
+=>q3
+::Общая мощность: 1,5МВт
+
+Протокол маршрутизации питания: авто::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::[Electronics] Attempt to boost this unit's power output.::<end>
+
+=>a5
+::[Электроника] Попытаться увеличить мощность этого блока.::<end>
+
+=>q6_original
+::You see a single panel at the front of the unit you can open, as the outer casing is made of actual stone and cannot possibly be handled by a single person. You open the panel and inspect what is inside.::<end>
+
+=>q6
+::Вы видите единственную панель на передней части блока, которую можно открыть, поскольку внешний корпус выполнен из настоящего камня и одному человеку с ним не справиться. Вы открываете панель и изучаете содержимое.::<end>
+
+=>q7_original
+::There is no way for you to reach the generator core, as that would require the casing to be removed, but despite that you soon figure out a way to get more power out of this unit - by cannibalizing the unit next to it for replacement parts. You turn the power off so that you may work safely; the lights turn dim, but even in semi-darkness you are able to accomplish your task. 
+
+You immediately feel the extra power after turning the unit back on.::<end>
+
+=>q7
+::У вас нет возможности добраться до ядра генератора, поскольку для этого потребуется снять корпус, но, несмотря на это, вскоре вы находите способ получить больше энергии от этого блока - разобрать соседний для замены деталей. Вы выключаете питание, чтобы безопасно работать; свет становится тусклым, но даже в полутьме вы способны выполнить свою задачу.
+
+Вы сразу же ощущаете дополнительную мощность после повторного включения блока.::<end>
+
+=>q8_original
+::There is not much you can do here, unfortunately, for what you see before you is a puzzle far too complex for you to solve and far too dangerous to even try. You close the front panel and wipe the grime off your hands.::<end>
+
+=>q8
+::К сожалению, здесь вы мало что можете сделать, так как то, что вы видите перед собой - это головоломка, слишком сложная для того, чтобы вы могли решить её, и слишком опасная, чтобы даже пытаться. Вы закрываете переднюю панель и вытираете грязь с рук.::<end>
+
+=>a9_original
+::Leave::<end>
+
+=>a9
+::Выйти.::<end>
+
+=>q10_original
+::Power substation unit output: 
+                 Unit 1 - On (320 kW peak value)
+                 Unit 2 - Off
+
+::<end>
+
+=>q10
+::Мощность блоков подстанции:
+                 Блок 1 - Вкл. (320кВт пиковое значение)
+                 Блок 2 - Откл.
+
+::<end>
+
+=>q11_original
+::Total output: <1MW
+
+Power routing protocol: Auto::<end>
+
+=>q11
+::Общая мощность: <1МВт
+
+Протокол маршрутизации питания: авто::<end>
+

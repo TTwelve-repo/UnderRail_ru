@@ -1,0 +1,216 @@
+﻿=>q1_original
+::His wounds mended, his pain relieved, the man speaks to you with reemerging liveness.::
+
+Stranger... thank you! I owe my life to you. If it weren't for you, I'd be a rotting corpse now and, and... Thank you, thank you! How can I repay you, friend?<end>
+
+=>q1
+::Его раны обработаны и боль угасает. Мужчина теперь говорит намного бодрее.::
+
+Незнаком$(#ец/ка)... спасибо вам! Я обязан вам жизнью. Если бы ни вы, я бы уже был гниющим трупом, и, и... Спасибо, спасибо вам! Как я могу отблагодарить вас?<end>
+
+=>a2_original
+Saving someone's life is its own reward.<end>
+
+=>a2
+Того, что я спас$(#/ла) чью-то жизнь, мне достаточно.<end>
+
+=>q3_original
+Hold on a second, friend. <end>
+
+=>q3
+Один момент, друг.<end>
+
+=>q4_original
+Here's sixty charons. That is all the money I have. ::He hands you 60 Stygian Coins.:: Thank you so much!<end>
+
+=>q4
+Вот шестьдесят харонов. Это все мои деньги. ::Он протягивает вам 60 стигийских монет.:: Спасибо огромное!<end>
+
+=>a5_original
+Thank you. Best of luck in the future. Take care.<end>
+
+=>a5
+Спасибо. Удачи в будущем. Берегите себя.<end>
+
+=>q6_original
+Wait, wait, wait... What is your name?<end>
+
+=>q6
+Постойте, постойте... как вас зовут.<end>
+
+=>a7_original
+$(context.player.Name).<end>
+
+=>a7
+$(context.player.Name).<end>
+
+=>q8_original
+I'm Fergus. Thank you, $(context.player.Name). Thank you again. Good luck to you too.<end>
+
+=>q8
+Я Фергюс. Спасибо, $(context.player.Name). Спасибо ещё раз. Удачи и вам тоже.<end>
+
+=>a9_original
+I'd rather that my name remains unknown.<end>
+
+=>a9
+Я предпочитаю не раскрывать своего имени.<end>
+
+=>q10_original
+Well... friend, thank you. Thank you again. Good luck to you too.<end>
+
+=>q10
+Что же... друг, спасибо. Спасибо ещё раз. Удачи и вам тоже.<end>
+
+=>a11_original
+::Wave goodbye and leave without a word.::<end>
+
+=>a11
+::Помахать ему на прощание и уйти, не говоря ни слова.::<end>
+
+=>q12_original
+Thank you again. Good luck to you too.<end>
+
+=>q12
+Спасибо ещё раз. Удачи и вам тоже.<end>
+
+=>a13_original
+::Turn around and leave.::<end>
+
+=>a13
+::Развернуться и уйти.::<end>
+
+=>a14_original
+Nice. See ya.<end>
+
+=>a14
+Отлично. Пока.<end>
+
+=>q15_original
+::He searches through his pockets.:: I... I had some money but... ::He continues searching.:: Damn it! I must have lost it somehow.<end>
+
+=>q15
+::Он шарит по карманам.:: Я... у меня были деньги, но... ::Он продолжает искать.:: Проклятье! Должно быть, я их где-то потерял.<end>
+
+=>q16_original
+::After having failed to find the money, he pauses to think. He looks at you, then at his bloodied belt, and without any hesitation he removes it.:: You know what? Take this belt. It's a bullet strap belt. If you don't wanna use it, you can at least sell it. That is all I can give you, sadly.<end>
+
+=>q16
+::Не найдя денег, он замирает в раздумье. Он смотрит на вас, затем на свой заляпанный кровью пояс, и без промедления снимает его.:: Знаете что? Возьмите мой пояс. На него можно вешать патроны. Если он вам не нужен, то вы всё равно можете его продать. Мне жаль, но это всё, что я могу вам дать.<end>
+
+=>a17_original
+I don't need anything. Just take care.<end>
+
+=>a17
+Мне ничего от вас не нужно. Берегите себя.<end>
+
+=>a18_original
+Got some coins?<end>
+
+=>a18
+Деньги есть?<end>
+
+=>q19_original
+Of course! <end>
+
+=>q19
+Конечно!<end>
+
+=>a20_original
+The meds don't come cheap, you know...<end>
+
+=>a20
+Медикаменты сейчас дорогие, знаете ли...<end>
+
+=>q21_original
+Goodbye... and thank you again.<end>
+
+=>q21
+Прощайте... и ещё раз спасибо вам.<end>
+
+=>q22_original
+Please... help me... 
+
+::Says the man as he reaches for you with a bloodied arm, his fingers spread wide. You see numerous wounds on his body, open and bleeding, each one a partial contributor to the large red pool in which he stands; but it is the wound you don't see that is the most threatening, the one which he firmly presses with his other, trembling hand. He pleads again in a fading voice.:: 
+
+I am... dying...<end>
+
+=>q22
+Пожалуйста... помогите...
+
+::Мужчина, который произносит эти слова, протягивает к вам окровавленную руку с растопыренными пальцами. Вы видите многочисленные раны на его теле, открытые и кровоточащие, каждая из которых вносит свой вклад в лужу крови под его ногами. Но самую серьёзную рану вам не видно, её он крепко зажимает другой дрожащей рукой. Он вновь умоляет вас затихающим голосом.::
+
+Я... умираю...<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>a24_original
+What happened?<end>
+
+=>a24
+Что случилось?<end>
+
+=>q25_original
+That Lurker... bastard... ambushed me.<end>
+
+=>q25
+Этот скрытень... ублюдок... он поджидал меня.<end>
+
+=>q26_original
+Help...<end>
+
+=>q26
+Помогите...<end>
+
+=>a27_original
+Stand still while I bandage your wounds.<end>
+
+=>a27
+Не двигайтесь, я вас перебинтую.<end>
+
+=>q28_original
+Thank you...<end>
+
+=>q28
+Спасибо...<end>
+
+=>a29_original
+It's too late for you, friend. ::Attack!::<end>
+
+=>a29
+Для тебя всё кончено, друг! ::Напасть!::<end>
+
+=>a30_original
+There is nothing I can do to help you, friend. Goodbye.<end>
+
+=>a30
+Я ничем не могу вам помочь, друг. Прощайте.<end>
+
+=>q31_original
+Please...<end>
+
+=>q31
+Пожалуйста...<end>
+
+=>q32_original
+Please! Don't leave me to... die here.<end>
+
+=>q32
+Пожалуйста! Не оставляйте меня... умирать здесь.<end>
+
+=>q33_original
+Why do... ::The man never gets the chance to finish his sentence, as his body drops lifeless next to the man whom he killed - the man who killed him.::<end>
+
+=>q33
+Почему... ::Мужчине не удаётся закончить фразу, его безжизненное тело падает рядом с человеком, которого он убил -- человеком, который убил его.::<end>
+
+=>a34_original
+::End Dialog.::<end>
+
+=>a34
+::Завершить диалог.::<end>
+

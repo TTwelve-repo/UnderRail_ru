@@ -1,0 +1,1630 @@
+﻿=>q1_original
+Out.<end>
+
+=>q1
+Вон отсюда.<end>
+
+=>q2_original
+::A man wearing an intricately decorated Preservation uniform stands behind the large desk. Immediately, your eyes are drawn to a symbol on his robe - an all-familiar eye surrounded with equidistant tentacles; four in this instance. A hulking guard in the room stands still in silence - silence which consumes the room as His Excellency patiently awaits your salutation.::<end>
+
+=>q2
+::Мужчина, одетый в затейливо расшитую форму Сохранения, стоит за большим письменным столом. Ваши глаза невольно тянутся к символу на его одежде -- уже знакомому глазу, окружённому равноудалёнными щупальцами; четырьмя в данном случае. Массивный охранник в углу стоит молча -- в тишине, которая поглощает комнату, пока Его превосходительство терпеливо ждёт вашего приветствия.::<end>
+
+=>a3_original
+::Place your hand on your chest and bow down slightly.:: Tchort is Evolution, Your Excellency.<end>
+
+=>a3
+::Прижимая руку к груди и слегка кланяясь.:: Чорт -- это эволюция, Ваше превосходительство.<end>
+
+=>q4_original
+::Harmost Stavros answers in a confident, booming voice of a middle-aged man.::
+
+<end>
+
+=>q4
+::Гармост Ставрос отвечает уверенным раскатистым голосом мужчины средних лет.::
+
+<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+Evolution is Tchort. I am Harmost Stavros. I've already been informed where you're from and that you're the one brave enough to free our rassophores from the clutches of the inbreds. <end>
+
+=>q6
+Эволюция -- это Чорт. Я гармост Ставрос. Мне уже сообщили, откуда вы, и о вашем храбром поступке, как вы освободили наших рясофоров из лап выродков.<end>
+
+=>q7_original
+Sadly, only one rassophore returned. But, it is still better than none, and is a good thing for morale, if only a bit.<end>
+
+=>q7
+К сожалению, вернулся только один рясофор. Но это всё же лучше чем ничего, это повысит боевой дух, пускай и немного.<end>
+
+=>a8_original
+Glad to hear so. Anyway, my name is $(context.player.Name).<end>
+
+=>a8
+Рад$(#/а) слышать это. Кстати, меня зовут $(context.player.Name).<end>
+
+=>q9_original
+Pleased to meet you. Now, $(context.player.Name), I would like you to tell me what in Tchort's magnificence is happening at the Institute building?<end>
+
+=>q9
+Рад знакомству. Теперь, $(context.player.Name), я хочу, чтобы вы рассказали мне, что, во имя Чортова великолепия, происходит в здании Института.<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+The Faceless attacked the Institute, but, while it might've been sudden, it was nothing our brave brothers and sisters couldn't handle. The Faceless advance has been halted, for now.<end>
+
+=>a11
+Безликие напали на Институт, но, хотя нападение было внезапным, оно не было ничем таким, с чем наши бравые братья и сёстры не смогли бы справиться. Безликие отброшены, по крайней мере, пока.<end>
+
+=>q12_original
+Sadly, their attack here was devastating in comparison. What you see here is almost everything left of active Preservation Forces in Deep Caverns.
+
+I presume Eidein is safe?<end>
+
+=>q12
+К сожалению, их атаки на нас были опустошительными. Здесь вы видите почти всё, что осталось от Сохранения в Глубоких пещерах.
+
+Я надеюсь, Эйдейн в безопасности?<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>a14_original
+I have bad news. Eidein seem to have been their primary target, and, sadly, they managed to reach him and take his life.<end>
+
+=>a14
+У меня плохие новости. Эйдейн, судя по всему, был их основной целью, и, к сожалению, они сумели до него добраться и лишить жизни.<end>
+
+=>q15_original
+::Harmost Stavros lowers his head slightly.::
+
+No...<end>
+
+=>q15
+::Гармост Ставрос слегка опускает голову.::
+
+Нет...<end>
+
+=>q16_original
+::He turns toward the only guard in the room, and their stares meet. Then, he looks directly at you.::
+
+The information regarding Eidein's death must *not* leave this room. Are we clear? Morale is already too low for us to further bury it into the ground. If anyone asks you - Eidein is still alive and is resisting the Faceless with the rest of Preservation Forces.<end>
+
+=>q16
+::Он поворачивается в сторону охранника, и их взгляды встречаются. Затем он смотрит прямо на вас.::
+
+Известие о смерти Эйдейна *не должно* покинуть пределов этой комнаты. Это ясно? Мораль уже слишком подорвана, не хватало только окончательно закопать её в землю. Если кто-нибудь спросит -- Эйдейн жив и противостоит безликим вместе с остальными Силами Сохранения.<end>
+
+=>q17_original
+Again, are we clear on that, $(context.player.Name)?<end>
+
+=>q17
+Ещё раз, вам это понятно, $(context.player.Name)?<end>
+
+=>a18_original
+Yes, Your Excellency.<end>
+
+=>a18
+Да, Ваше превосходительство.<end>
+
+=>q19_original
+Very well. Very well...<end>
+
+=>q19
+Очень хорошо. Очень хорошо...<end>
+
+=>q20_original
+So, to summarize: Eidein is dead, and we can expect no reinforcements, no one to relieve us. Basically, we are... alone.<end>
+
+=>q20
+Итак, подведём итог: Эйдейн мёртв, а мы не можем рассчитывать на подкрепление, никто не поможет нам. В общем, мы... одни.<end>
+
+=>a21_original
+Yes.<end>
+
+=>a21
+Да.<end>
+
+=>q22_original
+Fine. We will then have to deal with the situation to the best of our abilities. Adapt and overcome.<end>
+
+=>q22
+Ладно. Будем решать проблемы по мере их поступления. Приспосабливаться и преодолевать.<end>
+
+=>q23_original
+One more question, $(context.player.Name), before we are finished. How did you manage to get down here, and are you alone?<end>
+
+=>q23
+Ещё один вопрос, $(context.player.Name), прежде чем мы закончим. Как вам удалось добраться сюда, и был ли с вами ещё кто-нибудь?<end>
+
+=>a24_original
+I was sent down here by Eidein to help with Tchort's defense. And I am alone. The elevator stopped working during the descent, but a lucky opening in the wall saved me.<end>
+
+=>a24
+Меня послал сюда Эйдейн, помочь защищать Чорта. Я од$(#ин/на). Лифт перестал работать во время спуска, но, к счастью, мне удалось выбраться через проём в стене.<end>
+
+=>q25_original
+I see. The Faceless must've disabled the elevator in order to cut us off. <end>
+
+=>q25
+Ясно. Безликие, должно быть, отключили лифт, чтобы нас отрезать.<end>
+
+=>q26_original
+However, who are you to earn yourself Eidein's trust enough for him to send you alone? I've never seen you before, so you must've joined the Institute of Tchort during my - relatively short - absence, and I've too never seen Eidein so favorable toward a novitiate?<end>
+
+=>q26
+Тем не менее, кто вы так$(#ой/ая), что заслужили доверие Эйдейна достаточно, чтобы он мог отправить вас в одиночку? Я никогда не видел вас раньше, так что вы, должно быть, пришли в Институт Чорта во время моего относительно короткого отсутствия, а я никогда прежде не видел, чтобы Эйдейн был так благосклонен к послушнику?<end>
+
+=>a27_original
+A lot has happened during your absence. Let's leave it at that.<end>
+
+=>a27
+Много всего произошло за время вашего отсутствия. Это всё, что я могу сказать.<end>
+
+=>q28_original
+::He looks at you for a few quiet moments before continuing.::
+
+A lot *has* happened... that I cannot deny, $(context.player.Name). <end>
+
+=>q28
+::Он пристально смотрит на вас в течение нескольких мгновений.::
+
+Многое произошло... этого я не могу отрицать, $(context.player.Name).<end>
+
+=>q29_original
+Now, did Eidein make any attempts at coming down with you? According to emergency plan we had, he was supposed to go to Tchort, but from what you told me I somehow draw a conclusion that he didn't make any such attempts.<end>
+
+=>q29
+Но Эйдейн не предпринял попытки спуститься с вами? Согласно экстренному плану, он должен был отправиться к Чорту, но из ваших слов я делаю вывод, что он не предпринял таких попыток.<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+I really don't know. I suppose the plan has changed. What I've already told you is all I know.<end>
+
+=>a31
+Я не знаю. Полагаю, что план изменился. Я уже рассказал$(#/а) вам всё, что знаю.<end>
+
+=>q32_original
+Right... <end>
+
+=>q32
+М-да...<end>
+
+=>q33_original
+::He sighs.:: Alright, $(context.player.Name), you have earned yourself some rest. Should you need supplies, speak to Rassophore Prevlic in the armory. A word of caution, though: He had been injured during the battle with the devolved, and is still severely traumatized. He is very unstable, so do *not* speak with him about the current events so not to upset him. Am I clear? Keep the talk minimal and watch what you say.<end>
+
+=>q33
+::Он вздыхает.:: Ладно, $(context.player.Name), вы заслужили небольшой отдых. Если нуждаетесь в припасах, говорите с рясофором Превличем в оружейной. Предостерегу вас: он был ранен во время битвы с выродками и по-прежнему тяжело переживает. Он очень неустойчив, так что *не вздумайте* обсуждать с ним текущие события, чтобы не усугублять. Я достаточно ясно выражаюсь? Думайте, что говорите или держите язык за зубами.<end>
+
+=>q34_original
+And also remember: The official word is that Eidein is alive and well and that the situation at the Institute of Tchort is stable. If that is clear, you are free to leave unless you have further questions.<end>
+
+=>q34
+Также, помните: официально Эйдейн жив и здоров, ситуация в Институте Чорта -- стабильна. Если это понятно, вы вольны идти, если у вас больше нет вопросов.<end>
+
+=>q35_original
+<end>
+
+=>q35
+<end>
+
+=>a36_original
+I think I've proven to be of much assistance since my arrival. I'm going to need supplies and some better equipment if you want me to remain effective.<end>
+
+=>a36
+Я думаю, что доказал$(#/а) свою полезность. Для того, чтобы сохранить её, мне понадобятся припасы и снаряжение получше.<end>
+
+=>q37_original
+You are correct about that. And you do seem to find your way around Deep Caverns very well. ::He pauses.:: The storage building right outside my office - the keycode is 778901. I cannot give you ammo or weapons, for we are low ourselves, but there are some thing in that storage which you might find useful. Take anything you wish from it.<end>
+
+=>q37
+Вы правы. И вы действительно хорошо освоились в Глубоких пещерах. ::Он замолкает.:: Здание хранилища возле моего кабинета, код -- 778901. Я не могу дать вам патроны или оружие, так как мы сами в них нуждаемся, но что-нибудь на том складе может оказаться вам полезным. Берите всё, что хотите.<end>
+
+=>a38_original
+778901. Got it. I'll go check it out.<end>
+
+=>a38
+778901. Понятно. Пойду посмотрю.<end>
+
+=>q39_original
+Tchort guide you.<end>
+
+=>q39
+Чорт направит вас.<end>
+
+=>a40_original
+Understood. But I've got a few more questions.<end>
+
+=>a40
+Ясно. Но у меня есть ещё несколько вопросов.<end>
+
+=>q41_original
+I'm listening.<end>
+
+=>q41
+Я слушаю.<end>
+
+=>q42_original
+<end>
+
+=>q42
+<end>
+
+=>a43_original
+Tell me about the Hollow Earth complex.<end>
+
+=>a43
+Расскажите мне о комплексе Полая Земля.<end>
+
+=>q44_original
+Hollow Earth used to be a secret Biocorp research complex. Scientists specialized in numerous fields worked here, and the vast complex was protected by the most elite soldiers. The area just outside Cytosine Outpost used to be where most of the laboratories were located, now nothing but ruin. <end>
+
+=>q44
+Полая Земля была секретным научно-исследовательским комплексом Биокорп. Учёные различных специальностей работали здесь, а защищали комплекс самые элитные подразделения. Прямо за периметром Цитозина раньше располагались лаборатории, но теперь нет ничего, кроме руин.<end>
+
+=>q45_original
+Of course, over the years we, Institute of Tchort, have managed to extract useful research data which accelerated our own efforts.<end>
+
+=>q45
+Конечно, на протяжении многих лет, мы -- Институт Чорта -- извлекали полезные исследовательские данные, которые ускорили наши собственные проекты.<end>
+
+=>a46_original
+Anything else you can tell me about it?<end>
+
+=>a46
+Что-нибудь ещё можете рассказать?<end>
+
+=>q47_original
+Not much you'll find immediately useful. This section of the complex is the only location that is under the control of Preservation Forces, and is probably the safest, outside a few shelters scattered throughout the complex which you can use in case the Faceless make another push.<end>
+
+=>q47
+Немногое, что вы нашли бы полезным. Данная секция комплекса -- единственное место под контролем Сил Сохранения, и, вероятно, самое безопасное, если не считать ещё нескольких небольших убежищ, разбросанных по всему комплексу, которые вы можете использовать в случае, если безликие нанесут ещё один удар.<end>
+
+=>q48_original
+Also know that, even though Tchort's minions will not harm a Tchortist, as its will dictates, be careful if moving to the north, close to Nucleus, as that is where they are most numerous. In these abnormal conditions, and you being unfamiliar to Tchort, you might risk getting attacked.<end>
+
+=>q48
+Также знайте, что хотя слуги Чорта не станут нападать на чортистов, ведь такова его воля, будьте осторожны, если пойдёте на север, по направлению к Нуклеусу, так как именно там они наиболее многочисленны. В этих ненормальных условиях, будучи незнаком$(#ым/ой) Чорту, вы рискуете попасть под раздачу.<end>
+
+=>a49_original
+Tell me about the warehouse block.<end>
+
+=>a49
+Расскажите мне о складском квартале.<end>
+
+=>q50_original
+Eight years ago there were two warehouse blocks east of here, currently under Faceless control. However, a cave-in buried one of them, Warehouse Block 1, while leaving Warehouse Block 2 intact.<end>
+
+=>q50
+Восемь лет назад было два складских квартала к востоку отсюда, в настоящее время это место под контролем безликих. Однако обвал засыпал один из них, но другой остался невредим.<end>
+
+=>q51_original
+Preservation Forces during the early years of the Institute of Tchort retrieved much of the Warehouse Block 1 supplies, all left over from Biocorp. The other block we've left largely intact, but I have no doubt that the Faceless have scavenged through it by now. Whatever the case, both blocks were loaded with weapons, ammo and various other supplies.<end>
+
+=>q51
+Сохранение в первые годы существования Института Чорта извлекло из складского квартала 1 почти все запасы, оставшиеся от Биокорп. Другой квартал был практически нетронут, но я не сомневаюсь, что безликие уже разграбили его. В любом случае, все склады были завалены оружием, патронами и различными другими припасами.<end>
+
+=>a52_original
+Tell me about the Caerus Residential Block.<end>
+
+=>a52
+Расскажите мне о жилом корпусе Кайрос.<end>
+
+=>q53_original
+It is where Biocorp scientists and other personnel resided up until the Hollow Earth Incident. It consists of four large buildings and sits just past the SE3 checkpoint; that's Hollow Earth's south-eastern exit.<end>
+
+=>q53
+Там учёные Биокорп и другой персонал проживали вплоть до Инцидента Полой Земли. Он состоит из четырёх больших зданий и находится за блокпостом Юго-восток-3; это у юго-восточного выхода из Полой Земли.<end>
+
+=>a54_original
+What else can you tell me about it?<end>
+
+=>a54
+Что ещё вы можете рассказать мне о нём?<end>
+
+=>q55_original
+Not much else, I'm afraid, other than the fact that the last time our recon units scouted the buildings they had been infested with coil spiders. It was thirty years ago, but I doubt much has changed.<end>
+
+=>q55
+Не очень многое, боюсь, разве что, в последний раз когда наше разведывательное подразделение осматривало здания, они были наводнены электропауками. Это было тридцать лет назад, но я сомневаюсь, что многое изменилось.<end>
+
+=>a56_original
+Tell me about Arke Power Station.<end>
+
+=>a56
+Расскажите мне об электростанции Арка.<end>
+
+=>q57_original
+It lies to the north of Warehouse Block 2. It is a gas turbine power station that used to power the whole Hollow Earth complex. As you saw on your way here, the complex is dark.<end>
+
+=>q57
+Она расположена к северу от складского квартала 2. Это газотурбинная электростанция, которая раньше питала весь комплекс Полой Земли. Как вы видели по пути сюда, в комплексе темно.<end>
+
+=>a58_original
+How do you get your power?<end>
+
+=>a58
+Откуда вы берёте электроэнергию?<end>
+
+=>q59_original
+We have our own generators. <end>
+
+=>q59
+У нас есть собственные генераторы.<end>
+
+=>a60_original
+Has anyone ever been there?<end>
+
+=>a60
+Кто-нибудь был там?<end>
+
+=>q61_original
+Long ago, before I was even born. Eidein's Library contained several rassophore reports regarding their recon of the area. As far as I remember, the plant was heavily defended by automated security systems at the time, preventing further advance. Our forces managed to retreat without casualties, luckily, but no further attempts were made at penetrating the defenses and entering the building.<end>
+
+=>q61
+Давным-давно, задолго до моего рождения. В библиотеке Эйдейна есть несколько отчётов рясофоров о разведке местности. Насколько я помню, электростанция была в то время защищена сильными автоматизированными системами безопасности, препятствовавшими дальнейшему продвижению. Наши войска сумели отступить без потерь, к счастью, но никаких дальнейших попыток проникнуть в здание не предпринималось.<end>
+
+=>a62_original
+Why not? It seems like an important location to have under one's control.<end>
+
+=>a62
+Почему нет? Это, похоже, важное место, хорошо бы контролировать его.<end>
+
+=>q63_original
+We were able to provide power to all critical locations in Deep Caverns even without the power station. Most of our generators are situated in the Nucleus. They are safest there, and that is also where the power is most necessary.<end>
+
+=>q63
+Мы в состоянии обеспечить питание всех критически важных мест в Глубоких пещерах даже без электростанции. Большинство наших генераторов находятся в Нуклеусе. Они там в безопасности, также, там наиболее востребована их энергия.<end>
+
+=>a64_original
+I'd like to ask you about some other location.<end>
+
+=>a64
+Я бы хотел$(#/а) спросить вас о другом месте.<end>
+
+=>a65_original
+Are there any more exits out of Deep Caverns other than Cytosine Outpost elevator?<end>
+
+=>a65
+Есть ли ещё выходы из Глубоких пещер, кроме лифта на форпосте Цитозин?<end>
+
+=>q66_original
+There are two more elevators, but both are out of order.<end>
+
+=>q66
+Есть ещё два лифта, но оба вышли из строя.<end>
+
+=>a67_original
+Can you tell me where to find them?<end>
+
+=>a67
+Можете ли вы сказать, где найти их?<end>
+
+=>q68_original
+::He nods.:: One is to the north of here, just past the vehicle park; you passed through the park on your way here. The other is south-west from Caerus. The first one collapsed decades ago, while the second remains mostly intact.<end>
+
+=>q68
+::Он кивает.:: Один находится к северу отсюда, у автопарка; вы прошли через парк по пути сюда. Другой -- к юго-западу от Кайроса. Первый рухнул десятилетия назад, второй же остался более-менее невредим.<end>
+
+=>a69_original
+Have you ever used it?<end>
+
+=>a69
+Вы когда-нибудь пользовались им?<end>
+
+=>q70_original
+No. We never had the need to, although if I'm not mistaken, many decades ago it was attached to our power grid. As far as I am aware, it leads to Lower Underrail, but I cannot confirm it.<end>
+
+=>q70
+Нет. Он ни разу не потребовался, хотя, если я не ошибаюсь, много десятилетий назад он был соединён с нашей электросетью. Насколько мне известно, он ведёт в Нижнюю Подземку, но я не могу подтвердить это.<end>
+
+=>a71_original
+That's good enough for me. I'd like to ask you something else now.<end>
+
+=>a71
+Это всё, что мне надо было знать. Я бы хотел$(#/а) спросить кое-что ещё.<end>
+
+=>a72_original
+I'd like to ask you something else.<end>
+
+=>a72
+Я бы хотел$(#/а) спросить ещё кое-что.<end>
+
+=>q73_original
+I'm listening.<end>
+
+=>q73
+Я слушаю.<end>
+
+=>a74_original
+Can you tell me more about Tchort's minions?<end>
+
+=>a74
+Можете ли вы рассказать мне о Чорте и его слугах?<end>
+
+=>q75_original
+Certainly. Tchort's minions are the physical manifestation of Tchort's will. To explain: As you already know, Tchort is capable of developing traits most appropriate for the environment it is in, the ones that are most likely to secure its survival. Some of these traits are only expressed once the physical form underwent a complete regeneration cycle; others, however, related to Tchort's mental capacity and will are always present.<end>
+
+=>q75
+Конечно. Слуги Чорта -- физическое воплощение его воли. Объясню: как вы уже знаете, Чорт способен развить особенности, наиболее подходящие для окружающей среды -- именно те, которые с наибольшей вероятностью обеспечат выживание. Некоторые из них выражаются только когда его физическая форма пройдёт полный цикл регенерации; другие же, относящиеся к ментальным способностям Чорта, присутствуют всегда.<end>
+
+=>q76_original
+We aren't yet sure when Tchort developed the ability to manipulate organic matter and mold it into living creatures - it could've been a recent trend, for all we know - and we have only scratched the surface of the exact mechanisms whereby the process is being accomplished. What we do know is that it is an extremely effective device for Tchort's preservation, making it yet another proof of its magnificence.<end>
+
+=>q76
+Мы ещё не знаем, когда Чорт развил в себе способность манипулировать органической материей и лепить из неё живых существ, это могло даже появиться совсем недавно. Наши знания относительно деталей механизмов, посредством которых данный процесс совершается, очень поверхностны. Мы точно знаем, что это чрезвычайно эффективное средство сохранения Чорта, очередное доказательство его великолепия.<end>
+
+=>a77_original
+Where does Tchort get the organic matter to produce such a number of minions?<end>
+
+=>a77
+Где Чорт берёт достаточно органического вещества, чтобы производить такое количество слуг?<end>
+
+=>q78_original
+It is easily obtainable from local sources: wildlife, fungus and even - but rarely due to their scarcity - plants. As I said, we haven't yet investigated these mechanisms completely, but just imagine the applications if we could-- ::He stops abruptly.:: I won't proceed. There are more important matters to attend to right now, $(context.player.Name). Let's leave these dreams for after we've gotten ourselves safely out of this mess.<end>
+
+=>q78
+Его легко получить из местных источников: дикие животные, грибы и даже -- хотя и редко из-за их дефицита -- растения. Как я уже сказал, мы ещё не исследовали эти механизмы полностью, но только представьте себе сферы применения, если бы мы могли... ::Он осекается.:: Не буду углубляться. Есть и более важные дела на данный момент, $(context.player.Name). Давайте оставим мечты на будущее, когда мы благополучно из этого выпутаемся.<end>
+
+=>a79_original
+I had other questions.<end>
+
+=>a79
+У меня были другие вопросы.<end>
+
+=>q80_original
+::He nods.::<end>
+
+=>q80
+::Он кивает.::<end>
+
+=>a81_original
+Do you have any tasks for me, Your Excellency?<end>
+
+=>a81
+Есть ли у вас задания для меня, Ваше превосходительство?<end>
+
+=>q82_original
+You have already helped us enough. <end>
+
+=>q82
+Вы уже достаточно помогли нам.<end>
+
+=>q83_original
+I had considered sending you on a recon mission, but the rassophores you rescued gave me enough information regarding Faceless positioning, personnel and available equipment.<end>
+
+=>q83
+Я собирался послать вас на разведку, но спасённые вами рясофоры сообщили мне достаточно информации о позициях безликих, персонале и имеющемся оборудовании.<end>
+
+=>q84_original
+Excellent work so far, $(context.player.Name). At least we now have a better idea what we are up against, even if the current situation does not allow us much room to act. The important thing is that they are outside of Hollow Earth, at least for now.<end>
+
+=>q84
+Отлично работаете, $(context.player.Name). По крайней мере, мы теперь имеем представление о том, кто нам противостоит, пусть даже текущая ситуация не оставляет нам много места для манёвра. Главное, что они находятся за пределами Полой Земли, по крайней мере, пока.<end>
+
+=>q85_original
+<end>
+
+=>q85
+<end>
+
+=>q86_original
+I had considered sending you on a recon mission, but the rassophore you rescued gave me enough information regarding Faceless positioning, personnel and available equipment.<end>
+
+=>q86
+Я собирался послать вас на разведку, но спасённый вами рясофор сообщил мне достаточно информации о позициях безликих, персонале и имеющемся оборудовании.<end>
+
+=>q87_original
+What are you good at doing?<end>
+
+=>q87
+Что вы умеете делать?<end>
+
+=>a88_original
+I am a skilled individual. I can deal with a lot of difficult situations.<end>
+
+=>a88
+Я способн$(#ый/ая). Я могу справиться со многими сложными ситуациями.<end>
+
+=>q89_original
+My rassophores are demoralized, tired, and some even traumatized by the recent events. On the other hand, you seem rather enthusiastic and capable. I might just have the perfect assignment for you.<end>
+
+=>q89
+Мои рясофоры деморализованы, устали, а некоторые даже в шоке после недавних событий. Вам же, с другой стороны, не откажешь в энтузиазме. У меня для вас есть просто идеальное задание.<end>
+
+=>q90_original
+The situation is, as you are perfectly aware, very grim. We need every man, woman, turret, rifle and bullet if we're going to overcome what fell upon us. But, even all that won't help us unless we have the right information. Knowing the whereabouts of your enemy and planning for his next move can turn the tide of any conflict. So, this is what I need you to do.<end>
+
+=>q90
+Ситуация, как вы прекрасно понимаете, весьма мрачная. Нам нужен каждый мужчина, женщина, турель, винтовка и патрон, если мы хотим преодолеть то, что нас постигло. Но даже всё это не поможет нам, если у нас не будет нужной информации. Зная местонахождение своего врага и его следующий шаг, можно повернуть ход любого конфликта. Итак, вот что я от вас хочу.<end>
+
+=>q91_original
+I need you to move out of Cytosine Outpost as soon as you are able and perform reconnaissance of the Hollow Earth complex as well as the areas east of it; that is the direction where all major Faceless attacks have come from and I would presume that they have set up a base of operations from which they are launching these attacks.<end>
+
+=>q91
+Я хочу, чтобы вы отправились с форпоста Цитозин как только сможете и разведали комплекс Полой Земли, а также районы к востоку от него; то есть направление, откуда пришли основные атаки безликих. Можно предположить, что там они развернули оперативную базу, с которой выступают в нападение.<end>
+
+=>q92_original
+This base - or bases - should be your primary reconnaissance targets if possible. The Battle of the Nucleus, despite happening nearly sixty years ago, taught us that the Faceless are capable of performing brutal cybernetic augmentation procedures on captives in order to turn them into corrupted, mindless war machines. I doubt that doctrine has changed since. If you encounter any captured rassophores - do try and save them from such fate.<end>
+
+=>q92
+Эта база, или базы, должна стать приоритетной целью для разведки, если это возможно. Битва за Нуклеус, хотя и случилась почти шестьдесят лет назад, научила нас, что безликие способны имплантировать кибернетические органы пленным, чтобы превратить их в ужасные безмозглые машины для войны. Я сомневаюсь, что их доктрина изменилась с тех пор. Если вы найдёте пленённых рясофоров, попробуйте спасти их от такой судьбы.<end>
+
+=>q93_original
+I am asking a lot of you and know that it is a tremendously difficult task, but our options are limited. <end>
+
+=>q93
+Я прошу многого и знаю, что это чрезвычайно сложная задача, но нам не приходится выбирать.<end>
+
+=>a94_original
+I have already been to one of these bases.<end>
+
+=>a94
+Я уже был$(#/а) на одной из этих баз.<end>
+
+=>q95_original
+You have? Excellent work, $(context.player.Name). I am interested in its location, defenses, manpower. Everything you can tell me.<end>
+
+=>q95
+Вот как? Отличная работа, $(context.player.Name). Меня интересует её местоположение, оборонительные сооружения, живая сила. Всё, что вы можете мне сказать.<end>
+
+=>a96_original
+It is the only base I was able to find so far. It lies to the far east, behind the warehouse block and is heavily defended by turrets and a large number of troops. Based on what I saw, and which matches what you suspected, it is their main base of operations in the area.<end>
+
+=>a96
+Это единственная база, которую мне пока удалось найти. Она расположена далеко на востоке, за складским кварталом, и хорошо защищена турелями и большим количеством солдат. Исходя из того что я видел$(#/а), и в соответствии с вашими подозрениями -- это их основная оперативная база в данном районе.<end>
+
+=>q97_original
+Excellent work so far, $(context.player.Name). At least we now have a better idea what we are up against, even if current situation does not allow us much room to act. The important thing is that they are outside of Hollow Earth, at least for now.<end>
+
+=>q97
+Отлично работаете, $(context.player.Name). По крайней мере, мы теперь имеем представление о том, кто нам противостоит, пусть даже текущая ситуация не оставляет нам много места для манёвра. Главное, что они находятся за пределами Полой Земли, по крайней мере, пока.<end>
+
+=>a98_original
+There is one more thing I have to report.<end>
+
+=>a98
+Стоит сообщить ещё кое-что.<end>
+
+=>q99_original
+Yes?<end>
+
+=>q99
+Да?<end>
+
+=>a100_original
+I failed to find any captured rassophores.<end>
+
+=>a100
+Я не смог$(#/ла) найти никаких пленных рясофоров.<end>
+
+=>q101_original
+You did excellent in any case. It would've been a great boost to morale had you found, and even possibly rescued them, but that is how things are. Well done, $(context.player.Name).<end>
+
+=>q101
+Вы отлично поработали, в любом случае. Это подняло бы боевой дух, если бы вы нашли, и даже, возможно, спасли их, но чудес не бывает. Молодец, $(context.player.Name).<end>
+
+=>a102_original
+I have found a few captured rassophores held inside the base, but I haven't found a way to help them out.<end>
+
+=>a102
+Я наш$(#ёл/ла) несколько захваченных в плен рясофоров на базе, но возможности помочь им не подвернулось.<end>
+
+=>q103_original
+You did? Excellent. In that case, I have another task for you - find a way to get those rassophores out of the clutches of the corrupted. Every man counts, but if you do manage to rescue the captives, a boost in morale will increase our effectiveness even more.<end>
+
+=>q103
+Вы нашли их? Отлично. В таком случае, у меня есть ещё одно задание для вас: найдите способ вызволить этих рясофоров из лап падших. Каждый человек на счету, и если вам всё-таки удаётся спасти пленников, это поднимет боевой дух и повысит нашу эффективность.<end>
+
+=>a104_original
+Yes, Your Excellency.<end>
+
+=>a104
+Да, Ваше превосходительство.<end>
+
+=>a105_original
+Got it.<end>
+
+=>a105
+Понятно.<end>
+
+=>a106_original
+I found a few captured rassophores, but sadly I wasn't able to get them out alive.<end>
+
+=>a106
+Я наш$(#ёл/ла) несколько захваченных в плен рясофоров, но, к сожалению, не смог$(#/ла) их вытащить живыми.<end>
+
+=>q107_original
+Magnificent Tchort, that is sad news. It would've been a great boost to morale had you managed to rescued them, but that is how things are. Well done for trying, $(context.player.Name), but what you just told me cannot leave this room. Am I clear?<end>
+
+=>q107
+Чорт великолепный, это печальная новость. Это повысило бы боевой дух, спаси вы их, но чудес не бывает. Спасибо за попытку, $(context.player.Name), но то, что вы только что сказали мне, не должно покинуть этой комнаты. Я достаточно ясно выражаюсь?<end>
+
+=>q108_original
+Good work in any case, $(context.player.Name).<end>
+
+=>q108
+В любом случае, хорошая работа, $(context.player.Name).<end>
+
+=>a109_original
+It is the only base I was able to find so far. It lies to the far east, behind the warehouse block and is heavily defended by turrets and a large number of troops. Based on what I saw, and which matches what you suspected, it is their main base of operations in the area. Ehm... it was until I took care of it.<end>
+
+=>a109
+Это единственная база, которую мне пока удалось найти. Она расположена далеко на востоке, за складским кварталом, и хорошо защищена турелями и большим количеством солдат. Исходя из того что я видел$(#/а), и в соответствии с вашими подозрениями -- это их основная оперативная база в данном районе. Эм... или была таковой до тех пор, пока я о ней не позаботил$(#ся/ась).<end>
+
+=>q110_original
+Can you... repeat that last part? You "took care of it"?<end>
+
+=>q110
+Можете... повторить последнюю фразу? Вы «позаботились» о ней?<end>
+
+=>a111_original
+Yes. I eliminated the base commander and all his troops. All of them.<end>
+
+=>a111
+Да. Я ликвидировал$(#/а) командира базы и всех его солдат. Всех их.<end>
+
+=>q112_original
+Your words sound almost unreal. Magnificent Tchort! How can one $(#man/woman) be such a force of destruction?<end>
+
+=>q112
+Ваш рассказ звучит практически неправдоподобно. Чорт великолепный! Как может один человек обладать такой разрушительной силой?<end>
+
+=>a113_original
+It was simply a matter of quality over quantity, Your Excellency.<end>
+
+=>a113
+Это просто вопрос качества, а не количества, Ваше превосходительство.<end>
+
+=>q114_original
+I am nothing short of amazed by your actions. You have tipped the odds in our favor completely. While we are not out of the depths yet, you have demonstrated that the Faceless are not as superior as we had originally thought. Excellent work!<end>
+
+=>q114
+Я просто поражён вашими достижениями. Вы склонили чашу весов в нашу пользу. Мы пока ещё не поднялись со дна, но, всё же, вы продемонстрировали, что безликие не столь всемогущи, как мы думали. Отличная работа!<end>
+
+=>a115_original
+All it took was some skill, some luck, and most importantly - a lot of guts.<end>
+
+=>a115
+Всё, что потребовалось, это немного умения, немного удачи, и самое главное -- много мужества.<end>
+
+=>a116_original
+You haven't seen anything yet.<end>
+
+=>a116
+Вы ещё ничего не видели.<end>
+
+=>a117_original
+This is all I'm going to say: I am Invictus!<end>
+
+=>a117
+Всё, что я скажу: я инвиктус!<end>
+
+=>a118_original
+I just murdered everyone I could find. It was easy - like skinning a cave hopper.<end>
+
+=>a118
+Я просто убил$(#/а) всех, кого смог$(#/ла) найти. Это было легко -- как шкуру с пещерника снять.<end>
+
+=>a119_original
+I'm on the job.<end>
+
+=>a119
+Я берусь за дело.<end>
+
+=>q120_original
+Good luck and Tchort guide you.<end>
+
+=>q120
+Удачи! Чорт направит вас.<end>
+
+=>a121_original
+I understand everything, Your Excellency.<end>
+
+=>a121
+Я всё понимаю, Ваше превосходительство.<end>
+
+=>a122_original
+I have some questions for you before I leave.<end>
+
+=>a122
+У меня есть к вам несколько вопросов, прежде чем я уйду.<end>
+
+=>a123_original
+Everything.<end>
+
+=>a123
+Всё.<end>
+
+=>q124_original
+A bold statement, $(context.player.Name). <end>
+
+=>q124
+Дерзкое заявление, $(context.player.Name).<end>
+
+=>a125_original
+Cooking and killing! That's the best combo!<end>
+
+=>a125
+Готовить и убивать! Это наилучшее сочетание!<end>
+
+=>q126_original
+Interesting. Rassophore Jeremy, our best cook was killed recently, but let's ignore that for a moment; I have something else in mind. <end>
+
+=>q126
+Интересно. Рясофор Джереми -- наш лучший повар -- был убит недавно, но давайте пока оставим это; у меня на уме другое.<end>
+
+=>a127_original
+About those captives...<end>
+
+=>a127
+О тех пленниках...<end>
+
+=>q128_original
+Yes?<end>
+
+=>q128
+Да?<end>
+
+=>a129_original
+I'm afraid I wasn't able to rescue the rassophores. They are all dead.<end>
+
+=>a129
+Я боюсь, что не смог$(#/ла) спасти рясофоров. Они все мертвы.<end>
+
+=>a130_original
+Actually, nothing.<end>
+
+=>a130
+На самом деле, у меня ничего.<end>
+
+=>q131_original
+::He says nothing.::<end>
+
+=>q131
+::Он ничего не говорит.::<end>
+
+=>a132_original
+I'm here for a reconnaissance report.<end>
+
+=>a132
+Я могу доложить о результатах разведки.<end>
+
+=>q133_original
+There is no need for that now. I have already been told everything I need to know about the Faceless.<end>
+
+=>q133
+Нет необходимости. Мне уже рассказали всё, что мне нужно знать о безликих.<end>
+
+=>q134_original
+I'm listening.<end>
+
+=>q134
+Я слушаю.<end>
+
+=>a135_original
+I have been to the Faceless base.<end>
+
+=>a135
+Я был$(#/а) на базе безликих.<end>
+
+=>a136_original
+I have scouted the areas outside of Hollow Earth.<end>
+
+=>a136
+Я обследовал$(#/а) местность за пределами Полой Земли.<end>
+
+=>q137_original
+And?<end>
+
+=>q137
+И?<end>
+
+=>a138_original
+The Faceless have numerous heavily-armed patrols just outside of the edge of the complex.<end>
+
+=>a138
+У безликих -- многочисленные хорошо вооружённые патрули вдоль границ комплекса.<end>
+
+=>q139_original
+Just as I suspected, but it doesn't take a good strategist to figure that out. Tchort is what is keeping them away, and I only hope they don't discover a way to shield themselves from its influence. 
+Have you managed to reach any of their bases yet? That's what interests me the most.<end>
+
+=>q139
+Как я и подозревал, впрочем, не нужно быть хорошим стратегом, чтобы это понять. Чорт -- единственное, что держит их на отдалении, надеюсь, они не обнаружат способ оградить себя от его влияния. 
+Удалось ли вам достичь каких-либо их баз? Вот что меня интересует больше всего.<end>
+
+=>a140_original
+Indeed, I was able to get close enough to one of their bases.<end>
+
+=>a140
+Действительно, я смог$(#/ла) подобраться достаточно близко к одной из их баз.<end>
+
+=>a141_original
+Not yet, but I am working on it.<end>
+
+=>a141
+Пока нет, но я над этим работаю.<end>
+
+=>q142_original
+Good work so far. Report back when you have more information.<end>
+
+=>q142
+Хорошая работа. Сообщите, когда у вас будет больше информации.<end>
+
+=>a143_original
+I have nothing to report.<end>
+
+=>a143
+Мне нечего сообщить.<end>
+
+=>q144_original
+Is this a joke, $(context.player.Name)? Return to me only if you have something useful to say. Am I clear?<end>
+
+=>q144
+Это такая шутка, $(context.player.Name)? Возвращайтесь ко мне, только если у вас будет что-то действительно полезное. Я достаточно ясно выражаюсь?<end>
+
+=>a145_original
+I've been experiencing this aching sensation in my head ever since I came to this place. Why is that so?<end>
+
+=>a145
+Я испытываю щемящее ощущение в голове с тех пор, как я здесь. Откуда оно?<end>
+
+=>q146_original
+I see. I presume you haven't been prepared for your descent, so I understand why you've been feeling these sensations. It takes some time for Tchort to probe the minds of those who wander into its domain, and the process might feel uncomfortable for the untrained Tchortists such as yourself. However, for *others* - those whom Tchort perceives as threats, or as simply unwanted - for those the effects would be much more severe.<end>
+
+=>q146
+Ясно. Я полагаю, что вы не подготовлены для спуска, вот почему вы чувствуете это. Привыкание занимает некоторое время, пока Чорт зондирует умы тех, кто забрёл в его владения; процесс может вызывать дискомфорт у неподготовленного чортиста, вроде вас. Однако для *других* -- тех, кого Чорт воспринимает как угрозу, или просто нежелательных гостей -- последствия будут гораздо более серьёзными.<end>
+
+=>a147_original
+Can you tell me more about Tchort?<end>
+
+=>a147
+Можете ли вы рассказать мне больше о Чорте?<end>
+
+=>q148_original
+Tchort is formless, you know that, but not mindless. It can exert its mental influence over this whole area of Deep Caverns - Cytosine Outpost, whole Hollow Earth and of course Nucleus - and does so by controlling its minions, who follow its will and, in this case, helped us fight the Faceless; you have probably encountered some already, they are everywhere. It is the same ability it uses to speak to Eidein, who is most attuned to Tchort's mind, and understands it the best.<end>
+
+=>q148
+Чорт бесформен, вы это знаете, но это не значит, что он не разумен. Он может простирать своё ментальное влияние на всю эту область Глубоких пещер -- форпост Цитозин, Полую Землю и, разумеется, Нуклеус. Он делает это, контролируя своих слуг, которые следуют его воле, и, в данном случае, помогли нам в битве с безликими; вы уже, наверное, сталкивались с ними, они повсюду. Ту же способность он использует, чтобы говорить с Эйдейном, кто в наибольшей степени настроен на разум Чорта и понимает его лучше всех.<end>
+
+=>q149_original
+The sole reason why Eidein is the *only* one allowed to enter the Nucleus is because Tchort simply wouldn't let anyone else so close to itself; it is its will, and we must abide. <end>
+
+=>q149
+Единственная причина, почему *только* одному Эйдейну разрешается входить в Нуклеус -- Чорт просто не позволил бы никому другому находиться так близко к себе; такова его воля, и мы должны подчиниться.<end>
+
+=>q150_original
+All this shows the magnificence of Tchort: Even in its most vulnerable phase, during its regeneration, it has a way to defend itself, to influence all that is around it. There were traitors in the past who spoke of Tchort as if it is a mere fabrication, and told that a trip to Deep Caverns would only prove their claims. Ironically for them, it proves exactly the opposite - it proves Tchort's magnificence.<end>
+
+=>q150
+Всё это демонстрирует великолепие Чорта: даже в наиболее уязвимой фазе, во время его регенерации, он может защитить себя и оказывать влияние на всё, что находится вокруг. В прошлом находились предатели, которые говорили, что Чорт -- лишь фикция, и что достаточно посетить Глубокие пещеры, чтобы доказать их заявления. По иронии судьбы, здесь было доказано ровно обратное -- доказано великолепие Чорта.<end>
+
+=>a151_original
+Actually, I had other questions.<end>
+
+=>a151
+На самом деле, у меня были другие вопросы.<end>
+
+=>q152_original
+Then ask, $(context.player.Name).<end>
+
+=>q152
+Так спрашивайте, $(context.player.Name).<end>
+
+=>a153_original
+What can you tell me about the Faceless invasion?<end>
+
+=>a153
+Что вы можете рассказать мне о вторжении безликих?<end>
+
+=>q154_original
+First of all, we haven't had contact with the inbreds in decades, so hearing about their invasion of Core City lifted a few eyebrows in Preservation. When I discussed the matter with Eidein, we came to a decision that it is best if I descend to Deep Caverns with - initially - several more rassophore combat units in order to make sure Cytosine Outpost and Nucleus are well defended.<end>
+
+=>q154
+Во-первых, мы не слышали об этих выродках уже десятилетия, так что внезапное нападение на Кор-Сити подняло немало бровей среди сотрудников Сохранения. Когда я обсудил этот вопрос с Эйдейном, мы пришли к решению, что будет лучше всего, если для начала я отправлюсь в Глубокие пещеры с несколькими группами рясофоров, чтобы убедиться, что форпост Цитозин и Нуклеус хорошо защищены.<end>
+
+=>a155_original
+If you were prepared, how did they manage to overwhelm you?<end>
+
+=>a155
+Если вы готовились, как им удалось сокрушить вас?<end>
+
+=>q156_original
+Sadly, it seems we greatly underestimated their forces. Decades ago Faceless were as far off from being a match for us, as history has shown. Now, they outnumber us not only in armed personnel but in mechanization as well, as their tunneling machines allow such mobility and support that we were unable to match them. Their tactics are - and I'm not glad to admit this - but they proved to be extremely effective.<end>
+
+=>q156
+К сожалению, похоже, что мы недооценили их силы. Несколько десятилетий назад, безликие были далеки от того, чтобы представлять опасность. Сейчас же, они численно превосходят нас не только по солдатам, но и в технике. Их проходческие машины дают такую мобильность и поддержку войскам, что теперь мы не в состоянии им что-то противопоставить. Их тактика -- и я не рад это признать -- оказалась чрезвычайно эффективной.<end>
+
+=>q157_original
+Simultaneous flanking attacks made sure the outside perimeter was quickly breached. Their initial push might've even allowed them to reach Cytosine Outpost itself, but our minefields were enough to slow them down, allowing our forces to regroup and form another line of defense, which proved effective for a time; however, no matter how many inbreds we culled, their troops just kept receiving reinforcements.<end>
+
+=>q157
+Одновременные фланговые атаки сделали возможным быстрый взлом внешнего периметра. Их начальный удар, может быть, даже позволил бы им достичь форпоста Цитозин, но наши минные поля достаточно замедлили их, позволив нашим войскам перегруппироваться и сформировать ещё одну линию защиты, которая показала свою эффективность; однако, независимо от того, сколько уродов мы выпололи, они продолжают получать подкрепления.<end>
+
+=>q158_original
+A combination of excellent maneuvering and overwhelming numbers meant that eventually they were going to breach our defensive lines. And so they did. They made it to our final defensive position, as you can see by their corpses just beyond the base walls.<end>
+
+=>q158
+Сочетание превосходной подвижности и численное превосходство означало, что в конце концов они пробили бы наши оборонительные рубежи. Так и случилось. Они пробились к нашей последней оборонительной позиции, как вы можете видеть по трупам за стенами базы.<end>
+
+=>a159_original
+Wait, didn't Tchort's minions help you fight the Faceless?<end>
+
+=>a159
+Подождите, слуги Чорта не помогли вам бороться с безликими?<end>
+
+=>q160_original
+Tchort's minions were one of the reasons we are still alive, as their numbers, if nothing else, matched that of the Faceless. What secured our victory was the fact that the Faceless ultimately couldn't withstand the magnificence of Tchort's mind. I saw the effects myself: Some of them were dropping their weapons and falling to the ground, shaking and rolling until finally coming to eternal rest. Soon after these incidents began to occur, and naturally reduced their combat effectiveness, they retreated.<end>
+
+=>q160
+Слуги Чорта -- одна из причин, почему мы до сих пор живы, ведь их одна только их численность соответствует численности безликих. Нашей победой мы обязаны тому факту, что безликие в конечном счёте не выдержали великолепие разума Чорта. Я видел его действие своими глазами: некоторые из них роняли оружие и падали на землю, тряслись и катались, пока наконец не замирали навсегда. Вскоре это, естественно, снизило их боевую эффективность, и они отступили.<end>
+
+=>q161_original
+They haven't made any advances since then.<end>
+
+=>q161
+С тех пор, они не пытались вновь перейти в наступление.<end>
+
+=>a162_original
+Why do you think the Faceless invaded half of Underrail at this particular time?<end>
+
+=>a162
+Как вы думаете, почему безликие вторглись в Подземку именно сейчас?<end>
+
+=>q163_original
+One might argue that they have finally grown strong enough to do so, but there is one little detail which explains it, and had I been aware of it earlier, things would've turned out differently.<end>
+
+=>q163
+Кто-то может считать, что они просто наконец-то собрали достаточно сил, но есть одна маленькая деталь, которая всё объясняет, и если бы я узнал это раньше, всё бы сложилось иначе.<end>
+
+=>a164_original
+The artifact.<end>
+
+=>a164
+Тот артефакт.<end>
+
+=>q165_original
+Artifact? You know about that?<end>
+
+=>q165
+Артефакт? Вы знаете о нём?<end>
+
+=>a166_original
+I heard about it.<end>
+
+=>a166
+Я слышал$(#/а) о нём.<end>
+
+=>q167_original
+Regardless, I believe this object is the reason for everything that had happened starting with Core City invasion up until now. And had I made that connection earlier, we might've been more prepared to deal with the Faceless.<end>
+
+=>q167
+Неважно, я считаю, что именно этот объект является причиной всего, что произошло, начиная с вторжения в Кор-Сити. И если бы я видел эту связь раньше, мы могли бы лучше подготовиться дать отпор безликим.<end>
+
+=>a168_original
+How so?<end>
+
+=>a168
+Почему?<end>
+
+=>q169_original
+I wasn't aware where the artifact came from. I was only told by the investigators that Eidein ordered it sent to Nucleus. One single bit of information was necessary for me to realize that an object, that technologically advanced, existing in Core City at the time of the Faceless invasion, was as far from a coincidence as it can be possible. 
+
+I wonder why Eidein hasn't made that same connection, but what happened, happened.<end>
+
+=>q169
+Я не знал, откуда этот артефакт взялся. Только слышал от исследователей, что Эйдейн приказал отправить его в Нуклеус. Одного этого сообщения мне было достаточно, чтобы понять, что присутствие столь необычного предмета в Кор-Сити в момент вторжения безликих было вовсе не совпадением, как может показаться.
+
+Интересно, почему Эйдейн не пришёл к тому же выводу, но что случилось, то случилось.<end>
+
+=>a170_original
+But you do know it came from Core City, you just said it.<end>
+
+=>a170
+Но вы же знаете, что его доставили из Кор-Сити, вы сами сказали.<end>
+
+=>q171_original
+I realized that far too late once I've spoken to one of the surviving investigators. Magnificent Tchort, had I only paid more attention. We wouldn't have moved everyone to Deep Caverns; Preservation Forces as a single whole could've repelled the Faceless, but we were split.<end>
+
+=>q171
+Я понял это слишком поздно, когда разговаривал с одним из уцелевших исследователей. Чорт великолепный, если бы только я уделил больше внимания. Мы бы не пошли в Глубокие пещеры; Сохранение, выступив единым целым, могло бы отбить атаки безликих, но мы разделились.<end>
+
+=>a172_original
+Why was the artifact brought to Tchort?<end>
+
+=>a172
+Зачем артефакт принесли Чорту?<end>
+
+=>q173_original
+That you would need to ask Eidein. I know nothing other than it is something... exceptional. I can only assume that it is something worthy of Tchort's attention. Many such objects have found their way to the Nucleus, and if we preserve it, many more will.<end>
+
+=>q173
+Это мог бы рассказать один лишь Эйдейн. Я знаю только, что это нечто... исключительное. Могу предположить, что он достоин внимания Чорта. Множество подобных объектов были доставлены в Нуклеус, и если мы его сохраним, их будет ещё больше.<end>
+
+=>a174_original
+One single detail changes everything. I need to ask you something else.<end>
+
+=>a174
+Одна деталь меняет всё. Мне нужно спросить ещё кое-что.<end>
+
+=>a175_original
+What is it?<end>
+
+=>a175
+Что такое?<end>
+
+=>q176_original
+It is some sort of a strange object which was brought down to Deep Caverns just recently.<end>
+
+=>q176
+Это какой-то странный предмет, который принесли в Глубокие пещеры совсем недавно.<end>
+
+=>a177_original
+What can you tell me about this artifact?<end>
+
+=>a177
+Что вы можете рассказать мне про этот артефакт?<end>
+
+=>q178_original
+It is a strange polyhedron with even stranger markings; one of the investigators only showed it to me, but I know of its use very little.<end>
+
+=>q178
+Это странный многогранник с ещё более странными символами; один из исследователей показывал его мне, но я не знаю, зачем он нужен.<end>
+
+=>a179_original
+I have some other questions for you.<end>
+
+=>a179
+У меня есть несколько вопросов.<end>
+
+=>a180_original
+How did you drive them off?<end>
+
+=>a180
+Как вы отбились?<end>
+
+=>a181_original
+What can you tell me about Cytosine Outpost?<end>
+
+=>a181
+Что вы можете рассказать мне о форпосте Цитозин?<end>
+
+=>q182_original
+Its purpose is to provide a base of operations for all Preservation Forces in Deep Caverns, and serves as a connection to the Institute of Tchort building. We are well equipped for the time being, but we cannot afford to be wasteful during this crisis.<end>
+
+=>q182
+Его назначение -- обеспечить базу для операций Сил Сохранения в Глубоких пещерах и служить соединением с Институтом Чорта. Мы сейчас хорошо оснащены, но не можем позволить себе быть расточительными во время этого кризиса.<end>
+
+=>q183_original
+Other than that, there isn't much I can or wish to tell you about Cytosine Outpost.<end>
+
+=>q183
+Кроме этого, я не многое могу или хочу рассказывать вам о форпосте Цитозин.<end>
+
+=>a184_original
+What can you tell me about the surrounding areas?<end>
+
+=>a184
+Что вы можете сказать о соседних районах?<end>
+
+=>q185_original
+The most I can tell you is about the Hollow Earth research complex. Outside of it is mostly Faceless territory now, but there are a few points of interest, like the warehouse block, Caerus residential block and Arke Power Station. Everything else is, to our knowledge, wild territory.<end>
+
+=>q185
+Я могу рассказать о научно-исследовательском комплексе Полая Земля. Вне его теперь в основном территория безликих, но есть несколько участков, представляющих интерес, например: складской квартал, жилой корпус Кайрос и электростанция Арка. Всё остальное -- по нашим данным, дикие территории.<end>
+
+=>a186_original
+How can I get to Nucleus?<end>
+
+=>a186
+Как мне попасть в Нуклеус?<end>
+
+=>q187_original
+It is to the north, but all entrances are sealed at the moment.<end>
+
+=>q187
+Это на севере, но все входы запечатаны на данный момент.<end>
+
+=>a188_original
+Sealed?<end>
+
+=>a188
+Запечатаны?<end>
+
+=>q189_original
+Yes, the gate leading to Tchort is closed. Thankfully, the Faceless haven't even managed to come anywhere near it, let alone breach it.<end>
+
+=>q189
+Да, ворота, ведущие к Чорту, закрыты. К счастью, безликим не удалось даже близко подойти, не говоря уже, чтобы пробить их.<end>
+
+=>a190_original
+Can it be opened?<end>
+
+=>a190
+Их можно открыть?<end>
+
+=>q191_original
+Only by Tchort.<end>
+
+=>q191
+Это может только Чорт.<end>
+
+=>a192_original
+You mean, Tchort can control the gate?<end>
+
+=>a192
+Вы хотите сказать, Чорт может управлять воротами?<end>
+
+=>q193_original
+You can say that. In fact, Tchort's influence is the reason we have successfully resisted all the recent Faceless attacks, even if just barely.<end>
+
+=>q193
+Можно так сказать. На самом деле, влияние Чорта -- главная причина нашего успеха в отражении всех недавних атак безликих, пускай и с трудом.<end>
+
+=>a194_original
+What exactly do you mean?<end>
+
+=>a194
+Что вы имеете в виду?<end>
+
+=>a195_original
+Have you ever seen Tchort?<end>
+
+=>a195
+Вы когда-нибудь видели Чорта?<end>
+
+=>q196_original
+No. Tchort only allows Eidein near it, no one else.<end>
+
+=>q196
+Нет. Чорт допускает к себе лишь Эйдейна, никого другого.<end>
+
+=>q197_original
+His death makes everything much more complicated now. But, we will adapt and overcome, as the saying goes. Tchort must be preserved, that is our top priority. We will have to postpone our worries until after we drive the Faceless off.<end>
+
+=>q197
+Его смерть всё очень усложняет. Но мы приспособимся и преодолеем, как говорится. Чорт должен быть сохранён, это является нашей первоочередной задачей. Нам придётся отложить другие заботы, пока не прогоним безликих.<end>
+
+=>q198_original
+And I am sure he well come here with reinforcements as soon as possible, as soon as he's able.<end>
+
+=>q198
+И я уверен, что он скоро прибудет сюда с подкреплением, так скоро, как только он сможет.<end>
+
+=>a199_original
+Tchort guide you, Your Excellency.<end>
+
+=>a199
+Чорт направит вас, Ваше превосходительство.<end>
+
+=>a200_original
+Goodbye.<end>
+
+=>a200
+До свидания.<end>
+
+=>q201_original
+You are free to leave unless you have further questions.<end>
+
+=>q201
+Вы вольны идти, если у вас больше нет вопросов.<end>
+
+=>a202_original
+I'm sure Eidein knows why he acted like he did.<end>
+
+=>a202
+Я уверен$(#/а), Эйдейн знает, почему он действовал так, а не иначе.<end>
+
+=>a203_original
+No, not as far as I know.<end>
+
+=>a203
+Нет, насколько я знаю.<end>
+
+=>q204_original
+In the end, I suppose that is the least relevant thing now. <end>
+
+=>q204
+В конце концов, мне кажется, это наименее актуально сейчас.<end>
+
+=>a205_original
+He did, but he never made it.<end>
+
+=>a205
+Он пытался, но ему не удалось.<end>
+
+=>a206_original
+I'm sure he'll have an explanation once the Faceless have been dealt with.<end>
+
+=>a206
+Я уверен$(#/а), что он сам всё объяснит, как только безликих отбросим.<end>
+
+=>q207_original
+Still, why didn't Eidein himself come to the Nucleus? According to my knowledge, that was the emergency plan?<end>
+
+=>q207
+Всё-таки, почему Эйдейн сам не пришёл в Нуклеус? Насколько я знаю, таким был экстренный план.<end>
+
+=>a208_original
+Eidein sent a group of us to go down using the elevator, but the elevator's failure mid-descent as well as the subsequent death of others left me as the only survivor.<end>
+
+=>a208
+Эйдейн отправил группу вниз на лифте, но лифт застрял на середине спуска. Остальные члены отряда погибли, я единственн$(#ый/ая) выживш$(#ий/ая).<end>
+
+=>a209_original
+Before his death, Eidein sent me to help with Tchort's defense. And I am alone. The elevator stopped working during the descent, but a lucky opening in the wall saved me.<end>
+
+=>a209
+Перед смертью, Эйдейн послал меня помочь защищать Чорта. Я од$(#ин/на). Лифт перестал работать во время спуска, но, к счастью, мне удалось выбраться через проём в стене.<end>
+
+=>a210_original
+Before his death, Eidein instructed a group of us to go down using the elevator, but the elevator's failure mid-descent as well as the subsequent death of others left me as the only survivor.<end>
+
+=>a210
+Перед смертью, Эйдейн отправил группу вниз на лифте, но лифт застрял на середине спуска. Остальные члены отряда погибли, я единственн$(#ый/ая) выживш$(#ий/ая).<end>
+
+=>a211_original
+I fled the Institute during the fighting.<end>
+
+=>a211
+Я сбежал$(#/а) из Института, когда начались боевые действия.<end>
+
+=>q212_original
+::Several long seconds pass before you get a reply.::
+
+I knew there was something odd about you, $(context.player.Name), and now I know what it was. And to state your treacherousness so calmly... a true Evdok you are.<end>
+
+=>q212
+::Через несколько долгих секунд вы получаете ответ.::
+
+Я чувствовал, что было в вас что-то странное, $(context.player.Name), и знаете -- я понял что. Рассказывать о своём вероломстве так спокойно... вы истинный Эвдок.<end>
+
+=>q213_original
+You are not worthy of calling yourself a Tchortist, and no matter how valuable every man and woman are right now, a traitor once - a traitor always. I cannot take any risk, so I order you to leave Cytosine Outpost. Resistance will be met with forceful removal.<end>
+
+=>q213
+Вы не достойны называть себя чортистом, и неважно, насколько ценен сейчас каждый мужчина и каждая женщина, предатель однажды -- предатель навсегда. Я не могу рисковать, поэтому приказываю вам оставить форпост Цитозин. Уходите или будете устранены силой.<end>
+
+=>a214_original
+Allow me to explain...<end>
+
+=>a214
+Позвольте мне объяснить...<end>
+
+=>q215_original
+::He interrupts you.::
+
+Out!<end>
+
+=>q215
+::Он прерывает вас.::
+
+Вон!<end>
+
+=>a216_original
+I will leave.<end>
+
+=>a216
+Я ухожу.<end>
+
+=>q217_original
+::He does not reply. Instead, he simply stands still and waits for you to leave.::<end>
+
+=>q217
+::Он не отвечает. Вместо этого, он просто стоит неподвижно и ждёт вашего ухода.::<end>
+
+=>a218_original
+Sad to say so.<end>
+
+=>a218
+Печально, но факт.<end>
+
+=>q219_original
+While Eidein's death is a serious blow to the Institute of Tchort, at least you bear us some good news. Hopefully our brothers and sisters will find a way to reinforce us, because we are unable to repair the elevator from here.<end>
+
+=>q219
+Смерть Эйдейна -- серьёзный удар по Институту Чорта, но, по крайней мере, вы принесли нам хоть какие-то хорошие новости. Надеюсь, наши братья и сёстры найдут способ поддержать нас, потому что мы не можем отремонтировать лифт отсюда.<end>
+
+=>a220_original
+::Nod.::<end>
+
+=>a220
+::Кивнуть.::<end>
+
+=>a221_original
+Don't they deserve to know the truth?<end>
+
+=>a221
+Разве они не заслуживают знать правду?<end>
+
+=>q222_original
+Not yet if we all wish to survive. Again, are we clear?<end>
+
+=>q222
+Нет, если мы все хотим выжить. Ещё раз, вам всё ясно?<end>
+
+=>a223_original
+I am sad to inform you that Eidein was killed by the Faceless. He was involved in the combat and, despite him fighting the invaders bravely, did not make it out alive.<end>
+
+=>a223
+С прискорбием сообщаю вам, что Эйдейн был убит безликими. Он участвовал в бою, но, несмотря на яростное сопротивление захватчикам, не выбрался живым.<end>
+
+=>a224_original
+Don't worry, Eidein is alive and well.<end>
+
+=>a224
+Не волнуйтесь, Эйдейн жив и здоров.<end>
+
+=>q225_original
+That is excellent news, $(context.player.Name). The situation was looking very grim up to this point, but now things have changed. Thank you for this excellent news. I will be sure to inform our rassophores of this, maybe it'll help the weak morale.
+
+<end>
+
+=>q225
+Это отличная новость, $(context.player.Name). Ситуация была очень мрачной до этого момента, но теперь всё изменилось. Спасибо за эту прекрасную новость. Я непременно сообщу нашим рясофорам, может быть, это поднимет ослабший боевой дух.
+
+<end>
+
+=>q226_original
+When can we expect reinforcements? I am perfectly aware the elevator was badly damaged by the Faceless and that it's out of action, but I expect you were sent here with some information, at least?<end>
+
+=>q226
+Когда нам ждать подкрепления? Я прекрасно понимаю, что лифт был сильно повреждён безликими и что он вышел из строя, но я надеюсь, что вас послали сюда с конкретной информацией, по крайней мере?<end>
+
+=>a227_original
+Very soon, Your Excellency. As soon as the elevator becomes operational again.<end>
+
+=>a227
+Очень скоро, Ваше превосходительство. Как только лифт вновь начнёт функционировать.<end>
+
+=>q228_original
+Excellent, $(context.player.Name). That is good news indeed.<end>
+
+=>q228
+Отлично, $(context.player.Name). Это действительно хорошие новости.<end>
+
+=>a229_original
+I can't tell you anything yet. We can only hope that reinforcements will come soon.<end>
+
+=>a229
+Не могу ничего сказать. Мы можем только надеяться, что подкрепление скоро прибудет.<end>
+
+=>q230_original
+I understand. We are in no position to repair the elevator from here; therefore, all depends on what mechanics can accomplish up there before we can get our hopes up.<end>
+
+=>q230
+Я понимаю. Мы не в том положении, чтобы ремонтировать лифта отсюда; поэтому, всё зависит от того, что механики смогут сделать, прежде чем мы сможем на что-то надеяться.<end>
+
+=>q231_original
+Still, your arrival at least came with some illumination regarding this whole situation.<end>
+
+=>q231
+Всё-таки, ваше прибытие, как минимум, проливает свет на всю эту ситуацию.<end>
+
+=>a232_original
+As you said, the elevator is badly damaged, so I wouldn't expect reinforcements very soon.<end>
+
+=>a232
+Как вы и сказали, лифт сильно повреждён, так что я бы не ждал$(#/а) подкреплений в ближайшее время.<end>
+
+=>a233_original
+The Faceless launched a full-scale attack on the Institute. Battle was still raging during the time of my descent, so I'm unsure of its outcome.<end>
+
+=>a233
+Безликие начали полномасштабную атаку на Институт. Битва всё ещё бушевала, когда я спускал$(#ся/ась), так что я не могу знать о её исходе.<end>
+
+=>a234_original
+The Faceless attack on the Institute of Tchort was devastating. They left no one alive.<end>
+
+=>a234
+Атака безликих на Институт Чорта была разрушительной. Они никого не оставили в живых.<end>
+
+=>q235_original
+::He stops for moment before resuming with an unchanged tone of voice.::
+
+No one? Eidein?<end>
+
+=>q235
+::Он останавливается на мгновение, прежде чем продолжить с неизменным тембром голоса.::
+
+Никого? Даже Эйдейна?<end>
+
+=>a236_original
+No one, not even Eidein.<end>
+
+=>a236
+Никого, даже Эйдейна.<end>
+
+=>a237_original
+Hell.<end>
+
+=>a237
+Ад.<end>
+
+=>q238_original
+::He pauses.::
+
+Is it really that grim?<end>
+
+=>q238
+::Он замолкает.::
+
+Всё действительно так мрачно?<end>
+
+=>a239_original
+Everything is destroyed, everyone killed - including Eidein. So yes, I'd say it's grim.<end>
+
+=>a239
+Всё разрушено, все убиты, в том числе Эйдейн. Так что да, я бы сказал$(#/а), что ситуация мрачная.<end>
+
+=>q240_original
+They have all made it back safely and are ready for action.<end>
+
+=>q240
+Они все вернулись живыми и готовы нести службу.<end>
+
+=>q241_original
+Tchort is evolution. I am Harmost Stavros. I've already been informed that you're the one brave enough to free our rassophores from the clutches of the inbreds. <end>
+
+=>q241
+Чорт -- это эволюция. Я гармост Ставрос. Мне уже сообщили о вашем храбром поступке, как вы освободили наших рясофоров из лап выродков.<end>
+
+=>q242_original
+Evolution is Tchort. I am Harmost Stavros. Welcome to Cytosine Outpost. <end>
+
+=>q242
+Эволюция -- это Чорт. Я гармост Ставрос. Добро пожаловать на форпост Цитозин.<end>
+
+=>a243_original
+I'm $(context.player.Name).<end>
+
+=>a243
+Я $(context.player.Name).<end>
+
+=>q244_original
+Tchort is Evolution. I've already been informed where you're from. I am Harmost Stavros. Welcome to Cytosine Outpost.<end>
+
+=>q244
+Чорт -- это Эволюция. Мне уже сообщили, откуда вы. Я гармост Ставрос. Добро пожаловать на форпост Цитозин.<end>
+
+=>a245_original
+I come straight from the Institute of Tchort, Your Excellency.<end>
+
+=>a245
+Я прямо из Института Чорта, Ваше превосходительство.<end>
+
+=>a246_original
+I notice you are silent, Your Excellency. I wonder if you can maintain it when start ripping your heart out of your squirming body! ::Attack!::<end>
+
+=>a246
+Я заметил$(#/а), что вы молчите, Ваше превосходительство. Интересно, сможете ли вы молчать, когда я начну вырывать сердце из вашего извивающегося тела! ::Напасть!::<end>
+
+=>q247_original
+::Harmost Stavros spits out a torrent of words as soon as you enter his office.:: 
+
+Are you out of your vestigial mind, $(context.player.Name)!? Didn't I specifically instruct you to take extreme care when speaking with Rassophore Prevlic? You are not supposed to upset my men to the point of near-uselessness!<end>
+
+=>q247
+::Гармост Ставрос выплёвывает поток слов, как только вы заходите в его кабинет.:: 
+
+Вы выжили из ума, $(context.player.Name)?! Разве я прямо не сказал вам соблюдать крайнюю осторожность при разговоре с рясофором Превличем? Вы не имеете права огорчать моих людей до степени почти полной депрессии!<end>
+
+=>q248_original
+::He takes a moment to calm down.:: 
+
+I know you have done a lot since you arrived here, but I would like to make myself clear now, $(context.player.Name), and you better listen carefully: I need everyone in Cytosine Outpost to be as capable and as ready as they can possibly be - and you are stomping all over my efforts. However, precisely because I need *everyone* is the same reason why you will not be punished right now. Should you do anything similar to this again... well...<end>
+
+=>q248
+::Ему требуется пара секунд, чтобы успокоиться.:: 
+
+Я знаю, вы многое сделали с тех пор, как попали к нам, но хочу ясно выразиться, $(context.player.Name), а вы лучше слушайте внимательно: мне нужно, чтобы все в Цитозине были готовы и в строю, насколько это возможно, а вы уничтожаете все мои усилия. Однако, именно потому, что мне нужны *все* люди, вы не будете наказаны прямо сейчас. Если вы снова выкинете что-нибудь подобное... что же...<end>
+
+=>q249_original
+Am I clear enough, $(context.player.Name)?<end>
+
+=>q249
+Вы меня хорошо поняли, $(context.player.Name)?<end>
+
+=>a250_original
+Yes, Your Excellency.<end>
+
+=>a250
+Да, Ваше превосходительство.<end>
+
+=>q251_original
+Excellent. Now, tell me what you needed of me?<end>
+
+=>q251
+Отлично. А теперь скажите, что вам от меня нужно?<end>
+
+=>a252_original
+Crystal clear.<end>
+
+=>a252
+Кристально ясно.<end>
+
+=>a253_original
+I have had enought of this! Time to show you who's the boss around here! ::Attack!::<end>
+
+=>a253
+С меня хватит! Время показать, кто в доме хозяин! ::Напасть!::<end>
+
+=>a254_original
+No one tells me - the Invictus - what to do! I will raze this place to the ground for your insolence! ::Attack!::<end>
+
+=>a254
+Никто не говорит мне -- инвиктусу -- что делать! Я сровняю это место с землёй за такую дерзость! ::Напасть!::<end>
+
+=>q255_original
+::He takes a moment to calm down.:: 
+
+I would like to make myself clear now, $(context.player.Name), and you better listen carefully: I need everyone in Cytosine Outpost to be as capable and as ready as they can possibly be - and you are stomping all over my efforts. However, precisely because I need *everyone* is the same reason why you will not be punished right now. Should you do anything similar to this again... well...<end>
+
+=>q255
+::Ему требуется пара секунд, чтобы успокоиться.:: 
+
+Я хочу ясно выразиться, $(context.player.Name), а вы лучше слушайте внимательно: мне нужно, чтобы все в Цитозине были готовы и в строю, насколько это возможно, а вы уничтожаете все мои усилия. Однако, именно потому, что мне нужны *все* люди, вы не будете наказаны прямо сейчас. Если вы снова выкинете что-нибудь подобное... что же...<end>
+
+=>q256_original
+Excellent work, $(context.player.Name). <end>
+
+=>q256
+Отличная работа, $(context.player.Name).<end>
+
+=>q257_original
+The rassophores which you have rescued have made it back to Cytosine Outpost.<end>
+
+=>q257
+Рясофоры, которых вы спасли, вернулись на форпост Цитозин.<end>
+
+=>q258_original
+<end>
+
+=>q258
+<end>
+
+=>q259_original
+They have armed themselves and are ready to face the Faceless... ::He stops briefly.:: once more.<end>
+
+=>q259
+Они вооружились и готовы встретиться лицом к лицу с безликими... ::Он останавливается.:: ещё раз.<end>
+
+=>q260_original
+Despite that, the rassophore is armed and ready to face the Faceless... ::He stops briefly.:: once more.<end>
+
+=>q260
+Несмотря на это, рясофор вооружён и готов встретить безликих... ::Он останавливается.:: ещё раз.<end>
+
+=>q261_original
+The rassophore which you have rescued made it back to Cytosine Outpost. Sadly, the other two captives weren't able to make it.<end>
+
+=>q261
+Рясофор, которого вы спасли, вернулся на форпост Цитозин. К сожалению, двое других пленников не смогли выбраться.<end>
+
+=>q262_original
+Tchort is evolution, $(context.player.Name).<end>
+
+=>q262
+Чорт -- это эволюция, $(context.player.Name).<end>
+

@@ -1,0 +1,405 @@
+﻿=>q1_original
+::The woman turns toward you, slowly and calmly. She looks at you with emotionless eyes, greets you with an impassive expression, and speaks to you in a toneless voice.::
+
+$(context.player.Name). I am Phyllis, and I perform repairs on all oculites, or if you prefer a different term, I offer "medical attention."<end>
+
+=>q1
+::Женщина поворачивается к вам медленно и спокойно. Она смотрит на вас безэмоциональными глазами, встречает бесстрастным выражением и говорит монотонным голосом.::
+
+$(context.player.Name). Я Филлис, я ремонтирую всех окулитов, или, если вы предпочитаете другой термин, я «оказываю медицинскую помощь».<end>
+
+=>a2_original
+Nice to meet you, Phyllis.<end>
+
+=>a2
+Приятно познакомиться, Филлис.<end>
+
+=>q3_original
+The pleasure is mine. If you get damaged, do not hesitate to see me. During my time here, not a single one of my patients expired.<end>
+
+=>q3
+Взаимно. Если получите повреждения, не стесняйтесь обратиться ко мне. За всё время моей работы здесь, ни один из моих пациентов не вышел из строя.<end>
+
+=>a4_original
+Expired?<end>
+
+=>a4
+Не вышел из строя?<end>
+
+=>q5_original
+Dead, deceased, departed... One that has ceased to be.<end>
+
+=>q5
+Погиб, умер, скончался... Перестал существовать.<end>
+
+=>a6_original
+I have no wish to expire. I'll see you if I need help.<end>
+
+=>a6
+Не хочу выходить из строя. Я обращусь к вам, если мне будет нужна помощь.<end>
+
+=>q7_original
+Please do. All treatment will be free of charge.<end>
+
+=>q7
+Пожалуйста. Все услуги бесплатны.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+Show me what you have for sale. ::Barter.::<end>
+
+=>a9
+Покажите, что у вас есть на продажу. ::Обмен.::<end>
+
+=>a10_original
+Could you take a look at my injuries?<end>
+
+=>a10
+Не могли бы вы взглянуть на мои раны?<end>
+
+=>q11_original
+You are severely damaged, $(context.player.Name). I will fix you up.<end>
+
+=>q11
+Вы серьёзно повреждены, $(context.player.Name). Я починю вас.<end>
+
+=>a12_original
+::Let her treat you.::<end>
+
+=>a12
+::Позволить ей лечить себя.::<end>
+
+=>q13_original
+You are lightly damaged. The repairs will not take too long.<end>
+
+=>q13
+Вы слегка повреждены. Ремонт не займёт много времени.<end>
+
+=>a14_original
+You mentioned "repairing" Oculites...<end>
+
+=>a14
+Вы сказали что «ремонтируете» Окулитов...<end>
+
+=>q15_original
+Yes, that is what I said. Why? Is that term bothering you in that particular context?<end>
+
+=>q15
+Да, так я и сказала. А что? Вас смущает использование этого термина в таком контексте?<end>
+
+=>a16_original
+It does, actually. How can you say that you "repair" human beings? Unless there's something I'm missing here...<end>
+
+=>a16
+Так и есть. Как можно говорить, что вы «ремонтируете» людей? Или я чего-то не понимаю...<end>
+
+=>q17_original
+You are not the first person to tell me that. Let me explain to you why I use such terminology.<end>
+
+=>q17
+Вы не перв$(#ый/ая), кто спрашивает. Позвольте объяснить, почему я использую такую терминологию.<end>
+
+=>q18_original
+I understand that we, humans, have this belief that we are somehow special, somehow unique, that we somehow possess a certain property, perhaps... a soul if you will. Some would say that we were created by a higher power even. Whatever the specific case, it comes down to our lack of understanding, or better yet, our lack of knowledge about humans or other living creatures, that makes us think so.<end>
+
+=>q18
+Я понимаю, что мы, люди иногда верим, что мы какие-то особенные, уникальные, что мы обладаем неким свойством, так сказать... душой если хотите. Кто-то скажет даже, что мы созданы какой-то высшей силой. Независимо от конкретного случая, всё сводится к нашей неосведомлённости, точнее, недостатку знаний о людях или других живых существах, и это заставляет нас думать так.<end>
+
+=>q19_original
+From my perspective, the reality is different. When I look at a living body, I see muscles that contract to pull the tendons that bend the arm; I see a heart, a simple pump, the most easily replaced organ, doing just that - pumping fluid. I see that same fluid containing red blood cells, which in turn contain hemoglobin, which contains iron molecules that bind with the oxygen, which is latter carried to the cells to fuel them with that very oxygen - fuel.<end>
+
+=>q19
+С моей точки зрения, реальность несколько отличается. Когда я смотрю на живое тело, то вижу мышцы, которые сокращаются, чтобы натягивать сухожилия, сгибающие руку; я вижу сердце, простой насос, легко заменимый орган, занимающийся перекачиванием жидкости. Я вижу, что эта жидкость содержит эритроциты, которые в свою очередь содержат гемоглобин, который имеет в составе железо, связывающее кислород. Последний доставляется к клеткам и питает их как топливо.<end>
+
+=>q20_original
+It is all these... mechanisms, chemical reactions, electrical signals... within our bodies that make it function. And it is all these smaller living beings that make up a whole, larger being that falsely considers itself a unique entity - one of a kind. It is made of flesh, true, but in essence, it is nothing but a complex machinery, and those I repair. 
+
+And only if I see it as such - a living machine - will I be able to reach a new level, reach new frontiers of medicine... and perhaps one day "repair" something that we dared not touch, for we were observing it from the wrong angle, our perception impeded by false presumptions.
+<end>
+
+=>q20
+Все эти... механизмы, химические реакции, электрические сигналы... в нашем теле заставляют его работать. Это всё мельчайшие живые объекты, которые составляют целое, большее существо, которое ложно считает себя уникальной сущностью, единственным в своём роде. Оно сделано из плоти, это правда, но по сути, это не что иное, как сложный механизм, который мне по силам отремонтировать. 
+
+Только видя в человеке живую машину, я могу выйти на новый уровень, покорить новые рубежи медицины... и возможно, когда-нибудь «отремонтировать» то, к чему мы не смели прикоснуться, поскольку наблюдали под неверным углом, с которого наше восприятие ограничено ложными предпосылками.<end>
+
+=>q21_original
+There you are. And one more thing that I like to point out whenever this discussion gets brought up: All living things, including us human beings, are mainly made from some of the most common chemical elements: hydrogen, oxygen, carbon and nitrogen. If we were somehow special... somehow unique or, yes, even *created* by something or someone greater - in case you believe something like that - then why aren't we made from, say, polonium? Or bismuth, yes... That would make us *very* unique, don't you think?<end>
+
+=>q21
+Вот и всё. И ещё одна вещь, которую мне хочется отметить всякий раз, когда начинается подобная дискуссия: все живые существа, включая нас, в основном построены из наиболее распространённых химических элементов: водорода, кислорода, углерода и азота. Если бы мы были какими-то особенными... какими-то уникальными или, да, даже *созданными* чем-то или кем-то великим, -- если вы верите в подобное, -- то почему мы не сделаны из, скажем, полония? Или висмута, да... в таком случае мы бы были весьма уникальны, не так ли?<end>
+
+=>q22_original
+Think about it. I have not told you anything untrue.<end>
+
+=>q22
+Подумайте об этом. Я не сказала ничего, не соответствующего действительности.<end>
+
+=>a23_original
+I just find the choice of words strange. That is all.<end>
+
+=>a23
+Я просто нахожу странным такой выбор слов. Вот и всё.<end>
+
+=>q24_original
+In that case, I will give you an explanation, $(context.player.Name).<end>
+
+=>q24
+В таком случае, я дам вам объяснение, $(context.player.Name).<end>
+
+=>a25_original
+It doesn't bother me, not at all. I just suspect that there is a reason for using that specific word in that context, and I'd like to hear it.<end>
+
+=>a25
+Меня это совершенно не смущает. Я просто подозреваю, что есть причина для использования конкретно этого слова в данном контексте, и я хочу знать, какая.<end>
+
+=>a26_original
+What can you tell me about Oculus?<end>
+
+=>a26
+Что вы можете рассказать про Окулус?<end>
+
+=>q27_original
+As far as I am aware, unknown beings, dubbed Godmen by Azif, built Oculus for purposes... unknown. I have inquired about this subject on numerous occasions, but most of the answers can be summed up with, "We're not sure, but we think..."<end>
+
+=>q27
+Насколько я знаю, неизвестные существа, прозванные Азифом Боголюдьми, построили Окулус... с неизвестной целью. Я подавала запросы на эту тему неоднократно, но большинство ответов были в духе: «мы не уверены, но мы думаем, что...»<end>
+
+=>q28_original
+Living in a place you know little about can be both fascinating and frightening. And yes, I have emotions, despite what *you* may think of me; I noticed your stare. Now, fascinating, I think it is obvious why. Oculus is so much more advanced than anything what you will find outside of it. Also, every new discovery we make opens new possibilities and knowledge. Frightening, I think it's also obvious why...<end>
+
+=>q28
+Жить в месте, о котором так мало знаешь, может одновременно завораживать и пугать. И да, у меня есть эмоции, несмотря на то, что *вы* могли подумать; я заметила ваш взгляд. Что здесь может завораживать, я думаю, очевидно. Окулус намного опережает всё, что можно найти за его пределами. И каждая новая находка открывает перед нами новые возможности и даёт новые знания. Что здесь пугающего, я думаю, тоже достаточно очевидно...<end>
+
+=>q29_original
+Ignoring the deadly drop - if you trip and fall into the darkness - which, granted, never destroyed any oculites so far - who knows what else we will find here. Maybe one day, our curiosity will lead us to our destruction. No one can tell for certain.<end>
+
+=>q29
+Не считая угрозы смертельного падения, если споткнётесь и упадёте во тьму, что, правда, пока не унесло жизни ни одного окулита, кто знает, что ещё мы найдём здесь. Может быть, в один прекрасный день, наше любопытство приведёт нас к погибели. Никто не может сказать наверняка.<end>
+
+=>a30_original
+Are you a machine?<end>
+
+=>a30
+Вы машина?<end>
+
+=>q31_original
+::She stares at you blankly.::<end>
+
+=>q31
+::Она, безразлично смотрит на вас.::<end>
+
+=>q32_original
+I may seem like one, due to my views and behavior, but I am not.<end>
+
+=>q32
+Так может показаться из-за моих взглядов и поведения, но -- нет.<end>
+
+=>q33_original
+::A genuine smile shatters her bland expression.::
+
+Does that make you feel better?<end>
+
+=>q33
+::Искренняя улыбка разрушает безразличное выражение её лица.::
+
+Так лучше?<end>
+
+=>a34_original
+How and why did you join Oculus?<end>
+
+=>a34
+Как и почему вы попали в Окулус?<end>
+
+=>q35_original
+Everyone in Oculus was carefully evaluated for a prolonged time before finally being approached with the offer to join Oculus. Such was my case, yet, unlike most oculites here, I did not seek Oculus... Oculus sought me.<end>
+
+=>q35
+Всех в Окулусе тщательно оценивали в течение длительного времени, прежде чем наконец предложить им вступить в Окулус. Так было и со мной, но, в отличие от большинства Окулитов, я не искала Окулус... Окулус нашёл меня.<end>
+
+=>a36_original
+Can you explain?<end>
+
+=>a36
+Можете объяснить?<end>
+
+=>q37_original
+Certainly. Most oculites started out by performing smaller, simpler jobs. Then, naturally, as they progressed and displayed the ability to perform more difficult tasks, they were given more difficult tasks, and if they could perform even more difficult, they were give those, and so on and so forth.<end>
+
+=>q37
+Конечно. Большинство окулитов начинали с выполнения небольших простых заданий. Таким образом, они прогрессировали. Продемонстрировав способность выполнять определённые задачи, они получали более сложные, и если справлялись -- получали ещё более сложные задачи, и так далее, и так далее.<end>
+
+=>q38_original
+I will take this opportunity, $(context.player.Name), to say a few words about the progression of an oculite: In Oculus, there are no ranks, levels or titles to attain; we are all the same, and we are not. You will always be an oculite, but some oculites are better than others, and it is the level of your own skills and abilities that determines your duties - hence your place in Oculus - not hierarchical gradation.
+
+In any case, let us get back to the subject at hand.<end>
+
+=>q38
+Я воспользуюсь этой возможностью, $(context.player.Name), чтобы сказать несколько слов о продвижении окулитов по службе. В Окулусе не выдают ранги, степени или титулы; мы все равны, и в то же время -- нет. Вы всегда будете окулитом, но некоторые окулиты лучше других, и это именно уровень ваших собственных умений и способностей определяет ваши обязанности -- и следовательно, место в Окулусе, -- а не ступень в иерархии.
+
+Но вернёмся к нашей теме.<end>
+
+=>q39_original
+I was selected based on my performance as a physician and my will to perfect my skills to the absolute maximum. I was approached and offered advanced medical knowledge, beyond what I had available at the time, in exchange for becoming a part of Oculus. I could not refuse.<end>
+
+=>q39
+Я была выбрана, исходя из моих успехов как врача и желания совершенствовать свои навыки до абсолютного предела. Со мной связались и предложили передовые медицинские знания в обмен на то что я стану частью Окулуса. Я не смогла отказать.<end>
+
+=>q40_original
+I do not regret my decision. Not even a bit.<end>
+
+=>q40
+Я не жалею о своём решении. Ни капли.<end>
+
+=>a41_original
+Who is that six-fingered cyborg?<end>
+
+=>a41
+Кто тот шестипалый киборг?<end>
+
+=>q42_original
+A fascinating creature, unlike any I have ever seen, and I am sure I am not speaking only for myself. He does not seem very concerned with any one of us and performs his own tasks within Oculus as if he were alone.<end>
+
+=>q42
+Невероятное существо, не похожее ни на какое, что я когда-либо видела, и я говорю не только за себя. Его, видимо, не очень интересуем мы, он делает свои дела в Окулусе, как если бы был один.<end>
+
+=>a43_original
+What does he do around here, exactly?<end>
+
+=>a43
+Что именно он делает здесь?<end>
+
+=>q44_original
+He is one of the clients. Azif informed us that he is allowed to move freely around Oculus, and that he is not to be disturbed. I have not seen him in some time, though, but he might return at any moment.<end>
+
+=>q44
+Он один из клиентов. Азиф сказал нам, что ему разрешено свободно передвигаться Окулусу, и что его нельзя беспокоить. Правда, я не видела его уже некоторое время, но он может вернуться в любой момент.<end>
+
+=>q45_original
+He is one of the clients. Azif told us that he can move freely around Oculus, and that he is not to be disturbed. That is all I can tell you about him.<end>
+
+=>q45
+Он один из клиентов. Азиф сказал нам, что ему разрешено свободно передвигаться Окулусу, и что его нельзя беспокоить. Вот всё, что я о нём знаю.<end>
+
+=>a46_original
+Interesting, but I have other questions.<end>
+
+=>a46
+Интересно, но у меня есть другие вопросы.<end>
+
+=>q47_original
+I am sure you do.<end>
+
+=>q47
+Я в это мне сомневаюсь.<end>
+
+=>a48_original
+What can you tell me about those robed oculites? <end>
+
+=>a48
+Что вы можете рассказать мне об этих окулитах в робах?<end>
+
+=>q49_original
+Khazum Morakht? We call them Whisperers, but that is the proper name of the clan they belong to. They came from North Underrail, as far as I understood. I could be wrong, though. You will find them throughout Oculus, standing in silence and almost completely motionless.<end>
+
+=>q49
+Хазум Морахт? Мы называем их Шепчущими, но такое правильное имя клана, к которому они принадлежат. Они пришли из Северной Подземки, насколько я знаю. Могу ошибаться. Найти их можно по всему Окулусу, они всегда стоят молча и почти полностью неподвижны.<end>
+
+=>q50_original
+Their task is to guard Oculus, but frankly, they have not seen much action, and you can presume why. At least not since I arrived here.
+
+You will get used to their presence soon.<end>
+
+=>q50
+Их задача -- охранять Окулус, но, честно говоря, у них немного работы, несложно догадаться почему. По крайней мере так оно было с тех пор, как я прибыла сюда.
+
+Вы скоро привыкнете к их присутствию.<end>
+
+=>a51_original
+I'd like to ask you about some of the people here.<end>
+
+=>a51
+Я хочу спросить вас о некоторых людях здесь.<end>
+
+=>q52_original
+If you want to know more about other oculites, ask them yourself.<end>
+
+=>q52
+Если вы хотите знать о других окулитах, спросите их самих.<end>
+
+=>q53_original
+That is my recommendation.<end>
+
+=>q53
+Вот что я рекомендую.<end>
+
+=>a54_original
+Goodbye, Phyllis.<end>
+
+=>a54
+До свидания, Филлис.<end>
+
+=>a55_original
+It's a pleasure, Doctor.<end>
+
+=>a55
+Рад$(#/а) видеть вас, доктор.<end>
+
+=>a56_original
+Hey there, how's it going?<end>
+
+=>a56
+Привет, как дела?<end>
+
+=>q57_original
+It... is going well. Thank you for asking.<end>
+
+=>q57
+Всё... неплохо. Спасибо, что спросили.<end>
+
+=>a58_original
+::Remain silent.::<end>
+
+=>a58
+::Промолчать.::<end>
+
+=>q59_original
+::She also remains silent, probably waiting for you to say something.::<end>
+
+=>q59
+::Она тоже молчит, наверное, ждёт, что вы скажете.::<end>
+
+=>a60_original
+::Remain silent.::<end>
+
+=>a60
+::Промолчать.::<end>
+
+=>q61_original
+Did you want to talk to me about something?<end>
+
+=>q61
+Вы хотели поговорить со мной о чём-то?<end>
+
+=>a62_original
+So, I had some questions I wanted to ask you.<end>
+
+=>a62
+У меня были некоторые вопросы к вам.<end>
+
+=>q63_original
+Go ahead, I am listening.<end>
+
+=>q63
+Продолжайте, я слушаю.<end>
+
+=>q64_original
+Yes?<end>
+
+=>q64
+Да?<end>
+

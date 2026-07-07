@@ -1,0 +1,3927 @@
+﻿=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+$(context.npc_xpbl_oldfield_playerName)? Oldfield speaking. Over.<end>
+
+=>q2
+$(context.npc_xpbl_oldfield_playerName)? Говорит Олдфилд. Приём.<end>
+
+=>a3_original
+I hear you loud and clear, Professor. Over.<end>
+
+=>a3
+Я слышу вас громко и ясно, профессор. Приём.<end>
+
+=>q4_original
+Excellent. I have work for you. We've been looking through some data in the Keep, or as we now know it as the Arch Island Keep, and have uncovered the locations of a couple of facilities I'd like you to investigate.<end>
+
+=>q4
+Отлично. У меня есть для вас работа. Мы просмотрели некоторые данные в хранилище, или, как мы теперь знаем, хранилище острова Арч-Айленд, и обнаружили местонахождение нескольких объектов, и мне хотелось бы, чтобы вы исследовали их.<end>
+
+=>q5_original
+The first one is the Nexus of Technology, a research facility located at coordinates K7. It should be your primary target for now, as we believe that, in addition to any potential technology we might uncover, it contains invaluable information regarding the other facilities and Lemurian history.<end>
+
+=>q5
+Первый объект - это исследовательский центр Технологии Нексуса, находится в точке с координатами K7. На текущий момент он должен быть вашей основной целью, поскольку мы считаем, что в дополнение к любой потенциальной технологии, которую мы могли бы найти, он содержит бесценную информацию о других объектах и лемурийской истории.<end>
+
+=>q6_original
+Yes, Lemuria - this is the name NFT gave to this project as well as the whole region itself. 
+
+Lemuria... But more on that later.<end>
+
+=>q6
+Да, Лемурия - это название ТНГ дала этому проекту, как и всему региону в целом. 
+
+Лемурия... Но о ней позже.<end>
+
+=>a7_original
+Gee, Professor, you've been really busy down there.<end>
+
+=>a7
+Ну и дела, Профессор, вы там действительно не сидели без дела.<end>
+
+=>q8_original
+By the caverns, Arch Island Keep is a genuine gold mine of ancient history. In all honesty, if I don't get a heart attack now from all the excitement I don't think I ever will.<end>
+
+=>q8
+Клянусь Подземкой, хранилище острова Арч-Айленд - это настоящая золотая жила древней истории. Не думаю, чтобы в моей жизни был или ещё будет такой волнительный момент, от которого я могу получить сердечный приступ.<end>
+
+=>q9_original
+Regardless, besides <end>
+
+=>q9
+Как бы то ни было, помимо<end>
+
+=>q10_original
+Nexus of Technology, there is another location we have info on - Crimson Meadow Horticulture Center, located in H7; it's that misty red shore north-east of our camp. All of these red plants seem to originate from there. But be warned: Chief told me his sec-troopers encountered dangerous insectoid creatures over there.<end>
+
+=>q10
+Технологии Нексуса, есть ещё одно место, о котором у нас есть информация - агроцентр Багровый луг, расположенный в H7; это тот мглистый красный берег, к северо-востоку от нашего лагеря. Все эти красные растения, похоже, оттуда. Но будьте осторожны: шеф сказал мне, что его охранники столкнулись там с опасными насекомоподобными существами.<end>
+
+=>q11_original
+$(context.npc_xpbl_oldfield_playerName), there is one more important piece of information I need to give you. All of these coordinates came from a dispatching console found in Arch Island Keep. On it we found traffic logs between Arch Island Keep and these other locations; each of these has marked coordinates. Other facilities must have them as well, so if you find them in working condition, get us those coordinates. It will help us immensely.<end>
+
+=>q11
+$(context.npc_xpbl_oldfield_playerName), есть ещё кое-какая информации, что вы должны знать. Все эти координаты получены с диспетчерского пульта, найденного в хранилище острова Арч-Айленд. В нём мы нашли журнал движения между Арч-Айленд и другими местами, где каждое отмечено координатами. Если вы найдёте пульты где-то ещё и они в рабочем состоянии, то сообщите нам координаты этих объектов. Это очень поможет.<end>
+
+=>q12_original
+That is all. Best of luck, $(context.npc_xpbl_oldfield_playerName). Contact me over the navcom or in person once you've uncovered something. Oldfield out.<end>
+
+=>q12
+Это всё. Удачи, $(context.npc_xpbl_oldfield_playerName). Как только что-то обнаружите, свяжитесь со мной через навком или приходите прямо ко мне. Конец связи.<end>
+
+=>a13_original
+Will do. Out.<end>
+
+=>a13
+Так и сделаю. Конец связи.<end>
+
+=>q14_original
+::You look at the navcom device.::<end>
+
+=>q14
+::Вы смотрите на навком.::<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>a16_original
+::Select channel.::<end>
+
+=>a16
+::Выбрать канал.::<end>
+
+=>q17_original
+::Select channel::<end>
+
+=>q17
+::Выбор канала::<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+::Channel 1 (Marcus)::<end>
+
+=>a19
+::Канал 1 (Маркус)::<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+::Static.::<end>
+
+=>q21
+::Помехи.::<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>q23_original
+Yes? ::You hear gunfire in the background.::<end>
+
+=>q23
+Да? ::Вы слышите стрельбу на фоне.::<end>
+
+=>a24_original
+What's your status? Over.<end>
+
+=>a24
+Что у вас? Приём.<end>
+
+=>q25_original
+<end>
+
+=>q25
+<end>
+
+=>q26_original
+What th--?
+
+It's you.<end>
+
+=>q26
+Какого?..
+
+Это ты.<end>
+
+=>q27_original
+::Static.::<end>
+
+=>q27
+::Помехи.::<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+::Put the device back in your pocket.::<end>
+
+=>a29
+::Убрать устройство обратно в карман.::<end>
+
+=>q30_original
+Good for the time being. Over. ::Gunfire continues.::<end>
+
+=>q30
+Неплохо, до поры до времени. Приём ::Стрельба продолжается.::<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>a32_original
+Roger. Hang in there. $(context.player.Name) out.<end>
+
+=>a32
+Принято. Держитесь там. Отбой.<end>
+
+=>q33_original
+Our numbers are getting low, but we're still alive and kicking. Over. ::Gunfire continues.::<end>
+
+=>q33
+Наша численность сокращается, но мы всё ещё живы и отбиваемся. Приём. ::Стрельба продолжается.::<end>
+
+=>a34_original
+$(context.player.Name) out.<end>
+
+=>a34
+$(context.player.Name). Конец связи.<end>
+
+=>a35_original
+You are all going to die.<end>
+
+=>a35
+Вы все умрёте.<end>
+
+=>q36_original
+<end>
+
+=>q36
+<end>
+
+=>a37_original
+::Say nothing.::<end>
+
+=>a37
+::Промолчать.::<end>
+
+=>q38_original
+There's no need to use the navcom, $(context.player.Name), I'm right here. Out.<end>
+
+=>q38
+Нет никакой необходимости пользоваться навкомом, $(context.player.Name), я же прямо здесь. Отбой.<end>
+
+=>q39_original
+Marcus here. Over.<end>
+
+=>q39
+Маркус слушает. Приём.<end>
+
+=>q40_original
+<end>
+
+=>q40
+<end>
+
+=>a41_original
+Hey, Marky.<end>
+
+=>a41
+Эй, Марки.<end>
+
+=>q42_original
+Goodbye, $(context.player.Name). <end>
+
+=>q42
+До свидания, $(context.player.Name).<end>
+
+=>q43_original
+::Static.::<end>
+
+=>q43
+::Помехи.::<end>
+
+=>a44_original
+I found some old naval mines we could deploy around the island, over.<end>
+
+=>a44
+Я наш$(#ёл/ла) несколько старых морских мин, которые мы могли бы разместить вокруг острова, приём.<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>q46_original
+Naval mines? Where?<end>
+
+=>q46
+Морские мины? Где?<end>
+
+=>a47_original
+At J1. They appear to be in good condition. I just need you to send someone to pick them up, over.<end>
+
+=>a47
+В J1. Похоже, они в хорошем состоянии. Мне просто нужно, чтобы вы послали кого-нибудь забрать их, приём.<end>
+
+=>q48_original
+We don't have any sec-troopers left to spare. <end>
+
+=>q48
+У нас нет свободных спец-охранников.<end>
+
+=>q49_original
+Especially considering they'd have to go through pirate territory. <end>
+
+=>q49
+Особенно учитывая, что им пришлось бы двигаться через территорию пиратов.<end>
+
+=>q50_original
+Over.<end>
+
+=>q50
+Приём.<end>
+
+=>a51_original
+What do you propose I do, over?<end>
+
+=>a51
+И что вы предлагаете сделать, приём?<end>
+
+=>q52_original
+Uh, perhaps there is some other way... 
+
+<end>
+
+=>q52
+Ну, может быть, есть какой-то другой способ...
+<end>
+
+=>q53_original
+We haven't seen him in a while, but maybe that old ferryman would be willing to help you.<end>
+
+=>q53
+Мы его давно не видели, но, возможно, тот старый паромщик согласится помочь вам.<end>
+
+=>q54_original
+He's been uncooperative so far, but who knows. That's all I could think of. Over.<end>
+
+=>q54
+До сих пор он отказывался сотрудничать, но кто знает. Это всё, что пришло мне в голову. Приём.<end>
+
+=>a55_original
+I'll see what I can do. Out.<end>
+
+=>a55
+Я посмотрю, что можно сделать. Отбой.<end>
+
+=>q56_original
+Maybe that old ferryman would be willing to help you. <end>
+
+=>q56
+Возможно, тот старый паромщик согласится вам помочь.<end>
+
+=>q57_original
+Having sec-troopers out of the camp at a moment like this is far too risky. <end>
+
+=>q57
+В такой момент, как сейчас, выводить спец-охранников из лагеря слишком рискованно.<end>
+
+=>q58_original
+It's too dangerous to go through the pirate territory.<end>
+
+=>q58
+Слишком опасно плыть через территорию пиратов.<end>
+
+=>a59_original
+I've negotiated a deal with the pirates. You'll have to pay a toll, and there can't be any armed men on the boats, over.<end>
+
+=>a59
+Я заключил$(#/а) сделку с пиратами. Вам придётся им заплатить и на лодках не должно быть вооружённых людей, приём.<end>
+
+=>q60_original
+That sounds far too risky...<end>
+
+=>q60
+Это звучит слишком рискованно...<end>
+
+=>a61_original
+They allowed me passage through their territory, over.<end>
+
+=>a61
+Они разрешили мне проход через свою территорию, приём.<end>
+
+=>q62_original
+If you say so. In that case I'll dispatch some laborers to the location you specified. <end>
+
+=>q62
+Как скажете. В таком случае я отправлю несколько рабочих в указанное вами место.<end>
+
+=>q63_original
+Over.<end>
+
+=>q63
+Приём.<end>
+
+=>a64_original
+The area has been secured, but still be on the lookout for any creepers. The whole region is infested with them, over.<end>
+
+=>a64
+Территория зачищена, но всё равно будьте настороже на случай появления ползунов. Весь район просто кишит ими, приём.<end>
+
+=>q65_original
+Roger that. Dispatching units now. Out.<end>
+
+=>q65
+Понятно. Отправляю людей. Отбой.<end>
+
+=>a66_original
+Out.<end>
+
+=>a66
+Отбой.<end>
+
+=>a67_original
+The whole region is infested with creepers, and so is the area where the mines are. Tell them to be on the lookout, over.<end>
+
+=>a67
+Весь район кишит ползунами, как и район, где находятся мины. Передайте им, чтобы были начеку, приём.<end>
+
+=>a68_original
+The way to J1 is free. Don't you worry about the pirates, over.<end>
+
+=>a68
+Путь к J1 свободен. Не беспокойтесь о пиратах, приём.<end>
+
+=>q69_original
+In that case I'll dispatch an armed transport to the location you specified. <end>
+
+=>q69
+В таком случае, я отправлю вооружённый транспорт в указанное вами место.<end>
+
+=>a70_original
+What do you propose I do, over?<end>
+
+=>a70
+И что вы предлагаете сделать, приём?<end>
+
+=>a71_original
+I've negotiated a deal with the pirates so we can get those mines. The conditions were that any passing boat has to pay a toll, and there can't carry any armed men, over.<end>
+
+=>a71
+Я договорил$(#ся/ась) с пиратами, так что мы можем забрать те мины. Условия таковы: за каждую проплывающую лодку нужно платить пошлину, и никаких вооружённых людей на борту, приём.<end>
+
+=>a72_original
+The way to J1 is pirate-free. Go and get those mines, over.<end>
+
+=>a72
+Путь к J1 свободен от пиратов. Отправляйтесь туда и заберите эти мины, приём.<end>
+
+=>a73_original
+::Channel 2 (Chief Briggs)::<end>
+
+=>a73
+::Канал 2 (Шеф Бриггс)::<end>
+
+=>q74_original
+<end>
+
+=>q74
+<end>
+
+=>q75_original
+Briggs. ::You hear gunfire in the background.::<end>
+
+=>q75
+Бриггс. ::Вы слышите стрельбу на фоне.::<end>
+
+=>q76_original
+<end>
+
+=>q76
+<end>
+
+=>a77_original
+You are all going to die.<end>
+
+=>a77
+Вы все умрёте.<end>
+
+=>a78_original
+I need backup. Can you spare any troops to attack the pirates, over?<end>
+
+=>a78
+Требуется подкрепление. Можете выделить солдат из резерва для нападения на пиратов, приём?<end>
+
+=>q79_original
+Negative. We're pinned down. I repeat: Negative, we're pinned down.<end>
+
+=>q79
+Отказано. Нас прижали. Повторяю: Отказано. Нас прижали.<end>
+
+=>q80_original
+Lay low until we drive them away if you can; if not - you're on your own, soldier. Over.<end>
+
+=>q80
+Затаитесь, пока мы не отогоним их, если получится; если же нет - вы сами по себе, солдат. Приём.<end>
+
+=>a81_original
+I found the professor. Need extraction, over.<end>
+
+=>a81
+Я наш$(#ёл/ла) профессора. Запрашиваю эвакуацию, приём.<end>
+
+=>q82_original
+Negative. We're pinned down. Attempting extraction at this point would be too risky.<end>
+
+=>q82
+Ответ отрицательный. Мы зажаты. Попытка эвакуации в этом месте будет слишком рискованной.<end>
+
+=>q83_original
+Lay low until we drive them away or find your own way out. Over.<end>
+
+=>q83
+Затаитесь, пока мы не отогоним их, или сами найдите выход. Приём.<end>
+
+=>q84_original
+What's your location, over?<end>
+
+=>q84
+Где вы, приём?<end>
+
+=>a85_original
+On a small island at E4, over.<end>
+
+=>a85
+На маленьком острове в квадрате Е4, приём.<end>
+
+=>q86_original
+Affirmative. We'll be right there. Out.<end>
+
+=>q86
+Так точно. Мы сейчас будем. Отбой.<end>
+
+=>a87_original
+::Wait.::<end>
+
+=>a87
+::Ждать.::<end>
+
+=>a88_original
+At G3, near the main entrance. The nearby enemies have been neutralized, over.<end>
+
+=>a88
+В квадрате G3, рядом с главным входом. Ближайшие враги были нейтрализованы, приём.<end>
+
+=>a89_original
+At G3, near the main entrance. The nearby enemies have been neutralized, and I'm about to open the gate for you, over.<end>
+
+=>a89
+В квадрате G3, рядом с главным входом. Ближайшие враги были нейтрализованы, и я собираюсь открыть для вас ворота, приём.<end>
+
+=>a90_original
+I'll contact you as I find a suitable extraction point. Over.<end>
+
+=>a90
+Я свяжусь с вами, как только найду подходящую точку эвакуации. Приём.<end>
+
+=>q91_original
+Affirmative, over.<end>
+
+=>q91
+Так точно, приём.<end>
+
+=>q92_original
+We've commenced the attack. Assist the sec-troops in locating and extracting the professor. Briggs out.<end>
+
+=>q92
+Мы приступили к атаке. Помогите оханникам найти и вытащить профессора. Конец связи.<end>
+
+=>q93_original
+Speak to me in person.<end>
+
+=>q93
+Поговорим при личной встрече.<end>
+
+=>q94_original
+Briggs.<end>
+
+=>q94
+Бриггс.<end>
+
+=>q95_original
+<end>
+
+=>q95
+<end>
+
+=>a96_original
+'Sup, Chief-o?<end>
+
+=>a96
+Чё как, шеф?<end>
+
+=>q97_original
+We'll find you.<end>
+
+=>q97
+Мы найдём тебя.<end>
+
+=>a98_original
+Commence the attack on the pirates! Now!<end>
+
+=>a98
+Начинайте атаку на пиратов! Немедленно!<end>
+
+=>q99_original
+<end>
+
+=>q99
+<end>
+
+=>q100_original
+Affirmative. Out!<end>
+
+=>q100
+Так точно. Отбой!<end>
+
+=>a101_original
+I'm interested in the camp's security status, over.<end>
+
+=>a101
+Как обстоят дела с безопасностью лагеря, приём.<end>
+
+=>q102_original
+The situation is bad. There are only a handful of sec-troopers left defending the camp. <end>
+
+=>q102
+Дела плохи. Осталась лишь горстка спец-охранников, защищающих лагерь.<end>
+
+=>q103_original
+Our firearm and ammunition supplies are <end>
+
+=>q103
+Наши запасы огнестрельного оружия и боеприпасов<end>
+
+=>q104_original
+very good, <end>
+
+=>q104
+очень хорошее,<end>
+
+=>q105_original
+high-tech equipment supplies - <end>
+
+=>q105
+обеспечение высокотехнологичным оборудованием -<end>
+
+=>q106_original
+very good, <end>
+
+=>q106
+очень хорошее,<end>
+
+=>q107_original
+medical supplies - <end>
+
+=>q107
+медицинское снабжение -<end>
+
+=>q108_original
+very good. <end>
+
+=>q108
+очень хорошее.<end>
+
+=>q109_original
+<end>
+
+=>q109
+<end>
+
+=>q110_original
+Our jet ski numbers are very good.<end>
+
+=>q110
+Количество наших гидроциклов весьма велико.<end>
+
+=>q111_original
+<end>
+
+=>q111
+<end>
+
+=>q112_original
+In addition to that we have lost<end>
+
+=>q112
+Кроме того мы потеряли<end>
+
+=>q113_original
+ Yahota.<end>
+
+=>q113
+Яхоту.<end>
+
+=>q114_original
+That is all, over.<end>
+
+=>q114
+Это всё, приём.<end>
+
+=>q115_original
+... some very good people.<end>
+
+=>q115
+... нескольких отличных людей.<end>
+
+=>q116_original
+We have a sufficient number of jet skis left.<end>
+
+=>q116
+У нас осталось достаточное количество гидроциклов.<end>
+
+=>q117_original
+We have lost a large number of jet skis.<end>
+
+=>q117
+Мы потеряли значительное количество гидроциклов.<end>
+
+=>q118_original
+We barely have any jet skis left.<end>
+
+=>q118
+У нас почти не осталось гидроциклов.<end>
+
+=>q119_original
+satisfactory. <end>
+
+=>q119
+приемлемо.<end>
+
+=>q120_original
+running extremely low. <end>
+
+=>q120
+крайне низкое.<end>
+
+=>q121_original
+almost non-existent. <end>
+
+=>q121
+практически отсутствует.<end>
+
+=>q122_original
+satisfactory, <end>
+
+=>q122
+приемлемо,<end>
+
+=>q123_original
+running extremely low, <end>
+
+=>q123
+крайне мало,<end>
+
+=>q124_original
+almost non-existent, <end>
+
+=>q124
+практически исчерпаны,<end>
+
+=>q125_original
+satisfactory, <end>
+
+=>q125
+приемлемо,<end>
+
+=>q126_original
+quickly diminishing, <end>
+
+=>q126
+быстро сокращаются,<end>
+
+=>q127_original
+almost non-existent, <end>
+
+=>q127
+практически исчерпаны,<end>
+
+=>q128_original
+There are currently $(context.global_xpbl_aegisSecTroopersAvailable) sec-troopers defending the camp. <end>
+
+=>q128
+Сейчас $(context.global_xpbl_aegisSecTroopersAvailable) спец-охранников защищают лагерь.<end>
+
+=>a129_original
+::Channel 3 (Yahota)::<end>
+
+=>a129
+::Канал 3 (Яхота)::<end>
+
+=>q130_original
+<end>
+
+=>q130
+<end>
+
+=>q131_original
+I'm busy.<end>
+
+=>q131
+Я занята.<end>
+
+=>a132_original
+You're dead.<end>
+
+=>a132
+Ты умрёшь.<end>
+
+=>q133_original
+Not before I get the chance to shoot your nuts off, bastard.<end>
+
+=>q133
+Не раньше, чем у меня появится шанс отстрелить тебе яйца, ублюдок.<end>
+
+=>q134_original
+Not before I get the chance to blast that mug of yours to pieces, tart.<end>
+
+=>q134
+Не раньше, чем у меня появится шанс разнести твою рожу на куски, шалава.<end>
+
+=>a135_original
+Roger. Out.<end>
+
+=>a135
+Понятно. Отбой.<end>
+
+=>q136_original
+I'm in position.<end>
+
+=>q136
+Я на позиции.<end>
+
+=>q137_original
+<end>
+
+=>q137
+<end>
+
+=>a138_original
+Remember me?<end>
+
+=>a138
+Помнишь меня?<end>
+
+=>a139_original
+I'm interested in enemy activity, over.<end>
+
+=>a139
+Меня интересует вражеская активность, приём.<end>
+
+=>q140_original
+<end>
+
+=>q140
+<end>
+
+=>q141_original
+::She answers coldly.:: <end>
+
+=>q141
+::Она холодно отвечает.::<end>
+
+=>q142_original
+<end>
+
+=>q142
+<end>
+
+=>q143_original
+The sea's looking calm at the moment. No enemy activity whatsoever. <end>
+
+=>q143
+Сейчас море кажется спокойным. Никакой вражеской активности.<end>
+
+=>q144_original
+Over.<end>
+
+=>q144
+Приём.<end>
+
+=>a145_original
+There was something else I wanted to ask you, over.<end>
+
+=>a145
+Разрешите ещё кое о чём вас спросить, приём.<end>
+
+=>q146_original
+Go ahead, over.<end>
+
+=>q146
+Валяйте, приём.<end>
+
+=>a147_original
+Thanks for the info. I'll leave you to your duty. Out.<end>
+
+=>a147
+Спасибо за информацию. Не буду отвлекать вас от работы. Отбой.<end>
+
+=>q148_original
+Pirates or savages?<end>
+
+=>q148
+Пираты или дикари?<end>
+
+=>a149_original
+Pirates.<end>
+
+=>a149
+Пираты.<end>
+
+=>q150_original
+<end>
+
+=>q150
+<end>
+
+=>q151_original
+The whole south-eastern part of the sea is pretty much dead. Barely any pirate activity there. <end>
+
+=>q151
+Вся юго-восточная часть моря практически безжизненна. Там почти не наблюдается пиратской активности.<end>
+
+=>q152_original
+Over.<end>
+
+=>q152
+Приём.<end>
+
+=>a153_original
+And the savages, over?<end>
+
+=>a153
+А дикари, приём?<end>
+
+=>q154_original
+<end>
+
+=>q154
+<end>
+
+=>q155_original
+Haven't noticed any activity lately. No moving lights, boats or anything of the sort. <end>
+
+=>q155
+В последнее время не замечено никакой активности. Никаких движущихся огней, лодок или чего-то подобного.<end>
+
+=>q156_original
+Over.<end>
+
+=>q156
+Приём.<end>
+
+=>a157_original
+And the pirates, over?<end>
+
+=>a157
+А пираты, приём?<end>
+
+=>q158_original
+Not much activity lately. Much fewer moving lights and boats as well. <end>
+
+=>q158
+В последнее время не очень много активности. Гораздо меньше движущихся огней и лодок.<end>
+
+=>q159_original
+This might be the calm before the storm. <end>
+
+=>q159
+Возможно, это затишье перед бурей.<end>
+
+=>q160_original
+Less activity than before the first attack, but still plenty. <end>
+
+=>q160
+Меньше активности, чем перед первой атакой, но всё равно много.<end>
+
+=>q161_original
+Still lots of activity. There's a lot of them there. <end>
+
+=>q161
+По-прежнему много активности. Там их очень много.<end>
+
+=>q162_original
+Lots of activity there ever since we moved in. They are probably preparing for another attack. <end>
+
+=>q162
+С тех пор как мы перебрались, там было очень оживлённо. Вероятно, они готовятся к новой атаке.<end>
+
+=>q163_original
+Not much activity over at the pirate base. Their patrols are becoming rather sparse as well. <end>
+
+=>q163
+На пиратской базе особой активности не наблюдается. Их патрули также стали достаточно редкими.<end>
+
+=>q164_original
+Lots of pirate jet ski patrols about. They could be up to something <end>
+
+=>q164
+Полно пиратских патрулей на гидроциклах. Они могут замышлять что-то<end>
+
+=>q165_original
+again<end>
+
+=>q165
+снова<end>
+
+=>q166_original
+. <end>
+
+=>q166
+.<end>
+
+=>a167_original
+Savages.<end>
+
+=>a167
+Дикари.<end>
+
+=>a168_original
+I need to speak to you in person. Where can I find you? Over.<end>
+
+=>a168
+Мне нужно лично поговорить с тобой. Где я могу найти тебя? Приём.<end>
+
+=>q169_original
+Not now.<end>
+
+=>q169
+Не сейчас.<end>
+
+=>q170_original
+::Silence.::<end>
+
+=>q170
+::Молчит.::<end>
+
+=>q171_original
+<end>
+
+=>q171
+<end>
+
+=>q172_original
+::She answers coldly.:: <end>
+
+=>q172
+::Она холодно отвечает.::<end>
+
+=>q173_original
+Negative. Use the navcom.<end>
+
+=>q173
+Отрицательно. Используйте навком.<end>
+
+=>q174_original
+And focus on the mission. <end>
+
+=>q174
+И сосредоточьтесь на задании.<end>
+
+=>q175_original
+Over.<end>
+
+=>q175
+Приём.<end>
+
+=>q176_original
+Top of the lighthouse in the camp.<end>
+
+=>q176
+На вершине маяка в лагере.<end>
+
+=>a177_original
+Can you see the Ferryman anywhere, over?<end>
+
+=>a177
+Видишь где-нибудь Паромщика, приём?<end>
+
+=>q178_original
+::She answers coldly.:: <end>
+
+=>q178
+::Она холодно отвечает.::<end>
+
+=>q179_original
+No. He sailed north into savage territory before I lost sight of him. Should be in my scope again soon. <end>
+
+=>q179
+Нет. Он отплыл на север, на территорию дикарей, прежде чем я потеряла его из виду. Скоро он снова окажется в моём поле зрения.<end>
+
+=>q180_original
+He follows a fairly consistent route, visiting the mutie island and the pirate base before going north again. Over.<end>
+
+=>q180
+Он придерживается достаточно последовательного маршрута, посещая остров мутантов и базу пиратов, прежде чем снова отправиться на север. Приём.<end>
+
+=>q181_original
+Yes. He's docked at the <end>
+
+=>q181
+Да. Он пришвартовался у<end>
+
+=>q182_original
+pirate base. <end>
+
+=>q182
+базы пиратов.<end>
+
+=>q183_original
+He's lying on the ground and doesn't appear to be moving. Looks fragged to me. Over.<end>
+
+=>q183
+Он лежит на земле и вроде не двигается. Похоже, захреначен. Приём.<end>
+
+=>q184_original
+pier on the southern side of the mutie island. <end>
+
+=>q184
+пирса на южной стороне острова мутантов.<end>
+
+=>a185_original
+I need information on the pirate base. Over.<end>
+
+=>a185
+Мне нужна информация о базе пиратов. Приём.<end>
+
+=>q186_original
+You neutralized pretty much every fraggin' pirate. <end>
+
+=>q186
+Ты нейтрализовал$(#/а) почти всех грёбаных пиратов.<end>
+
+=>q187_original
+Locate the professor and carry out his extraction, over.<end>
+
+=>q187
+Найди профессора и эвакуируй его, приём.<end>
+
+=>q188_original
+They're well-armed, have lots of jet skis at their disposal - and hounds, lots of hounds walking about. <end>
+
+=>q188
+Они отлично вооружены, в их распоряжении множество гидроциклов - и гончие, много гончих, прогуливающихся вокруг.<end>
+
+=>q189_original
+Lots of fraggin' pirates here, that's for sure. <end>
+
+=>q189
+Здесь полно грёбаных пиратов, уж это точно.<end>
+
+=>q190_original
+From what I've been able to gather so far, there are three locations where Professor Oldfield is most probably being held at: The first is a derelict battleship in G2, right in the middle of their main base. Then there's a large heavily-defended building in E3. And then there's also that smaller base in I5, the one with the NFT lighthouse. There's a lot of activity there as well, which makes it another potential target.<end>
+
+=>q190
+Из того, что мне пока удалось выяснить, есть три места, где вероятно держат профессора Олдфилда: первое - это заброшенный линкор в G2, прямо посреди их главной базы. Кроме того, в Е3 есть большое хорошо защищённое здание. А также есть небольшая база в I5, та, что с маяком ТНГ. Там тоже наблюдается повышенная активность, что делает её ещё одной потенциальной целью.<end>
+
+=>q191_original
+But for all we know the professor could be held anywhere. Maybe they even moved him somewhere deeper in the bay. Over.<end>
+
+=>q191
+Но из того, что мы знаем, профессора могут держать где угодно. Возможно, они даже переместили его куда-то в глубь залива. Приём.<end>
+
+=>q192_original
+<end>
+
+=>q192
+<end>
+
+=>a193_original
+Tell me again about where you think the professor could be held at? Over.<end>
+
+=>a193
+Расскажи ещё раз, где, по-твоему, может содержаться профессор? Приём.<end>
+
+=>a194_original
+Got any specifics on their defenses? Over.<end>
+
+=>a194
+Есть какие-нибудь подробности об их обороне? Приём.<end>
+
+=>q195_original
+High sheet metal walls around the base, with manned turrets at regular intervals. The southern entrance is the least defended one, but to get there you have to sneak through either G4 or H4, cross the bay undetected, and then enter the base from there. Plenty of jet ski patrols in the bay as well. Over.<end>
+
+=>q195
+Высокие стены из листового металла вокруг базы, с пилотируемыми турелями на равных промежутках. Южный вход наименее защищён, но чтобы попасть туда, нужно проскользнуть через G4 или H4, пересечь залив незамеченным, а затем войти на базу оттуда. В бухте тоже полно патрулей на гидроциклах. Приём.<end>
+
+=>a196_original
+Armament? Over.<end>
+
+=>a196
+Вооружение? Приём.<end>
+
+=>q197_original
+Lots of firearms, explosive weapons, crossbows, machetes, sledgehammers and other melee weapons. Large-caliber, double-barreled turrets; no energy weapons noticed so far.
+
+They also have hounds, pit bulls mostly. Was almost sniffed out by one of those mutts during my infiltration.
+
+Over.<end>
+
+=>q197
+Большое количество огнестрельного и взрывного оружия, арбалетов, мачете, кувалд и другого оружия ближнего боя. Крупнокалиберные, двуствольные турели; энергетического оружия пока не замечено.
+
+Кроме того, у них есть собаки, в основном питбули. Меня чуть не унюхала одна из этих шавок во время моего проникновения.
+
+Приём.<end>
+
+=>a198_original
+What can you tell me about the battleship? Over.<end>
+
+=>a198
+Что можешь рассказать о линкоре? Приём.<end>
+
+=>q199_original
+Appears to be one of those old Biocorp ships of war. There is a bridge which connects the main platform to the ship. Heavily guarded. If I were the captain of this rancid rabble, that's where I'd like my HQ to be. Over.<end>
+
+=>q199
+Похоже, это один из тех древних военных кораблей Биокорп. Есть мост, соединяющий главную платформу с кораблём. Тщательно охраняемый. Если бы я была капитаном этого мерзкого сброда, то хотела бы, чтобы мой штаб распологался именно там. Приём.<end>
+
+=>a200_original
+What can you tell me about the large building in E3? Over.<end>
+
+=>a200
+Что ты можешь рассказать мне о большом строении в Е3? Приём.<end>
+
+=>q201_original
+It's a two-story building. Purpose unknown. Multiple entrances. Lots of guards outside, and there are snipers on the rooftop. There are two ways to enter the area, east and south, and both require you to go through the main base. The western path leads up to a hill; it leads to the cliff where that glowing monolith is at. Over.<end>
+
+=>q201
+Это двухэтажное здание. Назначение неизвестно. Несколько входов. Снаружи много охранников, а на крыше снайперы. Есть два способа попасть в этот район, с востока и юга, и оба потребуют, чтобы вы прошли через главную базу. Западная тропа ведёт к возвышенности; она ведёт к утёсу, где находится этот светящийся монолит. Приём.<end>
+
+=>a202_original
+What can you tell me about the lighthouse base? Over.<end>
+
+=>a202
+Что можешь рассказать мне о базе у маяка? Приём.<end>
+
+=>q203_original
+Tall sheet metal walls. Jet ski dock at the entrance. Two large buildings, the taller of which is connected to the lighthouse via skyway. Actually, that's three buildings if we count the lighthouse as well. The main entrance is heavily guarded. But there is another entrance to the east. That's all I got. Over.<end>
+
+=>q203
+Высокие стены из листового металла. Причал для гидроциклов у входа. Два больших здания, то что повыше соединено с маяком мостом. Собственно говоря, это три здания, если считать и маяк. Главный вход усиленно охраняется. Но есть ещё один на востоке. Это всё, что мне удалось узнать. Приём.<end>
+
+=>a204_original
+That's all I needed to know. $(context.player.Name) out.<end>
+
+=>a204
+Это всё, что мне нужно было узнать. Отбой.<end>
+
+=>q205_original
+Yahota out.<end>
+
+=>q205
+Конец связи.<end>
+
+=>q206_original
+<end>
+
+=>q206
+<end>
+
+=>q207_original
+What do you want to know about?<end>
+
+=>q207
+О чём ты хочешь узнать?<end>
+
+=>q208_original
+I can see you.<end>
+
+=>q208
+Я тебя вижу.<end>
+
+=>q209_original
+Too lazy to climb the lighthouse?<end>
+
+=>q209
+Лень забираться на маяк?<end>
+
+=>q210_original
+Yeah?<end>
+
+=>q210
+Да?<end>
+
+=>a211_original
+::Channel 4 (Professor Oldfield)::<end>
+
+=>a211
+::Канал 4 (Профессор Олдфилд)::<end>
+
+=>q212_original
+<end>
+
+=>q212
+<end>
+
+=>q213_original
+Yes? ::You hear gunfire in the background.:: Oldfield here. Who is this?<end>
+
+=>q213
+Да? ::Вы слышите стрельбу на фоне.:: Олдфилд слушает. Кто это?<end>
+
+=>a214_original
+Remember me, professor?<end>
+
+=>a214
+Помните меня, профессор?<end>
+
+=>q215_original
+With great disdain. Farewell, $(context.npc_xpbl_oldfield_playerName). May this sea be your grave.<end>
+
+=>q215
+С глубоким презрением. Прощай, $(context.npc_xpbl_oldfield_playerName). Пускай это море станет твоей могилой.<end>
+
+=>a216_original
+Are you okay, Professor?<end>
+
+=>a216
+Вы в порядке, Профессор?<end>
+
+=>q217_original
+Yes, I'm fine, I'm fine. <end>
+
+=>q217
+Да, в порядке я, в порядке.<end>
+
+=>q218_original
+Don't worry about me. Best of luck. Out.<end>
+
+=>q218
+Не беспокойтесь обо мне. Желаю удачи. Отбой.<end>
+
+=>q219_original
+I'd prefer it if we spoke in person. Oldfield out.<end>
+
+=>q219
+Я бы предпочёл, чтобы мы поговорили лично. Конец связи.<end>
+
+=>q220_original
+Oldfield on the line. Over.<end>
+
+=>q220
+Олдфилд на линии. Приём.<end>
+
+=>q221_original
+<end>
+
+=>q221
+<end>
+
+=>a222_original
+I have a report to make about Nexus of Technology, over.<end>
+
+=>a222
+У меня есть, что доложить о Технологиях Нексуса, приём.<end>
+
+=>q223_original
+It's you! May this sea be your grave.<end>
+
+=>q223
+Это ты! Пусть это море станет тебе могилой.<end>
+
+=>q224_original
+Yes, yes? Um... over.<end>
+
+=>q224
+Да-да? Эм... приём.<end>
+
+=>a225_original
+It is a large research facility... ::Explain to him what you discovered.::<end>
+
+=>a225
+Это крупный исследовательский центр... ::Рассказать ему, что вы обнаружили.::<end>
+
+=>q226_original
+::After listening to you with great interest, only occasionally interjecting with various exclamations of surprise and awe, the professor shares his thoughts.::
+
+Goodness me, that is marvelous indeed! Your descent down the elevator shaft, turning on the power, exploring the floors, all of it - truly incredible. And the fact that you managed to upgrade your microchip implant's clearance level with that... what did you say the device was called?<end>
+
+=>q226
+::Дослушав, с большим интересом, ваш рассказ до конца, лишь изредка перебивая его возгласами удивления и благоговения, профессор делится своими мыслями.::
+
+Боже мой, это просто изумительно! Ваш спуск по шахте лифта, включение питания, исследование этажей, всё это... поистине невероятно. И тот факт, что вам удалось обновить уровень доступа имплантата, этим... как, вы сказали, называется это устройство?<end>
+
+=>a227_original
+Microchip encoder.<end>
+
+=>a227
+Кодировщик микрочипов.<end>
+
+=>q228_original
+Ah, yes - microchip encoder. That clearance level will certainly prove to be of great use, certainly. <end>
+
+=>q228
+Ах, да - кодировщик микрочипов. Этот уровень допуска, безусловно, окажется очень полезным.<end>
+
+=>q229_original
+<end>
+
+=>q229
+<end>
+
+=>q230_original
+<end>
+
+=>q230
+<end>
+
+=>q231_original
+Excellent work, $(context.npc_xpbl_oldfield_playerName). <end>
+
+=>q231
+$(context.npc_xpbl_oldfield_playerName), отличная работа.<end>
+
+=>q232_original
+See Marcus about your well-earned bonus when you come back. <end>
+
+=>q232
+Когда вернётесь, спросите у Маркуса о своём заслуженном вознаграждении.<end>
+
+=>q233_original
+I'll contact you as soon as I have a new task for you. Best of luck. Oldfield out.<end>
+
+=>q233
+Я свяжусь с вами, как только у меня будет новое задание для вас. Желаю удачи. Конец связи.<end>
+
+=>q234_original
+The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in the camp's kitchen.
+
+::It takes a moment for him to continue.:: He's... one of the few left alive, I'm afraid. <end>
+
+=>q234
+Спец-повар, да, повар теперь отвечает за зарплату. Ищите его на кухне лагеря.
+
+::Он делает недолгую паузу, прежде чем продолжить.:: Боюсь, что он... один из немногих оставшихся в живых.<end>
+
+=>q235_original
+See the sec-chef about your bonus when you come back. <end>
+
+=>q235
+Когда вернётесь, обратитесь к шефу за премией.<end>
+
+=>a236_original
+I have a report to make about Crimson Meadow Horticulture Center, over.<end>
+
+=>a236
+У меня есть, что доложить об агроцентре Багровый луг, приём.<end>
+
+=>q237_original
+Excellent. Do go on. Over.<end>
+
+=>q237
+Отлично. Продолжайте. Приём.<end>
+
+=>a238_original
+As the name says, it is a massive horticulture center... ::Explain to him what you discovered.::<end>
+
+=>a238
+Как и следует из названия, это огромный агроцентр... ::Рассказать ему, что вы обнаружили.::<end>
+
+=>q239_original
+::You manage to convey the brooding atmosphere of the horticulture center so perfectly that the professor remains speechless for a good half a minute after you've finished speaking. He speaks after this pause.::
+
+By the caverns, that is un-believable, $(context.npc_xpbl_oldfield_playerName). The vegetation, the insects, the pesticide... amazing, truly amazing. <end>
+
+=>q239
+::Вам настолько хорошо удаётся передать угрюмую атмосферу центра садоводства, что профессор добрых полминуты остаётся безмолвным после того, как вы заканчиваете свой рассказ. Он говорит после этой паузы.::
+
+Клянусь Подземкой, это невероятно, $(context.npc_xpbl_oldfield_playerName). Растительность, насекомые, пестициды... поразительно, поистине поразительно.<end>
+
+=>q240_original
+But one of the most important things is that you managed to find that dispatch console. They seem to be the key to discovering the locations of Lemurian facilities.<end>
+
+=>q240
+Но одна из самых важных вещей заключается в том, что вам удалось найти диспетчерскую консоль. Они, по-видимому, являются ключом к обнаружению местоположения лемурийских объектов.<end>
+
+=>q241_original
+<end>
+
+=>q241
+<end>
+
+=>q242_original
+It's... such a shame you couldn't explore the entire facility. Who knows what other incredible things you would've discovered?<end>
+
+=>q242
+Это... так досадно, что вы не смогли исследовать весь объект. Кто знает, что ещё невероятное вы бы обнаружили?<end>
+
+=>a243_original
+I have a report to make about Lemurian Health Center, over.<end>
+
+=>a243
+У меня есть, что доложить о Центре здоровья лемуриан, приём.<end>
+
+=>q244_original
+Good work. I am all ears. Over.<end>
+
+=>q244
+Отличная работа. Я весь внимание. Приём.<end>
+
+=>a245_original
+You are going to hear certain things that might be hard to believe... ::Explain to him what you discovered.::<end>
+
+=>a245
+Вы услышите о некоторых вещах, в которые, возможно, будет трудно поверить... ::Рассказать ему, что вы обнаружили.::<end>
+
+=>q246_original
+::The surreal nature of your visit to the Lemurian Health Center is difficult to express in mere words, but you do your best, and the professor follows your report with interest till the very end.::
+
+I... don't know what to say, $(context.npc_xpbl_oldfield_playerName).<end>
+
+=>q246
+::Трудно выразить простыми словами всю невероятность вашего визита в Центр здоровья лемуриан, но вы стараетесь, и профессор с интересом слушает до самого конца ваш рассказ.::
+
+Я... не знаю, что сказать, $(context.npc_xpbl_oldfield_playerName).<end>
+
+=>a247_original
+You don't have to say anything.<end>
+
+=>a247
+Не нужно ничего говорить.<end>
+
+=>q248_original
+It might indeed be for the best.<end>
+
+=>q248
+Наверное, так и правда будет лучше.<end>
+
+=>a249_original
+Let's just move on to me getting Phil's microchip implanted into my hand.<end>
+
+=>a249
+Давайте просто перейдём к тому, что я имплантировал$(#/а) микрочип Фила в свою руку.<end>
+
+=>q250_original
+Indeed we should, yes. Was there a reason why you did that?<end>
+
+=>q250
+Конечно, так и поступим. Была ли причина, по которой вы это сделали?<end>
+
+=>a251_original
+I needed it to access Joint Security headquarters. There was a scanner there which wouldn't let me pass without an implant in my hand.<end>
+
+=>a251
+Он был нужен для доступа в Единый Центр Безопасности. Там был сканер, который не позволял пройти без импланта в руке.<end>
+
+=>q252_original
+Ah, yes, I believe you mentioned it to me. <end>
+
+=>q252
+Ах, да, кажется, вы говорили мне об этом.<end>
+
+=>q253_original
+I believe Doctor Savage can extract the implant for you.<end>
+
+=>q253
+Я полагаю, что доктор Дикий может помочь вам с извлечением имплантата.<end>
+
+=>a254_original
+I'll keep that in mind, over.<end>
+
+=>a254
+Я буду иметь это в виду, приём.<end>
+
+=>q255_original
+Yes, over, yes. <end>
+
+=>q255
+Да-да, приём.<end>
+
+=>q256_original
+In any case... <end>
+
+=>q256
+В любом случае...<end>
+
+=>q257_original
+<end>
+
+=>q257
+<end>
+
+=>a258_original
+I need it to access Joint Security headquarters. There is a scanner there which won't let me pass without an implant in my hand.<end>
+
+=>a258
+Он нужен для доступа в Единый Центр Безопасности. Там есть сканер, который не позволяет пройти без импланта в руке.<end>
+
+=>q259_original
+I see... Very well then. <end>
+
+=>q259
+Понятно...  Тогда хорошо.<end>
+
+=>a260_original
+I had a feeling I'd need that at some later point. Better do it while I'm there.<end>
+
+=>a260
+У меня было предчувствие, что позже он мне понадобится. И лучше сделать это, пока я там.<end>
+
+=>q261_original
+I'll trust your judgement. <end>
+
+=>q261
+Я доверяю вашему мнению.<end>
+
+=>a262_original
+You believe me, though, right?<end>
+
+=>a262
+Вы же мне верите, так ведь?<end>
+
+=>q263_original
+After being here for this long there's nothing I find hard to believe anymore, $(context.npc_xpbl_oldfield_playerName).<end>
+
+=>q263
+После столь долгого пребывания здесь, меня уже ничего не удивляет, $(context.npc_xpbl_oldfield_playerName).<end>
+
+=>a264_original
+I have a report to make about Joint Security Headquarters, over.<end>
+
+=>a264
+У меня есть, что доложить о Едином Центре Безопасности, приём.<end>
+
+=>q265_original
+I'm listening. Over.<end>
+
+=>q265
+Я слушаю. Приём.<end>
+
+=>a266_original
+Well, after managing to pass that damned bioscan, I... ::Explain to him what you discovered.::<end>
+
+=>a266
+Итак, после того, как мне удалось пройти этот проклятый биоскан, я... ::Рассказать ему, что вы обнаружили.::<end>
+
+=>q267_original
+::You report all your findings while the professor, as always, listens with great attentiveness.::
+
+A rather sad ending for the Lemurian Security Command, I have to say. Goodness me, you stood in the same room from which Lemurian officers, fathers, sons and husbands observed their home being demolished by the Biocorp Undernavy.<end>
+
+=>q267
+::Вы докладываете обо всех своих находках, а профессор, как всегда, слушает с большим вниманием.::
+
+Должен сказать, довольно печальный конец для лемурийского управления безопасности. Боже мой, вы стояли в той же комнате, из которой лемурийские офицеры, отцы, сыновья и мужья наблюдали за тем, как флот Биокорп разрушает их дом.<end>
+
+=>a268_original
+And now Biocorp is in ruins as well.<end>
+
+=>a268
+И теперь Биокорп тоже разрушена.<end>
+
+=>q269_original
+Yes... Yes. It's an interesting parallel to make, as fifteen years ago Biocorp Armed Forces officers too were looking down at Protectorate invaders breaking into and causing havoc in Dis. 
+
+History tends to repeat itself, yet sadly it seems that with each iteration humanity loses more than it rebuilds, and some things are lost forever.<end>
+
+=>q269
+Да... Да, это интересное сравнение, поскольку пятнадцать лет назад офицеры вооружённых сил Биокорп тоже смотрели свысока на вторгнувшихся и вызвавших хаос в Дис захватчиков Протектората. 
+
+История имеет тенденцию повторяться, но, к сожалению, кажется, что с каждой повтором человечество теряет больше, чем восстанавливает, а что-то теряется навсегда.<end>
+
+=>a270_original
+But not everything. There was this dispatcher terminal at JSHQ. On it I found out about a transport vessel with a cargo id that read - *ACoNR*.<end>
+
+=>a270
+Но не совсем. В ЕЦБ был диспетчерский терминал и из него мне стало известно о транспортном судне с идентификатором груза - *АКоНР*.<end>
+
+=>q271_original
+Acorn? ::He takes off his glasses for a moment.:: Could it be? How large is it then if...?<end>
+
+=>q271
+Жёлудь? ::Он на мгновение снимает очки.:: Возможно ли это? Насколько же он тогда велик, если?..<end>
+
+=>q272_original
+And it... it is at that Abyssal Station? Abyssal Station Zero.<end>
+
+=>q272
+И он... он на этой Глубоководной станции? Глубоководной Станциии Зеро?<end>
+
+=>a273_original
+Seems so. The location is marked as Abyssal Station Zero Elevators.<end>
+
+=>a273
+Похоже на то. Это место отмечено как лифт глубоководной станции Зеро. <end>
+
+=>q274_original
+It's rather peculiar: This entire region has always been referred to as LEMCO, and we've not found a single instance of this Abyssal Station being mentioned.
+
+Yet... if this station truly is abyssal, its depth could have saved it from Biocorp's detection.<end>
+
+=>q274
+Это довольно любопытно: этот регион всегда упоминался как ЛЕМКО, и мы не обнаружили ни одного упоминания об этой Глубоководной станции.
+
+И если... эта станция действительно глубоководная, то её глубина могла спасти её от обнаружения Биокорп.<end>
+
+=>q275_original
+The Acorn... they sent it to a place they deemed the safest. They must've sent people too. If this station has remained intact for so long...
+
+$(context.npc_xpbl_oldfield_playerName), there could still be someone down there.<end>
+
+=>q275
+Жёлудь... они отправили его в место, которое считали самым безопасным. Должно быть, они также послали и людей. А если эта станция так долго оставалась нетронутой...
+
+$(context.npc_xpbl_oldfield_playerName)... там, внизу, ещё кто-то может быть.<end>
+
+=>a276_original
+It's what NFT does best: Conquering the most inhospitable places.<end>
+
+=>a276
+Это то, что ТНГ удавалось лучше всего. Покорение самых негостеприимных мест.<end>
+
+=>q277_original
+Precisely!<end>
+
+=>q277
+Вот именно!<end>
+
+=>q278_original
+This is your next destination, $(context.npc_xpbl_oldfield_playerName), Abyssal Station Zero. <end>
+
+=>q278
+Это ваш следующий пункт назначения, $(context.npc_xpbl_oldfield_playerName), Глубоководная станция Зеро.<end>
+
+=>q279_original
+In case that these elevators are no longer functional, there is still that submarine you can try to use. Although... I fear whether it could endure the depths.<end>
+
+=>q279
+В случае, если эти лифты больше не функционируют, можно попробовать использовать подводную лодку. Хотя... Я опасаюсь, сможет ли она выдержать глубину.<end>
+
+=>q280_original
+See Marcus about your well-earned bonus when you come back. <end>
+
+=>q280
+Когда вернётесь, спросите у Маркуса о своём заслуженном вознаграждении.<end>
+
+=>q281_original
+Best of luck, $(context.npc_xpbl_oldfield_playerName), best of luck. Oldfield out.<end>
+
+=>q281
+Желаю удачи, $(context.npc_xpbl_oldfield_playerName), желаю удачи. Конец связи.<end>
+
+=>q282_original
+The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in the camp's kitchen.
+
+::It takes a moment for him to continue.:: He's... one of the few left alive, I'm afraid.<end>
+
+=>q282
+Спец-повар, да, повар теперь отвечает за зарплату. Ищите его на кухне лагеря.
+
+::Он делает недолгую паузу, прежде чем продолжить.:: Боюсь, что он... один из немногих оставшихся в живых.<end>
+
+=>q283_original
+See the sec-chef about your bonus when you come back. <end>
+
+=>q283
+Когда вернётесь, обратитесь к шефу за премией.<end>
+
+=>q284_original
+Hopefully those elevators still work. If not... There has to be another way. There has to be. <end>
+
+=>q284
+Надеюсь, эти лифты ещё работают. Если же нет... Должен быть другой путь. Должен.<end>
+
+=>a285_original
+Exactly. And from this station I've just returned.<end>
+
+=>a285
+Именно. И с этой станции я только что и вернул$(#ся/ась).<end>
+
+=>q286_original
+Goodness me... It's best that we discuss this in the camp. Come here as soon as you can. Out.<end>
+
+=>q286
+Боже мой... Будет лучше, если мы обсудим это в лагере. Приезжайте сюда как можно скорее. Отбой.<end>
+
+=>q287_original
+Where... where was it taken? <end>
+
+=>q287
+Куда... куда его отвезли?<end>
+
+=>a288_original
+The location is marked as Abyssal Station Zero Elevators. It is somewhere in the southeastern bay.<end>
+
+=>a288
+Это место отмечено как лифт глубоководной станции Зеро. Оно где-то в юго-восточном заливе.<end>
+
+=>q289_original
+Abyssal Station Zero... <end>
+
+=>q289
+Глубоководная станция Зеро...<end>
+
+=>a290_original
+To Abyssal Station Zero. From which I've just returned.<end>
+
+=>a290
+На глубоководную станцию Зеро. Из которой я только что вернул$(#ся/ась).<end>
+
+=>a291_original
+Professor, there was a dispatcher terminal there. On it I found out about a transport vessel with a cargo id that read - *ACoNR*.<end>
+
+=>a291
+Профессор, там есть диспетчерский терминал и в нём упоминается транспортное судно с идентификатором груза - *АКоНР*.<end>
+
+=>a292_original
+I have a report to make about the Abyssal Station, over.<end>
+
+=>a292
+У меня есть, что доложить о Глубоководной станции, приём.<end>
+
+=>q293_original
+You went down there?<end>
+
+=>q293
+Вы спускались туда?<end>
+
+=>a294_original
+Yes I have.<end>
+
+=>a294
+Да, спускал$(#ся/ась).<end>
+
+=>q295_original
+Excellent. <end>
+
+=>q295
+Превосходно.<end>
+
+=>a296_original
+Did you doubt me?<end>
+
+=>a296
+Вы во мне сомневались?<end>
+
+=>q297_original
+Not at all, $(context.npc_xpbl_oldfield_playerName), not at all. <end>
+
+=>q297
+Нисколько, $(context.npc_xpbl_oldfield_playerName), нисколько.<end>
+
+=>a298_original
+Oh, did I.<end>
+
+=>a298
+О, да.<end>
+
+=>a299_original
+I've found a submarine at the Blistering Shores facility in the northeastern part of the sea, at L12. Over.<end>
+
+=>a299
+Я обнаружил$(#/а) подводную лодку на объекте Бурлящих берегов в северо-восточной части моря, квадрат L12. Приём.<end>
+
+=>q300_original
+Submarine? Oh, goodness me, that's quite a remarkable find. Shame it's so far away from here. How preserved is it, over?<end>
+
+=>q300
+Подводная лодка? О, боже мой, это замечательная находка. Жаль, что она так далеко отсюда. Насколько она сохранилась, приём?<end>
+
+=>a301_original
+I don't think you understand. I believe it could still be used, even if not to its full capacity, over.<end>
+
+=>a301
+Не думаю, что вы поняли. Я полагаю, что её всё ещё можно использовать, хотя и не на полную мощность, приём.<end>
+
+=>q302_original
+Wait a minute, you mean an *actual* working submarine. By the caverns!<end>
+
+=>q302
+Минуточку, вы имеете в виду *реально* функционирующую подводную лодку. Клянусь Подземкой!<end>
+
+=>a303_original
+A deep-diving submarine, from the looks of it, over.<end>
+
+=>a303
+Глубоководную подводную лодку, по всей видимости, приём.<end>
+
+=>q304_original
+Remarkable! <end>
+
+=>q304
+Потрясающе!<end>
+
+=>q305_original
+But this Abyssal Station you're talking about... It is something completely new to me.<end>
+
+=>q305
+Но эта Глубоководная станция, о которой вы говорите... Это что-то совершенно новое для меня.<end>
+
+=>a306_original
+I found out about it in Joint Security Headquarters, after managing to pass that damned bioscan... ::Explain to him what you discovered.::<end>
+
+=>a306
+Я узнал$(#/а) об этом в Едином Центре Безопасности, после того как сумел$(#/а) миновать этот проклятый биоскан... ::Рассказать ему, что вы обнаружили.::<end>
+
+=>q307_original
+This submarine, $(context.npc_xpbl_oldfield_playerName), it could be the last part of the puzzle. If the Acorn truly is down there, at this Abyssal Station...<end>
+
+=>q307
+Эта подводная лодка, $(context.npc_xpbl_oldfield_playerName), она может стать последней частью пазла. Если, конечно, Жёлудь действительно там, на этой глубоководной станции...<end>
+
+=>q308_original
+The only question which remains is: Will this submarine actually work?<end>
+
+=>q308
+Остаётся только один вопрос: будет ли эта подводная лодка действительно работать?<end>
+
+=>a309_original
+There's only one way to find out.<end>
+
+=>a309
+Есть только один способ это выяснить.<end>
+
+=>q310_original
+Well, best of luck, $(context.npc_xpbl_oldfield_playerName). <end>
+
+=>q310
+Ну что ж, желаю удачи, $(context.npc_xpbl_oldfield_playerName).<end>
+
+=>q311_original
+You may become the first $(#man/woman) in two centuries to dive in a Lemurian submarine. 
+
+If you need anything, contact me. We're getting so close...<end>
+
+=>q311
+Вы можете стать перв$(#ым/ой) $(#мужчиной/женщиной) за два столетия, кто взойдёт на лемурийскую подводную лодку.
+
+Если вам что-нибудь понадобится, дайте мне знать. Мы уже так близко...<end>
+
+=>a312_original
+I haven't seen any holes.<end>
+
+=>a312
+Я не заметил$(#/а) ни одной пробоины.<end>
+
+=>a313_original
+Leave it to me, professor. I'll make it work.<end>
+
+=>a313
+Предоставьте это мне, профессор. Я заставлю её работать.<end>
+
+=>a314_original
+I don't know.<end>
+
+=>a314
+Я не знаю.<end>
+
+=>q315_original
+This would certainly open a new way for us to access these facilities. There would be no need to traverse dangerous waters, but we can instead sail below the surface.<end>
+
+=>q315
+Это, безусловно, откроет для нас новый путь доступа к этим объектам. Нет нужды пересекать опасные воды, когда вместо этого можно плыть под водой.<end>
+
+=>a316_original
+When I deliver, I deliver, over.<end>
+
+=>a316
+Когда я доставляю - я *доставляю*, приём.<end>
+
+=>a317_original
+I don't think you understand. It's a functional submarine. It's damaged and cannot be used to its full capacity, but it has an auto-pilot I may be able to activate, over.<end>
+
+=>a317
+Не думаю, что вы поняли. Это действующая подводная лодка. Она повреждена и её нельзя использовать на полную мощность, но у неё есть автопилот, который я могу активировать, приём.<end>
+
+=>a318_original
+I don't think you understand. It's a functional submarine. It's damaged and cannot be used to its full capacity, but I've found a way to activate its auto-pilot. I've located this Abyssal Station Zero in the southeastern bay, and that's where I'll be diving, over.<end>
+
+=>a318
+Не думаю, что вы поняли. Это действующая подводная лодка. Она повреждена и её нельзя использовать на полную мощность, но я знаю как активировать автопилот. Я обнаружил$(#/а) глубоководную станцию Зеро в юго-восточной бухте, и там я произведу погружение, приём.<end>
+
+=>a319_original
+Mind answering a couple of questions not related to my current mission?<end>
+
+=>a319
+Не возражаете ответить на пару вопросов, не связанных с моей текущей миссией?<end>
+
+=>q320_original
+You mean, over navcom? We better discuss these things in person, $(context.npc_xpbl_oldfield_playerName).<end>
+
+=>q320
+Вы имеете в виду, по навкому? Нам лучше обсудить это лично, $(context.npc_xpbl_oldfield_playerName).<end>
+
+=>q321_original
+See me when you return to the camp and I'll be happy to answer any questions you may have. Over.<end>
+
+=>q321
+Увидимся после вашего возвращения в лагерь, я буду рад ответить на любые ваши вопросы. Приём.<end>
+
+=>a322_original
+Where are you right now, professor, at the Keep or in your tent? Over.<end>
+
+=>a322
+Где вы сейчас находитесь, профессор, в хранилище или в своей палатке? Приём.<end>
+
+=>q323_original
+I'm in my tent, over.<end>
+
+=>q323
+Я в своей палатке, приём.<end>
+
+=>q324_original
+I'm in the Arch Island Keep, over.<end>
+
+=>q324
+Я в хранилище острова Арч-Айленд, приём.<end>
+
+=>a325_original
+::Channel 5 (Doctor Savage)::<end>
+
+=>a325
+::Канал 5 (Доктор Дикий)::<end>
+
+=>q326_original
+<end>
+
+=>q326
+<end>
+
+=>q327_original
+::You hear a sigh.:: Just talk to me. Out.<end>
+
+=>q327
+::Вы слышите вздох.:: Просто поговори со мной. Отбой.<end>
+
+=>q328_original
+Mmm? Savage speaking.<end>
+
+=>q328
+М-м-м? Дикий на связи.<end>
+
+=>q329_original
+<end>
+
+=>q329
+<end>
+
+=>a330_original
+Doc, the muties want some of our medicine in exchange for letting me search for the microchip implant. I have a list of the medication they need, over.<end>
+
+=>a330
+Док, мутанты хотят получить часть наших медикаментов в обмен на разрешение мне поискать микрочип-имплантат. У меня здесь список того, что им нужно, приём.<end>
+
+=>q331_original
+<end>
+
+=>q331
+<end>
+
+=>q332_original
+::He sighs.::<end>
+
+=>q332
+::Он вздыхает.::<end>
+
+=>q333_original
+::He answers with a delay.::
+
+Does Chief know about this?<end>
+
+=>q333
+::Призадумавшись, он спрашивает.::
+
+Шеф знает об этом?<end>
+
+=>a334_original
+::[Persuade]:: No. But you tell him that unless I appease these muties somehow their island's going to turn into a war zone and he's never going to get that implant.<end>
+
+=>a334
+::[Убеждение]:: Нет. Но вы можете сказать ему, что если я не успокою этих мутантов, их остров превратится в зону военных действий, и он никогда не получит этот имплантат.<end>
+
+=>q335_original
+::He sighs.:: <end>
+
+=>q335
+::Он вздыхает.::<end>
+
+=>q336_original
+I see your point...<end>
+
+=>q336
+Понимаю, куда вы клоните...<end>
+
+=>q337_original
+::Silence.::<end>
+
+=>q337
+::Молчит.::<end>
+
+=>q338_original
+::He sighs.:: Alright, alright. Read me the list.<end>
+
+=>q338
+::Он вздыхает.:: Хорошо, хорошо. Зачитайте мне список.<end>
+
+=>a339_original
+They need... ::Read the list.::<end>
+
+=>a339
+Им необходимо... ::Зачитать список.::<end>
+
+=>q340_original
+::You wait for Doc's response after reading him the list.::<end>
+
+=>q340
+::Вы ждёте ответа Дока после оглашения списка.::<end>
+
+=>q341_original
+That's quite a list.<end>
+
+=>q341
+Это довольно внушительный список.<end>
+
+=>a342_original
+Yes. I'm short on time, you know.<end>
+
+=>a342
+Да. И у меня мало времени, знаете ли.<end>
+
+=>q343_original
+You do realize that is going out of our *actual* supplies? Not Union Resources or... I don't know what you have here in South Underrail. This will affect us. More for them means less for us.<end>
+
+=>q343
+Вы понимаете, что на это пойдут *наши* текущие запасы? Не ресурсы Союза или... не знаю, что у вас тут, в Южной Подземке. Это скажется на нас. Больше им, значит меньше нам.<end>
+
+=>q344_original
+<end>
+
+=>q344
+<end>
+
+=>a345_original
+There's no other option.<end>
+
+=>a345
+Другого выхода нет.<end>
+
+=>q346_original
+Hm. 
+
+I can't give them everything they need. That's... just ludicrous. I'll check my inventory and see what I can do.<end>
+
+=>q346
+Хм. Я не могу предоставить им всё необходимое. Это... просто смешно. Я проведу инвентаризацию и посмотрю, что можно сделать.<end>
+
+=>a347_original
+Thanks. Can someone bring it over?<end>
+
+=>a347
+Спасибо. Может кто-нибудь доставить их сюда?<end>
+
+=>q348_original
+Yes. I'll send someone over. ::He sighs.:: Savage out.<end>
+
+=>q348
+Да. Я пришлю кого-нибудь. ::Он вздыхает.:: Конец связи.<end>
+
+=>a349_original
+::Wait for the supplies to arrive.::<end>
+
+=>a349
+::Ждать доставки припасов.::<end>
+
+=>a350_original
+::Wait for the supplies to arrive.::<end>
+
+=>a350
+::Ждать доставки припасов.::<end>
+
+=>a351_original
+Well, when you put it that way...<end>
+
+=>a351
+Ну, если так ставить вопрос, то конечно...<end>
+
+=>q352_original
+So?<end>
+
+=>q352
+И?<end>
+
+=>a353_original
+Forget about it. I'll figure something out.<end>
+
+=>a353
+Забудьте об этом. Я что-нибудь придумаю.<end>
+
+=>q354_original
+Is that everything?<end>
+
+=>q354
+Это всё?<end>
+
+=>a355_original
+Come on, Doc, can't we spare at least something?<end>
+
+=>a355
+Ну же, док, мы можем хоть что-то сделать?<end>
+
+=>q356_original
+Damn it...<end>
+
+=>q356
+Чёрт побери...<end>
+
+=>q357_original
+No, no. Sorry, $(context.player.Name), but I can't help you. I can't afford to be wasting resources. And Chief Briggs... 
+
+Just forget about it, okay?<end>
+
+=>q357
+Нет, нет. Извините, $(context.player.Name), но я не могу вам помочь. Я не могу позволить себе разбазаривать ресурсы. И Шеф Бриггс...
+
+Просто забудьте об этом, ладно?<end>
+
+=>a358_original
+Doc...<end>
+
+=>a358
+Док...<end>
+
+=>q359_original
+Stop.<end>
+
+=>q359
+Хватит.<end>
+
+=>q360_original
+Now, was there anything else you needed or...?<end>
+
+=>q360
+А теперь, есть ещё что-нибудь, что вам нужно или?..<end>
+
+=>a361_original
+Well, damn.<end>
+
+=>a361
+Чёрт возьми.<end>
+
+=>a362_original
+Yes. He told me to contact you.<end>
+
+=>a362
+Да. Он сказал мне связаться с вами.<end>
+
+=>a363_original
+Doc, we need to send some of our medical supplies to the muties, over.<end>
+
+=>a363
+Док, нам нужно отправить часть нашего медицинского обеспечения мутантам, приём.<end>
+
+=>q364_original
+Why? We already have the implant.<end>
+
+=>q364
+Зачем? У нас уже есть имплантат.<end>
+
+=>a365_original
+I promised them.<end>
+
+=>a365
+Я им обещал$(#/а).<end>
+
+=>q366_original
+I can't help you. We have the implant already and can't afford to be wasting resources.<end>
+
+=>q366
+Я не могу вам помочь. У нас уже есть имплантат, и мы не можем себе позволить разбазаривание ресурсов.<end>
+
+=>a367_original
+They need it, Doc.<end>
+
+=>a367
+Им это нужно, Док.<end>
+
+=>a368_original
+Stop asking questions and work with me here.<end>
+
+=>a368
+Перестаньте задавать вопросы и посодействуйте мне в этом.<end>
+
+=>a369_original
+About those supplies for the muties...<end>
+
+=>a369
+Насчёт припасов для мутантов...<end>
+
+=>q370_original
+::He sighs.:: We already have the implant. Why are we talking about this?<end>
+
+=>q370
+::Он вздыхает.:: У нас уже есть имплантат. Почему мы говорим об этом?<end>
+
+=>a371_original
+Doc, could you possibly implant a microchip into my hand, over?<end>
+
+=>a371
+Док, вы могли бы имплантировать микрочип в мою руку, приём?<end>
+
+=>q372_original
+Are you... out of your mind? You want to put... Wait, what implant? NFT's?<end>
+
+=>q372
+Вы что... из ума выжили? Вы хотите поместить... Постойте, какой имплантат? ТНГ?<end>
+
+=>a373_original
+::[Intelligence]:: Yes. I can't get past a bioscanning chamber at the military base to the north, and it has to be because I'm using the arm, yet without the arm I can't get authorized. So maybe if I implant the chip in my own hand I'll be able to pass the scan. Over.<end>
+
+=>a373
+::[Интеллект]:: Да. Я не могу пройти через камеру биосканирования военной базы на севере, видимо, потому, что использую эту руку, но без самой руки я не смогу получить допуск. Так что, возможно, если я имплантирую чип себе, то смогу пройти сканирование. Приём.<end>
+
+=>q374_original
+Uh... I'm not following you at all, but I still can't do that. <end>
+
+=>q374
+Эм... Я совершенно не понимаю, о чём вы, но я всё равно не могу этого сделать.<end>
+
+=>q375_original
+I don't have the proper tools, and not to mention all the other risks I see with a procedure like that in these conditions.<end>
+
+=>q375
+У меня нет соответствующих инструментов, не говоря уже обо всех других рисках, связанных с подобной процедурой в данных условиях.<end>
+
+=>q376_original
+But if you still find a way to do it... ::He sighs.:: I got an extraction tool I use for... Oh, what do you even care.
+
+If you get yourself an implant, I can get it out. Over.<end>
+
+=>q376
+Но если вы всё же найдёте способ сделать это... ::Он вздыхает.:: У меня есть инструмент извлечения, который я использую для... а, да какая вам разница.
+
+Если вы вживите себе имплантат, я смогу его извлечь. Приём.<end>
+
+=>a377_original
+Yes. I can't get past a bioscanning chamber at the military base to the north. Maybe if I put that thing in my hand I'll be able to. Over.<end>
+
+=>a377
+Да. Я не могу пройти через камеру биосканирования военной базы на севере. Возможно, если я вживлю эту штуковину в свою руку, то смогу это сделать. Приём.<end>
+
+=>q378_original
+Sorry, $(context.player.Name), but I can't do that. <end>
+
+=>q378
+Извините, $(context.player.Name), но я не могу этого сделать.<end>
+
+=>q379_original
+::He sighs.:: What?<end>
+
+=>q379
+::Он вздыхает.:: Что?<end>
+
+=>a380_original
+::[Intelligence]:: I can't get past a bioscanning chamber at the military base to the north, and it has to be because I'm using the arm, yet without the arm I can't get authorized. So maybe if I implant the chip in my own hand I'll be able to pass the scan. Over.<end>
+
+=>a380
+::[Интеллект]:: Я не могу пройти через камеру биосканирования военной базы на севере, видимо, потому, что использую эту руку, но без самой руки я не смогу получить допуск. Так что, возможно, если я имплантирую чип себе, то смогу пройти сканирование. Приём.<end>
+
+=>a381_original
+I can't get past a bioscanning chamber at the military base to the north. Maybe if I put that thing in my hand I'll be able to, over.<end>
+
+=>a381
+Я не могу пройти через камеру биосканирования военной базы на севере. Возможно, если я вживлю эту штуковину в свою руку, то смогу это сделать, приём.<end>
+
+=>a382_original
+Heya, Doc. How's the addiction?<end>
+
+=>a382
+Привет, Док. Как дела с зависимостью?<end>
+
+=>a383_original
+::Channel 6 (Recovery Team Alfa)::<end>
+
+=>a383
+::Канал 6 (Поисковая Команда Альфа)::<end>
+
+=>q384_original
+This is RTA leader speaking, over.<end>
+
+=>q384
+Говорит лидер ПКА, приём.<end>
+
+=>q385_original
+<end>
+
+=>q385
+<end>
+
+=>a386_original
+Remember me?<end>
+
+=>a386
+Помнишь меня?<end>
+
+=>q387_original
+It's you, isn't it? 
+
+We're gonna get you, treacherous bastard.<end>
+
+=>q387
+Это ты, не так ли?
+
+Мы доберёмся до тебя, коварн$(#ый/ая) $(#ублюдок/дрянь). <end>
+
+=>a388_original
+Report. Over.<end>
+
+=>a388
+Доложить обстановку. Приём.<end>
+
+=>q389_original
+<end>
+
+=>q389
+<end>
+
+=>q390_original
+<end>
+
+=>q390
+<end>
+
+=>q391_original
+<end>
+
+=>q391
+<end>
+
+=>q392_original
+We're holding position, over. ::You hear gunfire in the background.:: Eat this! ::Gunfire continues.::<end>
+
+=>q392
+Мы удерживаем позицию, приём. ::Вы слышите стрельбу на фоне.:: Попробуй это! ::Стрельба продолжается.::<end>
+
+=>q393_original
+We're... we're low on men... ::You hear gunfire in the background.:: There are so many... ::Gunfire continues.::<end>
+
+=>q393
+Мы... у нас мало людей... ::Вы слышите выстрелы на фоне.:: Их слишком много... ::Стрельба продолжается.::<end>
+
+=>q394_original
+We're in the camp. Over.<end>
+
+=>q394
+Мы в лагере. Приём.<end>
+
+=>q395_original
+<end>
+
+=>q395
+<end>
+
+=>q396_original
+We've been ambushed by a giant hermit crab. Neutralized it before it could get close. This one was hiding in an NFT crate. Be on the lookout. <end>
+
+=>q396
+Нам устроил засаду гигантский краб-отшельник. Обезвредили его прежде, чем он успел приблизиться. Он прятался в ящике ТНГ. Будьте начеку.<end>
+
+=>q397_original
+
+Resuming mission, over.<end>
+
+=>q397
+Возвращаемся к миссии, приём.<end>
+
+=>q398_original
+We recently engaged giant insects capable of long-ranged attacks. They live in three to four meters tall hives and are highly defensive. We're trying to avoid these hives as much as possible but there is simply too many of them. <end>
+
+=>q398
+Недавно мы столкнулись с гигантскими насекомыми, способными совершать дальние атаки. Они живут в ульях высотой от трёх до четырёх метров и хорошо защищаются. Мы стараемся избегать этих ульев, насколько это возможно, но их просто слишком много.<end>
+
+=>q399_original
+We engaged a group of natives. Neutralized one, the rest retreated. No casualties on our sides. <end>
+
+=>q399
+Мы вступили в бой с группой туземцев. Обезвредили одного, остальные отступили. С нашей стороны потерь нет.<end>
+
+=>q400_original
+Nothing t--
+
+::You hear loud screeching followed by silence.::<end>
+
+=>q400
+Ничего...
+
+::Вы слышите громкий визг, за которым следует тишина.::<end>
+
+=>q401_original
+Everything's okay. Your voice disturbed some bats. We have nothing new to report. <end>
+
+=>q401
+Всё в порядке. Ваш голос потревожил несколько летучих мышей. У нас пока ничего нового.<end>
+
+=>q402_original
+Nothing new to report. <end>
+
+=>q402
+Докладывать нечего.<end>
+
+=>q403_original
+We're on the move. Over.<end>
+
+=>q403
+Мы выдвигаемся. Приём.<end>
+
+=>a404_original
+::Channel 7 (Camp security)::<end>
+
+=>a404
+::Канал 7 (Охрана лагеря)::<end>
+
+=>q405_original
+Wilson here, over.<end>
+
+=>q405
+Уилсон слушает, приём.<end>
+
+=>q406_original
+<end>
+
+=>q406
+<end>
+
+=>a407_original
+What's your status? Over.<end>
+
+=>a407
+Что у вас? Приём.<end>
+
+=>q408_original
+No hostiles in sight. Ready to move out, over.<end>
+
+=>q408
+Ни одного противника в поле зрения. Готовы выдвигаться, приём.<end>
+
+=>q409_original
+<end>
+
+=>q409
+<end>
+
+=>q410_original
+::He answers after a pause.:: It's just me here. Everything's calm. Over.<end>
+
+=>q410
+::Он отвечает после паузы:: Здесь только я. Всё спокойно. Приём.<end>
+
+=>q411_original
+Our defenses are spread real thin. I don't know if we can take another attack.
+
+Over.<end>
+
+=>q411
+Наша оборона слишком растянута. Я не знаю, сможем ли мы выдержать ещё одну атаку.
+
+Приём.<end>
+
+=>q412_original
+We're starting to feel the casualties, but so far so good. Everything is in order otherwise, and no hostiles in sight. Over.<end>
+
+=>q412
+Мы начинаем ощущать потери, но пока всё хорошо. В остальном всё в порядке, и врагов не видно. Приём.<end>
+
+=>q413_original
+<end>
+
+=>q413
+<end>
+
+=>q414_original
+Everything is in order. No hostiles in sight, over.<end>
+
+=>q414
+Всё в полном порядке. Никаких врагов в пределах видимости, приём.<end>
+
+=>q415_original
+Business as usual. No hostile activities, over.<end>
+
+=>q415
+Всё как обычно. Никакой вражеской активности, приём.<end>
+
+=>a416_original
+::Channel 8 (Jet ski patrols)::<end>
+
+=>a416
+::Канал 8 (Водный патруль)::<end>
+
+=>q417_original
+<end>
+
+=>q417
+<end>
+
+=>q418_original
+Sierra-Five speaking. Over.<end>
+
+=>q418
+Говорит Сьерра-пять. Приём.<end>
+
+=>q419_original
+<end>
+
+=>q419
+<end>
+
+=>a420_original
+Report. Over.<end>
+
+=>a420
+Доложить обстановку. Приём.<end>
+
+=>q421_original
+<end>
+
+=>q421
+<end>
+
+=>q422_original
+We're... trying to pick off as many as we can... ::You hear gunfire and water splashing in the background.:: <end>
+
+=>q422
+Мы... будем отбиваться столько, сколько сможем... ::Вы слышите выстрелы и всплески воды на фоне.::<end>
+
+=>q423_original
+<end>
+
+=>q423
+<end>
+
+=>q424_original
+Perimeter is secured. We're staying on patrol until the last ship leaves the island, over.<end>
+
+=>q424
+Периметр защищён. Мы будем патрулировать до тех пор, пока последний корабль не покинет остров, приём.<end>
+
+=>q425_original
+<end>
+
+=>q425
+<end>
+
+=>q426_original
+Several patrols have reported spotting something large passing underneath them, serpentine in shape and over fifteen or even twenty meters long. Outside of that the descriptions wildly differ.
+
+I hope it's just fatigue, but be ready for anything. Over.<end>
+
+=>q426
+Несколько патрулей сообщили, что заметили нечто большое, проплывающее под ними, змеевидной формы и длиной более пятнадцати или даже двадцати метров. Помимо этого описания сильно разнятся.
+
+Я надеюсь, что это просто усталость, но будьте готовы ко всему. Приём.<end>
+
+=>q427_original
+The waters are calm at the moment. <end>
+
+=>q427
+На данный момент воды спокойны.<end>
+
+=>q428_original
+Resuming patrol, over.<end>
+
+=>q428
+Возобновляем патрулирование, приём<end>
+
+=>q429_original
+The insects northeast have become more aggressive, engaging passing patrols from greater distance. 
+
+There are no friendly casualties, over.<end>
+
+=>q429
+Насекомые на северо-востоке стали агрессивнее, атакуя проходящие патрули с большего расстояния.
+
+Дружественных потерь нет, приём<end>
+
+=>q430_original
+Recently encountered green serpents. Scared them off. Nothing else to report. Over.<end>
+
+=>q430
+Недавно столкнулись с зелёными змеями. Отпугнули их. Больше нечего сообщить. Приём.<end>
+
+=>q431_original
+A previously unreported kind of serpent attacked Sierra-Seven. He's okay. The snake has retreated after being wounded. It's blue in color, larger than the other types and capable of spitting caustic projectiles at great distances. Highly dangerous. Be on the lookout. Over.<end>
+
+=>q431
+Змея ранее неизвестного вида напала на Сьерра-семь. Он в порядке. Змея отступила после ранения. Она синего цвета, крупнее других видов и способна плеваться едкими снарядами на большие расстояния. Очень опасная. Будьте начеку. Приём.<end>
+
+=>q432_original
+All is clear at the moment. <end>
+
+=>q432
+На данный момент всё чисто.<end>
+
+=>q433_original
+This is Jenkins, over.<end>
+
+=>q433
+Это Дженкинс, приём.<end>
+
+=>a434_original
+::Back::<end>
+
+=>a434
+::Назад::<end>
+
+=>q435_original
+::You look at the navcom.::<end>
+
+=>q435
+::Вы смотрите на навком.::<end>
+
+=>a436_original
+::Manually select a frequency.::<end>
+
+=>a436
+::Выбрать частоту вручную.::<end>
+
+=>q437_original
+::Select frequency::<end>
+
+=>q437
+::Выбор частоты::<end>
+
+=>q438_original
+<end>
+
+=>q438
+<end>
+
+=>a439_original
+::27.894 MHz::<end>
+
+=>a439
+::27.894 МГц::<end>
+
+=>q440_original
+::You dial in the frequency.::<end>
+
+=>q440
+::Вы набираете частоту.::<end>
+
+=>q441_original
+<end>
+
+=>q441
+<end>
+
+=>a442_original
+Anybody there? Over.<end>
+
+=>a442
+Кто-нибудь есть? Приём.<end>
+
+=>q443_original
+Hey dere. <end>
+
+=>q443
+Эй там.<end>
+
+=>q444_original
+Who gave ye dis frequency?<end>
+
+=>q444
+Кто те дал эту частоту?<end>
+
+=>a445_original
+No one, I found it on my own.<end>
+
+=>a445
+Никто, я наш$(#ёл/ла) её самостоятельно.<end>
+
+=>q446_original
+Well, git off. 'S fer important business 'n' d' Cap'n said dere can't be anyone on d' frequency but me 'n'... mates. So don' be a dumbat 'n' get off, c'mon.<end>
+
+=>q446
+Что ж, проваливай. Она для важных дел, и кэп сказал, что на частоте не должно быть никого, кроме меня и... приятелей. Так что не будь тупицей и свали, живо.<end>
+
+=>a447_original
+Who else?<end>
+
+=>a447
+Кого-кого ещё?<end>
+
+=>q448_original
+*Mates*. Now git off.<end>
+
+=>q448
+*Приятели*. А теперь свали.<end>
+
+=>a449_original
+Who is this anyway?<end>
+
+=>a449
+А вообще, это кто?<end>
+
+=>q450_original
+Dis is Lord Git off D' Damned Frequency!<end>
+
+=>q450
+Это Лорд - свали - нахрен - с чёртовой - частоты!<end>
+
+=>a451_original
+Fine, man, fine. I'm gone.<end>
+
+=>a451
+Ладно, чувак, ладно. Я свалю.<end>
+
+=>q452_original
+Dumbat... <end>
+
+=>q452
+Тупица...<end>
+
+=>q453_original
+<end>
+
+=>q453
+<end>
+
+=>q454_original
+::You hear nothing but static.::<end>
+
+=>q454
+::Вы не слышите ничего, кроме помех.::<end>
+
+=>a455_original
+Sorry to have bothered you, mate. Out.<end>
+
+=>a455
+Извини, что побеспокоил$(#/а) тебя, приятель. Отбой.<end>
+
+=>a456_original
+Who is this anyway? Over.<end>
+
+=>a456
+А вообще, это кто? Приём.<end>
+
+=>a457_original
+Who else? Over.<end>
+
+=>a457
+Кого-кого ещё? Приём.<end>
+
+=>a458_original
+No one, I found it on my own, over.<end>
+
+=>a458
+Никто, я наш$(#ёл/ла) её самостоятельно, приём.<end>
+
+=>a459_original
+$(context.player.Name) callin'.<end>
+
+=>a459
+Вызывает $(context.player.Name).<end>
+
+=>a460_original
+This is the one and only - Invictus.<end>
+
+=>a460
+Единственн$(#ый/ая) и неповторим$(#ый/ая) - Инвиктус.<end>
+
+=>q461_original
+Dat ye $(context.player.Name)? <end>
+
+=>q461
+Это ты, $(context.player.Name)?<end>
+
+=>a462_original
+This is, um, $(#Jimmy/Jenny).<end>
+
+=>a462
+Это, э-э, $(#Джимми/Дженни).<end>
+
+=>q463_original
+$(#Jimmy D' Barrel/Jenny, darlin')?<end>
+
+=>q463
+$(#Джимми Бочонок/Дженни, дорогуша)?<end>
+
+=>a464_original
+Yes.<end>
+
+=>a464
+Да.<end>
+
+=>q465_original
+So, how ye likin' me girl, eh, ye back-bladin' rat? Huh? HUH? Oh, I found out, I sure did. Now lemme tell ye a lid'l secret: By tomorrow ye'll be fish chomp. 
+
+Yer fish chomp, banga...<end>
+
+=>q465
+Так, как те понравилась моя девка, а, ты, крыса заднепроходная? А? А? О, я узнал, конечно, узнал. А теперь позволь открою тебе маленький секрет: к завтрашнему дню ты будешь кормить рыб.
+
+Ты - рыбий корм, банга...<end>
+
+=>q466_original
+Jenny... I heard sumthin', Jenny. I heard ye had sum dam' bangin' time wit' dat Jimmy D' Barrel. I was a clod fer trustin' a floozy who gave it to a fat, stinkin' deucer d' momen' I turned 'round.
+
+Yer fish chomp. Yer both fish chomp, ye fisheyed serpent!<end>
+
+=>q466
+Дженни... Я тут кое-чё слышал, Дженни. Я слышал, что ты чертовски хорошо провела время с тем Джимми Бочонком. Я был болваном, что доверился шлюхе, которая отдалаcь жирному вонючему обосрышу в тот же миг, как я отвернулся.
+
+Ты будешь рыб кормить. Вы оба будетете, ты, змея рыбоглазая!<end>
+
+=>a467_original
+No, it's me, $(context.player.Name), the new $(#guy/girl).<end>
+
+=>a467
+Нет, это я, $(context.player.Name), новеньк$(#ий/ая).<end>
+
+=>q468_original
+Oh, hey. <end>
+
+=>q468
+О, здоров.<end>
+
+=>a469_original
+Yelloooooooooooooo...<end>
+
+=>a469
+Аллооооооо...<end>
+
+=>q470_original
+Take it easy, banga, take it easy! Yer splittin' me ears. <end>
+
+=>q470
+Полегче, банга, полегче! Ты разрываешь мне уши.<end>
+
+=>a471_original
+Can anyone hear me?<end>
+
+=>a471
+Кто-нибудь меня слышит?<end>
+
+=>q472_original
+Yea, yea, I can hear ye. <end>
+
+=>q472
+Да-да, я тя слышу.<end>
+
+=>a473_original
+I've got a gift for you...<end>
+
+=>a473
+У меня для тебя подарок...<end>
+
+=>q474_original
+A gift? What kinda gift? Wait, who's dis? <end>
+
+=>q474
+Подарок? Чё за подарок? Погоди-ка, это кто?<end>
+
+=>a475_original
+AAAAAAAAAAAAAAAAAAAAAaaaaaAAAAAAAAaaaAAAAAAAAAAAAAAA!<end>
+
+=>a475
+AAAAAAAAAAAAAAAAAAAAAaaaaaAAAAAAAAaaaAAAAAAAAAAAAAAA!<end>
+
+=>a476_original
+::Change frequency.::<end>
+
+=>a476
+::Изменить частоту.::<end>
+
+=>a477_original
+::22.787 MHz (Ferryman)::<end>
+
+=>a477
+::22.787 МГц (Паромщик)::<end>
+
+=>q478_original
+::Static.::<end>
+
+=>q478
+::Помехи.::<end>
+
+=>q479_original
+::After a short delay and some jarring static.::
+
+<end>
+
+=>q479
+::После небольшой задержки и резких помех.::
+<end>
+
+=>q480_original
+<end>
+
+=>q480
+<end>
+
+=>q481_original
+I ::static:: --n hear your jet. <end>
+
+=>q481
+Я ::помехи:: ...лышу твой гидроцикл.<end>
+
+=>q482_original
+Come to the fe-- ::static::.<end>
+
+=>q482
+Направляйся к... ::помехи::<end>
+
+=>a483_original
+Got it. Out.<end>
+
+=>a483
+Понял$(#/а). Отбой.<end>
+
+=>q484_original
+Yea... ::static:: --eah.<end>
+
+=>q484
+Ага... ::помехи:: ...да.<end>
+
+=>q485_original
+Hey, kid. ::static::<end>
+
+=>q485
+Привет, малыш$(#/ка). ::помехи::<end>
+
+=>q486_original
+<end>
+
+=>q486
+<end>
+
+=>a487_original
+I'm in position to load those naval mines, over.<end>
+
+=>a487
+Я на месте, и готов$(#/а) к погрузке этих морских мин, приём.<end>
+
+=>q488_original
+Is th-- ::static:: area clear?<end>
+
+=>q488
+Район... ::помехи:: чист?<end>
+
+=>a489_original
+Yes, both the warehouse and the dock outside, over.<end>
+
+=>a489
+Да, и склад, и причал снаружи, приём.<end>
+
+=>q490_original
+Got-- ::static.:: the coins?<end>
+
+=>q490
+Есть... ::помехи:: монеты?<end>
+
+=>a491_original
+Yes. Six hundred, as was the deal. Over.<end>
+
+=>a491
+Да. Шестьсот, как и договаривались. Приём.<end>
+
+=>q492_original
+Good-- ::static:: do I get there?<end>
+
+=>q492
+Хорошо... ::помехи:: мне туда добраться?<end>
+
+=>a493_original
+It's right past the Pirate Bay, then you go... ::Explain to him how to reach you and help him load the naval mines.::<end>
+
+=>a493
+Это прямо за Пиратской бухтой, затем надо... ::Объяснить ему, как добраться до вас и помочь погрузить морские мины.::<end>
+
+=>a494_original
+Yes. Seven hundred, as was the deal. Over.<end>
+
+=>a494
+Да. Семьсот, как и договаривались. Приём.<end>
+
+=>a495_original
+Yes. Eight hundred, as was the deal. Over.<end>
+
+=>a495
+Да. Восемьсот, как и договаривались. Приём.<end>
+
+=>a496_original
+Yes. One thousand, as was the deal. Over.<end>
+
+=>a496
+Да. Тысяча, как и договаривались. Приём.<end>
+
+=>a497_original
+I don't have it. Over.<end>
+
+=>a497
+У меня их нет. Приём.<end>
+
+=>q498_original
+Then-- ::static:: --no. We had a deal.<end>
+
+=>q498
+Тогда... ::помехи:: нет. Мы же договорились.<end>
+
+=>q499_original
+Get the-- ::static:: --then speak to me.<end>
+
+=>q499
+Достань... ::помехи:: тогда и поговорим.<end>
+
+=>a500_original
+The warehouse is clear, but there are still creatures at the dock outside, just east, over.<end>
+
+=>a500
+На складе всё чисто, но на причале снаружи, чуть восточнее, ещё остались твари, приём.<end>
+
+=>q501_original
+We had-- ::static:: --no-- ::static:: --until it's clear.<end>
+
+=>q501
+У нас был... ::помехи:: ...нет... ::помехи:: ...пока не будет чисто.<end>
+
+=>a502_original
+The dock outside is clear, but there are still creatures in the warehouse, over.<end>
+
+=>a502
+Причал снаружи чист, но на складе всё ещё есть твари, приём.<end>
+
+=>a503_original
+No. There are still creatures both inside the warehouse and at the dock outside, just east.<end>
+
+=>a503
+Нет. Ещё остались твари как внутри склада, так и на причале снаружи, чуть восточнее.<end>
+
+=>a504_original
+The submarine is ready to be towed to the south-eastern part of the Black Sea. There's supposed to be an elevator there leading to a deep sea mining station. Over.<end>
+
+=>a504
+Подводная лодка готова к буксировке в юго-восточную часть Чёрного моря. Там должен быть лифт, ведущий на глубоководную добывающую станцию. Приём.<end>
+
+=>q505_original
+Mhm. I know whe-- ::static.:: --soon-- ::static.:: --aiting for you there.<end>
+
+=>q505
+Угу. Я знаю, где... ::помехи:: ...скоро... ::помехи:: ...ждать тебя там.<end>
+
+=>a506_original
+Thanks, over.<end>
+
+=>a506
+Спасибо, приём.<end>
+
+=>q507_original
+::His response is unintelligible.::<end>
+
+=>q507
+::Его ответ неразборчив.::<end>
+
+=>a508_original
+Where are you now? Over.<end>
+
+=>a508
+Где вы сейчас? Приём.<end>
+
+=>q509_original
+I'm at $(context.npc_xpbl_ferryman_currentLocation). ::You hear him puffing smoke directly into the microphone.::<end>
+
+=>q509
+Сейчас в локации $(context.npc_xpbl_ferryman_currentLocation). ::Вы слышите, как он выпускает дым прямо в микрофон.::<end>
+
+=>a510_original
+And after that? Over.<end>
+
+=>a510
+А потом? Приём.<end>
+
+=>q511_original
+First $(context.npc_xpbl_ferryman_firstNextLocation), the-- ::static:: $(context.npc_xpbl_ferryman_secondNextLocation). That-- ::static:: plan.<end>
+
+=>q511
+Сперва - $(context.npc_xpbl_ferryman_firstNextLocation)... ::помехи:: $(context.npc_xpbl_ferryman_secondNextLocation). Вот... ::помехи:: весь план.<end>
+
+=>a512_original
+Thanks, over.<end>
+
+=>a512
+Спасибо, приём.<end>
+
+=>q513_original
+::You hear nothing. Even though you can't see him, you get the feeling that he just nodded.::<end>
+
+=>q513
+::Вы ничего не слышите. Хоть вы и не можете его видеть, у вас возникает ощущение, что он просто кивнул.::<end>
+
+=>q514_original
+::You hear nothing but static::<end>
+
+=>q514
+::Вы не слышите ничего, кроме помех.::<end>
+
+=>a515_original
+I need something moved to another location.<end>
+
+=>a515
+Мне нужно кое-что перевезти в другое место.<end>
+
+=>q516_original
+Find m-- ::static:: ...I'm at $(context.npc_xpbl_ferryman_currentLocation).<end>
+
+=>q516
+Найди ме... ::помехи:: ...$(context.npc_xpbl_ferryman_currentLocation).<end>
+
+=>q517_original
+::The rest is unintelligible.::<end>
+
+=>q517
+::Остальное неразборчиво.::<end>
+
+=>a518_original
+That's all. Out.<end>
+
+=>a518
+Это всё. Конец связи.<end>
+
+=>q519_original
+Speak.<end>
+
+=>q519
+Говори.<end>
+
+=>a520_original
+::Check stored coordinates.::<end>
+
+=>a520
+::Проверить сохранённые координаты.::<end>
+
+=>q521_original
+::Stored coordinates:
+
+$(context.interfacing_xpbl_navcom_acquiredCoordinates)::<end>
+
+=>q521
+::Сохранённые координаты:
+
+$(context.interfacing_xpbl_navcom_acquiredCoordinates)::<end>
+
+=>a522_original
+::Check Ferryman's frequent locations.::<end>
+
+=>a522
+::Проверить часто посещаемые места Паромщика.::<end>
+
+=>q523_original
+::Mutie Refuge Dock - B6
+Port Ceto Dock - G1
+Northeastern Waters Area - I8
+Sørmirbæren Geyser Village - J11::<end>
+
+=>q523
+::Причал убежища мутантов - B6
+Причал Порт-Чето - G1
+Северо-восточные воды - I8
+Деревня гейзеров Соурмирбэрен - J11::<end>
+
+=>q524_original
+::mut - b6
+ceto - g1
+wat - i8
+bone - j11::<end>
+
+=>q524
+::мут - b6
+чето - g1
+вод - i8
+гейз - j11::<end>
+
+=>a525_original
+::Retype Ferryman's entries into something more readable.::<end>
+
+=>a525
+::Перезаписать заметки Паромщика во что-нибудь более понятное.::<end>
+
+=>a526_original
+::[Debug] Start Events::<end>
+
+=>a526
+::[Отладка] Начало событий::<end>
+
+=>q527_original
+::Devs only. Data miners will be shot.::<end>
+
+=>q527
+::Только для разработчиков. Ковырятели данных будут расстреляны.::<end>
+
+=>a528_original
+::Queue pirate invasion delayed event.::<end>
+
+=>a528
+::Очередь отложенного события: вторжение пиратов.::<end>
+
+=>a529_original
+::Queue professor gives next mission delayed event.::<end>
+
+=>a529
+::Очередь отложенного события: профессор даёт следующую миссию.::<end>
+
+=>a530_original
+::Queue kidnapping of the professor delayed event.::<end>
+
+=>a530
+::Очередь отложенного события: похищение профессора.::<end>
+
+=>a531_original
+::Queue next savage invasion.::<end>
+
+=>a531
+::Очередь следующего вторжения дикарей.::<end>
+
+=>a532_original
+::Start battle 1.::<end>
+
+=>a532
+::Начать сражение 1.::<end>
+
+=>a533_original
+::Start battle 2.::<end>
+
+=>a533
+::Начать сражение 2.::<end>
+
+=>a534_original
+::Start battle 3.::<end>
+
+=>a534
+::Начать сражение 3.::<end>
+
+=>a535_original
+::Start battle 4.::<end>
+
+=>a535
+::Начать сражение 4.::<end>
+
+=>a536_original
+::Start battle 5.::<end>
+
+=>a536
+::Начать сражение 5.::<end>
+
+=>a537_original
+::Start pirate invasion.::<end>
+
+=>a537
+::Начинаем пиратское вторжение.::<end>
+
+=>a538_original
+::Spawn/despawn first pirate mission merchant ship.::<end>
+
+=>a538
+::Начать/прекратить первую миссию пиратов: торговое судно.::<end>
+
+=>a539_original
+::Spawn/despawn second pirate mission Protectorate ship.::<end>
+
+=>a539
+::Начать/прекратить вторую миссию пиратов: корабль Протектората.::<end>
+
+=>a540_original
+::Deploy mines::<end>
+
+=>a540
+::Установить мины::<end>
+
+=>a541_original
+::Undeploy camp.::<end>
+
+=>a541
+::Свернуть лагерь.::<end>
+
+=>a542_original
+::Start mutant goes to Black Sea cutscene.::<end>
+
+=>a542
+::Начать кат-сцену "Мутант идёт к Чёрному морю".::<end>
+
+=>a543_original
+Glad to hear our work's paying off.<end>
+
+=>a543
+Приятно слышать, что наша работа приносит свои плоды.<end>
+
+=>a544_original
+Glad to hear my work's paying off.<end>
+
+=>a544
+Рад$(#/а) слышать, что моя работа окупается.<end>
+
+=>a545_original
+::Say nothing.::<end>
+
+=>a545
+::Промолчать.::<end>
+
+=>q546_original
+Are you... there, $(context.npc_xpbl_oldfield_playerName)? Hello?<end>
+
+=>q546
+Вы... здесь, $(context.npc_xpbl_oldfield_playerName)? Алло?<end>
+
+=>a547_original
+I can hear you, Professor. Over.<end>
+
+=>a547
+Я вас слышу, Профессор. Приём.<end>
+
+=>q548_original
+Oh, good, good. Besides <end>
+
+=>q548
+О, Хорошо, хорошо. Помимо<end>
+
+=>a549_original
+::Put the device back in your pocket.::<end>
+
+=>a549
+::Убрать устройство обратно в карман.::<end>
+
+=>a550_original
+::Put the device back in your pocket.::<end>
+
+=>a550
+::Убрать устройство обратно в карман.::<end>
+
+=>q551_original
+$(context.npc_xpbl_oldfield_playerName), do you read me? This is Oldfield. Over.<end>
+
+=>q551
+$(context.npc_xpbl_oldfield_playerName), вы меня слышите? Это Олдфилд. Приём.<end>
+
+=>a552_original
+I read you, Professor. Go ahead, over.<end>
+
+=>a552
+Я вас слышу, профессор. Продолжайте, приём.<end>
+
+=>q553_original
+I need to speak to you in private. It's important. Please see me in my tent as soon as you're able to. Over.<end>
+
+=>q553
+Мне нужно поговорить с вами наедине. Это очень важно. Пожалуйста, приходите ко мне в палатку, как только сможете. Приём.<end>
+
+=>a554_original
+Roger that, Professor. See you soon. Out.<end>
+
+=>a554
+Понятно, профессор. До скорого. Отбой.<end>
+
+=>q555_original
+Oldfield out.<end>
+
+=>q555
+Конец связи.<end>
+
+=>a556_original
+It'll have to wait, Professor, I'm really busy right now.<end>
+
+=>a556
+Придётся подождать, профессор, я сейчас очень занят$(#/а).<end>
+
+=>q557_original
+The matter is not of *utmost* urgency, but it is important and I'd rather delay it as little as possible. That is all. Oldfield out.<end>
+
+=>q557
+Дело не такое уж *неотложное*, но очень важное, и я бы предпочёл не откладывать его надолго. Вот и всё. Конец связи.<end>
+
+=>q558_original
+<end>
+
+=>q558
+<end>
+
+=>q559_original
+$(context.player.Name), this is Marcus. <end>
+
+=>q559
+$(context.player.Name), это Маркус.<end>
+
+=>q560_original
+<end>
+
+=>q560
+<end>
+
+=>q561_original
+Please respond, over.<end>
+
+=>q561
+Пожалуйста ответь, приём.<end>
+
+=>a562_original
+I'm here, Marcus. What's going on? Over.<end>
+
+=>a562
+Я здесь, Маркус. Что происходит? Приём.<end>
+
+=>q563_original
+An ambush in the Keep. A team of sec-troopers opened the evacuation tunnels and engaged a group of pirates there.<end>
+
+=>q563
+Засада в хранилище. Отряд спец-охранников открыл эвакуационные туннели и вступил там в бой с группой пиратов.<end>
+
+=>q564_original
+They neutralized them all, however; no casualties on our side. Chief Briggs is on the scene right now if you need to speak with him. Everything's under control and you may resume with your missions as instructed. Just wanted to inform you. Over.<end>
+
+=>q564
+Однако, они всех нейтрализовали; с нашей стороны потерь не было. Шеф Бриггс сейчас на месте, если тебе нужно с ним поговорить. Всё под контролем, и ты можешь продолжать выполнять свои миссии, следуя инструкциям. Просто хотел сообщить. Приём.<end>
+
+=>a565_original
+Things could've turned out a lot worse if I hadn't revealed the spy, over.<end>
+
+=>a565
+Всё могло бы быть намного хуже, если бы я не раскрыл$(#/а) шпиона.<end>
+
+=>q566_original
+Probably so, yes. He would've certainly tipped them off that the sec-troopers were coming their way.<end>
+
+=>q566
+Скорее всего, да. Он наверняка предупредил бы их, что к ним приближаются охранники.<end>
+
+=>q567_original
+Speak to the chief. He'll give you all the details. Over.<end>
+
+=>q567
+Поговори с шефом. Он расскажет тебе все подробности. Приём.<end>
+
+=>a568_original
+I'll talk to him once I have get the chance. Thanks for the info. Out.<end>
+
+=>a568
+Я поговорю с ним, как только представится такая возможность. Спасибо за информацию. Отбой.<end>
+
+=>q569_original
+Roger. Out.<end>
+
+=>q569
+Понятно. Отбой.<end>
+
+=>a570_original
+Roger that. I have to go now. Out.<end>
+
+=>a570
+Понятно. Мне пора. Отбой.<end>
+
+=>q571_original
+It's about Professor Oldfield - he has been kidnapped. They stormed through one of the evacuation tunnels and took the professor. Over.<end>
+
+=>q571
+Речь идёт о профессоре Олдфилде - его похитили. Они прорвались через один из эвакуационных туннелей и захватили его. Приём.<end>
+
+=>a572_original
+Weren't there guards down there?<end>
+
+=>a572
+Разве там не было охраны?<end>
+
+=>q573_original
+There were. Listen, <end>
+
+=>q573
+Была. Послушай,<end>
+
+=>q574_original
+Chief Briggs wants you to meet him ASAP in the Keep, right at the entrance to the evacuation tunnels.
+
+Over.<end>
+
+=>q574
+Бриггс хочет, чтобы ты как можно скорее встретил$(#ся/ась) с ним в хранилище, прямо у входа в эвакуационные туннели.
+
+Приём.<end>
+
+=>a575_original
+Got it. I'm headed there straight away. Out.<end>
+
+=>a575
+Понял$(#/а). Отправляюсь туда немедленно. Отбой.<end>
+
+=>a576_original
+I'm kind of tied up in here.<end>
+
+=>a576
+Я вроде как увяз$(#/ла) здесь.<end>
+
+=>q577_original
+ASAP, $(context.player.Name). Over.<end>
+
+=>q577
+Это *срочно*, $(context.player.Name). Приём.<end>
+
+=>a578_original
+Yeah. Out.<end>
+
+=>a578
+Ага. Отбой<end>
+
+=>a579_original
+This keeps getting better and better...<end>
+
+=>a579
+Становится все интереснее и интереснее.<end>
+
+=>a580_original
+Where is he?<end>
+
+=>a580
+Где он?<end>
+
+=>q581_original
+We don't know with certainty. Listen, <end>
+
+=>q581
+Мы не знаем наверняка. Послушай,<end>
+
+=>a582_original
+::Put the device back in your pocket.::<end>
+
+=>a582
+::Убрать устройство обратно в карман.::<end>
+
+=>q583_original
+We have an emergency. <end>
+
+=>q583
+У нас чрезвычайная ситуация.<end>
+
+=>q584_original
+<end>
+
+=>q584
+<end>
+
+=>q585_original
+$(context.player.Name), this is Briggs. What's your status? Over.<end>
+
+=>q585
+$(context.player.Name), это Бриггс. Доложите ситуацию. Приём.<end>
+
+=>a586_original
+I have located something that might contain a functional microchip. Over.<end>
+
+=>a586
+Я обнаружил$(#/а) кое-что, что может содержать действующий микрочип. Приём.<end>
+
+=>q587_original
+Excellent. Bring it over to the camp ASAP. We'll be waiting for you outside of the Keep. Out.<end>
+
+=>q587
+Отлично. СРОЧНО доставьте его в лагерь. Мы будем ждать вас возле хранилища. Отбой.<end>
+
+=>a588_original
+I was thinking of sailing around and testing this thing out first. Over.<end>
+
+=>a588
+Я подумывал$(#/а) о том, чтобы сначала обойти вокруг и проверить эту штуку. Приём.<end>
+
+=>q589_original
+Negative. Return to the camp. This is an order. Out.<end>
+
+=>q589
+Отрицательно. Возвращайтесь в лагерь. Это приказ. Отбой.<end>
+
+=>a590_original
+Understood. Out.<end>
+
+=>a590
+Понял$(#/а). Конец связи.<end>
+
+=>a591_original
+::Say nothing.::<end>
+
+=>a591
+::Промолчать.::<end>
+
+=>a592_original
+I think I got it, Chief.<end>
+
+=>a592
+Кажется, получилось, шеф.<end>
+
+=>a593_original
+I found nothing so far. Over.<end>
+
+=>a593
+Я пока ничего не наш$(#ёл/ла). Приём.<end>
+
+=>q594_original
+We must locate one of these microchips before the natives regroup. You are to continue your search. Out.<end>
+
+=>q594
+Мы должны найти один из этих микрочипов до того, как туземцы перегруппируются. Продолжайте поиски. Отбой.<end>
+
+=>a595_original
+::Put the device back in your pocket.::<end>
+
+=>a595
+::Убрать устройство обратно в карман.::<end>
+
+=>a596_original
+::Put the device back in your pocket.::<end>
+
+=>a596
+::Убрать устройство обратно в карман.::<end>
+
+=>q597_original
+::Chief Briggs growls through the navcom's tiny speaker.::
+
+It was you, wasn't it? You were the mole in our ranks all along, you Southern bastard.<end>
+
+=>q597
+::Голос шефа Бриггса рычит из крошечного динамика навкома.::
+
+Это был$(#/а) ты, не так ли? Ты всегда был$(#/а) кротом в наших рядах, грёбан$(#ый/ая) южан$(#ин/ка).<end>
+
+=>a598_original
+What are you talking about?<end>
+
+=>a598
+О чём вы?<end>
+
+=>q599_original
+We'll find you. ::The conversation ends in static.::<end>
+
+=>q599
+Мы найдём тебя. ::Разговор завершается помехами.::<end>
+
+=>a600_original
+I had nothing to do with it, Chief!<end>
+
+=>a600
+Я не имею к этому никакого отношения, шеф!<end>
+
+=>a601_original
+You know... I'm getting sick and tired of you blaming me for all the crap happening.<end>
+
+=>a601
+Знаете что... мне уже надоело, что вы обвиняете меня во всём происходящем дерьме.<end>
+
+=>a602_original
+Took you a while to figure it out, Briggsy.<end>
+
+=>a602
+Тебе потребовалось немало времени, чтобы понять это, Бриггси.<end>
+
+=>a603_original
+Shove it, you pompous Northern invalid.<end>
+
+=>a603
+Пошёл ты, напыщенный инвалид-северянин.<end>
+
+=>q604_original
+$(context.player.Name), this is Briggs. I want you to come to my tent ASAP. It's important. Over.<end>
+
+=>q604
+$(context.player.Name), это Бриггс. Я хочу, чтобы вы пришли в мою палатку как можно скорее. Это очень важно. Приём.<end>
+
+=>a605_original
+What is this about, sir?<end>
+
+=>a605
+В чём дело, сэр?<end>
+
+=>q606_original
+Come to my tent. Out.<end>
+
+=>q606
+Направляйтесь в мою палатку. Конец связи.<end>
+
+=>a607_original
+::Put the device back in your pocket.::<end>
+
+=>a607
+::Убрать устройство обратно в карман.::<end>
+
+=>q608_original
+Attention all sec-troopers: We did it. The enemy has been defeated. I repeat: The enemy has been defeated. All defending troops should report to the supply tent. Out.<end>
+
+=>q608
+Внимание всем спец-охранникам: мы сделали это. Враг был повержен. Повторяю: враг повержен. Все оборонявшиеся должны явиться в палатку снабжения. Конец связи.<end>
+
+=>q609_original
+Attention all sec-troopers: The camp is under attack. I repeat - we are under attack. <end>
+
+=>q609
+Внимание всем спец-охранникам: лагерь атакован. Повторяю - мы атакованы.<end>
+
+=>q610_original
+It's the pirates this time. <end>
+
+=>q610
+На этот раз это пираты.<end>
+
+=>q611_original
+<end>
+
+=>q611
+<end>
+
+=>q612_original
+All sec-troopers should report back. We need *everyone*!<end>
+
+=>q612
+Все спец-охранники должны доложиться. Нам нужны *все*!<end>
+
+=>q613_original
+<end>
+
+=>q613
+<end>
+
+=>a614_original
+This is $(context.player.Name). I'll be over there as soon as possible. Over.<end>
+
+=>a614
+Это $(context.player.Name). Я прибуду туда как можно скорее. Приём.<end>
+
+=>q615_original
+Roger that, $(context.player.Name).<end>
+
+=>q615
+Принято, $(context.player.Name).<end>
+
+=>a616_original
+I am unable to comply. You're without me this time. Good luck. Over.<end>
+
+=>a616
+Я не смогу. В этот раз вы без меня. Удачи. Приём.<end>
+
+=>q617_original
+Damn it! We don't have enough men to defend the camp. Return as soon as possible or we might not survive this attack. Out.<end>
+
+=>q617
+Чёрт возьми! У нас недостаточно людей, чтобы защитить лагерь. Возвращайтесь как можно скорее, иначе мы сможем пережить эту атаку. Отправляйтесь.<end>
+
+=>q618_original
+All available troops should report to camp defense.<end>
+
+=>q618
+Все свободные отряды должны явиться на защиту лагеря.<end>
+
+=>q619_original
+$(context.player.Name), this is Marcus. Can you hear me, over?<end>
+
+=>q619
+$(context.player.Name), это Маркус. Ты меня слышишь, приём?<end>
+
+=>a620_original
+Loud and clear. Over.<end>
+
+=>a620
+Громко и ясно. Приём.<end>
+
+=>q621_original
+That technician with the waterproof comm - he's a pirate spy. He's been using that comm to leak information to the pirates ever since he arrived here, which happened at the same time as you arrived.<end>
+
+=>q621
+Тот техник с водонепроницаемой рацией - пиратский шпион. Он использовал эту рацию чтобы сливать информацию пиратам с тех самых пор, как прибыл сюда, а это произошло одновременно с твоим прибытием.<end>
+
+=>a622_original
+Did you interrogate him? Over.<end>
+
+=>a622
+Вы его допросили? Приём.<end>
+
+=>q623_original
+Yes. He got really nervous when I called him to my tent and showed him the comm. After that it was just the matter of getting a few sec-troopers and asking the right questions. You have no idea how big this is, $(context.player.Name). Who knows what would've happened if that guy remained undetected. Over.<end>
+
+=>q623
+Да. Он сильно занервничал, когда я позвал его в свою палатку и показал ему рацию. После этого оставалось только собрать несколько охранников и задать правильные вопросы. Ты даже не представляешь, насколько это важно, $(context.player.Name). Кто знает, что случилось бы, если бы этот парень остался незамеченным. Приём.<end>
+
+=>a624_original
+What's going to happen to him?<end>
+
+=>a624
+Что с ним будет дальше?<end>
+
+=>q625_original
+We locked him up for now. We're going to try to get more information out of him.<end>
+
+=>q625
+Мы его пока заперли. Попробуем получить от него побольше информации.<end>
+
+=>q626_original
+Good work, $(context.player.Name). Chief Briggs is pleased as well. You're getting a bonus for this. <end>
+
+=>q626
+Хорошая работа, $(context.player.Name). Шеф Бриггс тоже доволен. Тебе за это полагается премия.<end>
+
+=>q627_original
+And that first paycheck you didn't get originally.<end>
+
+=>q627
+И это первое жалование, что ты не заработал$(#/а) изначально.<end>
+
+=>q628_original
+That's it for now. Take care. Marcus out.<end>
+
+=>q628
+Пока что это всё. Береги себя. Конец связи.<end>
+
+=>a629_original
+Now what?<end>
+
+=>a629
+Что теперь?<end>
+
+=>a630_original
+Are you going to throw him to the serpents?<end>
+
+=>a630
+Собираешься бросить его на съедение змеям?<end>
+
+=>q631_original
+No, what... No. <end>
+
+=>q631
+Нет, что ты... Нет.<end>
+
+=>a632_original
+::Put the device back in your pocket.::<end>
+
+=>a632
+::Убрать устройство обратно в карман.::<end>
+
+=>a633_original
+::Put the device back in your pocket.::<end>
+
+=>a633
+::Убрать устройство обратно в карман.::<end>
+

@@ -1,0 +1,561 @@
+﻿=>q1_original
+So long.<end>
+
+=>q1
+Пока.<end>
+
+=>q2_original
+::Even though you see the reflection of the lively flame in his eyes, liveliness is one attribute which cannot be ascribed to them: They are vacant and pointed at a bottle of cold brew in front of him, untouched; his respirator is still on his face.
+
+There's a small dirty spade leaned against the shack wall.::<end>
+
+=>q2
+::Несмотря на то, что в его глазах вы видите отражение яркого, будто живого пламени, слово, живое им никак не присуще: они пусты и направлены на нетронутую бутылку холодного самогона перед ним; его респиратор всё ещё на его лице.
+
+К стене хижины прислонена маленькая грязная лопата.::<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Do you recognize this? ::Show him the gold ring.::<end>
+
+=>a4
+Вы узнаёте это? ::Показать ему золотое кольцо.::<end>
+
+=>q5_original
+::Its sparkle is mirrored in his eyes.::
+
+That ring... ::He lifts his head, and his whole figure suddenly appears larger.:: Where did you find this?<end>
+
+=>q5
+::Его блеск отражается в его глазах.::
+
+Это кольцо... ::Он поднимает голову, и создаётся впечатление, что его фигура вдруг стала больше.:: Где вы это нашли?<end>
+
+=>a6_original
+In a water treatment plant south of here.<end>
+
+=>a6
+На водоочистной станции к югу отсюда.<end>
+
+=>q7_original
+It's my father's ring, but it's been worn by my-- ::He pauses.::
+
+...my dead <end>
+
+=>q7
+Это кольцо моего отца, но оно было у... ::Он делает паузу.::
+
+моего родственника...<end>
+
+=>q8_original
+brother<end>
+
+=>q8
+брата<end>
+
+=>q9_original
+. I *must* have it. ::He appears even larger now. The casted shadows must be playing tricks on your eyes.::<end>
+
+=>q9
+. Я *хочу* забрать его. ::Теперь, кажется, он стал ещё больше. Должно быть, отбрасываемые тени так действуют на ваше зрение.::<end>
+
+=>a10_original
+I killed a madman who's done twisted things to your sibling...<end>
+
+=>a10
+Я убил$(#/а) безумца, что сотворил такое с...<end>
+
+=>q11_original
+::He remains silent.::<end>
+
+=>q11
+::Он хранит молчание.::<end>
+
+=>a12_original
+I ask for nothing. Here's the ring. ::Give him the gold ring.::<end>
+
+=>a12
+Ничего не нужно. Вот кольцо. ::Отдать ему золотое кольцо.::<end>
+
+=>q13_original
+::The ring rests on his palm, and he stares at it with teary eyes.:: <end>
+
+=>q13
+::Кольцо лежит у него на ладони, и он смотрит на него слезящимися глазами.::<end>
+
+=>q14_original
+::He lifts his head looks at you one last time, grabs his spade - and leaves without saying a word.::<end>
+
+=>q14
+::Он поднимает голову и смотрит на вас в последний раз, затем берёт свою лопату и молча уходит.::<end>
+
+=>a15_original
+::Grab the brew he left and walk away.::<end>
+
+=>a15
+::Забираете выпивку, которую он оставил, и уходите.::<end>
+
+=>a16_original
+::Leave.::<end>
+
+=>a16
+::Уйти::<end>
+
+=>q17_original
+Thank you for this.<end>
+
+=>q17
+Спасибо.<end>
+
+=>a18_original
+Can I ask you a few questions about Joshua?<end>
+
+=>a18
+Могу ли я задать вам несколько вопросов о Джошуа?<end>
+
+=>q19_original
+::He removes his respirator and takes a sip of his now lukewarm brew.::
+
+Go ahead.<end>
+
+=>q19
+::Он снимает респиратор и делает глоток уже тёплого пойла.::
+
+Продолжай.<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>a21_original
+That ring. You mentioned it was your father's, yet it bears your sibling's initials.<end>
+
+=>a21
+Это кольцо. Вы говорили, что оно принадлежало вашему отцу, но на нём инициалы покойника.<end>
+
+=>q22_original
+::He takes a moment to respond.:: They are the same. Our father's name was Jasper. Jasper Royce.<end>
+
+=>q22
+::Он медлит с ответом.:: Они одинаковы. Нашего отца звали Джаспер. Джаспер Ройс.<end>
+
+=>q23_original
+He was a scavenger too... and he gave this to $(tempcontext.siblingName) on his deathbed.<end>
+
+=>q23
+Он тоже был мусорщиком... и перед смертью, он отдал его $(tempcontext.siblingName).<end>
+
+=>a24_original
+Tell me about $(tempcontext.siblingName).<end>
+
+=>a24
+Расскажите мне о $(tempcontext.siblingName).<end>
+
+=>q25_original
+We were all inseparable. Inseparable. Our whole lives we were on the rails. All five of us.
+
+We lost Mom first... then Karl, our brother.
+
+Dad died three years ago... and now I'm the only one left.<end>
+
+=>q25
+Мы все были неразлучны. Едины. Всю свою жизнь мы провели на рельсах. Все пятеро.
+
+Сначала мы потеряли маму... потом Карла, нашего брата.
+
+Отец умер три года назад... а теперь остался только я.<end>
+
+=>q26_original
+Life of a scavenger, it is full of risk and danger every step of the way. And... hm.
+
+::He takes a sip of his brew.:: But that's all we could ever do.<end>
+
+=>q26
+Жизнь мусорщика, она полна риска и опасности на каждом шагу. И...
+
+::Он делает глоток из бутылки.:: Но это всё, что мы умеем делать.<end>
+
+=>a27_original
+Yet you got separated, it seems.<end>
+
+=>a27
+Но, похоже, вы всё же разлучились.<end>
+
+=>q28_original
+::He nods. It takes him quite a while to respond.:: We wanted to explore the ruins south of here, but it was full of burrowers. On our way back some bandits have made camp nearby, and they saw us and went after us, the sons of rats. 
+
+We got separated amidst all of that, you see... and $(tempcontext.siblingName)... I don't know what happened.<end>
+
+=>q28
+::Он кивает. Ему потребовалось довольно много времени, чтобы ответить.:: Мы хотели исследовать руины к югу отсюда, но там оказалось полно могильщиков. На обратном пути мы наткнулись на лагерь бандитов, они нас заметили и стали преследовать, крысово потомство. 
+
+И во время этой беготни мы разделились... и $(tempcontext.siblingName)... Я не знаю, что случилось.<end>
+
+=>q29_original
+He <end>
+
+=>q29
+У него<end>
+
+=>q30_original
+had a... ::He smiles.:: a great sense of direction in the caves... ::And then his stare drops.:: but for some reason it failed then and there. ::He pauses.:: After I waited for, I don't know, half an hour at our rendezvous point, I came back. The bandits... they were nowhere to be seen, and neither was $(tempcontext.siblingName).<end>
+
+=>q30
+было... ::Он улыбается.:: отличное чувство направления... ::Он опускает глаза.:: но по какой-то причине там это не сработало. ::Он делает паузу.:: Прождав, наверно, с полчаса в нашем обусловленном месте, я вернулся. Бандиты... их нигде не было, как и не было и $(tempcontext.siblingName).<end>
+
+=>a31_original
+There was this water treatment plant nearby...<end>
+
+=>a31
+Неподалёку находилась станция очистки воды...<end>
+
+=>q32_original
+::He gestures you to stop.::
+
+No. I'd seen the body. I don't want to know anything... as long as the bastard responsible is dead.<end>
+
+=>q32
+::Он жестом велит вам замолчать.::
+
+Нет. Я видел тело. Я не хочу ничего знать, при условии, что этот ублюдок мёртв.<end>
+
+=>q33_original
+She <end>
+
+=>q33
+У неё<end>
+
+=>a34_original
+Now what will you do?<end>
+
+=>a34
+Что теперь будете делать?<end>
+
+=>q35_original
+::He glances at his spade.:: Well... I've buried, ah... I've buried $(tempcontext.siblingName) next to Dad.<end>
+
+=>q35
+::Он смотрит на свою лопату.:: Я похоронил, кхм... похоронил $(tempcontext.siblingName) рядом с отцом.<end>
+
+=>q36_original
+::He shrugs.:: Now I'm off to... do what I do best. 
+
+And wait...<end>
+
+=>q36
+::Он пожимает плечами.:: А теперь я пойду... делать то, что лучше всего умею.
+
+И ждать...<end>
+
+=>a37_original
+I'll be leaving you now. Take care.<end>
+
+=>a37
+Я оставлю вас, всего хорошего.<end>
+
+=>q38_original
+::He nods and takes a sip of his brew, then stares at the gold ring in whose reflection you see a dancing flame - and many prying eyes around, of which he is as oblivious.
+
+Then he finishes the brew, grabs his spade - and walks away.::<end>
+
+=>q38
+::Он кивает и делает глоток из бутылки, затем смотрит на золотое кольцо, в котором отражаются танцующие языки пламени, и множество любопытных глаз, на которые он не обращает внимания.
+
+Затем он допивает бутылку, хватает лопату и уходит.::<end>
+
+=>a39_original
+Can I ask you a few questions about Jennifer?<end>
+
+=>a39
+Могу ли я задать вам несколько вопросов о Дженнифер?<end>
+
+=>a40_original
+I wish I could just give this to you for free, but getting this wasn't cheap.<end>
+
+=>a40
+Я мог$(#/ла) бы отдать его за просто так, но оно мне недёшево обошлось.<end>
+
+=>q41_original
+::He reaches for his coin bag.::
+
+<end>
+
+=>q41
+::Он тянется к мешочку с монетами.::
+<end>
+
+=>q42_original
+How much do you want?<end>
+
+=>q42
+Сколько вы хотите?<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+A hundred charons will do it.<end>
+
+=>a44
+Сотни харонов будет достаточно.<end>
+
+=>q45_original
+::He counts one hundred charons.:: <end>
+
+=>q45
+::Он отсчитывает сто харонов.::<end>
+
+=>q46_original
+Here. ::He hands you the coins.::
+
+The ring.<end>
+
+=>q46
+Вот. ::Он вручает вам монеты.::
+
+Кольцо.<end>
+
+=>a47_original
+::Give him the gold ring.::<end>
+
+=>a47
+::Отдать ему золотое кольцо.::<end>
+
+=>a48_original
+Niiiiice. Here you go. ::Give him the gold ring.::<end>
+
+=>a48
+Хо-ро-шо... На, держи. ::Отдать ему золотое кольцо.::<end>
+
+=>a49_original
+::[Mercantile]:: Hundred fifty.<end>
+
+=>a49
+::[Торговля]:: Сто пятьдесят.<end>
+
+=>q50_original
+::He counts one hundred fifty charons.:: <end>
+
+=>q50
+::Он отсчитывает сто пятьдесят харонов.::<end>
+
+=>q51_original
+::He stares at you for a while, then shakes his head.::<end>
+
+=>q51
+::Он смотрит на вас какое-то время, потом качает головой.::<end>
+
+=>a52_original
+Hundred fifty it is.<end>
+
+=>a52
+Сто пятьдесят.<end>
+
+=>q53_original
+::He counts one hundred fifty charons.:: <end>
+
+=>q53
+::Он отсчитывает сто пятьдесят харонов.::<end>
+
+=>a54_original
+::[Mercantile]:: Two hundred.<end>
+
+=>a54
+::[Торговля]:: Двести.<end>
+
+=>q55_original
+::He counts two hundred charons.:: <end>
+
+=>q55
+::Он отсчитывает двести харонов.::<end>
+
+=>a56_original
+::[Mercantile]:: Two fifty.<end>
+
+=>a56
+::[Торговля]:: Двести пятьдесят.<end>
+
+=>q57_original
+::He counts two hundred fifty charons.:: <end>
+
+=>q57
+::Он отсчитывает двести пятьдесят харонов.::<end>
+
+=>a58_original
+It's not good enough. Guess I'll be keeping this.<end>
+
+=>a58
+Этого недостаточно. Я, пожалуй, оставлю его себе.<end>
+
+=>q59_original
+::He steps forward, holding his crossbow tightly.::
+
+I gotta... I gotta have that ring.<end>
+
+=>q59
+::Он делает шаг вперёд, крепко сжимая арбалет.::
+
+Мне... Мне нужно это кольцо.<end>
+
+=>a60_original
+The ring stays with me unless you pay up, man.<end>
+
+=>a60
+Кольцо останется у меня, пока ты не заплатишь, приятель.<end>
+
+=>q61_original
+::He puts the whole bag in your hand, and in that same motion grabs your arm with his other hand.::
+
+Give me the ring, you worm!<end>
+
+=>q61
+::Он вкладывает весь кошель в вашу ладонь и одновременно хватает вашу руку другой рукой.::
+
+Отдай мне кольцо, червяк!<end>
+
+=>a62_original
+Take it easy, fella. Here it is. ::Give him the gold ring.::<end>
+
+=>a62
+Спокойно, приятель. Вот оно. ::Отдать ему золотое кольцо.::<end>
+
+=>a63_original
+Hands off! Here, take the damn thing. ::Give him the gold ring.::<end>
+
+=>a63
+Убери руки!.. На, забирай своё чёртово кольцо. ::Отдать ему золотое кольцо.::<end>
+
+=>a64_original
+::Look around.:: Guess I'm going on a killing spree today! ::Attack!::<end>
+
+=>a64
+::Оглядеться.:: Похоже, сегодня у меня кровавая вечеринка! ::Напасть!::<end>
+
+=>q65_original
+Here's a hundred fifty charons. Enough?<end>
+
+=>q65
+Здесь сто пятьдесят харонов. Достаточно?<end>
+
+=>a66_original
+You know what... Just take the damn ring. ::Give him the ring.::<end>
+
+=>a66
+Знаешь что... Просто забери это чёртово кольцо. ::Отдать ему кольцо.::<end>
+
+=>a67_original
+And that puts an extra price on the ring.<end>
+
+=>a67
+А это накладывает дополнительную цену на кольцо.<end>
+
+=>a68_original
+I killed a madman who's tortured your sibling with fire...<end>
+
+=>a68
+Я убил$(#/а) безумца, который пытал огнём...<end>
+
+=>a69_original
+I killed a madman who's unleashed terrible machines on your sibling...<end>
+
+=>a69
+Я убил$(#/а) безумца, который натравил ужасные машины на...<end>
+
+=>a70_original
+I killed a madman who's taken the life of your sibling in a terrible way...<end>
+
+=>a70
+Я убил$(#/а) безумца, который ужасным способом отнял жизнь у...<end>
+
+=>a71_original
+I killed a madman who's unleashed bloodthirsty creatures upon your sibling...<end>
+
+=>a71
+Я убил$(#/а) безумца, который натравил кровожадных тварей на...<end>
+
+=>a72_original
+I killed a madman who's ravaged your sibling's mind...<end>
+
+=>a72
+Я убил$(#/а) безумца, который разрушил разум у...<end>
+
+=>a73_original
+And you will, for the right price.<end>
+
+=>a73
+И вы получите его, за хорошую цену.<end>
+
+=>q74_original
+sister<end>
+
+=>q74
+сестры<end>
+
+=>a75_original
+That's not important. What is is how much are you willing to pay for it?<end>
+
+=>a75
+Это не важно. Сколько вы готовы заплатить?<end>
+
+=>q76_original
+I am willing... <end>
+
+=>q76
+Я хочу...<end>
+
+=>a77_original
+Hey, man.<end>
+
+=>a77
+Эй, приятель.<end>
+
+=>q78_original
+::He glances at you, then looks back at his brew.::<end>
+
+=>q78
+::Он переводит взгляд на вас, потом снова на своё пойло.::<end>
+
+=>q79_original
+::From his respirator seeps a cold response.::
+
+Leave me alone.<end>
+
+=>q79
+::Из-под респиратора звучит холодный ответ.::
+
+Оставь меня в покое.<end>
+
+=>a80_original
+Excuse me...<end>
+
+=>a80
+Прошу прощения...<end>
+
+=>a81_original
+You're in my spot, buddy.<end>
+
+=>a81
+Ты на моём месте, приятель.<end>
+
+=>a82_original
+::Leave him be.::<end>
+
+=>a82
+::Оставить его в покое.::<end>
+
+=>q83_original
+<end>
+
+=>q83
+<end>
+

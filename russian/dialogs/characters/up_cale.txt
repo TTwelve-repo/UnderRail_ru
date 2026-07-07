@@ -1,0 +1,574 @@
+﻿=>q1_original
+::He completely ignores you.::<end>
+
+=>q1
+::Он полностью игнорирует вас.::<end>
+
+=>q2_original
+::You see this person nonchalantly watching other people in the courtyard. He has a self-satisfied smile on his face while eyeing everyone around him, and he also seems to hold his chin steadily elevated, as if posing for a sculptor to transfer it onto an elaborate bust. Interestingly, he seems astounded when you come near him and attempt to start a conversation. Your approach is met with a puzzled gawk, followed by him looking down at his body for some, to you, unknown reason. He then lifts his head up and speaks to you.::
+
+You... you can see me?<end>
+
+=>q2
+::Вы видите мужчину, бесцеремонно разглядывающего других людей во дворе. Он делает это с самодовольной улыбкой на лице и держит подбородок высоко задранным, словно позируя скульптору, запечатлевающему его величие в бюсте. Как ни странно, он выглядит изумлённым, когда вы к нему подходите и пытаетесь завести разговор. Ваше приближение встречают недоуменно вытаращенные глаза, после чего он переводит взгляд на своё тело, неизвестно почему. Затем он поднимает голову и говорит вам.::
+
+Ты... ты меня видишь?<end>
+
+=>a3_original
+Yup. You seem pretty visible to me.<end>
+
+=>a3
+Ага. Ты выглядишь вполне видимо.<end>
+
+=>q4_original
+::He ponders the situation for a moment.:: 
+
+The only *reasonable* explanation for you being able to see me must be that you possess some special gift... some special power, *mortal.* Yes... yes! That must be it!<end>
+
+=>q4
+::Он на мгновение задумывается над ситуацией.::
+
+Единственное *разумное* объяснение твоей способности видеть меня -- должно быть, особый дар... какая-то особая сила, *смертн$(#ый/ая)*. Да... да! Вот в чём дело!<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Oh... That's good to know. Who are you anyway?<end>
+
+=>a6
+Ох... спасибо за информацию. Ты вообще кто такой?<end>
+
+=>q7_original
+I'm Cale, the Lord of Invisibility. I am the only one who has truly mastered the art of being in a state of gone -  complete invisibility to the naked eye. "Gone" is the proper term for such state, and it was I who came up with it.<end>
+
+=>q7
+Я Кейл, Повелитель невидимости. Я единственный, кто по-настоящему освоил искусство пропадания -- полной незаметности для невооружённого глаза. "Пропадание" -- подходящий термин для такого состояния, и я первым придумал его.<end>
+
+=>a8_original
+That sounds pretty cool.<end>
+
+=>a8
+Звучит довольно круто.<end>
+
+=>q9_original
+Of course, I can see how such divine things can impress a mortal being... such as yourself.
+
+Yes... would you be so kind to tell me your name?<end>
+
+=>q9
+Конечно, я понимаю, что такие божественные вещи могут поразить воображение смертного существа... вроде тебя.
+
+Да... не будешь ли ты так любез$(#ен/на) сказать мне своё имя?<end>
+
+=>a10_original
+It's $(context.player.Name).<end>
+
+=>a10
+$(context.player.Name).<end>
+
+=>q11_original
+$(context.player.Name), you say. A mortal name indeed. Well, let's talk about that gift of yours, shall we?<end>
+
+=>q11
+$(context.player.Name), говоришь. Смертное имя, действительно. Хорошо, давай поговорим о твоём даре, да?<end>
+
+=>a12_original
+Let's...<end>
+
+=>a12
+Давай...<end>
+
+=>q13_original
+Tell me of this gift of yours. When did you first realize you were able to see invisible people?<end>
+
+=>q13
+Расскажи мне про этот твой дар. Когда ты впервые заметил$(#/а), что видишь невидимых людей?<end>
+
+=>a14_original
+If you can see someone then he is not invisible.<end>
+
+=>a14
+Если видишь кого-то, то он не является невидимым.<end>
+
+=>q15_original
+You don't seem to understand the question, I... ugh... Working with mortals is painful...<end>
+
+=>q15
+Ты, кажется, не понял$(#/а) вопроса, я... эх... С вами смертными так трудно...<end>
+
+=>q16_original
+Let's try it like this: I am invisible; you can see me. Therefore, since common mortals can't see me, but you can - you must have some special ability which allows you to do so. That is the only logical conclusion. And if you...<end>
+
+=>q16
+Давай попробуем так: я невидим; ты можешь видеть меня. Таким образом, поскольку простые смертные не могут видеть меня, но ты можешь, у тебя имеются некоторые способности, которые позволяют делать это. Таков единственный логический вывод. И если ты...<end>
+
+=>q17_original
+::He stops speaking. As his eyes shift away from you he begins scratching his beard. Soon after, he points his finger at you and speaks.::
+
+I understand now why you're so confused! HA! You haven't had the opportunity to see an invisible person because there wasn't an invisible person to see! <end>
+
+=>q17
+::Он не заканчивает фразу. Его взгляд блуждает по округе, и он начинает чесать бороду. Вскоре он указывает на вас пальцем и говорит.::
+
+Теперь я понимаю, почему ты так смущ$(#ён/ена)! Ха! Ты ещё никогда не видел$(#/а) невидимого человека, потому что невидимых никто не видел!<end>
+
+=>a18_original
+I think I'm starting to lose you.<end>
+
+=>a18
+Моя твоя не понимать.<end>
+
+=>q19_original
+You are a *mortal* so its not surprising to me. Now, where was I...<end>
+
+=>q19
+Ты *смертн$(#ый/ая)*, так что я не удивлён. Так, на чём я...<end>
+
+=>q20_original
+You cannot answer my question about first noticing you had a gift which allows you to see invisible people because you never had the opportunity to see an invisible person. I - Cale, the Lord of Invisibility - am the first invisible person you *were* able to see and that is why the existence of your gift seems to perplex you so much.<end>
+
+=>q20
+Ты не можешь ответить на мой вопрос о том, когда ты впервые заметил$(#/а) свой дар видеть невидимых людей, потому что ты никогда ещё не видел$(#/а) невидимого человека. Я -- Кейл, Повелитель невидимости -- есмь первый невидимый человек, которого ты *смог$(#/ла)* увидеть, поэтому существование твоего дара приводит тебя в замешательство.<end>
+
+=>q21_original
+For one to know if he is capable of seeing invisible people, he must first see someone who is invisible so that his mind can confirm that he had seen someone invisible, but since he could never see anyone invisible because there wasn't anyone invisible to see, then that one is unaware of his ability to see invisible people; so when he finally has an invisible person to see and he sees it, he doesn't attribute that to the fact that he is able to see invisible people but considers the invisible person to be visible to everyone.<end>
+
+=>q21
+Чтобы узнать, способен ли некто видеть невидимых людей, он должен сначала увидеть кого-то невидимого, его мозг должен осознать, что видел кого-то невидимого, но, поскольку он никогда не видел невидимых, потому что не было рядом никого невидимого, кого он смог бы увидеть, то о его способности видеть невидимых людей ему неизвестно. Поэтому, когда наконец-то появится невидимый человек, которого он сможет увидеть, он не осознает тот факт, что способен видеть невидимых людей, но посчитает, что невидимый человек виден всем.<end>
+
+=>q22_original
+But, that still doesn't answer how you are able to see me... or the origin of your gift... *mortal.* Well, since you seem to have no frickin' clue what I'm even talking about I suppose you won't be of much help, so we better leave it at this. I'll just disregard you as an anomaly and stop concerning myself with it.<end>
+
+=>q22
+Но это не даёт ответа на вопрос, почему можешь видеть меня... откуда у тебя этот дар... *смертн$(#ый/ая)*. И поскольку у тебя нет ни малейшей гребаной идеи, я думаю, ты мне не сильно-то и поможешь, и нам лучше оставить всё как есть. Я просто буду игнорировать тебя, как аномалию, и прекращу себя изводить.<end>
+
+=>a23_original
+I understood nothing of what you just said.<end>
+
+=>a23
+Я ничего не понял$(#/а) из того, что ты только что сказал.<end>
+
+=>q24_original
+Typical mortal...<end>
+
+=>q24
+Типичн$(#ый/ая) смертн$(#ый/ая)...<end>
+
+=>q25_original
+<end>
+
+=>q25
+<end>
+
+=>a26_original
+You were interested in my "gift," as you call it?<end>
+
+=>a26
+Тебя интересует мой «дар», как ты его называешь?<end>
+
+=>q27_original
+Yes, *mortal.* If it wasn't for it we most likely wouldn't be having this conversation right now; me being completely invisible would prevent you from noticing me, naturally.<end>
+
+=>q27
+Да, *смертн$(#ый/ая)*. Если бы не он, мы, скорее всего, не разговаривали бы сейчас; моя совершенная невидимость помешала бы тебе заметить меня, как понимаешь.<end>
+
+=>a28_original
+If you call everyone "mortal," does that mean that you are immortal?<end>
+
+=>a28
+Ты называешь всех «смертными», означает ли это, что ты бессмертен?<end>
+
+=>q29_original
+But of course - I am special! Do you think this ability that was bestowed upon me would fit a mortal man? Just... wasted once I - Cale, the Lord of Invisibility - perishes? No, that is not how this things work, mortal, and I don't expect you to understand.<end>
+
+=>q29
+Конечно же, я особенный! Ты думаешь, эта способность, дарованная мне, подошла бы смертному человеку? Чтобы просто... чтобы растратиться впустую, когда я -- Кейл, Повелитель невидимости -- погибну? Нет, не так это всё работает, смертн$(#ый/ая), я не ожидаю, что ты поймёшь.<end>
+
+=>a30_original
+How can you be so sure?<end>
+
+=>a30
+Как ты можешь быть настолько уверен?<end>
+
+=>q31_original
+::He rolls his eyes.:: You and your mortal questions. "How are you so sure?" I am sure because what I possess should not be possessed by a *mortal* man. And if it is not for mortal men - then I am not mortal. Do you understand?<end>
+
+=>q31
+::Он закатывает глаза.:: Ты и твои смертные вопросы. «Как ты можешь быть так уверен?» Я уверен, потому что обладаю неподвластными *смертным* возможностями. А раз они не для смертных -- то я не смертный. Ты понимаешь?<end>
+
+=>a32_original
+But, why exactly shouldn't a mortal man have the power to be invisible?<end>
+
+=>a32
+Но почему смертному человеку нельзя быть невидимым?<end>
+
+=>q33_original
+Because mortal people are regular people, common - and common men cannot enter the state of gone. I - Cale, the Lord of Invisiblity am special, can enter the state of gone, therefore I am not mortal. Simple logic... *mortal.*<end>
+
+=>q33
+Потому что смертные люди -- обычные люди, а обычные и простые люди не могут войти в состояние пропадания. Я, Кейл, Повелитель невидимости -- особенный, могу войти в состояние пропадания, поэтому я не смертный. Простая логика... *смертн$(#ый/ая)*.<end>
+
+=>q34_original
+Now stop bothering me with these silly questions.<end>
+
+=>q34
+Теперь перестань задавать мне глупые вопросы.<end>
+
+=>a35_original
+Yeah, yeah... I had other questions.<end>
+
+=>a35
+Да, да... у меня были другие вопросы.<end>
+
+=>q36_original
+Yes, *mortal*?<end>
+
+=>q36
+Да, *смертн$(#ый/ая)*?<end>
+
+=>a37_original
+Can you tell me more about your invisibility and gone?<end>
+
+=>a37
+Можешь рассказать мне побольше о своей невидимости и пропадании?<end>
+
+=>q38_original
+It might be too much for your *mortal* brain to handle, so I'll explain it to you in *mortal* terms. I was born special: When I was five, I noticed that when I focused really, really hard I could become invisible. People walked past me like I wasn't there - like I was completely... gone! The older I got, the easier it became for me to enter the state of gone. Therefore, I entered it more often, naturally.
+
+By now, I have pretty much perfected my craft. Well... *you* can see me, but you must possess something special which allows you so.<end>
+
+=>q38
+Это было бы слишком для ума простого *смертного*, поэтому я объясню тебе словами *смертных*. Я родился особенным: когда мне было пять лет, я заметил, что стоит мне сосредоточиться очень, очень сильно, я могу стать невидимым. Люди шли мимо меня, словно меня там не было -- я полностью... пропадал! Чем старше я становился, тем легче мне становилось войти в состояние невидимости. Поэтому я входил в него всё чаще, естественно.Сейчас я практически достиг совершенства в своём мастерстве. Ну... *ты* можешь видеть меня, но ты имеешь особенный дар.<end>
+
+=>a39_original
+What if people just ignored you?<end>
+
+=>a39
+Что если люди просто тебя игнорировали?<end>
+
+=>q40_original
+Impossible! It would mean that all those mortals had to know *exactly* when I was focusing really hard to enter the state of gone, and then simultaneously decide to ignore me. That sounds... well, retarded!
+
+The only logical explanation is that I became truly invisible to them.<end>
+
+=>q40
+Невозможно! Это означало бы, что все те смертные должны были знать *точно* когда я очень упорно сосредотачивался и входил в состояние пропадания, а потом одновременно решали меня игнорировать. Это просто... ну, какой-то идиотизм!
+
+Единственное логическое объяснение -- я действительно стал невидимым для них.<end>
+
+=>a41_original
+Why did you call it "gone"?<end>
+
+=>a41
+Почему ты это называешь «пропаданием»?<end>
+
+=>q42_original
+I liked the way it sounded... Gone... Gone! Don't you hear the majesticness? No? Never mind then...<end>
+
+=>q42
+Мне понравилось, как это звучит... пропадание... пропадание! Разве ты не слышишь всего великолепия? Нет? Ладно, неважно...<end>
+
+=>a43_original
+Couldn't you pick a better name than "gone"?<end>
+
+=>a43
+Ты не мог выбрать лучшего названия чем «пропадание»?<end>
+
+=>a44_original
+That's very interesting, but I had other questions.<end>
+
+=>a44
+Это очень интересно, но у меня были другие вопросы.<end>
+
+=>q45_original
+Let's hear them.<end>
+
+=>q45
+Давай послушаем их.<end>
+
+=>a46_original
+Why are you here and what do you know about this place?<end>
+
+=>a46
+Почему ты здесь и что ты знаешь об этом месте?<end>
+
+=>q47_original
+I am here to show my power to the Tchortists. Unlike you, *mortals,* I can go everywhere I like without being detected by *mortal* eyes. I am special! With that said, I believe these Tchortists - who seem to  love praising powerful entities - should be presented with an invisible man. ME. As soon as I decide to reveal myself they will most certainly praise *me* and I will be granted entry into this glorious building.<end>
+
+=>q47
+Я пришёл сюда, чтобы показать свою силу чортистам. В отличие от вас, *смертных*, я могу пойти куда мне заблагорассудится, невидимый для *смертных* глаз. Я особенный! С учётом сказанного, я считаю, что эти чортисты, которые любят могущественные сущности, должны быть ознакомлены с невидимым человеком. МНОЙ. Как только я решу раскрыть себя, они непременно преклонятся предо *мной*, и меня пустят в это великолепное здание.<end>
+
+=>a48_original
+But why Tchortists? Couldn't you find someone else to praise you?<end>
+
+=>a48
+Но почему чортисты? Неужели ты не мог найти кого-нибудь ещё, кто бы тебе поклонялся?<end>
+
+=>q49_original
+Filth! I - Cale, the Lord of Invisibility - dislike everything Underrail has to offer - everything but the Tchort institute... or whatever it is called. This building is worthy of being my residence - and so it shall be once Tchortists see the invisible man - ME! They must live in abundance, and I deserve only the best.<end>
+
+=>q49
+Мерзость! Я, Кейл, Повелитель невидимости, испытываю отвращение ко всему, что может предложить Подземка. Кроме Чортова института... или как он там называется. Это здание достойно стать моей резиденцией, и так и будет, когда чортисты увидят невидимого человека -- МЕНЯ! Они, вроде, живут в достатке, а я заслуживаю только самого лучшего.<end>
+
+=>q50_original
+I hope that answers your question, *mortal.*<end>
+
+=>q50
+Я надеюсь, что ответил на твой вопрос, *смертн$(#ый/ая)*.<end>
+
+=>a51_original
+I had other questions.<end>
+
+=>a51
+У меня были другие вопросы.<end>
+
+=>a52_original
+What do you know about the Tchortists?<end>
+
+=>a52
+Что ты знаешь о чортистах?<end>
+
+=>q53_original
+While they are mere *mortals,* which usually aren't worth my time, these Tchortists seem very religious to me. They praise this Tchort *something,* and that's all I know about them. Now, once I show them what I - Cale, the Lord of Invisibility - am capable of...<end>
+
+=>q53
+Простые *смертные*, как правило, не стоят моего времени, но эти чортисты, похоже, очень религиозны. Они восхваляют это чортово *нечто*, и это всё, что я знаю о них. И вот, когда я покажу им, что я -- Кейл, Повелитель невидимости -- умею...<end>
+
+=>a54_original
+Invisibility?<end>
+
+=>a54
+Невидимости?<end>
+
+=>q55_original
+Well, of course. Do I have to  explain everything to you... *mortals*? Where was I... Oh, never mind.<end>
+
+=>q55
+Ну конечно же. Должен ли я всё вам объяснять... *смертным*? На чём я остановился?.. А, неважно.<end>
+
+=>a56_original
+How about we change the subject.<end>
+
+=>a56
+Как насчёт сменить тему.<end>
+
+=>a57_original
+Did you perhaps see any of the Tchortists carrying a strange artifact? It looks like a twenty-sided polyhedron.<end>
+
+=>a57
+Ты, случайно, не видел, не проносили ли тут чортисты никакого странного артефакта? Вроде двадцатигранника.<end>
+
+=>q58_original
+Hmmm... I don't remember seeing what you describe, no.<end>
+
+=>q58
+Хм-м-м... не припомню, чтобы видел того, что ты описываешь, нет.<end>
+
+=>q59_original
+To be honest, most of the time I don't concern myself with *mortal* affairs. It's beneath me.<end>
+
+=>q59
+Честно говоря, большую часть времени я не забиваю себе голову делами *смертных*. Это ниже моего достоинства.<end>
+
+=>a60_original
+Goodbye, Cale.<end>
+
+=>a60
+Пока, Кейл.<end>
+
+=>q61_original
+Goodbye, mortal.<end>
+
+=>q61
+Пока, смертн$(#ый/ая).<end>
+
+=>a62_original
+I think it's best if we discuss something else.<end>
+
+=>a62
+Думаю, будет лучше, если мы обсудим что-нибудь другое.<end>
+
+=>q63_original
+If we must.<end>
+
+=>q63
+Ну, если ты долж$(#ен/на).<end>
+
+=>a64_original
+What?<end>
+
+=>a64
+Что?<end>
+
+=>a65_original
+This is too confusing; can we change the subject?<end>
+
+=>a65
+Я ничего не понимаю. Может быть, сменим тему?<end>
+
+=>q66_original
+Confusing? ::He laughs.:: Perhaps to you - but not to me!<end>
+
+=>q66
+С толку? ::Он смеётся.:: Возможно, тебя, но не меня!<end>
+
+=>q67_original
+By the way, we are not changing the subject - I am not done with this yet!<end>
+
+=>q67
+И не уходи от темы, я ещё не закончил!<end>
+
+=>a68_original
+I was never able to see invisible people.<end>
+
+=>a68
+Я никогда раньше не видел$(#/а) невидимых людей.<end>
+
+=>a69_original
+I had some questions first.<end>
+
+=>a69
+Сперва у меня есть несколько вопросов.<end>
+
+=>q70_original
+Fine, fine... Ask your petty questions.<end>
+
+=>q70
+Ладно, ладно... задавай свои жалкие вопросы.<end>
+
+=>a71_original
+I'd rather not.<end>
+
+=>a71
+Я не хочу.<end>
+
+=>q72_original
+Fine! To be honest, it's probably some simple mortal name like $(#Bob/Susan) or $(#Mike/Ann)... I'm more interested in that ability of yours, the one that allows you to see me.<end>
+
+=>q72
+Ну и ладно! Честно говоря, это, наверное, какое-то простое смертное имя, например $(#Боб/Сюзан) или $(#Майк/Анна)... меня больше интересует эта твоя способность, которая позволяет тебе видеть меня.<end>
+
+=>a73_original
+Oh divine one, that is indeed something I want to know more about!<end>
+
+=>a73
+О, божественный, я очень хочу узнать больше!<end>
+
+=>q74_original
+Well, yes.  I can see how such divine powers can impress a mortal being... such as yourself, of course.
+
+Yes... would you be so kind to tell me your name?<end>
+
+=>q74
+Ну да. Я понимаю, что такие божественные вещи могут поразить воображение смертного существа... вроде тебя, конечно.
+
+Да... не будешь ли ты так любез$(#ен/на) сказать мне своё имя?<end>
+
+=>a75_original
+::Laugh.:: Well, it ain't working, pal!<end>
+
+=>a75
+::Посмеяться.:: Ну, оно не работает, приятель!<end>
+
+=>q76_original
+::He frowns.:: You know what? I have no wish to speak to you anymore. I will not be laughed at nor ridiculed by a mere *mortal*!
+
+Good-bye!<end>
+
+=>q76
+::Он хмурится.:: Знаешь, что? Я не желаю больше с тобой разговаривать. Не смеяться надо мной простым *смертным*!До. Свидания!<end>
+
+=>a77_original
+Goodbye, you derailed moron.<end>
+
+=>a77
+Счастливо оставаться, поехавший дебил.<end>
+
+=>a78_original
+::Leave and say nothing.::<end>
+
+=>a78
+::Уйти, ничего не сказав.::<end>
+
+=>a79_original
+Oh divine one, it is an honor to be in your presence!<end>
+
+=>a79
+О, божественный, для меня большая честь находиться в твоём присутствии!<end>
+
+=>q80_original
+::He simply couldn't hide his smug smile.:: Oh... yes... I like the sound of *that*! Divine one...
+
+Allow me to introduce myself...<end>
+
+=>q80
+::Он просто не может скрыть самодовольной улыбки.:: Ах... да... *это* мне нравится! Божественный...
+
+Позволь мне представиться...<end>
+
+=>a81_original
+You've lost your marbles a long time ago, man.<end>
+
+=>a81
+Ты последнего ума лишился, мужик.<end>
+
+=>q82_original
+What did you say to me, you... you... petty $(#caveman/cavewoman)! I simply can't believe it!
+
+We are done here, *mortal.* I might not be invisible to *you,* but from now on, you'll be invisible to *me*!<end>
+
+=>q82
+Что ты сказал$(#/а), ты... ты... жалкий пещерный человечишка! Я просто не могу в это поверить!Разговор окончен, *смертн$(#ый/ая)*. Может, я и не могу быть невидимыми для *тебя*, но с этого момента ты будешь невидим$(#/а) для *меня*!<end>
+
+=>a83_original
+I can see you! Yes I can!<end>
+
+=>a83
+Я тебя вижу! Да, я вижу!<end>
+
+=>a84_original
+::Touch him.::<end>
+
+=>a84
+::Ткнуть в него пальцем.::<end>
+
+=>q85_original
+::He slaps your hand.:: Stop that! I will not allow some... petty *mortal* to touch me. How dare you!?<end>
+
+=>q85
+::Он хлопает вас по руке.:: Прекрати! Я не позволю како$(#му/й)-то... жалко$(#му/й) *смертно$(#му/й)* прикасаться ко мне. Как ты смеешь?!<end>
+
+=>a86_original
+Whoa, are you invisible!?<end>
+
+=>a86
+Ого, ты невидимка?!<end>
+
+=>q87_original
+Well, not to you it seems! It... It's very strange...<end>
+
+=>q87
+Ну, не для тебя, похоже! Это... очень странно...<end>
+
+=>a88_original
+No, I can't! What is going on? Where are you, where are you!?<end>
+
+=>a88
+Нет, не вижу! Что происходит? Где ты, где ты?!<end>
+
+=>q89_original
+Listen, *mortal,* I don't like being ridiculed! Not by you or anyone else, for that matter! It's quite obvious that you can see me... I am just at a loss at how is such a thing is even possible...<end>
+
+=>q89
+Слушай, *смертн$(#ый/ая)*, мне не нравится быть посмешищем! Ни для тебя, ни для кого-то ещё -- неважно! Совершенно очевидно, что ты меня видишь... я теряюсь в догадках, как такое вообще возможно...<end>
+
+=>q90_original
+Yes, mortal?<end>
+
+=>q90
+Да, смертн$(#ый/ая)?<end>
+

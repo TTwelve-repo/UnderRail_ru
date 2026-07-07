@@ -1,0 +1,90 @@
+﻿=>q1_original
+That was one hell of a fight.<end>
+
+=>q1
+Хорошая была драка.<end>
+
+=>q2_original
+This is not a good time for chat, soldier.<end>
+
+=>q2
+Не время болтать, солдат.<end>
+
+=>q3_original
+Wish I had time to chat, but I'm quite busy right now.<end>
+
+=>q3
+Очень жаль, но мне некогда сейчас болтать, я очень занят.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Have you made any progress in clearing the tunnel?<end>
+
+=>a5
+Как продвигается расчистка тоннеля?<end>
+
+=>q6_original
+Not much so far. We have to dig deep enough to safely plant the explosives, otherwise we risk damaging the tunnel even more.<end>
+
+=>q6
+Пока не очень. Нам нужно ещё углубиться, чтобы было безопасно использовать взрывчатку. В противном случае мы рискуем ещё сильнее повредить тоннель.<end>
+
+=>a7_original
+How much damage did the earthquake do?<end>
+
+=>a7
+Много ущерба нанесло землетрясение?<end>
+
+=>q8_original
+We're not sure. It might be that the tunnel just caved in a couple of places. I've sent parties to the tunnel's side entrances to investigate. We'll know more when they return.<end>
+
+=>q8
+Мы не уверены. Возможно, туннель просто обрушился в паре мест. Я послал людей на разведку к боковым входам в туннель. Мы будем знать больше, когда они вернутся.<end>
+
+=>a9_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a9
+Что вы знаете о смерти Патрика Пирса?<end>
+
+=>q10_original
+He died in his sleep. What else is there to know?<end>
+
+=>q10
+Он умер во сне. Что тут знать?<end>
+
+=>a11_original
+Can you tell me what was he like as a person?<end>
+
+=>a11
+Вы можете мне сказать, каким он был человеком?<end>
+
+=>q12_original
+He was a nice fellow. We would chat sometimes at the bar, now I often see his brother there. Poor lad. A miserable sight watching him just sit there, staring into his glass.<end>
+
+=>q12
+Он был хорошим парнем. Мы иногда общались с ним в баре -- теперь я часто вижу там его брата. Бедный мальчик. Жалко смотреть, как он просто сидит там, уставившись в свой стакан.<end>
+
+=>q13_original
+He feels there was something wrong with his brothers death, but hey, even if he finds out something snapped in his brain, for example, what's it gonna do in the end? It's not gonna return Pat, that's for sure.<end>
+
+=>q13
+Он чувствует, что что-то неладно было со смертью его брата, но, эй, даже если выяснится, что что-то лопнуло у него в мозгу, например, то что он собирается делать? Пата ведь это не вернёт.<end>
+
+=>a14_original
+I'll leave you to your work.<end>
+
+=>a14
+Не буду мешать вам работать.<end>
+
+=>q15_original
+Hi, you must be $(context.player.Name). Name's Roman. I'm in charge of this barricade.<end>
+
+=>q15
+Здравствуйте, вы должно быть, $(context.player.Name). Я Роман. Я отвечаю за разбор этого завала.<end>
+

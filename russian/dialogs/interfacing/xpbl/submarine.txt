@@ -1,0 +1,514 @@
+﻿=>q1_original
+::LEMCO Deep Sea Explorer
+
+Welcome, ERROR::<end>
+
+=>q1
+::ЛЕМКО глубоководный исследователь
+
+Добро пожаловать, ОШИБКА::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Main controls::<end>
+
+=>a3
+::Главное меню управления::<end>
+
+=>q4_original
+::Engine status: On
+Primary thrusters: 0 operational (2 total)
+Secondary thrusters: 5 operational (12 total)::<end>
+
+=>q4
+::Статус двигателя: Вкл.
+Основные рулевые: 0 функционирует из 2
+Дополнительные рулевые: 5 функционирует из 12::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+::
+
+Diving to Abyssal Station Zero...::<end>
+
+=>q6
+::
+
+Идём к: глубоководная станции Зеро...::<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+::[Debug] Dive::<end>
+
+=>a8
+::[Отладка] Погружение::<end>
+
+=>a9_original
+::[Debug] Surface::<end>
+
+=>a9
+::[Отладка] Всплытие::<end>
+
+=>a10_original
+::Manual controls::<end>
+
+=>a10
+::Ручное управление::<end>
+
+=>a11_original
+::Dive::<end>
+
+=>a11
+::Погружение::<end>
+
+=>q12_original
+::Manual piloting disabled.
+
+Limited automatic piloting available through Course docking navigation system. See Navigation menu for more information.::<end>
+
+=>q12
+::Ручное пилотирование отключено.
+
+Ограниченно автоматическое пилотирование, доступ возможен через навигационную систему курса и стыковки. Смотрите меню навигации для получения дополнительной информации.::<end>
+
+=>a13_original
+::Back::<end>
+
+=>a13
+::Назад::<end>
+
+=>q14_original
+::Verifying coordinates... Done.
+Performing thruster capability test... Failed.
+
+Unable to dock at Abyssal Station Zero (CC: 020 476 118 263 2115) from this location.
+
+Calculating closest starting location... Done.
+
+Move vessel to coordinates L2 before trying again.::<end>
+
+=>q14
+::Проверка координат... Готово.
+Проверка работоспособности рулевых... Не выполнено.
+
+Прокладка курса к: глубоководная станция Зеро (CC: 020 476 118 263 2115) из этого места невозможна.
+
+Расчёт ближайшей начальной точки... Готово.
+
+Перейдите в координаты L2, прежде чем пытаться снова.::<end>
+
+=>q15_original
+::Destination reached: Abyssal Station Zero (CC: 020 476 118 263 2115)::<end>
+
+=>q15
+::Пункт назначения достигнут: глубоководная станция Зеро (CC: 020 476 118 263 2115)::<end>
+
+=>q16_original
+::Verifying coordinates... Done.
+Performing thruster capability test... Passed.
+Pinging SubNav units... 0 units responded.
+Obtaining gyrocompass information... Done.
+Plotting course... Done.
+
+Vessel is ready to dive to Abyssal Station Zero (CC: 020 476 118 263 2115)::<end>
+
+=>q16
+::Проверка координат... Готово.
+Проверка работоспособности рулевых... Пропуск.
+Отклик SubNav единиц... 0 ответов.
+Получение информации о гирокомпасе... Готово.
+Прокладка курса... Готово.
+
+Готовность к погружению: глубоководная станция Зеро (CC: 020 476 118 263 2115)::<end>
+
+=>a17_original
+::Dive::<end>
+
+=>a17
+::Погружение::<end>
+
+=>a18_original
+::Surface::<end>
+
+=>a18
+::Всплытие::<end>
+
+=>q19_original
+::Vessel is fully surfaced.::<end>
+
+=>q19
+::Полное всплытие.::<end>
+
+=>q20_original
+::Verifying coordinates... Done.
+Performing thruster capability test... Passed.
+Pinging SubNav units... 2 units responded.
+Obtaining gyrocompass information... Done.
+Plotting course... Done.
+
+Vessel is ready to surface.::<end>
+
+=>q20
+::Проверка координат... Готово.
+Проверка работоспособности рулевых... Пропуск.
+Отклик SubNav единиц... 2 ответа.
+Получение информации о гирокомпасе... Готово.
+Прокладка курса... Готово.
+
+Готовность к всплытию.::<end>
+
+=>a21_original
+::Surface::<end>
+
+=>a21
+::Всплытие::<end>
+
+=>a22_original
+::Navigation::<end>
+
+=>a22
+::Навигация::<end>
+
+=>q23_original
+::Navigation::<end>
+
+=>q23
+::Навигация::<end>
+
+=>a24_original
+::Course::<end>
+
+=>a24
+::Курс::<end>
+
+=>q25_original
+::Course system (Version: 1.43.225)
+
+Automatic piloting mode: On
+
+Please input surface or submarine pen docking coordinates of your choosing. Coordinates can be obtained remotely through LIN or entered manually.::<end>
+
+=>q25
+::Системы курса (Версия: 1.43.225)
+
+Режим автопилота: Вкл.
+
+Пожалуйста, выберите координаты поверхности или стыковки с подводным шлюзом по вашему выбору. Координаты могут быть получены удалённо через ИСЛ или введены вручную.::<end>
+
+=>a26_original
+::Set docking coordinates: Abyssal Station Zero (CC: 020 476 118 263 2115)::<end>
+
+=>a26
+::Задать координаты стыковки: глубоководная станция Зеро (CC: 020 476 118 263 2115)::<end>
+
+=>q27_original
+::Abyssal Station Zero (CC: 020 476 118 263 2115) docking coordinates set successfully.::<end>
+
+=>q27
+::Глубоководная станция Зеро (CC: 020 476 118 263 2115) координаты стыковки успешно заданны.::<end>
+
+=>a28_original
+::Connect to LIN::<end>
+
+=>a28
+::Связь через ИСЛ::<end>
+
+=>a29_original
+::Back::<end>
+
+=>a29
+::Назад::<end>
+
+=>a30_original
+::Sonar::<end>
+
+=>a30
+::Сонар::<end>
+
+=>q31_original
+::Sonar status: ::<end>
+
+=>q31
+::Статус сонара: ::<end>
+
+=>q32_original
+::On::<end>
+
+=>q32
+::Вкл.::<end>
+
+=>q33_original
+::Off::<end>
+
+=>q33
+::Выкл.::<end>
+
+=>q34_original
+<end>
+
+=>q34
+<end>
+
+=>a35_original
+::View screen::<end>
+
+=>a35
+::Просмотр экрана::<end>
+
+=>q36_original
+<end>
+
+=>q36
+<end>
+
+=>a37_original
+::Radar::<end>
+
+=>a37
+::Радар::<end>
+
+=>a38_original
+::Back::<end>
+
+=>a38
+::Назад::<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>q40_original
+::LEMCO Deep Sea Explorer::<end>
+
+=>q40
+::ЛЕМКО глубоководный исследователь::<end>
+
+=>a41_original
+::Thruster status::<end>
+
+=>a41
+::Статус рулевых::<end>
+
+=>q42_original
+::Primary: 
+      Surge 1: Off
+      Surge 2: Off
+Secondary:
+      Surge 1 aux: Off
+      Surge 2 aux: On
+      Sway 1: Off
+      Sway 2: On
+      Heave 1: On
+      Heave 2: Off
+      Roll 1: Off
+      Roll 2: Off
+      Pitch 1: Off
+      Pitch 2: On
+      Yaw 1: Off
+      Yaw 2: On::<end>
+
+=>q42
+::Основные: 
+      Ходовой 1: Выкл.
+      Ходовой 2: Выкл.
+Дополнительные:
+      Ходовой 1 ВСУ: Выкл.
+      Ходовой 2 ВСУ: Вкл.
+      Боковой 1: Выкл.
+      Боковой 2: Вкл.
+      Подъёмный 1: Вкл.
+      Подъёмный 2: Выкл.
+      Крен 1: Выкл.
+      Крен 2: Выкл.
+      Тангаж 1: Выкл.
+      Тангаж 2: Вкл.
+      Рысканье 1: Выкл.
+      Рысканье 2: Вкл.::<end>
+
+=>a43_original
+::Back::<end>
+
+=>a43
+::Назад::<end>
+
+=>a44_original
+::Back::<end>
+
+=>a44
+::Назад::<end>
+
+=>q45_original
+::
+
+Surfacing...::<end>
+
+=>q45
+::
+
+Всплытие...::<end>
+
+=>q46_original
+::
+
+Warning: Primary thrusters out of order! Manual piloting disabled.
+
+Limited automatic piloting available through Course docking navigation system. See Navigation menu for more information.::<end>
+
+=>q46
+::
+
+Внимание: Основные рулевые не работают! Ручное пилотирование отключено.
+
+Ограниченно автоматическое пилотирование, доступ возможен через навигационную систему курса и стыковки. Смотрите меню навигации для получения дополнительной информации.::<end>
+
+=>q47_original
+<end>
+
+=>q47
+<end>
+
+=>a48_original
+::Navigation::<end>
+
+=>a48
+::Навигация::<end>
+
+=>a49_original
+::Life support::<end>
+
+=>a49
+::Жизнеобеспечение::<end>
+
+=>q50_original
+::Life support
+
+Air purification system: On
+Water purification system: Off
+Heating: On
+
+O2 content by volume: 20.87%
+CO2 content by volume: 0.34%
+Lox supply: 0%
+Average temperature: 17°C
+
+Warning: Liquid oxygen supply is empty. Please refill Lox canisters at first available opportunity.::<end>
+
+=>q50
+::Жизнеобеспечение
+
+Система очистки воздуха: Вкл.
+Система очистки воды: Выкл.
+Обогрев: Вкл.
+
+Содержание O2: 20.87%
+Содержание CO2: 0.34%
+Подача жO2: 0%
+Средняя температура: 17°C
+
+Предупреждение: нет подачи жидкого кислорода. Пожалуйста, заполните канистры жO2 при первой же возможности.::<end>
+
+=>a51_original
+::Air purification::<end>
+
+=>a51
+::Очистка воздуха::<end>
+
+=>a52_original
+::Water purification::<end>
+
+=>a52
+::Очистка воды::<end>
+
+=>a53_original
+::Heating::<end>
+
+=>a53
+::Обогрев::<end>
+
+=>a54_original
+::Back::<end>
+
+=>a54
+::Назад::<end>
+
+=>a55_original
+::Arm controls::<end>
+
+=>a55
+::Ручное управление::<end>
+
+=>a56_original
+::Permeation sampler controls::<end>
+
+=>a56
+::Управление пробоотборником::<end>
+
+=>a57_original
+::Specifications::<end>
+
+=>a57
+::Характеристики::<end>
+
+=>q58_original
+::Type: Deep Submergence Explorer
+Class: Pterygotus
+VID: DSE-004
+Design depth: 4000m
+Test depth: 2700m
+Propulsion engine: Battery-powered SubPrime L-SPR-K6 (6Kw) electric engine
+Displacement: 12 tonnes
+Primary thrusters: 2 L-SMT-23 ring thrusters
+Secondary thrusters: 12 L-SMT-11 ring thrusters
+Max forward speed: 10 km/h
+Max endurance: 48h
+Air purification: L-IAPS-7 integrated system
+Water purification: L-WPS-3 integrated system
+Grabber arm: 2 LMA-19CS
+Radar: L-R13-S SHF (3-10GHz) active phased array
+Sonar: L-SUS3 integrated system
+Depth sensor: LSDS-4
+Course docking navigation system version: 1.43.225::<end>
+
+=>q58
+::Тип: глубоководный исследователь
+Класс: Птериготус
+VID: DSE-004
+Глубина погружения: 4000 м.
+Глубина теста: 2700 м.
+Двигатель СУ: Battery-powered SubPrime L-SPR-K6 (6Kw) электрический
+Водоизмещение: 12 тонн
+Основные рулевые: 2 L-SMT-23 кольцевые рулевые
+Дополнительные рулевые: 12 L-SMT-11 кольцевые рулевые
+Макс. скорость: 10 км/ч.
+Макс. время погружения: 48 ч.
+Очистка воздуха: L-IAPS-7 интегрированная система
+Очистка воды: L-WPS-3 интегрированная система
+Ручное управление: 2 LMA-19CS
+Радар: L-R13-S SHF (3-10GHz) активный фазированный массив
+Сонар: L-SUS3 интегрированная система
+Датчик глубины: LSDS-4
+Версия системы курса навигации: 1.43.225::<end>
+
+=>a59_original
+::Exit::<end>
+
+=>a59
+::Выход::<end>
+

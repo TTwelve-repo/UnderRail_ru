@@ -1,0 +1,494 @@
+﻿=>q1_original
+::This rather portly man appears to be working on some complicated-looking mechanical part. All his mental capacity seems to be focused on it, as to him you aren't there. Granted, there is a lot of noise in the room, which makes it difficult to hear someone approach. And yours has been, so far, met only with the backside of a worn shirt marked with burn marks, oil splotches and a few torn spots.::<end>
+
+=>q1
+::Этот довольно полный мужчина работает над каким-то сложным механическим агрегатом. Всё его внимание, кажется, сосредоточено на работе, и он вас не замечает. Неудивительно, ведь в помещении так шумно, что трудно услышать чьи-то шаги. И вот вас приветствует спина, покрытая изношенной рубашкой, отмеченной следами огня, пятнами масла и разорванной в нескольких местах.::<end>
+
+=>a2_original
+Excuse me?<end>
+
+=>a2
+Извините?<end>
+
+=>q3_original
+::He twitches for an instant, dropping his screwdriver. He turns around, his face morphing from confusion into a smile.::
+
+Gee, you startled me, $(#sir/ma'am). Oh, oh... I'm sorry, I was focused on repairing the right leg stabilizers that I wasn't even aware someone was there. :: He laughs.:: Gee...<end>
+
+=>q3
+::Он вздрагивает от неожиданности и роняет отвёртку. Он оборачивается, и выражение его лица меняется со смущённого на приветливое.::
+
+Да-а, ну вы меня напугали, $(#сэр/мэм). Ой, ой... простите, я был так сосредоточен на ремонте стабилизаторов правой ноги, что даже не заметил, как вы подошли. ::Он смеётся.:: Да-а...<end>
+
+=>a4_original
+I'm sorry, I didn't mean to startle you.<end>
+
+=>a4
+Простите, я не хотел$(#/а) вас напугать.<end>
+
+=>q5_original
+No need to apologize, $(#sir/ma'am)! It's my fault, I forget myself sometimes. I gotta get this Dreadnought up and running soon, so I'm all... well... ::He wipes off his black hands.::
+
+Let me introduce myself first: I'm Luka Giotto, head mechanic. Are you by any chance here to purchase some components or are you just getting to know yourself with the base?<end>
+
+=>q5
+Не стоит извинений, $(#сэр/мэм)! Я сам виноват, что такой рассеянный. Мне нужно как можно скорее поставить на ноги этот дредноут, так что я совсем... ну... ::Он вытирает испачканные руки.::
+
+Позвольте представиться: меня зовут Лука Джотто, главный механик. Вы здесь, чтобы приобрести компоненты или просто осматриваете базу?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Let me see what you have. ::Barter.::<end>
+
+=>a7
+Позвольте мне взглянуть, что вы продаёте. ::Обмен.::<end>
+
+=>a8_original
+I need these mutagen cans rigged in a specific way. Can you help me?<end>
+
+=>a8
+Мне надо установить на эти контейнеры с мутагеном часовой взрыватель. Можете ли вы помочь мне?<end>
+
+=>q9_original
+Gee, Corporal, I'd love to help you, but I'm too...
+
+Did you say mutagen?<end>
+
+=>q9
+Да-а, капрал, я бы с радостью помог вам, но я слишком...
+
+Вы сказали -- мутаген?<end>
+
+=>a10_original
+Yes, any problems with that?<end>
+
+=>a10
+Да, есть какие-то проблемы с этим?<end>
+
+=>q11_original
+No... not at all, $(#sir/ma'am). But, I'm just too busy with what I have here.
+
+Maybe Will can help you with that; he's right over there. ::He points to a man in coveralls working on a console nearby.::<end>
+
+=>q11
+Нет... вовсе нет, $(#сэр/мэм). Но я просто слишком занят сейчас.
+
+Возможно, Уилл сможет помочь вам с этим; он вон там. ::Он указывает на мужчину в спецовке, работающего за консолью неподалёку.::<end>
+
+=>a12_original
+Fine, I'll talk to him.<end>
+
+=>a12
+Хорошо, я поговорю с ним.<end>
+
+=>q13_original
+::He nods.::<end>
+
+=>q13
+::Он кивает.::<end>
+
+=>a14_original
+No, you misheard me. I asked you a completely different question.<end>
+
+=>a14
+Нет, вы ослышались. Я ничего такого не говорил$(#/а).<end>
+
+=>q15_original
+Oh... Oh! ::He laughs.:: It must have been because of the noise. Could you repeat the question, perhaps?<end>
+
+=>q15
+О... Оу! ::Он смеётся.:: Наверное, это всё из-за шума. Не могли бы вы повторить вопрос?<end>
+
+=>a16_original
+What can you tell me about Dreadnoughts?<end>
+
+=>a16
+Что вы можете мне рассказать про дредноуты?<end>
+
+=>q17_original
+Gee, if you give me a couple of days I could type you an encyclopedia, $(#sir/ma'am). ::He laughs.:: 
+
+But, just look at one of them: So imposing, so... powerful. Hardcore! Just hardcore. The "official" name is APF-99 Dreadnought, where APF stands for "Armored Powered Frame."
+
+These beasts are packing powerful 1000 kW WPE turbine engines, and their fusion cores can last for years without needing replacement.<end>
+
+=>q17
+Да-а, дайте мне пару дней, и я надиктую вам целую энциклопедию, $(#сэр/мэм). ::Он смеётся.:: 
+
+Вы только посмотрите на него: такой внушительный, такой... могучий. Хардкор! Просто хардкор. «Официально» он называется БСП-99 Дредноут, где БСП расшифровывается как «бронированная силовая платформа».
+
+На этих зверей устанавливают мощные 1000 кВт газотурбинные двигатели ВПЕ, и их ядерные реакторы работают много лет без дозаправки.<end>
+
+=>q18_original
+Of course, the most dominating part about them is their weaponry! They pack an SBA-75 chaingun, attached to one arm; a powerful 80 series drill on the other; and a 30mm rocket launcher sitting on their shoulder. Gee, some models even had a system installed that allowed them to use smart rockets, but that's been out of use for several years.<end>
+
+=>q18
+Конечно, самая доминирующая часть -- это их вооружение! Их оснащают пулемётом СБА-75 на одной руке, мощным буром 80-й серии на другой и 30-мм гранатомётом в наплечном пилоне. Да-а, были даже модели, на которые ставили систему с самонаводящимися ракетами, но таких больше не делают.<end>
+
+=>a19_original
+Can I pilot one by any chance?<end>
+
+=>a19
+А можно мне как-нибудь порулить?<end>
+
+=>q20_original
+::He raises his eyebrows.:: No! No, no, no! Only trained pilots can use Dreadnoughts. If I let you use one, I'd be back on the rails. Or worse. Gee...<end>
+
+=>q20
+::Он вскидывает брови.:: Нет! Нет, нет, нет! Только специально обученный пилот может управлять дредноутом. Если я вам разрешу, то в один момент окажусь опять на рельсах. Или хуже. Да-а...<end>
+
+=>a21_original
+That's truly interesting. But before this gets out of hand, we better move on to something else.<end>
+
+=>a21
+Это очень интересно. Но давайте лучше сменим тему, пока ситуация не вышла из-под контроля.<end>
+
+=>q22_original
+::He laughs.:: Go ahead, $(#sir/ma'am).<end>
+
+=>q22
+::Он смеётся.:: Ну давайте, $(#сэр/мэм).<end>
+
+=>a23_original
+Why did you join the Protectorate?<end>
+
+=>a23
+Почему вы вступили в протекторат?<end>
+
+=>q24_original
+I haven't been asked that question in a long time. I don't know if you're familiar with the history of Core City, but, I was living there when all the... riots and death were at their peak. Gee, $(#sir/ma'am), those were some rough times. It was like a war on the streets, everyone was dying as gangs ran amok. I had to get out of there. <end>
+
+=>q24
+Давно уже мне не задавали этого вопроса. Я не знаю, знакомы ли вы с историей Кор-Сити, но я жил там в то время, когда все... беспорядки и убийства были на пике. Да-а, $(#сэр/мэм), это было трудное время. На улицах шла настоящая война, банды бесчинствовали и убивали всех подряд. Мне пришлось спасаться оттуда.<end>
+
+=>q25_original
+It got a bit better over the years, but some parts are still just falling apart. You've heard of Drop Zone? No? I lived there. Worst part of the city barring the sewers, I'd say.
+
+Then... pfft, five years ago, Protectorate moved in. I told myself, nothing keeps me in Core City, I can get protection and food here, and Protectorate seemed like, like the good guys. Let's give it a shot, I thought! I enlisted as a private, and soon enough, I saw those machines...<end>
+
+=>q25
+Спустя годы, стало немного получше, но некоторые районы по-прежнему прямо таки разваливаются на части. Вы слышали про Зону провала? Нет? Я жил там. Худшая часть города, не считая канализации, я бы сказал.
+
+Потом... пф-ф, пять лет назад, приехал Протекторат. Я сказал себе: ничего не держит меня в Кор-Сити, а здесь охраняют и кормят, да и Протекторат казался... казался хорошими парнями. И я подумал -- а давай дадим ему шанс! Я завербовался рядовым, и достаточно скоро я впервые увидел эти машины...<end>
+
+=>q26_original
+I was dominated. ::He laughs.:: They wouldn't let me train to be a pilot, sadly, maybe because I was a Southerner, I don't know. But, I was good at fixin' stuff. You can guess what happens next. ::He laughs.::
+
+There. That's my story.<end>
+
+=>q26
+Они меня задоминировали. ::Он смеётся.:: Мне, к сожалению, не разрешили учиться на пилота, может, потому что я южанин, я не знаю. Но у меня хорошо получается чинить вещи. Ну, и вы можете догадаться, что было дальше. ::Он смеётся.::
+
+Вот. Вот и моя история.<end>
+
+=>a27_original
+What can you tell me about the Free Drones?<end>
+
+=>a27
+Что вы можете мне рассказать про Вольных шершней?<end>
+
+=>q28_original
+Drones? I spit on those bloody pipeworkers. They can zone out of Underrail and into the very bowels of the earth... Bastards.<end>
+
+=>q28
+Шершни? Я плюю этих треклятых трубочистов. Они могут идти в зону из Подземки и в самые недра земли... Сволочи.<end>
+
+=>a29_original
+You really hate them, I see.<end>
+
+=>a29
+Вы очень их не любите, как я погляжу.<end>
+
+=>q30_original
+Do you think I shouldn't? Gee, $(#sir/ma'am), they are like the plague. They oppose the unification, they cause chaos and take more lives than the bandits. No one talks about that, but our sources have confirmed that Drones perform purges in small stations that won't join them. It's like, if you're not with us, you're against us.<end>
+
+=>q30
+Вас это удивляет? Да-а, $(#сэр/мэм), они как чума. Они против объединения, они сеют хаос и отнимают больше жизней, чем бандиты. Об этом не принято говорить, но наши источники подтвердили, что Шершни проводят чистки небольших станций, которые не хотят присоединяться к ним. То есть, если ты не с нами, ты против нас.<end>
+
+=>q31_original
+I heard the CAU gassed their main hideout in the passages. Serves the bastards right. <end>
+
+=>q31
+Я слышал, что ХБА потравили газом их главное убежище в туннелях. Поделом ублюдкам.<end>
+
+=>q32_original
+I heard you met them before, I hope you got to kill some of those bastards.<end>
+
+=>q32
+Я слышал, что вы уже встречались с ними. Надеюсь, что вам удалось прихлопнуть парочку ублюдков.<end>
+
+=>a33_original
+Yeah, to hell with those stinking anarchists.<end>
+
+=>a33
+Да, к дьяволу этих вонючих анархистов.<end>
+
+=>q34_original
+That's what I'm talking about, $(#sir/ma'am). I've lost friends to those zon--... those bastards. And just look at what they did to our doctor. To me, they are just like regular bandits and raiders, with a bit more propaganda involved. They go from station to station and drag what we stand for through mud, how we are conquerors and what not. Gee... what a load of pipeworks.<end>
+
+=>q34
+Вот именно, $(#сэр/мэм). Я потерял друзей из-за этих зон... этих ублюдков. И только посмотрите, что они сделали с нашим доктором. Для меня они просто обычные бандиты и рейдеры, только плюс ещё пропаганда. Они ходят от станции к станции и измазывают всё, за что мы стоим, в грязи, называют нас завоевателями и т. д. Да-а... кучка трубочистов.<end>
+
+=>a35_original
+Where in Fort Apogee can I exchange currencies?<end>
+
+=>a35
+Где в форте Апогей я могу обменять валюту?<end>
+
+=>q36_original
+Oh, yeah, you should see Staff Sergeant Fraser about that.<end>
+
+=>q36
+Ах, да, с этим идите к старшему сержанту Фрейзеру.<end>
+
+=>q37_original
+You can find him near the base entrance, $(#sir/ma'am).<end>
+
+=>q37
+Вы можете найти его у входа на базу, $(#сэр/мэм).<end>
+
+=>a38_original
+What can you tell me about Consul Oliver?<end>
+
+=>a38
+Что вы можете мне рассказать про консула Оливера?<end>
+
+=>q39_original
+Meh...<end>
+
+=>q39
+Фи...<end>
+
+=>a40_original
+Meh? What is that supposed to mean?<end>
+
+=>a40
+Фи? Что бы это значило?<end>
+
+=>q41_original
+Meh... like meh... In a sense that... meh.<end>
+
+=>q41
+Фи... типа фи... В смысле... фи.<end>
+
+=>q42_original
+I mean, gee, all those diplomats are the same to me. I can't explain it. I mean, I support the unification, and understand what it brings. United Stations; all good. But diplomats in general? Too much talking, too little action. I don't know...<end>
+
+=>q42
+Я хочу сказать, да-а, все эти дипломаты для меня на одно лицо. Я не знаю, как объяснить. То есть, я за объединение, и я знаю зачем это надо. Объединённые Станции; замечательно. Но дипломаты в целом? Слишком много разговоров, слишком мало дела. Я не знаю...<end>
+
+=>a43_original
+What can you tell me about Colonel Cathcart?<end>
+
+=>a43
+Что вы можете мне рассказать про полковника Каткарта?<end>
+
+=>q44_original
+He can get things done. I'm serious, hardcore style. He sees things the way they are, and not all officers are like that, Corporal. A lot of them just sit in the office and just, just give orders from the safety of their nice chairs. ::He laughs.:: From comfy chairs.<end>
+
+=>q44
+Он умеет довести дело до конца. Я серьёзно, хардкор. Он видит суть вещей, и не всякий офицер может этим похвастаться, капрал. Многие из них просто сидят в своих кабинетах и только, только отдают приказы из комфорта дорогих кресел. ::Он смеётся.:: Удобных кресел.<end>
+
+=>q45_original
+The colonel is different. He knows you have to be prepared to do anything it takes to make it through and live to see another day. Dominating words, I have to admit. And he does all that without meaningless sacrifice and death.<end>
+
+=>q45
+Полковник не такой. Он знает, что мы должны быть готовы на всё, чтобы пробиться и дожить до завтра. Доминирующие слова, я должен признать. И он делает это всё, избегая бессмысленных жертв и смертей.<end>
+
+=>q46_original
+Perhaps he's the reason the Protectorate is still in South Underrail. With how much we are loved here, maybe another commander wouldn't have been able to cement our position like Colonel Cathcart did.<end>
+
+=>q46
+Возможно, только благодаря ему Протекторат всё ещё держится в Южной Подземке. Учитывая, как сильно нас тут любят, может, другой командир не смог бы так закрепить нашу позицию, как это сделал полковник Каткарт.<end>
+
+=>a47_original
+What can you tell me about Fraser?<end>
+
+=>a47
+Что вы можете мне рассказать про Фрейзера?<end>
+
+=>q48_original
+::His face turns slightly sour.:: Please, $(#sir/ma'am), don't get me started on that big-nosed rathound-siphoner offspring. He's a hardcore pain in the rear, like accidentally sitting on a stalagmite coated in crawler venom. He hates us Southerners with burning passion, people like me, Case and point, if he hasn't treated you like an inferior - he will. Just give him time.<end>
+
+=>q48
+::Его лицо слегка кривится.:: Пожалуйста, $(#сэр/мэм), не заставляйте меня вспоминать про этого носатого сына крысоволка и брызгуна. Он просто хардкорная боль в заднице, как будто ты случайно сел на сталагмит, покрытый ядом краулера. Он ненавидит нас, южан с пылающей страстью: людей вроде меня и Кейса; если он ещё не вытер о вас ноги -- это просто вопрос времени. Вот увидите.<end>
+
+=>q49_original
+Gee, everyone hates him, $(#sir/ma'am), Northerners or not, because he's so stuck up and retarded. And more stupid than a slackjaw. I wish I could tell him to zone out, at least once...<end>
+
+=>q49
+Да-а, его никто не любит, $(#сэр/мэм), даже северяне, потому что он дебил и выпендривается. И ещё тупее чем разирот. Хотел бы сказать ему, чтоб шёл в зону, хотя бы раз...<end>
+
+=>a50_original
+Yes, Luka. I had other questions.<end>
+
+=>a50
+Да, Лука. У меня были другие вопросы.<end>
+
+=>q51_original
+::He ignores you and continues.:: I wish I could, but he's an officer; I'd be in trouble. But only once, for calling me a ratter all these years...<end>
+
+=>q51
+::Он не обращает внимания и продолжает.:: Я бы с радостью, но он офицер -- у меня были бы проблемы. Всего разочек, за то что называл меня крысятником все эти годы...<end>
+
+=>a52_original
+Luka...<end>
+
+=>a52
+Лука...<end>
+
+=>q53_original
+And that girly voice of his, he sounds like he was born without any...<end>
+
+=>q53
+А этот девчачий голос, как будто он родился без...<end>
+
+=>a54_original
+Luka.<end>
+
+=>a54
+Лука.<end>
+
+=>q55_original
+::He snaps out of it.:: Oh, gee, Corporal. I got carried away. You, um, wanted to ask me something else, right?<end>
+
+=>q55
+::Он приходит в себя.:: О, да-а, капрал. Я увлёкся. Вы, эм, хотели спросить у меня ещё что-то, да?<end>
+
+=>a56_original
+What can you tell me about Case?<end>
+
+=>a56
+Что вы можете мне рассказать про Кейса?<end>
+
+=>q57_original
+It's not because he's a Southerner like me, no, $(#sir/ma'am). And it's not because I wouldn't get my meal if it wasn't for him, no. I love that man because he is - a hardcore person. Because, you see, $(#sir/ma'am), we shared a common problem when we first came to Fort Apogee...<end>
+
+=>q57
+Это не потому, что он южанин, как и я, нет, $(#сэр/мэм). И это не потому, что мне нечего было бы есть, если бы не он, нет. Я люблю этого парня потому, что он хардкорный. Потому что, видите ли, $(#сэр/мэм), когда мы с ним впервые приехали в форт Апогей, мы столкнулись с общей проблемой...<end>
+
+=>q58_original
+We were Southerners, and we're always under a microscope. We have to prove that we're worth a damn. And we stick together; we're stronger that way. So, we gradually built a friendship, a good friendship. A dominating friendship! ::He laughs.::<end>
+
+=>q58
+Мы были южанами, и поэтому всегда под микроскопом. Мы постоянно должны доказывать, что мы чего-то стоим. И мы должны держаться вместе, так мы сильнее. И вот, мы постепенно построили дружбу, хорошую дружбу. Доминирующую дружбу! ::Он смеётся.::<end>
+
+=>q59_original
+I just want to clarify one thing, $(#sir/ma'am): A large number of Northerners don't care where you're from; your personality and what you are able to do is what's important to them, just like any sane person. But some derailed idiots here *still* consider us inferior. You'll meet some soon enough, if you haven't already...<end>
+
+=>q59
+Я только хочу прояснить одну вещь, $(#сэр/мэм): большинство северян не волнует, откуда вы; ваша личность и что вы умеете -- вот, что важно для них, как и для любого здравомыслящего человека. Но некоторые поехавшие идиоты тут *всё ещё* считают нас неполноценными. Вы скоро встретитесь с такими, если этого ещё не случилось...<end>
+
+=>a60_original
+What can you tell me about Anastasia?<end>
+
+=>a60
+Что вы можете мне рассказать про Анастасию?<end>
+
+=>q61_original
+Gee, $(#sir/ma'am), she's great. I know her well; we like talking to each other and hanging out at the mess, during meal time. She's very intelligent but... she's been through a lot.<end>
+
+=>q61
+Да-а, $(#сэр/мэм), она невероятная. Я её хорошо знаю; мы часто тусим в столовой и разговариваем на обеде. Она очень умная, но... она через многое прошла.<end>
+
+=>q62_original
+Her train was attacked several years ago by Free Drones. The bastards used chemical weapons-- Oh, and it was a civilian train, mind you. Hardcore bastards. Doc survived, obviously, but she was hurt real bad. But if you think that'd stop her - you were wrong!<end>
+
+=>q62
+Несколько лет назад на поезд, на котором она ехала, напали Вольные шершни. Эти ублюдки применили химическое оружие... да, это был гражданский поезд, заметьте. Хардкорные ублюдки. Док выжила, но она была тяжело ранена. Но если вы думаете, что это её остановило, вы ошибаетесь!<end>
+
+=>q63_original
+She knew what she had to do, and here she is now, saving lives. Gee, $(#sir/ma'am), I once heard one crippled soldier say that he thought his life was over; he lost a leg, it's all over! He was zoned to the bone! But after he saw how Anastasia moved forward despite what happened to her, he realized a limb is just a limb, and that things that matter to you in life don't get blown away with it.
+
+Zone out, man, you only get one life, that's what he said. Paraphrased.<end>
+
+=>q63
+Она знала, что должна, и теперь она здесь, спасает жизни. Да-а, $(#сэр/мэм), я как-то слышал, как один покалеченный солдат сказал, что он думал, что ему конец; он потерял ногу, всё кончено! Он был по уши в зоне! Но после того, как он увидел, что Анастасия не сдалась, несмотря на то, что с ней произошло, он понял, что нога -- это просто нога, и что важные вещи в жизни не оторвало вместе с ней.
+
+Ну его в зону, чувак, у тебя всего одна жизнь, вот что он сказал. Ну или как-то так.<end>
+
+=>a64_original
+What can you tell me about CAU?<end>
+
+=>a64
+Что вы можете мне рассказать про группу ХБА?<end>
+
+=>q65_original
+You don't want to know what I think about them... and I'm lucky I don't have to deal with them. They ain't right in the head. Hardcore derailed lunatics. They are cruel: I've heard how they used corrosive chemicals to torture their prisoners, how they enjoy killing people in some of the most violent ways. Corporal, I know they are efficient soldiers, but they make my stomach turn.<end>
+
+=>q65
+Поверьте, вы не хотите знать, что я думаю о них... и мне повезло, что я не имею с ними дел. У них не в порядке с головой. Хардкорно поехавшие психопаты. Они изверги: я слышал, что они пытают пленных кислотой и любят убивать самыми жестокими способами. Капрал, я знаю, что они умелые вояки, но меня от них тошнит.<end>
+
+=>q66_original
+Luckily, they aren't here anymore, so that I don't have to see their scary masks.<end>
+
+=>q66
+К счастью, их здесь больше нет, так что мне не приходится смотреть на их стрёмные маски.<end>
+
+=>q67_original
+I hope they get out of here. The sooner the better. Gee...<end>
+
+=>q67
+Я надеюсь, что они свалят отсюда. И чем скорее, тем лучше. Да-а...<end>
+
+=>a68_original
+What can you tell me about the Faceless?<end>
+
+=>a68
+Что вы можете мне рассказать про безликих?<end>
+
+=>q69_original
+I'd like to mess around with their gear. ::He laughs.:: I know, they dwell in Deep Caverns, as far as I've heard, and they're the bad guys... but I'm interested in what they have. Their weapons, shields, vehicles.<end>
+
+=>q69
+Хотел бы я заполучить их снарягу. ::Он смеётся.:: Насколько я слышал, они обитают в Глубоких пещерах, и они плохие парни... но мне интересно, что у них есть. Их оружие, щиты, транспорты.<end>
+
+=>q70_original
+Some told me how they saw the giant tunneling machines, and immediately I thought of a cross between that, and a Dreadnought. Imagine that...
+
+::He drifts off, probably constructing it in his mind and marveling at its dominating appearance.::<end>
+
+=>q70
+Мне рассказывали, что у них видели гигантские проходческие машины, и я сразу же подумал: что будет, если скрестить их с дредноутами? Представьте...
+
+::Он мысленно уносится прочь, должно быть, создавая эту машину в уме и поражаясь её доминирующей внешности.::<end>
+
+=>a71_original
+See you some other time, Luka.<end>
+
+=>a71
+Увидимся в другой раз, Лука.<end>
+
+=>a72_original
+I startled you good, didn't I?<end>
+
+=>a72
+А неплохо вы попались, да?<end>
+
+=>q73_original
+Oh, you did. You... you did. Hardcore. ::He smiles.:: But, serves me right, I forget myself sometimes. I gotta get this Dreadnought up and running soon, so I'm all... well... ::He wipes off his black hands.::
+
+Let me introduce myself first: I'm Luka Giotto, head mechanic. Are you by any chance here to purchase some components or are you just getting to know yourself with the base?<end>
+
+=>q73
+Да, это точно. Ещё... ещё как. Хардкор. ::Он улыбается.:: Ну и поделом мне за то, что забываюсь. Мне нужно как можно скорее поставить на ноги этот дредноут, так что я совсем... ну... ::Он вытирает испачканные руки.::
+
+Позвольте представиться: меня зовут Лука Джотто, главный механик. Вы здесь, чтобы приобрести компоненты или просто осматриваете базу?<end>
+
+=>a74_original
+::Leave.::<end>
+
+=>a74
+::Уйти.::<end>
+
+=>q75_original
+::He salutes you.:: What can I do for you, Corporal?<end>
+
+=>q75
+::Он приветствует вас.:: Что я могу сделать для вас, капрал?<end>
+

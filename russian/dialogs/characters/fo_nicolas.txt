@@ -1,0 +1,673 @@
+﻿=>q1_original
+Guards! Guards! There's an intruder here! Guards!<end>
+
+=>q1
+Стража! Стража! Здесь нарушитель! Стража!<end>
+
+=>q2_original
+::You come up to Nicolas only to see him greatly displeased.::
+
+Apparently, Olivia is in prison because she was plotting my murder. Yes. Someone just told me. Isn't it a coincidence how all that happened right after you and I made a deal?<end>
+
+=>q2
+::Вы подходите к Николасу и видите, что он не в духе.::
+
+Итак, Оливия в тюрьме, потому что она планировала моё убийство. Да. Мне только что сказали. И это сразу после того, как вы и я заключили сделку, разве не удивительное совпадение?<end>
+
+=>a3_original
+I don't know what you're talking about.<end>
+
+=>a3
+Я не понимаю, о чём вы говорите.<end>
+
+=>q4_original
+Get lost. You mucked this up all the way. Don't speak to me again, idiot. Get lost.<end>
+
+=>q4
+Отвали. Ты облажал$(#ся/ась) по полной. Не подходи ко мне, $(#идиот/дура). Отвали.<end>
+
+=>a5_original
+Strange.<end>
+
+=>a5
+Странно.<end>
+
+=>a6_original
+You got rid of her, right?<end>
+
+=>a6
+Вы избавились от неё, да?<end>
+
+=>q7_original
+::Nicolas is standing pretty close to the fence overlooking a pool of molten metal.::<end>
+
+=>q7
+::Николас стоит близко к ограждению над резервуаром расплавленного металла.::<end>
+
+=>a8_original
+::Push him over the fence.::<end>
+
+=>a8
+::Столкнуть его через ограждение.::<end>
+
+=>a9_original
+::The worker nearby could see you push Nicolas. You cannot do it while he's around.::<end>
+
+=>a9
+::Неподалёку работает мужчина, который увидит, если вы столкнёте Николаса. Вы не можете сделать это, пока он рядом.::<end>
+
+=>a10_original
+::Leave him alone.::<end>
+
+=>a10
+::Оставить его в покое.::<end>
+
+=>q11_original
+You mucked up, idiot! You get nothing. Idiot. I'm gonna be in muck up to here, and if you linger you'll be too. Get lost!<end>
+
+=>q11
+Ты облажал$(#ся/ась), $(#идиот/дура)! Ты ничего не получишь. $(#Идиот/Дура). Я теперь по горло в шлаке, и ты будешь тоже, если не исчезнешь. Проваливай!<end>
+
+=>q12_original
+::Nicolas tries to conceal how pleased he is with your work, but his smile keeps growing wider and wider.:: 
+
+Golden. You did good, and here's your money. You don't know me; I don't know you. <end>
+
+=>q12
+::Николас пытается не показать вида, насколько он доволен вашей работой, но его улыбка становится всё шире.:: 
+
+Золото. Ты молодец, а вот и твои деньги. Ты меня не знаешь, а я не знаю тебя.<end>
+
+=>q13_original
+::He hands you 800 charons.::<end>
+
+=>q13
+::Он протягивает вам 800 харонов.::<end>
+
+=>q14_original
+::After handing you the charons, he nods and turns away from you.::<end>
+
+=>q14
+::Отдав вам хароны, он кивает и отворачивается от вас.::<end>
+
+=>q15_original
+::He hands you 700 charons.::<end>
+
+=>q15
+::Он протягивает вам 700 харонов.::<end>
+
+=>q16_original
+Listen, I'll be brief: You told me you could... take care of my problem for me? Is that true?<end>
+
+=>q16
+Слушайте, я буду краток: вы говорили, что можете... позаботится о моей проблеме? Это правда?<end>
+
+=>a17_original
+That is true. You told me about your problems.<end>
+
+=>a17
+Это правда. Вы говорили мне о вашей проблеме.<end>
+
+=>q18_original
+Yes, that's correct. I'm not a violent man. Never was. But that woman... that *woman*.
+
+I got a plan, and I want you to listen to me carefully. There is a certain way you must kill her or else the deal is off and you won't get any money.<end>
+
+=>q18
+Да, это так. Я не жестокий человек и никогда таким не стану. Но эта женщина... эта *женщина*.
+
+У меня есть план, и я хочу, чтобы вы выслушали меня внимательно. Нужно убить её определённым способом, иначе сделка отменяется, и вы не получите деньги.<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+It's a deal. I'll do it.<end>
+
+=>a20
+По рукам. Я сделаю это.<end>
+
+=>q21_original
+Golden. That is all. We won't talk until the job's done.<end>
+
+=>q21
+Золото. Вот и всё. Нам не стоит встречаться, пока работа не будет сделана.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>a23_original
+How much money are we talking about?<end>
+
+=>a23
+Сколько денег?<end>
+
+=>q24_original
+Seven hundred stygian coins, only if you can make it look like it's a work-related accident.<end>
+
+=>q24
+Семьсот стигийских монет, но только если вы можете сделать это похожим на несчастный случай на производстве.<end>
+
+=>q25_original
+Otherwise, you get nothing.<end>
+
+=>q25
+В противном случае, вы ничего не получите.<end>
+
+=>a26_original
+::[Mercantile]:: Seven hundred isn't good enough; eight, on the other hand, will give me less incentive to report you.<end>
+
+=>a26
+::[Торговля]:: Семьсот недостаточно; с другой стороны, восемьсот дадут мне меньше желания сообщать о вас.<end>
+
+=>q27_original
+Alright, alright. Eight hundred it is. We have a deal.<end>
+
+=>q27
+Ладно, ладно. Тогда восемьсот. По рукам.<end>
+
+=>q28_original
+Just do the damn job and releive me of this misery. A hundred charons more is worth it.<end>
+
+=>q28
+Просто сделайте дело и освободите меня от этого несчастья. Сто харонов сверху того стоит.<end>
+
+=>q29_original
+What? Look, it's seven hundred and not a single charon more.<end>
+
+=>q29
+Что? Нет, семьсот и ни одного харона больше.<end>
+
+=>q30_original
+And that's final. Got it?<end>
+
+=>q30
+И это всё. Ясно?<end>
+
+=>a31_original
+Where can I find her?<end>
+
+=>a31
+Где мне найти её?<end>
+
+=>q32_original
+She works as a chemist near the explosives warehouse; in fact, she is the one that mixes up the TNT miners use.<end>
+
+=>q32
+Она работает химиком на складе взрывчатки; это она смешивает тротил для шахтёров.<end>
+
+=>q33_original
+The warehouse is near the mine entrance, can't miss it.<end>
+
+=>q33
+Склад находится возле входа в шахту, мимо не пройдёшь.<end>
+
+=>a34_original
+How do you want her to die?<end>
+
+=>a34
+Как вы хотите, чтобы она умерла?<end>
+
+=>q35_original
+You have to make her death look like a work-related accident. Exactly how you do it is your choice, but you have to make sure no one can suspect she was murdered. No poisons, weapons or anything, you get it?<end>
+
+=>q35
+Вы должны заставить всё выглядеть как смерть от несчастного случая на производстве. Как именно вы это сделаете -- дело ваше, но вы должны убедиться, что никто не заподозрит, что она была убита. Никаких ядов, оружия или чего такого, понятно?<end>
+
+=>q36_original
+Remember: *Work*-*related* *accident.* Or else you get nothing.<end>
+
+=>q36
+Помните: *несчастный* *случай* на *производстве*. Иначе вы ничего не получите.<end>
+
+=>a37_original
+There's something else you're not telling me. Why is it so important to make it look like a work accident when you can have her killed in so many different ways and not get caught?<end>
+
+=>a37
+Вы что-то не договариваете. Почему так важно, чтобы всё выглядело как несчастный случай на работе, когда можно её убить всякими разными способами и не попасться?<end>
+
+=>q38_original
+That's none of your business. Just do what I told you.<end>
+
+=>q38
+Это не ваше дело. Просто делайте, как я сказал.<end>
+
+=>a39_original
+::[Intimidate]:: Well, it is my business since I'll be doing the dirty work. Now, answer my question unless you want me to report you.<end>
+
+=>a39
+::[Запугивание]:: Ну, это моё дело, так как грязную работу буду делать я. Теперь отвечайте на мой вопрос, если не хотите, чтобы я сдал вас страже.<end>
+
+=>q40_original
+Take it easy, $(#man/woman). Someone is gonna hear you, damn it.<end>
+
+=>q40
+Успокойся, $(#мужик/женщина). Кто-нибудь тебя услышит же.<end>
+
+=>q41_original
+Look, Foundry is a very dangerous place to work in, obviously, and a few years ago people were becoming more and more reluctant to work here, despite the good, great pay. Therefore, the mayor offered... a sort of an insurance policy, like the thing from old world societies, if you've ever read about it. In short, if one of your family members dies at work, you get the insurance money. Get it?<end>
+
+=>q41
+Ну слушайте, Литейная -- это очень опасное место для работы, это понятно, и несколько лет назад люди стали всё более и более неохотно работать здесь, несмотря на хорошую, большую зарплату. Поэтому мэр предложил... своего рода страховку, как в старом мире, если вы читали об этом. Короче говоря, если член семьи погибает на работе, родня получает деньги по страховке. Теперь ясно?<end>
+
+=>q42_original
+And while I'm getting rid of that witch, I might as well earn some money. And pay you for your work. Everyone's golden.<end>
+
+=>q42
+И раз уж я избавляюсь от этой ведьмы, то могу и заработать немного на этом. И оплатить вам работу. Все в золоте.<end>
+
+=>q43_original
+You don't scare me! I repeat, it's none of your business. You just do your part and you'll get your money.<end>
+
+=>q43
+Ты меня не пугай! Повторяю, это не ваше дело. Просто выполняете свою часть сделки, и получаете деньги.<end>
+
+=>q44_original
+Got it?<end>
+
+=>q44
+Ясно?<end>
+
+=>a45_original
+Fine, I won't ask again.<end>
+
+=>a45
+Хорошо, я не стану спрашивать снова.<end>
+
+=>q46_original
+I'm sure of that.<end>
+
+=>q46
+Это точно.<end>
+
+=>a47_original
+I'm not doing it. Goodbye.<end>
+
+=>a47
+Я не буду этого делать. Прощайте.<end>
+
+=>q48_original
+I see. Goodbye, then.<end>
+
+=>q48
+Понятно. Давай, до свидания.<end>
+
+=>a49_original
+Nope. I don't know what you're talking about.<end>
+
+=>a49
+Нет. Я не понимаю, о чём вы говорите.<end>
+
+=>q50_original
+Leave me alone!<end>
+
+=>q50
+Оставь меня в покое!<end>
+
+=>q51_original
+Yes? ::hic.::<end>
+
+=>q51
+Да? ::Икает.::<end>
+
+=>q52_original
+<end>
+
+=>q52
+<end>
+
+=>a53_original
+Why are you drinking all alone?<end>
+
+=>a53
+Почему вы пьёте в одиночестве?<end>
+
+=>q54_original
+It's none of your business, you, you odd person that refuses free drinks! Demon. ::hic:: Why would I tell *anything* to you?<end>
+
+=>q54
+Это не ваше дело, вы, вы, странный человек, который отказывается от бесплатной выпивки! Демон. ::Икает.:: Зачем мне вам что-то говорить?<end>
+
+=>a55_original
+Well, I have a relative who sat home and drowned his problems with booze. He was found dead in a pool of his own vomit. So, if there's something you wanna talk about...<end>
+
+=>a55
+Ну, у меня был родственник, который сидел дома и глушил проблемы выпивкой. Его нашли мёртвым в луже собственной блевотины. Так, если вы о чём-то хотели поговорить...<end>
+
+=>q56_original
+I don't wanna vomit in my die... pffft... die in my vomit.<end>
+
+=>q56
+Я не хочу блевать в... пф-ф-ф... умереть в блевотине.<end>
+
+=>q57_original
+Listen, I'm having some personal... issues. ::He takes another gulp of the booze.:: It's my wife, Olivia. After twenty years of being happily married, it's like someone spilled molten metal all over our marriage. We, pffft... at first we began arguing more and more and... later it got worse and worse. Now we argue over everything. ::hic:: It's unbearable now. We fight all the time and... she throws stuff at me... and I punched that stupid woman once so hard she fell on the floor. Yeah! Upffff...<end>
+
+=>q57
+Слушайте, у меня возникли некоторые... личные проблемы. ::Он делает ещё один глоток из бутылки.:: Это моя жена, Оливия. После двадцати лет семейного счастья, как будто кто-то вылил расплавленный металл на наш брак. Мы, пф-ф-ф... сначала мы начали спорить всё больше и больше и... потом стало всё хуже и хуже. Теперь мы ругаемся обо всём. ::Икает.:: Это невыносимо. Мы всё время ругаемся... и она бросается в меня... и я один раз так дал этой дуре, что она полетела на пол. Да! Уф-ф-ф...<end>
+
+=>a58_original
+That sounds horrible!<end>
+
+=>a58
+Это ужасно!<end>
+
+=>q59_original
+It is! It's very bad. I hate that woman so much now... and I don't even really know why it all started happening. ::hic:: What did you say your name was, again?<end>
+
+=>q59
+Да! Ещё как. Я теперь просто ненавижу эту женщину... и я даже не знаю, как это всё началось. ::Икает.:: Как вы сказали, вас зовут?<end>
+
+=>a60_original
+It's $(context.player.Name).<end>
+
+=>a60
+Меня зовут $(context.player.Name).<end>
+
+=>q61_original
+So, you, there you go. ::hic:: I feel nothing but pure hate for that muck-woman. ::He seems lost in thought, but after a couple of moments he starts talking again.:: It is unbearable. So much I even plan on killing her! ::As soon as he utters those words, his eyes instantly become clear and focused, as if he has sobered up in an instant. Tiny drops of sweat start rolling down his face, slowly growing larger and larger.::<end>
+
+=>q61
+Ну и вот, такие дела. ::Он икает.:: Я не чувствую ничего, кроме ненависти к этой шлачной бабе. ::Он, кажется, размышляет о чём-то, но через мгновение он продолжает.:: Это невыносимо. Настолько, что я даже собираюсь убить её! ::Как только он произносит эти слова, его глаза мгновенно становятся ясными и сосредоточенными, как будто он протрезвел в мгновение ока. Крошечные капли пота скатываясь по его лицу, увеличиваются в размере и падают вниз.::<end>
+
+=>a62_original
+Why didn't you say so right away. I can take care of her for you. For a price, of course.<end>
+
+=>a62
+Почему вы сразу не сказали. Я могу позаботиться о ней. За деньги, конечно.<end>
+
+=>q63_original
+This conversation is over! ::hic:: I'm very tired. Out! ::He points to the door.:: Out, I said!<end>
+
+=>q63
+Этот разговор окончен! ::Он икает.:: Я очень устал. Вон! ::Он указывает на дверь.:: Вон, я сказал!<end>
+
+=>a64_original
+Don't stress yourself over that slip-up, man. That ain't any of my business.<end>
+
+=>a64
+Не нервничайте на этот счёт. Это не моё дело.<end>
+
+=>a65_original
+I did not hear this correct, right?<end>
+
+=>a65
+Я, должно быть, ослышал$(#ся/ась), да?<end>
+
+=>a66_original
+Kill her? You drunken oaf! Are you derailed?<end>
+
+=>a66
+Убить её? Пьяный болван! Ты поехавший?<end>
+
+=>a67_original
+How can you just start to hate someone after twenty years of marriage?
+<end>
+
+=>a67
+Как можно просто начать ненавидеть кого-то после двадцати лет брака?<end>
+
+=>q68_original
+I have no idea... I really don't. But, I hate that woman so much now... and I don't even really know why it all started happening. ::hic:: What did you say your name was, again?<end>
+
+=>q68
+Я понятия не имею... я действительно не знаю. Но я теперь просто ненавижу эту женщину... и я даже не знаю, как это всё началось. ::Икает.:: Как вы сказали, вас зовут?<end>
+
+=>a69_original
+Sorry, I'll ask you something else then.<end>
+
+=>a69
+Извините, я лучше спрошу что-нибудь другое.<end>
+
+=>q70_original
+Yeah?<end>
+
+=>q70
+Да?<end>
+
+=>a71_original
+What can you tell me about Foundry?<end>
+
+=>a71
+Что вы можете рассказать мне про Литейную?<end>
+
+=>q72_original
+Well, from my current perspective, it's all a bit hazy and shaky. ::hic.::<end>
+
+=>q72
+Ну, с моей точки зрения, она какая-то мутная и шатается. ::Икает.::<end>
+
+=>q73_original
+I could be hazy due to foul air. It hazes up... pfffft... things.<end>
+
+=>q73
+Тут может быть туманно из-за грязного воздуха. Он тут затуманивает... пф-ф-ф... всё.<end>
+
+=>a74_original
+Do you know anything about the mine creatures?<end>
+
+=>a74
+Вы что-нибудь знаете о зверях в шахте?<end>
+
+=>q75_original
+I have no idea what you're talking about, you. What creatures? ::hic.:: You need to, uh, yeah. Creatures, you say? Aaaah, you mean Messer's pigs? Silly odd $(#man/woman), those are pigs, not creatures. I mean... ugh... pfffft.<end>
+
+=>q75
+Я понятия не имею, о чём вы говорите, вы. Какие звери? ::Икает.:: Вы лучше, э-э, да. Звери, вы говорите? А-а-а, вы имеете в виду свиней Мессера? Глуп$(#ый/ая) странн$(#ый/ая) $(#мужчина/женщина), это свиньи, а не звери. В смысле... уф... пф-ф-ф.<end>
+
+=>q76_original
+Ah, *mine* creatures. I get it now. But I don't have any pigs, no. Messer's got pigs. He-he. Sounds like he's got herpes or something. Messer's got pigs, he-he. HE-HE! He's got creatures! ::He bursts out laughing.::
+
+I'm feeling hungry now. ::hic.::<end>
+
+=>q76
+А, *мои* звери. Теперь я понял. Но у меня нет свиней, нет. У Мессера свиньи. Хе-хе. Сказал так, будто у него лишай или типа того. У Мессера свиньи, хе-хе. ХЕ-ХЕ! У него звери! ::Он лопается от смеха.::
+
+Теперь я хочу есть. ::Икает.::<end>
+
+=>a77_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a77
+Как дела теперь, когда шахта вновь открылась?<end>
+
+=>q78_original
+It was closed? ::hic::<end>
+
+=>q78
+Она была закрыта? ::Икает.::<end>
+
+=>q79_original
+Muck damn! Tough.<end>
+
+=>q79
+Вот шлак! Жёстко.<end>
+
+=>a80_original
+Gotta go.<end>
+
+=>a80
+Мне пора.<end>
+
+=>q81_original
+Bye, you!<end>
+
+=>q81
+До свидания, вы!<end>
+
+=>q82_original
+::An obviously drunk man staggers about the room. He picks up one of the bottles on the table and begins drinking from it only to realize it is completely empty. His face deforms in utter disgust as he returns the bottle and steps away from the table. That is when he spots you.::
+
+Who are you, and what are you doing in my house, huh, you? Err... did you knock? ::hic.::<end>
+
+=>q82
+::Явно пьяный мужик нетвёрдо шагает по комнате. Он берёт в руки одну из бутылок со стола и начинает пить из неё, не сразу замечая, что она совершенно пуста. Его лицо искривляется в отвращении, он ставит бутылку на место и отступает от стола. И тут он замечает вас.::
+
+Кто вы, и что вы делаете в моём доме, эй, ты? Э-э-э... вы стучали? ::Икает.::<end>
+
+=>a83_original
+Yes.<end>
+
+=>a83
+Да.<end>
+
+=>q84_original
+Well dang, I heard nothing. I'm so sorry. ::hic:: But where are my manners? Would you like a drink?<end>
+
+=>q84
+Ну, блин, я ничего не слышал. Мне очень жаль. ::Икает.:: Но где мои манеры? Не хотите выпить?<end>
+
+=>a85_original
+Sure, I'd appreciate it.<end>
+
+=>a85
+Конечно, не откажусь.<end>
+
+=>q86_original
+You don't want any? Well, that's a shame - and a bit odd if you ask me. $(#He/She) doesn't want a free drink, he-he. Silly. More for me, though. ::He pours himself another drink after finally finding a bottle with some liquor in it..:: 
+
+I'm Nicolas, by the way. Nice to meet you, you.<end>
+
+=>q86
+Не хотите? Ну, очень жаль и немного странно, мне кажется. Он$(#/а) не хочет бесплатной выпивки, хе-хе. Глупо. Ну, мне больше останется. ::Он наливает себе ещё выпить, наконец найдя не совсем пустую бутылку.::
+
+Я Николас, кстати. Приятно познакомиться с вами.<end>
+
+=>a87_original
+You heard wrong. I said--<end>
+
+=>a87
+Вы не расслышали. Я ска...<end>
+
+=>q88_original
+Sooooo, what can I do for you? ::hic::<end>
+
+=>q88
+И-и-и-и-и, что я могу сделать для вас? ::Икает.::<end>
+
+=>a89_original
+I do want a dr--<end>
+
+=>a89
+Почему бы и н...<end>
+
+=>a90_original
+But I--<end>
+
+=>a90
+Но я...<end>
+
+=>a91_original
+No, thank you.<end>
+
+=>a91
+Нет, спасибо.<end>
+
+=>a92_original
+No.<end>
+
+=>a92
+Нет.<end>
+
+=>q93_original
+Well, you should knock you know! It's very rude to... pfffft... enter someone's house like that. ::hic:: I should just throw you out. ::He grabs his head with both arms.:: Ooh, my head hurts when I get angry! Oooh... Go back outside and knock if you want me to let you in. ::hic::<end>
+
+=>q93
+Ну, так надо стучать, знаете ли! Это крайне невежливо... пф-ф-ф-ф... входить в чужой дом вот так. ::Икает.:: Стоило бы просто вышвырнуть вас отсюда. ::Он хватается за голову обеими руками.:: Ох, у меня болит голова когда я злюсь! О-о-о... Выйдите на улицу и постучите, если хотите, чтобы я вас впустил. ::Икает.::<end>
+
+=>q94_original
+Did you knock now, huh?<end>
+
+=>q94
+Теперь вы стучали, а?<end>
+
+=>a95_original
+Yes.<end>
+
+=>a95
+Да.<end>
+
+=>q96_original
+See, that's more like it... ::hic:: even though I heard nothing, which is strange... pffft. Ah, anyway, where are my manners? Would you like a drink? Hm?<end>
+
+=>q96
+Вот, так-то оно лучше... ::Икает.:: Хотя я ничего не слышал, что странно... пф-ф-ф... А ну да ладно, где мои манеры? Не желаете выпить? М-м?<end>
+
+=>a97_original
+No.<end>
+
+=>a97
+Нет.<end>
+
+=>q98_original
+Well, go back outside and knock, you dimwit!<end>
+
+=>q98
+Ну, так выйди на улицу и постучи, $(#баран/овца)!<end>
+
+=>q99_original
+I'm very busy. Can't talk now.<end>
+
+=>q99
+Я очень занят. Не могу сейчас говорить.<end>
+
+=>q100_original
+Pst, you! I'd like to talk to you for a second. Can you meet me in the back?<end>
+
+=>q100
+Пс-с-с, эй! Я бы хотел поговорить с вами минутку. Можете ли вы встретиться со мной позади той печи?<end>
+
+=>a101_original
+::Follow him.::<end>
+
+=>a101
+::Следовать за ним.::<end>
+
+=>a102_original
+I'm busy now.<end>
+
+=>a102
+Мне сейчас некогда.<end>
+
+=>q103_original
+Busy? Alright... but talk to me as soon as you can. Got it?<end>
+
+=>q103
+Некогда? Ладно... но зайдите ко мне как можно скорее. Слышите?<end>
+
+=>q104_original
+Yes? Changed your mind?<end>
+
+=>q104
+Да? Передумали?<end>
+
+=>a105_original
+Yes, let's talk.<end>
+
+=>a105
+Да, давайте поговорим.<end>
+
+=>q106_original
+Great, follow me.<end>
+
+=>q106
+Отлично, следуйте за мной.<end>
+
+=>a107_original
+I have to go.<end>
+
+=>a107
+Мне нужно идти.<end>
+
+=>q108_original
+::Nicolas completely ignores you.::<end>
+
+=>q108
+::Николас игнорирует вас.::<end>
+

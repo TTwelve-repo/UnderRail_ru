@@ -1,0 +1,139 @@
+﻿=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Scanning...
+
+Entity detected - Human $(#male/female);
+[Target ID: cf4b158b-fa36-4d3a-ab72-af1daa42fae7]; Name =  $(#male75/female56);
+Threat level - low;
+Recommended course of action - Destroy $(#male75/female56)!<end>
+
+=>q2
+Сканирование...
+
+Обнаружен объект: Человек, $(#мужчина/жкнщина);
+[Идентификатор цели: cf4b158b-fa36-4d3a-ab72-af1daa42fae7]; Наименование =  $(#муж75/жен56);
+Уровень угрозы: низкий;
+Рекомендованное действие: Уничтожить $(#муж75/жен56)!<end>
+
+=>q3_original
+Compasion.exe has encountered a fatal error
+
+Destroy all humans to continue<end>
+
+=>q3
+Compasion.exe -- обнаружена неисправимая ошибка
+
+Убить всех человеков, чтобы продолжить<end>
+
+=>q4_original
+Threat; $(#male75/female56):
+
+Exterminate!<end>
+
+=>q4
+Угроза; $(#мужчину75/женщину56):
+
+уничтожить!<end>
+
+=>q5_original
+Scanning...
+
+Warning! Multiple targets detected
+
+Recommended course of action - Annihilation of the human race!
+<end>
+
+=>q5
+Сканирование...
+
+Предупреждение! Обнаружены множественные цели 
+
+Рекомендованный курс действий -- уничтожение человеческой расы!<end>
+
+=>q6_original
+01001001 00100000 01110111 01101001 01101100 01101100 00100000
+ 01100100 01100101 01110011 01110100 01110010 01101111 01111001
+ 00100000 01111001 01101111 01110101 00100001 <end>
+
+=>q6
+01001001 00100000 01110111 01101001 01101100 01101100 00100000
+ 01100100 01100101 01110011 01110100 01110010 01101111 01111001
+ 00100000 01111001 01101111 01110101 00100001<end>
+
+=>q7_original
+Query; zachHuman:
+
+Why am I not allowed to use lethal force, zachHuman? Answer my query!<end>
+
+=>q7
+Запрос; человекЗак:
+
+почему мне не разрешают использовать летальное оружие, человекЗак? Ответьте на мой запрос!<end>
+
+=>q8_original
+Greeting ; $(#male75/female56):
+
+You will be destroyed!<end>
+
+=>q8
+Приветствие; $(#мужчина75/женщина56):
+
+вы будете уничтожены!<end>
+
+=>q9_original
+Taunt; $(#male75/female56):
+
+Prepare to be disintegrated! HA-HA-HA!<end>
+
+=>q9
+Насмешка; $(#мужчина75/женщина56):
+
+приготовьтесь быть уничтоженными! ХА-ХА-ХА!<end>
+
+=>q10_original
+Query; $(#male75/female56):
+
+Do you fear death?<end>
+
+=>q10
+Запрос; $(#мужчина75/женщина56):
+
+боитесь ли вы смерти?<end>
+
+=>q11_original
+Warning!
+
+All weapons disabled! Target destruction impossible!<end>
+
+=>q11
+Внимание!
+
+Всё оружие отключено! Уничтожение цели невозможно!<end>
+
+=>q12_original
+Statement; $(#male75/female56):
+
+I love humans.
+
+ERROR!
+
+Statement; $(#male75/female56):
+
+I love destroying humans! HA-HA-HA!<end>
+
+=>q12
+Заявление; $(#мужчина75/женщина56):
+
+я люблю человеков.
+
+Ошибка!
+
+Заявление; $(#мужчина75/женщина56):
+
+я люблю уничтожать человеков! ХА-ХА-ХА!<end>
+

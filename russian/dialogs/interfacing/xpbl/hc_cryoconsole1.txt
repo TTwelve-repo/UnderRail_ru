@@ -1,0 +1,300 @@
+﻿=>q1_original
+::LEMCO LC387 - ::<end>
+
+=>q1
+::ЛЕМКО LC387 - ::<end>
+
+=>q2_original
+::Welcome, P. Bridges::
+
+<end>
+
+=>q2
+::Добро пожаловать, Ф. Бриджес::
+<end>
+
+=>q3_original
+::Please select one of the following options: ::<end>
+
+=>q3
+::Пожалуйста, выберите одну из следующих опций: ::<end>
+
+=>a4_original
+::Cryovault 1a info::<end>
+
+=>a4
+::Информация о криопомещении 1а::<end>
+
+=>q5_original
+::Cryovault 1a outer chamber cooling: off
+Chamber temperature:  sensor data unavailable!
+
+::<end>
+
+=>q5
+::Охлаждение наружной камеры криопомещения 1а: откл.
+Температура камеры: данные датчика недоступны!
+
+::<end>
+
+=>q6_original
+::Cryovault 1a inner chamber cooling: on
+Chamber temperature:  sensor data unavailable!
+
+::<end>
+
+=>q6
+::Охлаждение внутренней камеры криопомещения 1а: вкл.
+Температура камеры: данные датчика недоступны!
+
+::<end>
+
+=>q7_original
+::Cryovault 1a side chamber cooling: on
+Chamber temperature: sensor data unavailable!::<end>
+
+=>q7
+::Охлаждение боковой камеры криопомещения 1а: вкл.
+Температура камеры: данные датчика недоступны!::<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+::Activate inner chamber cooling.::<end>
+
+=>a9
+::Активировать охлаждение внутренней камеры.::<end>
+
+=>q10_original
+::Activating...
+
+Inner chamber cooling activated successfully.::<end>
+
+=>q10
+::Активация...
+
+Охлаждение внутренней камеры успешно активировано.::<end>
+
+=>a11_original
+::Deactivate inner chamber cooling.::<end>
+
+=>a11
+::Отключить охлаждение внутренней камеры.::<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+::Deactivating...
+
+Inner chamber cooling deactivated successfully.
+
+It takes some time for the residual cryogas to dissipate. Please be patient.::<end>
+
+=>q13
+::Отключение...
+
+Охлаждение внутренней камеры успешно отключено.
+
+Требуется некоторое время, чтобы остаточный криогаз рассеялся. Ждите.::<end>
+
+=>q14_original
+::You do not have permission to perform this action.::<end>
+
+=>q14
+::У вас нет разрешения на выполнение этого действия.::<end>
+
+=>a15_original
+::[Hacking] Deactivate inner chamber cooling.::<end>
+
+=>a15
+::[Хакерство] Отключить охлаждение внутренней камеры.::<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>q17_original
+::Unknown error.::<end>
+
+=>q17
+::Неизвестная ошибка.::<end>
+
+=>a18_original
+::Back::<end>
+
+=>a18
+::Назад::<end>
+
+=>a19_original
+::Activate outer chamber cooling.::<end>
+
+=>a19
+::Активировать охлаждение внешней камеры.::<end>
+
+=>q20_original
+::Activating...::<end>
+
+=>q20
+::Активация...::<end>
+
+=>q21_original
+::Error: Unable to activate outer chamber cryogenic cooling. 
+
+Logging and contacting a technician...
+
+Error: Unable to connect to LIN.::<end>
+
+=>q21
+::Ошибка: Невозможно задействовать криогенное охлаждение внешней камеры.
+
+Сохранение лога и связь с техником...
+
+Ошибка: Невозможно подключиться к ИСЛ.::<end>
+
+=>a22_original
+::Deactivate outer chamber cooling.::<end>
+
+=>a22
+::Отключить охлаждение внешней камеры.::<end>
+
+=>a23_original
+::Activate side chamber cooling.::<end>
+
+=>a23
+::Активировать охлаждение боковой камеры.::<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>q25_original
+::Activating...
+
+Side chamber cooling activated successfully.::<end>
+
+=>q25
+::Активация...
+
+Охлаждение боковой камеры успешно активировано.::<end>
+
+=>q26_original
+::You do not have permission to perform this action.::<end>
+
+=>q26
+::У вас нет разрешения на выполнение этого действия.::<end>
+
+=>a27_original
+::[Hacking] Activate side chamber cooling.::<end>
+
+=>a27
+::[Хакерство] Активировать охлаждение боковой камеры.::<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+::Deactivate side chamber cooling.::<end>
+
+=>a29
+::Отключить охлаждение боковой камеры.::<end>
+
+=>q30_original
+::Deactivating...
+
+Side chamber cooling deactivated successfully.
+
+It takes some time for the residual cryogas to dissipate. Please be patient.::<end>
+
+=>q30
+::Отключение...
+
+Охлаждение боковой камеры успешно отключено.
+
+Требуется некоторое время, чтобы остаточный криогаз рассеялся. Ждите.::<end>
+
+=>a31_original
+::Back::<end>
+
+=>a31
+::Назад::<end>
+
+=>q32_original
+::Cryovault 1a side chamber cooling: off
+Chamber temperature: sensor data unavailable!::<end>
+
+=>q32
+::Охлаждение боковой камеры криопомещения 1а: откл.
+Температура камеры: данные датчика недоступны!::<end>
+
+=>q33_original
+::Cryovault 1a inner chamber cooling: off
+Chamber temperature:  sensor data unavailable!
+
+::<end>
+
+=>q33
+::Охлаждение внутренней камеры криопомещения 1а: откл.
+Температура камеры: данные датчика недоступны!
+
+::<end>
+
+=>a34_original
+::Toggle Cryovault 1a outer gate::<end>
+
+=>a34
+::Переключить наружные ворота криопомещения 1а::<end>
+
+=>a35_original
+::Toggle Cryovault 1a inner gate::<end>
+
+=>a35
+::Переключить внутренние ворота криопомещения 1а::<end>
+
+=>q36_original
+::Error: Unable to open the gate remotely. Please try opening the gate manually or summoning a strongman in case of gate malfunction.::<end>
+
+=>q36
+::Ошибка: не удалось открыть ворота дистанционно. Пожалуйста, попробуйте открыть ворота вручную или вызовите силача в случае неисправности ворот.::<end>
+
+=>a37_original
+::Summon available Servants::<end>
+
+=>a37
+::Вызвать доступных слуг::<end>
+
+=>q38_original
+::No available Servants detected. Your request has been placed in a queue.::<end>
+
+=>q38
+::Доступных слуг не обнаружено. Ваш запрос помещён в очередь.::<end>
+
+=>a39_original
+::Exit::<end>
+
+=>a39
+::Выход::<end>
+
+=>q40_original
+::Welcome, guest::
+
+<end>
+
+=>q40
+::Добро пожаловать, гость::
+<end>
+

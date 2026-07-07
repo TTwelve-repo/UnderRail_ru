@@ -1,0 +1,276 @@
+﻿=>q1_original
+We are not surviving this.<end>
+
+=>q1
+Мы не выживем.<end>
+
+=>q2_original
+::This thin man seems uninterested in you at first glance, as his facial expression doesn't change at all when he notices you trying to start a conversation - and his body language doesn't differ. What you also find peculiar is the fact that he almost never breaks eye contact, but maintains it during the whole conversation. Luckily, he blinks in regular intervals, or else the mechanical stare would seem even more awkward. Also, it comes as no surprise that his tone of voice is as flat as his excitement for the conversation he is engaged in.::
+
+Tchort is evolution. I am Investigator Kiro. Who are you?<end>
+
+=>q2
+::Этот худой мужчина, кажется, совершенно не заинтересован в вас; выражение его лица не меняется, когда он замечает, что вы пытаетесь завести разговор, и он никак не проявляет интереса. Вы также замечаете тот своеобразный факт, что он практически никогда не разрывает зрительный контакт, а сохраняет его в течение всего разговора. К счастью, он хотя бы равномерно моргает, иначе этот механический взгляд казался бы ещё более неловким. Также, совершенно неудивительно, что тон его голоса вполне отражает его заинтересованность разговором.::
+
+Чорт -- это эволюция. Я исследователь Киро, а кто вы?<end>
+
+=>a3_original
+Evolution is Tchort, brother. I am $(context.player.Name) and I wanted to ask you a few questions.<end>
+
+=>a3
+Эволюция -- это Чорт, брат. Я $(context.player.Name) и я хотел$(#/а) задать вам несколько вопросов.<end>
+
+=>q4_original
+No problem at all, $(#brother/sister). What is on your mind?<end>
+
+=>q4
+Никаких проблем, $(#брат/сестра). Что у вас на уме?<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::[Mechanics]:: Do you happen to have any spare super steel sheets that aren't going to be used in the particle accelerator? I might need them for... constructing certain things.<end>
+
+=>a6
+::[Механика]:: У вас случайно нет запасных пластин сверхстали, которые не нужны для использования в ускорителе частиц? Они могут понадобиться мне для... конструирования некоторых вещей.<end>
+
+=>q7_original
+Super steel components for the particle accelerator are costly and take time to manufacture to our apex standards. Since the production is limited and demand great, I cannot spare a single one of those, $(#brother/sister).<end>
+
+=>q7
+Компоненты из сверхпрочной стали для ускорителя частиц являются дорогостоящими, и их производство в соответствии с нашими высшими стандартами требует времени. Так как производство ограничено, а спрос большой, я не могу сэкономить ни один из них $(#братr/сестра).<end>
+
+=>q8_original
+However, sheets are sometimes replaced after a certain number of particular experiments. They degrade in quality and are no longer suitable for testing. We either recycle them or repurpose them.
+
+These I can spare. You may take a look at them if you wish.<end>
+
+=>q8
+Однако листы иногда заменяют после определённого количества конкретных экспериментов. Они ухудшают качество и больше не подходят для испытаний. Мы либо перерабатываем их, либо переделываем.
+
+Эти я могу сэкономить. Вы можете взглянуть на них, если хотите.<end>
+
+=>a9_original
+::Barter.::<end>
+
+=>a9
+::Обмен.::<end>
+
+=>a10_original
+Principal Investigator Schteff told me I could purchase high-tech stuff from you.<end>
+
+=>a10
+Научный руководитель Штефф сказал, что я могу купить у вас всякие высокотехнологичные штуки.<end>
+
+=>q11_original
+Of course, $(#brother/sister). Please wait a moment and I will show you what is available.<end>
+
+=>q11
+Конечно, $(#брат/сестра). Пожалуйста, подождите немного, и я покажу вам, что есть в наличии.<end>
+
+=>a12_original
+I would like to purchase something.<end>
+
+=>a12
+Я хотел$(#/а) бы приобрести кое-что.<end>
+
+=>a13_original
+I am in need of some high-tech gadgetry and components. I guess this would be the right place to ask...<end>
+
+=>a13
+Мне нужны определённые высокотехнологичные устройства и компоненты. Я думаю, вы могли бы мне помочь...<end>
+
+=>q14_original
+There are components and devices that I may be able to offer you for purchase, but I must have PI Schteff's permission before I can actually do so. You can go ask him.<end>
+
+=>q14
+Я могу продать вам компоненты и устройства, но сначала мне потребуется разрешение руководителя Штеффа. Вы можете пойти и спросить его.<end>
+
+=>a15_original
+Okay, just tell me where can I find him?<end>
+
+=>a15
+Ладно, только скажите мне, где я могу его найти?<end>
+
+=>q16_original
+His office is the one with double doors, just by the resonant transformer. Hard to miss it, $(#brother/sister).<end>
+
+=>q16
+Его кабинет находится за двойными дверями, рядом с резонансным трансформатором. Трудно не заметить, $(#брат/сестра).<end>
+
+=>a17_original
+I'll ask him that, but I had other questions first.<end>
+
+=>a17
+Я спрошу у него, но сначала у меня есть другие вопросы.<end>
+
+=>q18_original
+Of course, $(#brother/sister).<end>
+
+=>q18
+Конечно, $(#брат/сестра).<end>
+
+=>a19_original
+I'll go ask him then. Will be right back.<end>
+
+=>a19
+Тогда я пойду спрошу его. Скоро вернусь.<end>
+
+=>a20_original
+Can you tell me who's in charge here?<end>
+
+=>a20
+Не подскажете мне, кто здесь главный?<end>
+
+=>q21_original
+That would be Principal Investigator Schteff; he runs the Department of Physics. He should be in his office in case you need him.<end>
+
+=>q21
+Это будет научный руководитель Штефф, он заведует кафедрой физики. Он обычно в своём кабинете, если вы его ищете.<end>
+
+=>q22_original
+Anything else on your mind, $(#brother/sister)?<end>
+
+=>q22
+Что-нибудь ещё, $(#брат/сестра)?<end>
+
+=>a23_original
+What's that machine you're working on?<end>
+
+=>a23
+Что это за машина, над которой вы работаете?<end>
+
+=>q24_original
+This is our particle accelerator.<end>
+
+=>q24
+Посмотрите на наш ускоритель частиц!<end>
+
+=>a25_original
+::[Electronics]:: What accelerates the particles? Electromagnetic fields?<end>
+
+=>a25
+::[Электроника]:: Что разгоняет частицы? Электромагнитные поля?<end>
+
+=>q26_original
+Precisely, $(#brother/sister). <end>
+
+=>q26
+Точно, $(#брат/сестра).<end>
+
+=>q27_original
+What you see before you is only one part of the machine - the rest is a five-hundred-meter-long circular *track* looping through the Institute building. This allows us to propel particles around until they reach sufficient speed, and then we steer them, guide them - like Tchort guides us - with superconducting magnets.<end>
+
+=>q27
+То, что вы видите перед собой, -- только одна часть машины, остальное -- пятисотметровая кольцевая *дорожка*, проходящая через здание Института. Это позволяет раскручивать частицы до тех пор, пока они не наберут достаточную скорость, а затем мы направляем их, направляем -- как Чорт направляет нас -- с помощью сверхпроводящих магнитов.<end>
+
+=>q28_original
+The particles form beams, and then we can collide them or aim them at fixed targets.<end>
+
+=>q28
+Частицы образуют лучи, и тогда мы можем столкнуть их или направить на неподвижные цели.<end>
+
+=>a29_original
+By Tchort!<end>
+
+=>a29
+Чорт!<end>
+
+=>q30_original
+Apex, is it not?<end>
+
+=>q30
+Апекс, не так ли?<end>
+
+=>a31_original
+What do you learn from all of this?<end>
+
+=>a31
+Что вы узнали из всего этого?<end>
+
+=>q32_original
+We can study how the particles react during collision, what kind of radiation gets released - we can observe the effects it has on materials and tissue. It can be used for many things. Currently we use it to simulate Surface radiation, or what we hypothesize it could be like. 
+
+Or, we will be using it after the replacement super steel sheets are installed inside the track.<end>
+
+=>q32
+Мы можем изучать, как частицы реагируют при столкновении, какое излучение высвобождается - мы можем наблюдать, как оно влияет на материалы и ткани. Его можно использовать для многих вещей. В настоящее время мы используем его для имитации поверхностного излучения или того, на что, как мы предполагаем, оно может быть похоже.
+
+Или же, мы будем использовать его после того, как сменные стальные листы будут установлены на гусеничной ленте.<end>
+
+=>q33_original
+We are fortunate to have inherited it from the original engineers of this building. We can maintain it - but constructing one today would be nigh impossible.<end>
+
+=>q33
+Нам повезло, что мы унаследовали её от первых инженеров этого здания. Мы можем поддерживать её, но построить её сегодня было бы почти невозможно.<end>
+
+=>a34_original
+What do you use it for?<end>
+
+=>a34
+Для чего вы его используете?<end>
+
+=>q35_original
+Experiments, $(#brother/sister). <end>
+
+=>q35
+Эксперименты, $(#брат/сестра).<end>
+
+=>a36_original
+What's that?<end>
+
+=>a36
+Что это?<end>
+
+=>a37_original
+Tchort guide you.<end>
+
+=>a37
+Чорт направит вас.<end>
+
+=>q38_original
+Tchort guide you, $(#brother/sister).<end>
+
+=>q38
+Чорт направит вас, $(#брат/сестра).<end>
+
+=>a39_original
+Goodbye, Kiro.<end>
+
+=>a39
+До свидания, Киро.<end>
+
+=>a40_original
+Hello, my name is $(context.player.Name) and I was wondering if you could answer a few questions for me.<end>
+
+=>a40
+Здравствуйте, меня зовут $(context.player.Name). Я надеюсь, вы могли бы ответить на несколько вопросов.<end>
+
+=>q41_original
+I do have the time, $(#brother/sister). What is on your mind?<end>
+
+=>q41
+У меня есть время, $(#брат/сестра). Что у вас на уме?<end>
+
+=>a42_original
+Hey there, Kiro. $(context.player.Name) is the name I go by, and I had a couple of questions if I that's okay with you.<end>
+
+=>a42
+Привет, Киро. Я называюсь $(context.player.Name), и у меня была пара вопросов, если вы не против.<end>
+
+=>q43_original
+These constant tremors are really distracting.<end>
+
+=>q43
+Эти постоянные толчки очень отвлекают.<end>
+
+=>q44_original
+What is on your mind, $(#brother/sister)?<end>
+
+=>q44
+Что у вас на уме, $(#брат/сестра)?<end>
+

@@ -1,0 +1,176 @@
+﻿=>q1_original
+::You see a dull-faced man wearing a doctor's coat. Looking at it you imagine it once used to be fresh and chalk-white before age and consistent use combined introduced unwashable impurities. It is as if the coat reflects its owner, for he too invokes a clear image of someone who used to be young and full of spirit but is now shriveling up as the hardships of life slowly win their personal war, one battle at a time. He looks at you with his tired, lifeless eyes and addresses you with a monotone voice.::
+
+Hello, I'm Doctor Stevenson. How may I help you?<end>
+
+=>q1
+::Вы видите человека с невыразительным лицом, одетого в докторский халат. Этот халат был, наверное, когда-то свежим и белоснежным, но годы и постоянное использование взяли своё. Его владелец, под стать халату, также выглядит как кто-то, кто был раньше молод и полон духа, но сейчас съёжился под тяготами жизни, медленно ведя свою личную войну, один бой за другим. Он смотрит на вас усталыми, поблекшими глазами и говорит монотонным голосом.::
+
+Здравствуйте, я доктор Стивенсон. Чем я могу вам помочь?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Can you check my wounds, Doc?<end>
+
+=>a3
+Не могли бы вы взглянуть на мои раны, Док?<end>
+
+=>q4_original
+Sure, but it'll cost you ten charons.<end>
+
+=>q4
+Конечно, но это будет стоить вам десять харонов.<end>
+
+=>a5_original
+Here you go, doc. ::Pay ten stygian coins.::<end>
+
+=>a5
+Держите, док. ::Заплатить десять стигийских монет.::<end>
+
+=>a6_original
+I'm okay, I was just joking.<end>
+
+=>a6
+Я в порядке, я просто пошутил$(#/а).<end>
+
+=>q7_original
+::He answers with a sour face.:: Yes. Anything else?<end>
+
+=>q7
+::Он отвечает с кислой миной.:: Да. Что-нибудь ещё?<end>
+
+=>a8_original
+What can you tell me about Foundry?<end>
+
+=>a8
+Что вы можете рассказать мне про Литейную?<end>
+
+=>q9_original
+Do you really want to know what I think of Foundry?<end>
+
+=>q9
+Вы действительно хотите знать, что я думаю про Литейную?<end>
+
+=>a10_original
+Yes.<end>
+
+=>a10
+Да.<end>
+
+=>q11_original
+Foundry... people die in this place in such numbers it makes me sick. I often wake up thinking about lost lives, people I could've saved, or dismembered bodies that are brought in my office every day. I wanted to help people, see joyful faces as I tell them that their loved ones are going to make it, that those injuries will heal quickly, or that the pollution will cause them no long-term harm.
+
+But no, I just face death. Each and every day.<end>
+
+=>q11
+Литейная... люди умирают здесь таких количествах, что меня тошнит. Я часто просыпаюсь с мыслями о потерянных жизнях, людях, которых я мог спасти, или расчленённых телах, которые приносят в мой кабинет каждый день. Я хотел помогать людям, видеть радостные лица, когда я говорю, что их близкие поправятся, что раны заживут быстро, или что загрязнение не принесёт им вреда.
+
+Но нет, я вижу только смерть. Каждый день.<end>
+
+=>q12_original
+So, enjoy your stay, traveler, and take care.<end>
+
+=>q12
+Что же, приятного вам дня, путешественник, и берегите себя.<end>
+
+=>a13_original
+On second thought, maybe not.<end>
+
+=>a13
+Честно говоря, нет.<end>
+
+=>q14_original
+Good choice. Anything else?<end>
+
+=>q14
+Хороший выбор. Что-нибудь ещё?<end>
+
+=>a15_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a15
+Как дела теперь, когда шахта вновь открылась?<end>
+
+=>q16_original
+Glad. Now that the guards who have had their extremities ripped off by the mine creatures have stopped coming in, workers with broken bones, severe burns or gouged out eyes will be back again. And the dead, oh, they never even stopped coming.<end>
+
+=>q16
+Я рад. Перестали поступать Стражи с оторванными конечностями, теперь это снова рабочие с переломами, тяжёлыми ожогами или выколотыми глазами. И мёртвые, да, они поступают всегда.<end>
+
+=>q17_original
+Foundry is back in business; the muck machine roars again.<end>
+
+=>q17
+Литейная снова в деле -- машина шлака вновь ревёт.<end>
+
+=>a18_original
+So, how's it going?<end>
+
+=>a18
+Ну, как дела?<end>
+
+=>q19_original
+::His barren stare meets yours.:: People are still dying.<end>
+
+=>q19
+::Вас встречает безразличный взгляд.:: Люди продолжают умирать.<end>
+
+=>q20_original
+So, the usual.<end>
+
+=>q20
+Так что всё как обычно.<end>
+
+=>a21_original
+Can you tell me anything about the mine creatures?<end>
+
+=>a21
+Можете ли вы сказать мне что-нибудь о существах в шахте?<end>
+
+=>q22_original
+The only thing those things did was just increased the body count. People were dying already in Foundry, and in far greater numbers than is usually revealed. It's just that now even more lives are lost, and in a slightly different fashion. Getting pierced, clawed, torn to pieces, half-eaten as opposed to getting crushed by mine falls, incinerated, suffocated and such. Some manage to survive a few of these things and now have to live as cripples.<end>
+
+=>q22
+Единственное, что они сделали -- это увеличили количество жертв. Люди и так умирали на Литейной, и в гораздо больших количествах, чем обычно рассказывают. Просто теперь мы теряем ещё больше жизней, и по иным причинам. Проколотые, истерзанные, порванные на куски, полусъеденные вместо раздавленных камнями, сгоревших, задохнувшихся и так далее. Некоторые выжили и теперь станут калеками.<end>
+
+=>q23_original
+That's all I know about the creatures. They kill.<end>
+
+=>q23
+Это всё, что я знаю об этих существах. Они убивают.<end>
+
+=>a24_original
+Is there something wrong with that crazy man outside?<end>
+
+=>a24
+Что не так с этим сумасшедшим на улице?<end>
+
+=>q25_original
+The man suffers from some serious brain damage, most likely caused by polluted air or food. Could also be caused by certain types of head trauma. I don't know, never had the opportunity to give him an examination.<end>
+
+=>q25
+Этот мужчина страдает от какого-то серьёзного повреждения головного мозга, наиболее вероятно, вызванного загрязнённым воздухом или пищей. Возможна также травма головы. Я не знаю, не было возможности осмотреть его.<end>
+
+=>q26_original
+Not important anyway. I have better things to do.<end>
+
+=>q26
+Это и неважно. У меня есть другие дела.<end>
+
+=>a27_original
+I don't need anything. Goodbye.<end>
+
+=>a27
+Мне ничего не нужно. До свидания.<end>
+
+=>q28_original
+Next, please.<end>
+
+=>q28
+Следующий, пожалуйста.<end>
+

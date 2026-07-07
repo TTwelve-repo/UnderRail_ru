@@ -1,0 +1,818 @@
+﻿=>q1_original
+::Checks his shotgun.::<end>
+
+=>q1
+::Проверяет свой дробовик.::<end>
+
+=>q2_original
+Welcome to The Rig, sailor. ::He points to himself.:: Murky: tavern keeper, DJ, security.<end>
+
+=>q2
+Добро пожаловать на Буровую, моря$(#к/чка). ::Он указывает на себя.:: Мутный: трактирщик, диджей, охранник.<end>
+
+=>a3_original
+Hey, Murky. What've you got here?<end>
+
+=>a3
+Привет, Мутный. Что можешь предложить?<end>
+
+=>q4_original
+We <end>
+
+=>q4
+У нас<end>
+
+=>q5_original
+got grub, we got booze, entertainment, free rooms with beds to rest yer bones in, we got ammo - batteries... whatever ya want.<end>
+
+=>q5
+есть жратва, есть бухло, развлекуха, свободные комнаты с кроватями для отдыха твоих косточек, есть патроны - батарейки... всё, чего пожелаешь.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+I'm starving. ::Barter.::<end>
+
+=>a7
+Я умираю с голоду. ::Обмен.::<end>
+
+=>a8_original
+I'm thirsty. ::Barter.::<end>
+
+=>a8
+Меня мучает жажда. ::Обмен.::<end>
+
+=>a9_original
+I need some ammo. ::Barter.::<end>
+
+=>a9
+Мне нужны патроны. ::Обмен.::<end>
+
+=>a10_original
+What's that I hear about a recent attack on The Rig?<end>
+
+=>a10
+Я слышал$(#/а), на Буровую недавно совершили нападение?<end>
+
+=>q11_original
+Pirates. Pirates snuck into one of the shippin' containers 'n' went all guns blazin'. Tore the place apart<end>
+
+=>q11
+Пираты. Они пробрались в одном из грузовых контейнеров и начали палить со всех стволов. Всё там разворотили.<end>
+
+=>q12_original
+ 'n' killed a whole lotta people. Damn...<end>
+
+=>q12
+и убили целую кучу народа. Чёрт...<end>
+
+=>q13_original
+Good thing they came from the opposite side of The Rig, or else all of us 'ere in the tavern would've been sleepin' with the slackjaws. We got lucky, ya know, real lucky.<end>
+
+=>q13
+Хорошо, что они зашли с другой стороны Буровой, а то бы все мы здесь, в таверне, спали с этими разиротами. Нам повезло, знаешь ли, очень повезло.<end>
+
+=>q14_original
+.<end>
+
+=>q14
+.<end>
+
+=>a15_original
+I need something for my jet.<end>
+
+=>a15
+Мне нужно что-нибудь для моего гидроцикла.<end>
+
+=>q16_original
+Talk to Boulder over at his shop, or Squeezer if he ain't around. It's just outside the tavern, southern side.<end>
+
+=>q16
+Поговорите с Боулдером в его магазине или с Гвоздём, если Боулдера нет рядом. Это недалеко от бара, на южной стороне.<end>
+
+=>q17_original
+Now... Drink...? Grub...?<end>
+
+=>q17
+Теперь... Выжрать?.. Пожрать?..<end>
+
+=>q18_original
+Now here in the tavern, here we <end>
+
+=>q18
+Итак, здесь, в таверне, у нас<end>
+
+=>a19_original
+Got free rooms?<end>
+
+=>a19
+Есть свободные комнаты?<end>
+
+=>q20_original
+Nope. All of the rooms are taken.<end>
+
+=>q20
+Неа. Все комнаты заняты.<end>
+
+=>q21_original
+I got booze 'n' ammo, though.<end>
+
+=>q21
+Зато у меня есть бухло и пули.<end>
+
+=>q22_original
+Yeah. Number three's available.<end>
+
+=>q22
+Ага. Номер три свободен.<end>
+
+=>a23_original
+How much is it?<end>
+
+=>a23
+Сколько за него?<end>
+
+=>q24_original
+Ten charons.<end>
+
+=>q24
+Десять харонов.<end>
+
+=>a25_original
+That's cheap!<end>
+
+=>a25
+Это же почти даром!<end>
+
+=>q26_original
+Sure is. <end>
+
+=>q26
+Ну конечно.<end>
+
+=>q27_original
+Interested?<end>
+
+=>q27
+Интересует?<end>
+
+=>a28_original
+I'll take it. ::Give him ten charons.::<end>
+
+=>a28
+Я возьму его. ::Дать ему десять харонов.::<end>
+
+=>q29_original
+::He hands you a small key.:: Here. Up the stairs, at the end of the hallway. No refunds.<end>
+
+=>q29
+::Он протягивает вам маленький ключ.:: Вот. Вверх по лестнице, в конце коридора. Деньги не возвращаем.<end>
+
+=>a30_original
+I'll think about it.<end>
+
+=>a30
+Я подумаю об этом.<end>
+
+=>q31_original
+Meanwhile... booze?<end>
+
+=>q31
+Ну а пока... выпьешь?<end>
+
+=>a32_original
+That sounds about right.<end>
+
+=>a32
+Это звучит справедливо.<end>
+
+=>a33_original
+Ten charons? That's outrageous!<end>
+
+=>a33
+Десять харонов? Это просто возмутительно!<end>
+
+=>q34_original
+I know. We got outrageously cheap rooms. <end>
+
+=>q34
+Я знаю. У нас возмутительно дешёвые номера.<end>
+
+=>a35_original
+I know what number one and two are, but three...<end>
+
+=>a35
+Я знаю, что такое номер один и два, но три...<end>
+
+=>q36_original
+Yeah, yeah - funny.<end>
+
+=>q36
+Да, да - забавно.<end>
+
+=>a37_original
+About that room...<end>
+
+=>a37
+Насчёт той комнаты...<end>
+
+=>q38_original
+Sorry, the room's no longer available. Ya thought about it for too long.<end>
+
+=>q38
+Извини, но комната уже занята. Ты слишком долго раздумывал$(#/а).<end>
+
+=>a39_original
+Where's the toilet?<end>
+
+=>a39
+Где здесь туалет?<end>
+
+=>q40_original
+::He points to the door opposite the bar.:: There.<end>
+
+=>q40
+::Он указывает на дверь напротив бара.:: Там.<end>
+
+=>q41_original
+We put some rat poison in the corner, near the hole, so try not to step into it.<end>
+
+=>q41
+Мы положили немного крысиного яда в углу, рядом с дырой, так что постарайся не наступить в него.<end>
+
+=>a42_original
+Dammit to hell, does that room double as an oversized garbage can?<end>
+
+=>a42
+Чёрт побери, неужели эта комната в два раза больше мусорного бака?<end>
+
+=>q43_original
+It's cheap.<end>
+
+=>q43
+Это дёшево.<end>
+
+=>a44_original
+It's squalid. And you didn't answer my question.<end>
+
+=>a44
+Это просто убожество. И ты не ответил на мой вопрос.<end>
+
+=>q45_original
+It's cheap. 'N' *no*.<end>
+
+=>q45
+Это очень дёшево. И *нет*.<end>
+
+=>a46_original
+There's a dead burrower spawn in there.<end>
+
+=>a46
+Там мёртвая личинка могильщика.<end>
+
+=>q47_original
+Throw it out if ya don't like it. <end>
+
+=>q47
+Выброси её, если тебе не нравится.<end>
+
+=>q48_original
+Look, it's a ten-charon room. What did ya expect? On the plus side, ya get to stay as long as ya want, ya dig.<end>
+
+=>q48
+Слушай, это же комната за десять харонов. А чего ты ожидал$(#/а)? Есть и плюс, ты можешь оставаться здесь столько, сколько захочешь, врубаешь.<end>
+
+=>a49_original
+Oh, just forget it and give me a drink. ::Barter.::<end>
+
+=>a49
+Ох, просто забудь об этом и дай мне выпить. ::Обмен.::<end>
+
+=>a50_original
+That *is* a plus...<end>
+
+=>a50
+И *это* плюс...<end>
+
+=>q51_original
+See? It's all good. Now, how about a drink?<end>
+
+=>q51
+Видишь? Всё ништяк. А теперь, как насчёт того, чтобы выпить?<end>
+
+=>a52_original
+Whatever.<end>
+
+=>a52
+Как скажешь.<end>
+
+=>q53_original
+Hey, how about a drink to calm down?<end>
+
+=>q53
+Эй, как насчёт выпить, чтобы успокоиться?<end>
+
+=>a54_original
+Goodbye!<end>
+
+=>a54
+До свидания!<end>
+
+=>q55_original
+::He raises his hand.:: Yeah.<end>
+
+=>q55
+::Он поднимает руку.:: Да.<end>
+
+=>a56_original
+That's it, punk! Raise 'em! ::Attack!::<end>
+
+=>a56
+Ну вот и всё, придурок! ::Напасть.::<end>
+
+=>a57_original
+The rats fled the room once I opened it.<end>
+
+=>a57
+Как только я открыл$(#/а) дверь, крысы бросились врассыпную.<end>
+
+=>q58_original
+They won't be botherin' ya then.<end>
+
+=>q58
+Тогда они тебя не побеспокоят.<end>
+
+=>a59_original
+It reeks of... everything.<end>
+
+=>a59
+Там воняет... всё.<end>
+
+=>q60_original
+All it takes is a good draught.<end>
+
+=>q60
+Всё, что нужно, - это хороший сквозняк.<end>
+
+=>a61_original
+There are empty bottles and... stuff on my bed.<end>
+
+=>a61
+Там повсюду пустые бутылки и... хлам на моей кровати.<end>
+
+=>q62_original
+Just shake it off the blanket.<end>
+
+=>q62
+Просто стряхни его с одеяла.<end>
+
+=>a63_original
+The cockroaches there are some of the biggest I'd ever seen.<end>
+
+=>a63
+Тамошние тараканы - одни из самых больших, каких я когда-либо видел$(#/а).<end>
+
+=>q64_original
+They all bite the same, big or small.<end>
+
+=>q64
+Они все кусаются одинаково, как большие, так и маленькие.<end>
+
+=>a65_original
+There's some kind of sludge in the corners.<end>
+
+=>a65
+Там какая-то грязь по углам валяется.<end>
+
+=>q66_original
+I wouldn't touch that if I was you.<end>
+
+=>q66
+На твоём месте я бы к этому не прикасался.<end>
+
+=>a67_original
+I want my charons back.<end>
+
+=>a67
+Я хочу назад мои хароны.<end>
+
+=>q68_original
+Sorry, no refunds.<end>
+
+=>q68
+Извини, никаких возвратов.<end>
+
+=>a69_original
+Tell me about The Rig.<end>
+
+=>a69
+Расскажи мне о Буровой.<end>
+
+=>q70_original
+It belongs to the Black Eels. The rest of the platform's off-limits to everyone but guards 'n' workers, so make sure ya don't wander off 'n' get shot, ya dig. Ain't good for business.<end>
+
+=>q70
+Она принадлежит Чёрным угрям. Остальная часть платформы закрыта для всех, кроме охранников и рабочих, поэтому убедись, что не забредёшь туда и не получишь пулю, врубаешься. Это не очень хорошо для бизнеса.<end>
+
+=>a71_original
+What do they use this platform for?<end>
+
+=>a71
+Для чего они используют эту платформу?<end>
+
+=>q72_original
+Business, keepin' pirates at bay... ya know.<end>
+
+=>q72
+Для бизнеса, чтобы держать пиратов в страхе... ну ты знаешь.<end>
+
+=>a73_original
+What kind of business?<end>
+
+=>a73
+А что это за бизнес?<end>
+
+=>q74_original
+Yer askin' a lotta questions.<end>
+
+=>q74
+Ты задаёшь слишком много вопросов.<end>
+
+=>a75_original
+Did some work for Silas. Just wanted be up to date.<end>
+
+=>a75
+Я выполнял$(#/а) кое-какую работу для Сайласа. Просто хотел$(#/а) быть в курсе событий.<end>
+
+=>q76_original
+Did ya really...?<end>
+
+=>q76
+Да неужели?..<end>
+
+=>q77_original
+Askin' questions like that's gonna get ya in real trouble, sailor, ya dig? Just some friendly advice.
+
+Now, ya wanna order somethin' or not?<end>
+
+=>q77
+Задавая такие вопросы, ты вляпаешься в серьёзные неприятности, моря$(#к/чка), врубаешься? Всего лишь дружеский совет.
+
+А теперь, ты хочешь что-нибудь заказать или нет?<end>
+
+=>a78_original
+I'm just curious.<end>
+
+=>a78
+Мне просто любопытно.<end>
+
+=>q79_original
+Yeah...<end>
+
+=>q79
+Да...<end>
+
+=>a80_original
+Yes.<end>
+
+=>a80
+Да.<end>
+
+=>q81_original
+Well, don't.<end>
+
+=>q81
+Что ж, не надо.<end>
+
+=>a82_original
+And I'd like you to answer them.<end>
+
+=>a82
+И я хотел$(#/а) бы, чтобы ты на них ответил.<end>
+
+=>a83_original
+Thanks for the info. Anyway...<end>
+
+=>a83
+Спасибо за информацию. В любом случае...<end>
+
+=>q84_original
+::He waits.::<end>
+
+=>q84
+::Он ждёт.::<end>
+
+=>a85_original
+What's out there?<end>
+
+=>a85
+А что там такое?<end>
+
+=>q86_original
+Docks, warehouse, barracks...<end>
+
+=>q86
+Доки, склады, казармы...<end>
+
+=>a87_original
+Anything more specific?<end>
+
+=>a87
+Есть что-нибудь особенное?<end>
+
+=>a88_original
+Any other bars in the waterways?<end>
+
+=>a88
+На водных путях есть другие бары?<end>
+
+=>q89_original
+Nah.<end>
+
+=>q89
+Не-а.<end>
+
+=>q90_original
+Well... yeah 'n' nah. There's this Drag 'n' Drop bar. A shaggy platform floatin' all over the place. Cramped 'n' leaky. Kinda nice cocktails - kinda - but ya risk sinkin' to the bottom if some drunk-ass slackjaw pokes a hole in the wall.
+
+So if ya like crap places ya can't even find... then yeah, there are other bars in the waterways.<end>
+
+=>q90
+Ну... да и нет. Есть бар Тяни-Толкай. Поросшая мхом платформа плавающая повсюду. Тесная и дырявая. Там вроде бы подают приличные коктейли - вроде бы - но ты рискуешь пойти ко дну, если какой-нибудь ужравшийся разирот пробьёт дыру в стене.
+
+Так что, если любишь дерьмовые места, которые ещё хрен найдёшь... тогда - да, на водных путях есть и другие бары.<end>
+
+=>q91_original
+Otherwise... nah.<end>
+
+=>q91
+В противном случае... не-а.<end>
+
+=>a92_original
+Any interesting anecdotes?<end>
+
+=>a92
+Знаешь какие-нибудь интересные анекдоты?<end>
+
+=>q93_original
+Let's see now...<end>
+
+=>q93
+Дай подумать...<end>
+
+=>q94_original
+There's this ol' geezer, Otto, a trophy hunter. A level-headed 'n' committed kinda guy, 'n' a long time patron. Often stops by for supplies, 'n' if he's feelin' lonely to talk about all the creatures he's put to death. 
+
+"I got this one 'ere, that one there, burrower, crawler, goliath - slackjaw with legs!", yada yada yada... Ya can imagine how much me, Stella 'n' random patrons 'ere enjoy listenin' to those.<end>
+
+=>q94
+Есть один старикан, Отто, охотник за трофеями. Рассудительный и преданный своему делу мужик, давнишний завсегдатай. Частенько заглядывает за припасами, а когда ему становится одиноко, начинает рассказывать обо всяких тварях, которых он предал смерти.
+
+"Мне попался такой здесь, другой там, могильщик, краулер, голиаф - разирот с ногами!" и всё в таком духе. Представь, как я, Стелла и случайные посетители обожаем всё это слушать.<end>
+
+=>q95_original
+So, one day he comes over to ask about those rumors that there's somethin' attackin' jet skis near Core City. Drinks a brew 'n' leaves.
+
+Tomorrow he comes over again - so far so good: Drinks two brews, gets some gear, mentions *Jet Eater* 'n' leaves.
+
+Next day - unshaven 'n' startin' to smell: Drinks three brews, eats an eel, complains about trackin' Jet Eater 'n' leaves.<end>
+
+=>q95
+Так вот, однажды он заходит, чтобы собрать слухи о том, что неподалёку от Кор-Сити нечто нападает на гидроциклы. Выпивает бутылочку и уходит.
+
+На следующий день он приходит снова - пока всё неплохо: выпивает две бутылки, закупает кое-какое снаряжение, упоминает *Пожирателя гидроциклов* и уходит.
+
+Ещё через день - он уже щетинистый и начинает пованивать: выпивает три бутылки, съедает угря, ворчит, что выслеживает Пожирателя и уходит.<end>
+
+=>q96_original
+Next day - dirty, torn-clothed 'n' smellin' loud: Has five brews, three bags of hardcore chips, some pentapus, gabs about J.E. Had to throw 'im out 'cause of the stench.
+
+Next day - finally took a bath, but looked like he took it in a washin' machine: Gets wasted, gets slapped by Stella for grabbin' 'er arm 'cause she wouldn't listen to 'is maunderin', 'n' lastly almost drowns tryina get to 'is jet ski.<end>
+
+=>q96
+Следующий день - грязный, одет в лохмотья, а вонища, что хоть падай: пять бутылок самогона, три пакета хардкорных чипсов, пятиног, болтовня про П.Г., пришлось его вышвырнуть из-за вони.
+
+Проходит день - он наконец-то помылся, но на вид, как будто в стиралке: нажирается, получает пощёчину от Стеллы за то, что схватил её за руку, потому что, видите ли, она не слушает его бормотание, и, наконец, чуть не тонет, пытаясь забраться на свой гидроцикл.<end>
+
+=>q97_original
+'N' that's the last time I saw 'im. The poor sod either found the J.E. - or died tryin'!<end>
+
+=>q97
+И это был последний раз, когда я его видел. Бедолага либо нашёл П.Г. - либо помер, пытаясь!<end>
+
+=>q98_original
+<end>
+
+=>q98
+<end>
+
+=>q99_original
+Ever heard of Al Fabet? Al "Ain't My Pal"? He's this derailed garbage collector that goes around Underrail tryina sell 'is stuff to merchants. Well, from time to time he takes a ferry 'n' comes to The Rig 'n' tries sellin' things like, let's see... hopper eggs 'n' dried mindshrooms to Boulder. Yeah, to the same guy dealin' in jet parts.<end>
+
+=>q99
+Слышал$(#/а) когда-нибудь об Аль Фабете? Он - поехавший мусорщик, бродит по Подземке и пытается продать своё барахло торговцам. Время от времени он садится на паром, заезжает на Буровую. Раньше он пытался впарить что-то вроде, дай-ка вспомнить... яиц пещерника и высушенных мозгляков Боулдеру. Ага, тому парню, который занимается запчастями для гидроциклов.<end>
+
+=>q100_original
+So there's this one time when Boulder was in a really, and I mean *really* freakin' crappy mood, 'n' Al was offerin' 'im these, like, used dentures, ya know. Boulder grabbed the dentures, ripped Al's mask off, rammed the dentures in his mouth, smacked Al's mask back on 'is face, handed 'im a bag of rusty nuts 'n' kicked it, sendin' Al Fabet over the rail 'n' into the drink. Would've drowned if some jetter hadn't grabbed 'im.<end>
+
+=>q100
+Так вот, как-то раз Боулдер был в очень, я имею в виду, *очень* хреновом настроении, а Аль впаривал ему такие, типа, использованные зубные протезы, сечёшь. Боулдер схватил эти протезы, сорвал с него маску, засунул протезы ему в рот, влепил маску обратно на лицо, вручил ему пакет с ржавыми гайками и пинком отправил Аль Фабета через перила в воду. Он бы утонул, если б его не подхватил какой-то наездник.<end>
+
+=>q101_original
+Al doesn't bother 'im anymore. He now comes to me, the stubborn bastard.<end>
+
+=>q101
+Аль его больше не беспокоит. Теперь он приходит ко мне, настырный ублюдок.<end>
+
+=>q102_original
+I remember this one dude, used to be a pretty regular patron. Perpetually wasted 'n' obviously derailed - but likable. Very likable. Had wild imagination, he did, 'n' was real funny once ya got to know 'im a bit. The regulars started gettin' used to 'im, yeah, guards too. So much so that they'd sometimes mistake 'im for one of the Eel workers, ya dig, 'cause he used to wear some kinda dirty coveralls all the time... 'n' looked like crap in general.<end>
+
+=>q102
+Помню одного чувака, он был довольно регулярным клиентом. Вечно бухой и явно сошедший с рельсов - но приятный. Очень приятный. У него бурное воображение, и он действительно забавный, когда узнаёшь его чуток поближе. Завсегдатаи стали привыкать к нему, да и охранники тоже. Настолько, что иногда принимали его за одного из рабочих Угрей, сечёшь, потому что он постоянно носил какой-то грязный комбинезон... и вообще выглядел дерьмово.<end>
+
+=>q103_original
+So one time a guy came up to 'im 'n' handed 'im a box to carry to the warehouse in the back. 
+
+'N' he did, the drunken son of a rat! 'N' the guards let 'im through! 
+
+A few hours later the whole Rig's on alert! Turns out he raided the rigmaster's fridge, took all 'is brew 'n'... yeah, he *ate* the whole birthday shroomcake 'is wife made for 'im. Could ya believe it?<end>
+
+=>q103
+И вот однажды к нему подошёл один парень и протянул коробку, чтобы тот отнёс её на склад.
+
+И этот пьяный крысий сын так и сделал! И охранники пропустили его!
+
+Через несколько часов вся Буровая поднялась по тревоге! Оказывается, он грабанул холодильник распорядителя буровой, спёр весь его самогон и... прикинь, в одну харю умял именинный грибной пирог, который приготовила для него жена. Можешь в это поверить?<end>
+
+=>q104_original
+Haven't seen the dude since. The guards didn't catch 'im, but to this day no one got a clue how he managed to sneak out. "The power of brew, man!" as he once said, ha-ha-ha.<end>
+
+=>q104
+С тех пор я не видел этого чувака. Охранники его не поймали, и до сих пор никто не знает, как ему удалось улизнуть. "Сила самогона, чувак!" как он однажды сказал, ха-ха-ха.<end>
+
+=>q105_original
+There's lotsa Protectorate marines comin' 'ere. Those that are Southerners or have been to the South for a while are mostly cool, but the newcomer Northerners tend to be real snooty, stuck-up sons of rats, ya dig. They think they can go about treatin' everyone like dog crap, callin' us ratters 'n' all that while stayin' safe 'cause they're "Protectorate."<end>
+
+=>q105
+Сюда стекается много морпехов Протектората. Южане или пробывшие на Юге какое-то время в основном спокойны, но только что прибывшие северяне, как правило, очень высокомерные, заносчивые крысята, врубаешься. Они считают, что имеют право относиться ко всем как к собачьему дерьму, называть нас крысятниками и тому подобное, оставаясь при этом в безопасности, потому что они - "Протекторат".<end>
+
+=>q106_original
+Anyways, a pack of these runny-nosed asswipes got into an argument with this boulderish guy in a trench coat, 'n' eventually a fight broke out. He single-handedly handed them their asses; 'n' there were three of them, all trained soldiers, ya dig. Still runny-nosed, but now runnin' with blood, they pulled out their weapons 'n' wanted to blast 'im all the way to Hell's Gut. Ah, but he pulled 'is ace card - he was a Protectorate marine.<end>
+
+=>q106
+Короче, свора этих сопливых засранцев затеяла ссору со здоровущим мужиком в плаще, и в итоге разгорелась драка. Он в одиночку надрал им задницы, а их было трое, сечёшь, и все обученные солдаты. Всё ещё сопливые, но уже с соплями кровавыми, они выхватили оружие и собирались разнести его на куски по всему Адскому котлу. Ага, но он вытащил свой козырь - он был морпехом Протектората.<end>
+
+=>q107_original
+Turned out he was a Southerner who rarely wore 'is uniform when not on duty *precisely* 'cause he liked beatin' the crap outta fresh Northerners. Odd fellow. Heard 'im talk about changin' the Protectorate from the inside. Really hated Northerners, yeah. 
+
+Anyways, the soldiers couldn't shoot 'im 'cause he was one of their own, so they left with their tails between their legs. Bastards. They did earn 'im a few brews on the house, though, ha-ha.<end>
+
+=>q107
+Оказалось, он был южанином, редко надевавшим форму в свободное от службы время, *именно* потому, что ему нравилось выбивать дерьмо из свеженьких северян. Чудной парень. Слыхал, как он говорил об изменении Протектората изнутри. Да, по-настоящему ненавидел северян.
+
+В любом случае, солдаты не могли пристрелить его, поскольку он был одним из них, и они слиняли, поджав хвосты. Ублюдки. Впрочем, они обеспечили ему пару бутылок самогона за счёт заведения, ха-ха.<end>
+
+=>q108_original
+We organize drinkin' contests from time to time. Lotsa people gettin' wasted, havin' fun, earnin' some rewards 'n' all that good stuff, ya dig. The big guys tend to win more, but of course there are also smaller folks that got... ethanol immunity or somethin'. One time, however, we had a dog competin'...<end>
+
+=>q108
+Время от времени мы устраиваем соревнования по возлиянию. Куча народу нажирается, веселится, получает кое-какие награды и прочие ништяки, врубаешься. Большие парни, как правило, выигрывают чаще, но, конечно, находятся и чувачки поменьше, у которых выработался иммунитет к этанолу или что-то вроде того. Как-то раз мы даже устроили соревнование с собакой...<end>
+
+=>q109_original
+Derailed Dizzy McMillan brought in 'is pooch called Hey - which was apparently short for "Hey You" - 'n' he said Hey could outdrink any man, woman or bot. It was a ten-kilo mongrel with thick, long hair, 'n' it looked mean but was actually fairly cuddly 'n' nice. But it was still a dog, 'n' dogs die when they drink booze. Dizzy, bein' called derailed for a reason, insisted we let 'im compete, 'n' told us 'is dog was "special," one of a kind.<end>
+
+=>q109
+Поехавший Диззи Макмиллан привёл свою собачонку по кличке Эй - что, вероятно, было сокращением от "Эй ты" - и сказал, что она перепьёт любого мужчину, женщину или бота. Эй была десятикилограммовой дворняжкой с густой длинной шерстью, и выглядела она невзрачно, но была довольно ласковой и милой. Однако это всё равно была собака, а собаки подыхают, когда пьют самогон. Диззи, которого не зря называли поехавшим, настоял на том, чтобы мы позволили ему поучаствовать, и сказал, что его собака "особенная", единственная в своём роде.<end>
+
+=>q110_original
+Turned out it was! Got all the way to the quarter-finals before someone figured out it was one of them mutated dogs from Old Junkyard. It looked like a normal dog, yer regular... *dog*, but it still had a few of them green tumors. Those were small, though, 'n' were concealed by *glued-on* hair, ya dig. People freaked out 'n' drove both Dizzy 'n' Hey outta 'ere. I was among them, more so 'cause I was one of the people who touched the foul thing. If only my shotty hadn't jammed...<end>
+
+=>q110
+Так оно и оказалось! Она дошла до четвертьфинала, прежде чем кто-то допёр, что это одна из мутировавших собак со Старой Свалки. Она выглядела нормально, самая обычная собака, но у неё всё же было несколько зелёных опухолей. Впрочем, они были маленькими и прикинь, были прикрыты *приклеенными* волосами. Народ взбесился и вышвырнул отсюда и Диззи, и Эй. И я был среди них, потому что был одним из тех, кто прикасался к этой мерзости. Если б только мой дробовичок не заклинило...<end>
+
+=>q111_original
+All in all, the mutie pooch would've won for sure had we not found it out. This way Micky Mick won the contest, went to sleep 'n' never woke up.<end>
+
+=>q111
+В общем, мутантская псина наверняка победила бы, если б мы не раскусили её. Таким образом, состязание выиграл Микки Мик, после чего отправился спать, да так и не проснулся.<end>
+
+=>a112_original
+Any more interesting anecdotes?<end>
+
+=>a112
+Есть ещё интересные анекдоты?<end>
+
+=>q113_original
+Mmmm... That's all I can think of right now.<end>
+
+=>q113
+Мммм... Это всё, что сейчас могу вспомнить.<end>
+
+=>q114_original
+Care for some booze?<end>
+
+=>q114
+Выпьешь чего-нибудь?<end>
+
+=>a115_original
+You're a DJ, huh? What kind of music do you play around here?<end>
+
+=>a115
+Ты же диджей, так? А какую музыку ты здесь ставишь?<end>
+
+=>q116_original
+Lately it's mostly been Junkyard recordin's. Ya know, bands scrap up a stage 'n' play somethin'. Most of it's utter crap, but the good stuff gets recorded 'n' we play it 'ere. Folks like the aggressive stuff, stuff that makes ya pumped up, ya know - that goes well with the booze.<end>
+
+=>q116
+В последнее время, в основном были записи со Свалки, ну, знаешь, группы ломают сцену и чё-то там играют. По большей части это полная хрень, но порой и хорошие вещи записываются, а мы ставим их здесь. Людям нравится агрессивная музыка, музыка которая заводит, ты же знаешь - это хорошо сочетается с выпивкой.<end>
+
+=>q117_original
+::He points to a metal pole rising from the bar.:: Once girls start swingin' around this... ::He nods with delight.:: ya know the tune's rockin'. <end>
+
+=>q117
+::Он указывает на металлический шест, поднимающийся от стойки.:: Как только девочки начинают крутиться вокруг этого... ::Он довольно кивает.:: понимаешь, что музон качает.<end>
+
+=>q118_original
+Am I right, sailor?<end>
+
+=>q118
+Я прав, моря$(#к/чка)?<end>
+
+=>q119_original
+
+
+So, wanna drink?<end>
+
+=>q119
+Так что, хочешь выпить?<end>
+
+=>a120_original
+Bye.<end>
+
+=>a120
+До свидания.<end>
+
+=>a121_original
+I'm starving.<end>
+
+=>a121
+Я умираю с голоду.<end>
+
+=>q122_original
+Sure thing. <end>
+
+=>q122
+Конечно.<end>
+
+=>q123_original
+Meanwhile, we also got free rooms if ya need one 'n' ammo if ya needs lots of it.<end>
+
+=>q123
+Кроме того, у нас есть свободные комнаты, если тебе нужна одна, и боеприпасы, если тебе нужно их много.<end>
+
+=>a124_original
+::Barter.::<end>
+
+=>a124
+::Обмен.::<end>
+
+=>a125_original
+Got brew?<end>
+
+=>a125
+Есть самогон?<end>
+
+=>q126_original
+Of course! <end>
+
+=>q126
+Ну разумеется!<end>
+
+=>a127_original
+I'm looking for a room.<end>
+
+=>a127
+Я подыскиваю себе комнату.<end>
+
+=>q128_original
+Sure. We got that. We got nice grub here as well, 'n' we also sell ammo if ya need some.<end>
+
+=>q128
+Конечно. Они у нас есть. А ещё у нас здесь хорошая еда, и мы продаём патроны, если тебе нужно.<end>
+
+=>a129_original
+I need something for my jet.<end>
+
+=>a129
+Мне нужно что-нибудь для моего гидроцикла.<end>
+
+=>q130_original
+What'll it be, sailor?<end>
+
+=>q130
+Чего желаешь, моря$(#к/чка)?<end>
+

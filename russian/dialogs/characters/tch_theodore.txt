@@ -1,0 +1,446 @@
+﻿=>q1_original
+The Faceless are here!<end>
+
+=>q1
+Безликие здесь!<end>
+
+=>q2_original
+Magnificent Tchort! What are you doing here, $(#brother/sister)? The kitchen is for staff ONLY!<end>
+
+=>q2
+Чорт великолепный! Что ты здесь делаешь, $(#брат/сестра)? Кухня ТОЛЬКО для персонала!<end>
+
+=>q3_original
+::The man behind the counter strikes you as being calm, friendly and radiates a positive attitude. Appearance-wise, young and handsome are the words that describe him most accurate, while his confident posture is also difficult to ignore. He greets you with a familiar Tchortist salute.::
+
+Tchort is evolution, $(#brother/sister). My name is Theodore, often called Theo by... by almost everyone. ::He smiles.:: How may I help you?<end>
+
+=>q3
+::Мужчина за прилавком поражает вас спокойствием, дружелюбностью и позитивным настроем. Внешне молодой и красивый -- это слова, которые описывают его наиболее точно, хотя его уверенную осанку также трудно не заметить. Он встречает вас знакомым чортистским приветствием.::
+
+Чорт -- это эволюция, $(#брат/сестра). Меня зовут Теодор, но меня часто называют Тео... почти все. ::Он улыбается.:: Чем могу помочь?<end>
+
+=>a4_original
+Evolution is Tchort, brother. I'm $(context.player.Name).<end>
+
+=>a4
+Эволюция -- это Чорт, брат. Я $(context.player.Name).<end>
+
+=>q5_original
+Welcome to the Institute of Tchort, $(#brother/sister). Our institution is very different from those on the outside I'm sure, but you'll get used to it, don't worry.<end>
+
+=>q5
+Добро пожаловать в Институт Чорта, $(#брат/сестра). Наше учреждение очень отличается от того, что снаружи, это правда, но ты привыкнешь, не волнуйся.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Show me what you got. I'm starving!<end>
+
+=>a7
+Покажи, что есть. Я умираю с голоду!<end>
+
+=>q8_original
+Today's we have...<end>
+
+=>q8
+Сегодня у нас...<end>
+
+=>a9_original
+::Barter.::<end>
+
+=>a9
+::Обмен.::<end>
+
+=>a10_original
+Show me what you got. I'm starving! ::Barter.::<end>
+
+=>a10
+Покажи, что есть. Я умираю с голоду! ::Обмен.::<end>
+
+=>a11_original
+How and why did you join Institute of Tchort?<end>
+
+=>a11
+Как и почему ты пришёл в Институт Чорта?<end>
+
+=>q12_original
+I am institute-born, $(#brother/sister). It wasn't my decision to become a Tchortist, but with all the things I heard about the outside world, I'm better off. Life here is better without a doubt, and here people care about each other, care about progress - evolution, rather than just about their own hide, so to speak.<end>
+
+=>q12
+Я в Институте родился, $(#брат/сестра). Не я решил стать чортистом, но, судя по слухам о внешнем мире, мне так лучше. Жить тут лучше, здесь люди заботятся друг о друге, о прогрессе и эволюции, а не просто о собственной шкуре, так сказать.<end>
+
+=>a13_original
+Wait, you never left this building?<end>
+
+=>a13
+Подожди, ты никогда не покидал этого здания?<end>
+
+=>q14_original
+No. Again, from what I heard in the past... I'm better off being here.<end>
+
+=>q14
+Нет. Опять же, из того, что я слышал... лучше уж здесь.<end>
+
+=>a15_original
+Maybe I can share a few stories about the outside world. It's rough alright, but not everything is so grim. There is much beauty outside of the Institute.<end>
+
+=>a15
+Может быть, я могу поделиться несколькими историями о внешнем мире. Там много зла, но не всё так мрачно. Много есть и красоты за пределами Института.<end>
+
+=>q16_original
+Maybe some other time, $(#brother/sister); now's not the time. Anything else you needed? And please, let's make it quick, refectory is always a busy place.<end>
+
+=>q16
+Может, в другой раз, $(#брат/сестра); сейчас не время. Что-нибудь ещё нужно? И пожалуйста, давай побыстрее, трапезная -- всегда оживлённое место.<end>
+
+=>a17_original
+Interesting... I had other questions though.<end>
+
+=>a17
+Интересно... Но у меня были другие вопросы.<end>
+
+=>q18_original
+Yes, what?<end>
+
+=>q18
+Да, что?<end>
+
+=>a19_original
+What can you tell me about the Faceless?<end>
+
+=>a19
+Что можешь рассказать мне о безликих?<end>
+
+=>q20_original
+Keep the Faceless out of the refectory please, people are trying to eat here.<end>
+
+=>q20
+Держи безликих подальше от трапезной, пожалуйста, люди тут пытаются поесть.<end>
+
+=>q21_original
+Magnificent Tchort! Stop mentioning those... those vomit-inducing freaks here - we are trying to eat!<end>
+
+=>q21
+Чорт великолепный! Хватит упоминать... этих тошнотворных уродов здесь, мы пытаемся поесть!<end>
+
+=>q22_original
+That's what I was talking about...<end>
+
+=>q22
+Вот видишь...<end>
+
+=>a23_original
+What can you tell me about the West Wing?<end>
+
+=>a23
+Что вы можете рассказать о западном крыле?<end>
+
+=>q24_original
+It is dangerous, do not go there.<end>
+
+=>q24
+Там опасно, не ходи туда.<end>
+
+=>q25_original
+It is that simple, $(#brother/sister).<end>
+
+=>q25
+Вот и всё, $(#брат/сестра).<end>
+
+=>a26_original
+But what is so dangerous about it?<end>
+
+=>a26
+Но что же там такого опасного?<end>
+
+=>q27_original
+I am sorry but I can't explain it now, $(#brother/sister) - this is neither the time nor the place for that. This is where people eat and I have got my hands a bit busy at the moment.<end>
+
+=>q27
+Я сожалею, но я не могу объяснять, $(#брат/сестра) -- сейчас не время и не место для этого. Тут люди едят, а я немного занят работой в данный момент.<end>
+
+=>q28_original
+Just trust me... it is dangerous; there is a reason no one goes there.
+
+Now, $(#brother/sister), are you ordering something or not?<end>
+
+=>q28
+Просто поверь мне... там опасно; хорошая причина, по которой туда никто не ходит.
+
+Итак, $(#брат/сестра), ты заказывать что-нибудь будешь или нет?<end>
+
+=>a29_original
+Understood. Let me ask you something else.<end>
+
+=>a29
+Понятно. Позволь задать ещё вопрос.<end>
+
+=>a30_original
+Hey, do you want to hear a joke?<end>
+
+=>a30
+Эй, хочешь анекдот?<end>
+
+=>q31_original
+Is it the one about a cell undergoing mitosis?<end>
+
+=>q31
+Это про клетку, претерпевающую митоз?<end>
+
+=>a32_original
+No, it's about a rathound that walks into a bar - and the barkeeper shoots the filthy thing!<end>
+
+=>a32
+Нет, это про крысоволка, который заходит в бар, а бармен стреляет в вонючую тварь!<end>
+
+=>q33_original
+::He laughs.:: 'Cause everyone hates rathounds! Yes, I like that one.<end>
+
+=>q33
+::Он смеётся.:: Потому что все ненавидят крысоволков! Да, этот мне нравится.<end>
+
+=>q34_original
+Apex joke, $(#brother/sister).<end>
+
+=>q34
+Верховный анекдот, $(#брат/сестра).<end>
+
+=>a35_original
+Erm, yes it is...<end>
+
+=>a35
+Эм-м, да...<end>
+
+=>q36_original
+Sorry, $(#brother/sister), already heard that one. One of the genetics investigators already told it to me.<end>
+
+=>q36
+К сожалению, $(#брат/сестра), этот я уже слышал. Один генетик уже рассказывал мне.<end>
+
+=>q37_original
+Need anything else?<end>
+
+=>q37
+Хочешь что-то ещё?<end>
+
+=>a38_original
+I would like to ask you some questions about Tchortism.<end>
+
+=>a38
+Можно задать несколько вопросов о Чортизме?<end>
+
+=>q39_original
+I'm sorry, but I'm working at the moment, and a discussion about Tchortism would take too long.<end>
+
+=>q39
+Извини, но я сейчас работаю, а дискуссия о Чортизме займёт слишком много времени.<end>
+
+=>q40_original
+Seek Praepostor Amelia, or visit Eidein's Library. Oh, and read the Original Report if you haven't already.<end>
+
+=>q40
+Ищи старосту Амелию или посети Библиотеку Эйдейна. Ох, и прочитай Первичный Отчёт, если ты ещё этого не сделал$(#/а).<end>
+
+=>a41_original
+Hi, I'd like one cute Theo for takeout. Hot if possible.<end>
+
+=>a41
+Привет, я возьму одного милашку Тео с собой. Погорячее, если можно.<end>
+
+=>q42_original
+Sorry, we are not serving Theo today. Are you perhaps interested in something else?<end>
+
+=>q42
+К сожалению, мы не подаём сегодня Тео. Может, возьмёшь что-нибудь другое?<end>
+
+=>q43_original
+Hopper stew is hot too, sister.<end>
+
+=>q43
+Рагу из пещерников тоже горячее, сестра.<end>
+
+=>a44_original
+Hi, I wanted to ask you something really important, but was stunned by how handsome you are. Now I can't remember.<end>
+
+=>a44
+Привет, я хотела сказать что-то очень важное, но теперь просто ошеломлена тем, насколько ты красив. Уже не могу вспомнить.<end>
+
+=>q45_original
+That happens pretty often actually, so don't worry about it.<end>
+
+=>q45
+Представь себе, такое происходит довольно часто, так что не беспокойся.<end>
+
+=>q46_original
+While you're trying to remember, maybe grab something to eat, sister?<end>
+
+=>q46
+Пока пытаешься вспомнить, может, что-нибудь перекусишь, сестра?<end>
+
+=>a47_original
+::Wave and wink at him seductively.::<end>
+
+=>a47
+::Махнуть рукой и соблазнительно подмигнуть ему.::<end>
+
+=>q48_original
+::He waves back and leans forward slightly, as if he is going to wink. However, he stops, eyes wide open. Then, he shrugs his shoulders.::<end>
+
+=>q48
+::Он машет в ответ и наклоняется немного вперёд, как будто собирается подмигнуть. Однако останавливается, широко открыв глаза. Затем он пожимает плечами.::<end>
+
+=>q49_original
+Oh no, I guess we are out of winks. How about hopper stew?<end>
+
+=>q49
+О нет, похоже, у нас закончились подмигивания. Как насчёт рагу из пещерников?<end>
+
+=>a50_original
+I'm new to the Institute of Tchort. Could you give me directions to your room?<end>
+
+=>a50
+Я недавно в Институте Чорта. Не мог бы ты показать дорогу в свою комнату?<end>
+
+=>q51_original
+Certainly, exit the refectory, up the stairs, then take four left turns, down the stairs and then turn right.<end>
+
+=>q51
+Конечно, выходишь из трапезной, вверх по лестнице, затем четыре раза налево, вниз по лестнице и направо.<end>
+
+=>q52_original
+See you soon, sister!<end>
+
+=>q52
+Скоро увидимся, сестрёнка!<end>
+
+=>a53_original
+My lips hurt! Will you kiss them and make the pain go away?<end>
+
+=>a53
+У меня губы болят! Ты их поцелуешь, чтобы всё прошло?<end>
+
+=>q54_original
+You know, sister, maybe I can help you with that...<end>
+
+=>q54
+Ты знаешь, сестра, может быть, я и смогу помочь тебе с этим...<end>
+
+=>a55_original
+Oh?<end>
+
+=>a55
+О?<end>
+
+=>q56_original
+Or, I better leave it to the professional. Jerre-Franz's medical office is right past the sleeping quarters; he'll give you something for the pain. Trust me, he is the best.<end>
+
+=>q56
+Или лучше оставить это профессионалам. Медицинский кабинет доктора Джерри Франца направо от казарм; он даст тебе что-нибудь от боли. Поверь мне, он лучший.<end>
+
+=>a57_original
+I give up...<end>
+
+=>a57
+Я сдаюсь...<end>
+
+=>q58_original
+Hungry?<end>
+
+=>q58
+Проголодал$(#ся/ась)?<end>
+
+=>a59_original
+::Leave without saying anything.::<end>
+
+=>a59
+::Уйти, ничего не сказав.::<end>
+
+=>a60_original
+Really?<end>
+
+=>a60
+Правда?<end>
+
+=>a61_original
+::Pout your lips.::<end>
+
+=>a61
+::Вытянуть губы.::<end>
+
+=>a62_original
+See you next time, Theo.<end>
+
+=>a62
+Увидимся в следующий раз, Тео.<end>
+
+=>q63_original
+Tchort guides, $(#brother/sister).<end>
+
+=>q63
+Чорт направляет нас, $(#брат/сестра).<end>
+
+=>a64_original
+I'm $(context.player.Name) and I'm very, very hungry.<end>
+
+=>a64
+Я $(context.player.Name) и я очень, очень голод$(#ен/на).<end>
+
+=>q65_original
+::He laughs.:: Don't worry, $(#brother/sister), we'll fill that belly of yours in just a moment. What'll it be?<end>
+
+=>q65
+::Он смеётся.:: Не волнуйся, $(#брат/сестра), мы успокоим твой живот через минутку. Что будешь?<end>
+
+=>a66_original
+Hi, Theo. I'm $(#brother/sister) $(context.player.Name).<end>
+
+=>a66
+Привет, Тео. Я $(#брат/сестра) $(context.player.Name).<end>
+
+=>a67_original
+Tchort is handsome... I mean you're evolution... You're handsome! That's the one! And I'm $(context.player.Name).<end>
+
+=>a67
+Чорт красавчик... То есть, ты эволюция... Ты красавчик! Точно! А я $(context.player.Name).<end>
+
+=>q68_original
+Uhm... While I should thank you for the compliment, our greeting is not something that should be twisted in such a manner. Please, make sure you always say the phrase in its proper form.<end>
+
+=>q68
+Хм... Я должен поблагодарить тебя за комплимент, только наше приветствие не стоит так коверкать. Пожалуйста, впредь говори его в надлежащей форме.<end>
+
+=>a69_original
+I understand. Still, you're handsome.<end>
+
+=>a69
+Я понимаю. Но всё равно, ты красавчик.<end>
+
+=>q70_original
+That I am. ::Smiles:: What'll it be, $(context.player.Name)?<end>
+
+=>q70
+Такой уж я есть. ::Улыбается:: Что будешь, $(context.player.Name)?<end>
+
+=>a71_original
+I'm very sorry. Won't happen again.<end>
+
+=>a71
+Мне очень жаль. Больше не повторится.<end>
+
+=>q72_original
+Apology accepted. Now, what'll it be, $(context.player.Name)?<end>
+
+=>q72
+Извинения приняты. Что будешь, $(context.player.Name)?<end>
+
+=>q73_original
+Hungry again, $(#brother/sister)?<end>
+
+=>q73
+Опять проголодал$(#ся/ась), $(#брат/сестра)?<end>
+

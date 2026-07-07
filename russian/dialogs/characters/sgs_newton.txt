@@ -1,0 +1,392 @@
+﻿=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+When Tanner disappears, then everyone's asking questions; when I disappear - meh.<end>
+
+=>q2
+Когда Таннер исчез, все задают вопросы; когда я исчез -- хех.<end>
+
+=>q3_original
+Cheers, $(context.player.Name).<end>
+
+=>q3
+Выпьем, $(context.player.Name).<end>
+
+=>q4_original
+Saved anyone else lately?<end>
+
+=>q4
+Спас$(#/ла) кого-нибудь ещё в последнее время?<end>
+
+=>q5_original
+Vencel recommended I try Arlene's cooked psi bugger meat. Is he a moron or what?<end>
+
+=>q5
+Венцель советовал мне попробовать пси-жучатину, которую готовит Арлин. Он дебил или что?<end>
+
+=>q6_original
+Did you hear? The Faceless are gone! Cheers!<end>
+
+=>q6
+Ты слышал$(#/а)? Безликие ушли! Выпьем!<end>
+
+=>q7_original
+I heard you went to GMS. How'd it go?<end>
+
+=>q7
+Я слышал, ты ходил$(#/а) на GMS. Как всё прошло?<end>
+
+=>q8_original
+Yeah, cool. I survived the psi buggers so that the Faceless can finish me. Dang.<end>
+
+=>q8
+Да, круто. Я пережил пси-жучар, чтобы теперь безликие прикончили меня. Блин.<end>
+
+=>q9_original
+$(context.player.Name). ::Raises a glass.::<end>
+
+=>q9
+$(context.player.Name). ::Поднимает бокал.::<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>q11_original
+You're back. Bummer. And I am not a wussy.<end>
+
+=>q11
+Ты вернул$(#ся/ась). Зашибись. И я не слабак.<end>
+
+=>q12_original
+Leave me alone. I'm not a wussy, damn it!<end>
+
+=>q12
+Оставь меня в покое. Блин, я не слабак!<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+I am not a wussy!<end>
+
+=>q14
+Я не слабак!<end>
+
+=>a15_original
+Oh, you're the wussiest wuss in existence. One wuss to rule them all.<end>
+
+=>a15
+О, ты слабейший слабак из существующих. Один слабак, чтоб править всеми.<end>
+
+=>q16_original
+You-- ::Rage radiates from him, yet despite that he still doesn't manage to look threatening.:: That's it, you, you stupid *rock-for-brains*. You and I, we're not talking any more! Yes, you saved my life, and I am thankful, but I am not a wussy. I am *not* a wussy!<end>
+
+=>q16
+Ты... ::Он в ярости, но даже несмотря на это, ему не удаётся выглядеть угрожающе.:: Ну всё, ты тупой *валун без мозгов*. Ты и я, мы больше не разговариваем! Да, ты спас$(#/ла) мне жизнь, и я благодарен за это, но я не слабак. Я *не* слабак!<end>
+
+=>q17_original
+Go scrub your colon with a stalagmite! Leave me alone!<end>
+
+=>q17
+Иди сядь на сталагмит! Отстань от меня!<end>
+
+=>a18_original
+I'm sorry about that. I'm never going to call you a wussy again.<end>
+
+=>a18
+Прости меня. Я больше не буду называть тебя слабаком.<end>
+
+=>q19_original
+You swear?<end>
+
+=>q19
+Ты клянёшься?<end>
+
+=>a20_original
+Yes.<end>
+
+=>a20
+Да.<end>
+
+=>q21_original
+Okay. We are good. You saved my life and will not call me a wussy again. We are good.<end>
+
+=>q21
+Ладно. Всё в порядке. Ты спас$(#/ла) мне жизнь и не будешь больше называть меня слабаком. Всё нормально.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>a23_original
+How are you feeling, man?<end>
+
+=>a23
+Как ты себя чувствуешь, парень?<end>
+
+=>q24_original
+Better. The leg's still hurting from time to time, but I'll soon be as good as new-ton. ::He laughs.:: As you can see, I'm kinda relaxing here with the rest.<end>
+
+=>q24
+Лучше. Нога ещё болит время от времени, но я скоро буду как новенький. ::Он смеётся.:: Как видишь, я малость поотдыхаю здесь.<end>
+
+=>a25_original
+You do that. Take care of yourself.<end>
+
+=>a25
+Отдыхай. Береги себя.<end>
+
+=>q26_original
+Thanks. I will. Cheers!<end>
+
+=>q26
+Спасибо. Я этим и занимаюсь. Твоё здоровье!<end>
+
+=>a27_original
+What a wussy. See you around.<end>
+
+=>a27
+Ну и слабак. Увидимся.<end>
+
+=>q28_original
+No, I'm--<end>
+
+=>q28
+Нет, я...<end>
+
+=>a29_original
+::Leave.::<end>
+
+=>a29
+::Уйти.::<end>
+
+=>a30_original
+I just came here to tell you you're a wussy. See you around.<end>
+
+=>a30
+Я просто заш$(#ёл/ла) сказать, что ты слабак. Увидимся.<end>
+
+=>q31_original
+Wha--?<end>
+
+=>q31
+Чт?..<end>
+
+=>a32_original
+Wussy.<end>
+
+=>a32
+Слабак.<end>
+
+=>q33_original
+::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I never got to thank you properly.<end>
+
+=>q33
+::Улыбающееся лицо встречает вас.:: $(context.player.Name)! Большое спасибо за спасение моей жизни. Я не поблагодарил тебя должным образом.<end>
+
+=>q34_original
+I'm not a wussy!<end>
+
+=>q34
+Я не слабак!<end>
+
+=>a35_original
+I apologize, you're not. I don't even know why I said that.<end>
+
+=>a35
+Извини, конечно же, нет. Я даже не знаю, зачем я это сказал$(#/а).<end>
+
+=>q36_original
+Oh. Good. I need to rest now. If you'd leave me alone now, please.<end>
+
+=>q36
+Ох. Хорошо. Теперь мне нужно отдохнуть. Оставь меня одного, пожалуйста.<end>
+
+=>a37_original
+Yes, you are. Wussy!<end>
+
+=>a37
+Слабак! Ещё какой.<end>
+
+=>q38_original
+$(context.player.Name)?<end>
+
+=>q38
+$(context.player.Name)?<end>
+
+=>a39_original
+I just came over to check out how you were doing. And be careful next time you go chasing hoppers. Bye.<end>
+
+=>a39
+Я просто заш$(#ёл/ла) проверить, как у тебя дела. И будь осторожней в следующий раз, когда пойдёшь гоняться за пещерниками. Пока.<end>
+
+=>q40_original
+I'm fine at the moment. The leg kinda still hurts, but, like, it's getting better. As far as hunting those stupid hoppers, that's not gonna happen *any* time soon. See you around, $(context.player.Name).<end>
+
+=>q40
+Я уже в порядке. Нога немного ещё болит, но, вроде, становится лучше. Что касается охоты на этих глупых пещерников, этому не бывать в ближайшее время. Увидимся, $(context.player.Name).<end>
+
+=>q41_original
+::A smiling face greets you.:: $(context.player.Name)! Thank you very much for saving my life. I owe you for that one.<end>
+
+=>q41
+::Улыбающееся лицо приветствует вас.:: $(context.player.Name)! Большое спасибо за спасение моей жизни. Я у тебя в долгу.<end>
+
+=>q42_original
+::A terrified man leaps out of the dark corner and begins slashing the air in front of him. His shirt and pants are stained with blood, and you see a piece of cloth tied around his thigh below which a large wound grins at you. An instant passes, and the man retracts his knife and stares at you. 
+
+A sigh of relief precedes his words.::
+
+Aaaaah, you're not a psi bug. Thank goodness. I almost had a heart attack...<end>
+
+=>q42
+::Испуганный молодой человек выпрыгивает из тёмного угла и начинает рубить воздух перед собой. Его рубашка и брюки испачканы кровью, и вы видите, что его бедро перетянуто куском ткани, пониже которого зияет большая рана. Мгновение спустя он отводит нож и смотрит на вас, выпучив глаза.
+
+Вздох облегчения предваряет его слова.::
+
+А-а-а, ты не пси-жук. Какое облегчение. Я чуть не умер от сердечного приступа...<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
+
+=>a44
+Ты Ньютон? Большой Брет послал меня найти тебя. Ты долго не возвращался в ССГ.<end>
+
+=>q45_original
+Yes, yes! I'm Newton. Don't even mention Big Bret to me. He sent me to catch those stupid hoppers. I guess I went too far to the west and ran into psi-bugs. He never told me about them!<end>
+
+=>q45
+Да, да! Я Ньютон. Даже не упоминай Большого Брета при мне. Он послал меня ловить этих дурацких пещерников. Похоже, я зашёл слишком далеко на запад и наткнулся пси-жуков. Он ничего не говорил про них!<end>
+
+=>a46_original
+Why didn't you run away?<end>
+
+=>a46
+Почему ты не убежал?<end>
+
+=>q47_original
+I did! I started running... around. Hey, the bugs surrounded me! I ended up in this plac-- ::He clenches his teeth in pain.:: Aaahhhh... and I cut my leg somewhere along the way. I stopped the stupid bleeding, but I can barely walk.<end>
+
+=>q47
+Я пытался! Я начал бегать... вокруг. Эй, эти жуки окружили меня! Я попал на этот ск... ::Вдруг он стискивает зубы от боли.:: А-а-а... и я порезал себе ногу где-то по дороге. Я остановил дурацкую кровь, но теперь еле могу ходить.<end>
+
+=>q48_original
+Why the hell are we still talking? Can you get rid of all those damn bugs so I can safely get outta here? I can't run and I most certainly can't fight.<end>
+
+=>q48
+Какого хрена мы всё ещё болтаем? Ты можешь избавиться от этих проклятых жуков, чтобы я мог безопасно выйти отсюда? Я не могу бегать и я, уж точно, не могу драться.<end>
+
+=>a49_original
+They're all dead. Let's get you out of here.<end>
+
+=>a49
+Они все мертвы. Теперь давай вытащим тебя отсюда.<end>
+
+=>q50_original
+Great! GREAT! I wanna get the *hell* outta here as soon as possible. ::He rushes past you, dragging his injured leg behind him.::<end>
+
+=>q50
+Здорово! Отлично! Я хочу выбраться отсюда как можно скорее. ::Он проносится мимо вас, волоча раненую ногу.::<end>
+
+=>a51_original
+::Wait for him to limp away.::<end>
+
+=>a51
+::Подождать, пока он ухромает прочь.::<end>
+
+=>a52_original
+I think they're all dead. The path should be clear.<end>
+
+=>a52
+Я думаю, они все мертвы. Путь должен быть свободен.<end>
+
+=>a53_original
+Yeah, sure. I'll be back once the road is clear.<end>
+
+=>a53
+Да, конечно. Я вернусь, как только здесь будет безопасно.<end>
+
+=>q54_original
+Don't take too long. I'll wait here.<end>
+
+=>q54
+Не затягивай. Я подожду здесь.<end>
+
+=>a55_original
+You are a bigger hopper than the ones you were sent to catch, but I'll see what I can do.<end>
+
+=>a55
+Ты ещё больший пещерник, чем те зверушки, которых тебя послали ловить, но я посмотрю что можно сделать.<end>
+
+=>q56_original
+Hopper? That was uncalled for. I'm frickin' wounded, $(#man/woman)! ::He grabs his leg.:: Aaah... I'll wait here.<end>
+
+=>q56
+Пещерник? Это не смешно. Я же ранен, $(#мужик/сестра)! ::Он хватает себя за ногу.:: А-а-а-а... я подожду здесь.<end>
+
+=>a57_original
+I won't disturb you. Goodbye.<end>
+
+=>a57
+Не буду тебе мешать. Пока.<end>
+
+=>q58_original
+What!? No, no, no - don't leave me here! Are you derailed!? You from SGS?<end>
+
+=>q58
+Что?! Нет, нет, нет, не бросай меня здесь! Ты поехал$(#/а)?! Ты с ССГ?<end>
+
+=>a59_original
+Yes I am. $(context.player.Name)'s the name. Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
+
+=>a59
+Да. Я $(context.player.Name). Ты Ньютон? Большой Брет отправил меня искать тебя. Ты уже долго не возвращался на ССГ.<end>
+
+=>q60_original
+Did you kill them all?<end>
+
+=>q60
+Ты убил$(#/а) их всех?<end>
+
+=>a61_original
+Not yet, I'll be back.<end>
+
+=>a61
+Пока нет, я вернусь.<end>
+
+=>q62_original
+Come on! Please hurry up!<end>
+
+=>q62
+Давай! Пожалуйста, поторопись!<end>
+
+=>a63_original
+What can you tell me about this place?<end>
+
+=>a63
+Что ты можешь рассказать об этом месте?<end>
+
+=>q64_original
+Wh--What's frickin' wrong with you!? Please help me get out of here!<end>
+
+=>q64
+Ч-что, да что с тобой не так?! Пожалуйста, помоги мне выбраться отсюда!<end>
+

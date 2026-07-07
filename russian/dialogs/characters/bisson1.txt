@@ -1,0 +1,550 @@
+﻿=>q1_original
+I spoke to Harold today at the bar. He sure had a couple of good things to say about you, friend.<end>
+
+=>q1
+Я говорил сегодня в баре с Гарольдом. Он тебя нахваливал, $(#друг/подруга).<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+What are you doing?<end>
+
+=>a3
+Что ты делаешь?<end>
+
+=>q4_original
+I'm helping with clearing up the tunnel by using telekinetic manipulation.<end>
+
+=>q4
+Я помогаю с расчисткой туннеля своими телекинетическими способностями.<end>
+
+=>a5_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a5
+Что ты знаешь о смерти Патрика Пирса?<end>
+
+=>q6_original
+Oh, that happened a while ago; I thought we were done with that. I don't know what to tell you, the man died in his sleep. That's all I remember.<end>
+
+=>q6
+А, это уже давно было; я думал, что тут нечего обсуждать. Я не знаю, что тебе сказать -- мужик умер во сне. Это всё, что я помню.<end>
+
+=>a7_original
+Can you tell me what he was like as a person?<end>
+
+=>a7
+Можешь сказать мне, каким он был человеком?<end>
+
+=>q8_original
+We never hung out all that much, but he did not seem like a bad person to me. Relaxed and focused on his work, that's how I'd describe him. If memory serves me right, I think someone told me he was in the midst of the Core City riots, back when Biocorp fell apart. I most certainly don't envy him for that, if you dig.<end>
+
+=>q8
+Мы особо не общались, но мне он казался неплохим человеком. Ненапряжный и работящий -- вот как я описал бы его. Если мне не изменяет память, кто-то рассказывал, что он был в Кор-Сити в самый разгар беспорядков, ещё когда Биокорп развалилась. Не хотел бы я оказаться на его месте.<end>
+
+=>a9_original
+Can you teach me psi abilities?<end>
+
+=>a9
+Ты можешь научить меня пси-способностям?<end>
+
+=>q10_original
+I can teach you psychokinetics, if you are interested. I'm afraid I'll have to charge you.<end>
+
+=>q10
+Я могу научить тебя психокинетике, если хочешь, но боюсь, что не безвозмездно.<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+That's alright, what can you teach me?<end>
+
+=>a12
+Это ничего. Чему ты можешь меня научить?<end>
+
+=>q13_original
+When it comes to psionics, I can teach you telekinetic punch, force field, force emission and electrokinesis.<end>
+
+=>q13
+Что до псионики, то я могу научить тебя телекинетическому удару, силовому полю, эмиссии силы и электрокинезу.<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+What is a telekinetic punch exactly?<end>
+
+=>a15
+Что такое телекинетический удар?<end>
+
+=>q16_original
+It's when you focus your mind to create a telekinetic ball and launch it at your target. Impact is often so strong that if you hit a living target with it you're likely to stun it for a short while.
+
+I can teach you this ability for fifty credits.<end>
+
+=>q16
+Это когда ты фокусируешь свой разум, чтобы создать телекинетический шар и запустить его в противника. Удар часто настолько сильный, что если ты попадёшь во что-то живое, то скорее всего оглушишь его ненадолго.
+
+Я могу научить тебя этой способности за пятьдесят кредитов.<end>
+
+=>a17_original
+Agreed. Here you go.<end>
+
+=>a17
+Договорились. Держи.<end>
+
+=>q18_original
+Let's begin your training then...<end>
+
+=>q18
+Тогда приступим к обучению...<end>
+
+=>a19_original
+::Continue::<end>
+
+=>a19
+::Продолжить::<end>
+
+=>a20_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a20
+У меня сейчас нет денег. Чему ещё ты можешь меня научить?<end>
+
+=>a21_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a21
+Если подумать, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>a22_original
+Tell me more about force fields. ::[Requires: Psychokinesis 25]::<end>
+
+=>a22
+Расскажи мне про силовые поля. ::[Требуется: Психокинез 25]::<end>
+
+=>q23_original
+You can focus your mind to project a telekinetic force field that lasts only a little while but is so strong that it's nearly impenetrable. 
+
+I can teach you this ability for one hundred credits.<end>
+
+=>q23
+Ты можешь сосредоточить свой разум и создать силовое поле, которое существует хоть и недолго, но настолько прочное, что его почти невозможно пробить. 
+
+Я могу научить тебя этой способности всего за сто кредитов.<end>
+
+=>a24_original
+Agreed. Here you go.<end>
+
+=>a24
+Договорились. Держи.<end>
+
+=>q25_original
+Let's begin your training then...<end>
+
+=>q25
+Тогда приступим к обучению...<end>
+
+=>a26_original
+::Continue::<end>
+
+=>a26
+::Продолжить::<end>
+
+=>q27_original
+I'm afraid you're not ready to learn this ability yet.<end>
+
+=>q27
+Боюсь, что ты ещё не готов$(#/а) овладеть этой способностью.<end>
+
+=>a28_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a28
+У меня сейчас нет денег. Чему ещё ты можешь меня научить?<end>
+
+=>a29_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a29
+Если подумать, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>a30_original
+What does force emission do? ::[Requires: Psychokinesis 35]::<end>
+
+=>a30
+Что делает эмиссия силы? ::[Требуется: Психокинез 35]::<end>
+
+=>q31_original
+It's also called psi punching. You focus your mind to add your psionic power to your fist attacks.
+
+I can teach you this ability for two hundred credits.<end>
+
+=>q31
+Это ещё называют пси-кулаками. Ты фокусируешь свой разум, чтобы добавить пси-силы своим кулакам.
+
+Я могу научить тебя этой способности за двести кредитов.<end>
+
+=>a32_original
+Agreed. Here you go.<end>
+
+=>a32
+Договорились. Держи.<end>
+
+=>q33_original
+Let's begin your training then...<end>
+
+=>q33
+Тогда приступим к обучению...<end>
+
+=>a34_original
+::Continue::<end>
+
+=>a34
+::Продолжить::<end>
+
+=>q35_original
+I'm afraid you're not ready to learn this ability yet, friend.<end>
+
+=>q35
+Боюсь, что ты ещё не готов$(#/а) овладеть этой способностью.<end>
+
+=>a36_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a36
+У меня сейчас нет денег. Чему ещё ты можешь меня научить?<end>
+
+=>a37_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a37
+Если подумать, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>a38_original
+Electrokinesis sounds interesting. ::[Requires: Psychokinesis 30]::<end>
+
+=>a38
+Электрокинез звучит интригующе. ::[Требуется: Психокинез 30]::<end>
+
+=>q39_original
+You project an electrical bolt that jumps between your enemies, shocking them. The one to take the full brunt of the attack can also end up being paralyzed for a short duration.
+
+I can teach you this ability for one hundred fifty credits.<end>
+
+=>q39
+Ты создаёшь электрический заряд, который прыгает между врагами и бьёт их. Первый враг получает всю силу атаки, а также его может оглушить на некоторое время.
+
+Я могу научить тебя этой способности за сто пятьдесят кредитов.<end>
+
+=>a40_original
+Agreed. Here you go.<end>
+
+=>a40
+Договорились. Держи.<end>
+
+=>q41_original
+Let's begin your training then...<end>
+
+=>q41
+Тогда приступим к обучению...<end>
+
+=>a42_original
+::Continue::<end>
+
+=>a42
+::Продолжить::<end>
+
+=>q43_original
+I'm afraid you're not ready to learn this ability yet.<end>
+
+=>q43
+Боюсь, что ты ещё не готов$(#/а) овладеть этой способностью.<end>
+
+=>a44_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a44
+У меня сейчас нет денег. Чему ещё ты можешь меня научить?<end>
+
+=>a45_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a45
+Если подумать, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>a46_original
+Never mind. Let's talk about something else.<end>
+
+=>a46
+Забудь. Давай поговорим о чём-нибудь другом.<end>
+
+=>q47_original
+Mhm?<end>
+
+=>q47
+М-м-м?<end>
+
+=>a48_original
+Why do you have to charge me?<end>
+
+=>a48
+Почему ты берёшь с меня деньги?<end>
+
+=>q49_original
+I'm not a scavenger and I'm not a manufacturer. Teaching is how I get by.<end>
+
+=>q49
+Я не мусорщик и не инженер. Я зарабатываю наставничеством.<end>
+
+=>a50_original
+Forget it then.<end>
+
+=>a50
+Забудь.<end>
+
+=>a51_original
+I want to learn some psi abilities.<end>
+
+=>a51
+Я хочу овладеть новыми пси-способностями.<end>
+
+=>a52_original
+Where did you learn to use psionics? Is there some psionic guru roaming the Underrail?<end>
+
+=>a52
+Где ты научился использовать псионику? От какого-нибудь пси-гуру, странствующего по Подземке?<end>
+
+=>q53_original
+::He laughs.:: Perhaps there is, friend, but the man who taught me was far from a guru. He knew a few techniques, and I had some coins. We exchanged. It was the bare basics, but it got me started. Refined the rest on my own.<end>
+
+=>q53
+::Он смеётся.:: Может, и есть такие, но парень, который учил меня, был далеко не гуру. Он знал несколько приёмов, а у меня было немного монет. Мы обменялись. Это были только основы, но я на том не остановился. Я совершенствовался самостоятельно.<end>
+
+=>a54_original
+Any more teachers you know of?<end>
+
+=>a54
+Ты знаешь каких-нибудь ещё учителей?<end>
+
+=>q55_original
+Sure, you got two in SGS. Beside me, of course. Ezra can teach you thought control abilities, while Quinton's an expert in metathermics. <end>
+
+=>q55
+Конечно, есть двое на станции Саут-Гейт. Помимо меня, конечно. Эзра может научить тебя способностям управления разумом, а Куинтон -- эксперт по метатермике.<end>
+
+=>q56_original
+And I hear there's another psionic at the bar, stuck because of the earthquake. <end>
+
+=>q56
+И я слышал, что в баре есть ещё один псионик, застрявший здесь из-за землетрясения.<end>
+
+=>q57_original
+There's also the possibility of undergoing cerebral imprinting with psionic mentors, but I'm not a fan of those.<end>
+
+=>q57
+Ещё ты можешь сделать церебральный импринтинг при помощи пси-наставников, но я не фанат этих штук.<end>
+
+=>a58_original
+Why? What's wrong with it?<end>
+
+=>a58
+Почему? Что с ними не так?<end>
+
+=>q59_original
+I prefer... the natural way. It works better for me. Imprinting might be a shortcut to ability, but it is not a shortcut to wisdom.
+
+Also, while most psionic mentors are safe if used properly, some use low-quality or modified devices and eventually end up derailed, no different than Lunatics. I heard... a while ago I think, a story about some junkies who didn't even use them for psionic reasons at all, but heavily modified them to get some kind of... high.<end>
+
+=>q59
+Я предпочитаю... естественный способ. Мне он подходит больше. Импринтинг может и служит кратчайшим путём к способностям, но не к мудрости.
+
+Кроме того, хотя большинство псионических наставников и безопасны при правильной эксплуатации, некоторые используют низкокачественные или модифицированные устройства и в итоге сходят с рельсов, подобно Психотикам. Помнится... недавно я слышал историю о каких-то торчках, которые использовали их совсем не ради псионики, а серьёзно модифицировали, чтобы словить какой-то... кайф.<end>
+
+=>q60_original
+But that is a whole different story. Again, if you obtain them from reliable sources, they are safe to use, friend.<end>
+
+=>q60
+Но это уже другая история. Если ты добудешь их из надёжных источников, то их можно использовать не боясь, дружище.<end>
+
+=>a61_original
+I'll keep that in mind. I had other questions.<end>
+
+=>a61
+Я буду иметь это в виду. У меня есть другие вопросы.<end>
+
+=>a62_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a62
+Что ты думаешь о вторжении безликих?<end>
+
+=>q63_original
+If I would have to guess, I'd say that the Core City probably overstepped some boundaries and messed with the Underrail infrastructure in a way that was harmful for the Faceless.<end>
+
+=>q63
+Мне кажется, что Кор-Сити, вероятно, перешли какую-то границу и вмешались в инфраструктуру Подземки так, что это как-то навредило безликим.<end>
+
+=>q64_original
+I say this because if you look to the past, at the actual credible accounts of Faceless attacks, it was usually a battle over some key infrastructural element, such as master ventilation or energy grid node.<end>
+
+=>q64
+Я так говорю, потому что если ты вспомнишь прошлые заслуживающие доверия сообщения об атаках безликих, то это обычно были бои за ключевые элементы инфраструктуры, такие как главная вентиляция или узел электрической сети.<end>
+
+=>a65_original
+So you think they might have rerouted some power or air flow to the detriment of the Faceless?<end>
+
+=>a65
+Так, ты думаешь, что они могли перенаправить электричество или воздушный поток, и это не понравилось безликим?<end>
+
+=>q66_original
+If I'd have to guess, yes. We don't know to what extent the Faceless rely on the Underrail systems, but they are humans, I think, or living beings at least, so they have to breathe. And their machines have to be powered somehow.<end>
+
+=>q66
+Да, мне так кажется. Мы не знаем, в какой степени безликие полагаются на системы Подземки, но они же люди, наверное, ну или по крайней мере живые существа, значит им нужно как-то дышать. И их машинам нужно питание.<end>
+
+=>a67_original
+I see.<end>
+
+=>a67
+Понятно.<end>
+
+=>q68_original
+But, again, I'm just guessing.<end>
+
+=>q68
+Но, опять же, я могу только догадываться.<end>
+
+=>a69_original
+What are your thoughts on the Faceless retreat from Core City?<end>
+
+=>a69
+Что ты думаешь об отступлении безликих из Кор-Сити?<end>
+
+=>q70_original
+Seeing how long the siege lasted, I'm a bit surprised it ended without any more bloodshed. I suppose the Faceless got whatever they wanted, because it doesn't seem to me like they didn't have enough forces to take over the city.<end>
+
+=>q70
+Учитывая, как долго длилась осада, я немного удивлён, что она закончилась без особого кровопролития. Наверное, безликие получили всё, что хотели, потому что у них явно было достаточно сил, чтобы захватить город.<end>
+
+=>q71_original
+Basing that on the news I heard, though. Regardless, things are definitely quieter now in Underrail.<end>
+
+=>q71
+Это если верить новостям, которые я слышал. В Подземке стало намного спокойнее, это точно.<end>
+
+=>a72_original
+What are your thoughts on Tanner's disappearance?<end>
+
+=>a72
+Что ты думаешь насчёт исчезновения Таннера?<end>
+
+=>q73_original
+I'm as confused as everybody, friend. As if the recent goings-on weren't mind-boggling enough, now we have to figure out this mystery as well.<end>
+
+=>q73
+Я так же растерян, как и все. Как будто последние события были недостаточно безумными, теперь перед нами ещё и эта тайна.<end>
+
+=>q74_original
+And Tanner was, I think, the biggest mystery out of all the odd people in this station. No one ever talked about it, but we all thought it.<end>
+
+=>q74
+Таннер был, по-моему, самым загадочным из всех чудаков на этой станции. Никто не говорил вслух, но все так думали.<end>
+
+=>a75_original
+You mentioned Lunatics. What can you tell me about them?<end>
+
+=>a75
+Ты упомянул Психотиков. Что ты можешь рассказать мне о них?<end>
+
+=>q76_original
+A gang of - lunatics. Pretty much. They are all capable of invoking psionics, but that comes at the cost of their minds. Some say they became that way due to overdosing on psi-enhancing concoctions and strong inhalants, others say it's due to cerebral imprinting gone wrong. And there are other stories as well. 
+
+You'll hear a lot about Lunatics, but one thing always rings true - they are not to be underestimated.<end>
+
+=>q76
+Банда Психотиков -- имя говорит само за себя. Они все используют псионику, и у каждого от неё крыша набекрень. Некоторые говорят, что это всё из-за передозировки пси-усиливающими концентратами и сильнодействующими ингалянтами, другие говорят, что это последствия церебрального импринтинга. Всякое рассказывают.
+
+Ты наверняка много ещё услышишь про Психотиков, но одно точно -- их не следует недооценивать.<end>
+
+=>q77_original
+They are rare here in the southern parts, but as you begin to approach Core City, and especially once you go to Upper Underrail, that's where you're most likely to encounter them.<end>
+
+=>q77
+Здесь, в южных частях, они встречаются редко, но возле Кор-Сити и особенно в Верхней Подземке -- там ты с ними встретишься вероятнее всего.<end>
+
+=>a78_original
+I have to go.<end>
+
+=>a78
+Мне нужно идти.<end>
+
+=>q79_original
+::He nods.:: Friend.<end>
+
+=>q79
+::Он кивает.:: $(#Друг/Подруга)?<end>
+
+=>q80_original
+::A lean, athletic man greets you with a friendly, resonant voice.::
+
+Hello, friend. I don't believe we've met. My name is Bisson.<end>
+
+=>q80
+::Стройный, атлетичный мужчина приветствует вас дружелюбным звонким голосом: ::
+
+Привет, $(#друг/подруга). Мы, кажется, ещё не встречались. Я Биссон.<end>
+
+=>a81_original
+Well met, Bisson. I'm $(context.player.Name).<end>
+
+=>a81
+Рад$(#/а) знакомству, Биссон. Я $(context.player.Name).<end>
+
+=>q82_original
+<end>
+
+=>q82
+<end>
+
+=>q83_original
+I'd love to chat, but as you can see we're all a bit too busy right now. Is there something you need?<end>
+
+=>q83
+Я бы с удовольствием поболтал, но, как ты видишь, мы сейчас слишком заняты. Ты что-то хотел$(#/а)?<end>
+
+=>q84_original
+Nice to meet you. Now, is there anything you need?<end>
+
+=>q84
+Приятно познакомиться. Ты что-то хотел$(#/а)?<end>
+
+=>a85_original
+I'm $(context.player.Name).<end>
+
+=>a85
+Я $(context.player.Name).<end>
+
+=>a86_original
+I'm the new $(#guy/girl).<end>
+
+=>a86
+Я новеньк$(#ий/ая).<end>
+
+=>q87_original
+Ah, $(context.player.Name), I believe. <end>
+
+=>q87
+Ах, да -- $(context.player.Name), кажется? <end>
+

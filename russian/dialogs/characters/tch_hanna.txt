@@ -1,0 +1,400 @@
+﻿=>q1_original
+Adapt and overcome!<end>
+
+=>q1
+Приспособиться и преодолеть!<end>
+
+=>q2_original
+$(context.player.Name), Mediant Samuel wishes to see you. He is in his office with Efreitor Denzil.<end>
+
+=>q2
+$(context.player.Name), медиант Самюэль желает видеть вас. Он в своём кабинете вместе с ефрейтором Дэнзилом.<end>
+
+=>q3_original
+::This young woman welcomes you by putting her hand on her chest and follows with a verbal greeting. Her bright and high-pitched voice sounds pleasant and matches her petiteness perfectly. On the other hand, the full combat uniform that she is wearing - complete with a mask she never removes, a characteristic you noticed in all rassophores throughout the Institute; creates a different, if conflicting visual image.::
+
+Tchort is evolution. I am Efreitor Hanna, armory keeper for Institute of Tchort. You're $(context.player.Name), if I'm not mistaken?<end>
+
+=>q3
+::Эта молодая женщина приветствует вас, положив руку на грудь. Её звенящий высокий голос приятно звучит и очень соответствует её хрупкому телосложению. С другой стороны, она носит полное боевое обмундирование в комплекте с маской, которую она никогда не снимает, что характерно для всех рясофоров в Институте, как вы заметили. Всё это вместе создаёт весьма конфликтный визуальный образ.::
+
+Чорт -- это эволюция. Я ефрейтор Ханна, хранитель оружейной Института Чорта. Вы $(context.player.Name), если я не ошибаюсь?<end>
+
+=>a4_original
+Evolution is Tchort. Yes, I am $(#him/her). Pleasure to meet you.<end>
+
+=>a4
+Эволюция -- это Чорт. Да, это я. Приятно познакомиться.<end>
+
+=>q5_original
+Pleasure to meet you too, $(context.player.Name). Under Mediant Samuel's direct orders, you are allowed access to Preservation's armory, despite the fact that you are not a rassophore... yet.<end>
+
+=>q5
+Рада с вами познакомиться, $(context.player.Name). Согласно прямому приказу медианта Самюэля, вам разрешается доступ к оружейной Сохранения, несмотря на то, что вы ещё не рясофор.<end>
+
+=>q6_original
+Of course, armory access is not free, so prepare some charons before making a purchase.<end>
+
+=>q6
+Конечно же, доступ к снаряжению не бесплатный, поэтому приготовьте хароны, прежде чем сделать заказ.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Eidein told me to see you about my uniform.<end>
+
+=>a8
+Эйдейн велел поговорить с вами по поводу моей формы.<end>
+
+=>q9_original
+::She signals the other rassophore, and he leaves the the room.::
+
+We keep the new vathosphores... downstairs. <end>
+
+=>q9
+::Она подаёт знак другому рясофору, и он выходит из комнаты.::
+
+Мы храним новые ватосфоры... внизу.<end>
+
+=>q10_original
+::While the rassophore is away, she grabs a rassophore armor from one of the lockers.::
+
+This is your standard issue armored robe. You will be wearing this when on duty as a rassophore.<end>
+
+=>q10
+::Пока рясофор отсутствует, она достаёт из одного из шкафчиков броню рясофора.::
+
+Это будет ваша стандартная бронированная роба. Вы будете носить её во время службы в качестве рясофора.<end>
+
+=>q11_original
+::Some ten minutes later, the rassophore returns with a bulky-looking green robe and an unusual backpack-like device.::
+
+Now this - this is the new vathosphore armored robe. Lucky you. Take good care of it - you don't want to get it dirty or damaged before the ceremony. Eidein has allowed you to take it this early only for you to get comfortable wearing it. 
+
+No one wants novitiates tipping over during one of their most apex hours. Totally not. ::She chuckles.::<end>
+
+=>q11
+::Примерно через десять минут рясофор возвращается с громоздкой зелёной мантией и необычным устройством, похожим на рюкзак.::
+
+Вот новая бронированная роба ватосфора. Повезло вам. Берегите её -- лучше не пачкать и не портить её до церемонии. Эйдейн разрешил вам взять её так рано только для того, чтобы привыкнуть к ней.
+
+Никому не надо, чтобы послушник растянулся на полу в один из самых важных моментов жизни. Абсолютно не надо. ::Она хихикает.::<end>
+
+=>q12_original
+Therefore, mind that ecopack; it's heavy. And don't fiddle with it too much.<end>
+
+=>q12
+И берегите этот экопак. Он тяжёлый. И не возитесь с ним слишком долго.<end>
+
+=>a13_original
+Ecopack?<end>
+
+=>a13
+Экопак?<end>
+
+=>q14_original
+That device on the back. It houses, and let me quote the manual: "...an ecosystem of thermosynthetic microorganisms living off the wearer's captured heat. These microorganisms are capable of producing breathable air enriched with compounds beneficial to the wearer's general health and combat performance."
+
+I think I got that right.<end>
+
+=>q14
+Это устройство на спину. Оно содержит -- позвольте мне процитировать руководство: "...экосистему термосинтетических микроорганизмов, живущих за счёт улавливаемого тепла владельца. Эти микроорганизмы способны производить пригодный для дыхания воздух, обогащённый соединениями, полезными для общего здоровья и боевых качеств пользователя".<end>
+
+=>a15_original
+Interesting. What else can you tell me about the armor?<end>
+
+=>a15
+Как интересно. Можете ещё что-нибудь рассказать об этой броне?<end>
+
+=>q16_original
+Well, it's a new series of armored robes, designed jointly by both Preservation and Investigation experts. The ecopack and the added hazardous protection make it suitable for extreme environments. A few of you lucky ones will get to show it off during the ceremony, but whether you get to keep it afterwards... that I ain't got a clue.
+
+So keep it nice and clean, $(context.player.Name).<end>
+
+=>q16
+Это новая серия бронированных роб, разработанная совместно специалистами по сохранению и по исследованию. Экопак и дополнительная защита от опасных факторов делают её пригодной для использования в экстремальных условиях. Некоторые из вас, счастливчиков, смогут продемонстрировать её во время церемонии, но можно ли оставить её себе... понятия не имею.
+
+Так что держите её в чистоте и порядке, $(context.player.Name).<end>
+
+=>a17_original
+Understood. Now, I better go and get changed.<end>
+
+=>a17
+Понятно. Тогда пойду переодеваться.<end>
+
+=>q18_original
+::She waves at you.:: Tchort guide you.<end>
+
+=>q18
+::Она машет вам.:: Чорт направит вас.<end>
+
+=>a19_original
+I'd like to see what you have in the armory. ::Barter.::<end>
+
+=>a19
+Я хотел$(#/а) бы взглянуть, какое оружие вы продаёте. ::Обмен.::<end>
+
+=>a20_original
+::[Mercantile]:: Excuse me, Efreitor, but would you mind showing me the... rest of the equipment? The things you don't show to just about any novitiate. Price is not an issue - I've got the coin to spend.<end>
+
+=>a20
+::[Торговля]:: Извините, ефрейтор, но не могли бы вы показать мне... остальное снаряжение? То, что вы не покажете первому встречному новичку. Цена не проблема, деньги у меня есть.<end>
+
+=>q21_original
+If that is the case... then let me show you what we got, $(context.player.Name).<end>
+
+=>q21
+В таком случае... тогда позвольте мне показать вам, что у нас есть, $(context.player.Name).<end>
+
+=>a22_original
+::Barter.::<end>
+
+=>a22
+::Обмен.::<end>
+
+=>q23_original
+Sorry, but I cannot grant you access to the rest of the armory inventory, $(context.player.Name). It's... Never mind. I cannot.<end>
+
+=>q23
+Извините, но я не могу предоставить вам доступ ко всем запасам оружейной, $(context.player.Name). Видите ли... неважно. Я не могу.<end>
+
+=>a24_original
+How and why did you join Institute of Tchort?<end>
+
+=>a24
+Как и почему вы оказались в Институте Чорта?<end>
+
+=>q25_original
+Institute-born here. ::She laughs.:: That means I've been exposed to Tchortism all my life and I am glad for it. I was lucky; outsiders who come here as novitiates always talk how difficult life on the outside is. Poverty, disease, bandits... wars even. While we do have our own problems here, namely with the Faceless and - as of late - Lunatics, the quality of life in the Institute is unmatched by anything in South Underrail.<end>
+
+=>q25
+Я родилась в Институте. ::Она смеётся.:: Это означает, что я погружена в чортизм всю мою жизнь, и я рада этому. Мне повезло; люди снаружи, которые приходят сюда в качестве послушников, всегда говорят как же трудно там жить. Нищета, болезни, бандиты... даже войны. Хотя у нас здесь есть и свои собственные проблемы, например с Безликими и в последнее время с Психотиками, качество жизни в Институте не сравнится с Южной Подземкой.<end>
+
+=>q26_original
+All in all, the Institute is totally apex! ::She laughs.::<end>
+
+=>q26
+Короче говоря, в Институте верховно! ::Она смеётся.::<end>
+
+=>a27_original
+Have you ever been outside?<end>
+
+=>a27
+Вы когда-нибудь были снаружи?<end>
+
+=>q28_original
+Other than a few Upper Underrail patrols when I was a rassophore trainee, I've never went too far from the Institute. I saw nothing of interest during that time anyway, totally nothing, so I did not really feel the need to see what lies beyond. I'm sure it's just more of the same.<end>
+
+=>q28
+Кроме нескольких патрулей по Верхней Подземке когда я училась на рясофора, я никогда не уходила слишком далеко от Института. Всё равно, я не видела ничего интересного за это время, абсолютно ничего, поэтому я не чувствую необходимости увидеть, что лежит дальше за его пределами. Наверняка, там просто больше того же самого.<end>
+
+=>q29_original
+I've got everything I need right here. I have friends, family... and this totally apex armory. And I suppose I have a purpose: Tchortism is something you dedicate your life to, something that fulfills you. All in all, I have everything here.<end>
+
+=>q29
+Здесь у меня есть всё, что нужно. У меня есть друзья, семья... и эта совершенно верховная оружейная. И, думаю, у меня есть цель: чортизм это то, чему вы посвящаете свою жизнь, что-то, что дополняет вас. Короче говоря, у меня есть всё.<end>
+
+=>a30_original
+Glad to hear that. Allow me to ask you something else.<end>
+
+=>a30
+Рад$(#/а) это слышать. Позвольте мне спросить ещё кое-что.<end>
+
+=>q31_original
+Sure, $(context.player.Name). I'm listening...<end>
+
+=>q31
+Конечно, $(context.player.Name). Я слушаю...<end>
+
+=>a32_original
+I am looking for a rassophore called Nevil. Have you seen him recently?<end>
+
+=>a32
+Я разыскиваю рясофора по имени Невил. Вы не видели его в последнее время?<end>
+
+=>q33_original
+As I have already reported to Mediant Samuel, I haven't seen Rassophore Nevil today. The last time we spoke was two days ago when he came to the armory with a request for ammunition for his rifle, but that was all. He got what he needed and walked away.<end>
+
+=>q33
+Как я уже доложила медианту Самюэлю, я не видела рясофора Невила сегодня. В последний раз мы виделись два дня назад, когда он пришёл в оружейную за патронами к винтовке, но это и всё. Он получил, что хотел и ушёл.<end>
+
+=>q34_original
+He is not a talkative man anyway, so that is how our interaction usually goes. Totally.<end>
+
+=>q34
+В любом случае, он не особенно разговорчивый, так что всё было как обычно. Совершенно.<end>
+
+=>a35_original
+What can you tell me about Mediant Samuel?<end>
+
+=>a35
+Что вы можете рассказать мне о медианте Самюэле?<end>
+
+=>q36_original
+His Notability is a dedicated Tchortist and a good man, and it is an honor and a privilege to be a rassophore under his command. He can be strict - but he is always just.<end>
+
+=>q36
+Его преподобие -- преданный чортист и хороший человек, и для меня большая честь и привилегия служить рясофором под его командованием. Он может быть строгим, но он всегда справедлив.<end>
+
+=>a37_original
+Is he in charge of all forces or...<end>
+
+=>a37
+Он командует всеми силами или?..<end>
+
+=>q38_original
+No, $(context.player.Name) - that would be His Excellency, Harmost Stavros. Mediant, as a rank, is someone who relays harmost's commands to efreitors and rassophores; the middle link in the command chain, so to speak. But since His Excellency is in Deep Caverns at the moment, he left Mediant Samuel in command of the Institute forces up here.<end>
+
+=>q38
+Нет, $(context.player.Name), это Его превосходительство гармост Ставрос. Медиант это тот, кто передаёт приказы гармоста ефрейторам и рясофорам; среднее звено в цепи командования, так сказать. Но так как Его превосходительство в Глубоких пещерах на данный момент, то он оставил медианта Самюэля в ответе за силы Института здесь наверху.<end>
+
+=>q39_original
+So in a way he *is* in command, but only temporarily.<end>
+
+=>q39
+Так что, в некотором смысле, он *действительно* командует, но только временно.<end>
+
+=>a40_original
+Interesting... I had something else I wanted to ask you.<end>
+
+=>a40
+Интересно... Я хотел$(#/а) спросить у вас ещё кое-что.<end>
+
+=>a41_original
+What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
+
+=>a41
+Что сказала клетка, готовая к митозу, заинтересованному исследователю? «Я надеюсь, что привлекаю ваше нераздельное внимание!»<end>
+
+=>q42_original
+::At first, the joke is met with a giggle. However, a moment later Hanna bursts into full-blown laughter. She lowers her head and soon enough you don't even hear her anymore but only see her shaking.::<end>
+
+=>q42
+::Поначалу ваша шутка вызывает у неё короткий смешок. Однако спустя мгновение, Ханна взрывается хохотом. Она опускает голову, и вы не слышите её больше, только видите как она трясётся.::<end>
+
+=>q43_original
+::She returns to you eventually.::
+
+That was totally apex. Undivid-- ::She bursts into laughter again.::<end>
+
+=>q43
+::В конце концов она возвращается к вам.::
+ 
+Это было совершенно верховно. Нераздел... ::Она снова лопается от смеха.::<end>
+
+=>a44_original
+Glad you like it.<end>
+
+=>a44
+Рад$(#/а), что вам понравилось.<end>
+
+=>q45_original
+::She nods a few times, still laughing.::<end>
+
+=>q45
+::Она кивает несколько раз, не переставая смеяться.::<end>
+
+=>a46_original
+There was something else I wanted to talk about.<end>
+
+=>a46
+Я хотел$(#/а) поговорить с вами ещё кое о чём.<end>
+
+=>a47_original
+I'll leave you to it.<end>
+
+=>a47
+Пожалуй, я оставлю вас.<end>
+
+=>q48_original
+::She nods a few times, still laughing.::<end>
+
+=>q48
+::Она кивает несколько раз, не переставая смеяться.::<end>
+
+=>a49_original
+Tchort guide you, sister.<end>
+
+=>a49
+Чорт направит вас, сестра.<end>
+
+=>q50_original
+I wouldn't have it any other way, $(context.player.Name). You too.<end>
+
+=>q50
+А куда он денется, $(context.player.Name). Вас тоже.<end>
+
+=>a51_original
+See ya later, Hanna.<end>
+
+=>a51
+Увидимся позже, Ханна.<end>
+
+=>a52_original
+That is correct. How did you know?<end>
+
+=>a52
+Это так. Откуда вы знаете?<end>
+
+=>q53_original
+News spreads fast; the Institute is not a very big place. A place of big ideas - perhaps, but not a physically big place. Also, your totally apex retrieval of the figurine stolen by those... devolved Lunatics is a something that really caught everyone's attention.<end>
+
+=>q53
+Новости распространяются быстро; Институт это не такое большое место. Место больших идей -- возможно, но не физически большое. К тому же, ваше совершенно верховное спасение статуэтки, украденной этими... дегенератами Психотиками действительно привлекло всеобщее внимание.<end>
+
+=>q54_original
+Now, under Mediant Samuel's direct orders, you are allowed access to Preservation's armory, despite the fact that you are not a rassophore... yet.<end>
+
+=>q54
+Итак, согласно прямому приказу медианта Самюэля, вам разрешается доступ к оружейной Сохранения, несмотря на то, что вы ещё не рясофор.<end>
+
+=>a55_original
+I am, and I'm looking to get acquire weapons if possible. Mediant Samuel told me that you can help me with that.<end>
+
+=>a55
+Это я, и я хотел$(#/а) бы приобрести оружие, если это возможно. Медиант Самюэль сказал, что вы можете помочь мне с этим.<end>
+
+=>q56_original
+::She nods.:: That is correct. Even though you are not a rassophore yet, $(context.player.Name), you will be granted access to Preservation's armory - as instructed by the mediant himself.<end>
+
+=>q56
+::Она кивает.:: Это так. Несмотря на то, что вы ещё не рясофор, $(context.player.Name), вам разрешается доступ к оружейной Сохранения, согласно прямому приказу медианта.<end>
+
+=>q57_original
+Hey, $(context.player.Name). If you heard any loud banging on your way here, those were the weights falling off the weight rack in the gym. The armory is perfectly safe. 
+
+Still... don't stand near the cabinets.<end>
+
+=>q57
+Привет, $(context.player.Name). Если вы слышали такой громкий стук по дороге сюда, то это грузы посыпались со стойки в тренажёрном зале. Оружейная в полном порядке.
+
+И всё-таки... не стойте рядом со шкафами.<end>
+
+=>q58_original
+$(context.player.Name), you totally have to see the new equipment we've just received.<end>
+
+=>q58
+$(context.player.Name), вы просто обязаны взглянуть на новое снаряжение, оно только что пришло.<end>
+
+=>a59_original
+In a moment, I had some questions first.<end>
+
+=>a59
+Секунду, у меня есть пара вопросов.<end>
+
+=>q60_original
+Yes?<end>
+
+=>q60
+Да?<end>
+
+=>q61_original
+Hey, $(context.player.Name). What culling tools do you need now?<end>
+
+=>q61
+Привет, $(context.player.Name). Какой прополочный инструмент вам нужен на этот раз?<end>
+

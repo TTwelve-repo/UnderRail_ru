@@ -1,0 +1,1915 @@
+﻿=>q1_original
+You're done for!<end>
+
+=>q1
+Тебе конец!<end>
+
+=>q2_original
+GET OUT!<end>
+
+=>q2
+ВОН ОТСЮДА!<end>
+
+=>q3_original
+::You stare at a raised crossbow.::
+
+Whatcha doin' 'ere, intruder!? Eh? Eh!? Move one, ONE finger and I'll launch a bolt through your hollow skull!<end>
+
+=>q3
+::Его арбалет направлен прямо на вас.::
+
+Чё ты делаешь здесь, незваный гость?! А? А?! Только пошевели одним, ОДНИМ пальчиком, и я вобью болт в твою пустую башку!<end>
+
+=>a4_original
+Leo, it's me. Don't you remember?<end>
+
+=>a4
+Лео, это я. Разве ты не помнишь?<end>
+
+=>q5_original
+Get outta here, intruder! Get out! I swear, I'll nail you to that wall over there if you don't get outta here!<end>
+
+=>q5
+Убирайся отсюда, незваный гость! Убирайся! Клянусь, я пригвозжу тебя к стене, если ты не уберёшься!<end>
+
+=>a6_original
+Farewell then, Leo.<end>
+
+=>a6
+Тогда прощай, Лео.<end>
+
+=>a7_original
+::Walk away without saying a word.::<end>
+
+=>a7
+::Уйти, не сказав ни слова.::<end>
+
+=>a8_original
+As if you can hit anything, old man. Give me your best shot! ::Fight!::<end>
+
+=>a8
+Да ты же не попадёшь, старик. Ну давай, попробуй! ::Бой!::<end>
+
+=>a9_original
+Calm down. I am not here to cause trouble. Can you please put the weapon down?<end>
+
+=>a9
+Успокойтесь. Я не причиню вам зла. Пожалуйста, опустите оружие.<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>q11_original
+::[Persuasion] ::<end>
+
+=>q11
+::[Убеждение] ::<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+::You spent about an hour conversing with your echo. A long talk indeed, during which you and the Hole of Reason agreed on just about everything, making it effectively the most boring conversation you've ever had. Yet, oddly, not the most useless one, it seems: You feel as if your reasoning is somehow sharper, your memory more reliable; you feel more focused and less likely to be distracted by outside interference - you feel strange. 
+
+Or maybe you're just losing your mind due to the fact that you've spent an hour talking to a bottomless pit.::<end>
+
+=>q14
+::Вы проводите около часа, беседуя с эхом. За время этого долгого разговора вы и дыра рассудка согласились во всём, что вылилось в самую нудную беседу на вашей памяти. Но, как ни странно, не самую бесполезную. Вы чувствуете, будто ваше мышление стало острее, а память -- крепче. Вы чувствуете себя более целеустремленн$(#ым/ой), менее подверженн$(#ым/ой) отвлечениям. Вы чувствуете себя странно. 
+
+А может быть, вы просто сходите с ума из-за того, что битый час разговаривали с бездонной дырой в земле.::<end>
+
+=>q15_original
+Feelin' good, $(context.player.Name)?<end>
+
+=>q15
+Хорошо себя чувствуешь, $(context.player.Name)?<end>
+
+=>a16_original
+Feeling persuasive... and persuaded.<end>
+
+=>a16
+Чувствую себя убеждающ$(#им/ей)... и убеждённ$(#ым/ой).<end>
+
+=>q17_original
+Eh?<end>
+
+=>q17
+А?<end>
+
+=>a18_original
+Never mind. I wanted to talk to you about a few things.<end>
+
+=>a18
+Послушай. Я хотел$(#/а) поговорить с тобой кое о чём.<end>
+
+=>q19_original
+Eh?<end>
+
+=>q19
+А?<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>a21_original
+Do you have anything to trade? ::Barter.::<end>
+
+=>a21
+У тебя есть что-нибудь на обмен? ::Обмен.::<end>
+
+=>a22_original
+I've activated one of the elevators that leads out of Deep Caverns. Would you like to come with me?<end>
+
+=>a22
+Я включил$(#/а) лифт, который ведёт из Глубоких пещер. Хочешь пойти со мной?<end>
+
+=>q23_original
+::He stares blankly at you.::<end>
+
+=>q23
+::Он неотрывно смотрит на вас.::<end>
+
+=>a24_original
+I said, would you like to come with me? Get out of here?<end>
+
+=>a24
+Я говорю, ты хочешь пойти со мной? Выбраться отсюда?<end>
+
+=>q25_original
+::A few noiseless moments pass before he shakes his head and answers.:: 
+
+No.<end>
+
+=>q25
+::Несколько мгновений проходят в тишине, затем он качает головой и говорит.:: 
+
+Нет.<end>
+
+=>a26_original
+Why not? Do you really want to stay here for the rest of your life?<end>
+
+=>a26
+Почему нет? Ты что, хочешь остаться здесь на всю жизнь?<end>
+
+=>q27_original
+I don't know.<end>
+
+=>q27
+Я не знаю.<end>
+
+=>a28_original
+Are you afraid of going up there?<end>
+
+=>a28
+Ты боишься идти туда?<end>
+
+=>q29_original
+I don't know.<end>
+
+=>q29
+Я не знаю.<end>
+
+=>a30_original
+Life is better up there. It ain't great, but it's a lot better than it is in this place.<end>
+
+=>a30
+Жизнь там лучше. Не то чтобы намного, но явно лучше, чем в этом месте.<end>
+
+=>q31_original
+I believe what you're sayin', but I'm not goin' there. I can't. I just can't. I *just* can't. I don't know. *Here* I know... and I don't. *There* I just... don't. And I don't remember.<end>
+
+=>q31
+Я верю твоим словам, но я не пойду туда. Я не могу. Я просто не могу. Я *просто* не могу. Я не знаю. *Здесь* я знаю... и не знаю. *Там* я просто... не знаю. И я не помню.<end>
+
+=>q32_original
+You go. Go. Don't think of me.<end>
+
+=>q32
+Ты иди. Иди. Не думай обо мне.<end>
+
+=>a33_original
+If you ever change your mind, go to the elevator by the lake.<end>
+
+=>a33
+Если ты когда-нибудь передумаешь, иди к лифту около озера.<end>
+
+=>q34_original
+::He quietly nods.::<end>
+
+=>q34
+::Он молча кивает.::<end>
+
+=>a35_original
+Whatever. I'm off, old man.<end>
+
+=>a35
+Как хочешь. Я ухожу, старик.<end>
+
+=>a36_original
+Why are you here, Leo? And for how long?<end>
+
+=>a36
+Как ты оказался здесь, Лео? И как давно?<end>
+
+=>q37_original
+::Your question is answered by a confused stare. A spoken reply follows.::
+
+You are askin' me questions I can't answer.<end>
+
+=>q37
+::Ответом вам служит растерянный взгляд.::
+
+Ты задаёшь мне вопросы, на которые я не могу ответить.<end>
+
+=>a38_original
+Why not?<end>
+
+=>a38
+Почему бы и нет?<end>
+
+=>q39_original
+I can't remember those things. I forgot 'em. I sometimes even... have trouble rememberin' my own name... Leo. Leo. *Leo*.<end>
+
+=>q39
+Я не помню этих вещей. Я забыл их. Мне иногда даже... трудно вспомнить собственное имя... Лео. Лео. *Лео*.<end>
+
+=>a40_original
+How can one forget his very own name?<end>
+
+=>a40
+Как можно забыть собственное имя?<end>
+
+=>q41_original
+It's the pressure. The pressure in my head makes me forget things, you know. Everytime I go near the complex, the pressure... it makes the edges of my mind fuzzy. Then, it shrinks, and I feel somethin' inside got lost. The devils, Tchortists, they live there with their demons and are resistant to it, I think, but I... I forget.<end>
+
+=>q41
+Это давление. Давление в голове заставляет меня забывать, видишь. Каждый раз, как я прохожу рядом с комплексом, давление... оно размывает края моего сознания. Потом оно сжимается, и я чувствую, что внутри что-то потерялось. Дьяволы, чортисты -- они живут там со своими бесами, и на них оно не действует, я думаю, но я... я забыл.<end>
+
+=>a42_original
+I know what you mean. I was there too and felt a strange sensation in my head, but it gets better as soon as I leave the area.<end>
+
+=>a42
+Я знаю, что ты имеешь в виду. Я тоже был$(#/а) там, и почувствовал$(#/а) странное ощущение в голове, но мне стало лучше, как только я уш$(#ёл/ла) оттуда.<end>
+
+=>q43_original
+Yes, the pressure lessens once you leave... but there's always somethin' missin' from your mind.<end>
+
+=>q43
+Да, давление спадает, когда ты уходишь... но каждый раз вместе с ним что-то пропадает из головы.<end>
+
+=>q44_original
+I remember other things... Yes. Yes. Recent things and, and some other if I can focus hard on it, those I remember. But the past, it evaporated! Poof!<end>
+
+=>q44
+Я помню другие вещи... да. Да. Недавние события и, и некоторые другие, если я хорошо сосредоточусь -- эти я помню. Но прошлое, -- оно испарилось! Пуф!<end>
+
+=>a45_original
+Evaporated?<end>
+
+=>a45
+Испарилось?<end>
+
+=>q46_original
+It evaporated - POOF! Some things I know but can't remember... Yes - I know but can't remember. The knife, I know that it's important, but can't remember why. It's... a deep feelin'. Maybe someone gave it to me. Maybe I made it myself. I don't remember. But I feel it to be a part of me, and if I can't, can't keep my memories, then maybe I can keep things that were a part of it. Yes, yes. It's the only option I've left.<end>
+
+=>q46
+Оно испарилось -- пуф! Некоторые вещи я знаю, но не могу вспомнить... Да, я знаю, но не могу вспомнить. Нож, -- я знаю, что он важен, но не могу вспомнить почему. Это... глубокое чувство. Может быть, кто-то дал его мне. Может быть, я сделал его сам. Я не помню. Но я чувствую, что это часть меня, и если я не могу, не могу уберечь свои воспоминания, тогда, может быть, я хотя бы смогу уберечь вещи, которые были их частью. Да, да. Это всё, что мне остаётся.<end>
+
+=>q47_original
+Maybe my mind will become clearer one day and those items will help me remember. Yes, yes.<end>
+
+=>q47
+Может быть, мои мысли станут яснее однажды, и эти предметы помогут мне вспомнить. Да, да.<end>
+
+=>a48_original
+Why did you go back to the complex if the pressure makes you lose your memory?<end>
+
+=>a48
+Зачем ты вернулся в комплекс, если давление заставляет тебя терять память?<end>
+
+=>q49_original
+I rarely go there. Right. The pressure, devils - and demons. It is not a good place to be. No. But the diggers - they emerged, so I had to.<end>
+
+=>q49
+Я редко там бываю. Да. Давление... бесы и демоны. Это плохое место. Нет. Но копатели -- они появились, поэтому мне пришлось.<end>
+
+=>a50_original
+Diggers?<end>
+
+=>a50
+Копатели?<end>
+
+=>q51_original
+Diggers, the critters you must've seen out front. They crawled out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out! Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!<end>
+
+=>q51
+Копатели, твари. Ты, наверное, видел$(#/а) их снаружи. Они вылезли из земли, когда большая тряска расколола её. *Большая* тряска. Большая *тряска*. И потом они вылезли! Такие уродливые. Я поставил все эти ловушки для них, но у них есть мозги. Ни одна ловушка не сработала!<end>
+
+=>q52_original
+But... I think I remember now. I saw 'em a long time before. Maybe. But not in such numbers, no, no, and it was far away from my home. But this, this is too many...<end>
+
+=>q52
+Но... кажется, я помню. Я видел их давным-давно. Кажется. Но не в таком количестве, нет, нет, и это было далеко от моего дома. Но сейчас, сейчас их слишком много...<end>
+
+=>a53_original
+You were going to tell me why did the diggers make you go back to the complex.<end>
+
+=>a53
+Ты собирался рассказать мне, почему копатели заставили тебя вернуться в комплекс.<end>
+
+=>q54_original
+Yes! I needed to find... uh, somethin' it was, somethin' - anythin' to keep 'em away from my home! The complex is rich with... things. I know it is, but I can't remember exactly what. I found things in the past there - useful things. I had to take the risk. I had to try. The diggers were closing in, and the storages, nothin' of use there against 'em.<end>
+
+=>q54
+Да! Я искал... э-э, что-то, кое-что, что-нибудь, чтобы отогнать их от моего дома! Комплекс богат... вещами. Я знаю, но я не помню чем именно. Я раньше находил там вещи, полезные вещи. Я должен был рискнуть. Я должен был попробовать. Копатели приближались, а на складах ничего против них не было.<end>
+
+=>a55_original
+Well, did you find anything?<end>
+
+=>a55
+И как, ты нашёл что-нибудь?<end>
+
+=>q56_original
+::He looks around himself, his eyes scanning every corner of his home.:: It appears I haven't. No, I am sure I haven't. I found nothin' there. I found *nothin'* there.<end>
+
+=>q56
+::Он осматривается, его глаза сканируют каждый уголок дома.:: Кажется, нет. Нет, я уверен, что нет. Я не нашёл там ничего. Я не нашёл там *ничего*.<end>
+
+=>q57_original
+Even though I went prepared, I found nothing. I've been training, you see, to prevent the pressure from makin' me forget. It helps. To a degree. $(context.player.Name). *$(context.player.Name)*.<end>
+
+=>q57
+Хотя я пошёл подготовленный, я ничего не нашёл. Я тренировался, видишь ли, чтобы давление не заставляло меня забывать. И это помогает. Но до определённой степени. $(context.player.Name). *$(context.player.Name)*.<end>
+
+=>a58_original
+I'd be glad to clear the burrowers for you.<end>
+
+=>a58
+Я с удовольствием разгоню для тебя могильщиков.<end>
+
+=>q59_original
+Diggers - do not confuse me. You can try to slay 'em, but they'll just come back. From the ground. They always do. I know. No, I need somethin' to keep them away. Permanently. That is why I went to the complex. Yes.<end>
+
+=>q59
+Копателей, -- не путай меня. Ты можешь попытаться убить их, но они только вернутся. Из земли. Они всегда возвращаются. Я знаю. Нет, мне нужно что-то, чтобы отогнать их. Навсегда. Поэтому я пошёл в комплекс. Да.<end>
+
+=>q60_original
+I lost my knife there. In the complex. While running from Tchortists. Tchortists. But then you brought it back. Yes. That is what happened.<end>
+
+=>q60
+Я потерял мой нож там. В комплексе. Когда убегал от чортистов. Чортистов. Но потом ты прин$(#ёс/есла) его обратно. Да. Так и произошло.<end>
+
+=>a61_original
+Resist the pressure? Tell me what you mean?<end>
+
+=>a61
+Ты сопротивляешься давлению? Что ты имеешь в виду?<end>
+
+=>q62_original
+The Hole of Reason.<end>
+
+=>q62
+Дыра Рассудка.<end>
+
+=>a63_original
+The what now?<end>
+
+=>a63
+Что-что?<end>
+
+=>q64_original
+It's in the back. Yes, yes. When my mind is fuzzy, I go to it. It helps. It clears it up, solidifies the mind.<end>
+
+=>q64
+Она здесь, рядом. Да, да. Когда моё сознание расплывается, я иду к ней. Она помогает. Она очищает сознание, укрепляет его.<end>
+
+=>a65_original
+May I see this Hole of Reason?<end>
+
+=>a65
+Могу я увидеть эту Дыру рассудка?<end>
+
+=>q66_original
+::He nods with a smile.::
+
+Mhm. Follow me... um, $(context.player.Name).<end>
+
+=>q66
+::Он кивает с улыбкой.::
+
+Ага. Иди за мной... эм, $(context.player.Name).<end>
+
+=>a67_original
+::Follow him to the Hole of Reason.::<end>
+
+=>a67
+::Идти за ним к Дыре рассудка.::<end>
+
+=>a68_original
+Interesting. Maybe I'll check it out some time later.<end>
+
+=>a68
+Интересно. Может быть, я взгляну попозже.<end>
+
+=>q69_original
+When my mind is fuzzy, I go to it. Yes. I *go* to it. *I,* Leo. *Leo*.<end>
+
+=>q69
+Когда моё сознание расплывается, я иду к ней. Да. Я *иду* к ней. *Я*, Лео. *Лео*.<end>
+
+=>a70_original
+Where is this "Hole of Reason"?<end>
+
+=>a70
+Где эта «Дыра рассудка»?<end>
+
+=>a71_original
+I had other questions, if you don't mind.<end>
+
+=>a71
+У меня есть другие вопросы, если ты не возражаешь.<end>
+
+=>q72_original
+No. I don't. Ask.<end>
+
+=>q72
+Нет. Спрашивай.<end>
+
+=>a73_original
+You mean burrowers?<end>
+
+=>a73
+Ты имеешь в виду могильщиков?<end>
+
+=>q74_original
+Burrowers? I mean diggers. You must've seen 'em out front. They came out of the ground when the big shake opened it. The *big* shake. The big *shake*. Then they came out. Ugly these things are. I set those traps for them, but they got some brains in 'em. Not a single trap was set off!<end>
+
+=>q74
+Могильщиков? Я имею в виду копателей. Ты, наверное, видел$(#/а) их снаружи. Они вылезли из земли, когда большая тряска расколола её. *Большая* тряска. Большая *тряска*. И потом они вылезли! Такие уродливые. Я поставил все эти ловушки для них, но у них есть мозги. Ни одна ловушка не сработала!<end>
+
+=>a75_original
+So, how far back do you remember about yourself?<end>
+
+=>a75
+И какое у тебя самое давнее воспоминание?<end>
+
+=>q76_original
+I... know I've been 'ere for a long time. I don't remember how I came 'ere, but I know I came from some other place. There are clues that tell me so. Yes, yes. I had some items with me, like the bone knife, things, um... pictures of people! I feel somethin' when I look at those things, yes, yes. I know those people, but I don't remember 'em.<end>
+
+=>q76
+Я... знаю, что я здесь уже давно. Я не помню, как я попал сюда, но я знаю, что я пришёл из другого места. Есть вещи, которые говорят об этом. Да, да. У меня были с собой вещи -- костяной нож -- вещи, хм... фотографии людей! Я чувствую что-то, когда я смотрю на эти вещи -- да, да. Я знаю этих людей, но я не помню их.<end>
+
+=>q77_original
+I haven't seen people in... a long time. I know one was 'ere. With me. No. Yes. Yes, he was. There was another man 'ere with me. There *was* another *man* with me. Here. But I don't remember what happened to him. I know he was 'ere.<end>
+
+=>q77
+Я не видел людей... долгое время. Я знаю, что кто-то был здесь. Со мной. Нет. Да. Да, был. Со мной был ещё один человек. Со *мной* был ещё один *человек*. Здесь. Но я не помню, что с ним случилось. Я знаю, что он был здесь.<end>
+
+=>a78_original
+Do you miss him?<end>
+
+=>a78
+Ты скучаешь по нему?<end>
+
+=>q79_original
+I do. I do. I don't remember why but I do... I miss him a lot. He was my best friend. We were together until he...<end>
+
+=>q79
+Да. Да. Я не помню, почему, но я... я очень по нему скучаю. Он был моим лучшим другом. Мы были вместе до тех пор, пока он...<end>
+
+=>a80_original
+What did you say?<end>
+
+=>a80
+Повтори?<end>
+
+=>q81_original
+Eh? No. He was my broth-- No, no, no, no, no. I can't remember anymore! Fuzzy, fuzzy! It...<end>
+
+=>q81
+А? Нет. Он был моим бра... Нет, нет, нет, нет, нет. Я больше не помню! Размытые, нечёткие! Они...<end>
+
+=>a82_original
+Did he come here with you, perhaps? Do you remember?<end>
+
+=>a82
+Может быть, он пришёл сюда вместе с тобой? Ты помнишь?<end>
+
+=>q83_original
+Train.<end>
+
+=>q83
+Поезд.<end>
+
+=>a84_original
+You came together by a train? I haven't seen a railroad anywhere.<end>
+
+=>a84
+Вы приехали вместе на поезде? Я не видел$(#/а) здесь железной дороги.<end>
+
+=>q85_original
+I don't remember. I don't know. It hurts me... Fuzzy!<end>
+
+=>q85
+Я не помню. Я не знаю. Мне больно... Размыто!<end>
+
+=>a86_original
+Why did you come here, Leo?<end>
+
+=>a86
+Зачем ты пришёл сюда, Лео?<end>
+
+=>q87_original
+Leo.<end>
+
+=>q87
+Лео.<end>
+
+=>a88_original
+Yes, that's your name. Now tell me why'd you come here?<end>
+
+=>a88
+Да, это твоё имя. Теперь скажи мне, зачем ты пришёл сюда?<end>
+
+=>q89_original
+*I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).<end>
+
+=>q89
+*Я* Лео. *Я* Лео. Я *Лео*. Приятно познакомиться, э-э... $(context.player.Name).<end>
+
+=>q90_original
+I'll remember you, I will. By the white rat's hair, I will. Now to keep my end of the bargain. Ask me anythin' you wish to know...<end>
+
+=>q90
+Я буду помнить тебя, да. Клянусь шерстью белой крысы, я буду. Теперь я расскажу тебе всё. Спрашивай меня, что ты хочешь знать...<end>
+
+=>q91_original
+...$(context.player.Name).<end>
+
+=>q91
+...$(context.player.Name).<end>
+
+=>a92_original
+Leo? Are you okay?<end>
+
+=>a92
+Лео? Ты в порядке?<end>
+
+=>a93_original
+We better talk about something else. I see that this is getting to you.<end>
+
+=>a93
+Лучше поговорим о чём-нибудь другом. Я вижу, что это для тебя тяжело.<end>
+
+=>q94_original
+Eh? $(context.player.Name)? $(context.player.Name). *$(context.player.Name)*.<end>
+
+=>q94
+А? $(context.player.Name)? $(context.player.Name). *$(context.player.Name)*.<end>
+
+=>a95_original
+This is pointless. Listen up, I had other questions?<end>
+
+=>a95
+Это бесполезно. Слушай, у меня были другие вопросы.<end>
+
+=>a96_original
+I think you got that one wrong. But think, old man, you can do it.<end>
+
+=>a96
+Я думаю, что ты ошибаешься. Думай, старик, ты можешь.<end>
+
+=>a97_original
+Best friend? You remember him?<end>
+
+=>a97
+Лучший друг? Ты помнишь его?<end>
+
+=>a98_original
+Until he what?<end>
+
+=>a98
+Пока он что?<end>
+
+=>q99_original
+Until he... no. He was not my friend, but my bro-- No, no, no, no, no. I can't remember! Fuzzy, fuzzy! It...<end>
+
+=>q99
+Пока он... нет. Он был не моим другом, а моим бра... Нет, нет, нет, нет, нет. Я не могу вспомнить! Размытые, нечёткие! Они...<end>
+
+=>a100_original
+I'd like to change the subject now.<end>
+
+=>a100
+Давай сменим тему.<end>
+
+=>q101_original
+Eh? Alright, Alright. Go ahead then. Ask.<end>
+
+=>q101
+А? Ладно, ладно. Давай тогда. Спрашивай.<end>
+
+=>a102_original
+You forgot your past?<end>
+
+=>a102
+Ты забыл своё прошлое?<end>
+
+=>a103_original
+I wouldn't want anything like that to happen to me.<end>
+
+=>a103
+Не хотелось бы, чтобы что-нибудь подобное случилось со мной.<end>
+
+=>a104_original
+That's horrible. If you're afraid about forgetting your own name, then I better not ask about other, less important things.<end>
+
+=>a104
+Это ужасно. Если ты боишься забыть даже своё имя, тогда мне лучше и не спрашивать о других, менее важных вещах.<end>
+
+=>a105_original
+Can't or won't?<end>
+
+=>a105
+Не можешь или не хочешь?<end>
+
+=>q106_original
+Can't. <end>
+
+=>q106
+Не могу.<end>
+
+=>a107_original
+Why do you repeat your name several times every time you say it?<end>
+
+=>a107
+Зачем ты повторяешь своё имя несколько раз?<end>
+
+=>q108_original
+So I won't forget it.<end>
+
+=>q108
+Чтобы не забыть.<end>
+
+=>a109_original
+Do you know of a way out of here?<end>
+
+=>a109
+Ты знаешь выход отсюда?<end>
+
+=>q110_original
+There are elevators, yes, yes, but not a single one of them works. They lead up, I think.<end>
+
+=>q110
+Есть лифты -- да, да -- но ни один из них не работает. Они ведут наверх, кажется.<end>
+
+=>a111_original
+Where can I find them?<end>
+
+=>a111
+Где я могу их найти?<end>
+
+=>q112_original
+One is in the big complex, one is, um, near the lake. There might be more, but those are the ones I know of.<end>
+
+=>q112
+Один находится в большом комплексе, один, хм, возле озера. Может быть, есть и ещё, но я знаю только про эти.<end>
+
+=>a113_original
+Does "Underrail" mean anything to you? Core City? Do you remember metro tunnels, trains? Anything of the sort?<end>
+
+=>a113
+Тебе говорит о чём-нибудь слово «Подземка»? Кор-Сити? Ты помнишь туннели метро, поезда? Что-нибудь в этом духе?<end>
+
+=>q114_original
+Eh? No... it means nothing to me, I think. You sound like it should, you do. But... I don't remember anything like that. Is that where you're from? You think I'm from there too?<end>
+
+=>q114
+А? Нет... это ни о чём мне не говорит, не думаю. Ты говоришь, что должно. Но... я не помню ничего подобного. Это откуда ты приш$(#ёл/ла)? Ты думаешь, я оттуда тоже?<end>
+
+=>q115_original
+::His eyes roll back as he grabs his head and lets out a painful cry. He then drops to his knees and begins weeping.::<end>
+
+=>q115
+::Он закатывает глаза, хватается за голову и издаёт горестный крик. Затем он падает на колени и начинает рыдать.::<end>
+
+=>a116_original
+Stand up, old man. You are stronger than that. You know it.<end>
+
+=>a116
+Встань, старик. Ты сильнее чем выглядишь. Ты знаешь это.<end>
+
+=>q117_original
+::He wipes the tears from his wrinkly cheeks and gets up.::
+
+Don't tell me about your world any more.<end>
+
+=>q117
+::Он вытирает слёзы с морщинистой щеки и встаёт.::
+
+Не рассказывай мне больше о твоём мире.<end>
+
+=>a118_original
+Why not?<end>
+
+=>a118
+Почему бы и нет?<end>
+
+=>q119_original
+It's only more things for me to forget.<end>
+
+=>q119
+Только больше вещей, чтобы забыть.<end>
+
+=>a120_original
+Wouldn't you want to get out of here?<end>
+
+=>a120
+Разве ты не хотел бы выбраться отсюда?<end>
+
+=>q121_original
+I don't know. I don't know. And I don't want to speak about this anymore.<end>
+
+=>q121
+Я не знаю. Я не знаю. И я не хочу больше об этом говорить.<end>
+
+=>a122_original
+Let me ask you something else.<end>
+
+=>a122
+Позволь мне узнать ещё кое-что.<end>
+
+=>q123_original
+Eh? $(context.player.Name). *$(context.player.Name)*. Leo. *Leo*.<end>
+
+=>q123
+А? $(context.player.Name). *$(context.player.Name)*. Лео. *Лео*.<end>
+
+=>q124_original
+<end>
+
+=>q124
+<end>
+
+=>a125_original
+Tell me about the labyrinth.<end>
+
+=>a125
+Расскажи мне про лабиринт.<end>
+
+=>q126_original
+The labyrinth is swarmin' with giant death-worms. They spit acid and will devour anything they come up to - rats, froggers, diggers. Everything. But I evaded them. He-he-Ha! You just ought to carefully observe the ground and avoid them. Tread lightly. Little by little and I was through the labyrinth, I remember.<end>
+
+=>q126
+В лабиринте живут гигантские черви смерти. Они плюются кислотой и жрут всё подряд: крыс, жаберов, копателей. Всё. Но меня они не поймали. Хи-хи-Ха! Надо просто внимательно смотреть на землю и обходить их. Идти осторожно. Мало-помалу, и я прошёл через лабиринт, я помню.<end>
+
+=>a127_original
+Why did you go there in the first place?<end>
+
+=>a127
+Зачем ты вообще туда ходил?<end>
+
+=>q128_original
+I was... lookin' for somethin'. I can't remember what, but I know it. I don't think I found it, no, no. ::He looks around the room.:: No, no, I haven't. I've found somethin' else, though...<end>
+
+=>q128
+Я... искал что-то. Я не могу вспомнить что, но я знаю. Я не думаю, что нашёл его, -- нет, нет. ::Он осматривает комнату.:: Нет, нет, не нашёл. Но я нашёл что-то другое...<end>
+
+=>q129_original
+Energy rocks. Three of them, but only one was still glowing. I felt tinglin' in my skin, drawin' me to touch it. Yes, yes. I remember touchin' it and, and... it hit my mind with images. But the images hurt me. Fuzzy, fuzzy.<end>
+
+=>q129
+Энергетические камни. Их было три, но только один всё ещё светился. Я почувствовал покалывание на коже, мне хотелось прикоснуться к нему. Да, да. Я помню, как прикоснулся к нему и, и... он наполнил моё сознание образами. Мне было от них больно. Размытые, нечёткие.<end>
+
+=>q130_original
+I also didn't have much time to look at it - the death-worms were after me! I ran my way out of the labyrinth, somehow rememberin' where I was supposed to go. I'd forgotten it since, but at the time it was clear where I needed to run. It goes without sayin' I never came back there. Ought to be mad to do that again! He-he-HA!<end>
+
+=>q130
+И у меня не было времени, чтобы хорошо рассмотреть его -- черви смерти гнались за мной! Я выбежал из лабиринта, как-то не забыв куда идти. Теперь я уже забыл, но тогда было ясно, куда я должен бежать. Нечего и говорить, что я больше туда не вернулся. Для этого надо быть сумасшедшим! Хи-хи-ХА!<end>
+
+=>a131_original
+Tell me about the complex.<end>
+
+=>a131
+Расскажи мне про комплекс.<end>
+
+=>q132_original
+The complex is vast. Tchorti-- Tchortists live there with their demons. Devils! I was there many times, I know it, and I always felt the pressure inside my head. Yet, besides makin' me forget it also wakes up the demons. They come out of their holes, holes in the ground, so watch for those if you ought to go there. Not that I would recommend it. No, no.<end>
+
+=>q132
+Комплекс огромен. Чорти... чортисты живут там со своими бесами. Дьяволы! Я был там много раз, я знаю, и я всегда чувствовал давление внутри головы. Оно не только заставляет меня забывать, оно ещё и пробуждает бесов. Они вылезают из своих нор, нор в земле, так что берегись, если пойдёшь туда. Я не советую. Нет, нет.<end>
+
+=>a133_original
+What else can you tell me about the complex? What's it for?<end>
+
+=>a133
+Что ещё ты можешь мне рассказать о комплексе? Для чего он?<end>
+
+=>q134_original
+The complex was the place where people who lived in the four buildings worked. Yes, yes. They were, what's the word, scientists! I remember seein' that in their notes. They were doin' experiments on things. Maybe they created the devils, the demons. Maybe the demons killed them, there are dismembered corpses all throughout the complex. I remember seein' them.<end>
+
+=>q134
+В комплексе работали люди, которые жили в четырёх зданиях. Да, да. Они были, как это... учёные! Я помню, как читал их заметки. Они проводили эксперименты на всяком. Может быть, они создали дьяволов, бесов. Может быть, это бесы убили их -- по всей территории комплекса разорванные трупы. Я помню, как я видел их.<end>
+
+=>a135_original
+Tell me more.<end>
+
+=>a135
+Расскажи мне ещё про комплекс.<end>
+
+=>q136_original
+I found useful things there. It is a place of many secrets, and while I've found some of 'em, I reckon there is more to discover. Oh, like the shelters, there are shelters where the demons won't hurt you and the pressure can't reach you.<end>
+
+=>q136
+Я нашёл там полезные вещи. Это место многих секретов, и, хотя я нашёл некоторые из них, я думаю, что там их ещё больше. О, например убежища, там есть убежища, куда не доберутся бесы, и нет давления.<end>
+
+=>q137_original
+That bloody complex. Because of it my memories leaked out of my head. It is evil, I tell you. Why fate came over me, I don't know. And I don't remember.<end>
+
+=>q137
+Этот проклятый комплекс. Из-за него мои воспоминания утекли из моей головы. Он зло, скажу я тебе. За что мне такая судьба, я не знаю. И я не помню.<end>
+
+=>a138_original
+Tell me about the storages.<end>
+
+=>a138
+Расскажи мне про склады.<end>
+
+=>q139_original
+Ah, the storages. It's a place where useful things are. It is a place where *useful* things are. I know that's why I built my home close to it.<end>
+
+=>q139
+А, склады. Это место, где есть полезные вещи. Это место, где есть *полезные* вещи. Я знаю, поэтому я построил свой дом близко.<end>
+
+=>q140_original
+There are weapons there, materials and parts too, ammo. Also, also, there are two large storages that go inside the cave wall. One is open, and has dangerous gases inside and slimy slugs, while the other is sealed. I was never able to open it, but I saw through a crack in the wall that it has more shelves inside, with more useful things. Yes, I saw shelves. I remember seein' *shelves*.<end>
+
+=>q140
+Там есть оружие, материалы и запчасти тоже, патроны. Ещё, ещё, есть два больших склада внутри стены пещеры. Один открыт, и внутри опасные газы и склизкие слизни, а другой запечатан. У меня не получилось открыть его, но я видел сквозь щель в стене, что там внутри ещё полки с полезными вещами. Да, я видел полки. Я помню, как я видел *полки*.<end>
+
+=>q141_original
+The storages were empty until diggers showed up, but then the Masked drove them off. I can go there, the Masked won't hurt me. They *won't* hurt me.<end>
+
+=>q141
+На складах никого не было, пока копатели не пришли, а потом Маски прогнали их. Я могу пойти туда, Маски меня не трогают. Они *не* обидят меня.<end>
+
+=>a142_original
+Tell me about the demon breeding grounds.<end>
+
+=>a142
+Расскажи мне про рассадник бесов.<end>
+
+=>q143_original
+Demons. I was there, a long time ago. It is past the complex... I think, let me think, I think there are tanks there. Large tanks full of green-- yellow-- green liquid. Yes, tanks. Large *tanks*. I saw horrible things there, sure. But, I know I saw somethin' more there...<end>
+
+=>q143
+Бесы. Я был там давным-давно. Это в глубине комплекса... я думаю, дай подумать, думаю, там есть баки. Большие баки, полные зелёной... жёлтой... зелёной жидкости. Да, баки. Большие *баки*. Я видел там ужасные вещи, да. Но я знаю, что я видел там и что-то другое...<end>
+
+=>q144_original
+Somethin'... huge. A larger demon. I remember my head was feelin' like it was gonna turn to mush. I... it hurts my brain when I try to rem-- ::He quickly puts his palms on his temples and begins rubbing the area, clenching his eyes and grunting.:: Hnnnnnnnnn... hnnnnnnnnnnn... hnnnnnnnnn...<end>
+
+=>q144
+Что-то... огромное. Большой бес. Я помню, как в моей голове было чувство, будто она превратится в кашу. Я... у меня болит голова, когда я пытаюсь вспом... ::Он прикладывает ладони к вискам и начинает тереть их, зажмурив глаза и кряхтя.:: Хн-н-н-н-н-н-н... хн-н-н-н-н-н-н... хн-н-н-н-н-н-н...<end>
+
+=>q145_original
+::The tension dissipates. His eyes remain closed, but not clenched; his breath evens out; his palms still rubbing his temples. As he calms down he slowly lifts his eyelids and tiredly looks at you.::
+
+I can't tell you more. It hurts.<end>
+
+=>q145
+::Напряжение рассеивается. Его глаза по-прежнему закрыты, но не зажмурены; дыхание вернулось в норму; его ладони всё ещё потирают виски. Успокоившись, он медленно поднимает веки и устало смотрит на вас.::
+
+Я не могу больше ничего сказать. Мне больно.<end>
+
+=>a146_original
+Tell me about the machine plant.<end>
+
+=>a146
+Расскажи мне про завод роботов.<end>
+
+=>q147_original
+It is past the storages. At the intersection follow the road straight. Nor-- North! The diggers are there now. In the yard. I saw them, I remember it. But inside, there I've never been. No, no. But I saw lights turn on, machines come out. The plant is makin' them. It has to be. They clink-clank-clink-clank around it, protectin' whatever is inside. Yes, yes.<end>
+
+=>q147
+Это за складами. На перекрёстке иди по дороге прямо. На... на север! Там сейчас копатели. Во дворе. Я их видел, я помню. Но внутри, -- там я никогда не был. Нет, нет. Но я видел, как горит свет, как выходят роботы. Это завод строит их. Наверняка. Они катаются вокруг, защищают то, что внутри. Да, да.<end>
+
+=>q148_original
+One attacked me once. I got too close. It spoke to me. Then I destroyed it. I... Leo, *Leo* destroyed it.<end>
+
+=>q148
+Один напал на меня. Я подошёл слишком близко. Он говорил со мной. Потом я уничтожил его. Я... Лео, *Лео* уничтожил его.<end>
+
+=>a149_original
+Tell me about the Masked site.<end>
+
+=>a149
+Расскажи мне про базу Масок.<end>
+
+=>q150_original
+You go... *east* from my home, past the storages. Many Masked there. There they keep their diggin' machines, guns - machines. Machine rats. Yes, yes. And imprisoned devils too. Oh, yes, yes. My mind swirled and I remembered it.<end>
+
+=>q150
+Иди на... *восток* от моего дома, мимо складов. Там много Масок. Там они держат свои копательные машины, Пулемёты-машины. Машины-крысы. Да, да. И пленных дьяволов тоже. Ах, да, да. Там мой разум закружился, и я это запомнил.<end>
+
+=>q151_original
+The buildings are surrounded by high walls. I've been there before the Masked came. I have been there *before* the Masked came. I entered some of the buildings and saw the insides were in ruin. Dead people were all over the place, and so were giant white rats.<end>
+
+=>q151
+Здания окружены высокими стенами. Я был там до того, как пришли Маски. Я был там *до* того, как пришли Маски. Я входил в здания и видел внутри развалины. Повсюду были мёртвые люди и гигантские белые крысы.<end>
+
+=>q152_original
+But there is nothin' of that inside now. The Masked cleaned it up.<end>
+
+=>q152
+Но сейчас там ничего такого не осталось. Маски вычистили всё.<end>
+
+=>a153_original
+What do you think of the Masked? Are they good or bad?<end>
+
+=>a153
+Что ты думаешь о Масках? Они хорошие или плохие?<end>
+
+=>q154_original
+They are good. I know it. I remember they wouldn't hurt me. But I remembered that they killed people too...
+
+I don't know now... Fuzzy.<end>
+
+=>q154
+Они хорошие. Я знаю. Я помню, что они меня не обидели. Но я также помню, что они убивали людей...
+
+Я не знаю... размыто.<end>
+
+=>a155_original
+Tell me about the mushroom forest.<end>
+
+=>a155
+Расскажи мне про грибной лес.<end>
+
+=>q156_original
+It is s-south. Far south. Then west. Yes, yes. The mushrooms are tall and high, but the danger lies low. The forest is filled with numerous mushroom beasts... and there is one big. Yes, yes. I never dared comin' closer to it, I don't remember, but I *know* it is dangerous.<end>
+
+=>q156
+Это на... на юг. Далеко на юг. Потом на запад. Да, да. Грибы стройные и высокие, но там таится опасность. Лес наполнен грибо-зверями... и там есть такой большой. Да, да. Я не осмелился подойти поближе, не помню, но я *знаю*, что он опасный.<end>
+
+=>q157_original
+The little maggots, watch out for them, they grow into mushroom beasts. They *grow* into mushroom beasts.<end>
+
+=>q157
+Маленькие личинки -- берегись их, они вырастают в грибных зверей. Они *вырастают* в грибных зверей.<end>
+
+=>a158_original
+What do you mean by "they grow into mushroom beasts"?<end>
+
+=>a158
+Что значит «они вырастают в грибных зверей»?<end>
+
+=>q159_original
+Exactly that, $(context.player.Name)... *$(context.player.Name)*. They bore into the mushrooms and grow. If you need to go there, watch out! And watch out for the spores too, 'cause if you inhale them, it makes your head spin and spin and spin. You lose yourself for a time, and I know I once woke up in a place I'd never seen before. Don't remember how I got out. 
+
+It's dangerous. And in the mushroom forest you ought to be more alert than the beasts that live there.<end>
+
+=>q159
+Именно так, $(context.player.Name)... *$(context.player.Name)*. Они вгрызаются в грибы и растут. Если ты пойдёшь туда, берегись! И берегись их спор тоже, потому что если ты вдохнёшь их, твоя голова будет кружиться, и кружиться, и кружиться. Ты потеряешь сознание, и я знаю, что однажды я проснулся в месте, которого я никогда раньше не видел. Не помню, как я выбрался. 
+
+Там опасно. И в грибном лесу ты долж$(#ен/на) быть ещё бдительнее, чем звери, которые там живут.<end>
+
+=>a160_original
+Spores? What more do you remember about that place you woke up in?<end>
+
+=>a160
+Споры? Что ещё ты помнишь о том месте, где ты проснулся?<end>
+
+=>q161_original
+Remember? That's a tough one. I remember... as I said, I was breathin' in those spores for too long I suppose. I felt my head spin and spin - and then all went dark. Yes. Dark. I thought I was dead. Poof. Ought to be. But then, I felt myself again - my arms, legs, bowels. Heart beatin'. But I was now in a smaller cave. More like... a bunch of tunnels. I know that. Full of beasts. And a big one.<end>
+
+=>q161
+Помню? Это сложный вопрос. Я помню... как я уже сказал, я дышал этими спорами слишком долго, я думаю. У меня голова закружилась и кружилась, а потом всё потемнело. Да. Потемнело. Я думал, что умер. Пуф. Наверняка. Но затем я снова почувствовал себя, мои руки, ноги, кишки. Сердце стучало. Но я был теперь в пещере поменьше. Навроде... кучи тоннелей. Я знаю. Полно зверей. И один большой.<end>
+
+=>q162_original
+Heart beatin'... Yes, yes. But how I got out... don't remember. Don't remember.<end>
+
+=>q162
+Сердце бьётся... Да, да. Но как я вышел... не помню. Не помню.<end>
+
+=>a163_original
+Tell me about the four buildings.<end>
+
+=>a163
+Расскажи мне про четыре здания.<end>
+
+=>q164_original
+The Masked are there now, but only outside. I remember it. Meanwhile, I've been INSIDE. Yes, yes. People lived inside. Maybe I did too, I don't remember it. I don't know it either. Now only electric spiders live there, but they don't always come out. They feed on power, and when the lights are out they retreat into their lairs.<end>
+
+=>q164
+Теперь там Маски, но только снаружи. Я помню. А я был ВНУТРИ. Да, да. Люди жили внутри. Может быть, я тоже жил, я не помню. И не знаю. Теперь там живут только электрические пауки, но они не всегда выходят. Они питаются электричеством, и когда гаснет свет, они прячутся в свои логова.<end>
+
+=>a165_original
+Is there anything of interest inside the four buildings?<end>
+
+=>a165
+Есть ли что-нибудь интересное в этих четырёх зданиях?<end>
+
+=>q166_original
+The people who lived there are connected to the complex. Some doors were locked, but others weren't. I know I read through those people's personal notes... I can't remember how. I didn't bring it with me because their past is not mine. It would confuse me. I know it. But I found some card thingies, keycards that I used to open some doors in the complex. I'd give them to you, but I don't remember where I put them. I don't know if I even have them 'ere anymore.<end>
+
+=>q166
+Люди, которые жили там, были связаны с комплексом. Некоторые двери были заперты, но не все. Я знаю, что я читал личные записи этих людей... я не помню как. Я не взял их с собой, потому что это их прошлое, а не моё. Они бы сбивали меня с толку. Я знаю. Но я нашёл какие-то картюшечки, карточки-ключи, которыми я открывал двери в комплексе. Я бы отдал их тебе, но я не помню, куда я их положил. Я даже не знаю, есть ли они у меня теперь.<end>
+
+=>q167_original
+That's all I can remember right now. I know there is more, *$(context.player.Name),* and I'll think about it.<end>
+
+=>q167
+Это всё что я могу вспомнить. Я знаю, что есть что-то ещё, *$(context.player.Name)*, и я буду думать об этом.<end>
+
+=>a168_original
+You mean coil spiders?<end>
+
+=>a168
+Ты имеешь в виду электропауков?<end>
+
+=>q169_original
+I mean electric spiders. Don't confuse me.<end>
+
+=>q169
+Я имею в виду электрических пауков. Не путай меня.<end>
+
+=>a170_original
+I'm sorry, didn't mean to confuse you. Anyway, is there anything of interest inside the four buildings?<end>
+
+=>a170
+Прости, я не хотел$(#/а) тебя запутать. Ну, так ты нашёл что-нибудь интересное внутри четырёх зданий?<end>
+
+=>a171_original
+I need to ask you something else.<end>
+
+=>a171
+Я хочу спросить ещё кое-что.<end>
+
+=>q172_original
+Hold up! I just remembered one more thing: The labyrinth! So-- South of the lake.<end>
+
+=>q172
+Постой! Я только что вспомнил ещё: лабиринт! На... к югу от озера.<end>
+
+=>q173_original
+Yes, yes.<end>
+
+=>q173
+Да, да.<end>
+
+=>a174_original
+Let's change the subject.<end>
+
+=>a174
+Давай сменим тему.<end>
+
+=>q175_original
+::He nods.::<end>
+
+=>q175
+::Он кивает.::<end>
+
+=>a176_original
+I'm sorry, Leo. Maybe I shouldn't have mentioned any of that.<end>
+
+=>a176
+Прости, Лео. Может быть, мне не стоило говорить об этом.<end>
+
+=>q177_original
+::He wipes the tears from his wrinkly cheeks and gets up.::
+
+Maybe you shouldn't... $(context.player.Name).<end>
+
+=>q177
+::Он вытирает слёзы с морщинистой щеки и встаёт.::
+
+Наверное, не стоило... $(context.player.Name).<end>
+
+=>a178_original
+::Say nothing.::<end>
+
+=>a178
+::Ничего не говорить.::<end>
+
+=>a179_original
+I'm trying to open the large gate in the complex, past the tanks.<end>
+
+=>a179
+Я пытаюсь открыть большие ворота в глубине комплекса, за цистернами.<end>
+
+=>q180_original
+Eh? Large gate? Oh, yes, yes. And what do you need me for?<end>
+
+=>q180
+А? Большие ворота? О, да, да. И что тебе от меня нужно?<end>
+
+=>q181_original
+<end>
+
+=>q181
+<end>
+
+=>a182_original
+I need to find some mechanical parts for the gate opening mechanism. Do you know the best place to look for those?<end>
+
+=>a182
+Я ищу детали от механизма, открывающего ворота. Ты не знаешь, где можно поискать?<end>
+
+=>q183_original
+Storages. Yes, storages is a good place to look. It has useful things. But I know nothin' about repairin' any gate mechanisms so I can't help you with it.<end>
+
+=>q183
+Склады. Да, можно поискать на складах. Там множество полезных вещей. Но я ничего знаю про ремонт всяких механизмов ворот и не могу помочь тебе с этим.<end>
+
+=>q184_original
+Well... I rem-- I think there are a few more similar gates in the complex. Maybe you can, you know, pull out a replacement part from a working mechanism. Yes, that makes sense. I think...<end>
+
+=>q184
+Ну... я пом... я думаю, что в комплексе есть ещё несколько таких ворот. Может быть, ты сможешь, ну, вытащить запасную часть из рабочего механизма. Да, может получиться. Я думаю...<end>
+
+=>a185_original
+There is a large slimy mass covering the gate, preventing me from opening it. Have you ever encountered anything like that or know how to get rid of it?<end>
+
+=>a185
+Ворота покрыты слизистой массой, не дающей мне открыть их. Ты когда-нибудь сталкивался с чем-нибудь подобным или знаешь, как от него избавиться?<end>
+
+=>q186_original
+I don't know.<end>
+
+=>q186
+Я не знаю.<end>
+
+=>q187_original
+Actually... wait, wait. I remember a machine in the complex. Yes, yes. Near the exit to storages. It had... "organic" somethin' written on it. Slime is organic. Maybe there's somethin' to it, but I can't...<end>
+
+=>q187
+На самом деле... постой, постой. Я помню машину в комплексе. Да, да. Возле выхода к складам. Там было написано... «органический» что-то. Слизь тоже органическая. Может быть, это поможет, но я не могу...<end>
+
+=>q188_original
+::He begins rubbing his temples. His teeth are clenched, eyes sporadically twitching during this short pause. Then, he exhales and opens his eyes.::
+
+I can't do it. It is gone. GONE! Just... find the machine. Start from there.<end>
+
+=>q188
+::Он начинает тереть виски. Его зубы стиснуты, а глаза хаотически подёргиваются. Затем он выдыхает и открывает глаза.::
+
+Я не могу. Пропало. ПРОПАЛО! Просто... найди машину. Начни оттуда.<end>
+
+=>a189_original
+I need a keycard to open the gate, since I can't bypass it myself. Do you know where I can find such a card?<end>
+
+=>a189
+Мне нужна ключ-карта, чтобы открыть ворота, иначе мне туда не попасть. Ты знаешь, где я могу найти такую карту?<end>
+
+=>q190_original
+Four buildings. Yes, yes, I think that's the best place to look.<end>
+
+=>q190
+Четыре здания. Да, да, я думаю, что лучше всего искать там.<end>
+
+=>a191_original
+I know of it already. I had other questions about the gate.<end>
+
+=>a191
+Это я уже знаю. У меня есть ещё вопросы насчёт ворот.<end>
+
+=>q192_original
+Eh?<end>
+
+=>q192
+А?<end>
+
+=>a193_original
+Actually, let's change the subject.<end>
+
+=>a193
+Вообще-то, давайте сменим тему.<end>
+
+=>a194_original
+You mentioned something about resisting the pressure inside your head when you're near the complex. Tell me more about what you meant.<end>
+
+=>a194
+Ты что-то говорил про сопротивление давлению внутри твоей головы, когда ты рядом с комплексом. Расскажи, что ты имел в виду.<end>
+
+=>a195_original
+I changed my mind. I want to talk to this Hole of Reason.<end>
+
+=>a195
+Я передумал$(#/а). Я хочу поговорить с этой Дырой рассудка.<end>
+
+=>a196_original
+What can you tell me about the Tchortists?<end>
+
+=>a196
+Что ты можешь мне рассказать про чортистов?<end>
+
+=>q197_original
+Devils! They roam the complex, I saw 'em before. Yes, in that I'm sure. I remember. Devils want to shoot me. Demons want to eat me. But they never came 'ere. No, no. Never. They guard somethin', somethin' big! It lies behind a large gate.<end>
+
+=>q197
+Дьяволы! Они бродят по комплексу, я видел их раньше. Да, в этом я уверен. Я помню. Дьяволы хотят меня застрелить. Бесы хотят меня съесть. Но они никогда не приходили сюда. Нет, нет. Никогда. Они охраняют что-то, что-то большое! Оно находится за большими воротами.<end>
+
+=>a198_original
+Are you talking about Tchort?<end>
+
+=>a198
+Ты говоришь про Чорта?<end>
+
+=>q199_original
+Somethin' big... behind the gate. I don't remember.<end>
+
+=>q199
+Что-то большое... за воротами. Я не помню.<end>
+
+=>a200_original
+Where is that "something"?<end>
+
+=>a200
+Что это за «кое-что»?<end>
+
+=>q201_original
+Demon breeding grounds. I know it.<end>
+
+=>q201
+Рассадник бесов. Я это знаю.<end>
+
+=>a202_original
+You mentioned the Masked. What can you tell me about them?<end>
+
+=>a202
+Ты упомянул про Масок. Что ты можешь рассказать мне о них?<end>
+
+=>q203_original
+I don't remember seein' them before. No, no. I *know* they weren't 'ere before the big shake. Then, they started to appear. They had masks of steel and mechanical parts. Legs, arms, bodies - steel. They saw me. I think. I know they saw me, but they didn't hurt me. They let me walk freely around the storage. Yes, yes. They didn't hurt me.<end>
+
+=>q203
+Я не помню, чтобы видел их раньше. Нет, нет. Я *знаю*, что их здесь ещё не было накануне большой тряски. Затем они начали появляться. Они были в масках из стали и с механическими частями. Ноги, руки, тела -- сталь. Они меня увидели. Я думаю. Я знаю, что они увидели меня, но они меня не обидели. Они позволяют мне ходить на склады. Да, да. Они меня не обидели.<end>
+
+=>q204_original
+The Masked were fightin' with the Tcho--Tch--Tchortists. Devils! Attacked them from all sides and crushed them! Oughta kill them all, I said. He-he-HA! But, but the pressure, it hurt them too, I think. They retreated, but they're still there, holdin' almost every entrance to the complex.<end>
+
+=>q204
+Маски дрались с чо-ч-чортистами. Дьяволами! Напали на них со всех сторон и раздавили их! Надо было убить их всех. Хи-хи-ХА! Но, но давление, -- они тоже его почувствовали, я думаю. Они отступили, но они всё ещё там, удерживают почти каждый вход в комплекс.<end>
+
+=>a205_original
+The Faceless are gone. The area around your home is clear of them.<end>
+
+=>a205
+Безликие ушли. Территория вокруг твоего дома теперь свободна от них.<end>
+
+=>q206_original
+They didn't hurt me. It wouldn't hurt me. No, no. Legs, arms, bodies, claw - steel. I felt my mind swirlin'. They left me alone. Eh? Yes, they left me alone.<end>
+
+=>q206
+Они меня не обидели. Они меня не стали обижать. Нет, нет. Ноги, руки, тела, когти -- сталь. Я чувствовал, как мой разум кружится. Они оставили меня в покое. А? Да, они оставили меня в покое.<end>
+
+=>a207_original
+I said, the Faceless are gone. The area around your home is clear of them.<end>
+
+=>a207
+Я говорю, безликие ушли. Территория вокруг твоего дома теперь свободна от них.<end>
+
+=>q208_original
+I don't remember. Somethin' the Tch-- Tchortists-- *Tchortists* have. Important for everyone, everyone. I don't remember.<end>
+
+=>q208
+Я не помню. Что-то у ч... чортистов... *чортистов*. Важное для всех, всех. Я не помню.<end>
+
+=>a209_original
+I said, do you know why they're still here?<end>
+
+=>a209
+Я говорю, ты знаешь, почему они всё ещё здесь?<end>
+
+=>a210_original
+Do you know why they're still here?<end>
+
+=>a210
+Ты знаешь, почему они всё ещё здесь?<end>
+
+=>a211_original
+I'd like to know more about the surrounding areas.<end>
+
+=>a211
+Я хотел$(#/а) бы спросить об окружающих пещерах.<end>
+
+=>q212_original
+Oh, 'kay, 'kay. As we agreed when you brought me the knife. Bone knife. *Bone* knife. He-he-Ha! Yes.<end>
+
+=>q212
+О, окей, окей. Так мы договорились, когда ты прин$(#ёс/есла) мне нож. Костяной нож. *Костяной* нож. Хи-хи-ха! Да.<end>
+
+=>q213_original
+Where do I start? Right, there's a few areas of interest 'round 'ere: the big complex, the storages, the... the demon breeding ground, the machine plant, the Masked site, the mushroom forest and the four buildings. Yes, I think that's all. What are you interested in knowin' about?<end>
+
+=>q213
+С чего мне начать? Так, у нас тут есть несколько интересных мест: большой комплекс, склады, земли... земли бесов, завод роботов, база Масок, грибной лес и четыре здания. Да, кажется, это всё. Про что тебе рассказать?<end>
+
+=>q214_original
+Eh? Which one?<end>
+
+=>q214
+А? Про что?<end>
+
+=>a215_original
+I gotta go now. See you some other time.<end>
+
+=>a215
+Мне пора идти. Увидимся в другой раз.<end>
+
+=>a216_original
+I better take a stroll and see if this was worth it. See you later, Leo.<end>
+
+=>a216
+Я лучше пойду и посмотрю, стоило ли оно того. Увидимся позже, Лео.<end>
+
+=>a217_original
+Feeling very persuasive... and persuaded.<end>
+
+=>a217
+Чувствую себя очень убеждающ$(#им/ей)... и убеждённ$(#ым/ой).<end>
+
+=>a218_original
+Feeling highly persuasive... and persuaded.<end>
+
+=>a218
+Чувствую себя весьма убеждающ$(#им/ей)... и убеждённ$(#ым/ой).<end>
+
+=>a219_original
+Feeling particularly persuasive... and persuaded.<end>
+
+=>a219
+Чувствую себя в особой степени убеждающ$(#им/ей)... и убеждённ$(#ым/ой).<end>
+
+=>a220_original
+Feeling exceptionally persuasive... and persuaded.<end>
+
+=>a220
+Чувствую себя исключительно убеждающ$(#им/ей)... и убеждённ$(#ым/ой).<end>
+
+=>a221_original
+For now. Say, I wanted to talk to you about a few things.<end>
+
+=>a221
+Послушай, я хотел$(#/а) поговорить с тобой кое о чём.<end>
+
+=>a222_original
+I hope. Time to take a stroll and see if this was worth it. See you later, Leo.<end>
+
+=>a222
+Надеюсь. Я пойду и посмотрю, стоило ли оно того. Увидимся позже, Лео.<end>
+
+=>q223_original
+<end>
+
+=>q223
+<end>
+
+=>q224_original
+<end>
+
+=>q224
+<end>
+
+=>q225_original
+<end>
+
+=>q225
+<end>
+
+=>q226_original
+<end>
+
+=>q226
+<end>
+
+=>q227_original
+::Leo leads you to a hole in the ground. You peek into the void before glancing over to him: He's got a blissful grin on his face and is rubbing his shaking hands with enjoyment. Without a warning his expression solidifies, and he quickly reaches to support his lower back. You hear one disturbingly loud crack, and then he speaks.::
+
+I shouldn't have come out of that locker so fast. Ow... dang it.<end>
+
+=>q227
+::Лео подводит вас к дыре в земле. Вы заглядываете в кромешную пустоту, а потом смотрите на него: но видите только блаженную улыбку на его лице и как он потирает трясущиеся руки в предвкушении. Внезапно его лицо замирает, и он хватается за поясницу. Раздаётся хруст, и он произносит.::
+
+Зря я так резко выпрыгнул из шкафчика. О-хо-хо.<end>
+
+=>a228_original
+Are you okay? You want to sit down?<end>
+
+=>a228
+Ты в порядке? Может, присядешь?<end>
+
+=>q229_original
+::Are you okay? You want to sit down?::<end>
+
+=>q229
+::Ты в порядке? Может, присядешь?::<end>
+
+=>q230_original
+::Leo points to the hole and nods a few times. His hands still support his fragile back.::
+
+There! You're gettin' the hang of it already.<end>
+
+=>q230
+::Лео указывает на яму и кивает несколько раз. Руками он всё ещё поддерживает больную спину.::
+
+Вот! У тебя уже получается.<end>
+
+=>q231_original
+::There! You're gettin' the hang of it already.::<end>
+
+=>q231
+::Вот! У тебя уже получается.::<end>
+
+=>a232_original
+It's an echo.<end>
+
+=>a232
+Это эхо.<end>
+
+=>q233_original
+Would you listen for a moment!?<end>
+
+=>q233
+Послушай же ты хоть раз!<end>
+
+=>q234_original
+::Would you listen for a moment!?::<end>
+
+=>q234
+::Послушай же ты хоть раз!::<end>
+
+=>q235_original
+::Leo proceeds with a whisper.::
+
+Look: The Hole of Reason helps your mind work. You talk to it, and it answers. Now, the trick is to talk about all the important stuff, your past, your knowledge. What comes out of the hole will... *stick* to your memory and slow down the, uh, effects of the pressure. It helps, I swear.<end>
+
+=>q235
+::Лео продолжает шёпотом.::
+
+Смотри. Дыра рассудка помогает твоему разуму работать. Ты говоришь с ней, и она отвечает. Фокус в том, чтобы говорить о важных вещах -- о своём прошлом, о своих знаниях. То, что выходит из дыры... *застрянет* в твоей памяти и замедлит, эм, воздействие давления. Это помогает, клянусь.<end>
+
+=>a236_original
+Okay, okay. Let's give it a shot. Tell me what to do? How do I start?<end>
+
+=>a236
+Ладно, ладно. Давай попробуем. Скажи, что мне делать? С чего мне начать?<end>
+
+=>q237_original
+Say anythin' to start off the conversation. Then you ought to let it flow, but remember: Try to direct it toward things that are important to you, that you wanna hold on to. Got it?<end>
+
+=>q237
+Скажи что-нибудь, чтобы начать разговор. Затем ты долж$(#ен/на) позволить ему течь, но помни: старайся направлять его в сторону того, что важно для тебя, что ты хочешь сберечь. Понятно?<end>
+
+=>q238_original
+<end>
+
+=>q238
+<end>
+
+=>a239_original
+::Speak to the Hole of Reason.::<end>
+
+=>a239
+::Поговорить с Дырой рассудка.::<end>
+
+=>a240_original
+I'm not interested in this right now. No offense, but forget I even asked you about this, which shouldn't be a problem for you.<end>
+
+=>a240
+Мне это сейчас не интересно. Без обид, но забудь, что я спрашивал$(#/а). Тебе это должно быть не сложно.<end>
+
+=>q241_original
+::Offense taken, you notice.::
+
+Well. 'Kay.<end>
+
+=>q241
+::Он заметно обиделся.::
+
+Ну, окей.<end>
+
+=>a242_original
+I wanted to ask you a few things.<end>
+
+=>a242
+Я хочу спросить у тебя ещё кое-что.<end>
+
+=>q243_original
+Well. 'Kay.<end>
+
+=>q243
+Ну, окей.<end>
+
+=>a244_original
+See you later.<end>
+
+=>a244
+Увидимся позже.<end>
+
+=>a245_original
+I knew your marbles were smashed with a hammer and then poured back into your head, but this I didn't expect.<end>
+
+=>a245
+Я догадывал$(#ся/ась), что твои шарики разбили молотком, а ролики засыпали обратно в голову, но такого я не ожидал$(#/а).<end>
+
+=>a246_original
+So, this is the "Hole of Reason." I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.<end>
+
+=>a246
+Итак, это и есть «Дыра рассудка». Что-то я не понимаю, как она может помочь тебе снизить давление внутри головы, как ты это называешь.<end>
+
+=>q247_original
+::So, this is the "Hole of Reason." I still fail to understand how was this helping you mitigate the pressure inside your head, as you call it.::<end>
+
+=>q247
+::Итак, это и есть «Дыра рассудка». Что-то я не понимаю, как она может помочь тебе снизить давление внутри головы, как ты это называешь.::<end>
+
+=>a248_original
+Oh, quit complaining and tell me what's so important about this hole.<end>
+
+=>a248
+Перестань уже жаловаться и скажи мне, что такого важного в этой дыре.<end>
+
+=>q249_original
+::Oh, quit complaining and tell me what's so important about this hole.::<end>
+
+=>q249
+::Перестань уже жаловаться и скажи мне, что такого важного в этой дыре.::<end>
+
+=>a250_original
+Why did you bring me here, old man?<end>
+
+=>a250
+Зачем ты привёл меня сюда, старик?<end>
+
+=>q251_original
+::Why did you bring me here, old man?::<end>
+
+=>q251
+::Зачем ты привёл меня сюда, старик?::<end>
+
+=>q252_original
+::A terrified man leaps out of the locker, his former sanctuary, and pushes you aside. Despite his age, his movements are swift and agile, yet, as it usually comes with old age, this fear-driven overexertion is likely to pain him once he comes to a full rest. He raises his crossbow, taking a shaky aim at your face. Words come out of his mouth as quickly as he did from the locker and are carried by a quivering, chalky voice.::
+
+Whatcha doin' 'ere, intruder!? Eh? Eh!? Move one, *one* finger and I'll launch a bolt through your hollow skull!<end>
+
+=>q252
+::Испуганный мужчина выпрыгивает из шкафчика, служившего ему убежищем, и отталкивает вас в сторону. Несмотря на почтенный возраст, его движения быстры и проворны. Трясущимися руками он поднимает арбалет и направляет его вам в лицо. Таким же дрожащим голосом, он начинает говорить, и слова вылетают из его рта столь же быстро, как сам он вылетел из шкафчика секунду назад.::
+
+Чё ты делаешь здесь, незваный гость?! А? А?! Только пошевели одним, *одним* пальчиком, и я вобью болт в твою пустую башку!<end>
+
+=>a253_original
+Calm down. I am not here to cause trouble. Can you please put the weapon down?<end>
+
+=>a253
+Успокойтесь. Я не причиню вам зла. Пожалуйста, опустите оружие.<end>
+
+=>q254_original
+::His face turns pale after finally recognizing the robe that you are wearing.:: Wha-- You, you are one of 'em! Devil! Devil! You will not take me - YOU WILL NOT!<end>
+
+=>q254
+::Он видит вашу робу, и лицо его бледнеет.:: Что... Ты, ты один из них! Дьявол! Дьявол! Тебе не забрать меня, НЕ ЗАБРАТЬ!<end>
+
+=>a255_original
+::Fight!::<end>
+
+=>a255
+::Бой!::<end>
+
+=>q256_original
+Not so fast, intruder, not so fast! ::He squeezes the crossbow even harder.:: First, I want you to tell me who you are and, and... and what in the echoing words of reason are you doin' in my damn house!?<end>
+
+=>q256
+Не так быстро, незваный гость, не так быстро! ::Он сжимает арбалет.:: Сперва скажи мне, кто ты, и, и... и что, во имя слов рассудка, ты делаешь в моём доме?!<end>
+
+=>a257_original
+I am $(context.player.Name), and I am a member of the Institute of Tchort.<end>
+
+=>a257
+Меня зовут $(context.player.Name), и я из Института Чорта.<end>
+
+=>q258_original
+::As soon as you utter the word "Tchort," the old man's face turns pale and his hands begin shaking uncontrollably.::
+
+Tch-Tch-Tchort!? TCHORT!? Devil! You will not take me - YOU WILL NOT!<end>
+
+=>q258
+::Как только вы произносите слово «Чорт», лицо старика бледнеет, а руки начинают трястись.::
+
+Ч-Ч-Чорт?! ЧОРТ?! Дьявол! Тебе не забрать меня, НЕ ЗАБРАТЬ!<end>
+
+=>a259_original
+My name is $(context.player.Name), and I have found your, erm, shack by pure accident.<end>
+
+=>a259
+Меня зовут $(context.player.Name), и я наш$(#ёл/ла) твою, э-э, халупу по чистой случайности.<end>
+
+=>q260_original
+Hey, it's *not* a shack. It-- Forget about that. 
+
+Now you, ugh... you are not one of those devils... uh... Tch... Tchortists, by any chance?<end>
+
+=>q260
+Эй, это не *халупа*... А... неважно.
+
+А ты, тьфу... ты не од$(#ин/на) из тех дьяволов... э-э... ч-ч... чортистов, случайно?<end>
+
+=>a261_original
+Actually, I am. Why?<end>
+
+=>a261
+На самом деле, да. А что?<end>
+
+=>q262_original
+::As soon as you utter those words, the old man's face turns pale and his hands begin shaking uncontrollably.::
+
+Devil! You will not take me - YOU WILL NOT!
+<end>
+
+=>q262
+::Как только вы произносите эти слова, лицо старика бледнеет, а руки начинают трястись.::
+
+Дьявол! Тебе не забрать меня, НЕ ЗАБРАТЬ!<end>
+
+=>a263_original
+No.<end>
+
+=>a263
+Нет.<end>
+
+=>q264_original
+::His tense stare lasts for a few more silent moments before slowly losing intensity. He lowers his weapon as well but still maintains alertness.::
+
+*I* am Leo. I *am* Leo. I am *Leo*. I'd say "nice to meet you," but I don't know if I'd be honest about it. No, no.<end>
+
+=>q264
+::Он ещё несколько секунд напряжённо смотрит на вас, потом немного расслабляется. Он опускает оружие, но по-прежнему не спускает с вас глаз.::
+
+*Я* Лео. *Я* Лео. Я *Лео*. Я бы сказал, что рад встрече, но это, наверное, было бы неправдой. Нет, нет.<end>
+
+=>a265_original
+I swear I'm not here to do you any harm, old man. In fact, I might even need your help.<end>
+
+=>a265
+Клянусь, я не причиню тебе зла, старик. Возможно, мне даже понадобится твоя помощь.<end>
+
+=>q266_original
+Why would I wanna help someone who broke into my house? Eh? Eh?<end>
+
+=>q266
+И зачем мне помогать тому, кто вломился в мой дом? А? А?<end>
+
+=>a267_original
+Because you are a good man and your knowledge of the area is extensive. I hope.<end>
+
+=>a267
+Потому что ты хороший человек и хорошо знаешь окрестности. Я надеюсь.<end>
+
+=>q268_original
+He-he-HA! Yeah, right. Listen, if you need somethin' for me, you ought to give somethin' in return. And I already have a thing in mind, intruder.<end>
+
+=>q268
+Хи-хи-ха! Да, конечно. Слушай, если тебе нужно что-то от меня, то нужно дать что-то взамен. И я уже знаю что, незваный гость.<end>
+
+=>a269_original
+::Sigh.:: I should have seen it coming...<end>
+
+=>a269
+::Вздохнуть.:: Мне следовало догадаться...<end>
+
+=>q270_original
+I lost something very important to me... very dear, very valuable. Six days ago I believe it was, or seven... I was scavenging around the complex for supplies when I ran into, uh, Tch... Tchortists, yes, and had to run for my life! Devils! I ran from 'em and, after I got back 'ere, I realized I had dropped my knife somewhere along the way. LOST IT! It was so pretty, had a handle made from bone. BONE - a beauty, yes.<end>
+
+=>q270
+Я потерял кое-что очень важное для меня... очень дорогое, очень ценное. Шесть дней назад, я думаю, это было, или семь... Я искал припасы возле комплекса и столкнулся с, э, ч-ч... чортистами, да, и мне пришлось бежать! Дьяволы! Я убежал от них и, когда я вернулся сюда, я понял, что уронил свой нож где-то по пути. ПОТЕРЯЛ ЕГО! Он был такой красивый, с рукоятью из кости. КОСТИ -- красивый, да.<end>
+
+=>q271_original
+I need it back, so if you can find it I'd be very thankful. I could help you. I know stuff. Only if you help me. But you ought to be careful: There's been a lot of fightin' between the Tchortists and the Masked, so watch out. Did I forget something...? Eh... Yes! The place where I ran into the patrol was west of the storages. Yes, yes... west. <end>
+
+=>q271
+Мне нужно вернуть его, так что если ты сможешь найти его, я буду очень благодарен. Я мог бы помочь тебе. Я много знаю. Только если ты поможешь мне. Но будь осторож$(#ен/на): чортисты дерутся с Масками, так что будь внимател$(#ен/ьна). Я ничего не забыл?.. Э... Да! Место, где я нарвался на патруль, было к западу от складов. <end>
+
+=>a272_original
+Is this your knife? ::Show him the bone knife.::<end>
+
+=>a272
+Это твой нож? ::Показать ему нож с костяной рукоятью.::<end>
+
+=>q273_original
+::His lips stretch into a smile as soon as you show him the knife; his eyes fill with tears of joy.:: 
+
+HA! HA! That's the one! That's the one! I haven't forgotten how it looks. No, no. It's so, so pretty...<end>
+
+=>q273
+::Как только вы показываете ему нож, его лицо расплывается в улыбке и глаза наполняются слезами радости.:: 
+
+Ха! Ха! Это он! Он самый! Я не забыл, как он выглядит. Нет, нет. Он такой, такой красивый...<end>
+
+=>q274_original
+Thank you so much... uh... uh... What did ya say your name was?<end>
+
+=>q274
+Огромное спасибо... э... э... как ты сказал$(#/а), тебя зовут?<end>
+
+=>a275_original
+$(context.player.Name).<end>
+
+=>a275
+$(context.player.Name).<end>
+
+=>q276_original
+$(context.player.Name). $(context.player.Name). $(context.player.Name). *I* am Leo. I *am* Leo. I am *Leo*. Nice to meet you, uh... $(context.player.Name).<end>
+
+=>q276
+$(context.player.Name). $(context.player.Name). $(context.player.Name). *Я* Лео. *Я* Лео. Я *Лео*. Приятно познакомиться, э-э... $(context.player.Name).<end>
+
+=>a277_original
+Piece of cake. See you soon, Leo.<end>
+
+=>a277
+Проще простого. Скоро увидимся, Лео.<end>
+
+=>a278_original
+I'll see what I can do. Goodbye.<end>
+
+=>a278
+Я посмотрю, что можно сделать. До свидания.<end>
+
+=>a279_original
+Tell me what you need, old man.<end>
+
+=>a279
+Говори, что тебе нужно, старик.<end>
+
+=>a280_original
+I did not break in, the front doors were unlocked.<end>
+
+=>a280
+Я никуда не вломил$(#ся/ась), дверь была открыта.<end>
+
+=>q281_original
+Liar! What about the traps, eh, intruder? Eh? Are you gonna say I put 'em there as a welcomin' sign? I-- He-he, well, in a way...<end>
+
+=>q281
+Ложь! А как же ловушки, а, незваный гость? А? Хочешь сказать, что я поставил их там для приглашения? Я... хи-хи, ну, может быть...<end>
+
+=>q282_original
+But, that's beside the point. You never said why I would want to help you with anythin'? Eh?<end>
+
+=>q282
+Но это к делу не относится. С чего бы это мне тебе помогать? А?<end>
+
+=>a283_original
+I'm sure an old man like you might need help with something in exchange.<end>
+
+=>a283
+Наверняка такому старому человеку пригодится моя помощь.<end>
+
+=>q284_original
+He-he. That's my kind of talking, intruder. I do have somethin' in mind for you, he-he.<end>
+
+=>q284
+Хи-хи. Так-то лучше, незваный гость. У меня есть для тебя кое-что, хе-хе.<end>
+
+=>a285_original
+Look, I don't want anything from you at all. I'm just going to leave you to whatever you were doing.<end>
+
+=>a285
+Слушай, мне от тебя ничего не надо. Я просто оставлю тебя заниматься твоим делами.<end>
+
+=>q286_original
+Eh, 'kay, 'kay. You better move on now, intruder.<end>
+
+=>q286
+Э, окей, окей. Лучше теперь уходи, незваный гость.<end>
+
+=>a287_original
+::Leave.::<end>
+
+=>a287
+::Уйти.::<end>
+
+=>a288_original
+You naive fool! ::Attack him!::<end>
+
+=>a288
+Ты наивный дурак! ::Напасть на него!::<end>
+
+=>a289_original
+NO! Not one of those freaks. Never!<end>
+
+=>a289
+НЕТ! Только не один из этих уродов. Ни за что!<end>
+
+=>a290_original
+I'm $(context.player.Name), and I'm lost in the Deep Caverns. I have been trying to find a way out, but I suppose I found this shack of yours.<end>
+
+=>a290
+Я $(context.player.Name), и я заблудил$(#ся/ась) в Глубоких пещерах. Я пытал$(#ся/ась) найти выход, но вместо этого наш$(#ёл/ла) твою халупу.<end>
+
+=>a291_original
+Look, I didn't even know this place was here. Now put that thing away.<end>
+
+=>a291
+Послушай, я даже не знал$(#/а), что тут что-то есть. Теперь опусти эту штуку.<end>
+
+=>q292_original
+You didn't answer my question! No, NO! Who are you and why did you come 'ere?<end>
+
+=>q292
+Ты не ответил$(#/а) на мой вопрос! Нет, НЕТ! Кто ты и зачем ты здесь?<end>
+
+=>a293_original
+Damn it, man, you scared me more than I scared you. Put that thing down and let's talk.<end>
+
+=>a293
+Блин, мужик, ты напугал меня больше чем я тебя. Опусти арбалет, и давай поговорим.<end>
+
+=>q294_original
+Wh-- Uh, you again? What in the broken stalactite do you want now, eh?<end>
+
+=>q294
+Что... а, это опять ты? Что, сломанный сталактит, тебе ещё нужно, а?<end>
+
+=>a295_original
+I was wondering if you could help me with some things. You look like you know a lot about Deep Caverns.<end>
+
+=>a295
+Может быть, вы могли бы мне помочь. Думаю, вы немало знаете о Глубоких пещерах.<end>
+
+=>a296_original
+Nothing. Goodbye.<end>
+
+=>a296
+Ничего. До свидания.<end>
+
+=>q297_original
+Who's-- Oh, have you found it yet? Eh?<end>
+
+=>q297
+Кто... о, ты наш$(#ёл/ла) его? А?<end>
+
+=>a298_original
+I think this is what you were looking for.<end>
+
+=>a298
+Думаю, я наш$(#ёл/ла) то, что тебе было нужно.<end>
+
+=>a299_original
+Where did you say you lost it?<end>
+
+=>a299
+Так где ты его потерял?<end>
+
+=>q300_original
+Just at the entrance to the complex, west of the storages. You had to walk past those to get here, you know. Remember, eh? Anyway, go there and get my knife.<end>
+
+=>q300
+Рядом с входом в комплекс, на запад от складов. Ты проходил$(#/а) мимо них по пути сюда. Помнишь, да? Короче, иди туда и найди мой нож.<end>
+
+=>a301_original
+I'm on it.<end>
+
+=>a301
+Я займусь этим.<end>
+
+=>a302_original
+Not yet.<end>
+
+=>a302
+Пока нет.<end>
+
+=>q303_original
+Go then. I'll forget what I asked you to do by the time you do it!<end>
+
+=>q303
+Тогда иди. Иди, пока я не забыл, что я просил тебя сделать!<end>
+
+=>a304_original
+Right...<end>
+
+=>a304
+Да...<end>
+
+=>a305_original
+::Leave without saying anything.::<end>
+
+=>a305
+::Уйти, ничего не сказав.::<end>
+

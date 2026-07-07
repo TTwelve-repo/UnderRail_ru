@@ -1,0 +1,274 @@
+﻿=>q1_original
+Traitor!<end>
+
+=>q1
+Предатель!<end>
+
+=>q2_original
+We got hostiles<end>
+
+=>q2
+У нас противники <end>
+
+=>q3_original
+in the camp!<end>
+
+=>q3
+в лагере!<end>
+
+=>q4_original
+near the Keep!<end>
+
+=>q4
+рядом с хранилищем!<end>
+
+=>q5_original
+$(context.player.Name). I'm Sec-Trooper Erwin. Chief Briggs instructed me to be on stand by in case you needed a ride to Core City.
+
+We don't have a two-seater, but the Patrollers have a flat trunk, so an average person can sit on it fairly comfortably. Just hold onto the bar at the back of my seat - and mind the antenna.<end>
+
+=>q5
+$(context.player.Name). Я спец-охранник Ирвин. Шеф Бриггс велел мне быть наготове на случай, если вам понадобится добраться до Кор-Сити.
+
+У нас нет двухместных гидроциклов, но у патрульных плоский багажник, так что средний человек может сидеть на нём довольно комфортно. Просто держитесь за перекладину на спинке моего сиденья - и следите за антенной.<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Let's get back to the camp.<end>
+
+=>a7
+Давайте вернёмся в лагерь.<end>
+
+=>q8_original
+::He nods.::<end>
+
+=>q8
+::Он кивает.::<end>
+
+=>a9_original
+::Sail to Black Sea Expedition camp.::<end>
+
+=>a9
+::Отплыть в лагерь Экспедиции на Чёрном море.::<end>
+
+=>a10_original
+I'm ready. Let's go to Core City.<end>
+
+=>a10
+Я готов$(#/а). Отправляемся в Кор-Сити.<end>
+
+=>q11_original
+I'm going to need to charge you for the trip. Chief's orders.<end>
+
+=>q11
+Мне придётся взять с вас деньги за поездку. Приказ шефа.<end>
+
+=>a12_original
+Makes sense. How much?<end>
+
+=>a12
+Вполне логично. И сколько же?<end>
+
+=>q13_original
+Fifty stygian coins to Core City and back. It's to cover for the trip expenses, plain and simple. <end>
+
+=>q13
+Пятьдесят стигийских монет до Кор-Сити и обратно. Это чтобы покрыть расходы на поездку, просто и ясно.<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+Here you go. ::Give him 50 stygian coins.::<end>
+
+=>a15
+Вот, держите. ::Дать ему 50 стигийских монет.::<end>
+
+=>q16_original
+::He counts the coins and nods.::
+
+Hold tight - and watch that antenna.<end>
+
+=>q16
+::Он пересчитывает монеты и кивает.::
+
+Держитесь крепче - и следите за этой антенной.<end>
+
+=>a17_original
+::Sail to Core City.::<end>
+
+=>a17
+::Плыть в Кор-Сити.::<end>
+
+=>a18_original
+Actually, I got something to do first.<end>
+
+=>a18
+Вообще-то, сначала мне нужно кое-что сделать.<end>
+
+=>q19_original
+::He nods.:: I'll be around if you need me.<end>
+
+=>q19
+::Он кивает.:: Я буду поблизости, если понадоблюсь.<end>
+
+=>a20_original
+Can we, you know, work out some kind of a deal?<end>
+
+=>a20
+Может мы, ну знаете, как-нибудь договоримся?<end>
+
+=>q21_original
+I'm afraid not. Orders. <end>
+
+=>q21
+Боюсь, что нет. Приказ.<end>
+
+=>a22_original
+Can't you just deduce it from my pay?<end>
+
+=>a22
+Разве вы не можете просто вычесть это из моей зарплаты?<end>
+
+=>q23_original
+I'm afraid not. Cash only. <end>
+
+=>q23
+Боюсь, что нет. Только наличные.<end>
+
+=>a24_original
+Preposterous!<end>
+
+=>a24
+Абсурд!<end>
+
+=>q25_original
+::He nods.:: That's fifty stygian coins.<end>
+
+=>q25
+::Он кивает.:: Пятьдесят стигийских монет.<end>
+
+=>a26_original
+Hey, can you take me somewhere other than Core City?<end>
+
+=>a26
+Эй, а вы можете отвезти меня куда-нибудь помимо Кор-Сити?<end>
+
+=>q27_original
+Core City only, $(context.player.Name). Chief's orders.<end>
+
+=>q27
+Только Кор-Сити, $(context.player.Name). Приказ шефа.<end>
+
+=>q28_original
+But even if I were allowed otherwise, I don't know these Southern waterways well enough anyway.<end>
+
+=>q28
+Но даже если бы мне разрешили, я всё равно недостаточно хорошо знаю эти Южные водные пути.<end>
+
+=>a29_original
+I'm good for now.<end>
+
+=>a29
+Сейчас мне и так неплохо.<end>
+
+=>q30_original
+Don't take too long. We have to get back to the camp soon.<end>
+
+=>q30
+Не задерживайся слишком долго. Мы должны поскорее вернуться в лагерь.<end>
+
+=>q31_original
+We have to secure the professor.<end>
+
+=>q31
+Мы должны обеспечить безопасность профессора.<end>
+
+=>a32_original
+Already got a ride.<end>
+
+=>a32
+Меня уже есть кому подвезти.<end>
+
+=>q33_original
+Ready to go back?<end>
+
+=>q33
+Готовы возвращаться?<end>
+
+=>q34_original
+::He greets you with a nod.:: <end>
+
+=>q34
+::Он приветствует вас, кивнув.::<end>
+
+=>q35_original
+We gotta make this round quick, $(context.player.Name). Situation's critical.<end>
+
+=>q35
+Этот круг мы должны сделать быстро, $(context.player.Name). Ситуация критическая.<end>
+
+=>q36_original
+We've lost far too many troopers, $(context.player.Name). If this continues <end>
+
+=>q36
+Мы потеряли слишком много охранников, $(context.player.Name). Если так пойдёт и дальше,<end>
+
+=>q37_original
+the chief will most likely transfer all jet skiers inland to defend the camp.<end>
+
+=>q37
+шеф, скорее всего, переведёт всех гидроциклистов на берег для защиты лагеря.<end>
+
+=>q38_original
+
+
+So make the trips count.<end>
+
+=>q38
+Так что учитывайте поездки.<end>
+
+=>q39_original
+we'll most likely have to stay in the camp and maintain defenses.<end>
+
+=>q39
+нам, скорее всего, придётся оставаться в лагере и поддерживать оборону.<end>
+
+=>q40_original
+We're low on<end>
+
+=>q40
+У нас не хватает<end>
+
+=>q41_original
+<end>
+
+=>q41
+<end>
+
+=>q42_original
+supplies, $(context.player.Name), so better stock up over there. I'll be loaded too, so expect a slow trip back.<end>
+
+=>q42
+припасов, $(context.player.Name), поэтому лучше запастись там. Я тоже буду загружен, так что ожидайте долгой обратной дороги.<end>
+
+=>q43_original
+certain <end>
+
+=>q43
+определённых<end>
+
+=>q44_original
+Another round?<end>
+
+=>q44
+Ещё круг?<end>
+

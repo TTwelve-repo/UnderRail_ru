@@ -1,0 +1,795 @@
+﻿=>q1_original
+::The woman lies on the bed with her eyes firmly closed. Her face is dotted with reddish scars and blisters, as if spattered with a boiling or corrosive liquid which distorted her face into a grotesque visage. Her eyes begin to open: The left eyelid lifts quickly, allowing the brown iris to focus on you; the other one lags, twitching as it slowly rises to reveal a swirled mass that used to be an eye. A light on the small device grafted onto her neck flashes green as a metallic voice speaks to you while carefully being molded by her lips.::<end>
+
+=>q1
+::Женщина лежит на кровати, её глаза плотно закрыты. Её лицо усеяно бордовыми шрамами и волдырями, как будто брызги кипящей или едкой жидкости превратили его в уродливую маску. Она открывает глаза: левое веко поднимается сразу, позволяя карему зрачку сфокусироваться на вас, другое запаздывает и подёргивается, медленно обнажая скрученную массу, которая когда-то была глазом. На небольшом устройстве, закреплённом на её шее, мигает зелёный огонёк, и она начинает говорить металлическим голосом, осторожно формируя слова губами.::<end>
+
+=>q2_original
+What... is happening?<end>
+
+=>q2
+Что... происходит?<end>
+
+=>a3_original
+Lora, can you hear me?<end>
+
+=>a3
+Лора, вы меня слышите?<end>
+
+=>q4_original
+Yes. Who... are you?<end>
+
+=>q4
+Да. Кто... вы?<end>
+
+=>a5_original
+I come from South Gate Station. I arrived there after you had left, so we hadn't had the chance to meet. I'm $(context.player.Name).<end>
+
+=>a5
+Я со станции Саут-Гейт. Я прибыл$(#/а) туда уже после того, как вы уехали, так что у нас не было шанса познакомиться. Меня зовут $(context.player.Name).<end>
+
+=>q6_original
+::She is silent as her eye inspects you, sluggishly moving down and up again. A quick tremble of her lips could have been an attempt at a smile, but the motion never proceeds farther than that.::
+
+Terry, my husband?<end>
+
+=>q6
+::Она молча смотрит на вас, её взгляд неуклюже блуждает вниз и снова вверх. Её губы вздрагивают, как будто она пытается улыбнуться, но этого не происходит.::
+
+Терри, мой муж?<end>
+
+=>a7_original
+He is alive and is waiting for you in South Gate Station.<end>
+
+=>a7
+Он жив и ждёт вас на станции Саут-Гейт.<end>
+
+=>q8_original
+He was shot before my eyes.<end>
+
+=>q8
+Его застрелили на моих глазах.<end>
+
+=>a9_original
+So were you before his. Yet you are alive.<end>
+
+=>a9
+И вас тоже. Но вы ещё живы.<end>
+
+=>q10_original
+::The smile finally appears, distorted and made with great effort, but it's there.::
+
+Ha... I like you already. Now I have a good reason to... get better.<end>
+
+=>q10
+::Улыбка наконец появляется на её лице -- искривлённая и давшаяся ей с большим усилием, но тем не менее.::
+
+Ха... Вы мне уже нравитесь. Теперь у меня есть веская причина, чтобы... поправиться.<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+Tell me what happened to you.<end>
+
+=>a12
+Скажите мне, что с вами случилось.<end>
+
+=>q13_original
+Okay. I'll start from the beginning...<end>
+
+=>q13
+Ладно. Я начну с самого начала...<end>
+
+=>q14_original
+Some time before the earthquake we were... Terry and I were sent to Core City. We perform trading for the SGS, and we were tasked with obtaining several things from the local merchants, as well as to meet one... man in the residential area so he could give us a package.<end>
+
+=>q14
+Незадолго до землетрясения, нас... меня и Терри послали в Кор-Сити. Мы торгуем для ССГ, и мы должны были найти несколько вещей у местных купцов, а также встретиться с одним... человеком в жилом районе и забрать у него пакет.<end>
+
+=>a15_original
+Interesting. Who was this man?<end>
+
+=>a15
+Интересно. Кто был этот человек?<end>
+
+=>q16_original
+He had... he had some electrical equipment. Tanner never went into much details, only that the package was fragile; these devices were sensitive, I believe he said, so we were to take good care of the package. The man's name was James Steiner. James Steiner. That is all I know about him.<end>
+
+=>q16
+У него было... у него было какое-то электронное оборудование. Таннер не раскрыл нам подробностей, только сказал, что содержимое пакета было хрупким; эти устройства чувствительны -- кажется, так он сказал -- и мы должны обращаться с пакетом аккуратно. Этого мужчину звали Джеймс Штайнер. Джеймс Штайнер. Это всё, что я о нём знаю.<end>
+
+=>a17_original
+You mentioned Tanner telling you about the package. He ordered it?<end>
+
+=>a17
+Вы упомянули, что это Таннер рассказал вам о посылке. Она была для него?<end>
+
+=>q18_original
+We usually get the lists from Vera, but she wasn't around at the time so Tanner... Tanner was the one who talked to us.<end>
+
+=>q18
+Мы обычно получаем списки от Веры, но тогда её не было, поэтому Таннер... с нами говорил Таннер.<end>
+
+=>a19_original
+I see. So you went to this man, this James Steiner guy and then what?<end>
+
+=>a19
+Вот как. Значит, вы пришли к этому человеку, этому Джеймсу Штайнеру, и что потом?<end>
+
+=>q20_original
+We met him near his home, close to the fence overlooking a part of Drop Zone; I remember seeing fire and smoke rising from one of the shacks down there. But that's... that's not important. The man had to leave for work or something, I can't remember, so he gave us the package and left us quickly.<end>
+
+=>q20
+Мы встретились с ним возле его дома, внизу за забором было видно часть Зоны провала; я помню, что видела огонь, и дым поднимался над одной из лачуг. Но это... это неважно. Он торопился на работу или что-то вроде того, я не помню, так что он отдал нам пакет и быстро покинул нас.<end>
+
+=>a21_original
+What did he look like?<end>
+
+=>a21
+Как он выглядел?<end>
+
+=>q22_original
+::She pauses briefly.:: Light-skinned. Black-haired. Average height. Brown eyes. I really can't tell you much more. There is nothing striking about him. He behaved nothing out of the... ordinary.<end>
+
+=>q22
+::Она делает короткую паузу.:: Бледная кожа. Чёрные волосы. Среднего роста. Карие глаза. Я правда не могу вам сказать ничего больше. Не было в нём ничего выделяющегося. Он вёл себя совершенно... нормально.<end>
+
+=>a23_original
+Right. You got the package and then...?<end>
+
+=>a23
+Ага. Вы получили пакет, и затем?..<end>
+
+=>q24_original
+We went through our list and acquired everything we needed - except for a pair of power supply units Harold needed. TriEnergy... something. Can't remember now, but it's irrelevant.<end>
+
+=>q24
+Мы приобрели всё необходимое по списку, за исключением пары блоков питания для Гарольда. Трай-Энерджи... что-то там. Не могу вспомнить, но сейчас это не имеет значения.<end>
+
+=>q25_original
+We contacted Tanner and told him that we got almost everything, except for those power units. He told us it wasn't as urgent as we had thought and to return to SGS. So, we went down to the station - and that's when the earthquake hit. Underrail Express stopped all the trains until they surveyed the situation, and we couldn't get the signal to call Tanner again. Ask him what to do next.<end>
+
+=>q25
+Мы связались с Таннером и сказали ему, что мы достали почти всё, за исключением блоков питания. Он сказал нам, что это не так срочно, как мы думали, и чтобы мы возвращались на ССГ. Тогда мы спустились на станцию, и вот тогда случилось землетрясение. Подземка Экспресс остановила все поезда, чтобы изучить ситуацию, а мы не смогли связаться с Таннером снова. Спросить его, что делать дальше.<end>
+
+=>q26_original
+So we waited... tried to find those power units, but we were out of luck. We went to Hardcore City Bar and waited. Waited... waited. Until we heard the trains were going again.<end>
+
+=>q26
+Вот мы и ждали... попытались снова найти эти блоки питания, но безрезультатно. Мы пошли в бар Хардкор-Сити и стали ждать. Ждали... ждали. Потом объявили, что поезда снова ходят.<end>
+
+=>a27_original
+I spoke to the train operator whom you asked if he was going to Rail Crossing. He told me what happened next.<end>
+
+=>a27
+Я говорил$(#/а) с машинистом, которого вы спрашивали, едет ли он на Переезд. Он рассказал мне, что произошло дальше.<end>
+
+=>q28_original
+You... did? Yes - the tattooed man. No train could go to SGS because of the cave-in. So, Terry suggested we go to Rail Crossing: We would be closer to SGS when the tracks eventually get cleared, and we could see if Buzzer - he has a big shop there - if Buzzer, uh, if he had the power supplies. For Harold.<end>
+
+=>q28
+С... кем? Да, такой, весь в татуировках. Ни один поезд не шёл на ССГ из-за обвала. Тогда Терри предложил отправиться на Переезд: оттуда недалеко ехать до ССГ, когда рельсы наконец расчистят, и мы могли бы навестить Баззера -- у него там большой магазин -- и посмотреть, есть ли у него блоки питания. Для Гарольда.<end>
+
+=>a29_original
+But you never made it to Buzzer.<end>
+
+=>a29
+Но вы так и не добрались до Баззера.<end>
+
+=>q30_original
+No. <end>
+
+=>q30
+Нет.<end>
+
+=>q31_original
+::She releases a metallic sigh before continuing.:: We were attacked at the Rail Crossing station.<end>
+
+=>q31
+::Она испускает металлический вздох, прежде чем продолжить.:: На нас напали на станции Переезда.<end>
+
+=>a32_original
+By Cornell and the Acid Hunters.<end>
+
+=>a32
+Корнелл и Кислотные охотники.<end>
+
+=>q33_original
+Acid... Hunters? I don't understand.<end>
+
+=>q33
+Кислотные... охотники? Я не понимаю.<end>
+
+=>a34_original
+I tracked the animals down. The man, Cornell, confessed everything.<end>
+
+=>a34
+Я выследил$(#/а) этих животных. Главарь, Корнелл во всём признался.<end>
+
+=>q35_original
+You... found them?<end>
+
+=>q35
+Вы... нашли их?<end>
+
+=>a36_original
+I killed him, Lora. I killed all of them.<end>
+
+=>a36
+Я убил$(#/а) его, Лора. Я убил$(#/а) их всех.<end>
+
+=>q37_original
+::Your words landed just as they should, you feel. Her stare reveals the rage, the fury - the wish for the worst possible fate to stomp on the Acid Hunters and turn them into a smudge on the ground. Revenge - that's the name of her hunger and you've just sated it. The tension that was building up just before you fed her the information has now vanished.::
+
+Good. Good. They deserve it. I hope it was... painful. Painful.<end>
+
+=>q37
+::Вы чувствуете, что ваши слова произвели должный эффект. Её пристальный взгляд выражает ярость; ярость, желание наихудшей судьбы, которая может растоптать Кислотных охотников и превратить их в мокрое пятно. Месть -- вот имя её голода, и вы только что утолили его. Напряжённость, которая росла, пока вы кормили её информацией, теперь рассеялась.::
+
+Хорошо. Хорошо. Они это заслужили. Я надеюсь, что им было... больно. Очень больно.<end>
+
+=>q38_original
+::She relaxes, then continues.::
+
+You haven't heard all of it yet, $(context.player.Name). I will continue.<end>
+
+=>q38
+::Она расслабляется, затем продолжает.::
+
+Это ещё не всё, $(context.player.Name). Я продолжу.<end>
+
+=>q39_original
+We had noticed them a couple of times... times in Core City. They must've followed us. To rob us. ::She pauses yet again.:: It... They threatened us with chemical weapons. They didn't even give us a chance to do anything. One of them, he hit Terry in the face and knocked him to the floor; I got a kick in the stomach. I had no air in my lungs and... as I was struggling one of them dragged me by the hair until I managed to get on my feet. It all happened... within a second.<end>
+
+=>q39
+Мы заметили их пару раз... ещё в Кор-Сити. Они, должно быть, следили за нами. Чтобы ограбить нас. ::Она снова делает паузу.:: Они... они угрожали нам химическим оружием. Они даже не дали нам шанса что-то сделать. Один из них, он ударил Терри в лицо и повалил его на пол; я получила удар в живот. Мне было не вздохнуть, и... пока я корчилась на земле, один из них потащил меня за волосы, потом я сумела встать на ноги. Это всё случилось... в течение секунды.<end>
+
+=>q40_original
+They forced us into a cave; they had a camp there. Tied us. Took all our things. Took the package. Opened the package.<end>
+
+=>q40
+Они загнали нас в пещеру; у них там был лагерь. Связали нас. Забрали все наши вещи. Забрали пакет. Открыли пакет.<end>
+
+=>a41_original
+And found the Cube.<end>
+
+=>a41
+И нашли Куб.<end>
+
+=>q42_original
+::She smiles.:: You know nearly everything already. Allow me to complete the picture with the last few details...<end>
+
+=>q42
+::Она улыбается.:: Вы уже почти всё знаете. Позвольте мне дополнить картину несколькими последними деталями...<end>
+
+=>q43_original
+It was an object no one of us had ever seen. It was fascinating and frightening at the same time. We allowed this remarkable thing to steal our attentions. The strange shape, the markings. It was out of this world.<end>
+
+=>q43
+Это был предмет, какого мы никогда раньше не видели. Он был завораживающим и пугающим одновременно. Этот невероятный предмет приковал к себе всё внимание. Странная форма, символы. Он был не из этого мира.<end>
+
+=>q44_original
+Then he closed the metal box. He... His face is now clear to me, but I don't want to describe it. Nor what happened next. The only thing you should know is that I woke up as they were dragging me away from Terry and into their... machine. Then I woke up here.<end>
+
+=>q44
+Затем он закрыл металлическую коробку. Он... теперь я ясно помню его лицо, но я не хочу его описывать. Или то, что произошло дальше. Знайте только, что я очнулась, когда меня тащили прочь от Терри в эту их... машину. Потом я проснулась здесь.<end>
+
+=>q45_original
+If Terry truly is alive, as you say, then I don't understand why they didn't take him too. But, what I do understand is that they hadn't found me by pure accident. They wanted this... Cube.<end>
+
+=>q45
+Если Терри действительно жив, как вы говорите, тогда я не понимаю, почему они не взяли его тоже. Но что я отлично понимаю, это то, что они нашли меня не по чистой случайности. Они искали этот... куб.<end>
+
+=>q46_original
+Maybe the earthquake was their deed too. I don't know. I could never speak to them. They just took care of me. ::She points to the machines next to her. There are numerous pipes and tubes that go into her arms and abdomen, and indeed it appears that what she's telling you is true.:: I would be dead without this.<end>
+
+=>q46
+Может, землетрясение тоже было их рук делом. Я не знаю. Мне не удалось с ними поговорить. Они только заботились обо мне. ::Она указывает на машины рядом с ней. Многочисленные провода и трубки идут к её рукам и животу -- похоже, что она говорит правду.:: Я бы умерла без этого.<end>
+
+=>a47_original
+The only one who is to blame for this is Tanner. It's all his fault! Do you have any idea as to why he'd do this?<end>
+
+=>a47
+Единственный, кто виноват, это Таннер. Это всё его вина! Вы можете хотя бы предположить, зачем он сделал это?<end>
+
+=>q48_original
+I don't know why he lied to us. If I knew I wouldn't have been here, I guess. There was always... a sense of mystique about him, but he was far from being the only one who made you wonder is he really the person he says he is.
+
+I can't speak anymore. I'm tired. I'm so tired.<end>
+
+=>q48
+Я не знаю, почему он солгал нам. Наверное, если бы я знала, меня бы здесь не было. Всегда было... в нём какое-то ощущение тайны, но не он один на станции заставлял меня усомниться в том, что говорит правду о своём происхождении.
+
+Я не могу больше говорить. Я устала. Я так устала.<end>
+
+=>a49_original
+I will get you out of here, I promise. But first, tell me this: Do you know why Tanner lied to you about the contents of the package?<end>
+
+=>a49
+Я вытащу вас отсюда, обещаю. Но сначала скажите мне: вы знаете, почему Таннер солгал вам о содержимом пакета?<end>
+
+=>a50_original
+I won't jump to conclusions regarding Tanner. He too needs to be given a chance to share his side of the story.<end>
+
+=>a50
+Я не буду делать поспешных выводов в отношении Таннера. Нужно дать ему шанс оправдаться.<end>
+
+=>q51_original
+They left him because he was dead. Terry. They had no use for him. And me... they hadn't found me by accident. They wanted this... Cube. And I was the one who had it.<end>
+
+=>q51
+Они оставили его, потому что он был мёртв. Терри. Он им был не нужен. А я... они нашли меня не случайно. Они искали этот... куб. А он был у меня.<end>
+
+=>q52_original
+::She smiles.:: You know so many things already. So here are the final details to the picture...<end>
+
+=>q52
+::Она улыбается.:: Вы уже так много знаете. Вот завершающие штрихи к картине...<end>
+
+=>q53_original
+You know about it? Yes... inside was this *Cube*...<end>
+
+=>q53
+Вы знаете об этом? Да... внутри был этот «куб»...<end>
+
+=>a54_original
+They managed to get away, sadly, but I squeezed that confession out of Cornell before they did.<end>
+
+=>a54
+К несчастью, им удалось уйти, но прежде я выдавил$(#/а) из Корнелла признание.<end>
+
+=>q55_original
+::Your response came as an disappointment to her as mirrored in her eye; there was a spark inside just as you were about to speak, but your words extinguished it completely. She evades your stare for a second or two before continuing the story.::<end>
+
+=>q55
+::Ваш ответ её разочаровал, и это отражается в её глазе; искра, которая было вспыхнула, когда вы начали говорить, погасла полностью. Она уклоняется от вашего взгляда на секунду или две, прежде чем продолжить рассказ.::<end>
+
+=>a56_original
+Yes. I let him walk away.<end>
+
+=>a56
+Да. Я позволил$(#/а) ему уйти.<end>
+
+=>q57_original
+::Your words made something snap inside her, creating a painful ripple across her face, squeezing every muscle until it gets red to the point of you feeling that all the scars and blisters are going to burst. As cold as her metallic voice already was, her reply felt even colder.::
+
+I won't ask for your reasons... for why you let them go. But I hate you. I hate... you. ::Her eye tears up.:: They should not walk free, no. You knew what they did - and you let them go. I am defenseless and broken... and at your mercy. But I hate you for the error that... you have made.
+<end>
+
+=>q57
+::От ваших слов будто что-то ломается внутри неё, вызывая болезненную дрожь на её лице, напрягая каждый мускул, пока она не краснеет до такой степени, что, кажется, вот-вот все шрамы и волдыри разорвутся. Непостижимым образом, её холодный металлический голос кажется ещё холоднее.::
+
+Я не стану спрашивать, по какой причине... вы отпустили их. Но я ненавижу вас. Я ненавижу... вас. ::Её глаз наполняется слезами.:: Они не должны были уйти, нет. Вы знали, что они сделали, и вы отпустили их. Я беззащитна и сломана... и я в вашей власти. Но я ненавижу вас за ошибку... которую вы совершили.<end>
+
+=>q58_original
+You will now hear the details.<end>
+
+=>q58
+Сейчас вы услышите подробности.<end>
+
+=>a59_original
+I've found clues which lead me to believe that they were the ones who attacked you.<end>
+
+=>a59
+Я наш$(#ёл/ла) улики, из которых сделал$(#/а) вывод, что это они напали на вас.<end>
+
+=>q60_original
+Did you find this Cornell? His gang?<end>
+
+=>q60
+Вы нашли этого Корнелла? Его банду?<end>
+
+=>a61_original
+No.<end>
+
+=>a61
+Нет.<end>
+
+=>a62_original
+Who attacked you?<end>
+
+=>a62
+Кто на вас напал?<end>
+
+=>q63_original
+It was a gang of three. Two men and a woman. I can't remember the details of their faces; it was all blurry. But they were ugly, that I can remember. Ugly as pigs.<end>
+
+=>q63
+Это была банда из трёх людей. Двое мужчин и женщина. Я не могу вспомнить их лица, всё было как в тумане. Но они были уродливые, это всё что я могу вспомнить. Уродливые как свиньи.<end>
+
+=>a64_original
+But none of those were able to get to SGS.<end>
+
+=>a64
+Но ни один из них не шёл на ССГ.<end>
+
+=>q65_original
+Yes. <end>
+
+=>q65
+Да.<end>
+
+=>q66_original
+Because of the cave-in. So, Terry suggested we go to Rail Crossing: We would be closer to SGS when the tracks eventually get cleared, and we could see if Buzzer - he has a big shop there - if Buzzer, uh, if he had the power supplies. For Harold.<end>
+
+=>q66
+Из-за обвала. Тогда Терри предложил отправиться на Переезд: оттуда недалеко ехать до ССГ, когда рельсы наконец расчистят, и мы могли бы навестить Баззера -- у него там большой магазин -- и посмотреть, есть ли у него блоки питания. Для Гарольда.<end>
+
+=>a67_original
+What happened after?<end>
+
+=>a67
+Что случилось потом?<end>
+
+=>a68_original
+You never made it to Buzzer?<end>
+
+=>a68
+Вы так и не добрались до Баззера?<end>
+
+=>a69_original
+Then what happened?<end>
+
+=>a69
+Что случилось потом?<end>
+
+=>q70_original
+No trains could take us to SGS. <end>
+
+=>q70
+Ни один поезд не шёл до ССГ.<end>
+
+=>a71_original
+Tanner? I thought Vera sent you to Core City.<end>
+
+=>a71
+Таннер? Я думал$(#/а), что это Вера отправила вас в Кор-Сити.<end>
+
+=>q72_original
+Usually it is Vera, but she wasn't around at the time so Tanner... Tanner gave us the list of the things we needed.<end>
+
+=>q72
+Обычно это Вера, но тогда её не было, поэтому Таннер... это Таннер дал нам список.<end>
+
+=>a73_original
+You're coming with me. Time to take you back to South Gate Station.<end>
+
+=>a73
+Вы отправляетесь со мной. Пора возвращаться на станцию Саут-Гейт.<end>
+
+=>q74_original
+Wait. I am hooked to this machine. Look. ::She points to the machine next to her. There are numerous wires and tubes that go into her arms and abdomen.:: They keep me alive. I don't think I can make it far without it. <end>
+
+=>q74
+Стойте. Я подключена к этой машине. Смотрите. ::Она указывает на машину рядом с ней. Многочисленные провода и трубки идут к её рукам и животу.:: Они поддерживают мою жизнь. Вряд ли я смогу далеко уйти сама.<end>
+
+=>q75_original
+<end>
+
+=>q75
+<end>
+
+=>a76_original
+We can't bring that with us. You're just going to have to be strong. Come on, I'll help you up.<end>
+
+=>a76
+Мы не можем взять это с собой. Вам просто придётся потерпеть. Давайте, я помогу вам подняться.<end>
+
+=>q77_original
+Where will you take me?<end>
+
+=>q77
+Куда вы меня заберёте?<end>
+
+=>a78_original
+I know of an elevator will get us out of Deep Caverns. I'll take you straight to SGS.<end>
+
+=>a78
+Я знаю лифт, на котором можно выбраться из Глубоких пещер. Я отведу вас прямо на ССГ.<end>
+
+=>q79_original
+::After some hesitation, she speaks. Her troubled stare still persists.:: 
+
+I am ready. I have full faith in you, $(context.player.Name).<end>
+
+=>q79
+::Она отвечает после некоторых колебаний, её взгляд по-прежнему встревожен.:: 
+
+Я готова. Я полностью доверяю вам, $(context.player.Name).<end>
+
+=>a80_original
+::Help Lora get up and take her away.::<end>
+
+=>a80
+::Помочь Лоре встать и увести её.::<end>
+
+=>a81_original
+Anywhere but here. Let's go.<end>
+
+=>a81
+Куда угодно, только подальше отсюда. Пойдём.<end>
+
+=>a82_original
+There is a man called Leo who lives nearby. I'll take you to him.<end>
+
+=>a82
+Здесь неподалёку живёт человек по имени Лео. Я отведу вас к нему.<end>
+
+=>a83_original
+::[Biology] You inspect the machine.:: I see no way for me to safely take you away from here. I'm going to need someone else's help. <end>
+
+=>a83
+::[Биология] Вы осматриваете машину.:: Я не вижу способа безопасно забрать вас отсюда. Мне понадобится помощь.<end>
+
+=>a84_original
+Damn it! I don't want to move you until I figure something out.<end>
+
+=>a84
+Проклятье! Я не хочу пытаться вас перевезти, пока не придумаю что-нибудь.<end>
+
+=>q85_original
+My life is in your hands, $(context.player.Name).<end>
+
+=>q85
+Моя жизнь в ваших руках, $(context.player.Name).<end>
+
+=>a86_original
+I have to leave now, but I will return quickly.<end>
+
+=>a86
+Мне нужно идти, но я скоро вернусь.<end>
+
+=>q87_original
+I want to go home.<end>
+
+=>q87
+Я хочу домой.<end>
+
+=>a88_original
+You will. Just be patient some more.<end>
+
+=>a88
+Мы отправимся домой. Просто потерпите ещё немного.<end>
+
+=>q89_original
+No. Don't leave me here alone. I'm... please, I'm scared.<end>
+
+=>q89
+Нет. Не оставляйте меня здесь одну. Я... пожалуйста, мне страшно.<end>
+
+=>a90_original
+Then you're coming with me.<end>
+
+=>a90
+Тогда вы отправляетесь со мной.<end>
+
+=>a91_original
+I won't be far. Trust me - nothing is going to happen to you.<end>
+
+=>a91
+Я буду недалеко. Поверьте мне, с вами ничего не случится.<end>
+
+=>a92_original
+I don't know anything about him, I'm afraid.<end>
+
+=>a92
+Боюсь, что я ничего не знаю о нём.<end>
+
+=>q93_original
+::The healthy eye sheds a tear, but her expression remains unchanged.::
+
+He is dead. I know it. I've seen it. But I had to ask... still.<end>
+
+=>q93
+::Слеза скатывается из её здорового глаза, но выражение лица остаётся неизменным.::
+
+Он мёртв. Я знаю. Я видела. Но всё равно... я должна была спросить.<end>
+
+=>a94_original
+He didn't make it.<end>
+
+=>a94
+Он не выжил.<end>
+
+=>q95_original
+::The healthy eye sheds a tear, but her expression remains unchanged.::
+
+I know. I saw it all. But I had to ask... still.<end>
+
+=>q95
+::Слеза скатывается из её здорового глаза, но выражение лица остаётся неизменным.::
+
+Я знаю. Я это видела. Но всё равно... я должна была спросить.<end>
+
+=>a96_original
+Can you hear me?<end>
+
+=>a96
+Вы меня слышите?<end>
+
+=>q97_original
+Yes...<end>
+
+=>q97
+Да...<end>
+
+=>a98_original
+Tell me your name.<end>
+
+=>a98
+Скажите мне своё имя.<end>
+
+=>q99_original
+It's... Lora... Baker. South Gate... Station.<end>
+
+=>q99
+Я... Лора... Бейкер. Станция... Саут-Гейт.<end>
+
+=>q100_original
+::The woman lies on the bed with her eyes wide open: The left one, brown-colored, is clear and focused on you, the other a swirled lifeless mass. Her face is dotted with reddish scars and blisters, as if spattered with a boiling or corrosive liquid which distorted her face into a grotesque visage. A light on the small device grafted onto her neck flashes green as a metallic voice speaks to you while being carefully molded by her lips.::<end>
+
+=>q100
+::Женщина лежит на кровати с широко раскрытыми глазами: левый из них, карий, ясен и сфокусирован на вас, другой является скрученной безжизненной массой. Её лицо усеяно бордовыми шрамами и волдырями, как будто брызги кипящей или едкой жидкости превратили его в уродливую маску. На небольшом устройстве, закреплённом на её шее, мигает зелёный огонёк, и она начинает говорить металлическим голосом, осторожно формируя слова губами.::<end>
+
+=>q101_original
+What is... happening? Why did you... attack them?<end>
+
+=>q101
+Что такое... происходит? Зачем вы... напали на них?<end>
+
+=>a102_original
+To return you to South Gate Station, Lora, that's why.<end>
+
+=>a102
+Чтобы вернуть вас на станцию Саут-Гейт, Лора -- вот зачем.<end>
+
+=>q103_original
+But they... saved me.<end>
+
+=>q103
+Но они... спасли меня.<end>
+
+=>q104_original
+<end>
+
+=>q104
+<end>
+
+=>a105_original
+That I didn't know.<end>
+
+=>a105
+Этого я не знал$(#/а).<end>
+
+=>q106_original
+::Her stare drops for a moment, then returns to you. However, she says nothing.::<end>
+
+=>q106
+::Она опускает глаза на мгновение, затем снова смотрит на вас. Она ничего не говорит.::<end>
+
+=>q107_original
+<end>
+
+=>q107
+<end>
+
+=>a108_original
+Who are you?<end>
+
+=>a108
+Кто вы?<end>
+
+=>q109_original
+It's... Lora... Baker. South Gate... Station.<end>
+
+=>q109
+Я... Лора... Бейкер. Станция... Саут-Гейт.<end>
+
+=>a110_original
+I come from South Gate Station. I arrived there after you had left, so we haven't had the chance to meet. I'm $(context.player.Name).<end>
+
+=>a110
+Я со станции Саут-Гейт. Я прибыл$(#/а) туда уже после того, как вы уехали, так что у нас не было шанса познакомиться. Меня зовут $(context.player.Name).<end>
+
+=>q111_original
+::She is silent as her eye inspects you, sluggishly moving down and up again. A quick tremble of her lips could have been an attempt at a smile, but the motion never proceeds farther than that.::
+
+Terry, my husband?<end>
+
+=>q111
+::Она молча смотрит на вас, её взгляд неуклюже блуждает вниз и снова вверх. Её губы вздрагивают, как будто она пытается улыбнуться, но этого не происходит.::
+
+Терри, мой муж?<end>
+
+=>a112_original
+He is alive and is waiting for you in South Gate Station.<end>
+
+=>a112
+Он жив и ждёт вас на станции Саут-Гейт.<end>
+
+=>q113_original
+::The smile finally appears, distorted and made with great effort, but it's there.::
+
+Terry... I though it was all over. Now, even if I die I'll know that... he made it.<end>
+
+=>q113
+::Улыбка наконец появляется на её лице, искривлённая и давшаяся ей с большим усилием, но тем не менее.::
+
+Терри... Я думала, что всё кончено. Теперь, даже если я умру, я буду знать, что... он выкарабкался.<end>
+
+=>q114_original
+<end>
+
+=>q114
+<end>
+
+=>a115_original
+Lora, I come from South Gate Station. I arrived there after you had left, so we haven't had the chance to meet. I'm $(context.player.Name).<end>
+
+=>a115
+Лора, я со станции Саут-Гейт. Я прибыл$(#/а) туда уже после того, как вы уехали, так что у нас не было шанса познакомиться. Меня зовут $(context.player.Name).<end>
+
+=>a116_original
+I know. But if you knew what they'd do to you next, you'd wish they had left you for dead.<end>
+
+=>a116
+Я знаю. Но если бы вы знали, что они собирались сделать с вами дальше, вы бы предпочли, чтобы они оставили вас умирать.<end>
+
+=>a117_original
+Forget about them, now it's me who's saving you. <end>
+
+=>a117
+Забудьте о них, теперь я приш$(#ёл/ла) спасти вас.<end>
+
+=>a118_original
+I don't care. We are done talking about the Faceless.<end>
+
+=>a118
+Мне плевать. Хватит уже про безликих.<end>
+
+=>a119_original
+To release their prisoners, and that includes you.<end>
+
+=>a119
+Чтобы освободить пленников, в том числе и вас.<end>
+
+=>q120_original
+Prisoners? They... saved me.<end>
+
+=>q120
+Пленников?.. Они спасли меня.<end>
+
+=>a121_original
+Because they deserved it. Did they do this to you?<end>
+
+=>a121
+Потому что они это заслужили. Это они сделали это с вами?<end>
+
+=>q122_original
+They... saved me.<end>
+
+=>q122
+Они... спасли меня.<end>
+
+=>a123_original
+It had to be done. I got nothing else to say.<end>
+
+=>a123
+Так было надо. Мне больше нечего сказать.<end>
+
+=>q124_original
+I want to leave this place. Take me home.<end>
+
+=>q124
+Я хочу покинуть это место. Заберите меня домой.<end>
+
+=>q125_original
+$(context.player.Name)?<end>
+
+=>q125
+$(context.player.Name)?<end>
+

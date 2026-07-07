@@ -1,0 +1,1140 @@
+﻿=>q1_original
+They're watching, aren't they?<end>
+
+=>q1
+Они смотрят, да?<end>
+
+=>q2_original
+::He ignores you completely.::<end>
+
+=>q2
+::Он игнорирует вас.::<end>
+
+=>q3_original
+::A figure with a familiarly pierced face waves at you.::
+
+Yo, hey, you! $(#Dude/Sister), yo! Recognize me?
+
+::Now even further accessorized, Duff strikes a pose and presents his new look to you: He is sporting brand new sneakers, seemingly very light an comfortable; quality hopper leather pants and suit - perhaps too tight in certain places; leather belt with a simple yet stylish metal buckle; a pitch-black shirt; and finally, what appears to be a super steel chain link necklace. And he even got his mohawk neatly trimmed.::
+
+You like this? It's hardcore, huh? Yeah, it is! You know it, $(#man/sister).<end>
+
+=>q3
+::Мужчина машет вам. Его лицо с больших количеством пирсинга выглядит знакомым.::
+
+Йоу, эй, ты! $(#Чувак/Сестра), йоу! Узнаёшь меня?
+
+::Теперь ещё более увешанный побрякушками, Дафф красуется перед вами в новом образе: на нём новые кроссовки, с виду очень лёгкие и удобные; качественные штаны и костюм из кожи пещерника -- возможно, слишком тесные местами; кожаный пояс с простой, но стильной металлической пряжкой; чёрная рубашка; и наконец, цепь на шее, судя по всему, сделанная из сверхстали. Даже его ирокез аккуратно подстрижен.::
+
+Нравится прикид? Хардкор, да? Ещё какой! Не спорь, $(#мужик/сестра).<end>
+
+=>a4_original
+Hell yeah it's hardcore, man!<end>
+
+=>a4
+Ещё бы, тот ещё хардкор, мужик!<end>
+
+=>q5_original
+Yeah, I know! It's hardcore.<end>
+
+=>q5
+Ну а я о чём! Полный хардкор.<end>
+
+=>q6_original
+While we're here, I wanna... well, I wanted to thank you. I've thought about what happened and... uh... Some important folks wanted that device, huh? Fat rats with lotsa money who could've had us zoned out like nothing. But you didn't do that. You didn't call in the hit squad or whatever. Instead you bought it off us, gave us a *lot* of money and left us alone. I respect that. I know I would've done the opposite, but I... ::He cuts the sentence short with a shrug.::
+
+Now, who thought that robbing some squeezer would have such a happy ending, huh? ::He laughs.:: So, thanks again... eh, um, what's your name?<end>
+
+=>q6
+Раз уж мы встретились, я хотел... ну, я хотел поблагодарить тебя. Я думал о том, что тогда было, и... э... Каким-то большим людям нужна была эта штука, да? Толстым крысам с кучей денег, которые бы нас скорее в Зону отправили за так. Но ты этого не сделал$(#/а). Ты не позвал$(#/а) отряд убийц или типа того. Вместо этого ты купил$(#/а) её у нас, дал$(#/а) нам *кучу* денег и оставил$(#/а) нас в покое. Я это уважаю. Я бы сделал наоборот, но я... ::Он не договаривает и пожимает плечами.::
+
+Вот кто бы мог подумать, что ограбление какого-то кретина будет иметь такой счастливый конец, а? ::Он смеётся.:: Так что ещё раз спасибо... э, хм, как тебя зовут?<end>
+
+=>a7_original
+$(context.player.Name).<end>
+
+=>a7
+$(context.player.Name).<end>
+
+=>q8_original
+Thank you, $(context.player.Name). You're hardcore.<end>
+
+=>q8
+Спасибо, $(context.player.Name). Ты хардкорн$(#ый/ая).<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+So, what have you been doing besides shopping for clothes? And where are the ladies?<end>
+
+=>a10
+Так, чем ты занимался, помимо покупки новой одежды? И где девушки?<end>
+
+=>q11_original
+They're resting. I dominated them. Yeah, I did. I took them to the Arena, then the Hardcore City Bar, then we did some hardcore shopping. Them girls are tired. ::He laughs.:: Meanwhile, I went out to grab us some food. We rented a place over at the upper level. It's small, but hardcore enough for us.
+
+Oh, and watching a *live* Arena match again after all this time - domination! Much better than watching it on a trim. To smell the blood, to have the gore splatter all around you. And all them bloodthirsty maniacs yelling and screaming together... Hardcore. I missed that. Worth every charon.<end>
+
+=>q11
+Они отдыхают. Я их задоминировал. Ещё как. Сводил их на Арену, потом в Хардкор-Сити, потом мы хардкорно прошлись по магазинам. Девчата устали. ::Он смеётся.:: А я пока пошёл достать поесть. Мы сняли жильё на верхнем уровне. Там места маловато, но нам и так хардкорно.
+
+А, да, мы посмотрели матч на Арене *живьём* впервые за долгое время, и она доминирует! Куда лучше, чем на триме смотреть. Чувствуешь запах крови, кишки летят прямо в тебя. И эти кровожадные маньяки визжат и орут все вместе... Хардкор. Я так по всему этому скучал. Стоит каждого харона.<end>
+
+=>a12_original
+I've also got a house there. It's the large house just northwest of the Core City Housing Corporation office.<end>
+
+=>a12
+У меня тоже там дом. Это большое здание к западу от офиса Жилищной корпорации Кор-Сити.<end>
+
+=>q13_original
+Damn, you're loaded. Good for you. We might stop by and hang out some time. That alright, huh?<end>
+
+=>q13
+Ха, ты при деньгах. Рад за тебя. Может, мы зайдём пообщаться как-нибудь. Идёт?<end>
+
+=>a14_original
+Sure. Drop by whenever you like.<end>
+
+=>a14
+Конечно. Заходи когда захочешь.<end>
+
+=>q15_original
+Hardcore. I'll talk with the girls. Damn... we got neighbors that ain't scared we're gonna zone them out. How awesome is that, huh?<end>
+
+=>q15
+Хардкор. Я расскажу девочкам. Блин... у нас есть соседи, которые не боятся, что мы их в Зону отправим. Разве не круто, а?<end>
+
+=>a16_original
+So you left the Zone for good?<end>
+
+=>a16
+Так вы насовсем ушли из Зоны?<end>
+
+=>q17_original
+::He nods.:: I feel like a proper citizen now. I got tired of all the scavenging, robbing and zoning out. Gotta think of the girls too. They're hardcore in their own right, but they're still women. Maybe I'll get a job or something. <end>
+
+=>q17
+::Он кивает.:: Теперь я чувствую себя настоящим гражданином. Я устал от всего этого копания в мусоре, грабежей и Зоны. Нужно подумать и о девушках. Они хотя и харкорные, но они всё равно женщины. Может быть, я найду работу или что-то ещё.<end>
+
+=>q18_original
+Now that the Tunnelers are gone, maybe there is future in this place after all. Opportunities and all that. I'll figure something out.<end>
+
+=>q18
+Теперь, когда ушли Проходчики, может быть, у этого места всё-таки есть будущее. Новые возможности и всякое такое. Я что-нибудь придумаю.<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+By the way, where'd you get that super steel necklace?<end>
+
+=>a20
+Кстати, откуда у тебя эта цепь из сверхстали?<end>
+
+=>q21_original
+::He smiles and lifts the necklace with his hand, gazing at it with extreme pride and delight; it seems that its presence satisfies both his love of money and of jewelry at the same time, for it is both of those at the same time.::
+
+I got this done in Foundry. I said, "Yo, I want this coins melted into a necklace," and they did it. Did a few more trinkets for the girls too. They loved it. A man's gotta know how to treat his girls properly, right?<end>
+
+=>q21
+::Он улыбается и поднимает цепь ладонью, рассматривая её с гордостью и удовольствием. Похоже, что она удовлетворяет его страсть к деньгам и украшениям одновременно, ведь она является и тем и другим.::
+
+Мне её сделали на Литейной. Я им сказал: «Йоу, переплавьте мне эти монеты в цепь», и так они и сделали. Девочкам тоже кое-какие побрякушки заказал. Они были в восторге. Мужик должен знать, как угодить своим девочкам, да?<end>
+
+=>q22_original
+I'm even gonna do super steel piercings one day. ::He laughs.:: No, really, I will.<end>
+
+=>q22
+Я даже когда-нибудь сделаю пирсинг из сверхстали. ::Он смеётся.:: Нет, правда, сделаю.<end>
+
+=>a23_original
+It's been fun chatting with you, but I gotta go. Say hi to the ladies from me and good luck to you all.<end>
+
+=>a23
+Весело было поболтать с тобой, но мне пора идти. Передавай привет девушкам, и удачи вам всем.<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>q25_original
+Hold on one more second. ::He pauses, looks you straight in the eye and speaks.:: Uh, if you're interested... maybe you could join me and the girls, you know. There's enough Duff for one more woman. ::He smiles.:: Oh, oh, and don't worry a thing - the rest of the girls ain't gonna be jealous. Well... maybe Priscilla will at first, but if she could accept Svetlana, she's gonna accept you too. 
+
+So what do you say, girl, huh? You like the idea?<end>
+
+=>q25
+Погоди ещё секунду. ::Он замолкает, смотрит вам прямо в глаза и говорит.:: Э, если тебе интересно... может, ты могла бы, знаешь, присоединиться ко мне и девочкам. Даффа хватит на ещё одну женщину. ::Он улыбается.:: А, а, и ни о чём не беспокойся -- другие девочки не будут ревновать. Ну... может быть, Присцилла поначалу, но если она смогла принять Светлану, то примет и тебя.
+
+Так, что скажешь, девушка, а? Как тебе такая идея?<end>
+
+=>a26_original
+You are not my type.<end>
+
+=>a26
+Ты не в моём вкусе.<end>
+
+=>q27_original
+Can't zone out a man for trying, huh? ::He laughs.:: Duff doesn't mind. Yeah.<end>
+
+=>q27
+Не отправишь же ты меня в Зону за вопрос, а? ::Он смеётся.:: Дафф не возражает. Не-а.<end>
+
+=>q28_original
+Well, see ya. Stay hardcore. <end>
+
+=>q28
+Ну, увидимся. Хардкорь дальше.<end>
+
+=>q29_original
+::He then turns toward the crispy, moist meat as it rotates so tantalizingly right before his eyes.:: That's the stuff. No more stinking barrel soup for ol' Duffie.<end>
+
+=>q29
+::Затем он разворачивается к шкварчащему сочному куску мяса, который дразняще вращается перед его глазами.:: Вот это вещь. Никакого больше вонючего супа из бочки для старины Даффи.<end>
+
+=>a30_original
+I'll think about it.<end>
+
+=>a30
+Я подумаю об этом.<end>
+
+=>q31_original
+Alright. Hardcore. Yeah. ::He nods.:: You do that. Duff'll be waiting. ::Then he winks.::<end>
+
+=>q31
+Ладно. Хардкор. Ага. ::Он кивает.:: Давай. Дафф подождёт. ::Он подмигивает вам.::<end>
+
+=>a32_original
+No.<end>
+
+=>a32
+Нет.<end>
+
+=>q33_original
+See ya! Stay hardcore. <end>
+
+=>q33
+До встречи! Хардкорь дальше.<end>
+
+=>a34_original
+Gotta go now. See you around, Duff.<end>
+
+=>a34
+Мне надо идти. Увидимся, Дафф.<end>
+
+=>q35_original
+The Tunnelers could still wipe us out, but hell, you ain't getting nowhere if you think like that. Maybe there is future in this place after all. Opportunities and all that. I'll figure something out.<end>
+
+=>q35
+Проходчики, конечно, могут ещё нас всех порешить, но если так думать, то что толку брыкаться. Может быть, у этого места всё-таки есть будущее. Новые возможности и всякое такое. Я что-нибудь придумаю.<end>
+
+=>a36_original
+I rarely go there, actually. But I do have a very good security system.<end>
+
+=>a36
+Вообще-то, я редко захожу туда. Но у меня хорошая охранная система.<end>
+
+=>q37_original
+Oh. That's a shame. Whenever you have some time then. <end>
+
+=>q37
+А. Жаль. Ну, тогда когда у тебя будет время.<end>
+
+=>q38_original
+Or you could stop by our place, um... What was the number again...? Well, pipeworks. I'll let you know once I check it again. It's the third from the, uh... I'll let you know.<end>
+
+=>q38
+Или ты можешь к нам зайти, эм... Какой там был номер?.. Вот трубы. Я тебе скажу, когда посмотрю ещё раз. Это третья дверь с... э... я тебе дам знать.<end>
+
+=>a39_original
+I'm going to be busy in the following months.<end>
+
+=>a39
+Я буду занят$(#/а) в ближайшие несколько месяцев.<end>
+
+=>a40_original
+I gotta rush. Good luck, Duff.<end>
+
+=>a40
+Мне надо бежать. Удачи, Дафф.<end>
+
+=>a41_original
+I can't reveal my name, I'm afraid.<end>
+
+=>a41
+Боюсь, что я не могу раскрыть своего имени.<end>
+
+=>q42_original
+Oh, I see. Secrecy and all that. I get it, I get it. 
+
+Well, thank you, you. You're hardcore.<end>
+
+=>q42
+А, я понял. Секретность и всё такое. Я понял, понял.
+
+Ну, спасибо тебе, кто-то. Ты хардкорн$(#ый/ая).<end>
+
+=>a43_original
+You look quite dandy, Duff.<end>
+
+=>a43
+Первоклассно выглядишь, Дафф.<end>
+
+=>a44_original
+I like how everything is matching the color of your mohawk.<end>
+
+=>a44
+Мне нравится, как всё подобрано под цвет твоего ирокеза.<end>
+
+=>q45_original
+Yeah, I know! That's the whole idea. Style. Taste.<end>
+
+=>q45
+Да, я знаю! Я так и задумал. Стиль. Изыск.<end>
+
+=>a46_original
+Who paid you to wear that?<end>
+
+=>a46
+Кто тебе заплатил, чтобы ты это надел?<end>
+
+=>q47_original
+::He scratches his mohawk.:: Huh? ::He stares at you some more, then replies.:: Oh, I dig. You did, $(#man/sister)! It's hardcore, right?<end>
+
+=>q47
+::Он чешет свой ирокез.:: А? ::Он некоторое время смотрит на вас, затем отвечает.:: А, въехал. Ты заплатил$(#/а), $(#мужик/сестра)! Хардкор, да?<end>
+
+=>a48_original
+Where are your ladies? Did they leave you because of the horrible outfit?<end>
+
+=>a48
+Где твои подруги? Они разбежались, когда увидели твой новый прикид?<end>
+
+=>q49_original
+What!? No, they're waiting for me to grab some food. I mean... I just wanted to say hi, and what do you do? You insult me. If this here was the Zone I'd... ::He takes a glimpse around him before continuing.:: But no, I owe you, so how about you just drop off, huh? Alright? Hardcore. ::He turns his back to you.::<end>
+
+=>q49
+Что?! Не, они меня ждут, пока я за хавкой вышел. В смысле... Я только хотел поздороваться, а ты что? Ты меня оскорбляешь. Если б мы щас были в Зоне, я б... ::Он оглядывается вокруг, прежде чем продолжить.:: Но нет, я у тебя в долгу, так что давай ты просто провалишься, а? Ладно? Хардкор. ::Он разворачивается к вам спиной.::<end>
+
+=>a50_original
+Did you just tell me to drop off? You want me to take all those fine coins back, punk?<end>
+
+=>a50
+Ты мне сказал провалиться? Хочешь, чтобы я забрал$(#/а) обратно все деньги, говнюк?<end>
+
+=>q51_original
+Drop off. Leave me alone. I got rights now, meathead. Drop off.<end>
+
+=>q51
+Провались. Оставь меня в покое. У меня теперь есть права, $(#придурок/дура). Провались.<end>
+
+=>a52_original
+::Leave.::<end>
+
+=>a52
+::Уйти.::<end>
+
+=>a53_original
+Sorry, I think you got the wrong person?<end>
+
+=>a53
+Извините, мне кажется, вы меня с кем-то перепутали.<end>
+
+=>q54_original
+::He stares at you for a few moments.::
+
+What do you mean? But we... ::He points up and east.:: You know?<end>
+
+=>q54
+::Он разглядывает вас несколько секунд.::
+
+Ты о чём? Мы же... ::Он указывает наверх и на восток.:: Помнишь?<end>
+
+=>a55_original
+I'm just messing with you. You're looking good, man.<end>
+
+=>a55
+Да я просто пошутил$(#/а). Ты отлично выглядишь, мужик.<end>
+
+=>q56_original
+Oh, you scared me for a moment. I though you were gonna blow me off. ::He laughs.:: But yeah, I'm looking hardcore now!<end>
+
+=>q56
+А, ты меня немного напугал$(#/а). Я думал, ты меня оскорбить хочешь. ::Он смеётся.:: Но да, я теперь хардкорно выгляжу!<end>
+
+=>a57_original
+You mistook me for someone else. Goodbye.<end>
+
+=>a57
+Вы меня с кем-то перепутали. До свидания.<end>
+
+=>q58_original
+Ooooooh. I see. Yeah, I get it, I get it. ::He looks around, then quickly whispers at you before turning his back toward you.:: Thank you, uh, stranger. Bye.<end>
+
+=>q58
+А-а-а-а. Я понял. Да, дошло, дошло. ::Он оглядывается, потом быстро шепчет вам, прежде чем обернуться обратно.:: Спасибо, э, незнаком$(#ец/ка). Пока.<end>
+
+=>a59_original
+I don't know you.<end>
+
+=>a59
+Я вас не знаю.<end>
+
+=>q60_original
+<end>
+
+=>q60
+<end>
+
+=>q61_original
+Damn, I'm hungry.<end>
+
+=>q61
+Блин, есть охота.<end>
+
+=>q62_original
+Tina nearly uttered her first words when she saw me in this fancy suit.<end>
+
+=>q62
+У Тины чуть дар речи не прорезался, когда она увидела меня в этом костюме.<end>
+
+=>q63_original
+No more barrel soup for Duff and the girls.<end>
+
+=>q63
+Никакого больше бочечного супа для Даффа и девочек.<end>
+
+=>q64_original
+I saw this old, filthy zoner dumpster diving near our new place. Vermin.<end>
+
+=>q64
+Видел такого старого грязного зонера в мусорке около нашего нового дома. Свинья.<end>
+
+=>q65_original
+I can now take the train the normal way. No more hanging from the side.<end>
+
+=>q65
+Теперь буду ездить на поезде нормально. Не надо больше висеть на подножке.<end>
+
+=>q66_original
+If you change your mind, let me know, girl.<end>
+
+=>q66
+Если передумаешь, дай мне знать, девочка.<end>
+
+=>q67_original
+What do you mean, "I wasn't paying attention"? Huh? I don't get it...<end>
+
+=>q67
+Что это значило, что я «невнимательный»? А? Что-то я не понял...<end>
+
+=>q68_original
+I swear I don't have it anymore!<end>
+
+=>q68
+Я клянусь, у меня его больше нету!<end>
+
+=>q69_original
+Come on, what-- what more do you want from me, huh? Let me watch the match in peace.<end>
+
+=>q69
+Ну что... что тебе ещё от меня надо, а? Дай спокойно посмотреть матч.<end>
+
+=>q70_original
+You sure know how to throw punches...<end>
+
+=>q70
+Да уж, умеешь ты раздавать тумаки...<end>
+
+=>q71_original
+Did you hear what I said? Huh? Get lost!<end>
+
+=>q71
+Ты глух$(#ой/ая)? А? Отвали!<end>
+
+=>q72_original
+::All three women are quietly watching you with such intensity you suspect they might leap at you at any given moment. Meanwhile, Duff wipes the blood from his face as much as he can and almost inaudibly swears something. After catching his breath, he looks at you.::<end>
+
+=>q72
+::Все три женщины молча смотрят с таким видом, будто вот-вот набросятся на вас. Между тем, Дафф вытирает кровь с лица настолько, насколько это возможно, и почти неслышно ругается. Отдышавшись, он смотрит на вас.::<end>
+
+=>q73_original
+I guess you are... ow, not a bad fist fighter after all, huh? ::He turns to the three women.:: Calm down, girls, a deal is a deal, and I'm a man of my word. Here you go, tak-- ::He reaches for the device, but it isn't there anymore. His expression is that of panic, and the drops of sweat rolling down his face, clinging occasionaly on some of his numerous piercings, weren't the product of physical strain during the previous fight, but the product of fear.:: Where is that thing!? I had it right here!<end>
+
+=>q73
+Похоже, что ты, ох, всё-таки умеешь драться, а? ::Он поворачивается к трём женщинам.:: Успокойтесь девочки, сделка есть сделка, и я человек слова. Вот, держи... ::Он тянется за устройством, но не находит его. На его лице отражается паника, и капли пота катятся по нему, порой цепляясь за многочисленный пирсинг.:: Где эта штука?! Она была здесь!<end>
+
+=>q74_original
+::He searches for it for a while longer, but in the end he gives up.:: Ah! I lost it! I swear, I had it but... I just don't know! I don't have it! I don't know what happened! Maybe I dropped it somehow... I don't know.<end>
+
+=>q74
+::Он некоторое время ищет его повсюду, но в конце концов сдаётся.:: А! Я потерял его! Клянусь, он был у меня, но... Я не знаю! У меня его нет! Я не знаю, куда он делся! Может быть, я как-то выронил его... я не знаю.<end>
+
+=>a75_original
+You're lying! I'm tired of all this nonsense. I'll take the device from your corpse if I have to. ::Attack!::<end>
+
+=>a75
+Ты врёшь! Мне надоел этот бред. Я заберу прибор с твоего трупа, если придётся. ::Напасть!::<end>
+
+=>a76_original
+You didn't drop it, you just weren't paying attention. Goodbye.<end>
+
+=>a76
+Ничего ты не выронил, ты просто невнимательный. Пока.<end>
+
+=>a77_original
+::Leave.::<end>
+
+=>a77
+::Уйти.::<end>
+
+=>q78_original
+I guess you are... ow, not a bad fist fighter after all, huh? ::He turns to the three women.:: Calm down, girls, a deal is a deal, and I'm a man of my word. Here you go, take it. ::He gives you the ICPD.::
+
+Let $(#him/her) go, girls. Ow... I think I'm gonna need some rest.<end>
+
+=>q78
+Похоже, что ты, ох, всё-таки умеешь драться, а? ::Он поворачивается к трём женщинам.:: Успокойтесь девочки, сделка есть сделка, и я человек слова. Вот, держи, пожалуйста. ::Он даёт вам ДВД.:: 
+
+Пусть идёт, девочки. Ой... мне надо присесть.<end>
+
+=>q79_original
+Hey, I'd like to watch the match now, thank you.<end>
+
+=>q79
+Эй, теперь я бы хотел посмотреть матч, спасибо.<end>
+
+=>q80_original
+::You are led before a hefty man. As he turns toward you, you notice him to have numerous and shiny piercings on his face, all of which reflect the violent pictures from the screen beside him. He takes one last glance at the monitor before focusing on you, not doing well at hiding his irritation.::
+
+What do you want, huh? Why are you interrupting me while I'm watching the Arena? Deathhammer just killed forty-five burrowers and he's about to kill some more, yet Duff's gotta talk to this jackass here. Come on, speak already.<end>
+
+=>q80
+::Вас приводят к здоровенному мужику. Пока он поворачивается к вам, ваше внимание привлекают многочисленные блестящие кольца и серёжки, которыми усеяно его лицо. В них отражается яростная схватка на телевизионном экране. Он бросает последний взгляд на монитор, прежде чем обратиться к вам с нескрываемым раздражением.::
+
+Чего тебе надо, а? Зачем ты отвлекаешь меня, когда я смотрю Арену? Забойщик только что убил сорок пять могильщиков и собирается убить ещё несколько, а я говорю с тобой. Меня зовут Дафф, кстати. Давай говорить уже.<end>
+
+=>a81_original
+I heard you recently acquired an ICPD. I'm here to collect it.<end>
+
+=>a81
+Я слышал$(#/а), ты недавно нашёл ДВД. Я здесь, чтобы забрать его.<end>
+
+=>q82_original
+What is $(#he/she) talking about, huh? IPDC? <end>
+
+=>q82
+О чём он$(#/а) говорит, а? ДВД?<end>
+
+=>q83_original
+Duffie, $(#he/she)'s gotta be talkin' about that whatever-it's-called ya took from that scrawny fella.<end>
+
+=>q83
+Даффи, он$(#/а) это про ту странную хреновину, которую ты снял с того тощего парня.<end>
+
+=>q84_original
+::He laughs.:: Yes, I remember the guy. What a meathead. So, is that what you're after? This, huh? ::He produces a peculiar, high-tech device.::<end>
+
+=>q84
+::Он смеётся.:: Да, я помню этого парня. Такой придурок. Так это ты ищешь? Это, да? ::Он показывает вам любопытное высокотехнологичное устройство.::<end>
+
+=>a85_original
+Yeah, that appears to be it.<end>
+
+=>a85
+Да, похоже, это оно.<end>
+
+=>q86_original
+Not so fast, meathead. This thing ain't cheap. How much do you offer for this thing?<end>
+
+=>q86
+Не так быстро, $(#придурок/дурочка). Эта штука не дешёвая. Сколько ты мне дашь за эту хреновину?<end>
+
+=>q87_original
+<end>
+
+=>q87
+<end>
+
+=>a88_original
+Ten charons.<end>
+
+=>a88
+Десять харонов.<end>
+
+=>q89_original
+You meathead! I think you can do a lot better than that. Pfft, ten charons.<end>
+
+=>q89
+Вот $(#придурок/дура)! Думаю, что ты можешь предложить куда больше. Пф-ф, десять харонов.<end>
+
+=>q90_original
+Ya tell $(#him/her) Duffie. Yeah!<end>
+
+=>q90
+Скажи е$(#му/й) Даффи. Да!<end>
+
+=>a91_original
+One hundred charons.<end>
+
+=>a91
+Сто харонов.<end>
+
+=>q92_original
+Weak. Where's the money, huh?<end>
+
+=>q92
+Слабо. Где деньги, а?<end>
+
+=>q93_original
+Hmm, show us the money, $(#boy/girl). ::She laughs.::<end>
+
+=>q93
+Хм-м, покажи нам деньги, $(#мальчик/девочка). ::Она смеётся.::<end>
+
+=>a94_original
+Two hundred charons<end>
+
+=>a94
+Двести харонов.<end>
+
+=>q95_original
+Hmm, not bad. But I think this should cost... more. More.<end>
+
+=>q95
+Хм-м, неплохо. Но я думаю, что это должно тебе стоить... больше. Гораздо больше.<end>
+
+=>q96_original
+::Tina shows several hand signals to Duff. You have no idea what they represent, but the way she glances at you makes it highly unlikely that they mean anything nice..::<end>
+
+=>q96
+::Тина показывает несколько жестов Даффу. Вы не представляете, что они значат, но что-то подсказывает вам, что она не подразумевает ничего хорошего.::<end>
+
+=>q97_original
+::He laughs.:: Yeah, Tina, $(#he/she) sure is!<end>
+
+=>q97
+::Он смеётся.:: Да, Тина, ещё как$(#ой/ая).<end>
+
+=>a98_original
+::[Mercantile]:: You aren't gonna get more for this. Let alone without actually knowing what the thing does.<end>
+
+=>a98
+::[Торговля]:: Ты за него больше не получишь. Ты даже не знаешь, что эта штука делает.<end>
+
+=>q99_original
+Huh? Well... Hmmm...<end>
+
+=>q99
+А? Ну... Хм-м-м...<end>
+
+=>q100_original
+Duffie?<end>
+
+=>q100
+Даффи?<end>
+
+=>q101_original
+Svetlana, it's okay. ::Duff turns to you.:: It's a deal!<end>
+
+=>q101
+Светлана, всё в порядке. ::Дафф поворачивается к вам.:: Договорились!<end>
+
+=>a102_original
+Here you go. ::Give him 200 stygian coins.::<end>
+
+=>a102
+Договорились, держи. ::Дать ему 200 стигийских монет.::<end>
+
+=>q103_original
+Good, good! Here, take this thing. ::He gives you the ICPD.::<end>
+
+=>q103
+Хорошо, хорошо! Вот, держи эту штуку. ::Он отдаёт вам ДВД.::<end>
+
+=>q104_original
+It's been nice knowing you. Now, I'd like to get back to the Arena. 
+
+So long.<end>
+
+=>q104
+Приятно было познакомиться. Теперь я хочу вернуться к Арене.
+
+До скорого.<end>
+
+=>q105_original
+I'm sure I'll find someone. Try harder.<end>
+
+=>q105
+Я кого-нибудь найду. Попробуй ещё раз.<end>
+
+=>a106_original
+Okay, I'll offer a different amount.<end>
+
+=>a106
+Ладно, я предложу другую сумму.<end>
+
+=>q107_original
+Let's hear it.<end>
+
+=>q107
+Говори.<end>
+
+=>q108_original
+<end>
+
+=>q108
+<end>
+
+=>a109_original
+I'd like to buy the device.<end>
+
+=>a109
+Я бы хотел$(#/а) купить этот прибор.<end>
+
+=>q110_original
+::He searches for the device, but he cannot seem to find it.:: 
+
+Where is that thing? I had it right here!<end>
+
+=>q110
+::Он ищет устройство, но не может найти его.::
+
+Куда подевалась эта штука? Она была здесь!<end>
+
+=>q111_original
+::He tries to find it for several more minutes, but gives up in the end.:: Ah! I lost it!<end>
+
+=>q111
+::Он некоторое время ищет его повсюду, но в конце концов сдаётся.:: А! Я потерял его!<end>
+
+=>q112_original
+How could ya lost it?<end>
+
+=>q112
+Как ты мог его потерять?<end>
+
+=>q113_original
+I don't know, woman! What, are you gonna nag about it now? Huh?<end>
+
+=>q113
+Я не знаю, женщина! Что, теперь ты собираешься ныть об этом? А?<end>
+
+=>q114_original
+Ah! I lost it! I swear, I had it but... I just don't know! I don't have it! I don't know what happened! Maybe I dropped it somehow... I don't know.<end>
+
+=>q114
+Ай! Я потерял его! Я клянусь, он был тут, но... я просто не знаю! У меня его нет! Я не знаю, куда он делся! Может, я его выронил как-то... я не знаю.<end>
+
+=>a115_original
+FIRE!<end>
+
+=>a115
+ОГОНЬ!<end>
+
+=>q116_original
+::After the magic word had been spoken you become the only one left standing. Dispersed and hugging the ground, the group slowly comes to the realization that they are all still alive. One by one, they raise their heads, listening to the blissful silence - silence by Drop Zone standards - and cautiously survey their surroundings. Nothing. Not even a hint of anything stranger than usual.::<end>
+
+=>q116
+::После того, как было произнесено волшебное слово, вы оказываетесь единственным, кто остал$(#ся/ась) стоять на ногах. Разбросанная и приникшая к земле, группа медленно приходит к осознанию того, что они всё ещё живы. Один за другим они поднимают головы, прислушиваясь к блаженной тишине -- тишине по меркам Зоны провала -- и осторожно осматриваются. Ничего. Нет даже намёка на что-то более странное чем обычно.::<end>
+
+=>q117_original
+::Duff is the first to get back on his feet, and you can see scalding rage in his eyes, that he so desires to punish you for this humiliation. However, he does not. He hesitates - he lets you walk away.::<end>
+
+=>q117
+::Дафф первым поднимается на ноги, и вы видите, как ярость вспыхивает в его глазах, у него явно чешутся руки наказать вас за такое унижение. Однако он ничего не делает. Он мешкает, позволяя вам уйти.::<end>
+
+=>a118_original
+See you around, Duffie. Take care.<end>
+
+=>a118
+Увидимся, Даффи. Береги себя.<end>
+
+=>a119_original
+I guess you just weren't paying enough attention. Goodbye.<end>
+
+=>a119
+Наверное, тебе просто надо было быть внимательнее. До свидания.<end>
+
+=>a120_original
+::Leave.::<end>
+
+=>a120
+::Уйти.::<end>
+
+=>q121_original
+And you, get lost! Nothing for you here. Actually, I want you all to leave me alone. I just wanna watch the stinking match in peace.<end>
+
+=>q121
+А ты, исчезни! Здесь для тебя ничего нет. И вообще, вы все оставьте меня в покое. Я хочу спокойно досмотреть этот вонючий матч.<end>
+
+=>q122_original
+How much do you offer?<end>
+
+=>q122
+Сколько ты предлагаешь?<end>
+
+=>a123_original
+::[Intimidate]:: You are going to give me that device right now.<end>
+
+=>a123
+::[Запугивание]:: Немедленно отдай мне устройство.<end>
+
+=>q124_original
+And what if I don't?<end>
+
+=>q124
+А то что?<end>
+
+=>a125_original
+::Press your finger against your ear.:: You ready? Prepare to fire on my mark.<end>
+
+=>a125
+::Прижать палец к уху.:: Готов? Огонь по моей команде.<end>
+
+=>q126_original
+Huh, what? Who... Are you talking to me, huh, meathead?<end>
+
+=>q126
+А, что? Кто... Ты со мной говоришь, а, $(#придурок/дура)?<end>
+
+=>a127_original
+::Stare at him in silence.::<end>
+
+=>a127
+::Смотреть на него молча.::<end>
+
+=>q128_original
+::As the tension becomes unbearable, the women begin to nervously look around, their gazes scanning the shabby scenery for any signs of the mysterious plus-one. Duff and you, meanwhile, your stares are locked together tightly, without a sign of either one relenting.::<end>
+
+=>q128
+::Напряжение становится невыносимым, женщины начинают нервозно оглядываться, их глаза прочёсывают обшарпанные лачуги в поисках таинственного незнакомца. Вы с Даффом тем временем не моргая смотрите друг на друга, никто их вас не желает сдаваться.::<end>
+
+=>q129_original
+::But that very sign, a roll of sweat slaloming down his face and between his numerous piercings, marks the beginning of the end of the struggle.::
+
+Alright! Alright! I don't wanna, uh, get zoned out by a, by a sniper or... whatever. ::He raises his stare as if to aid his women in the search for the threat.:: Here, take this crap.<end>
+
+=>q129
+::Вы замечаете знак -- капля пота скатывается по его лицу, лавируя между многочисленными железками -- и он обозначает начало конца его борьбы.::
+
+Ладно! Ладно! Я не хочу, чтобы меня снайпер в Зону отправил, или... кто там. ::Он смотрит наверх, как бы пытаясь помочь своим подругам найти угрозу.:: На, забирай эту срань.<end>
+
+=>q130_original
+::He hands you the device.:: We're good, huh? ::All four pairs of eyes are now focused at you.:: Huh?<end>
+
+=>q130
+::Он протягивает вам устройство.:: Всё в порядке, да? ::Четыре пары глаз сверлят вас взглядом.:: Да?<end>
+
+=>a131_original
+We're good, Duffie. So long.<end>
+
+=>a131
+Всё в порядке, Даффи. Прощай.<end>
+
+=>q132_original
+::But the sign you expected is never shown; instead, the grin of victory flashes under the veil of piercings.::
+
+$(#He/She)'s bluffing, girls, calm yourselves down. We ain't got nothing to worry about. You thought you could fool us, huh? Meathead. 
+
+Now stop this hardcore nonsense and let's talk business.<end>
+
+=>q132
+::Но вы не замечаете признака слабости; напротив, победоносная ухмылка сверкает под завесой пирсинга.::
+
+Он$(#/а) блефует, девочки, успокойтесь. Нам не о чем беспокоиться. Думал$(#/а), можешь надуть нас, а? $(#Придурок/Дура).
+
+Кончай свою хардкорную чушь и давай поговорим о деле.<end>
+
+=>a133_original
+You know what? I bet I can kick your ass in a fist fight, chum.<end>
+
+=>a133
+Знаешь что, приятель! Спорим, я смогу надрать тебе задницу в кулачном бою.<end>
+
+=>q134_original
+Chum? Oooooh, is that a challenge, huh? Hey, hey, listen to this meathead, girls. ::He laughs.::<end>
+
+=>q134
+Приятель? Ой, это вызов, что ли? Вай, вай, послушайте эт$(#ого/у) $(#придурка/дурочку), девочки. ::Он смеётся.::<end>
+
+=>q135_original
+Ya can dominate $(#his/her) butt, Duffie! Yer the best! <end>
+
+=>q135
+Ты задоминируешь е$(#го/ё) задницу, Даффи! Ты лучший!<end>
+
+=>q136_original
+::She laughs.:: Yeah, dominate this pipeworker!<end>
+
+=>q136
+::Она смеётся.:: Да, доминируй эт$(#ого/у) трубочист$(#а/ку)!<end>
+
+=>q137_original
+Girls, calm down - calm down. You! ::He points his finger at you.:: Why would you want to fight me?<end>
+
+=>q137
+Девочки, успокойтесь, успокойтесь. Ты! ::Он указывает на вас пальцем.:: Почему ты хочешь драться со мной?<end>
+
+=>a138_original
+If I can defeat you, you give me that device. It's as simple as that.<end>
+
+=>a138
+Если я смогу тебя победить, ты отдашь мне устройство. Вот и всё.<end>
+
+=>q139_original
+Oh, it's on now, meathead! You have yourself a deal. Let's do this.<end>
+
+=>q139
+Тогда за дело, кусок мяса! Мы договорились. Поехали.<end>
+
+=>q140_original
+And don't try to cheat your way out of this by using guns or something funny, or else my girls'll blow your head clean off.<end>
+
+=>q140
+И не пытайся хитрить, вытащить пушку или что-нибудь такое, иначе мои девочки снесут тебе голову.<end>
+
+=>a141_original
+::Get ready to fight.::<end>
+
+=>a141
+::Приготовиться к драке.::<end>
+
+=>a142_original
+I don't, um, you misheard it. I was talking about something else.<end>
+
+=>a142
+Я не... хм, ты ослышался. Я не это имел$(#/а) в виду.<end>
+
+=>q143_original
+::He laughs.:: Alright. If you say so... *meathead*.<end>
+
+=>q143
+::Он смеётся.:: Ладно. Как скажешь...<end>
+
+=>a144_original
+I'll be back later.<end>
+
+=>a144
+Я вернусь позже.<end>
+
+=>a145_original
+Five hundred charons<end>
+
+=>a145
+Пятьсот харонов.<end>
+
+=>q146_original
+Hmm, I don't know... That sounds like some decent coin, actually.<end>
+
+=>q146
+Хм, я не знаю... неплохие деньги, конечно.<end>
+
+=>q147_original
+Duffie, look at $(#him/her). Ya can get more coins than that! Ya deserve it.<end>
+
+=>q147
+Даффи, посмотри на не$(#го/ё). Ты можешь получить больше денег, чем это! Ты их заслужил.<end>
+
+=>a148_original
+::[Mercantile]:: You aren't gonna get more for this. Let alone without actually knowing what the thing does.<end>
+
+=>a148
+::[Торговля]:: Ты за него больше не получишь. Ты даже не знаешь, что эта штука делает.<end>
+
+=>q149_original
+::He nods.:: Okay...<end>
+
+=>q149
+::Он кивает.:: Ладно...<end>
+
+=>q150_original
+Duffie?<end>
+
+=>q150
+Даффи?<end>
+
+=>q151_original
+Svetlana, it's okay. ::Duff turns to you.:: It's a deal!<end>
+
+=>q151
+Светлана, всё в порядке. ::Дафф поворачивается к вам.:: Договорились!<end>
+
+=>a152_original
+Here you go. ::Give him 500 charons.::<end>
+
+=>a152
+Договорились, держи. ::Дать ему 500 харонов.::<end>
+
+=>a153_original
+One thousand charons.<end>
+
+=>a153
+Тысячу харонов.<end>
+
+=>q154_original
+::Duff nods in agreement.:: That seems like a deal to me! This little thing's worth that much, huh? Hardcore. We sure hit gold with this, girls.<end>
+
+=>q154
+::Дафф кивает в знак согласия.:: Вот это сделка! Такая маленькая штучка стоит столько, а? Хардкор. Мы сорвали банк, девочки.<end>
+
+=>q155_original
+Sure did, Duffie. ::Svetlana then turns to you.:: As soon as $(#he/she) pays up!<end>
+
+=>q155
+Конечно, Даффи. ::Светлана поворачивается к вам.:: Как только он$(#/а) заплатит!<end>
+
+=>a156_original
+Here you go. ::Give him 1000 stygian coins.::<end>
+
+=>a156
+Договорились, держи. ::Дать ему 1000 стигийских монет.::<end>
+
+=>a157_original
+Two thousand charons.<end>
+
+=>a157
+Две тысячи харонов.<end>
+
+=>q158_original
+::Duff seems surprised by your offer at first, but an instant later he begins nodding.:: Yeah, yeah. That's good. Deal! We have a deal!<end>
+
+=>q158
+::Дафф, кажется, удивлён вашим предложением, но спустя мгновение он начинает кивать.:: Да, да. Хорошо. По рукам! Мы заключили сделку!<end>
+
+=>q159_original
+::Tina smiles and shows several hand signals to Duff.::<end>
+
+=>q159
+::Тина улыбается и показывает несколько жестов Даффу.::<end>
+
+=>q160_original
+You're right Tina, with that much coin, we could get ourselves all sorts of different stuff.<end>
+
+=>q160
+Ты права, Тина, на такие деньги мы можем себе накупить всяких ништяков.<end>
+
+=>q161_original
+May I, um, see the coins?<end>
+
+=>q161
+Могу я, хм, увидеть монеты?<end>
+
+=>a162_original
+Here you go. ::Give him 2000 charons.::<end>
+
+=>a162
+Договорились, держи. ::Дать ему 2000 харонов.::<end>
+
+=>a163_original
+Five thousand charons.<end>
+
+=>a163
+Пять тысяч харонов.<end>
+
+=>q164_original
+::Duff's eyes turn large and become nearly as round as the piercings which decorate his face. His jaw slacks, and his voice grows in richness.:: Whoa! Yeah, sure, it's a deal! We have a deal! ::An uncontrollable laughter escapes him.:: This little thing... is worth *five* *freakin'* *thousand*? Hardcore!<end>
+
+=>q164
+::Глаза Даффа выпучиваются и становятся круглыми, как кольца, украшающие его лицо. Его челюсть отвисает, и голос меняется.:: Ух ты! Да, конечно, договорились! По рукам! ::Он издаёт нервный смешок.:: Эта маленькая хреновинка стоит *пять* *долбаных* *тысяч* харонов? Хардкор!<end>
+
+=>q165_original
+Duffie, ya the man! No more barrel soup for us - we're gonna eat real food! We're gonna be mighty rich! Rich!<end>
+
+=>q165
+Даффи, ты мужик! Никакого больше супа из бочки, мы будем есть настоящую еду! Мы будем сказочно богатыми! Богатыми!<end>
+
+=>a166_original
+Here's five thousand for the device. ::Give him 5000 stygian coins.::<end>
+
+=>a166
+Вот пять тысяч за устройство. ::Дать ему 5000 стигийских монет.::<end>
+
+=>q167_original
+You are derailed to carry that much coin with you, but I ain't complaining! Girls, we are gonna live like those fat rats up there on the upper level! ::He laughs.::<end>
+
+=>q167
+Ты, наверное, поехал$(#/а) -- носить столько монет с собой, но я не жалуюсь! Девочки, мы заживём как те жирные крысы там, на верхнем уровне! ::Он смеётся.::<end>
+
+=>q168_original
+Here you go, take this thing with you. ::He gives you the ICPD.::<end>
+
+=>q168
+Вот, забери эту штуку себе. ::Он даёт вам ДВД.::<end>
+
+=>q169_original
+::He laughs.:: I still can't believe this. Can't believe this... This is hardcore! ::He continues laughing.::
+
+I'd... I'd like to get back to watching the Arena. I gotta calm myself a bit. Whoo...
+
+So long.<end>
+
+=>q169
+::Он смеётся.:: Я до сих пор не могу в это поверить! Это хардкор. ::Он продолжает смеяться.::
+
+Теперь мне надо назад посмотреть на Арену, просто, чтобы успокоиться немного. 
+
+Пока!<end>
+
+=>a170_original
+How much do you want for it?<end>
+
+=>a170
+Сколько ты за него хочешь?<end>
+
+=>q171_original
+No, no, no. I asked *you* first. How important is this thing to you? Huh?<end>
+
+=>q171
+Не, не, не. Я спросил первым. Насколько тебе нужна эта штука? А?<end>
+
+=>q172_original
+Come on. Speak.<end>
+
+=>q172
+Давай. Говори.<end>
+
+=>a173_original
+Let's find another way to settle this.<end>
+
+=>a173
+Давай договоримся иначе.<end>
+
+=>q174_original
+Just get on with it, will you? I'm gonna miss the freakin' match.<end>
+
+=>q174
+Давай только побыстрее, ладно? Я пропущу долбаный матч.<end>
+
+=>q175_original
+::He laughs.:: Yes, I remember the guy. What a meathead. So, is that what you're after? This, huh? ::He searches for the device, but he can't seem to find it.:: Where is that thing? I had it right here!<end>
+
+=>q175
+::Он смеётся.:: Да, я помню этого парня. Такой придурок. Так это ты ищешь? Это, да? ::Он ищет устройство, но не может найти его.:: Куда подевалась эта штука? Она была здесь!<end>
+
+=>a176_original
+I need that device you stole from Luben.<end>
+
+=>a176
+Мне нужно устройство, которое ты отобрал у Любена.<end>
+
+=>q177_original
+Stole what from who, huh?<end>
+
+=>q177
+Украл у кого, что, а?<end>
+
+=>q178_original
+Huh? The match is on, talk fast.<end>
+
+=>q178
+А? Матч начался, говори быстрее.<end>
+

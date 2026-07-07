@@ -1,0 +1,253 @@
+﻿=>q1_original
+::WARNING: Toxicity detected in biomass. System unstable.::<end>
+
+=>q1
+::ВНИМАНИЕ: В биомассе обнаружен токсин. Система неустойчива.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::Mutagen Combinator.::
+
+::Sequence: [$(context.dc_mutagenCompoundText)]::<end>
+
+=>q3
+::Комбинатор мутагенов.::
+
+::Последовательность: [$(context.dc_mutagenCompoundText)]::<end>
+
+=>q4_original
+
+::Compound formed.::<end>
+
+=>q4
+::Соединение сформировано.::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+::Modify sequence::<end>
+
+=>a6
+::Изменить последовательность::<end>
+
+=>q7_original
+::ERROR: Cannot modify sequence in compound state.::<end>
+
+=>q7
+::ОШИБКА: Невозможно изменить последовательность в виде соединения.::<end>
+
+=>q8_original
+::$(context.loc_dc_mutagenCombinatorMessage)::<end>
+
+=>q8
+::$(context.loc_dc_mutagenCombinatorMessage)::<end>
+
+=>q9_original
+::Mutagen Combinator.::
+
+::Sequence: [$(context.dc_mutagenCompoundText)]::<end>
+
+=>q9
+::Комбинатор мутагенов.::
+
+::Последовательность: [$(context.dc_mutagenCompoundText)]::<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+::Insert mutagen: Ovid-1::<end>
+
+=>a11
+::Добавить мутаген: Овидий-1::<end>
+
+=>a12_original
+::Insert mutagen: Ovid-2::<end>
+
+=>a12
+::Добавить мутаген: Овидий-2::<end>
+
+=>a13_original
+::Insert mutagen: Ovid-3::<end>
+
+=>a13
+::Добавить мутаген: Овидий-3::<end>
+
+=>a14_original
+::Insert mutagen: Solis-1::<end>
+
+=>a14
+::Добавить мутаген: Солис-1::<end>
+
+=>a15_original
+::Insert mutagen: Solis-2::<end>
+
+=>a15
+::Добавить мутаген: Солис-2::<end>
+
+=>a16_original
+::Insert mutagen: Echo-1::<end>
+
+=>a16
+::Добавить мутаген: Эхо-1::<end>
+
+=>a17_original
+::Insert mutagen: Echo-2::<end>
+
+=>a17
+::Добавить мутаген: Эхо-2::<end>
+
+=>a18_original
+::Insert mutagen: Echo-3::<end>
+
+=>a18
+::Добавить мутаген: Эхо-3::<end>
+
+=>a19_original
+::Insert mutagen: Echo-4::<end>
+
+=>a19
+::Добавить мутаген: Эхо-4::<end>
+
+=>a20_original
+::Insert mutagen: Io-1::<end>
+
+=>a20
+::Добавить мутаген: Ио-1::<end>
+
+=>a21_original
+::Insert mutagen: Io-2::<end>
+
+=>a21
+::Добавить мутаген: Ио-2::<end>
+
+=>a22_original
+::Insert mutagen: Io-3::<end>
+
+=>a22
+::Добавить мутаген: Ио-3::<end>
+
+=>a23_original
+::Insert mutagen: Helicon-1::<end>
+
+=>a23
+::Добавить мутаген: Геликон-1::<end>
+
+=>a24_original
+::Insert mutagen: Helicon-2::<end>
+
+=>a24
+::Добавить мутаген: Геликон-2::<end>
+
+=>a25_original
+::Insert mutagen: Helicon-3::<end>
+
+=>a25
+::Добавить мутаген: Геликон-3::<end>
+
+=>a26_original
+::Insert mutagen: Exitus-1::<end>
+
+=>a26
+::Добавить мутаген: Экзитус-1::<end>
+
+=>q27_original
+::ERROR: Prohibited compound detected::<end>
+
+=>q27
+::ОШИБКА: Обнаружено запрещённое соединение::<end>
+
+=>a28_original
+::Back::<end>
+
+=>a28
+::Назад::<end>
+
+=>a29_original
+::Clear sequence.::<end>
+
+=>a29
+::Очистить последовательность.::<end>
+
+=>q30_original
+::Sequence cleared::<end>
+
+=>q30
+::Последовательность очищена::<end>
+
+=>a31_original
+::Create compound from sequence::<end>
+
+=>a31
+::Создать соединение из последовательности::<end>
+
+=>q32_original
+::Compound formed.::<end>
+
+=>q32
+::Соединение сформировано.::<end>
+
+=>q33_original
+::ERROR: Empty sequence::<end>
+
+=>q33
+::ОШИБКА: Пустая последовательность::<end>
+
+=>a34_original
+::Inject compound::<end>
+
+=>a34
+::Ввести соединение::<end>
+
+=>q35_original
+::Manufacturing agent from sequence...::<end>
+
+=>q35
+::Изготовление агента из последовательности...::<end>
+
+=>q36_original
+::Injecting agent...::<end>
+
+=>q36
+::Производится введение агента...::<end>
+
+=>q37_original
+::Success.
+WARNING: Toxicity detected in biomass. System unstable.::<end>
+
+=>q37
+::Успешно.
+ВНИМАНИЕ: В биомассе обнаружен токсин. Система неустойчива.::<end>
+
+=>q38_original
+::Success.
+ System stable.::<end>
+
+=>q38
+::Успешно.
+Система устойчива.::<end>
+
+=>q39_original
+::ERROR: No compound::<end>
+
+=>q39
+::ОШИБКА: Нет соединения::<end>
+
+=>a40_original
+::Leave::<end>
+
+=>a40
+::Выйти::<end>
+

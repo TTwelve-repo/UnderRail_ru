@@ -1,0 +1,104 @@
+﻿=>q1_original
+::Stored ore: $(context.loc_fo5_storedOre)
+Loaded ore: $(context.loc_fo5_loadedOre)
+Conveyor belt: $(context.loc_fo5_conveyorStatus)::<end>
+
+=>q1
+::Хранимая руда: $(context.loc_fo5_storedOre)
+Загруженная руда: $(context.loc_fo5_loadedOre)
+Конвейерная лента: $(context.loc_fo5_conveyorStatus)::<end>
+
+=>q2_original
+
+::Super steel melting program loaded. Controls overriden.::<end>
+
+=>q2
+::Программа выплавки сверхстали загружена. Управление перенаправлено.::<end>
+
+=>q3_original
+
+::Furnace cooling down.::<end>
+
+=>q3
+::Печь охлаждается.::<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+::Recall the cart.::<end>
+
+=>a5
+::Вызвать вагонетку.::<end>
+
+=>a6_original
+::Unload the cart.::<end>
+
+=>a6
+::Разгрузить вагонетку.::<end>
+
+=>q7_original
+::Cargo scanning successful. No invalid objects detected.::<end>
+
+=>q7
+::Сканирование груза успешно. Недопустимых объектов не обнаружено.::<end>
+
+=>a8_original
+::Proceed with unloading.::<end>
+
+=>a8
+::Продолжить разгрузку.::<end>
+
+=>q9_original
+::Invalid objects detected inside the cart. Please proceed with cargo inspection.::<end>
+
+=>q9
+::Обнаружены недопустимые объекты. Пожалуйста, осмотрите груз.::<end>
+
+=>a10_original
+::Turn the conveyor belt on.::<end>
+
+=>a10
+::Включить конвейерную ленту.::<end>
+
+=>a11_original
+::Turn the conveyor belt off.::<end>
+
+=>a11
+::Отключить конвейерную ленту.::<end>
+
+=>a12_original
+::Initiate the melting process.::<end>
+
+=>a12
+::Начать процесс плавления.::<end>
+
+=>q13_original
+
+::Melting in progress.::<end>
+
+=>q13
+::Выполняется выплавка.::<end>
+
+=>a14_original
+::Drain the tank.::<end>
+
+=>a14
+::Слить резервуар.::<end>
+
+=>a15_original
+::Leave it be.::<end>
+
+=>a15
+::Оставить как есть.::<end>
+
+=>q16_original
+
+::Tank full.::<end>
+
+=>q16
+::Резервуар полон.::<end>
+

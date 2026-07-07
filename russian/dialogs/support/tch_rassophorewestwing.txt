@@ -1,0 +1,308 @@
+﻿=>q1_original
+Cull the Faceless!<end>
+
+=>q1
+Выполоть безликих!<end>
+
+=>q2_original
+::The rassophore duo seems to be guarding the entrance to this gloomy corridor. The smell of mold and staleness emanates from afar; the few lit flares thrown around do nothing to erase the feeling of consuming darkness dwelling at the end of the hallway. You are stopped by the female rassophore and the conversation begins with an already anticipated warning.::
+
+Stop, $(#brother/sister). This is the Institute's West Wing. I would highly recommend turning around and going back unless, of course, you have a death wish.<end>
+
+=>q2
+::Двое рясофоров, судя по всему, охраняют вход в этот мрачный коридор. Затхлый воздух приносит запах плесени из темноты; несколько горящих химических вспышек не в силах прогнать всепоглощающую тьму, притаившуюся в глубине коридора. Женщина-рясофор останавливает вас и, вполне ожидаемо, начинает разговор с предупреждения.::
+
+Остановитесь, $(#брат/сестра). Это западное крыло Института. Я настоятельно советую вам развернуться и двинуться обратно, если, конечно, вам дорога жизнь.<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+What is so dangerous about the West Wing?<end>
+
+=>a4
+Чем же так опасно западное крыло?<end>
+
+=>q5_original
+What isn't? <end>
+
+=>q5
+Да всем.<end>
+
+=>q6_original
+One moment you could have a piece of ceiling drop right on your head and smash your skull, the second a deadly creep might jump straight from the shadow and cull you on the spot. We don't go there, $(#brother/sister), well, except for Efreitor Mateo and a rassophore unit that went with him. But they still haven't returned.<end>
+
+=>q6
+Может, кусок потолка свалится и проломит тебе череп; может, смертоносная тварь выпрыгнет из темноты и выполет тебя на месте. Мы не ходим туда, $(#брат/сестра) -- ну, за исключением ефрейтора Матео и его рясофоров. Но они до сих пор не вернулись.<end>
+
+=>q7_original
+Look, I can't stop you from going there, but I can warn you. The rest is up to you.<end>
+
+=>q7
+Послушайте, я не могу запретить вам идти туда, я лишь могу предупредить вас. Остальное -- дело ваше.<end>
+
+=>q8_original
+I already told you... <end>
+
+=>q8
+Я уже сказала вам...<end>
+
+=>a9_original
+Why don't you just bar the doors and leave this place be? Doesn't that make more sense than having guards here?<end>
+
+=>a9
+Почему бы вам просто не запереть двери и не покинуть это место? Разве это было бы не разумнее, чем выставлять охрану?<end>
+
+=>q10_original
+Well, they were barred before, $(#brother/sister). Efreitor Mateo and his rassophores were the reason we opened the cursed doors. Now we have to stand guard in case they come back, but that's very unlikely by now.<end>
+
+=>q10
+Они и были заперты прежде, $(#брат/сестра). Мы открыли эти проклятые двери для ефрейтора Матео и его рясофоров. Теперь мы должны стоять на страже на случай, если они вернутся, но в это уже мало кто верит.<end>
+
+=>q11_original
+Still, orders are orders.<end>
+
+=>q11
+Всё равно, приказ есть приказ.<end>
+
+=>q12_original
+Truth be told, with all the strange things happening... I mean - stranger than usual, I personally think it's better to have rassophores here until the situation is cleared, plus I'm sure Eidein and His Excellency, Harmost Stavros know best.<end>
+
+=>q12
+По правде говоря, учитывая все странные вещи, которые происходят... я имею в виду, более странные чем обычно -- я лично считаю, что лучше поставить здесь рясофоров до выяснения ситуации, плюс, Эйдейн и Его Превосходительство гармост Ставрос знают лучше.<end>
+
+=>q13_original
+You like being here, is that what you're trying to say?<end>
+
+=>q13
+Вам здесь нравится, вы это хотите сказать?<end>
+
+=>q14_original
+Um, I meant rassophores that *aren't* us; you and me. Sorry for the confusion.<end>
+
+=>q14
+Эм, я имею в виду других рясофоров, помимо нас. Извините за путаницу.<end>
+
+=>q15_original
+Oh, brother...<end>
+
+=>q15
+Ох, брат...<end>
+
+=>a16_original
+What can you tell me about Efreitor Mateo?<end>
+
+=>a16
+Что вы можете рассказать мне о ефрейторе Матео?<end>
+
+=>q17_original
+::The two rassophores glance at each other.:: He and a unit of rassophores were dispatched to the West Wing to investigate a strange electromagnetic disturbance detected by the Department of Physics, which made them turn to Preservation. They claimed that there is something in the West Wing emitting these waves, something important enough to warrant sending a unit there.<end>
+
+=>q17
+::Двое рясофоров переглядываются.:: Он отправился в западное крыло с отрядом рясофоров, чтобы расследовать странные электромагнитные возмущения, о которых Сохранению сообщили с кафедры физики. Исследователи утверждали, что обнаружили в западном крыле какой-то источник этих волн -- что-то достаточно важное, чтобы оправдать экспедицию.<end>
+
+=>q18_original
+Before them, I think the last time someone went there was the year Monsignor Peter died, year sixty-seven. I remember my mother telling me about that particular entry to the West Wing when I was very young... but it's a pretty grim story; I think it's best if I skip telling it.<end>
+
+=>q18
+До этого, кажется, последний раз, когда кто-то ходил туда, было в году, когда монсеньор Питер умер -- году шестьдесят седьмом. Помню, мама мне рассказывала про этот поход в западное крыло, когда я была ещё маленькой... но это довольно мрачная история; я думаю, будет лучше, если я опущу подробности.<end>
+
+=>a19_original
+When was Efreitor's unit sent there?<end>
+
+=>a19
+Когда ефрейтор и его отряд ушли туда?<end>
+
+=>q20_original
+Five days ago I believe, $(#brother/sister). Interestingly, shortly after that Pavel, a rassophore, volunteered to go there; something for the Department of Physics, and he too never returned. So I hope you understand, $(context.player.Name), that this "beautiful" West Wing is a dangerous place.<end>
+
+=>q20
+Кажется, дней пять тому назад, $(#брат/сестра). Интересно, что вскоре после этого Павел -- рясофор -- тоже вызвался пойти туда; какое-то задание от Кафедры физики, и он тоже не вернулся. Так что я надеюсь, вы понимаете, $(context.player.Name), что это «красивое» западное крыло -- опасное место.<end>
+
+=>q21_original
+Proven.<end>
+
+=>q21
+Проверено.<end>
+
+=>a22_original
+Interesting... I had other question, though.<end>
+
+=>a22
+Интересно... у меня есть ещё вопрос.<end>
+
+=>q23_original
+I'm not going anywhere. Ask if you wish.<end>
+
+=>q23
+Я никуда не денусь. Спрашивайте, если вы хотите.<end>
+
+=>a24_original
+You mentioned someone named Pavel going into the West Wing?<end>
+
+=>a24
+Вы упомянули человека по имени Павел, который пошёл в западное крыло?<end>
+
+=>q25_original
+Yes... he was one of us rassophores. "Was." He was crazy enough to accept a task from PI Schteff from the Department of Physics. It was something about some... terahertz device, was it?<end>
+
+=>q25
+Да... он был одним из нас, рясофоров. «Был». Он согласился на безумное задание от руководителя кафедры физики Штеффа. Там было что-то про какое-то... терагерцовое устройство, да?<end>
+
+=>q26_original
+Yeah, T-ray generator tech that allows for through-wall imaging. At least, that is what the investigators of physics claim. Pretty apex stuff... if what they say is true.<end>
+
+=>q26
+Да, генератор Т-лучей, который позволяет видеть сквозь стенки. По крайней мере, так исследователи физики утверждают. Довольно верховная штука... если то, что они говорят -- правда.<end>
+
+=>q27_original
+Yes, well that apex stuff got him culled. Just the thought of being swarmed by those vile West Wing creeps sends shivers down my spine. Poor Pavel... <end>
+
+=>q27
+Угу, эта верховная штука его и выполола. У меня мурашки по коже от одной мысли о тварях, которые гнездятся в западном крыле. Бедный Павел...<end>
+
+=>a28_original
+I'm looking for Rassophore Nevil; seen him lately?<end>
+
+=>a28
+Я ищу рясофора по имени Невил, вы его не видели в последнее время?<end>
+
+=>q29_original
+No, he didn't come anywhere near here.<end>
+
+=>q29
+Нет, он здесь не проходил.<end>
+
+=>q30_original
+No one comes here, to tell you the truth. Well, except for you, $(#brother/sister).<end>
+
+=>q30
+Никто здесь не ходит, по правде говоря. Ну, кроме вас, $(#брат/сестра).<end>
+
+=>a31_original
+What can you tell me about the West Wing?<end>
+
+=>a31
+Что вы можете рассказать о западном крыле?<end>
+
+=>q32_original
+Well, it is the West Wing of the Institute building, and it's been in ruins long before most of us were even born. We guard the entrance to it so that no creeps can sneak in and... well, cull anyone.<end>
+
+=>q32
+Ну, это западное крыло здания Института, и оно уже лежало в руинах задолго до того, как большинство из нас появились на свет. Мы охраняем вход, чтобы оттуда не просочилась какая-нибудь гадость и... ну, не выполола кого-нибудь.<end>
+
+=>a33_original
+Why don't you just clear it out?<end>
+
+=>a33
+Почему бы вам просто его не зачистить?<end>
+
+=>q34_original
+It is in very, very bad condition. Everything is in ruins and there is always the chance that something might come crashing down on you, and that's as unwanted as triploidy. Also, there is just no use going there, the other parts of the Institute offer enough space as it is. Those few who dared go there haven't returned.<end>
+
+=>q34
+Там всё очень, очень плохо. Всё в развалинах, и в любой момент есть шанс получить обломком по голове. Но прежде всего, туда и незачем ходить, в остальном Институте и так достаточно места. Те немногие, кто осмелился пойти туда, не вернулись.<end>
+
+=>q35_original
+Truthfully, we don't even know what resides there anymore, and I hope we never have to.<end>
+
+=>q35
+Честно говоря, мы даже не знаем, что там теперь живёт, и я надеюсь, что и не узнаем.<end>
+
+=>a36_original
+Can you at least tell me what to expect... Erm, I'm just curious if you have any clues as to what creatures there are in the West Wing.<end>
+
+=>a36
+Может, вы хоть скажете тогда, чего мне ожидать... Э-э, мне хотелось бы знать, есть ли у вас какие-нибудь идеи насчёт того, какие твари таятся в западном крыле.<end>
+
+=>q37_original
+So far the only creeps we've seen are coil spiders and shadow crawlers, but who knows what else is there. They would sometimes sneak around, usually alone, but we cull them quickly.
+
+Still, we never had any major issues or breaches at this check point, which is apex. <end>
+
+=>q37
+Пока мы только видели электропауков и призрачных краулеров, но кто знает что там ещё есть. Они иногда подползают сюда, обычно поодиночке, но их легко выловить.
+
+Тем не менее, у нас никогда не было серьёзных проблем или нарушений на этом контрольном пункте, который находится на вершине.<end>
+
+=>q38_original
+You know, I just remembered one more thing: Sometimes we hear very strange sounds coming from the darkness. It's... strange, like nothing I've heard before. It doesn't sound like an animal or anything similar, I don't know.<end>
+
+=>q38
+Знаете, вот ещё что: иногда нам приходится слышать очень странные звуки, доносящиеся из темноты... Странные, как ничто другое. Не похожие ни на какое животное, я просто не знаю.<end>
+
+=>a39_original
+Can you describe it?<end>
+
+=>a39
+Не могли бы вы описать его?<end>
+
+=>q40_original
+I don't know... um...<end>
+
+=>q40
+Я не знаю... хм...<end>
+
+=>q41_original
+I would describe it as electrical-sounding, $(#brother/sister). Something like an electrical discharge of sort, unlike, as sister said, anything we ever heard before.<end>
+
+=>q41
+Они, как бы, электрически звучащие, $(#брат/сестра). Что-то вроде электрического разряда но, как сестра сказала, не похожее ни на что.<end>
+
+=>a42_original
+Electrical?<end>
+
+=>a42
+Электрически?<end>
+
+=>q43_original
+Yeah, I too think that is the best description. Electrical.<end>
+
+=>q43
+Да, я тоже думаю, что лучше не скажешь. Электрически.<end>
+
+=>q44_original
+Magnificent Tchort, the more I think about it the scarier it gets, so let's stop here. Guarding this hallway is already spooky enough.<end>
+
+=>q44
+Чорт великолепный, чем больше я думаю об этом, тем страшнее становится, так что давайте остановимся на этом. Стоять тут и так достаточно жутко.<end>
+
+=>a45_original
+I see... Let me ask you something else.<end>
+
+=>a45
+Понятно... позвольте узнать ещё кое-что.<end>
+
+=>a46_original
+Duty calls me from the darker end of the hallway, sister.<end>
+
+=>a46
+Долг зовёт меня из тёмного коридора, сестра.<end>
+
+=>q47_original
+Then may Tchort guide you back to us.<end>
+
+=>q47
+Тогда пусть Чорт направит тебя обратно к нам.<end>
+
+=>a48_original
+I'll go where it's safe. Goodbye, sister.<end>
+
+=>a48
+Я пойду туда, где не так опасно. До свидания, сестра.<end>
+
+=>q49_original
+Tchort guide you.<end>
+
+=>q49
+Чорт направит вас.<end>
+
+=>q50_original
+Why are you still here, $(#brother/sister)?<end>
+
+=>q50
+Почему вы всё ещё здесь, $(#брат/сестра)?<end>
+

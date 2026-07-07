@@ -1,0 +1,172 @@
+﻿=>q1_original
+::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Lockdown mode initiated. Please enter security code to proceed.<end>
+
+=>q1
+::Служебная станция 7 - Терминал 6
+Управление переработкой опасных отходов
+
+Режим изоляции активирован. Пожалуйста, введите защитный код, чтобы продолжить.<end>
+
+=>a2_original
+::Type something random::<end>
+
+=>a2
+::Ввести что-нибудь наобум::<end>
+
+=>q3_original
+::Invalid security code::<end>
+
+=>q3
+::Неверный код безопасности::<end>
+
+=>a4_original
+::Exit::<end>
+
+=>a4
+::Выход::<end>
+
+=>q5_original
+::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Checking status...
+1 procedure(s) initialized::<end>
+
+=>q5
+::Служебная станция 7 - Терминал 6
+Управление переработкой опасных отходов
+
+Проверка состояния...
+1 процедура(ы) в действии::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+::Initiate toxic gas disposal procedure::<end>
+
+=>a7
+::Инициировать процедуру утилизации токсичного газа::<end>
+
+=>q8_original
+::Initiating procedure...
+Assessing pipeline 1 integrity... passed
+Assessing pipeline 2 integrity...
+
+Warning - Pipeline 2 integrity assessment failed!
+Dangerous breach in section C-3 of Pipeline 2 detected!
+Gas disposal procedure aborted due to safety risks.::<end>
+
+=>q8
+::Инициирование процедуры...
+Проверка целостности трубопровода 1... выполнено.
+Проверка целостности трубопровода 2...
+
+Внимание - Проверка целостности трубопровода 2 не выполнена!
+Обнаружен опасный разрыв в секции С-3 трубопровода 2!
+Процедура утилизации газа прервана из-за риска аварии.::<end>
+
+=>a9_original
+::[Hacking] Perform an override and initialize the toxic gas disposal procedure.::<end>
+
+=>a9
+::[Хакерство] Обойти блокировку и инициализировать процедуру утилизации токсичного газа.::<end>
+
+=>q10_original
+::Initializing toxic gas disposal procedure...
+
+Procedure initialized successfully.
+
+Warning - gas leak detected!
+
+Chamber lockdown initiated!::<end>
+
+=>q10
+::Инициализация процедуры утилизации токсичных газов...
+
+Процедура инициализирована успешно.
+
+Внимание: обнаружена утечка газа!
+
+Инициирована блокировка помещения!::<end>
+
+=>q11_original
+::Unauthorized access blocked!
+
+Initiating terminal 6 lockdown and sending notification to Utility Station 7 security. Please remain where you are until the security officers arrive.::<end>
+
+=>q11
+::Несанкционированный доступ заблокирован!
+
+Инициирование блокировки терминала 6 и отправка уведомления в службу безопасности служебной станции 7. Пожалуйста, оставайтесь на месте до прибытия сотрудников службы безопасности.::<end>
+
+=>a12_original
+::Back.::<end>
+
+=>a12
+::Назад.::<end>
+
+=>q13_original
+::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Checking status...
+Waste disposal system is on standby - no procedures in place::<end>
+
+=>q13
+::Служебная станция 7 - Терминал 6
+Управление переработкой опасных отходов
+
+Проверка состояния...
+Система утилизации отходов находится в режиме ожидания - нет процедур в действии::<end>
+
+=>a14_original
+::Unlock chamber::<end>
+
+=>a14
+::Открыть камеру::<end>
+
+=>q15_original
+::Chamber unlocked successfully::<end>
+
+=>q15
+::Камера успешно открыта::<end>
+
+=>a16_original
+::Toggle emergency shutters::<end>
+
+=>a16
+::Переключить аварийные ставни::<end>
+
+=>a17_original
+::Toggle emergency shutters::<end>
+
+=>a17
+::Переключить аварийные ставни::<end>
+
+=>q18_original
+::Warning - unable to lower emergency shutters!
+
+::<end>
+
+=>q18
+::Внимание: невозможно опустить аварийные ставни!
+
+::<end>
+
+=>q19_original
+::Sending notification to maintenance.
+
+Please wait...::<end>
+
+=>q19
+::Отправка уведомления для технического обслуживания.
+
+Пожалуйста, подождите...::<end>
+

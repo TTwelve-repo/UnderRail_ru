@@ -1,0 +1,298 @@
+﻿=>q1_original
+::It doesn't take long before the bleeding begins to subside.::
+
+I'll be damned - it worked!<end>
+
+=>q1
+::Не понадобилось много времени, чтобы кровотечение стало останавливаться.::
+
+Будь я проклят - подействовало!<end>
+
+=>q2_original
+Thanks for the help, $(#buddy/sis). I was startin' to think I might end up donatin' one more dead body to these ruins. <end>
+
+=>q2
+Спасибо за помощь, $(#приятель/сестра). Я уж начал думать, что добавлю ещё один труп к украшениям этих развалин.<end>
+
+=>q3_original
+The name's Cliff. As you mighta noticed, I'm in a bit of a predicament 'ere.<end>
+
+=>q3
+Меня зовут Клифф. Как ты мог$(#/ла) заметить, у меня возникли некоторые проблемы.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+What happened to you?<end>
+
+=>a5
+Что с тобой случилось?<end>
+
+=>q6_original
+::He nods towards the trap door.:: Bad scavengin' run, $(#buddy/sis). Me girl and I found a key to this place and figured there might be sumthin' valuable there still if it was kept locked for a good while.<end>
+
+=>q6
+::Он кивает в сторону люка.:: Неудачная поисковая экспедиция, $(#приятель/сестра). Мы с моей девочкой нашли ключ и решили, что раз уж это место было заперто всё это время, здесь всё ещё можно найти что-то ценное.<end>
+
+=>q7_original
+We weren't entirely wrong, but that's not all we found. Wretched ass burrowers... we shoulda turned back at the first sign of their slimy eggs, but we were too greedy.<end>
+
+=>q7
+Мы не ошиблись, но мы нашли больше чем хотели. Проклятые жопонутые могильщики... нам бы повернуть назад при виде первых же их слизких яиц, но мы были слишком жадными.<end>
+
+=>q8_original
+And greed will get ya in Underrail... Sooner or later, it'll get you killed.<end>
+
+=>q8
+И жадность убьёт тебя в Подземке... Рано или поздно она тебя погубит.<end>
+
+=>a9_original
+What happened to your girlfriend?<end>
+
+=>a9
+Что случилось с твоей девушкой?<end>
+
+=>q10_original
+Ah, we got separated as we fled. I'd go and look for 'er but I'm feelin' too weak to even climb down the wretched ladders.<end>
+
+=>q10
+А, мы разделились пока бежали. Я бы вернулся за ней, но я слишком слаб, чтобы даже спуститься по проклятой лестнице.<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>q12_original
+If you're thinkin' of goin' down there for whatever reason, I'd appreciate it if ya could look for 'er. I'd be willin' to give ya sumethin' that might help ya both. Ya interested?<end>
+
+=>q12
+Если ты думаешь спуститься туда по какой-то причине, я был бы признателен, если бы ты поискал$(#/а) её. Я могу дать тебе кое-что, что может помочь вам обоим. Что скажешь?<end>
+
+=>a13_original
+Sure.<end>
+
+=>a13
+Конечно.<end>
+
+=>q14_original
+'Ere, take these antidotes with ya. Hopefully it'll help ya save Jenny's life and hold on to yer own as well. <end>
+
+=>q14
+Вот, возьми эти противоядия. Надеюсь, они помогут тебе сохранить жизнь Дженни и свою собственную.<end>
+
+=>a15_original
+Not right now, no.<end>
+
+=>a15
+Не сейчас, нет.<end>
+
+=>q16_original
+I don't blame ya for not wantin' to go down there. If ya change yer mind lemme know. Hopefully it won't be too late by then.<end>
+
+=>q16
+Я не виню тебя за то, что не хочешь лезть туда. Если передумаешь, дай мне знать. Надеюсь, будет ещё не слишком поздно.<end>
+
+=>a17_original
+What are burrowers?<end>
+
+=>a17
+Что за могильщики?<end>
+
+=>q18_original
+Dangerous ass bugs. Not ass bugs but... ::He waves away.:: There are lots of little ones in there that'll bite yer ankles, but what ya really gotta look out for are the big ones. They'll shoot these wretched spikes at yer face. And if that doesn't kill ya, the spikes are poisoned to boot.<end>
+
+=>q18
+Опасные жопонутые жуки. Но правда не такие уж они и жопонутые... ::Он отмахивается.:: Там полно их детёнышей, которые кусают за лодыжки, но чего действительно стоит беречься, это взрослых. Они стреляют своими чёртовыми шипами. И если эти шипы не убьют тебя, то добьёт яд от них.<end>
+
+=>a19_original
+I'll go look for your girlfriend.<end>
+
+=>a19
+Я поищу твою подружку.<end>
+
+=>q20_original
+I really appreciate that, though I ain't got no way to pay ya for it. <end>
+
+=>q20
+Я очень это ценю, хотя мне и нечем заплатить тебе.<end>
+
+=>a21_original
+Would healing hypos help you recover?<end>
+
+=>a21
+Стимулятор поможет тебе встать на ноги?<end>
+
+=>q22_original
+Tried that, $(#buddy/sis). Didn't work. Shot myself up with everthin' I had, but I keep bleedin' all over the place.
+
+I'm hurt bad, too bad. I need a doc... and fast.<end>
+
+=>q22
+Я уже пробовал, не помогло. Вколол себе всё, что было, но кровь продолжает течь отовсюду.
+ 
+Я ранен, слишком тяжело ранен. Мне нужен доктор... и быстро.<end>
+
+=>a23_original
+This should stop the bleeding. ::Give him a coagulation shot.::<end>
+
+=>a23
+Это должно остановить кровотечение. ::Дать ему коагуляционный инъектор.::<end>
+
+=>q24_original
+::You see in his eyes the kind of distrust you'd expect from anyone presented with a syringe filled with an unknown substance.::
+
+Hell... Ain't got nuthin' to lose.<end>
+
+=>q24
+::В его глазах читается недоверие, которого и следовало ожидать от любого, кому вручают шприц с неизвестным веществом.::
+
+К чёрту... Терять уже нечего.<end>
+
+=>a25_original
+::Wait.::<end>
+
+=>a25
+::Ждать.::<end>
+
+=>a26_original
+I'm sorry, man, but Jenny didn't make it.<end>
+
+=>a26
+Извини, чувак, но Дженни не выжила.<end>
+
+=>q27_original
+::He sighs deeply and slightly bows his head.:: I guessed as much, but kept hopin' it was... She...::He waves away.:: Thanks for lookin' for 'er. 
+
+I'd like to be alone now.<end>
+
+=>q27
+::Он глубоко вздыхает и кивает.:: Я уже понял, но продолжал надеяться, что она... ::Он отмахивается.:: Спасибо, за то, что искал$(#/а) её.
+
+Теперь я хочу побыть один.<end>
+
+=>a28_original
+Keep still. I want to try something.<end>
+
+=>a28
+Не дёргайся. Я хочу кое-что попробовать.<end>
+
+=>a29_original
+I have to get going.<end>
+
+=>a29
+Мне пора.<end>
+
+=>q30_original
+
+
+I was wonderin' what typa rat would come first to take a bite of my remains. ::He raises his smg and points it at you.:: Ya came a bit too soon, though, $(#buddy/sis).<end>
+
+=>q30
+Я задавался вопросом, крыса какого рода придёт первой полакомиться моими остатками. ::Подняв свой пистолет-пулемёт, он направляет его на вас.:: Ты приш$(#ёл/ла) слишком рано, $(#приятель/сестра).<end>
+
+=>a31_original
+::[Persuade]:: Take it easy. I'm not here to hurt or loot anyone.<end>
+
+=>a31
+::[Убеждение]:: Успокойся. Я не желаю тебе зла и грабить не собираюсь.<end>
+
+=>q32_original
+What else would ya be doin' 'ere in this hole, then? There ain't much left to do for us but loot the dead: dead folks... dead buildings... dead civilizations.<end>
+
+=>q32
+Что ещё тебе делать в этой дыре? Не так много осталось, только грабить мертвецов -- мёртвых людей... мёртвые здания... мёртвые цивилизации.<end>
+
+=>q33_original
+::He lowers his weapon.:: But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best.<end>
+
+=>q33
+::Он опускает оружие.:: Слишком поздно. Мёртвым всё равно. Я вскоре присоединюсь к ним и, возможно, это к лучшему.<end>
+
+=>q34_original
+But it's aight. The dead don't care. I'll be joinin' 'em soon, and perhaps that's for the best. 
+
+But not before I make sure ya join 'em as well!<end>
+
+=>q34
+Слишком поздно. Мёртвым всё равно. Я вскоре присоединюсь к ним и, возможно, это к лучшему.
+
+Но ты сдохнешь перв$(#ым/ой)!<end>
+
+=>a35_original
+::Fight!::<end>
+
+=>a35
+::Бой!::<end>
+
+=>a36_original
+::[Intimidate]:: Are you really in that much of a hurry to die? By the time you muster the strength to squeeze that trigger I could kill you five times over.<end>
+
+=>a36
+::[Запугивание]:: Ты правда так спешишь умереть? Пока ты нажмёшь курок, я успею убить тебя раз пять.<end>
+
+=>q37_original
+::He lowers his weapon.:: Let's neither of us waste ammo then. I'll be dead soon anyway.<end>
+
+=>q37
+::Он опускает оружие.:: Давай тогда не будем тратить патроны. В любом случае, я скоро умру.<end>
+
+=>q38_original
+Still sounds better than waitin' to bleed to death.<end>
+
+=>q38
+Всё лучше, чем ждать пока истечёшь кровью.<end>
+
+=>a39_original
+::Fight!::<end>
+
+=>a39
+::Бой!::<end>
+
+=>a40_original
+::Fight!::<end>
+
+=>a40
+::Бой!::<end>
+
+=>q41_original
+::This man is badly wounded. A number of large bony spines have pierced his leather armor and lodged themselves into the flesh beneath. Bloody pieces of torn cloth lie around him, as well as a couple of extracted spines, some broken, others whole.:: <end>
+
+=>q41
+::Этот мужчина тяжело ранен. Несколько крупных костяных шипов пронзили его кожаный доспех и застряли в теле. Окровавленные куски ткани лежат вокруг него, как и несколько извлечённых шипов, одни сломанные, другие целые.::<end>
+
+=>q42_original
+<end>
+
+=>q42
+<end>
+
+=>q43_original
+Leave me to my misery.<end>
+
+=>q43
+Оставь меня мучиться.<end>
+
+=>q44_original
+Any luck findin' Jenny?<end>
+
+=>q44
+Повезло найти Дженни?<end>
+
+=>q45_original
+Ya still 'ere?<end>
+
+=>q45
+Ты всё ещё здесь?<end>
+
+=>q46_original
+Can't a man die in peace?<end>
+
+=>q46
+Не можешь дать мне умереть спокойно?<end>
+

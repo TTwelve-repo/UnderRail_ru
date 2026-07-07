@@ -1,0 +1,286 @@
+﻿=>q1_original
+::A young woman, thin as a rail, is replanting a prickly plant into a bigger pot. Her stare is directed toward the plant, but it seems like her attention is not. One careless move is followed by a swear. She grabs her punctured finger, frowning and swearing some more, and it is at that point that she notices you.::
+
+I'm Kimi. <end>
+
+=>q1
+::Молодая женщина, худая, как щепка, пересаживает колючее растение в новый горшок. Её взгляд направлен на растение, но кажется, что её мысли заняты чем-то другим. Одно неосторожное движение, и за ним следуют ругательства. Она хватает свой проколотый палец, морщась и ругаясь ещё сильнее, и именно в этот момент она замечает вас.::
+
+Я Кими.<end>
+
+=>q2_original
+Need some shrooms or plants?<end>
+
+=>q2
+Нужны грибы или растения?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Show me what you have. ::Barter.::<end>
+
+=>a4
+Покажите, что у вас есть. ::Обмен.::<end>
+
+=>a5_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a5
+Торговцы здесь принимают только стигийские монеты? Где мне их взять?<end>
+
+=>q6_original
+Look for a fellow named Colton at the docks. He can exchange currencies for ya.<end>
+
+=>q6
+Ищи парня по имени Колтон на пристани. Он может обменять деньги.<end>
+
+=>q7_original
+That's east of here. The docks, I mean.<end>
+
+=>q7
+Это к востоку отсюда. Пристань, я имею в виду.<end>
+
+=>a8_original
+Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
+
+=>a8
+Скажите, у вас случайно нет контроллера бурового ротора класса Броненосец?<end>
+
+=>q9_original
+Does it look like I got one, $(#jack/sister)? I gots nothin' but plants.<end>
+
+=>q9
+Разве похоже, что я торгую такими вещами, $(#парень/сестра)? У меня нет ничего, кроме растений.<end>
+
+=>q10_original
+Ya should ask Johan about that sorta stuff. He's the guy by that pile o' junk.<end>
+
+=>q10
+Тебе лучше спросить Йохана насчёт такого барахла. Вон он возле кучи мусора.<end>
+
+=>a11_original
+Can I ask you a few questions about Junkyard?<end>
+
+=>a11
+Могу я задать несколько вопросов о Свалке?<end>
+
+=>q12_original
+::She shakes her head.:: No.<end>
+
+=>q12
+::Она качает головой.:: Нет.<end>
+
+=>a13_original
+Why not?<end>
+
+=>a13
+Почему нет?<end>
+
+=>q14_original
+::She shakes her head again. This time, however, you feel anxiety in her movement.::
+
+Look, I ain't talkin' about nothin' but plants, dig? Either buy somethin' or get outta here.<end>
+
+=>q14
+::Она опять качает головой. На этот раз, однако, вы чувствуете тревогу в её жесте.::
+
+Слушай, я не говорю ни о чём кроме растений, хорошо? Или покупай что-нибудь или вали отсюда.<end>
+
+=>a15_original
+::[Intelligence]:: Who was giving you trouble?<end>
+
+=>a15
+::[Интеллект]:: Кто создаёт вам проблемы?<end>
+
+=>q16_original
+Wh-- No one-- Look, are ya tryin'...<end>
+
+=>q16
+Что... Никто... Слушай, ты хочешь...<end>
+
+=>q17_original
+::She stops speaking. Her stare drifts toward a patrolling gangster, and it doesn't take long for you to spot the connection. However, what comes next catches you by surprise: She grasps her respirator with her scraggy fingers and pulls it down to reveal mutilation. Eight or nine lacerations, maybe a week or so old, radiate away from her lips, and judging by their looks, they were made with a thick, dull blade of some kind. 
+
+A moment passes, and her respirator is back in place.::<end>
+
+=>q17
+::Она замолкает. Её взгляд смещается в сторону патрулирующего гангстера, и вам не требуется много времени, чтобы заметить связь. Однако то что происходит дальше застаёт вас врасплох: её тощие пальцы хватают респиратор и тянут его вниз, демонстрируя изуродованный рот. От её губ расходятся восемь или девять рваных ран недельной или около того давности. Судя по виду, они, кажется, были нанесены каким-то толстым, тупым лезвием. 
+
+Мгновение спустя, её респиратор возвращается на место.::<end>
+
+=>q18_original
+I was talkin' about somethin' I shouldn't have. Now I ain' talkin' about nothin' anymore, so don't. Don't.<end>
+
+=>q18
+Я сказала что-то, о чём говорить не следовало. Теперь я не говорю ни о чём, так что нет. Не надо.<end>
+
+=>q19_original
+What are you buyin', $(#jack/sister)?<end>
+
+=>q19
+Что будешь брать, $(#парень/сестра)?<end>
+
+=>a20_original
+::[Persuade]:: What's going on? Is there something I can help you with? Whatever it is, it'll stay between you and me.<end>
+
+=>a20
+::[Убеждение]:: Что случилось? Может быть, я могу чем-то помочь? Что бы там ни было, это останется между нами.<end>
+
+=>q21_original
+It's nothin'-- Look, everythin's fine. Now, do you wanna...<end>
+
+=>q21
+Это ерунда... Слушай, всё в порядке. Итак, ты будешь...<end>
+
+=>q22_original
+::She gives you an irritated look but says nothing. Instead, she just returns to her plant.::<end>
+
+=>q22
+::Она бросает на вас сердитый взгляд, но ничего не говорит. Вместо этого, она продолжает возиться с растением.::<end>
+
+=>a23_original
+Catch you later.<end>
+
+=>a23
+Увидимся позже.<end>
+
+=>a24_original
+Can I ask you anything at all?<end>
+
+=>a24
+Могу я спросить хоть что-нибудь?<end>
+
+=>q25_original
+Look, $(#jack/sister), do ya wanna buy somethin'? 'Cause I ain't the time for talkin'.<end>
+
+=>q25
+Слушай, $(#парень/сестра), ты будешь покупать что-нибудь? У меня нет времени на болтовню.<end>
+
+=>a26_original
+What kinds of mushrooms and plants do you sell here?<end>
+
+=>a26
+Какие грибы и растения вы продаёте здесь?<end>
+
+=>q27_original
+Mindshrooms, lake shrooms, lake poppies. That sort of thing.<end>
+
+=>q27
+Мозгляки, озёрные грибы, озёрный мак и тому подобное.<end>
+
+=>a28_original
+What about these things, the prickly ones?<end>
+
+=>a28
+Как насчёт этих растений, колючих?<end>
+
+=>q29_original
+Cacti? Those ain't for sale. I mean, they're for someone else. Should come to pick 'em up soon, I think.<end>
+
+=>q29
+Кактусы? Они не продаются. Я хочу сказать, они для кого-то другого. За ними должны приехать в ближайшее время.<end>
+
+=>a30_original
+How about flowers other than lake poppies? Got any of those?<end>
+
+=>a30
+А что насчёт других цветов, помимо озёрного мака? Есть какие-нибудь?<end>
+
+=>q31_original
+Not at the moment. Sorry, $(#jack/sister). Ya know it's rare stuff, and besides, there ain't much demand for decorative stuff around here, 'cept maybe at the Union embassy.<end>
+
+=>q31
+Не в данный момент. Извини, $(#парень/сестра). Видишь ли, они редко встречаются, и, к тому же, здесь нет большого спроса на декоративные растения, кроме разве что в посольстве Союза.<end>
+
+=>a32_original
+What can you tell me about the embassy?<end>
+
+=>a32
+Что вы можете рассказать мне про посольство?<end>
+
+=>q33_original
+Ask someone else about that, or go north and see for yerself. Now, buyin' somethin' or not?<end>
+
+=>q33
+Спроси кого-нибудь другого или иди на север и посмотри сам$(#/а). Ну, ты будешь покупать что-нибудь или нет?<end>
+
+=>a34_original
+I'd like to ask you someting else.<end>
+
+=>a34
+Я хотел$(#/а) бы спросить кое-что ещё.<end>
+
+=>q35_original
+I'd rather we just trade.<end>
+
+=>q35
+Давайте тогда просто поторгуем.<end>
+
+=>a36_original
+Excuse me, but I need someone to supply a friend of mine with certain plants and fungi. He'll even collect it himself so you won't have to go anywhere.<end>
+
+=>a36
+Извините, мне нужно найти для одного друга определённых растений и грибов. Он даже сам придёт за ними, так что вам никуда не нужно ходить.<end>
+
+=>q37_original
+What does 'e need?<end>
+
+=>q37
+И чё ему надо?<end>
+
+=>a38_original
+Mindshrooms, red dreams and lake poppies. We need lots of it. The more you can get the better.<end>
+
+=>a38
+Мозгляки, красный сон и озёрный мак. Ему надо много. Чем больше, тем лучше.<end>
+
+=>q39_original
+::She pauses.::
+
+Hmm. Sorry. I don't think I can provide ya with what ya need, $(#jack/sister). Lake poppies are easy to harvest, sure, but mindshrooms attract psi-beetles, and red dreams...that's a whole different story. Shroom pickin' is more dangerous than folks think. I don't think I can keep up with yer demands.<end>
+
+=>q39
+::Она размышляет.::
+
+Хм-м. Прости. Я не могу тебе с этим помочь, $(#парень/сестра). Ну ладно, озёрный мак ещё легко собирать, но около мозгляков всегда крутятся пси-жуки, а красный сон... это вообще другая история. Собирать грибы опаснее чем некоторые думают. Вряд ли я смогу удовлетворить такой запрос.<end>
+
+=>q40_original
+I can sell ya what I got right now, though.<end>
+
+=>q40
+Но можешь купить то, что у меня есть сейчас.<end>
+
+=>a41_original
+::[Intelligence]:: I'll go speak to Quinton in SGS then. Maybe he can help me.<end>
+
+=>a41
+::[Интеллект]:: Пойду тогда поговорю с Куинтоном на ССГ. Может, он сможет мне помочь.<end>
+
+=>q42_original
+Mhm.<end>
+
+=>q42
+Ага.<end>
+
+=>a43_original
+Know anyone who could help me?<end>
+
+=>a43
+Не знаете, кто мог бы мне помочь?<end>
+
+=>q44_original
+South Gate Station got its own hydroponics and shroom-rooms. Why not ask them?<end>
+
+=>q44
+На станции Саут-Гейт есть свои собственные отделы гидропоники и выращивания грибов. Почему бы не спросить у них?<end>
+
+=>q45_original
+Hello. <end>
+
+=>q45
+Привет.<end>
+

@@ -1,0 +1,206 @@
+﻿=>q1_original
+::She ignores you.::<end>
+
+=>q1
+::Она игнорирует вас.::<end>
+
+=>q2_original
+::The tall female officer turns to you. She instantly strikes you as an overly masculine woman in her appearance, as her wide shoulders and angular lines testify, but demeanor as well. As a consequence of these observations, you cannot escape the feeling that she must've shattered a significant number of male egos in the past. Even her steely gaze seems to radiate a certain dominating quality that pierces through self-confidence like a falling stalactite through an unwary spelunker's head, completely destroying it.:: <end>
+
+=>q2
+::Высокая военнослужащая разворачивается к вам. Вы мгновенно замечаете, как мужеподобна эта женщина: не только её широкие плечи и угловатые черты лица, но и манеру поведения. Вследствие этих наблюдений, вы не можете отделаться от ощущения, что она, должно быть, разбила вдребезги уже не одно мужское эго. Даже её стальной взгляд словно излучает властность, которая пронзает самоуверенность собеседника, как падающий сталактит -- голову ничего не подозревающего спелеолога, полностью разрушая его.::<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+::Salute her.:: Corporal $(context.player.Name) reporting in.<end>
+
+=>a4
+::Приветствовать её.:: Капрал $(context.player.Name).<end>
+
+=>q5_original
+::She salutes back and replies in a direct, unyielding and very official tone of voice.::
+
+At ease, Corporal. I am Lieutenant Branwen. What is your business here?<end>
+
+=>q5
+::Она салютует в ответ и отвечает непреклонным и очень официальным тоном.::
+
+Вольно, капрал. Я лейтенант Бранвин. Зачем вы здесь?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Any changes, ma'am?<end>
+
+=>a7
+Есть что новое, мэм?<end>
+
+=>q8_original
+Nothing, Corporal. Inform Colonel Cathcart that he will be receive his report as soon as something worthy of reporting happens.<end>
+
+=>q8
+Ничего, Капрал. Сообщите полковнику Каткарту, что он получит свой доклад, как только произойдёт что-то достойное его внимания.<end>
+
+=>q9_original
+That is all I have for you now. Send my regards to Colonel Cathcart. You are dismissed.<end>
+
+=>q9
+Это всё, что я могу вас сказать. Моё почтение полковнику Каткарту. Вольно.<end>
+
+=>a10_original
+Yes, ma'am, I will. ::Salute and leave.::<end>
+
+=>a10
+Так точно, мэм. ::Козырнуть и уйти.::<end>
+
+=>a11_original
+I am here to check on the development of the current situation, ma'am.<end>
+
+=>a11
+Я здесь, чтобы проверить развитие ситуации, мэм.<end>
+
+=>q12_original
+Were you sent by Colonel Cathcart?<end>
+
+=>q12
+Вас прислал полковник Каткарт?<end>
+
+=>a13_original
+Yes, he personally sent me here.<end>
+
+=>a13
+Да, он лично прислал меня сюда.<end>
+
+=>q14_original
+Then it appears he trusts you more than the report I sent only recently. In any case, the situation remains unchanged; there are still no signs of Tchortists, nor of what exactly is happening within the Institute. Gunfire and shouting could be heard on few occasions, but nothing else. The Faceless presence has yet to be confirmed.<end>
+
+=>q14
+Значит он должен доверять вам больше, чем моему докладу, который я отправила совсем недавно. В любом случае, ситуация остаётся неизменной; по-прежнему никаких признаков чортистов, ни сведений о том, что именно происходит в Институте. Иногда слышны выстрелы и крики, но ничего больше. Присутствие безликих ещё не подтвердилось.<end>
+
+=>a15_original
+No, no one sent me.<end>
+
+=>a15
+Нет, никто меня не присылал.<end>
+
+=>q16_original
+::Her gaze grows in intensity.:: Then I am under no obligation to report anything to you, Corporal. Shouldn't you be attending to some other duties instead of inquiring about matters that don't concern you? I will speak to your superiors as soon as I return to Fort Apogee. Now get out of my sight, Corporal. You are dismissed.<end>
+
+=>q16
+::Она сверлит вас взглядом.:: Тогда я не обязана докладывать вам, капрал. Разве у вас нет других обязанностей кроме того, чтобы расспрашивать о делах, которые вас не касаются? Я доложу вашему командиру, как только вернусь в форт Апогей. А теперь убирайтесь с моих глаз, капрал. Вольно.<end>
+
+=>a17_original
+Yes, ma'am. ::Salute and leave.::<end>
+
+=>a17
+Да, мэм. ::Козырнуть и уйти.::<end>
+
+=>a18_original
+::Leave.::<end>
+
+=>a18
+::Уйти.::<end>
+
+=>a19_original
+::Salute and leave.::<end>
+
+=>a19
+::Козырнуть и уйти.::<end>
+
+=>a20_original
+::Leave.::<end>
+
+=>a20
+::Уйти.::<end>
+
+=>q21_original
+You have no business here, citizen. I suggest you leave this area or I will be forced to order you removed.<end>
+
+=>q21
+Вам нечего здесь делать, граждан$(#ин/ка). Немедленно покиньте территорию, или я буду вынуждена приказать, чтобы вас вывели.<end>
+
+=>a22_original
+I had some questions about what is happening here.<end>
+
+=>a22
+У меня есть вопросы о том, что здесь происходит.<end>
+
+=>q23_original
+::Her piercing gaze conveys the message far better than the words that follow.:: Need I repeat myself, citizen?<end>
+
+=>q23
+::Её пронзительный взгляд говорит выразительнее слов.:: Вы меня не расслышали, граждан$(#ин/ка)?<end>
+
+=>a24_original
+But I *really* need to know what is going on here.<end>
+
+=>a24
+Но мне *очень* нужно знать, что здесь происходит.<end>
+
+=>q25_original
+::She interrupts you mid sentence.:: 
+
+Not a word more. *Leave.*
+
+::She turns her back to you.::<end>
+
+=>q25
+::Она перебивает вас на полуслове.:: Ни слова больше. *Вон*.::Она поворачивается к вам спиной.::<end>
+
+=>a26_original
+No one speaks to me like that, you stupid woman...<end>
+
+=>a26
+Никто не говорит со мной так, глупая женщина...<end>
+
+=>q27_original
+::She slowly turns back, her expression unchanged; but her eyes tell a different story: The gaze of steel is melting, dissipating as it turns into white heat. A single motion she makes is enough for all Protectorate soldiers to turn to you with hostile intent.::<end>
+
+=>q27
+::Она медленно разворачивается. Выражение её лица не изменилось, но глаза говорят о другом: стальной взгляд тает, рассеивается, превращаясь в белый накал. Одного движения её руки достаточно, чтобы все солдаты Протектората подняли оружие.::<end>
+
+=>a28_original
+::Fight!::<end>
+
+=>a28
+::Бой!::<end>
+
+=>a29_original
+::Leave without saying anything.::<end>
+
+=>a29
+::Молча уйти.::<end>
+
+=>a30_original
+I guess not... I better go.<end>
+
+=>a30
+Расслышал$(#/а)... Я лучше пойду.<end>
+
+=>a31_original
+My business is your death, Protectorate swine! ::Attack!::<end>
+
+=>a31
+Я здесь, чтобы убить тебя, протекторатская свинья! ::Напасть!::<end>
+
+=>a32_original
+I won't bother you anymore. Goodbye.<end>
+
+=>a32
+Не буду вас беспокоить. До свидания.<end>
+
+=>q33_original
+Corporal.<end>
+
+=>q33
+Капрал.<end>
+

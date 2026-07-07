@@ -1,0 +1,514 @@
+﻿=>q1_original
+Good luck, $(context.player.Name).<end>
+
+=>q1
+Удачи, $(context.player.Name).<end>
+
+=>q2_original
+::You are greeted by a slow clap.:: You did it, $(context.player.Name). You did it.<end>
+
+=>q2
+::Она встречает вас медленными хлопками.:: Тебе удалось, $(context.player.Name). Хорошая работа.<end>
+
+=>a3_original
+I did it.<end>
+
+=>a3
+Я справил$(#ся/ась).<end>
+
+=>q4_original
+Yeah, you did - and you did it oh so well. <end>
+
+=>q4
+Да, ты справил$(#ся/ась) -- и как хорошо.<end>
+
+=>q5_original
+You've proven to us that you are willing and worthy of becoming a part of our family. We don't have riches, we don't have power and we have to live in constant danger. But we have humanity, we have honesty and we have the will to send the evil Protectorate into oblivion! And we will do it, together.<end>
+
+=>q5
+Ты доказал$(#/а) нам, что готов$(#/а) и досто$(#ин/йна) стать частью нашей семьи. У нас нет богатств, у нас нет власти, и мы живём в постоянной опасности. Но у нас есть человечность, у нас есть честность и у нас есть воля, чтобы остановить зло Протектората! И мы сделаем это вместе.<end>
+
+=>a6_original
+Do you always give such lovely speeches to new recruits?<end>
+
+=>a6
+Вы всегда толкаете такие прекрасные речи новобранцам?<end>
+
+=>q7_original
+::She chuckles.:: I know how it may sound, some would even say it's just like Protectorate propaganda, but know that I'm telling you the truth, and I offer proof of it. You'll see it all soon enough. 
+
+It's time to meet the rest of the family.<end>
+
+=>q7
+::Она хихикает.:: Я знаю, как это выглядит со стороны, некоторые даже говорят, что мы не уступаем в пропаганде Протекторату, но знай -- я говорю тебе правду, и могу это подтвердить. Скоро сам$(#/а) всё увидишь. 
+
+Пришло время познакомиться с остальными членами семьи.<end>
+
+=>q8_original
+I want you to go to the Free Drones base in the under-passages. The simplest way to explain how to get there is to find the under-passages entrance just south of Rail Crossing, then go west and you'll come up to a locked door with an intercom next to it. Use the intercom; the password is "delectable."<end>
+
+=>q8
+Приходи на базу Вольных шершней в подземных проходах. Самый простой способ туда добраться -- найти спуск в проходы к югу от Переезда, затем идти на запад, пока не упрёшься в запертую дверь с интеркомом. Говори в интерком -- пароль: «восхитительный».<end>
+
+=>a9_original
+Got it. "Delectable."<end>
+
+=>a9
+Ясно. «Восхитительный».<end>
+
+=>q10_original
+Great! Just be careful, the under-passages are full of Lurkers.
+
+I gotta move. Do you have any questions before we depart?<end>
+
+=>q10
+Отлично! Только будь осторожнее, в проходах полно скрытней.
+
+Мне надо идти. Есть вопросы, прежде чем мы расстанемся?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+You mentioned Lurkers. What can you tell me about them?<end>
+
+=>a12
+Ты упомянула скрытней. Что ты можешь рассказать про них?<end>
+
+=>q13_original
+Lurkers... They are horrible creatures! They are our neighbours in the under-passages, a gang of demented killers who'll cut up anyone who even dares breathe in their presence. The only good thing is that everyone knows they dwell in the passages, thus making it a good hiding place from the Protectorate.<end>
+
+=>q13
+Скрытни... Ужасные твари! Они наши соседи по тоннелям, банда обезумевших убийц, которые зарежут любого, кто посмеет даже дышать в их присутствии. Единственная хорошая вещь заключается в том, что каждый знает, что они обитают в этих проходах, и это делает их хорошим укрытием от Протектората.<end>
+
+=>q14_original
+Of course, living that close to Lurker central is not safe at all, usually feels like a stalactite is hanging over your head, but nothing is perfect in life.<end>
+
+=>q14
+Конечно, жить по соседству с гнездом скрытней не слишком безопасно, чувствуешь себя, будто сталактит висит над головой, но в жизни нет ничего идеального.<end>
+
+=>a15_original
+I never learned your name.<end>
+
+=>a15
+Я не знаю твоего имени.<end>
+
+=>q16_original
+It's Sarah...<end>
+
+=>q16
+Сара...<end>
+
+=>q17_original
+Sarah Allene. Nice to meet you. ::She smiles.::<end>
+
+=>q17
+Сара Аллен. Приятно познакомиться. ::Она улыбается.::<end>
+
+=>a18_original
+What are these "under-passages"?<end>
+
+=>a18
+Что это за «подземные проходы»?<end>
+
+=>q19_original
+Under-passages are a connected set of passages just below the metro level. They connect several major locations across Lower Underrail, like Core City, Rail Crossing, GMS and such.<end>
+
+=>q19
+Это множество связанных туннелей чуть ниже уровня метро. Они соединяют ряд важных точек по всей нижней Подземке, вроде Кор-Сити, Переезда, GMS и так далее.<end>
+
+=>q20_original
+Those passages used to be a very, very convenient way of going around, but then the Lurkers thought it'd make a nice slaughterhouse. Now, only the most desperate go through there. And us, which is the same, in a way.<end>
+
+=>q20
+Эти туннели были очень, очень удобным способом передвижения, пока скрытни не решили, что из них выйдет хорошая скотобойня. Теперь только самые отчаянные суются туда. И мы, что то же самое, в принципе.<end>
+
+=>a21_original
+Why do the Free Drones have a base in the under-passages?<end>
+
+=>a21
+Почему база Вольных шершней в этих проходах?<end>
+
+=>q22_original
+It's simple: The passages are extremely dangerous because of the Lurkers, so it's the best place for us to hide from the Protectorate.<end>
+
+=>q22
+Всё просто: проходы крайне опасны из-за скрытней, так что это лучшее место, чтобы скрываться от Протектората.<end>
+
+=>q23_original
+Plus, the narrow hallways are easy to defend, negating the numerical advantage Protectorate would surely have over us if they were to try flushing us out of there. I know, I know, it's not the best place to live in, but that's what we are stuck with. Could be worse.<end>
+
+=>q23
+Плюс, в узких коридорах легко обороняться, сводя на нет численное преимущество Протектората, если они попытаются выкурить нас. Я знаю, знаю, это не лучшее место для жизни, но тут уж что есть то есть. Могло быть и хуже.<end>
+
+=>a24_original
+I have no further questions.<end>
+
+=>a24
+У меня больше нет вопросов.<end>
+
+=>q25_original
+In that case, good luck, $(#brother/sister). I'd lead you there, but I have some important business here. Goodbye and stay free.<end>
+
+=>q25
+В таком случае, удачи, $(#брат/сестра). Я бы сама тебя проводила, но у меня есть важные дела. Прощай, и оставайся свободн$(#ым/ой).<end>
+
+=>a26_original
+Goodbye.<end>
+
+=>a26
+До свидания.<end>
+
+=>a27_original
+Stay free.<end>
+
+=>a27
+Оставайся свободной.<end>
+
+=>a28_original
+::Let her continue.::<end>
+
+=>a28
+::Не перебивать.::<end>
+
+=>q29_original
+Now it's time to meet the rest of the family.<end>
+
+=>q29
+Пора познакомиться с остальными членами семьи.<end>
+
+=>a30_original
+Thank you, thank you. I love you all. ::Bow down.::<end>
+
+=>a30
+Спасибо, спасибо. Я вас всех люблю. ::Поклониться::<end>
+
+=>q31_original
+::She laughs.:: Well done! Well done! <end>
+
+=>q31
+::Она смеётся.:: Браво! Браво!<end>
+
+=>q32_original
+::The woman completely ignores you.::<end>
+
+=>q32
+::Женщина полностью вас игнорирует.::<end>
+
+=>q33_original
+You better get going, the envoy is not gonna wait for you...<end>
+
+=>q33
+Лучше поторопись, посол не будет ждать...<end>
+
+=>q34_original
+I'm still waiting for an answer...<end>
+
+=>q34
+Я всё ещё жду ответа...<end>
+
+=>a35_original
+Count me in.<end>
+
+=>a35
+Я с вами.<end>
+
+=>q36_original
+::She smiles.:: Trust me - you've made the right choice. And so, I will give you your first mission so that you may prove you are ready and willing to fight with us.<end>
+
+=>q36
+::Она улыбается.:: Поверь, ты сделал$(#/а) правильный выбор. Итак, теперь я дам тебе первое задание, чтобы доказать, что ты желаешь и готов$(#/а) сражаться вместе с нами.<end>
+
+=>q37_original
+I want you to assassinate a Protectorate envoy. He and a couple of Cans escorting him are visiting Rail Crossing for some... "diplomatic" business. There shouldn't be many of them, and your best bet is to catch them at the train station while they wait for the Protectorate to pick them up. That is one of the most dangerous stations in South Underrail due to no security, making it ideal for an ambush.<end>
+
+=>q37
+Я хочу, чтобы ты убил$(#/а) посла Протектората. Он с парой банок посетит Переезд по каким-то... «дипломатическим» делам. Их не должно быть много, тебе лучше всего поймать их на станции, когда они будут ждать пока за ними приедут протекторатские. Это одна из самых опасных станций Южной Подземки из-за отсутствия охраны, что делает её идеальной для засады.<end>
+
+=>q38_original
+In essence, it's simple - kill the envoy and you're in. Any questions, huh?<end>
+
+=>q38
+Короче, всё просто -- убей посла и ты с нами. Вопросы?<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>a40_original
+You mentioned some cans?<end>
+
+=>a40
+Что за «банки»?<end>
+
+=>q41_original
+Yeah. That's how we call Protectorate troops, or Protectorate in general: Tin Cans, or just Cans. It's their metal armor, in case you haven't figured it out.<end>
+
+=>q41
+Да. Так мы называем войска Протектората или Протекторат в целом: консервные банки или просто банки. Это из-за их металлической брони, на случай, если ты ещё не понял$(#/а).<end>
+
+=>q42_original
+You'll be hearing that term *pretty* often from now on, so get used to it.<end>
+
+=>q42
+Теперь ты будешь слышать этот термин *довольно* часто, так что привыкнешь.<end>
+
+=>a43_original
+What is a Protectorate envoy doing in Rail Crossing?<end>
+
+=>a43
+Что послу делать на Переезде?<end>
+
+=>q44_original
+Our best guess is that it has something to do with that train we had captured. We don't have any concrete evidence of this, no, but it makes the most sense.<end>
+
+=>q44
+Мы предполагаем, что это как-то связано с тем поездом, что мы захватили. Никаких конкретных доказательств у нас нет, но это имеет смысл.<end>
+
+=>q45_original
+The Protectorate uses the metro to get around, just like everyone else. Well, they have their own trains, but they have to use the same tracks. The point is, they have to be at the train station at some point in time. That is probably the best place to ambush them.<end>
+
+=>q45
+Протекторат использует для передвижения метро, как и все остальные. Хотя, у них есть свои поезда, они вынуждены пользоваться теми же путями. Суть в том, что они должны прибыть на станцию, рано или поздно. Это, скорее всего, лучшее место, чтобы устроить засаду.<end>
+
+=>a46_original
+I'm ready to do it.<end>
+
+=>a46
+Я сделаю это.<end>
+
+=>q47_original
+Excellent! Now, listen carefully, I shall say this only once. Once I catch news that the envoy is dead, I'll meet you just outside of Junkyard's south entrance. Got it? I'll tell you then what to do next.<end>
+
+=>q47
+Отлично! Теперь слушай внимательно, я не стану повторять. Как только до меня дойдёт новость о том, что посол мёртв, я буду ждать тебя снаружи южного входа на Свалку. Запомнил$(#/а)? Потом я расскажу, что делать дальше.<end>
+
+=>q48_original
+::She pats you on the shoulder.:: Gotta run now. You - don't be a wimp and quake out. Go and take care of those bastards. Bye.<end>
+
+=>q48
+::Она хлопает вас по плечу.:: Теперь мне нужно бежать. Теперь не трясись и не будь соплёй. Пока.<end>
+
+=>a49_original
+I will, goodbye.<end>
+
+=>a49
+Как скажешь, до свидания.<end>
+
+=>a50_original
+Yeah, see ya later.<end>
+
+=>a50
+Ага, увидимся позже.<end>
+
+=>a51_original
+I refuse to kill the envoy. I'm willing to fight soldiers, but assassinating an envoy? I don't think so.<end>
+
+=>a51
+Я отказываюсь убивать посла. Я готов$(#/а) драться с солдатами, но убийство посла? Я так не думаю.<end>
+
+=>q52_original
+::She seems surprised by your answer.:: Oh? You refuse... You know what I think? I think you don't have the guts after all to become one of us. Yeah. But, if that is your final answer, it's a shame, $(context.player.Name), such a shame.
+
+Goodbye. Forever.<end>
+
+=>q52
+::Она, кажется, удивлена вашим ответом.:: О? Ты отказываешься... Знаешь что я по этому поводу думаю? Я думаю, что у тебя кишка тонка быть одн$(#им/ой) из нас. Да. Но если это твой окончательный ответ, что же, жаль, $(context.player.Name), очень жаль.
+
+Прощай. Навсегда.<end>
+
+=>a53_original
+Sorry, I am not interested.<end>
+
+=>a53
+Извините, меня это не интересует.<end>
+
+=>q54_original
+It's a shame. Even though you have fallen for their propaganda, I still believe we would have opened your eyes had we been given the chance. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
+
+=>q54
+Жаль. Даже если вы попались на их пропаганду, я всё равно верю, что мы бы открыли вам глаза, если бы вы дали нам шанс. Но поскольку это не тот случай, я вас покину. Прощайте, $(context.player.Name)...<end>
+
+=>q55_original
+It's a shame - you would have been a great addition to our family. But, since that's not the case, I must leave you. So long, $(context.player.Name)...<end>
+
+=>q55
+Жаль, вы бы прекрасно дополнили нашу семью. Но поскольку это не тот случай, я вас покину. Прощайте, $(context.player.Name)...<end>
+
+=>a56_original
+I need to think some more.<end>
+
+=>a56
+Мне надо подумать ещё немного.<end>
+
+=>q57_original
+You do that... I'll be here.<end>
+
+=>q57
+Если передумаете... я буду здесь.<end>
+
+=>q58_original
+Farewell, $(context.player.Name).<end>
+
+=>q58
+Прощай, $(context.player.Name).<end>
+
+=>q59_original
+::A young woman approaches, cautiously looking around before whispering to you.::
+
+Hey, you... are you $(context.player.Name)?<end>
+
+=>q59
+::Молодая женщина подходит к вам, с опаской поглядывая вокруг. Приблизившись, она шепчет вам.::
+
+Эй, вы... Вы $(context.player.Name)?<end>
+
+=>a60_original
+Yes, that's me. Who are you?<end>
+
+=>a60
+Да, это я. А кто вы?<end>
+
+=>q61_original
+How about you take a guess, huh? Let me give you a hint: You were looking for a missing Protectorate train that we had captured. You found us yet you never reported us, and because of that we managed to escape safely with the supplies. Who are we?<end>
+
+=>q61
+Попробуйте угадать, а? Я дам подсказку: вы искали пропавший протекторатский поезд, который мы захватили. Вы нашли нас, но не сообщили никому, благодаря чему нам удалось уйти со всем грузом. Итак, кто мы?<end>
+
+=>a62_original
+The Free Drones?<end>
+
+=>a62
+Вольные шершни?<end>
+
+=>q63_original
+Bingo! I knew you'd know the answer. Now, $(context.player.Name), I have a simple question for you I'd like answered: What do you think of the Underrail Protectorate? Hmm?<end>
+
+=>q63
+Бинго! Я знала, что вы догадаетесь. А теперь, $(context.player.Name), у меня есть к вам ещё один простой вопрос: что вы думаете о Протекторате Подземки? А?<end>
+
+=>a64_original
+As their name suggests, I believe that the Underrail Protectorate's ultimate goal is to bring protection and peace to South Underrail, in which I fully support them. The South needs unification or it will tear itself apart.<end>
+
+=>a64
+Я считаю, что, как и следует из их названия, Протекторат Подземки ставит конечной целью защиту мира в Южной Подземке, в чём я полностью их поддерживаю. Юг должен быть объединён, или он разорвёт сам себя на части.<end>
+
+=>q65_original
+::She nearly bursts out laughing, barely managing to control herself.:: You actually fell for their lies? I cannot believe what I'm hearing! They are not here to unite, protect or make our lives better in any way. All they care about is power! Power and wealth! They don't care about you, me, or poor Jane and her seven children. They don't even care about that stinkin' Rail Crossing that train was supposed to supply in the first place...<end>
+
+=>q65
+::Она чуть не лопается от смеха, едва сдерживая себя.:: Ты правда купил$(#ся/ась) на их ложь? Не могу поверить своим ушам! Они здесь не для того, чтобы объединять, защищать или делать нашу жизнь чем-то лучше. Всё, что их волнует -- это власть! Власть и богатство! Им плевать на тебя, меня или бедняжку Джейн и её семерых детей. Их даже не заботит этот вонючий Переезд, на который должен был прийти поезд...<end>
+
+=>q66_original
+If you want to see the world the way it really is and not that fantasy all-is-gonna-be-well-if-you-bow-down image the Protectorate is so desperate to project, you will have to trust us. I know how it may sound like to you, I've approached many so far, but what I'm telling you is the truth. I swear on my mother's grave.<end>
+
+=>q66
+Если хотите увидеть мир таким, какой он действительно есть, а не фантазию в духе «всё-будет-хорошо-если-мы-прогнёмся-под-Протекторат», придётся довериться нам. Я знаю, как это может звучать для вас, я часто разговариваю с людьми, но я говорю правду. Клянусь могилой своей матери.<end>
+
+=>q67_original
+There is still a chance for change... I will now ask you the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came from? We only want what's best for the people, you have my word on that.<end>
+
+=>q67
+Есть ещё время передумать... Теперь у меня к вам последний вопрос: $(context.player.Name), вы хотите помочь нам бороться с вторжением протекторатской сволочи и загнать их обратно, откуда они вылезли? Вольные шершни желают только лучшего для людей, даю слово.<end>
+
+=>q68_original
+<end>
+
+=>q68
+<end>
+
+=>a69_original
+This is a difficult decision. I need some time to think about this.<end>
+
+=>a69
+Это непростое решение. Мне нужно немного времени, чтобы подумать.<end>
+
+=>a70_original
+I'm pretty ambivalent when it comes to the Underrail Protectorate. On certain matters I'd say I support them, yet on others I completely disagree. Nothing is purely black and white.<end>
+
+=>a70
+Я довольно терпимо отношусь к Протекторату. По некоторым вопросам я поддерживаю их, но в других -- совершенно не соглас$(#ен/на). Не бывает ничего абсолютно чёрного или белого.<end>
+
+=>q71_original
+Well, we - The Free Drones - don't see anything good in the Protectorate. It might seem like they have good intentions, but once you look under the clean, nice carpet, you see only filth. Only... filth...<end>
+
+=>q71
+Ну а мы, Вольные шершни, не видим ничего хорошего в Протекторате. Может показаться, что они имеют благие намерения, но как только заглянешь под чистый красивый ковёр, увидишь только грязь. Одну... мерзость...<end>
+
+=>q72_original
+Now, the final question: Do you, $(context.player.Name), want to help us fight the invading Protectorate bastards and drive them back whence they came? The Free Drones only want what's best for the people, you have my word on that.<end>
+
+=>q72
+Теперь у меня к вам последний вопрос: $(context.player.Name), вы хотите помочь нам бороться с вторжением протекторатской сволочи и загнать их обратно, откуда они вылезли? Вольные шершни желают только лучшего для людей, даю слово.<end>
+
+=>a73_original
+I think they are, in essence, an aggressive expansionist force that is hiding its true agenda by creating illusions that unification will bring order, peace and security to those who need it the most. Propaganda is the seed of tyranny.<end>
+
+=>a73
+Я думаю, что они, по своей сути -- агрессивная захватническая сила, скрывающая истинную цель под иллюзией, что объединение принесёт порядок, мир и безопасность тем, кто в них нуждается. Пропаганда -- это семя тирании.<end>
+
+=>q74_original
+::She lets her lips turn into a satisfied smile.:: Then we think alike, $(context.player.Name). We, the Free Drones, feel the Protectorate's metal boot on our backs, trying to push us into the mud and suffocate us. We won't allow those pigs to conquer us.<end>
+
+=>q74
+::Она складывает губы в довольную улыбку.:: Тогда мы думаем одинаково, $(context.player.Name). Мы, Вольные шершни, чувствуем на своей спине железный сапог Протектората, который пытается столкнуть нас в грязь и задушить. Мы не допустим, чтобы эти свиньи победили.<end>
+
+=>a75_original
+I'm not answering your silly question. It's time to leave, missy.<end>
+
+=>a75
+Я не буду отвечать на такой глупый вопрос. Пришло время прощаться, девушка.<end>
+
+=>q76_original
+::The woman pierces you with her stare before speaking again.:: If that's what you want... *$(context.player.Name).*<end>
+
+=>q76
+::Женщина пронзает вас взглядом, прежде чем ответить.:: Если вы этого хотите... *$(context.player.Name)*.<end>
+
+=>q77_original
+<end>
+
+=>q77
+<end>
+
+=>a78_original
+Some random bandits?<end>
+
+=>a78
+Какие-то бандиты?<end>
+
+=>q79_original
+Nope. We are not "random" bandits - we are the Free Drones! I find it quite odd that you failed that one, but let's see how you will answer this question: What do you think of the Underrail Protectorate? Hmm?<end>
+
+=>q79
+Не-а. Мы не «какие-то» бандиты, мы -- Вольные шершни! Я нахожу довольно странным, что вы не знаете, но давайте посмотрим, как вы ответите на такой вопрос: что вы думаете о Протекторате Подземки? А?<end>
+
+=>a80_original
+No idea. Nope.<end>
+
+=>a80
+Без понятия. Ни малейшего представления.<end>
+
+=>q81_original
+Come on, $(context.player.Name), think...<end>
+
+=>q81
+Ну же, $(context.player.Name), подумайте...<end>
+
+=>a82_original
+Who wants to know?<end>
+
+=>a82
+Кто хочет знать?<end>
+
+=>a83_original
+Get lost, I'm not interested in anything someone like *you* has to say.<end>
+
+=>a83
+Отойдите, меня не интересует кто-то вроде *вас*.<end>
+

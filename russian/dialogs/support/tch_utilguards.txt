@@ -1,0 +1,106 @@
+﻿=>q1_original
+Tchort is evolution!<end>
+
+=>q1
+Чорт -- это эволюция!<end>
+
+=>q2_original
+Just follow sister Therese, $(context.player.Name).<end>
+
+=>q2
+Просто следуйте за сестрой Терезой, $(context.player.Name).<end>
+
+=>q3_original
+::The guard motions you to hold still, then speaks to you in a firm voice.::
+
+Halt, $(#brother/sister), you have entered a restricted area. I will have to ask you to leave.<end>
+
+=>q3
+::Охранник жестом останавливает вас и говорит твёрдым голосом.::
+
+Стойте, $(#брат/сестра), вы входите в запретную зону. Я должен попросить вас удалиться.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Tchort is evolution.<end>
+
+=>a5
+Чорт -- это эволюция.<end>
+
+=>q6_original
+Evolution is Tchort, $(#brother/sister). Now please leave this area. Tchort guide you.<end>
+
+=>q6
+Эволюция -- это Чорт, $(#брат/сестра). Теперь, пожалуйста, покиньте эту зону. Чорт направит вас.<end>
+
+=>a7_original
+What is this area?<end>
+
+=>a7
+Что это за место?<end>
+
+=>q8_original
+Didn't you hear what I said, $(#brother/sister)? Leave this area.<end>
+
+=>q8
+Вы меня не слышали, $(#брат/сестра)? Покиньте эту зону.<end>
+
+=>a9_original
+Mediant Samuel sent me here.<end>
+
+=>a9
+Меня прислал медиант Самюэль.<end>
+
+=>q10_original
+No he didn't, $(#brother/sister), or else we would have known it. Now please leave.<end>
+
+=>q10
+Это неправда, $(#брат/сестра), иначе мы бы знали об этом. Теперь, пожалуйста, уходите.<end>
+
+=>a11_original
+My bad, I was looking for the toilet. Goodbye.<end>
+
+=>a11
+Извините, я искал$(#/а) туалет. До свидания.<end>
+
+=>q12_original
+Tchort guide you.<end>
+
+=>q12
+Чорт направит вас.<end>
+
+=>a13_original
+I'm so sorry, I'm new here; it won't happen again. Tchort guide you.<end>
+
+=>a13
+Простите меня, я здесь новичок, это больше не повторится. Чорт направит вас.<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>q15_original
+Leave. Now.<end>
+
+=>q15
+Уходите. Немедленно.<end>
+
+=>q16_original
+You have been warned, $(#brother/sister).<end>
+
+=>q16
+Я вас предупредил, $(#брат/сестра).<end>
+
+=>q17_original
+$(#Brother/Sister)!<end>
+
+=>q17
+$(#Брат/Сестра)!<end>
+

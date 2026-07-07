@@ -1,0 +1,330 @@
+﻿=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+...And that is basically the situation as $(context.player.Name) explained it. What do you think would be the right course of action?<end>
+
+=>q2
+...Вот в общем-то и вся ситуация, которую нам описал$(#/а) $(context.player.Name). Как вы считаете, каким был бы правильный курс действий?<end>
+
+=>q3_original
+I vote for staying out of this whole situation. First of all, we don't know the Protectorate's position on all of this, and running the risk of provoking them for some... gangsters seems irresponsible to me, and will do this station no good. This way, if we do nothing, we can continue our trade and integration in the United Stations, which I believe is the more desirable option.<end>
+
+=>q3
+Я за то, чтобы вообще нам в это не лезть. Прежде всего, нам не известна позиция Протектората по этому вопросу, и рисковать спровоцировать их из-за каких-то... бандитов было бы, на мой взгляд, безответственно и ничем не помогло бы станции. Таким образом, если мы останемся в стороне, то сможем продолжить торговлю и процесс интеграции в Объединённые Станции, что было бы, я считаю, наиболее приемлемым вариантом.<end>
+
+=>q4_original
+Vera, I understand you perfectly, but I must disagree with putting the United Stations on such a high pedestal. No matter what we do, we have no guarantee that the Protectorate won't eventually take over whole of Junkyard.<end>
+
+=>q4
+Вера, я вас прекрасно понимаю, но я бы не стал возносить Объединённые Станции на столь высокий пьедестал. Что бы мы ни делали, у нас нет гарантии того, что Протекторат в конечном итоге не завладеет всей Свалкой.<end>
+
+=>q5_original
+At least most of the folks there would celebrate bein' free of brutal gangs, so there's that.<end>
+
+=>q5
+По крайней мере, большинство тамошних будут рады освобождению от власти банд, так что вот.<end>
+
+=>q6_original
+That may be true, but that still doesn't change the fact that Protectorate's ultimate intentions are unknown to us. We're dealing with speculations here, and basing important decisions on speculations is unwise.<end>
+
+=>q6
+Это, может быть, и так, но не меняет того факта, что конечные намерения Протектората нам не известны. Мы всё предполагаем, а основывать важное решение на предположениях было бы не мудро.<end>
+
+=>q7_original
+Hear me out, please: If we intervene and help some lowlifes kill each other, think of the message we could be sending to the United Stations. Just as you said right now about them conquering their way toward us, they might too feel threatened by our movements; they could see us as being conquerors. And then what?<end>
+
+=>q7
+Выслушайте меня, пожалуйста: если мы вмешаемся и поможем каким-то подонкам убивать друг друга, -- подумайте, какое сообщение мы этим отправим Объединённым Станциям. Вот вы говорите, они захватывают территории по направлению к нам, но так же и они могут почувствовать угрозу с нашей стороны; нас могут счесть агрессором. И что тогда?<end>
+
+=>q8_original
+Excuse me, Vera, but I never uttered the word "conquering." I am merely expressing my concerns. You know I care only for what is best for this station and its residents. Underrail Protectorate is a powerful force and shouldn't be taken lightly.<end>
+
+=>q8
+Простите, Вера, но я не говорил «захватывают». Я всего лишь выразил свою обеспокоенность. Вы знаете, что я забочусь только о благе этой станции и её жителей. Протекторат Подземки -- это мощная сила, и не следует воспринимать их легкомысленно.<end>
+
+=>q9_original
+It's such a darn pity Gorsky ain't here. I'm sure the conversation would've went a whole lot different. ::He laughs.::<end>
+
+=>q9
+Какая жалость, что Горского с нами нет. Будь он здесь, разговор пошёл бы иначе. ::Он смеётся.::<end>
+
+=>q10_original
+Gorsky's opinion would surely be valued here. What about you Ezra, what is on your mind?<end>
+
+=>q10
+Точка зрения Горского, несомненно, будет принята к сведению. А вы, Эзра, что у вас на уме?<end>
+
+=>q11_original
+::Ezra calmly answers the question.:: I have nothing of significance to add to this discussion.<end>
+
+=>q11
+::Эзра спокойно отвечает на вопрос.:: Мне нечего добавить по существу.<end>
+
+=>q12_original
+And how about you, $(context.player.Name)? What do you think?<end>
+
+=>q12
+А как насчёт вас, $(context.player.Name)? Что вы думаете?<end>
+
+=>a13_original
+I think I'll leave the politics to you guys.<end>
+
+=>a13
+Лучше я оставлю политику вам, ребята.<end>
+
+=>q14_original
+Very well. <end>
+
+=>q14
+Хорошо.<end>
+
+=>q15_original
+Go get some rest, $(context.player.Name). Come and see me later and I'll let you know what we decided.<end>
+
+=>q15
+Идите отдыхать, $(context.player.Name). Потом зайдёте ко мне, и я скажу вам, что мы решили.<end>
+
+=>a16_original
+::Leave.::<end>
+
+=>a16
+::Уйти.::<end>
+
+=>a17_original
+::[Persuade]:: I think we should help the Black Eels. I don't trust the Protectorate.<end>
+
+=>a17
+::[Убеждение]:: Я думаю, что мы должны помочь Чёрным угрям. Я не доверяю Протекторату.<end>
+
+=>q18_original
+And you trust Black Eels?<end>
+
+=>q18
+И вы доверяете Чёрным угрям?<end>
+
+=>a19_original
+I trust them more.<end>
+
+=>a19
+Им я доверяю больше.<end>
+
+=>q20_original
+Your opinion has been noted.<end>
+
+=>q20
+Ваше мнение принято к сведению.<end>
+
+=>a21_original
+No. But them I don't fear.<end>
+
+=>a21
+Нет. Но их я не боюсь.<end>
+
+=>q22_original
+<end>
+
+=>q22
+<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>q24_original
+<end>
+
+=>q24
+<end>
+
+=>a25_original
+::[Persuade]:: I say we side with the Black Eels... for now. If we decide to join the United Stations later, we'll do that from a more advantageous position.<end>
+
+=>a25
+::[Убеждение]:: Предлагаю встать на сторону Чёрных угрей... пока. Если мы позже решим вступить в Объединённые Станции, у нас будет более выгодная позиция на переговорах.<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>q27_original
+That might be the wisest course of action.<end>
+
+=>q27
+Это, возможно, самое мудрое решение.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+<end>
+
+=>q29
+<end>
+
+=>a30_original
+::[Persuade]:: I think this might create a divide between us and the United Stations that will cost us later on. We shouldn't get involved in this in any official capacity.<end>
+
+=>a30
+::[Убеждение]:: Я думаю, это может создать раскол между нами и Объединёнными Станциями, что обойдётся нам в дальнейшем. Мы не должны официально ввязываться в это.<end>
+
+=>q31_original
+I agree with this statement. Our interference would be nothing other than detrimental for us.<end>
+
+=>q31
+С этим я соглашусь. Наше вмешательство не приведёт к добру.<end>
+
+=>q32_original
+<end>
+
+=>q32
+<end>
+
+=>q33_original
+<end>
+
+=>q33
+<end>
+
+=>q34_original
+<end>
+
+=>q34
+<end>
+
+=>a35_original
+I don't know. I don't think I have enough information to make up my mind.<end>
+
+=>a35
+Я не знаю. У меня недостаточно информации, чтобы принять решение.<end>
+
+=>q36_original
+...And that is basically the situation as $(context.player.Name) explained it. What do you think would be the right course of action?<end>
+
+=>q36
+...Вот в общем-то и вся ситуация, которую нам описал$(#/а) $(context.player.Name). Как вы считаете, каким был бы правильный курс действий?<end>
+
+=>q37_original
+I know for one you'll be more than glad to jump at this opportunity, Gorsky.<end>
+
+=>q37
+Думаю, вы бы с радостью ухватились за эту возможность, Горский.<end>
+
+=>q38_original
+Damn straight! I've been telling you people before, and I'll say it again: We should establish a foothold in Junkyard as soon as possible. I don't buy their "diplomatic integration" nonsense for a second. It is the perfect location for their next hostile takeover, and once their supply lines are set and secure, they *will* annex Junkyard.<end>
+
+=>q38
+Вот именно! Я сколько раз вам говорил и ещё раз скажу: мы должны закрепиться на Свалке как можно скорее. Я не поверю в этот бред насчёт «дипломатической интеграции» ни на секунду. Это идеальная цель для следующего поглощения, и как только они организуют линии снабжения, они захватят Свалку.<end>
+
+=>q39_original
+Well, half of Junkyard wouldn't mind bein' rid of brutal gang oppression. They'd celebrate Protectorate for it.<end>
+
+=>q39
+Ну, половина Свалки была бы не против сбросить гнёт жестоких банд. Они бы восславили Протекторат за это.<end>
+
+=>q40_original
+Sure, sure, good for them. Trade gang oppression for military oppression - great deal. Meanwhile, we'll have Protectorate troops staring at us from across the river.<end>
+
+=>q40
+Да, да, рад за них. Сменить гнёт банд на военную оккупацию -- отличная сделка. А мы тем временем будем играть в гляделки с армией Протектората через реку.<end>
+
+=>q41_original
+Gentlemen. Gorsky. In the event that Underrail Protectorate does take over Junkyard, we'll at least be able to trade freely with the United Stations. No more paying insane fees to the Eels, no more having to worry about the pirates.<end>
+
+=>q41
+Господа. Горский. В случае, если Протекторат Подземки действительно захватит Свалку, мы будем, по крайней мере, иметь возможность свободно торговать с Объединёнными Станциями. Больше не нужно будет платить безумные откупные Угрям и опасаться пиратов.<end>
+
+=>q42_original
+::Gorsky's frown becomes even more pronounced.:: And tomorrow when they decide that SGS too must become part of the Union and send forces to "diplomatically integrate us" - what will you do then? There won't be any forewarning and there aren't going to be any factions standing between us and them. We got literally twenty minutes between the moment they decide to attack and all hell breaking loose at our own bloody doorstep. And things will be bloody as long as I'm here...<end>
+
+=>q42
+::Мина Горского становится ещё мрачнее.:: А завтра они решат, что Саут-Гейт тоже должны стать частью Союза, и пошлют войска, чтобы «дипломатично интегрировать» нас -- что вы тогда будете делать? Не будет никакого предупреждения, не будет никаких сил, стоящих между нами. Двадцать минут марша, и ад разверзнется у нас на пороге. А он разверзнется, пока я здесь...<end>
+
+=>q43_original
+And why, why would it be so terrible to be a part of United Stations? Would you rather have us ally with thugs and raiders than be a part of the civilized world? You'd prefer... I don't know, Ironheads to Protectorate? Hm?<end>
+
+=>q43
+А что, что такого плохого в том, чтобы стать частью Объединённых Станций? Может, нам лучше заключить союз с бандитами и рейдерами, чем с остальным цивилизованным миром? Вы бы предпочли Протекторату, ну не знаю... Железноголовых? А?<end>
+
+=>q44_original
+"Civilized *bloody* world"!? Is that some kind of diplomatic mumbo-jumbo the ambassador has been feeding you, or are you just plain stupid, woman!?<end>
+
+=>q44
+Какой, *нахрен*, «цивилизованный мир»?! Этой дипломатической лабудой тебя посол накормил или ты просто тупая, женщина?!<end>
+
+=>q45_original
+Gorsky, there's no need to get--<end>
+
+=>q45
+Горский, прошу вас...<end>
+
+=>q46_original
+Some of us have seen what their version of a civilized world is like. Some of us have seen the real world instead of spending their time flirting with Union ambassadors and what not. I came to SGS to be a free man. I refuse to be one of General Melek's drones or lackeys.<end>
+
+=>q46
+Некоторые из нас видели, какова их версия цивилизации. Некоторые из нас живут в реальном мире, а не только заигрывают с послами Союза и всё такое. Я пришёл на эту станцию, чтобы быть свободным человеком. Я отказываюсь становиться очередным лакеем или подпевалой генерала Мелека.<end>
+
+=>q47_original
+Not that they'd have me anyways. They'd put a bullet in my head. And Ezra's too probably.<end>
+
+=>q47
+Меня бы они не приняли в любом случае. Пулю бы в башку всадили, вот и всё. И Эзре, наверное, тоже.<end>
+
+=>q48_original
+::Ezra stares into the wall silently.::<end>
+
+=>q48
+::Эзра молча смотрит в стену.::<end>
+
+=>q49_original
+::Vera sighs in resignation, placing her hand over her temples.::<end>
+
+=>q49
+::Вера покорно вздыхает, приложив пальцы к вискам.::<end>
+
+=>q50_original
+::Tanner holds both of his hands up to ease the tension before turning to you.:: What do you think, $(context.player.Name)?<end>
+
+=>q50
+::Таннер поднимает руки, призывая к спокойствию, затем обращается к вам.:: Как вы считаете, $(context.player.Name)?<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>a52_original
+::[Persuade]:: I think this might create a divide between us and the United Stations that will cost us later on. We shouldn't get involved in this in any official capacity.<end>
+
+=>a52
+::[Убеждение]:: Я думаю, это может создать раскол между нами и Объединёнными Станциями, что обойдётся нам в дальнейшем. Мы не должны официально ввязываться в это.<end>
+
+=>q53_original
+Cowardice. You think you will stay their hand by being passive? The Protectorate does not allow strong stations like ours to exist, be it outside of their domain or within.<end>
+
+=>q53
+Это трусость. Думаете, вам удастся их сдержать, оставаясь пассивным? Протекторат не позволяет существовать сильным станциям, как наша, будь то внутри или вне его границ.<end>
+
+=>q54_original
+As I said - some of us would get the bullet and some of you would be transferred to other places until what remains here would be nice and... governable.<end>
+
+=>q54
+Как я уже сказал, кто-то получит пулю, кого-то отошлют подальше, пока всё не станет тихо и... управляемо.<end>
+
+=>q55_original
+Don't think for a second that SGS as we know it is a possibility in the United Stations.<end>
+
+=>q55
+Даже и не думайте, что станция, подобная ССГ, может существовать в составе Объединённых Станций.<end>
+

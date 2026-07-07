@@ -1,0 +1,259 @@
+﻿=>q1_original
+Hide!<end>
+
+=>q1
+Прячься!<end>
+
+=>q2_original
+::The pale woman addresses you, this time no less shyly or less fragile-voiced.::
+
+Tchort is evolution, <end>
+
+=>q2
+::Бледная женщина обращается к вам, на этот раз не менее робко и не менее хрупким голосом.::
+
+Чорт - это эволюция,<end>
+
+=>q3_original
+uh... Invictus $(#Brother/Sister)?<end>
+
+=>q3
+эээ... $(#брат/сестра) инвиктус?<end>
+
+=>a4_original
+Hardcore, sister! Evolution is Tchort.<end>
+
+=>a4
+Хардкор, сестра! Эволюция -- это Чорт.<end>
+
+=>q5_original
+::She smiles, her blushing only being noticeable due to her chalk-white complexion.::
+
+<end>
+
+=>q5
+::Она улыбается, её румянец заметен только благодаря белому как мел цвету лица.::
+<end>
+
+=>q6_original
+I was told to bring you this, $(#brother/sister).
+
+::From under her robe she produces a light container made of hard plastic and adorned with the Eye of Tchort.:: <end>
+
+=>q6
+Мне сказали принести тебе это, $(#брат/сестра).
+
+::Из-под халата она достаёт лёгкий контейнер из твёрдого пластика, украшенный глазом Чорта.::<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>q8_original
+Her Eminence told me to give this to you, and to tell you it's an early stimulus before your offical acceptance to the department. She also requested of you to be discreet about it for the time being.<end>
+
+=>q8
+Её Высокопреосвященство велела мне передать это тебе и сказать, что это первый стимул перед вашим официальным принятием на факультет. Она также попросила пока что быть сдержаннее в этом вопросе.<end>
+
+=>a9_original
+What's inside?<end>
+
+=>a9
+Что же там внутри?<end>
+
+=>q10_original
+Sorry, the only thing I was told is that the instructions on how to use it are inside.<end>
+
+=>q10
+Извини, единственное, что мне сказали, это то, что инструкция по его использованию находится внутри.<end>
+
+=>a11_original
+You may convey my sincerest gratitude to Her Eminence, sister.<end>
+
+=>a11
+Можешь передать мою искреннюю благодарность её Высокопреосвященству, сестра.<end>
+
+=>q12_original
+I will. <end>
+
+=>q12
+Хорошо.<end>
+
+=>q13_original
+::She nods.:: Tchort guide you, $(#brother/sister).<end>
+
+=>q13
+::Она кивает.:: Чорт направит вас, $(#брат/сестра).<end>
+
+=>a14_original
+Thanks. Just what I was looking for.<end>
+
+=>a14
+Спасибо. Именно то, что мне было нужно.<end>
+
+=>a15_original
+::Take it without saying a word.::<end>
+
+=>a15
+::Согласиться, не сказав ни слова.::<end>
+
+=>q16_original
+Um, Tchort guide you, $(#brother/sister).<end>
+
+=>q16
+Эм-м, Чорт направит вас, $(#брат/сестра).<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+Another message from Her Eminence?<end>
+
+=>a19
+Ещё одно сообщение от её Высокопреосвященства?<end>
+
+=>a20_original
+Now what?<end>
+
+=>a20
+Что теперь?<end>
+
+=>q21_original
+$(context.player.Name).<end>
+
+=>q21
+$(context.player.Name).<end>
+
+=>a22_original
+Evolution is Tchort.<end>
+
+=>a22
+Эволюция -- это Чорт.<end>
+
+=>q23_original
+::A young woman approaches you, fully wrapped in a Tchortist robe, even her hands; only her pale face remains revealed. She looks at you and smiles shyly before speaking with a soft and fragile-sounding voice.::
+
+$(context.player.Name), I'm glad I found you. Tchort is evolution.<end>
+
+=>q23
+::К вам приближается молодая женщина, с головы до ног укутанная в чортистскую мантию так, что видно только её бледное лицо. Она смотрит на вас и застенчиво улыбается, прежде чем заговорить мягким и хрупким голосом.::
+
+$(context.player.Name), хорошо, что я вас нашла. Чорт -- это эволюция.<end>
+
+=>a24_original
+Evolution is Tchort. What do you need, sister?<end>
+
+=>a24
+Эволюция -- это Чорт. Что вам нужно, сестра?<end>
+
+=>q25_original
+I was instructed to find you and tell you that Her Eminence, Episkopos Lydia seeks audience with you. You should go to her office as soon as you're able to, $(#brother/sister).<end>
+
+=>q25
+Мне было поручено найти вас и передать, что Её Высокопреосвященство епископ Лидия ищет аудиенции с вами. Она приглашает вас посетить её кабинет при первой возможности, $(#брат/сестра).<end>
+
+=>a26_original
+Where is her office exactly?<end>
+
+=>a26
+Где именно находится её кабинет?<end>
+
+=>q27_original
+Climb the staircase going up from the main hall, then take another set of stairs which lie behind the double doors right in front of you. Once you have reached the top you will find Her Eminence's office to the right of the stairs you had just ascended. Or, alternatively, you can take the stairs from Preservation which will lead you to the same place.
+
+Tchort guide you, $(#brother/sister).<end>
+
+=>q27
+Поднимитесь по лестнице из центрального зала, затем поднимитесь по следующей лестнице, которая будет находиться прямо перед вами за двойными дверями. Кабинет Её Высокопреосвященства находится наверху, направо от лестницы. Или вы можете подняться по лестнице из Сохранения, и она приведёт вас на то же место.
+
+Чорт направит вас, $(#брат/сестра).<end>
+
+=>a28_original
+Tchort guide you, sister.<end>
+
+=>a28
+Чорт направит вас, сестра.<end>
+
+=>a29_original
+Goodbye.<end>
+
+=>a29
+До свидания.<end>
+
+=>a30_original
+::Nod and leave.::<end>
+
+=>a30
+::Кивнуть и уйти.::<end>
+
+=>a31_original
+Thank you for the message, sister. I'll go see Her Eminence at once.<end>
+
+=>a31
+Спасибо за сообщение, сестра. Я незамедлительно навещу Её Высокопреосвященство.<end>
+
+=>a32_original
+Understood. I'll find her when I have the time.<end>
+
+=>a32
+Ясно. Я зайду к ней, когда у меня будет время.<end>
+
+=>a33_original
+Greetings, what can I do for you?<end>
+
+=>a33
+Приветствую, что я могу сделать для вас?<end>
+
+=>a34_original
+Why doesn't anyone come up and say: "Invictus, Your Destructiveness - finally I've found you! Allow this simple messenger to kneel before your might..." You get the idea.<end>
+
+=>a34
+Ну почему никто никогда не скажет: «Инвиктус, Ваша Разрушительность -- наконец я нашла вас! Разрешите этому простому посланнику преклонить колени перед вашей мощью...» -- ну, как-то так.<end>
+
+=>q35_original
+::She seems almost startled by your response.:: Her... Her Eminence, Epsikopos Lydia... she wishes to see you. I was, um, instructed to tell you to report to her office as soon as you have the time.<end>
+
+=>q35
+::Её, кажется, почти напугал ваш ответ.:: Её... Её Высокопреосвященство епископ Лидия... она желает вас видеть. Мне сказали, э-э, передать вам, чтобы вы посетили её кабинет при первой возможности.<end>
+
+=>a36_original
+Sorry if I startled you, sister. I'll go see Her Eminence at once.<end>
+
+=>a36
+Извините, если я напугал$(#/а) вас, сестра. Я незамедлительно навещу Её Высокопреосвященство.<end>
+
+=>a37_original
+Fine.<end>
+
+=>a37
+Ладно.<end>
+
+=>a38_original
+What is it now!? Why must people always bother me...<end>
+
+=>a38
+Ну что ещё?! Почему все ко мне лезут со своими делами...<end>
+
+=>q39_original
+Um, have an apex day, $(#brother/sister).<end>
+
+=>q39
+Эм-м, хорошего тебе дня, $(#брат/сестра).<end>
+
+=>q40_original
+Don't keep Her Eminence waiting for too long, $(#brother/sister).<end>
+
+=>q40
+Не заставляйте Её Высокопреосвященство ждать, $(#брат/сестра).<end>
+

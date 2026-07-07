@@ -1,0 +1,1390 @@
+﻿=>q1_original
+Tchort must be protected.<end>
+
+=>q1
+Чорт должен быть защищён.<end>
+
+=>q2_original
+::Both Eidein and Mediant Samuel acknowledge your presence with a quick nod. Soon after, Eidein turns to the mediant once more.::
+
+Those are my instructions. I have full confidence that you will perform your duty with utmost commitment. You have been selected a mediant for a good reason, Samuel; you will *not* let Tchort down, of that I am certain.<end>
+
+=>q2
+::Эйдейн и медиант Самюэль встречают вас быстрым кивком. Сразу после этого Эйдейн снова обращается к медианту.::
+
+Таковы мои инструкции. Я полностью уверен, что вы исполните свой долг с максимальной самоотдачей. Вас выбрали медиантом не просто так, Самюэль; вы *не* подведёте Чорта, в этом я уверен.<end>
+
+=>q3_original
+::Mediant Samuel proudly places his hand on his chest, clenching it firmly.::
+
+I wouldn't even dream of disappointing you or abandoning Tchort - no Tchortist would! You taught us to adapt and overcome, you taught us that Tchort will guide us to a better future, no? This is survival of the fittest - and the inbred, devolved - dystrophic Faceless aren't even worthy of licking the ground we tread on.<end>
+
+=>q3
+::Медиант Самюэль гордо кладёт руку на грудь, крепко сжав кулак.::
+
+Я даже в мыслях не смог бы разочаровать вас или покинуть Чорта -- как и любой чортист! Вы учили нас приспосабливаться и преодолевать, вы учили нас, что Чорт приведёт нас к светлому будущему, разве нет? Выживают сильнейшие, а дегенеративные, дистрофичные безликие выродки не достойны даже лизать землю, по которой мы ходили.<end>
+
+=>q4_original
+::Eidein puts his hand on Mediant's shoulder and nods.::
+
+Most excellent, Mediant. Now the time has come for me to summon the elevator; every passing second brings Tchort closer to danger, and that is something we cannot risk. You know what to do. Tchort guide you.<end>
+
+=>q4
+::Эйдейн кладёт руку медианту на плечо и кивает.::
+
+Превосходно, медиант. Теперь пришло время вызвать лифт; с каждой секундой Чорт подвергается всё большей опасности, и мы не можем рисковать. Вы знаете, что делать. Чорт направит вас.<end>
+
+=>q5_original
+Tchort guide you too. I will not fail you, Eidein.<end>
+
+=>q5
+Чорт направит и вас тоже. Я не подведу вас, Эйдейн.<end>
+
+=>q6_original
+::Eidein turns his head toward you with a single elegant motion. He stares at you for an instant, not saying a word. You still have no idea what lies behind the sinister mask, and if he does descend into Deep Caverns you may never be able to find out, you think to yourself. But once again, your thoughts are brought to a halt by his deep, muffled voice.::
+
+You started your Tchortist journey by challenging the devolved and successfully besting them. I only hope that your journey doesn't end with the devolved besting you. Soon they will arrive, hungry for Tchortist flesh, thirsty for Tchortist blood. Do not let them taste it.<end>
+
+=>q6
+::Эйдейн поворачивается к вам элегантным движением. Он смотрит на вас мгновение, не говоря ни слова. Вы всё ещё не представляете, что скрывается за зловещей маской, и если он спустится в Глубокие пещеры, вы, может быть, так никогда этого и не узнаете -- думаете вы про себя. Но ваши размышления вновь прерывает его низкий приглушённый голос.::
+
+Вы начали дорогу к чортизму, бросив вызов падшим и успешно их превзойдя. Я надеюсь, ваш путь не закончится их победой над вами. Скоро они придут -- голодные до чортистской плоти, жаждущие чортистской крови. Не дайте им её отведать.<end>
+
+=>a7_original
+I want to go to Deep Caverns with you.<end>
+
+=>a7
+Я хочу отправиться в Глубокие пещеры с вами.<end>
+
+=>q8_original
+::His response is immediate.::
+
+No. You must stay here - that is my will; it is nonnegotiable.<end>
+
+=>q8
+::Его ответ мгновенен.::
+
+Нет. Вы должны остаться здесь -- такова моя воля; это не обсуждается.<end>
+
+=>a9_original
+But why not?<end>
+
+=>a9
+Но почему нет?<end>
+
+=>q10_original
+While I do respect your contributions to the Institute, of which there were many, I must go down *without* you, $(context.player.Name). My decision is final.<end>
+
+=>q10
+Хотя я уважаю ваш немалый вклад в дело Института, я должен идти вниз *без* вас, $(context.player.Name). Моё решение окончательно.<end>
+
+=>a11_original
+I will stay here then, Eidein. Tchort guide you.<end>
+
+=>a11
+Тогда, я останусь здесь, Эйдейн... Чорт направит вас.<end>
+
+=>q12_original
+::Eidein nods slowly.::
+
+Tchort guide you, $(context.player.Name).<end>
+
+=>q12
+::Эйдейн медленно кивает.::
+
+Чорт направит вас, $(context.player.Name).<end>
+
+=>a13_original
+::Watch Eidein call the elevator.::<end>
+
+=>a13
+::Ждать, пока Эйдейн вызывает лифт.::<end>
+
+=>a14_original
+Well, you can shove your will where the light don't shine, Eidein - 'cause I'm going to Deep Caverns whether you like it or not! ::Attack!::<end>
+
+=>a14
+Засунь свою волю туда, где не светит свет, Эйдейн, потому что я иду в Глубокие пещеры, нравится тебе это или нет! ::Напасть!::<end>
+
+=>a15_original
+If the Faceless dare even show their deformed bodies here - I will cull them like worthless rats that they are!<end>
+
+=>a15
+Если безликие посмеют только показать здесь свои уродливые рожи -- я выполю их, как никчёмных крыс, которыми они и являются!<end>
+
+=>q16_original
+I apologize, but I cannot speak to you at this time: There is some data I must urgently go through here in the library. We will continue our conversation at a more appropriate time.<end>
+
+=>q16
+Прошу прощения, но не могу сейчас говорить с вами. Я должен срочно изучить некоторые данные здесь, в библиотеке. Мы продолжим разговор в более подходящее время.<end>
+
+=>a17_original
+I am sorry if I bothered you. Tchort guide you.<end>
+
+=>a17
+Я сожалею, если вас побеспокоил$(#/а). Чорт направит вас.<end>
+
+=>q18_original
+Tchort guide us all, $(context.player.Name).<end>
+
+=>q18
+Чорт направит всех нас, $(context.player.Name).<end>
+
+=>a19_original
+I will not disturb you. So long.<end>
+
+=>a19
+Я не буду вам мешать. До свидания.<end>
+
+=>q20_original
+Tchort guide you, $(context.player.Name).<end>
+
+=>q20
+Чорт направит вас, $(context.player.Name).<end>
+
+=>q21_original
+I apologize, but I cannot speak to you at this time: I am currently overwhelmed with other, important matters - but I am sure we will speak again when time allows.<end>
+
+=>q21
+Прошу прощения, но не могу сейчас говорить с вами. Я завален другими важными делами, но, уверен, мы вновь поговорим, когда позволит время.<end>
+
+=>q22_original
+I apologize, but I cannot speak to you at this time: I am pondering some difficult questions. The fountain has a relaxing effect on me and aids my thinking. I am sure we will converse again at a more appropriate time.<end>
+
+=>q22
+Прошу прощения, но не могу сейчас говорить с вами -- я обдумываю сложные вопросы. Фонтан обладает расслабляющим эффектом и помогает моими мыслям течь. Я уверен, что мы ещё найдём подходящее время для беседы.<end>
+
+=>q23_original
+I apologize, but I cannot speak to you at this time: I have come here to oversee the department and discuss certain matters with some of the investigators. Still, I am sure we will converse again when the time allows.<end>
+
+=>q23
+Прошу прощения, но не могу сейчас говорить с вами -- я пришёл посетить кафедру и обсудить важные вопросы с исследователями. Но всё-таки, уверен, мы обо всём поговорим, когда время позволит.<end>
+
+=>q24_original
+::Once the tremors die down, Eidein drops his gaze back to you.::
+
+That was surprising; I received no warning from Investigation regarding potential seismic activity.<end>
+
+=>q24
+::Когда подземные толчки утихают, Эйдейн вновь опускает взгляд на вас.::
+
+Удивительно; я не получал предупреждения от Исследования о возможной сейсмической активности.<end>
+
+=>q25_original
+Back on the subject: You will be notified when the time comes. Are there any further questions you had for me?<end>
+
+=>q25
+Вернёмся к нашей теме: вас уведомят, когда придёт время. У вас есть ко мне какие-нибудь дополнительные вопросы?<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>a27_original
+Eidein, I have important news. I have been to the West Wing and found a Faceless tunneler carrying fully armed troops!<end>
+
+=>a27
+Эйдейн, у меня есть важные новости. Я был$(#/а) в западном крыле и наш$(#ёл/ла) проходчик безликих и отряд полностью экипированных солдат!<end>
+
+=>q28_original
+::He answers without delay.:: That is the cause of these tremors - Faceless.
+
+Speak quickly, $(context.player.Name), what other information do you have for me?<end>
+
+=>q28
+::Он отвечает без задержки.:: Вот в чём причина этих толчков -- безликие.
+
+Говорите быстро, $(context.player.Name), что ещё вы узнали?<end>
+
+=>a29_original
+Well, I killed the whole tunneler crew.<end>
+
+=>a29
+Ну, я убил$(#/а) весь экипаж проходчика.<end>
+
+=>q30_original
+Most excellent, $(context.player.Name). The corrupted Faceless should never be sympathized with - but culled whenever the opportunity arises.<end>
+
+=>q30
+Превосходно, $(context.player.Name). Этим извращённым безликим не следует сочувствовать -- лучше выполоть их всякий раз, когда представится возможность.<end>
+
+=>q31_original
+However, were you able see or hear anything regarding the motives behind their arrival?<end>
+
+=>q31
+Тем не менее, удалось ли вам узнать что-нибудь о мотивах их вторжения?<end>
+
+=>a32_original
+I actually managed to talk to them: I found out they are planning an invasion on Institute of Tchort soon!<end>
+
+=>a32
+Мне даже удалось поговорить с ними: я узнал$(#/а), что они планируют вскоре напасть на Институт Чорта!<end>
+
+=>q33_original
+::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
+
+You were warned about the invasion? I find that highly implausible: Why would the Faceless willingly reveal their plans? Even conversing with someone not of their kin is difficult to comprehend, as proven by their corrupted nature. However, I have no reason to doubt you however strange the situation might seem.<end>
+
+=>q33
+::Он не реагирует ни малейшим движением, ни звуком на ваши слова -- по крайней мере не сразу. Его ответ звучит после неловкой паузы.::
+
+Вас предупредили о вторжении? Мне это кажется весьма неправдоподобным -- зачем безликим добровольно раскрывать свои планы? Даже в то, что они способны общаться не с себе подобными, трудно поверить, ввиду их извращённой природы. Впрочем, у меня нет причин сомневаться в вас, как странно ни звучали бы ваши слова.<end>
+
+=>q34_original
+Was there anything else?<end>
+
+=>q34
+Что-нибудь ещё?<end>
+
+=>a35_original
+I even managed to sneak by them and confirm it with my own eyes: I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
+
+=>a35
+Мне даже удалось прокрасться мимо них и увидеть всё своими глазами: я наш$(#ёл/ла) большую дыру в одной из стен, проделанную буром. Я заглянул$(#/а) туда и увидел$(#/а) многочисленных безликих, вооружающихся и готовящихся к бою.<end>
+
+=>q36_original
+That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
+
+=>q36
+Это ужасные известия, $(context.player.Name). То, что вы только что сказали мне, означает опасность не только для чортистов -- но и для Чорта.<end>
+
+=>a37_original
+What happens now?<end>
+
+=>a37
+Что теперь?<end>
+
+=>q38_original
+Now we must take an appropriate counter-action: Tchort needs to be preserved at all costs! First we must mobilize all Preservation Forces we have available. Then, we must alert Harmost Stavros and his rassophores in Deep Caverns. Since communication with both Cytosine Outpost as well as the Nucleus has been made difficult after the earthquake - someone will have to make a descent.<end>
+
+=>q38
+Мы должны принять соответствующие контрмеры: Чорт должен быть сохранён любой ценой! Первым делом, мы должны мобилизовать все доступные силы Сохранения. Затем предупредить гармоста Ставроса и его рясофоров в Глубоких пещерах. Поскольку связь с Цитозином и Нуклеусом нарушена землетрясением, кто-то должен будет совершить спуск.<end>
+
+=>q39_original
+It would be wisest if I was the one to make the descent to Deep Caverns and personally make sure that Tchort remains safe. Mediant Samuel will be left in charge of the Institute's defenses.<end>
+
+=>q39
+Было бы мудро мне в одиночку спуститься в Глубокие пещеры и лично проследить за тем, что Чорт в безопасности. Медиант Самюэль останется в Институте и организует оборону.<end>
+
+=>a40_original
+How will you go to Deep Caverns?<end>
+
+=>a40
+А как вы попадёте в Глубокие пещеры?<end>
+
+=>q41_original
+This building possesses an elevator beneath this office; it is the only access point to Deep Caverns available.<end>
+
+=>q41
+В здании имеется лифт под этой комнатой; он является единственной существующей точкой доступа в Глубокие пещеры.<end>
+
+=>q42_original
+The elevator at the back of my office will take us to the chamber below; the elevator to Deep Caverns lies there. Few are allowed access to it, yet due to the situation you found yourself in - you will be among those selected few.
+
+Follow me, $(context.player.Name), for there are a few more words I must exchange with you before I leave.<end>
+
+=>q42
+Лифт позади моего кабинета перенесёт нас в зал ниже; лифт в Глубокие пещеры находится там. Лишь несколько человек имеют доступ к нему, но из-за сложившейся ситуации вы будете в числе избранных.
+
+Следуйте за мной, $(context.player.Name), я должен сказать вам перед отъездом ещё несколько слов.<end>
+
+=>a43_original
+I am ready to go, illustrious Eidein. I am ready to stand by your side!<end>
+
+=>a43
+Я готов$(#/а), сиятельный Эйдейн. Я готов$(#/а) встать с вами плечом к плечу!<end>
+
+=>q44_original
+Most excellent. I will meet you in the chamber below. Do not take long.<end>
+
+=>q44
+Превосходно. Встретимся в зале внизу. Не задерживайтесь.<end>
+
+=>a45_original
+::Wait for Eidein to leave.::<end>
+
+=>a45
+::Ждать, пока Эйдейн уйдёт.::<end>
+
+=>a46_original
+I am ready to go.<end>
+
+=>a46
+Я готов$(#/а) идти.<end>
+
+=>a47_original
+I need to do something first.<end>
+
+=>a47
+Мне ещё нужно кое-что сделать.<end>
+
+=>q48_original
+Do not take too long. I will wait for you by the elevator, in the chamber below.<end>
+
+=>q48
+Только не слишком долго. Я буду ждать у лифта, в зале ниже.<end>
+
+=>a49_original
+That is all I know. What happens now?<end>
+
+=>a49
+Это всё, что я знаю. Что теперь?<end>
+
+=>a50_original
+Before I killed them they told me the Faceless are planning an invasion on Institute of Tchort soon!<end>
+
+=>a50
+Прежде чем я убил$(#/а) их, они сказали, что планируют вторжение в Институт Чорта!<end>
+
+=>a51_original
+There was a hole in one of the walls, made by a tunneler. I took a peek and saw a large number of Faceless, arming and readying for combat.<end>
+
+=>a51
+В одной из стен была дыра, проделанная буром. Я заглянул$(#/а) туда и увидел$(#/а) большое количество безликих, вооружающихся и готовящихся к бою.<end>
+
+=>q52_original
+::He makes no motion or sound in acknowledgement of what you just told him, at least not right away. His response comes after this uncanny pause.::
+
+That is dire news, $(context.player.Name). What you have just told me doesn't just mean danger to Tchortists - but to Tchort as well.<end>
+
+=>q52
+::Он не реагирует ни малейшим движением, ни звуком на ваши слова -- по крайней мере не сразу. Его ответ звучит после неловкой паузы.::
+
+Это ужасные известия, $(context.player.Name). То, что вы только что сказали мне, означает опасность не только для чортистов, но также и для Чорта.<end>
+
+=>a53_original
+Not really...<end>
+
+=>a53
+Я не знаю...<end>
+
+=>q54_original
+I need you to return there and try learning their purpose there, and if more will be coming. Also, be discreet; panic is the last thing we need.<end>
+
+=>q54
+Вы должны вернуться туда и попробовать выяснить их намерения и ждут ли они подкреплений. Также, никому пока ни слова; паника -- последнее, что нам нужно.<end>
+
+=>a55_original
+I will not fail you, illustrious Eidein. Tchort guide you.<end>
+
+=>a55
+Я не подведу вас, сиятельный Эйдейн. Чорт направит вас.<end>
+
+=>q56_original
+I have no doubt you will accomplish your task. Tchort guide you, $(context.player.Name).<end>
+
+=>q56
+Я не сомневаюсь, что вы справитесь. Чорт направит вас, $(context.player.Name).<end>
+
+=>a57_original
+I will, Eidein. So long.<end>
+
+=>a57
+Я сделаю это, Эйдейн. До свидания.<end>
+
+=>a58_original
+I had spied on them before leaving. I don't think they saw me.<end>
+
+=>a58
+Я немного понаблюдал$(#/а) за ними, прежде чем уйти. Не думаю, что они меня видели.<end>
+
+=>q59_original
+If they did, you and I would not be leading this conversation. The Faceless have no mercy, no emotion. Not unlike machines. Never forget that.<end>
+
+=>q59
+Если бы они вас увидели, мы не вели бы этот разговор. Безликие не знают милосердия, у них нет эмоций. Как у машин. Никогда не забывайте об этом.<end>
+
+=>a60_original
+I initiated combat, but had to retreat and seek help.<end>
+
+=>a60
+Я вступил$(#/а) бой, но вынужден$(#/а) был$(#/а) отступить и искать помощи.<end>
+
+=>q61_original
+The Faceless have no mercy - no emotion; they don't take prisoners and are not to be taken as ones. You did nothing wrong - you survived, and that is of paramount importance right now.<end>
+
+=>q61
+Безликие не знают милосердия, у них нет эмоций; они не берут пленных и не следует пытаться взять их в плен. Вы не сделали ничего плохого -- вы выжили, и это сейчас имеет первостепенное значение.<end>
+
+=>a62_original
+I didn't fight them even though they saw me. In fact, they told me they were going to invade the Institute!<end>
+
+=>a62
+Я не воевал$(#/а) с ними, хотя они меня увидели. На самом деле, они сами сказали, что собираются напасть на Институт!<end>
+
+=>a63_original
+I was sent here by Mediant Samuel to talk to you about becoming an official member of Preservation Forces.<end>
+
+=>a63
+Меня прислал сюда медиант Самюэль, чтобы сказать вам, что я желаю официально стать членом Сил Сохранения.<end>
+
+=>q64_original
+Yes, $(context.player.Name), I was informed of your achievements already by Mediant Samuel. He claimed that you possessed all the traits of a true rassophore - one who will use all means available to preserve this institution, as well as Tchort.<end>
+
+=>q64
+Да, $(context.player.Name), медиант Самюэль уже проинформировал меня о ваших достижениях. Он утверждает, что вы обладаете всеми качествами истинного рясофора -- того, кто всеми доступными средствами помогает сохранить этот Институт и Чорта.<end>
+
+=>q65_original
+If this is what you wish, then know that your place among the rassophores will be as certain as Tchort's magnificence. However, we will have to honor the tradition and wait for Harmost to return from Deep Caverns, for he must attend the ceremony during which you and other novitiates will receive your new titles - and new duties.<end>
+
+=>q65
+Если этого вы хотите, то знайте, что ваше место среди рясофоров столь же гарантировано, как великолепен Чорт. Тем не менее, мы должны чтить традиции и дождаться прибытия гармоста из Глубоких пещер, ибо он должен присутствовать на церемонии, в ходе которой вы и другие послушники получат новые звания -- и новые обязанности.<end>
+
+=>q66_original
+If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
+
+=>q66
+Если вы этого хотите, $(context.player.Name)... Вы уверены, что именно этим путём желаете идти? Или, возможно, ваше сердце ведёт вас в другое место? Ещё не поздно передумать. Существуют и другие способы добраться до своей цели.<end>
+
+=>a67_original
+This is what I want - to become a part of Preservation Forces and serve - preserve - Tchort, you, and this whole institution.<end>
+
+=>a67
+Я хочу стать частью Сил Сохранения и охранять -- сохранять -- Чорта, вас и весь Институт.<end>
+
+=>q68_original
+Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with outstanding zeal, for your actions had already spoken of your exceptional dedication.<end>
+
+=>q68
+Превосходно, $(context.player.Name). Я не сомневаюсь в том, что вы будете исполнять свой долг с выдающимся усердием, ведь ваши поступки уже говорят о вашей исключительной целеустремлённости.<end>
+
+=>q69_original
+However, I must ask of you to be patient just a bit more; Harmost's return is not too far off. Then, you will be a novitiate no more, but a rassophore.<end>
+
+=>q69
+Тем не менее, я должен попросить вас проявить ещё немного терпения; гармост вернётся достаточно скоро. После этого вы будете уже не послушни$(#ком/цей), а рясофором.<end>
+
+=>a70_original
+I would like to go to Deep Caverns and personally guard Tchort, if you'd allow it.<end>
+
+=>a70
+Если вы позволите, я хочу отправиться в Глубокие пещеры, чтобы лично охранять Чорта.<end>
+
+=>q71_original
+Tchort is guarded only by the most elite members of Preservation Forces. Even though you possess the will, which I admire and recognize, you do not yet possess certain skills and knowledge; Deep Caverns is a minacious place, with voracious wildlife unlike anything you've seen so far; infested with the corrupted Faceless who are equally adept at bringing doom to others as they are to themselves.<end>
+
+=>q71
+Чорта охраняют только самые элитные Силы Сохранения. Хотя вы и обладаете стремлением, что я признаю и уважаю, но вы ещё не владеете необходимыми навыками и знаниями. Глубокие пещеры -- опасное место, кишащее ненасытной дикой природой, отличающейся от всего, что вы видели до сих пор; извращёнными безликими, которые одинаково искусно умеют убивать людей и себе подобных.<end>
+
+=>q72_original
+In time, however, if you prove fit for that sort of duty, I would be glad to dispatch you to Deep Caverns and rest easy knowing that Tchort has the best protection I can possibly provide him.<end>
+
+=>q72
+Однако же, со временем, если вы окажетесь пригодны для такого рода службы, я с радостью направлю вас в Глубокие пещеры и буду спокоен, зная, что Чорт имеет наилучшую защиту, какую в моих силах обеспечить.<end>
+
+=>a73_original
+Thank you very much, Eidein. I can't wait for the ceremony.<end>
+
+=>a73
+Спасибо большое, Эйдейн. Жду не дождусь церемонии.<end>
+
+=>q74_original
+I'm sure of it. In the meantime, see Efreitor Hanna: There's no reason not to get your ceremonial uniform ahead of the schedule.
+
+To get accustomed to it.<end>
+
+=>q74
+Я уверен в этом. А пока обратитесь к ефрейтору Ханне: нет никаких причин не получить церемониальную форму раньше срока.
+
+Нужно к ней привыкнуть.<end>
+
+=>q75_original
+I believe there is nothing more to be said regarding this matter. You will be notified when--<end>
+
+=>q75
+Полагаю, что больше тут нечего сказать относительно этого вопроса. Вам сообщат, когда...<end>
+
+=>q76_original
+::Eidein abruptly stops talking. You are unsure why at first, but then you start getting this feeling that your guts are vibrating; it is so subtle that you are unsure whether you are imagining it or not. Eidein's reaction suggests the latter to be true, though: He tilts his head up, keeping perfectly still and calm otherwise, while maintaining silence. Soon, the vibrations grow in intensity... ::<end>
+
+=>q76
+::Эйдейн резко прекращает разговор. Сперва вы не уверены почему, но вскоре у вас появляется такое ощущение, будто ваши кишки вибрируют; оно настолько слабо, что вы не уверены, не кажется ли вам это. Но реакция Эйдейна позволяет предположить, что -- нет, чувство реально: он поднимает голову и стоит совершенно неподвижно и спокойно, храня молчание. Вскоре ощущение усиливается...::<end>
+
+=>a77_original
+::Wait.::<end>
+
+=>a77
+::Ждать.::<end>
+
+=>a78_original
+Now that you've mentioned it, maybe I should still think about it.<end>
+
+=>a78
+Раз уж вы там говорите, возможно, мне стоит ещё подумать.<end>
+
+=>q79_original
+That is not a problem; there are other ways one can serve this institution. If you need time, time you will have.<end>
+
+=>q79
+Это не проблема, есть другие способы послужить Институту. Если вам нужно время, оно у вас будет.<end>
+
+=>q80_original
+Rest, consider, decide - then see me once you are certain.
+
+Would that be all, $(context.player.Name)?<end>
+
+=>q80
+Отдохните, подумайте, решите -- приходите ко мне, когда будете уверены.
+
+Это всё, $(context.player.Name)?<end>
+
+=>a81_original
+I was sent here by Episkopos Lydia to talk to you about becoming an assistant investigator.<end>
+
+=>a81
+Меня прислала сюда епископ Лидия, чтобы сказать вам, что я желаю стать ассистентом исследователем.<end>
+
+=>q82_original
+Yes, $(context.player.Name), Episkopos Lydia informed me in advance of your arrival. She told me the principal investigators found you a very useful and dedicated assistant. She even mentioned Monsignor Lenora in a direct comparison with you.<end>
+
+=>q82
+Да, $(context.player.Name), епископ Лидия сообщила мне, что вы придёте. Она сказала, что научные руководители нашли в вас очень полезного и просвещённого ассистента. Она даже сравнила вас с монсеньором Ленорой.<end>
+
+=>q83_original
+If becoming assistant investigator is your wish, you'd need not wait for long, $(context.player.Name); it is a matter of several days before you will find yourself working on your first project, solving your first problems as an investigator. 
+
+The Institute of Tchort always needs dedicated $(#men/women) like you, and I am satisfied to know that we have them.<end>
+
+=>q83
+Если вы желаете стать ассистентом исследователем, то ждать вам недолго, $(context.player.Name). В течение нескольких дней, вы уже начнёте работу над своим первым проектом, будете решать первые проблемы как исследователь.
+
+Институту Чорта всегда нужны в целеустремлённые люди вроде вас, и я рад знать, что они у нас есть.<end>
+
+=>q84_original
+If that is what you seek, $(context.player.Name)... Are you sure this is the path you're willing to take? Or perhaps your heart guides you elsewhere. It is not too late to reconsider. There are more ways to reach one's destination.<end>
+
+=>q84
+Если вы этого хотите, $(context.player.Name)... Вы уверены, что именно этим путём желаете идти? Или, возможно, ваше сердце ведёт вас в другое место? Ещё не поздно передумать. Существуют и другие способы добраться до своей цели.<end>
+
+=>a85_original
+That is what I want, and I can't wait to start working on my first project!<end>
+
+=>a85
+Именно этого я хочу, и не могу дождаться начать работу над своим первым проектом!<end>
+
+=>q86_original
+Most excellent, $(context.player.Name). I have no doubt that you will perform your duty with great zeal, for your actions already speak of your exceptional dedication.<end>
+
+=>q86
+Превосходно, $(context.player.Name). Я не сомневаюсь в том, что вы будете исполнять свой долг с большим усердием, ведь ваши поступки уже говорят о вашей исключительной целеустремлённости.<end>
+
+=>q87_original
+Before we end the conversation, do tell me which department are you most interested in working for?<end>
+
+=>q87
+Прежде чем мы закончим, скажите мне, на какой из кафедр вы желаете работать?<end>
+
+=>a88_original
+To be honest, my wish is to work near Tchort in Deep Caverns.<end>
+
+=>a88
+Честно говоря, я хочу работать рядом с Чортом в Глубоких пещерах.<end>
+
+=>q89_original
+To Nucleus? Admirable. Nevertheless, you are not yet ready for such a task nor to bear the responsibility which comes with it. Only our selected investigators, most elite troops and myself are allowed in Tchort's vicinity, and only I may directly approach it. At some later time, however, you too might be granted a privilege of descending to Deep Caverns and being closer to Tchort.<end>
+
+=>q89
+В Нуклеусе? Замечательно. Тем не менее, вы ещё не готовы ни для такой работы, ни к ответственности, которую она возлагает. Только избранные исследователи, самые элитные войска и я сам допускаются столь непосредственно близко к Чорту, и только я могу приблизиться к нему. Но однажды и вам может быть предоставлена привилегия спуститься в Глубокие пещеры и приблизиться к Чорту.<end>
+
+=>q90_original
+Other than working in Nucleus, however, what department are you most interested in?<end>
+
+=>q90
+Помимо работы в Нуклеусе, какая кафедра наиболее привлекает вас?<end>
+
+=>a91_original
+Department of Physics.<end>
+
+=>a91
+Кафедра физики.<end>
+
+=>q92_original
+I will remember what you said, $(context.player.Name). It will be taken care of.<end>
+
+=>q92
+Я запомню ваши слова, $(context.player.Name). Всё будет устроено.<end>
+
+=>q93_original
+You are free to go now, $(context.player.Name). I will discuss this matter with Episkopos Lydia and you'll be notified wh--<end>
+
+=>q93
+Вы свободны, $(context.player.Name). Я обсужу это дело с епископом Лидией, и...<end>
+
+=>a94_original
+Department of Genetics.<end>
+
+=>a94
+Кафедра генетики.<end>
+
+=>q95_original
+Despite your "incident" with Principal Investigator Rista? Interesting... I will need to summon him when time allows and have a private conversation regarding your mutual dissonance.
+
+<end>
+
+=>q95
+Несмотря на ваш «инцидент» с руководителем Ристой? Интересно... Мне нужно будет вызывать его, когда время позволит, и побеседовать относительно вашего взаимного диссонанса.
+
+<end>
+
+=>a96_original
+Department of Chemistry.<end>
+
+=>a96
+Кафедра химии.<end>
+
+=>a97_original
+Well, maybe I should still think about it.<end>
+
+=>a97
+Возможно, мне стоит ещё подумать об этом.<end>
+
+=>a98_original
+I have decided: I want to become an assistant investigator.<end>
+
+=>a98
+Я решил$(#/а): я хочу стать ассистентом исследователем.<end>
+
+=>a99_original
+I have made my decision: I want to be a rassophore.<end>
+
+=>a99
+Я принял$(#/а) решение: я хочу быть рясофором.<end>
+
+=>a100_original
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a100
+Вы когда-нибудь слышали о Жёлуде, он же АКоНР?<end>
+
+=>q101_original
+Acorn. I know what the word means, but the other one, ACoNR, implies this to be about something else.<end>
+
+=>q101
+Я знаю, что означает слово жёлудь, но вот АКоНР подразумевает, что это нечто другое.<end>
+
+=>q102_original
+<end>
+
+=>q102
+<end>
+
+=>a103_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our cause greatly.<end>
+
+=>a103
+Лично мне не многое известно об этом, но, насколько я понимаю, это очень ценная технология, которая может хорошо послужить нашему делу.<end>
+
+=>q104_original
+Intriguing. <end>
+
+=>q104
+Интригует.<end>
+
+=>q105_original
+While I personally do not know anything about this Acorn of yours, if I were to have it I'd gladly bring it with me on my next trip to Nucleus and present it to Tchort.<end>
+
+=>q105
+Хотя лично мне ничего не известно о вашем Жёлуде, но если бы он у меня был, я бы с радостью взял его с собой в следующую поездку в Нуклеус и подарил его Чорту.<end>
+
+=>q106_original
+Do you have it? The Acorn?<end>
+
+=>q106
+Она у вас? Жёлудь?<end>
+
+=>a107_original
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>a107
+Да. Вот. ::Показать ему Жёлудь.::<end>
+
+=>q108_original
+::He observes it briefly.:: This symbol...<end>
+
+=>q108
+::Он кратко подмечает.:: Этот символ...<end>
+
+=>a109_original
+What about it?<end>
+
+=>a109
+Что насчёт него?<end>
+
+=>q110_original
+::His visage turns to you.:: 
+
+May I have the Acorn, $(context.player.Name)?<end>
+
+=>q110
+::Он поворачивается к вам лицом.:: 
+
+Могу я забрать Жёлудь, $(context.player.Name)?<end>
+
+=>a111_original
+::Give him the Acorn.::<end>
+
+=>a111
+::Отдать ему Жёлудь.::<end>
+
+=>q112_original
+Most excellent. Do you know what the word acorn means, $(context.player.Name)? Granted, it is a word rarely used in recent times.<end>
+
+=>q112
+Замечательно. Вы знаете, что означает слово жёлудь, $(context.player.Name)? Согласен, это слово в последнее время используется редко.<end>
+
+=>a113_original
+I can only guess at its meaning, but I haven't heard the word before.<end>
+
+=>a113
+Я могу только догадываться о его значении, но я не слышал$(#/а) этого слова раньше.<end>
+
+=>q114_original
+An ancient species of thick, gigantic plants that once grew on the Surface produced a unique kind of nuts. These nuts were called acorns and looked just like the symbol on *this* Acorn. Their hard shells protected the soft seeds inside which would, upon falling from these plants - oaks they were called - protect the fruit until a new oak would grow out of them.<end>
+
+=>q114
+Древний вид больших гигантских растений, некогда произраставших на поверхности, производил уникальный вид плодов. Эти плоды назывались желудями и выглядели так же, как символ на *этом* Жёлуде. Их твёрдые оболочки защищали мягкие семена при падении с этих растений, которые назывались дубами, и до тех пор, пока из них не вырастал новый дуб.<end>
+
+=>q115_original
+::He looks at the Acorn in his hands.:: ACoNR. An acorn of this era.
+
+It is possible, $(context.player.Name), that with Tchort's guidance, the strong oak, and strong they were, that will emerge from the Acorn's impenetrable shell will bridge this and the former world of oaks.
+
+That is: Underrail and the Surface.<end>
+
+=>q115
+::Он смотрит на жёлудь в своих руках.:: АКоНР - жёлудь этой эпохи.
+
+Может так статься, $(context.player.Name), что под руководством Чорта, могучий дуб, а они были могучими, которые вырастет из непроницаемой скорлупы жёлудя, соединят этот и прежний мир дубов.
+
+Я имею ввиду: Подземку и Поверхность.<end>
+
+=>q116_original
+::He hands the Acorn to a rassophore and gestures him to take it away.::
+
+Most excellent, $(context.player.Name). Know that your contribution to our evolution will not be forgotten.<end>
+
+=>q116
+::Он передаёт Жёлудь рясофору и жестом указывает его унести.::
+
+Превосходно, $(context.player.Name). Знайте, что ваш вклад в наше развитие не будет забыт.<end>
+
+=>a117_original
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>a117
+Было приложено немало усилий, чтобы заполучить его. Я бы предпоч$(#ёл/ла), чтобы мне сначала заплатили.<end>
+
+=>q118_original
+How much are you asking for?<end>
+
+=>q118
+Сколько вы хотите?<end>
+
+=>q119_original
+<end>
+
+=>q119
+<end>
+
+=>a120_original
+::[Mercantile]:: Six thousand charons.<end>
+
+=>a120
+::[Торговля]:: Шесть тысяч харонов.<end>
+
+=>q121_original
+<end>
+
+=>q121
+<end>
+
+=>q122_original
+For something like this... it is acceptable.
+
+<end>
+
+=>q122
+За что-то подобное этому - это вполне приемлемо.
+
+<end>
+
+=>q123_original
+::He motions one of his rassophores.:: Bring $(context.player.Name) the amount he asked for.<end>
+
+=>q123
+::Он говорит одному из рясофоров.:: Принеси $(context.player.Name) сумму, которую он$(#/а) просит.<end>
+
+=>q124_original
+::After a short delay the rassophore returns with your stygian coins. You then hand over the Acorn to Eidein.::
+
+<end>
+
+=>q124
+::Вскоре рясофор возвращается со стигийскими монетами. Затем вы передаёте Жёлудь Эйдейну.::
+
+<end>
+
+=>q125_original
+You wish for too much, $(context.player.Name).<end>
+
+=>q125
+Вы хотите слишком много, $(context.player.Name).<end>
+
+=>a126_original
+::[Mercantile]:: Five thousand charons.<end>
+
+=>a126
+::[Торговля]:: Пять тысяч харонов.<end>
+
+=>q127_original
+<end>
+
+=>q127
+<end>
+
+=>a128_original
+::[Mercantile]:: Four thousand charons.<end>
+
+=>a128
+::[Торговля]:: Четыре тысячи харонов.<end>
+
+=>q129_original
+<end>
+
+=>q129
+<end>
+
+=>a130_original
+::[Mercantile]:: Three thousand charons.<end>
+
+=>a130
+::[Торговля]:: Три тысячи харонов.<end>
+
+=>q131_original
+<end>
+
+=>q131
+<end>
+
+=>a132_original
+Two thousand charons.<end>
+
+=>a132
+Две тысячи харонов.<end>
+
+=>q133_original
+That is acceptable.
+
+<end>
+
+=>q133
+Это приемлемо.
+
+<end>
+
+=>a134_original
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a134
+Знаете что... Забирайте так. ::Отдать ему Жёлудь.::<end>
+
+=>a135_original
+Not yet, but I'm working on obtaining it.<end>
+
+=>a135
+Пока нет, но я работают над этим.<end>
+
+=>q136_original
+In that case, Tchort guide you, $(context.player.Name). See me when you do.<end>
+
+=>q136
+В таком случае, Чорт направит вас, $(context.player.Name). Найдите меня, когда всё сделаете.<end>
+
+=>a137_original
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>a137
+Нет. Я просто слышал$(#/а) о нём и подумал$(#/а), не знаете ли вы что-то, что могло бы мне помочь.<end>
+
+=>q138_original
+I do not. But may Tchort guide you toward it, $(context.player.Name), toward the Acorn. If you do find it, I'd very much like to see it.<end>
+
+=>q138
+Я не знаю, $(context.player.Name), но может, Чорт укажет вам к нему путь, к жёлудю. Если вы его найдёте, я бы с удовольствием на него взглянул.<end>
+
+=>a139_original
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our cause greatly.<end>
+
+=>a139
+Всё, что я знаю, это то, что он каким-то образом связан с некоторыми высокотехнологичными машинами, способными преодолевать большие расстояния, и даже выходить на поверхность. Это может хорошо послужить нашему делу.<end>
+
+=>q140_original
+The Surface? That is most intriguing, $(context.player.Name). <end>
+
+=>q140
+Поверхность? Это больше всего интригует, $(context.player.Name).<end>
+
+=>a141_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
+
+=>a141
+Кажется, это устройство, способное производить высокотехнологичные предметы, такие как устройства и машины. Оно может хорошо послужить нашему делу.<end>
+
+=>q142_original
+Most intriguing. <end>
+
+=>q142
+Весьма интригует.<end>
+
+=>a143_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a143
+Это устройство, способное использовать материалы из окружающей среды для создания сложных устройств и машин. Оно может хорошо послужить нашему делу.<end>
+
+=>q144_original
+That is most intriguing, $(#brother/sister). And it is befitting of such a name - Acorn. <end>
+
+=>q144
+Это очень интригует, $(#брат/сестра). И ему подходит название - Жёлудь.<end>
+
+=>a145_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
+
+=>a145
+Это суперкомпьютер, способный управлять наноботами, которые могут использовать материалы из окружающей среды для создания сложных устройств и машин. Он может хорошо послужить нашему делу.<end>
+
+=>a146_original
+Never mind. There was something else I wanted to ask you.<end>
+
+=>a146
+Забудь. Я хотел$(#/а) поговорить ещё кое о чём.<end>
+
+=>q147_original
+I am a busy man, $(context.player.Name).<end>
+
+=>q147
+Я занятой человек, $(context.player.Name).<end>
+
+=>a148_original
+About the Acorn again...<end>
+
+=>a148
+Снова о Жёлуде...<end>
+
+=>q149_original
+What about it?<end>
+
+=>q149
+Что насчёт него?<end>
+
+=>a150_original
+I have the Acorn. ::Show him the Acorn.::<end>
+
+=>a150
+У меня есть Жёлудь. ::Показать Жёлудь.::<end>
+
+=>a151_original
+You mentioned that the figurine was a part of some set. Can you tell me more about that?<end>
+
+=>a151
+Вы упомянули, что та статуэтка была частью какого-то набора. Не могли бы вы рассказать мне побольше?<end>
+
+=>q152_original
+I can tell you little, for it is due to be unveiled at the one hundredth anniversary of Institute of Tchort's existence. The set is called Conquering the Surface, and it consists of pieces crafted entirely out of finest materials. The last piece that was due to arrive - one you retrieved - is called Reaching Man. For the rest, you will have to be patient just a while longer, $(context.player.Name).<end>
+
+=>q152
+Я не могу рассказать вам всего, что будет открыто на праздновании столетнего юбилея Института Чорта. Экспозиция называется «Завоёвывая поверхность», она состоит из множества частей, изготовленных из лучших материалов. Последний фрагмент, который должен был прибыть -- и который вы вернули нам -- называется «Достигающий». Чтобы узнать больше, вам придётся запастись терпением, $(context.player.Name).<end>
+
+=>a153_original
+Can you tell me more about that anniversary celebration?<end>
+
+=>a153
+Можете ли вы рассказать мне побольше о праздновании юбилея?<end>
+
+=>q154_original
+Mentioning any details would spoil the surprise. Just know that it will be magnificent; our institution deserves nothing less.<end>
+
+=>q154
+Если я расскажу вам подробности, то это может испортить сюрприз. Просто знайте, что оно будет великолепным, ведь наше учреждение не заслуживает меньшего.<end>
+
+=>q155_original
+Some of the details are unknown even to me, for I too deserve to be surprised from time to time, do I not?<end>
+
+=>q155
+Некоторые детали неизвестны даже мне, ведь я тоже имею право удивляться время от времени, не так ли?<end>
+
+=>a156_original
+I had other questions.<end>
+
+=>a156
+У меня были другие вопросы.<end>
+
+=>q157_original
+I will answer your questions, but remember that I am a busy man.<end>
+
+=>q157
+Я отвечу на ваши вопросы, но не забывайте, что я занятой человек.<end>
+
+=>a158_original
+Can you describe Tchort to me?<end>
+
+=>a158
+Не могли бы вы описать мне Чорта?<end>
+
+=>q159_original
+It would be most difficult to do so, $(context.player.Name). Tchort is formless; once its regeneration cycle is completed, however, it will have transformed into a being worthy of finest, beautiful, magnificent description. Since I am the only one blessed with the privilege of seeing it with my own eyes, you will have to be satisfied with such a minimalist response.<end>
+
+=>q159
+Мне было бы очень сложно сделать это, $(context.player.Name). Чорт не имеет формы; однако же, когда его цикл регенерации будет завершён, он преобразится в существо непередаваемой красоты, великолепия и изящества. Поскольку я -- единственный, имевший честь видеть его своими собственными глазами, вам придётся довольствоваться этим минималистичным описанием.<end>
+
+=>a160_original
+Is there a picture of it, at least?<end>
+
+=>a160
+Может, есть хотя бы его изображение?<end>
+
+=>q161_original
+No.<end>
+
+=>q161
+Нет.<end>
+
+=>a162_original
+So, no one but you have ever seen it? How were you able to prove to people that it existed back when you first formed Institute of Tchort?<end>
+
+=>a162
+Так что, никто кроме вас никогда его не видел? Как вам удалось доказать людям, что он вообще существует, когда вы создавали Институт Чорта?<end>
+
+=>q163_original
+Many weren't willing to believe it unless they saw it with their very own eyes. Concrete evidence and knowledge, however, that I had brought with me from Deep Caverns was enough to convince most... most. Over the years we have proven every claim time and time again, and we still continue to absorb more knowledge from Tchort.<end>
+
+=>q163
+Многие не хотели верить, пока не увидят его своими собственными глазами. Вещественных доказательств и знаний, что я принёс из Глубоких пещер, однако, было достаточно, чтобы убедить многих... большинство. За эти годы мы доказали каждое утверждение уже не раз, и мы по-прежнему продолжаем получать всё больше знаний от Чорта.<end>
+
+=>a164_original
+I understand. Allow me to ask you something else.<end>
+
+=>a164
+Я понимаю. Позвольте мне спросить ещё кое-что.<end>
+
+=>a165_original
+Can you tell me more about the Surface? Have you seen it, what's it like there?<end>
+
+=>a165
+Можете рассказать мне о Поверхности? Вы видели её? Каково там?<end>
+
+=>q166_original
+No, but it exists; evidence from the old world only provides mere hints regarding its appearance; however, the only certainty is that it is currently uninhabitable. We desire to repopulate it, and for that to succeed we require change within us, we need to advance ourselves - evolve - in order to withstand its living conditions.<end>
+
+=>q166
+Нет, но она существует; свидетельства из Старого мира дают лишь намёки относительно её внешнего вида; единственное, что мы знаем наверняка, это то что она в настоящее время необитаема. Мы желаем вновь населить её, и чтобы добиться успеха, нам требуется изменить себя, мы должны улучшить себя -- эволюционировать, чтобы выдержать условия поверхности.<end>
+
+=>q167_original
+Tchort possesses that ability, for it has done just that for millennia - purposefully adapting whenever necessary in order to perpetuate its existence. In nature it is accomplished through numerous generations and random chance, but Tchort is different, however. It is a highly desirable trait that we can and must apply if we are to ever succeed at conquering the Surface.<end>
+
+=>q167
+Чорт обладает такой способностью, ибо именно это он делал на протяжении веков -- целенаправленно приспосабливался по мере необходимости, чтобы продлить своё существование. В природе то же достигается за счёт смены поколений и случайных факторов, но Чорт не такой. Это чрезвычайно важная его особенность, которую мы можем и должны уметь применять, если хотим когда-нибудь добиться успеха в завоевании Поверхности.<end>
+
+=>a168_original
+How old are you exactly?<end>
+
+=>a168
+Сколько вам лет?<end>
+
+=>q169_original
+::His answer comes after a slight delay.:: Revealing my age would be like revealing Tchort's - utterly pointless. I'm sure that you have deduced by now that I am more than a century old, and I suppose that you are more interested in how I've managed to live for so long. Am I right, $(context.player.Name)?<end>
+
+=>q169
+::Он даёт ответ после небольшой паузы.:: Говорить о моём возраста -- всё равно, что о возрасте Чорта -- совершенно бессмысленно. Не сомневаюсь, вы уже выяснили, что мне более ста лет, и полагаю, что вас больше интересует, как я умудрился прожить так долго. Я прав, $(context.player.Name)?<end>
+
+=>a170_original
+Actually, I was just about to ask you that.<end>
+
+=>a170
+Действительно, я как раз об этом хотел$(#/а) вас спросить.<end>
+
+=>q171_original
+My age is the testament to Tchort's magnificence and is the product of directed evolution. Thanks to Tchort we have managed to severely prolong the average human lifespan by analyzing its regenerative abilities so that we would be able to directly apply at least some of it to the human genome; we were able to accomplish this through a special technique that allows for genetic engineering of that extent on mature multicellular organisms. The end result - tripled lifespan; tripled - according to our current estimates, that is. Which is most excellent, you would agree.<end>
+
+=>q171
+Мой возраст является свидетельством великолепия Чорта, ибо является продуктом направленной эволюции. Благодаря Чорту, нам удалось значительно увеличить продолжительность жизни человека, анализируя его способности к регенерации, чтобы непосредственно применить её к геному человека; мы смогли достичь этого при помощи специальной методики, которая позволяет до такой степени генетически модифицировать зрелые многоклеточные организмы. Конечный результат -- увеличенная в три раза продолжительность жизни, что весьма неплохо, согласитесь.<end>
+
+=>a172_original
+So, is everyone in the Institute going to live to be as old as you?<end>
+
+=>a172
+Так, что же, все в Институте будут жить так долго, как и вы?<end>
+
+=>q173_original
+Not yet, $(context.player.Name). Genetic engineering is problematic for the sole reason of having an incredibly delayed feedback. Let's use a simple example: You wish to change a light bulb; you screw one into its socket and flick the switch, instantly knowing whether it is working or not. Simple. Opposite of that, when you are working with living, ever-changing subjects, you have to wait for at least one generation, if not more, to complete their full life cycles, carefully monitoring them before you can be certain that the modifications to the genome do not have undesired - even disastrous - effects. It is a slow process, sadly.<end>
+
+=>q173
+Пока нет, $(context.player.Name). Основная проблема генной инженерии в крайней отсроченности результатов. Давайте рассмотрим простой пример: вы хотите поменять лампочку; вы ввинчиваете её в патрон и щёлкаете переключателем -- и вы мгновенно узнаёте, работает она или нет. Просто. Напротив, когда вы работаете с живыми, постоянно меняющимися объектами, вы должны ждать по крайней мере одно поколение, если не больше, чтобы отследить их полный жизненный цикл, тщательно наблюдая за ними, прежде чем сможете быть уверены, что изменения в геноме не имеют нежелательных, а то и катастрофических последствий. Это медленный процесс, к сожалению.<end>
+
+=>q174_original
+In this case - I am the test subject. My genome was manipulated well into my maturity, and even after a century has passed, we still have to monitor my condition until we are satisfied. For instance, we don't know how would the modifications affect a subject if applied at conception.
+
+I hope that was a satisfying response.<end>
+
+=>q174
+В данном случае, я такой подопытный. Мой геном был изменён во взрослом возрасте, и даже спустя столетие мы всё равно должны наблюдать за моим состоянием, пока не будем удовлетворены результатом. Например, мы не знаем, как повлияют на объект изменения, внесённые в момент зачатия.
+
+Я надеюсь, что удовлетворил ваше любопытство.<end>
+
+=>a175_original
+Nope, I was simply interested in your exact age. I would now like to ask you something else.<end>
+
+=>a175
+Не-а, меня просто интересовал ваш точный возраст. Можно задать ещё вопрос?<end>
+
+=>a176_original
+Are you the only one that can communicate to Tchort?<end>
+
+=>a176
+Вы единственный, кто может общаться с Чортом?<end>
+
+=>q177_original
+Yes. I am the only one that can enter its chamber in Nucleus without greatly disturbing it. Despite being unable to speak to me in any conventional way, we are able to communicate on a very basic level through a... let's call it a telepathic link, but it is far from such; it's difficult to describe to someone who has never experienced it.<end>
+
+=>q177
+Да. Я единственный, кто может входить к нему в Нуклеус, не слишком сильно беспокоя его. Хотя он не может говорить со мной в традиционном смысле, мы общаемся на базовом уровне при помощи... назовём это телепатической связью, хотя это не совсем так; трудно описать такое тому, кто никогда не испытывал подобного.<end>
+
+=>q178_original
+While there is a large number of both Investigation and Preservation personnel present in Nucleus, no one but me is allowed to directly approach Tchort or even enter its chamber. And so far no one even tried, which is most excellent.<end>
+
+=>q178
+Хотя немало людей из Исследования и Сохранения находится в Нуклеусе, никому кроме меня не позволено приближаться к Чорту или даже входить в его камеру. И до сих пор, никто даже не пытался, что очень хорошо.<end>
+
+=>a179_original
+How do you go to Deep Caverns?<end>
+
+=>a179
+Как вы попадаете в Глубокие пещеры?<end>
+
+=>q180_original
+We have a way.<end>
+
+=>q180
+У нас есть способ.<end>
+
+=>a181_original
+Why can't you move Tchort here, closer to you? Wouldn't it be safer here?<end>
+
+=>a181
+Почему не перенести Чорта сюда, ближе к вам? Разве здесь не было бы безопаснее?<end>
+
+=>q182_original
+It would be simpler to defend, true, but trying to move it in its current state, however, would be stressful and could potentially be damaging to Tchort. Besides, due to its size our current means of transportation to Deep Caverns would provide inadequate.<end>
+
+=>q182
+Здесь его было бы проще защищать, правда, но попытка переместить его в нынешнем состоянии окажется непростым делом и даже потенциально опасным для Чорта. Кроме того, из-за его размеров, наши нынешние средства передвижения из Глубоких пещер не подошли бы.<end>
+
+=>a183_original
+I noticed everyone calls you just "Eidein" without ever mentioning any title like with everyone else. Why is that?<end>
+
+=>a183
+Я заметил$(#/а), что все называют вас просто «Эйдейн» без всяких титулов, как у всех остальных. Почему?<end>
+
+=>q184_original
+Most excellent question, $(context.player.Name), but there is one fine detail you have missed, for Eidein doubles as my title as well as my name.<end>
+
+=>q184
+Превосходный вопрос, $(context.player.Name), но вы упустили одну небольшую деталь: Эйдейн -- одновременно и мой титул, и имя.<end>
+
+=>q185_original
+The word "eidein" means intellectual knowledge, and I was first given that name by the earliest members of the Institute. The reason is simple: My Tchortists brothers and sisters felt and still feel - I cannot deny it - that I am the one who relays knowledge to them, largely that surrounding Tchort, but from other scientific fields as well. I have proudly accepted this name and substituted it for my former one.<end>
+
+=>q185
+Слово «эйдейн» означает интеллектуальное знание, и я получил это имя от первых членов Института. Причина проста: мои братья и сёстры сочли, и до сих пор так считают, не могу этого отрицать, что именно я передаю им знания -- в первую очередь, о Чорте, но также и в других научных областях. Я с гордостью принял это имя и заменил им прошлое.<end>
+
+=>a186_original
+What was your real name then?<end>
+
+=>a186
+Каким было ваше настоящее имя?<end>
+
+=>q187_original
+Reread the Original Report. That is all I'm going to say.<end>
+
+=>q187
+Перечитайте Первичный Отчёт. Вот всё, что я вам скажу.<end>
+
+=>a188_original
+How do you feel about the Protectorate presence in Upper Underrail?<end>
+
+=>a188
+Как вы относитесь к присутствию Протектората в Верхней Подземке?<end>
+
+=>q189_original
+Underrail Protectorate are no threat to us, for we occupy completely opposite parts of Upper Underrail, and have little to no interaction. At least, that is the current state of affairs. Their obvious expansionist agenda cannot be ignored, and, after observing it in action since their arrival, we have prepared ourselves to effectively counter any unwanted advances.<end>
+
+=>q189
+Протекторат нам не угроза, поскольку мы занимаем совершенно противоположные части Верхней Подземки и практически не взаимодействуем с ними. По крайней мере, таково нынешнее положение дел. Их очевидную политику экспансионизма нельзя игнорировать, поэтому, наблюдая за их действиями с момента их прибытия, мы подготовились эффективно противостоять любым нежелательным поползновениям.<end>
+
+=>q190_original
+The Free Drones are a painful thorn in their side, mostly in the North, dare they admit it or not, so we - Harmost Stavros and I - believe they will focus most of their efforts on securing the southern part of Lower Underrail - Junkyard and Rail Crossing, which teem with Free Drone activity. In addition, the inefficiency of transporting troops and personnel through the Core - Core City - is one other major obstacle they must overcome.
+
+It will take at least a few more years, according to our estimates, before we would need to view them as an actual threat. We will always be one step ahead of them.<end>
+
+=>q190
+Вольные шершни -- болезненная заноза для них на севере, признают они это или нет, так что мы -- гармост Ставрос и я -- считаем, что они сосредоточат свои усилия на захвате южной части Нижней Подземки -- на Свалке и Переезде, где развернули свою деятельность Шершни. Кроме того, неэффективность логистического маршрута через Ядро -- Кор-Сити -- одно из главных препятствий, которые им предстоит преодолеть.
+
+Пройдёт как минимум ещё несколько лет, по нашим оценкам, прежде чем мы вынуждены будем начать рассматривать их как реальную угрозу. Мы всегда будем на шаг впереди.<end>
+
+=>a191_original
+What is your opinion of the Free Drones?<end>
+
+=>a191
+Что вы думаете о Вольных шершнях?<end>
+
+=>q192_original
+They are the antithesis to the Protectorate - a force acting in the opposite direction. It is the nature of politics - an eternal war of conflicting ideologies, waged to entities that embody them. Even if the Free Drones lose the war, the ideology will not disappear, for its most basic building element - the negation of control and oppression will instead act as a seed for another group, another organization - another entity. Destroying such a basic urge could only be achieved through the destruction of humankind.<end>
+
+=>q192
+Они -- полная противоположность Протекторату -- сила, действующая в противоположном направлении. Такова природа политики -- вечная война противоречивых идеологий между субъектами, которые их воплощают. Даже если Вольные шершни проиграют войну, их идеология не исчезнет, ведь её основной строительный элемент -- отрицание контроля и угнетения -- породит на свет новую группу, ещё одну -- другую сущность. Уничтожить столь базовое побуждение можно только уничтожив человечество.<end>
+
+=>q193_original
+But enough of politics, it is a time-consuming subject, and time I haven't. Was there anything else?<end>
+
+=>q193
+Но довольно о политике, это обширный предмет, а времени у меня нет. Что-нибудь ещё?<end>
+
+=>a194_original
+Thank you. I had other questions for you.<end>
+
+=>a194
+Спасибо. Но у меня были и другие вопросы.<end>
+
+=>a195_original
+Tchort guide you, Eidein.<end>
+
+=>a195
+Чорт направит вас, Эйдейн.<end>
+
+=>a196_original
+I have to leave now. Goodbye.<end>
+
+=>a196
+Мне пора. До свидания.<end>
+
+=>q197_original
+::A nightmarish visage stares at you with its barren eyes; tentacle-like extensions hanging from the lower part of the mask only add to the already intimidating sight. While it is only that, a mask, it seems natural to wonder if what is beneath it could be even more frightening. This tall, imposing figure is Eidein - founder of Institute of Tchort, there is no doubt about it. He wears a long, decorated robe that exhibits a ghastly flow with every move he makes, all of which are controlled and deliberate; also, a symbol of an eye with five tentacles growing out of it stamps the robe with the highest rank you've seen any of the Tchortists have.
+
+He lowers his head to look at you, and delivers his words in a profoundly deep voice, only slightly impeded by his terrifying mask.::<end>
+
+=>q197
+::Кошмарный лик смотрит на вас безжизненными глазами; похожие на щупальца отростки, свисающие из-под нижней части маски, только усугубляют и без того устрашающее зрелище. Хотя это действительно только лишь маска, но кажется естественным задаться вопросом: а вдруг скрытое под ней ещё страшнее? Этот высокий внушительный мужчина -- несомненно, Эйдейн, основатель Института Чорта. Он носит длинную изысканно украшенную мантию, производящую призрачные волны с каждым его уверенным чётким движением; кроме того, символ глаза с пятью растущими из него щупальцами указывает на высочайший ранг среди всех, виденных вами у чортистов.
+
+Он опускает голову, чтобы посмотреть на вас, и говорит крайне низким голосом, лишь слегка приглушённым его страшной маской.::<end>
+
+=>q198_original
+Tchort is evolution, $(context.player.Name); finally we meet. I would like to officially introduce myself: I am Eidein. I never had the opportunity to thank you for returning the set piece to Institute of Tchort; if it had stayed in the hands of the devolved, I would have been greatly disappointed. Well done.<end>
+
+=>q198
+Чорт -- это эволюция, $(context.player.Name); вот мы и встретились. Я хотел бы официально представиться: я Эйдейн. Я ещё не имел возможности поблагодарить вас за возвращение статуэтки в Институт Чорта; если бы она осталась в руках дегенератов, я был бы крайне разочарован. Вы молодец.<end>
+
+=>a199_original
+Evolution is Tchort. I retrieved the figurine in your name, illustrious Eidein.<end>
+
+=>a199
+Эволюция -- это Чорт. Я вернул$(#/а) статуэтку во имя ваше, сиятельный Эйдейн.<end>
+
+=>q200_original
+In that I have no doubt, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
+
+=>q200
+В этом я не сомневаюсь, $(context.player.Name). Редко я становлюсь свидетелем столь доблестных усилий от то$(#го/й), кто ещё не стал$(#/а) частью нашего учреждения.<end>
+
+=>q201_original
+::He pauses.:: <end>
+
+=>q201
+::Он делает паузу.::<end>
+
+=>q202_original
+Make yourself comfortable and let us begin. What do you seek of me?<end>
+
+=>q202
+Устраивайтесь поудобнее и давайте начнём. Что вам нужно от меня?<end>
+
+=>q203_original
+<end>
+
+=>q203
+<end>
+
+=>a204_original
+Hey, I got the chance to deliver some pain to those derailed freaks *and* join Institute of Tchort. Pure win!<end>
+
+=>a204
+Эй, я получил$(#/а) шанс пощипать этих поехавших уродов *и* присоединиться к Институту Чорта. Чистая победа!<end>
+
+=>q205_original
+I am most pleased with your enthusiasm. We rarely get to witness such valiant effort from those who have yet to become a part of our institution.<end>
+
+=>q205
+Меня весьма радует ваш энтузиазм. Редко я становлюсь свидетелем столь доблестных усилий от то$(#го/й), кто ещё не стал$(#/а) частью нашего учреждения.<end>
+
+=>a206_original
+It was nothing but pleasure.<end>
+
+=>a206
+Это было одно сплошное удовольствие.<end>
+
+=>q207_original
+Most excellent, $(context.player.Name). We rarely get to witness such valiant effort from those who have yet to become a part of our institution, and I sincerely hope you have more surprises in store for us.<end>
+
+=>q207
+Превосходно, $(context.player.Name). Редко я становлюсь свидетелем столь доблестных усилий от то$(#го/й), кто ещё не стал$(#/а) частью нашего учреждения, и я искренне надеюсь, что вы ещё преподнесёте много сюрпризов.<end>
+
+=>a208_original
+Now is the time for me to finally end the existence of this twisted cult - one corpse at a time! ::Attack!::<end>
+
+=>a208
+Сейчас самое время наконец прекратить существование этого извращённого культа -- подходи по одному! ::Напасть!::<end>
+
+=>q209_original
+The Faceless - did you learn anything new?<end>
+
+=>q209
+Безликие -- вы узнали что-нибудь новое?<end>
+
+=>a210_original
+I actually managed to talk to the Faceless: I found out they are planning an invasion on Institute of Tchort soon!<end>
+
+=>a210
+Мне удалось поговорить с безликими: они планируют нападение на Институт Чорта!<end>
+
+=>a211_original
+I remembered something: Before I killed the Faceless they told me that they are planning an invasion on Institute of Tchort!<end>
+
+=>a211
+Я вспомнил$(#/а) кое-что: прежде чем я убил$(#/а) безликих, они сказали, что планируют вторжение в Институт Чорта!<end>
+
+=>a212_original
+I found a large hole in one of the walls, drilled by a tunneler. I took a peek through and saw a large Faceless force, arming themselves and readying for combat.<end>
+
+=>a212
+Я наш$(#ёл/ла) большую дыру в одной из стен, проделанную буром. Я заглянул$(#/а) туда и увидел$(#/а) кучу безликих, вооружающихся и готовящихся к бою.<end>
+
+=>a213_original
+Not yet, Eidein.<end>
+
+=>a213
+Пока нет, Эйдейн.<end>
+
+=>q214_original
+Return once you do, $(context.player.Name). Tchort guide you.<end>
+
+=>q214
+Возвращайтесь, как только что-то узнаете, $(context.player.Name). Чорт направит вас.<end>
+
+=>q215_original
+Tchort is evolution. Welcome to my office. What do you seek, $(context.player.Name)?<end>
+
+=>q215
+Чорт -- это эволюция. Добро пожаловать в мой кабинет. Что вам нужно, $(context.player.Name)?<end>
+

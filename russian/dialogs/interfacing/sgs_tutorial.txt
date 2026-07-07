@@ -1,0 +1,422 @@
+﻿=>q1_original
+::You hear nothing but static.::<end>
+
+=>q1
+::Вы не слышите ничего, кроме помех.::<end>
+
+=>q2_original
+Can you hear me?<end>
+
+=>q2
+Ты меня слышишь?<end>
+
+=>a3_original
+Loud and clear.<end>
+
+=>a3
+Громко и ясно.<end>
+
+=>q4_original
+Great. <end>
+
+=>q4
+Прекрасно. <end>
+
+=>q5_original
+Now pick up your weapons and armor from the cabinet. I think there's also a few EMP's left on the shelf as well.
+
+::[Press TAB to highlight all interactable objects, or Z to reverse the order of highlighted objects. Contents of any container can be picked up by either double-clicking them in the container window or dragging them into your inventory, which can be opened in a separate window by pressing I. You can also press A to take all items from a container.]
+
+[All hotkeys presented in this tutorial are default values and can be changed in the options menu.]::<end>
+
+=>q5
+Теперь возьми своё оружие и броню из шкафчика. Кажется, на полке ещё оставалось несколько ЭМИ-гранат.
+
+::[Нажмите клавишу TAB, чтобы подсветить все интерактивные объекты, или Z, если они накладываются друг на друга. Подобрать содержимое контейнера вы можете, либо дважды щёлкая по предметам в открывшемся окне, либо перетаскивая их в свой инвентарь, который можно открыть в отдельном окне, нажав I. Вы также можете нажать клавишу A или кнопку «Забрать всё», чтобы забрать все предметы.]
+
+[Все горячие клавиши, представленные в данном руководстве заданы по умолчанию и могут быть изменены в меню настроек.]::<end>
+
+=>q6_original
+There will be three bots fighting against you, just like the first time, so choose an appropriate weapon and make sure you wear that armor. There was this guy a few years ago who forgot to put his armor on and... well, it didn't end well. Take those bots out.
+
+::[To equip weapons, armor and utilities, open the inventory and double-click on any of those items or drag them into their respective slot. You may have up to two weapons equipped at the same time, and you can select the primary weapon by clicking on its icon in the action bar. The left side of the inventory window represents the contents of your belt, and this is where you put your utility items, like grenades or special crossbow bolts.]::<end>
+
+=>q6
+Против тебя выйдут три бота, как и в прошлый раз, так что выбирай подходящее оружие и не забудь надеть броню. Помню, несколько лет назад один парень забыл надеть броню, и... ну, это плохо закончилось.
+
+::[Чтобы экипировать оружие, броню и вспомогательные устройства, откройте инвентарь и дважды щёлкните по нужному предмету или перетащите его в соответствующую ячейку. Вы можете носить два оружия одновременно; чтобы выбрать оружие, щёлкните левой кнопкой мыши на его иконке в панели действий. В левой части окна инвентаря находится содержимое вашего пояса. Туда кладутся инструменты, вроде гранат или специальных арбалетных болтов.]::<end>
+
+=>q7_original
+Ring me when you're ready to proceed, or if you have any questions.<end>
+
+=>q7
+Позвони мне, когда будешь готов$(#/а), или если у тебя будут какие-то вопросы.<end>
+
+=>a8_original
+Understood.<end>
+
+=>a8
+Ясно.<end>
+
+=>a9_original
+No.<end>
+
+=>a9
+Нет.<end>
+
+=>q10_original
+Yeah, right. <end>
+
+=>q10
+Ага, смешно. <end>
+
+=>q11_original
+Good job, $(context.player.Name). Now I want you to pick up the items from that locker. There should be a battery, a haxxor and two lockpicks inside.<end>
+
+=>q11
+Хорошая работа, $(context.player.Name). Теперь возьми снаряжение из этого шкафчика. Там должна быть батарейка, хаксор и две отмычки.<end>
+
+=>q12_original
+::He yawns.:: Use the lockpick to unlock the door. In the next room you will have to unlock the footlocker as well as that box before I let you through.
+
+::By left-clicking a locked object, the skill necessary to unlock that particular type of lock will be displayed above it. To open mechanical locks you will need high enough lockpicking skill, and for electronic, high enough hacking skill.::<end>
+
+=>q12
+::Он зевает.:: Используй отмычку, чтобы открыть дверь. В следующей комнате тебе придётся взломать ящики, прежде чем идти дальше.
+
+::[Щёлкнув левой кнопкой мыши на запертом объекте, вы увидите над ним тип блокировки и уровень навыка, необходимый для успешного взлома. Для открытия механических замков вам понадобится достаточный уровень навыка Взлом замков, а для электронных -- достаточно высокий уровень навыка Хакерство.]::<end>
+
+=>q13_original
+::[Using a lockpick can be done either from the inventory or more easily from the action bar. In the first case, right-click a lockpick and then left-click an object you want to unlock, while in the second, drag the lockpick into an action bar slot, select it and then use it on an object.]::<end>
+
+=>q13
+::[Отмычку можно использовать либо из инвентаря, либо из панели действий, что быстрее. В первом случае, щёлкните правой кнопкой мыши по отмычке, а затем щёлкните левой кнопкой мыши по объекту, который необходимо взломать. Во втором случае, переместите отмычку из инвентаря на панель действий, выберите её, а затем щёлкните левой кнопкой мыши на объекте.]::<end>
+
+=>q14_original
+Oh, and yeah, the container has an electronic lock, so charge your haxxor first if you wanna open that thing.
+
+::[Using a haxxor is similar to using a lockpick, with the exception that it needs to be charged first. You can use any battery to charge it. Simply right-click a battery, select "Recharge item" from the radial menu and then left-click the item you want to charge.]::<end>
+
+=>q14
+А, и ещё, на контейнере электронный замок, так что, если хочешь его открыть, в первую очередь заряди свой хаксор.
+
+::[Хаксор используется так же, как и обычная отмычка, за исключением того, что сначала его нужно зарядить. Чтобы зарядить его, вы можете использовать любую батарею. Просто щёлкните правой кнопкой мыши по батарее, выберите «Зарядить устройство» из радиального меню, а затем щёлкните левой кнопкой мыши по предмету, который хотите зарядить.]::<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>a16_original
+Can you repeat what I need to do in this room?<end>
+
+=>a16
+Не мог бы ты повторить, что мне нужно сделать в этой комнате?<end>
+
+=>q17_original
+Okay. I will. <end>
+
+=>q17
+Хорошо. Сейчас... <end>
+
+=>q18_original
+Here you've got one sentry bot and a camera. Try to sneak around the bot if you can. This one will *not* shut down after one hit, just to let you know.
+
+::[You can enter stealth mode both in and out of combat, but only if no one can see you while you're activating it. While in stealth mode, all characters, friend or foe, will display an icon above their heads which indicates whether they can see you or suspect that you are sneaking around. Your skill, proximity to a character, illumination and even whether you're in front or behind it all determine how well you remain hidden. Suffering a hit while in stealth mode will instantly reveal you, as will bumping into any characters.]::<end>
+
+=>q18
+Здесь у нас один сторожевой бот и камера. Попробуй проскользнуть мимо бота, если сможешь. И, чтоб ты знал$(#/а), этот НЕ отключится после одного удара.
+
+::[Вы можете войти в режим скрытности как вне боя, так и во время боя, но только если вас не видят, когда вы активируете эту способность. В режиме скрытности у всех персонажей, будь то друг или враг, над головой отображается значок, который указывает, могут ли они видеть вас или подозревать, что вы скрываетесь где-то рядом. Ваше мастерство, близость к персонажу, освещение и даже то, где вы находитесь по отношению к персонажу -- впереди или позади него -- всё это определяет, насколько хорошо вы скрыты. Полученный урон в режиме скрытности мгновенно раскроет вас, как и столкновение с любым персонажем.]::<end>
+
+=>q19_original
+By the way, the camera can see you no matter how good you think you're hiding, so it'd be best if you are able to avoid its line of sight completely.
+
+::[Stealth offers many advantages: You can pick how and when you initiate combat, or even avoid it altogether, which can completely change the outcome of an encounter. Also, certain abilities work only when you are in stealth, and can be used to cause massive damage on unsuspecting targets, for instance. Sound plays an important role in Underrail, since loud sounds can attract characters to investigate what is going on. Using quiet weapons, like crossbows or knives, is a good way to make sure a silent assassin remains truly silent.]::<end>
+
+=>q19
+Кстати, камера может видеть тебя независимо от того, насколько хорошо ты скрываешься. Так что, будет лучше, если ты сможешь вообще не попадаться в её поле обзора.
+
+::[Скрытность дает много преимуществ: вы можете выбрать как и когда начать бой или вовсе избежать его, что может полностью изменить исход столкновения. Также, некоторые способности работают только когда вы находитесь в режиме скрытности и могут быть использованы, например, для нанесения серьёзных повреждений ничего не подозревающим целям. Звук играет важную роль в Подземке, так как громкие звуки могут привлечь персонажей, которые захотят проверить, что происходит. Использование тихого оружия, такого как арбалеты или ножи, -- хороший способ гарантировать, что тихий убийца останется незамеченным.]::<end>
+
+=>q20_original
+That tactical vest might not be the most appropriate thing for sneaking, but it'll do for now.
+
+::[Of course, there are drawbacks too, most important of which is the armor penalty. Wearing heavy armor can severely reduce your effective stealth skill or even downright make it useless, so being aware of what gear you use is crucial.]::<end>
+
+=>q20
+Этот тактический жилет не слишком скрытный, но пока и этого хватит.
+
+::[Конечно, есть и препятствия, наиболее важным из которых является штраф брони. Ношение тяжёлой брони может серьёзно снизить действующее значение навыка скрытности или даже сделать его совершенно бесполезным, так что очень важно думать, какое снаряжение лучше использовать.]::<end>
+
+=>a21_original
+Vencel, how do I unlock things?<end>
+
+=>a21
+Венцель, как мне вскрывать замки?<end>
+
+=>q22_original
+Just use a lockpick on the lock you want to open. The locks we have at the range are simple enough for anyone to open.
+
+::By left-clicking a locked object, the game will display the skill necessary to unlock that particular type of lock. To open mechanical locks you will need high enough lockpicking skill, and for electronic, high enough hacking skill.::<end>
+
+=>q22
+Просто используй отмычку, если хочешь открыть замок. Замки у нас достаточно простые, так что любой может их открыть.
+
+::[Щёлкнув левой кнопкой мыши на запертом объекте, вы увидите уровень навыка, необходимый, чтобы открыть этот тип замка. Для открытия механических замков вам понадобится достаточный уровень навыка Взлом замков, а для электронных -- достаточно высокий уровень навыка Хакерство.]::<end>
+
+=>q23_original
+::[Using a lockpick can be done either from the inventory or more easily from the action bar. In the first case, right-click a lockpick and then left-click an object you want to unlock, while in the second, drag the lockpick into an action bar slot, left-click it and then use it on an object.]::<end>
+
+=>q23
+::[Отмычку можно использовать либо из инвентаря, либо из панели действий, что быстрее. В первом случае, щёлкните правой кнопкой мыши по отмычке, а затем щёлкните левой кнопкой мыши по объекту, который необходимо взломать. Во втором случае, переместите отмычку из инвентаря на панель действий, выберите её, а затем щёлкните левой кнопкой мыши на объекте.]::<end>
+
+=>q24_original
+That box has an electronic lock, so charge your haxxor before using it to open that thing. Again, it's simple enough for anyone to open.
+
+::[Using a haxxor is similar to using a lockpick, with the exception that it needs to be charged first. You can use any battery to charge it. Simply right-click a battery, select "Recharge item" from the radial menu and then left-click the item you want to charge.]::<end>
+
+=>q24
+На том ящике установлен электронный замок, так что сначала заряди свой хаксор. Это тоже простой замок, его сможет взломать кто угодно.
+
+::[Хаксор используется так же, как и обычная отмычка, за исключением того, что сначала его нужно зарядить. Чтобы зарядить его, вы можете использовать любую батарею. Просто щёлкните правой кнопкой мыши по батарее, выберите «Зарядить устройство» из радиального меню, а затем щёлкните левой кнопкой мыши по предмету, который хотите зарядить.]::<end>
+
+=>a25_original
+Got any combat tips for me?<end>
+
+=>a25
+Есть какие-нибудь советы по части боя?<end>
+
+=>q26_original
+Always be prepared and fight smart. Brute force will only get you so far.
+
+::[You can initiate combat manually (either by pressing ENTER or clicking the button in the lower right corner of the screen) or when an enemy spots you. Hovering over any characters will reveal their name, remaining health and attitude toward the player in the form of a colored name tag; right-clicking will display more info regarding health and active effects at the top of the screen.]::<end>
+
+=>q26
+Всегда будь подготовлен$(#/а) и сражайся с умом. На одной грубой силе далеко не уедешь.
+
+::[Бой может быть инициирован вручную (нажатием клавиши Enter или нажатием кнопки в правом нижнем углу экрана) или когда враг заметит вас. Наводите указатель мыши на персонажей, чтобы увидеть информацию об их имени, уровне здоровья и отношении к игроку, показанном цветом; щёлкните правой кнопкой мыши, чтобы выбрать цели и увидеть в верхней части экрана больше информации о здоровье и действующих эффектах.]::<end>
+
+=>q27_original
+::[Combat in Underrail is turn-based, which means that different characters take turns at performing their actions. Every time combat begins, whoever has the highest initiative will get to act first; the initiative stat has a base value which can be influenced by both agility and dexterity. However, should the player manually initiate combat, the player will always be the one to move first.]::<end>
+
+=>q27
+::[Бой в Подземке пошаговый; это означает, что персонажи по очереди выполняют свои действия. Каждый раз, когда начинается битва, тот, кто имеет самую высокую инициативу, будет ходить первым; инициатива имеет базовое значение, на которое влияют как Ловкость, так и Подвижность. Однако если вы вручную инициируете бой, то ваш персонаж всегда будет ходить первым.]::<end>
+
+=>q28_original
+::[When combat begins, an action point bar will appear in the lower right corner, which can be used for the duration of the player's turn. Movement points are colored yellow and can be used for movement only; action points are colored green, and can be used for attacking, using inventory items, interacting with game world objects, etc. and if the movement points have been exhausted, can be used for moving as well.]::<end>
+
+=>q28
+::[Когда начинается бой, в правом нижнем углу появляется панель, на которой показаны очки действия, которые могут быть использованы игроком в течение хода. Очки передвижения окрашены в жёлтый цвет и могут использоваться только для передвижения; очки действия окрашены в зелёный цвет и могут быть использованы для атаки, использования предметов, взаимодействия с объектами игрового мира и так далее. А если очки передвижения были исчерпаны, перемещаться можно за очки действия.]::<end>
+
+=>q29_original
+::[Pressing SPACE ends the player's turn, while pressing ENTER will end combat if all enemies have been defeated, incapacitated or if the player has managed to stay outside of their vision for long enough.]::<end>
+
+=>q29
+::[Клавиша Пробел завершает ход игрока. Нажатие на Enter приведёт к концу боя, если все враги уже побеждены, выведены из строя или если они потеряли вашего персонажа из видимости на достаточный срок.]::<end>
+
+=>a30_original
+Hey, Vencel, what weapons should I use against bots?<end>
+
+=>a30
+Эй, Венцель, какое оружие мне лучше использовать против ботов?<end>
+
+=>q31_original
+Technically, you can use whatever you feel suits you the best, but as you know bots in general are pretty well armored. Knives might work if you wanna slash rathounds, but against bots you better use something like high-caliber or armor-piercing bullets, explosives or even sledgehammers rather than, say, JHP rounds and bolts. Those ain't gonna work as well.<end>
+
+=>q31
+Строго говоря, ты можешь использовать всё, что посчитаешь нужным, но, как ты знаешь, роботы обычно хорошо бронированы. Нож пригодится резать крысоволков, но против роботов лучше использовать крупнокалиберные или бронебойные патроны, взрывчатку или кувалду. От болтов и экспансивных патронов будет мало толку.<end>
+
+=>q32_original
+Now, EMP weapons are best if you wanna do some serious damage or even short-circuit bots. These don't work so well against living enemies, unless you want to drain someone's energy shield, for example.<end>
+
+=>q32
+ЭМИ-оружие хорошо подходит, когда нужно нанести им серьёзные повреждения или даже вызвать короткое замыкание у ботов. Оно бесполезно против живых врагов, разве что если ты хочешь истощить энергетический щит противника.<end>
+
+=>a33_original
+And what about armor?<end>
+
+=>a33
+А что насчёт брони?<end>
+
+=>q34_original
+Well, armor is good for ya. ::He laughs.:: When it comes to armor, there's always a trade-off between protection and mobility. For example, wearing metal armor makes you less agile but offers more protection, while with, say, leather armor you get the opposite - less protection but more mobility. Of course, there's more to armor than just these two extremes, but you get the general idea. I hope.<end>
+
+=>q34
+Ну, броня полезна для здоровья. ::Он смеётся.:: Выбирая броню, всегда приходится искать компромисс между защитой и подвижностью. Например, металлическая броня сделает тебя неповоротлив$(#ым/ой), но хорошо защищает, в то время как, скажем, кожаные доспехи -- полная противоположность -- меньше защиты, но не так стесняют движения. Конечно, у каждой брони есть свои плюсы и минусы, но ты понял$(#/а) основную идею... Я надеюсь.<end>
+
+=>q35_original
+I've placed a tactical vest in the locker, which works good against bullets, and that's what you'll need right now.
+
+Anything else?<end>
+
+=>q35
+Я положил в шкафчик тактический жилет -- он достаточно хорошо защищает от пуль. Это как раз то, что тебе сейчас нужно.
+
+Что-нибудь ещё?<end>
+
+=>a36_original
+What do you mean by short-circuiting bots?<end>
+
+=>a36
+Что ты имеешь в виду под коротким замыканием у ботов?<end>
+
+=>q37_original
+An EMP blast will temporarily take out any bots it hits. Know that after some time they will power on again, and will be immune to EMP for a short period of time. It's some funky defense mechanism. I think it was Harold who already explained that to me, but I... wasn't paying enough attention.<end>
+
+=>q37
+Электромагнитный импульс временно выводит роботов из строя. Помни, что через некоторое время они снова включаются и становятся невосприимчивы к ЭМИ на некоторое время. Это какой-то базовый защитный механизм. Кажется, Гарольд объяснял мне что-то, но я... невнимательно слушал.<end>
+
+=>a38_original
+I wanted to ask you about armor.<end>
+
+=>a38
+Я хотел$(#/а) спросить тебя о броне.<end>
+
+=>a39_original
+What are some effective ways for me to temporarily disable my enemies?<end>
+
+=>a39
+Какие есть эффективные способы временно вывести врагов из строя?<end>
+
+=>q40_original
+There's loads of ways one can deal with his opponents. Some you can incapacitate by flashbangs, others you can stun with electrical weapons...
+
+::[While both stun and incapacitation are disabling effects that prevent a target from performing any action, they are not the same. Incapacitation effect breaks the line of sight between the player and the target, allowing for stealthing and easier escape or repositioning, but can be removed by any attack. Stun, on the other hand, cannot be removed in almost all cases, but stunned targets do retain the line of sight and will chase the player once the stun effect wears off.]::<end>
+
+=>q40
+Есть множество способов одолеть противников. Некоторых можно вывести из строя с помощью светошумовой гранаты, других можно оглушить электрическим оружием...
+
+::[Оглушение и ошеломление -- это выводящие из строя эффекты, которые не дают цели выполнять любые действия, но между ними есть разница. Оглушение не даёт цели видеть игрока, что позволяет вам скрыться и убежать, но будет прервано, если цель получит урон. Ошеломление, с другой стороны, не может быть прервано, но противник сохраняет возможность видеть и будет преследовать игрока, как только эффект пройдёт.]::<end>
+
+=>q41_original
+...you can use traps, or if you're good with psionics, you can even mess with people's heads. Just remember that what you can do to others, they can also do to you.
+
+::[Other disabling effects can prevent targets from moving, slow them down and more. Many human enemies will have similar tools at their own disposal, so learning about all these effects not only helps you use them, but figure out ways to defend from them.]::<end>
+
+=>q41
+...ты можешь использовать ловушки, или даже залезать людям в головы, если владеешь псионикой. Только помни: всё, что ты можешь сделать с другими, они могут сделать с тобой.
+
+::[Прочие эффекты могут замедлить цель или вовсе её парализовать. Многие враги будут иметь аналогичные инструменты в своём распоряжении, поэтому знание всех этих эффектов не только позволит вам эффективно использовать их, но и поможет найти способы защиты.]::<end>
+
+=>a42_original
+I had other questions.<end>
+
+=>a42
+У меня были другие вопросы.<end>
+
+=>q43_original
+::He yawns.:: Sorry; I know how it sounds. What did you want to know?<end>
+
+=>q43
+::Он зевает.:: Извини... Я знаю, как это звучит. Что ты хочешь знать?<end>
+
+=>a44_original
+I'm ready. Open the gate.<end>
+
+=>a44
+Я готов$(#/а). Открывай дверь.<end>
+
+=>a45_original
+How do I hold a weapon?<end>
+
+=>a45
+Как держать оружие?<end>
+
+=>q46_original
+::He laughs.:: That's a good one.
+
+::[To equip weapons, armor and utilities, open the inventory and double click on any of those items or drag them into their respective slot. You may have up to two weapons equipped at the same time, and you can select the primary weapon by clicking on its icon in the action bar. The left side of the inventory window represents the contents of your belt, and this is where you place your utility items, like grenades or special crossbow bolts.]::<end>
+
+=>q46
+::Он смеётся.:: Очень смешно.
+
+::[Чтобы экипировать оружие, броню и другие устройства, откройте инвентарь и дважды щёлкните по нужному предмету или перетащите его в соответствующую ячейку. Вы можете носить два оружия одновременно; чтобы выбрать оружие, щёлкните левой кнопкой мыши на его иконке в панели действий. В левой части окна инвентаря находится содержимое вашего пояса. Туда кладутся ваши инструменты, вроде гранат или специальных арбалетных болтов.]::<end>
+
+=>a47_original
+How do I use my weapons and devices more effectively?<end>
+
+=>a47
+Как эффективнее использовать оружие и инструменты?<end>
+
+=>q48_original
+Keep important items where they're easy to access.
+
+::[The lower part of the screen contains the action bar. The left segment of the bar is where you can drag items and abilities for easier use. Certain items can be dragged from the inventory, while abilities and special attacks can be dragged from the quick invoker, which can be opened by pressing F or clicking its icon on the action bar.]::<end>
+
+=>q48
+Держи важные инструменты под рукой.
+
+::[В нижней части экрана находится панель действий. В левую её часть вы можете перетаскивать предметы и способности для быстрого доступа. Подходящие предметы можно перетаскивать из инвентаря, а способности и специальные атаки можно перетащить из панели быстрого вызова, которая может быть открыта клавишей F или щелчком по её значку на панели действий.]::<end>
+
+=>q49_original
+::[The action bar also displays which of the weapons you have equipped is the primary one, and can be seen in player model's hands. Weapons can be switched by clicking on them or pressing X for no cost of action points.]::<end>
+
+=>q49
+::[Панель действий также показывает, какое оружие вы сейчас используете -- его можно увидеть в руках персонажа. Оружие можно переключать без затрат очков действия, щёлкнув левой кнопкой мыши на нём или нажав Х.]::<end>
+
+=>q50_original
+::[The right segment of the action bar contains belt items. This is where grenades, special bolts and other utilities are displayed. The number of slots can be increased by equipping different belts and/or having certain feats.]::<end>
+
+=>q50
+::[В правой части панели действий показаны предметы на поясе. Здесь находятся гранаты, специальные болты и другие инструменты. Количество ячеек можно увеличить, одев специальный пояс или изучив соответствующее умение.]::<end>
+
+=>q51_original
+::[Lastly, just above the action bar is the experience bar, which displays how much experience you have gained and how much more you need to level up.]::<end>
+
+=>q51
+::[И наконец, чуть выше панели действий находится полоска опыта, которая показывает, сколько опыта вы набрали и сколько вам ещё нужно до нового уровня]::<end>
+
+=>q52_original
+'Cause, you know, digging through your bag to find that health hypo you urgently need is not the smartest way to go about it, $(context.player.Name).<end>
+
+=>q52
+Потому что, знаешь ли, копаться в рюкзаке в поисках стимулятора, когда он тебе срочно нужен -- не самый умный подход, $(context.player.Name).<end>
+
+=>a53_original
+How do I reload my weapon?<end>
+
+=>a53
+Как перезарядить оружие?<end>
+
+=>q54_original
+Really?
+
+::[If you are using a weapon which has ammo or needs to be charged, an ammo/energy counter will appear above the action bar and will display remaining ammo/energy. To reload your primary firearm, hold SHIFT to display all appropriate ammo types you can use with the weapon, and click on the desired ammo type. You can also reload directly from inventory: Right-click the ammo type you want and use the radial menu to select the desired option (load full magazine, single round, etc.). Then, left-click on the weapon you want to load. A weapon can also be unloaded, which is done by simply right-clicking it while it is in your inventory.]::<end>
+
+=>q54
+Ты это серьёзно?
+
+::[Если у вас есть оружие, которое использует патроны или требует зарядки батареи, счётчик патронов/энергии появится над панелью действий и будет отображать оставшиеся патроны/энергию. Для перезарядки вашего основного оружия удерживайте SHIFT, чтобы отобразить все виды боеприпасов, которые можно с ним использовать, и нажмите на требуемый тип боеприпаса. Также, можно перезарядить напрямую из инвентаря: щёлкните правой кнопкой мыши по боеприпасу того типа, который вы хотите использовать. В открывшемся радиальном меню выберите нужную опцию (зарядить полный магазин, один патрон и так далее). Затем щёлкните левой кнопкой мыши по оружию, которое вы хотите перезарядить. Оружие также может быть разряжено -- для этого щёлкните правой кнопкой мыши по нему в инвентаре.]::<end>
+
+=>q55_original
+::[Crossbows do not need to be reloaded, because they use bolts directly from the inventory. Special bolts, however, need to be placed in utility slots before they can be used. Energy weapons are charged in a similar fashion to firearms, with the exception that they cannot be unloaded.]::<end>
+
+=>q55
+::[Арбалет не нужно перезаряжать, потому что он использует болты напрямую из инвентаря. Однако для того, чтобы использовать специальные болты, они должны быть помещены в ячейку на поясе. Энергетическое оружие перезаряжается так же, как и огнестрельное, за исключением того, что его нельзя разрядить.]::<end>
+
+=>q56_original
+Look, I'm tired and can't tell if you're joking or if you're being serious.<end>
+
+=>q56
+Слушай, я устал и не могу понять -- ты это шутишь или серьёзно?<end>
+
+=>a57_original
+That would be all for now. I'll ring you if I have any more questions.<end>
+
+=>a57
+Пока всё. Я позвоню тебе, если у меня возникнут ещё вопросы.<end>
+
+=>q58_original
+Good, good. Now for the final room: <end>
+
+=>q58
+Хорошо, хорошо. Теперь последняя комната.<end>
+
+=>q59_original
+I'm here.<end>
+
+=>q59
+Я здесь.<end>
+

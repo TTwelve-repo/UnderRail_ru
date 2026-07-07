@@ -1,0 +1,260 @@
+﻿=>q1_original
+::Then man before you wears a simple shirt on his body and a simple smile on his face. Nothing strikes you out-of-the ordinary on him except perhaps for his bushy arm-hair, which looks like it was transplanted from a large rathound.::
+
+Hello traveler, and welcome to Camp Hathor. My name is Fred, and I've got medical supplies for sale. There something you need?<end>
+
+=>q1
+::Мужчина перед вами одет в простую рубашку, а его лицо украшает искренняя улыбка. Единственное, что привлекает ваше внимание -- его необычайно волосатые руки, как будто пересаженные от большого крысоволка.::
+
+Привет, путешественни$(#к/ца), и добро пожаловать в лагерь Хатор. Меня зовут Фред, и я продаю медикаменты. Вам что-то нужно?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Show me what you have for sale. ::Barter.::<end>
+
+=>a3
+Покажите мне, что у вас есть на продажу. ::Обмен.::<end>
+
+=>a4_original
+What can you tell me about Camp Hathor?<end>
+
+=>a4
+Что вы можете рассказать мне о лагере Хатор?<end>
+
+=>q5_original
+Well, well, Camp Hathor is a hunting camp, you dig. We hunt all sorts of animals around these caves and then export large amounts of meat to stations and other settlements. From SGS to Foundry to Core City. The dormant caves just across the river are amazingly rich in animal life, you dig, so rich you could shoot a bolt from here and are likely to hear something squeal in pain.<end>
+
+=>q5
+Ну чё, лагерь Хатор это, типа, охотничий лагерь. Мы охотимся на всяких животных в этих пещерах, а потом продаём всё это мясо другим станциям и поселениям от ССГ до Литейки и до Кор-Сити. В необитаемых пещерах на другом берегу реки водится на удивление много живности, столько, что если, типа, выстрелить болтом с этого берега, то, скорее всего, на том берегу что-нибудь завизжит от боли.<end>
+
+=>q6_original
+Just look around here, I'm sure you'll see we mean business.<end>
+
+=>q6
+Просто осмотрись вокруг, и увидишь, что мы не шутим.<end>
+
+=>a7_original
+What can you tell me about the Rathound King?<end>
+
+=>a7
+Что вы можете рассказать мне о Короле крысоволков?<end>
+
+=>q8_original
+Imagine that you're a mindshroom. Can you imagine it? Good... Well, you're minding your own business, living in a cave, peacefully. No one's nibbling you or trying to tug you outta the ground. Peace. Then a freakin' Rathound King comes out of nowhere with an army of stinkin' rats and starts killing everything around you. And it goes on and on and on for years. He's mean as he's ugly, but he is strong and got enough mass in his head to cause us a lot of trouble, you dig.
+
+But you fight back! You're a strong mindshroom that will eventually find that barbarian's lair and end his evildoing.<end>
+
+=>q8
+Вот представь, что ты гриб-мозгляк. Можешь себе такое представить? Хорошо... ну вот, занимаешься ты своими грибными делами где-то в пещере, никого не трогаешь. Никто тебя не грызёт и не пытается вытащить из земли. Благодать. И вдруг долбаный Король крысоволков приходит из ниоткуда с армией вонючих крыс и начинает убивать всех вокруг. И так продолжается год за годом. Он злобный и уродливый, но достаточно сильный и упёртый, чтобы, типа, причинить нам массу неприятностей.
+
+Но ты отбиваешься! Ты сильный мозгляк, который в конечном счёте найдёт логово варвара и положит конец его злодействам.<end>
+
+=>q9_original
+::He laughs.:: This is actually a play I'm writing based on real events concerning the Rathound King. It's a comedy, you dig. Maybe one day I'll be able to direct a violent re-enactment in the Arena. Core City will have to wait, though.<end>
+
+=>q9
+::Он смеётся.:: Я, кстати, пишу пьесу, основанную на реальной истории Короля крысоволков. Типа, комедию. Может быть, однажды я поставлю кровавый спектакль на Арене. Кор-Сити, правда, придётся ещё подождать.<end>
+
+=>a10_original
+I'm ready for the joke.<end>
+
+=>a10
+Ну, давайте теперь анекдот.<end>
+
+=>q11_original
+Great. Here goes: A rathound walks into a bar. ::He pauses briefly, appearing as if he's going to explode from laughter.:: Oh, it walks in... and the barkeeper shoots it! ::And then he erupts, startling everyone in the vicinity. It takes but a moment before tears begin rolling down his face - a shroomberry on the cake of visceral amusement.:: You dig? Because no one likes those dirty rathounds. That's why he shot it. You dig?<end>
+
+=>q11
+Отлично. Короче, заходит крысоволк в бар. ::Он делает паузу. Кажется, будто он вот-вот лопнет от смеха.:: Типа, заходит он... а бармен его взял, и застрелил! ::Он не выдерживает и ржёт как конь, напугав всех вокруг. Слёзы текут по его щекам, как бы становясь грибочком на торте примитивной шутки.:: Сечёшь? Он застрелил его, потому что никто не любит грязных крысоволков. Дошло?<end>
+
+=>a12_original
+That joke is so bad it made me depressed.<end>
+
+=>a12
+Плохая шутка, настолько плохая, что мне даже стало грустно.<end>
+
+=>q13_original
+Ooh, I had some antidepressants yesterday, but now I'm all out. Can I offer something else?<end>
+
+=>q13
+Ох, у меня вчера ещё были антидепрессанты, но теперь всё закончились. Могу ли я предложить что-нибудь другое?<end>
+
+=>a14_original
+::Laugh.:: That's a good one! You're one funny man, Fred.<end>
+
+=>a14
+::Засмеяться.:: Смешно! Ты забавный человек, Фред.<end>
+
+=>q15_original
+Thanks, $(#man/sister). I worked hard on that one. Took me a while. Whooh. One day I'm gonna make a joke so funny the earth's gona crack... up! ::He laughs.::<end>
+
+=>q15
+Спасибо, $(#мужик/сестра). Я серьёзно работал над этим анекдотом. Много времени ушло. Ух. Однажды я пошучу так, что земля треснет... от смеха! ::Он смеётся.::<end>
+
+=>a16_original
+Yes. Funny. Yes. Now, I'd like to talk to you about something else.<end>
+
+=>a16
+Да, очень смешно. Теперь давай поговорим о чём-нибудь другом.<end>
+
+=>q17_original
+Um, no problem. What do you need?<end>
+
+=>q17
+Эм, никаких проблем. Что тебе нужно?<end>
+
+=>a18_original
+I've noticed that you and the other two merchants here are named Fred, Fredd and Freddy. Is that a coincidence?<end>
+
+=>a18
+Я заметил$(#/а), что вас и двух других торговцев зовут Фред, Фредд и Фредди. Это совпадение?<end>
+
+=>q19_original
+It's no coincidence - we're actually brothers. We have a common last name, Hammerstein, you dig. Not many people know this, and usually they think we happen to have similar names. You dig, it's a funny coincidence and that. But believe me, we're brothers... ::His voice suddenly darkens and he leans closer to you.:: ...and if you even touch one of them, I will cut you like a pig.<end>
+
+=>q19
+Это не совпадение, мы на самом деле братья. У нас общая фамилия, Хаммерштайн, сечёшь. Мало кто знает об этом, и обычно они думают, что у нас просто похожие имена. Типа, забавное совпадение, и всё. Но поверь, мы братья... ::Внезапно, он понижает голос и наклоняется ближе к вам.:: и если хоть пальцем тронешь кого из них, я тебя зарежу как свинью.<end>
+
+=>a20_original
+And if you touch me, I'll make sure you kiss the floor until your face turns to mush.<end>
+
+=>a20
+А если ты тронешь меня, то будешь целовать пол, пока твоё лицо не превратится в кашу.<end>
+
+=>q21_original
+::Fred starts laughting.:: Calm down. I'm messing with ya. Of course we're not brothers.<end>
+
+=>q21
+::Фред смеётся.:: Успокойся. Я тебя разыграл. Никакие мы не братья.<end>
+
+=>a22_original
+I knew you were trying to pull my leg, so I'd say why not return the favor.<end>
+
+=>a22
+Я знал$(#/а), что ты мне голову морочишь, так что почему бы и не вернуть должок.<end>
+
+=>q23_original
+Oh, yes, I'm sure you were. Mhm. Well, now, are we gonna do same trading or not?<end>
+
+=>q23
+Ах, ну да, ясное дело. Ага. Ну, теперь поторгуем или как?<end>
+
+=>a24_original
+You got me good. Well done, Fred.<end>
+
+=>a24
+Здорово ты меня. Молодец, Фред.<end>
+
+=>q25_original
+It's always fun to see other people's reactions, you dig. I do this often, actually. Well, now, are we gonna do same trading or not?<end>
+
+=>q25
+Всегда весело смотреть на, типа, реакцию других людей. Я часто так делаю. Ну, теперь поторгуем или как?<end>
+
+=>a26_original
+Calm down, man. What's the matter with you?<end>
+
+=>a26
+Да успокойся ты. Что с тобой такое?<end>
+
+=>q27_original
+::Fred starts laughting.:: Relax, $(# man/sister), I'm messing with ya. I won't hurt you. Of course we're not brothers.<end>
+
+=>q27
+::Фред смеётся.:: Расслабься, $(#мужик/сестра), я тебя разыграл. Я тебя не трону. Никакие мы не братья.<end>
+
+=>a28_original
+Please don't kill me!<end>
+
+=>a28
+Пожалуйста, не убивай меня!<end>
+
+=>q29_original
+::Fred starts laughting.:: Don't wet your pants, please! Of course we're not brothers, I'm just joking. Calm down, $(# man/sister), calm down.<end>
+
+=>q29
+::Фред смеётся.:: Не описайся, пожалуйста! Никакие мы не братья, я пошутил. Успокойся, $(#мужик/сестра), успокойся.<end>
+
+=>a30_original
+What's your opinion on this whole Rathound King situation?<end>
+
+=>a30
+Что вы думаете про всю эту историю с Королём крысоволков?<end>
+
+=>q31_original
+I don't know *how* it happened, I don't know *why* it happened, but we made truce with the Rathound King. I know when and *where* it happened and... ::He stops to think for a  moment.:: You know, I'm trying to set up a joke but I just can't think of anything. <end>
+
+=>q31
+Я не знаю *как* это случилось, я не знаю, *почему* это случилось, но мы заключили мир с Королём крысоволков. Я знаю, когда и *где* это случилось и... ::Он задумывается на мгновение.:: Ты знаешь, я пытаюсь придумать анекдот, но ничего не выходит.<end>
+
+=>q32_original
+I'm getting old.<end>
+
+=>q32
+Я старею.<end>
+
+=>q33_original
+Well, that caveman is no more, and the whole camp's happy about that. But, on the other hand, we lost Edgar.<end>
+
+=>q33
+Ну, этого дикаря больше нет, и весь лагерь это радует. Но с другой стороны, мы потеряли Эдгара.<end>
+
+=>q34_original
+I got nothing else to say. Really.<end>
+
+=>q34
+Мне нечего больше сказать. Правда.<end>
+
+=>q35_original
+With that caveman *and* the burrowers gone, we're going to have a much easier time around here, you dig. It's gonna be easier to sleep at night when you don't have to worry about rathounds killing your fellow Hathorians.<end>
+
+=>q35
+Теперь, когда больше нет этого дикаря и могильщиков, мы здесь, типа, заживём намного лучше. Крепче спишь по ночам, когда не приходится беспокоиться, что крысоволки загрызут соседей-хаторцев.<end>
+
+=>q36_original
+::After a pause, his eyes focus on the right side of your face.:: Is that a cut on your cheek? Need a bandage and some painkillers for that?<end>
+
+=>q36
+::После небольшой задержки, его взгляд фокусируется на правой стороне вашего лица.:: Это у тебя порез на щеке? Нужен бинт или обезболивающее?<end>
+
+=>a37_original
+See ya later.<end>
+
+=>a37
+Увидимся позже.<end>
+
+=>q38_original
+Hey, wanna hear a joke?<end>
+
+=>q38
+Эй, хочешь анекдот?<end>
+
+=>a39_original
+Sure, I love jokes.<end>
+
+=>a39
+Конечно, я люблю анекдоты.<end>
+
+=>a40_original
+No thanks. Not now, at least.<end>
+
+=>a40
+Нет, спасибо. По крайней мере не сейчас.<end>
+
+=>q41_original
+It's a good one. Your loss.<end>
+
+=>q41
+Он смешной. Ну как хочешь.<end>
+
+=>q42_original
+Greetings again. How can I be of assistance?<end>
+
+=>q42
+Снова привет. Чем я могу помочь?<end>
+

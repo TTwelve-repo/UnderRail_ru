@@ -1,0 +1,247 @@
+﻿=>q1_original
+::LEMCO LC387 - ::<end>
+
+=>q1
+::ЛЕМКО LC387 - ::<end>
+
+=>q2_original
+::Welcome, P. Bridges::
+
+<end>
+
+=>q2
+::Добро пожаловать, Ф. Бриджес::
+<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+::Arch Keep Defense System status:
+
+Automated defenses:
+
+Active Naga Protectors: N/A
+Active Auto-turrets: $(context.loc_xpbl_e5_lemurianTurretsActive)
+Active Auto-artillery units: 0
+
+Protective Energy Dome: Offline::<end>
+
+=>q4
+Статус системы защиты хранилища Арч:
+
+Автоматизированные системы защиты:
+
+Действующие Защитники Нага: Н/Д
+Действующие автоматические турели: $(context.loc_xpbl_e5_lemurianTurretsActive)
+Действующие авто-артиллерийские установки: 0
+
+Защитный энергетический купол: офлайн::<end>
+
+=>a5_original
+::Naga Protector control system::<end>
+
+=>a5
+::Система управления Защитником Нага::<end>
+
+=>a6_original
+::Auto-turret defense system::<end>
+
+=>a6
+::Защитная система автоматических турелей::<end>
+
+=>q7_original
+::Auto-turret defense system status: Offline::<end>
+
+=>q7
+::Статус защитной системы автоматических турелей: офлайн::<end>
+
+=>a8_original
+::Enable auto-turret defense system::<end>
+
+=>a8
+::Включить защитную систему автоматических турелей::<end>
+
+=>q9_original
+::Enabling...
+
+D5... No auto-turrets detected.
+D6... No auto-turrets detected.
+E5... ::<end>
+
+=>q9
+::Включение...
+
+D5... Автоматических турелей не обнаружено.
+D6... Автоматических турелей не обнаружено.
+E5... ::<end>
+
+=>q10_original
+::2 auto-turrets detected.::
+<end>
+
+=>q10
+::обнаружено 2 автоматические турели.::<end>
+
+=>q11_original
+
+::E6: No auto-turrets detected.::<end>
+
+=>q11
+::E6: Автоматических турелей не обнаружено.::<end>
+
+=>q12_original
+::Loading CIDFF profile and performing areal scan...
+
+Warning: Detected targets do not match the CIDFF profile category definition: Lemurian Security
+
+Designate as foes or update category definition?::<end>
+
+=>q12
+::Загрузка профиля БИДСЧ и проведение сканирования области...
+
+Внимание: обнаруженные цели не соответствуют определению категории профиля БИДСЧ: Лемурийская служба безопасности
+
+Обозначить как врагов или обновить определение категории?::<end>
+
+=>a13_original
+::Update category definition (this process will be performed automatically)::<end>
+
+=>a13
+::Обновить определение категории (этот процесс будет выполняться автоматически)::<end>
+
+=>q14_original
+::Collecting data... Done.
+
+Processing... Done.
+
+Updating definition... Done.
+
+::<end>
+
+=>q14
+::Сбор данных... Выполнено.
+
+Обработка... Выполнено.
+
+Обновление определения... Выполнено.
+
+::<end>
+
+=>q15_original
+::Activating... Done.
+
+Auto-turret activation procedure completed.::<end>
+
+=>q15
+::Активация... Выполнено.
+
+Процедура активации автоматических турелей завершена.::<end>
+
+=>q16_original
+::Auto-turret defense system status: Online::<end>
+
+=>q16
+::Статус защитной системы автоматической артиллерии: онлайн::<end>
+
+=>a17_original
+::Back::<end>
+
+=>a17
+::Назад::<end>
+
+=>a18_original
+::Designate as foes::<end>
+
+=>a18
+::Обозначить как врагов::<end>
+
+=>q19_original
+::1 auto-turret detected.::<end>
+
+=>q19
+::обнаружена 1 автоматическая турель.::<end>
+
+=>a20_original
+::Auto-artillery defense system::<end>
+
+=>a20
+::Защитная система автоматической артиллерии::<end>
+
+=>a21_original
+::Protective Energy Dome control system::<end>
+
+=>a21
+::Система управления защитным энергетическим куполом::<end>
+
+=>a22_original
+::Contact active security supervisor::<end>
+
+=>a22
+::Связаться с действующим инспектором охраны::<end>
+
+=>q23_original
+::No active security supervisors detected. There may be temporary communication problems preventing this. 
+
+Please try again later.::<end>
+
+=>q23
+::Действующих инспекторов охраны не обнаружено. Возможно, это случилось по причине временных проблем со связью.
+
+Попытайтесь ещё раз позже.::<end>
+
+=>a24_original
+::Summon available Servants::<end>
+
+=>a24
+::Вызвать доступных слуг::<end>
+
+=>a25_original
+::Exit::<end>
+
+=>a25
+::Выход::<end>
+
+=>q26_original
+<end>
+
+=>q26
+<end>
+
+=>q27_original
+::Welcome, guest
+
+::<end>
+
+=>q27
+::Добро пожаловать, гость
+
+::<end>
+
+=>q28_original
+::You do not have permission to use this console. Minimum clearance level required is C-3.::<end>
+
+=>q28
+::У вас нет разрешения на использование этой консоли. Минимальный требуемый уровень допуска - С-3.::<end>
+
+=>a29_original
+::[Hacking] Gain access to the security console::<end>
+
+=>a29
+::[Хакерство] Получить доступ к консоли безопасности.::<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>q31_original
+::Unknown error::<end>
+
+=>q31
+::Неизвестная ошибка::<end>
+

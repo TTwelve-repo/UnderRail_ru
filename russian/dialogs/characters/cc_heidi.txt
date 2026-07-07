@@ -1,0 +1,762 @@
+﻿=>q1_original
+::As you move closer to the woman who appears to be in her late thirties or early forties, you notice she is holding a scalpel in front of her face, studying it with great concentration. She turns it around and observes it from every angle, occasionally touching the blade with her thin fingers and smiling. You wait quietly, but you get no acknowledgement; it appears that this object mesmerizes her so much that she is unaware of you even being there.::<end>
+
+=>q1
+::Приближаясь к этой женщине, которой, по-видимому, около сорока лет, вы замечаете, что она вертит скальпель перед глазами, внимательно осматривая его. Она поворачивает его вокруг оси и изучает со всех сторон, изредка касаясь лезвия тонкими пальцами и улыбаясь. Вы спокойно ждёте, но не получаете ни капли внимания; кажется, что она настолько заворожена своим занятием, что даже не замечает вашего присутствия.::<end>
+
+=>a2_original
+Excuse me, um, are you a doctor?<end>
+
+=>a2
+Простите, а вы врач?<end>
+
+=>q3_original
+::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: Why, yes I am! I have a coat, that makes me a doctor, doesn't it? Does it not!? ::Cackles.:: My name is Doctor Gratz. Now, allow me to diagnose your illness straight away. That's why you're here, right? Right!? Hm...<end>
+
+=>q3
+::Она отвлекается от своего важного занятия и поворачивается к вам. Выражение её лица смягчается, она улыбается. Вскоре она отвечает звучным высоким голосом.:: Конечно же да! На мне же халат, а значит я врач, правда? Разве нет?! ::Она хихикает.:: Меня зовут доктор Гратц. Теперь, позвольте мне поставить вам диагноз. Вы ведь за этим здесь, верно? Верно?! Хм...<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+Rib fracture?<end>
+
+=>q5
+Перелом ребра?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+Could you take a look at my injuries?<end>
+
+=>a7
+Не могли бы вы взглянуть на мои раны?<end>
+
+=>q8_original
+Let's see now. ::She inspects you carefully.:: I can treat you with an invasive and excruciatingly painful procedure which will cost you ten charons! And not a charon more! Not a charon more!<end>
+
+=>q8
+Давайте посмотрим. ::Она внимательно осматривает вас.:: Я могу предложить мучительно болезненную хирургическую процедуру, которая обойдётся вам в десять харонов! И ни хароном больше! Ни хароном!<end>
+
+=>a9_original
+Here you go, doc. ::Give her 10 stygian coins.::<end>
+
+=>a9
+Идёт, док. Вот. ::Дать ей 10 стигийских монет.::<end>
+
+=>q10_original
+Good. Now I want you to be a brave little $(#boy/girl). ::She cackles.::<end>
+
+=>q10
+Хорошо. Теперь я хочу, чтобы вы проявили мужество, $(#малыш/детка). ::Она хихикает.::<end>
+
+=>a11_original
+::Let her heal you.::<end>
+
+=>a11
+::Позволить ей лечить вас.::<end>
+
+=>a12_original
+I'm suddenly feeling really good. As a matter of fact, I think I'm in the best shape of my life!<end>
+
+=>a12
+Мне уже намного лучше. Собственно говоря, мне кажется, что лучше я себя ещё в жизни не чувствовал$(#/а)!<end>
+
+=>q13_original
+Ah yes, many people suddenly recover just as I'm about to perform my invasive and excruciatingly painful procedure. Strange...<end>
+
+=>q13
+Ах да, многие люди неожиданно выздоравливают, едва я собираюсь произвести мучительно болезненное хирургическое вмешательство. Странно...<end>
+
+=>a14_original
+I don't have the coins right now.<end>
+
+=>a14
+У меня сейчас нет денег.<end>
+
+=>q15_original
+Then I can't help you by performing an invasive and excruciatingly painful procedure. No, I can't! I can't! ::She cackles.::<end>
+
+=>q15
+Тогда я не могу помочь вам, проведя мучительно болезненное хирургическое вмешательство. Нет, я не могу! Я не могу! ::Она хихикает.::<end>
+
+=>q16_original
+That'll cost you ten charons and a lot of tears.<end>
+
+=>q16
+Это обойдётся вам в десять харонов и море слёз.<end>
+
+=>a17_original
+Do you have anything to trade? ::Barter.::<end>
+
+=>a17
+У вас есть что-нибудь на обмен? ::Обмен.::<end>
+
+=>a18_original
+What happened to the man staying here for treatment?<end>
+
+=>a18
+Что случилось с человеком, который остался здесь на лечение?<end>
+
+=>q19_original
+I'm not allowed to say anything about that criminal.<end>
+
+=>q19
+Мне нельзя ничего говорить об этом преступнике.<end>
+
+=>q20_original
+But when he recovers, he's going back to the slammer! ::She cackles.::<end>
+
+=>q20
+Но когда он выздоровеет, он вернётся в тюрьму! ::Она смеётся.::<end>
+
+=>a21_original
+This might sound like an odd thing to ask, but do you by any chance remember... if you ever performed surgery on me?<end>
+
+=>a21
+Это может прозвучать странно, но вы случайно не помните... не делали ли вы мне какую-нибудь операцию?<end>
+
+=>q22_original
+Surgery? ::She gestures a slash with her scalpel.::
+
+No...
+
+No, no, I don't remember.<end>
+
+=>q22
+Операцию? ::Она машет скальпелем в воздухе.::
+
+Нет...
+
+Нет, нет, не помню.<end>
+
+=>q23_original
+Memories are a fleeting thing, though...<end>
+
+=>q23
+Хотя воспоминания - вещь мимолетная...<end>
+
+=>a24_original
+I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
+
+=>a24
+Я ищу информацию о Призраках, бывшем спецназе Биокорп. Вы что-нибудь знаете о них?<end>
+
+=>q25_original
+Spectres? Spectres? Hmmm... That sounds awfully familiar...<end>
+
+=>q25
+Призраки? Призраки? Хм-м-м... Звучит ужасно знакомо...<end>
+
+=>q26_original
+It's like I heard someone talk about that before. But no, I can't help you. No, I can't!<end>
+
+=>q26
+Кажется, я слышала какие-то слухи. Но нет, я не могу вам помочь. Нет, я не могу!<end>
+
+=>a27_original
+I need some information on a former Praetorian Security officer called Patrick Pierce.<end>
+
+=>a27
+Мне нужна информация о бывшем офицере Преторианской службы безопасности Патрике Пирсе.<end>
+
+=>q28_original
+::She cackles.:: Never heard of him. Never!<end>
+
+=>q28
+::Она хихикает.:: Никогда о нём не слышала. Никогда!<end>
+
+=>q29_original
+Maybe you should go straight to Praetorian Security and ask them.<end>
+
+=>q29
+Может быть, вам стоит зайти прямо к преторианцам и спросить у них.<end>
+
+=>a30_original
+I'd like to have a certain substance tested.<end>
+
+=>a30
+Вы можете проанализировать для меня кое-какое вещество?<end>
+
+=>q31_original
+Oh, but I can't help you with that. No, I can't! I don't have any lab equipment here.<end>
+
+=>q31
+Ох, не могу вам с этим помочь. Нет, не могу! Нет у меня никакого лабораторного оборудования.<end>
+
+=>a32_original
+Well, do you know someone who has?<end>
+
+=>a32
+А может, вы знаете кого-то, у кого есть?<end>
+
+=>q33_original
+What is it you want to test, anyway?<end>
+
+=>q33
+А что вы хотели протестировать-то?<end>
+
+=>a34_original
+Hercules, the drug that is being sold by that merchant, Daniel Arda.<end>
+
+=>a34
+Геракл -- препарат, который продаёт Даниэль Арда.<end>
+
+=>q35_original
+Oh, that! Still, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
+
+=>q35
+Ах, вот как! Всё-таки, я думаю, вам нелегко будет найти кого-нибудь, кто сделает вам тест. Нет, нет!<end>
+
+=>q36_original
+You are welcome to try, but we don't have any labs open to the public in Core City. Which is unfortunate... Unfortunate! ::She cackles.::<end>
+
+=>q36
+Вы можете попробовать, но у нас в Кор-Сити нет никаких лабораторий, открытых для общественности. Что прискорбно... Прискорбно! ::Она хихикает.::<end>
+
+=>a37_original
+It's not important.<end>
+
+=>a37
+Это неважно.<end>
+
+=>q38_original
+No? Well, in any case, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
+
+=>q38
+Нет? Всё-таки, я думаю, вам нелегко будет найти кого-нибудь, кто сделает вам тест. Нет, нет!<end>
+
+=>a39_original
+Sorry for the bother. See you around.<end>
+
+=>a39
+Извините за беспокойство. Ещё увидимся.<end>
+
+=>q40_original
+::She cackles.:: Bye!<end>
+
+=>q40
+::Она хихикает.:: До свидания!<end>
+
+=>a41_original
+I'd like to ask you some questions about the city.<end>
+
+=>a41
+Можно задать вам несколько вопросов о городе?<end>
+
+=>q42_original
+Ask away. Away! ::She cackles.::<end>
+
+=>q42
+Спрашивай. Валяй! ::Она хихикает.::<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+What can you tell me about Drop Zone?<end>
+
+=>a44
+Что вы можете рассказать мне о Зоне провала?<end>
+
+=>q45_original
+::She cackles.:: If you're really bent on going there, you better be careful. The zoners might seem poor, underfed and weak, and they mostly are. But one never knows what lurks in...<end>
+
+=>q45
+::Она хихикает.:: Если вы действительно вознамерились идти туда, лучше проявить осторожность. Зонеры могут показаться бедными, недоедающими и слабыми -- такими они в основном и являются. Но никто не знает, что таится в...<end>
+
+=>q46_original
+The Drop Zone! ::She cackles.::<end>
+
+=>q46
+Зоне провала! ::Она хихикает.::<end>
+
+=>a47_original
+What can you tell me about the Arena?<end>
+
+=>a47
+Что вы можете рассказать об Арене?<end>
+
+=>q48_original
+Oh, interested in the Arena, I see? No wonder, so many visitors come to Core City - only for the Arena! The thirst for blood feeds our economy, it does. Gladiators fight men and beasts for our entertainment and we throw money for more. For more!<end>
+
+=>q48
+О, вас интересует Арена, как я погляжу? Неудивительно -- многие приезжают в Кор-Сити только ради Арены! Жажда крови кормит нашу экономику -- правда-правда. Гладиаторы бьются с людьми и зверями для нашего развлечения, а мы швыряем деньги. Требуем больше!<end>
+
+=>q49_original
+Well, I watch it for professional reasons: Gladiators find new ways to injure each other - to entertain the crowd, of course - and that rings true especially for psionics! Psionics! Oh, yes, yes, yes, they are capable of doing some horrible stuff to their less skilled and arguably less lucky adversaries. I study their techniques in an attempt to develop new ways to treat such injuries! Develop and apply!<end>
+
+=>q49
+Ну, я смотрю бои из профессионального любопытства: гладиаторы ищут новые способы причинить боль друг другу -- чтобы развлечь толпу, конечно -- и особенно это верно в случае псиоников! Псионики! Ах, да, да, да, они способны делать ужасные вещи со своими менее квалифицированными и, возможно, менее везучими противниками. Я изучаю их методы в попытке разработать новые способы лечения таких ранений! Разработать и применить!<end>
+
+=>q50_original
+Now, now... I know what you might be saying: What's the point of learning how to treat such injuries when the losers don't survive the matches at all!? But remember, remember - psionics are not only present in the Arena. Lunatics - they are spreading like a plague, and their, dare I say, derailed minds can come up with unimaginable and awful ways to hurt their victims. Yes!
+
+That is why I have to be vigilant. This is the new age of medicine. New age! ::She cackles.::<end>
+
+=>q50
+Ну, ну... Я знаю, что вы скажете: какой смысл учиться лечить такие травмы, если проигравшие даже не переживают матч?! Но помните, помните -- псионики не только на Арене. Психотики -- они распространяются подобно чуме, и, смею сказать, их двинутые разумы могут придумать невообразимые и ужасные способы навредить своим жертвам. Да!
+
+Вот почему я должна быть бдительна. Это новый виток медицины. Новая эра! ::Она хихикает.::<end>
+
+=>a51_original
+What can you tell me about the Gauntlet?<end>
+
+=>a51
+Что вы можете рассказать мне о Смертельном забеге?<end>
+
+=>q52_original
+The Oligarchs came up with a new sport! A new sport! Runner... ::She cackles.:: Runners run through dangerous rooms for our entertainment. Sometimes they die, but do you see people cry? They don't cry! They laugh and cheer! ::She cackles.::<end>
+
+=>q52
+Олигархи придумали новый вид спорта! Новый вид спорта! Бегуны... ::Она хихикает.:: Бегуны бегут через опасные комнаты ради нашего развлечения. Иногда они умирают, -- но вы видели, чтобы люди плакали? Они не плачут! Они смеются, кричат! ::Она хихикает.::<end>
+
+=>q53_original
+Only those that are very skilled can apply, to entertain the crowd before they die! ::She cackles.:: I also come up with rhymes when I operate on people! It's fun! It is fun!<end>
+
+=>q53
+Только тот, кто очень умел, может развлечь толпу, пока пулю не съел! ::Она хихикает.:: Я придумываю стихи, когда оперирую на людях! Это весело! Так весело!<end>
+
+=>a54_original
+What can you tell me about the Oligarchy?<end>
+
+=>a54
+Что вы можете рассказать про олигархов?<end>
+
+=>q55_original
+No matter what you hear about them... I don't know what you heard about them... But, whatever you hear about them, know one thing: Without them, Core City would have been deserted years ago, with only perhaps gangs remaining!<end>
+
+=>q55
+Неважно, что вы знаете о них... Я не знаю, что вы слышали о них... Но что бы вы о них не слышали, знайте одно: без них Кор-Сити обезлюдел бы много лет назад - остались бы, может, только банды!<end>
+
+=>q56_original
+Arena brings in the coin! Coretech employs great minds, Praetorian Security... Praetorian Security disciplines, and JKK makes sure it all runs as it should! ::She cackles.::<end>
+
+=>q56
+Арена приносит доход! В КорТех трудятся великие умы; преторианцы... Преторианцы поддерживают порядок, а КБР делает так, чтобы всё работало как надо! ::Она хихикает.::<end>
+
+=>a57_original
+What can you tell me about Coretech?<end>
+
+=>a57
+Что вы можете рассказать мне о КорТех?<end>
+
+=>q58_original
+Moretech! Hey, I like that! ::She cackles.:: It describes them perfectly... but why haven't they named themselves like that? Why not? <end>
+
+=>q58
+ВесьТех! Эй, мне нравится! ::Она хихикает.:: Это их прекрасно описывает... Но почему они не назвали себя так? Почему нет?<end>
+
+=>q59_original
+This needs to be investigated!<end>
+
+=>q59
+Это надо расследовать!<end>
+
+=>a60_original
+What can you tell me about JKK?<end>
+
+=>a60
+Что вы можете рассказать мне о КБР?<end>
+
+=>q61_original
+JKK was founded by Gunnar Edstrom. He is one of the Oligarchs - he knows everything. Everything! They broadcast the Arena throughout Underrail to quench the bloodthirst of those who can't see it in person. But there is more to JKK, there is more! ::She cackles.::<end>
+
+=>q61
+КБР была основана Гуннаром Эдстромом. Он один из олигархов -- он всё знает. Всё! Они транслируют шоу с Арены по всей Подземке, чтобы утолить жажду крови тех, кто не может прийти лично. Но это не всё про КБР, не всё! ::Она хихикает.::<end>
+
+=>q62_original
+Think! Think! Think! Think!<end>
+
+=>q62
+Думай! Думай! Думай! Думай!<end>
+
+=>a63_original
+What can you tell me about Praetorian Security?<end>
+
+=>a63
+Что вы можете рассказать мне о Преторианской службе безопасности?<end>
+
+=>q64_original
+My husband used to be one of the enforcers for them. Years ago. He was brave.<end>
+
+=>q64
+Мой муж был одним из их бойцов. Много лет назад. Он был храбрым воином.<end>
+
+=>q65_original
+He... He was brave.<end>
+
+=>q65
+Он... Он *был* храбрым воином.<end>
+
+=>a66_original
+What can you tell me about Hardcore City Bar?<end>
+
+=>a66
+Что вы можете рассказать мне про бар Хардкор-Сити?<end>
+
+=>q67_original
+Ooh, that's a good question! A good one! Let's think about this together. Decompose the name. Hardcore? It is. It is! City? Well, it is in a city. Core City! Bar?<end>
+
+=>q67
+О-о, хороший вопрос! Хороший! Давайте подумаем об этом вместе. Разберём название. Хардкор? Точно. В точку! Сити? Ну, это в Кор-Сити! Бар?<end>
+
+=>q68_original
+Bar! So, in conclusion, it is what it is! A hardcore city bar! ::She cackles.::<end>
+
+=>q68
+Бар! Итак, мы выяснили, что это такое! Хардкорный бар в Кор-Сити! ::Она хихикает.::<end>
+
+=>a69_original
+What can you tell me about Tchortists?<end>
+
+=>a69
+Что вы можете рассказать мне о чортистах?<end>
+
+=>q70_original
+Scientists, not cultists! That's what I always say. They think, not just follow - but they do it in a unique way!<end>
+
+=>q70
+Учёные, не сектанты! Вот что я всегда говорю. Они думают, а не просто верят -- но делают это по-своему!<end>
+
+=>q71_original
+I like them, but hey... some people don't. I need to work on that last rhyme. ::She cackles.::<end>
+
+=>q71
+Мне они нравятся, но... некоторым людям -- нет. Мне нужно поработать над этой рифмой. ::Она хихикает.::<end>
+
+=>a72_original
+Let's discuss something else.<end>
+
+=>a72
+Давайте обсудим что-нибудь другое.<end>
+
+=>q73_original
+I say yes to that.<end>
+
+=>q73
+Отвечу согласием.<end>
+
+=>a74_original
+What can you tell me about the Talloski family?<end>
+
+=>a74
+Что вы можете рассказать мне о семье Таллоски?<end>
+
+=>q75_original
+Talloski... Talloski... I know them, I know them well. ::She cackles.:: Rich people... successful traders. Good with business - bad with children. I once had to treat Maxim, the older child. Spoiled brat! He bragged how rich he was and how I should be privileged to treat him! *Privileged?*<end>
+
+=>q75
+Таллоски... Таллоски... Я знаю их, я хорошо их знаю. ::Она хихикает.:: Богатые люди... успешные торговцы. Хороши в делах, не очень -- в детях. Мне однажды пришлось лечить Максима, старшего ребёнка. Избалованный же тип! Он хвастался своим богатством, твердил как мне повезло его лечить! *Повезло?*<end>
+
+=>q76_original
+He suffered from hemorrhoids! ::She cackles.:: They probably popped due to the fact that he's thinking with his behind rather than his head!<end>
+
+=>q76
+У него был геморрой. ::Она хихикает.:: Он, наверное, вылез из-за того, что он думал задницей, а не головой!<end>
+
+=>a77_original
+How do you feel now that the Faceless have retreated?<end>
+
+=>a77
+Как у вас дела теперь, когда безликие отступили?<end>
+
+=>q78_original
+I knew this would happen. I wasn't worried at all. And the funny thing is, we've just replaced violence we don't like with violence we do like. We do like! ::She cackles.::<end>
+
+=>q78
+Я знала, что так и случится. Я совсем не встревожена даже. А самое смешное -- мы просто заменили насилие, которое нам не нравится, насилием, которое нам очень нравится. Нам очень нравится! ::Она хихикает.::<end>
+
+=>q79_original
+Stay tuned for more Arena matches. I know I will.<end>
+
+=>q79
+Следите за боями на Арене. Совсем как я.<end>
+
+=>a80_original
+Why do you think the Faceless invaded Core City?<end>
+
+=>a80
+Как вы думаете, почему безликие вторглись в Кор-Сити?<end>
+
+=>q81_original
+The Faceless are invading?<end>
+
+=>q81
+Безликие нападают?<end>
+
+=>q82_original
+::She cackles.:: I'm fooling around! Around! The Faceless - there is more to them than meets the eye. What exactly? I don't know. But, do you see *me* worried about the invasion? No. Nope. My intuition tells me that the blockade will be gone soon, allowing the Arena to be the center of Core City bloodshed once more.<end>
+
+=>q82
+::Она хихикает.:: Да я дурака валяю! С безликими не всё так просто, как кажется на первый взгляд. Что именно? Я не знаю. Но, по-вашему, *меня* хоть чуточку беспокоит вторжение? Нет. Нисколечко. Моя интуиция подсказывает, что блокаду скоро снимут, и Арена вновь станет центром кровопролития в Кор-Сити.<end>
+
+=>a83_original
+I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
+
+=>a83
+Я ищу Терри и Лору Бейкеров. Они торговцы со станции Саут-Гейт. Вы их, случайно, не видели?<end>
+
+=>q84_original
+Don't know... Don't know...<end>
+
+=>q84
+Не знаю, не знаю...<end>
+
+=>q85_original
+...anyone named like that! Like that! I'm sorry, but I really can't help you. Nope. No.<end>
+
+=>q85
+...никого с таким именем! Даже наподобие! Извините, но я действительно не могу вам помочь. Не-а. Нет.<end>
+
+=>a86_original
+I'm looking for the Acid Hunters.<end>
+
+=>a86
+Я ищу Кислотных охотников.<end>
+
+=>q87_original
+Who?<end>
+
+=>q87
+Кто?<end>
+
+=>a88_original
+The Acid Hunters, a band of scavengers..<end>
+
+=>a88
+Кислотные охотники, группа мусорщиков...<end>
+
+=>q89_original
+Who?<end>
+
+=>q89
+Кто?<end>
+
+=>a90_original
+Forget about it.<end>
+
+=>a90
+Забудьте об этом.<end>
+
+=>q91_original
+I've never heard of them. Never!<end>
+
+=>q91
+Я никогда не слышала о них. Никогда!<end>
+
+=>a92_original
+Do you know anything about a merchant named Daniel Arda?<end>
+
+=>a92
+Вы знаете что-нибудь о торговце по имени Даниэль Арда?<end>
+
+=>q93_original
+Let me think... Hmmmm... Hmmmmmm!<end>
+
+=>q93
+Дайте-ка подумать... Хм-м-м-м-м... Хм-м-м-м-м-м-м-м-м!<end>
+
+=>q94_original
+I do know of this man! I do! A traveling merchant, if I remember correctly. He rarely comes to me, but last time he was in Core City, he walked through those doors! ::She cackles.:: He had a little surprise for me, he said. Yes, he did! Hercules, as he called it, a combat drug that increases one's effectiveness in, you guessed it - combat. That's what he tried to sell to me.<end>
+
+=>q94
+Я знаю этого человека! Правда! Бродячий торговец, если я правильно помню. Он редко приходит ко мне, но когда он в последний раз был в Кор-Сити, то приходил! ::Она хихикает.:: У него, по его же словам, был небольшой сюрприз для меня. И ведь не соврал! Геракл, как он его назвал, боевой препарат, который повышает эффективность, как вы уже догадались -- боевую. Вот что он пытался продать мне.<end>
+
+=>q95_original
+::She cackles.:: It seemed interesting at first, it did, but he failed to show me any concrete evidence which prove its effects. So I showed him the door! Yes, I did!<end>
+
+=>q95
+::Она хихикает.:: Мне это показалось интересным поначалу, но он не смог предъявить какие-либо конкретные доказательства декларируемого эффекта. Я показала ему на дверь! Да, так и сделала!<end>
+
+=>a96_original
+I'll be going now.<end>
+
+=>a96
+Я пойду.<end>
+
+=>q97_original
+Perforated eardrum?<end>
+
+=>q97
+Разрыв барабанной перепонки?<end>
+
+=>q98_original
+Cerebral hemorrhage?<end>
+
+=>q98
+Кровоизлияние в мозг?<end>
+
+=>q99_original
+A rathound bit your toe off?<end>
+
+=>q99
+Крысоволк палец откусил?<end>
+
+=>q100_original
+Periodic paralysis?<end>
+
+=>q100
+Периодический паралич?<end>
+
+=>q101_original
+Phantom limb syndrome?<end>
+
+=>q101
+Синдром фантомной конечности?<end>
+
+=>q102_original
+Pneumonoultramicroscopicsilicovolcanoconiosis?<end>
+
+=>q102
+Пневмоноультрамикросиликоновулканокониоз?<end>
+
+=>q103_original
+Gases?<end>
+
+=>q103
+Газы?<end>
+
+=>q104_original
+Narcolepsy?<end>
+
+=>q104
+Нарколепсия?<end>
+
+=>q105_original
+Hemophilia?<end>
+
+=>q105
+Гемофилия?<end>
+
+=>q106_original
+Cardiomyopathy?<end>
+
+=>q106
+Кардиомиопатия?<end>
+
+=>q107_original
+Someone stabbed you in the back?<end>
+
+=>q107
+Ударили ножом в спину?<end>
+
+=>q108_original
+Throat cancer?<end>
+
+=>q108
+Рак горла?<end>
+
+=>q109_original
+Unexplainable urge to commit suicide?<end>
+
+=>q109
+Необъяснимое желание покончить с собой?<end>
+
+=>q110_original
+Ruptured spleen?<end>
+
+=>q110
+Разрыв селезёнки?<end>
+
+=>q111_original
+Claustrophobia?<end>
+
+=>q111
+Клаустрофобия?<end>
+
+=>q112_original
+Valvular heart disease?<end>
+
+=>q112
+Порок клапана сердца?<end>
+
+=>q113_original
+Cholera?<end>
+
+=>q113
+Холера?<end>
+
+=>q114_original
+Spontaneous stupidity syndrome?<end>
+
+=>q114
+Синдром спонтанного скудоумия?<end>
+
+=>q115_original
+Stroke?<end>
+
+=>q115
+Инсульт?<end>
+
+=>q116_original
+Vitamin D deficiency?<end>
+
+=>q116
+Дефицит витамина D?<end>
+
+=>q117_original
+All your teeth were knocked out?<end>
+
+=>q117
+Все зубы выбили?<end>
+
+=>q118_original
+Feet calluses?<end>
+
+=>q118
+Мозоли на ногах?<end>
+
+=>q119_original
+You got zoned out?<end>
+
+=>q119
+Отправили в зону?<end>
+
+=>q120_original
+Nose bleed?<end>
+
+=>q120
+Кровь из носа?<end>
+
+=>q121_original
+Crushed larynx?<end>
+
+=>q121
+Перелом гортани?<end>
+
+=>q122_original
+Tongue discoloration?<end>
+
+=>q122
+Обесцвечивание языка?<end>
+
+=>a123_original
+I'd like to talk to a doctor.<end>
+
+=>a123
+Могу я поговорить с врачом?<end>
+
+=>q124_original
+::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: I am a doctor, really, don't let my coat fool you! ::She cackles.:: I'm Doctor Gratz, and it is pleasure to meet you! You know what? I'll even diagnose your illness straight away, my dear patient! I will! Let's see...<end>
+
+=>q124
+::Она отвлекается от своего важного занятия и поворачивается к вам. Выражение её лица смягчается, она улыбается. Вскоре она отвечает звучным высоким голосом.:: Я врач, действительно, не обращайте внимания на мой халат! ::Она хихикает.:: Я доктор Гратц, приятно познакомиться! Знаете, что? Я даже готова сразу вас диагностировать, мой дорогой пациент! Давайте! Посмотрим...<end>
+
+=>a125_original
+::Leave.::<end>
+
+=>a125
+::Уйти.::<end>
+

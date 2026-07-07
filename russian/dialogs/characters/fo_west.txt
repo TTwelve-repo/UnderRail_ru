@@ -1,0 +1,476 @@
+﻿=>q1_original
+::You see a thin man soldering some components onto a copper-colored circuit board. He doesn't immediately notice you, which gives you a few moments to observe him: His dark hair is streaked with aluminum-gray strands, his wrinkles form ravines in his face and his hands are only steady when the soldering iron meets the board. Yet, some strange and subtle signs give you a feeling that this man is somehow younger than he appears, but you are unable to pinpoint exactly why.
+
+Your thoughts are interrupted when he notices you.::
+
+Oh, welcome to my electronics store, friend. Name's George West. You ought to say something 'cause I... ::He coughs.:: I can't help you if I don't know you're here. ::He smiles.::<end>
+
+=>q1
+::Вы видите худощавого мужчину, припаивающего несколько деталей на плату цвета меди. Он не сразу замечает вас, что даёт вам пару минут, чтобы понаблюдать за ним: тёмные волосы с седыми прядями, морщинистое лицо, а руки уверенно движутся только тогда, когда паяльник касается платы. Едва уловимые признаки подсказывают вам, что человек моложе чем выглядит, но вы не можете понять откуда у вас такое ощущение.
+
+Ваши размышления прерываются, когда человек замечает вас.::
+
+О, добро пожаловать в мой магазин электроники, друг. Меня зовут Джордж Уэст. Скажите уже зачем вы здесь, потому что я... ::Он кашляет.:: Я не могу вам помочь, если не знаю, чего вам надо. ::Он улыбается.::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+What've you got? ::Barter.::<end>
+
+=>a3
+Что у вас есть? ::Обмен.::<end>
+
+=>a4_original
+I need help fixing an electric arc furnace.<end>
+
+=>a4
+Мне нужна помощь с ремонтом электродуговой печи.<end>
+
+=>q5_original
+If it's an electrical problem then yes, I can help you. Where do you need me, exactly? ::He coughs.::<end>
+
+=>q5
+Если это проблема с электроникой, то да, я могу помочь вам. Где вам нужна моя помощь? ::Он кашляет.::<end>
+
+=>a6_original
+It's a large furnace near the mine entrance. One a man named Bernard seems very fond of.<end>
+
+=>a6
+Это большая печь рядом с входом в шахту. Одному человеку по имени Бернард, кажется, она очень нравится.<end>
+
+=>q7_original
+Hmm.<end>
+
+=>q7
+Хм-м.<end>
+
+=>a8_original
+Hmm?<end>
+
+=>a8
+Хм-м?<end>
+
+=>q9_original
+Well, he's not exactly the sanest man around here. But as long as I'm being paid, I don't have a problem with it. And I've already worked with that same furnace. Unless it's something very drastic, I can handle it.<end>
+
+=>q9
+Ну, он точно не самый разумный человек в округе. Но раз уж мне платят, с этим не будет проблем. И я уже работал с этой печью. Если это только не что-то очень серьёзное, я справлюсь.<end>
+
+=>a10_original
+Bernard mentioned he thinks the problem lies with the electrode power regulation system.<end>
+
+=>a10
+Бернард упомянул, что он думает, что проблема с системой регулирования мощности электродов.<end>
+
+=>q11_original
+Mmmm... that is not going to be a simple fix, but if that is the issue, then yes, I can take care of it.<end>
+
+=>q11
+М-м-м... это не так просто исправить, но если дело только в этом, то да, я справлюсь.<end>
+
+=>a12_original
+How much are you charging?<end>
+
+=>a12
+Сколько вы берёте?<end>
+
+=>q13_original
+Well, I'm asking for five hundred charons. I don't think anyone sane would do it for less.<end>
+
+=>q13
+Ну, я прошу пятьсот харонов. Я не думаю, что какой здравомыслящий человек сделает это за меньшие деньги.<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+It's a deal. Here's five hundred. ::Give him 500 stygian coins.::<end>
+
+=>a15
+Договорились. Вот пятьсот. ::Дать ему 500 стигийских монет.::<end>
+
+=>q16_original
+Good. I'll be heading there as soon as I finish soldering this thing. I just hope Bernard doesn't talk my friable ears off.<end>
+
+=>q16
+Хорошо. Я пойду туда, как только закончу паять эту штуку. Надеюсь, что Бернард не прожужжит мои больные уши.<end>
+
+=>a17_original
+Right, catch you later.<end>
+
+=>a17
+Хорошо, ещё увидимся.<end>
+
+=>a18_original
+::[Mercantile]:: I can only give you four hundred charons. I know you said you won't go for less but... that's all I've got.<end>
+
+=>a18
+::[Торговля]:: Я могу дать вам только четыреста монет. Я знаю, вы сказали, что не согласитесь на меньшее, но... это всё, что у меня есть.<end>
+
+=>q19_original
+::His facial muscles begin dancing, mirroring his thought process by forming appropriate expressions. The one which finally settles is not the one of deprecation.::
+
+I must've gone derailed to accept this, but I'm going to say okay, four hundred charons is fine. It's better than nothing. We have a deal.<end>
+
+=>q19
+::Его лицевые мышцы танцуют, отражая процесс размышления и формулирования мыслей и слов. Наконец он произносит.::
+
+Я, наверное, совсем свихнулся, если соглашаюсь на это, но я скажу, ладно, четыреста -- нормально. Это лучше чем ничего. Мы заключили сделку.<end>
+
+=>a20_original
+::Give him 400 stygian coins.::<end>
+
+=>a20
+::Дать ему 400 стигийских монет.::<end>
+
+=>q21_original
+I'm sorry, but that's your problem. As I said: No one sane would do it for less than four hundred.<end>
+
+=>q21
+Извините, но это ваша проблема. Как я уже сказал, ни один нормальный человек не сделает это меньше чем за пятьсот.<end>
+
+=>a22_original
+I need to think about it.<end>
+
+=>a22
+Мне нужно подумать об этом.<end>
+
+=>q23_original
+I'm not going anywhere, friend. ::He coughs.:: Unless this coughing... uh... bah... ::He begins coughing again.::<end>
+
+=>q23
+Я никуда не денусь, друг. ::Он кашляет.:: Если только этот кашель... ух... ба... ::Он начинает кашлять снова.::<end>
+
+=>a24_original
+Money is not the issue, as long as you get the job done.<end>
+
+=>a24
+Деньги не проблема, только выполните работу.<end>
+
+=>q25_original
+That's good to hear. I'm asking for five hundred charons. I don't think anyone sane would do it for less.<end>
+
+=>q25
+Приятно слышать. Я прошу пятьсот харонов. Я не думаю, что какой здравомыслящий человек сделает это за меньшие деньги..<end>
+
+=>a26_original
+Is there a problem?<end>
+
+=>a26
+Какая-то проблема?<end>
+
+=>a27_original
+About that furnace...<end>
+
+=>a27
+Насчёт той печи...<end>
+
+=>q28_original
+Five hundred charons to get the furnace fixed. I can go there right away. ::He coughs.::<end>
+
+=>q28
+Пятьсот монет за ремонт печи. Я могу пойти туда прямо сейчас. ::Он кашляет.::<end>
+
+=>a29_original
+About that workbench...<end>
+
+=>a29
+Насчёт этого верстака...<end>
+
+=>q30_original
+Yes?<end>
+
+=>q30
+Да?<end>
+
+=>a31_original
+I'll buy it for one thousand two hundred. ::Give him 1200 stygian coins.::<end>
+
+=>a31
+Я куплю его за тысячу двести. ::Дать ему 1200 стигийских монет.::<end>
+
+=>q32_original
+::He coughs.:: Good. I'd help you carry it out of the store, but my back's a bit friable. Old age, what can I say.<end>
+
+=>q32
+::Он кашляет.:: Хорошо. Я помогу вам вынести его из магазина, но моя спина немного слаба. Старость, что тут скажешь.<end>
+
+=>a33_original
+I'm not carrying it either. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>a33
+Я тоже его не понесу. Я закажу доставку на дом в Жилищной корпорации Кор-Сити.<end>
+
+=>q34_original
+::He nods.::<end>
+
+=>q34
+::Он кивает.::<end>
+
+=>a35_original
+::[Mercantile]:: That workbench seems like it has seen some heavy use in the past. I'll give you eight hundred for it. Deal?<end>
+
+=>a35
+::[Торговля]:: Верстак выглядит довольно потёртым. Я дам вам восемь сотен за него. По рукам?<end>
+
+=>q36_original
+::He pauses, but soon replies.:: Deal, friend. Eight hundred.<end>
+
+=>q36
+::Он задумывается, но вскоре отвечает.:: По рукам, друг. Восемь сотен.<end>
+
+=>a37_original
+Here you go. ::Give him 800 stygian coins.::<end>
+
+=>a37
+Вот, возьмите. ::Дать ему 800 стигийских монет.::<end>
+
+=>q38_original
+::He shakes his head.:: No.<end>
+
+=>q38
+::Он качает головой.:: Нет.<end>
+
+=>a39_original
+Nothing. I had other questions.<end>
+
+=>a39
+Ничего. У меня были другие вопросы.<end>
+
+=>a40_original
+I'm interested in buying that electronic workbench with all the integrated equipment.<end>
+
+=>a40
+Я заинтересован$(#/а) в покупке электронного верстака со всем встроенным оборудованием.<end>
+
+=>q41_original
+This one? I'm using that... ::He coughs.:: I need it.<end>
+
+=>q41
+Этот? Я использую его для работы... ::Он кашляет.:: Он мне нужен.<end>
+
+=>a42_original
+Everything can be bought, you just have to name the price.<end>
+
+=>a42
+Всё можно купить, только назовите цену.<end>
+
+=>q43_original
+::His stare becomes glued to the workbench as he considers your words. With each passing second, you become more and more sure that he is indeed going to name a price.::
+
+There are a lot of expensive tools in that thing. ::He coughs.:: If I were to sell it, it would have to be for... no less than one thousand two hundred charons. Yes, that's what I'm asking for it.<end>
+
+=>q43
+::Его взгляд сосредоточен на верстаке, пока он обдумывает ваши слова. С каждой секундой вы становитесь всё более и более уверены, что он действительно собирается назвать цену.::
+
+Много дорогих устройств на этой штуке. ::Он кашляет.:: Если я продам его, это обойдётся вам... не менее чем в одну тысячу двести харонов. Да, вот сколько я прошу за него.<end>
+
+=>a44_original
+Do you know where I can find one like that?<end>
+
+=>a44
+Вы не знаете, где я могу найти похожий?<end>
+
+=>q45_original
+I don't. I know I'm not helpful but... ::He shrugs.:: I can't help you there, friend.<end>
+
+=>q45
+Нет. Я знаю, что бесполезен, но... ::Он пожимает плечами.:: Я не смогу помочь вам, друг.<end>
+
+=>a46_original
+Never mind then. I'll look for another one.<end>
+
+=>a46
+Ладно, проехали. Я поищу другой.<end>
+
+=>q47_original
+Good luck with that, friend.<end>
+
+=>q47
+Удачи вам, друг.<end>
+
+=>a48_original
+What can you tell me about this place?<end>
+
+=>a48
+Что вы можете рассказать мне об этом месте?<end>
+
+=>q49_original
+::It takes him a few moments to produce an answer.:: I don't know. Foundry is a large station with a rich mine. We're pretty well known as the station with the best defenses in South Underrail. The Foundry Guard makes sure of it.<end>
+
+=>q49
+::Ему требуется несколько мгновений, чтобы сформулировать ответ.:: Я не знаю. Литейная -- это большая станция с богатой шахтой. Мы широко известны как станция с лучшей защитой в Южной Подземке. В этом заслуга Стражи Литейной.<end>
+
+=>a50_original
+Okay. Now give me the other side of the truth.<end>
+
+=>a50
+Ладно. Теперь дайте мне другую сторону правды.<end>
+
+=>q51_original
+::He lets out his breath in a long sigh.:: The air pollution... it is really bad, friend. ::He coughs.:: See what I mean? My nose, throat and lungs are slowly being eroded by the foulness of the air, just like nearly everyone else's. I pity those working *in* the mine, or those sweating in the metalworks, and I'm thankful I'm not in their boots.<end>
+
+=>q51
+::Он тяжело выдыхает.:: Загрязнение воздуха... оно и правда очень серьёзное, друг. ::Он кашляет.:: Видите, что я имею в виду? Мой нос, горло и лёгкие постепенно разрушаются из-за загрязнения воздуха -- так же, как и у всех остальных. Ещё хуже тем, кто работает в шахте, или тем, кто потеет в плавильне, и я благодарен судьбе, что не нахожусь на их месте.<end>
+
+=>q52_original
+But, I get to have my own store without anyone racketeering me, which used to be the case before I moved here. So, this... this is my life now. Whether I made the right choice or not, I suppose the future will tell me that.
+
+Any more questions, friend?<end>
+
+=>q52
+Зато у меня собственная мастерская, и не надо бояться рэкетиров, как это было раньше, до моего переезда сюда. Так что это... теперь моя жизнь. Сделал ли я правильный выбор или нет -- я думаю, будущее покажет.
+
+Есть ещё вопросы, друг?<end>
+
+=>a53_original
+Good enough for me. I'd like to ask you something else.<end>
+
+=>a53
+Для меня достаточно. Я бы хотел спросить ещё кое-что.<end>
+
+=>a54_original
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>a54
+Вы не помните, приносили ли вам какие-нибудь странные предметы? Я не могу дать вам описание, но это что-то такое, что вы бы обязательно запомнили.<end>
+
+=>q55_original
+Mmm, someone did come here with a... distinctive item. A group of people, to be exact. You're not really a stranger to us anymore, so I suppose I can tell you what happened.<end>
+
+=>q55
+М-м-м, кое-кто приходил сюда с... необычным предметом. Группа людей, если быть точным. Вы для нас уже не чужак, и полагаю, что я могу вам рассказать о том, что произошло.<end>
+
+=>q56_original
+::He coughs.:: Anyway, those people came here and one of them, looked like their leader, produced a sturdy metal box. He was holding it tighter than a miner who had found a lump of gold. Despite not liking having them in my store, I was interested in what was inside the box. And, when he opened it, I saw something I'd never seen before.<end>
+
+=>q56
+::Он кашляет.:: Ну вот, эти люди пришли сюда, и один из них, похоже, их лидер, достал прочную металлическую коробку. Он держал её крепче чем шахтёр, который нашёл золотой самородок. Хотя мне и не нравилось, что они находятся в моём магазине, мне было интересно, что в коробке. И когда он открыл её, я увидел то, чего я никогда раньше не видел.<end>
+
+=>a57_original
+What was in the box?<end>
+
+=>a57
+Что было в коробке?<end>
+
+=>q58_original
+It's difficult to describe. ::He coughs.:: I don't know, imagine a twenty-sided polyhedron engraved with some alien-looking markings. It appeared to be some kind of an electronic device, with strange slots - sockets in it. But as a whole, it resembled nothing I'd ever seen. I don't know what it does, and I think those people knew even less. Still, the man wanted to sell it to me for lots of charons.<end>
+
+=>q58
+Его сложно описать. ::Он кашляет.:: Ну не знаю, представьте себе двадцатисторонний многогранник с символами, выгравированными как будто пришельцами. Мне он показался каким-то электронным устройством со странными гнёздам и разъёмами. Но в целом, я ничего подобного не видел раньше. Я без понятия, что он делает, но, кажется, те люди не знали о нём вообще ничего. Однако тот мужчина хотел продать его мне за много харонов.<end>
+
+=>q59_original
+First of all, I didn't have the money he wanted, and second, I didn't know what I was buying. ::He coughs.:: It's just bad business.<end>
+
+=>q59
+Во-первых, у меня не было столько денег, сколько он хотел, а во-вторых, я не знал, что я покупаю. ::Он кашляет.:: Это просто была плохая сделка.<end>
+
+=>a60_original
+Do you know who they were and where they are now?<end>
+
+=>a60
+Знаете ли вы, кто они и где находятся сейчас?<end>
+
+=>q61_original
+No idea. The guy with the box was the only one who talked to me, the others just stood there silent. After I told them I didn't want to buy it, they just left. I thought about calling the guards at one point, but decided not to. What do I know, as long as they don't make a mess, it doesn't concern me.<end>
+
+=>q61
+Без понятия. Парень с коробкой был единственным, кто разговаривал со мной, остальные просто стояли молчком. После того как я сказал им, что не буду покупать, они просто ушли. Я подумывал вызвать стражу, но решил не делать этого. Они же не начали беспредельничать, значит меня это не касается.<end>
+
+=>q62_original
+Mmm, someone did come here with a... distinctive item. A group of people, to be exact, and... Wait... why would I tell you anything? What's going on here?<end>
+
+=>q62
+М-м-м, кое-кто приходил сюда с... необычным предметом. Группа людей, если быть точным, и... Подождите... почему я вам всё это рассказываю? Что вообще происходит?<end>
+
+=>a63_original
+::[Persuade]:: Those men are very dangerous, and if you care about people's lives, you will tell me everything you know about the people that came into your store. It's an extremely important matter.<end>
+
+=>a63
+::[Убеждение]:: Эти люди очень опасны, и если вам не наплевать на человеческие жизни, расскажите мне всё, что знаете об этих людях, которые пришли в ваш магазин. Это чрезвычайно важно.<end>
+
+=>q64_original
+I... Fine, I'll talk. You are right, though - they really made me uncomfortable. They had this hungry look in their eyes, like starving rathounds eyeing their prey.<end>
+
+=>q64
+Я... хорошо, я расскажу. Однако вы правы -- они действительно заставили меня поволноваться. У них был такой голодный блеск в глазах, как у изголодавшихся крысоволков, глядящих на свою добычу.<end>
+
+=>q65_original
+I don't think so. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.<end>
+
+=>q65
+Я так не думаю. Странные вещи происходят в последнее время в Литейной и... по этому вопросу я буду говорить только со Стражей Литейной.<end>
+
+=>a66_original
+I just need to know. Could you please tell me?<end>
+
+=>a66
+Мне просто нужно это знать. Не могли бы вы, пожалуйста, сказать мне?<end>
+
+=>q67_original
+Sorry, I don't think I should. Odd things have been happening in Foundry lately and... I'll speak only to the Foundry Guard on this matter.<end>
+
+=>q67
+Извините, но я думаю, что мне не стоит обсуждать это. Странные вещи происходят в последнее время в Литейной и... я буду говорить по этому вопросу только со Стражей Литейной.<end>
+
+=>a68_original
+What do you know about the mine creatures?<end>
+
+=>a68
+Что вы знаете о существах из шахты?<end>
+
+=>q69_original
+Nothing, it doesn't concern me. Every problem we've had so far in Foundry was quickly handled by the Foundry Guard. I dislike this place for many reasons... ::He coughs.:: - this pollution being one of them - but I can't deny that security here is top notch. Everyone's blabbering about these "monsters" and how they are sneaking into residential and killing people.<end>
+
+=>q69
+Ничего -- меня это не касается. Все проблемы, которые до этого возникали в Литейной, были быстро улажены Стражей Литейной. Я не люблю это место по многим причинам... ::Он кашляет.:: Грязный воздух -- одна из них, но я не могу отрицать, что безопасность здесь на высшем уровне. Вся эта болтовня про «монстров» и то, как они проникают в жилища и убивают людей -- просто болтовня.<end>
+
+=>q70_original
+As long as there isn't one in my store, I don't care. But that's just my opinion, friend.<end>
+
+=>q70
+Пока ни один из них не забрался в мой магазин -- мне плевать. Но это только моё мнение, друг.<end>
+
+=>a71_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a71
+Как дела теперь, когда шахта вновь открылась?<end>
+
+=>q72_original
+Pretty much the same as before. I knew all this was just a minor setback and that the Foundry Guard would deal with it eventually. People around here make a fuss out of everything.<end>
+
+=>q72
+Почти так же, как и раньше. Я знал, что всё это было просто небольшой проблемой, и что охрана Литейной справится с ней рано или поздно. Люди здесь поднимают шум из-за чего попало.<end>
+
+=>q73_original
+I just don't care. I'm more concerned with the foul air than mine "monsters." ::He coughs.::<end>
+
+=>q73
+А мне всё равно. Меня больше волнует грязный воздух, чем какие-то «монстры». ::Он кашляет.::<end>
+
+=>a74_original
+Goodbye.<end>
+
+=>a74
+До свидания.<end>
+
+=>q75_original
+Goodbye, friend.<end>
+
+=>q75
+Прощайте, друг.<end>
+
+=>q76_original
+Welcome back, friend.<end>
+
+=>q76
+С возвращением, друг.<end>
+

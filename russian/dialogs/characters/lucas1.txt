@@ -1,0 +1,714 @@
+﻿=>q1_original
+::A short man rises from behind his desk with a grenade case in his hands. The heavy case meets the top of the desk with a thud, raising your eyebrows, which in turn makes the man's face turn into a smile. He removes his glove and shakes your hand with a strong, perhaps too strong grip before addressing you.::
+
+Don't worry. $(context.player.Name), I ain't gonna blow us up. Nope. Anyway, Vencel told me you'll be staying with us for a while.<end>
+
+=>q1
+::Невысокий мужчина поднимается из-за стола с ящиком гранат в руках. Тяжёлый ящик ударяется о крышку стола с глухим стуком, заставляя вас вскинуть брови, что в свою очередь вызывает улыбку на его лице. Он снимает перчатку и пожимает вашу руку, демонстрируя сильную, пожалуй, даже немного слишком сильную хватку.::
+
+Не волнуйся, $(context.player.Name), я не собираюсь нас взрывать. Не-а. Кстати, Венцель уже сказал мне, что ты поживёшь с нами некоторое время.<end>
+
+=>a2_original
+Yeah. I like it here so far.<end>
+
+=>a2
+Да. Пока что мне здесь нравится.<end>
+
+=>q3_original
+Well, friend - make yourself at home.<end>
+
+=>q3
+Ну, $(#друг/подруга), чувствуй себя как дома.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+I'd like to see your stock. ::Barter.::<end>
+
+=>a5
+Я бы взглянул$(#/а) на твой товар. ::Обмен.::<end>
+
+=>a6_original
+I'd like to see your stock. ::Barter.::<end>
+
+=>a6
+Я бы взглянул$(#/а) на твой товар. ::Обмен.::<end>
+
+=>q7_original
+One sec: <end>
+
+=>q7
+Одну секунду.<end>
+
+=>q8_original
+Mind doing me a small favor? Harland, one of our security officers, has requested an extra auto-turret over at the under-passages exit. That - and a trainload of ammo, as if he's preparing for <end>
+
+=>q8
+Можешь оказать мне небольшую услугу? Харланд, один из наших офицеров безопасности, запросил дополнительную турель у выхода в подземные переходы. Её - и целый вагон боеприпасов, как будто он там готовится к<end>
+
+=>q9_original
+a massive Faceless assault.<end>
+
+=>q9
+массированной атаке безликих.<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+Maybe he is.<end>
+
+=>a11
+Может, так оно и есть.<end>
+
+=>q12_original
+Eh. As dangerous as Lurkers may be, <end>
+
+=>q12
+Как бы опасны ни были Скрытни...<end>
+
+=>q13_original
+Harland... he tends to get, hm, paranoid from time to time. I suppose watching over dark hallways non-stop gets to a guy after a while. And then he gets all quaky.<end>
+
+=>q13
+Харланд... он склонен, хм, параноить время от времени. Полагаю, на парне сказалось непрерывное наблюдение за тёмными коридорами. Он теперь постоянно трясётся.<end>
+
+=>a14_original
+You're making it sound as if it's something unreasonable.<end>
+
+=>a14
+Ты говоришь так, будто это неразумно.<end>
+
+=>q15_original
+I mean, it's not, and we've certainly reinforced all our defenses, but that under-passages exit - to be reasonable - is hardly a prime target for the Faceless as to require such an amount of ordnance. <end>
+
+=>q15
+Я хочу сказать, что мы, разумеется, укрепили всю нашу оборону, но тот выход в подземные проходы - если чуток подумать - вряд ли можно назвать основной целью безликих, чтобы запрашивать такую артиллерию.<end>
+
+=>a16_original
+Did he tell you why he needs all of this?<end>
+
+=>a16
+Он говорил тебе, зачем ему нужно всё это?<end>
+
+=>q17_original
+"He needs it." But why concretely, now that's something I can't get out of him. Heh, I'll be damned if he even knows it himself. <end>
+
+=>q17
+Ему "нужно". Но "зачем конкретно" - ответа я так и не добился. Хех, будь я проклят, если он сам его знает.<end>
+
+=>a18_original
+Quaky?<end>
+
+=>a18
+Трясётся?<end>
+
+=>q19_original
+Quaky. Eh, like a quaker. Or a hopper - *scared*. You dig?<end>
+
+=>q19
+Трясётся. Ну, типа, дрожит. Как пещерник - *от страха*. Врубаешься?<end>
+
+=>a20_original
+Dig?<end>
+
+=>a20
+Врубаешься?<end>
+
+=>q21_original
+Dig: to get - to understand. Damn, $(context.player.Name), where've you been living all this time?<end>
+
+=>q21
+Врубиться значит - понять. Проклятье, $(context.player.Name), где ты жил$(#/а) до этого?<end>
+
+=>a22_original
+Damn?<end>
+
+=>a22
+Проклятье?<end>
+
+=>q23_original
+Heh. Now you're just playing slackjaw.<end>
+
+=>q23
+Хех. Теперь ты просто разыгрываешь из себя разирота.<end>
+
+=>a24_original
+Just tell me where to find him.<end>
+
+=>a24
+Просто скажи мне, где его найти.<end>
+
+=>q25_original
+There's an entrance to the under-passages at the metro station above us. Can't miss it. Go down the stairs and you'll find him there.<end>
+
+=>q25
+На станции метро над нами есть вход в подземные переходы. Не проглядишь. Спустись по лестнице и найдёшь его там.<end>
+
+=>q26_original
+See if whatever spooked him this time is a genuine concern, and if so, I'll send him everything he needs. <end>
+
+=>q26
+Посмотрим, стоит ли беспокоиться о том, что напугало его на этот раз, и если да, то я отправлю ему всё необходимое.<end>
+
+=>q27_original
+I'm just worried about unnecessarily tying up so much ordnance down there when it might be more needed elsewhere, that's all.<end>
+
+=>q27
+Мне просто не хочется, чтобы столько боеприпасов лежали там без дела, когда они могут понадобиться в другом месте, вот и всё.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+I'd like to see your stock now. ::Barter.::<end>
+
+=>a29
+А теперь, я бы хотел$(#/а) взглянуть на твой товар. ::Обмен.::<end>
+
+=>a30_original
+I'd like to see your stock before I go. ::Barter.::<end>
+
+=>a30
+Я бы хотел$(#/а) посмотреть твой товар, прежде чем уйти. ::Обмен.::<end>
+
+=>a31_original
+Got it.<end>
+
+=>a31
+Понятно.<end>
+
+=>a32_original
+::Nod and leave.::<end>
+
+=>a32
+::Кивнуть и уйти.::<end>
+
+=>q33_original
+It's just that I don't want us hauling all this ordnance back and forth because of a couple of thugs - or a rathound.<end>
+
+=>q33
+Просто я не хочу, чтобы мы тягали всю эту артиллерию туда и обратно из-за парочки бандитов - или крысоволков.<end>
+
+=>a34_original
+I'll see him if I get the chance.<end>
+
+=>a34
+Я навещу его при возможности.<end>
+
+=>q35_original
+Thanks. <end>
+
+=>q35
+Спасибо.<end>
+
+=>a36_original
+Sorry. I got more important things to do.<end>
+
+=>a36
+Извини. У меня есть дела поважнее.<end>
+
+=>q37_original
+Alright. Then I'll send someone else.<end>
+
+=>q37
+Хорошо. Тогда я отправлю кого-нибудь ещё. <end>
+
+=>a38_original
+See ya.<end>
+
+=>a38
+Увидимся.<end>
+
+=>a39_original
+Yeah.<end>
+
+=>a39
+Ага.<end>
+
+=>q40_original
+a Lurker invasion.<end>
+
+=>q40
+нашествию Скрытней.<end>
+
+=>a41_original
+Can I have my weapon back?<end>
+
+=>a41
+Могу я получить назад своё оружие?<end>
+
+=>q42_original
+Of course. It was the, um... yeah, five-mil pistol and some ammo, if I recall correctly. Right? This one? ::He produces a pistol that is in such bad condition people would pay to get rid of it.::<end>
+
+=>q42
+Конечно. У тебя был, эм... ага, пятимиллиметровый пистолет и немного патронов, если я правильно помню. Да? Этот? ::Он достаёт пистолет в таком плохом состоянии, что другой был бы готов заплатить, чтобы от него избавиться.::<end>
+
+=>q43_original
+<end>
+
+=>q43
+<end>
+
+=>a44_original
+It was a five-mil pistol, but not that one.<end>
+
+=>a44
+У меня был пятимиллиметровый пистолет, но не этот.<end>
+
+=>q45_original
+Then whose...? Oh! This has got to be Newton's gun. Heh, my bad. Here you go. ::He hands you your weapon.::<end>
+
+=>q45
+Тогда чей?.. А! Это, должно быть, Ньютона пушка. Хех, ошибочка вышла. Короче, держи. ::Он даёт вам оружие.::<end>
+
+=>q46_original
+There. With that out of the way, may I interest you in a couple more things, hm?<end>
+
+=>q46
+Вот. Теперь, могу ли я предложить тебе ещё что-нибудь, а?<end>
+
+=>a47_original
+::[Persuade]:: Five-mil? I came here with a fourty-four, man.<end>
+
+=>a47
+::[Убеждение]:: Пятимиллиметровый? Слушай, я приш$(#ёл/ла) сюда с сорок четвёртым калибром.<end>
+
+=>q48_original
+<end>
+
+=>q48
+<end>
+
+=>q49_original
+What? ::One of his eyes half-closes while the other tenses up.:: No, seriously, is this your pistol?<end>
+
+=>q49
+Что? ::Его левый глаз нервно прищуривается.:: Нет, правда, это твой пистолет?<end>
+
+=>a50_original
+::[Persuade]:: It wasn't a gun at all. It was a machete.<end>
+
+=>a50
+::[Убеждение]:: У меня был вовсе не пистолет, а мачете.<end>
+
+=>q51_original
+<end>
+
+=>q51
+<end>
+
+=>a52_original
+::[Persuade]:: A pistol? I had a bloody shotgun.<end>
+
+=>a52
+::[Убеждение]:: Пистолет? У меня был долбаный дробовик.<end>
+
+=>q53_original
+<end>
+
+=>q53
+<end>
+
+=>q54_original
+::He raises his right eyebrow.:: A shotgun, you say...
+
+I have one unaccounted-for shotgun here. ::He shows you a rust-bitten, taped up shotgun.::<end>
+
+=>q54
+::Он поднимает правую бровь.:: Дробовик, говоришь...
+
+У меня тут один завалялся. ::Он показывает вам ржавый, перемотанный скотчем дробовик.::<end>
+
+=>a55_original
+Shoddy Shotty!<end>
+
+=>a55
+Дрянной дробовичок!<end>
+
+=>q56_original
+::He hands you the shotgun and some shells.:: Hmmm, guess the pistol belongs to Newton then.<end>
+
+=>q56
+::Он вручает вам дробовик и несколько патронов.:: Хм-м-м, значит, пистолет принадлежал Ньютону.<end>
+
+=>a57_original
+::Accept it in silence.::<end>
+
+=>a57
+::Молча принять его.::<end>
+
+=>a58_original
+Um, no. I believe I had a twelve-gauge automatic shotgun.<end>
+
+=>a58
+Гм, нет. По-моему, у меня был автоматический дробовик двенадцатого калибра.<end>
+
+=>q59_original
+Ha! Yeah, right! <end>
+
+=>q59
+Ха! Да, точно!<end>
+
+=>a60_original
+What the hell is this?<end>
+
+=>a60
+Это ещё что за хрень?<end>
+
+=>q61_original
+Your shotgun. <end>
+
+=>q61
+Твой дробовик.<end>
+
+=>q62_original
+A... a shotgun? But we don't even have any shotguns here.<end>
+
+=>q62
+Д... дробовик? Но у нас даже нет дробовиков.<end>
+
+=>q63_original
+Come on, stop messing around and tell me: Is this your pistol or not?<end>
+
+=>q63
+Хватит, кончай уже прикалываться. Это твой пистолет или нет?<end>
+
+=>a64_original
+Actually, no, I had a crossbow.<end>
+
+=>a64
+На самом деле, -- нет, у меня был арбалет.<end>
+
+=>a65_original
+Guns are for wussies. All I need is a knife.<end>
+
+=>a65
+Пистолеты для слюнтяев. Всё, что мне нужно -- это нож.<end>
+
+=>a66_original
+You and Vencel are good pals?<end>
+
+=>a66
+Вы с Венцелем -- близкие друзья?<end>
+
+=>q67_original
+Pals? We're brothers!<end>
+
+=>q67
+Друзья? Да мы братья!<end>
+
+=>a68_original
+I'm sorry, I never noticed the resemblance.<end>
+
+=>a68
+Извини, я не заметил$(#/а) никакого сходства.<end>
+
+=>q69_original
+Well, the respirators don't exactly help, heh. But yeah, we're bros. We came to this station together some years ago, and when they saw how cool we were, they wouldn't let us leave. 
+
+::He laughs.:: That's *exactly* how it went.<end>
+
+=>q69
+Ну, респираторы точно не помогают, хех. Но да, мы братья. Мы приехали на эту станцию вместе несколько лет назад, и как только они увидели, как мы круты, то они просто не позволили нам уйти. 
+
+::Он смеётся.:: *Точно* так всё и было.<end>
+
+=>a70_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a70
+Что ты знаешь о смерти Патрика Пирса?<end>
+
+=>q71_original
+Poor guy died in his sleep, $(context.player.Name), and even though Pasquale never pinpointed the cause, I hope it was swift and painless. Most of us grew pretty fond of him, and you'd be hard-pressed to find one who hasn't.<end>
+
+=>q71
+$(context.player.Name), бедолага умер во сне, и, хотя Паскуаль не определил причину смерти, надеюсь она была быстрой и безболезненной. Многим здесь он нравился, и тебе будет сложно найти хотя бы кого-то, кто его не любил.<end>
+
+=>a72_original
+Can you tell me what he was like as a person?<end>
+
+=>a72
+Можешь рассказать мне, каким он был человеком?<end>
+
+=>q73_original
+He was very... what's the proper word here... focused! Yes, focused. He'd start working on something and not be done with it until it's perfect. That's how he did everything. Then Bret comes along as the only one complaining. Apparently, Patrick installed some heaters and they didn't work as they should, so the Big Complainer threw a bit of a tantrum. But yeah, heh, Bret.<end>
+
+=>q73
+Он был очень... как бы сказать... целеустремлённым! Да, целеустремлённым. Он начинал работать над чем-то и не бросал, пока всё не начинало работать идеально. Вот как он делал всё. Только Брет приходил ко мне жаловаться. Судя по всему, Патрик установил несколько нагревателей, и они не работали как надо, так что большой нытик был немного в ярости. Но да, хех, это Брет.<end>
+
+=>a74_original
+What do you think of the Faceless invasion?<end>
+
+=>a74
+Что ты думаешь о вторжении безликих?<end>
+
+=>q75_original
+I heard a lot about the Faceless, or Tunnelers, as some call them, and none of it was any good. They are vile creatures from the depths, most likely Deep Caverns, who steal Underrailers and feast on their flesh. Kind of like Lurkers, but less human. One cousin of mine told me they stole his son, and he saw them do it.<end>
+
+=>q75
+Я много слышал о безликих или Проходчиках, как их некоторые называют, и ничего из этого не было хорошим. Они мерзкие твари из глубин, -- скорее всего, из Глубоких пещер, -- которые крадут обитателей Подземки и лакомятся их плотью. Что-то типа скрытней, но ещё менее люди. Один мой двоюродный брат рассказывал, как они украли его сына, и он всё видел собственными глазами.<end>
+
+=>q76_original
+If Core City falls, we all fall, unless the Protectorate somehow make a last stand at Fort Apogee. But they are cut off from the North. However, I'm optimistic. Humans are resilient creatures, and we ain't gonna give up easily.<end>
+
+=>q76
+Если Кор-Сити падёт, мы все падём, если только Протекторат каким-то образом не удержит позиции в форте Апогей. Но они отрезаны от Севера. Тем не менее, я настроен оптимистично. Люди -- упорные существа, и мы не собираемся легко сдаваться.<end>
+
+=>a77_original
+What do you think of the Faceless retreat from Core City?<end>
+
+=>a77
+Что ты думаешь об отступлении безликих из Кор-Сити?<end>
+
+=>q78_original
+Well, $(context.player.Name), I think this is another victory for humanity. I mean, the way I see it, you got these augmented monstrosities emerging from the deep and attacking us, wanting to suck our blood or eat us or whatever, and the way the invasion started it seemed like we were gonna get overrun.<end>
+
+=>q78
+Ну, $(context.player.Name), я думаю, что это ещё одна победа человечества. Сам$(#/а) смотри: эти кибернетические чудовища появились из глубин и напали на нас, желая пить нашу кровь или сожрать нас, -- неважно -- и, когда вторжение только началось, казалось, что мы вот-вот падём под их натиском.<end>
+
+=>q79_original
+Then, all of us, together, we fight back, every station, together. Get away, you damned abominations! And we prevailed. The malformed are back in their gloomy pits, waiting for the hour to strike again.
+
+::He pauses.:: The point of the story is... I'm glad they're gone.<end>
+
+=>q79
+И тогда мы, все вместе, мы отбиваемся, все станции вместе. Прочь, проклятая мерзость! Мы устояли. Уроды вернулись в свои мрачные ямы, ожидая часа, чтобы напасть снова.
+
+::Он делает паузу.:: Меня немного занесло, но суть истории такова: я рад, что они ушли.<end>
+
+=>a80_original
+I gotta go.<end>
+
+=>a80
+Мне пора идти.<end>
+
+=>q81_original
+Hey, hold up a sec. <end>
+
+=>q81
+Эй, задержись на секунду.<end>
+
+=>q82_original
+But you'll be back, heh.<end>
+
+=>q82
+Но ты ещё вернёшься, хех.<end>
+
+=>a83_original
+Guess so.<end>
+
+=>a83
+Похоже, что так.<end>
+
+=>a84_original
+::Nod.::<end>
+
+=>a84
+::Кивнуть.::<end>
+
+=>q85_original
+<end>
+
+=>q85
+<end>
+
+=>q86_original
+Think Harland's pretty pleased with his new turret. 
+
+::He sighs.:: <end>
+
+=>q86
+Думаю Харланд очень доволен своей новой турелью.
+
+::Он вздыхает::<end>
+
+=>q87_original
+He's a good guy, but I'll be damned if his R&R ain't overdue.<end>
+
+=>q87
+Он хороший парень, но будь я проклят, ему просто необходим отпуск.<end>
+
+=>q88_original
+Sent some ammo over to Harland. Hope he'll now stop bugging me about it.
+
+<end>
+
+=>q88
+Отправил Харланду немного патронов. Надеюсь, теперь он перестанет меня этим донимать.
+
+<end>
+
+=>q89_original
+At least Harland got a neat minibot out of all this, if nothing else.
+
+<end>
+
+=>q89
+По крайней мере, Харланд хоть выбил себе минибота.
+
+<end>
+
+=>q90_original
+I gotta say, thanks for helping Harland. <end>
+
+=>q90
+Должен сказать, спасибо, что помог$(#/ла) Харланду.<end>
+
+=>q91_original
+Everyone's talking about Tanner's disappearance when they should be talking about yours. Where've you been all this time, $(context.player.Name). You came here to restock, eh?<end>
+
+=>q91
+Все говорят об исчезновении Таннера, в то время как твоя пропажа не интересует никого. $(context.player.Name), где ты был$(#/а) всё это время? Приш$(#ёл/ла) сюда пополнить запасы, да?<end>
+
+=>q92_original
+I can't believe Gorsky's dead. Damn, $(context.player.Name), I saw him in my dream last night. Shooting at the range, all in the center, no deviation. And then he looked over at the armory... and he smiled at me. 
+
+What kind of a derailed dream is that in which Gorsky smiles. Rest in peace, big guy.<end>
+
+=>q92
+Я не могу поверить, что Горский мёртв. Блин, $(context.player.Name), я его видел во сне прошлой ночью. Он стрелял по мишеням -- всё в яблочко, ни одного промаха. А потом он посмотрел в сторону оружейной... и улыбнулся мне.
+
+Что за поехавший сон, в котором Горский улыбается. Покойся с миром, здоровяк.<end>
+
+=>q93_original
+Hey, is it true?<end>
+
+=>q93
+Эй, это правда?<end>
+
+=>a94_original
+Is what true?<end>
+
+=>a94
+Что же тогда правда?<end>
+
+=>q95_original
+About that psionic, Ethan, turning old in a blink of an eye<end>
+
+=>q95
+О том псионике, Итане, который в мгновение ока состарился<end>
+
+=>q96_original
+, attacking you and you had to take him out?<end>
+
+=>q96
+, напал на тебя, и тебе пришлось убить его?<end>
+
+=>q97_original
+<end>
+
+=>q97
+<end>
+
+=>a98_original
+Yes.<end>
+
+=>a98
+Да.<end>
+
+=>q99_original
+Damn. <end>
+
+=>q99
+Чёрт.<end>
+
+=>q100_original
+Wish I'd seen it. Heard it was... ::He tilts his head from left to right.:: *Novel*.<end>
+
+=>q100
+Жаль, что я этого не видел. Слышал, что это было... ::Он наклоняет голову слева направо.:: *Нечто*.<end>
+
+=>q101_original
+Anyway, you came here for a reason, didn't you?<end>
+
+=>q101
+В любом случае, ты же сюда не просто так приш$(#ёл/ла), не так ли?<end>
+
+=>q102_original
+Well, now's your chance to invest more in your defense, $(context.player.Name).<end>
+
+=>q102
+Что ж, $(context.player.Name), сейчас у тебя есть шанс получше вложиться в свою защиту.<end>
+
+=>a103_original
+No.<end>
+
+=>a103
+Нет.<end>
+
+=>q104_original
+::He glances at the armory guard.:: That lying son of a...<end>
+
+=>q104
+::Он бросает взгляд на охранника оружейной.:: Вот лживый крысий сын...<end>
+
+=>a105_original
+I don't have time for this. Show me your stock. ::Barter.::<end>
+
+=>a105
+У меня нет на это времени. Покажи мне свой товар. ::Обмен.::<end>
+
+=>q106_original
+?<end>
+
+=>q106
+?<end>
+
+=>q107_original
+That Ethan the psionic attacked you and you had to take him out?<end>
+
+=>q107
+Что Итан псионик напал на тебя, и тебе пришлось убить его?<end>
+
+=>a108_original
+Yes.<end>
+
+=>a108
+Да.<end>
+
+=>a109_original
+No.<end>
+
+=>a109
+Нет.<end>
+
+=>a110_original
+Yes. Now show me your stock, I'm in a hurry. ::Barter.::<end>
+
+=>a110
+Да. А теперь покажи мне товар, я спешу. ::Обмен.::<end>
+
+=>a111_original
+No. Now show me your stock, I'm in a hurry. ::Barter.::<end>
+
+=>a111
+Нет. А теперь покажи мне товар, я спешу. ::Обмен.::<end>
+
+=>q112_original
+So, Core City... ::He shakes his head a few times.:: Apparently there's an entire army of them there. 
+
+Well, if you're going out, you better stock up - we got some new gear.<end>
+
+=>q112
+Итак, Кор-Сити ::Он несколько раз качает головой.:: Судя по всему, их там целая армия.
+
+Ну, если ты уходишь, то лучше запасись -- мы получили кое-какое новое снаряжение.<end>
+
+=>q113_original
+Hey, $(context.player.Name). What do you need?<end>
+
+=>q113
+Привет, $(context.player.Name), что тебе нужно?<end>
+

@@ -1,0 +1,182 @@
+﻿=>q1_original
+::Salutes you.:: Corporal.<end>
+
+=>q1
+::Козыряет.:: Капрал.<end>
+
+=>q2_original
+Citizen...<end>
+
+=>q2
+Граждан$(#ин/ка)...<end>
+
+=>q3_original
+Remember, citizen: Holster *all* your weapons before entering the consulate. Thank you.<end>
+
+=>q3
+Помните, граждан$(#ин/ка): уберите *всё* оружие перед входом в консульство. Спасибо.<end>
+
+=>q4_original
+::True to his words, the guard returns quickly.:: You are allowed entry, $(#sir/ma'am). I must ask you to holster all visible weapons, grenades and otherwise potentially dangerous equipment before you enter the consulate. Failure to do so will be interpreted as a sign of hostility and will be dealt with accordingly - and swiftly. Keep that in mind.<end>
+
+=>q4
+::Действительно, он вскоре возвращается.:: Вам предоставлен доступ, $(#сэр/мэм). Я обязан попросить вас убрать любое оружие, гранаты и иное потенциально опасное оборудование перед входом в консульство. В противном случае это будет расценено как признак враждебности и пресечено соответствующим образом в ту же минуту. Не забывайте об этом.<end>
+
+=>q5_original
+To get to the consulate, you need to head straight forward, then left into the main hall. Take the northern set of stairs, and afterward take the second door to the right to get to the consul's office. Do not deviate from my directions; you are not allowed entry into any other section of the base.
+
+I hope I made everything clear. You may proceed.<end>
+
+=>q5
+Чтобы попасть в консульство, идите прямо, потом налево в главный зал. Поднимитесь по северной лестнице, вторая дверь направо и будет кабинет консула. Не отклоняйтесь от этого пути; вам не разрешается доступ в другие части базы.
+
+Я надеюсь, что всё понятно объяснил. Можете проходить.<end>
+
+=>q6_original
+::The guard gestures you to stop.::
+
+Hold it right there, citizen. You are about to enter Underrail Protectorate territory. Admittance is not allowed without proper clearance. Therefore, I must ask of you to state your business here.<end>
+
+=>q6
+::Охранник жестом останавливает вас.::
+
+Подождите, граждан$(#ин/ка). Вы входите на территорию, контролируемую Протекторатом Подземки. Допуск ограничен. Назовите цель вашего визита.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+My name is $(context.player.Name) and I was sent here by Ambassador Athanas in order to speak to Consul Oliver.<end>
+
+=>a8
+Меня зовут $(context.player.Name), и меня сюда направил посол Атанас с целью встречи с консулом Оливером.<end>
+
+=>q9_original
+::The guard visually inspects you before replying.:: I would need to confirm that. $(context.player.Name) - is that what you said?<end>
+
+=>q9
+::Охранник внимательно вас осматривает, прежде чем ответить.:: Я обязан проверить ваши слова. $(context.player.Name) -- я правильно расслышал?<end>
+
+=>a10_original
+Correct.<end>
+
+=>a10
+Правильно.<end>
+
+=>q11_original
+Very well, please wait here. I will be with you shortly, citizen.<end>
+
+=>q11
+Очень хорошо. Пожалуйста, подождите здесь. Я скоро вернусь, граждан$(#ин/ка).<end>
+
+=>a12_original
+::Wait.::<end>
+
+=>a12
+::Ждать.::<end>
+
+=>a13_original
+No, I said $(context.player.Name).<end>
+
+=>a13
+Нет, я сказал$(#/а) -- $(context.player.Name).<end>
+
+=>q14_original
+That's what I said. $(context.player.Name). Please wait here. I will be with you shortly.<end>
+
+=>q14
+Я так и сказал. $(context.player.Name). Пожалуйста, подождите здесь. Я скоро вернусь, граждан$(#ин/ка).<end>
+
+=>a15_original
+What is this place?<end>
+
+=>a15
+Что это за место?<end>
+
+=>q16_original
+This is Fort Apogee, citizen, the headquarters of all Underrail Protectorate operations in South Underrail, as well as the location of the United Stations consulate.<end>
+
+=>q16
+Это форт Апогей, граждан$(#ин/ка), штаб-квартира операций Протектората Подземки в Южной Подземке, а также расположение консульства Объединённых Станций.<end>
+
+=>a17_original
+Can I join the Underrail Protectorate?<end>
+
+=>a17
+Могу ли я вступить в Протекторат Подземки?<end>
+
+=>q18_original
+We have just received a new group of recruits and do not need more recruits at the moment, citizen. Check with one of the two available recruitment centers in South Underrail at some later time - Core City or Junkyard.<end>
+
+=>q18
+Мы только что приняли новую группу новобранцев, и на данный момент больше не набираем, граждан$(#ин/ка). Зайдите в один из двух наших рекрутинговых пунктов в Южной Подземке -- в Кор-Сити или на Свалке -- через некоторое время.<end>
+
+=>a19_original
+What's the purpose of the consulate?<end>
+
+=>a19
+Для чего нужно это консульство?<end>
+
+=>q20_original
+Are you in need of Underrail Protectorate's protection? The consulate offers protection to all citizens of United Stations members. You would have to show me your papers, though.<end>
+
+=>q20
+Вам нужна защита Протектората Подземки? Консульство предоставляет защиту всем гражданам членов Объединённых Станций. Но сначала я должен увидеть ваши документы.<end>
+
+=>a21_original
+I don't have those...<end>
+
+=>a21
+У меня их нет...<end>
+
+=>q22_original
+Then I can't help you.<end>
+
+=>q22
+В таком случае, я не могу вам помочь.<end>
+
+=>a23_original
+Is South Gate Station a member of the United Stations?<end>
+
+=>a23
+А станция Саут-Гейт входит в Объединённые Станции?<end>
+
+=>q24_original
+I'm afraid not.<end>
+
+=>q24
+Боюсь, что нет.<end>
+
+=>a25_original
+Let me ask you something else.<end>
+
+=>a25
+Позвольте мне спросить ещё кое-что.<end>
+
+=>q26_original
+Yes, citizen?<end>
+
+=>q26
+Да, граждан$(#ин/ка)?<end>
+
+=>a27_original
+Death to Protectorate scum! For the Free Drones! ::Attack!::<end>
+
+=>a27
+Смерть протекторатской сволочи! За Вольных шершней! ::Напасть!::<end>
+
+=>a28_original
+Sorry, I took a wrong turn. Goodbye.<end>
+
+=>a28
+Извините, я заблудил$(#ся/ась). До свидания.<end>
+
+=>q29_original
+Citizen?<end>
+
+=>q29
+Граждан$(#ин/ка)?<end>
+

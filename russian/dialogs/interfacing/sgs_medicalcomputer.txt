@@ -1,0 +1,570 @@
+﻿=>q1_original
+::Welcome to South Gate Station Medical Database
+
+Main::<end>
+
+=>q1
+::Добро пожаловать в медицинскую базу данных станции Саут-Гейт
+
+Главная::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::Access patient records::<end>
+
+=>a3
+::Открыть записи пациентов::<end>
+
+=>q4_original
+::Patient records::<end>
+
+=>q4
+::Записи пациентов::<end>
+
+=>a5_original
+::Open recent patient list::<end>
+
+=>a5
+::Открыть список недавних пациентов::<end>
+
+=>q6_original
+::Recent patients (One month ago)::<end>
+
+=>q6
+::Недавние пациенты (Один месяц назад)::<end>
+
+=>a7_original
+::Arlene Banks::<end>
+
+=>a7
+::Арлин Бэнкс::<end>
+
+=>q8_original
+::Symptoms: Insomnia
+
+Arlene reported having trouble falling asleep, again. Prescribed some mirtazapine for now; we'll see tomorrow how it went.
+
+Update: It worked. Will continue monitoring her condition.::<end>
+
+=>q8
+::Симптомы: бессонница
+
+Арлин снова жаловалась на проблемы со сном. Выписал ей миртазапин; завтра увидим, как всё прошло.
+
+Дополнение: Помогло. Буду продолжать наблюдение за её состоянием.::<end>
+
+=>a9_original
+::Back::<end>
+
+=>a9
+::Назад::<end>
+
+=>a10_original
+::Patrick Pierce::<end>
+
+=>a10
+::Патрик Пирс::<end>
+
+=>q11_original
+::Symptoms: Chronic back pain
+
+Prescribed painkillers, gabapentin this time. We are getting low on other painkillers, and since we don't have anyone suffering from epilepsy, gabapentin will have to do.::<end>
+
+=>q11
+::Симптомы: хроническая боль в спине
+
+Назначаю обезболивающее, на этот раз габапентин. У нас заканчиваются обезболивающие, и поскольку у нас нет пациентов с эпилепсией, придётся обойтись габапентином.::<end>
+
+=>a12_original
+::Bret Fields::<end>
+
+=>a12
+::Брет Филдс::<end>
+
+=>q13_original
+::Symptoms: Forehead laceration
+
+Big Bret showed up with a deep cut, about ten centimeters long, across his forehead. Caused by him tripping in the hopper pen and hitting his head on one of the rocks. Disinfected, stiched up and bandaged his head and told him to return tomorrow so that I can check for any potential complications, infections, etc.::<end>
+
+=>q13
+::Симптомы: рваная рана лба
+
+Большой Брет пришёл с глубокой раной поперёк лба, длиной примерно десять сантиметров. Он споткнулся в загоне для пещерников и ударился о камень. Я продезинфицировал и зашил рану и наложил повязку. Сказал, чтобы он зашёл завтра, нужно будет проверить на наличие инфекции и осложнений.::<end>
+
+=>a14_original
+::Michael Mordington::<end>
+
+=>a14
+::Майкл Мордингтон::<end>
+
+=>q15_original
+::Symptoms: Sharp chest pain
+
+Mordre came while everyone was asleep and complained about a sharp chest pain waking him up. I checked him out but couldn't find anything. Took some samples, left him in the office while I did some testing and, other than slightly lower Vitamin B levels, nothing seems to be wrong with him.
+
+Update: He said everything is fine now. Few days have gone by without any chest pains. Told him to see me if the pain returns.::<end>
+
+=>q15
+::Симптомы: резкая боль в груди
+
+Мордре пришёл когда все спали и пожаловался, что проснулся от резкой боли в груди. Я осмотрел его, но не смог ничего найти. Взял несколько анализов и разрешил ему посидеть в кабинете, пока я проводил исследования. С ним, вроде, ничего плохого, кроме низкого уровня витамина Б.
+
+Дополнение: Он сказал, что сейчас всё нормально. Несколько дней не было никаких болей в груди. Сказал ему, чтобы навестил меня, если вдруг боль вернётся.::<end>
+
+=>a16_original
+::Jo Hendrix::<end>
+
+=>a16
+::Джо Хендрикс::<end>
+
+=>q17_original
+::Symptoms: Depression
+
+Jo came and asked for depression tablets, sertaline. Said it's the only thing that helps her. I administered placebo treatment because I have reasons to believe it's all in her head. Gave her some inert tablets and will monitor her condition.
+
+Update: The tablets helped her a lot, just as I suspected. Will prescribe more and continue to monitor her condition further.
+::<end>
+
+=>q17
+::Симптомы: депрессия
+
+Джо пришла и просила таблетки от депрессии -- сертралин. Сказала, что это единственное, что ей помогает. Я назначаю плацебо, потому что у меня есть основания полагать, что это всё у неё в голове. Дал ей нейтральные таблетки и буду наблюдать за её состоянием.
+
+Дополнение: таблетки помогли ей, как я и предполагал. Назначил ещё и продолжаю следить за её состоянием.
+::<end>
+
+=>a18_original
+::Lucas Stanford::<end>
+
+=>a18
+::Лукас Стэнфорд::<end>
+
+=>q19_original
+::Symptoms: Broken toe
+
+Lucas dropped a grenade case on his foot and smashed his toe. Fixed him up and prescribed him painkillers. Recommended only light painkiller doses so that the overuse doesn't slow down the healing process. ::<end>
+
+=>q19
+::Симптомы: перелом пальца ноги
+
+Лукас уронил гранату на ногу и сломал палец. Наложил повязку и выписал обезболивающее. Рекомендовал небольшие дозы, чтобы не замедлять процесс заживления.::<end>
+
+=>a20_original
+::Back::<end>
+
+=>a20
+::Назад::<end>
+
+=>a21_original
+::Open patient archive::<end>
+
+=>a21
+::Открыть архив пациентов::<end>
+
+=>q22_original
+::Access denied
+
+For further information, please contact your administrator::<end>
+
+=>q22
+::Отказано в доступе
+
+Для получения дополнительной информации, пожалуйста, обратитесь к администратору::<end>
+
+=>a23_original
+::Back::<end>
+
+=>a23
+::Назад::<end>
+
+=>q24_original
+::Main::<end>
+
+=>q24
+::Главная::<end>
+
+=>a25_original
+::Access medical inventory::<end>
+
+=>a25
+::Открыть медицинский инвентарь::<end>
+
+=>q26_original
+::Medical Inventory::<end>
+
+=>q26
+::Медицинский инвентарь::<end>
+
+=>a27_original
+::Surgical equipment::<end>
+
+=>a27
+::Хирургическое оборудование::<end>
+
+=>q28_original
+::Articulator - 2/2
+Bone chisel - 7/10	
+Cottle cartilage crusher - 0/3 (Note: We need to get these)			
+Bone cutter - (Select to open submenu)
+Bone distractor - 4/6
+Ilizarov apparatus - 2/2
+Intramedullary kinetic bone distractor - (Select to open submenu)	
+Bone drill - 5/6
+Bone lever - (Select to open submenu)
+Bone mallet - 6/6
+Bone rasp - (Select to open submenu)
+Bone saw - 6/6
+Bone skid - (Select to open submenu)	
+Bone splint - (Select to open submenu)		
+Bone button - (Select to open submenu)::<end>
+
+=>q28
+::Артикулятор - 2/2
+Хирургическое долото - 7/10
+Круглый хрящевой измельчитель - 0/3 (Пометка: Нужно закупить)
+Костная фреза - (Выберите, чтобы открыть подменю)
+Костный дистрактор - 4/6
+Аппарат Илизарова - 2/2
+Интрамедуллярный кинетический костный дистрактор - (Выберите, чтобы открыть подменю)
+Костная дрель - 5/6
+Костный элеватор - (Выберите, чтобы открыть подменю)
+Костный молоток - 6/6
+Костный напильник - (Выберите, чтобы открыть подменю)
+Костная пила - 6/6
+Хирургический шпатель - (Выберите, чтобы открыть подменю)
+Хирургическая шина - (Выберите, чтобы открыть подменю)
+Костяная пуговица - (Выберите, чтобы открыть подменю)::<end>
+
+=>q29_original
+::Caliper - (Select to open submenu)
+Cannula - 4/6
+Cautery - (Select to open submenu)
+Curette - (Select to open submenu)
+Depressor - 3/3
+Dissecting Knife - 14/14 (Note: We need more of these)
+Surgical Pinzette - (Select to open submenu)	
+Forceps - (Select to open submenu) (Note: The numbers for certain types are not correct. Recheck.)
+Dermatome - 2/2
+Acanthulus - 7/7
+Hook - (Select to open submenu)
+Nerve hook - 5/5
+Obstetrical hook - 6/7
+Skin hook - 6/7
+Lancet (scalpel) - 20/24::<end>
+
+=>q29
+::Штангенинструмент - (Выберите, чтобы открыть подменю)
+Канюля - 4/6
+Термокаутер - (Выберите, чтобы открыть подменю)
+Кюретка - (Выберите, чтобы открыть подменю)
+Депрессор - 3/3
+Анатомический скальпель - 14/14 (Примечание: нужно достать ещё)
+Хирургический пинцет - (Выберите, чтобы открыть подменю)
+Хирургические щипцы - (Выберите, чтобы открыть подменю) (Примечание: Неверное количество для некоторых позиций. Перепроверить.)
+Дерматом - 2/2
+Акантаболь - 7/7
+Крючок - (Выберите, чтобы открыть подменю)
+Крючок для нерва - 5/5
+Акушерский крюк - 6/7
+Кожный крючок - 6/7
+Ланцет (скальпель) - 20/24::<end>
+
+=>q30_original
+::Luxator - (Select to open submenu)
+Lythotome - (Select to open submenu)	
+Lythotript - (Select to open submenu)	
+Mallet - 15/15
+Mammotome - 2/2 (Note: I don't think those are usable anymore. Recheck.)
+Occluder - (Select to open submenu)
+Osteotome - (Select to open submenu)
+Elevator - (Select to open submenu)
+Probe - (Select to open submenu)	
+Retractor - (Select to open submenu)
+Rib spreader - 5/5
+Rongeur - (Select to open submenu)
+Ultrasonic scalpel - 10/10
+Laser scalpel - 10/10	
+Scissors - (Select to open submenu)::<end>
+
+=>q30
+::Люксатор - (Выберите, чтобы открыть подменю)
+Литотом - (Выберите, чтобы открыть подменю)
+Литотриптор - (Выберите, чтобы открыть подменю)
+Молоток - 15/15
+Маммотом - 2/2 (Примечание: Возможно, непригодны. Перепроверить.)
+Окклюдер - (Выберите, чтобы открыть подменю)
+Остеотом - (Выберите, чтобы открыть подменю)
+Элеватор - (Выберите, чтобы открыть подменю)
+Зонд - (Выберите, чтобы открыть подменю)
+Ректрактор - (Выберите, чтобы открыть подменю)
+Рёберный расширитель - 5/5
+Костные кусачки - (Выберите, чтобы открыть подменю)
+Ультразвуковой скальпель - 10/10
+Лазерный скальпель - 10/10
+Ножницы - (Выберите, чтобы открыть подменю)::<end>
+
+=>q31_original
+::Spatula - (Select to open submenu)	
+Speculum - (Select to open submenu)
+Sponge bowl - (Select to open submenu)
+Sterilization tray - (Select to open submenu)
+Sternal saw - 3/3 (Note: Def need more.)
+Suction tube - (Select to open submenu) (Note: Running low on these)		
+Surgical knife - (Select to open submenu)
+Surgical mesh - (Select to open submenu)
+Surgical needle - (Select to open submenu)
+Surgical needle (straight) - (Select to open submenu)
+Surgical needle (straight, extra large) - 1/2 (Note: One is inexplicably missing from operating room, doubt it was broken and discarded, they're big and sturdy)
+Surgical snare - (Select to open submenu)
+Surgical sponge - 34/50		
+Surgical spoon - (Select to open submenu)::<end>
+
+=>q31
+::Лопатка - (Выберите, чтобы открыть подменю)
+Расширитель - (Выберите, чтобы открыть подменю)
+Лоток для губки - (Выберите, чтобы открыть подменю)
+Стерилизационный лоток - (Выберите, чтобы открыть подменю)
+Стернотом - 3/3 (Примечание: Опр нужно больше.)
+Всасывающий шланг - (Выберите, чтобы открыть подменю) (Примечание: Заканчиваются)
+Хирургический нож - (Выберите, чтобы открыть подменю)
+Хирургическая сетка - (Выберите, чтобы открыть подменю)
+Хирургическая игла - (Выберите, чтобы открыть подменю)
+Хирургическая игла (прямая) - (Выберите, чтобы открыть подменю)
+Хирургическая игла (прямая, большая) - 1/2 (Примечание: Одной почему-то не хватает в операционной. Вряд ли она была сломана, они большие и прочные)
+Хирургический зажим - (Выберите, чтобы открыть подменю)
+Хирургическая губка - 34/50
+Хирургическая ложка - (Выберите, чтобы открыть подменю)::<end>
+
+=>q32_original
+::Surgical stapler - 10/10
+Surgical tray - 20/21
+Suture Atraumatisches - 10/10
+Tonsillotome - 4/4
+Towel clamp - (Select to open submenu)
+Tracheotome - 5/5
+Tissue expander - (Select to open submenu)
+Subcutaneous - (Select to open submenu)
+Trephine - 14/14
+Trocar - 9/9::<end>
+
+=>q32
+::Хирургический степлер - 10/10
+Хирургический лоток - 20/21
+Атравматический шов - 10/10
+Тонзиллотом - 4/4
+Бельевая цапка - (Выберите, чтобы открыть подменю)
+Трахеотом - 5/5
+Тканевой растягиватель - (Выберите, чтобы открыть подменю)
+Подкожные - (Выберите, чтобы открыть подменю)
+Трёпан - 14/14
+Троакар - 9/9::<end>
+
+=>a33_original
+::Standard equipment::<end>
+
+=>a33
+::Стандартное оборудование::<end>
+
+=>q34_original
+::Stethoscopes - 10/10
+Reflex testing hammer - 5/5
+Sphygmomanometer - 3/3
+A thin beam electric torch - 5/5
+A watch / stopwatch - 4/4
+A measuring tape - (Select to open submenu)
+Tongue Depressor - 4/6
+A weighing machine - 2/2
+Tuning forks - 3/3
+Kidney dish - 6/5 (Note: How is this possible?)
+Bedpan 7/7::<end>
+
+=>q34
+::Стетоскопы - 10/10
+Неврологический молоток - 5/5
+Сфигмоманометр - 3/3
+Эл.фонарик с тонким лучом - 5/5
+Часы / секундомер - 4/4
+Измерительная лента - (Выберите, чтобы открыть подменю)
+Депрессор языка - 4/6
+Весы - 2/2
+Камертоны - 3/3
+Почкообразный лоток - 6/5 (Примечание: как это возможно?)
+Утка - 7/7::<end>
+
+=>q35_original
+::Thermometer - (Select to open submenu)
+Gas cylinders - 11/14
+Oxygen mask - 16/16
+Vaporizer - 5/6
+Dressing drums - 10/10
+Nebulizer - 4/5
+Positive pressure ventilator - 4/4
+Cardioverter / Defibrillator - 4/4
+Dialyser - 2/2::<end>
+
+=>q35
+::Термометр - (Выберите, чтобы открыть подменю)
+Газовые баллоны - 11/14
+Кислородная маска - 16/16
+Испаритель - 5/6
+Контейнеры для отходов - 10/10
+Распылитель - 4/5
+Нагнетающий вентилятор - 4/4
+Кардиовертер / дефибриллятор - 4/4
+Диализатор - 2/2::<end>
+
+=>q36_original
+::Syringe - (Select to open submenu)
+Canula - (Select to open submenu)
+Transfusion sets - (Select to open submenu)
+Gastrointestinal tubes - (Select to open submenu)
+Nasogastric tube - (Select to open submenu)
+Stomach tube - (Select to open submenu)
+Levin's tube - (Select to open submenu)
+Kehr's "T" tube - (Select to open submenu)
+Infant feeding tube - (Select to open submenu)
+Spectacles - (Select to open submenu)
+Enema set::<end>
+
+=>q36
+::Шприц - (Выберите, чтобы открыть подменю)
+Канюла - (Выберите, чтобы открыть подменю)
+Стойка для переливания - (Выберите, чтобы открыть подменю)
+Желудочно-кишечный зонд - (Выберите, чтобы открыть подменю)
+Назогастральный зонд - (Выберите, чтобы открыть подменю)
+Желудочный зонд - (Выберите, чтобы открыть подменю)
+Зонд Левина - (Выберите, чтобы открыть подменю)
+Зонд Кера - (Выберите, чтобы открыть подменю)
+Детская питательная трубка - (Выберите, чтобы открыть подменю)
+Очки - (Выберите, чтобы открыть подменю)
+Комплект клизм::<end>
+
+=>q37_original
+::Bandage - (Select to open submenu)
+Pipettes or droppers - (Select to open submenu)
+Graduated spoons - (Select to open submenu)
+Ophthalmoscope - 2/5 (Note: We should get more)
+Otoscope - 6/7
+Endoscope - 3/4
+Proctoscope (Kelly's) - 4/7::<end>
+
+=>q37
+::Бинт - (Выберите, чтобы открыть подменю)
+Пипетки - (Выберите, чтобы открыть подменю)
+Мерные ложки - (Выберите, чтобы открыть подменю)
+Офтальмоскоп - 2/5 (Пометка: Нужно купить больше)
+Отоскоп - 6/7
+Эндоскоп - 3/4
+Ректоскоп (Келли) - 4/7::<end>
+
+=>a38_original
+::Medications::<end>
+
+=>a38
+::Медикаменты::<end>
+
+=>q39_original
+::The medication list is too long for you to review them all.::<end>
+
+=>q39
+::Список лекарств слишком велик, чтобы просмотреть его целиком.::<end>
+
+=>a40_original
+::Notes::<end>
+
+=>a40
+::Примечания::<end>
+
+=>q41_original
+::Notes::<end>
+
+=>q41
+::Примечания::<end>
+
+=>a42_original
+::New medical equipment::<end>
+
+=>a42
+::Новое медицинское оборудование::<end>
+
+=>q43_original
+::We'll be receiving new medical equipment soon. The existing inventory will need to be rechecked and expanded, unless we want to risk the same thing from the last time happening again.::<end>
+
+=>q43
+::Скоро мы получим новое медицинское оборудование. Необходимо проверить всё имеющееся оборудование и расширить инвентарь, чтобы не было как в прошлый раз.::<end>
+
+=>a44_original
+::Back::<end>
+
+=>a44
+::Назад::<end>
+
+=>a45_original
+::Quinton's dimethylmercury::<end>
+
+=>a45
+::Диметилртуть Куинтона::<end>
+
+=>q46_original
+::Quinton retrieved a single dose of dimethylmercury; he mentioned he needed it for testing on burrowers.
+
+Note: Why do we even have one of the strongest neurotoxins in our inventory?::<end>
+
+=>q46
+::Выдал Куинтону дозу диметила. Он сказал, что проводит опыты на могильщиках.
+
+Примечание: Откуда вообще у нас на складе доза самого мощного нейротоксина?::<end>
+
+=>a47_original
+::Repair the lockpad::<end>
+
+=>a47
+::Ремонт замка::<end>
+
+=>q48_original
+::Reminder to notify someone to check that broken lockpad. I swear, it took ten to fifteen tries for it to finally accept my keycard.::<end>
+
+=>q48
+::Не забыть попросить кого-нибудь проверить сломанный замок. Я клянусь, он принял мою ключ-карту только с десятого или пятнадцатого раза.::<end>
+
+=>a49_original
+::Surgery room lights::<end>
+
+=>a49
+::Освещение операционной::<end>
+
+=>q50_original
+::Surgery room lights are flickering. It looks like a horror scene in there. Call someone to fix it.::<end>
+
+=>q50
+::Освещение операционной моргает как в фильме ужасов. Позвонить кому-нибудь, чтобы починили.::<end>
+
+=>a51_original
+::Empty::<end>
+
+=>a51
+::Пусто::<end>
+
+=>q52_original
+::Empty::<end>
+
+=>q52
+::Пусто::<end>
+
+=>a53_original
+::Back::<end>
+
+=>a53
+::Назад::<end>
+
+=>a54_original
+::Exit::<end>
+
+=>a54
+::Выход::<end>
+

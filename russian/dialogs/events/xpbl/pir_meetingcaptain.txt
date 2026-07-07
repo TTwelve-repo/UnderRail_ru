@@ -1,0 +1,2618 @@
+﻿=>q1_original
+::The captain speaks to you in a voice that is somewhat higher in pitch but darker in quality, smooth and clear but for a slight and barely noticeable lisp.::
+
+<end>
+
+=>q1
+::Капитан обращается к вам голосом несколько высоковатым по тону, но тёмным по характеру, ровным и ясным, с лёгкой и едва заметной шепелявостью.::
+<end>
+
+=>q2_original
+I'm Captain Cadmus Grim. Welcome to my ship. 
+
+The two men are my lieutenants: Razor you've already met, and the gentleman to your left is Cruzer.<end>
+
+=>q2
+Я капитан Кадмус Грим. Добро пожаловать на мой корабль.
+
+Эти двое - мои помощники: Бритва, с которым ты уже познакомил$(#ся/ать), а этот джентльмен слева от тебя - Могила.<end>
+
+=>q3_original
+::A deep voice disturbs the bandana as it passes through it.::
+
+Ye try any funny stuff 'fore d' Cap'n an' I'll give ye d' same smile I got on me banda: Wide - an' fleshless.<end>
+
+=>q3
+::Глубокий голос тревожит бандану, когда проходит сквозь неё.::
+
+Попробуешь выкинуть какую-нибудь смешную хрень перед капитаном, и я подарю тебе ту же улыбку, что на моей банде: широкую и лишённую плоти.<end>
+
+=>q4_original
+What's your name?<end>
+
+=>q4
+Как твоё имя?<end>
+
+=>a5_original
+$(context.player.Name).<end>
+
+=>a5
+$(context.player.Name).<end>
+
+=>q6_original
+And you wish to become... a pirate?<end>
+
+=>q6
+И ты хочешь стать... пиратом?<end>
+
+=>a7_original
+Yes.<end>
+
+=>a7
+Да.<end>
+
+=>q8_original
+You wanna give up your former life and dedicate your new one to Grim Jetters? <end>
+
+=>q8
+Ты хочешь бросить свою прежнюю жизнь и посвятить свою новую Беспощадным всадникам?<end>
+
+=>q9_original
+To have every single livin' soul outside the Black Sea hate your guts and would happily send you under on sight?<end>
+
+=>q9
+Чтобы каждая живая душа за пределами Чёрного моря возненавидела тебя до глубины души и с радостью отправила бы на дно, едва завидев?<end>
+
+=>a10_original
+Hell yeah!<end>
+
+=>a10
+Конечно, да!<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>q13_original
+Good. However, you as a $(#man/woman) of such shiftin' loyalty...<end>
+
+=>q13
+Хорошо. Однако, ты, как $(#мужчина/женщина) такой изменчивой лояльности...<end>
+
+=>a14_original
+Whatever you want me to do to.<end>
+
+=>a14
+Сделаю всё, что скажете.<end>
+
+=>q15_original
+You could start by givin' me... information. <end>
+
+=>q15
+Ты можешь начать с того, что дашь мне... информацию.<end>
+
+=>q16_original
+About everythin' that has been goin' on here. Why this expedition is here, what you've discovered up until now... *Everythin'*.<end>
+
+=>q16
+Обо всём, что тут случилось. Почему эта экспедиция здесь, что вы обнаружили до сих пор... *Обо всём*.<end>
+
+=>a17_original
+::Tell him what you know about the expedition.::<end>
+
+=>a17
+::Рассказать ему всё, что вам известно об экспедиции.::<end>
+
+=>q18_original
+::After listening carefully to what you have to say, occasionally smiling and rubbing his beard with delight, he leans back into his chair and stares at the ceiling.::
+
+Interestin'. Real... interestin'.<end>
+
+=>q18
+::Внимательно выслушав всё, что вы рассказали, слегка улыбаясь и с удовольствием потирая бороду, он откидывается на спинку стула и смотрит в потолок.::
+
+Любопытно. Весьма... любопытно.<end>
+
+=>q19_original
+::His eyes shift from the ceiling to you.::
+
+<end>
+
+=>q19
+::Он переводит взгляд с потолка на вас.::
+<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+And you have this... workin' microchip implant?<end>
+
+=>q21
+И у тебя есть этот... рабочий микрочип-имплантат?<end>
+
+=>a22_original
+Got it right here.<end>
+
+=>a22
+Он у меня.<end>
+
+=>q23_original
+::He smiles.:: Then welcome to the Grim Jetters, $(context.player.Name). Welcome.
+
+I think you'll prove to be a good addition to our ranks after all.<end>
+
+=>q23
+::Он улыбается.:: Тогда добро пожаловать в Беспощадные всадники, $(context.player.Name).
+
+Я думаю, ты действительно окажешься достойным пополнением в наших рядах.<end>
+
+=>a24_original
+I think so too, Cap'n.<end>
+
+=>a24
+Я тоже так думаю, капитан.<end>
+
+=>a25_original
+I think so too, Cap'n.<end>
+
+=>a25
+Я тоже так думаю, капитан.<end>
+
+=>a26_original
+No, but I know where to get it.<end>
+
+=>a26
+Нет, но я знаю, где его взять.<end>
+
+=>q27_original
+Welcome to the Grim Jetters, $(context.player.Name).
+
+Perhaps you'll prove to be a good addition to our ranks after all.<end>
+
+=>q27
+Добро пожаловать в Беспощадные всадники, $(context.player.Name).
+
+Возможно, ты действительно окажешься достойным пополнением в наших рядах.<end>
+
+=>q28_original
+But you only know so much. <end>
+
+=>q28
+Но ты знаешь больше.<end>
+
+=>q29_original
+Now, concernin' that free passage through our territory...<end>
+
+=>q29
+А теперь, что касается свободного прохода через нашу территорию...<end>
+
+=>q30_original
+Your suggestion sounds acceptable: You - and only you - will have unrestriced passage through our territory. Consider that a bonus for successful negotations.<end>
+
+=>q30
+Твоё пожелание звучит вполне приемлемо: ты - и только ты - теперь имеешь неограниченный проход через нашу территорию. Считай это бонусом за успешные переговоры.<end>
+
+=>a31_original
+And the laborers? I might need a few extra hands over there.<end>
+
+=>a31
+А рабочие? Возможно, мне понадобится пара лишних рук.<end>
+
+=>q32_original
+No extra hands.<end>
+
+=>q32
+Никаких лишних рук.<end>
+
+=>a33_original
+What if we pay the toll each time I bring someone? Would that be acceptable?<end>
+
+=>a33
+А что, если мы будем платить пошлину каждый раз, когда я кого-то приведу? Будет ли это приемлемо?<end>
+
+=>q34_original
+Hmmm. Very well. But no armed men, and I reserve the right to withdraw my hospitality at any time.<end>
+
+=>q34
+Хммм. Хорошо. Но никаких вооружённых людей, и я оставляю за собой право в любой момент отказаться от своего гостеприимства.<end>
+
+=>a35_original
+Deal.<end>
+
+=>a35
+Договорились.<end>
+
+=>q36_original
+What remains now is that you contact your camp <end>
+
+=>q36
+Теперь тебе остаётся только связаться со своим лагерем<end>
+
+=>q37_original
+and deliver to us everythin' you promised. <end>
+
+=>q37
+, чтобы они доставили нам всё, что ты обещал$(#/а).<end>
+
+=>q38_original
+After that the professor will be yours.<end>
+
+=>q38
+После этого профессор весь ваш.<end>
+
+=>a39_original
+::Contact Chief Briggs and wait for them to deliver the supplies.::<end>
+
+=>a39
+::Связаться с шефом Бриггсом и ждать, пока доставят припасы.::<end>
+
+=>a40_original
+::Contact Chief Briggs.::<end>
+
+=>a40
+::Связаться с шефом Бриггсом.::<end>
+
+=>a41_original
+I... um, don't have my comm on me.<end>
+
+=>a41
+Я... ээ, у меня нет при себе коммуникатора.<end>
+
+=>q42_original
+Feel free to use mine. ::He hands you a radio, a waterproof floatie-talkie.::<end>
+
+=>q42
+Не стесняйся воспользоваться моей. ::Он протягивает вам водонепроницаемую рацию-поплавок.::<end>
+
+=>a43_original
+::Contact Chief Briggs and wait for them to deliver the supplies.::<end>
+
+=>a43
+::Связаться с шефом Бриггсом и ждать, пока доставят припасы.::<end>
+
+=>a44_original
+::Contact Chief Briggs.::<end>
+
+=>a44
+::Связаться с шефом Бриггсом.::<end>
+
+=>q45_original
+and arrange for everything you promised. <end>
+
+=>q45
+и организовать всё, что ты обещал$(#/а).<end>
+
+=>a46_original
+No extra hands then.<end>
+
+=>a46
+Тогда никаких лишних рук.<end>
+
+=>a47_original
+What do you want now?<end>
+
+=>a47
+Чего вам теперь надо?<end>
+
+=>q48_original
+Watch your tongue. Information. I want information. <end>
+
+=>q48
+Следи за своим языком. Информация. Мне нужна информация.<end>
+
+=>q49_original
+Good. Then welcome to the Grim Jetters, $(context.player.Name).
+
+Perhaps you'll prove to be a good addition to our ranks after all.<end>
+
+=>q49
+Хорошо. Тогда добро пожаловать в Беспощадные всадники, $(context.player.Name).
+
+Возможно, ты действительно окажешься достойным пополнением в наших рядах.<end>
+
+=>a50_original
+Yes.<end>
+
+=>a50
+Да.<end>
+
+=>a51_original
+::Nod.::<end>
+
+=>a51
+::Кивнуть.::<end>
+
+=>q52_original
+You wanna betray the people you worked for and become a Grim Jetter? <end>
+
+=>q52
+Ты хочешь предать людей, на которых работал$(#/а), и стать Беспощадным всадником?<end>
+
+=>a53_original
+::Assess your odds of starting a fight.::<end>
+
+=>a53
+::Оценить свои возможности перед началом боя.::<end>
+
+=>q54_original
+::The two lieutenants are keeping a close eye on you: Razor is equipped with a shotgun and at least one knife, whereas Cruzer is holding an assault rifle and has a sledgehammer on his back. These two are standing so close that unless you make yourself some breathing space you will not even be able to move a finger without getting pounded into dust. Even if you do manage to handle Razor and Cruzer, you still have to worry about Captain Grim himself.::<end>
+
+=>q54
+::Два помощника внимательно следят за вами: Бритва вооружён дробовиком и по крайней мере одним ножом, а Могила держит штурмовую винтовку и кувалду за спиной. Эти двое стоят так близко, что если вы не создадите себе пространство для манёвра, то не сможете и пальцем пошевелить, чтобы не стать пылью. Даже если вам удастся справиться с Бритвой и Могилой, вам всё равно придётся беспокоиться и о самом капитане Беспощадном.::<end>
+
+=>a55_original
+::Don't fight.::<end>
+
+=>a55
+::Не начинать бой.::<end>
+
+=>q56_original
+::You choose not to fight.:: <end>
+
+=>q56
+::Вы решаете не вступать в бой.::<end>
+
+=>q57_original
+<end>
+
+=>q57
+<end>
+
+=>a58_original
+::[Intelligence]:: You haven't asked me why the expedition is here.<end>
+
+=>a58
+::[Интеллект]:: Вы не спросили меня, зачем здесь экспедиция.<end>
+
+=>q59_original
+Well observed.<end>
+
+=>q59
+Верно подмечено.<end>
+
+=>a60_original
+It would be insulting to suggest that you don't know we are here because of these ruins.<end>
+
+=>a60
+Было бы оскорблением предположить, будто вы не знаете, что мы здесь из-за этих руин.<end>
+
+=>q61_original
+::He is silent.::<end>
+
+=>q61
+::Он хранит молчание.::<end>
+
+=>a62_original
+After all, you found the professor studying one of them. And you kidnapped him by going through the evacuation tunnel, which means you have some access to these ruins. But the Keep had far too many valuable items inside for a pirate to resist, which suggests that you haven't found a way to actually get inside.<end>
+
+=>a62
+В конце концов, вы застали профессора за их изучением. И вы похитили его, пройдя через эвакуационный туннель, это означает, что у вас есть какой-то доступ к этим руинам. Но в хранилище было слишком много ценных предметов, чтобы пират смог устоять, а это говорит о том, что вы не нашли способа проникнуть внутрь.<end>
+
+=>q63_original
+Go on.<end>
+
+=>q63
+Продолжай.<end>
+
+=>a64_original
+Which could also apply to the rest of the facilities, some - if not all. Inside are the things we *want*, but the things you could *take*, to reference your previous statement.<end>
+
+=>a64
+Что также может относиться к остальным объектам, если не ко всем, то к некоторым из них. Внутри находятся вещи, которые нам *нужны*, но которые вы могли бы *взять*, ссылаясь на ваше предыдущее заявление.<end>
+
+=>q65_original
+::The captain briefly exchanges looks with his two lieutenants, both of which have followed your speech with interest. ::
+
+Good. I'm speakin' to someone with a good noggin' on his shoulders. I am glad to hear we understand each other. <end>
+
+=>q65
+::Капитан коротко обменивается взглядами с двумя своими помощниками, с интересом следящими за вашей речью.::
+
+Хорошо. Я разговариваю с тем, у кого есть голова на плечах. Рад слышать, что мы понимаем друг друга.<end>
+
+=>q66_original
+What you're doin' here was never in question - you're diggin' through these abandoned, dilapidated facilities scattered across the Hell's Gut. But an expedition like this is an extreme risk. It devours lives and money like a voracious sea serpent. That kind of effort could only come from someone who *knows*, not thinks, *knows* he's gonna get somethin' really freakin' good out of it. You ain't scavengin' for random pieces of tech and museum material - you're after somethin' specific, and I wanna know what it is.<end>
+
+=>q66
+То, чем вы здесь занимаетесь, никогда не подвергалось сомнению - вы копаетесь в этих заброшенных, полуразрушенных сооружениях, разбросанных по всему Адскому котлу. Но такая экспедиция - огромный риск. Она пожирает жизни и деньги, как ненасытный морской змей. Такое усилие может исходить только от кого-то, кто *знает*, а не думает, *знает*, что он извлечёт из этого что-то по-настоящему охренительно стоящее. Вам не нужны случайные фрагменты техники и музейные экспонаты - вы ищете что-то конкретное, и я хочу знать, что именно.<end>
+
+=>q67_original
+Professor was rather unresponsive, as expected, but in all honesty we didn't even try *persuadin'* him to speak. You, on the other hand, you seem a bit more talkative.<end>
+
+=>q67
+Профессор, как и следовало ожидать, оказался не из болтливых, но, по правде говоря, мы даже не пытались *убедить* его заговорить. Ты же, с другой стороны, кажешься немного более разговорчив$(#ым/ой).<end>
+
+=>a68_original
+Maybe there is something I can do to help.<end>
+
+=>a68
+Возможно, здесь я смогу кое-чем помочь.<end>
+
+=>q69_original
+I am all ears.<end>
+
+=>q69
+Я весь внимание.<end>
+
+=>q70_original
+<end>
+
+=>q70
+<end>
+
+=>a71_original
+My role in this whole expedition is rather limited, so perhaps I cannot give you what you really want. Still, I can offer you information on everything we've uncovered so far. How we got inside, what we found, our conclusions - all of that I will share with you once Professor Oldfield has been released.<end>
+
+=>a71
+Моя роль во всей этой экспедиции довольно ограничена, так что, возможно, я не смогу дать вам то, что вы действительно хотите. Тем не менее, я могу предложить вам информацию обо всём, что мы обнаружили до сих пор. Как мы проникли внутрь, что мы нашли, наши выводы - всем этим я поделюсь с вами, как только профессор Олдфилд будет освобождён.<end>
+
+=>q72_original
+I like the sound of that. I am primarily interested in how you actually managed to enter the facilities. But more on that later. <end>
+
+=>q72
+Мне нравится, как это звучит. В первую очередь меня интересует, как вам всё-таки удалось попасть на эти объекты. Но об этом чуть позже.<end>
+
+=>q73_original
+<end>
+
+=>q73
+<end>
+
+=>a74_original
+::[Persuade]:: If these negotiations go well, perhaps we can even help each other. Some of these facilities lie in your territory. Perhaps we can help you unlock some of them - if you were to grant us free passage, <end>
+
+=>a74
+::[Убеждение]:: Если эти переговоры пройдут успешно, возможно, мы даже сможем помочь друг другу. Некоторые из этих объектов находятся на вашей территории. Мы можем помочь вам открыть некоторые из них, если вы дадите нам свободный проход,<end>
+
+=>q75_original
+Well... I do have some, how should I say, *issues* with allowin' armed security troopers to roam our waters freely.<end>
+
+=>q75
+Ну... У меня в действительности имеются некоторые, как бы это сказать, *затруднения* с тем, чтобы позволить вооружённым охранникам свободно рассекать по нашим водам.<end>
+
+=>a76_original
+Then how about just one sec-trooper? You let me pass, perhaps a few unarmed laborers if needed, and that's all we need, really.<end>
+
+=>a76
+Тогда как насчёт всего лишь одного спец-охранника? Вы дадите мне проход, возможно, несколькими безоружными рабочими, если понадобится, и это всё, что нам нужно, правда.<end>
+
+=>q77_original
+::He ponders for a moment.::
+
+Yes. It is possible, it is... But we'll get to it later.<end>
+
+=>q77
+::Он на мгновение задумывается.::
+
+Да. Это возможно, это... Но мы вернёмся к этому позже.<end>
+
+=>q78_original
+Good. We're makin' progress.<end>
+
+=>q78
+Хорошо. Мы делаем успехи.<end>
+
+=>q79_original
+Allowin' armed security troopers to roam our waters freely? You have got to be jokin'.<end>
+
+=>q79
+Позволить вооружённым охранникам свободно рассекать по нашим водам? Ты, должно быть, шутишь.<end>
+
+=>a80_original
+::[Intimidate]:: I do have to warn you to be really careful what you do with this information while the expedition is still here. We wouldn't want to run into each other at some inopportune moment and recreate a problem you and I are trying to solve now, would we?<end>
+
+=>a80
+::[Запугивание]:: Я долж$(#ен/на) предупредить вас, чтобы вы были очень осторожны с этой информацией, пока экспедиция всё ещё здесь. Мы же не хотим столкнуться друг с другом в какой-нибудь неподходящий момент и воссоздать проблему, которую вы и я сейчас пытаемся решить, не так ли?<end>
+
+=>q81_original
+I'll be keepin' that in mind.<end>
+
+=>q81
+Я буду иметь это в виду.<end>
+
+=>q82_original
+::He slams his fist against the table.::
+
+I warned you! Now you will pay for your insolence. Seize $(#him/her)!<end>
+
+=>q82
+::Он бьёт кулаком по столу.::
+
+Я предупреждал тебя! Теперь ты заплатишь за свою дерзость. Схватите $(#его/её)!<end>
+
+=>a83_original
+::Do not resist.::<end>
+
+=>a83
+::Не сопротивляться.::<end>
+
+=>q84_original
+::You stand still while the two man grab you by your arms.::
+
+<end>
+
+=>q84
+::Вы стоите неподвижно, пока двое мужчин крутят вам руки.::
+<end>
+
+=>q85_original
+We're wastin' time here.<end>
+
+=>q85
+Мы зря тратим время.<end>
+
+=>q86_original
+Take $(#him/her) away. I know you've made a promise, Cruzer, but refrain from rearrangin' $(#his/her) appearance for now. Both of you, keep your eyes open: The sea is hot.<end>
+
+=>q86
+Вышвырните $(#его/её) отсюда. Я знаю, что ты дал обещание, Могила, но пока воздержись от исправления $(#его/её) внешности. Вы оба держите ухо востро: море слишком накалилось.<end>
+
+=>q87_original
+::He nods.::
+
+Move yer bones!<end>
+
+=>q87
+::Он кивает.::
+
+Шевели костями!<end>
+
+=>a88_original
+::End Dialog::<end>
+
+=>a88
+::Конец диалога::<end>
+
+=>q89_original
+::He nods and grabs you.::
+
+On yer feet!<end>
+
+=>q89
+::Он кивает и хватает вас.::
+
+Вставай!<end>
+
+=>a90_original
+::[Strength] Push Razor and Cruzer away from you and get ready to fight.::<end>
+
+=>a90
+::[Сила] Оттолкнуть от себя Бритву с Могилой и приготовься к бою.::<end>
+
+=>q91_original
+<end>
+
+=>q91
+<end>
+
+=>q92_original
+::You manage to pull it off, giving yourself enough room to consider your next move.::<end>
+
+=>q92
+::Вы справляетесь с этим, давая себе достаточно пространства, чтобы обдумать свой следующий шаг.::<end>
+
+=>a93_original
+::Scream into the navcom.:: Commence the attack!<end>
+
+=>a93
+::Прокричать в навком.:: Начинайте наступление!<end>
+
+=>q94_original
+::You hear no response but the echoing gunfire and savage shouting ::<end>
+
+=>q94
+::Вы не слышите никакого ответа, кроме гулких выстрелов и выкриков дикарей ::<end>
+
+=>q95_original
+::before turning your attention to your enemies.::<end>
+
+=>q95
+::прежде чем переключить своё внимание на врагов.::<end>
+
+=>a96_original
+::Fight!::<end>
+
+=>a96
+::Бой!::<end>
+
+=>q97_original
+::You hear a faint confirmation ::<end>
+
+=>q97
+::Вы слышите тихое подтверждение ::<end>
+
+=>q98_original
+::Perhaps your body language revealed your intentions, or in an unlikely case your thoughts have been read, but ::<end>
+
+=>q98
+::Возможно, язык тела раскрыл ваши намерения, или, что маловероятно, ваши мысли были прочитаны, так как ::<end>
+
+=>q99_original
+::Cruzer's sledgehammerous fist blasts the air out of your lungs before you even had the chance to realize what happened. Breathless, you drop to your knees only to get hit again, this time in the back of your head.::<end>
+
+=>q99
+::кувалдоподобный кулак Могилы выбивает весь воздух из ваших лёгких ещё до того, как вы успеваете осознать, что произошло. Задыхаясь, вы падаете на колени только для того, чтобы снова получить удар, на этот раз в затылок.::<end>
+
+=>q100_original
+::The whole room begins to spin. You look at the captain but his figure is splitting into three before converging into one in sync with the painful pulses rippling through your brain.::
+
+You thought you could be faster than my men? ::These words reverberate inside your skull, drowning out most of what followed.:: ...plan all along?<end>
+
+=>q100
+::Вся комната начинает кружиться. Вы смотрите на капитана, но его фигура распадается на три, прежде чем сойтись в одну, синхронно болезненным импульсам, пульсирующим в вашем мозгу.::
+
+Ты правда думал$(#/а), что окажешься быстрее моих парней? ::Эти слова эхом отдаются в вашем черепе, заглушая большую часть того, что последовало дальше.:: ...всё это время планировал$(#/а)?<end>
+
+=>a101_original
+Bastards... You're dead. All of you. You don't know... who you're dealing with...<end>
+
+=>a101
+Ублюдки... Вы покойники. Каждый из вас. Вы даже не представляете... с кем связались...<end>
+
+=>q102_original
+::The captain calmly walks up to you and buries his foot in your face so hard it nails your body to the floor. You vision turns black for an instant, before colors begin swirling back to you and the three faces brooding over you gain form. The two lieutenants then grab you by the arms and plant you into your previous position so that you may accept another kick from the captain. Blood starts pouring out of your nose and mouth, and with it you spit out a few teeth.::
+
+Is this why you came here? To get your face smashed in<end>
+
+=>q102
+::Капитан спокойно подходит к вам и с такой силой пробивает ногой вам в лицо, что ваше тело буквально прибивает к полу. Зрение на миг почернело, прежде чем к вам начали возвращаться цвета, и три лица, нависшие над вами, вновь обрели форму. Затем двое помощников хватают вас за руки и сажают в прежнее положение лишь для того, чтобы вы снова приняли удар от капитана. Из носа и рта потекла кровь, и вместе с ней вы выплёваете несколько зубов.::
+
+Так вот зачем ты приш$(#ёл/ла) сюда? Чтобы тебе набили морду<end>
+
+=>q103_original
+ and risk Professor's life further?<end>
+
+=>q103
+и, чтобы подвергнуть жизнь профессора дальнейшему риску?<end>
+
+=>q104_original
+<end>
+
+=>q104
+<end>
+
+=>a105_original
+::Spit blood in his face.::<end>
+
+=>a105
+::Плюнуть кровью ему в лицо.::<end>
+
+=>q106_original
+::However, all you manage to hit is his chest, and even spitting that far took considerable effort.::
+
+Hm. Defiant till the last moment, I see. <end>
+
+=>q106
+::Однако, вам удаётся попасть только ему на грудь, и даже плевок на такое расстояние потребовал больших усилий..::
+
+Хм. Дерзк$(#ий/ая) до последнего, как я погляжу.<end>
+
+=>a107_original
+Wait! Wait... you got this all wrong...<end>
+
+=>a107
+Подождите! Подождите... вы всё неправильно поняли...<end>
+
+=>q108_original
+::The captain takes a few steps forward, calmly. You expect another strike, but it never comes.::
+
+<end>
+
+=>q108
+::Капитан спокойно делает несколько шагов вперёд. Вы ожидаете ещё одного удара, но его так и не последовало.::
+<end>
+
+=>a109_original
+I yield! No... more...<end>
+
+=>a109
+Я сдаюсь! Не надо... больше...<end>
+
+=>a110_original
+::Remain silent.::<end>
+
+=>a110
+::Промолчать.::<end>
+
+=>q111_original
+?<end>
+
+=>q111
+?<end>
+
+=>a112_original
+You'll pay for this...<end>
+
+=>a112
+Ты за это заплатишь...<end>
+
+=>a113_original
+::Try to get up.::<end>
+
+=>a113
+::Попытаться встать.::<end>
+
+=>a114_original
+::[Melee] Punch the two lieutenants in quick succession and give yourself some space to fight.::<end>
+
+=>a114
+::[Ближний бой] Пробить помощникам одному за другим и предоставить себе немного пространства для боя.::<end>
+
+=>q115_original
+<end>
+
+=>q115
+<end>
+
+=>a116_original
+::[Dodge] They will most likely try to grab you as soon as you move. Dodge them and immediately counterattack.::<end>
+
+=>a116
+::[Уклонение] Скорее всего, они попытаются схватить вас, как только вы дёрнитесь. Уклониться от них и немедленно контратаковать.::<end>
+
+=>q117_original
+<end>
+
+=>q117
+<end>
+
+=>a118_original
+::[Temporal Manipulation] Slow down your enemies' passage of time so that they'd be unable to react to your attack fast enough.::<end>
+
+=>a118
+::[Управление временем] Замедлить течение времени для врагов, чтобы они не смогли достаточно быстро отреагировать на вашу атаку.::<end>
+
+=>a119_original
+::[Thought Control] Introduce confusion in your enemies' minds and exploit that to attack.::<end>
+
+=>a119
+::[Контроль разума] Внушить смятение вашим врагам и использовать это для атаки.::<end>
+
+=>a120_original
+::[Yell] Unleashing high-volume acoustic terror upon your enemies should give you a moment to attack freely. Yell!::<end>
+
+=>a120
+::[Крик] Обрушение громогласного устрашения на ваших врагов должно дать вам возможность свободно атаковать. Кричать!::<end>
+
+=>a121_original
+::Just attack!::<end>
+
+=>a121
+::Просто напасть!::<end>
+
+=>q122_original
+<end>
+
+=>q122
+<end>
+
+=>q123_original
+And you shouldn't be creatin' a new problem while we're tryin' to solve this one.<end>
+
+=>q123
+И тебе не следует создавать новую проблему, пока мы пытаемся решить эту.<end>
+
+=>a124_original
+I think you'll be satisfied.<end>
+
+=>a124
+Я думаю, вы останетесь довольны.<end>
+
+=>a125_original
+I'd like to change the subject for a moment.<end>
+
+=>a125
+Давайте на минутку сменим тему.<end>
+
+=>q126_original
+Of course.<end>
+
+=>q126
+Конечно.<end>
+
+=>a127_original
+I'll see what I can do.<end>
+
+=>a127
+Я посмотрю, что можно сделать.<end>
+
+=>q128_original
+Yes. You think about what I said real good.<end>
+
+=>q128
+Да. Хорошенько подумай о том, что я сказал.<end>
+
+=>a129_original
+I know nothing about that. I just ride jet skis and kill stuff.<end>
+
+=>a129
+Я ничего не знаю об этом. Я просто катаюсь на гидроцикле и убиваю всякую дрянь.<end>
+
+=>a130_original
+I'm aware you know we're here to study the natives.<end>
+
+=>a130
+Я уверен$(#/а), - вы осведомлены в том, что мы здесь для изучения туземцев.<end>
+
+=>q131_original
+::He is silent.::<end>
+
+=>q131
+::Он хранит молчание.::<end>
+
+=>a132_original
+Sadly we have antagonized them, kicked the hive as you've said, and now everything's gone to hell. Instead of studying the population we now threaten to exterminate a large part of it.<end>
+
+=>a132
+К сожалению, мы настроили их против себя, пнули улей, как вы выразились, и теперь всё катится в ад. Вместо того чтобы изучать население, мы угрожаем уничтожить большую его часть.<end>
+
+=>q133_original
+I'm gonna stop you there. I know you ain't here because of the natives, so don't try to deceive me. Now continue.<end>
+
+=>q133
+Здесь я тебя остановлю. Я знаю, что вы здесь не из-за туземцев, так что не пытайся меня обмануть. Теперь можешь продолжить.<end>
+
+=>a134_original
+Tell me why you think we're here then.<end>
+
+=>a134
+Тогда скажите мне, по вашему, зачем мы здесь.<end>
+
+=>q135_original
+::His stare alone exerts pressure on you, and then he continues speaking in an assertive manner.:: <end>
+
+=>q135
+::Одним только взглядом он оказывает на вас давление, а затем продолжает говорить в напористой манере.::<end>
+
+=>a136_original
+Then you know.<end>
+
+=>a136
+Значит, вы знаете.<end>
+
+=>a137_original
+Did I say "study the savages"? I meant their habitat. And by habitat I mean these ruins.<end>
+
+=>a137
+Разве я сказал$(#/а) "изучать дикарей"? Я имел$(#/а) в виду их среду обитания. А под средой обитания я подразумеваю эти руины.<end>
+
+=>a138_original
+They are hostile, but as long as we get our data who cares what happens to those stupid enough to attack us, right?<end>
+
+=>a138
+Они враждебны, но пока мы получаем наши данные, кого волнует, что случится с теми, кто достаточно глуп, чтобы напасть на нас, верно?<end>
+
+=>a139_original
+How much money would be enough for you to release the professor?<end>
+
+=>a139
+Какой суммы денег будет достаточно, чтобы вы освободили профессора?<end>
+
+=>q140_original
+If money was all I wanted you would have received a ransom note. Simple and to the point.<end>
+
+=>q140
+Если бы мне нужны были только деньги, вы бы получили записку с требованием выкупа. Простую и доходчивую.<end>
+
+=>q141_original
+Listen... you seem to be missin' one important thing here, somethin' that has sparked my interest since the moment Aegis came here - the purpose of your expedition. We've been livin' among these ruins for years yet know very little about what rests inside. Now you're here, tryin' to open them.<end>
+
+=>q141
+Слушай... ты, кажется, сейчас упускаешь одну важную вещь, ту, что разжигает мой интерес с того момента, как Эгида появилась здесь - цель вашей экспедиции. Мы живём среди этих руин уже много лет, но очень мало знаем о том, что находится внутри. А теперь вы здесь, пытаетесь открыть их.<end>
+
+=>a142_original
+We are not here because of the ruins.<end>
+
+=>a142
+Мы здесь не из-за руин.<end>
+
+=>q143_original
+Do not try to deceive me. <end>
+
+=>q143
+Не пытайся обмануть меня.<end>
+
+=>a144_original
+But you've entered the Fort through an evacuation tunnel.<end>
+
+=>a144
+Но вы вошли в Форт через эвакуационный туннель.<end>
+
+=>q145_original
+Yes. But only one entrance to the tunnel was accessible before you arrived.<end>
+
+=>q145
+Да. Но доступен был только один вход в туннель, до вашего приезда.<end>
+
+=>q146_original
+I am more interested in other things now.<end>
+
+=>q146
+Сейчас меня больше интересуют другие вещи.<end>
+
+=>a147_original
+I doubt you would disregard a sum of, say, one hundred... *thousand* charons.<end>
+
+=>a147
+Я сомневаюсь, что вы пренебрегли бы суммой, скажем, в сто... *тысяч* харонов.<end>
+
+=>q148_original
+That is... a large sum of money, indeed, but as you start dividin' it among a large group of people the zeroes quickly begin fallin' off. Are you sure you wanna pledge that amount of money as part of your offer?<end>
+
+=>q148
+Это... действительно, крупная сумма денег, но как только начинаешь делить её на большую группу людей, нули быстро тают. Ты уверен$(#/а), что хочешь внести эту сумму в качестве части твоего предложения?<end>
+
+=>a149_original
+Yes. And it's yours as soon as we shake hands.<end>
+
+=>a149
+Да. И она ваша, как только мы пожмём друг другу руки.<end>
+
+=>q150_original
+I like the sound of that. We're makin' progress.<end>
+
+=>q150
+Мне нравится, как это звучит. Мы делаем успехи.<end>
+
+=>a151_original
+Um, forget I said anything.<end>
+
+=>a151
+А, забудьте, что я сказал$(#/а).<end>
+
+=>q152_original
+::He says nothing.::<end>
+
+=>q152
+::Он ничего не говорит.::<end>
+
+=>a153_original
+You have a nice cabin here. I see you've managed to collect quite a few intriguing items.<end>
+
+=>a153
+У вас здесь славная каюта. Я вижу, вам удалось собрать довольно много любопытных вещиц.<end>
+
+=>q154_original
+Thank you, I appreciate the compliment. Do you happen to recognize anythin'?<end>
+
+=>q154
+Спасибо, я оценил твой комплимент. Ты случаем не узнаешь чего-нибудь?<end>
+
+=>a155_original
+::[Biology]:: The first thing I noticed was the vampire bat you have in that cage over there. It's a beautiful specimen indeed, but I don't seem to be able to identify what species it is.<end>
+
+=>a155
+::[Биология]:: Первое, что я заметил$(#/а), это вампировая летучая мышь, сидящая вон в той клетке. Это поистине прекрасный экземпляр, но я, похоже, не могу определить, что это за разновидность.<end>
+
+=>q156_original
+That is a growlin' vampire bat. They were named such by some of my predecessors due to their unrestrained vocal habits, and they only seem to live here, above the Black Sea. They strike out of the darkness, silently and suddenly, so that they may gorge on their victim's lifeblood to their heart's content... before disappearin' whence they came.
+
+They've grown to become my favorite animals, I have to admit.<end>
+
+=>q156
+Это рычащая летучая мышь-вампир. Некоторые из моих предшественников называли их так из-за их несдержанных вокальных повадок, и они, кажется, обитают только здесь, над Чёрным морем. Они нападают из темноты, бесшумно и внезапно, чтобы вдоволь насытиться кровью своей жертвы... прежде чем исчезнуть там, откуда они явились.
+
+Должен признать, они стали моими любимыми животными.<end>
+
+=>q157_original
+You have a very good eye. But what I am hopin' you'll be able to see here and now is somethin' of a different nature. Let us return to our primary topic.<end>
+
+=>q157
+У тебя зоркий глаз. Но я надеюсь, что ты сможешь увидеть здесь и сейчас нечто совершенно иное. Вернёмся к нашей основной теме.<end>
+
+=>a158_original
+::[Mercantile]:: That painting looks like one of the Classical dystopian pieces. These things can be worth tens of thousands of charons, if not hundreds depending on the artist and the work. If they are originals of course.<end>
+
+=>a158
+::[Торговля]:: Эта картина выглядит как одно из классических антиутопических произведений. Подобные вещи могут стоить десятки тысяч харонов, если не сотни в зависимости от художника и качества работы. Конечно, если это подлинник.<end>
+
+=>q159_original
+If it were an original, it would have been exchanged for cold but heart-warmin' coins. Or maybe it is, but I simply like it too much to give it away.<end>
+
+=>q159
+Если бы это было так, её бы обменяли на холодные, но греющие душу монеты. Или, возможно, так и есть, но она мне просто слишком нравится, чтобы расстаться с ней.<end>
+
+=>a160_original
+::[Intelligence]:: The chess board. I saw it as soon as my blindfold had been removed. Any man who owns one and keeps it so close to his pillow instantly earns my respect.<end>
+
+=>a160
+::[Интеллект]:: Шахматная доска. Я увидел$(#/а) её сразу же, как с моих глаз сняли повязку. Любой человек, у кого она есть, и кто держит её так близко к своей подушке, мгновенно заслуживает моё уважение.<end>
+
+=>q161_original
+::He half-smiles.:: Yes, I see what you mean. Sadly, some pieces are missin' from the original set, so the substitute ones I am usin' just... make the experience inferior. Even though chess is an abstract game where each of the pieces is merely a physical representation of a unit which can move in a specific way, there is somethin' captivatin' about seein' them in all of their well-crafted glory, even though you could technically use anythin' in their place.<end>
+
+=>q161
+::Он слегка улыбается.:: Да, я понимаю, что ты имеешь в виду. К сожалению, некоторые фигуры из оригинального набора утеряны, поэтому мне пришлось найти им замену, что... делает этот опыт неполноценным. Несмотря на то, что шахматы - абстрактная игра, где каждая из фигур - это лишь физическое представление единицы, двигающейся определённым образом, есть что-то завораживающее в том, чтобы видеть их во всей своей детально проработанной красе, хотя технически ты можешь использовать всё, что угодно на их месте.<end>
+
+=>a162_original
+::[Electronics]:: The laptop. It's an old BCAF-7LT-W made specifically for the Biocorp military. It's twenty years old at least, and it's waterproof if I'm not mistaken.<end>
+
+=>a162
+::[Электроника]:: Ноутбук. Это старый BCAF-7LT-W, сделанный специально для военных Биокорп. Ему по меньшей мере двадцать лет, и он водонепроницаем, если я не ошибаюсь.<end>
+
+=>q163_original
+It is a machine I have had with me for... many years. It is a trustworthy tool that is more difficult to replace than one would initially assume.<end>
+
+=>q163
+Этот аппарат я держу при себе уже... много лет. Это надёжный инструмент, найти замену которому не так просто, как может показаться на первый взгляд.<end>
+
+=>a164_original
+::[Perception]:: The map on the desk, it's the map of the Black Sea, right?<end>
+
+=>a164
+::[Восприятие] Карта на столе. Это ведь карта Чёрного моря, верно?<end>
+
+=>q165_original
+Yes, yes it is. It is incomplete, of course, as there are limits to how far we can explore, but even that might change soon, don't you think so?<end>
+
+=>q165
+Да, это так. Она, конечно, неполна, поскольку есть пределы того, как далеко мы можем исследовать, но даже это может вскоре измениться, не так ли?<end>
+
+=>a166_original
+Well... hmmm...<end>
+
+=>a166
+Что ж... хммм...<end>
+
+=>q167_original
+I think it's best that we stick to the matters at hand.<end>
+
+=>q167
+Я думаю, будет лучше, если мы займёмся текущими делами.<end>
+
+=>a168_original
+Can I see the professor?<end>
+
+=>a168
+Могу я увидеть профессора?<end>
+
+=>q169_original
+Not yet.<end>
+
+=>q169
+Пока нет.<end>
+
+=>q170_original
+<end>
+
+=>q170
+<end>
+
+=>a171_original
+::[Persuade]:: Can I at least talk to him? To make sure he is alive. It helps the negotiations go smoother if one knows that the person $(#he/she) is bargaining for is still among the living.<end>
+
+=>a171
+::[Убеждение]:: Могу я хотя бы поговорить с ним? Чтобы убедиться, что он жив. Когда тот, кто договаривается об освобождении пленника, знает, что он всё ещё среди живых, переговоры проходят более гладко.<end>
+
+=>q172_original
+<end>
+
+=>q172
+<end>
+
+=>q173_original
+Hmmm... You have a point.<end>
+
+=>q173
+Хммм... В этом есть смысл.<end>
+
+=>q174_original
+::He produces a radio. ::<end>
+
+=>q174
+::Он достаёт рацию.::<end>
+
+=>q175_original
+::It is a floatie-talkie, exactly the same model as the one the technician at the camp had. ::<end>
+
+=>q175
+::Это рация-поплавок, точно такой же модели, как та, что была у техника в лагере. ::<end>
+
+=>q176_original
+
+
+Flinger, do you read. Put the professor on.<end>
+
+=>q176
+Нож, ты на связи? Соедини меня с профессором.<end>
+
+=>q177_original
+::After a moment of silence, you hear the professor's voice coming from the device.::
+
+This is Professor Oldfield.<end>
+
+=>q177
+::После недолгого молчания вы слышите голос профессора, доносящийся из устройства.::
+
+Это профессор Олдфилд.<end>
+
+=>a178_original
+Don't worry, Professor, we're gonna get you out!<end>
+
+=>a178
+Не волнуйтесь, профессор, Мы вас вытащим!<end>
+
+=>q179_original
+::His voice comes out of the radio once again.::
+
+$(context.npc_xpbl_oldfield_playerName)! Am I glad to hear a familiar voice.<end>
+
+=>q179
+::Его голос снова доносится из рации.::
+
+$(context.npc_xpbl_oldfield_playerName)! Как же я рад услышать знакомый голос.<end>
+
+=>a180_original
+Did they hurt you, Professor?<end>
+
+=>a180
+Они не причинили вам вреда, профессор?<end>
+
+=>q181_original
+::The professor continues.::
+
+I'm alright. I have not been hurt.<end>
+
+=>q181
+::Профессор продолжает.::
+
+Я в порядке. Мне не причинили вреда.<end>
+
+=>a182_original
+Stay strong, Professor. You'll be out of there in no time.<end>
+
+=>a182
+Держитесь, профессор. Очень скоро вы выберетесь оттуда.<end>
+
+=>q183_original
+::The professor continues.::
+
+I hope so, $(context.npc_xpbl_oldfield_playerName). I'll mark your words.<end>
+
+=>q183
+::Профессор продолжает.::
+
+Надеюсь на это, $(context.npc_xpbl_oldfield_playerName). Я запомню ваши слова.<end>
+
+=>q184_original
+That would be all, Professor.
+
+::He then puts the radio away.::
+
+As you can hear, the professor is indeed alive. Let us return to our negotiations now.<end>
+
+=>q184
+На этом всё, Профессор.
+
+::Затем он убирает рацию.::
+
+Как ты мог$(#/ла) слышать, профессор действительно жив. А теперь давай вернёмся к нашим переговорам.<end>
+
+=>a185_original
+I've heard enough.<end>
+
+=>a185
+Я услышал$(#/а) достаточно.<end>
+
+=>a186_original
+It's me, $(context.player.Name). Can you hear me?<end>
+
+=>a186
+Это я, $(context.player.Name). Вы меня слышите?<end>
+
+=>q187_original
+It sure would. <end>
+
+=>q187
+Это так, безусловно.<end>
+
+=>q188_original
+But since we trust each other equally, I'd rather do things my way.<end>
+
+=>q188
+Но поскольку мы в равной степени доверяем друг другу, я предпочёл бы действовать по-своему.<end>
+
+=>a189_original
+::[Intimidate]:: I think it would be wise of you to convince me that the professor is alive. Otherwise we have a different problem, and that requires different negotiation methods.<end>
+
+=>a189
+::[Запугивание]:: Я думаю, что с вашей стороны было бы мудро убедить меня, что профессор жив. В противном случае у нас возникнет другая проблема, требующая других методов ведения переговоров.<end>
+
+=>q190_original
+<end>
+
+=>q190
+<end>
+
+=>q191_original
+I'm doin' my best. <end>
+
+=>q191
+Я делаю всё возможное.<end>
+
+=>a192_original
+When will I be able to see him?<end>
+
+=>a192
+Когда я смогу увидеть его?<end>
+
+=>q193_original
+When we strike a deal.<end>
+
+=>q193
+Когда мы заключим сделку.<end>
+
+=>a194_original
+I don't trust you very much. I'd rather see him.<end>
+
+=>a194
+Я не слишком-то вам доверяю. Я бы предпоч$(#ёл/ла) увидеться с ним.<end>
+
+=>q195_original
+Not... yet.<end>
+
+=>q195
+Пока... нет.<end>
+
+=>a196_original
+Tell me about the savages and your relations.<end>
+
+=>a196
+Расскажите мне о дикарях и ваших взаимоотношениях.<end>
+
+=>q197_original
+We are not allies. We have our separate communities, and we stay out of each other's way. Most of the Hell's Gut is theirs, but these southeastern waters, the whole bay, in fact, is our bay - The Pirate Bay. That is good enough for us. They never contested it after we came; they don't even come near our base.<end>
+
+=>q197
+Мы не союзники. У нас обособленные сообщества, и мы держимся подальше друг от друга. Большая часть Адского котла принадлежит им, но эти юго-восточные воды, вся бухта, по сути, наша - Пиратская бухта. Этого нам вполне достаточно. Они никогда не оспаривали этого с самого нашего появления; они даже не приближаются к нашей базе.<end>
+
+=>a198_original
+How come? They were violent toward us since the beginning.<end>
+
+=>a198
+Как же так вышло? К нам они были жестоки с самого начала.<end>
+
+=>q199_original
+I've told you: We stay out of each other's way. You invaded their territory, disturbed them - maybe you've been slayin' their beloved serpents, who knows - and now you're in jettin' trouble. But we might be in trouble as well. They came awfully close to our border when they were surroundin' you island, somethin' that never happened before. They are dangerous, and now they are furious. Anythin' could happen.<end>
+
+=>q199
+Я уже говорил тебе: мы держимся подальше друг от друга. Вы же вторглись на их территорию, потревожили их - может быть, вы убивали их любимых змей, кто знает - и теперь у вас серьёзные неприятности. Но и у нас могут возникнуть проблемы. Они подошли очень близко к нашей границе, когда окружали ваш остров, чего раньше никогда не случалось. Они опасны, и теперь они в ярости. Всякое может случиться.<end>
+
+=>a200_original
+We came to this expedition well prepared. Maybe there are things in our camp we could offer you.<end>
+
+=>a200
+Мы отправились в эту экспедицию хорошо подготовленными. Может быть, в нашем лагере есть что-нибудь, что мы могли бы вам предложить.<end>
+
+=>q201_original
+I'm listenin'.<end>
+
+=>q201
+Я слушаю.<end>
+
+=>q202_original
+<end>
+
+=>q202
+<end>
+
+=>a203_original
+We have weapons, ammo and explosives. I'm sure you could put it to good use.<end>
+
+=>a203
+У нас есть оружие, боеприпасы и взрывчатка. Я уверен$(#/а), что вы могли бы найти этому хорошее применение.<end>
+
+=>q204_original
+That is true. How much are you offerin' me, exactly?<end>
+
+=>q204
+Это правда. Сколько ты мне предложишь?<end>
+
+=>q205_original
+<end>
+
+=>q205
+<end>
+
+=>a206_original
+I can offer you three quarters of our total supply. That is all we could possibly spare.<end>
+
+=>a206
+Я могу предложить вам три четверти всего нашего запаса. Это всё, что мы можем себе позволить.<end>
+
+=>q207_original
+<end>
+
+=>q207
+<end>
+
+=>q208_original
+I like the sound of that. We're makin' progress.<end>
+
+=>q208
+Мне нравится, как это звучит. Мы делаем успехи.<end>
+
+=>a209_original
+::[Mercantile]:: I can offer you half of our total supply. I think that is fair, and should be enough to satisfy your current needs.<end>
+
+=>a209
+::[Торговля]:: Я могу предложить вам половину всего нашего запаса. По-моему, это справедливо, и этого должно быть достаточно, чтобы удовлетворить ваши текущие потребности.<end>
+
+=>q210_original
+<end>
+
+=>q210
+<end>
+
+=>q211_original
+Hmmm... I think you can do better than that.<end>
+
+=>q211
+Хммм... Я думаю, ты можешь придумать что-нибудь получше.<end>
+
+=>a212_original
+::[Mercantile]:: I can offer you one quarter of our total supply. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.<end>
+
+=>a212
+::[Торговля]:: Я могу предложить вам четверть всех наших запасов. Кажется, что это не так уж и много, но как только мы начнём разгружаться, вы зададитесь вопросом, где же хранить всё это.<end>
+
+=>q213_original
+<end>
+
+=>q213
+<end>
+
+=>a214_original
+Actually, there is something else I'd like to offer.<end>
+
+=>a214
+Вообще-то, есть ещё кое-что, что я собираюсь вам предложить.<end>
+
+=>q215_original
+Of course.<end>
+
+=>q215
+Конечно.<end>
+
+=>a216_original
+We have high-tech personal equipment: night vision goggles, personal energy shields and other high-tech components.<end>
+
+=>a216
+У нас есть высокотехнологичное персональное оборудование: очки ночного видения, энергетические щиты и другие технологичные компоненты.<end>
+
+=>q217_original
+Enticin'. How much are you offerin' me, exactly?<end>
+
+=>q217
+Заманчиво. А сколько конкретно ты мне предлагаешь?<end>
+
+=>q218_original
+<end>
+
+=>q218
+<end>
+
+=>a219_original
+I can offer you three quarters of our total supply. That is all we could possibly spare.<end>
+
+=>a219
+Я могу предложить вам три четверти всего нашего запаса. Это всё, что мы можем себе позволить.<end>
+
+=>q220_original
+<end>
+
+=>q220
+<end>
+
+=>a221_original
+::[Mercantile]:: I can offer you half of our total supply. I think that is fair, and should be enough to satisfy your current needs.<end>
+
+=>a221
+::[Торговля]:: Я могу предложить вам половину всего нашего запаса. По-моему, это справедливо, и этого должно быть достаточно, чтобы удовлетворить ваши текущие потребности.<end>
+
+=>q222_original
+<end>
+
+=>q222
+<end>
+
+=>q223_original
+Hmmm... I think you can do better than that.<end>
+
+=>q223
+Хммм... Я думаю, ты можешь придумать что-нибудь получше.<end>
+
+=>a224_original
+::[Mercantile]:: I can offer you one quarter of our total supply. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.<end>
+
+=>a224
+::[Торговля]:: Я могу предложить вам четверть всех наших запасов. Кажется, что это не так уж и много, но как только мы начнём разгружаться, вы зададитесь вопросом, где же хранить всё это.<end>
+
+=>q225_original
+<end>
+
+=>q225
+<end>
+
+=>a226_original
+We have our own jet skis and spare components.<end>
+
+=>a226
+У нас есть специализированные гидроциклы и комплектующие к ним.<end>
+
+=>q227_original
+I've noticed. And they appear to be quite powerful machines. State your offer.<end>
+
+=>q227
+Я уже заметил. И они выглядят довольно мощными машинами. Изложи своё предложение.<end>
+
+=>q228_original
+<end>
+
+=>q228
+<end>
+
+=>a229_original
+I can offer you three quarters of our jet skis. That is all we could possibly spare.<end>
+
+=>a229
+Я могу предложить вам три четверти наших гидроциклов. Это всё, что мы можем.<end>
+
+=>q230_original
+<end>
+
+=>q230
+<end>
+
+=>a231_original
+::[Mercantile]:: I can offer you half of our jet skis. I think that is fair, and should be enough to satisfy your current needs.<end>
+
+=>a231
+::[Торговля]:: Я могу предложить вам половину наших гидроциклов. По-моему, это справедливо, и этого должно быть достаточно, чтобы удовлетворить ваши текущие потребности.<end>
+
+=>q232_original
+<end>
+
+=>q232
+<end>
+
+=>q233_original
+Hmmm... I think you can do better than that.<end>
+
+=>q233
+Хммм... Я думаю, ты можешь придумать что-нибудь получше.<end>
+
+=>a234_original
+::[Mercantile]:: I can offer you one quarter of our jet skis. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.<end>
+
+=>a234
+::[Торговля]:: Я могу предложить вам четверть наших гидроциклов. Кажется, что это не так уж и много, но как только мы начнём разгружаться, вы зададитесь вопросом, где же их все хранить.<end>
+
+=>q235_original
+<end>
+
+=>q235
+<end>
+
+=>a236_original
+We could give you sec-trooper uniforms. You could use them to impersonate our personnel.<end>
+
+=>a236
+Мы могли бы предоставить вам обмундирование спец-охранников. Вы сможете использовать его, чтобы выдать себя за наших сотрудников.<end>
+
+=>q237_original
+Would be of little use without appropriate transportation.<end>
+
+=>q237
+От этого было бы мало толку без соответствующего транспорта.<end>
+
+=>q238_original
+Perhaps we should discuss that first.<end>
+
+=>q238
+Возможно, нам следует обсудить сначала это.<end>
+
+=>q239_original
+Hm. That is not how we do our business. Furthermore, you have no reason not to reveal there are pirates dressed as security troopers as soon as you return to Core City.<end>
+
+=>q239
+Хм. Это не то, как мы работаем в нашем бизнесе. Кроме того, у вас нет причин не сообщить, что есть пираты, переодетые охранниками, сразу же, как вы вернётесь в Кор-Сити.<end>
+
+=>a240_original
+::[Persuade]:: *When* we return to Core City. You'll have plenty of time to use them while we're here. The locals know that Aegis Incorporated is here and won't suspect a thing.<end>
+
+=>a240
+::[Убеждение]:: *Когда* мы вернёмся в Кор-Сити. У вас будет достаточно времени, чтобы использовать их, пока мы тут. Местные знают, что сейчас Эгида Инкорпорейтед здесь, и ничего не заподозрят.<end>
+
+=>q241_original
+Hmh. You can always warn them.<end>
+
+=>q241
+Хм. Вы можете предупредить их в любой момент.<end>
+
+=>a242_original
+We won't. Not if we make an agreement here.<end>
+
+=>a242
+Мы этого не сделаем, если заключим здесь соглашение.<end>
+
+=>q243_original
+::He pauses:: I'll take them. They could be of use at some point.<end>
+
+=>q243
+::Он делает паузу:: Я возьму их. Они могут пригодиться в какой-то момент.<end>
+
+=>q244_original
+Good. We're makin' progress.<end>
+
+=>q244
+Хорошо. Мы делаем успехи.<end>
+
+=>q245_original
+I am not convinced. Seems like high risk for little potential gain. Yes. Too risky.<end>
+
+=>q245
+Меня это не убедило. Похоже на высокий риск ради небольшой потенциальной выгоды. Да. Слишком рискованно.<end>
+
+=>a246_original
+Then allow me to offer you something else.<end>
+
+=>a246
+Тогда позвольте мне предложить вам что-нибудь ещё.<end>
+
+=>q247_original
+Of course.<end>
+
+=>q247
+Конечно.<end>
+
+=>a248_original
+We have medication, some of it being very difficult to obtain in South Underrail.<end>
+
+=>a248
+У нас есть медикаменты, некоторые из них очень трудно достать в Южной Подземке.<end>
+
+=>q249_original
+High quality medical supplies are often difficult to acquire. How much are you offerin' me, exactly?<end>
+
+=>q249
+Медицинские принадлежности высокого качества часто трудно приобрести. Сколько конкретно ты мне предлагаешь?<end>
+
+=>q250_original
+<end>
+
+=>q250
+<end>
+
+=>a251_original
+I can offer you three quarters of our total supply. That is all we could possibly spare.<end>
+
+=>a251
+Я могу предложить вам три четверти всего нашего запаса. Это всё, что мы можем себе позволить.<end>
+
+=>q252_original
+<end>
+
+=>q252
+<end>
+
+=>a253_original
+I can offer you half of our total supply. That is all we could possibly spare, as we've already supplied the mutie community with some supplies.<end>
+
+=>a253
+Я могу предложить вам половину всех наших запасов. Это всё, что мы можем себе позволить, поскольку мы уже снабдили общину мутантов кое-какими припасами.<end>
+
+=>a254_original
+::[Mercantile]:: I can offer you half of our total supply. I think that is fair, and should be enough to satisfy your current needs.<end>
+
+=>a254
+::[Торговля]:: Я могу предложить вам половину всего нашего запаса. По-моему, это справедливо, и этого должно быть достаточно, чтобы удовлетворить ваши текущие потребности.<end>
+
+=>q255_original
+<end>
+
+=>q255
+<end>
+
+=>q256_original
+Hmmm... I think you can do better than that.<end>
+
+=>q256
+Хммм... Я думаю, ты можешь придумать что-нибудь получше.<end>
+
+=>a257_original
+::[Mercantile]:: I can offer you one quarter of our total supply. It doesn't sound like much, but once we start unloading you'll be wondering where you are going to store all that stuff.<end>
+
+=>a257
+::[Торговля]:: Я могу предложить вам четверть всех наших запасов. Кажется, что это не так уж и много, но как только мы начнём разгружаться, вы зададитесь вопросом, где же хранить всё это.<end>
+
+=>q258_original
+<end>
+
+=>q258
+<end>
+
+=>a259_original
+I'd like to ask you a couple of questions about your pirate community here.<end>
+
+=>a259
+Я хотел$(#/а) бы задать вам пару вопросов о здешней пиратской общине.<end>
+
+=>q260_original
+Do you honestly think I would answer them? Especially now when I have all the reasons to suspect that you might be byin' time for... somethin'? ::He observes you suspiciously.::<end>
+
+=>q260
+Неужели ты всерьёз думаешь, что я на них отвечу? Особенно сейчас, когда у меня есть все основания подозревать, что ты пытаешься выиграть время для... чего-то? ::Он наблюдает за вами с подозрением.::<end>
+
+=>q261_original
+Move on.<end>
+
+=>q261
+Движемся дальше.<end>
+
+=>a262_original
+About the ruins...<end>
+
+=>a262
+Насчёт руин...<end>
+
+=>a263_original
+About the savages...<end>
+
+=>a263
+По поводу дикарей...<end>
+
+=>q264_original
+Yes...?<end>
+
+=>q264
+Да?..<end>
+
+=>q265_original
+<end>
+
+=>q265
+<end>
+
+=>a266_original
+::[Persuade]:: The savages are throwing themselves at us like flies. Corpse after corpse, we just pile them up. As the pile gets higher you will have better chances at expanding your territory. There's a lot of things up for grabs in the Hell's Gut, why not take the opportunity? You just have to let us do our job.<end>
+
+=>a266
+::[Убеждение]:: Дикари набрасываются на нас, как мухи. Труп за трупом, мы просто складываем их в кучу. По мере того, как куча становится выше, растут и ваши шансы расширить свою территорию. Там, в Адском котле есть много вещей, которые можно захватить, почему бы не воспользоваться этой возможностью? Вы просто должны позволить нам делать нашу работу.<end>
+
+=>q267_original
+<end>
+
+=>q267
+<end>
+
+=>q268_original
+Do not underestimate the Scalers; that is a mistake one can easily make. Yet if you can reduce their numbers sufficiently, maybe they'll withdraw to their tents and lick their wounds for a while. 
+
+Or they'll fight till eradication no matter what happens.<end>
+
+=>q268
+Не стоит недооценивать Чешуйчатых; такую ошибку легко совершить. Но если вы сумеете достаточно сократить их численность, то, возможно, они отступят в свои палатки и некоторое время будут зализывать раны.
+
+Или же они будут сражаться до полного истребления, невзирая ни на что.<end>
+
+=>q269_original
+Whatever the case, it is in our interest that you keep them busy.<end>
+
+=>q269
+Как бы то ни было, в наших интересах, чтобы вы не давали им скучать.<end>
+
+=>q270_original
+You do your job. That's really none of our business.<end>
+
+=>q270
+Делайте свою работу. Это действительно не наше дело.<end>
+
+=>a271_original
+::[Intimidate]:: If you keep standing in our way, these savages are going to overwhelm us. And then it's *your* turn. You yourself said that they are now like a swarm that will devour everyone and everything. It's time to end this once and for all. Let us decimate them, and you get to live.<end>
+
+=>a271
+::[Запугивание]:: Если вы и дальше будете стоять у нас на пути, эти дикари нас просто раздавят. А затем настанет ваша очередь. Вы же сами сказали, что они теперь как рой, который будет пожирать всех и вся. Пора покончить с этим раз и навсегда. Позвольте нам истребить их, и сами останетесь в живых.<end>
+
+=>q272_original
+<end>
+
+=>q272
+<end>
+
+=>q273_original
+While I cannot ignore them as a threat, Aegis Incorporated is not the only one that has a say in whether we live or die. You worry about your survival, and we'll worry about ours.<end>
+
+=>q273
+Хотя я не могу игнорировать их как угрозу, Эгида Инкорпорейтед не единственная, кто решает, жить нам или умереть. Вы беспокоитесь о своём выживании, а мы будем беспокоиться о своём.<end>
+
+=>a274_original
+I presume you take issue with our presence near the entrance, or in your case exit from the Black Sea.<end>
+
+=>a274
+Я полагаю, вы не согласны с нашим присутствием у входа или, в вашем случае, у выхода из Чёрного моря.<end>
+
+=>q275_original
+Great issue at first. But patience is one of the virtues, especially when it comes to people like us. Impatience brings failure; patience brings reward. I would be tellin' a lie, though, if I said your arrival hasn't thrown a massive wrench into our plans. But as long as we - you and I - make a good deal, we can afford to be patient even further.<end>
+
+=>q275
+Сначала это было большой проблемой. Но терпение - одна из добродетелей, особенно это касается таких людей, как мы. Нетерпеливость приносит неудачу; терпение приносит награду. Впрочем, я бы солгал, если бы сказал, что ваше появление не сунуло большую палку в колёса наших планов. Но пока мы - ты и я - заключаем выгодные соглашения, мы можем позволить себе быть терпеливыми и дальше.<end>
+
+=>q276_original
+Moreover, even if you do agree to removin' your patrols from the Jaws there is the issue of whether they will stay away. And the fact that your camp is so close to the Jaws is another thing that bothers me.<end>
+
+=>q276
+К тому же, даже если вы согласитесь убрать свои патрули из Челюстей, возникает вопрос, останутся ли они в стороне. А тот факт, что ваш лагерь находится так близко к Челюстям - ещё один повод для моего беспокойства.<end>
+
+=>q277_original
+<end>
+
+=>q277
+<end>
+
+=>a278_original
+::[Persuade]:: That is not something you should worry about. We will send all our patrols to different routes and you will have free passage through the Jaws. It works even better for us, as we can now focus on the savages instead of worrying about you. That is, if you promise to leave us alone.<end>
+
+=>a278
+::[Убеждение]:: Это не то, о чём вам стоит беспокоиться. Мы пошлём все наши патрули по разным маршрутам, а у вас будет свободный проход через Челюсти. Это сработает ещё лучше для нас, так как теперь мы сможем сосредоточиться на дикарях, а не беспокоиться о ваших. Разумеется, если вы пообещаете оставить нас в покое.<end>
+
+=>q279_original
+We have a deal.<end>
+
+=>q279
+Договорились.<end>
+
+=>q280_original
+Interestin', but I find all this... rather unconvincin'. Perhaps this is not somethin' we can agree on. We should move on to somethin' else.<end>
+
+=>q280
+Интересно, но я нахожу всё это... довольно неубедительным. Возможно, это не то, о чём мы сможем договориться. Перейдём к чему-нибудь другому.<end>
+
+=>a281_original
+::[Intimidate]:: Impossible. Not only is the Jaws our only way of retreat in case the savages overwhelm us, but to let you sneak behind our backs and continue your raids? It's immoral and illegal, Captain, and our conscience might suddenly and violently awaken. You will have to stay put, Captain, for your own good. <end>
+
+=>a281
+::[Запугивание]:: Невозможно. Челюсти - не только наш единственный способ отступить на случай, если дикари нас прижмут. Нам что, позволить вам прокрасться за наши спины и продолжить свои налёты? Это аморально и незаконно, капитан, и наша совесть может внезапно и бурно проснуться. Вам придётся остаться здесь, капитан, для вашего же блага.<end>
+
+=>q282_original
+Then it's best that we leave things as they are... for now. We should move on to subjects where we can make an agreement acceptable to both parties.<end>
+
+=>q282
+Тогда нам лучше оставить всё как есть... на данный момент. Нам следует перейти к вопросам, по которым мы можем заключить соглашение, приемлемое для обеих сторон.<end>
+
+=>q283_original
+If you wanna see the professor alive again, you better tell your conscience to keep bloody quiet. Forget about the blockade. We should move on to somethin' else.<end>
+
+=>q283
+Если ты хочешь снова увидеть профессора живым, то лучше скажи своей совести, чтобы она вела себя чертовски тихо. Забудь о блокаде. Перейдём к чему-нибудь другому.<end>
+
+=>a284_original
+Your guys killed two of our sec-troopers. There were three. What happened to the third one?<end>
+
+=>a284
+Ваши парни убили двух наших охранников. А их было трое. Что стало с третьим?<end>
+
+=>q285_original
+We killed *three* troopers. The third one followed us into the tunnel even though he was bleedin' heavily.<end>
+
+=>q285
+Мы убили *троих* охранников. Третий последовал за нами в туннель, хотя у него было сильное кровотечение.<end>
+
+=>q286_original
+In fact, he was the one who shot our insider <end>
+
+=>q286
+На самом деле, именно он застрелил нашего информатора<end>
+
+=>q287_original
+before he himself received a terminal dose of lead. His body was left in the tunnel; he is now fish chomp.
+
+I have to give it to him, though, he was a brave man.<end>
+
+=>q287
+прежде, чем сам получил смертельную дозу свинца. Его тело осталось в туннеле; теперь он кормит рыб.
+
+Надо отдать ему должное, он был храбрым человеком.<end>
+
+=>q288_original
+He shot one of my men <end>
+
+=>q288
+Он застрелил одного из моих людей<end>
+
+=>a289_original
+Where's my jet ski?<end>
+
+=>a289
+А где мой гидроцикл?<end>
+
+=>q290_original
+It's in the port. Safe.<end>
+
+=>q290
+Он сейчас в порту. В целости и сохранности.<end>
+
+=>q291_original
+Let's not digress...<end>
+
+=>q291
+Давай не будем отвлекаться...<end>
+
+=>q292_original
+<end>
+
+=>q292
+<end>
+
+=>a293_original
+I am $(context.player.Name), Aegis Incorporated sec-trooper.<end>
+
+=>a293
+Я $(context.player.Name), охрана Эгиды Инкорпорейтед.<end>
+
+=>q294_original
+$(context.player.Name). Sec-trooper. <end>
+
+=>q294
+$(context.player.Name). Спец-охранник.<end>
+
+=>q295_original
+The professor is safe. <end>
+
+=>q295
+Профессор в безопасности.<end>
+
+=>q296_original
+The other two - the sec-trooper and the fat one - have succumbed to the wounds they received durin' the fight. We had to abandon them in the tunnel which is now, well, an expansion to the underwater habitat.<end>
+
+=>q296
+Двое других охранников и один толстяк скончались от ран, полученных в бою. Нам пришлось оставить их в туннеле, который теперь является, скажем так, расширением подводной среды обитания.<end>
+
+=>a297_original
+I know Larry was one of your guys.<end>
+
+=>a297
+Я знаю, что Ларри был одним из твоих парней.<end>
+
+=>q298_original
+I had no doubts about it. But I did not lie to you: He had been shot by a trooper, right in the neck; he bled out in less than a minute.<end>
+
+=>q298
+У меня не было никаких сомнений на этот счёт. Но я не солгал тебе: его застрелил охранник, прямо в шею; он истёк кровью меньше чем за минуту.<end>
+
+=>q299_original
+The professor, however, is just a little shaken up. Shaken up - but unharmed. All of that could change at any moment, of course, dependin' on your actions. As long as you and your comrades keep things civil, no further blood will be shed.<end>
+
+=>q299
+Профессор, однако, просто немного потрясён. Потрясён - но невредим. Всё это может измениться в любой момент, разумеется, в зависимости от твоих действий. Пока ты и твои товарищи будете вести себя цивилизованно, не будет пролито ни капли крови.<end>
+
+=>q300_original
+<end>
+
+=>q300
+<end>
+
+=>a301_original
+::[Intelligence]:: You speak of civility, yet you abducted a helpless man while spilling the brains of men who defended him. And even as I come here, the first words coming from your lieutenant's mouth form a sadistic threat. If this is what you call civility, Captain Grim, then the bar is far too low for me to reach, and you need not worry.<end>
+
+=>a301
+::[Интеллект]:: Вы говорите о цивилизованности, но всё же похитили беспомощного человека, выпустив мозги тем, кто его защищал. И даже когда я прихожу сюда, первые слова, исходящие из уст вашего помощника, представляют собой садистскую угрозу. Если это то, что вы называете цивилизованностью, капитан Грим, то для меня планка слишком низка, и вам не стоит переживать.<end>
+
+=>q302_original
+::He smiles slightly.:: I have to admit that your observations are... sound to a degree. ::But then the smile vanishes.:: However, I stongly disagree with your conclusion. <end>
+
+=>q302
+::Он слегка улыбается.:: Должен признать, что твои наблюдения обоснованны... в некоторой степени. ::Но затем улыбка исчезает.:: Однако я категорически не согласен с твоим выводом.<end>
+
+=>q303_original
+This expedition of yours, it has brought a lot of trouble. Not only to us, but *them* as well. You invade someone else's territory, armed and dangerous, flauntin' your disregard for anyone's interests but your own. What did you expect in return? Hospitality? Tolerance? Not only have your patrols confined us here, but the tribesmen, the Scalers - which you had agitated - are all over the Black Sea now, more keen on drinkin' human blood than their mother's milk. You people have kicked the hive, so to speak, with all your might and awakened a swarm that threatens to devour anything that gets in its way.<end>
+
+=>q303
+Эта ваша экспедиция принесла немало неприятностей. Не только нам, но и *им* тоже. Вы вторглись на чужую территорию, вооружённые и опасные, выставляя напоказ своё пренебрежение чьими-либо интересами, кроме ваших собственных. А чего вы ожидали взамен? Гостеприимства? Терпимости? Мало того, что ваши патрули ограничили нас здесь, так ещё и туземцы, Чешуйчатые, которых вы всполошили, теперь по всему Чёрному морю и охотнее пьют человеческую кровь, чем материнское молоко. Вы, люди, пнули улей, так сказать, изо всех сил и разбудили рой грозящий сожрать всё, что попадётся на его пути.<end>
+
+=>q304_original
+Simply put, you've raised hell - you've raised the Hell's Gut. We had to intervene.<end>
+
+=>q304
+Проще говоря, вы открыли ад - вы подняли Адский котёл. Нам пришлось вмешаться.<end>
+
+=>q305_original
+<end>
+
+=>q305
+<end>
+
+=>a306_original
+You still haven't told me what you want.<end>
+
+=>a306
+Вы всё ещё не сказали мне, чего хотите.<end>
+
+=>q307_original
+We are pirates, my friend: We don't *want* things - we *take* them. But sometimes things are outside of our reach, no matter how close they might appear. Thus it is not the question of what we want from you, but rather of what you can offer us in exchange for your beloved professor, of course. You understand me?<end>
+
+=>q307
+Мы пираты, $(#мой друг/подруга): мы не *хотим* - мы *берём*. Но иногда что-то находится вне нашей досягаемости, как бы близко оно ни казалось. Таким образом, речь идёт не о том, чего мы хотим от вас, а о том, что вы можете предложить нам в обмен на вашего любимого профессора. Ты меня понимаешь?<end>
+
+=>a308_original
+::[Persuade]:: While I can't say I condone the way in which you interfered, I understand what led you to act like that. Know that I will do my best in trying to reach an agreement with you that will satisfy both sides.<end>
+
+=>a308
+::[Убеждение]:: Хотя я не могу сказать, что одобряю то как вы вмешались, я понимаю, что заставило вас так поступить. Знайте, что я сделаю всё возможное, чтобы достичь с вами соглашения, которое удовлетворит обе стороны.<end>
+
+=>q309_original
+I didn't get that impression so far.<end>
+
+=>q309
+До сих пор у меня не сложилось такого впечатления.<end>
+
+=>q310_original
+That is good to hear.<end>
+
+=>q310
+Приятно слышать.<end>
+
+=>q311_original
+We'll see.<end>
+
+=>q311
+Посмотрим.<end>
+
+=>a312_original
+::[Intimidate]:: I don't think you, as the pirates who are intercepting local vessels, are in a position to judge someone else's respect for territorial integrity. Besides, we haven't actively and purposefully disturbed your raiding even though we could and should have as representatives of North Underrail, Underrail Protectorate - of law and order. So maybe it is you who shouldn't be kicking any hives.<end>
+
+=>a312
+::[Запугивание]:: Думаю, не вам, как пиратам, перехватывающим местные суда, судить о чьём-то уважении к территориальной целостности. Кроме того, мы не стали активно и целенаправленно мешать вашим налётам, хотя могли бы и должны были бы это сделать как представители Северной Подземки и Протектората - закона и порядка. Так что, может, это вам не стоит пинать никаких ульев.<end>
+
+=>q313_original
+We... most certainly do not wish for our relations to escalate any further.<end>
+
+=>q313
+Мы... совершенно точно не хотим, чтобы наши отношения ещё больше обострились.<end>
+
+=>q314_original
+Actively or not, you have and you still are. And I think you will find that we have been dealin' both with local authorities and the Protectorate rather successfuly . We will not be so easily intimidated.<end>
+
+=>q314
+Активно или нет, но вы помешали и всё ещё продолжаете мешать. И я думаю, ты заметил$(#/а), что мы довольно успешно справлялись и с местными властями, и с Протекторатом . Нас не так-то легко запугать.<end>
+
+=>a315_original
+Tell me, why exactly did you kidnap the professor? Do you simply want us to leave... or is it something else you want?<end>
+
+=>a315
+Скажите мне, зачем именно похищать профессора? Вам просто нужно, чтобы мы ушли... или вы хотите чего-то ещё?<end>
+
+=>a316_original
+Blood is not in our interest, even though a lot of it has been shed so far.<end>
+
+=>a316
+Кровь не в наших интересах, хотя её уже и немало было пролито.<end>
+
+=>q317_original
+Which is entirely your fault. <end>
+
+=>q317
+И это полностью ваша вина.<end>
+
+=>a318_original
+We'd never risk the professor's life.<end>
+
+=>a318
+Мы бы никогда не стали рисковать жизнью профессора.<end>
+
+=>q319_original
+But you already have. <end>
+
+=>q319
+Но вы уже это сделали.<end>
+
+=>a320_original
+What do you want?<end>
+
+=>a320
+Чего вы хотите?<end>
+
+=>a321_original
+If anything happens to the professor you will not *ask* but beg us to be civil.<end>
+
+=>a321
+Если с профессором что-нибудь случится, вы не будете *просить*, а будете умолять нас быть цивилизованными.<end>
+
+=>q322_original
+I did not mention civility out of pretentiousness. <end>
+
+=>q322
+Я не упомянул о цивилизованности из претенциозности.<end>
+
+=>a323_original
+We'll see about that.<end>
+
+=>a323
+Это мы посмотрим.<end>
+
+=>q324_original
+We will. <end>
+
+=>q324
+Мы будем ждать.<end>
+
+=>a325_original
+Bastards!<end>
+
+=>a325
+Ублюдки!<end>
+
+=>q326_original
+::He responds to your comment with a smirk.::<end>
+
+=>q326
+::Он отвечает на ваш комментарий ухмылкой.::<end>
+
+=>a327_original
+::Let him continue.::<end>
+
+=>a327
+::Ждать пока он продолжит.::<end>
+
+=>a328_original
+$(context.player.Name), from South Gate Station.<end>
+
+=>a328
+$(context.player.Name) со станции Саут-Гейт.<end>
+
+=>q329_original
+A Southgater? Interestin'. Then I feel we will understand each other better, bein' that you're one of the locals.<end>
+
+=>q329
+Саутгейтец? Интересно. Тогда я чувствую, что мы хорошо поймём друг друга, поскольку ты од$(#ин/на) из местных.<end>
+
+=>a330_original
+I am $(context.player.Name) of the Institute of Tchort.<end>
+
+=>a330
+Я $(context.player.Name) из Института Чорта.<end>
+
+=>q331_original
+Tchortist? How interestin': A Tchortist workin' for a security contractor from North Underrail. I wonder - I honestly do - how *that* came to be.  I've heard there is a lot of you in Core City now. <end>
+
+=>q331
+Чортист? Как интересно: Чортист, работающий на подрядчика по безопасности из Северной Подземки. Я недоумеваю - честно недоумеваю - как *такое* могло произойти. Я слышал, что в Кор-Сити сейчас много ваших.<end>
+
+=>q332_original
+But... ::He shakes his head.:: I suppose now is not the time to discuss that.<end>
+
+=>q332
+Но... ::Он качает головой.:: Полагаю, сейчас не время это обсуждать.<end>
+
+=>a333_original
+I am Corporal $(context.player.Name), Underrail Protectorate.<end>
+
+=>a333
+Я капрал $(context.player.Name), Протекторат Подземки.<end>
+
+=>q334_original
+Well, well - Protectorate. Cruzer is gonna like you even more now. One of your comrades gave him one jettin' scar many years ago.<end>
+
+=>q334
+Так-так - Протекторат. Теперь ты ещё больше понравишься Могиле. Один из твоих товарищей оставил ему один охрененный шрам много лет назад.<end>
+
+=>q335_original
+::He pulls down his bandana to show you a massive hole in the left side of his lower jaw. His teeth are present for the most part, but their geometry and placement have been altered severely; the way his bandana clings to his jaw after putting it back on outlines this arrangement much like x-ray imaging.::
+
+I had to spend two months in bed 'cus a dis. <end>
+
+=>q335
+::Он стягивает свою бандану, чтобы показать вам огромную дыру в левой части нижней челюсти. Его зубы по большей части сохранились, но их геометрия и расположение серьёзно исказились; то, как его бандана прилипает к челюсти после того, как он снова надевает её, очерчивает это место, что очень похоже на рентгеновский снимок.::
+
+Я два месяца валялся в койке из-за этого.<end>
+
+=>a336_original
+Sorry to hear you had to go through that.<end>
+
+=>a336
+Жаль слышать, что тебе пришлось пройти через такое.<end>
+
+=>q337_original
+Two months. Cost me a lotta coins, it did, 'cus I couldn't loot. But it cost 'im 'is life. ::He grins.:: Coins can be stolen at any time, life is one.<end>
+
+=>q337
+Два месяца. Это стоило мне кучу монет, потому что я не мог грабить. Но им это стоило жизни. ::Он ухмыляется.:: Монеты можно украсть в любое время, жизнь одна.<end>
+
+=>q338_original
+Corporal, <end>
+
+=>q338
+Капрал,<end>
+
+=>a339_original
+Cool scar, bro. I bet it gets you a lot of women.<end>
+
+=>a339
+Крутой шрам, бро. Держу пари, что он притягивает к тебе много женщин.<end>
+
+=>q340_original
+::He sneers.:: Why ye askin'? Interested in offerin' yer pretty little ass, eh?<end>
+
+=>q340
+::Он усмехается.:: А чего интересуешься? Хочешь предложить свою хорошенькую маленькую попку, а?<end>
+
+=>q341_original
+Cruzer.<end>
+
+=>q341
+Могила.<end>
+
+=>q342_original
+::He nods and relaxes.::
+
+Yes, Cap'n.<end>
+
+=>q342
+::Он кивает и расслабляется.::
+
+Да, капитан.<end>
+
+=>q343_original
+::He turns to you.::
+
+<end>
+
+=>q343
+::Он поворачивается к вам.::
+<end>
+
+=>q344_original
+I don' need no scars. I can get any ass I wan' 'round 'ere. I jus' snap me fingers an' dem floozies line up. Ye wanna bend over too, eh?<end>
+
+=>q344
+Мне не нужны для этого шрамы. Здесь я могу получить любую задницу, какую захочу. Я просто щёлкаю пальцами, и все самки выстраиваются в очередь. Ты чё тоже хочешь наклониться, а?<end>
+
+=>a345_original
+How can you be sure it wasn't me? I've shot at a lot of ass-faced bastards during my career.<end>
+
+=>a345
+Как ты можешь быть уверен, что это не я? За свою карьеру я стрелял$(#/а) во многих жопоголовых ублюдков.<end>
+
+=>q346_original
+Was a man. An' 'e's dead now. <end>
+
+=>q346
+Был мужчиной. И теперь он покойник.<end>
+
+=>q347_original
+Who knows, maybe I get to pop ye as well.<end>
+
+=>q347
+Кто знает, возможно, мне удастся хорошенько надрать тебе задницу.<end>
+
+=>q348_original
+'E's dead. <end>
+
+=>q348
+Он сдох.<end>
+
+=>a349_original
+That has nothing to do with me.<end>
+
+=>a349
+Это не имеет ко мне никакого отношения.<end>
+
+=>q350_original
+Yer d' Cap'n's guest now, but out dere yer kind's free game. <end>
+
+=>q350
+Сейчас ты гость капитана, но снаружи мы играем свободно.<end>
+
+=>a351_original
+::Say nothing.::<end>
+
+=>a351
+::Промолчать.::<end>
+
+=>q352_original
+Well... <end>
+
+=>q352
+Ну...<end>
+
+=>a353_original
+$(context.player.Name) of the Free Drones.<end>
+
+=>a353
+$(context.player.Name) из Вольных шершней.<end>
+
+=>q354_original
+Free Drones? How interestin': An anarchist workin' for a security contractor from North Underrail. I wonder - I honestly do - how *that* came to be. <end>
+
+=>q354
+Вольные шершни? Как интересно: анархист, работающий на подрядчика по безопасности из Северной Подземки. Я недоумеваю - честно недоумеваю - как *такое* могло произойти.<end>
+
+=>a355_original
+Where is Professor Oldfield? What have you done with him?<end>
+
+=>a355
+Где профессор Олдфилд? Что вы с ним сделали?<end>
+
+=>q356_original
+He is safe. <end>
+
+=>q356
+Он в безопасности.<end>
+
+=>a357_original
+Where are they?<end>
+
+=>a357
+Где они?<end>
+
+=>q358_original
+You mean Professor Oldfield and the other men? <end>
+
+=>q358
+Ты имеешь в виду профессора Олдфилда и других?<end>
+
+=>a359_original
+::Say nothing.::<end>
+
+=>a359
+::Промолчать.::<end>
+
+=>q360_original
+<end>
+
+=>q360
+<end>
+
+=>q361_original
+Well?<end>
+
+=>q361
+И?<end>
+
+=>q362_original
+<end>
+
+=>q362
+<end>
+
+=>a363_original
+How about I offer you my own services?<end>
+
+=>a363
+Как насчёт того, чтобы я предложил$(#/а) вам свои собственные услуги?<end>
+
+=>q364_original
+::The three men look at each other.::
+
+<end>
+
+=>q364
+::Мужчины переглянулись.::
+<end>
+
+=>q365_original
+In what sense, exactly?<end>
+
+=>q365
+В каком именно смысле?<end>
+
+=>a366_original
+I want to join you. I want to become a pirate.<end>
+
+=>a366
+Я хочу присоединиться к вам, хочу стать пиратом.<end>
+
+=>q367_original
+::Laughter breaks out.::
+
+A pirate, eh? Are you mockin' us?<end>
+
+=>q367
+::Раздаётся смех.::
+
+Пиратом, а? Да ты смеёшься над нами?<end>
+
+=>q368_original
+'E gotta be.<end>
+
+=>q368
+Ты ведь издеваешся.<end>
+
+=>a369_original
+::[Intelligence]:: Mocking you whilst being in a position as vulnerable as this would be detrimental to my health.<end>
+
+=>a369
+::[Интеллект]:: Издеваться над вами, находясь в таком уязвимом положении, было бы пагубно для моего здоровья.<end>
+
+=>q370_original
+Indeed it would.<end>
+
+=>q370
+Именно так.<end>
+
+=>a371_original
+Now, don't you think one who's been given this perfect opportunity to assess who the winner of this factional tug-of-war is going to be might not - in the end - decide to work toward negotiating Professor Oldfield's release but instead toward his own acceptance into this crew.<end>
+
+=>a371
+Итак, не кажется ли вам, что тот, кто получил эту прекрасную возможность оценить, кто выйдет победителем в этом фракционном перетягивании каната, может, в итоге, решить не работать над переговорами об освобождении профессора Олдфилда, а вместо этого над его собственным принятием в эту команду?<end>
+
+=>q372_original
+::A quick smile escapes him.:: I see what you mean. 
+
+So...<end>
+
+=>q372
+::Мимолётная улыбка покидает его лицо.:: Я вижу, к чему ты клонишь.
+
+Так...<end>
+
+=>q373_original
+<end>
+
+=>q373
+<end>
+
+=>a374_original
+::[Persuade]:: I'm serious. The expedition is a sinking ship, and I'd rather be switching to this one.<end>
+
+=>a374
+::[Убеждение]:: Я серьёзно. Экспедиция - тонущий корабль, и я предпоч$(#ёл/ла) бы пересесть на этот.<end>
+
+=>q375_original
+Let me get this straight: You came here to negotiate the release of your dear professor, but now you suddenly realize that you wanna become a pirate?<end>
+
+=>q375
+Позволь уточнить: ты приходишь сюда, чтобы договориться об освобождении вашего дражайшего профессора, и внезапно осознаёшь, что хочешь стать пиратом?<end>
+
+=>a376_original
+Not suddenly, I knew it for a long time. But I thought this would be the right moment. You and me, Captain, face to face, that's what I was waiting for.<end>
+
+=>a376
+Не внезапно, я понял$(#/а) это уже давно. И решил$(#/а), что сейчас как раз подходящий момент. Вы и я, капитан, лицом к лицу - вот чего я ждал$(#/а).<end>
+
+=>q377_original
+<end>
+
+=>q377
+<end>
+
+=>q378_original
+I ain't buyin' a word. Now stop wastin' my time.<end>
+
+=>q378
+Я не верю ни единому слову. А теперь перестань тратить моё время.<end>
+
+=>a379_original
+I just wanted to introduce a bit of humor into these negotiations. No harm in that, eh?<end>
+
+=>a379
+Я просто хотел$(#/а) внести капельку юмора в эти переговоры. Ничего же дурного в этом нет, а?<end>
+
+=>q380_original
+Not at all.<end>
+
+=>q380
+Ничуть.<end>
+
+=>a381_original
+Forget I said anything.<end>
+
+=>a381
+Забудьте, что я это сказал$(#/а).<end>
+
+=>q382_original
+Will do.<end>
+
+=>q382
+Пойдёт.<end>
+
+=>a383_original
+There is not much I can offer you.<end>
+
+=>a383
+Я мало что могу вам предложить.<end>
+
+=>q384_original
+Oh, I think there is. You just have to think.<end>
+
+=>q384
+О, я так не думаю. Тебе просто нужно поразмыслить.<end>
+
+=>a385_original
+How do you like my offer?<end>
+
+=>a385
+Как вам моё предложение?<end>
+
+=>q386_original
+So you're offerin' $(context.event_pir_meeting_offerLine) in exchange for Professor Oldfield's freedom.<end>
+
+=>q386
+Итак, ты предлагаешь $(context.event_pir_meeting_offerLine) в обмен на свободу профессора Олдфилда.<end>
+
+=>a387_original
+Yes.<end>
+
+=>a387
+Да.<end>
+
+=>q388_original
+In that case...<end>
+
+=>q388
+В таком случае...<end>
+
+=>q389_original
+I accept.<end>
+
+=>q389
+Я согласен.<end>
+
+=>q390_original
+I might not have learned all I wanted, but after a deal like this I am willin' to wait. <end>
+
+=>q390
+Может, я и не узнал всего, что хотел, но после такой сделки я готов подождать.<end>
+
+=>q391_original
+But first things first - the information you promised.<end>
+
+=>q391
+Но прежде всего - информация, которую ты обещал$(#/а).<end>
+
+=>q392_original
+You're almost there... <end>
+
+=>q392
+Ты уже совсем близко...<end>
+
+=>q393_original
+We're gettin' somewhere, but you can do better.<end>
+
+=>q393
+Мы кое-чего добились, но ты можешь и лучше.<end>
+
+=>q394_original
+You can do much better than this. ::He smirks.::<end>
+
+=>q394
+Ты можешь сделать гораздо больше, чем это. ::Он ухмыляется.::<end>
+
+=>q395_original
+Don't insult me.<end>
+
+=>q395
+Не оскорбляй меня.<end>
+
+=>a396_original
+Actually, I need to reconsider.<end>
+
+=>a396
+Вообще-то, я хочу пересмотреть своё решение.<end>
+
+=>q397_original
+Of course.I am in no rush. Can't say the same for the professor.<end>
+
+=>q397
+Конечно. Мне некуда спешить. Не могу сказать того же о профессоре.<end>
+
+=>q398_original
+You haven't made one.<end>
+
+=>q398
+А ты его ещё не сделал$(#/а).<end>
+
+=>q399_original
+Well? Answer me.<end>
+
+=>q399
+Ну и? Ответь мне.<end>
+
+=>a400_original
+Yes, I want to be a pirate.<end>
+
+=>a400
+Да, я хочу стать пиратом.<end>
+
+=>a401_original
+::Scream into the navcom.:: Commence the attack!<end>
+
+=>a401
+::Прокричать в навком.:: Начинайте наступление!<end>
+
+=>q402_original
+::You open your mouth, but nothing but a grunt comes out: ::<end>
+
+=>q402
+::Вы открываете рот, однако ничего, кроме кряхтения его не покидает: ::<end>
+
+=>q403_original
+Now, Cruzer, this person is no dryfoot thug. $(#He/She) came here as a negotiator.<end>
+
+=>q403
+Теперь, Могила, этот человек не шпана сухоногая. $(#Он/Она) здесь в качестве переговорщика.<end>
+
+=>q404_original
+::His eyes shift to you.::
+
+Even though $(#he/she) has Grim Jetter blood on $(#his/her) hands.<end>
+
+=>q404
+::Он переводит взгляд на вас.::
+
+Даже если на $(#его/её) руках кровь Беспощадного всадника.<end>
+
+=>q405_original
+::His eyes shift to you.::
+
+But I'd heed his advice if I were you.<end>
+
+=>q405
+::Он переводит взгляд на вас.::
+
+Но на твоём месте я бы прислушался к его совету.<end>
+
+=>q406_original
+::Wearing a blindfold is indisputably one disorienting and unsettling experience. Still, having your vision suspended results in your other, unimprisoned senses becoming more reactive to the world around you as to provide you with sufficient information...::<end>
+
+=>q406
+::Повязка на глазах, бесспорно, - дезориентирующее и тревожное переживание. Тем не менее, пока ваше зрение ограничено, ваши другие, не ограниченные повязкой чувства становятся более восприимчивыми к окружающему миру, чтобы обеспечить вас достаточной информацией...::<end>
+
+=>q407_original
+::The first thing you hear after being blindfolded is the sound of jet skis cutting mercilessly through the waves of the Black Sea. Then you hear what sounds like a massive gate opening in the distance; as you approach the source of that sound, you hear various voices dancing around you, close and far, becoming more pronounced as the machines that brought you to them have at last embraced silence.::<end>
+
+=>q407
+::Первое, что вы слышите после того, как вам завязали глаза, - это звук гидроциклов, нещадно рассекающих волны Чёрного моря. Затем вы слышите звук, похожий на открывающиеся вдалеке массивные ворота; приближаясь к источнику этого звука, вы слышите различные голоса, танцующие вокруг вас, поблизости и отдалённо, звучащие всё более отчётливо, поскольку машины, доставившие вас к ним, наконец-то заглохли.::<end>
+
+=>q408_original
+::After stepping onto solid ground, made of grated metal judging by its feel and sound, you smell food: crab, fish, spices and some less appetizing dishes. You also smell gunpowder, sweat, dirty socks, dog excrement, gasoline, electrolyte and a myriad of other odors, all mixed together. You smell a human settlement, and you are walking - or being tugged, more accurately - right through it.::<end>
+
+=>q408
+::Ступив на твёрдую поверхность, судя по ощущениям и звуку, выполненную из решётчатого металла, вы чувствуете запах пищи: крабов, рыбы, специй и некоторых менее аппетитных блюд. Вы также чувствуете запахи: пороха, пота, грязных носков, собачьих экскрементов, бензина, электролита и мириады других запахов, смешавшихся вместе. Так пахнет поселение людей, и вы идёте - или, точнее, вас тащат - прямо через него.::<end>
+
+=>q409_original
+::The voices follow you, but only up until you climb a flight of stairs and step into an unstable, echoing place; a hand lowers your head so that you don't hit something while entering this building.::<end>
+
+=>q409
+::Голоса следуют за вами, но только до лестницы. Вы поднимаетесь по ней и оказываетесь в неустойчивом, гулком месте; рука опускает вашу голову, чтобы вы ни обо что не ударились, входя в это помещение.::<end>
+
+=>q410_original
+::Your nose has been treated with rather insalubrious smells since you arrived to this community, so it comes as a bit of a surprise when you come into a room filled with some kind of herbal fragrance, one you can't exactly identify; the occasional alcoholic notes that linger in the air you are able to recognize easily, though, as well as the smell of a live bat.::<end>
+
+=>q410
+::Ваш нос столкнулся с довольно неприятными запахами с тех пор, как вы прибыли в эту общину, поэтому вы испытываете некоторое удивление, входя в комнату, наполненную каким-то травяным ароматом, который вы не можете точно идентифицировать, однако, вы с лёгкостью распознаёте нотки алкоголя, случайно задержавшиеся в воздухе, ровно, как и запах летучей мыши.::<end>
+
+=>q411_original
+::You hear the door closing behind you. You step on a soft carpet. The person which led you here stops to the right of you, yet you feel another close presence to your left as well. And then, after a moment of silence, you hear the third participant just in front of you.::
+
+Remove $(#his/her) blindfold.<end>
+
+=>q411
+::Вы слышите, как за вами закрывается дверь, и ступаете на мягкий ковёр. Человек, который привёл вас сюда, останавливается справа от вас, но вы чувствуете близкое присутствие ещё одного - слева. А затем, после недолгого молчания, вы слышите и третьего - прямо перед собой.::
+
+Снимите с $(#него/неё) повязку.<end>
+
+=>q412_original
+::The voice is male, somewhat higher in pitch but darker in quality, smooth and clear but for a slight lisp that you might not have even noticed in a more normal sensory state. Without delay, the person on the left touches you...::<end>
+
+=>q412
+::Голос мужской, несколько высоковат по тону, но тёмный по характеру, ровный и ясный, если не считать лёгкой шепелявости, которую вы, возможно, даже не заметили бы, не будь ваш слух обострён. Без промедления человек слева прикасается к вам...::<end>
+
+=>a413_original
+::Wait.::<end>
+
+=>a413
+::Ждать.::<end>
+

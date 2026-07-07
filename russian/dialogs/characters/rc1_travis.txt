@@ -1,0 +1,365 @@
+﻿=>q1_original
+I'm busy.<end>
+
+=>q1
+Я занят.<end>
+
+=>q2_original
+::Upon entering what appears to be a repair shop of some kind, a variety of odors meet your sense of smell. You recognize rubber, oil, burnt fusion cells - and mushroom stew. More precisely, you identify it to be stew made from the so-called swineshrooms, named appropriately since they smell much like pork when cooked. The man behind the counter sits leaned into his flimsy chair, voraciously scooping what's left of the stuff from his bowl, his feet resting on the counter. After finishing, he sets the bowl aside, wipes his mouth with his sleeve, gets up from his chair and leans against the counter.::
+
+Howdy. I am Travis, the mechanic. ::His tongue passes over his teeth to clean residue food.:: Whatcha need?<end>
+
+=>q2
+::Вы входите в помещение, похожее на что-то вроде ремонтной мастерской, и множество ароматов атакуют ваше обоняние. Вы узнаёте запахи резины, масла, сгоревших ядерных батареек и... грибного рагу. Точнее, вы определяете, что это блюдо приготовлено из так называемых свиных грибов, названных так из-за того, что, будучи обжаренными, пахнут как свинина. Мужчина за прилавком сидит, развалившись на хлипком стуле и положив ноги на прилавок, жадно поглощая остатки съестного из тарелки. Закончив, он отставляет миску в сторону, вытирает рот рукавом, встаёт со стула и опирается на прилавок.::
+
+Привет. Я Трэвис, механик. ::Он облизывает зубы, очищая их от остатков пищи.:: Чего надо?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Show me what you have for trade. ::Barter.::<end>
+
+=>a4
+Покажите, что у вас есть. ::Обмен.::<end>
+
+=>a5_original
+I'd like to buy that mechanics workbench.<end>
+
+=>a5
+Я хотел$(#/а) бы купить этот верстак.<end>
+
+=>q6_original
+One kent-- One thousand three hundred 'n' it's all yours.<end>
+
+=>q6
+Один штуц... тысяча триста и он весь ваш.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Here's the money. ::Give him 1300 stygian coins.::<end>
+
+=>a8
+Вот деньги. ::Дать ему 1300 стигийских монет.::<end>
+
+=>q9_original
+The bench is yours, $(#man/girl). You taking it now or...?<end>
+
+=>q9
+Верстак ваш, $(#приятель/подруга). Вы заберёте его сразу или?..<end>
+
+=>a10_original
+No. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
+
+=>a10
+Нет. Я закажу, чтобы Жилищная корпорация Кор-Сити доставила его мне домой.<end>
+
+=>q11_original
+Okay.<end>
+
+=>q11
+Хорошо.<end>
+
+=>a12_original
+::[Intelligence][Persuade]:: If that mechanic's name was Mykola, then I seriously doubt that bench is brand new. Who knows what might break or fall off. How about lowering the price to, say, eight wrenches?<end>
+
+=>a12
+::[Интеллект][Убеждение]:: Если этого механика звали Микола, я сильно сомневаюсь в том, что этот верстак совершенно новый. Кто знает, что там могло сломаться или выпасть. Как насчёт снизить цену, скажем, восемь соток?<end>
+
+=>q13_original
+::A frown creeps up on his face, but disappears after an instant.:: Mykola... yeah. Okay, you got me there. Eight wrenches it is.<end>
+
+=>q13
+::Тень сомнения появляется на его лице, но исчезает через мгновение.:: Микола... да. Ладно, вы меня уели. Восемь соток.<end>
+
+=>a14_original
+That's the stuff. Here. ::Give him eight wrenches.::<end>
+
+=>a14
+Вот это дело. Держите. ::Дать ему восемь соток.::<end>
+
+=>q15_original
+I don't know whatcha talking about.<end>
+
+=>q15
+Не понимаю, о чём вы.<end>
+
+=>a16_original
+I'll think about it.<end>
+
+=>a16
+Я подумаю об этом.<end>
+
+=>q17_original
+You do that.<end>
+
+=>q17
+Подумайте.<end>
+
+=>a18_original
+You seem pretty relaxed considering what is happening right now.<end>
+
+=>a18
+Вы как-то слишком спокойны, учитывая что сейчас происходит.<end>
+
+=>q19_original
+I am aware of what's going on out there, and that anything can happen, but there ain't nothing I can do about it.<end>
+
+=>q19
+Я знаю, что там происходит и что может произойти всё что угодно, но я ничего не могу с этим сделать.<end>
+
+=>q20_original
+Panic ain't gonna do us any good.<end>
+
+=>q20
+Паника ничем нам не поможет.<end>
+
+=>a21_original
+My name is $(context.player.Name).<end>
+
+=>a21
+Меня зовут $(context.player.Name).<end>
+
+=>q22_original
+Good for you.<end>
+
+=>q22
+Повезло вам.<end>
+
+=>a23_original
+What's with all these broken quads?<end>
+
+=>a23
+Зачем здесь все эти сломанные квадроциклы?<end>
+
+=>q24_original
+Them? It's just some old junk I've been keeping around forever. None of them are functional, but there are still working parts that can be scrapped from them.<end>
+
+=>q24
+Эти? Это просто старый хлам, который тут давно валяется. Ни один не работает, но с них всё ещё можно снять рабочие детали.<end>
+
+=>q25_original
+Now, I had an S-750 sitting outside the shop up until a month ago. That was a sight to behold.<end>
+
+=>q25
+Вот, у меня был S-750 перед магазином ещё месяц назад. Это надо было видеть.<end>
+
+=>a26_original
+What is an S-750?<end>
+
+=>a26
+Что за S-750?<end>
+
+=>q27_original
+S-750k to be exact. Hot as hell. With two hundred kilowatts of unadulterated power under your ass that beautiful beast can take you anywhere. Well, not that particular one, since one of its cells had caught fire 'n' burned everthing under the hood.<end>
+
+=>q27
+S-750k, если быть точным. Адская штучка. С двумя сотнями киловатт чистой мощи под задницей, этот прекрасный зверь смог бы доставить вас куда угодно. Ну, только не конкретно тот, после того как одна из ячеек загорелась и выжгла всё под капотом.<end>
+
+=>a28_original
+Couldn't you repair it?<end>
+
+=>a28
+Вы смогли его починить?<end>
+
+=>q29_original
+Nope. Way outta my league. I just held on to it so I could admire it. 'N' I salvaged some stuff before I sold it to scrap. Junkyard's where it's at now.<end>
+
+=>q29
+Не-а. Это выше моих способностей. Я держал его только чтобы им любоваться. Ну, и я вытащил всё ценное, прежде чем продал его на металлолом. Свалка -- вот где он теперь.<end>
+
+=>a30_original
+Yeah, yeah. I wanted to ask you something else.<end>
+
+=>a30
+Да, да. Я хотел$(#/а) спросить ещё кое о чём.<end>
+
+=>q31_original
+Sure thing, $(#man/girl).<end>
+
+=>q31
+Конечно, $(#приятель/подруга).<end>
+
+=>a32_original
+How much are you asking for that mechanics workbench?<end>
+
+=>a32
+Сколько вы хотите за этот верстак?<end>
+
+=>q33_original
+::He slowly looks at the workbench.:: I got it from a mechanic in Core City. It's brand new. ::Short pause.:: One kent three wrenches.<end>
+
+=>q33
+::Он долго смотрит на верстак.:: Я купил его у механика в Кор-Сити. Он абсолютно новый. ::Короткая пауза.:: Штуцер и три сотки.<end>
+
+=>a34_original
+::[Intelligence]:: One thousand three hundred?<end>
+
+=>a34
+::[Интеллект]:: Тысяча триста?<end>
+
+=>q35_original
+Yup.<end>
+
+=>q35
+Ага.<end>
+
+=>a36_original
+One kent three wrenches?<end>
+
+=>a36
+Штуцер и три сотки?<end>
+
+=>q37_original
+Oh, right, you ain't from around these parts. That's one thousand three hundred charons.<end>
+
+=>q37
+Ах, да, вы же не из этих мест. Это тысяча триста харонов.<end>
+
+=>a38_original
+What are you talking about, man?<end>
+
+=>a38
+О чём вы говорите?<end>
+
+=>a39_original
+Have you noticed anyone unusual going to Buzzer's shop recently? Someone you think could be linked to the Faceless wanting to occupy his store.<end>
+
+=>a39
+Вы не заметили, не заходил ли кто-нибудь необычный в магазин Баззера в последнее время? Кто-нибудь, кто, по вашему мнению, мог бы быть связан с нападением безликих на магазин?<end>
+
+=>q40_original
+::He slowly shakes his head.:: Nope.<end>
+
+=>q40
+::Он медленно качает головой.:: Не-а.<end>
+
+=>q41_original
+Technically, I've seen so many unusual people that it's become pretty usual to see unusual people visiting Buzzer's shop. So, again, nope.<end>
+
+=>q41
+Вернее, я видел столько необычных людей, что для меня стало довольно обычным видеть, как необычные люди приходят в магазин Баззера. Так что не-а.<end>
+
+=>a42_original
+Got any more of that stew? Man, that thing smelled like heaven.<end>
+
+=>a42
+У вас ещё осталось рагу? Эта штука пахнет божественно.<end>
+
+=>q43_original
+::He stares at you for a moment.:: Yup, I got some more in the back.<end>
+
+=>q43
+::Он смотрит на вас несколько секунд.:: Ага, У меня есть ещё в подсобке.<end>
+
+=>q44_original
+::Then he grins.:: But I ain't sharing.<end>
+
+=>q44
+::После чего он усмехается.:: Но я не собираюсь делиться.<end>
+
+=>a45_original
+What can you tell me about Rail Crossing?<end>
+
+=>a45
+Что вы можете мне рассказать про Переезд?<end>
+
+=>q46_original
+We're a small station. Not too small to be completely defenseless from the bandits 'n' stuff, but not big enough to always sleep easily. I don't know, $(#man/girl,) we got the basic stuff: a bar, my shop, doc's office, Myles' store; Buzzer's shop is probably what folks from other stations know us best.<end>
+
+=>q46
+Мы небольшая станция. Не настолько маленькая, чтобы быть полностью беззащитными перед бандитами и тварями, но не достаточно большая, чтобы всегда спать спокойно. Не знаю, $(#парень/девушка), у нас есть всё основное: бар, мой магазин, доктор, лавка Майлза; магазин Баззера -- наверное, самое популярное место у тех, кто приходит к нам с других станций.<end>
+
+=>q47_original
+Which could change if the Faceless mess him up.<end>
+
+=>q47
+Что может измениться, если безликие его не пожалеют.<end>
+
+=>q48_original
+Although, after Buzzer's death, that might not be the case no more.<end>
+
+=>q48
+Хотя, после смерти Баззера, это уже не так.<end>
+
+=>q49_original
+Glad the old geezer made it. He's a wiry guy.<end>
+
+=>q49
+Рад, что старый хрыч выжил. Он парень крепкий.<end>
+
+=>a50_original
+Do you know why the Faceless attacked Rail Crossing?<end>
+
+=>a50
+Вы знаете, почему безликие напали на Переезд?<end>
+
+=>q51_original
+Nope. They seem to want something from Buzzer, or just something from his shop.<end>
+
+=>q51
+Не-а. Кажется, они хотят что-то от Баззера или что-то из его магазина.<end>
+
+=>q52_original
+Creepy-looking bastards. I hope we get rid of them soon.<end>
+
+=>q52
+Жуткие уроды. Надеюсь, мы от них скоро избавимся.<end>
+
+=>q53_original
+Creepy-looking bastards. Glad we got rid of them.<end>
+
+=>q53
+Жуткие уроды. Рад, что мы избавились от них.<end>
+
+=>a54_original
+Do you know anything about the Free Drones?<end>
+
+=>a54
+Вы слышали что-нибудь о Вольных шершнях?<end>
+
+=>q55_original
+Not much. I heard they're some sort of anarchists that are fighting the Underrail Protectorate. Funny you should ask me that, $(#man/girl), I overheard some people talking about them just a few days ago. Right here, in Rail Crossing.
+<end>
+
+=>q55
+Не многое. Я слышал, они что-то типа анархистов, которые сражаются с Протекторатом Подземки. Забавно, что вы спрашиваете, потому что я слышал, как какие-то люди говорили о них всего пару дней назад. Прямо здесь, на Переезде.<end>
+
+=>q56_original
+Am I missing something here?<end>
+
+=>q56
+Я чего-то не понимаю?<end>
+
+=>a57_original
+I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them recently?<end>
+
+=>a57
+Я ищу Терри и Лору Бейкеров, торговцев с ССГ. Вы не видели их в последнее время?<end>
+
+=>q58_original
+Nope. I haven't seen those guys in weeks, maybe even months.<end>
+
+=>q58
+Нет, я не видел этих ребят несколько недель, может даже месяцев.<end>
+
+=>a59_original
+I need to go.<end>
+
+=>a59
+Мне нужно идти.<end>
+
+=>q60_original
+Yeah?<end>
+
+=>q60
+Да?<end>
+

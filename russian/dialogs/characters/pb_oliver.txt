@@ -1,0 +1,744 @@
+﻿=>q1_original
+I think you made the wrong choice, $(context.player.Name), but if that's what you wish... Best of life in the future.<end>
+
+=>q1
+Я думаю, что вы ошиблись с выбором, $(context.player.Name), но если вы так решили... Всего вам наилучшего.<end>
+
+=>q2_original
+::You find the consul infuriated, muttering something to himself.::
+
+Corporal! Did you see that insolence!? Those rude... those... those... I'm at a loss for words. I was thrown out of my office like a dog. What surprises me the most is that the colonel did *nothing* to prevent it!
+
+::He sighs.:: I need a cup of mushroom tea to calm me down. Dear me...<end>
+
+=>q2
+::Вы видите, что консул в бешенстве, он бормочет что-то себе под нос.::Капрал! Вы видели, что за наглость?! Эти хамы... эти... эти... у меня нет слов. Меня вышвырнули из собственного кабинета, как собаку. И что меня больше всего поражает, полковник не сделал *ничего*, чтобы остановить их! ::Он вздыхает.:: Мне нужна чашка грибного чая, чтобы успокоиться. Не могу поверить...<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+You mentioned you wanted to discuss something with me.<end>
+
+=>a4
+Вы, кажется, хотели что-то обсудить со мной.<end>
+
+=>q5_original
+Indeed I have, Corporal. The situation I'm about to explain to you is not something that occurs often; in all honesty, this is the first time it has happened. At least as far as I'm aware. Perhaps that is the reason the colonel asked for my opinion on this.<end>
+
+=>q5
+Действительно, это так, капрал. То, о чём я вам сейчас расскажу, происходит нечасто; честно говоря, никогда такого не было. По крайней мере, насколько мне известно. Возможно, именно поэтому полковник захотел узнать моё мнение по данному вопросу.<end>
+
+=>a6_original
+Can you tell me what happened?<end>
+
+=>a6
+Можете ли вы сказать мне, что случилось?<end>
+
+=>q7_original
+Yes, I can. ::He takes a deep breath.:: We have a problem with several Protectorate soldiers that have... gone renegade. It happened before you arrived, not too long ago. A squad under the command of SFC Timothy Holloway had simply left Fort Apogee. No one ever said anything, nothing happened that could suggest why they'd leave. Nothing, nothing at all.
+
+They simply... left.<end>
+
+=>q7
+Да, могу. ::Он делает глубокий вдох.:: У нас проблема с группой солдат Протектората, которые... дезертировали. Это случилось незадолго до вашего прибытия. Отряд под командованием сержанта первого класса Тимоти Холлоуэя просто покинул форт Апогей. Никто ничего не сказал, ничего не произошло, что могло бы послужить тому причиной. Ничего, совершенно ничего.
+
+Они просто... ушли.<end>
+
+=>a8_original
+SFC?<end>
+
+=>a8
+Сержант первого класса?<end>
+
+=>q9_original
+Sergeant First Class. Please, Corporal.<end>
+
+=>q9
+Сержант первого класса. Слушайте внимательно, Капрал.<end>
+
+=>a10_original
+Do you know where they are now?<end>
+
+=>a10
+Вы знаете, где они сейчас?<end>
+
+=>q11_original
+They've entrenched themselves, or so I've been told, in one of the stations. It's um... oh, for crying out loud... ::He takes a moment to think.:: Yes - Dolos Center, that's it. It's all the way to the west, past Core City station.<end>
+
+=>q11
+Он окопались, как мне сказали, на одной из станций. Она называется, эм... ох, да что же со мной такое... ::Он задумывается на секунду.:: Да -- Долос-Центр, точно. Она находится на запад отсюда, после станции Кор-Сити.<end>
+
+=>a12_original
+So, what do you want me to do?<end>
+
+=>a12
+Так, что вы от меня хотите?<end>
+
+=>q13_original
+Well, Corporal, I want you to go find them and negotiate their return. The offense is quite serious, and the colonel was ready to take drastic measures. I convinced him to allow me to send someone to attempt a more diplomatic approach first.<end>
+
+=>q13
+Что же, капрал, я хочу, чтобы вы нашли их и согласовали условия их возвращения. Их преступление довольно серьёзно, и полковник уже был готов принять радикальные меры. Я убедил его позволить мне сперва послать кого-нибудь попытаться применить более дипломатический подход.<end>
+
+=>q14_original
+You're an outsider, dear Corporal, or you were when the sergeant's squad went renegade, so it is my belief that they should feel less threatened by you - if you play your cards right. You were in no way connected to any of the recent goings-on in Fort Apogee, you couldn't have been, so the more neutral they perceive you to be, the better.<end>
+
+=>q14
+Вы человек со стороны, капрал -- ну, или были, когда отряд сержанта дезертировал, так что, я думаю, они не воспримут вас как угрозу, если вы разыграете свои карты правильно. Вы никак не связаны ни с какими недавними событиями в форте Апогей -- это просто невозможно, -- так что, чем более нейтрально они вас воспримут, тем лучше.<end>
+
+=>a15_original
+What will happen to them if I convince them to come back?<end>
+
+=>a15
+Что будет с ними, если я смогу убедить их вернуться?<end>
+
+=>q16_original
+As I've said before, what they did is a serious offense. Court-martial most certainly awaits them, and the usual penalty for desertion is, well, death. However, if they surrender peacefully - "return" might be a better word - if they return peacefully, then perhaps their punishment won't be as severe, considering that SFC Holloway has an outstanding record.
+
+Everything is up to Colonel Cathcart, in the end.<end>
+
+=>q16
+Как я уже сказал, они совершили тяжкое преступление. Несомненно, их ждёт суд трибунала, а обычное наказание за дезертирство -- что уж там, -- смерть. Однако, если они сдадутся добровольно, -- лучше сказать, -- «вернутся» -- если они вернутся добровольно, тогда, возможно, их наказание не будет столь суровым, учитывая безупречный послужной список сержанта Холлоуэя.
+
+В конце концов всё будет зависеть от полковника Каткарта.<end>
+
+=>q17_original
+So, what do you say to all this?<end>
+
+=>q17
+Итак, что вы скажете на это?<end>
+
+=>a18_original
+I'll do it.<end>
+
+=>a18
+Я сделаю это.<end>
+
+=>q19_original
+$(#Bravo/Brava), just $(#bravo/brava)! I've told you everything I know, dear Corporal. If you need more information, the colonel is your best bet.
+
+Good luck on your mission.<end>
+
+=>q19
+Браво, просто браво! Я рассказал вам всё, что знаю, уважаем$(#ый/ая) капрал. Если вам нужна дополнительная информация, рекомендую вам обратиться к полковнику.
+
+Удачи вам в вашей миссии.<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>a21_original
+I'll have to think about it.<end>
+
+=>a21
+Я подумаю об этом.<end>
+
+=>q22_original
+Let me know of your decision as soon as possible. We don't have much time.<end>
+
+=>q22
+Дайте мне знать о вашем решении как можно скорее. У нас не так много времени.<end>
+
+=>a23_original
+What if things turn ugly?<end>
+
+=>a23
+Что если дело примет нежеланный оборот?<end>
+
+=>q24_original
+Then... then you have no other choice.<end>
+
+=>q24
+Тогда... тогда у вас не будет другого выбора.<end>
+
+=>a25_original
+So, I'm guessing you want me to talk to them. Right?<end>
+
+=>a25
+Полагаю, вы хотите, чтобы я поговорил$(#/а) с ними. Так?<end>
+
+=>q26_original
+$(#Bravo/Brava), Corporal, $(#bravo/brava). That is exactly what I want you to do. Find them and negotiate their return. The offense is quite serious, and the colonel was ready to take drastic measures. I convinced him to allow me to send someone to attempt a more diplomatic approach first.<end>
+
+=>q26
+Браво, капрал, браво. Именно этого я от вас и хочу. Найдите их и согласуйте условия их возвращения. Их преступление довольно серьёзно, и полковник был уже готов принять радикальные меры. Я убедил его позволить мне сперва послать кого-нибудь попытаться применить более дипломатический подход.<end>
+
+=>a27_original
+Do you want them dead? I can make them dead! Bloody traitors!<end>
+
+=>a27
+Вы хотите, чтобы я их убил$(#/а)? Я могу их убить! Проклятые предатели!<end>
+
+=>q28_original
+::He seems astonished by your answer.:: No! No, no, no! I don't want you to murder them, what is wrong with you, Corporal?<end>
+
+=>q28
+::Он, кажется, поражён вашим ответом.:: Нет! Нет, нет, нет! Я не хочу, чтобы вы убили их, что с вами не так, капрал?<end>
+
+=>q29_original
+I want you to go find them and negotiate their return. The offense is quite serious, and the colonel was ready to take drastic measures. I convinced him to allow me to send someone to attempt a more diplomatic approach first.<end>
+
+=>q29
+Я хочу, чтобы вы нашли их и согласовали условия их возвращения. Их преступление довольно серьёзно, и полковник уже был готов принять радикальные меры. Я убедил его позволить мне сперва послать кого-нибудь попытаться применить более дипломатический подход.<end>
+
+=>a30_original
+The Invictus can kill if you need him to kill.<end>
+
+=>a30
+Инвиктус может убивать, если вы хотите, чтобы инвиктус убивал$(#/а).<end>
+
+=>a31_original
+I decided to negotiate with the renegade squad.<end>
+
+=>a31
+Я решил$(#/а) провести переговоры с отрядом отступников.<end>
+
+=>a32_original
+About those renegade soldiers...<end>
+
+=>a32
+Насчёт тех солдат-отступников...<end>
+
+=>q33_original
+$(#Bravo/Brava), Corporal, $(#bravo/brava)! The soldiers have just returned back to Fort Apogee and surrendered all their weapons and equipment. They are in custody now, but after speaking with Colonel Cathcart, I was pleasantly surprised by what he told me. I am extremely pleased with your work!<end>
+
+=>q33
+Браво, просто браво! Солдаты вернулись форт Апогей и сдали оружие и снаряжение. Сейчас они находятся под стражей, но после разговора с полковником Каткартом, я был приятно удивлён тем, что он мне сказал. Я очень доволен вашей работой!<end>
+
+=>a34_original
+What will happen to SFC and his men?<end>
+
+=>a34
+Что будет с сержантом и его людьми?<end>
+
+=>q35_original
+They are in custody at the moment, and will be court-martialed. Regardless, you convinced the colonel to initiate a separate investigation based on SFC's claims, so that will play a huge factor during the process.
+
+The sergeant and his men surrendered peacefully and... I have a good feeling about this.<end>
+
+=>q35
+В данный момент они находятся под стражей и предстанут перед трибуналом. Независимо от этого, вы убедили полковника инициировать отдельное расследование на основании показаний сержанта, и это сыграет ключевую роль во время процесса.
+
+Сержант и его люди сдались добровольно, и... у меня хорошее предчувствие.<end>
+
+=>q36_original
+Again, $(#bravo/brava), Corporal. One other thing: Staff Sergeant Fraser *might* have something for you. Do go and pay him a visit.<end>
+
+=>q36
+Опять же, браво, капрал. Ну и ещё одна вещь: у старшего сержанта Фрейзера *возможно* есть кое-что для вас. Советую вам навестить его.<end>
+
+=>q37_original
+<end>
+
+=>q37
+<end>
+
+=>q38_original
+$(#Bravo/Brava), Corporal, $(#bravo/brava)! The soldiers have just returned back to Fort Apogee and surrendered all their weapons and equipment. They are in custody at the moment.<end>
+
+=>q38
+Браво, просто браво! Солдаты вернулись форт Апогей и сдали оружие и снаряжение. Сейчас они находятся под стражей.<end>
+
+=>a39_original
+What will happen to SFC and his men?<end>
+
+=>a39
+Что будет с сержантом и его людьми?<end>
+
+=>q40_original
+Well, dear Corporal, they will be court-martialed for desertion. Punishment will be severe, but I can assure you there will be no death sentence. It's all based on my conversation with Colonel Cathcart.<end>
+
+=>q40
+Ну, уважаем$(#ый/ая) капрал, они предстанут перед трибуналом за дезертирство. Наказание будет строгим, но могу заверить, что до смертного приговора не дойдёт. Это исходя из моего разговора с полковником Каткартом.<end>
+
+=>q41_original
+I can't really give you anything more; we'll just have to wait for the trial. I'm just glad no blood was spilled. Killing your own fellow soldiers, whatever the reason for their desertion is, feels wrong from my point of view. Very much so indeed.<end>
+
+=>q41
+Я больше не могу вам ничего сказать; нам остаётся только ждать судебного разбирательства. Я только рад, что обошлось без крови. Убивать своих однополчан, независимо от причин их дезертирства -- это просто неправильно, с моей точки зрения. Совершенно неправильно.<end>
+
+=>q42_original
+Well, the task was successfully accomplished, Corporal. Bravo. One other thing: Staff Sergeant Fraser *might* have something for you. Do go and pay him a visit.<end>
+
+=>q42
+Что же, задание успешно выполнено, капрал. Браво. Ну и ещё одна вещь: у старшего сержанта Фрейзера *возможно* есть кое-что для вас. Советую вам навестить его.<end>
+
+=>q43_original
+An interesting turn of events, Corporal: The renegade soldiers have returned without SFC Holloway! They surrendered their weapons and equipment and are currently held in custody.<end>
+
+=>q43
+Интересный поворот событий, капрал: отступники вернулись, но без сержанта Холлоуэя! Они сложили оружие и в настоящее время находятся под стражей.<end>
+
+=>q44_original
+I received no explanation for this. Did *you* have anything to do with it?<end>
+
+=>q44
+Мне ничего об этом не сообщили. Это *ваших* рук дело?<end>
+
+=>a45_original
+Yes, I assassinated SFC Holloway. Without their leader, I was hoping that the men would perhaps decide to surrender.<end>
+
+=>a45
+Да, я зачистил$(#/а) сержанта Холлоуэя. Я надеял$(#ся/ась), что без своего лидера его люди, возможно, решат сдаться.<end>
+
+=>q46_original
+You... you did what? But... why?<end>
+
+=>q46
+Вы... Вы что? Но... почему?<end>
+
+=>q47_original
+::It takes a few seconds before the consul gets his bearings.:: I dislike your methods, Corporal. I asked of you to negotiate with those men, not go on an assassination mission. You might think that you've sacrificed one to save the rest, but in reality, SFC and his previous *impeccable* record could've played a large part in mitigating their sentence! Now... you might not have saved them from death at all.<end>
+
+=>q47
+::Консулу требуется несколько секунд, чтобы прийти в себя.:: Мне не нравятся ваши методы, капрал. Я просил вас стать переговорщиком, а не убийцей. Вы можете подумать, что вы пожертвовали одним, чтобы спасти остальных, но в реальности, сержант и его ранее *безупречная* репутация могла сыграли решающую роль в смягчении их наказания! Теперь же... их всех может ожидать смерть.<end>
+
+=>q48_original
+Just think about what you've done, Corporal. Just... think about it.<end>
+
+=>q48
+Подумайте, что вы наделали, капрал. Просто... подумайте.<end>
+
+=>a49_original
+No, I too have no idea what is going on.<end>
+
+=>a49
+Нет, я тоже понятия не имею, что происходит.<end>
+
+=>q50_original
+Peculiar, Corporal, very peculiar, but I'm sure we will soon receive an explanation. I don't know what to tell you, I guess the negotiations are off.
+
+I'll keep a close eye on the trail, once it starts. <end>
+
+=>q50
+Любопытно, капрал, весьма любопытно, но я уверен, что мы вскоре получим объяснение. Я не знаю, что вам сказать, похоже, что переговоры провалились.
+
+Я буду внимательно следить за судебным процессом, как только он начнётся.<end>
+
+=>q51_original
+Ah, yes, Corporal. What of them?<end>
+
+=>q51
+Ах, да, капрал. Что насчёт них?<end>
+
+=>a52_original
+I spoke with the sergeant, but I don't think I'll be able to convince him to return peacefully. I guess I'll be leaving this for the Protectorate to deal with.<end>
+
+=>a52
+Я говорил$(#/а) с сержантом, но я не думаю, что мне удастся уговорить их вернуться мирно. Похоже, мне придётся оставить это дело в руках Протектората.<end>
+
+=>q53_original
+What did SFC Holloway tell you?<end>
+
+=>q53
+Что вам сказал сержант Холлоуэй?<end>
+
+=>a54_original
+::Tell Holloway's story.::<end>
+
+=>a54
+::Рассказать ему историю Холлоуэя.::<end>
+
+=>q55_original
+::The consul attentively listens as you retell him the sergeant's story word by word. His face reacts to every following sentence, and you notice - what you believe to be - understanding in his eyes. After you are done, he quickly exclaims.::
+
+I will speak to Colonel Cathcart about this as soon as possible! Leave this to us now - you've done enough already.<end>
+
+=>q55
+::Консул внимательно слушает, пока вы пересказываете историю сержанта слово в слово. Судя по выражению лица, он реагирует на каждую фразу, и вы замечаете, как вам кажется, понимание в его глазах. Когда вы заканчиваете, он тут же восклицает.::
+
+Я должен немедленно обсудить это с полковником Каткартом! Оставьте это нам -- вы уже сделали достаточно.<end>
+
+=>q56_original
+That would be all for now, dear Corporal. I'll notify you as soon as something new happens. And... Staff Sergeant Fraser *might* have something for you. Do go and pay him a visit.<end>
+
+=>q56
+Пока что, это всё, капрал. Я уведомлю вас, как только произойдёт что-нибудь новое. И... у старшего сержанта Фрейзера *возможно* есть кое-что для вас. Советую вам навестить его.<end>
+
+=>a57_original
+Not much, really. I still don't know his motives.<end>
+
+=>a57
+Честно говоря, немногое. Мне так и неизвестны его мотивы.<end>
+
+=>q58_original
+::He nods a few times with a somewhat worried look on his face.:: Well, in that case, dear Corporal, you leave me no option but to inform the colonel of your findings. What happens next is up to him and, well, SFC Holloway; I only wish it doesn't end violently.<end>
+
+=>q58
+::Он несколько раз кивает с несколько обеспокоенным видом.:: Что же, в таком случае, уважаем$(#ый/ая) капрал, мне ничего не остаётся кроме как сообщить полковнику добытые вами сведения. Что будет дальше -- зависит от него и, да, сержанта Холлоуэя; я только надеюсь, что обойдётся без крови.<end>
+
+=>q59_original
+That would be all for now, dear Corporal. I'll notify you as soon as something new happens.<end>
+
+=>q59
+Пока что, это всё, капрал. Я уведомлю вас, как только произойдёт что-нибудь новое.<end>
+
+=>a60_original
+He was extremely uncooperative, and I was unable to learn anything of use, nor was I able to make any progress with that bloody-minded idiot.<end>
+
+=>a60
+Он отказался сотрудничать, и мне не удалось узнать ничего полезного или достичь какого-либо понимания с этим упёртым идиотом.<end>
+
+=>a61_original
+I had to neutralize everyone.<end>
+
+=>a61
+Мне пришлось нейтрализовать всех.<end>
+
+=>q62_original
+::Consul seems saddened by your words.:: So, they are all dead. Ah, Corporal... I am greatly displeased by this, but know that I don't blame you for anything. You did what was necessary. I sincerely hope so.<end>
+
+=>q62
+::Консул, кажется, опечален вашими словами.:: Значит они все мертвы. Ах, капрал... Я очень недоволен этим, но знаю, что не могу винить вас. Вы сделали то, что было необходимо. Я искренне надеюсь на это.<end>
+
+=>q63_original
+Consider your mission completed. That would be all, Corporal.<end>
+
+=>q63
+Ваша миссия завершена. Это всё, капрал.<end>
+
+=>a64_original
+Nothing. I'll come back later.<end>
+
+=>a64
+Ничего. Я зайду позже.<end>
+
+=>q65_original
+Have any other subjects you wish to discuss?<end>
+
+=>q65
+Вы желаете обсудить другие вопросы?<end>
+
+=>a66_original
+Do you know anything about a former Black Eel member named Kaya? She was supposed to reach out to you, and I'm just wondering if she managed to do so.<end>
+
+=>a66
+Вам что-нибудь известно о бывшей участнице банды Чёрных угрей по имени Кая? Она должна была с вами связаться, и мне просто интересно, смогла ли она это сделать.<end>
+
+=>q67_original
+Kaya...? Yes, yes - the informant.
+
+You see, Corporal, due to her current - how shall I say - *status*, the information I can give you is rather limited. Rest assured, however, that she is perfectly well and that we've arranged for her, under Protectorate authorization, to be moved to a safe location for the time being.<end>
+
+=>q67
+Кая?.. Ах, да - информатор.
+
+Понимаете, капрал, из-за её текущего - как бы сказать - *статуса*, информация, которую я могу вам предоставить, весьма ограничена. Однако, будьте уверены, что она в полном порядке и что мы, с разрешения Протектората, устроили её переезд в безопасное место на какое-то время.<end>
+
+=>q68_original
+Afterwards... Well, that is entirely up to Protectorate; she is now outside United Stations jurisdiction.<end>
+
+=>q68
+А потом... Ну, это уже всецело зависит от Протектората; теперь она вне юрисдикции Объединённых станций.<end>
+
+=>a69_original
+What can you tell me about Fort Apogee?<end>
+
+=>a69
+Что вы можете мне рассказать про форт Апогей?<end>
+
+=>q70_original
+While many associate Fort Apogee with the Protectorate military might, one must not forget that the United Stations consulate is located here. All North Underrail citizens, or, generally citizens from any station that is a member of the union, are always reminded that they can seek refuge here in case of emergency.<end>
+
+=>q70
+Хотя для многих форт Апогей олицетворяет собой военную мощь Протектората, не следует забывать, что здесь находится консульство Объединённых Станций. Все граждане Северной Подземки, точнее, граждане любой станции, входящей в союз, могут быть уверены, что здесь они всегда найдут убежище в случае чрезвычайной ситуации.<end>
+
+=>q71_original
+It's been five years since the base was built and, while we still haven't integrated any of the South Underrail stations, we've made enormous progress.<end>
+
+=>q71
+Прошло пять лет с момента основания базы и, хотя мы ещё не интегрировали ни одной станции Южной Подземки, мы достигли значительного прогресса.<end>
+
+=>q72_original
+For example, take a look at Junkyard: We have an embassy there, and as you know, Junkyard is one of the most hostile places in the South.
+
+Slowly but surely, we'll bring prosperity to this region. I truly believe it.<end>
+
+=>q72
+Например, взгляните на Свалку: у нас там посольство, а как вам известно, Свалка -- одно из самых неспокойных мест на Юге.
+
+Медленно, но верно, мы принесём процветание в этот регион. Я искренне верю в это.<end>
+
+=>a73_original
+What can you tell me about Colonel Cathcart?<end>
+
+=>a73
+Что вы можете мне рассказать про полковника Каткарта?<end>
+
+=>q74_original
+Colonel Cathcart is the base commander of Fort Apogee. He is an incredibly competent individual, and I feel, and I really mean it, that I'm quite fortunate to be working with him. You see, the United Stations and Protectorate work closely on accomplishing our common goals. United Stations are concerned with diplomacy and integrations, Protectorate - with enforcing law and order. Therefore, it is essential that the two understand each other well.<end>
+
+=>q74
+Полковник Каткарт -- командующий базы форт Апогей. Это невероятно профессиональный человек, и, я скажу вам без тени иронии, мне весьма повезло работать с ним. Видите ли, Объединённые Станции и Протекторат тесно работают вместе на достижение наших общих целей. Объединённые Станции занимаются дипломатией и интеграцией, Протекторат -- обеспечением законности и правопорядка. Поэтому, крайне важно, чтобы у нас было полное взаимопонимание.<end>
+
+=>q75_original
+With that said... Colonel Cathcart can be a bit adamant when it comes to certain things, especially when it comes to the age old diplomatic versus combat approaches, but fortunately our disagreements were few and far between. And naturally, such things are bound to happen from time to time.<end>
+
+=>q75
+С другой стороны... полковник Каткарт может быть непреклонен, когда дело доходит до определённых вещей, особенно когда речь идёт о вековой борьбе дипломатического и военного подходов, но, к счастью, разногласия между нами случаются редко. Это естественно, что такие вещи случаются время от времени.<end>
+
+=>q76_original
+All in all, as far as I'm concerned, Fort Apogee has the best commander it could possibly have.<end>
+
+=>q76
+В конце концов, насколько я могу судить, форту Апогей повезло получить лучшего командира из возможных.<end>
+
+=>a77_original
+What can you tell me about CAU?<end>
+
+=>a77
+Что вы можете мне рассказать про группу ХБА?<end>
+
+=>q78_original
+::Consul's face turns red the moment you mention CAU.:: Those dreadful, despicable... rrghh... I just can't believe how uncivil, audacious... impudent they are. Marching right into my office like that, pushing me out like I'm a nobody! I am the consul, damn it!
+
+However, that is the least of their sins, dear Corporal, mark my words.<end>
+
+=>q78
+::Лицо консула наливается кровью, стоит вам упомянуть ХБА.:: Эти ужасные, подлые... р-р-р... я просто не могу поверить, какие нецивилизованные, дерзкие... наглые люди. Заходят строем прямо в мой кабинет, вышвырнув меня, словно я никто! Я консул, проклятье!
+
+Впрочем, это лишь мельчайший из их грехов, уважаем$(#ый/ая) капрал, попомните мои слова.<end>
+
+=>q79_original
+Just talking about them makes my blood boil.<end>
+
+=>q79
+У меня кровь закипает от одного разговора о них.<end>
+
+=>a80_original
+Goodbye.<end>
+
+=>a80
+До свидания.<end>
+
+=>q81_original
+Colonel Cathcart is waiting for you, $(context.player.Name).<end>
+
+=>q81
+Полковник Каткарт ждёт вас, $(context.player.Name).<end>
+
+=>q82_original
+::The consul is looking at his mobile computer as you step into his office. He says something into it before placing it aside and rising to greet you. Even though certain facial features give away his age, which you suspect is around forty-fifty years, his athletic physique and energetic handshake projects an image of someone much younger than that. He shakes your hand, smiles with a white smile almost identical to the one you saw on Ambassador Athanas, and speaks.::
+
+Welcome to the United Stations consulate, $(context.player.Name). It is a pleasure to have you here.<end>
+
+=>q82
+::Вы входите в кабинет и застаёте консула за портативным компьютером. Он что-то говорит в него, затем отставляет в сторону и поднимается, чтобы поприветствовать вас. Хотя черты его лица указывают на возраст, по вашей оценке, около сорока-пятидесяти лет, его атлетическое телосложение и энергичное рукопожатие создают образ гораздо более молодого человека. Он пожимает вам руку и сияет улыбкой, которая моментально напоминает вам о после Атанасе.::
+
+Добро пожаловать в консульство Объединённых Станций, $(context.player.Name). Рад встрече с вами.<end>
+
+=>a83_original
+It is a pleasure to meet you too, Consul Oliver.<end>
+
+=>a83
+Взаимно, консул Оливер.<end>
+
+=>q84_original
+So, it is mutual. ::He laughs.:: Make yourself comfortable, $(context.player.Name). It must have been a long journey, from Junkyard to here...<end>
+
+=>q84
+Взаимно, взаимно. ::Он смеётся.:: Будьте как дома, $(context.player.Name). Долгое, должно быть, было путешествие, со Свалки сюда...<end>
+
+=>a85_original
+Fort Apogee is most certainly not in the neighborhood, I can tell you that. <end>
+
+=>a85
+Дорога в форт Апогей, безусловно, неблизкая, скажу я вам.<end>
+
+=>q86_original
+You are right, $(context.player.Name). It is not. We are separated from the lower region by Core City, and... you know what the situation is like there, I'm certain.<end>
+
+=>q86
+Вы правы, $(context.player.Name). Это так. Кор-Сити отделяет нас от нижних регионов, и... я уверен, вы знаете, какая там ситуация.<end>
+
+=>q87_original
+Shall we get down to business? The ambassador informed me that he told you about why you're here, or, better yet, what you will be doing here if you chose to join the Protectorate. Since you've made such a long journey here I have no doubts you'll soon become one of us, so to speak. However, you'll decide that upon discussing it with the colonel.<end>
+
+=>q87
+Перейдём к делу? Я уже знаю от посла, что он рассказал вам, зачем вы здесь, или, точнее, чем вы будете заниматься, если примете решение присоединиться к Протекторату. Раз уж вы проделали такое долгое путешествие сюда, у меня нет сомнений в том, что скоро вы станете одн$(#им/ой) из нас, так сказать. Впрочем, решать вам, после того, как обсудите это с полковником.<end>
+
+=>q88_original
+Now, do you have any additional questions before we move onto the next phase? Did you understand everything so far?<end>
+
+=>q88
+Теперь, у вас есть ещё вопросы, прежде чем мы продолжим? Пока вам всё понятно?<end>
+
+=>a89_original
+The ambassador told me I will be performing important tasks for the Protectorate. Can you tell me more about that?<end>
+
+=>a89
+Посол сказал мне, что я буду выполнять важные задания для Протектората. Можете ли вы рассказать мне больше?<end>
+
+=>q90_original
+That question is more suited for the colonel. Excuse me, Colonel Cathcart - who will quite soon become your superior officer. Still, know that everything you do will be for the ultimate betterment of the region. Most military operations here relate to fighting bandits, or the dreadful Free Drones, again, all for the betterment of the citizenry and the region.<end>
+
+=>q90
+Этот вопрос вам лучше задать полковнику. Извините, -- полковнику Каткарту, -- который совсем скоро станет вашим командующим офицером. Но так или иначе, знайте, что всё, что вы будете делать, в итоге послужит на благо региона. Большинство военных операций здесь, касаются борьбы с бандитами или с этими ужасными Вольными шершнями -- опять же, всё на благо граждан и региона.<end>
+
+=>q91_original
+You will, as I was told, be tasked with performing things of greater importance.<end>
+
+=>q91
+Вам, как мне сказали, будут поручены задания большой важности.<end>
+
+=>a92_original
+Why did Ambassador Athanas send me to you, and not directly to the commanding officer of Fort Apogee?<end>
+
+=>a92
+Почему посол Атанас направил меня к вам, а не напрямую к коменданту форта Апогей?<end>
+
+=>q93_original
+The reason for that is simple, $(context.player.Name): You will have a dual purpose here, let's call it like that. On one side, you are a member of South Gate Station, our trading partner, and hopefully one day, a full member. We already cooperate with Miss Vera Hale, but on a limited scale. With you here, we are building a closer diplomatic connection with SGS, and that is why it's desirable for the two of us to get to know each other well.<end>
+
+=>q93
+Причина тому проста, $(context.player.Name): у вас здесь будет двойная задача, скажем так. С одной стороны, вы являетесь гражданином станции Саут-Гейт, нашего торгового партнёра, и, надеюсь, в будущем -- полноправного члена. Мы уже сотрудничаем с мисс Верой Хэйл, но в ограниченном масштабе. А имея вас здесь, мы сможем укрепить дипломатические связи с ССГ, и поэтому так желательно, чтобы мы хорошо узнали друг друга.<end>
+
+=>q94_original
+Also, we're taking a slight detour when it comes to you becoming a member of the armed forces. This is usually not the way the willing join Underrail Protectorate ranks, am I right? Don't worry, we've already convinced the colonel, and I'm sure he'll see your qualities quickly. Which brings us to the other part of that, ehm, dual purpose I was telling you about...<end>
+
+=>q94
+Также, мы сделаем небольшой крюк, касательно вашего принятия в вооружённые силы. Обычно дела обстоят иначе для желающих вступить в ряды Протектората Подземки, не так ли? Не волнуйтесь, мы уже убедили полковника, и я уверен, что он быстро увидит ваши качества. Что подводит нас ко второй части этого, эм, двойного назначения, о котором я упомянул...<end>
+
+=>q95_original
+But I better leave that part to the good colonel to explain. He's certainly better suited for it than I am.<end>
+
+=>q95
+Но пусть господин полковник вам объяснит. Он, определённо, сделает это лучше чем я.<end>
+
+=>a96_original
+Who is in charge of Fort Apogee?<end>
+
+=>a96
+Кто главный в форте Апогей?<end>
+
+=>q97_original
+Colonel Frederick Cathcart. He's been in charge since Fort Apogee's deployment.<end>
+
+=>q97
+Полковник Фредерик Каткарт. Он был в ответе за форт Апогей с момента развёртывания.<end>
+
+=>q98_original
+You will meet him soon enough.<end>
+
+=>q98
+Вы скоро с ним познакомитесь.<end>
+
+=>a99_original
+I'm good, we can move on.<end>
+
+=>a99
+Всё в порядке, мы можем продолжать.<end>
+
+=>q100_original
+Excellent! That's important. Everything should be clear. Now we can proceed.<end>
+
+=>q100
+Отлично! Это очень важно. Всё должно быть ясно. Теперь мы можем приступить.<end>
+
+=>q101_original
+The next step should be meeting the colonel. Now, I've already talked to him, about the train, Free Drones, the political situation, et cetera. Just so you know that he's familiar with the details.<end>
+
+=>q101
+Следующим шагом будет встреча с полковником. Я уже сказал ему о поезде, Вольных шершнях, политической ситуации и так далее. Просто, чтобы вы знали, что он знаком с подробностями.<end>
+
+=>q102_original
+You should see him now; his office is right next to mine. After you're done with him, please come see me once you have the time. I have something I wish to discuss with you.<end>
+
+=>q102
+Теперь идите к нему, его кабинет рядом с моим. После того как вы закончите с ним, пожалуйста, зайдите ко мне, как только у вас будет время. Я хотел бы кое-что обсудить с вами.<end>
+
+=>q103_original
+That is that, $(context.player.Name). Talk to the colonel and... we will see each other later. Au revoir.<end>
+
+=>q103
+Это всё, $(context.player.Name). Поговорите с полковником и... увидимся позже. Au revoir.<end>
+
+=>a104_original
+I have no problems moving around the Underrail. I found this place quickly.<end>
+
+=>a104
+Я много путешествую по Подземке. Мне не составило проблемы найти вас.<end>
+
+=>q105_original
+$(#Bravo/Brava)! $(#Bravo/Brava), $(context.player.Name). I like your spirit.<end>
+
+=>q105
+Браво! Браво, $(context.player.Name). Мне нравится ваш дух.<end>
+
+=>a106_original
+Pleasure to see me? I don't think I deserve such praise.<end>
+
+=>a106
+Вы рады встрече со мной? Не думаю, что я заслужил$(#/а) такую честь.<end>
+
+=>q107_original
+Now, now, don't say that, $(context.player.Name). You do deserve it. Ambassador Athanas explained everything to me already, regarding the missing train and how you... hmm, how should I say... how you were a critical part of the investigation.<end>
+
+=>q107
+Ну что вы такое говорите, $(context.player.Name). Ещё как заслужили. Посол Атанас уже всё мне рассказал касательно пропавшего поезда и, вашего... хм-м, как бы это сказать... вашей критической роли в расследовании.<end>
+
+=>q108_original
+But, all in due time. First, make yourself comfortable, $(context.player.Name). It must have been a long journey, from Junkyard to here...<end>
+
+=>q108
+Но всему своё время. Во-первых, будьте как дома, $(context.player.Name). Долгое, должно быть, было путешествие, со Свалки сюда...<end>
+
+=>a109_original
+Neat.<end>
+
+=>a109
+Ништяк.<end>
+
+=>q110_original
+::Consul pauses for a second before continuing.:: Well, make yourself comfortable, dear $(context.player.Name). It must have been a long journey, from Junkyard to here...<end>
+
+=>q110
+::Консул замолкает на секунду.:: Что ж, будьте как дома, уважаем$(#ый/ая) $(context.player.Name). Долгое, должно быть, было путешествие, со Свалки сюда...<end>
+
+=>q111_original
+Ah, Corporal, glad you are here. I have some news which you will find interesting...<end>
+
+=>q111
+А, капрал -- рад, что вы здесь. У меня есть новости, которые вам могут быть интересны...<end>
+
+=>q112_original
+After you and I spoke, I went to see the Colonel and told him everything we had talked about. He dispatched armed soldiers toward Dolos Center, and... fortunately, SFC Holloway and his men decided to put down their weapons and surrender peacefully. They are currently being held in custody, awaiting court-martial.<end>
+
+=>q112
+После нашей с вами беседы, я ходил в полковнику и пересказал ему всё, о чём мы говорили. Он отправил солдат в Долос-Центр, и... к счастью, сержант Холлоуэй и его люди решили сложить оружие и сдаться. В данный момент они содержатся под стражей в ожидании трибунала.<end>
+
+=>q113_original
+Even though I explained him the SFC's reasons, which you had relayed to me, I'm afraid I wasn't able to ease the situation, at least judging by his response. Desertion is desertion, he said, and it deserves severe punishment. He didn't mention death penalty, thankfully, and I will do my best that he doesn't. It's not over yet.<end>
+
+=>q113
+Хотя я и объяснил ему мотивы сержанта, о которых вы рассказали мне, я боюсь, мне не удалось смягчить его -- по крайней мере, судя по его словам. Дезертирство это дезертирство -- сказал он -- и заслуживает сурового наказания. К счастью, он ничего не сказал о смертном приговоре, и я сделаю всё, что в моих силах, чтобы этого не произошло. Ещё не всё потеряно.<end>
+
+=>q114_original
+All we can do now is wait. Again, thank you for your help, Corporal.
+
+What did you want to discuss with me, now?<end>
+
+=>q114
+Нам остаётся только ждать. Ещё раз, спасибо вам за помощь, капрал.
+
+Теперь, что вы хотели обсудить со мной?<end>
+
+=>q115_original
+Still, no matter what I told the colonel, I'm afraid I wasn't able to ease the situation, at least judging by his response. Desertion is desertion, he said, and it deserves severe punishment. He didn't mention death penalty, thankfully, and I will do my best that he doesn't. It's not over yet.<end>
+
+=>q115
+Тем не менее, что бы я ни говорил полковнику, боюсь, мне не удалось смягчить его -- по крайней мере, судя по его словам. Дезертирство это дезертирство -- сказал он -- и заслуживает сурового наказания. К счастью, он ничего не сказал о смертном приговоре, и я сделаю всё, что в моих силах, чтобы этого не произошло. Ещё не всё потеряно.<end>
+
+=>q116_original
+Ah, Corporal, come on in. What can I do for you?<end>
+
+=>q116
+А, капрал, проходите. Что я могу сделать для вас?<end>
+

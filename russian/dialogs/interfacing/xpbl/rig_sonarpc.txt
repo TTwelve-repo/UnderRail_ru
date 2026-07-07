@@ -1,0 +1,402 @@
+﻿=>q1_original
+::Mike's Desktop::<end>
+
+=>q1
+::Рабочий стол Майка::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+::SS::<end>
+
+=>a3
+::СС::<end>
+
+=>q4_original
+::Sonar Station Control Software - Biosoft
+
+::<end>
+
+=>q4
+::Программа управления сонарной станцией - Биософт
+
+::<end>
+
+=>q5_original
+::Primary sonar unit - offline
+Sonar relay group [Dread] - Units online: 0
+Sonar relay group [Hathor] - Units online: 0
+Sonar relay group [Chancers] - Units online: 0
+Sonar relay group [Core] - Units online: 0
+
+Total units online: 0::<end>
+
+=>q5
+::Основная сонарная установка - офлайн
+Группа сонарных ретрансляторов [Страха] - Активные установки: 0
+Группа сонарных ретрансляторов [Хатор] - Активные установки: 0
+Группа сонарных ретрансляторов [Аферистов] - Активные установки: 0
+Группа сонарных ретрансляторов [Кор] - Активные установки: 0
+
+Всего активных установок: 0::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+::Hardware monitoring/settings:: <end>
+
+=>a7
+::Мониторинг/настройка оборудования::<end>
+
+=>q8_original
+::Hardware monitoring/settings::<end>
+
+=>q8
+::Мониторинг/настройка оборудования::<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+::Power [Locked]::<end>
+
+=>a10
+::Питание [Заблокировано]::<end>
+
+=>a11_original
+::Buoyancy [Locked]::<end>
+
+=>a11
+::Статическое давление [Заблокировано]::<end>
+
+=>a12_original
+::Active sonar [Locked]::<end>
+
+=>a12
+::Активные сонары [Заблокировано]::<end>
+
+=>a13_original
+::Relay network [Locked]::<end>
+
+=>a13
+::Сеть ретрансляторов [Заблокировано]::<end>
+
+=>a14_original
+::Computer [Locked]::<end>
+
+=>a14
+::Компьютер [Заблокировано]::<end>
+
+=>a15_original
+::Misc [Locked]::<end>
+
+=>a15
+::Разное [Заблокировано]::<end>
+
+=>a16_original
+::[Hacking] Attempt to access and manipulate the settings in order to cause damage to the sonar station.::<end>
+
+=>a16
+::[Хакерство] Попытаться получить доступ к настройкам и изменить их таким образом, чтобы повредить сонарную станцию.::<end>
+
+=>q17_original
+::The software you're trying to hack appears to be ancient, even by Biocorp standards. Fortunately, it is just as vulnerable, if not more, to advanced contemporary hacking techniques. After unlocking the settings, you go to power section with the intent of overloading and burning critical components through setting manipulation. ::<end>
+
+=>q17
+::Программное обеспечение, которое вы пытаетесь взломать, кажется древним, даже по стандартам Биокорп. К счастью, оно так же уязвимо, если не больше, для передовых современных методов взлома. После разблокировки настроек вы переходите в раздел питания с намерением перегрузить и сжечь критически важные компоненты посредством манипуляций с настройками. ::<end>
+
+=>q18_original
+::The sonar is equipped with numerous safety measures designed to prevent just that, but with some skill you manage to circumvent those, at least the software ones. That proves to be sufficient, though, and soon enough you manage to manipulate the settings in such a way as to systematically fry all the major components as well as the sonar's power core.
+
+The sonar's lights go dark, and a faint smell of burned electronics reaches your nose.::<end>
+
+=>q18
+::Сонар оснащён многочисленными средствами безопасности, предназначенными для предотвращения именно этого, но благодаря определённой сноровке вам удаётся обойти их, по крайней мере программные. Впрочем, этого оказывается достаточно, и довольно скоро вам удаётся изменять настройки таким образом, чтобы систематически поджаривать все основные компоненты, как и энергетическое ядро сонара.
+
+Освещение сонара гаснет, и до вашего носа доносится слабый запах сгоревшей электроники.::<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+::But this is where the numerous safety measures designed to prevent just that manifest themselves in the form an impenetrable wall. Until you can disable those, at least on the software side, there is no way to realize your intent.::<end>
+
+=>q21
+::Но вот где многочисленные меры безопасности призваны предотвращать именно это, что проявляется непробиваемой стеной. До тех пор, пока вы не сможете отключить их, по крайней мере на программной стороне, нет никакого способа реализовать своё намерение.::<end>
+
+=>q22_original
+::You have no clue how to accomplish this.::<end>
+
+=>q22
+::Вы понятия не имеете, как это сделать.::<end>
+
+=>a23_original
+::Back::<end>
+
+=>a23
+::Назад::<end>
+
+=>a24_original
+::View map::<end>
+
+=>a24
+::Просмотр карты::<end>
+
+=>q25_original
+::You see a grid map displaying nothing but dull, gray outlines of the surrounding waterways and little light gray dots scattered throughout.::<end>
+
+=>q25
+::Вы видите сетчатую карту, на которой нет ничего, кроме тусклых серых контуров окружающих водных путей и маленьких светло-серых точек, разбросанных повсюду.::<end>
+
+=>q26_original
+::You see a grid map of the waterways with many little green dots scattered throughout; the larger green dot is marked as "RSS" and is located at your current position. Some dots are emitting circular pulses whose lines intersect with and paint the map: The terrain may be gray and dull, but the moving shapes are colorful and vibrant and are tagged with quadruple-character codes unfamiliar to you. Other dots lay dormant until something appears in their proximity, at which point some activate and begin emitting pulses just like the rest, whereas the few ones that remain passive display an icon as to signal that something is near them but do not track its exact position.
+
+It is evident that this sonar station is able to track virtually all waterway traffic with exceptional accuracy.::<end>
+
+=>q26
+::Вы видите сетчатую карту водных путей с множеством маленьких зелёных точек, разбросанных повсюду; большая зелёная точка помечена как "ССР" и расположена в вашем текущем положении. Некоторые точки испускают круговые импульсы, линии которых пересекаются с картой и окрашивают её: местность может быть серая и тусклая, но движущиеся фигуры красочные и яркие, а также помечены незнакомыми вам четырёхзначными кодами. Другие точки бездействуют до тех пор, пока что-то не появляется поблизости, и в этот момент часть из них активируется и начинает излучать импульсы точно так же, как и остальные, в то время как те немногие, которые остаются пассивными, лишь показывают значок, сигнализирующий о том, что что-то находится рядом с ними, но не отслеживают его точное положение.
+
+Очевидно, что эта сонарная станция способна отслеживать практически весь водный транспорт с исключительной точностью.::<end>
+
+=>a27_original
+::Exit application::<end>
+
+=>a27
+::Выход из приложения::<end>
+
+=>q28_original
+::Primary sonar unit - online
+Sonar relay group [Dread] - Units online: 6
+Sonar relay group [Hathor] - Units online: 3
+Sonar relay group [Chancers] - Units online: 4
+Sonar relay group [Core] - Units online: 2
+
+Total units online: 16::<end>
+
+=>q28
+::Основная сонарная установка - онлайн
+Группа сонарных ретрансляторов [Страха] - Активные установки: 6
+Группа сонарных ретрансляторов [Хатор] - Активные установки: 3
+Группа сонарных ретрансляторов [Аферистов] - Активные установки: 4
+Группа сонарных ретрансляторов [Кор] - Активные установки: 2
+
+Всего активных установок: 16::<end>
+
+=>a29_original
+::Pictures::<end>
+
+=>a29
+::Галерея::<end>
+
+=>q30_original
+::You see plenty of photos depicting various jet skis and quad bikes, naked and semi-naked women, as well as creative sculptures composed entirely of stacked brew bottles; the rest are pictures of unrelated but amusing things.::<end>
+
+=>q30
+::Вы видите множество фотографий, на которых изображены различные гидроциклы и квадроциклы, обнажённые и полуобнажённые женщины, а также креативные скульптуры, целиком состоящие из штабелей бутылок самогона; остальные - это изображения несвязанных, но забавных вещей.::<end>
+
+=>a31_original
+::Back::<end>
+
+=>a31
+::Назад::<end>
+
+=>a32_original
+::Music::<end>
+
+=>a32
+::Музыка::<end>
+
+=>q33_original
+::This folder mostly contains sound recordings of what appear to be live performances of bands playing in Junkyard. The file names do not seem to correspond to band names but rather describe the band's sound: rat-rap, droning bots, derailed yodeling, boring old farts, and scrap metal.::<end>
+
+=>q33
+::Эта папка в основном содержит аудиозаписи живых выступлений групп, играющих на Свалке. Имена файлов, похоже, не соответствуют названиям групп, а скорее описывают их звучание: крысиный рэп, гудящие боты, сошедший с рельсов йодль, скучные старые пердуны и металлолом.::<end>
+
+=>a34_original
+::Games::<end>
+
+=>a34
+::Игры::<end>
+
+=>q35_original
+::Games::<end>
+
+=>q35
+::Игры::<end>
+
+=>a36_original
+::Naval Minesweeper::<end>
+
+=>a36
+::Морской сапёр::<end>
+
+=>q37_original
+::Loading...::<end>
+
+=>q37
+::Загрузка...::<end>
+
+=>q38_original
+::Naval Minesweeper::<end>
+
+=>q38
+::Морской сапёр::<end>
+
+=>a39_original
+::Play::<end>
+
+=>a39
+::Игра::<end>
+
+=>q40_original
+::A game is already in progress. (300x300 - 59450pts) 
+
+Would you like to start a new game? (All progress will be deleted)::<end>
+
+=>q40
+::Игра уже начата. (300х300 - 59450очк.)
+
+Хотите начать новую игру? (Весь прогресс будет потерян)::<end>
+
+=>a41_original
+Yes.<end>
+
+=>a41
+Да.<end>
+
+=>q42_original
+::Select difficulty::<end>
+
+=>q42
+::Выберите сложность::<end>
+
+=>a43_original
+::Beginner (10x10)::<end>
+
+=>a43
+::Начинающий (10x10)::<end>
+
+=>q44_original
+::Loading...::<end>
+
+=>q44
+::Загрузка...::<end>
+
+=>q45_original
+::Fatal error!
+
+Exiting application...::<end>
+
+=>q45
+::Критическая ошибка!
+
+Завершение работы приложения...::<end>
+
+=>a46_original
+::Intermediate (16x16)::<end>
+
+=>a46
+::Средний (16x16)::<end>
+
+=>a47_original
+::Expert (25x25)::<end>
+
+=>a47
+::Эксперт (25x25)::<end>
+
+=>a48_original
+::Master (100x100)::<end>
+
+=>a48
+::Мастер (100x100)::<end>
+
+=>a49_original
+::Impossible (300x300)::<end>
+
+=>a49
+::Невозможный (300x300)::<end>
+
+=>a50_original
+::Back::<end>
+
+=>a50
+::Назад::<end>
+
+=>a51_original
+No.<end>
+
+=>a51
+Нет.<end>
+
+=>a52_original
+::High scores::<end>
+
+=>a52
+::Рекорды::<end>
+
+=>q53_original
+::High scores
+
+1. Mikeroni - 57890pts
+2. Mikeroni - 56880pts
+3. mikeroni - 56730pts
+4. Mikeroni - 54205pts
+5. Mikeroni - 54080pts
+6. yadgagsnvsdvg - 53795pts
+7. a - 53555pts
+8. Mikeroni - 53460pts
+9. Mikeroni - 53320pts
+10. joe - 52980pts::<end>
+
+=>q53
+::Рекорды
+
+1. Микирони - 57890очк
+2. Микирони - 56880очк
+3. микирони - 56730очк
+4. Микирони - 54205очк
+5. Микирони - 54080очк
+6. нфвпфпытмывмп - 53795очк
+7. а - 53555очк
+8. Микирони - 53460очк
+9. Микирони - 53320очк
+10. джо - 52980очк::<end>
+
+=>a54_original
+::Back::<end>
+
+=>a54
+::Назад::<end>
+
+=>a55_original
+::Exit game::<end>
+
+=>a55
+::Выйти::<end>
+
+=>a56_original
+::Exit::<end>
+
+=>a56
+::Выход::<end>
+

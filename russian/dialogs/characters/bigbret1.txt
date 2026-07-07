@@ -1,0 +1,1116 @@
+﻿=>q1_original
+Hey, $(context.player.Name). Did you see that mail I sent you? About Camp Hathor?<end>
+
+=>q1
+Привет, $(context.player.Name). Получил$(#/а) моё сообщение? Про Лагерь Хатор?<end>
+
+=>a2_original
+Yes.<end>
+
+=>a2
+Да.<end>
+
+=>q3_original
+Good! Some people around here never check their damn mail. Irresponsible, if you ask me. Now,<end>
+
+=>q3
+Отлично! Некоторые здесь никогда не даже проверяют свою почту. Если хочешь знать моё мнение, это просто безответственно. Кстати,<end>
+
+=>q4_original
+ you've heard of Camp Hathor, right?<end>
+
+=>q4
+ ты уже слышал$(#/а) о Лагере Хатор, да?<end>
+
+=>a5_original
+Yeah. In fact, I've been there recently.<end>
+
+=>a5
+Да. На самом деле, я был$(#/а) там недавно.<end>
+
+=>q6_original
+Really? Great: That's exactly what I wanted to talk to you about. We've lost communication with them after the earthquake, and I wanted to ask you to go there and check out what's going on. So, what's the situation?<end>
+
+=>q6
+Правда? Отлично, именно об этом я и хотел с тобой поговорить. Мы потеряли связь с ними после землетрясения, и я хотел попросить тебя сходить туда и проверить, что происходит. Итак, что там с ними?<end>
+
+=>a7_original
+Everything is alright. The camp wasn't damaged in the earthquake, and they'll fix the communication lines soon. They also had some burrower issues, but now that it's all sorted, the camp is functioning as usual.<end>
+
+=>a7
+Всё в порядке. Лагерь не пострадал во время землетрясения, и они скоро починят связь. У них также были некоторые проблемы с могильщиками, но сейчас они уже улажены, и лагерь функционирует как обычно.<end>
+
+=>q8_original
+Great, glad to hear everything is alright. It's all set then. You've done your part.<end>
+
+=>q8
+Отлично, рад слышать, что всё в порядке. Ну, тогда всё -- ты выполнил$(#/а) свою задачу.<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>a11_original
+Do you have anything to trade? ::Barter.::<end>
+
+=>a11
+У тебя есть что-нибудь на обмен? ::Обмен.::<end>
+
+=>a12_original
+I've got your hoppers.<end>
+
+=>a12
+Я прин$(#ёс/есла) твоих пещерников.<end>
+
+=>q13_original
+Alright. Give 'em here. Here's your payment.<end>
+
+=>q13
+Хорошо. Давай их сюда. Вот твоё вознаграждение.<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>q15_original
+Oh, and what about Newton?<end>
+
+=>q15
+Да, и что насчёт Ньютона?<end>
+
+=>a16_original
+He ran into psi beetles and was forced to hide in an abandoned warehouse just west of the Mushroom Cove. He cut his leg a bit, but he'll survive; in fact, Pasquale should be patching him up right now.<end>
+
+=>a16
+Он наткнулся на пси-жуков и был вынужден прятаться на заброшенном складе к западу от Грибной бухты. Он повредил ногу, но жить будет; Паскуаль уже, наверное, латает его прямо сейчас.<end>
+
+=>q17_original
+I told him to be careful, not to wander off too far. Well, glad he's all right, and thank you for helping him. That is all as far as I'm concerned. You can go back to Tanner.<end>
+
+=>q17
+Я говорил ему быть осторожней, не заходить далеко. Ну, главное что с ним всё в порядке, и спасибо, что помог$(#/ла) ему. Это всё, как я понимаю. Ты можешь возвращаться к Таннеру.<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>a19_original
+I'm sad to inform you that he was killed by psi beetles while hiding in an abandoned warehouse just west of the Mushroom Cove.<end>
+
+=>a19
+Очень жаль, но я вынужден сообщить тебе, что его убили пси-жуки, когда он прятался на заброшенном складе к западу от Грибной бухты.<end>
+
+=>q20_original
+Damn it, he should have listened to me! I told him not to wander off. Those caves can be dangerous if one's not careful. ::He pauses for a moment, then continues talking.:: Anyway, thank you for looking for him; there's nothing you could've done. Go back to Tanner, and I'll take care of this.<end>
+
+=>q20
+Проклятье, он должен был слушать меня! Говорил же ему не лазить где попало. В этих пещерах может быть опасно, если не соблюдать осторожность. ::Сделав паузу, он продолжает.:: В любом случае, спасибо, что наш$(#ёл/ла) его; ты ничего не мог$(#/ла) поделать. Возвращайся к Таннеру, я улажу формальности.<end>
+
+=>a21_original
+He's dead, Bret. Psi beetles got him.<end>
+
+=>a21
+Он мёртв, Брет. Пси-жуки убили его.<end>
+
+=>a22_original
+He's dead, Bret. There was nothing I could do.<end>
+
+=>a22
+Он мёртв, Брет. Я ничего не мог$(#/ла) сделать.<end>
+
+=>a23_original
+I didn't see him.<end>
+
+=>a23
+Я не видел$(#/а) его.<end>
+
+=>q24_original
+Please go back and look for him. I'm really worried now, as he's been out for hours. Who knows what could have happened.<end>
+
+=>q24
+Пожалуйста, вернись назад и поищи его. Теперь я действительно беспокоюсь, ведь он опаздывает уже на несколько часов. Кто знает, что могло случиться.<end>
+
+=>a25_original
+I will. See you later.<end>
+
+=>a25
+Ладно. Увидимся позже.<end>
+
+=>q26_original
+Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. Same place as you - to the Mushroom Cove. It's been a while, and he should've been back by now.<end>
+
+=>q26
+Да, и, кстати, я уже послал паренька по имени Ньютон ловить пещерников. Туда же, в Грибную бухту. Но прошло немало времени, он должен был уже вернуться.<end>
+
+=>q27_original
+Excellent work! Here's your payment. So would you like to name them?<end>
+
+=>q27
+Превосходная работа! Вот твоё вознаграждение. Кстати, хочешь дать им имена?<end>
+
+=>a28_original
+You're kidding, right?<end>
+
+=>a28
+Ты шутишь, да?<end>
+
+=>q29_original
+I have to name them anyway so I can keep track of them.<end>
+
+=>q29
+Всё равно надо придумать им имена, чтобы мне различать их.<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+Alright then.<end>
+
+=>a31
+Ладно.<end>
+
+=>q32_original
+So what's it gonna be?<end>
+
+=>q32
+Ну, что скажешь?<end>
+
+=>a33_original
+Breakfast, Lunch, and Dinner.<end>
+
+=>a33
+Завтрак, Обед и Ужин.<end>
+
+=>q34_original
+::Bret chuckles heartily.:: So be it!<end>
+
+=>q34
+::Брет смеётся от души.:: Пусть будет так!<end>
+
+=>a35_original
+Huey, Dewey, and Louie.<end>
+
+=>a35
+Билли, Вилли и Дилли.<end>
+
+=>q36_original
+So be it!<end>
+
+=>q36
+Пусть будет так!<end>
+
+=>a37_original
+Athos, Porthos, and Aramis.<end>
+
+=>a37
+Атос, Портос и Арамис.<end>
+
+=>q38_original
+So be it!<end>
+
+=>q38
+Пусть будет так!<end>
+
+=>a39_original
+Epicurus, Schopenhauer, and Nietzsche.<end>
+
+=>a39
+Эпикур, Шопенгауэр, и Ницше.<end>
+
+=>q40_original
+A little weird, but so be it.<end>
+
+=>q40
+Немного странно, но пусть так и будет.<end>
+
+=>a41_original
+Actually, forget it.<end>
+
+=>a41
+Лучше не надо, забудь.<end>
+
+=>q42_original
+Suit yourself.<end>
+
+=>q42
+Как хочешь.<end>
+
+=>a43_original
+I'll pass anyway.<end>
+
+=>a43
+Я пас, в любом случае.<end>
+
+=>a44_original
+Aren't we just going to eat them eventually?<end>
+
+=>a44
+Разве они не на мясо?<end>
+
+=>q45_original
+Eventually, yes. But until then I need to keep track of them, and it's easier if they're given names.<end>
+
+=>q45
+Рано или поздно -- да. Но до тех пор мне нужно присматривать за ними, и это делать легче, если у них есть имена.<end>
+
+=>a46_original
+Sure.<end>
+
+=>a46
+Конечно.<end>
+
+=>a47_original
+No thanks.<end>
+
+=>a47
+Нет, спасибо.<end>
+
+=>a48_original
+I changed my mind and went to check out what's going on at Camp Hathor.<end>
+
+=>a48
+Я передумал$(#/а) и сходил$(#/а) проверить, что происходит в Лагере Хатор.<end>
+
+=>q49_original
+Glad to hear that. So, what's happening at Camp Hathor?<end>
+
+=>q49
+Рад это слышать. Так, что происходит в лагере Хатор?<end>
+
+=>a50_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a50
+Что ты знаешь о смерти Патрика Пирса?<end>
+
+=>q51_original
+Yeah, I remember it alright. He seemed healthy and well, but then, one day, he didn't leave his room for almost the entire day. When they went to check up on him, they found him dead in his bed. Poor guy.<end>
+
+=>q51
+Ага, я всё помню. Он выглядел крепким и здоровым, но однажды весь день не покидал свою комнату. Когда пришли посмотреть, где он, нашли его мёртвым в кровати. Бедный парень.<end>
+
+=>a52_original
+Can you tell me what he was like as a person?<end>
+
+=>a52
+Можешь сказать мне, каким он был человеком?<end>
+
+=>q53_original
+I liked Pat, he was a good person, even though we had some disagreements. For example, I asked him to install some heaters for my hoppers. He did so, and everything was supposed to be automatic. Fine. I come back, my hoppers are lying on their sides with their tongues out! It felt like I entered a furnace.<end>
+
+=>q53
+Мне нравился Пат, он был хорошим парнем, несмотря на то, что у нас были некоторые разногласия. Например, я попросил его установить несколько обогревателей для моих пещерников. Он это сделал, и всё должно было управляться автоматически. Отлично. Я возвращаюсь, а мои пещерники лежат на боку с высунутыми языками! Жарища была, будто я попал в печь.<end>
+
+=>q54_original
+I don't know how he messed up, but I specifically told him to test it and to be careful, like a hundred times. Make sure it freakin' worked before you fire it up. My hoppers nearly died because of it!
+
+::He sighs.:: I know it sounds like I'm overreacting, but this is serious work. I'm feeding the station, for crying out loud!<end>
+
+=>q54
+Я не знаю, что он сломал, но я специально говорил ему, чтобы он всё проверил и был осторожен, наверное, раз сто. Убедись, что эта хрень работает, прежде чем включать. Мои пещерники чуть не подохли из-за него!
+
+::Он вздыхает.:: Я знаю, звучит так, будто я принимаю это слишком близко к сердцу, но у меня важная работа. Я кормлю станцию, ни больше ни меньше!<end>
+
+=>a55_original
+Tell me about Camp Hathor again...<end>
+
+=>a55
+Расскажи мне про лагерь Хатор ещё раз...<end>
+
+=>q56_original
+Okay. Camp Hathor is a hunting camp situated not too far to the east, past the old battery recycling plant if you're going on foot, or south through the Meatway then north up Isaac's River if taking the waterways. It used to be a mining camp, but after the coal mine was closed, some miners stayed there and began hunting and exporting animal meat. They supply us with a good chunk of the meat we consume here.<end>
+
+=>q56
+Хорошо. Лагерь Хатор -- это охотничий лагерь, расположенный не слишком далеко на востоке, мимо старого завода по переработке батарей, если идти пешком; или на юг через Мясной путь, а затем на север вверх по реке Исаака, если по воде. Раньше это был шахтёрский лагерь, но после того, как угольную шахту закрыли, некоторые шахтёры остались там и начали охотиться и экспортировать мясо животных. Они поставляют значительную часть мяса, которое мы тут едим.<end>
+
+=>q57_original
+All clear?<end>
+
+=>q57
+Всё ясно?<end>
+
+=>q58_original
+The thing is, we've lost contact with them after the earthquake. I'd like you to go there and see what's going on. See if everything's okay.<end>
+
+=>q58
+Дело в том, что мы потеряли с ними связь после землетрясения. Я бы попросил тебя сходить туда и посмотреть, что происходит -- проверить, всё ли у них в порядке.<end>
+
+=>a59_original
+Sure, I'll check it out.<end>
+
+=>a59
+Конечно, я займусь этим.<end>
+
+=>q60_original
+Excellent. You know where to find me.<end>
+
+=>q60
+Отлично. Ты знаешь, где меня найти.<end>
+
+=>q61_original
+<end>
+
+=>q61
+<end>
+
+=>a62_original
+I'll see what I can do.<end>
+
+=>a62
+Я посмотрю, что можно сделать.<end>
+
+=>q63_original
+Okay. You know where to find me.<end>
+
+=>q63
+О-кей. Ты знаешь, где меня найти.<end>
+
+=>a64_original
+Meh, not interested. Find someone else.<end>
+
+=>a64
+Мне это неинтересно. Найди кого-нибудь другого. <end>
+
+=>q65_original
+Oh, I see, I see. Still, if the road leads you there for whatever reason, report your findings back to me. Got that?<end>
+
+=>q65
+А, понятно, понятно. Тем не менее, если дорога заведёт тебя туда по какой-то причине, сообщи мне о своих находках. Хорошо?<end>
+
+=>a66_original
+I went to Camp Hathor.<end>
+
+=>a66
+Я был$(#/а) в Лагере Хатор.<end>
+
+=>q67_original
+Ah, good. And? What's happening there?<end>
+
+=>q67
+А, хорошо. И? Что там происходит?<end>
+
+=>a68_original
+They're mostly alright. The camp itself wasn't damaged during the earthquake, but they have some burrower related issues. Those things are coming from the mines and attacking the camp. Until they deal with that, the camp won't be functioning as usual. <end>
+
+=>a68
+В основном у них всё хорошо. Сам лагерь не пострадал во время землетрясения, но у них появились какие-то проблемы с могильщиками. Эти твари лезут из шахты и нападают на лагерь. Пока они не разберутся с этим, лагерь не будет функционировать как обычно.<end>
+
+=>q69_original
+Well, at least the earthquake didn't do any damage. I hope they'll deal with those burrowers soon. <end>
+
+=>q69
+Ну, по крайней мере, землетрясение не причинило разрушений. Я надеюсь, они скоро разберутся с этими могильщиками.<end>
+
+=>q70_original
+Anyway, thanks for the info, we'll take over from here.<end>
+
+=>q70
+Ладно, спасибо за информацию, дальше мы разберёмся.<end>
+
+=>a71_original
+They're fine. Nothing out of the ordinary at Camp Hathor.<end>
+
+=>a71
+С ними всё в порядке. В Лагере Хатор ничего необычного.<end>
+
+=>q72_original
+Well... glad to hear that. Hope they get their comms up and running soon. <end>
+
+=>q72
+Хорошо... рад это слышать. Надеюсь, они вскоре наладят связь.<end>
+
+=>a73_original
+About Newton...<end>
+
+=>a73
+Насчёт Ньютона...<end>
+
+=>q74_original
+Yes? Did you see him down there?<end>
+
+=>q74
+Да? Ты наш$(#ёл/ла) его?<end>
+
+=>a75_original
+Why do you need more hoppers? Looks like you have plenty back there.<end>
+
+=>a75
+Зачем тебе ещё пещерники? Похоже, что у тебя их и так полно.<end>
+
+=>q76_original
+Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
+
+=>q76
+Родственное спаривание делает пещерников восприимчивыми к болезням. Необходимо освежать генофонд новыми экземплярами как можно чаще.<end>
+
+=>a77_original
+What is the Mushroom Cove?<end>
+
+=>a77
+Что за Грибная бухта?<end>
+
+=>q78_original
+It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
+
+Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sold on that.<end>
+
+=>q78
+Это место, где несколько ручьёв и рек соединяются и образуют бухту. Оттуда вода течёт до реки Селеритас, в которую впадают другие потоки и реки, делая её всё более и более опасной вниз по течению. 
+
+Говорят, она течёт аж в Глубокие пещеры и заканчивается великолепным водопадом, но мне что-то не верится.<end>
+
+=>a79_original
+I've been tasked with helping you with the "hopper round up."<end>
+
+=>a79
+Мне поручено помочь тебе с «облавой на пещерников».<end>
+
+=>q80_original
+Very good. So, say, have you ever captured a hopper?<end>
+
+=>q80
+Очень хорошо. Скажи, ты когда-нибудь уже ловил$(#/а) пещерников?<end>
+
+=>a81_original
+Yes. In fact, I have some right here.<end>
+
+=>a81
+Да. На самом деле, у меня с собой даже есть несколько.<end>
+
+=>a82_original
+Yes, I have. Just point me to the gear.<end>
+
+=>a82
+Да, я это умею. Просто покажи мне, где взять снаряжение.<end>
+
+=>q83_original
+A fellow hunter, I see.
+
+It's in the storage room. That's the room with two double-doored entrances just across the hallway. You'll find everything you need there.<end>
+
+=>q83
+Коллега-охотни$(#к/ца), как я погляжу.
+
+Всё на складе. Это комната с двумя двухстворчатыми дверями прямо напротив. Там ты найдёшь всё, что нужно.<end>
+
+=>q84_original
+Your hunting ground is the Mushroom Cove. Head south from the Crossroad Watch until you reach a waterfall. Go past the waterfall and take the western tunnel in a cave after it. Now, you'll come across a big cavern with a lake. That's the Cove. I'll need three healthy specimens. Good luck.<end>
+
+=>q84
+Твои охотничьи угодья -- это Грибная бухта. Иди на юг от сторожки на перекрёстке, пока не достигнешь водопада. Пройди мимо водопада, и в пещере после него сверни в западный туннель. Ты попадёшь в большую пещеру с озером. Это и есть бухта. Мне нужны три здоровых особи. Удачи.<end>
+
+=>q85_original
+Oh, and by the way: I've also sent a young man called Newton to catch some hoppers. It's been a while, so see if you can find him and learn what's taking him so long.<end>
+
+=>q85
+Да, и, кстати, я уже послал паренька по имени Ньютон поймать несколько пещерников. Прошло уже много времени; может, ты сможешь его найти и узнать, что его так надолго задержало?<end>
+
+=>q86_original
+<end>
+
+=>q86
+<end>
+
+=>a87_original
+Why do you need more hoppers? Looks like you have plenty back there.<end>
+
+=>a87
+Зачем тебе ещё пещерники? Похоже, что у тебя их и так полно.<end>
+
+=>q88_original
+Inbreeding makes hoppers susceptible to disease. It is necessary to freshen up the gene pool with new specimens as often as possible.<end>
+
+=>q88
+Родственное спаривание делает пещерников восприимчивыми к болезням. Необходимо освежать генофонд новыми экземплярами как можно чаще.<end>
+
+=>a89_original
+What is the Mushroom Cove?<end>
+
+=>a89
+Что за Грибная бухта?<end>
+
+=>q90_original
+It's a place where a couple of streams and rivers join up to form a cove. From there the water flows further down as Celeritas River which is joined by other streams and rivers and becomes more and more treacherous as it journeys on. 
+
+Presumably it leads straight down into Deep Caverns and ends in a magnificent waterfall, but I'm not sure I believe that.<end>
+
+=>q90
+Это место, где несколько ручьёв и рек соединяются и образуют бухту. Оттуда вода течёт до реки Селеритас, в которую впадают другие потоки и реки, делая её всё более и более опасной вниз по течению. 
+
+Говорят, она течёт аж в Глубокие пещеры и заканчивается великолепным водопадом, но мне что-то не верится.<end>
+
+=>a91_original
+Who's Newton?<end>
+
+=>a91
+Кто такой этот Ньютон?<end>
+
+=>q92_original
+Well, he's just like you, a newcomer who needs to learn the basics of what it takes for this station to operate. I've sent him to catch hoppers; he should have been back by now, though. I hope he hasn't gotten himself into some sort of trouble.<end>
+
+=>q92
+Ну, он такой же как и ты -- новичок, который должен изучить основы того, что требуется для работы станции. Я послал его поймать несколько пещерников, и он должен был уже вернуться. Я надеюсь, он не вляпался в какую-нибудь беду.<end>
+
+=>q93_original
+So please, look for him while you're there.<end>
+
+=>q93
+Поэтому, пожалуйста, поищи его, пока ты там.<end>
+
+=>a94_original
+I'll get right on it.<end>
+
+=>a94
+Я сейчас же займусь этим.<end>
+
+=>a95_original
+I have a feeling this is going to be a long day.<end>
+
+=>a95
+Я чувствую, это будет долгий день.<end>
+
+=>a96_original
+I don't think this is a right job for me. Is there maybe something else I could do?<end>
+
+=>a96
+Я не думаю, что это подходящее задание для меня. Может быть, я могу сделать что-нибудь другое?<end>
+
+=>q97_original
+And why is that?<end>
+
+=>q97
+И почему так?<end>
+
+=>a98_original
+I think my skill could be put to better use than this.<end>
+
+=>a98
+Я думаю, что мои навыки можно применить с большей пользой.<end>
+
+=>q99_original
+::Bret frowns.:: Oh, really. So you're too good to be helping with hopper breeding? I'll have you know that what we do here is very important work, maybe the most important. We're feeding the station.
+
+So get going and don't come back without those hoppers. And see what's Newton been up to.<end>
+
+=>q99
+::Брет хмурится.:: Ах, неужели? Ты слишком хорош$(#/а), чтобы заниматься разведением пещерников? Да будет тебе известно, что мы здесь делаем очень важную работу -- возможно, самую важную. Мы кормим станцию.
+
+Так что, иди и не возвращайся без этих пещерников. И посмотри, чем там занимается Ньютон.<end>
+
+=>a100_original
+Hunting is not really my thing.<end>
+
+=>a100
+Охота -- это не совсем моё.<end>
+
+=>q101_original
+::Bret frowns slightly.:: Sorry, but it is today. Everyone has to learn the basics of what it takes for this station to operate, and hopper breeding is an important part of it.<end>
+
+=>q101
+::Брет слегка хмурится.:: Извини, но сегодня -- ещё как твоё. Каждый должен изучить основы того, что нужно для работы станции, и разведение пещерников является важной частью этого.<end>
+
+=>a102_original
+Never mind.<end>
+
+=>a102
+Не бери в голову.<end>
+
+=>q103_original
+Anything else?<end>
+
+=>q103
+Что-нибудь ещё?<end>
+
+=>a104_original
+No.<end>
+
+=>a104
+Нет.<end>
+
+=>q105_original
+Ah. <end>
+
+=>q105
+А. <end>
+
+=>q106_original
+First go to the storage room - it's the room with two entrances just across the hallway - and get some dog crates. You'll need them to hold your quarry.<end>
+
+=>q106
+Сперва иди на склад -- это комната с двумя дверьми прямо напротив -- и возьми там несколько клеток. Тебе нужно будет поймать в них свою добычу.<end>
+
+=>q107_original
+Getting them inside won't be easy, though. As soon as they sense you're coming they'll scurry off and crawl through the crevices in the cave wall. So what you need to do is immobilize them before they run away, either with hopper traps - which unlike bear traps will ensnare them without snapping most of their bones in half - or with throwing nets.<end>
+
+=>q107
+Вот только засунуть их внутрь будет непросто. Как только они тебя заметят, то разбегутся и попрячутся в трещины в стене. Значит, тебе нужно как-то обездвижить их, пока они не убежали: или при помощи ловушек для пещерников -- которые, в отличие от капканов, ловят их, не переломав им все кости, -- или при помощи метательной сети.<end>
+
+=>q108_original
+Also, if you can handle a crossbow, you could try shooting them with tranquilizing bolts. A single shot will drop a hopper quickly and will allow you to capture it easily.
+
+Now, you'll find all of these in the storage room, and you are free to take as many as you need. But if you need more than what's in the storage room, then, well, I can only sell it to you.<end>
+
+=>q108
+А ещё, если ты умеешь обращаться с арбалетом, можешь попробовать подстрелить их болтом с транквилизатором. Одна доза быстро вырубит пещерника, и его будет легко поймать.
+
+Ну вот, все инструменты ты найдёшь на складе, можешь взять столько, сколько тебе нужно. Но если тебе нужно будет что-то ещё, тогда, ну, я могу только продать тебе.<end>
+
+=>a109_original
+I don't even know what that is.<end>
+
+=>a109
+Я даже не знаю, кто это такие.<end>
+
+=>q110_original
+Look over there in the pen. Those are cave hoppers; hoppers for short.
+
+They are speedy little bastards, let me tell you. Shooting one is hard, but catching it alive is even harder. They are usually found near the lakes, because that's where their favorite food grows - the lake mushroom.<end>
+
+=>q110
+Посмотри вон туда, в загон. Это пещерники.
+
+Эти маленькие ублюдки весьма проворные, скажу я тебе. Подстрелить их довольно непросто, а поймать живьём ещё сложнее. Обычно они живут у озёр, потому что там растёт их любимая еда -- озёрные грибы.<end>
+
+=>q111_original
+Anyway, here's what you need to do to capture some hoppers.
+
+<end>
+
+=>q111
+В общем, вот что тебе нужно, чтобы ловить пещерников.
+
+<end>
+
+=>a112_original
+No, but I did shoot a few.<end>
+
+=>a112
+Нет, но мне доводилось подстрелить парочку.<end>
+
+=>q113_original
+Well, catching them alive is a lot harder.<end>
+
+=>q113
+Ловить их живьём будет посложнее.<end>
+
+=>a114_original
+What is this place?<end>
+
+=>a114
+Что это за место?<end>
+
+=>q115_original
+This is the agronomy sector where we grow and harvest all kinds of plants. But we also breed animals for food. In short, our job is to provide food to the station in any way possible.<end>
+
+=>q115
+Это агрономический уровень, где мы выращиваем всевозможные растения. Также мы разводим животных на мясо. Короче говоря, наша работа состоит в том, чтобы обеспечивать станцию провизией любым возможным способом.<end>
+
+=>a116_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a116
+Что ты думаешь о вторжении безликих?<end>
+
+=>q117_original
+I don't know much about the Faceless. Hell, no one does. I wonder if all these years they've kept to themselves in the low tunnels they were actually just amassing for an invasion.<end>
+
+=>q117
+Я не много знаю про безликих. Да никто не знает. Что, если все эти годы, пока они прятались в нижних туннелях, они на самом деле накапливали силы для вторжения?<end>
+
+=>q118_original
+That's about it. They never presented themselves as a threat, they lived in the places no sane human would want to live, leaving all the good habitat to us. They made sure we know next to nothing about them, their technology, culture, motivations, numbers.<end>
+
+=>q118
+Вот и всё, что я могу сказать. Они никогда прежде не представляли из себя угрозу, они жили там, где никакой нормальный человек не захочет жить, оставляя лучшие места нам. Они постарались, чтобы мы не узнали про них почти ничего: ни технологии, ни культуру, ни мотивы, ни численность.<end>
+
+=>q119_original
+So now they revealed themselves in full power, then back whence they came and the rest of us can only wonder what the hell was going on.<end>
+
+=>q119
+Теперь они показали свою настоящую силу, а затем вернулись туда, откуда пришли, а нам остаётся удивляться, что за хренотень происходит.<end>
+
+=>q120_original
+Maybe now they're finally feeling strong enough to take us all on.<end>
+
+=>q120
+Может быть, теперь они наконец почувствовали себя достаточно сильными, чтобы напасть на всех нас.<end>
+
+=>a121_original
+If that's the case - do you think they might succeed?<end>
+
+=>a121
+Если это так... как ты думаешь, у них может получиться?<end>
+
+=>q122_original
+I don't know, but what I do know is we aren't going down without a fight.<end>
+
+=>q122
+Этого я не знаю, но что я знаю точно -- мы не сдадимся без боя.<end>
+
+=>a123_original
+That makes sense.<end>
+
+=>a123
+В этом есть смысл.<end>
+
+=>q124_original
+::He nods ominously.::<end>
+
+=>q124
+::Он многозначительно кивает.::<end>
+
+=>a125_original
+What is your opinion on Tanner's disappearance?<end>
+
+=>a125
+Что ты думаешь об исчезновении Таннера?<end>
+
+=>q126_original
+You don't want to know.<end>
+
+=>q126
+Лучше не спрашивай.<end>
+
+=>a127_original
+Maybe I do.<end>
+
+=>a127
+Мне интересно.<end>
+
+=>q128_original
+Well, in that case, I think Tanner is one lying son of a hopper's ass who's been deceiving us all these years. Yeah, yeah, he's an odd character, but there's no shortage of those in here. Look at Ezra, look at *you.* But I actually thought that bastard of a man was caring about this station, and I'm not someone who trusts easily.<end>
+
+=>q128
+Ну, в таком случае, я думаю, что Таннер -- лживый сын жопы пещерника, который водил нас за нос все эти годы. Да, да, он странный персонаж, но здесь в таких нет недостатка. Посмотреть хотя бы на Эзру, посмотреть на *тебя*. Но я на самом деле думал, что ублюдок заботится о станции, а я не из доверчивых.<end>
+
+=>q129_original
+Wherever he is, I hope it turns to hell for him.<end>
+
+=>q129
+Где бы он ни был, я надеюсь, что он получит по заслугам.<end>
+
+=>a130_original
+Maybe I don't.<end>
+
+=>a130
+Не буду.<end>
+
+=>q131_original
+::He nods.::<end>
+
+=>q131
+::Он кивает.::<end>
+
+=>a132_original
+Must be going.<end>
+
+=>a132
+Мне пора идти.<end>
+
+=>a133_original
+Yes, I have.<end>
+
+=>a133
+Да, конечно.<end>
+
+=>q134_original
+Good. So, you must know that they supply us with a good chunk of the meat we consume here?<end>
+
+=>q134
+Хорошо. Тогда ты знаешь, что это они поставляют значительную часть мяса, которое мы тут едим?<end>
+
+=>a135_original
+Yes, I do.<end>
+
+=>a135
+Ага.<end>
+
+=>q136_original
+Excellent, you are well informed, I see. <end>
+
+=>q136
+Отлично, ты знаешь что к чему, как я погляжу.<end>
+
+=>a137_original
+No, wait, you're talking about *that* Camp Hathor? I know nothing about that.<end>
+
+=>a137
+Нет, погоди, ты говоришь про *тот* Лагерь Хатор? Я ничего о нём не знаю.<end>
+
+=>a138_original
+No, I haven't.<end>
+
+=>a138
+Нет, не слышал$(#/а).<end>
+
+=>a139_original
+No, what mail?<end>
+
+=>a139
+Нет, какую почту?<end>
+
+=>q140_original
+Why not? You should check your mail. You might miss *something* important. Anyway,<end>
+
+=>q140
+Почему нет? Почаще проверяй почту, ты можешь пропустить что-то важное. В любом случае,<end>
+
+=>a141_original
+Maybe. Can't remember right now.<end>
+
+=>a141
+Может быть. Сейчас уже не помню.<end>
+
+=>q142_original
+Ah, yes, you don't remember. Check your mail from now on please. You might miss *something* important. Now, <end>
+
+=>q142
+Ах, да, не помнишь. Проверяй свою почту время от времени, пожалуйста. А то можешь пропустить что-нибудь важное. Короче,<end>
+
+=>a143_original
+What mail? I received nothing concerning Camp Hathor from you.<end>
+
+=>a143
+Какое сообщение? Я ничего от тебя не получал$(#/а) насчёт Лагеря Хатор.<end>
+
+=>q144_original
+I'm sure I've sent you an e-mail... Never mind, I'll check later. Now,<end>
+
+=>q144
+Я уверен, что отправлял тебе письмо... Неважно, я проверю позже. А сейчас,<end>
+
+=>q145_original
+The things that happen in this station... <end>
+
+=>q145
+Что творится на этой станции... <end>
+
+=>q146_original
+You got those drill parts by digging through Junkyard, I hear. You really are the errand $(#boy/girl) of this station.<end>
+
+=>q146
+Я слышал, тебе пришлось покопаться на Свалке, чтобы достать нам детали для бура. Тебя, должно быть, уже загоняли с заданиями.<end>
+
+=>q147_original
+Did you see that? That madman Lenox tried to kill me! That idiot! Damn it, I thought he was gonna get me...<end>
+
+=>q147
+Ты это видел$(#/а)? Этот псих Ленокс пытался убить меня! Что за идиот! Блин, я думал, что он меня прикончит...<end>
+
+=>q148_original
+I just came back from med. Lora's still unconscious, but Pasquale told me she'll pull through.<end>
+
+=>q148
+Я только что вернулся с лазарета. Лора всё ещё без сознания, но Паскуаль говорит, что она выкарабкается.<end>
+
+=>q149_original
+Yeah?<end>
+
+=>q149
+Да?<end>
+
+=>q150_original
+Hi, $(context.player.Name). Need anything?<end>
+
+=>q150
+Привет, $(context.player.Name). Нужно что-нибудь?<end>
+
+=>q151_original
+What can I do you for?<end>
+
+=>q151
+Что я могу для тебя сделать?<end>
+
+=>q152_original
+You must be $(context.player.Name). They call me Big Bret.
+
+So you've passed all the tests, I see; couldn't have been easy. Those were just getting harder and harder in recent years.<end>
+
+=>q152
+Ты, должно быть, $(context.player.Name). Меня тут все зовут Большой Брет.
+
+Значит, ты прош$(#ёл/ла) все испытания; нелегко было, наверное. Они становятся всё сложнее и сложнее в последнее время.<end>
+
+=>a153_original
+They were pretty hard but I like challenges.<end>
+
+=>a153
+Они были довольно сложные, но я люблю преодолевать препятствия.<end>
+
+=>q154_original
+You're going to love it here then. So what brings you to the Pens?<end>
+
+=>q154
+Тогда тебе здесь понравится. Так, что привело тебя ко мне на ферму?<end>
+
+=>a155_original
+I'm just really glad I made it.<end>
+
+=>a155
+Я просто очень рад$(#/а), что справил$(#ся/ась).<end>
+
+=>q156_original
+In that case we're glad to have you!
+
+So anyway, what can I do you for?<end>
+
+=>q156
+В таком случае, добро пожаловать!
+
+Так, что я могу для тебя сделать?<end>
+
+=>a157_original
+I think they were just the right difficulty. You wouldn't want just anyone here, right?<end>
+
+=>a157
+Я думаю, что они были в самый раз. Вы же не хотите принимать сюда кого попало, верно?<end>
+
+=>q158_original
+You're right. Indeed we don't.
+
+So anyway, what can I do you for?<end>
+
+=>q158
+Это да, не хотим.
+
+Так, что я могу для тебя сделать?<end>
+
+=>a159_original
+It was a breeze.<end>
+
+=>a159
+Мне было легко.<end>
+
+=>q160_original
+::He smirks, unimpressed.:: Either you're joking or you're the next Tanner.<end>
+
+=>q160
+::Он недоверчиво хмыкает.:: Либо ты шутишь, либо ты -- следующий Таннер.<end>
+
+=>a161_original
+I'm just kidding.<end>
+
+=>a161
+Я пошутил$(#/а).<end>
+
+=>q162_original
+Figured you've must've had. 
+
+So what can I do you for, citizen?<end>
+
+=>q162
+Я так и подумал. 
+
+Так, чем я могу быть полезен, граждан$(#ин/ка)?<end>
+
+=>a163_original
+I see Tanner is well respected here?<end>
+
+=>a163
+Я вижу, Таннер пользуется здесь уважением?<end>
+
+=>q164_original
+Respected? The man is a living legend. He took charge of the station in the worst of its days and turned things around. He fought off our enemies, wrestled back control of our power plant, reintroduced a lot of old world technology that allows us to run a station this big, *and* he ensured a very favorable trading agreement with the Union.<end>
+
+=>q164
+Уважением? Этот человек -- живая легенда. Он взял на себя ответственность за станцию в худшие её дни и изменил всё к лучшему. Он победил наших врагов, вернул контроль над нашей электростанцией, вернул многие технологии Старого мира, которые позволяют нам содержать такую большую станцию, а *ещё* он заключил очень выгодное торговое соглашение с Союзом.<end>
+
+=>a165_original
+Impressive.<end>
+
+=>a165
+Впечатляет.<end>
+
+=>q166_original
+Indeed. So what can I do you for?<end>
+
+=>q166
+Действительно. Так, что я могу для тебя сделать?<end>
+
+=>a167_original
+I see.<end>
+
+=>a167
+Ясно.<end>
+
+=>q168_original
+So what can I do you for?<end>
+
+=>q168
+Так, что я могу для тебя сделать?<end>
+
+=>a169_original
+Alright, alright. Sorry I asked.<end>
+
+=>a169
+Ладно, ладно. Извини, что спросил$(#/а).<end>
+
+=>q170_original
+Anyway, let's get down to business. That's why you're here for, right?<end>
+
+=>q170
+Короче, давай приступим к делу. Именно за этим ты здесь, верно?<end>
+
+=>a171_original
+No really, it was pretty easy.<end>
+
+=>a171
+Нет, правда, это было довольно легко.<end>
+
+=>q172_original
+Right. So what can I do you for?<end>
+
+=>q172
+Ага. Так, что я могу для тебя сделать?<end>
+
+=>a173_original
+They could've at least given me a day off. I've been running their tests for weeks.<end>
+
+=>a173
+Не могли они хотя бы дать мне выходной? У меня эти проверки в печёнках сидят.<end>
+
+=>q174_original
+Well, I reckon they usually would. Things have been rough this month though and we need all capable hands to pull their weight.<end>
+
+=>q174
+Ну, вообще-то, должны были дать. Просто выдался трудный месяц, и нам нужны все, кто способен выполнять свои обязанности.<end>
+
+=>a175_original
+What exactly are you talking about?<end>
+
+=>a175
+Что ты имеешь в виду?<end>
+
+=>q176_original
+Well, you know - the network problems, Tunnelers and all that stuff. And now this freaking earthquake. Just go watch the news feeds in the commons, you'll see what I mean.<end>
+
+=>q176
+Ну, как... проблемы с сетью, проходчики и всё такое. А теперь ещё и это долбаное землетрясение. Просто посмотри новостную ленту в столовой, и ты поймёшь, что я имею в виду.<end>
+
+=>q177_original
+So anyway, what can I do you for?<end>
+
+=>q177
+Ну, так, что я могу для тебя сделать?<end>
+
+=>a178_original
+I understand.<end>
+
+=>a178
+Я понимаю.<end>
+

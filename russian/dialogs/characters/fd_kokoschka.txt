@@ -1,0 +1,2488 @@
+﻿=>q1_original
+Is this end? I just got here, and now Trenton dies. Potrtschke ovolki!<end>
+
+=>q1
+Это конец? Только я пришёл, а Трентон умирает. Потртшке оволки!<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+::Bewildered, he swiftly stands at-attention and salutes you.::
+
+Rad i boj, komvarische ofi-- <end>
+
+=>q4
+::Смущённый, он вытягивается по стойке смирно и выполняет приветствие.::
+
+Рад и бодж, комварище офи...<end>
+
+=>q5_original
+Hey, it you - $(context.player.Name)! Why you wear it, why wear uniform for my army when you not army... errr, in army?<end>
+
+=>q5
+Эй, это ты, $(context.player.Name)! Почему ты её носишь, почему носишь форму для моей армии, когда ты не армия... эр-р, не в армии?<end>
+
+=>a6_original
+I didn't realize it would offend you.<end>
+
+=>a6
+Я не знал$(#/а), что это тебя обидит.<end>
+
+=>q7_original
+It dis... disres... dis-re-spect-ful to me. You wear uniform of my army and you not in my army. I have nothing against you, you $(#brother/sister) in Free Droning, but I not talk to you as long as you wear this uniform, or anything else of my army.<end>
+
+=>q7
+Это неу... неува... неуважительно для меня. Ты одеваешь форму моей армии, но ты не в моей армии. Я не имею против тебя ничего, ты $(#брат/сестра) в Вольных шершнях, но я не говорю с тобой, когда ты одеваешь эту форму или что-то другое из моей армии.<end>
+
+=>q8_original
+There, I say it. Get dressed into different clothes and then speak to me.<end>
+
+=>q8
+Вот, я сказал. Одень другую одежду, и тогда говори со мной.<end>
+
+=>a9_original
+It's comfortable and looks nice and novel.<end>
+
+=>a9
+Она удобная, красивая и выглядит необычно.<end>
+
+=>a10_original
+I'll take it off if it offends you.<end>
+
+=>a10
+Я сниму её, если это оскорбляет тебя.<end>
+
+=>a11_original
+You don't like it?<end>
+
+=>a11
+Тебе это не нравится?<end>
+
+=>a12_original
+I wear whatever I want. Why I wear this uniform is none of your concern.<end>
+
+=>a12
+Я ношу всё, что захочу. Почему я ношу эту форму -- не твоя забота.<end>
+
+=>q13_original
+It is my concern, because you wear uniform of my army. <end>
+
+=>q13
+Это моя забота, потому что ты одеваешь форму моей армии.<end>
+
+=>q14_original
+::Bewildered, he addresses you with friendliness in his voice.::
+
+Komvarische? De gi bre-- <end>
+
+=>q14
+::Смущённый, он обращается к вам дружелюбным голосом.::
+
+Комварище? Де ги бре...<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>q16_original
+::Bewildered, he swiftly stands at-attention and salutes you.::
+
+Rad i boj, komvarische oficir! Chto vi zabutnaklzne u Underrail klktnopani?<end>
+
+=>q16
+::Смущённый, он вытягивается по стойке смирно и выполняет приветствие.::
+
+Рад и бодж, комварище официр! Что ви забутнаклзне у Подземки клктнопани?<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+Um...<end>
+
+=>a18
+Эм...<end>
+
+=>q19_original
+You are not komvarisch - you are someone else. Why you wear it, why wear uniform for my army when you not army... errr, in army?<end>
+
+=>q19
+Ты не комварищ, ты кто-то другой. Почему ты одеваешь её, почему одеваешь форму моей армии, когда ты не армия... эр-р, не в армии?<end>
+
+=>a20_original
+Eh...<end>
+
+=>a20
+Эх...<end>
+
+=>a21_original
+Uh...<end>
+
+=>a21
+Э-э...<end>
+
+=>a22_original
+Like...<end>
+
+=>a22
+Типа...<end>
+
+=>a23_original
+Well...<end>
+
+=>a23
+Ну...<end>
+
+=>a24_original
+::Cough and point at your throat.::<end>
+
+=>a24
+::Кашлянуть и указать на своё горло.::<end>
+
+=>q25_original
+::He observes you suspiciously, squinting more and more before realizing the truth.::
+
+<end>
+
+=>q25
+::Он с подозрением осматривает вас, щурясь всё больше и больше, пока не понимает.::
+
+<end>
+
+=>a26_original
+::Salute him.::<end>
+
+=>a26
+::Приветствовать его.::<end>
+
+=>q27_original
+::Bewildered, he addresses you with friendliness in his voice.::
+
+Komvarische? De gi bre zabutnaklzne u Underrail klktnopani?<end>
+
+=>q27
+::Смущённый, он обращается к вам дружелюбным голосом.::
+
+Комварище? Де ги бре забутнаклзне у Подземки клктнопани?<end>
+
+=>q28_original
+I not talk to you while you wear that uniform.<end>
+
+=>q28
+Я не буду говорить с тобой, пока ты носишь эту форму.<end>
+
+=>q29_original
+Ah, $(context.player.Name). I see my first battle for Free Drones this time and, how you say... err, I got excited as a rathound dressed in shirt!<end>
+
+=>q29
+Ах, $(context.player.Name). Я увижу мой первый бой Вольных шершней, и, как это у вас говорят... э-эр, я стал так взволнован, как будто крысоволк, одетый в рубашку!<end>
+
+=>a30_original
+The Cans never knew what hit 'em.<end>
+
+=>a30
+Банки так и не поняли, кто напал на них.<end>
+
+=>q31_original
+We make a very excellent team, like that movie... errr, what is it called. Ah! "Slodonzoplanski Blazorkant." You see that one? When Yurosomonforko and Blazomoreradnok fight the cave monster of ice. They pew and pew and Yurosomonforko say, "A gu si polemo ki sturza na moskus!"
+
+It always remind me of that. You very good in battle.<end>
+
+=>q31
+У нас очень отличная команда, как в том фильме... э-эр, как он назывался. Ах да! «Слодонжоплански Блазоркант». Видел$(#/а)? Когда Юросомонфорко и Блазоморераднок бились с пещерным монстром льда. Бах, бабах, и Юросомонфорко говорит: «А гу си полемо ки стурза на москус!»
+
+Всегда это мне очень напомнило. Ты очень хорош$(#ий/ая) в бою.<end>
+
+=>q32_original
+I never seen a woman be so manly and kick so much stryaznytza.<end>
+
+=>q32
+Я никогда не видел, чтобы женщина была такая мужественная и порвала столько стрязниц.<end>
+
+=>q33_original
+<end>
+
+=>q33
+<end>
+
+=>a34_original
+Hey, do you recognize this? ::Show him one zlatortiya bill.::<end>
+
+=>a34
+Эй, ты знаешь, что это? ::Показать ему банкноту златортии.::<end>
+
+=>q35_original
+::He looks at the bill and responds with delight in his eyes.::
+
+Err, it zlatortiya, that the money we use in Fatherland! ::He points his finger to the face depicted on the bill.:: Look, this is Nadbojvod Jarkov Mochnik, our leader, or how you say - the alpha male of the house, ehehe. <end>
+
+=>q35
+::Увидев банкноту, он отвечает с восторгом во взгляде.::
+
+Эр-р, это златортия -- те деньги, которые мы используем в Отечестве! ::Он указывает на лицо, изображённое на купюре.:: Смотри, это Надбойвод Ярков Мохник, наш лидер, или, как у вас говорят, вожак в доме, э-хе-хе.<end>
+
+=>q36_original
+I already told you Nadbojvod is his title, yes. It still better than overgeneral by... so much.<end>
+
+=>q36
+Я уже сказал тебе, что Надбойвод -- его звание, да. Это ещё выше, чем сверхгенерал на... очень много.<end>
+
+=>q37_original
+Where you find this money?<end>
+
+=>q37
+Где ты $(#нашёл/нашла) эти деньги?<end>
+
+=>a38_original
+I acquired them during a short visit... um, to your fatherland.<end>
+
+=>a38
+Я их наш$(#ёл/ла), когда ненадолго ездил$(#/а)... эм, в твоё Отечество.<end>
+
+=>q39_original
+You visited my home? But why?<end>
+
+=>q39
+Ты ездил$(#/а) в мой дом? Почему?<end>
+
+=>a40_original
+It's a long story.<end>
+
+=>a40
+Это длинная история.<end>
+
+=>q41_original
+Oh. But we have time! Here in passages of under, time is walking slowly and painfully... like dog with two legs, ehehe.<end>
+
+=>q41
+Ох. Но у нас есть время! Здесь в проходах внизу время шагает медленно и больно... как собака такая, у которой две ноги, э-хе-хе.<end>
+
+=>a42_original
+I was sent on a secret mission there.<end>
+
+=>a42
+Я там выполнял$(#/а) секретное задание.<end>
+
+=>q43_original
+Mission? Is very powerful evil of great power threatening Fatherland? Are there spies that needed to be antispied? Tell me, zebnem ti gu na smrchu!<end>
+
+=>q43
+Задание? Очень мощное зло с большой силой угрожает Отечеству? Там шпионы, и нужно их противошпионить? Скажи мне, зебнем ти гу на смрчу!<end>
+
+=>a44_original
+Don't worry - I took care of it. Fatherland is safe.<end>
+
+=>a44
+Не волнуйся, я обо всём позаботил$(#ся/ась). Отечество в безопасности.<end>
+
+=>q45_original
+Yes! Go Free Drones antispy team. Evil will never win. Thank you for helping Fatherland.<end>
+
+=>q45
+Да! Вперёд, команда противошпионов Вольных шершней. Зло никогда не победит. Спасибо тебе, потому что ты помог$(#/ла) Отечеству.<end>
+
+=>a46_original
+Anyway, where can I exchange this money for some charons? Do you know anyone who could do that for me? Could you do it?<end>
+
+=>a46
+Хорошо, а где я могу обменять эти деньги на хароны? Ты не знаешь, кто бы мог мне в этом помочь? Может быть, ты?<end>
+
+=>q47_original
+You trick me, make my heart race like little mouse running from big cat. But... <end>
+
+=>q47
+Ты обманул$(#/а), чтобы моё сердце билось так, как мышь, когда она убегает от большой кошки. Но...<end>
+
+=>q48_original
+I can help you. I will return to Fatherland one day, after I break my enemies in four here, so I will use money. How much do you have?<end>
+
+=>q48
+Я могу помочь тебе. Я вернусь в Отечество однажды, когда я порву на тряпки моих врагов здесь, и я использую деньги. Сколько у тебя?<end>
+
+=>a49_original
+I am a millionaire!<end>
+
+=>a49
+Я миллионер!<end>
+
+=>q50_original
+Ehehe, that is very little money. You are not like million-money people in South Underrail. <end>
+
+=>q50
+Э-хе-хе, это очень маленькие деньги. Ты не как миллионоденежные люди в Южной Подземке.<end>
+
+=>q51_original
+Here, million coins - live like Nadbojvod himself. Better. In Fatherland - live like zonemen from Core City. If you have quadrillion - then you, how we say, can eat whole pigs, drink kzozel until your belly pop, buy clothes that looks good on a chovek, eat some more whole pigs, stain clothes with pig smear by accident, have a maid wash it - have a maid - and you will still have enough money left to drive in the train until you reach your house from the other side. That is when you rich, ehehe.<end>
+
+=>q51
+Здесь миллион монет -- ты живёшь, как сам Надбойвод. Лучше. В Отечестве -- ты живёшь, как зонеры из Кор-Сити. Если у тебя есть квадрильон, тогда ты, как мы говорим, можешь съесть целую свинью; можешь пить кзозел, пока твой живот не лопнул; можешь купить одежду такую, которая хорошо выглядит на човеке; можешь съесть ещё целых свиней; можешь испачкать одежду свинским пятном случайно; можешь сказать прачке помыть её -- у тебя есть прачка -- и у тебя всё равно есть ещё денег, чтобы ехать на поезде, пока ты не приехал в свой дом на другой стороне. Тогда ты очень богатый, э-хе-хе.<end>
+
+=>q52_original
+Let me calculate in my head... one coin is twenty thousand... yes... mhm...
+
+Okay, I have about one hundred and fifty coins I could exchange. I will sell you one coin for two zlatortiya bills. That is twenty thousand zlatortiyas.<end>
+
+=>q52
+Дай мне посчитать в моей голове... одна монета -- двадцать тысяч... да... ага...
+
+Ладно, у меня есть около сто пятьдесят монет, чтобы обменять. Я продам тебе одну монету за две купюры златортий. Это двадцать тысяч златортий.<end>
+
+=>q53_original
+<end>
+
+=>q53
+<end>
+
+=>a54_original
+::[Mercantile]:: Only one hundred fifty? That amount is barely worth the trouble.<end>
+
+=>a54
+::[Торговля]:: Всего сто пятьдесят? Такая сумма едва ли стоит моих усилий.<end>
+
+=>q55_original
+But I need some coins while I am here. I can't give all coins to you, even though I like you.<end>
+
+=>q55
+Но мне нужны монеты, пока я нахожусь здесь. Я не могу отдать тебе все монеты, хотя ты мне нравишься.<end>
+
+=>a56_original
+Not all of them, of course, but I'd be pleased if you could set aside, say, a hundred charons more for me.<end>
+
+=>a56
+Ну пусть не все монеты, конечно, но мне было бы приятно, если бы ты смог отложить для меня, скажем, ещё сотню харонов.<end>
+
+=>q57_original
+::He sighs.:: Well... Well... Alright. I will exchange one hundred more, even though my coin man-purse is going to be light. But all this is for our cause anyway, so when we win it will be worth it, yes?<end>
+
+=>q57
+::Он вздыхает.:: Ну... ну... Ладно. Я обменяю одну сотню больше, хотя мой кошелёк будет лёгкий. Но это всё равно для нашего общего дела, поэтому когда мы победили, это стоит того, да?<end>
+
+=>q58_original
+Okay, so that is $(context.npc_fd_kokoschka_moneyForExchange) coins in total I have for exchange, ehehe.<end>
+
+=>q58
+Ладно, тогда у меня есть $(context.npc_fd_kokoschka_moneyForExchange) всего монет, чтобы их обменять, э-хе-хе.<end>
+
+=>q59_original
+Well... No, no. Sorry. I cannot. It too will make my coin man-purse too light.<end>
+
+=>q59
+Ну... Нет, нет. Прости меня. Я не могу. Мой кошелёк тоже станет слишком лёгкий.<end>
+
+=>q60_original
+Sorry. I like you, but sorry.<end>
+
+=>q60
+Прости. Ты мне нравишься, но прости.<end>
+
+=>q61_original
+<end>
+
+=>q61
+<end>
+
+=>q62_original
+<end>
+
+=>q62
+<end>
+
+=>a63_original
+Here's two hundred bills for one hundred charons. ::Give him 200 zlatortiya bills.::<end>
+
+=>a63
+Вот двести купюр в обмен на сто харонов. ::Дать ему 200 златортий.::<end>
+
+=>q64_original
+Here you go. ::He hands you your charons.:: <end>
+
+=>q64
+Вот тебе. ::Он даёт вам ваши хароны.::<end>
+
+=>q65_original
+I am out, sorry. No more coins. And no more convincing to add more coins. Coin man-purse is too light.<end>
+
+=>q65
+Все кончились, прости. Нет больше монет. И нельзя убедить, чтобы появилось больше монет. Кошелёк слишком лёгкий.<end>
+
+=>q66_original
+I am out, sorry. No more coins.<end>
+
+=>q66
+Все кончились, прости. Нет больше монет.<end>
+
+=>a67_original
+Let us talk about something else, then.<end>
+
+=>a67
+Тогда поговорим о чём-нибудь другом.<end>
+
+=>q68_original
+::He nods.:: Yes.<end>
+
+=>q68
+::Он кивает.:: Да.<end>
+
+=>q69_original
+I have $(context.npc_fd_kokoschka_moneyForExchange) coins left for exchange.<end>
+
+=>q69
+У меня есть $(context.npc_fd_kokoschka_moneyForExchange) монет на обмен.<end>
+
+=>a70_original
+Here's one hundred bills for fifty charons. ::Give him 100 zlatortiya bills.::<end>
+
+=>a70
+Вот сто купюр в обмен на пятьдесят харонов. ::Дать ему 100 златортий.::<end>
+
+=>a71_original
+Here's fifty bills for twenty-five charons. ::Give him 50 zlatortiya bills.::<end>
+
+=>a71
+Вот пятьдесят купюр в обмен на двадцать пять харонов. ::Дать ему 50 златортий.::<end>
+
+=>a72_original
+Here's twenty bills for ten charons. ::Give him 20 zlatortiya bills.::<end>
+
+=>a72
+Вот двадцать купюр в обмен на десять харонов. ::Дать ему 20 златортий.::<end>
+
+=>a73_original
+Here's ten bills for five charons. ::Give him 10 zlatortiya bills.::<end>
+
+=>a73
+Вот десять купюр в обмен на пять харонов. ::Дать ему 10 златортий.::<end>
+
+=>a74_original
+Here's two bills for one charon. ::Give him 2 zlatortiya bills.::<end>
+
+=>a74
+Вот две купюры в обмен на один харон. ::Дать ему 2 златортии.::<end>
+
+=>a75_original
+That would be all for now.<end>
+
+=>a75
+Это всё на данный момент.<end>
+
+=>a76_original
+Just a few bills. But that is a lot of zeros, though.<end>
+
+=>a76
+Всего пара банкнот, но на них много нулей.<end>
+
+=>q77_original
+That is very little. You can easily be a million-money $(#man/woman) in Fatherland, but that not like million-money people in South Underrail. <end>
+
+=>q77
+Это очень мало. Ты легко можешь быть миллионоденежн$(#ый мужчина/ая женщина) в Отечестве, но это не как миллионоденежные люди в Южной Подземке.<end>
+
+=>a78_original
+A single bill. But it's a ten thousand zlatortiya one.<end>
+
+=>a78
+Одна купюра, но она на десять тысяч златортий.<end>
+
+=>q79_original
+Well... <end>
+
+=>q79
+Ну...<end>
+
+=>a80_original
+Protectorate spies are *everywhere*.<end>
+
+=>a80
+Шпионы Протектората *повсюду*.<end>
+
+=>q81_original
+Gudrava stoka! I knew it, yes, yes. That is why we have to stop them here before they spread like zdzchni flu. It nasty, makes you pee red.<end>
+
+=>q81
+Гудрава стока! Я знал -- да, да. Поэтому мы должны остановить их здесь, пока они не разошлись, как здзчни грипп. Он мерзкий, от него ты писаешь красным.<end>
+
+=>a82_original
+I cannot discuss this.<end>
+
+=>a82
+Я не могу это обсуждать.<end>
+
+=>q83_original
+Yes, you said it secret. I hope Fatherland safe. I hope from bottom of heart.<end>
+
+=>q83
+Да, ты сказал$(#/а), это секрет. Я надеюсь, Отечество в безопасности. Я надеюсь из глубины сердца.<end>
+
+=>a84_original
+I went through a reality rift with my drunken friend and we ended up there.<end>
+
+=>a84
+Я прош$(#ёл/ла) через пространственный разлом со своим бухим приятелем, и мы оказались там.<end>
+
+=>q85_original
+Rift? That like train. You were drunk too?<end>
+
+=>q85
+Разлом? Это как поезд. Ты тоже был$(#/а) бух$(#ой/ая)?<end>
+
+=>a86_original
+Yes.<end>
+
+=>a86
+Да.<end>
+
+=>q87_original
+Ehehe. Zplno! Good. If <end>
+
+=>q87
+Э-хе-хе. Зплно! Хорошо. Если<end>
+
+=>q88_original
+you spend time in Fatherland drunk, then that means you had good time and that you a real man, real chovek. <end>
+
+=>q88
+если ты пров$(#ёл/ела) время в Отечестве бух$(#им/ой), тогда это значит, что ты пров$(#ёл/ела) хорошее время, и что ты -- настоящий човек.<end>
+
+=>q89_original
+Even if you are not man, a chovek, but woman, a zhena. Ehehehe. That much great achievement - to be like man. But not all women should be like a man, or else you become like Schulanka, our right neighbor. She too much like man. ::He shrugs.::<end>
+
+=>q89
+Хотя ты и не мужчина -- човек, а женщина. Э-хе-хе-хе. Это сильно великое достижение -- быть как мужчина. Но не все женщины должны быть как мужчина, или иначе ты будешь как Щулянка -- наш правый сосед. Она слишком сильно как мужчина. ::Он пожимает плечами.::<end>
+
+=>q90_original
+<end>
+
+=>q90
+<end>
+
+=>q91_original
+<end>
+
+=>q91
+<end>
+
+=>a92_original
+No.<end>
+
+=>a92
+Нет.<end>
+
+=>q93_original
+Going with a drunk friend and you not drunk? Impossible - and unpossible! You lie to me. Don't do that. But if <end>
+
+=>q93
+Идёшь с бухим другом, и ты не бух$(#ой/ая)? Невозможное и невероятное! Ты лжёшь мне. Не лги мне. Но если<end>
+
+=>a94_original
+Can't remember.<end>
+
+=>a94
+Не помню.<end>
+
+=>q95_original
+Then you was drunk. Ehehehe. If <end>
+
+=>q95
+Тогда ты был$(# бухой/а бухая). Э-хе-хе. Если<end>
+
+=>a96_original
+I'd rather not talk about it.<end>
+
+=>a96
+Не будем говорить об этом.<end>
+
+=>q97_original
+<end>
+
+=>q97
+<end>
+
+=>a98_original
+That is not important.<end>
+
+=>a98
+Это не имеет значения.<end>
+
+=>a99_original
+On a dead man.<end>
+
+=>a99
+На мертвеце.<end>
+
+=>q100_original
+A dead man from Fatherland? <end>
+
+=>q100
+На мертвеце из Отечества?<end>
+
+=>q101_original
+Is he tall, ginger, with thin, bony arms and chest as smooth as bum of baby? And face full of white pimples? And mustache like a grandmother trying to be manly? 
+
+He come here, how you say, to time from time. He always wears big black rubber boots and fishing rod. He speaks through his nose and sounds as smart as... err, that thing much below liver that has no use. Appopix, yes!<end>
+
+=>q101
+Он был высокий, рыжий, с тонкими костлявыми руками и с грудью такой гладкой, какая попа младенца, и с лицом, где много белых прыщей, и с усами такими, какие у бабушки, которая хочет быть как мужчина? Он приходит сюда, как вы говорите, от времени во время. Он всегда одевает большие чёрные резиновые туфли и удочку? Он говорит через свой нос и говорит умно так, как... эр-р, такая штука сильно ниже печени, которая бесполезная? Аппопикс -- да!<end>
+
+=>a102_original
+Yes. Just the guy.<end>
+
+=>a102
+Да, он самый.<end>
+
+=>q103_original
+Haha! Brbochko - you son of rat! Glad to hear he is dead to the core. He my left neighbor. <end>
+
+=>q103
+Ха-ха! Брбочко, ты сын крысы! Я счастливый, когда услышал, что он мёртвый насовсем. Он мой левый сосед.<end>
+
+=>q104_original
+I hate him. Everyone hates him. Prgudnem da gu na silu opop na te krupischlo more. Ehehehe...<end>
+
+=>q104
+Я ненавидел его. Все ненавидели его. Пргуднем да гу на силу опоп на те крупищло море. Э-хе-хе-хе...<end>
+
+=>a105_original
+I don't think so.<end>
+
+=>a105
+Я так не думаю.<end>
+
+=>q106_original
+Damn it. I was hoping it was our left neighbor, Brbochko.<end>
+
+=>q106
+Проклятье. Я надеялся, что это был наш левый сосед Брбочко.<end>
+
+=>a107_original
+Maybe, but I am not sure.<end>
+
+=>a107
+Может быть, но я не уверен$(#/а).<end>
+
+=>q108_original
+I am hoping it was our neighbor, Brbochko. <end>
+
+=>q108
+Я надеялся, что это был наш сосед Брбочко.<end>
+
+=>a109_original
+No.<end>
+
+=>a109
+Нет.<end>
+
+=>a110_original
+In a trash can.<end>
+
+=>a110
+В мусорном ведре.<end>
+
+=>q111_original
+That is disrespectful. Not you searching through trash - everyone do that here, but that someone disrespect our alpha male of the house by throwing him in garbage. ::Without delay or second though, he lets out a nasty gargle and spits a disturbingly fast-moving phlegmy projectile to the floor:: I spit on people like that, I spit. Disrespectors.<end>
+
+=>q111
+Это неуважительно. Не что ты копал$(#ся/ась) в мусоре -- все это делают тут, -- а что кто-то не уважал нашего вожака дома и бросил его в мусор. ::Без всякой задержки или размышлений он издаёт громкий звук горлом и сплёвывает необычайно быстрым слюнным снарядом на пол.:: Я плевал на людей как это, я плевал. Неуважатели.<end>
+
+=>q112_original
+Hey, unless you want to be the one wiping the floor you better find some other place to spit, Kokoschka.<end>
+
+=>q112
+Эй, Кокошка, если ты не собираешься тут мыть пол, то лучше не плюй на него.<end>
+
+=>q113_original
+Oh, my Darling, I am sorry... sorry, sorry, sorry. I will not spit around here anymore. And if I do, I will clean it with my own hands. Errr, yes.<end>
+
+=>q113
+Ох, моя Дарлинг, прости меня... прости, прости, прости. Я больше не буду плевать здесь. И если я буду, тогда я вытру моими руками. Эр-р, да.<end>
+
+=>q114_original
+::She lightly shakes her head and resumes her work.::<end>
+
+=>q114
+::Она качает головой и возвращается к работе.::<end>
+
+=>a115_original
+Someone gave it to me during a trade. Told me it's high in value.<end>
+
+=>a115
+Мне их дали на обмен. Сказали, что они ценные.<end>
+
+=>q116_original
+You accept unknown currency when in trade? Why? Someone can trick you and give you fake money. It characteristic of stupid people. Errr, I am not say you stupid, you not, but as my uncle Tomasch always used to say: Do not take money you don't recognize. It is fake and you are stupid.<end>
+
+=>q116
+Ты брал$(#/а) неизвестные деньги, когда в торговле? Почему? Кто-то может обмануть тебя и дать тебе фальшивые деньги. Это характеристика глупого человека. Эр-р, я не сказал, что ты глуп$(#ый/ая), ты нет, но как каждый раз сказал мой дядя Томащ: Не бери деньги, которые ты не узнал. Они фальшивые, и ты глупый.<end>
+
+=>q117_original
+Uncle Tomasch - listen to his advice, he smart man. And makes great klobaya from pig meat. Mmmm, how you say, to lick your hand toes!<end>
+
+=>q117
+Дядя Томащ -- слушай его советы, он умный мужчина. И он делает великую клобаю из мяса от свиньи. М-м-м, как вы говорите, чтобы облизать большие пальцы на руке.<end>
+
+=>a118_original
+I took it from someone I killed.<end>
+
+=>a118
+Я кого-то убил$(#/а) и наш$(#ёл/ла) их на трупе.<end>
+
+=>q119_original
+You killed man from Fatherland? <end>
+
+=>q119
+Ты убил$(#/а) человека из Отечества?<end>
+
+=>a120_original
+::[Intelligence]:: I took it from your stash.<end>
+
+=>a120
+::[Интеллект]:: Я наш$(#ёл/ла) их в твоём тайнике.<end>
+
+=>q121_original
+No! It all money I... ::Just as he was about to grab his head in utter dismay, he stops, lowers his arms and stares at you with his eyes half-squinting.:: There is no stash. You lie. My money safe. You trick me.<end>
+
+=>q121
+Нет, это все деньги, что я... ::Уже собравшись было в отчаянии схватиться за голову, он останавливается, опускает руки и смотрит на вас с прищуром.:: Нет тайника. Ты лгал$(#/а). Мои деньги в порядке. Ты меня обманул$(#/а).<end>
+
+=>a122_original
+That is not important.<end>
+
+=>a122
+Это не имеет значения.<end>
+
+=>q123_original
+Oh. I see you don't want to talk. Okay, I respect that, or how you say - if you ain't wanna, I ain't wanna too.<end>
+
+=>q123
+Ох. Я понял -- ты не хочешь говорить. Ладно, я уважаю или, как вы говорите, если ты не хочешь, то я не хочу тоже.<end>
+
+=>q124_original
+Oh, Nadbojvod is his title - it better title than military general, much better. General is like bojvod, while something like overgeneral is like nadbojvod. But ours would still be very much so better, yes, ehehe.<end>
+
+=>q124
+А, Найбойвод -- это его звание; это высшее звание, чем военный генерал, гораздо высшее. Генерал -- это как бойвод, а что-то как сверхгенерал -- это как надбойвод. Но наш всё равно очень намного выше, да, э-хе-хе.<end>
+
+=>a125_original
+Here's your rifle back.<end>
+
+=>a125
+Вот твоя винтовка...<end>
+
+=>q126_original
+Ah, thank you, thank you. I knew you would take care of my Ahka. <end>
+
+=>q126
+Ах, спасибо, спасибо. Я знал, что ты позаботишься об Ака.<end>
+
+=>q127_original
+<end>
+
+=>q127
+<end>
+
+=>q128_original
+I hope you used it to kill some evil people to death, ehehe.<end>
+
+=>q128
+Надеюсь, ты используешь её, чтобы убивать злых людей, хе-хе.<end>
+
+=>q129_original
+::He takes a closer look at it.::
+
+What this?<end>
+
+=>q129
+::Он присматривается.::
+
+Что это?<end>
+
+=>a130_original
+I took the liberty of touching up the rifle a bit. Not just visually, mind you, you'll also find that it performs a lot better now.<end>
+
+=>a130
+Я взял на себя смелость немного подправить винтовку. Не только визуально, как заметно на первый взгляд, также теперь она работает намного эффективнее.<end>
+
+=>q131_original
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO! AHKA!<end>
+
+=>q131
+НЕ-Е-ЕТ! АКА!<end>
+
+=>q132_original
+What-- why-- whenever-- Why do this!? It was, how I say, oooooohhhh - *perfect*!
+
+Oh...<end>
+
+=>q132
+Что... зачем... когда бы то ни было... Зачем это делать!? Это было, как бы это сказать, о-о-ох - *идеально*!
+
+Ох...<end>
+
+=>q133_original
+The, what it called...? - *Handguard!* The handguard had grooves, notches and battle scars. ::He passes over it with his hand.::
+
+Although... now my grip is better... somehow.<end>
+
+=>q133
+То, что это называлось...? - *Цевьё!* На цевье были бороздки, зазубрины и боевые шрамы. ::Он проводит по нему рукой.::
+
+Хотя... теперь моя хватка стала лучше... каким-то образом.<end>
+
+=>q134_original
+And the stock of butt, the way it rested against my shoulder... 
+
+Hey, this is comfy. Like, errr, it was made just for me.<end>
+
+=>q134
+И приклад, то, как он упирался мне в плечо...
+
+Эй, здесь очень удобно. Мол, э-э-э, это было сделано только для меня.<end>
+
+=>q135_original
+But, but, but, errr, does it work? Check this trigger, check! ::He almost pulls the trigger without making sure the chamber is empty, but reason caught up with him and he ejects the magazine and pulls the charging handle.::
+
+::Then he pulls the trigger.:: Click! ::Click.:: You hear?
+
+::Click.:: Hey, no slack anymore. ::Click.:: Ehehe. And the handle, it pulls smooth, like butt of bebechka.<end>
+
+=>q135
+Но, но, но, э-э-э, это работает? Проверь этот переключатель, проверь! ::Он почти нажимает на спусковой крючок, не убедившись, что патронник пуст, но сообразив, извлекает магазин и перезаряжает оружие.::
+
+::Затем он нажимает на спусковой крючок. ::Щёлк! ::Щёлк.:: Ты слышишь?
+
+::Щёлк.:: Эй, больше никакой слабины. ::Щёлк.:: Эхе-хе. И ручка, она тянется гладко, как масло бебешки.<end>
+
+=>a136_original
+So, how do you like it?<end>
+
+=>a136
+Ну как, тебе нравится?<end>
+
+=>q137_original
+I... 
+
+...like. But is it Ahka if everything is different? Does it still kick like toothless grizozirg, or six cans of kzozel yantar? Does it sound like million hammers smashing all at once, and does it still make enemies release bowels when you shoot at them?<end>
+
+=>q137
+Я...
+
+...мне нравится. Но разве это Ака, если всё по-другому? Он всё ещё пинается, как беззубый гризозирг или шесть банок янтарного кзозеля? Звучит ли он как будто миллионы молотков бьют одновременно, и выпускает ли врагам кишки, при стрельбе по ним?<end>
+
+=>q138_original
+::He inspects the rifle some more, caressing it with a tear in his eye. And then he smiles.::
+
+Ehehe. How can it not kick and roar and tear men to bitlets? It just younger and freshened up, like man who stopped drinking too much, lost extra weight, took a good bath and had a good wife, yes. Better!<end>
+
+=>q138
+::Он ещё несколько мгновений осматривает винтовку, лаская её со слезой на глазах. А потом улыбается.::
+
+Эхе-хе. Как он может не брыкаться, не рычать и не рвать людей на кусочки? Он просто помолодел и посвежел, как человек, который перестал слишком много пить, сбросил лишний вес, принял хорошую ванну и у которого была хорошая жена, да. Лучше!<end>
+
+=>q139_original
+::He inserts the magazine back in.::
+
+This is Ahka. Ready to ra-ta-ta-ta-ta evil people - to death!
+
+::He then flips the safety on.::<end>
+
+=>q139
+::Он вставляет магазин обратно.::
+
+Это Ака. Готов ра-та-та-та-та злых людей - до смерти!
+
+::Затем он ставит пистолет на предохранитель.::<end>
+
+=>a140_original
+If you don't like it...<end>
+
+=>a140
+Если не нравится...<end>
+
+=>q141_original
+No. <end>
+
+=>q141
+Нет.<end>
+
+=>a142_original
+Enjoy your refurbished rifle, friend.<end>
+
+=>a142
+Наслаждайся своей обновлённой винтовкой, $(#друг/подруга).<end>
+
+=>a143_original
+That rifle of yours...<end>
+
+=>a143
+Это твоя винтовка...<end>
+
+=>q144_original
+My puschka? That, errr: *Ah-Ka-Eeks* - or how I call it - *Ahka*. It very old rifle, from distant past. I, how you say, inherit it from my grandfather, who got it from his father, who stole it from his father, who was keeping it locked away from his senile father named Kvaromir, who also got it from his father, who found it in a hole next to a dead neighbor. This puschka, it... errr, how you say, killed many people to death. 
+
+It good puschka, yes.<end>
+
+=>q144
+Моя пушка? Э-э-э *А-Ка-Эс*, или как зову её я -- *Ака*. Это очень старая винтовка, из далёкого прошлого. Я, как я уже говорил раньше, унаследовал её от дедушки, который, в свою очередь, получил её от своего отца, который украл её у своего отца, который держал её под замком от своего свихнувшегося отца по имени Кваромир, также получившего его от своего отца, который нашёл её в яме рядом с мёртвым соседом. Эта пушка, она... э-э-э, как бы это сказать, насмерть убила многих.
+
+Хорошая пушка, да.<end>
+
+=>q145_original
+<end>
+
+=>q145
+<end>
+
+=>a146_original
+Wanna trade it for something?<end>
+
+=>a146
+Хочешь обменять её на что-нибудь?<end>
+
+=>q147_original
+I... You... I...<end>
+
+=>q147
+Я... вы... я...<end>
+
+=>q148_original
+You great fighter, the best of okay, but I... ah, how you say... I feel very great emotional attachment to my Ahka. <end>
+
+=>q148
+Ты великий боец, наверное лучш$(#ий/ая) из лучших, но я... ах, как бы это сказать... я чувствую сильную эмоциональную привязанность к моему Ака.<end>
+
+=>q149_original
+I could not trade it. Never.<end>
+
+=>q149
+Я не продам его. Ни за что.<end>
+
+=>a150_original
+::[Persuade]:: Let me borrow it then. Don't worry, I'll take good care of her. Got my own ammo and everything - I just need the rifle.<end>
+
+=>a150
+::[Убеждение]:: Тогда позволь мне одолжить её. Не волнуйся, я позабочусь об этой малышке. Патроны и всё остальное у меня есть - не хватает только винтовки.<end>
+
+=>q151_original
+Wait... Why you say *her*? It is not woman.<end>
+
+=>q151
+Погоди... Ты только что сказал$(#/а) *малышке*? Это же не женщина.<end>
+
+=>a152_original
+Some people like to give their guns a female name. Ahka sounded... female to my ears.<end>
+
+=>a152
+Некоторым людям нравится давать своему оружию женские имена. Ака для меня звучит... по-женски.<end>
+
+=>q153_original
+But it doesn't make high noises that irritate drums of ears. It make very, very manly *doom-doom-doom* noises! Nothing gentle about Ahka.<end>
+
+=>q153
+Но он не издаёт высоких шумов, раздражающих барабанные перепонки. Он издаёт очень-очень мужественные звуки *дум-дум-дум*! Ака нисколько не нежный.<end>
+
+=>a154_original
+Forget "her". Pretend I didn't say it.<end>
+
+=>a154
+Забудь про *малышку*. Считай, что я этого не говорил$(#/а).<end>
+
+=>q155_original
+But... but it is *it*, not her. You should say *it* for rifle, I think. Why you confuse me? Oh, grammar difficult in your language! It breaks my head in four - no, eight!<end>
+
+=>q155
+Но... это ни в коем случае не малышка. Думаю, тебе стоит называть мою винтовку *он*. Зачем ты меня путаешь? Какой же сложный у вас язык! Моя голова разрывается на четыре, нет - восемь частей!<end>
+
+=>a156_original
+Can I have the damn gun or not?<end>
+
+=>a156
+Можно мне это грёбаное оружие или нет?<end>
+
+=>q157_original
+<end>
+
+=>q157
+<end>
+
+=>q158_original
+You did bring me czernina, you knew I liked...<end>
+
+=>q158
+Вы принесли мне чернину, вы знаете, что я люблю...<end>
+
+=>q159_original
+::He hesitates a bit, then offers you the weapon, holding it by the handguard.:: 
+
+Okay. I trust you. You can have Ahka for a while - until next mission.<end>
+
+=>q159
+::Он немного колеблется, затем передаёт вам оружие, держа его за приклад.::
+
+Ладно. Я тебе доверяю. Вот, держи Ака, но только до следующего задания.<end>
+
+=>q160_original
+Take good care of Ahka, and don't use *crappy* bullets. Give Ahka, how you say, the best of okay, yes.
+
+<end>
+
+=>q160
+Позаботься об Ака, и не используй *дерьмовые* пули. Давай Ака, как вы говорите, лучшее из хорошего, да.
+
+<end>
+
+=>q161_original
+And, errr... czernina?<end>
+
+=>q161
+И, э-э-э... чернина?<end>
+
+=>a162_original
+As promised. ::Hand him the can.::<end>
+
+=>a162
+Конечно. ::Передать ему банку.::<end>
+
+=>q163_original
+Thank you, thank you, thank you! <end>
+
+=>q163
+Спасибо, спасибо, спасибо!<end>
+
+=>q164_original
+I eat this, how you say - slowly, and with awesome pleasure, yes.<end>
+
+=>q164
+Я ем её, как вы говорите - медленно, и с потрясающим удовольствием, да.<end>
+
+=>q165_original
+I start now. ::He licks his lips while reaching for a can opener in his pocket; a few crunches later and he's already absorbing the mind-bending fragrances from the open can.::
+
+Mmmm, more schto gu zplno rnda! Uf!<end>
+
+=>q165
+Я начинаю прямо сейчас. ::Он облизывает губы, доставая из кармана консервный нож; несколько хрустов спустя, и он уже впитывает умопомрачительные ароматы из открытой банки.::
+
+М-м-м, ещё щто гу зпльно рнда! Уф!<end>
+
+=>q166_original
+::Somehow he is now holding a spoon - a bizzare display of a hungry man's sleight of hand.::
+
+Errr... what were we talking about? ::He says and takes a mouthful of czernina.::<end>
+
+=>q166
+::Каким-то образом он теперь держит ложку - причудливое проявление ловкости рук голодного человека.::
+
+Эм... о чём мы говорили? ::Говорит он и делает глоток чернины.::<end>
+
+=>q167_original
+I'll be here.<end>
+
+=>q167
+Я буду здесь.<end>
+
+=>q168_original
+<end>
+
+=>q168
+<end>
+
+=>q169_original
+I... sorry. I can't. I just don't feel, how you say... comfortable to give Ahka to anyone yet. You understand, yes.<end>
+
+=>q169
+Я... прости. Я не могу. Я просто, как бы это сказать... чувствую себя не в своей тарелке, передавая Ака кому-либо ещё. Ты ведь меня понимаешь.<end>
+
+=>a170_original
+Forget what I said. About the rifle...<end>
+
+=>a170
+Забудь, что я сказал$(#/а). Так вот, по поводу винтовки...<end>
+
+=>a171_original
+Never mind that. About the rifle...<end>
+
+=>a171
+Неважно. Так вот, по поводу винтовки...<end>
+
+=>a172_original
+::[Persuade]:: Let me borrow it then. Don't worry, I'll take good care of it. Got my own ammo and everything - I just need the rifle.<end>
+
+=>a172
+::[Убеждение]:: Тогда позволь мне одолжить её. Не волнуйся, я позабочусь об этой малышке. Патроны и всё остальное у меня есть - не хватает только винтовки.<end>
+
+=>a173_original
+Shame. Let's talk about something else, then.<end>
+
+=>a173
+Стыдно. Тогда поговорим о чём-нибудь другом.<end>
+
+=>q174_original
+Yes. Let's.<end>
+
+=>q174
+Да. Давайте.<end>
+
+=>q175_original
+<end>
+
+=>q175
+<end>
+
+=>a176_original
+::[Persuade]:: Don't worry, I'll take good care of her. Got my own ammo and everything - I just need the rifle.<end>
+
+=>a176
+::[Убеждение]:: Не волнуйся, я позабочусь об этой малышке. Патроны и всё остальное у меня есть - не хватает только винтовки.<end>
+
+=>a177_original
+::[Persuade]:: Don't worry, I'll take good care of it. Got my own ammo and everything - I just need the rifle.<end>
+
+=>a177
+::[Убеждение]:: Не волнуйся, я позабочусь об этой малышке. Патроны и всё остальное у меня есть - не хватает только винтовки.<end>
+
+=>q178_original
+But I need my Ahka! To ra-ta-ta-ta-ta evil people! Big battles coming up!<end>
+
+=>q178
+Но мне нужен мой Ака! Чтобы тра-та-та-та-та злых людей! Большие битвы грядут!<end>
+
+=>q179_original
+Later... maybe I let you touch it later. <end>
+
+=>q179
+Позже... может быть я дам вам потрогать его позже.<end>
+
+=>q180_original
+But no trade. Trade, never.<end>
+
+=>q180
+Но никакой торговли. Торговля, ни за что.<end>
+
+=>a181_original
+Mind if I borrow it for a while? Looks... fun to shoot.<end>
+
+=>a181
+Не возражаете, если я заберу её на время? Похоже, стрелять из неё... весело.<end>
+
+=>a182_original
+Let's talk about something else.<end>
+
+=>a182
+Давайте поговорим о чём-нибудь другом.<end>
+
+=>a183_original
+About your rifle...<end>
+
+=>a183
+Насчёт винтовки...<end>
+
+=>q184_original
+Ahka. My puschka.<end>
+
+=>q184
+Ака. Моя пушка.<end>
+
+=>a185_original
+You mentioned czernina. Were you talking about this? ::Show him canned czernina.::<end>
+
+=>a185
+Вы упомянули чернину. Вы говорили об этом? ::Показать ему законсервированную чернину.::<end>
+
+=>q186_original
+It... ::He looks at the can, and soon a smile of reminiscence brightens his face.:: It czernina! Ohhhh, schto sam suzsheleo, bre!<end>
+
+=>q186
+Это же... ::Он смотрит на банку, и вскоре улыбка воспоминаний озаряет его лицо.:: Это же чернина! Охххх, што сам сужелео, бре!<end>
+
+=>q187_original
+Can I... can I have some?<end>
+
+=>q187
+Можно ли... можно и мне немного?<end>
+
+=>a188_original
+Sure. ::Hand him the can.::<end>
+
+=>a188
+Конечно. ::Передать ему банку.::<end>
+
+=>a189_original
+::[Persuade]:: It's yours - if you let me borrow your rifle for a little while. I'll take good care of her. Got my own ammo and everything - I just need the rifle.<end>
+
+=>a189
+::[Убеждение]:: Она твоя - позволь мне одолжить её. Не волнуйся, я позабочусь об этой малышке. Патроны и всё остальное у меня есть - не хватает только винтовки.<end>
+
+=>a190_original
+::[Persuade]:: It's yours - if you let me borrow your rifle for a little while. I'll take good care of it. Got my own ammo and everything - I just need the rifle.<end>
+
+=>a190
+::[Убеждение]:: Она твоя - позволь мне одолжить её. Не волнуйся, я позабочусь о ней. Патроны и всё остальное у меня есть - не хватает только винтовки.<end>
+
+=>a191_original
+I did not get this cheap. It's yours for fifty charons.<end>
+
+=>a191
+Она досталось мне не дёшево. Отдам за пятьдесят харонов.<end>
+
+=>q192_original
+::He grabs a handful of coins from his pouch...:: Yeees. ::...counts them, and gives them to you.::
+
+Yes! ::And then he pretty much snatches the can from your hand.::<end>
+
+=>q192
+::Он достаёт горсть монет из своего мешочка...:: Да. ::...пересчитывает их и отдаёт вам.::
+
+Да! ::И тогда он выхватывает банку из ваших рук.::<end>
+
+=>q193_original
+Mine! <end>
+
+=>q193
+Мне!<end>
+
+=>a194_original
+Maybe later.<end>
+
+=>a194
+Может быть, позже.<end>
+
+=>q195_original
+Ah, I see, you save it for great celebration of greater victory!
+
+<end>
+
+=>q195
+А, я понял, вы храните её для великого празднования великой победы!
+
+<end>
+
+=>q196_original
+Err, but greater victory was... victored at S-R-O. Maybe there's even greater, hmmm...<end>
+
+=>q196
+Эм-м, более великая победа была... одержана в S-R-O. Может быть, есть ещё более великая, хм-м-м...<end>
+
+=>q197_original
+I wait. I'm patient. Like crawler from shadows.<end>
+
+=>q197
+Я жду. Я терпелив. Как краулер в темноте.<end>
+
+=>a198_original
+No.<end>
+
+=>a198
+Нет.<end>
+
+=>a199_original
+I would like to exchange some zlatortiyas for charons.<end>
+
+=>a199
+Я хотел$(#/а) бы обменять несколько златортий на хароны.<end>
+
+=>a200_original
+::[Intelligence]:: So basically, you are a traditionalist coming from a militaristic autocracy from the far west in order to help a radical anarchist group from North Underrail fight a militaristic, expansionist organization also from the North that is threatening to occupy South Underrail as well as to maintain its totalitarian rule in the North.<end>
+
+=>a200
+::[Интеллект]:: Выходит, что ты -- традиционалист родом из милитаристического самодержавного государства -- приехал с далёкого запада, чтобы помочь группе экстремальных анархистов из Северной Подземки бороться против милитаристской, экспансионисткой организации, также с Севера, которая грозит захватить ещё и Южную Подземку, чтобы укрепить своё тоталитарное господство на Севере.<end>
+
+=>q201_original
+I don't know what you say. I come here to help people be free and to break evil in four. Evil spread if you don't, errr, break it in four like the spine of a vermin animal, like glazdna or the big rovach.<end>
+
+=>q201
+Я не знаю, что ты сказал$(#/а). Я пришёл сюда, чтобы помочь людям быть свободными и чтобы порвать зло на тряпки. Зло распространяется, если ты... эр-р... не порвёшь его на тряпки, как шкуру животного грызуна, как глаздна или большой ровач.<end>
+
+=>q202_original
+My heart is in the right place, I know it.<end>
+
+=>q202
+Моё сердце в правильном месте, я это знаю.<end>
+
+=>a203_original
+Tell me more about Fatherland.<end>
+
+=>a203
+Расскажи мне про Отечество.<end>
+
+=>q204_original
+Fatherland is one, how you say, very much great place. It west of here, far away. It more open caves and space, not so much metro and caves tighter than Ulyuk Ndzslav's pants, and there many places in it, like my place, Chniokovo Ludilo, but also Drznavgrad - capital, Gudrava Poschkontnitza, Plop and Tuchuznt. 
+
+We have trains too, but here rail is life, while in Fatherland rail is very, very important, but still means of transportation and is not life. Here people derailed, there people crazy - mad, cuckoo. You know what I mean?<end>
+
+=>q204
+Отечество -- это такое, как вы говорите, очень сильно великое место. Оно на западе отсюда, очень далеко. В нём больше пещер и места, не так много метро и пещер уже чем штаны Улюк Ндзслава, и в нём много разных мест, например моё место -- Чнёково Людило, а ещё Дрзнавград -- столица, Гудрава Пощконтница, Плоп и Тучузнт.
+
+У нас есть поезда тоже, но здесь рельса -- это жизнь, а в Отечестве рельса очень, очень важна, но только средство передвижения, а не жизнь. Здесь люди поехавшие, там -- люди чокнутые, очумелые, ку-ку. Понимаешь, что я сказал?<end>
+
+=>q205_original
+And one thing I notice here is we have Fatherland, but you don't have South Underrail. Errr, to us Fatherland is every - how you say - every station, every man and all land that is ours. All that is Fatherland - ours. Here, everyone is for himself, his family or his group, but never whole South Underrail. You don't hear someone yell "For South Underrail, zdrganlpno!" You understand? You might say for Free Drones, for Core City or Camp Hatathor, but never South Underrail. You live in South Underrail, but South Underrail does not live in you. I would fight for Fatherland, but you people see South Underrail just as land you live in. It hard to explain, errr, it very much hard as nails to explain.<end>
+
+=>q205
+И ещё одна вещь я заметил здесь, что у нас есть Отечество, а у вас нет Южной Подземки. Эр-р, для нас Отечество -- это каждая, как вы говорите, каждая станция, каждый человек и вся земля, которая наша. Всё, что Отечество -- наше. Здесь каждый сам за себя, за его семью или его группу, но никогда за всю Южную Подземку. Ты не слышишь, как кто-то крикнул: «За Южную Подземку, здрганлпно!» Понимаешь? Ты можешь сказать за Вольных шершней, за Кор-Сити или за Лагерь Хатор, но никогда за Южную Подземку. Ты живёшь в Южной Подземке, но Южная Подземка не живёт в тебе. Я бы сражался за Отечество, но вы видите Южную Подземку только как землю, в которой вы живёте. Это трудно объяснять, эр-р, это очень сильно трудно объяснять.<end>
+
+=>q206_original
+But, that is why we have big army, united army, to defend Fatherland. And a great leader, because a good leader is the *best* way to run, errr, how you say - society, while bad leader is the worst. Ne zplno.<end>
+
+=>q206
+Но поэтому у нас большая армия, единая армия -- чтобы защищать Отечество. И великий лидер, потому что хороший лидер -- это *лучший* способ управлять, эр-р, как вы говорите, сообществом, а плохой лидер -- это худший. Не зплно.<end>
+
+=>a207_original
+What can you tell me about your fatherland's military?<end>
+
+=>a207
+Что ты можешь рассказать о вооружённых силах твоего Отечества?<end>
+
+=>q208_original
+I tell you, but don't wear our uniform again, okay?<end>
+
+=>q208
+Я скажу тебе, но не носи нашу форму снова, хорошо?<end>
+
+=>q209_original
+Our army strong, very much to the best strong. It contains many men, all well trained and ready to break in four, ehehe. I also served in our great army, and fought. Not great enemy armies of past, no, but bandits and evil men coming from east - from here, gudravtzi plmazni... ::He mutters the rest to himself.:: And those barbar-men from southwest, gudravtzi neoklkopevani...<end>
+
+=>q209
+Наша армия сильная, очень наибольше сильная. Она содержит много мужчин, все из них хорошо тренированные и готовые рвать на тряпки, э-хе-хе. Я тоже служил в нашей армии и сражался. Не с великими армиями из прошлого -- нет, -- а с бандитами и злыми людьми из востока -- отсюда, гудравцы плмазни... ::Он что-то ещё бурчит себе под нос.:: И с этими варварскими людьми из юго-запада, гудравцы неоклкопевани...<end>
+
+=>q210_original
+Our army keeps Fatherland safe, but scum from all around sometimes sneaks in more and more and threaten our freedom.<end>
+
+=>q210
+Наша армия держит Отечество в безопасности, но отбросы со всей округи иногда пробираются всё больше и больше и угрожают нашей свободе.<end>
+
+=>a211_original
+So I suspect you have have a lot of military bases there?<end>
+
+=>a211
+Значит, я так полагаю, у вас там много военных баз?<end>
+
+=>q212_original
+Yes, many. I served in Tratischevo, south of Brazgrzna and just northeast of Chopava Baba. It was, how we say, slavno, which means so-good-you-want-to-celebrate-it-from-time-to-time-by-making-big-feast. Yes. But there are many other bases of army.<end>
+
+=>q212
+Да, много. Я служил в Тратищево, к югу от Бразгрзны и чуть к северо-востоку от Чоповы Бабы. Это было, как мы говорим, славзно, что значит так-хорошо-что-ты-хочешь-праздновать-это-время-от-времени-большим-обедом. Да. Но есть много других баз армии.<end>
+
+=>q213_original
+I remember... in Tratischevo, there was fat cook woman that made best czernina I ever eat in life. Even my mama - mother, or my matoramama - grandmother, they don't make that good czernina. Sadly no.<end>
+
+=>q213
+Я помню... в Тратищево была толстая повар-женщина, которая сделала лучшую чернину, которую я пробовал в жизни. Даже моя мама -- мать или моя маторамама -- бабушка, -- они не делают такую хорошую чернину. Жалко -- нет.<end>
+
+=>a214_original
+Tell me about the leader of Fatherland.<end>
+
+=>a214
+Расскажи мне о лидере Отечества.<end>
+
+=>q215_original
+We have leader, it is Nadbojvod Jarkov Mochnik. He our leader, or how you say - the alpha male of the house, ehehe. Oh, Nadbojvod is his title - it better title than military general, much better. General is like bojvod, while something like overgeneral is like nadbojvod. But ours would still be very much so better, yes, ehehe.<end>
+
+=>q215
+У нас есть лидер -- это Надбойвод Ярков Мохник. Он наш лидер, или, как вы говорите, вожак в доме, э-хе-хе. А, Найбойвод -- это его звание; это высшее звание, чем военный генерал, гораздо высшее. Генерал -- это как бойвод, а что-то как сверхгенерал -- это как надбойвод. Но наш всё равно очень намного выше, да, э-хе-хе.<end>
+
+=>a216_original
+I had other questions.<end>
+
+=>a216
+У меня были другие вопросы.<end>
+
+=>q217_original
+I have other answers, ehehe.<end>
+
+=>q217
+У меня есть другие ответы, э-хе-хе.<end>
+
+=>a218_original
+Tell me more about Nadbojvod Mochnik.<end>
+
+=>a218
+Расскажи мне о Надбойводе Мохнике.<end>
+
+=>q219_original
+He man like every man should be. He has stayed with same woman even though he could have every one of them; has many, many little Mochniks, so his strong bloodline will not die; cherishes our tradition, culture and faith, and is domachin - a great hospitable homeowner. It very important in Fatherland. <end>
+
+=>q219
+Он мужчина, какой должен быть каждый мужчина. Он остался с одной женщиной, хотя он мог иметь их всех; у него много маленьких Мохников, чтобы его сильный род не умер; он хранит нашу традицию, культуру и веру, и он домачин - сильно гостеприимный хозяин дома. Это очень важно в Отечестве.<end>
+
+=>q220_original
+We have big army, very big army - but he never send us to attack other, we only defend from evil, yes. Many want to destroy us, but we break them in four! Evil army, bandit, barbar-men or animal - we break them all in four. He best leader! And he has mustache that throw great shadows - like a real man should.<end>
+
+=>q220
+У нас большая армия, очень большая армия, но он никогда не посылал нас нападать на других, мы только защищаем от зла, да. Многие хотят разрушить нас, но мы рвём их на тряпки! Злые армии, бандиты, варвары или животные - мы всех рвём на тряпки. Он лучший лидер! А его усы отбрасывают большие тени - как и положено настоящему мужчине.<end>
+
+=>q221_original
+He is stern but fair, like a father. He tells us what must be done, and we all know our place, women too, but we are free. More free than Free Drones, who get shot by everyone, very evil or not very evil. And we have everything we need: family, food, home and good life. We, we have our land - our Fatherland, and we have it because of Nadbojvod, yes. He great!<end>
+
+=>q221
+Он строгий, но честный, как отец. Он говорит нам, что нужно делать, и мы все знаем наше место, женщины тоже, но мы свободные. Больше свободные, чем Вольные шершни, в которых стреляют все -- очень злые и не очень злые. И у нас есть всё, что нам нужно: семья, еда, дом и хорошая жизнь. У нас есть наша страна -- наше Отечество, и она у нас есть благодаря Надбойводу, да. Он великий!<end>
+
+=>a222_original
+Did you ever see him in person?<end>
+
+=>a222
+Ты когда-нибудь виделся с ним лично?<end>
+
+=>q223_original
+Of course. His brother-by-aunt Opeslav Drmni is my family's above neighbor - you know, living above us - so Nadbojvod often comes to Chniokovo Ludilo for feast or just visit. I feel pride for Fatherland every time I see him. Even now, as I remember him... it makes, how you say, feeling of Fatherland love grow in me - I fatheriotic. 
+
+Nadbojvod once shook my hand even! Oh, that day I will never forget. Only if bullet blow my head to, as you say, muck.<end>
+
+=>q223
+Конечно. Брат его тёти Опеслав Дрмни -- верхний сосед моей семьи. Это, знаешь, он живёт над нами, так что Надбойвод часто приезжает в Чнёково Людило на обед или просто в гости. Я чувствую гордость Отчеством каждый раз, когда вижу его. Даже сейчас, когда я вспоминаю его... это заставляет, как вы говорите, чувство Отечественной любви расти во мне -- я отечествиот.
+
+Надбойвод однажды пожал мне руку даже! О, тот день я никогда не забуду. Только если пуля разовет мою голову, как вы говорите, в шлак.<end>
+
+=>a224_original
+Why were you married six times, Kokoschka?<end>
+
+=>a224
+Почему ты был женат шесть раз, Кокошка?<end>
+
+=>q225_original
+Oh, it great shame, I don't like talk about it. Where I from, to be married so many times not considered good, not for a family man.<end>
+
+=>q225
+О, это большой позор, мне не нравится говорить об этом. Откуда я, быть женатым много раз -- это не считается хорошо для семейного мужчины.<end>
+
+=>a226_original
+::[Persuade]:: I won't tell anyone. My lips are sealed. And besides, I think you'll feel a bit better if you open your heart a little.<end>
+
+=>a226
+::[Убеждение]:: Я никому не скажу. Мой рот на замке. И кроме этого, я думаю, ты почувствуешь себя чуть лучше, если немного приоткроешь своё сердце.<end>
+
+=>q227_original
+Open heart surgery? Errr, like with doctor-knife?<end>
+
+=>q227
+Операция на открытом сердце? Эээ, типо докторским ножом?<end>
+
+=>a228_original
+As in confide in others, talk about private things you wouldn't tell just about everyone.<end>
+
+=>a228
+Это значит довериться кому-то, рассказать о личном, о чём ты бы не рассказал кому попало.<end>
+
+=>q229_original
+Oh. <end>
+
+=>q229
+Ох.<end>
+
+=>q230_original
+<end>
+
+=>q230
+<end>
+
+=>q231_original
+Okay, I tell you. <end>
+
+=>q231
+Ладно, я тебе скажу.<end>
+
+=>q232_original
+I love women too much. They nice, pretty, make tummy go heaven and mind go away. They cook for you, take care of you and make sure you have what you need to be head of family and home. They can't do what men can, but men can't do some things woman can, like have bosom, remember all things, notice every detail in world, see through all lies of all men, and talk and talk and talk until man has to tell her to shut up. <end>
+
+=>q232
+Я слишком много люблю женщин. Они милые, красивые, от них живот улетает в небо, а ум улетает прочь. Они для тебя готовят, они за тебя заботятся, и они смотрят, чтобы у тебя всё было, чтобы быть головой семьи и дома. Они не могут делать, что могут делать мужчины, но мужчины могут делать некоторое, что могут делать женщины, например иметь грудь, помнить про всё, замечать всю деталь в мире, видеть насквозь всю ложь всех мужчин, и говорить, и говорить, и говорить, пока мужчине не придётся сказать ей, чтобы она заткнулась.<end>
+
+=>q233_original
+And if man does woman-work he does not do things he great at. Home suffer. Family suffer. Children hungry and go whaaaaa! And if woman try to do man-work, man laugh. Ehehe. Some can do good at certain things, not all, but those rare and often half-man anyway. Normal woman, woman woman, she can never be like man. And that is why I love them, because they are women.<end>
+
+=>q233
+Но когда мужчина делает работу женщины, то он не делает работу, которую он хорошо делает. Дом страдает. Семья страдает. Дети голодные и делают у-а-а-а-а-а! А если женщина делает работу мужчины -- мужчина смеётся. Кто-то может хорошо делать работу, не все, но такие редкие и часто всё равно полу-мужчины. Нормальная женщина, женская женщина, -- она никогда не может быть как мужчина. И это за что я их люблю -- за что они есть.<end>
+
+=>q234_original
+But some woman, how you say, horrible hardcore, they make you think they love you, they good in kitchen, they take care of family, they good in bed like: "Oh, yes, I want more now!" But that you just taste, enough to make you think it good for wife, and then they betray you and show their real face. I have married those women, and also got their mothers as, how we say, present full of dog dirt. ::He sighs.:: And mothers are even worse; like mother-in-law - like eternal pain.<end>
+
+=>q234
+Но какая-то женщина, как вы говорите, ужасная хардкор -- ты будешь думать, что они тебя любят, они хорошие на кухне, они хорошие в кровати, как о, да, я теперь хочу больше. Но это для тебя просто приманка, она такая достаточная для тебя, чтобы ты подумал, что она хорошая для жены, и тогда они предали тебя и показали их настоящее лицо. Я женился на тех женщинах и ещё получил их матери, которые, как мы говорим, такие, как подарок из собачьей грязи. ::Он вздыхает.:: И матери ещё сильнее хуже, как тёщи -- как боль такая, которая без конца.<end>
+
+=>q235_original
+When you check woman, you check how good her family, and in small places you know how good is a family. Good family - good woman most of the time. But all good women were already married in Chniokovo Ludilo, so I had to look outside. And you don't know their family well, so they trick you, how you say, more easy. Then you marry, and then it is too late.<end>
+
+=>q235
+Когда ты смотришь женщину, то ты смотришь, какая хорошая её семья, и в маленьком месте ты знаешь, какая хорошая семья. Хорошая семья -- хорошая женщина, обычно. Но все хорошие женщины уже были жены в Чнёково Людиле, поэтому я смотрел в другом месте. И ты не знаешь их семью, и они обманули тебя, как вы говорите, сильно легко. Тогда ты женился, и тогда слишком поздно.<end>
+
+=>q236_original
+I marry - and she, how you say, frolic with other man. 
+
+I marry - and she cook like she has three left arms. Or does not cook at all! I marry, and she cares more about look than home and family. 
+
+I marry - and when we go in bed her head go, as we say, boom like doom. No splitting that night, or any night, oh no! 
+
+I marry... and she run away and leave mother-in-law to me.<end>
+
+=>q236
+Я женился - а она, как бы сказать, резвится с другим мужиком.
+Я женился - а она готовит, как-будто у неё три левых руки. Или не готовит вообще!
+Я женился - а она больше заботится о своей внешности, чем о доме и семье.
+Я женился - а когда мы ложимся в постель, у неё раскалывается голова. Ни в эту ночь, ни в любую другую, о нет!
+Я женился... а она сбежала, оставив мне тёщу.<end>
+
+=>q237_original
+I was fool once, then I said no - I will find good woman. I was fool twice, I said no again... and so on. I was one fool six times, and it was... the same every time. I have to marry - what is man without family? - but I fear it brings me more pain.<end>
+
+=>q237
+Я уже был дураком, потом сказал нет - найду хорошую женщину. Я был дураком во второй раз, и снова сказал "Нет"... и так далее. Я был дураком шесть раз, и каждый раз было одно и то же. Я должен жениться снова - ведь что такое мужик без семьи? - но я опасаюсь, что это принесёт мне только ещё больше боли.<end>
+
+=>q238_original
+I love women... but they can be cruel. I can order them, but then it not love. Julia... Julia my Darling is different. I see what she is like in life without her trying to confuse me, trick me or, how you say, dominate my mind, yes. She cook good, she look good, she cares about people. And no mother-in-law! I think I have learned, how you say, a thing or two so far. I am not making the same mistake again. Or I am wrong and I will become... bigger fool than before. ::He shrugs.::<end>
+
+=>q238
+Я люблю женщин, но они бывают жестокие. Я мог приказать им, но тогда это не любовь. Джулия... Джулия моя Дарлинг -- другая. Я вижу, какая она в жизни, и она не пытается запутать меня, обмануть меня или, как вы говорите, задоминировать мне ум, да. Она готовит хорошо, она выглядит хорошо, она заботится о людях. И нет тёщи! Я думаю, я выучил, как вы говорите, одну или две вещи теперь. Я не сделаю ошибку опять. Или я ошибся, и я стану... ещё сильнее дурак, чем раньше. ::Он пожимает плечами.::<end>
+
+=>q239_original
+::He pauses.:: I had little Kokoschkas with some of my wives... 
+
+But they take them away.
+
+What is man without family?<end>
+
+=>q239
+У меня были маленькие Кокошки с некоторыми из моих жён...
+
+Но они забрали их от меня.
+
+Какой мужчина без семьи?<end>
+
+=>q240_original
+::You see deep sorrow in his expression, but it only takes a moment before he evicts it fiercly and replaces it with his usual, innocent countenance.::
+
+Let's talk about something else. As we say, let's punch worry into joy. Ehehe.<end>
+
+=>q240
+::Печаль поселяется на его лице, но уже мгновение спустя он решительно прогоняет её, заменяя на своё обычное невинное выражение.::
+
+Давай говорить про что-то другое. Как мы говорим, давай забьём печаль в радость. Э-хе-хе.<end>
+
+=>q241_original
+I am sorry, but I can't. I trust you, but I just can't. We talk something else, it okay?<end>
+
+=>q241
+Прости меня, но я не могу. Я верю тебе, но просто я не могу. Мы поговорим про что-то другое, это ладно?<end>
+
+=>a242_original
+Exactly.<end>
+
+=>a242
+Именно.<end>
+
+=>q243_original
+But that painful and brings death. Oh, you joke. You trick me. Ehehe. I don't get joke.<end>
+
+=>q243
+Но это больно, и потом смерть. Ох, ты пошутил$(#/а). Ты меня обманул$(#/а). Э-хе-хе. Я не понял шутку.<end>
+
+=>a244_original
+We better discuss something else.<end>
+
+=>a244
+Давай лучше обсудим что-нибудь другое.<end>
+
+=>a245_original
+We conquered South Railroad Outpost together, Kokoschka. You can trust me.<end>
+
+=>a245
+Мы вместе захватили Форпост южной железной дороги, Кокошка. Ты можешь доверять мне.<end>
+
+=>q246_original
+Okay, I tell you. We break in four together, we share things. We friends, ehehe.<end>
+
+=>q246
+Ладно, я скажу тебе. Мы рвём на тряпки вместе, мы делим вещи. Мы друзья, э-хе-хе.<end>
+
+=>a247_original
+Well... then we'll talk about something else.<end>
+
+=>a247
+Ну... тогда мы поговорим о чём-нибудь другом.<end>
+
+=>q248_original
+It better.<end>
+
+=>q248
+Так лучше.<end>
+
+=>a249_original
+Where are you from, Kokoschka?<end>
+
+=>a249
+Откуда ты, Кокошка?<end>
+
+=>q250_original
+I come from far, far, far west, from Fatherland. There is place there called Chniokovo Ludilo, it very far away. It good to live, not much bandits around to destroy you, and even if some want to attack - we break them in four! That's how we say in Chniokovo Ludilo - errr, break in four! Ehehe.<end>
+
+=>q250
+Я родом издалека, что далеко, далеко на западе отсюда. Там есть место, называется Чнёково Людило, очень далеко. Жить хорошо, не так много бандитов вокруг, кто хочет уничтожить тебя, а даже если кто-то хочет напасть -- мы его рвём на тряпки! Вот как мы в Чнёково Людиле говорим -- эр-р, рвём на тряпки! Э-хе-хе.<end>
+
+=>q251_original
+My father... ::He sighs.:: he very sad when I left. He say to me, "Zarznkalom bulat drobozpol chtekovina ih bre volemto golzmnomno schperidanko." And I say to him, "Tata, pregoznal zrnornznokpa brdalpes?"<end>
+
+=>q251
+Мой отец... ::Он вздыхает.:: он очень грустен, когда я уезжал. Он мне сказал: «Зарзнкалом булат дробозпол чтековина их бре волемто голзмномно шпериданко». А я говорю ему: «Тата, прегознал зрнорнзнокпа брдалпес?»<end>
+
+=>q252_original
+Then he say to me: "Ih bre! Chtogodi pandrkne sin schtopita more gumadron, i prdoslavitche knrzozrn!" And I say to him, "Chto ti osch preslovoka zdeno slobodnika."<end>
+
+=>q252
+А он сказал мне: «Их бре! Чтогоди пандркне син штопита море гумадрон, я прдославитче кнрзозрн!» И я говорю ему: «Что ти ош пресловока здено слободника».<end>
+
+=>q253_original
+Then my mama said, "Pragonosko te snimzolen grvoplasticsk schnoschnosch i prevobre." And then I left home and come here.<end>
+
+=>q253
+Тогда моя мама сказала: «Прагоноско те снимзолен грвопластикс шношнош и превобре». И тогда я ушёл из дома и пришёл сюда.<end>
+
+=>q254_original
+It difficult for me, you know what I mean?<end>
+
+=>q254
+Это сложно для меня, ты знаешь, что я говорю...<end>
+
+=>a255_original
+You mentioned a "great beast" called grizozirg. Care to tell me more about it?<end>
+
+=>a255
+Ты упомянул "великого зверя" по имени гризозирг. Не хочешь рассказать мне о нём поподробнее?<end>
+
+=>q256_original
+Ah, yes, grizozirg. It great beast indeed - grrrrrr! It is big creature, bigger than houndrats, and it is hairy creature, harrier than my third mother-in-law's mustache. Grizozirg walks on all fours and has one mouth on its front side *and* one mouth on its rear side. Yes, it can bite on both sides, and bite hard, because each mouth is filled with big and, how you say, "tazer-sharp" teeth that grow outward. Eh, one tooth goes between the other when the teeth close, yes. You understand?<end>
+
+=>q256
+Ах да, гризозирг. Это в самом деле великий зверь - гр-р-р-р! Большая тварь, больше волкокрыса, и волосатая, волосистее, чем усы моей третьей тёщи. Гризозирг ходит на четырёх и у него один рот спереди и ещё один сзади. Да, он может кусать с двух сторон, и кусать крепко, потому что каждый рот полон больших и, как вы говорите, "острых как битва" зубов, растущих наружу. Э-э, один зуб проходит между других, когда пасть закрывается, ага. Ты понимаешь?<end>
+
+=>a257_original
+Are you trying to say that it has a mouth for butt?<end>
+
+=>a257
+Ты хочешь сказать, что у него есть рот на заднице?<end>
+
+=>q258_original
+No, no, no... Mouth not butt. As the saying goes: "Mouth is mouth, and butt is butt." But it has mouth where butt is on normal animals. Grizozirg not normal. If it had eyes where its rear mouth is, it would be symmetrical when looked from the side!<end>
+
+=>q258
+Нет, нет, нет... Рот не на заднице. Как говорится: "Рот это рот, а задница это задница." Но у него рот там, где у нормальных животных зад. Гризозирг не такой как все. Если бы у него были глаза там, где находится его задний рот, он был бы симметричным, если смотреть сбоку!<end>
+
+=>q259_original
+You see, in my language, "griz" means "to bite," and because grizozirg can bite on both sides with much power and little consideration for victim's welfare, its name has a reverse "griz" on the other end - "zirg". And "o" in middle connects them. Get it? Griz-o-zirg. It look like in mirror, errrrr... 
+
+How you call it here...? 
+
+Ah, a "polydrome," yes.<end>
+
+=>q259
+Видишь ли, на моём языке "гриз" означает "кусать", а так как гризозирг может кусать с обеих сторон с одинаковой силой, не задумываясь о благополучии жертвы, его имя на конце имеет обратное "гриз" слово - "зирг". А буква "о" в центре соединяет их. Понятно? Гриз-о-зирг. Это как в зеркале... 
+
+Как вы это называете?..
+
+А, "полидром", точно.<end>
+
+=>a260_original
+Palindrome.<end>
+
+=>a260
+Палиндром.<end>
+
+=>q261_original
+Yes, poly... polyndrome.<end>
+
+=>q261
+Да, поли... полиндром.<end>
+
+=>a262_original
+No, no: Palindrome. Pal-in-drome.<end>
+
+=>a262
+Нет, нет: палиндром. Па-лин-дром.<end>
+
+=>q263_original
+Pal... paly...<end>
+
+=>q263
+Пал... Пали...<end>
+
+=>a264_original
+Palindrome.<end>
+
+=>a264
+Палиндром.<end>
+
+=>q265_original
+Pael... peel...<end>
+
+=>q265
+Пале... Пил...<end>
+
+=>a266_original
+Palindrome.<end>
+
+=>a266
+Палиндром.<end>
+
+=>q267_original
+Palin... palindrome. Yes, palindrome. Palindrome! I get it now. I good at language!<end>
+
+=>q267
+Палин... палиндром. Да, палиндром. Палиндром! Теперь я понимаю. Я хорошо владею языком!<end>
+
+=>a268_original
+Very good. Now, can a grizozirg eat with both of its mouths?<end>
+
+=>a268
+Отлично. Так может гризозирг есть обоими своими ртами?<end>
+
+=>q269_original
+Oh yes, oh yes. We even have saying: "You so hungry you eat through chair." Get it? Because grizozirgs always hungry and cannot sit in chair like we do because their rear mouth is... Yeeeeeeees, you get it. ::He grins from ear to ear.::<end>
+
+=>q269
+О да, конечно. У нас даже так говорят: "Ты такой голодный, что ешь через стул". Понятно? Ведь гризозирги всегда голодные и, в отличие от нас, на стуле сидеть не могут, потому что их задний рот... Да-а-а, ну ты понял$(#/а). ::Он лыбится от уха до уха.::<end>
+
+=>a270_original
+If grizozirgs have mouths where their butts should be, how do they defecate?<end>
+
+=>a270
+Если у гризозиргов рты на месте задниц, как же они испражняются?<end>
+
+=>q271_original
+They, errrr... have exit in the middle. Never try to touch it.<end>
+
+=>q271
+У них, эмм... есть выход посередине. Даже не вздумай к нему прикасаться.<end>
+
+=>a272_original
+I think I've heard enough about grizozirgs. There was something else I wanted to talk to you about.<end>
+
+=>a272
+Думаю, что о гризозиргах я услышал$(#/а) достаточно. Я бы поговорил$(#/а) с тобой о другом.<end>
+
+=>a273_original
+I gotta go. Bye, Kokoschka.<end>
+
+=>a273
+Мне нужно идти. Пока, Кокошка.<end>
+
+=>q274_original
+Do zdelovoznia... errr, I mean goodbye.<end>
+
+=>q274
+До зделовозня... э-эр, то есть, пока.<end>
+
+=>q275_original
+Bye, $(context.player.Name).<end>
+
+=>q275
+До свидания, $(context.player.Name).<end>
+
+=>a276_original
+If grizozirgs have mouths where their butts should be, how do they... ehm... go to the toilet.<end>
+
+=>a276
+Если у гризозиргов рты на месте задниц, как же они... эм... ходят в туалет.<end>
+
+=>q277_original
+They do not need toilet, no. They go and crap wherever they please! But if they do enter toilet to eat a man who hides in toilet, they just break door because they big and very so much strong. Yes.<end>
+
+=>q277
+Им туалет не нужен, не-а. Они берут и гадят, где им вздумается! Но если они захотят в туалет, чтобы съесть человека, который спрятался там, то просто сломают дверь, потому что они большие и очень сильные. Да.<end>
+
+=>a278_original
+I don't think you understood me. I meant...<end>
+
+=>a278
+Не думаю, что ты меня понял. Я имел$(#/а) в виду...<end>
+
+=>q279_original
+Oh yes, yes! Sorry, I too literal in understanding. Sorry. <end>
+
+=>q279
+Ах да, да! Извини, я понял это слишком буквально. Извини.<end>
+
+=>a280_original
+Suuuure. Now, can a grizozirg eat with both of its mouths?<end>
+
+=>a280
+Коне-е-ечно. Так может ли гризозирг есть обоими ртами?<end>
+
+=>a281_original
+Not even close.<end>
+
+=>a281
+Нет, даже не близко.<end>
+
+=>q282_original
+Ah. I not good at language.<end>
+
+=>q282
+Ах. У меня не очень хорошо с языком.<end>
+
+=>a283_original
+Anyway, can a grizozirg eat with both of its mouths?<end>
+
+=>a283
+В любом случае, может ли гризозирг есть обоими ртами?<end>
+
+=>a284_original
+Never mind. Can a grizozirg eat with both of its mouths?<end>
+
+=>a284
+Не бери в голову. А гризозирг может есть обоими ртами?<end>
+
+=>a285_original
+Can it eat with both of its mouths?<end>
+
+=>a285
+Он может есть обоими ртами?<end>
+
+=>a286_original
+Why did you join the Free Drones?<end>
+
+=>a286
+Почему ты пошёл в Вольные шершни?<end>
+
+=>q287_original
+I heard great struggle here. How you say, very powerful evil of great power threatens to destroy Underrail. And they could then get to us! Men who follow this evil, I heard they have big claws like my first mother-in-law, sharp teeth like my second mother-in-law, and smell like... what is the word, ah... can't remember the word at this moment of inspirational speech.<end>
+
+=>q287
+Я услышал -- тут великая борьба. Как вы говорите, очень мощное зло с большой мощью угрожает разрушить Подземку. Они могут добраться и до нас! Люди этого зла, я услышал, имеют большие когти, как моя первая тёща; острые зубы, как моя вторая тёща; и пахнут как... какое слово, ах... не могу вспомнить слово в такой момент вдохновительной речи.<end>
+
+=>a288_original
+Are you talking about the Protectorate?<end>
+
+=>a288
+Ты говоришь о Протекторате?<end>
+
+=>q289_original
+No, not protect - destroy. You know, $(#man friend/female friend), I very angry when I heard. Very angry, suntze mu satrem! How you say - blow up of anger. I had to join Free Drones to help them. My heart is in the right place.<end>
+
+=>q289
+Нет, они не чтобы защитить -- уничтожить. Ты знаешь, $(#человек/женщина)-друг, я очень злоствой, когда услышал. Силно злост, сунтце му сатрем! Как вы говорите -- взорвался от гнева. Я должен присоединиться к Вольным шершням, чтобы помочь им. Моё сердце в нужном месте.<end>
+
+=>a290_original
+What can you tell me about this place?<end>
+
+=>a290
+Что ты можешь рассказать мне об этом месте?<end>
+
+=>q291_original
+I come here several months ago to fight Free Drones. I mean, *for* Free Drones. Ehehe, I got confused, it have totally different meaning when you say it like I say it the first time. People here, how you say, mighty warriors, even women! I surprised. In Chniokovo Ludilo women not fight. Women clean, cook, wash our feet and shut up when we tell them. Here they talk when they like, it crazy! It derailed!<end>
+
+=>q291
+Я пришёл сюда несколько месяцев назад, чтобы воевать с Вольными шершнями. То есть, *вместе* с Вольными шершнями. Э-хе-хе, я запутался, тут совершенно другой смысл, когда говоришь такое, как я в первый раз. Люди здесь, как вы говорите -- могучие воины, даже женщины! Я удивлённый. В Чнёково Людиле женщины не воюют. Женщины убирают, готовят, моют нам ноги и затыкаются, когда мы им говорим. Здесь они говорят, когда им нравится -- это чокнуто! Это поехало!<end>
+
+=>q292_original
+I never had chance to ride into battle yet, but when I do - I'll break enemies in four. Krasnoboschko! Ehehe. Until then, I make friends here. I make many okay friends, some very bad friends who put stuff in my food so I had to spend three hours squatting in toilet, and one very most best friend: Julia my Darling.<end>
+
+=>q292
+Я никогда не был в настоящем бою ещё, но когда буду -- я порву врагов на тряпки. Краснобошко! Э-хе-хе. А сейчас я подружился здесь. Я завёл много ладных друзей, немного плохих друзей, кто положил что-то в мою еду, так что мне пришлось три часа сидеть в туалете, и один очень самый лучший друг: моя Джулия Дарлинг.<end>
+
+=>a293_original
+What can you tell me about the Lurkers?<end>
+
+=>a293
+Что ты можешь рассказать о скрытнях?<end>
+
+=>q294_original
+When I first come here, I met one Lurkers. He very ugly, say he kill me with knife. But I kill him, I break him in four. He was a schklopocya, how we say. It means "someone-who-is-so-weak-he-can-be-knocked-over-by-just-blowing-some-air-from-mouth-into-his-face."<end>
+
+=>q294
+Когда я приехал сюда, то встретил одного скрытня. Он очень страшный, говорил, зарежет меня ножом. Но я убил его, порвал на тряпки. Он был шклопося, как мы говорим. Это значит «тот-кто-такой-слабый-что-может-быть-завален-простым-дуновением-воздуха-в-лицо-из-рта».<end>
+
+=>q295_original
+But, not all Lurkers weak. Others terrible, how you say, monsters. Kill people and cut them into tiny, tiny, tiny pieces of flesh. I don't want meet another one - one is enough.<end>
+
+=>q295
+Но не все скрытни слабые. Остальные -- страшные, как вы говорите, монстры. Убивают людей и режут их в крошечные, крошечные, крошечные кусочки мяса. Я не хочу познакомиться с ещё одним -- достаточно одного.<end>
+
+=>a296_original
+I'd like to ask you about the people here.<end>
+
+=>a296
+Я хочу расспросить тебя о других людях здесь.<end>
+
+=>q297_original
+I answer with gladness.<end>
+
+=>q297
+Я отвечаю с радостью.<end>
+
+=>q298_original
+<end>
+
+=>q298
+<end>
+
+=>a299_original
+What can you tell me about Darling?<end>
+
+=>a299
+Что ты можешь рассказать мне о Дарлинг?<end>
+
+=>q300_original
+She is my very most best friend. She very good woman, she work good, she very beautiful, oh she is! She work over there in, how you say, area of eating, and I come and look at her, talk to her, carry heavy stuff that break my spine for her... Ah, women.<end>
+
+=>q300
+Она -- мой самый-самый лучший друг. Она очень хорошая женщина, она работает хорошо, она очень красивая, о-о да! Она работает там в, как вы говорите, в зоне приёма пищи, я прихожу и смотрю на неё, говорю с ней, таскаю для неё такие тяжёлые вещи, что скоро сломаю хребет... Ах, женщины.<end>
+
+=>q301_original
+Listen, I tell you a secret, $(context.player.Name), but you don't tell no one, okay? I been... errr, married six times so far, and if I marry for seventh time, I would like it to be Julia my Darling. I love her... I would kill a grizozirg - the most greatest of great beasts, grrr - kill it with my bare hands for her if, how you say, the need is necessary. Listen, you don't say this to anyone or I get very mad, okay?<end>
+
+=>q301
+Слушай, я открою тебе тайну, $(context.player.Name), но не говори никому, ладно? Я был... э-э-э, женат шесть раз до сих пор, и если я женюсь на седьмой раз, мне бы хотелось, чтобы на Джулии моей Дарлинг. Я люблю её... я бы убил пещерного гризозирга - это самый великий из великих пещерных животных - убил бы его голыми руками за неё, если бы, как вы говорите, была бы необходимость. Слушай, не говори этого никому, или я очень разозлоствуюсь, ладно?<end>
+
+=>q302_original
+We in deal?<end>
+
+=>q302
+Мы договорили?<end>
+
+=>a303_original
+What can you tell me about Becket?<end>
+
+=>a303
+Что ты можешь рассказать мне о Бекете?<end>
+
+=>q304_original
+Becket very cool, he call me bastard when he met me. I become offended, how you say. "Why you call me bastard?" I ask. He smiles, ehehe, but I don't find joke funny. He tells me he calls everyone bastard and it is a joke only!<end>
+
+=>q304
+Бекет очень крутой, он назвал меня ублюдком, когда встретил. Я обижался, как вы говорите. «Почему ты называешь меня ублюдком?» -- я спрашиваю. Он улыбается, э-хе-хе, но мне его шутка не смешная. Он говорит мне, что всех называет ублюдками и это только шутка!<end>
+
+=>q305_original
+Ehehe, I start to laugh so much I had to use toilet. Once I met him better, I see he cool. Even if he calls me bastard.<end>
+
+=>q305
+Э-хе-хе, я стал смеяться так сильно, что пришлось идти в туалет. Когда я познакомился с ним лучше, я увидел, что он классный. Даже если называет меня ублюдком.<end>
+
+=>a306_original
+What can you tell me about Hutch?<end>
+
+=>a306
+Что ты можешь рассказать мне о Хатче?<end>
+
+=>q307_original
+I don't see Hutch for some time, he must have gone to see his girlfriend in Junkyard. Ehehe, she also Free Drone, and someone say she so hot she can melt a Dreadnought, whatever that is. She make a good wife.<end>
+
+=>q307
+Я давно не вижу Хатча, он, наверное, пошёл навестить свою подружку в Свалке. Э-хе-хе, она тоже Вольный шершень, и кто-то сказал, что она такая жаркая, что могла бы растопить Дредноута, что бы это ни было. Она будет хорошей женой.<end>
+
+=>q308_original
+Did I say she live in Junkyard?<end>
+
+=>q308
+Я говорил, что она живёт на Свалке?<end>
+
+=>a309_original
+What can you tell me about Maura?<end>
+
+=>a309
+Что ты можешь рассказать мне про Мавру?<end>
+
+=>q310_original
+Maura brings supplies for us. She good for a woman - I very surprised when I saw.<end>
+
+=>q310
+Мавра нас снабжает. Так неплохо для женщины -- я очень удивился, когда увидел.<end>
+
+=>q311_original
+There much capable woman here, some more than men. In my station, that's not the case. I don't know what to think. I confused. Maybe that the reason I get married so many times. Women - they confuse me, ehehe!<end>
+
+=>q311
+Тут женщины много умеют, некоторые даже больше чем мужчины. На моей станции такое не бывает. Я не знаю, что думать. Я запутался. Возможно, от этого я так много женюсь. Женщины -- они запутывают меня, э-хе-хе!<end>
+
+=>a312_original
+What can you tell me about Trenton?<end>
+
+=>a312
+Что ты можешь рассказать мне о Трентоне?<end>
+
+=>q313_original
+Trenton one of our leaders. He very serious, very. I once call him bastard, like Becket calls me, but he just look at me with not smiling face. Later my Darling tell me he got called from North Underrail and they tell him he do bad, so that's why he angry.<end>
+
+=>q313
+Трентон -- один из наших лидеров. Он очень серьёзный, очень. Один раз, я звал его ублюдком, как Бекет зовёт меня, но он просто посмотрел на меня и без улыбки. Потом Дарлинг сказала мне, что ему звонили из Северной Подземки и сказали ему, что он сделал что-то не так, вот почему он был злой.<end>
+
+=>q314_original
+Why he always not funny? Man can't make joke with him. But, he good leader, remind me of a father's father's leader from Chniokovo Ludilo, Salamchugar Bolyezniprznov III. He also good leader and not funny.<end>
+
+=>q314
+Почему ему всегда не смешно? Никто не может сделать шутку с ним. Но он хороший лидер, напоминает мне отца отца лидера Чнёково Людила -- Саламчугара Болезнипрзнова Третьего. Он тоже был хороший лидер и не смеялся.<end>
+
+=>a315_original
+What can you tell me about Bate?<end>
+
+=>a315
+Что ты можешь рассказать мне о Бэйте?<end>
+
+=>q316_original
+I explode of anger! Bate was spy. I glad that, how you say, rathound dropping is dead! But, I'm stupid: I caught him lying once and I should known he was a complete liar. I should have warned someone, how we sometimes say, warn so you don't mourn.<end>
+
+=>q316
+Я взорвусь от злостности! Бейт был шпионом. Я рад, как вы говорите, что крысоволк пал замертво! Но я глупый: я поймал его на лжи один раз и должен был знать, что он полный лжец. Я должен был предупредить кого-то, как мы иногда говорим, предупредить, чтобы потом не печалиться.<end>
+
+=>q317_original
+I tell you now: One day, I talk to him for two hour and I say: "Bate man, why you so bored? Did I bore you with my story?" He say he isn't bored, but I later found out he was, my story boring to him. What a liar he was. He deserved to die of violence!<end>
+
+=>q317
+Я тебе скажу теперь: в один день, я говорил с ним два часа и говорю потом: «Бейт, почему тебе так скучно? Тебя утомил я рассказом?» Он говорит, что не скучно, но я потом узнал, ему моя история была скучная. Он лжец. Он заслуживал насильственной смерти!<end>
+
+=>q318_original
+I think Bate man very good chovek. He is... errr, good at leading as well as drinking. George tell me about how they sit down and get drunk like blazpzlony. Ehehe.<end>
+
+=>q318
+Я думаю, что Бейт -- очень хороший човек. Он... эр-р, хорош как в лидерстве, так и в питье. Джордж сказал мне о том, как они садились и напивались как блазпзлони. Э-хе-хе.<end>
+
+=>q319_original
+He more fun than Trenton, Trenton too serious. Bate knows to have fun, unlike Trenton who too serious. Unlike Bate. Ehehe.<end>
+
+=>q319
+Он веселее чем Трентон, Трентон слишком серьёзный. Бейт знает как веселиться, не как Трентон, который слишком серьёзный. Не как Бейт. Э-хе-хе.<end>
+
+=>a320_original
+What can you tell me about Marcella?<end>
+
+=>a320
+Что ты можешь рассказать мне о Марселле?<end>
+
+=>q321_original
+I have trouble pronouncing the name. Marce-alla, Mar-lla, Marc-illa... It unnatural to me-- Sorry! I mean innatural, that proper way to say it.<end>
+
+=>q321
+У меня проблема когда говорю имя. Марс-элла, Мар-лла, Мирселла... Оно неестественно для моего рта, прости, я говорю -- ненатурально, так правильно сказать.<end>
+
+=>q322_original
+Anyway, I never met this Maracella man. I hear he one of the leaders but... errr, gone as sudden as puff of smoke.<end>
+
+=>q322
+Всё равно, я не встречал этого Марселлу, я слышал, что он -- один из лидеров, но... э-эр, он ушёл так внезапно, как облачко дыма.<end>
+
+=>a323_original
+Marcella is a woman.<end>
+
+=>a323
+Марселла -- женщина.<end>
+
+=>q324_original
+Ehehe! Ehehe! That a good joke. Woman leader, it impossible. My father tell me a woman can lead as much as rathound can drive train and cook a good czernina at the same time. It... errr, so very much no way.<end>
+
+=>q324
+Э-хе-хе! Э-хе-хе! Это хорошая шутка. Женщина-лидер -- это невозможно. Мой отец сказал мне, женщина может быть лидером так же, как крысоволк может рулить поездом и тут же готовить хорошую чернину. Это... эр-р, очень сильно невероятно.<end>
+
+=>q325_original
+I see you woman - I mean no offence. I just tell you women can't lead so you don't try and screw up one day. It friendly advice. I like you.<end>
+
+=>q325
+Я вижу, ты женщина -- я не хочу обидеть. Я просто сказал -- женщины не могут быть лидеры, чтобы ты не стала пробовать, а то сойдёшь с рельс в один день. То дружеский совет. Ты мне нравишься.<end>
+
+=>q326_original
+Mmm... czernina. <end>
+
+=>q326
+Ох... чернина.<end>
+
+=>q327_original
+I have to teach my Darling how to make one. Yes, it good idea!<end>
+
+=>q327
+Надо научить мою Дарлинг делать. Да, хорошая идея!<end>
+
+=>q328_original
+I miss czernina. <end>
+
+=>q328
+Я скучаю по чернине.<end>
+
+=>a329_original
+I see. Anyway, let me ask you something else.<end>
+
+=>a329
+Ясно. Позволь мне спросить ещё кое-что.<end>
+
+=>q330_original
+You ask - I answer with glad!<end>
+
+=>q330
+Ты спрашиваешь -- я отвечаю с радостью!<end>
+
+=>a331_original
+Bye, Kokoschka.<end>
+
+=>a331
+До свидания, Кокошка.<end>
+
+=>q332_original
+You fight better than Vulenko - he made pate from cave hoppers in Chniokovo Ludilo. He used to fight mighty good, especially when punching little hoppers in their ugly face. Ehehe.<end>
+
+=>q332
+Ты дерёшься лучше чем Вуленко, -- он делал паштет из пещерников в Чнёково Людиле. Он шибко бился, особенно с мелкими пещерниками, когда показывали свои уродливые рожи. Э-хе-хе.<end>
+
+=>a333_original
+You were great there. Keep it up, soldier!<end>
+
+=>a333
+Ты отлично справился. Так держать, солдат!<end>
+
+=>q334_original
+Krasnoplzni blathobran! Thank you for nice words. You did very best too. You rule and rock!<end>
+
+=>q334
+Красноплзни блатобран! Спасибо за приятные слова. Ты тоже $(#классный. И крутой!/классная. И крутая!)<end>
+
+=>a335_original
+Why are you so happy? I did all the hard work; you did nothing at all.<end>
+
+=>a335
+Почему ты так доволен? Я ведь сделал$(#/а) всю тяжёлую работу; ты вообще ничего не делал.<end>
+
+=>q336_original
+Why you say that? Oh, you must joke - you love me! I know, you mess with me, ehehe. But you did do the most hardest of work, $(context.player.Name).<end>
+
+=>q336
+Почему ты так говоришь? Ох, ты, должно быть, шутишь -- ты любишь меня! Я знаю, ты со мной шутишь, э-хе-хе. Но ты сделал$(#/а) самую трудную работу, $(context.player.Name).<end>
+
+=>q337_original
+<end>
+
+=>q337
+<end>
+
+=>q338_original
+I win!<end>
+
+=>q338
+Я победил!<end>
+
+=>q339_original
+We kill metal people! Whoo!<end>
+
+=>q339
+Мы убьём железных людей! Ух!<end>
+
+=>q340_original
+I hard... hardstore domesticate!<end>
+
+=>q340
+Я жесток... жестокий и нежен!<end>
+
+=>q341_original
+A bre sroschkali gi!<end>
+
+=>q341
+А бре срошкали ги!<end>
+
+=>q342_original
+All their base are belong to me!<end>
+
+=>q342
+Вся их база принадлежат мне!<end>
+
+=>q343_original
+For Fatherland!<end>
+
+=>q343
+За Отечество!<end>
+
+=>q344_original
+What now? Where we go?<end>
+
+=>q344
+Что теперь? Куда мы идём?<end>
+
+=>a345_original
+Continue with the attack!<end>
+
+=>a345
+Продолжаем штурм!<end>
+
+=>q346_original
+Borzbosledachki Pokzlich!<end>
+
+=>q346
+Боржбоследачки Покзлич!<end>
+
+=>a347_original
+::Attack!::<end>
+
+=>a347
+::В атаку!::<end>
+
+=>a348_original
+Wait here, I'll signal you when to proceed.<end>
+
+=>a348
+Жди здесь, я дам сигнал, когда начинаем.<end>
+
+=>q349_original
+<end>
+
+=>q349
+<end>
+
+=>q350_original
+We will fight!<end>
+
+=>q350
+Мы будем бороться!<end>
+
+=>q351_original
+This my first combat. I excited as, how you say... err, very happy dog.<end>
+
+=>q351
+Это мой первый бой. Я взволнован, как... как вы говорите... эр-р, как очень счастливая собака.<end>
+
+=>q352_original
+Tintare prorazbucam, che plzocunkrk im gu pobedao!<end>
+
+=>q352
+Тинтаре проразбукам, че плжокункрк им гу победао!<end>
+
+=>q353_original
+Err, hell yeah. Charge!<end>
+
+=>q353
+Эр-р, да. Вперёд!<end>
+
+=>q354_original
+Why you make me sad? I talk nice and you won't introduce you.<end>
+
+=>q354
+Почему ты заставляешь меня грустить? Я говорю вежливо, а ты не скажешь даже своего имени.<end>
+
+=>a355_original
+Sorry about that. Name's $(context.player.Name).<end>
+
+=>a355
+Извини. Меня зовут, $(context.player.Name).<end>
+
+=>q356_original
+Ah, it okay. It, errrr, overwhelming when come in new place like this. I understand, it is hard. When I come here first time, don' know anyone, don't know where toilet, it stress for me.<end>
+
+=>q356
+Ах, ничего. Иногда, э-эр, подавительно, когда попадаешь в новое место, как это. Я понимаю, это трудно. Когда я оказался здесь первый раз, не знал никого-то, не знал где туалет, такой стресс.<end>
+
+=>q357_original
+Anyway, my name Yerslovekzdinianschnik Slavorad Kokoschka. Everyone here think it difficult to pronounce so they call me just Kokoschka, but you should try my brother Babuschkomoranznohoho name. It make your mouth, how we say, go hurt.<end>
+
+=>q357
+Ну ладно, моё имя -- Ерсловекздинянщник Славорад Кокошка. Все думают, что его трудно произносить, поэтому они называют меня просто Кокошка, но ты попробуй высказать имя моего брата -- Бабущкоморанзнохохо. Рот порвёшь, как у нас говорят.<end>
+
+=>a358_original
+I'll go with Kokoschka.<end>
+
+=>a358
+Остановимся на Кокошке.<end>
+
+=>q359_original
+Like everyone in here. How you say - it is typical. But, I don't get angry people can't say my name. I good chovek.<end>
+
+=>q359
+Как и все здесь. Как вы говорите, это типично. Но я не злоствую, вдруг кто не может сказать моё имя. Я хороший човек.<end>
+
+=>q360_original
+So, what we talk about?<end>
+
+=>q360
+Так, о чём мы говорим?<end>
+
+=>a361_original
+Nice to meet you Yarsl... Yerslokev...<end>
+
+=>a361
+Приятно познакомиться, Ярсл... Ерслокев...<end>
+
+=>q362_original
+Look, you can't say it. Ehehe. Just try with me: Yerslovekzdinianschnik, Yerslovekzdinianschnik, Yerslovekzdinianschnik. Oh, your mouth don't work. You will just have to call me Kokoschka then, like everyone else around here.<end>
+
+=>q362
+Видишь, тебе не сказать это. Э-хе-хе. Просто попробуй за мной: Ерсловекздинянщник, Ерсловекздинянщник, Ерсловекздинянщник. Ох, твой рот не работает. Просто называй меня Кокошка, как и все вокруг.<end>
+
+=>a363_original
+What kind of a name is that?<end>
+
+=>a363
+Что это за имя такое?<end>
+
+=>q364_original
+I get it, it sound strange to you. That is because you never heard it before, but don't worry, you just call me Kokoschka, like everyone here and I good. Won't get angry or something like that.<end>
+
+=>q364
+Я понимаю, это звучит для тебя странно. Потому что ты никогда не слышал$(#/а) раньше, но не волнуйся, просто зови меня Кокошка, как и все вокруг, и мне хорошо. Я не буду злоствовать или что-то вроде.<end>
+
+=>a365_original
+Goodbye.<end>
+
+=>a365
+До свидания.<end>
+
+=>a366_original
+::Leave without saying anything.::<end>
+
+=>a366
+::Уйти, ничего не сказав.::<end>
+
+=>q367_original
+You take off uniform! Yes, very thank you. <end>
+
+=>q367
+Ты снял$(#/а) форму. Да, очень спасибо!<end>
+
+=>q368_original
+Nice to meet you. You have $(#face of brave man/face of beautiful woman). Very exquisite! What your name?<end>
+
+=>q368
+Приятно познакомиться, у тебя лицо $(#бравого мужика/прекрасной девушки). Очень изысканно! Как тебя зовут?<end>
+
+=>a369_original
+I'm $(context.player.Name). Nice to meet you as well.<end>
+
+=>a369
+Я $(context.player.Name). Приятно познакомиться.<end>
+
+=>q370_original
+$(context.player.Name)? Eh, it very, how you say.... errrr, bombastic name. It pops out like eyes from a cave mouse when you squeeze him too hard. Ehehe.<end>
+
+=>q370
+$(context.player.Name)? Да, это очень, как вы говорите... эр-р, пафосное имя. Выскакивает, как глаза у пещерной мыши, если сжать её слишком сильно. Э-хе-хе.<end>
+
+=>a371_original
+I am not interested in talking to you right now. Goodbye.<end>
+
+=>a371
+Я не хочу сейчас разговаривать. До свидания.<end>
+
+=>q372_original
+::You interrupt the man wiping his assault rifle with a torn, stained cloth. ::<end>
+
+=>q372
+::Вы отвлекаете мужчину, протирающего свой автомат рваной замызганной тряпкой. ::<end>
+
+=>q373_original
+<end>
+
+=>q373
+<end>
+
+=>q374_original
+::He greets you with a cordial smile and addresses you with a foreign-sounding accent.:: 
+
+Ah, good, you come talk to Kokoschka. <end>
+
+=>q374
+::Он приветствует вас сердечной улыбкой и обращается к вам с иностранным акцентом.:: 
+
+Отлично, ты приш$(#ёл/ла) поговорить с Кокошкой.<end>
+
+=>q375_original
+You take off uniform. Yes, very thank you! What you, how you say, wanna chat till rails bend?<end>
+
+=>q375
+Ты снял$(#/а) форму. Да, очень спасибо! Ты теперь, как у вас говорят, хочешь говорить, пока рельсы идут прямо?<end>
+
+=>q376_original
+::His eyes are directed at Kaya, but his question is directed at you.::
+
+Why do so many women here in Underrail want to be bald as, how you say, errr, an ass cheek of baby?<end>
+
+=>q376
+::Его глаза направлены на Каю, но вопрос был адресован вам.::
+
+Почему так много женщин здесь, в Подземке, хотят быть с головой лысой, как вы говорите, эм-м, как ягодица младенца?<end>
+
+=>a377_original
+Because they can.<end>
+
+=>a377
+Потому что они могут.<end>
+
+=>q378_original
+Hmm... <end>
+
+=>q378
+Хм...<end>
+
+=>q379_original
+In Fatherland, you see, if woman is bald, it mean she is either ill, has lice that are very much huge, or she got hair cut as punishment for crime! Like cheating on her husband. Or attacking her husband with sharp things. Or poisoning her husband with poison. 
+
+But to willingly cut her head hair? Only if they are opichene nzkvalne zhene, ha-ha!<end>
+
+=>q379
+Понимаешь, в Отечестве, если женщина лысая - это значит что она либо больна, либо вшивая, либо же её остригли налысо в наказание за преступление! Вроде измены мужу. Или нападения на мужа с острым предметом. Или отравления мужа ядом. 
+
+Но чтобы добровольно побрить свою голову? Только если они опиченье нзквальне зженье, ха-ха!<end>
+
+=>q380_original
+That's why I find hard to, errr, to understand. Because I think women are beautiful with hair - I like! Long or short, curly or not curly - or tied into dog tail, like Julia my Darling. I like!
+
+But without hair, it... strange. It's like bald women want to intentionally look ugly. I don't like.<end>
+
+=>q380
+Именно поэтому мне трудно, эм-м, понять. Потому что я думаю, что женщины красивы с волосами - мне нравится! Длинные или короткие, кудрявые или прямые - или завязанные в хвостик, как у Джулии моей Дарлинг. Мне нравится!
+
+Но без волос, это... странно. Это как если бы лысая женщина специально хочет выглядеть некрасиво. Мне не нравится.<end>
+
+=>q381_original
+Some are ugly already, yes, and hair won't help those. No, no. 
+
+But that is, errr, next to the point, how you say.<end>
+
+=>q381
+Да, некоторые уже некрасивые, и волосы их не спасут. Нет-нет.
+
+Но это, как вы говорите, э-э-э, совсем другая история.<end>
+
+=>a382_original
+Because we can.<end>
+
+=>a382
+Потому что мы можем.<end>
+
+=>a383_original
+Less overheating and better hygiene.<end>
+
+=>a383
+Меньше перегрева и более гигиенично. <end>
+
+=>a384_original
+Hair tends to get in the way and requires maintenance.<end>
+
+=>a384
+Волосы часто мешаются и требуют ухода.<end>
+
+=>a385_original
+Beats me. Always found it ugly.<end>
+
+=>a385
+Хоть убей, не знаю. Всегда находил$(#/а) это стрёмным.<end>
+
+=>q386_original
+Yes... <end>
+
+=>q386
+Да...<end>
+
+=>a387_original
+I don't know.<end>
+
+=>a387
+Я не знаю.<end>
+
+=>q388_original
+Here goes my good friend, $(context.player.Name). How you say... errr, hello, how is it calling?<end>
+
+=>q388
+А вот и мой лучший друг, $(context.player.Name). Как сказать... э-эр, привет, как делаешь?<end>
+

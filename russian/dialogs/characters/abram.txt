@@ -1,0 +1,1978 @@
+﻿=>q1_original
+::You find Abram leaning over what appears to be a three-dimensional map of Underrail, studying it intently. He shifts his attention to you as you approach. He starts to speak but his voice comes out too raspy. He tries to clear his throat, but that results in a coughing fit.::<end>
+
+=>q1
+::Вы находите Абрама склонившимся над трёхмерной картой Подземки и внимательно изучающим её. Когда вы приближаетесь, он обращает своё внимание на вас. Он пытается говорить, но его голос слишком хрипит. Он пытается прочистить горло, но только заходится кашлем.::<end>
+
+=>q2_original
+::Finally, he composes himself and addresses you in his usual, wheezing voice.:: I had a good... ::wheeze:: feeling about you... ::wheeze:: since the time you helped... ::wheeze:: us free Maura.<end>
+
+=>q2
+::Наконец он успокаивается и обращается к вам своим обычным хрипящим голосом.:: У меня было хорошее... ::хрипит:: предчувствие насчёт тебя... ::хрипит:: после того, как ты помог$(#/ла)... ::хрипит:: освободить Мавру.<end>
+
+=>q3_original
+It does not... ::wheeze:: surprise me that you found... ::wheeze:: your way here.<end>
+
+=>q3
+Я не... ::хрипит:: удивлён увидеть... ::хрипит:: тебя здесь.<end>
+
+=>a4_original
+Why is that?<end>
+
+=>a4
+Почему?<end>
+
+=>q5_original
+You have... ::wheeze:: all the qualities our... ::wheeze:: organization is looking for. ::He coughs violently.:: You're perceptive, calculated and... ::wheeze:: you can get the job done. ::He coughs.::<end>
+
+=>q5
+У тебя есть... ::хрипит:: качества, которые ищет... ::хрипит:: наша организация. ::Он заходится кашлем.:: Проницательность, расчётливость и... ::хрипит:: способность довести дело до конца. ::Он кашляет.::<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+There's a guy named Wyatt Pear. He survived the mutagen tests in Old Junkyard and is still alive and well after all these years. The tests made him immortal or something.<end>
+
+=>a7
+Есть такой парень по имени Уайатт Пир. Он пережил испытания мутагенов на Старой Свалке и до сих пор жив спустя все эти годы. Эти мутагены сделали его бессмертным или типа того.<end>
+
+=>q8_original
+::For a while Abram just stares at you while wheezing through his mask.:: Is this... ::wheeze:: some sort of a... ::wheeze.:: joke?<end>
+
+=>q8
+::Некоторое время Абрам просто смотрит на вас, хрипло дыша через маску.:: Это... ::хрипит:: такая... ::хрипит:: шутка?<end>
+
+=>a9_original
+I'm telling you - he's still there in Old Junkyard with his dogs, waiting for Biocorp to return so he can shoot them between the eyes.<end>
+
+=>a9
+Я же говорю, он всё ещё там, на Старой Свалке, со своими собаками, ждёт возвращения биокорповцев, чтобы пустить им пулю промеж глаз.<end>
+
+=>q10_original
+::Abram seems confused.:: What...? ::wheeze:: Waiting...? ::wheeze::<end>
+
+=>q10
+::Абрам, кажется, в замешательстве.:: Что?.. ::хрипит:: Ждёт?.. ::хрипит::<end>
+
+=>q11_original
+If this is true... ::He coughs.:: No... ::wheeze:: words are not going to convince me... ::wheeze:: I will travel... ::wheeze:: as soon as my duties... ::wheeze:: allow.<end>
+
+=>q11
+Если это правда... ::Он кашляет.:: Нет... ::хрипит:: одних слов недостаточно, чтобы убедить меня... ::хрипит:: Я отправлюсь в путь... ::хрипит:: как только мои обязанности позволят... ::хрипит:: мне это.<end>
+
+=>q12_original
+I must... ::wheeze:: see it for myself.<end>
+
+=>q12
+Я должен... ::хрипит:: сам это увидеть.<end>
+
+=>q13_original
+::He coughs violently.:: Leave me.... ::wheeze:: for the moment... ::wheeze:: I must think...<end>
+
+=>q13
+::Он заходится кашлем.:: Оставь меня... ::хрипит:: на минуту... ::хрипит:: Мне надо подумать...<end>
+
+=>a14_original
+What the hell is this place?<end>
+
+=>a14
+Это ещё что за место?<end>
+
+=>q15_original
+::He coughs.:: This is Oculus... ::wheeze:: The Eye.<end>
+
+=>q15
+::Он кашляет.:: Это Окулус... ::хрипит:: Глаз.<end>
+
+=>a16_original
+What can you tell me about Godmen?<end>
+
+=>a16
+Что ты можешь мне рассказать о Боголюдях?<end>
+
+=>q17_original
+I do not... ::wheeze:: concern myself with Godmen. ::He coughs.:: You would be better off... ::wheeze:: talking to Azif about them. ::He inhales deeply and pauses for a moment before letting out a long wheeze.:: Though I, personally, don't... ::wheeze:: put much stock in his theories.<end>
+
+=>q17
+Мне нет... ::хрипит:: дела до Боголюдей. ::Он кашляет.:: Тебе лучше... ::хрипит:: поговорить о них с Азифом. ::Он глубоко вдыхает и делает паузу, потом издаёт протяжный хрип.:: Хотя я лично... ::хрипит:: не особо верю в его теории.<end>
+
+=>a18_original
+Why is that?<end>
+
+=>a18
+Почему?<end>
+
+=>q19_original
+Because I do not... ::wheeze:: believe in gods. There were... ::coughs:: only ever just men, $(context.player.Name)... ::He takes a deep breath:: ...and these would not be the first to... ::wheeze:: declare themselves divine.<end>
+
+=>q19
+Потому что я не... ::хрипит:: верю в богов. Всегда были... ::кашляет:: только люди, $(context.player.Name)... ::Он делает глубокий вдох:: ...и они не первые... ::хрипит:: кто решил объявить себя богами.<end>
+
+=>q20_original
+What Azif sees when... ::wheeze:: he stares into that thing is... ::coughs:: at best - the glorified history of its creators... ::wheeze:: ...and at worse - a megalomanical fabrication. ::He coughs violently.:: Both are quite common in... ::wheeze:: human history.<end>
+
+=>q20
+То, что Азиф видит, когда... ::хрипит:: он смотрит в эту штуку... ::кашляет:: в лучшем случае -- приукрашенная история её создателей... ::хрипит:: ...а в худшем -- порождённая манией величия мистификация. ::Он заходится кашлем.:: И то и другое не редкость в... ::хрипит:: истории человечества.<end>
+
+=>a21_original
+I see.<end>
+
+=>a21
+Понятно.<end>
+
+=>q22_original
+::He wheezes through his mask.::<end>
+
+=>q22
+::Он хрипит сквозь свою маску.::<end>
+
+=>a23_original
+What can you tell me about the Mainframe?<end>
+
+=>a23
+Что ты можешь мне рассказать о Мейнфрейме?<end>
+
+=>q24_original
+Not much. I did not... ::wheeze:: interface with it. I like to deal with... ::He motions to holographic projection of Underrail as he's interrupted by a violent coughing fit.::<end>
+
+=>q24
+Не многое. Я не... ::хрипит:: работал с ним. Я предпочитаю иметь дело с... ::Он указывает на голографическую проекцию Подземки, но его прерывает сильный приступ кашля.::<end>
+
+=>a25_original
+Underrail?<end>
+
+=>a25
+Подземкой?<end>
+
+=>q26_original
+::He nods in agreement as he regains composure.:: <end>
+
+=>q26
+::Он собирается и кивает в знак согласия.::<end>
+
+=>q27_original
+...current affairs.<end>
+
+=>q27
+...текущими делами.<end>
+
+=>a28_original
+Colorful images?<end>
+
+=>a28
+Красочными картинками?<end>
+
+=>q29_original
+::He shakes his head as he coughs. After a few moments he finally regains his composure.:: <end>
+
+=>q29
+::Он кашляет и качает головой. Ему требуется несколько мгновений, чтобы прийти в себя.::<end>
+
+=>a30_original
+Video games?<end>
+
+=>a30
+Видеоиграми?<end>
+
+=>a31_original
+You should really do something about that cough.<end>
+
+=>a31
+Тебе правда стоит что-то сделать по поводу своего кашля.<end>
+
+=>q32_original
+There is nothing to be done... ::wheeze:: for now. Do not concern yourself... ::wheeze:: with it.<end>
+
+=>q32
+Тут уже ничего не поделаешь... ::хрипит:: пока. Не беспокойся... ::хрипит:: об этом.<end>
+
+=>a33_original
+::[Persuade]:: Are you sure? What illness are you suffering from?<end>
+
+=>a33
+::[Убеждение]:: Ты уверен? От какой болезни ты страдаешь?<end>
+
+=>q34_original
+I'm pretty sure my... ::wheeze:: condition is beyond your... ::he coughs:: healing powers.<end>
+
+=>q34
+Я уверен, что моё... ::хрипит:: заболевание неподвластно твоим... ::кашляет:: целительным силам.<end>
+
+=>q35_original
+<end>
+
+=>q35
+<end>
+
+=>a36_original
+Alright, have it your way.<end>
+
+=>a36
+Ладно, будь по-твоему.<end>
+
+=>q37_original
+::He just wheezes through his mask.::<end>
+
+=>q37
+::Он только хрипит сквозь свою маску.::<end>
+
+=>a38_original
+Can't hurt to try, right? Well, I guess, technically it could, but it's still worth a shot, right?<end>
+
+=>a38
+Попытка не пытка, верно? Ну, наверное, технически, это и может закончиться пыткой, но попробовать стоит, правда?<end>
+
+=>q39_original
+::For a while he just stands there wheezing through his mask, bright green lenses of his goggles pointed at you. There's no telling what is going on in his mind right now.::<end>
+
+=>q39
+::Некоторое время он просто стоит, хрипя сквозь свою маску, уставившись на вас ярко-зелёными линзами своих очков. Неизвестно, что творится у него в голове.::<end>
+
+=>q40_original
+::After a while, he reaches for his goggles and pulls them up onto his forehead, revealing a pair of milky white eyes with pupils so contracted it makes him appear blind.::<end>
+
+=>q40
+::Через некоторое время он тянется к своим очкам и поднимает их на лоб, обнажив пару молочно-белых глаз со зрачками столь сжатыми, что они кажутся слепыми.::<end>
+
+=>q41_original
+::Before you can say anything, he continues by unzipping the high collar of his overcoat and pulling his mask down.::<end>
+
+=>q41
+::Прежде чем вы успеваете что-нибудь сказать, он расстёгивает высокий воротник своего пальто и стягивает вниз маску.::<end>
+
+=>q42_original
+::With that action, he reveals a gruesome visage. His lips and the flesh around them have been completely burned off. Through the gaps between his yellow teeth, greenish saliva drips down into the inside of his mask.::<end>
+
+=>q42
+::Вам открывается жуткая картина. Его губы и плоть вокруг них полностью сожжены. Зеленоватая слюна капает через щели между его жёлтых зубов и вниз на внутреннюю сторону его маски.::<end>
+
+=>q43_original
+::As he opens his mouth a sickening acrid smell wafts forward. For a moment it seems like he's about to speak, but the look on your face must have changed his mind, making him laugh.::<end>
+
+=>q43
+::Он открывает рот и обдаёт вас тошнотворным едким запахом. На мгновение кажется, будто он собирается что-то сказать, но выражение вашего лица, должно быть, заставляет его передумать, и вместо этого он смеётся.::<end>
+
+=>q44_original
+::A slow deep laugh of malevolent amusement, as if he's mocking both his own disfigurement and your shock.::<end>
+
+=>q44
+::Это медленный глубокий злорадный смех, как будто он издевается над собственным уродством и вашим шоком.::<end>
+
+=>q45_original
+::As the laugh breaks out into a violent coughing fit, he decides the show is over and he pulls his mask and goggles back into place.::<end>
+
+=>q45
+::Смех прерывается бурным приступом кашля, и он решает, что шоу окончено, и натягивает маску и очки обратно на место.::<end>
+
+=>q46_original
+<end>
+
+=>q46
+<end>
+
+=>a47_original
+::[Intelligence]:: Old Junkyard?<end>
+
+=>a47
+::[Интеллект]:: Старая Свалка?<end>
+
+=>q48_original
+::He nods slowly.::<end>
+
+=>q48
+::Он медленно кивает.::<end>
+
+=>a49_original
+What the hell happened to you?<end>
+
+=>a49
+Что за фигня с тобой случилась?<end>
+
+=>q50_original
+Biocorp... ::wheeze:: happened to me. ::He coughs.:: Surely you've seen this before.<end>
+
+=>q50
+Биокорп... ::хрипит:: вот что случилось. ::Он кашляет.:: Наверняка ты уже видел$(#/а) такое раньше.<end>
+
+=>q51_original
+Probably shot... ::wheeze:: a couple of other poor bastards... ::wheeze:: during your little excursion into Old... ::He coughs.:: ...Old Junkyard.<end>
+
+=>q51
+Вероятно, подстрелил$(#/а)... ::хрипит:: парочку других бедолаг... ::хрипит:: во время твоей маленькой экскурсии на Старую... ::он кашляет.:: ...Старую Свалку.<end>
+
+=>q52_original
+Do no fret. ::He wheezes.:: They were no friends of mine... ::wheeze:: not since they were no longer... ::wheeze:: themselves.<end>
+
+=>q52
+Не волнуйся. ::Он хрипит:: Они мне были не друзья... ::хрипит:: с тех пор, как они больше не были... ::хрипит:: собой.<end>
+
+=>a53_original
+Sorry I asked.<end>
+
+=>a53
+Зря я спросил$(#/а).<end>
+
+=>q54_original
+I have warned you... ::wheeze:: not to concern yourself... ::wheeze:: with this.<end>
+
+=>q54
+Я тебя предупреждал... ::хрипит:: не лезь... ::хрипит:: в это.<end>
+
+=>q55_original
+I am but one... ::wheeze:: curiosity of Oculus. Not all of them are... ::wheeze:: for your eyes.<end>
+
+=>q55
+Я всего лишь один... ::хрипит:: из экспонатов Окулуса. Не все из них... ::хрипит:: для твоих глаз.<end>
+
+=>q56_original
+That is...::coughs:: none of your concern.<end>
+
+=>q56
+Это... ::кашляет:: не твоя забота.<end>
+
+=>a57_original
+::[Doctor]:: I'm also a doctor among other things, maybe I can help somehow?<end>
+
+=>a57
+::[Доктор]:: Я ещё и врач, между прочим, может, я смогу чем-то помочь?<end>
+
+=>q58_original
+::He coughs.:: I doubt you would be able to treat... ::wheeze:: my condition.<end>
+
+=>q58
+::Он кашляет.:: Я сомневаюсь, что ты можешь вылечить... ::хрипит:: моё заболевание.<end>
+
+=>a59_original
+Whatever you say.<end>
+
+=>a59
+Как скажешь.<end>
+
+=>a60_original
+What's with the hologram?<end>
+
+=>a60
+Что это за голограмма?<end>
+
+=>q61_original
+It is a... ::wheeze:: geopolitical map of... ::wheeze:: South Underrail. ::Coughs.::<end>
+
+=>q61
+Это... ::хрипит:: геополитическая карта... ::хрипит:: Южной Подземки. ::Кашляет.::<end>
+
+=>q62_original
+We keep track... ::wheeze:: of various stations and... ::coughs:: communities of South Underrail and record... ::wheeze:: relevant information.<end>
+
+=>q62
+Мы наблюдаем... ::хрипит:: за различными станциями и... ::кашляет:: сообществами Южной Подземки. И записываем... ::хрипит:: актуальную информацию.<end>
+
+=>a63_original
+I need some geopolitical info.<end>
+
+=>a63
+Мне нужна кое-какая геополитическая информация<end>
+
+=>q64_original
+Which station or faction in particular... ::wheeze:: is of interest? ::He coughs.:: The places we... ::wheeze:: track are marked on... ::wheeze:: the map.<end>
+
+=>q64
+Какая станция или фракция конкретно... ::хрипит:: тебя интересует? ::Он кашляет.:: Места, за которыми мы... ::хрипит:: наблюдаем, отмечены на... ::хрипит:: карте.<end>
+
+=>q65_original
+<end>
+
+=>q65
+<end>
+
+=>a66_original
+South Gate Station.<end>
+
+=>a66
+Станция Саут-Гейт.<end>
+
+=>q67_original
+Even though... ::wheeze:: it's not the most populous station... ::wheeze:: or the most powerful militarily, it's still my belief... ::A violent coughing fit breakes him off.::... it's my belief that it's the strongest... ::wheeze:: overall station in South Underrail. <end>
+
+=>q67
+Не смотря на то... ::хрипит:: что это не самая населённая станция... ::хрипит:: и не самая сильная в военном плане, я убеждён... ::Его перебивает приступ кашля.:: ...убеждён, что это в целом самая сильная... ::хрипит:: станция во всей Южной Подземке.<end>
+
+=>q68_original
+It's located far south... ::wheeze:: which makes it hard for the Protectorate to... ::wheeze:: exercise significant pressure onto it.... ::He coughs.:: ...despite their Junkyard outpost.<end>
+
+=>q68
+Она находится далеко на юге... ::хрипит:: что ограничивает возможности Протектората... ::хрипит:: оказывать на неё давление... ::Он кашляет.:: ...несмотря на их форпост на Свалке.<end>
+
+=>q69_original
+Many ex-Biocorp members.... ::wheeze:: some of which we suspect were very highly.... ::wheeze:: ranked within their previous organization... ::wheeze:: as well as many battle-hardened... ::coughs:: ex-gang members... ::wheeze:: made it their home. These are people with the know-how... ::wheeze:: gear... ::coughs:: and connections. Able and... ::wheeze:: dangerous people.<end>
+
+=>q69
+Многие бывшие члены Биокорп... ::хрипит:: некоторые из которых, как мы подозреваем, занимали высокие... ::хрипит:: посты в организации... ::хрипит:: а также многие закалённые в боях... ::кашляет:: бывшие члены банд... ::хрипит:: называют его своим домом. Это люди с ноу-хау... ::хрипит:: снаряжением... ::хрипит:: и связями. Компетентные и... ::хрипит:: опасные люди.<end>
+
+=>q70_original
+SGS has close ties with... ::wheeze:: Junkyard and Camp Hathor... ::wheeze:: both of which rely on... ::coughs:: SGS's access to the Lower Underrail metro network for... ::wheeze:: trading.<end>
+
+=>q70
+Станция Саут-Гейт имеет тесные связи со... ::хрипит:: Свалкой и лагерем Хатор... ::хрипит:: которые полагаются на неё для доступа... ::кашляет:: в Нижнюю Подземку для... ::хрипит:: торговли.<end>
+
+=>q71_original
+On the topic of... ::He coughs violently.:: On the topic of... ::wheeze:: United Stations integration, the leadership of SGS is split. There are people that believe that the movement itself could usher a new age of prosperity in which SGS could play significant role. <end>
+
+=>q71
+По вопросу... ::Он заходится кашлем.:: По вопросу... ::хрипит:: интеграции в Объединённые Станции, руководство ССГ разделилось. Есть люди, которые считают, что это движение возвестит новую эру процветания, в которой ССГ сможет играть значительную роль.<end>
+
+=>q72_original
+Others... ::wheeze:: many of who were victims of... ::wheeze:: Protectorate's expansionism in the past or are... ::wheeze:: sought-after by the Protectorate's Central Command... ::He coughs.:: They would rather keep SGS... ::wheeze:: as an independent station.<end>
+
+=>q72
+Другие... ::хрипит:: многие из которых в прошлом... ::хрипит:: оказались жертвами экспансионизма Протектората или... ::хрипит:: разыскиваются Центральным командованием... ::он кашляет.:: Они предпочли бы сохранить ССГ... ::хрипит:: как независимую станцию.<end>
+
+=>q73_original
+It is also no secret that recently... ::wheeze:: SGS took part in an... ::wheeze:: offensive organized by Black Eels... ::wheeze:: that resulted in destruction of the rival gang... ::coughs:: the Scrappers. Without a doubt this put... ::wheeze:: a damper on Protectorate's plans for Junkyard. ::He coughs.:: It will be interesting to see what their response will be.<end>
+
+=>q73
+Кроме того, не секрет, что недавно... ::хрипит:: ССГ приняла участие в... ::хрипит:: атаке, организованной Чёрными угрями... ::хрипит:: что привело к уничтожению конкурирующей банды... ::кашляет:: Утильщиков. Без сомнения, это накрыло... ::хрипит:: тазом планы Протектората на Свалку. ::Он кашляет.:: Будет интересно посмотреть, каким будет их ответ.<end>
+
+=>q74_original
+Any other place... ::wheeze:: or faction you'd like to hear about?<end>
+
+=>q74
+Хочешь узнать... ::хрипит:: о другом месте или фракции?<end>
+
+=>a75_original
+Junkyard.<end>
+
+=>a75
+Свалка.<end>
+
+=>q76_original
+Junkyard is a... ::wheeze:: complex community.<end>
+
+=>q76
+Свалка это... ::хрипит:: непростое сообщество.<end>
+
+=>q77_original
+::He coughs.:: Until recently it's been run by... ::wheeze:: two rivaling gangs... ::wheeze:: Black Eels and Scrappers... ::wheeze:: but recently the former managed to wipe out the latter... ::wheeze:: with a little help from <end>
+
+=>q77
+::Он кашляет.:: До недавнего времени там хозяйничали... ::хрипит:: две соперничающих банды... ::хрипит:: Чёрные угри и Утильщики... ::хрипит:: но недавно первым удалось уничтожить вторых... ::хрипит:: с небольшой помощью<end>
+
+=>q78_original
+SGS.<end>
+
+=>q78
+ССГ.<end>
+
+=>q79_original
+Apart from being an important... ::wheeze:: trading hub due to the fact that no goods are... ::wheeze:: contraband there, it also serves as a demilitarized border.... ::wheeze:: between SGS and the Protectorate as neither are allowed to deploy “armed groups” there.<end>
+
+=>q79
+Кроме того, что это важный... ::хрипит:: торговый узел из-за того, что нет товара... ::хрипит:: который считался бы там контрабандой, она также служит в качестве демилитаризованной границы... ::хрипит:: между ССГ и Протекторатом, так как никому не разрешено разворачивать там «вооружённые группы».<end>
+
+=>q80_original
+In the past... ::wheeze:: Black Eels used to be very... ::wheeze:: chaotic and opportunistic and didn't give much thought to... ::wheeze:: long-term planning. ::He coughs.:: It will be interesting to see if... ::wheeze:: that has changed after the recent power grab.<end>
+
+=>q80
+В прошлом... ::хрипит:: Чёрные угри были очень... ::хрипит:: непоследовательны, никогда не задумывались над... ::хрипит:: сколько-нибудь отдалённым будущим. ::Он кашляет.:: Будет интересно посмотреть на то... ::хрипит:: изменилось ли что-нибудь после недавнего захвата власти.<end>
+
+=>q81_original
+<end>
+
+=>q81
+<end>
+
+=>q82_original
+Black Eels and Scrappers politics... ::wheeze:: are barely politics at all. ::He coughs.:: Both factions are very... ::wheeze:: chaotic and opportunistic... ::wheeze:: with everyone involved focusing almost exclusively on... ::wheeze:: quick profit without much thought being given to... ::wheeze:: long-term planning.<end>
+
+=>q82
+Отношения между Чёрными угрями и Утильщиками... ::хрипит:: едва можно назвать отношениями. ::Он кашляет.:: Обе группировки очень... ::хрипит:: непоследовательны и беспринципны... ::хрипит:: каждую интересует почти исключительно... ::хрипит:: лишь быстрая прибыль, и никто не задумывается над... ::хрипит:: сколько-нибудь отдалённым будущим.<end>
+
+=>q83_original
+the Protectorate.<end>
+
+=>q83
+Протектората.<end>
+
+=>q84_original
+It's run by two rivaling gangs... ::wheeze:: Black Eels and Scrappers. ::He coughs violently.:: The former control the docks... ::wheeze:: while the latter control Depot A... ::wheeze:: also known as Old Junkyard... ::wheeze:: the biggest scavenger's playground.<end>
+
+=>q84
+Там хозяйничают две соперничающих банды... ::хрипит:: Чёрные угри и Утильщики. ::Он заходится кашлем.:: Первые контролируют доки... ::хрипит:: а вторые управляют Складом А... ::хрипит:: также известным как Старая Свалка... ::хрипит:: самая большая свалка хлама.<end>
+
+=>a85_original
+Camp Hathor.<end>
+
+=>a85
+Лагерь Хатор.<end>
+
+=>q86_original
+It used to be much bigger... ::wheeze:: community during its... ::wheeze:: mining days, but after the mine was flooded... ::wheeze:: many sought their fortune elsewhere. ::He coughs.:: The few inhabitants who were... ::wheeze:: determined to remain turned to hunting.<end>
+
+=>q86
+Раньше это было большое... ::хрипит:: шахтёрское сообщество, в своё время... ::хрипит:: но после того, как шахту затопило... ::хрипит:: многие ушли искать счастья в другом месте. ::Он кашляет.:: Те немногие жители, которые... ::хрипит:: решили остаться, стали заниматься охотой.<end>
+
+=>q87_original
+Today... ::wheeze:: Camp Hathor is a major... ::wheeze:: supplier of meat and leather and it has... ::wheeze:: good trade relations with all other stations.<end>
+
+=>q87
+Сегодня... ::хрипит:: лагерь Хатор является крупным... ::хрипит:: поставщиком мяса и кожи, и у них... ::хрипит:: хорошие торговые отношения со всеми другими станциями.<end>
+
+=>q88_original
+It's a remote place that has little... ::wheeze:: in the way of valuables aside from experienced hunters... ::wheeze:: so it makes it an unattractive target for raiders or... ::wheeze:: other major factions.<end>
+
+=>q88
+Это отдалённое место, в котором мало... ::хрипит:: ценностей и много опытных охотников... ::хрипит:: что делает его малопривлекательной целью для рейдеров или... ::хрипит:: других крупных фракций.<end>
+
+=>q89_original
+It has very good relations with... ::wheeze:: SGS on whose metro access it relies for... ::wheeze:: delivering goods to other stations.<end>
+
+=>q89
+Они имеют очень хорошие отношения с... ::хрипит:: ССГ и полагаются на доступ к метро через них... ::хрипит:: для доставки товаров на другие станции.<end>
+
+=>a90_original
+Rail Crossing.<end>
+
+=>a90
+Переезд.<end>
+
+=>q91_original
+Rail Crossing has the smallest... ::wheeze:: population, the least amount of firepower... ::wheeze:: and only moderate economic influence. ::He clears his throat.:: For that reason many consider it... ::wheeze:: to be the "weak link" in the South Underrail's... ::wheeze:: geopolitical network.<end>
+
+=>q91
+Переезд имеет наименьшее... ::хрипит:: население, наименьшую огневую мощь... ::хрипит:: и лишь умеренное экономическое влияние. ::Он откашливается.:: По этой причине многие считают его... ::хрипит:: «слабым звеном» в геополитической цепи... ::хрипит:: Южной Подземки.<end>
+
+=>q92_original
+The recent attack of the Faceless... ::wheeze:: didn't help much to improve any of the above either.<end>
+
+=>q92
+Недавнее нападение безликих... ::хрипит:: не помогло улучшить положение.<end>
+
+=>q93_original
+Following this, as I predicted... ::wheeze:: Rail Crossing could not stand... ::wheeze:: the outside pressure from the savage elements... ::wheeze:: such as nearby Ironheads gang. ::He coughs violently.:: They had to turn to Protectorate for help.<end>
+
+=>q93
+Вслед за этим, как я и предсказывал... ::хрипит:: Переезд не мог устоять перед... ::хрипит:: давлением извне от дикарей... ::хрипит:: таких как местная банда Железноголовых. ::Он сильно кашляет.:: Они были вынуждены обратиться за помощью к Протекторату.<end>
+
+=>q94_original
+Unfortunately for them... ::wheeze:: the delivery of this “aid”... ::wheeze:: whatever it might be... ::wheeze:: was interfered with. ::He coughs.:: Presumably by Free Drones. If the Protectorate and Drones... ::wheeze:: start butting heads over it, I'm afraid Rail Crossing community is in for a... ::wheeze:: bumpy ride. ::He coughs.:: Assuming, of course... ::wheeze:: the Ironheads don't run it over in the meantime.<end>
+
+=>q94
+К несчастью для них... ::хрипит:: доставке этой «помощи»... ::хрипит:: что бы там ни везли... ::хрипит:: что-то помешало. ::Он кашляет.:: Предположительно, Вольные шершни. Если Протекторат и Шершни... ::хрипит:: затеют из-за этого драку, я боюсь, что сообщество Переезда ждут... ::хрипит:: непростые времена. ::Он кашляет.:: Это, конечно... ::хрипит:: если Железноголовые не вынесут их прежде.<end>
+
+=>q95_original
+According to our reports... ::wheeze:: some form of aid was dispatched to Rail Crossing... ::wheeze:: but there were delays. <end>
+
+=>q95
+Согласно нашим отчётам... ::хрипит:: какая-то помощь была направлена на Переезд... ::хрипит:: однако случилась задержка.<end>
+
+=>q96_original
+It is left to be seen whether or not... ::wheeze:: this will be enough to keep Rail Crossing alive and... ::wheeze:: if this will lead to eventual integration into United Stations.<end>
+
+=>q96
+Время покажет, будет или нет... ::хрипит:: этого достаточно, чтобы сохранить Переезд и... ::хрипит:: приведёт ли это к их последующей интеграции в Объединённые Станции.<end>
+
+=>q97_original
+There's willingness... ::wheeze:: on the Protectorate side to assist Rail Crossing... ::wheeze:: in exchange for certain "mandates"... ::wheeze:: and it is my understanding that some aid has been sent. <end>
+
+=>q97
+Есть желание... ::хрипит:: со стороны Протектората оказать помощь Переезду... ::хрипит:: в обмен на определённые «полномочия»... ::хрипит:: и насколько я знаю, какая-то помощь уже была отправлена.<end>
+
+=>q98_original
+I predict that in the near future... ::wheeze:: Rail Crossing will no longer be able to... ::wheeze:: withstand the outside pressure from savage elements... ::wheeze:: such as nearby Ironheads gang... ::He coughs violently.:: It will have to seek aid. Logical solution for them would be... ::wheeze:: the integration into United Stations.<end>
+
+=>q98
+Я предсказываю, что в ближайшем будущем... ::хрипит:: Переезд больше не сможет... ::хрипит:: противостоять давлению извне от дикарей... ::хрипит:: таких как местная банда Железноголовых... ::Он кашляет сильно.:: Они будут вынуждены искать помощи. Логичным решением для них было бы... ::хрипит:: вступление в Объединённые Станции.<end>
+
+=>a99_original
+Foundry.<end>
+
+=>a99
+Литейная.<end>
+
+=>q100_original
+Foundry is famous and... ::wheeze:: widely respected for its strong heavy industry. ::He coughs.:: It has the only working metallurgical facility... ::wheeze:: in the entire South Underrail. ::He coughs.:: It produces all manner of... ::wheeze:: metal components, including weapon and... ::wheeze:: automaton parts. It's particularly famed for its TiChrome alloy.<end>
+
+=>q100
+Литейная хорошо известна... ::хрипит:: и уважаема за сильную тяжёлую промышленность. ::Он кашляет.:: Это единственный работающий металлургический завод... ::хрипит:: во всей Южной Подземке. ::Он кашляет.:: Она производит всевозможные... ::хрипит:: металлические компоненты, включая оружие и... ::хрипит:: детали автоматики. Она особенно славится своим сплавом ТиХрома.<end>
+
+=>q101_original
+It covers the entire... ::wheeze:: South Underrail market with these and also... ::wheeze:: exports heavily to northern regions.<end>
+
+=>q101
+Она охватывает весь рынок... ::хрипит:: Южной Подземки, а также... ::хрипит:: экспорт в северные регионы.<end>
+
+=>q102_original
+Foundry also ranks... ::wheeze:: as the safest of all places... ::wheeze:: in South Underrail, and perhaps the entire Underrail... ::A violent coughing fit interrupts him.:: ...when it comes to outside threats. This is due to... ::wheeze:: the station being heavily fortified and... ::wheeze:: their guards highly trained, well equipped... ::wheeze:: and numerous. Their troops are also... ::wheeze:: battle-hardened due to their frequent... ::wheeze:: skirmishes with their hated enemies... ::He coughs:: ...the Ironheads.<end>
+
+=>q102
+Литейная известна... ::хрипит:: как самое безопасное место... ::хрипит:: в Южной Подземке, а может быть, и во всей Подземке... ::Сильный приступ кашля прерывает его.:: ...когда дело касается угроз извне. Это связано... ::хрипит:: с тем, что они очень хорошо укреплены... ::хрипит:: они имеют хорошо экипированных, опытных бойцов... ::хрипит:: и у них большая численность. Их войска... ::хрипит:: закалены в боях из-за частых... ::хрипит:: стычек с их ненавистными врагами из... ::кашляет:: ...Железноголовых.<end>
+
+=>q103_original
+Citizens of Foundry are... ::wheeze:: quite wealthy in comparison to other Southerners... ::wheeze:: and enjoy certain social benefits rarely seen in other places... ::wheeze:: such as life insurance, free health-care, and... ::wheeze:: pensions.<end>
+
+=>q103
+Граждане Литейной... ::хрипит:: весьма состоятельны по сравнению с другими южанами... ::хрипит:: и имеют определённые социальные льготы, которые редко встретишь в других местах... ::хрипит:: такие как страхование жизни, бесплатную медицинскую помощь и... ::хрипит:: пенсию.<end>
+
+=>q104_original
+Despite all this... ::wheeze:: Foundry is not a good place to live. ::He coughs.:: The pollution levels are... ::wheeze:: off the charts and working conditions are quite hazardous. ::He coughs.:: People die regularly from... ::wheeze:: cancer, heavy metal poisoning, and... ::wheeze:: workplace mishaps.<end>
+
+=>q104
+Несмотря на всё это... ::хрипит:: Литейная не является хорошим местом для жизни. ::Он кашляет.:: Уровень загрязнения воздуха... ::хрипит:: зашкаливает и условия труда остаются весьма опасными. ::Он кашляет.:: Люди умирают от... ::хрипит:: рака, отравления тяжёлыми металлами и... ::хрипит:: несчастных случаев.<end>
+
+=>q105_original
+It's ruled by the democratically elected mayor who... ::wheeze:: manages station internal affairs along with... ::wheeze:: independently elected chief of security.<end>
+
+=>q105
+Там правит демократически избранный мэр, который... ::хрипит:: управляет внутренними делами станции, и... ::хрипит:: отдельно избираемый шеф охраны.<end>
+
+=>q106_original
+They adopted isolationist political... ::wheeze:: philosophy where they do not meddle... ::wheeze:: in affairs of others or take part in... ::wheeze:: inter-station events, but also reject all... ::He coughs.:: ...all attempts by other stations to... ::wheeze:: influence them.<end>
+
+=>q106
+Они ведут изоляционистскую политику... ::хрипит:: согласно которой они не лезут... ::хрипит:: в дела других и не принимают участие в... ::хрипит:: делах между другими станциями, но и отвергают все... ::он кашляет.:: ...все попытки других станций... ::хрипит:: оказать влияние на них.<end>
+
+=>q107_original
+They do not hide their... ::wheeze:: distrust of the Protectorate, but are willing to... ::wheeze:: do business with them just as much as with any other station. ::He coughs.::<end>
+
+=>q107
+Они не скрывают своего... ::хрипит:: недоверия к Протекторату, но желают... ::хрипит:: вести дела с ними так же, как с любой другой станцией. ::Он кашляет.::<end>
+
+=>a108_original
+Core City.<end>
+
+=>a108
+Кор-Сити.<end>
+
+=>q109_original
+This is the largest station-state of the South... ::wheeze:: by both population and territory.<end>
+
+=>q109
+Это самая крупная станция-государство на Юге... ::хрипит:: по численности населения и территории.<end>
+
+=>q110_original
+Core City used to be Biocorp's... ::wheeze:: main urban hub that housed a number of R&D... ::wheeze:: sectors. ::He coughs violently and clears his throat.:: Following the Protectorate's takeover of Biocorp up north... ::wheeze:: the elements of discontent in the Core City's hierarchy... ::wheeze:: used the opportunity to stage a revolt.<end>
+
+=>q110
+Кор-Сити раньше был... ::хрипит:: главным городским хабом Биокорп, где располагались ряд исследовательских... ::хрипит:: секторов. ::Он заходится кашлем и прочищает горло.:: После того, как Протекторат захватил Биокорп на севере... ::хрипит:: недовольные элементы в иерархии Кор-Сити... ::хрипит:: использовали эту возможность, чтобы поднять восстание.<end>
+
+=>q111_original
+This revolt was led by... ::wheeze:: second-in-command of the Core City security forces... ::wheeze:: Archibald Knight, who was later joined in this fight by... ::wheeze:: Rupert Simmons, one of the higher ranking Biocorp... ::wheeze:: technocrats.<end>
+
+=>q111
+Это восстание возглавил... ::хрипит:: второй офицер сил безопасности Кор-Сити... ::хрипит:: Арчибальд Найт, к которому вскоре присоединился... ::хрипит:: Руперт Симмонс, один из высокопоставленных технократов... ::хрипит:: Биокорп.<end>
+
+=>q112_original
+The revolt was successful... ::wheeze:: but eventually led to further infighting between Simmons'... ::wheeze:: newly established company - Coretech, and... ::wheeze:: Knight's group - Praetorian Security. <end>
+
+=>q112
+Восстание было успешным... ::хрипит:: но в итоге привело к дальнейшей борьбе между... ::хрипит:: свежесозданной Симмонсом компанией КорТех и... ::хрипит:: группой Найта -- Преторианской службой безопасности.<end>
+
+=>q113_original
+For several years, Core City was... ::wheeze:: in state of chaos as the war between the factions raged. ::He coughs.:: At one point, though... ::wheeze:: as the threat from external organized gangs mounted... ::wheeze:: truce was established. Eventually, this truce turned into long-term peace.<end>
+
+=>q113
+В течение нескольких лет в Кор-Сити... ::хрипит:: царил хаос, пока бурлила война между фракциями. ::Он кашляет.:: Однако пришло время... ::хрипит:: когда возросла угроза от внешних организованных банд... ::хрипит:: и было установлено перемирие. В конце концов наступил долгосрочный мир.<end>
+
+=>q114_original
+An agreement was signed by Simmons and Knight. ::wheeze:: This agreement settled most of the... ::wheeze:: territorial disputes of the time. ::wheeze::<end>
+
+=>q114
+Было подписано соглашение между Симмонсом и Найтом... ::хрипит:: Это соглашение разрешило большинство... ::хрипит:: территориальных споров того времени.<end>
+
+=>q115_original
+There was, however... ::wheeze:: still a lot of bad blood between the members of these factions... ::wheeze:: due to years of very brutal civil war. ::He clears his throat.:: In order to vent the frustrations... ::wheeze:: an arena was created... or rather it came about on its own... ::wheeze:: an arena where people went to... settle their disputes.<end>
+
+=>q115
+Оставалось, однако... ::хрипит:: по-прежнему значительное напряжение между членами этих фракций... ::хрипит:: из-за многих лет жестокой гражданской войны. ::Он откашливается.:: Чтобы дать отдушину этим настроениям... ::хрипит:: была создана арена... вернее она появилась сама... ::хрипит:: арена, на которую приходили... решать споры.<end>
+
+=>q116_original
+In time this arena grew... ::wheeze:: and became quite an attraction. Then, a powerful businessman, Gunnar Edstrom, arrived from the east... ::wheeze:: from the far east. Late, true, but it turned out late was just right. His newly-formed... ::wheeze:: company, JKK, joined in the blood sport business, complementing all previous efforts, and with that finally turned... ::wheeze:: the Arena into the tourist hotspot that it is now. Thus, the Oligarchy... ::wheeze:: was born.<end>
+
+=>q116
+Со временем эта арена выросла... ::хрипит:: и стала привлекать большую аудиторию. Затем приехал Гуннар Эдстром, влятельный бизнесмен с востока... ::хрипит:: издалека. Довольно поздно, это правда, но оказалось, что более чем своевременно. Его новая... ::хрипит:: компания КБР вошла в бизнес кровавого спорта, дополняя все предыдущие достижения, и в итоге превратила... ::хрипит:: Арену в тот магнит для туристов, которым она является сегодня. Так оформилась... ::хрипит:: олигархия.<end>
+
+=>q117_original
+Concerning the three factions today... ::wheeze:: they still compete against each other... ::wheeze:: often violently, but their desire to make money through the Arena... ::wheeze:: and trade overrides their desires to kill each other... ::wheeze:: and reigns in any ambitions to become sole rulers of the city.<end>
+
+=>q117
+Сегодня три фракции... ::хрипит:: по-прежнему соперничают друг с другом... ::хрипит:: зачастую с применением силы, но их желание зарабатывать деньги на Арене... ::хрипит:: и торговле перевешивает их желание поубивать друг друга... ::хрипит:: и ограничивает какие-либо амбиции стать единоличными правителями города.<end>
+
+=>q118_original
+There are very significant... ::wheeze:: class divisions in the general populace. ::He coughs.:: A great number of utterly impoverished... ::wheeze:: people occupy a slum called... ::wheeze:: Drop Zone, located on the fringes of the city. ::He coughs.:: Violence and death is commonplace there. Even within the middle class... ::wheeze:: there is a lot of struggle for money and territory and this...::wheeze:: has given rise to many gangs. Unless you are in upper echelons... ::wheeze:: Core City is a dangerous place to live.<end>
+
+=>q118
+Существует очень значительное... ::хрипит:: классовое расслоение населения. ::Он кашляет.:: Огромное количество крайне бедных... ::хрипит:: людей живут в трущобах под названием... ::хрипит:: Зона провала, расположенных на окраине города. ::Он кашляет.:: Насилие и смерть являются там обычным делом. Даже среднему классу... ::хрипит:: не хватает денег и места, и это... ::хрипит:: привело к возникновению многочисленных банд. Если вы не находитесь в верхних эшелонах... ::хрипит:: Кор-Сити -- опасное место для жизни.<end>
+
+=>q119_original
+When it comes to foreign politics... ::wheeze:: status quo is again a preferred option for the... ::wheeze:: ruling class. Core City is in a unique position... ::wheeze:: to be both the only gateway between North and South... ::wheeze:: as well as Lower and Upper Underrail.<end>
+
+=>q119
+В вопросах внешней политики... ::хрипит:: статус-кво вновь является предпочтительным вариантом для... ::хрипит:: правящего класса. Кор-Сити находится в уникальном положении... ::хрипит:: являясь воротами как между севером и югом... ::хрипит:: так и между Нижней и Верхней Подземкой.<end>
+
+=>q120_original
+They have contracts with Protectorate that... ::wheeze:: allow the latter to maintain certain military presence... ::wheeze:: on the Core City docks, but the flow of troops from the North... ::wheeze:: into their bases in the South is strictly regulated in a way the Oligarchs consider... ::wheeze:: it's necessary in order to prevent the Protectorate from becoming... ::wheeze:: a threat to the city itself.<end>
+
+=>q120
+Они заключили соглашение с Протекторатом, по которому... ::хрипит:: последним позволяется поддерживать ограниченное военное присутствие... ::хрипит:: в доках Кор-Сити, но поток войск с севера... ::хрипит:: по направлению к их базам на юге строго регламентирован, потому что олигархи считают... ::хрипит:: что это необходимо для того, чтобы Протекторат не мог представлять... ::хрипит:: угрозы для самого города.<end>
+
+=>q121_original
+How effective these restrictions have been... ::wheeze:: is up for debate. ::He coughs.:: Some argue that the Oligarchs are making a mistake... ::wheeze:: of allowing any troops at all to pass since the Protectorate is... ::wheeze:: establishing production facilities in the South that are capable... ::wheeze:: of arming and outfitting these troops to boost their combat effectiveness... ::wheeze:: well beyond that which was initially estimated.<end>
+
+=>q121
+Насколько эффективны эти ограничения... ::хрипит:: вопрос открытый. ::Он кашляет.:: Некоторые утверждают, что олигархи совершают ошибку... ::хрипит:: позволяя войскам вообще проходить через город, поскольку Протекторат... ::хрипит:: создаёт производственные мощности на юге, которые способны... ::хрипит:: вооружить и оснастить эти войска, чтобы повысить их боевую эффективность... ::хрипит:: в гораздо большей мере, чем предполагалось изначально.<end>
+
+=>q122_original
+Many also argue that... ::wheeze:: if United Stations are to expand into the South... ::wheeze:: Core City must be the first station to integrate. Without it the Protectorate has little in ways... ::He coughs violently.:: ...little in ways of pressuring those stations... ::wheeze:: further south, since it would suffer from... ::wheeze:: the lack of reliable supply lines. We can see this... ::wheeze:: in the case of Junkyard and SRO.<end>
+
+=>q122
+Многие также утверждают, что... ::хрипит:: если Объединённые Станции собираются расшириться на юге... ::хрипит:: Кор-Сити должен быть интегрирован первым. Без него Протекторат имеет мало возможностей... ::Он заходится кашлем.:: ...мало возможностей оказывать давление на станции... ::хрипит:: расположенные дальше на юг, так как он будет страдать от... ::хрипит:: отсутствия надёжных линий снабжения. Мы можем видеть это... ::хрипит:: на примере Свалки и форпоста ЮЖД.<end>
+
+=>q123_original
+Be this as it may... ::wheeze:: no offensive actions have yet been taken against Core City or its rulers by the Protectorate... ::wheeze:: and the United Stations politicians have also been quite... ::wheeze:: careful in their political language when talking about potential... ::wheeze:: integration as not to jeopardize current arrangements.<end>
+
+=>q123
+Как бы то ни было... ::хрипит:: Протекторат до сих пор не предпринял враждебных действий против Кор-Сити или его правителей... ::хрипит:: и политики Объединённых Станций также довольно... ::хрипит:: осторожны в своих политических формулировках, когда речь идёт о потенциальной... ::хрипит:: интеграции, чтобы не ставить под угрозу существующие соглашения.<end>
+
+=>q124_original
+These days it seems that... ::wheeze:: the primary threat to Core City are Faceless... ::wheeze:: rather than the Protectorate. At least, that is... ::wheeze:: the popular perception in the city.<end>
+
+=>q124
+В эти дни кажется, что... ::хрипит:: основной угрозой для Кор-Сити являются безликие... ::хрипит:: а не Протекторат. По крайней мере, это... ::хрипит:: распространённое мнение в городе.<end>
+
+=>a125_original
+The Rig.<end>
+
+=>a125
+Буровая.<end>
+
+=>q126_original
+The Rig: A Black Eel-controlled... ::wheeze:: platform, located just north of the Scrappy Narrow, at the southern edge of... ::wheeze:: Core Ring. Its construction began ::wheeze:: in the time when Biocorp's downfall was still reverberating, some fourteen years ago, and it became fully operational in two years... ::wheeze:: although it has been expanded since.<end>
+
+=>q126
+Буровая, контролируемая Чёрными угрями... ::хрипит:: это платформа, расположенная чуть севернее пролива Захламлённый, на южном краю... ::хрипит:: кольца Кор. Её строительство началось... ::хрипит:: в то время, когда ещё не улёгся шум после падения Биокорп, около четырнадцати лет назад, и стала полностью работоспособной через два года... ::хрипит:: хотя с тех пор она была расширена.<end>
+
+=>q127_original
+The Black Eels have built it... ::wheeze:: in order to gain control of the waterways, its traffic and trade, as well as to suppress the ever-rampant piracy, an objective... ::wheeze:: they've been both successful and unsuccessful depending on the time period. The Rig itself is a strategically-located and heavily-defended position, littered with auto-turrets and its perimeter patrolled by the numerous... ::wheeze:: armed jetters; it is no mystery as to why the Eels are the primary... ::wheeze:: opposition to the pirate menace. ::wheeze::<end>
+
+=>q127
+Её построили Чёрные угри... ::хрипит:: для того, чтобы получить контроль над водными путями, движением и торговлей, а также для подавления распоясавшихся пиратов -- задача... ::хрипит:: которую они решали с переменным успехом в течение прошедшего времени. Сама она является стратегически расположенной и хорошо укреплённой позицией, усеянной автоматическими турелями, а её периметр патрулируется многочисленными... ::хрипит:: вооружёнными гидроциклами; неудивительно, почему Угри являются основным... ::хрипит:: сдерживающим фактором пиратской угрозы. ::хрипит::<end>
+
+=>q128_original
+Another interesting aspect of The Rig is its tavern, the popular... ::wheeze:: stop - or destination - of all who sail between the Chancer's Bay and the Core Ring, be they ferrymen, civilians, gangsters or Protectorate marines. It is indeed a busy place that earns the Eels plenty of... ::wheeze:: coin, it in tandem with the jet ski shop located right next to it. ::wheeze::<end>
+
+=>q128
+Ещё одним интересным местом на Буровой является её таверна, популярная... ::хрипит:: остановка, или пункт назначения, всех, кто плавает между заливом Аферистов и кольцом Кор, будь то паромщики, гражданские, гангстеры или морская пехота Протектората. Это очень оживлённое место, которое зарабатывает Угрям много... ::хрипит:: денег, наряду с магазином гидроциклов, расположенным там же. ::хрипит::<end>
+
+=>q129_original
+Recently, <end>
+
+=>q129
+Недавно,<end>
+
+=>q130_original
+however... ::wheeze:: things are looking rather grim for the Black Eels: <end>
+
+=>q130
+однако... ::хрипит:: ситуация развивается не в пользу Чёрных угрей:<end>
+
+=>q131_original
+The Rig has been assaulted and the Eels residing there completely... ::wheeze:: wiped out. It is unlikely that The Rig will end up being abandoned, extremely... ::wheeze:: unlikely, but this is <end>
+
+=>q131
+Буровая была атакована, и находившиеся там Угри полностью... ::хрип:: уничтожены. Маловероятно, что Буровая будет в итоге заброшена, крайне... ::хрип:: маловероятно, но это<end>
+
+=>q132_original
+certainly nothing short of a debilitating blow... ::wheeze:: to the Eels.<end>
+
+=>q132
+, несомненно, был разрушительный удар... ::хрипит:: для Угрей.<end>
+
+=>q133_original
+The pirates have <end>
+
+=>q133
+Пираты<end>
+
+=>q134_original
+carried out an assault and destroyed <end>
+
+=>q134
+осуществили штурм и уничтожили<end>
+
+=>q135_original
+an old... ::wheeze:: Biocorp sonar station the Eels have acquired from Protectorate and used to counter Grim Jetters' raids. Whatever happens next, this occurence <end>
+
+=>q135
+старую... ::хрипит:: сонарную установку Биокорп, которую Угри получили от Протектората и использовали для противодействия налётам Беспощадных всадников. Что бы ни случилось дальше, это событие <end>
+
+=>q136_original
+attacked The Rig and destroyed <end>
+
+=>q136
+атаковали Буровую и уничтожили<end>
+
+=>q137_original
+managed to infiltrate The Rig and destroy <end>
+
+=>q137
+проникли на Буровую и уничтожили<end>
+
+=>q138_original
+Someone - potentially the pirates but one must always... ::wheeze:: be able of looking beyond the obvious - has <end>
+
+=>q138
+Какие-то люди -- вероятно, пираты, но нужно всегда... ::хрип:: иметь в виду неочевидные варианты --<end>
+
+=>q139_original
+the Eels have managed to greatly suppress the pirates. They have done so... ::wheeze:: by acquiring an old Biocorp sonar station... ::wheeze:: which is able to keep track of nearly all vessels in the nearby waterways. They received it from the Protectorate, of course, who probably dug it out of some ancient naval... ::wheeze:: warehouse and are clearly also benefiting from its... ::wheeze:: installation.<end>
+
+=>q139
+Угрям удалось значительно подавить пиратов. Им это удалось, благодаря... ::хрипит:: старой сонарной станции Биокорп... ::хрипит:: которая способна отслеживать почти все суда на близлежащих водных путях. Они получили её, конечно же, от Протектората, который, вероятно, откопал её на каком-нибудь древнем морском... ::хрипит:: складе, и явно также извлекает из этого... ::хрипит:: выгоду.<end>
+
+=>a140_original
+Underrail Protectorate.<end>
+
+=>a140
+Протекторат Подземки.<end>
+
+=>q141_original
+The Protectorate is a military organization... ::wheeze:: formed some seventeen to eighteen years ago in North Underrail... ::wheeze:: under the leadership of General Melek. ::He coughs.:: He united and trained the local gangs into... ::wheeze:: a para-military force that eventually became an army.<end>
+
+=>q141
+Протекторат -- военная организация... ::хрипит:: Образовалась каких-то семнадцать-восемнадцать лет назад в Северной Подземке... ::хрипит:: под руководством генерала Мелека. ::Он кашляет.:: Он обучил и объединил местные банды в... ::хрипит:: военизированную силу, которая в конце концов стала армией.<end>
+
+=>q142_original
+He used this army to... ::wheeze:: overtake Biocorp facilities in the north... ::wheeze:: which then granted them access to the technology they needed... ::wheeze:: as well as educated scientists and engineers who knew how to make use of it.<end>
+
+=>q142
+Он использовал эту армию, чтобы... ::хрипит:: захватить объекты Биокорп на севере... ::хрипит:: что дало им доступ к необходимым им технологиям... ::хрипит:: а также образованным учёным и инженерам, которые знали, как их использовать.<end>
+
+=>q143_original
+Following that... ::wheeze:: the Protectorate moved to create United Stations... ::wheeze:: a federation of station-states... ::wheeze:: some of which who joined willingly... ::wheeze:: others who were coerced militarily or just simply conquered.<end>
+
+=>q143
+Вслед за этим... ::хрипит:: Протекторат перешёл к созданию Объединённых Станций... ::хрипит:: федерации станций-государств... ::хрипит:: Некоторые присоединились добровольно... ::хрипит:: других принудили, а то и просто захватили.<end>
+
+=>q144_original
+While officially the United Station is... ::wheeze:: governed by a council... ::wheeze:: a special place on that council is reserved for... ::wheeze:: the Protectorate's High Commander and all the major decisions always require his approval... ::wheeze:: be it official or unofficial.<end>
+
+=>q144
+Хотя официально Объединённые Станции... ::хрипит:: управляются советом... ::хрипит:: особое место на этом совете зарезервировано для... ::хрипит:: Верховного Главнокомандующего Протектората, и любые важные решения всегда требуют его одобрения... ::хрипит:: официально или нет.<end>
+
+=>q145_original
+Today... ::wheeze:: Protectorate is attempting to expand here in the South as well. ::He coughs.::<end>
+
+=>q145
+Сегодня... ::хрипит:: Протекторат также пытается развернуться здесь, на юге. ::Он кашляет.::<end>
+
+=>q146_original
+In the recent past they managed to... ::wheeze:: restore and occupy a metro station in the south... ::wheeze:: now called South Railroad Outpost... ::wheeze:: or SRO for short. They used this to set themselves up... ::wheeze:: an embassy in Junkyard. <end>
+
+=>q146
+В недавнем прошлом им удалось... ::хрипит:: восстановить и занять станцию метро на юге... ::хрипит:: сейчас называемую форпост Южной Железной Дороги... ::хрипит:: или форпост ЮЖД. Далее они организовали... ::хрипит:: посольство на Свалке.<end>
+
+=>q147_original
+They've had multiple... ::wheeze:: setbacks in recent days, though.<end>
+
+=>q147
+Но в недавнее время... ::хрипит:: они потерпели ряд неудач.<end>
+
+=>q148_original
+They lost control of SRO when... ::wheeze:: Free Drones launched a sneak attack and their remaining forces... ::wheeze:: are now holed up in the embassy... ::wheeze:: with little chance of being reinforced. <end>
+
+=>q148
+Они потеряли контроль над форпостом ЮЖД, когда... ::хрипит:: Вольные шершни запустили внезапную атаку, и их оставшиеся силы... ::хрипит:: сейчас окопались в посольстве... ::хрипит:: и вряд ли они получат подкрепление.<end>
+
+=>q149_original
+As if that wasn't bad enough... ::wheeze:: SGS took part in the offensive organized by Black Eels... ::wheeze:: which removed the Scrappers from the map. ::He coughs.:: This significantly changed the political... ::wheeze:: and power landscape in Junkyard and severely undermines the chances... ::wheeze:: of any type of integration into United Stations.<end>
+
+=>q149
+Мало того... ::хрипит:: ССГ приняли участие в наступлении, организованном Чёрными угрями, которое... ::хрипит:: убрало Утильщиков с политической карты. Это существенно изменило... ::хрипит:: политический пейзаж на Свалке и сильно подорвало... ::хрипит:: перспективы любой интеграции в Объединённые Станции.<end>
+
+=>q150_original
+If the Protectorate doesn't find a way... ::wheeze:: to support their outpost in Junkyard... ::wheeze:: I predict they will soon have to abandon it.<end>
+
+=>q150
+Если Протекторат не найдёт способ... ::хрипит:: поддержать свой аванпост на Свалке... ::хрипит:: я предвижу, что им скоро придётся оставить его.<end>
+
+=>q151_original
+::He coughs.:: Despite the fact that the Protectorate took part in... ::wheeze:: the offensive organized by Black Eels which... ::wheeze:: removed the Scrappers from the map... ::He coughs violently.:: ...I doubt they will be in any position to exert further pressure on Junkyard.<end>
+
+=>q151
+::Он кашляет.:: Несмотря на то, что Протекторат принял участие в... ::хрипит:: наступлении, организованном Чёрными угрями, которое... ::хрипит:: убрало Утильщиков с политической карты... ::Он заходится кашлем.:: ...я сомневаюсь, что они в состоянии оказывать дальнейшее давление на Свалку.<end>
+
+=>q152_original
+They had a major... ::wheeze:: setback recently, though.<end>
+
+=>q152
+Но в недавнее время... ::хрипит:: они потерпели серьёзную неудачу.<end>
+
+=>q153_original
+However... ::wheeze:: SGS took part in the offensive organized by Black Eels which... ::wheeze:: removed the Scrappers from the map. This significantly changed... ::wheeze:: the political and power landscape in Junkyard and severely undermines... ::wheeze:: the chances of any type of integration into United Stations.<end>
+
+=>q153
+Однако... ::хрипит:: ССГ приняли участие в наступлении, организованном Чёрными угрями, которое... ::хрипит:: убрало Утильщиков с политической карты. Это существенно изменило... ::хрипит:: политический пейзаж на Свалке и сильно подорвало... ::хрипит:: перспективы любой интеграции в Объединённые Станции.<end>
+
+=>q154_original
+We'll see what road they will take... ::wheeze:: in their attempts to integrate the Junkyard. ::He coughs.:: I assume that they will attempt to leverage... ::wheeze:: the support from the residents of the lower class... ::wheeze:: who'd be more than happy to see the two ruthless gangs... ::wheeze:: replaced by a faction that at least has a concept of civil rights.<end>
+
+=>q154
+Посмотрим, каким путём они пойдут... ::хрипит:: в своих попытках интегрировать Свалку. ::Он кашляет.:: Я предполагаю, что они попытаются использовать... ::хрипит:: поддержку граждан низшего класса... ::хрипит:: которые были бы более чем счастливы поменять две безжалостные банды... ::хрипит:: на фракцию, в которой, по крайней мере, существует понятие гражданского права.<end>
+
+=>a155_original
+Free Drones.<end>
+
+=>a155
+Вольные шершни.<end>
+
+=>q156_original
+Free Drones movement has been around... ::wheeze:: for a long time up north, but it's a relatively novel thing... ::wheeze:: in these parts. Basically, they are a group of anarchists... ::wheeze:: whose main goal is to fight back the Protectorate expansionism.<end>
+
+=>q156
+Вольные шершни уже довольно долго существуют... ::хрипит:: на севере, но в этих местах они относительно... ::хрипит:: недавно. По сути, они представляют собой группу анархистов... ::хрипит:: главная цель которой заключается в борьбе с экспансией Протектората.<end>
+
+=>q157_original
+Depending on who you speak to... ::wheeze:: they offer different reasons for doing this... ::wheeze:: but the most common include the distrust of the Protectorate and... ::wheeze:: "historically proven" inherent evil of imperialism or any type of... ::wheeze:: great nation state.<end>
+
+=>q157
+Смотря кого вы спросите... ::хрипит:: можно услышать на то разные причины... ::хрипит:: но к наиболее распространённым относятся недоверие Протекторату и... ::хрипит:: «исторически доказанное» врождённое зло империализма или любого... ::хрипит:: великого национального государства.<end>
+
+=>q158_original
+Most of them would prefer... ::wheeze:: our metro system to be a set of small... ::wheeze:: independent communities that cooperate peacefully in such things as trade... ::wheeze:: and technology.<end>
+
+=>q158
+Большинство из них предпочли бы... ::хрипит:: видеть наше метро, состоящим из небольших... ::хрипит:: независимых общин, которые могли бы мирно сотрудничать в таких сферах, как торговля... ::хрипит:: и технологии.<end>
+
+=>q159_original
+Though the movement is very young here in the South... ::wheeze:: and their numbers are not great... ::wheeze:: they already had stunning success in fighting back the Protectorate. ::He coughs.:: They managed to launch a sneak attack on... ::wheeze:: South Railroad Outpost, so devastating that they... ::wheeze:: wiped out the Protectorate soldiers there and took the outpost for themselves... ::wheeze:: forcing the rest of the Protectorate to hole up in the embassy below.<end>
+
+=>q159
+Хотя движение очень молодо здесь на юге... ::хрипит:: и их численность не велика... ::хрипит:: они уже достигли впечатляющих успехов в борьбе против Протектората. ::Он кашляет.:: Им удалось организовать внезапную атаку на... ::хрипит:: Форпост южный железной дороги, столь сокрушительную, что они... ::хрипит:: уничтожили солдат Протектората и захватили форпост... ::хрипит:: вынудив выживших окопаться в посольстве ниже.<end>
+
+=>q160_original
+Unfortunately for them... ::wheeze:: the movement never really kicked off here in the South and... ::wheeze:: according to the newest reports, their main hideout got hit hard recently... ::wheeze:: and most of those who were there at the time are now presumed dead... ::wheeze:: or at least - disposed of... ::wheeze:: including the leaders.<end>
+
+=>q160
+К сожалению для них... ::хрипит:: движение так и не набрало обороты здесь на юге, и... ::хрипит:: по последним данным, их главное убежище недавно подверглось тяжёлому удару... ::хрипит:: и большинство из тех, кто был там, сейчас считаются мёртвыми или... ::хрипит:: по крайней мере, устранёнными... ::хрипит:: включая лидеров.<end>
+
+=>a161_original
+The Faceless.<end>
+
+=>a161
+Безликие.<end>
+
+=>q162_original
+We do not know much about the Faceless. ::He coughs.:: Their origins, numbers, practices and... ::wheeze:: motives are well hidden from the outsiders. Information I have... ::wheeze:: is not solid enough to be shared yet and I do not wish to... ::wheeze:: perpetuate baseless tell tales.<end>
+
+=>q162
+Мы многого не знаем о безликих. ::Он кашляет.:: Их происхождение, численность, поведение и... ::хрипит:: мотивы хорошо скрыты от посторонних. Моя информация... ::хрипит:: недостаточно проверена, чтобы ей делиться, и я не хочу... ::хрипит:: рассказывать необоснованные сказки.<end>
+
+=>q163_original
+I will give you some advice, though... ::wheeze:: as I have encountered their groups in the past... ::wheeze:: even before this whole mess with Core City invasion started.<end>
+
+=>q163
+Однако я дам тебе один совет... ::хрипит:: потому что в прошлом я сталкивался уже с их группами... ::хрипит:: ещё до всей этой заварухи с вторжением в Кор-Сити.<end>
+
+=>q164_original
+Avoid the small groups... ::wheeze:: they are usually very focused on a certain task and often quite hostile. ::He coughs.:: The big groups on the other hand tend to... ::wheeze:: tolerate strangers in their vicinity as long as you don't interfere with them.<end>
+
+=>q164
+Избегайте небольших групп... ::хрипит:: они обычно сосредоточены на определённой задаче и часто враждебны. ::Он кашляет.:: Большие группы, с другой стороны, как правило... ::хрипит:: терпят чужаков поблизости, если им не мешают.<end>
+
+=>q165_original
+It's best to just avoid them altogether if possible... ::wheeze:: at least until we can find out more about them.<end>
+
+=>q165
+Лучше просто избегать их, если это возможно... ::хрипит:: по крайней мере, пока мы не узнаем о них больше.<end>
+
+=>a166_original
+Institute of Tchort.<end>
+
+=>a166
+Институт Чорта.<end>
+
+=>q167_original
+Institute of Tchort is an... ::wheeze:: interesting organization indeed. Depending on the perspective, you'll either... ::wheeze:: hear it being defined as a benevolent research institution, or a brainwashing religious cult. The truth is... ::wheeze:: a bit more complicated than that.<end>
+
+=>q167
+Институт Чорта -- это... ::хрипит:: весьма интересная организация. В зависимости от точки зрения... ::хрипит:: его описывают или как доброжелательный научно-исследовательский институт, или как религиозный культ, который занимается промывкой мозгов. На самом деле... ::хрипит:: всё несколько сложнее.<end>
+
+=>q168_original
+Tchortists revere, or worship a being they refer to as... ::wheeze:: Tchort. According to their claims, it is an actual, living organism which resides in Deep Caverns... ::wheeze:: and is of such paramount importance to the advancement of humankind as to warrant such dedication to it. ::He coughs violently.:: It was discovered by a man who calls himself Eidein, who is the founder of the organization.<end>
+
+=>q168
+Чортисты почитают или поклоняются существу, которое они называют... ::хрипит:: Чортом. Согласно их заявлениям, это реальный живой организм, который обитает в Глубоких пещерах... ::хрипит:: и имеет столь огромное значение для развития человечества, что оправдывает такое поклонение ему. ::Он заходится кашлем.:: Его обнаружил человек, который называет себя Эйдейном, он является основателем организации.<end>
+
+=>q169_original
+As a former Biocorp scientist of - to us - unknown status, he was able to... ::wheeze:: surface to the top of University's hierarchy after his discovery, and take full control of it. Thus, Institute of Tchort was... ::wheeze:: born. One century ago.<end>
+
+=>q169
+Будучи бывшим учёным Биокорп неизвестного нам ранга, он смог... ::хрипит:: подняться на вершину иерархии Университета и взять полноту власти. Так родился... ::хрипит:: Институт Чорта. Сто лет назад.<end>
+
+=>q170_original
+Everything I've told you... ::He coughs.:: so far implies it is nothing other than a mere cult, justifying the second definition. However, as surprising... ::wheeze:: as it may be, the first one holds equals truth as the second. ::He coughs violently.::<end>
+
+=>q170
+Всё, что я тебе рассказал... ::Он кашляет.:: указывает не на что иное, как просто культ, подтверждая второе определение. Однако, как ни странно... ::хрипит:: первое определение столь же истинно, как и второе. ::Он заходится кашлем.::<end>
+
+=>q171_original
+One century has passed, and Eidein still lives. They put their money where their mouths... ::wheeze:: were. They preached advance through scientific research, most of it ::wheeze:: involving Tchort itself, and during that one century they've established probably one of the safest, most civilized and self-contained communities in Underrail. Granted, they achieved it through a perfect balance of military might, scientific research and strong... ::wheeze:: emphasis on education, but the foundation indeed lies with Tchort. ::He coughs.::<end>
+
+=>q171
+Прошло столетие, и Эйдейн до сих пор жив. Они делают то, о чём столько... ::хрипит:: говорили. Они проповедовали развитие посредством научных исследований, большей частью... ::хрипит:: касающихся самого Чорта, и за это столетие они создали, пожалуй, одни из самых безопасных, самых цивилизованных и самодостаточных общин в Подземке. Конечно, они добились этого через сбалансированное сочетание военной мощи, научных исследований и сильного... ::хрипит:: упора на образование, но в основе действительно лежит Чорт. ::Он кашляет.::<end>
+
+=>q172_original
+They harm no one, and no one harms them. ::He coughs.:: Their exposure to the rest of Underrail was recent, mainly... ::wheeze:: due to a medical trade agreement with Core City, which in turn allowed them to freely spread their ideology in the city. Nowadays, one can see lines of people at the Institute gate... ::wheeze:: waiting to be let inside and start a better life. What reality awaits them inside, few know. ::He coughs.:: How was Eidein able to prolong his life so, that too is a mystery. Is it the power of Tchort, or something else?<end>
+
+=>q172
+Они никому не причинили вреда, и никто не причиняет вреда им. ::Он кашляет.:: Их взаимодействие с остальной Подземкой началось недавно, в основном... ::хрипит:: благодаря соглашению о торговле медицинскими препаратами с Кор-Сити, что в свою очередь позволило им свободно распространять свою идеологию в городе. В наше время можно видеть очереди людей, выстроившиеся у ворот Института... ::хрипит:: ждущих, пока их пустят внутрь, чтобы начать лучшую жизнь. Какая реальность ждёт их внутри, мало кто знает. ::Он кашляет.:: Как был Эйдейн в состоянии настолько продлить свою жизнь, тоже является загадкой. Это сила Чорта или что-то ещё?<end>
+
+=>q173_original
+With all that said, the Institute has fallen silent, its... ::wheeze:: gates closed. Something happened inside, of which we weren't informed. Protectorate troops have occupied the area. Should the Tchortists emerge, however, I'm afraid... ::wheeze:: the result of that encounter might not be... ::wheeze:: a peaceful one.<end>
+
+=>q173
+На данный момент Институт молчит, его... ::хрипит:: ворота закрыты. Что-то происходит внутри, о чём у нас нет информации. Войска Протектората заняли район. Если чортисты выйдут, я боюсь... ::хрипит:: исход этой встречи может не быть... ::хрипит:: мирным.<end>
+
+=>q174_original
+They... ::wheeze:: are interesting. One should be careful with the Institute, but one could also learn much from them. ::He coughs.::<end>
+
+=>q174
+Они... ::хрипит:: интересны нам. С Институтом следует быть осторожным, но можно многое узнать от них. ::Он кашляет.::<end>
+
+=>a175_original
+Never mind.<end>
+
+=>a175
+Неважно.<end>
+
+=>q176_original
+::He wheezes through his mask.::<end>
+
+=>q176
+::Он хрипит сквозь свою маску.::<end>
+
+=>a177_original
+Who is that six-fingered cyborg?<end>
+
+=>a177
+Кто этот шестипалый киборг?<end>
+
+=>q178_original
+I don't know... ::wheeze:: his name. We call him... ::wheeze:: Six. ::He coughs violently.:: He's working with... ::wheeze:: Azif on some... ::wheeze:: advanced project, but he's not an oculite.<end>
+
+=>q178
+Я не знаю... ::хрипит:: его имени. Мы называем его... ::хрипит:: Шесть. ::Он заходится кашлем.:: Он работает с... ::хрипит:: Азифом над каким-то... ::хрипит:: серьёзным проектом, но он не окулит.<end>
+
+=>q179_original
+I advise you... ::wheeze:: not to bother him if he ever returns. He can be very... ::wheeze:: short-tempered. ::He coughs.:: I've seen him... ::wheeze:: cut a man in half for... ::wheeze:: addressing him disrespectfully.<end>
+
+=>q179
+Советую... ::хрипит:: не беспокоить его, если он вернётся. Он бывает очень... ::хрипит:: вспыльчивым. ::Он кашляет.:: Я видел как он... ::хрипит:: разрезал человека пополам... ::хрипит:: за то, что тот обращался к нему неуважительно.<end>
+
+=>q180_original
+I advise you... ::wheeze:: not to bother him. He can be very... ::wheeze:: short-tempered. ::He coughs.:: I've seen him... ::wheeze:: cut a man in half for... ::wheeze:: addressing him disrespectfully.<end>
+
+=>q180
+Советую... ::хрипит:: не беспокоить его. Он бывает очень... ::хрипит:: вспыльчивым. ::Он кашляет.:: Я видел как он... ::хрипит:: разрезал человека пополам... ::хрипит:: за то, что тот обращался к нему неуважительно.<end>
+
+=>a181_original
+Catch you later.<end>
+
+=>a181
+Увидимся позже.<end>
+
+=>a182_original
+Well, I, too, knew you guys weren't just ordinary mercenaries.<end>
+
+=>a182
+Ну, я тоже знал$(#/а), что вы, ребята, не просто обычные наёмники.<end>
+
+=>q183_original
+::He just keeps wheezing through his mask and gives a small nod.::<end>
+
+=>q183
+::Он только продолжает хрипеть сквозь свою маску и слегка кивает.::<end>
+
+=>a184_original
+You're on your own there. I, for one, didn't expect to end up in an alien pyramid.<end>
+
+=>a184
+Не могу сказать того же. Я, например, не ожидал$(#/а) оказаться в пирамиде пришельцев.<end>
+
+=>q185_original
+Under-- ::He's interrupted by a coughing fit.:: ...understandable.<end>
+
+=>q185
+Я м... ::Его прерывает приступ кашля.:: ...я могу понять.<end>
+
+=>q186_original
+::He wheezes through his mask.:: Yes?<end>
+
+=>q186
+::Он хрипит сквозь свою маску.:: Да?<end>
+
+=>q187_original
+What is your... ::wheeze:: final answer? Are you... ::wheeze:: still interested?<end>
+
+=>q187
+Каков твой... ::хрипит:: окончательный ответ? Ты всё ещё... ::хрипит:: заинтересован$(#/а)?<end>
+
+=>a188_original
+Yes I am.<end>
+
+=>a188
+Да.<end>
+
+=>q189_original
+Good. I'm glad you... ::wheeze:: said yes. You have displayed a certain... ::wheeze:: potential, $(context.player.Name) of SGS, a potential that few possess. I've been informed you... ::wheeze:: have already met Jack Quicksilver. Good. Him and I are a part of a certain... ::wheeze:: organization whose name will... ::wheeze:: remain unrevealed for now.<end>
+
+=>q189
+Хорошо. Я рад, что ты... ::хрипит:: сказал$(#/а) да. Ты проявил$(#/а) определённый... ::хрипит:: потенциал, $(context.player.Name) с ССГ, этим потенциалом владеют немногие. Мне сообщили, что ты... ::хрипит:: уже встречал$(#/а) Скользкого Джека. Хорошо. Мы с ним являемся частью некой... ::хрипит:: организации, чьё название будет... ::хрипит:: пока оставаться нераскрытым.<end>
+
+=>q190_original
+What I want you to... ::wheeze:: do now is to go and speak to Jack; he is waiting for you outside the bar. He... ::wheeze:: has work for you. Once you've completed everything... ::wheeze:: you will receive further instructions.<end>
+
+=>q190
+Я хочу, чтобы ты... ::хрипит:: сходил$(#/а) и поговорил$(#/а) с Джеком; он ждёт тебя возле бара. Он... ::хрипит:: даст тебе работу. Когда ты закончишь... ::хрипит:: ты получишь дальнейшие инструкции.<end>
+
+=>a191_original
+May I ask you some questions first?<end>
+
+=>a191
+Могу ли я сперва задать тебе несколько вопросов?<end>
+
+=>q192_original
+You may... ::wheeze:: not. All your questions will be... ::wheeze:: answered in due time, $(context.player.Name) of SGS.<end>
+
+=>q192
+Нет... ::хрипит:: не можешь. Ответы на вопросы... ::хрипит:: ты получишь, когда придёт время, $(context.player.Name) с ССГ.<end>
+
+=>a193_original
+I'll go speak to Jack. Till next time, Abram.<end>
+
+=>a193
+Я пойду поговорю с Джеком. До скорого, Абрам.<end>
+
+=>q194_original
+::He nods.::<end>
+
+=>q194
+::Он кивает.::<end>
+
+=>q195_original
+Good. I'm glad you... ::wheeze:: said yes. You have displayed a certain... ::wheeze:: potential, $(context.player.Name) of SGS, a potential that few possess. I do not think you've met my... ::wheeze:: associate Jack Quicksilver. It is peculiar, considering... ::wheeze:: he was visiting South Gate Station quite... ::wheeze:: quite recently. Him and I are a part of a certain... ::wheeze:: organization, whose name will... ::wheeze:: remain unrevealed for now.<end>
+
+=>q195
+Хорошо. Я рад, что ты... ::хрипит:: сказал$(#/а) да. Ты проявил$(#/а) определённый... ::хрипит:: потенциал, $(context.player.Name) с ССГ, этим потенциалом владеют немногие. Полагаю, ты ещё не встречал$(#/а) моего... ::хрипит:: коллегу Скользкого Джека. Это странно, учитывая... ::хрипит:: что он был на станции Саут-Гейт... ::хрипит:: совсем недавно. Мы с ним являемся частью некой... ::хрипит:: организации, чьё название будет... ::хрипит:: пока оставаться нераскрытым.<end>
+
+=>a196_original
+I think need some more time to think.<end>
+
+=>a196
+Мне нужно ещё немного времени, чтобы подумать.<end>
+
+=>q197_original
+Fine...<end>
+
+=>q197
+Хорошо...<end>
+
+=>a198_original
+I'm sorry, but I'm no longer interested in having anything to do with you.<end>
+
+=>a198
+Прости, но я больше не хочу иметь с тобой никаких дел.<end>
+
+=>q199_original
+Fine, this... ::wheeze:: means we are done here, $(context.player.Name) of SGS.<end>
+
+=>q199
+Хорошо, это... ::хрипит:: означает, что мы закончили, $(context.player.Name) с ССГ.<end>
+
+=>q200_original
+You will... ::wheeze:: find Jack outside. ::Coughs violently.::<end>
+
+=>q200
+Ты найдёшь... ::хрипит:: Джека снаружи. ::Сильно кашляет.::<end>
+
+=>q201_original
+::You hear him wheezing through his mask, but says nothing otherwise.::<end>
+
+=>q201
+::Вы слышите его хрип через маску, но он не произносит ни слова.::<end>
+
+=>q202_original
+I thought I told... ::wheeze:: you we need to wait for Jack. ::Coughs.::<end>
+
+=>q202
+Я же сказал... ::хрипит:: тебе, нам нужно дождаться Джека. ::Кашляет.::<end>
+
+=>q203_original
+$(context.player.Name) of... ::wheeze:: SGS. I've been waiting for... ::wheeze:: you.<end>
+
+=>q203
+$(context.player.Name) с... ::хрипит:: ССГ. Я ждал... ::хрипит:: тебя.<end>
+
+=>q204_original
+There is only... ::wheeze:: one issue: A man... ::wheeze:: called Jack Quicksilver has yet to arrive. We can't begin... ::wheeze:: without him.<end>
+
+=>q204
+Есть только... ::хрипит:: одна проблема: Человек... ::хрипит:: по имени Скользкий Джек до сих пор не появился. Мы не можем начать... ::хрипит:: без него.<end>
+
+=>q205_original
+Let me begin by saying... ::wheeze:: I am quite satisfied with your performance so far. I had informed my... ::wheeze:: associates of your competence and... ::wheeze:: we've reached a decision... ::wheeze:: to use your abilities again. ::Coughs.::
+
+Are you still interested?<end>
+
+=>q205
+Позволь мне начать с того... ::хрипит:: чтобы сказать, что я весьма доволен твоими успехами. Я проинформировал своих... ::хрипит:: коллег о твоих способностях и... ::хрипит:: мы приняли решение... ::хрипит:: снова прибегнуть к твоей помощи. ::Кашляет.::
+
+Ты всё ещё заинтересован$(#/а)?<end>
+
+=>a206_original
+I'll need some more time to think about it.<end>
+
+=>a206
+Мне нужно ещё немного времени, чтобы подумать.<end>
+
+=>q207_original
+::Abram pauses. Nothing happens as seconds drag by. Eventually he continues as abruptly as he had stopped.::
+
+Fine. Don't take... ::wheeze:: too long. I'll be here, $(context.player.Name) of ... ::wheeze:: SGS.<end>
+
+=>q207
+::Абрам замолкает. Секунды тянутся, но ничего не происходит. Наконец он продолжает, так же резко, как и остановился.::
+
+Хорошо. Только... ::хрипит:: не задерживайся. Я буду здесь, $(context.player.Name)... ::хрипит:: с ССГ.<end>
+
+=>q208_original
+Our business... ::wheeze:: has concluded for now... ::wheeze::. I will be leaving... ::wheeze:: for Core City quite soon. If you... ::wheeze:: happen to be interested in doing more business, find me there. So far you... ::wheeze:: haven't disappointed. I will keep my eye on you... ::wheeze:: $(context.player.Name) of SGS.<end>
+
+=>q208
+Наши дела... ::хрипит:: завершены, пока... ::хрипит::. Я уезжаю в... ::хрипит:: Кор-Сити в ближайшее время. Если ты... ::хрипит:: снова захочешь работать на меня, найди меня там. До сих пор ты меня... ::хрипит:: не разочаровал$(#/а). Я буду наблюдать за тобой... ::хрипит:: $(context.player.Name) из ССГ.<end>
+
+=>a209_original
+Where in Core City will we be meeting?<end>
+
+=>a209
+Где в Кор-Сити мы встречаемся?<end>
+
+=>q210_original
+You will... ::wheeze:: find me.<end>
+
+=>q210
+Ты... ::хрипит:: найдёшь меня.<end>
+
+=>a211_original
+How do you know so much about me?<end>
+
+=>a211
+Откуда ты столько знаешь обо мне?<end>
+
+=>q212_original
+::He just wheezes through his mask, saying nothing.::<end>
+
+=>q212
+::Он просто хрипит сквозь свою маску, ничего не говоря.::<end>
+
+=>a213_original
+What was the purpose of that burrower spawn from earlier?<end>
+
+=>a213
+Зачем был нужен тот мелкий могильщик?<end>
+
+=>q214_original
+::He lets out a violent cough that ends with silence.::<end>
+
+=>q214
+::Он сильно кашляет и замолкает.::<end>
+
+=>a215_original
+Who do you work for, Abram?<end>
+
+=>a215
+На кого ты работаешь, Абрам?<end>
+
+=>q216_original
+In due time... ::wheeze:: in due time.<end>
+
+=>q216
+Всему своё время... ::хрипит:: всему своё время.<end>
+
+=>a217_original
+::Leave.::<end>
+
+=>a217
+::Уйти::<end>
+
+=>q218_original
+Maura has escaped... ::wheeze:: safe and sound. Here is your... ::wheeze:: well-deserved payment.<end>
+
+=>q218
+Мавра сбежала... ::хрипит:: в целости и сохранности. Вот твоя... ::хрипит:: заслуженная оплата.<end>
+
+=>q219_original
+Do not... ::wheeze:: test my patience.<end>
+
+=>q219
+Не... ::хрипит:: испытывай моё терпение.<end>
+
+=>q220_original
+You fool... ::coughs:: by letting her die... ::wheeze:: you've cost me quite a few coins. Leave me... ::wheeze:: I will not be... ::wheeze:: requiring your services anymore.<end>
+
+=>q220
+Дур$(#ак/а)... ::кашляет:: ты позволил$(#/а) ей умереть... ::хрипит:: это стоило мне немало монет. Уходи... ::хрипит:: я больше не... ::хрипит:: нуждаюсь в твоих услугах.<end>
+
+=>q221_original
+::He coughs violently.:: You should not be here.<end>
+
+=>q221
+::Он сильно кашляет.:: Ты не долж$(#ен/на) быть здесь.<end>
+
+=>q222_original
+You have... ::wheeze:: a job to finish.<end>
+
+=>q222
+У тебя есть... ::хрипит:: незаконченная работа.<end>
+
+=>q223_original
+I have another... ::wheeze:: job for you... ::wheeze:: $(context.player.Name) of SGS. This one... ::coughs:: even riskier than the last one. Do you... ::wheeze:: wish to hear it?<end>
+
+=>q223
+У меня есть другая... ::хрипит:: работа для тебя... ::хрипит:: $(context.player.Name) с ССГ. Эта... ::кашляет:: даже рискованнее, чем последняя. Тебе... ::хрипит:: интересно?<end>
+
+=>a224_original
+Yeah, go on.<end>
+
+=>a224
+Да, продолжай.<end>
+
+=>q225_original
+This hole that we dug up... ::wheeze:: will lead you to the ventilation system... ::wheeze:: of the Union embassy lower level.<end>
+
+=>q225
+Мы выкопали эту яму, она... ::хрипит:: приведёт тебя в систему вентиляции... ::хрипит:: нижнего уровня посольства Союза.<end>
+
+=>q226_original
+Among other things... ::wheeze:: this area also serves as a Protectorate prison. I need you... ::wheeze:: to liberate a prisoner.<end>
+
+=>q226
+Помимо прочего... ::хрипит:: это место также служит тюрьмой Протектората. Я хочу, чтобы ты... ::хрипит:: освободил$(#/а) заключённого.<end>
+
+=>q227_original
+Her name is Maura. ::He coughs.:: As far I as know... ::wheeze:: she is the only prisoner there, but... ::wheeze:: I cannot be sure.<end>
+
+=>q227
+Её зовут Мавра. ::Он кашляет.:: Насколько я знаю... ::хрипит:: она является единственным пленником, но... ::хрипит:: я не могу быть уверен.<end>
+
+=>q228_original
+You will encounter... ::wheeze:: moderate to heavy resistance down there. I would prefer if y-::coughs::... if you could liberate her with no casualties on either side... ::wheeze:: but if you do engage in conflict... ::wheeze:: make sure you leave no witnesses.<end>
+
+=>q228
+Внизу ты... ::хрипит:: столкнёшься с умеренным или сильным сопротивлением. Я бы предпочёл, чтобы т... ::кашляет:: ...чтобы ты смог$(#/ла) освободить её без потерь с обеих сторон... ::хрипит:: но если ты вступишь в конфликт... ::хрипит:: убедись, что не осталось свидетелей.<end>
+
+=>q229_original
+You do not want to find yourself... ::wheeze:: on the Protectorate's most wanted list.<end>
+
+=>q229
+Лучше не попадать... ::хрипит:: в список разыскиваемых преступников Протектората.<end>
+
+=>q230_original
+So... ::wheeze:: what do you say?<end>
+
+=>q230
+Итак... ::хрипит:: что скажешь?<end>
+
+=>q231_original
+<end>
+
+=>q231
+<end>
+
+=>a232_original
+I'll do it.<end>
+
+=>a232
+Я сделаю это.<end>
+
+=>q233_original
+You may descend the ladder... ::wheeze:: when ready.<end>
+
+=>q233
+Можешь спуститься по лесенке... ::хрипит:: когда будешь готов$(#/а).<end>
+
+=>a234_original
+What's the pay?<end>
+
+=>a234
+Сколько платишь?<end>
+
+=>q235_original
+::He coughs.:: One thousand charons.<end>
+
+=>q235
+::Он кашляет.:: Одна тысяча харонов.<end>
+
+=>a236_original
+I'll pass. Sounds too risky.<end>
+
+=>a236
+Я пас. Звучит слишком рискованно.<end>
+
+=>q237_original
+That is... ::wheeze:: very disappointing. Leave then... ::wheeze:: and forget you ever saw this place.<end>
+
+=>q237
+Что же... ::хрипит:: очень плохо. Теперь уходи... ::хрипит:: и забудь, что даже видел$(#/а) это место.<end>
+
+=>a238_original
+I'll pass. I had enough excitement already.<end>
+
+=>a238
+Я пас. Хватит с меня приключений.<end>
+
+=>q239_original
+::He nods.:: Leave then... ::wheeze:: and forget you saw this place.<end>
+
+=>q239
+::Он кивает.:: Тогда уходи и... ::хрипит:: забудь, что видел$(#/а) это место.<end>
+
+=>q240_original
+::He coughs violently.:: Excellent... ::wheeze:: my little pet has... ::wheeze:: settled nicely in its new home.<end>
+
+=>q240
+::Он заходится кашлем.:: Отлично... ::хрипит:: мой маленький питомец... ::хрипит:: уютно устроился в своём новом доме.<end>
+
+=>a241_original
+How did you know...?<end>
+
+=>a241
+Откуда ты знаешь?..<end>
+
+=>q242_original
+::He cuts you short.:: <end>
+
+=>q242
+::Он перебивает вас.::<end>
+
+=>q243_original
+You will find your... ::wheeze.:: money with Kareem again. Leave me now... ::wheeze:: I have much to do. Perhaps... ::wheeze:: I will call upon you again soon.<end>
+
+=>q243
+Ты можешь забрать свои... ::хрипит:: деньги у Карима, как и раньше. А теперь оставь меня... ::хрипит:: у меня много дел. Возможно... ::хрипит:: скоро я снова позову тебя.<end>
+
+=>a244_original
+::Nod.::<end>
+
+=>a244
+::Кивнуть.::<end>
+
+=>q245_original
+Do not... ::wheeze:: bother explaining. I know that you... ::wheeze:: have failed. We have... ::wheeze:: nothing more to discuss.<end>
+
+=>q245
+Не стоит... ::хрипит:: утруждать себя объяснениями. Я знаю, что ты... ::хрипит:: потерпел$(#/а) неудачу. Нам больше... ::хрипит:: не о чем говорить.<end>
+
+=>q246_original
+Until your task is complete... ::wheeze:: we have nothing more to talk about.<end>
+
+=>q246
+Пока твоя задача не завершена... ::хрипит:: нам нечего больше обсуждать.<end>
+
+=>q247_original
+Are you ready to... ::wheeze:: earn some more money? If so-- ::He coughs:: I have another business proposal for you.<end>
+
+=>q247
+Ты готов$(#/а)... ::хрипит:: ещё поработать за деньги? Если так... ::кашляет:: у меня есть для тебя ещё одно деловое предложение.<end>
+
+=>a248_original
+Tell me what you had in mind.<end>
+
+=>a248
+Скажи мне, что ты задумал.<end>
+
+=>q249_original
+I need to deliver... ::wheeze:: a present to our friends in the Union embassy. ::He coughs violently.:: But it's a surprise... ::wheeze:: so they mustn't know about it.<end>
+
+=>q249
+Мне нужно доставить... ::хрипит:: подарок нашим друзьям в посольство Союза. ::Он заходится кашлем.:: Но это сюрприз... ::хрипит:: поэтому они не должны о нём узнать.<end>
+
+=>q250_original
+I fear if I was... ::wheeze:: to deliver this present myself... ::wheeze:: I wouldn't be allowed to leave anytime soon.<end>
+
+=>q250
+Боюсь, если бы я захотел... ::хрипит:: доставить этот подарок сам... ::хрипит:: мне бы не скоро позволили уйти.<end>
+
+=>a251_original
+What is this present you want me to deliver?<end>
+
+=>a251
+Что это за подарок, который нужно доставить?<end>
+
+=>q252_original
+It is a little pet... ::wheeze:: very lovable... ::wheeze:: likes to hang out in ventilation ducts. You must place it there... ::wheeze:: without anyone noticing.<end>
+
+=>q252
+Это маленький питомец... ::хрипит:: очень милый... ::хрипит:: любит ползать по вентиляции. Выпусти его туда... ::хрипит:: так, чтобы никто не заметил.<end>
+
+=>q253_original
+Do you think you... ::wheeze:: would be able to do this?<end>
+
+=>q253
+Думаешь... ::хрипит:: тебе это по силам?<end>
+
+=>a254_original
+I can do that.<end>
+
+=>a254
+Я могу это сделать.<end>
+
+=>q255_original
+::He coughs violently.:: Excellent... ::wheeze:: once you've done it... ::wheeze:: I will pay you five hundred charons.<end>
+
+=>q255
+::Он заходится кашлем.:: Отлично... ::хрипит:: по завершению работы... ::хрипит:: я заплачу тебе пятьсот харонов.<end>
+
+=>q256_original
+::He slowly reaches into one of his overcoat pockets with both of his hands and removes something. He holds it between his palms and brings it close to his mask. You are not sure what it is, but you can make out small insect-like legs protruding from the sides.::<end>
+
+=>q256
+::Обеими руками он медленно лезет в один из карманов пальто и что-то извлекает. Он держит это между ладонями и подносит к своей маске. Вы не знаете, что это такое, но замечаете лапки насекомого, которые торчат в стороны.::<end>
+
+=>q257_original
+::He holds it there as if speaking to it, but no sound comes from either of them. He reaches over and grabs your arm with one hand and lets the creature grapple onto you. You can now clearly see it's a tiny burrower spawn.::
+
+::Abram's long bony fingers and the creature's tiny legs both feel equally disgusting on your arms.::<end>
+
+=>q257
+::Он держит его так, как будто разговаривает с ним, но вы не слышите ни звука. Он наклоняется к вам, берёт вас за руку и позволяет существу ухватиться за вас. Теперь вы ясно видите, что это крошечная личинка могильщика.::
+
+::Длинные костлявые пальцы Абрама и крохотные ножки существа ощущаются одинаково отвратительно.::<end>
+
+=>q258_original
+::There is barely time for panic, though. The creature quickly skitters over your arm and torso until it finds a suitable pocket in your clothes to hide in.::<end>
+
+=>q258
+::Вы не успеваете испугаться. Существо быстро карабкается по вашей руке и корпусу, пока не находит подходящий карман в одежде и прячется внутри.::<end>
+
+=>q259_original
+Remember... ::coughs:: you must release it near a ventilation shaft... ::wheeze:: It will find its way onwards from there. ::He lets go of your arm.::<end>
+
+=>q259
+Напоминаю... ::кашляет:: ты долж$(#ен/на) выпустить его возле вентиляции... ::хрипит:: Дальше он сам найдёт дорогу. ::Он отпускает вашу руку.::<end>
+
+=>a260_original
+What's the pay?<end>
+
+=>a260
+Сколько платишь?<end>
+
+=>q261_original
+It's... ::wheeze:: five hundred charons. So what do you say... ::wheeze:: you up for it?<end>
+
+=>q261
+Пятьсот харонов... ::хрипит:: Так, что скажешь... ::хрипит:: ты соглас$(#ен/на)?<end>
+
+=>a262_original
+I'm in.<end>
+
+=>a262
+Я в деле.<end>
+
+=>q263_original
+::He coughs violently.:: Excellent.<end>
+
+=>q263
+::Он заходится кашлем.:: Отлично.<end>
+
+=>a264_original
+Not worth risking my skin for that. I'll pass.<end>
+
+=>a264
+Это не стоит того, что бы рисковать своей шкурой. Я пас.<end>
+
+=>q265_original
+::He nods slowly.:: Understandable... ::wheeze:: Just be sure not to... ::coughs:: spoil my surprise.<end>
+
+=>q265
+::Он медленно кивает.:: Я понимаю... ::хрипит:: Только не... ::кашляет:: испорти мой сюрприз.<end>
+
+=>a266_original
+Too risky. I'll pass.<end>
+
+=>a266
+Слишком рискованно. Я пас.<end>
+
+=>a267_original
+Forget it. This sounds like trouble.<end>
+
+=>a267
+Забудь. Это похоже на неприятности.<end>
+
+=>a268_original
+Perhaps later.<end>
+
+=>a268
+Возможно позже.<end>
+
+=>q269_original
+::The man wheezes heavily through the mask, his eyes drowsy. He is resting one of his arms on the counter while occasionally breaking off pieces of bread from his plate with the other and putting them in various pockets of his overcoat.:: 
+
+The air here is... ::wheeze:: ...corrupt, in more ways than one.<end>
+
+=>q269
+::Мужчина тяжело и хрипло дышит, под маской видны его усталые глаза. Он положил одну руку на прилавок, а другой иногда отламывает кусочки от хлеба, лежащего перед ним на тарелке, и распихивает их по многочисленным карманам своего пальто.:: 
+
+Воздух здесь... ::хрипит:: ...гнилой, если понимаешь, о чём я.<end>
+
+=>q270_original
+<end>
+
+=>q270
+<end>
+
+=>q271_original
+You are... ::wheeze:: $(context.player.Name) of the... ::wheeze:: South Gate Station... ::wheeze.:: Is this correct?<end>
+
+=>q271
+Ты ведь... ::хрипит:: $(context.player.Name) со... ::хрипит:: станции Саут-Гейт... ::хрипит:: Я прав?<end>
+
+=>a272_original
+That is correct.<end>
+
+=>a272
+Да, это я.<end>
+
+=>q273_original
+I am Abram... ::wheeze:: and I have a business... ::wheeze:: proposition for you. My sources tell me... ::wheeze:: you have recently visited the embassy of our-- ::coughs violently:: our Union friends.<end>
+
+=>q273
+Меня зовут Абрам... ::хрипит:: и у меня есть для тебя деловое... ::хрипит:: предложение. Мои источники сообщили... ::хрипит:: что ты недавно посещал$(#/а) посольство наш... ::сильно кашляет:: наших друзей из Союза.<end>
+
+=>q274_original
+I wish to purchase... ::wheeze:: information that you might have... ::wheeze:: acquired during this visit. This information does... ::wheeze:: not pertain to the purpose of your visit... ::wheeze:: so this talk will not challenge your loyalty to your own station... ::wheeze:: if you foster any.<end>
+
+=>q274
+Я хотел бы купить... ::хрипит:: информацию, которую ты, вероятно... ::хрипит:: приобр$(#ёл/ела) в ходе своего визита. Эта информация... ::хрипит:: не относится к цели твоего визита... ::хрипит:: поэтому наш разговор не затронет твою преданность собственной станции... ::хрипит:: если таковая существует.<end>
+
+=>q275_original
+Are you... ::wheeze:: interested?<end>
+
+=>q275
+Тебе... ::хрипит:: это интересно?<end>
+
+=>a276_original
+How much will you pay me?<end>
+
+=>a276
+Сколько ты мне заплатишь?<end>
+
+=>q277_original
+That depends... ::wheeze:: on the quality of the information- ::cough cough::... you provide.<end>
+
+=>q277
+Это зависит... ::хрипит:: от качества информации... ::кхе-кхе:: ...которую ты предоставишь.<end>
+
+=>a278_original
+Alright, agreed. Ask your questions.<end>
+
+=>a278
+Хорошо, договорились. Задавай свои вопросы.<end>
+
+=>q279_original
+::He nods slowly.::<end>
+
+=>q279
+::Он медленно кивает.::<end>
+
+=>q280_original
+How many men... ::wheeze:: are guarding the entrance to... ::wheeze:: the embassy courtyard once you get past... ::wheeze:: the gate?<end>
+
+=>q280
+Сколько человек... ::хрипит:: охраняет вход... ::хрипит:: во внутренний двор посольства, как только проходишь через... ::хрипит:: ворота?<end>
+
+=>a281_original
+I saw only one.<end>
+
+=>a281
+Я видел$(#/а) только одного.<end>
+
+=>q282_original
+Were you allowed to... ::wheeze:: enter the courtyard?<end>
+
+=>q282
+Тебе разрешили... ::хрипит:: войти во внутренний двор?<end>
+
+=>a283_original
+Yes.<end>
+
+=>a283
+Да.<end>
+
+=>q284_original
+How many guards did you see there?<end>
+
+=>q284
+Сколько охранников ты там видел$(#/а)?<end>
+
+=>a285_original
+Two or three.<end>
+
+=>a285
+Двоих или троих.<end>
+
+=>q286_original
+Were there any guards... ::wheeze:: in the embassy offices?<end>
+
+=>q286
+Были ли охранники... ::хрипит:: в кабинетах посольства?<end>
+
+=>a287_original
+Yes, at least one.<end>
+
+=>a287
+Да, как минимум один.<end>
+
+=>q288_original
+Did you see-- ::cough, cough:: or hear any dogs... ::wheeze:: anywhere on the embassy grounds?<end>
+
+=>q288
+Ты видел$(#/а)... ::кхе-кхе:: или слышал$(#/а) собак... ::хрипит:: на территории посольства?<end>
+
+=>a289_original
+Yeah, there were a couple of dogs.<end>
+
+=>a289
+Да, была пара собак.<end>
+
+=>q290_original
+Any turrets? ::cough cough::<end>
+
+=>q290
+Защитные турели? ::кхе-кхе::<end>
+
+=>a291_original
+::[Perception]:: Yes, two at the entrance.<end>
+
+=>a291
+::[Восприятие]:: Да, две у входа.<end>
+
+=>q292_original
+Just one more question... ::wheeze:: are you allowed to go back to the Embassy?<end>
+
+=>q292
+И ещё один вопрос... ::хрипит:: тебе разрешили возвращаться в посольство?<end>
+
+=>a293_original
+Yes.<end>
+
+=>a293
+Да.<end>
+
+=>q294_original
+That is all... ::wheeze:: I needed to know.<end>
+
+=>q294
+Вот и всё... ::хрипит:: что мне нужно было знать.<end>
+
+=>q295_original
+Kareem will give you your... ::wheeze:: money.<end>
+
+=>q295
+Карим даст тебе твои... ::хрипит:: деньги.<end>
+
+=>q296_original
+<end>
+
+=>q296
+<end>
+
+=>q297_original
+There is also a way... ::wheeze:: for you to earn more. If you are interested... ::wheeze:: come to me again and we can talk further. ::Coughs violently.::<end>
+
+=>q297
+Для тебя есть возможность... ::хрипит:: заработать ещё. Если тебе интересно... ::хрипит:: подойди ко мне снова, и мы поговорим. ::Сильно кашляет.::<end>
+
+=>q298_original
+<end>
+
+=>q298
+<end>
+
+=>q299_original
+<end>
+
+=>q299
+<end>
+
+=>a300_original
+No.<end>
+
+=>a300
+Нет.<end>
+
+=>a301_original
+Yes, two at the entrance.<end>
+
+=>a301
+Да, две у входа.<end>
+
+=>a302_original
+No turrets.<end>
+
+=>a302
+Не было турелей.<end>
+
+=>a303_original
+I'm not sure.<end>
+
+=>a303
+Я не уверен$(#/а).<end>
+
+=>a304_original
+No, I saw no dogs.<end>
+
+=>a304
+Нет, я не видел$(#/а) собак.<end>
+
+=>a305_original
+::[Perception]:: No, I saw no dogs.<end>
+
+=>a305
+::[Восприятие]:: Нет, я не видел$(#/а) собак.<end>
+
+=>a306_original
+::[Perception]:: Yes, at least one.<end>
+
+=>a306
+::[Восприятие]:: Да, как минимум один.<end>
+
+=>a307_original
+No, none.<end>
+
+=>a307
+Нет, никого.<end>
+
+=>a308_original
+I'm not sure.<end>
+
+=>a308
+Я не уверен$(#/а).<end>
+
+=>a309_original
+::[Perception]:: Two or three.<end>
+
+=>a309
+::[Восприятие]:: Двоих или троих.<end>
+
+=>a310_original
+A couple of them.<end>
+
+=>a310
+Пару человек.<end>
+
+=>a311_original
+There were no guards in the courtyard.<end>
+
+=>a311
+Во дворе не было никакой охраны.<end>
+
+=>a312_original
+No.<end>
+
+=>a312
+Нет.<end>
+
+=>q313_original
+Were you able to... ::wheeze:: see inside it, at least?<end>
+
+=>q313
+Тебе удалось... ::хрипит:: хотя бы заглянуть внутрь?<end>
+
+=>a314_original
+Yes.<end>
+
+=>a314
+Да.<end>
+
+=>a315_original
+No.<end>
+
+=>a315
+Нет.<end>
+
+=>a316_original
+::[Perception]:: One and there was another in an adjacent room.<end>
+
+=>a316
+::[Восприятие]:: Один, и ещё один в примыкающем помещении.<end>
+
+=>a317_original
+One and there was another in an adjacent room.<end>
+
+=>a317
+Один, и ещё один в примыкающем помещении.<end>
+
+=>a318_original
+A couple of them, I'm not sure.<end>
+
+=>a318
+Пара человек, я не уверен$(#/а).<end>
+
+=>a319_original
+Forget it. I don't think this will be worth my while.<end>
+
+=>a319
+Забудь. Я сомневаюсь, что это будет стоить потраченного времени.<end>
+
+=>q320_original
+Leave me then... ::wheeze:: and forget this conversation ever took place.<end>
+
+=>q320
+Тогда оставь меня... ::хрипит:: и забудь про этот разговор.<end>
+
+=>a321_original
+Sure, I'm always up for a friendly chat. What do you want to know?<end>
+
+=>a321
+Конечно, я не откажусь от дружеского общения. Что ты хочешь знать?<end>
+
+=>a322_original
+I'm not interested in spying on the Protectorate.<end>
+
+=>a322
+Я не собираюсь шпионить за Протекторатом.<end>
+
+=>q323_original
+::He nods slowly.:: Understandable. <end>
+
+=>q323
+::Он медленно кивает.:: Я понимаю.<end>
+
+=>a324_original
+::[Persuade]:: You got me mixed up with someone else.<end>
+
+=>a324
+::[Убеждение]:: Вы меня перепутали с кем-то другим.<end>
+
+=>q325_original
+I do not... ::wheeze:: think so. Listen-- ::cough cough:: <end>
+
+=>q325
+Я так... ::хрипит:: не думаю. Слушай... ::кхе-кхе::<end>
+
+=>a326_original
+What's it to you?<end>
+
+=>a326
+Тебе-то что?<end>
+
+=>q327_original
+::He just wheezes through his mask, refusing to converse with you.::<end>
+
+=>q327
+::Он просто хрипит сквозь свою маску, отказываясь общаться с вами.::<end>
+

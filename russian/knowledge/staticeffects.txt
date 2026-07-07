@@ -1,0 +1,246 @@
+﻿::nightVision
+Ночное видение
+
+::immunity
+Невосприимчивость к {0}.
+
+::ModifyActionPoints_Positive
+Очки действия увеличены на {0}{1}
+
+::ModifyActionPoints_Negative
+Очки действия уменьшены на {0}{1}
+
+::ModifyActionPoints_whenNotInStealth
+пока в невидимости
+
+::ModifyAggregateWeaponSubtypeAttackSpeed_Positive
+Стоимость в очках действия атак {0} увеличена на {1}.
+
+::ModifyAggregateWeaponSubtypeAttackSpeed_Negative
+Стоимость в очках действия атак {0} уменьшена на {1}.
+
+::ModifyAggregateWeaponSubtypeBonusDamage_Positive
+Увеличивает дополнительный урон от {0} атак на {1}%.
+
+::ModifyAggregateWeaponSubtypeBonusDamage_Negative
+Уменьшает дополнительный урон от {0} атак на {1}%.
+
+::ModifyAggregateWeaponSubtypeCriticalHitChance_Positive
+Шанс критического удара, который наносит "{0}" увеличен на {1}%.
+
+::ModifyAggregateWeaponSubtypeCriticalHitChance_Negative
+Шанс критического удара, который нанесёт "{0}" уменьшен на {1}%.
+
+::ModifyArmorPenalty_Increased
+Штраф брони увеличен на {0}%
+
+::ModifyArmorPenalty_Decreased
+Штраф брони уменьшен на {0}%
+
+::ModifyBaseAbilityFlat_Increased
+{0} - увеличено на {1}
+
+::ModifyBaseAbilityFlat_Decreased
+{0} - уменьшено на {1}
+
+::ModifyBaseAbilityPercentage
+{0} - увеличено на {1}%
+
+::ModifyBulletReloadingSpeed_Increased
+Стоимость в ОД перезарядки оружия увеличена на {0}%
+
+::ModifyBulletReloadingSpeed_Decreased
+Стоимость в ОД перезарядки оружия уменьшена на {0}%
+
+::ModifyCapabilityDamagePercentage_Increased
+{0} - увеличено на {1}%
+
+::ModifyCapabilityDamagePercentage_Decreased
+{0} - уменьшено на {1}
+
+::ModifyCarryCapacity_Increased
+Максимум переносимого веса увеличен на {0}
+
+::ModifyCarryCapacity_Decreased
+Максимум переносимого веса уменьшен на {0}
+
+::ModifyChanceToAvoidImmobilization_Increased
+Даёт {0}% шанс избежать обездвиживания от большинства эффектов.
+
+::ModifyChanceToAvoidImmobilization_Decreased
+Снижает шанс избежать обездвиживания от большинства эффектов на {0}%.
+
+::ModifyCooldownFlat_Increased
+Задержка восстановления {0} увеличена на {1}
+
+::ModifyCooldownFlat_Decreased
+Задержка восстановления {0} уменьшена на {1}
+
+::ModifyCooldownPercentage_Increased
+Задержка восстановления {0} увеличена на {1}%
+
+::ModifyCooldownPercentage_Decreased
+Задержка восстановления {0} уменьшена на {1}%
+
+::ModifyDamageResistance_Increased
+Сопротивление {0} урону увеличено на {1}%
+
+::ModifyDamageResistance_Decreased
+Сопротивление {0} урону уменьшено на {1}%
+
+::ModifyDamageResistance_Threshold_Increased
+и порог защиты от урона увеличен на {0}.
+
+::ModifyDamageResistance_Threshold_Decreased
+и порог защиты от урона уменьшен на {0}.
+
+::ModifyDamageTakenModifier_Increased
+Весь получаемый {0} урон увеличен на {1}%
+
+::ModifyDamageTakenModifier_Decreased
+Весь получаемый {0} урон уменьшен на {1}%
+
+::ModifyDamageThreshold_Increased
+{0} защита от урона повышена на {1}
+
+::ModifyDamageThreshold_Decreased
+{0} защита от урона снижена на {1}
+
+::ModifyDetectionFlat_Increased
+Обнаружение увеличено на {0}.
+
+::ModifyDetectionFlat_Decreased
+Обнаружение уменьшено на {0}.
+
+::ModifyDetectionPercentage_Increased
+Обнаружение увеличено на {0}%
+
+::ModifyDetectionPercentage_Decreased
+Обнаружение уменьшено на {0}%
+
+::ModifyDodgeFlat_Increased
+Уклонение увеличено на {0}
+
+::ModifyDodgeFlat_Decreased
+Уклонение уменьшено на {0}
+
+::ModifyDodgePercentage_Increased
+Уклонение увеличено на {0}%
+
+::ModifyDodgePercentage_Decreased
+Уклонение уменьшено на {0}%
+
+::ModifyEvasionFlat_Increased
+Уворот увеличен на {0}
+
+::ModifyEvasionFlat_Decreased
+Уворот уменьшен на {0}
+
+::ModifyEvasionPercentage_Increased
+Уворот в дальнем бою увеличен на {0}%
+
+::ModifyEvasionPercentage_Decreased
+Уворот в дальнем бою уменьшен на {0}%
+
+::ModifyExplosionDamageTaken_Increased
+Урон, получаемый от взрывов, увеличен на {0}%
+
+::ModifyExplosionDamageTaken_Decreased
+Урон, получаемый от взрывов, уменьшен на {0}%
+
+::ModifyFirearmPistolsAttackSpeed_Increased
+Стоимость в очках действия атак пистолетом увеличена на {0}
+
+::ModifyFirearmPistolsAttackSpeed_Decreased
+Стоимость в очках действия атак пистолетом уменьшена на {0}
+
+::ModifyFirearmReloadingSpeed_Increased
+Стоимость в ОД перезарядки оружия увеличена на {0}%
+
+::ModifyFirearmReloadingSpeed_Decreased
+Стоимость в ОД перезарядки оружия уменьшена на {0}%
+
+::ModifyFortitudeFlat_Increased
+Стойкость увеличена на {0}
+
+::ModifyFortitudeFlat_Decreased
+Стойкость уменьшена на {0}
+
+::ModifyGrenadeLauncherReloadingSpeed_Increased
+Стоимость ОД перезарядки гранатомёта увеличена на {0}%
+
+::ModifyGrenadeLauncherReloadingSpeed_Decreased
+Стоимость ОД перезарядки гранатомёта уменьшена на {0}%
+
+::ModifyHealingEffectiveness_Increased
+Все восстанавливающие здоровье эффекты усилены на {0}%
+
+::ModifyHealingEffectiveness_Decreased
+Все восстанавливающие здоровье эффекты ослаблены на {0}%
+
+::ModifyHealthFlat_Increased
+Здоровье увеличено на {0}
+
+::ModifyHealthFlat_Decreased
+Здоровье уменьшено на {0}
+
+::ModifyHealthPercentage_Increased
+Максимум здоровья увеличен на {0}%
+
+::ModifyHealthPercentage_Decreased
+Максимум здоровья уменьшен на {0}%
+
+::ModifyInitiativeFlat_Increased
+Инициатива увеличена на {0}
+
+::ModifyInitiativeFlat_Decreased
+Инициатива уменьшена на {0}
+
+::ModifyMedicineUsageCost_Increased
+Расход ОД на применение медицинских препаратов увеличен на {0}%
+
+::ModifyMedicineUsageCost_Decreased
+Расход ОД на применение медицинских препаратов уменьшен на {0}%
+
+::ModifyMeleeWeaponAttackHitChance_Increased
+Шанс попадания оружием ближнего боя и рукопашными атаками увеличен на {0}%
+
+::ModifyMeleeWeaponAttackHitChance_Decreased
+Шанс попадания оружием ближнего боя и рукопашными атаками уменьшен на {0}%
+
+::ModifyMovementPoints_Increased
+Очки передвижения увеличены на {0}{1}
+
+::ModifyMovementPoints_Decreased
+Очки передвижения уменьшены на {0}{1}
+
+::ModifyMovementPoints_whenNotInStealth
+пока в невидимости
+
+::ModifyMovementSpeedCombined_noSpeedChanges
+Нет изменения скорости
+
+::ModifyMovementSpeedCombined_Speed_Increased
+Скорость передвижения увеличена на {0}
+
+::ModifyMovementSpeedCombined_Speed_Decreased
+Скорость передвижения уменьшена на {0}
+
+::ModifyMovementSpeedCombined_andMovementPoints
+и очки передвижения на {0}.
+
+::ModifyMovementSpeedCombined_ButMovementPoints_Increased
+, но очки передвижения увеличены на {0}
+
+::ModifyMovementSpeedCombined_ButMovementPoints_Decreased
+, но очки передвижения уменьшены на {0}
+
+::ModifyMovementSpeedCombined_MovementPoints_Increased
+Очки передвижения увеличены на {0}
+
+::ModifyMovementSpeedCombined_MovementPoints_Decreased
+Очки передвижения уменьшены на {0}
+
+::ModifyMovementSpeedCombined_whenNotInStealth
+когда не в режиме скрытности
+

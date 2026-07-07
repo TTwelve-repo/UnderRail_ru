@@ -1,0 +1,1898 @@
+﻿=>q1_original
+::As you step out of the picture you are startled to see Ezra staring at you.::
+
+I see you have found something interesting.<end>
+
+=>q1
+::Выходя из картины, вы вздрагиваете, столкнувшись лицом к лицу с Эзрой.::
+
+Я вижу, вы нашли что-то интересное.<end>
+
+=>a2_original
+Damn it, Ezra, don't do that anymore.<end>
+
+=>a2
+Блин, Эзра, не делайте так больше.<end>
+
+=>q3_original
+We have an agreement. ::The corner of his lip twists into a barely perceptible smile.::<end>
+
+=>q3
+Договорились. ::Уголок его губ изгибается в едва заметной улыбке.::<end>
+
+=>a4_original
+Wait, did you know about this picture?<end>
+
+=>a4
+Подождите, вы знали об этой картине?<end>
+
+=>q5_original
+No. And still calling it a picture seems rather inadequate, based on what I've just seen. Tell me, $(context.player.Name), what was on the other side of this... portal?<end>
+
+=>q5
+Нет. И называть это картиной было бы некорректно, исходя из того, что я видел. Скажите, $(context.player.Name), что вы видели на другой стороне?<end>
+
+=>a6_original
+A small room with a stasis cell of some kind and two desks. There was a chemical set and a number of different chemicals there along with what appeared to be mask fragments.<end>
+
+=>a6
+Небольшая комната с какой-то стазисной ячейкой и двумя письменными столами. Там был лабораторный стол, много разных химикатов и, кажется, фрагменты маски.<end>
+
+=>q7_original
+::Ezra absorbs your words, but the only response you get are a few slow nods.::<end>
+
+=>q7
+::Эзра впитывает ваши слова, но не даёт никакого ответа, только несколько раз кивает.::<end>
+
+=>a8_original
+You know something, Ezra.<end>
+
+=>a8
+Вы что-то знаете, Эзра.<end>
+
+=>q9_original
+The things you describe are familiar to me. Over the years, there were a few instances where I was able to peer into Tanner's mind. Faint shapes of what you described was what I saw. I was quickly... expunged, however, in every single one of these instances, so I know nothing of the purpose or meaning of those things.<end>
+
+=>q9
+Вещи, которые вы описываете, мне знакомы. За прошедшие годы мне несколько раз удавалось заглянуть в разум Таннера. Я видел размытые образы того, что вы описали. Каждый раз, однако, я был быстро... выдворен, так что я ничего не знаю про назначение или смысл этих вещей.<end>
+
+=>q10_original
+Tanner's disappearance is a mystery to me as it is to you, $(context.player.Name), and now I believe is the time to share your findings with the rest of the council.<end>
+
+=>q10
+Исчезновение Таннера -- такая же загадка для меня, как и для вас, $(context.player.Name). И сейчас, я считаю, самое время поделиться вашей находкой с остальными членами совета.<end>
+
+=>a11_original
+Let's go see them.<end>
+
+=>a11
+Пошли поговорим с ними.<end>
+
+=>a12_original
+Why are you silent?<end>
+
+=>a12
+Почему вы молчите?<end>
+
+=>a13_original
+I thought you were going to wait for me outside.<end>
+
+=>a13
+Я думал$(#/а), вы будете ждать меня снаружи.<end>
+
+=>q14_original
+I thought so too, but something drew me in.<end>
+
+=>q14
+Я так и собирался поступить, но что-то привлекло меня.<end>
+
+=>a15_original
+You would not believe what I just saw there.<end>
+
+=>a15
+Вы не поверите, что я только что там видел$(#/а).<end>
+
+=>q16_original
+Maybe I would. I have seen plenty of things during my lifetime.<end>
+
+=>q16
+Кто знает, возможно, легко поверю. Я многое повидал в этой жизни.<end>
+
+=>q17_original
+::Ezra stares at you.:: Well?<end>
+
+=>q17
+::Эзра не сводит с вас взгляда.:: Итак?<end>
+
+=>q18_original
+There. I will wait here while you inspect Tanner's room.<end>
+
+=>q18
+Вот. Я буду ждать здесь, пока вы осмотрите комнату Таннера.<end>
+
+=>a19_original
+Won't you help me?<end>
+
+=>a19
+Вы мне не поможете?<end>
+
+=>q20_original
+I wouldn't want to get in your way, $(context.player.Name).<end>
+
+=>q20
+Не хочу вам мешать, $(context.player.Name).<end>
+
+=>a21_original
+Okay. I'm going to take a look inside.<end>
+
+=>a21
+Ладно. Я загляну внутрь.<end>
+
+=>q22_original
+And... be cautious. Just in case.<end>
+
+=>q22
+И... будьте осторожны. Мало ли что.<end>
+
+=>a23_original
+Do you know something I don't?<end>
+
+=>a23
+Вы знаете что-то, чего не знаю я?<end>
+
+=>q24_original
+If I did, I would've told you by now.<end>
+
+=>q24
+Если бы знал, то уже сказал бы.<end>
+
+=>a25_original
+Right, I'm going inside.<end>
+
+=>a25
+Хорошо, я вхожу.<end>
+
+=>a26_original
+I will.<end>
+
+=>a26
+Хорошо.<end>
+
+=>a27_original
+You do that. I'm going to take a look inside.<end>
+
+=>a27
+Так и поступим. Я пойду загляну внутрь.<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>q29_original
+::Ezra returns shortly.::
+
+Just as I suspected.<end>
+
+=>q29
+::Вскоре Эзра возвращается.::
+
+Как я и подозревал.<end>
+
+=>a30_original
+Discovered anything interesting?<end>
+
+=>a30
+Обнаружили что-нибудь интересное?<end>
+
+=>q31_original
+I've managed to analyze the composition of this *impure* chromium blade, and I emphasize this because over ninety percent of it is indeed chromium. But that you knew already. However, what you didn't know is that it is the other ten percent that which differentiates vermin from a walking apocalypse: Foundry is very unfortunate in having their surrounding rock made up of some of the hardest minerals in nature, for it is these materials which together form the living armor of these creatures. And I am not just talking about their shell, no - it is their whole bodies which are composed of these metals and minerals, albeit in varying quantities depending on the section, of course.<end>
+
+=>q31
+Мне удалось проанализировать состав этой *неочищенной* хромовой пластины, и я подчёркиваю, что более чем на девяносто процентов это действительно хром. Но это вы уже и так знали. Чего вы, однако, не знали, это что оставшиеся десять процентов отличают безвредных паразитов от ходячего апокалипсиса. Литейной крайне не повезло в том, что окружающие её породы состоят из некоторых из самых твёрдых минералов в природе, ведь именно такие материалы и образуют живую броню этих существ. И я говорю не только про их внешний панцирь, нет -- их тела также состоят из этих металлов и минералов, хотя и в различных соотношениях в зависимости от органов, разумеется.<end>
+
+=>q32_original
+Chromium is in itself a resistant metal, but its strength lies in its high heat resistance. The rest of the materials serve to counteract mechanical forces acting upon the organism. It appears that in small creatures, this robustness can be overcome by conventional means, if barely; in the Beast, I'd suggest you return to Foundry and tell them to collapse the cave where it lives and abandon them altogether. But that isn't an option, or else you wouldn't be here.<end>
+
+=>q32
+Хром сам по себе является довольно прочным металлом, но сила его в высокой термостойкости. Остальные материалы служат для противодействия механическому воздействию на организм. Похоже, что у малых существ это сопротивление может быть преодолено обычными средствами, пусть и с трудом. Но в случае Зверя, я бы порекомендовал вам вернуться в Литейную и сообщить им, что лучшим выходом был бы подрыв и обрушение пещер, где он обитает, и полный отказ от их использования. Но ведь это не вариант, иначе вас бы здесь не было.<end>
+
+=>q33_original
+Luckily, there is a way. By my calculations, and I've taken all the approximate constituent elements found inside the sample into consideration, the temperature necessary to melt these creatures' shell should be at least two thousand five hundred degrees centigrade.<end>
+
+=>q33
+К счастью, есть способ. По моим расчётам, а я принял во внимание все примерные составляющие элементы, найденные внутри образца, температура, необходимая для расплавления оболочки этих существ, должна составлять не менее двух тысяч пятисот градусов по Цельсию.<end>
+
+=>q34_original
+Ironically, considering chromium is practically the essence of these creatures, this seems to be the most realistic way to defeat it, as Foundry is likely to have some means - be it a furnace or something else - which can melt chromium, hence producing temperatures this high.<end>
+
+=>q34
+По иронии судьбы, учитывая, что хром практически является строительным материалом для этих существ, это выглядит как самый реалистичный способ победить его, поскольку в Литейной, вероятно, должны быть какие-то средства, производящие такую высокую температуру, -- будь то печи или что-то ещё, -- которые смогут расплавить хром.<end>
+
+=>q35_original
+<end>
+
+=>q35
+<end>
+
+=>a36_original
+So, it seems that I'm going to need a way to lure the Beast into Foundry and kill it there. Anything you can do to help me with the luring part?<end>
+
+=>a36
+Итак, похоже, что мне нужен способ заманить зверя в Литейную и убить его там. Вы можете чем-нибудь помочь мне в части заманивания?<end>
+
+=>q37_original
+And what will you do once it's in Foundry? Do you have a plan?<end>
+
+=>q37
+И что вы будете делать, когда он окажется внутри Литейной? Какие дальнейшие действия?<end>
+
+=>a38_original
+Foundry has this old, large smelting furnace near the mine entrance. I could use that to pour molten metal onto the Beast and kill it.<end>
+
+=>a38
+В Литейной есть старая большая плавильная печь у входа в шахту. Я мог$(#/ла) бы её использовать, чтобы вылить расплавленный металл на Зверя и убить его.<end>
+
+=>q39_original
+That seems plausible.<end>
+
+=>q39
+Это может сработать.<end>
+
+=>q40_original
+I happen to know from previous research how these creatures communicate. With the larval form you brought me, I think I will be able to create a device which you will be able to use to summon the creature. At least it should.<end>
+
+=>q40
+Из предыдущих исследований, мне известно, как эти существа общаются. Используя личиночную форму, которую вы принесли мне, я попробую создать устройство, которое можно использовать чтобы призвать существо. В теории.<end>
+
+=>a41_original
+What do you mean "it should"?<end>
+
+=>a41
+Что значит «в теории»?<end>
+
+=>q42_original
+This is an improvised device that I'm making out of components I have at hand. Things can go awry; maybe it'll summon the creature you want, maybe it'll summon something else. You won't know until you press the button.<end>
+
+=>q42
+Это импровизированное устройство, которое я соберу из того, что есть под рукой. Что-то может пойти наперекосяк: оно может призвать существо, которое вы хотите; оно может призвать что-то другое. Есть только один способ проверить.<end>
+
+=>q43_original
+Making the device shouldn't take long, though. I believe I already have all the necessary components right here. 
+
+Wait some more, would you.<end>
+
+=>q43
+Изготовление устройства не займёт много времени. Думаю, у меня здесь уже есть все необходимые компоненты.
+
+Подождите ещё немного, пожалуйста.<end>
+
+=>a44_original
+::Wait.::<end>
+
+=>a44
+::Ждать.::<end>
+
+=>a45_original
+Yeah, yeah, just make the stupid device.<end>
+
+=>a45
+Да, да, просто сделайте мне устройство.<end>
+
+=>q46_original
+I see you are quite impatient. ::He pauses briefly.:: <end>
+
+=>q46
+Я вижу, вы очень нетерпеливы. ::Он делает короткую паузу.::<end>
+
+=>a47_original
+I don't know exactly - *yet*. But the fact of the matter is that I still need to lure it somehow. I don't have many other options.<end>
+
+=>a47
+Я не знаю точно, *пока*. Вопрос в том, что мне всё равно нужно каким-то образом заманить зверя, других вариантов не так-то много.<end>
+
+=>q48_original
+Remember what I told you. The composition of minerals and metals in its shell makes it highly resistant to mechanical forces and high temperature. However, I'm sure you'll be able to find something there that will produce more than two and a half thousand degrees necessary to kill it. It is Foundry after all.<end>
+
+=>q48
+Помните о том, что я вам сказал. Минеральный состав его панциря делает его высокоустойчивым к механическому воздействию и высоким температурам. Тем не менее, я уверен, что вы сможете найти способ нагреть его до температуры свыше двух с половиной тысячи градусов, необходимой, чтобы убить его.<end>
+
+=>a49_original
+What about plasma weapons? How come these are ineffective against the Beast when plasma can reach insane temperatures?<end>
+
+=>a49
+Как насчёт плазменного оружия? Почему оно неэффективно против Зверя, ведь плазма может достигать безумных температур?<end>
+
+=>q50_original
+When all molecules are ionized, yes, plasma can reach - theoretically - temperatures in the range of billions of degrees. However, most conventional plasma weapons we have today use plasma where only a fraction of gas molecules are ionized.<end>
+
+=>q50
+Когда все молекулы ионизируются, -- да, теоретически, плазма может достигать температур порядка миллиардов градусов. Однако в большинстве обычного плазменного оружия, которое мы используем сегодня, ионизируется только часть молекул газа.<end>
+
+=>q51_original
+There are three primary reasons for this: First one is the technological limitation, the second is power consumption, and the third is the fact that the shooter does not want to be evaporated together with everything else around him when firing his weapon.<end>
+
+=>q51
+Существует три основных причины для этого: первая -- это технологические ограничения, второе -- чрезмерный расход энергии, и наконец, чтобы не рисковать тем, что стрелок испарится вместе со всем окружением при первом же выстреле.<end>
+
+=>a52_original
+I have a piece of one right here.<end>
+
+=>a52
+У меня есть кусок с собой.<end>
+
+=>q53_original
+Let me see it. I will be right back. ::He takes the sample from you and leaves the room.::<end>
+
+=>q53
+Позвольте мне взглянуть. Я скоро вернусь. ::Он берёт у вас образец и выходит из комнаты.::<end>
+
+=>a54_original
+::Wait for him to return.::<end>
+
+=>a54
+::Ждать его возвращения.::<end>
+
+=>a55_original
+How come you know so much about these creatures? Knowledge like this does not arrive with merely "encountering" something.<end>
+
+=>a55
+Откуда вы так много знаете об этих существах? Знание, подобное этому, не получить просто «столкнувшись» с чем-то.<end>
+
+=>q56_original
+I've learned quite a few things throughout the years.<end>
+
+=>q56
+Я многое узнал за прожитые годы.<end>
+
+=>q57_original
+There are bits and pieces of knowledge and history everywhere you look, and over time things simply accumulate.<end>
+
+=>q57
+Везде есть обрывки и частички знаний и истории, куда ни глянь, и со временем они просто накапливаются.<end>
+
+=>a58_original
+You are awfully mysterious, Ezra. First you tell me you don't know anything about Wyatt Pear, and now this. And yet, you seem like you have an answer for everything else I ask you.<end>
+
+=>a58
+Вы очень загадочны, Эзра. Сперва вы говорите мне, что не знаете Уайатта Пира, а теперь это. И всё же, похоже, что у вас есть ответ на любой мой вопрос.<end>
+
+=>q59_original
+No one has an answer to everything. And no one should have an answer to everything. Life would be dull otherwise.<end>
+
+=>q59
+Ни у кого нет ответов на все вопросы. И никто не должен иметь ответы на все вопросы. Иначе жизнь была бы скучна.<end>
+
+=>q60_original
+I'd like to return to the topic at hand now.<end>
+
+=>q60
+Но давайте вернёмся к сути дела.<end>
+
+=>a61_original
+Does Biocorp have anything to do with it?<end>
+
+=>a61
+Биокорп имеет какое-либо отношение к этому?<end>
+
+=>q62_original
+I may have come across some of their research. It is hard to remember.<end>
+
+=>q62
+Возможно, я сталкивался с некоторыми из их исследований. Трудно вспомнить.<end>
+
+=>a63_original
+In that case, let me ask you something else.<end>
+
+=>a63
+В таком случае, позвольте мне спросить вас кое о чём другом.<end>
+
+=>q64_original
+::He nods in silence.::<end>
+
+=>q64
+::Он молча кивает.::<end>
+
+=>q65_original
+<end>
+
+=>q65
+<end>
+
+=>a66_original
+Do you have anything to trade? ::Barter.::<end>
+
+=>a66
+У вас есть что-нибудь на обмен? ::Обмен.::<end>
+
+=>a67_original
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a67
+Вы когда-нибудь слышали о Жёлуде, он же АКоНР?<end>
+
+=>q68_original
+::He stares at you.:: Acorn?<end>
+
+=>q68
+::Он на вас, не мигая.:: Жёлудь?<end>
+
+=>q69_original
+<end>
+
+=>q69
+<end>
+
+=>a70_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
+
+=>a70
+Я и сам$(#/а) мало что о нём знаю, но, насколько я понимаю, это очень ценная технология которая, может хорошо послужить нашей станции.<end>
+
+=>q71_original
+::He continues staring.:: <end>
+
+=>q71
+::Он продолжает сверлить вас взглядом.::<end>
+
+=>q72_original
+It's a technology of the distant past, yet it's so advanced it might as well be from the future. The fact you <end>
+
+=>q72
+Эта технология из далёкого прошлого, но она настолько продвинута, что вполне может быть и из будущего. Тот факт, что вы <end>
+
+=>q73_original
+know as much as you do about it is surprising, to say the least.<end>
+
+=>q73
+знаете о ней столь много, удивителен, если не сказать больше.<end>
+
+=>q74_original
+<end>
+
+=>q74
+<end>
+
+=>a75_original
+Let's say I've done some digging around.<end>
+
+=>a75
+Скажем так, я тут немного копнул.<end>
+
+=>q76_original
+Very good. <end>
+
+=>q76
+Очень хорошо.<end>
+
+=>q77_original
+But did you find it, the Acorn itself?<end>
+
+=>q77
+Но вы нашли его, сам Жёлудь?<end>
+
+=>a78_original
+Yes. Right here. ::Show him the Acorn.::<end>
+
+=>a78
+Да. Вот. ::Показать ему Жёлудь.::<end>
+
+=>q79_original
+::He stares at it, his eye revealing nothing.:: Can you open it?<end>
+
+=>q79
+::Он смотрит на него, но его взгляд ничего не выражает.:: Вы можете его открыть?<end>
+
+=>a80_original
+I know it needs the coded signal, but I don't have it.<end>
+
+=>a80
+Я знаю, что к нему нужен кодированный сигнал, но у меня его нет.<end>
+
+=>q81_original
+Then it is unusable. <end>
+
+=>q81
+Значит, он бесполезен.<end>
+
+=>q82_original
+Its quantum near-field lock cannot be unlocked without a corresponding coded signal. <end>
+
+=>q82
+Его квантовый замок ближнего поля не может быть разблокирован без соответствующего кодированного сигнала. <end>
+
+=>a83_original
+Can they be beaten?<end>
+
+=>a83
+Их можно победить?<end>
+
+=>q84_original
+They cannot...<end>
+
+=>q84
+Нельзя...<end>
+
+=>q85_original
+However, the Acorn's current unusability doesn't diminish its value. ::He looks at it, expecting you to finally hand it over to him.::<end>
+
+=>q85
+Тем не менее, текущая непригодность Жёлудя не уменьшает его ценность. ::Он смотрит на него, ожидая, что вы наконец передадите эту вещь ему.::<end>
+
+=>a86_original
+Here. You can take it. ::Give him the Acorn.::<end>
+
+=>a86
+Вот. Можете взять его. ::Отдать ему Жёлудь.::<end>
+
+=>q87_original
+::Like a lens of a scanner his eye passes over the Acorn, analyzing its every feature.:: It's going to stay here with me in Engineering. 
+
+::Then he pauses.:: If you had brought this to the station sooner... ::He pauses yet again.:: its stay here would've been much shorter. For certain.<end>
+
+=>q87
+::Словно сканер, его глаз проходит над Жёлудем, анализируя каждую его особенность.:: Он останется здесь, в Инженерном отделе.
+
+::Он делает паузу.:: Если бы вы принесли это на станцию немного раньше... ::Он снова делает паузу.:: То его пребывание здесь было бы намного короче. Определённо.<end>
+
+=>a88_original
+::[Intelligence]:: Tanner?<end>
+
+=>a88
+::[Интеллект]:: Таннер?<end>
+
+=>q89_original
+Tanner.<end>
+
+=>q89
+Таннер.<end>
+
+=>a90_original
+Tanner knew about the Acorn too?<end>
+
+=>a90
+Таннер тоже знал про Жёлудь?<end>
+
+=>q91_original
+That I do not know. But if he knew, he wouldn't miss the opportunity to take it with him. If he didn't, which I think is the less likely case of the two, he would've quickly realized its value. 
+
+As you've learned yourself, he is not to be underestimated.<end>
+
+=>q91
+В этом я не могу быть уверен. Но если бы он знал, то не упустил бы возможность взять его с собой. А если бы и не знал, что менее вероятно, то быстро бы осознал его ценность.
+
+Как вы сами поняли, его нельзя недооценивать.<end>
+
+=>a92_original
+I'd like to know more about the Acorn.<end>
+
+=>a92
+Я бы хотел$(#/а) узнать побольше о Жёлуде.<end>
+
+=>q93_original
+::He nods.:: Certainly.<end>
+
+=>q93
+::Он кивает.:: Конечно.<end>
+
+=>q94_original
+<end>
+
+=>q94
+<end>
+
+=>a95_original
+What does the Acorn do exactly?<end>
+
+=>a95
+Что именно делает Жёлудь?<end>
+
+=>q96_original
+It creates whatever it's been instructed to create, all on its own.<end>
+
+=>q96
+Он создаёт всё, что ему было поручено создать, сам по себе.<end>
+
+=>a97_original
+Can you describe how it works?<end>
+
+=>a97
+Можете описать, как он работает?<end>
+
+=>q98_original
+Do not ask for details; I don't know them. But I have learned the basics of how the Acorn functions: At its core is an artificial intelligence that controls billions and billions of nanobots which it has at its disposal. Its purpose is to create, and what that is is defined by a preloaded blueprint.
+
+At this point there is something that needs to be said: There is more than one Acorn. Each one is made to build a specific thing, and then they are distributed, waiting for the moment of their activation, protected by as yet undefeated quantum near-field locks.<end>
+
+=>q98
+Не спрашивайте подробностей, я их не знаю. Но мне известны основы того, как функционирует Жёлудь: в его основе лежит искусственный интеллект, который контролирует миллиарды и миллиарды наноботов в своём распоряжении. Его назначение -- создавать то, что определено предварительно загруженными чертежами.
+
+И ещё кое-что: есть больше, чем один Жёлудь. Каждый из них создан для создания определённой вещи, затем доставлен по назначению, чтобы ожидать момента активации, защищённый пока ещё непобедимыми квантовыми замками ближнего поля.<end>
+
+=>q99_original
+Acorns, they are not wasted on trivial things. They are made for *megaprojects* - machines and constructions massive in scale and importance and complexity - entire cities: Whatever the mind can conjure. 
+
+Because within the Acorn there exists a mind that can realize.<end>
+
+=>q99
+Жёлуди не создаются под простые задачи. Они предназначены для *мегапроектов* -- машин и конструкций, огромных по своим масштабам, важности и сложности; целых городов -- всего, что только можно себе представить.
+
+Потому что Жёлудь наделён разумом, который может всё это реализовать.<end>
+
+=>q100_original
+Upon activation, the Acorn analyzes its surroundings: It can interact with it through its nanobotic limbs over which it has exceptional control. It will gather and process raw materials, but ultimately the nanobots are limited in what they can do on their own. So it needs to produce power, build machines so that it may build larger machines, more and more advanced - and even develop necessary technology so that it may progress and ultimately realize its prime directive - to finish the megaproject.<end>
+
+=>q100
+После активации Жёлудь анализирует своё окружение: он может взаимодействовать с ним через свои наноботические конечности с хирургической точностью. Он будет собирать и обрабатывать сырьё, но в конечном итоге наноботы ограничены в том, что они могут делать самостоятельно. Поэтому ему необходимо производить электроэнергию, строить машины, чтобы строить машины, всё более и более сложные, и даже разрабатывать необходимые технологии, чтобы развиваться и в конечном итоге выполнить свою главную директиву -- завершить мегапроект.<end>
+
+=>q101_original
+But when it comes to finishing the megaproject, there is an important clause: It need not be built to strict specification. The AI will substitute materials, rearrange elements according to need and what *it* thinks is proper with respect to the purpose of the megaproject and within certain confines, all of which it is aware of. 
+
+It will adapt to *anything* to complete its work: If the technology is already available, it will learn it. If the machines are there, it will use them. If there is someone willing to help - it will accept it. <end>
+
+=>q101
+Но когда дело дойдёт до завершения мегапроекта, есть важный пункт: он не обязательно будет построен в строгом соответствии с чертежами. ИИ будет заменять материалы, переставлять элементы в соответствии с потребностями и тем, что *он* считает правильным в отношении цели мегапроекта и в определённых пределах, которые ему заданы.
+
+Он будет приспосабливаться к чему угодно, чтобы завершить свою работу: если технология уже доступна, он изучит её. Если машины есть, он будет их использовать. Если есть кто-то, кто хочет помочь - он примет это.<end>
+
+=>q102_original
+It is... alive. ::His single eye radiates cold fascination.:: And then once it finishes its work, it ceases to be.<end>
+
+=>q102
+Он... живой. ::Единственный глаз Эзры блестит увлечением.:: И когда он заканчивает свою работу, то прекращает существование. <end>
+
+=>a103_original
+Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
+
+=>a103
+Их произвели ТНГ? Не слишком ли это продвинутая технология?<end>
+
+=>q104_original
+They did *make* them, build them. But the idea, the design - the concept: To the minds of New Frontier Technology that is *inconceivable*. To Biocorp... I'd dare say even more so. The artificial intelligence employed by the Acorn is far too advanced, even for the likes of Bionic Institute... ::He pauses.:: And the nanotechnology...<end>
+
+=>q104
+Они *сделали* их, произвели. Но сама идея, дизайн -- концепция -- для учёных Технологий Новых Горизонтов это совершенно *немыслимо*. Для Биокорп... я бы сказал, даже меньше. Искусственный интеллект, используемый в Жёлуде, слишком продвинут, даже для Института биомеханики... ::Он делает паузу.:: А нанотехнологии...<end>
+
+=>a105_original
+Bionic Institute?<end>
+
+=>a105
+Института биомеханики?<end>
+
+=>q106_original
+A supercorporation from the past. But in this discussion unimportant.<end>
+
+=>q106
+Еще одна суперкорпорация из прошлого. Но сейчас это неважно.<end>
+
+=>q107_original
+::He continues after a pause.:: No... the technology of the Acorn comes from different minds. But whose? That I'd rather not speculate.<end>
+
+=>q107
+::Он продолжает.:: Нет... технология Жёлудя исходит от иных умов. А чьих? Я предпочёл бы не строить предположения.<end>
+
+=>a108_original
+Where could the other ones be?<end>
+
+=>a108
+Где же могут быть остальные?<end>
+
+=>q109_original
+Biocorp had one, at least one confirmed. Knowing the history between the two supercorporations I always wondered whether it was stolen from New Frontier Technologies.<end>
+
+=>q109
+У Биокорп точно был по крайней мере один. Зная отношения между этими двумя суперкорпорациями, я всегда задавался вопросом, не был ли он украден у Технологий Новых Горизонтов.<end>
+
+=>q110_original
+But then again, the relations between supercorporations were fickle, impermanent. It is known that New Frontier Technologies manufactured units for other supercorporations, so Biocorp may have been one of those. 
+
+There aren't many Acorns out there, that is for certain, but they are probably still out there.<end>
+
+=>q110
+С другой, отношения между суперкорпорациями были сложными, непостоянными. Известно, что Технологии Новых Горизонтов производили продукцию для других суперкорпораций, поэтому Биокорп, возможно, была одним из их клиентов.
+
+Жёлудей не было сделано много, определённо, но они всё ещё существуют.<end>
+
+=>a111_original
+What's going to happen with the Acorn now?<end>
+
+=>a111
+Что теперь будет с Жёлудем?<end>
+
+=>q112_original
+Without the coded signal it is unusable. We can scan it, study it - see what we can extrapolate from observation and measurement. But the signal, that is the only key we know of.<end>
+
+=>q112
+Без кодированного сигнала, он будет просто музейным экспонатом. Мы можем сканировать его, изучать -- посмотреть, что мы можем извлечь из наблюдений и измерений. Но сигнал -- это единственный ключ к нему.<end>
+
+=>a113_original
+What would happen if you tried forcing it open?<end>
+
+=>a113
+Что будет, если попробовать открыть его силой?<end>
+
+=>q114_original
+It would destroy itself. Did you really think the creators of a technology so advanced would allow themselves such an oversight?<end>
+
+=>q114
+Он сам себя уничтожит. Неужели вы действительно думали, что создатели столь продвинутой технологии такое не предусмотрели?<end>
+
+=>q115_original
+It would destroy itself. And maybe the whole station alongside it.<end>
+
+=>q115
+Он сам себя уничтожит. А может, и всю станцию заодно.<end>
+
+=>a116_original
+How do you know all of this?<end>
+
+=>a116
+Откуда вам всё это известно?<end>
+
+=>q117_original
+I've learned a lot during my lifetime.<end>
+
+=>q117
+Я многое узнал за свою жизнь.<end>
+
+=>q118_original
+Acorn being one of those things. ::He ends his sentence with a piercing stare.::<end>
+
+=>q118
+В том числе и про Жёлудь. ::Он заканчивает предложение пронзительным взглядом.::<end>
+
+=>a119_original
+Let's talk about something else.<end>
+
+=>a119
+Давайте поговорим о чём-нибудь другом.<end>
+
+=>a120_original
+I wanted to talk to you about something unrelated to this.<end>
+
+=>a120
+Я хотел$(#/а) поговорить с вами на другую тему.<end>
+
+=>a121_original
+Why is that?<end>
+
+=>a121
+Почему?<end>
+
+=>a122_original
+It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
+
+=>a122
+Найти его стоило мне немалых усилий. Я бы хотел$(#/а) получить некоторую компенсацию.<end>
+
+=>q123_original
+And you have a sum in mind...<end>
+
+=>q123
+И вы оцениваете это в сумму?..<end>
+
+=>q124_original
+<end>
+
+=>q124
+<end>
+
+=>a125_original
+::[Mercantile]:: Eighteen thousand credits.<end>
+
+=>a125
+::[Торговля]:: Восемнадцать тысяч кредитов.<end>
+
+=>q126_original
+<end>
+
+=>q126
+<end>
+
+=>q127_original
+::He nods.:: Done.<end>
+
+=>q127
+::Он кивает.:: По рукам.<end>
+
+=>q128_original
+::After counting and handing you a hefty sum of SGS credits, he takes the Acorn.:: <end>
+
+=>q128
+::После пересчёта и вручения вам внушительной суммы кредитов ССГ, он забирает Жёлудь.::<end>
+
+=>q129_original
+You and I know the Acorn's worth, but the other council members do not. They will never allow such kind of money to be spent on it.<end>
+
+=>q129
+Мы с вами знаем, чего стоит Жёлудь, но другие члены совета -- нет. Они никогда не позволят потратить на него столько денег.<end>
+
+=>a130_original
+::[Mercantile]:: Fifteen thousand credits.<end>
+
+=>a130
+::[Торговля]:: Пятнадцать тысяч кредитов.<end>
+
+=>q131_original
+<end>
+
+=>q131
+<end>
+
+=>a132_original
+::[Mercantile]:: Twelve thousand credits.<end>
+
+=>a132
+::[Торговля]:: Двенадцать тысяч кредитов.<end>
+
+=>q133_original
+<end>
+
+=>q133
+<end>
+
+=>a134_original
+::[Mercantile]:: Nine thousand credits.<end>
+
+=>a134
+::[Торговля]:: Девять тысяч кредитов.<end>
+
+=>q135_original
+<end>
+
+=>q135
+<end>
+
+=>a136_original
+Six thousand credits.<end>
+
+=>a136
+Шесть тысяч кредитов.<end>
+
+=>a137_original
+You know what? Take it. ::Give him the Acorn.::<end>
+
+=>a137
+Знаете что... Забирайте так. ::Отдать ему Жёлудь.::<end>
+
+=>a138_original
+I don't know how.<end>
+
+=>a138
+Я не знаю.<end>
+
+=>a139_original
+I haven't found a way to open it yet. I thought someone else would know more.<end>
+
+=>a139
+Я пока не наш$(#ёл/ла) способа его открыть. Я искал$(#/а) того, кто может знать о нём больше.<end>
+
+=>a140_original
+Not yet, but I'm working on obtaining it.<end>
+
+=>a140
+Пока нет, но я работаю над этим.<end>
+
+=>q141_original
+I've known many who were looking for it - a box. A medium-sized box with the word ACoNR on it. And they all failed. If you happen to be the one that finds it, bring it to me. Then we'll talk further.<end>
+
+=>q141
+Я знал многих, кто искал этот ящик. Коробка средних размеров со словом АКоНР на ней. И все они потерпели неудачу. Если вам посчастливится найти его, принести мне. Тогда поговорим.<end>
+
+=>a142_original
+No. I just heard about it and wondered if you knew something that could help me.<end>
+
+=>a142
+Нет. Я просто слышал$(#/а) о нём и подумал$(#/а), не знаете ли вы что-то, что могло бы мне помочь.<end>
+
+=>a143_original
+I learned about it during a trip to the Black Sea.<end>
+
+=>a143
+Я узнал о нем во время поездки на Чёрное море.<end>
+
+=>q144_original
+Black Sea? Makes sense. <end>
+
+=>q144
+Чёрное море? Разумеется. <end>
+
+=>a145_original
+I learned about it during an expedition to the Black Sea.<end>
+
+=>a145
+Я узнал об этом во время экспедиции на Чёрное море.<end>
+
+=>a146_original
+Underrail holds many secrets, but they're not secret enough for me.<end>
+
+=>a146
+Подземка хранит много секретов, но они недостаточно скрыты для меня.<end>
+
+=>q147_original
+even know about it is a rare thing, to say the least.<end>
+
+=>q147
+вообще о ней узнали, мягко говоря -- большое везение.<end>
+
+=>a148_original
+All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
+
+=>a148
+Всё, что я знаю, это то, что он каким-то образом связан с какими-то высокотехнологичными машинами, способными преодолевать большие расстояния и даже выходить на Поверхность. Это принесло бы большую пользу станции.<end>
+
+=>q149_original
+Surface. <end>
+
+=>q149
+Поверхность.<end>
+
+=>a150_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
+
+=>a150
+Кажется, это устройство, способное производить высокотехнологичные предметы, такие как устройства и машины. Оно может принести большую пользу станции.<end>
+
+=>q151_original
+::He continues staring.:: You seem to know a lot about this Acorn. <end>
+
+=>q151
+::Он продолжает смотреть на вас.:: Похоже, вы многое знаете об этом Жёлуде. <end>
+
+=>q152_original
+A lot more than one would expect from someone like you.<end>
+
+=>q152
+Намного больше, чем можно было бы ожидать от кого-то вроде вас.<end>
+
+=>q153_original
+You seem to know a lot about it. <end>
+
+=>q153
+Похоже, вы многое о нём знаете. <end>
+
+=>a154_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a154
+Это устройство, способное использовать материалы из окружающей среды для создания сложных устройств и машин. Оно может принести большую пользу станции.<end>
+
+=>a155_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could benefit the station greatly.<end>
+
+=>a155
+Это суперкомпьютер, способный управлять наноботами, которые могут использовать материалы из окружающей среды для создания сложных устройств и машин. Он может принести большую пользу станции.<end>
+
+=>a156_original
+Never mind, then. There was something else I wanted to ask you.<end>
+
+=>a156
+Забудьте. Я хотел$(#/а) поговорить ещё кое о чём.<end>
+
+=>q157_original
+::His eyes tell you he wants to stay on the topic, and then he expands his question.:: What do you know about the Acorn?<end>
+
+=>q157
+::Его взгляд говорит вам, что он хочет развить эту тему, а затем он задаёт вопрос: :: Что вы знаете о Жёлуде?<end>
+
+=>a158_original
+I have the Acorn. ::Show him the Acorn.::<end>
+
+=>a158
+Жёлудь у меня. ::Показать ему Жёлудь.::<end>
+
+=>a159_original
+How does the device you gave me exactly work?<end>
+
+=>a159
+Как именно работает устройство, которое вы мне дали?<end>
+
+=>q160_original
+The device is composed of a container that holds the larva you brought me and a psi amplifier. Once the device is activated, the creature's nervous system will become overloaded in order to elicit a psionic emission that should, when amplified, reach and summon the Beast. Based on previous psimorph research, I believe I'm able to filter and focus this emission in such a way that it can only be perceived by the larger creatures.<end>
+
+=>q160
+Устройство состоит из контейнера, который содержит нашу личинку, и пси-репродуктора. При включении устройства нервная система личинки будет перегружена, что вызовет псионическое излучение, которое должно приманить Зверя. На основе предыдущих исследований псиморфов, мне удалось сконфигурировать излучение таким образом, что оно может восприниматься только наиболее крупными существами.<end>
+
+=>q161_original
+It's complicated, but it should work if my calculations are right.<end>
+
+=>q161
+Это непросто для понимания, но должно сработать, согласно моим расчётам.<end>
+
+=>a162_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a162
+Что вы знаете о смерти Патрика Пирса?<end>
+
+=>q163_original
+His death occured not too long ago, before you came to SGS, if I'm not mistaken. It's unusual.<end>
+
+=>q163
+Его смерть произошла не так давно --  до того, как вы прибыли на ССГ, если я не ошибаюсь. Она была необычна.<end>
+
+=>a164_original
+What do you mean by "unusual"?<end>
+
+=>a164
+Что значит «необычна»?<end>
+
+=>q165_original
+Unusual death. Very peaceful. Pasquale never discovered what caused it. I think he could have been more thorough with his autopsy, but I find it hard to blame him as one cannot blame a man for prioritizing the living over the dead.<end>
+
+=>q165
+Необычная смерть. Очень тихая. Паскуаль так и не установил причину. Я бы сказал, что ему следовало быть более тщательным при вскрытии, но мне трудно винить его за то, что он уделяет живым больше внимания, чем мёртвым.<end>
+
+=>a166_original
+Can you tell me what he was like as a person?<end>
+
+=>a166
+Не могли бы вы рассказать мне, каким он был человеком?<end>
+
+=>q167_original
+Patrick? Decent. Good in his field of work.<end>
+
+=>q167
+Патрик? Приличным. Хорошим специалистом.<end>
+
+=>q168_original
+That's all I have to say.<end>
+
+=>q168
+Это всё, что я могу сказать.<end>
+
+=>a169_original
+Could you take a look at this for me?<end>
+
+=>a169
+Не могли бы вы взглянуть на это?<end>
+
+=>q170_original
+::Ezra looks at the restless creature, now at the apex of its aggravation. He focuses on it in silence, and as moments pass the creature becomes more and more calm; slowly but surely it reaches a point of complete tranquility and motionlessness, on account of which one could easily mistake it for being dead.::<end>
+
+=>q170
+::Эзра смотрит на мечущееся сильно разгневанное существо. Он молча фокусируется на нём взглядом, и с каждым мгновением существо становится всё более и более спокойным; постепенно оно замирает настолько, что его можно легко принять за мёртвое.::<end>
+
+=>a171_original
+Ezra?<end>
+
+=>a171
+Эзра?<end>
+
+=>q172_original
+::He turns to you.:: Where did you find this creature?<end>
+
+=>q172
+::Он оборачивается к вам.:: Где вы нашли это существо?<end>
+
+=>a173_original
+In a mine in Foundry. But I've also seen suspiciously similar creatures in Deep Caverns. I suspect they may be related.<end>
+
+=>a173
+В шахте Литейной. Но я также видел$(#/а) подозрительно похожих существ и в Глубоких пещерах. Я подозреваю, что они могут иметь что-то общее.<end>
+
+=>q174_original
+Interesting. And are there any other creatures living among or in close proximity to these?<end>
+
+=>q174
+Интересно. А есть ли другие существа, живущие среди или в непосредственной близости от этих?<end>
+
+=>a175_original
+Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know. Again, similar thing in Deep Caverns, only that there I saw beings covered in mushrooms; they didn't look anything like the creatures in Foundry, but there are far too many odd similarities to ignore.<end>
+
+=>a175
+Да, существа с каменными панцирями, утыканными металлическими лезвиями. Больше там никого нет, насколько мне известно. Опять же, как в Глубоких пещерах, только там были существа, покрытые грибами; они совсем не похожи на тех тварей, что осаждают Литейную, но здесь слишком много странных совпадений, которые нельзя игнорировать.<end>
+
+=>q176_original
+::He speaks, but more to himself than you.:: I see; another adaptation; it makes sense. 
+
+And you, why are you so interested in this subject?<end>
+
+=>q176
+::Он говорит, но скорее про себя, чем для вас.:: Вот оно что: ещё одна адаптация; всё ясно.
+
+А вас -- почему вас так интересует эта тема?<end>
+
+=>a177_original
+Foundry is having difficulties with those creatures, as they are infesting their mine. But the real problem is the Beast, a creature identical to what I described, but larger, tougher and *much* meaner. As yet, there doesn't seem to be an apparent way to kill it. The creature, because of its heavy armor, is practically invulnerable, and nearly all who faced it lost their lives.<end>
+
+=>a177
+Литейная испытывает трудности с этими тварями, поскольку они парализовали работы на их шахте. Но настоящая проблема это Зверь -- существо, идентичное тому, которое я описал, но значительно больше, сильнее и *гораздо* злее. До сих пор никто не нашёл способа убить его. Существо имеет крепкую броню и практически неуязвимо, и почти все, кто сражался с ним, поплатились жизнью.<end>
+
+=>q178_original
+So you want to find a way to kill it. Very well. I understand everything now. 
+
+I'll tell you what you need to know.<end>
+
+=>q178
+Так, вы хотите узнать, как его убить? Хорошо. Теперь я всё понял.
+
+Я расскажу вам всё, что вам нужно знать.<end>
+
+=>q179_original
+The creature you brought me is actually the larval form of the rock creature you described. As strange as that may seem, yes - these are their larvae. I've encountered them in the past - in different forms, though. Regardless, I can help you find this adaptation's weakness, but for that you will have to bring me some part of the creature to analyze. Try to bring me a piece of its shell or back blades if you can; if not, then bring whatever you are able to acquire.<end>
+
+=>q179
+Существо, которое вы принесли мне, на самом деле является личиночной формой тех каменистых тварей. Такое может показаться странным, да, но это их личинки. Я сталкивался с ними в прошлом, хотя и в иных формах. Тем не менее, я могу вам помочь найти уязвимость этой адаптации, но для этого вам придётся принести мне какую-то часть взрослого существа для анализа. Постарайтесь достать кусочек панциря или лезвие со спины, если сможете; если нет, то несите, что удастся достать.<end>
+
+=>a180_original
+Come on, man, enough with the questions, just speak to me. You know something, and I want to know what you know.<end>
+
+=>a180
+Ну, блин, хватит уже вопросов, просто говорите. Вы что-то знаете, и я хочу знать, что именно.<end>
+
+=>q181_original
+I told you once already, if you want my help, you will answer my questions. Why are you so interested in this subject?<end>
+
+=>q181
+Я вам уже говорил, если вам нужна моя помощь, вам придется ответить на мои вопросы. Почему вас так интересует эта тема?<end>
+
+=>q182_original
+If you want my help, you will answer my questions. Now, why are you so interested in this subject?<end>
+
+=>q182
+Если вам нужна моя помощь, вам придется ответить на мои вопросы. Итак, почему вы интересуетесь этой темой?<end>
+
+=>a183_original
+Yes, creatures with shells made of rock that have metallic blades on their backs. Those are the only ones, as far as I know.<end>
+
+=>a183
+Да, существа с каменными панцирями, утыканными металлическими лезвиями. Больше там никого нет, насколько мне известно.<end>
+
+=>a184_original
+In a mine in Foundry.<end>
+
+=>a184
+В шахте Литейной.<end>
+
+=>a185_original
+What do you care? I should be the one asking questions, not you.<end>
+
+=>a185
+Какая вам разница? Я долж$(#ен/на) задавать вопросы, а не вы.<end>
+
+=>q186_original
+If you need my help, you'll tell me where you found it.<end>
+
+=>q186
+Если вам нужна моя помощь, вам придётся сказать мне, где вы его нашли.<end>
+
+=>a187_original
+Are you there?<end>
+
+=>a187
+Вы здесь?<end>
+
+=>a188_original
+About the rock creatures...<end>
+
+=>a188
+Насчёт каменных созданий...<end>
+
+=>q189_original
+::He nods.::<end>
+
+=>q189
+::Он кивает.::<end>
+
+=>a190_original
+Are you blind, Ezra?<end>
+
+=>a190
+Вы слепы, Эзра?<end>
+
+=>q191_original
+::Ezra raises his hand slowly and extends it towards you. He holds two of his fingers in front of your face for a moment, each pointing at one of your eyes, before retracting the hand.::<end>
+
+=>q191
+::Эзра медленно поднимает руку и протягивает её к вам. Двумя пальцами он на мгновение указывает на ваши глаза и вновь опускает руку.::<end>
+
+=>a192_original
+What is it exactly that you do here?<end>
+
+=>a192
+А чем именно вы здесь занимаетесь?<end>
+
+=>q193_original
+Me specifically, the cyber department or the engineering sector?<end>
+
+=>q193
+Конкретно я, киберотдел или инженерный отдел?<end>
+
+=>a194_original
+I meant you.<end>
+
+=>a194
+Вы.<end>
+
+=>q195_original
+I make sure that all parts of the station's internal network are communicating properly and securely and that all the scripts are running as they should.<end>
+
+=>q195
+Я слежу, чтобы все элементы локальной сети станции сообщались корректно и надёжно, и чтобы все программы выполнялись так, как должны.<end>
+
+=>q196_original
+I also oversee all operations of the engineering sector.<end>
+
+=>q196
+Я также управляю работой инженерного отдела.<end>
+
+=>q197_original
+<end>
+
+=>q197
+<end>
+
+=>a198_original
+And what do you do specifically?<end>
+
+=>a198
+И чем именно вы занимаетесь?<end>
+
+=>a199_original
+How about the cyber department?<end>
+
+=>a199
+Как насчёт киберотдела?<end>
+
+=>q200_original
+We maintain and improve the station's internal network. We write programs for all automated systems in the station.<end>
+
+=>q200
+Мы поддерживаем и улучшаем локальную сеть станции. Мы составляем программы для всех автоматизированных систем станции.<end>
+
+=>a201_original
+What does the engineering sector do in general?<end>
+
+=>a201
+Чем, в целом, занимается инженерный отдел?<end>
+
+=>q202_original
+We construct, deconstruct, research, upgrade. Listing all the specific things we do would take too much of my time. Go around and talk to people working here. They might be willing to let you know the details of their projects.<end>
+
+=>q202
+Мы собираем, разбираем, исследуем, модернизируем. Перечисление всех наших отдельных задач заняло бы слишком много моего времени. Пройдитесь и поговорите с людьми, работающими здесь. Они могут поделиться с вами подробностями своих проектов.<end>
+
+=>a203_original
+Let's talk about something else.<end>
+
+=>a203
+Давайте поговорим о чём-нибудь другом.<end>
+
+=>q204_original
+Such as?<end>
+
+=>q204
+Например?<end>
+
+=>a205_original
+The cyber department.<end>
+
+=>a205
+Кибер-отдел.<end>
+
+=>a206_original
+The engineering sector.<end>
+
+=>a206
+Инженерный отдел.<end>
+
+=>a207_original
+I hear you are a powerful mind controller. Is this true?<end>
+
+=>a207
+Мне сказали, что вы умеете управлять разумом других людей. Это правда?<end>
+
+=>q208_original
+::Ezra remains silent and just stares at you.::<end>
+
+=>q208
+::Эзра по-прежнему молчит и просто глядит на вас.::<end>
+
+=>a209_original
+If this is true I'd like to learn from you.<end>
+
+=>a209
+Если это правда, я хотел$(#/а) бы учиться у вас.<end>
+
+=>q210_original
+::He just keeps staring at you.::<end>
+
+=>q210
+::Он просто глядит на вас.::<end>
+
+=>a211_original
+::Stare back at him.::<end>
+
+=>a211
+::Тоже глядеть на него.::<end>
+
+=>q212_original
+::At first nothing happens, and the two of you just stand there staring at each other. Your thoughts slowly start to drift away from what you are doing and you almost don't even notice that you're losing control of your own body.::<end>
+
+=>q212
+::Сначала ничего не происходит, и вы просто стоите и пялитесь друг на друга. Ваши мысли начинают медленно уплывать, и вы не замечаете как теряете контроль над собственным телом.::<end>
+
+=>q213_original
+::The world around you blurs away until the only thing you can clearly see is Ezra's one eye staring at you. It seems as if it's not looking at your face, but through it - into your mind.::<end>
+
+=>q213
+::Мир вокруг вас размывается, пока единственным, что вы можете ясно видеть, не остаётся уставившийся на вас единственный глаз Эзры. Кажется, как будто он смотрит не на вас, а сквозь вас, прямо в ваш разум.::<end>
+
+=>a214_original
+::[Will] Try to wrestle back the control of your body.::<end>
+
+=>a214
+::[Воля] Попытаться отвоевать контроль над вашим телом.::<end>
+
+=>q215_original
+::You feel Ezra's surprise as you fight back and for a moment you are able to break his grip on you.::<end>
+
+=>q215
+::Вы чувствуете удивление Эзры, когда вы оказываете сопротивление, и на мгновение вам удаётся сломить его хватку.::<end>
+
+=>a216_original
+::Continue focusing and attempt to take control of him.::<end>
+
+=>a216
+::Сосредоточиться и попытаться взять контроль над ним.::<end>
+
+=>q217_original
+::You attempt to reach out for him with your mind, but the element of surprise is gone. Ezra's will wraps around you and crushes your consciousness.::<end>
+
+=>q217
+::Вы пытаетесь достигнуть его разума, но элемент неожиданности утерян. Воля Эзры обволакивает вас и подавляет ваше сознание.::<end>
+
+=>a218_original
+::Continue::<end>
+
+=>a218
+::Продолжить::<end>
+
+=>a219_original
+::Break off eye contact and attempt to disengage.::<end>
+
+=>a219
+::Разорвать зрительный контакт и попытаться освободиться.::<end>
+
+=>q220_original
+Your will is stronger than I expected, $(context.player.Name). Consider this your first lesson.<end>
+
+=>q220
+Ваша воля сильнее, чем я ожидал, $(context.player.Name). Считайте это своим первым уроком.<end>
+
+=>a221_original
+::Quickly reach for your weapon and attack before he can take control again.::<end>
+
+=>a221
+::Быстро достать оружие и атаковать, прежде чем он сможет взять вас под контроль снова.::<end>
+
+=>q222_original
+::You try to fight the intrusion, but Ezra's will is too strong. ::<end>
+
+=>q222
+::Вы пытаетесь бороться, но Эзра слишком силён. ::<end>
+
+=>q223_original
+::You stand there for a few moments, held like a prisoner in your own body, and then the world disappears.::<end>
+
+=>q223
+::Вы стоите пару минут на месте, как узни$(#к/ца) в собственном теле, а затем мир исчезает.::<end>
+
+=>a224_original
+::Continue::<end>
+
+=>a224
+::Продолжить::<end>
+
+=>a225_original
+::Give in and let Ezra take over.::<end>
+
+=>a225
+::Сдаться и позволить Эзре одержать верх.::<end>
+
+=>a226_original
+This is pointless. ::Leave.::<end>
+
+=>a226
+Это бесполезно. ::Уйти.::<end>
+
+=>a227_original
+Forget I asked.<end>
+
+=>a227
+Забудьте.<end>
+
+=>a228_original
+What did you do to me? Where's my stuff?<end>
+
+=>a228
+Что вы со мной сделали? Где мои вещи?<end>
+
+=>q229_original
+Only what you wanted. Consider that first lesson free of charge.<end>
+
+=>q229
+То, что вы хотели. Считайте, что первое занятие бесплатно.<end>
+
+=>q230_original
+
+
+Your belongings are in the footlocker next to my desk.<end>
+
+=>q230
+
+
+Ваши вещи находятся в ящике рядом с моим столом.<end>
+
+=>a231_original
+What did you do to me?<end>
+
+=>a231
+Что вы со мной сделали?<end>
+
+=>a232_original
+I want to learn more psi abilities.<end>
+
+=>a232
+Я хочу научиться новым пси-способностям.<end>
+
+=>q233_original
+I can teach you how to short-circuit the brains of others, instill fear in them or break their minds.<end>
+
+=>q233
+Я могу научить вас как замыкать мозги других людей, вселять страх или сломить волю.<end>
+
+=>q234_original
+<end>
+
+=>q234
+<end>
+
+=>a235_original
+I want to learn how to scare others. ::[Requires: Thought Control 30]::<end>
+
+=>a235
+Я хочу научиться пугать других. ::[Требуется: Управление разумом 30]::<end>
+
+=>q236_original
+Very well. This will cost you 100 credits.<end>
+
+=>q236
+Очень хорошо. Это будет стоить вам 100 кредитов.<end>
+
+=>a237_original
+Agreed. Here you go.<end>
+
+=>a237
+Договорились. Вот деньги.<end>
+
+=>q238_original
+Let us begin then...<end>
+
+=>q238
+Тогда начнём...<end>
+
+=>a239_original
+::Continue::<end>
+
+=>a239
+::Продолжить::<end>
+
+=>a240_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a240
+У меня сейчас нет таких денег. Чему ещё вы можете меня научить?<end>
+
+=>a241_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a241
+Вообще-то, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>q242_original
+And what is that?<end>
+
+=>q242
+На что?<end>
+
+=>q243_original
+You are not ready for that yet.<end>
+
+=>q243
+Вы ещё не готовы к этому.<end>
+
+=>a244_original
+I want to learn how to break their minds. ::[Requires: Thought Control 45]::<end>
+
+=>a244
+Я хочу научиться ломать волю. ::[Требуется: Управление разумом 45]::<end>
+
+=>q245_original
+Very well. This will cost you 250 credits.<end>
+
+=>q245
+Очень хорошо. Это будет стоить вам 250 кредитов.<end>
+
+=>a246_original
+Agreed. Here you go.<end>
+
+=>a246
+Договорились. Вот деньги.<end>
+
+=>q247_original
+Let us begin then...<end>
+
+=>q247
+Тогда начнём...<end>
+
+=>a248_original
+::Continue::<end>
+
+=>a248
+::Продолжить::<end>
+
+=>a249_original
+I don't have that kind of money right now. What else can you teach me?<end>
+
+=>a249
+У меня сейчас нет таких денег. Чему ещё вы можете меня научить?<end>
+
+=>a250_original
+On second thought, I'd rather spend my money on something else.<end>
+
+=>a250
+Вообще-то, я лучше потрачу свои деньги на что-нибудь другое.<end>
+
+=>q251_original
+You are not ready for that yet.<end>
+
+=>q251
+Вы ещё не готовы к этому.<end>
+
+=>a252_original
+Never mind. Let me ask you something else.<end>
+
+=>a252
+Не берите в голову. Позвольте мне спросить ещё кое-что.<end>
+
+=>q253_original
+Yes?<end>
+
+=>q253
+Да?<end>
+
+=>a254_original
+Do you know what this is? ::Show him the damaged necklace.::<end>
+
+=>a254
+Вы знаете, что это такое? ::Показать ему повреждённое ожерелье.::<end>
+
+=>q255_original
+::Ezra watches the necklace silently for a moment.:: It's a broken tracker-emitter necklace, one of a pair.<end>
+
+=>q255
+::Эзра молча осматривает ожерелье.:: Это сломанный трекер-излучатель, один из пары.<end>
+
+=>q256_original
+Its cross shaped shield is made of medium carbon steel. The lower section houses the emitter while the horizontal segment holds the receiver. It's decorated with painted pieces for bone and chitinous carapace. The amulet is made of silver plated mild steel.<end>
+
+=>q256
+Крест на нем изготовлен из среднеуглеродистой стали. В нижней части находится излучатель, а горизонтальный сегмент содержит приёмник. Оно украшено цветными фрагментами кости и хитинового панциря. Амулет изготовлен из мягкой стали, покрытой серебром.<end>
+
+=>q257_original
+<end>
+
+=>q257
+<end>
+
+=>a258_original
+You can tell all that just from looking at it?<end>
+
+=>a258
+Вы всё это поняли с одного взгляда?<end>
+
+=>q259_original
+No, I can tell all that because I made it.<end>
+
+=>q259
+Нет, я это знаю потому, что это я его изготовил.<end>
+
+=>q260_original
+I could even make a guess as to where you found it, but that is not my concern. If you want to know more about the necklace, you should speak with Arlene in the commons.<end>
+
+=>q260
+Я мог бы даже сделать предположение о том, где вы его нашли, но это не моя забота. Если вы хотите больше узнать об этом ожерелье, найдите Арлин в столовой.<end>
+
+=>a261_original
+Can you repair it?<end>
+
+=>a261
+Можете ли вы починить его?<end>
+
+=>q262_original
+No.<end>
+
+=>q262
+Нет.<end>
+
+=>a263_original
+You sure?<end>
+
+=>a263
+Вы уверены?<end>
+
+=>q264_original
+Yes.<end>
+
+=>q264
+Да.<end>
+
+=>a265_original
+Alright.<end>
+
+=>a265
+Ладно.<end>
+
+=>a266_original
+I've got to get going.<end>
+
+=>a266
+Мне пора идти.<end>
+
+=>a267_original
+About this necklace...<end>
+
+=>a267
+Насчёт этого ожерелья...<end>
+
+=>q268_original
+What about it?<end>
+
+=>q268
+Что насчёт него?<end>
+
+=>a269_original
+About the Acorn...<end>
+
+=>a269
+Насчёт Жёлудя...<end>
+
+=>q270_original
+::He nods.::<end>
+
+=>q270
+::Он кивает.::<end>
+
+=>a271_original
+Do you know a man called Wyatt Pear?<end>
+
+=>a271
+Вы знаете человека по имени Уайатт Пир?<end>
+
+=>q272_original
+::His eye stares at you, but reveals nothing.::
+
+No.<end>
+
+=>q272
+::Он смотрит на вас единственным глазом, не моргая, но его взгляд ничего не выражает.::
+
+Нет.<end>
+
+=>a273_original
+Interesting. Cause he told me he was visited by two men many years ago in Old Junkyard - one of which looked very much like yourself, Ezra, based on his description. It was around the time of that mutagen disaster.<end>
+
+=>a273
+Любопытно. А он сказал мне, что как-то, много лет назад, его на Старой Свалке навестили двое, и один из них был очень похож по описанию на вас, Эзра. Это случилось примерно во время того инцидента с мутагеном.<end>
+
+=>q274_original
+You are speaking to the wrong man, $(context.player.Name). I suggest you seek that *doppelganger* of mine and continue this conversation with him, because I can't help you.<end>
+
+=>q274
+Вы не за того меня принимаете, $(context.player.Name). Лучше, ищите этого моего *двойника* и расспрашивайте его, потому что я не могу помочь вам.<end>
+
+=>q275_original
+Was that all you wanted to ask me?<end>
+
+=>q275
+Это всё, что вы хотели спросить?<end>
+
+=>a276_original
+He lives in Old Junkyard. I got the impression you two know each other from way back. He described you fairly accurately. You sure you don't know him? <end>
+
+=>a276
+Он живёт на Старой Свалке. У меня создалось впечатление, что вы с ним встречались давным-давно. Он довольно точно описывал вас. Вы уверены, что не знаете его?<end>
+
+=>q277_original
+I don't know him.<end>
+
+=>q277
+Я его не знаю.<end>
+
+=>a278_original
+Never mind, forget I said anything. I had other questions.<end>
+
+=>a278
+Тогда не важно, забудьте, что я спросил$(#/а). У меня были другие вопросы.<end>
+
+=>q279_original
+::Ezra remains silent.::<end>
+
+=>q279
+::Эзра ничего не говорит.::<end>
+
+=>a280_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a280
+Что вы думаете о вторжении безликих?<end>
+
+=>q281_original
+It is hard to determine motivations of their kind. People will be getting hysterical in fear, thinking that the Faceless have come to conquer or destroy our civilization.<end>
+
+=>q281
+Их мотивы трудно определить. Многие склонны впадать в панику, думая, что безликие пришли, чтобы завоевать или уничтожить нашу цивилизацию.<end>
+
+=>q282_original
+While in truth, the nature of this conflict is probably much less serious. The Core poked their sticky fingers a bit too deep underground and is about to lose an arm for it.<end>
+
+=>q282
+На самом же деле, суть этого конфликта, вероятно, гораздо менее серьёзна. Кор-Сити на этот раз засунули свои липкие пальцы слишком глубоко под землю и вот-вот потеряют из-за этого всю руку.<end>
+
+=>a283_original
+See you later.<end>
+
+=>a283
+Увидимся позже.<end>
+
+=>a284_original
+You mentioned something about adaptation. What did you mean, precisely?<end>
+
+=>a284
+Вы упомянули что-то об адаптациях. Что именно вы имели в виду?<end>
+
+=>q285_original
+You see, the larva uses its psi energy to "cocoon" itself inside living or non-living entities and tailor its genetic make-up to support the organism's further development in accordance with what it's merging with. Inside, the larva develops into its adult form, and the resulting creature is fully integrated with the entity of choice. So, if the creature wants a rock shell, it will dig itself into a rock and fuse with it.<end>
+
+=>q285
+Видите ли, личинка использует свою пси-энергию, чтобы образовать кокон внутри живой или неживой материи и адаптировать свою генетическую структуру, чтобы поддержать дальнейшее развитие организма в соответствии с тем, с чем произошло слияние. Внутри личинка развивается во взрослую форму, и получившееся существо полностью едино с объектом слияния. Если она будет зарываться в скалу и образует внутри кокон, то в конечном счёте её панцирь будет состоять из скальных пород.<end>
+
+=>a286_original
+Are they not, by any chance, called psimorphs?<end>
+
+=>a286
+Они, случайно, называются не псиморфами?<end>
+
+=>q287_original
+::His answer is usually unemotional, despite the fact that naming the creatures should provoke some kind of reaction. But no, his response is as flat as an ironed shirt.:: Yes. <end>
+
+=>q287
+::Его ответ как всегда бесстрастный, несмотря на то, что упоминание этих существ должно было вызвать какую-то реакцию. Но нет, он невозмутим, как гладь пещерного озера.:: Да.<end>
+
+=>q288_original
+Psi-enhanced polymorphic organisms, or psimorphs, for short.<end>
+
+=>q288
+Пси-усиленные полиморфные организмы или псиморфы для кратости.<end>
+
+=>a289_original
+Do you know what these creatures are called?<end>
+
+=>a289
+Знаете ли вы, как эти существа называются?<end>
+
+=>a290_original
+I'll get going.<end>
+
+=>a290
+Я пойду.<end>
+
+=>q291_original
+::He nods and returns to his work.::<end>
+
+=>q291
+::Он кивает и возвращается к работе.::<end>
+
+=>a292_original
+Yes?<end>
+
+=>a292
+Да?<end>
+
+=>q293_original
+Vera wants to see you urgently, $(context.player.Name). Talk to her first, then we'll talk later.<end>
+
+=>q293
+Вера желает вас срочно видеть, $(context.player.Name). Зайдите сначала к ней, мы поговорим позднее.<end>
+
+=>q294_original
+::He returns with the gift he promised.::
+
+Here it is. Try your best not to disturb the larva within the device too much. You need it to be alive for the device to function properly.<end>
+
+=>q294
+::Он возвращается с обещанным подарком.::
+
+Вот оно. Постарайтесь не слишком беспокоить личинку внутри устройства. Она должна оставаться живой для того, чтобы устройство функционировало должным образом.<end>
+
+=>q295_original
+::Ezra looks at you with his one good eye and speaks in his usual calm and even fashion.::
+
+Have you spoken to Vera?<end>
+
+=>q295
+::Эзра смотрит на вас своим единственным глазом и разговаривает в своей обычной спокойной и бесстрастной манере.::
+
+Вы уже говорили с Верой?<end>
+
+=>a296_original
+Yes.<end>
+
+=>a296
+Да.<end>
+
+=>q297_original
+::Ezra presents the keycard to Tanner's room.::
+
+Follow me.<end>
+
+=>q297
+::Эзра показывает карту доступа в комнату Таннера.::
+
+Следуйте за мной.<end>
+
+=>a298_original
+::Follow Ezra.::<end>
+
+=>a298
+::Следовать за Эзрой.::<end>
+
+=>a299_original
+That is why I'm here. I am ready to go to Tanner's room.<end>
+
+=>a299
+Поэтому я и здесь. Я готов$(#/а) идти в комнату Таннера.<end>
+
+=>q300_original
+::He observes you somewhat more purposefully than usual.::
+
+Yes?<end>
+
+=>q300
+::Он наблюдает за вами несколько более пристально, чем обычно.::
+
+Да?<end>
+
+=>q301_original
+I have some new equipment, if you are interested.<end>
+
+=>q301
+У меня есть новое снаряжение, если вам интересно.<end>
+
+=>q302_original
+Harold seems pleased with that battery data you gave him. ::He nods.:: Very good.<end>
+
+=>q302
+Гарольд, похоже, доволен теми данными по батареям, что вы принесли ему. ::Он кивает.:: Очень хорошо.<end>
+
+=>q303_original
+$(context.player.Name).<end>
+
+=>q303
+$(context.player.Name).<end>
+
+=>q304_original
+::As he turns around to face you, you immediately notice there is something off with this man. His face is pale and hairless. He is missing one of his eyes and instead wires protrude from his eye socket, traveling over the side of his face and disappearing down the back of his neck. The other eye is almost colorless with the pupil so contracted that you question whether he can even see at all.::<end>
+
+=>q304
+::Когда он поворачивается к вам лицом, вы сразу же замечаете, что с этим мужчиной что-то не так. Его лицо бледное и на голове нет волос. У него отсутствует один глаз, а вместо него из глазницы торчат провода, тянущиеся к затылку. Второй глаз настолько бесцветный, что вы гадаете, может ли он вообще видеть.::<end>
+
+=>q305_original
+::He speaks with a calm and even voice.:: Hello, $(context.player.Name). I am Ezra. I act as the head network administrator and chief of the entire engineering sector.<end>
+
+=>q305
+::Он говорит спокойным и монотонным голосом.:: Здравствуйте, $(context.player.Name). Меня зовут Эзра. Я занимаю должность главного системного администратора и начальника инженерного отдела.<end>
+

@@ -1,0 +1,486 @@
+﻿=>q1_original
+Ya did it. ::He pauses, almost nodding.:: Ya really did it. 
+
+Depot B is now ours!<end>
+
+=>q1
+Ты сделал$(#/а) это. ::Он замолкает и слегка кивает.:: Ты и правда сделал$(#/а) это.
+
+Склад Б теперь наш!<end>
+
+=>q2_original
+Now, well, guess I'll be takin' over for the time bein', now that we ain't got a dockmaster. Shame it had to be this way, though. We'll see what happens next.<end>
+
+=>q2
+Что ж, раз уж у нас теперь нет докмейстера, думаю, на какое-то время я приму управление на себя. Жаль, что это происходит при таких обстоятельствах. Посмотрим, что будет дальше.<end>
+
+=>q3_original
+Now, about *you*... ::He hands you 700 stygian coins.:: Here. Yer share of the loot.
+
+Ya did us a massive favor, $(#jack/lady). Wouldn't have done it without ya. Consider yerself our ally, and know we got yer back when yer out there on the streets of Junkyard.<end>
+
+=>q3
+А теперь, что касается *тебя*... ::Он вручает вам 700 стигийских монет.:: Вот. Твоя доля с добычи.
+
+Ты оказал$(#/а) нам большую услугу, $(#парень/девушка). Без тебя ничего бы не вышло. Считай нас союзниками и имей в виду, что отныне мы прикрываем тебя на улицах Свалки.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+Show me what you have. ::Barter.::<end>
+
+=>a5
+Покажи, что у тебя есть. ::Обмен.::<end>
+
+=>a6_original
+Merchants here only accept stygian coins? How do I get some of those?<end>
+
+=>a6
+Торговцы здесь принимают только стигийские монеты? Где мне их взять?<end>
+
+=>q7_original
+Glad ya asked. I can change them into charons at a decent rate. Just show me what ya got and I'll make ya a deal.<end>
+
+=>q7
+Я рад, что ты спросил$(#/а). Я произвожу обмен на хароны по достойной ставке. Просто покажи, что у тебя есть, и я предложу тебе сделку.<end>
+
+=>a8_original
+I want to buy some stygian coins.<end>
+
+=>a8
+Я хочу купить немного стигийских монет.<end>
+
+=>q9_original
+Whatcha got?<end>
+
+=>q9
+Что там у тебя?<end>
+
+=>a10_original
+I've got some South Gate Station Credits.<end>
+
+=>a10
+У меня есть кредиты станции Саут-Гейт.<end>
+
+=>q11_original
+I'll give ya one charon for four SGS credits. Sounds good? <end>
+
+=>q11
+Я дам тебе 1 харон за 4 кредита ССГ. Так пойдёт?<end>
+
+=>q12_original
+<end>
+
+=>q12
+<end>
+
+=>a13_original
+::Trade 4 SGS credits for 1 stygian coin.::<end>
+
+=>a13
+::Обменять 4 кредита ССГ на 1 стигийскую монету.::<end>
+
+=>q14_original
+::You trade some SGS credits for stygian coins.:: Pleasure doin' business with ya. Anythin' else?<end>
+
+=>q14
+::Вы обмениваете кредиты ССГ на стигийские монеты.:: С тобой приятно иметь дело. Ещё что-нибудь?<end>
+
+=>a15_original
+::Trade 40 SGS credits for 10 stygian coins.::<end>
+
+=>a15
+::Обменять 40 кредитов ССГ на 10 стигийских монет.::<end>
+
+=>a16_original
+::Trade 400 SGS credits for 100 stygian coins.::<end>
+
+=>a16
+::Обменять 400 кредитов ССГ на 100 стигийских монет.::<end>
+
+=>a17_original
+::Trade 4000 SGS credits for 1000 stygian coins.::<end>
+
+=>a17
+::Обменять 4000 кредитов ССГ на 1000 стигийских монет.::<end>
+
+=>a18_original
+Maybe later.<end>
+
+=>a18
+Может быть, позже.<end>
+
+=>q19_original
+Alright.<end>
+
+=>q19
+Хорошо.<end>
+
+=>q20_original
+I'll give ya one charon for five SGS credits. Sounds good? <end>
+
+=>q20
+Я дам тебе 1 харон за 5 кредитов ССГ. Так пойдёт?<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>a22_original
+::Trade 5 SGS credits for 1 stygian coin.::<end>
+
+=>a22
+::Обменять 5 кредитов ССГ на 1 стигийскую монету.::<end>
+
+=>q23_original
+::You trade some SGS credits for stygian coins.:: Pleasure doin' business with ya. Anythin' else?<end>
+
+=>q23
+::Вы обмениваете кредиты ССГ на стигийские монеты.:: С тобой приятно иметь дело. Ещё что-нибудь?<end>
+
+=>a24_original
+::Trade 50 SGS credits for 10 stygian coins.::<end>
+
+=>a24
+::Обменять 50 кредитов ССГ на 10 стигийских монет.::<end>
+
+=>a25_original
+::Trade 500 SGS credits for 100 stygian coins.::<end>
+
+=>a25
+::Обменять 500 кредитов ССГ на 100 стигийских монет.::<end>
+
+=>a26_original
+::Trade 5000 SGS credits for 1000 stygian coins.::<end>
+
+=>a26
+::Обменять 5000 кредитов ССГ на 1000 стигийских монет.::<end>
+
+=>a27_original
+::[Mercantile]:: You have to be joking. Are you trying to chase me out of your store? Should I take my business to the Scrappers?<end>
+
+=>a27
+::[Торговля]:: Ты, должно быть, шутишь. Пытаешься выгнать меня из своего магазина? Мне что, вести дела с Утильщиками?<end>
+
+=>q28_original
+Alright, alright. Tell you what. <end>
+
+=>q28
+Ладно, ладно. Скажу тебе вот что.<end>
+
+=>q29_original
+Go right ahead. I doubt they'll give you a better deal.<end>
+
+=>q29
+Ну, не буду тебя задерживать. Сомневаюсь, что они предложат более выгодную сделку.<end>
+
+=>a30_original
+::[Mercantile]:: You have to be joking. Are you trying to chase me out of your store? Should I take my business to someone else?<end>
+
+=>a30
+::[Торговля]:: Ты, должно быть, шутишь. Пытаешься выгнать меня из своего магазина?Может быть, мне пойти поискать предложение получше?<end>
+
+=>q31_original
+Go right ahead. I doubt anyone'll give you a better deal.<end>
+
+=>q31
+Ну, не буду тебя задерживать. Сомневаюсь, что кто-то предложат более выгодную сделку.<end>
+
+=>a32_original
+No way, that's not even close to a fair deal.<end>
+
+=>a32
+Нет, это даже близко не похоже на честную сделку.<end>
+
+=>q33_original
+Sorry, can't go any lower than that.<end>
+
+=>q33
+Извини, не могу снизить больше.<end>
+
+=>a34_original
+Maybe later.<end>
+
+=>a34
+Может быть, позже.<end>
+
+=>a35_original
+Oops, I think I left my wallet in my other armor suit.<end>
+
+=>a35
+Ой, кажется я забыл$(#/а) свой бумажник в другой броне.<end>
+
+=>q36_original
+Happens all the time.<end>
+
+=>q36
+Обычное дело.<end>
+
+=>a37_original
+Would you happen to, by any chance, have an Armadillo class drill rotor circuit board?<end>
+
+=>a37
+Скажи, у тебя случайно нет контроллера бурового ротора класса Броненосец?<end>
+
+=>q38_original
+No. I've got lots of junk, but I ain't got any Armadillo parts. Doubt any merchant here got those either.<end>
+
+=>q38
+Нет. У меня много барахла, но здесь нет никаких деталей Броненосца. Сомневаюсь, что они найдутся у кого-нибудь из местных торговцев.<end>
+
+=>q39_original
+Maybe ya can find those at the Old Junkyard, can't be sure.<end>
+
+=>q39
+Возможно, ты сможешь найти такой на Старой Свалке, но я не уверен.<end>
+
+=>a40_original
+Heard of a guy named Chester Royce?<end>
+
+=>a40
+Слышал о парне по имени Честер Ройс?<end>
+
+=>q41_original
+Royce, Royce... Doesn't ring a bell. Why?<end>
+
+=>q41
+Ройс, Ройс... Нет, не припомню. А что?<end>
+
+=>a42_original
+Will a few charons help it ring?<end>
+
+=>a42
+Несколько харонов помогут вспомнить?<end>
+
+=>q43_original
+Wish they could, but not in this case, $(#jack/lady).<end>
+
+=>q43
+Хотелось бы, но не в данном случае, $(#парень/девушка).<end>
+
+=>q44_original
+Go to Kareem's Bar. He might know somethin'.<end>
+
+=>q44
+Иди в бар Карима. Он может что-то знать.<end>
+
+=>a45_original
+I'm looking for him. Know anyone who can help me?<end>
+
+=>a45
+Я ищу его. Знаешь кого-нибудь, кто сможет мне помочь?<end>
+
+=>a46_original
+I need to talk to him about his dead brother. Know anyone who can help me?<end>
+
+=>a46
+Мне нужно поговорить с ним о его покойном брате. Знаешь кого-нибудь, кто сможет мне помочь?<end>
+
+=>a47_original
+I need to talk to him about his dead sister. Know anyone who can help me?<end>
+
+=>a47
+Мне нужно поговорить с ним о его покойной сестре. Знаешь кого-нибудь, кто сможет мне помочь?<end>
+
+=>a48_original
+That's not important. Know anyone who can help me?<end>
+
+=>a48
+Это не важно. Знаешь кого-нибудь, кто сможет мне помочь?<end>
+
+=>a49_original
+I thought a guy like you meets a lot of people.<end>
+
+=>a49
+Мне казалось, что такой парень, как ты, знает много людей.<end>
+
+=>q50_original
+I do. ::He chuckles.:: But I can't know everyone, $(#jack/lady). Maybe... this Chester of yours prefers dealin' with the Scappers and doesn't come over.<end>
+
+=>q50
+Так и есть. ::Он ухмыляется.:: Но я же не могу знать всех, $(#парень/девушка). Может... этот твой Честер водится с Утильщиками и не бывает здесь.<end>
+
+=>a51_original
+Tell me about Old Junkyard.<end>
+
+=>a51
+Расскажи мне про Старую Свалку.<end>
+
+=>q52_original
+"Old Junkyard", "Depot A". It's the original junkyard this town was built next to from the scrap our predecessors found there. It's a restricted area now, though, on account of some accident with a mutagen tank that happened a long time ago.<end>
+
+=>q52
+Старая Свалка, «Склад А». Это та самая свалка, рядом с которой был построен наш город -- из лома, который нашли там наши предшественники. Сейчас это закрытая зона по причине какой-то давней аварии с мутагенами.<end>
+
+=>q53_original
+It's a crazy zone now: rabid dogs, mutants, flipped-out auto-turrets...<end>
+
+=>q53
+Теперь это сумасшедшее место. Бешеные псы, мутанты, съехавшие с катушек автотурели...<end>
+
+=>q54_original
+There's still lots of valuable junk there, though, <end>
+
+=>q54
+Но там всё ещё много ценного барахлишка,<end>
+
+=>q55_original
+and thanks to yer help, the gates leadin' to it are now under our control.<end>
+
+=>q55
+а благодаря твоей помощи, вход ведущий туда, теперь находится под нашим контролем.<end>
+
+=>q56_original
+and ya got Scrappers still doin' raids there. And they ain't lettin' many other folks get in. 
+
+That's the problem, ya see - those bastards control the gate. It's in their freakin' base.<end>
+
+=>q56
+так что Утильщики по-прежнему совершают вылазки. Но они мало кого ещё туда пускают.
+
+Вот в этом и проблема, эти ублюдки контролируют вход. Он находится прямо на их долбаной базе.<end>
+
+=>a57_original
+I'm sure there's another way in.<end>
+
+=>a57
+Я уверен$(#/а), что есть другой путь туда.<end>
+
+=>q58_original
+::He lowers his voice as he looks about.:: <end>
+
+=>q58
+::Оглянувшись по сторонам, он понижает голос.::<end>
+
+=>q59_original
+Now, I didn't say that. <end>
+
+=>q59
+Я этого не говорил.<end>
+
+=>q60_original
+Ya know what they say - where there's will there's a way.<end>
+
+=>q60
+Знаешь, как говорится - было бы желание, а возможность найдётся.<end>
+
+=>q61_original
+If ya wanna learn more, the Black Eels might be able to help ya.<end>
+
+=>q61
+Если ты хочешь узнать больше, Чёрные угри могли бы помочь.<end>
+
+=>a62_original
+How so?<end>
+
+=>a62
+Каким образом?<end>
+
+=>q63_original
+Talk to Silas, the dockmaster. Tell him Colton sent ya and that yer interested in the "wormhole." He'll tell ya more about it.<end>
+
+=>q63
+Поговори с Сайласом, докмейстером. Скажи ему, что тебя прислал Колтон, и что тебя интересует «червоточина». Он расскажет больше.<end>
+
+=>a64_original
+I'll keep that in mind.<end>
+
+=>a64
+Я буду иметь это в виду.<end>
+
+=>q65_original
+::He nods.::<end>
+
+=>q65
+::Он кивает.::<end>
+
+=>q66_original
+If ya absolutely need that Armadillo part, the Black Eels might be able to help ya.<end>
+
+=>q66
+Если тебе абсолютно необходима эта деталь для Броненосца, Чёрные угри могли бы помочь.<end>
+
+=>a67_original
+So there's no other way in?<end>
+
+=>a67
+Так, что, нет никакого другого способа туда попасть?<end>
+
+=>a68_original
+Bummer.<end>
+
+=>a68
+Облом.<end>
+
+=>q69_original
+Yeah.<end>
+
+=>q69
+Да.<end>
+
+=>a70_original
+So how can you help me get into Depot A?<end>
+
+=>a70
+Так, как ты можешь помочь мне попасть на Склад А?<end>
+
+=>a71_original
+Silas told me you've got the explosives ready.<end>
+
+=>a71
+Сайлас сказал, что ты уже приготовил взрывчатку.<end>
+
+=>q72_original
+Yep, here ya go. Don't blow yerself up.<end>
+
+=>q72
+Ага, вот она. Не подорвись.<end>
+
+=>a73_original
+I won't.<end>
+
+=>a73
+Нет.<end>
+
+=>a74_original
+Who do you take me for? I'm off.<end>
+
+=>a74
+За кого ты меня держишь? Я пош$(#ёл/ла).<end>
+
+=>a75_original
+::Nod and leave.::<end>
+
+=>a75
+::Кивнуть и уйти.::<end>
+
+=>a76_original
+Do you buy United Station Dollars?<end>
+
+=>a76
+Ты покупаешь доллары Объединённых Станций?<end>
+
+=>q77_original
+Nope.<end>
+
+=>q77
+Нет.<end>
+
+=>a78_original
+I'll be going now.<end>
+
+=>a78
+Мне пора идти.<end>
+
+=>q79_original
+Here to do some tradin', $(#jack/lady)?<end>
+
+=>q79
+Желаешь поторговать, $(#парень/девушка)?<end>
+

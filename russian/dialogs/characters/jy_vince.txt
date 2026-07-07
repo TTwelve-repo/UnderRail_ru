@@ -1,0 +1,224 @@
+﻿=>q1_original
+::A well-knit man steps in front of you, crossing his arms and spreading his legs slightly apart. Simultaneously, he addresses you with a light, raspy voice.::
+
+Hold't right thar, $(#jack/sister). This alley 'ere is belong to us. You wanna pass through, you gotta pay a one-time fee. Mhm.<end>
+
+=>q1
+::Хорошо сложенный мужчина встаёт у вас на пути, скрестив руки на груди и расставив ноги. Одновременно он обращается к вам тихим, скрипучим голосом.::
+
+Стой где стоишь, $(#парень/сестра). Эта улица принадлежит нам. Ты хочешь пройти -- заплати разовый сбор. Ага.<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I'll pay you double if you can land a single punch on my face. Otherwise, you let me pass for free. Deal?<end>
+
+=>a3
+Я заплачу тебе вдвойне, если ты сумеешь меня ударить. А если нет -- ты меня пропустишь бесплатно. Договорились?<end>
+
+=>q4_original
+Doub-- Wait! Wait a sec'nd...<end>
+
+=>q4
+Вдвойне... Погоди! Погоди секунду...<end>
+
+=>q5_original
+How do you--? I-- ::He begins to sweat.::<end>
+
+=>q5
+Как ты?.. Я... ::Он начинает обильно потеть.::<end>
+
+=>q6_original
+Hey, why did you not say you is *His* friend, huh? Psionic boy's. Go on through, yeah - go on through.<end>
+
+=>q6
+Эй, а чего ты не сказал$(#/а), что ты *Его* $(#друг/подруга), а? Псио-парня. Проходи, ага -- проходи.<end>
+
+=>a7_original
+Alright, I'll pay. ::Pay 5 stygian coins.::<end>
+
+=>a7
+Ладно, я заплачу. ::Заплатить 5 стигийских монет.::<end>
+
+=>q8_original
+Good decision. You can pass now.<end>
+
+=>q8
+Правильное решение. Можешь проходить.<end>
+
+=>a9_original
+So what's the fee?<end>
+
+=>a9
+И каков сбор?<end>
+
+=>q10_original
+For a pretty girl like you... ::It takes a few seconds before his stare travels all over your body.:: make it five charons. Mhm.<end>
+
+=>q10
+Для такой симпатичной девушки, как ты... ::Несколько секунд проходит, пока его взгляд путешествует по вашей фигуре.:: это будет пять харонов. Ага.<end>
+
+=>q11_original
+It's five charons.<end>
+
+=>q11
+Пять харонов.<end>
+
+=>a12_original
+::[Persuade]:: I already paid your fee.<end>
+
+=>a12
+::[Убеждение]:: Я уже оплатил$(#/а) твой сбор.<end>
+
+=>q13_original
+Yeah, right you did. Then how come you didn't know what the fee were, eh? Don't play no games with me, punk.<end>
+
+=>q13
+Да, ну конечно. Тогда почему ты не знаешь какой был сбор, а? Не играй со мной, сопля$(#к/чка).<end>
+
+=>q14_original
+I don't think so. I would've remembered your mug.<end>
+
+=>q14
+Я так не думаю. Я бы запомнил твою рожу.<end>
+
+=>a15_original
+I was wearing a breathing mask then. I paid your three charons.<end>
+
+=>a15
+Тогда на мне был респиратор. Я заплатил$(#/а) тебе три харона.<end>
+
+=>q16_original
+Ha, nice try, but that ain't the fee. No, no. It's five charons. Now get your ass outta 'ere and come back with some shinies.<end>
+
+=>q16
+Ха, хорошая попытка, но сумма сбора другая. Нет, нет. Это пять харонов. Теперь убирай свою задницу подальше отсюда и возвращайся с блестяшками.<end>
+
+=>a17_original
+Well you have bad memory then, because I paid your five charons already.<end>
+
+=>a17
+Ну значит у тебя плохая память, потому что я уже заплатил$(#/а) тебе пять харонов.<end>
+
+=>q18_original
+Hmm, yeah, I think I is rememberin' you, now that I thinks about it. Yeah. Pass.<end>
+
+=>q18
+Хм, ага, если подумать -- да, кажется, я вспомнил тебя. Да. Проходи.<end>
+
+=>a19_original
+Come on, I already paid your ten charons yesterday! I was just wearing different clothes back then.<end>
+
+=>a19
+Да ладно, я уже заплатил$(#/а) десять харонов вчера! Тогда я был$(#/а) в другой одежде.<end>
+
+=>a20_original
+Fine.<end>
+
+=>a20
+Ладно.<end>
+
+=>q21_original
+Come back when you got some shinies. Mhm.<end>
+
+=>q21
+Возвращайся, когда у тебя будут блестяшки. Ага.<end>
+
+=>q22_original
+I ain't fallin' for that one.<end>
+
+=>q22
+Я на это не поведусь.<end>
+
+=>a23_original
+I'm on official business from South Gate Station. I don't need to pay any fees.<end>
+
+=>a23
+Я по служебным делам со станции Саут-Гейт. Мне не нужно платить никаких сборов.<end>
+
+=>q24_original
+You is gonna pay like everyone else, southgater. Besides, what's a couple shinies for you SGS folk?<end>
+
+=>q24
+Ты будешь платить, как и все остальные, саутгейтец. Кроме того, -- что значит пара блестяшек для человека с ССГ?<end>
+
+=>a25_original
+::[Intimidate]:: I'm not paying you anything, you mangy street rat. Now step aside before I turn your brain into graffiti.<end>
+
+=>a25
+::[Запугивание]:: Я не собираюсь платить паршивой уличной крысе. Сойди с дороги, пока я не превратил$(#/а) твои мозги в граффити.<end>
+
+=>q26_original
+You either very brave or very stupid, $(#jack/sister), threatening me on my home turf.<end>
+
+=>q26
+Ты либо очень храбр$(#ый/ая), либо очень глуп$(#ый/ая), $(#парень/сестра), если угрожаешь мне на моей территории.<end>
+
+=>a27_original
+::[Intimidate]:: I don't need to be brave. I've got enough firepower to blow you and your little cardboard city to Upper Underrail. I'll be passing through here now unless you want a demonstration?<end>
+
+=>a27
+::[Запугивание]:: Мне не нужно быть храбр$(#ым/ой). У меня достаточно огневой мощи, чтобы отправить тебя и твой маленький картонный городишко в Верхнюю Подземку. Теперь я пойду, или тебе нужна наглядная демонстрация?<end>
+
+=>q28_original
+::His stare is nothing but anger, but after exchanging it with his comrades, he motions you to pass.:: 
+
+You good to pass.<end>
+
+=>q28
+::В его взгляде вспыхивает злоба, но, переглянувшись со своими товарищами, он машет вам рукой.:: 
+
+Проходи.<end>
+
+=>q29_original
+That was a terrible bluff. Put $(#him/her) outta $(#his/her) misery, boys.<end>
+
+=>q29
+Как$(#ой/ая) ты резк$(#ий/ая). Избавьте е$(#го/ё) от мучений, парни.<end>
+
+=>a30_original
+It won't be your turf for long. ::Attack!::<end>
+
+=>a30
+Это больше не твоя территория. ::Напасть!::<end>
+
+=>q31_original
+You ain't even gonna have time to regret what you just said. Get this idiot!<end>
+
+=>q31
+Ты даже не успеешь пожалеть о том, что только что сказал$(#/а). Кончаем эт$(#ого/у) $(#идиота/дуру)!<end>
+
+=>a32_original
+Forget it. I'll take another way around.<end>
+
+=>a32
+Забудь. Я найду другую дорогу.<end>
+
+=>q33_original
+Ain't no other way around. You'll be back. Mhm.<end>
+
+=>q33
+Нет другой дороги. Ты ещё вернёшься. Ага.<end>
+
+=>a34_original
+Oops, I think I got lost. I'll be going now.<end>
+
+=>a34
+Ой, кажется, я заблудил$(#ся/ась). Я ухожу.<end>
+
+=>q35_original
+We got no more business to do. Move along, $(#jack/sister).<end>
+
+=>q35
+Нам больше не о чем говорить. Проходи, $(#парень/сестра).<end>
+
+=>q36_original
+Shinies - got 'em?<end>
+
+=>q36
+Блестяшки есть?<end>
+

@@ -1,0 +1,830 @@
+﻿=>q1_original
+::The woman seems to be counting charons, but she swipes them from the counter and into her hand and then into her pocket as soon as you come near. She leans on the counter with both of her arms and gives you a friendly smile. She is somewhat short, but lean and healthy-looking, yet her voice, while light, exhibits a noticeable degree of harshness.::
+
+Welcome to Foundry's metal store. I'm Leonie. What can I get you?<end>
+
+=>q1
+::Эта женщина, кажется, считает хароны, но, заметив ваше приближение, она сметает их с прилавка в руку, а затем ссыпает в карман. Она опирается на прилавок обеими руками и вежливо улыбается вам. Она невысокого роста, стройная и румяная, но её голос, хотя и высокий, заметно хрипит.::
+
+Добро пожаловать в металлический магазин Литейной. Я Леони. Что я могу вам предложить?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+Let me see what you have to offer. ::Barter.::<end>
+
+=>a3
+Покажите, что у вас в продаже. ::Обмен.::<end>
+
+=>q4_original
+I'm proud to tell you that we offer components made from TiChrome alloy again! We're back in business.<end>
+
+=>q4
+Я рада сообщить вам, что мы вновь предлагаем компоненты, изготовленные из сплава ТиХром! Мы снова в деле.<end>
+
+=>a5_original
+::Barter.::<end>
+
+=>a5
+::Обмен.::<end>
+
+=>q6_original
+Of course! Do note that we don't have any of our famous TiChrome alloy components at the moment. The mine is closed right now, but hopefully it'll be back up and running sometime soon.<end>
+
+=>q6
+Конечно! Обратите внимание, что в данный момент мы не предлагаем компонентов, изготовленный из нашего знаменитого сплава ТиХром. Шахта сейчас закрыта, но, я надеюсь, что всё вернётся к норме в ближайшее время.<end>
+
+=>a7_original
+Are my steel plates ready?<end>
+
+=>a7
+Мои стальные пластины готовы?<end>
+
+=>q8_original
+Not yet. Patience, patience.<end>
+
+=>q8
+Пока нет. Терпение, терпение.<end>
+
+=>q9_original
+Yes, they are. I'll go get them. ::She walks to the back of her store::<end>
+
+=>q9
+Да. Я схожу за ними. ::Она идёт в подсобку своего магазина::<end>
+
+=>q10_original
+::, making a few trips back and forth until all the sets of plates you ordered are neatly aligned on the counter.::<end>
+
+=>q10
+::, совершив несколько поездок туда и обратно, пока все заказанные вами наборы пластин ровными рядами не будут разложены на прилавке.::<end>
+
+=>q11_original
+If you want a new batch, you know where to find me.<end>
+
+=>q11
+Если тебе потребуется новая партия, ты знаешь, где меня найти.<end>
+
+=>q12_original
+:: and briskly returns with a set of steel plates, which she puts on the counter with a satisfying thud.::
+
+That should be all of them.<end>
+
+=>q12
+::и быстро возвращается с набором стальных пластин, которые с характерным глухим стуком кладёт на прилавок.::
+
+Должно быть это все.<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>q15_original
+<end>
+
+=>q15
+<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>q18_original
+<end>
+
+=>q18
+<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+<end>
+
+=>q21
+<end>
+
+=>a22_original
+I've got some metal scraps I don't know what to do with. I was wondering if you could help me somehow.<end>
+
+=>a22
+У меня есть металлолом, с которым я не знаю, что делать. Я подумал, не могли бы вы мне как-нибудь помочь.<end>
+
+=>q23_original
+I don't deal in scrap metal, sorry. ::She shrugs.::<end>
+
+=>q23
+Металлоломом не занимаюсь, извините. ::Она пожимает плечами.::<end>
+
+=>q24_original
+We *could* have it melted down and turned into something else, though, but since the mine has been closed and we're working at reduced capacity we can't accept such requests at the moment.<end>
+
+=>q24
+Мы *могли* переплавить его и превратить во что-то другое, но, поскольку шахта закрыта и работает на пониженной мощности, мы не можем выполнить такой заказ в данный момент.<end>
+
+=>a25_original
+Why is the mine closed?<end>
+
+=>a25
+Почему шахта закрыта?<end>
+
+=>q26_original
+There was an incident.<end>
+
+=>q26
+Произошёл несчастный случай.<end>
+
+=>a27_original
+What kind of incident?<end>
+
+=>a27
+Какой несчастный случай?<end>
+
+=>q28_original
+Some creatures attacked our miners, so the Foundry Guard has to eradicate those things before it's safe to work there again. As safe as possible, that is.<end>
+
+=>q28
+Какие-то звери напали на наших шахтёров, так что Стража Литейной должна прогнать их, прежде чем там снова станет безопасно работать. Ну, как можно более безопасно.<end>
+
+=>a29_original
+I ain't got time to waste, woman. Just skip to the chase.<end>
+
+=>a29
+У меня нет времени, девушка. Ближе к сути.<end>
+
+=>q30_original
+Don't you talk to me like that. See those guards over there? Anyhow...<end>
+
+=>q30
+Не смейте так со мной разговаривать. Видите этих стражей вон там? Так что...<end>
+
+=>a31_original
+Here we go again...<end>
+
+=>a31
+Ну, вот опять...<end>
+
+=>q32_original
+What?<end>
+
+=>q32
+Что?<end>
+
+=>a33_original
+Never mind. What kind of incident?<end>
+
+=>a33
+Неважно. Какой несчастный случай?<end>
+
+=>a34_original
+Just tell me what was the incident, woman. I ain't got time to waste.<end>
+
+=>a34
+Просто скажите, что за несчастный случай, девушка. У меня нет времени.<end>
+
+=>a35_original
+Very well. I wanted to ask you something else before I move on.<end>
+
+=>a35
+Отлично. Хотел спросить ещё кое о чём, прежде чем двигаться дальше.<end>
+
+=>q36_original
+No problem.<end>
+
+=>q36
+Нет проблем.<end>
+
+=>a37_original
+Guess I'll try elsewhere. Bye.<end>
+
+=>a37
+Видимо, я попробую в другом месте. Пока.<end>
+
+=>q38_original
+But don't break your pick just yet: For you... I could have all that scrap you got here melted into something more useful, like, say - metal plates.<end>
+
+=>q38
+Но, не утруждайте себя выбором: скажем для вас... Я могу переплавить весь этот ваш лом, во что-то более полезное, например, в металлические пластины.<end>
+
+=>a39_original
+I like the sound of that.<end>
+
+=>a39
+Мне нравится, как это звучит.<end>
+
+=>q40_original
+You know what, let me see that scrap of yours first. Scrap's a, you know, a very general term.<end>
+
+=>q40
+Знаете что, позвольте мне сначала увидеть этот ваш первосортный лом. Лом - это, знаете ли, очень обобщённый термин.<end>
+
+=>a41_original
+::Put a bag of scrap on the counter.:: They're mostly tiny metal scraps like this.<end>
+
+=>a41
+::Положить мешок с металлоломом на прилавок.:: В основном это крошечные металлические обломки, типа того.<end>
+
+=>q42_original
+::She puts on a glove and sifts through the sundry scraplets with her fingers.::
+
+Yeah, yeah, this is fine. We can have them sorted, no need for shredding, no... ::Her voice becomes quieter and quieter.:: ...mostly, so that's gonna go in a steel furnace... 
+
+...purification, well... ::She shrugs.::
+
+...mold... press...<end>
+
+=>q42
+::Она надевает перчатку и перебирает пальцами мелкие кусочки.::
+
+Та-а-к, да-а, это нормально. Мы можем их рассортировать, нет, измельчать не нужно ... ::Её голос становится всё тише и тише.:: ... так что в основной массе, всё это пойдёт в сталеплавильную печь...
+
+...очистка, ну и... ::Она пожимает плечами.::
+
+...формовка... пресс...<end>
+
+=>a43_original
+Leonie?<end>
+
+=>a43
+Леони?<end>
+
+=>q44_original
+Shush, I'm calculating!
+
+<end>
+
+=>q44
+Ш-ш-ш, я считаю!
+
+<end>
+
+=>q45_original
+::And then she brings out a small calculator with mostly worn out buttons, and a scale. She types in a few numbers, *hmms* once, then reenters them again and is more pleased with the follow-up result.
+
+She then puts the metal scraps on the scale.::<end>
+
+=>q45
+:: Она достаёт маленький калькулятор с изношенными кнопками и шкалой. Набирает несколько цифр, *хм-м* один раз, вводит их ещё раз, видно что она более довольна результатом.
+
+После этого она кладёт металлолом на весы.::<end>
+
+=>q46_original
+::After doing some more calculation, she flips the calculator so that it's facing you: It reads "100."::
+
+Here's my offer: About a hundred bags of scrap like this will net you a set of steel plates. Don't expect high quality, but it won't be muck either; you'll get them cheap as they're easy to process and won't take too long to do. If you want something more complicated, well, you'll have to go through someone else.<end>
+
+=>q46
+::Сделав ещё несколько вычислений, она показывает вам экран калькулятора: на нём отображается "100".::
+
+Вот моё предложение: около сотни таких мешков металлолома дадут вам набор стальных пластин. Не ждите высокого качества, но зато и брака не будет; получится дёшево, так как их обработка не займёт много времени. Если хотите чего-то более сложного, то ищите кого ни будь другого.<end>
+
+=>q47_original
+::She then taps the screen, pointing to her previous calculation, resulting in "30."::
+
+And that's how much it's gonna cost you per set, in charons. Cheap as dirt.
+
+::She leans on the counter.:: So, boss, how about it?<end>
+
+=>q47
+::Она выводит на экран свой предварительный расчёт, в итоге получилось «30».::
+
+И вот столько это будет стоить вам за комплект, в харонах. Дёшево, как грязь.
+
+::Она опирается на прилавок.:: Ну что, босс, как насчёт такого предложения?<end>
+
+=>a48_original
+When can we start?<end>
+
+=>a48
+Когда начинаем?<end>
+
+=>q49_original
+Now. How much scrap have you got?<end>
+
+=>q49
+Сколько сейчас у тебя металлолома?<end>
+
+=>q50_original
+<end>
+
+=>q50
+<end>
+
+=>a51_original
+I'd like one set of steel plates. ::Give her 100 bags of metal scraps and 30 stygian coins.::<end>
+
+=>a51
+Мне нужен один комплект стальных пластин. ::Дать ей 100 мешков металлолома и 30 стигийских монет.::<end>
+
+=>q52_original
+::She puts the scrap behind the counter.::
+
+I'll have some nipper take this to get processed. And you, you come back a bit later and the plates will be ready.<end>
+
+=>q52
+::Она убирает лом под прилавок.::
+
+Я попрошу кого-нибудь взять это на переработку. А вы возвращайтесь чуть позже, когда пластины будут готовы.<end>
+
+=>a53_original
+I'd like two sets of steel plates. ::Give her 200 bags of metal scraps and 60 stygian coins.::<end>
+
+=>a53
+Мне нужны два комплекта стальных пластин. ::Дать ей 200 мешков металлолома и 60 стигийских монет.::<end>
+
+=>a54_original
+I'd like three sets of steel plates. ::Give her 300 bags of metal scraps and 90 stygian coins.::<end>
+
+=>a54
+Мне нужны три комплекта стальных пластин. ::Дать ей 300 мешков металлолома и 90 стигийских монет.::<end>
+
+=>a55_original
+I'd like four sets of steel plates. ::Give her 400 bags of metal scraps and 120 stygian coins.::<end>
+
+=>a55
+Мне нужны четыре комплекта стальных пластин. ::Дать ей 400 мешков металлолома и 120 стигийских монет.::<end>
+
+=>q56_original
+That's quite a lot of scrap. <end>
+
+=>q56
+Это довольно много лома.<end>
+
+=>a57_original
+I'd like five sets of steel plates. ::Give her 500 bags of metal scraps and 150 stygian coins.::<end>
+
+=>a57
+Мне нужно пять комплектов стальных пластин. ::Дать ей 500 мешков металлолома и 150 стигийских монет.::<end>
+
+=>a58_original
+I'd like six sets of steel plates. ::Give her 600 bags of metal scraps and 180 stygian coins.::<end>
+
+=>a58
+Мне нужно шесть комплектов стальных пластин. ::Дать ей 600 мешков металлолома и 180 стигийских монет.::<end>
+
+=>a59_original
+I'd like seven sets of steel plates. ::Give her 700 bags of metal scraps and 210 stygian coins.::<end>
+
+=>a59
+Мне нужно семь комплектов стальных пластин. ::Дать ей 700 мешков металлолома и 210 стигийских монет.::<end>
+
+=>a60_original
+I'd like eight sets of steel plates. ::Give her 800 bags of metal scraps and 240 stygian coins.::<end>
+
+=>a60
+Мне нужно восемь комплектов стальных пластин. ::Дать ей 800 мешков металлолома и 240 стигийских монет.::<end>
+
+=>q61_original
+Damn, that's gonna be a lot of plates! <end>
+
+=>q61
+Вот это да, пластин будет много!<end>
+
+=>a62_original
+I'd like nine sets of steel plates. ::Give her 900 bags of metal scraps and 270 stygian coins.::<end>
+
+=>a62
+Мне нужно девять комплектов стальных пластин. ::Дать ей 900 мешков металлолома и 270 стигийских монет.::<end>
+
+=>a63_original
+I'd like ten sets of steel plates. ::Give her 1000 bags of metal scraps and 300 stygian coins.::<end>
+
+=>a63
+Мне нужно десять комплектов стальных пластин. ::Дать ей 1000 мешков металлолома и 300 стигийских монет.::<end>
+
+=>a64_original
+Not enough, I guess. I'll come back when I do.<end>
+
+=>a64
+Думаю недостаточно. Вернусь, когда достану.<end>
+
+=>a65_original
+I'll get back to you on that, but first, there was something else I wanted to ask you.<end>
+
+=>a65
+Я ещё обращусь к вам по этому поводу, но сначала хочу спросить вас ещё кое о чём.<end>
+
+=>a66_original
+I'll be back with some more scrap. See ya.<end>
+
+=>a66
+Я вернусь и принесу ещё лома. Увидимся.<end>
+
+=>a67_original
+::Say nothing.::<end>
+
+=>a67
+::Промолчать.::<end>
+
+=>q68_original
+That should be it, yes.
+
+<end>
+
+=>q68
+Да, так и должно быть.
+
+<end>
+
+=>a69_original
+Tell me, how much scrap would I need to get a decent set of plates?<end>
+
+=>a69
+Скажи, а сколько лома мне понадобится, чтобы получить достаточный набор пластин?<end>
+
+=>q70_original
+Scrap's a very general term, you know. Show me what you got, and I'll tell you all you need to know.<end>
+
+=>q70
+Лом - это очень обобщённый термин, знаете ли. Покажите мне, что у вас есть, и я расскажу всё, что вам нужно знать.<end>
+
+=>a71_original
+Go on.<end>
+
+=>a71
+Продолжай.<end>
+
+=>a72_original
+I'd like to turn some scrap into metal plates.<end>
+
+=>a72
+Я бы хотел переработать лом в металлические пластины.<end>
+
+=>q73_original
+Can do. How much have you got? 
+
+Don't forget - a hundred bags of scrap and thirty charons per set.<end>
+
+=>q73
+Можно сделать. Сколько есть?
+
+Не забудьте - сто мешков лома и тридцать харонов за комплект.<end>
+
+=>a74_original
+I got some super steel that needs shaping.<end>
+
+=>a74
+У меня есть сверхсталь, которой требуется формовка.<end>
+
+=>q75_original
+I see. So what do you want me to do with it?<end>
+
+=>q75
+Понимаю. И что вы хотите сделать с ней?<end>
+
+=>a76_original
+I want you to create super steel fiber. ::Give her 100 charons.::<end>
+
+=>a76
+Я хочу, чтобы вы сделали мне сверхстальное волокно. ::Дать ей 100 харонов.::<end>
+
+=>q77_original
+No problem. I'll get to work. 
+
+I'll put the products in the container when I'm done.<end>
+
+=>q77
+Нет проблем. Я берусь за работу.
+
+Я положу продукцию в контейнер, когда закончу.<end>
+
+=>a78_original
+::Wait.::<end>
+
+=>a78
+::Ждать.::<end>
+
+=>a79_original
+I want you to create super steel sheet. ::Give her 100 charons.::<end>
+
+=>a79
+Я хочу, чтобы вы сделали мне сверхстальной лист. ::Дать ей 100 харонов.::<end>
+
+=>a80_original
+Actually, never mind. I've changed my mind.<end>
+
+=>a80
+Не берите в голову. Я передумал$(#/а).<end>
+
+=>q81_original
+::She goes to the back of the store and returns with a footlocker. She puts it on the counter and wipes a thin layer of dust from it.::
+
+Put it in here. Let's see what we're working with.<end>
+
+=>q81
+::Она уходит в подсобное помещение магазина и возвращается с сундуком. Ставит его на прилавок и стирает с него тонкий слой пыли.::
+
+Кладите сюда. Давайте посмотрим, с чем мы работаем.<end>
+
+=>a82_original
+Understood. Before I do that, I had more questions.<end>
+
+=>a82
+Понятно. Но прежде, у меня ещё есть вопросы.<end>
+
+=>a83_original
+Got it.<end>
+
+=>a83
+Понятно.<end>
+
+=>q84_original
+Put it in the container on the counter and let me see what we're working with.<end>
+
+=>q84
+Положите пластины в контейнер на стойке и позвольте мне взглянуть, с чем мы работаем.<end>
+
+=>a85_original
+Bernard told me you can work with super steel...<end>
+
+=>a85
+Бернард сказал мне, что вы можете работать со сверхсталью...<end>
+
+=>q86_original
+Ben sent you here? <end>
+
+=>q86
+Это Бен прислал вас сюда?<end>
+
+=>q87_original
+You actually got some?<end>
+
+=>q87
+У вас на самом деле есть?<end>
+
+=>a88_original
+Yes. ::Show her your super steel.::<end>
+
+=>a88
+Да. ::Показать ей сверхсталь.::<end>
+
+=>q89_original
+Wow, so the old coot wasn't kidding. <end>
+
+=>q89
+Ух ты, так значит, старикан не насмехался.<end>
+
+=>q90_original
+Yeah, I can work it.<end>
+
+=>q90
+Да-а, я с этим справлюсь.<end>
+
+=>q91_original
+I can make super steel fiber, and somewhere around here I also got a blueprint explaining how to *infuse* leather with it. Can't do it myself - it's outside of my expertise - but I'll gladly sell you the blueprint.<end>
+
+=>q91
+Я могу сделать вам сверхстальное волокно, и у меня также есть чертёж, объясняющий как с его помощью можно *усилить* кожу. Сама я не могу работать с кожей, это за пределами моей компетенции, но я с радостью продам вам чертёж.<end>
+
+=>q92_original
+Also, I can make sheets from it. I don't know what kind of stuff you'd be able to do with them, but eh - I can make them.<end>
+
+=>q92
+Также, я могу сделать из неё листы. Я не знаю, что вы будете с ними делать, но да -- я могу сделать их.<end>
+
+=>q93_original
+Either of these services will cost you a hundred charons per set of plates.<end>
+
+=>q93
+Любая из этих услуг будет стоить вам сто харонов за комплект.<end>
+
+=>a94_original
+Not at the moment, no.<end>
+
+=>a94
+Не сейчас.<end>
+
+=>q95_original
+Well, in the unlikely case you get a hold of any - yes, I can work it.<end>
+
+=>q95
+Ну, в маловероятном случае, если у вас она окажется -- да, я могу работать с ней.<end>
+
+=>a96_original
+Is there anyone around here that can work with super steel?<end>
+
+=>a96
+А есть ли здесь ещё кто-нибудь, кто может работать со сверхсталью?<end>
+
+=>q97_original
+Well, well... <end>
+
+=>q97
+Ну, что ж...<end>
+
+=>a98_original
+You seem to be working here alone with all this heavy stuff.<end>
+
+=>a98
+И вы одна здесь работаете со всей этой тяжестью?<end>
+
+=>q99_original
+Yes, I work mostly alone and move heavy things all the time. Funny that people ask me that question often. Just because I'm a woman doesn't mean I can't do a man's job. I'm a *Foundry* woman, for crying out loud. ::She smiles.:: And honestly, I really love what I do; beats risking my neck in the mine, but if I had to do it, I'd do that too.<end>
+
+=>q99
+Да, я работаю в основном в одиночку и всё время таскаю тяжёлые вещи. Забавно, что люди часто задают мне этот вопрос. То, что я женщина, не значит, что я не могу делать мужскую работу. Я ведь женщина с *Литейной*, в конце концов. ::Она мягко улыбается.:: И, честно говоря, мне действительно нравится моя работа; всё лучше, чем рисковать шеей в шахте, но я бы пошла и в шахту, если пришлось бы.<end>
+
+=>q100_original
+Hey, sister, you know we can do *everything* the men can. ::She winks.::<end>
+
+=>q100
+Эй, сестра, вы же знаете, что мы можем делать *всё* то, что и мужчины. ::Она подмигивает.::<end>
+
+=>q101_original
+Us women aren't as friable as you may think.<end>
+
+=>q101
+Наши женщины не такие рыхлые, как вы могли подумать.<end>
+
+=>a102_original
+What do you sell here?<end>
+
+=>a102
+Что вы тут продаёте?<end>
+
+=>q103_original
+Various kinds of heavy plates, weapon parts, explosive weapon cases, blades... all made from many different alloys. The selection is large, so take your pick. Take, not break. ::She smiles.:: It's local lingo. 
+
+Anyhow, one of these alloys is pretty much exclusive to Foundry - TiChrome.<end>
+
+=>q103
+Различные виды тяжёлых пластин, детали оружия, корпуса для взрывных устройств, клинки... всё сделано из разных сплавов. Выбор большой, так что берите кирку. Берите, а не ломайте. ::Она улыбается.:: Это местный жаргон. 
+
+И ещё, один из этих сплавов вы найдёте только исключительно на Литейной -- ТиХром.<end>
+
+=>a104_original
+What can you tell me about TiChrome?<end>
+
+=>a104
+Что вы можете рассказать мне о ТиХроме?<end>
+
+=>q105_original
+Well, TiChrome is an alloy made from titanium and chromium, and I'm proud to say that this particular alloy was first made in Foundry, and only just recently. The combination of titanium's low density and high strength, and chromium's high melting point creates a material that is reflective and heat resistant, as well as durable.<end>
+
+=>q105
+Ну, ТиХром -- это сплав титана и хрома, и я с гордостью могу сказать, что этот сплав был впервые изготовлен на Литейной, и то лишь недавно. Сочетание титана с низкой плотностью и высокой прочностью, и хрома с высокой температурой плавления создаёт материал, который является отражающим и теплостойким, а также прочным.<end>
+
+=>q106_original
+We have it in store if you'd like to take a look.<end>
+
+=>q106
+Он у нас в наличии, если вы желаете взглянуть.<end>
+
+=>q107_original
+Unfortunately, mine is closed at the moment, so chromium excavation has been halted. But, hopefully it'll be up and running sometime soon.<end>
+
+=>q107
+К сожалению, шахта закрыта в данный момент, так что добыча хрома была остановлена. Но я надеюсь, будет вновь запущена в ближайшее время.<end>
+
+=>a108_original
+Thanks, I had more questions.<end>
+
+=>a108
+Спасибо, у меня ещё есть вопросы.<end>
+
+=>q109_original
+I'm listening...<end>
+
+=>q109
+Я слушаю...<end>
+
+=>a110_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a110
+Как дела теперь, когда шахта вновь открылась?<end>
+
+=>q111_original
+A heavy steel plate was lifted off my chest when I heard about it. ::She smiles.:: I was really worried. If Foundry fell to an invasion of those things, we'd all have to go back to Lower Underrail. And to tell you the truth, we got used to the Foundry Guard keeping us safe from all the outside muck. Really.<end>
+
+=>q111
+Тяжёлая стальная пластина свалилась у меня с плеч, когда я услышала об этом. ::Она улыбается.:: Я очень переживала. Если бы Литейная пала перед вторжением этих существ, нам всем пришлось бы вернуться в Нижнюю Подземку. И сказать по правде, мы привыкли, что Стража Литейной охраняет нас от всего шлака за пределами станции. Да уж.<end>
+
+=>q112_original
+More precisely, those who *survive* life in Foundry, they get used to the security.<end>
+
+=>q112
+Точнее, те, кто *выжил* на Литейной, привыкли к безопасности.<end>
+
+=>a113_original
+What can you tell me about Foundry?<end>
+
+=>a113
+Что вы можете рассказать мне про Литейную?<end>
+
+=>q114_original
+It's one of the best stations to live in. Mineral excavation and metallurgy is what keeps Foundry running. Our mine is rich with titanium, aluminum and iron, and now that we've also found chromium deposits, we're getting more and more golden.<end>
+
+=>q114
+Это одна из лучших станций для жизни. Добыча полезных ископаемых и металлургия -- это то, что держит Литейную на плаву. Наша шахта богата титаном, алюминием и железом, а теперь, когда мы нашли залежи хрома, у нас всё вообще в золоте.<end>
+
+=>q115_original
+There is one bad side to it all: All this requires hard work and in dangerous and often unhealthy conditions. Many people die in the mine. But many also die all over Underrail from bandits, starvation and disease.<end>
+
+=>q115
+Есть и минусы: всё это требует тяжёлой работы в опасных для жизни и здоровья условиях. Многие погибают в шахте. Но многие также погибают в Подземке от бандитов, голода и болезней.<end>
+
+=>q116_original
+My store is in the best spot. Turnover's good, I'm nowhere near the mine, and I'm surrounded by big, strong men who keep me safe. ::She finds it difficult to conceal the shy smile.::
+
+So, are you buying something?<end>
+
+=>q116
+Мой магазин находится в самом лучшем месте. Оборот хорош, далеко от шахты, а вокруг большие и сильные мужчины, которые охраняют меня. ::Ей трудно скрыть застенчивую улыбку.::
+
+Так вы покупаете?<end>
+
+=>a117_original
+Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
+
+=>a117
+Вы не помните, приносили ли вам какие-нибудь странные предметы? Я не могу дать вам описание, но это что-то такое, что вы бы обязательно запомнили.<end>
+
+=>q118_original
+I don't know about any strange items, but there were some *strange* folks in my store recently. They were asking about all the merchants in Foundry, but they seemed all secretive and... off. While one guy was talking to me, the rest were whispering something between themselves and looking behind their backs. They came in and out in a flash. Never saw them again after.<end>
+
+=>q118
+Я не видела никаких странных предметов, но в моём магазине были недавно какие-то *странные* люди. Они спрашивали про всех торговцев на Литейной, но были какие-то скрытные и... мутные. Пока один парень разговаривал со мной, остальные о чём-то шептались между собой и всё время оглядывались. Они пришли и ушли очень быстро. Больше я их не видела.<end>
+
+=>a119_original
+Do you know who they were?<end>
+
+=>a119
+Вы знаете, кто это были?<end>
+
+=>q120_original
+No idea. Looked like scavengers to me. That's really all I know, like I've said, they were all secretive.<end>
+
+=>q120
+Без понятия. Выглядели как мусорщики. Это всё, что я знаю, как я уже сказала, они были очень скрытные.<end>
+
+=>a121_original
+Thank you, that's all I wanted to know.<end>
+
+=>a121
+Спасибо, это всё, что я хотел$(#/а) знать.<end>
+
+=>q122_original
+No problem.<end>
+
+=>q122
+Нет проблем.<end>
+
+=>a123_original
+Do you know anything about the mine creatures?<end>
+
+=>a123
+Вы что-нибудь знаете о существах в шахте?<end>
+
+=>q124_original
+::She shrugs.:: I really can't tell you much. The miners dug into a new cave and ran into some weird creatures. Now, the mine is closed and the Foundry Guard is dealing with the problem. That's all we were told.<end>
+
+=>q124
+::Она пожимает плечами.:: Я действительно не могу вам много сказать. Шахтёры откопали новую пещеру, а там были какие-то странные твари. Теперь шахта закрыта, и Стража Литейной разбирается с проблемой. Это всё, что нам сказали.<end>
+
+=>q125_original
+I hope that was helpful.<end>
+
+=>q125
+Надеюсь, что я помогла.<end>
+
+=>a126_original
+Thank you and goodbye.<end>
+
+=>a126
+Спасибо и до свидания.<end>
+
+=>q127_original
+Welcome again. What can I get you?<end>
+
+=>q127
+Добро пожаловать, снова. Что я могу вам предложить?<end>
+

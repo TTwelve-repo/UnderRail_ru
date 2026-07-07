@@ -1,0 +1,742 @@
+﻿=>q1_original
+I've been informed of your refusal to accomplish the given assignments. That concludes our cooperation. Goodbye, $(context.player.Name).<end>
+
+=>q1
+Мне сообщили о вашем отказе выполнять задания. На этом мы завершаем сотрудничество. Прощайте, $(context.player.Name).<end>
+
+=>q2_original
+Yeah?<end>
+
+=>q2
+Да?<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>a4_original
+Show me what you've got for trade. ::Barter.::<end>
+
+=>a4
+Покажите, что у вас есть на обмен. ::Обмен.::<end>
+
+=>a5_original
+I have done everything you asked. Now what?<end>
+
+=>a5
+Я сделал$(#/а) всё, как вы просили. Теперь что?<end>
+
+=>q6_original
+Now... we wait. I have no assignments available at the moment. I'll contact you when you are needed.<end>
+
+=>q6
+Теперь... мы ждём. У меня нет для вас заданий в данный момент; я свяжусь с вами, когда вы будете нужны.<end>
+
+=>a7_original
+All right, see you later then.<end>
+
+=>a7
+Ладно, тогда увидимся позже.<end>
+
+=>q8_original
+Sure. See you later...<end>
+
+=>q8
+Конечно. Увидимся позже...<end>
+
+=>a9_original
+How will you contact me?<end>
+
+=>a9
+Как вы свяжетесь со мной?<end>
+
+=>q10_original
+You ask me a question like that after all you've been through? 
+
+See you around, $(context.player.Name).<end>
+
+=>q10
+Вы задаёте мне такой вопрос после всего, через что прошли?
+
+Увидимся, $(context.player.Name).<end>
+
+=>a11_original
+I punched through a rock wall with my bare fists back in Hathor mine! I don't have time to wait!<end>
+
+=>a11
+Я пробивал$(#ся/ась) через камень голыми кулаками в шахте Хатор! У меня нет времени ждать!<end>
+
+=>q12_original
+Sure you do. We all have to wait for something. Ain't it so? That's all I've got to say for now.<end>
+
+=>q12
+Разумеется. Всем нам приходится иногда чего-то ждать. Разве это не так? Вот пока и всё, что я могу вам сказать.<end>
+
+=>q13_original
+Indeed you have, and with optimal results even. This hasn't gone unnoticed.<end>
+
+=>q13
+Действительно, это так; и с оптимальным результатом, могу я добавить. Это не осталось незамеченным.<end>
+
+=>q14_original
+There's someone who wishes to speak with you.<end>
+
+=>q14
+Кое-кто желает поговорить с вами.<end>
+
+=>q15_original
+Travel to the caves below Lower Underrail and look for Azif in a place called the "Hanging Rat."<end>
+
+=>q15
+Направляйтесь в пещеры под Нижней Подземкой и найдите Азифа в месте под названием «Висящая крыса».<end>
+
+=>q16_original
+<end>
+
+=>q16
+<end>
+
+=>a17_original
+Who is Azif?<end>
+
+=>a17
+Кто такой Азиф?<end>
+
+=>q18_original
+You'll find out.<end>
+
+=>q18
+Вы узнаете.<end>
+
+=>a19_original
+How do I find this place?<end>
+
+=>a19
+Как мне найти это место?<end>
+
+=>q20_original
+::He smirks.:: By being resourceful, as you were so far.<end>
+
+=>q20
+::Он ухмыляется.:: Проявляя находчивость, как вам удавалось до сих пор.<end>
+
+=>q21_original
+Enter the caves from the Rail Crossing station and start your search from there.<end>
+
+=>q21
+Войдите в пещеры у станции Переезда и начните поиск оттуда.<end>
+
+=>a22_original
+Alright. I'll look for Azif.<end>
+
+=>a22
+Ладно. Я найду Азифа.<end>
+
+=>q23_original
+::He nods.::<end>
+
+=>q23
+::Он кивает.::<end>
+
+=>a24_original
+I'll think about it.<end>
+
+=>a24
+Я подумаю об этом.<end>
+
+=>q25_original
+::He nods.:: Take your time.<end>
+
+=>q25
+::Он кивает.:: Не торопитесь.<end>
+
+=>a26_original
+Forget it. I have more important things to do then wonder aimlessly through caves.<end>
+
+=>a26
+Забудьте об этом. У меня есть более важные дела, чем шататься бесцельно по пещерам.<end>
+
+=>q27_original
+Still, if you change your mind, you should make your way there.<end>
+
+=>q27
+Всё-таки, если вы передумаете, найдите дорогу туда.<end>
+
+=>a28_original
+I'm done with Everard's assignment.<end>
+
+=>a28
+Я выполнил$(#/а) задание Эверарда.<end>
+
+=>q29_original
+I've been informed. ::He gives you 400 stygian coins.::<end>
+
+=>q29
+Я был проинформирован. ::Он даёт вам 400 стигийских монет.::<end>
+
+=>q30_original
+There you go. Anything else?<end>
+
+=>q30
+Пожалуйста. Что-нибудь ещё?<end>
+
+=>a31_original
+I'm done with Xander's assignment.<end>
+
+=>a31
+Я выполнил$(#/а) задание Ксандера.<end>
+
+=>q32_original
+Indeed you are. ::He gives you 400 stygian coins.::<end>
+
+=>q32
+Действительно, так. ::Он даёт вам 400 стигийских монет.::<end>
+
+=>a33_original
+I'm done with Pierce's assignment.<end>
+
+=>a33
+Я выполнил$(#/а) задание Пирса.<end>
+
+=>q34_original
+As I hoped. ::He gives you 400 stygian coins.::<end>
+
+=>q34
+Как я и надеялся. ::Он даёт вам 400 стигийских монет.::<end>
+
+=>a35_original
+I'd like to know more about the organization you're working for.<end>
+
+=>a35
+Я хотел$(#/а) бы побольше узнать об организации, на которую вы работаете.<end>
+
+=>q36_original
+Tough. Abram or I would have told you by now more if we thought you should know at this point in time.<end>
+
+=>q36
+Не повезло. Абрам или я уже сказали бы больше, если бы мы считали, что вам надо это знать сейчас.<end>
+
+=>q37_original
+But don't worry, just be patient.<end>
+
+=>q37
+Но не волнуйтесь, просто наберитесь терпения.<end>
+
+=>a38_original
+I need some help with the assignments you gave me.<end>
+
+=>a38
+Мне нужна помощь с вашими заданиями.<end>
+
+=>q39_original
+$(context.player.Name), I can't say much that will help you. It's up to you to figure out what needs to be done and then do it, preferably in an optimal way. Then again, I suppose a word of advice wouldn't hurt.<end>
+
+=>q39
+$(context.player.Name), не могу сказать многого, что помогло бы вам. Это ваша задача -- выяснить, что необходимо сделать, и сделать это -- желательно наиболее оптимальным способом. С другой стороны, я думаю, совет не повредит.<end>
+
+=>q40_original
+And, it's a very simple piece of advice: Keep your eyes and ears open. There are always cracks in the walls for you to get through, little details that reveal big secrets, small mistakes that have big consequences. Take care in everything you do, for a careless mistake might cause unrepairable damage.<end>
+
+=>q40
+И это очень простой совет: держите глаза и уши открытыми. Всегда есть трещины в стенах, через которые можно пролезть; маленькие детали, за которыми прячутся большие секреты; незначительные ошибки, которые имеют большие последствия. Будьте осторожны во всех делах -- небольшой недосмотр может нанести неустранимый ущерб.<end>
+
+=>q41_original
+That's enough of Jack's wisdom for now. ::He smiles.::<end>
+
+=>q41
+Пока хватит с вас мудрости Джека. ::Он улыбается.::<end>
+
+=>a42_original
+Catch you later, Jack.<end>
+
+=>a42
+Ещё увидимся, Джек.<end>
+
+=>q43_original
+Maybe I should order another drink...<end>
+
+=>q43
+Может, мне стоит заказать ещё выпить...<end>
+
+=>q44_original
+Hmm? I'm sorry, I don't have time to chat, I'm waiting for someone.<end>
+
+=>q44
+Хм-м? Извините, у меня нет времени болтать, я кое-кого жду.<end>
+
+=>q45_original
+<end>
+
+=>q45
+<end>
+
+=>q46_original
+$(context.player.Name), I've waited for you for quite some time back there, yet you never showed up. I'm sorry, but I had to move on. I had some business I needed to attend to.<end>
+
+=>q46
+$(context.player.Name), я ждал вас довольно долго в назначенном месте, но вы так и не появились. Простите, но я не мог ждать больше. У меня было важное дело.<end>
+
+=>a47_original
+What was the meaning of all that?<end>
+
+=>a47
+Что всё это значит?<end>
+
+=>q48_original
+I knew I was being watched, so I had to use someone as a decoy while I get the real package out of the station.<end>
+
+=>q48
+Я знал, что за мной следят, так что мне пришлось кого-то использовать в качестве приманки в то время, как я вынесу настоящий пакет со станции.<end>
+
+=>q49_original
+I told you a man was waiting to pay you for the delivery. I never said who the man would be. Well, I've waited, and waited, and waited... ::He hands you some charons.:: In any case, thanks for the help. You earned this.<end>
+
+=>q49
+Я сказал вам, что человек будет ждать и заплатит вам за доставку. Я не сказал, кем будет этот человек. Ну, я ждал, и ждал, и ждал... ::Он протягивает вам горсть харонов.:: В любом случае, спасибо за помощь. Вы заработали это.<end>
+
+=>q50_original
+Since that's out of the way, I'm going to have to excuse myself. I'm waiting for someone important. See you later, $(context.player.Name).<end>
+
+=>q50
+Раз это теперь решено, я буду вынужден отлучиться. Я жду кое-кого важного. Увидимся позже, $(context.player.Name).<end>
+
+=>q51_original
+Now, on to more pressing matters. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q51
+Теперь перейдём к более насущным вопросам. Абрам сообщил мне, что вы помогли ему на Свалке. Сказал мне, что у вас есть потенциал.<end>
+
+=>q52_original
+We will put you to the test, don't worry. Before all that, I'd like to make certain things clear before we proceed.<end>
+
+=>q52
+Мы подвергнем вас испытанию, не волнуйтесь. Но сначала я хотел бы разъяснить некоторые вещи.<end>
+
+=>q53_original
+Abram and I are working for a... certain organization, whose name I can't reveal to you at the moment; the less you know, the better. What you do need to know is that you have shown certain qualities we seek, and if your performance continues to be satisfactory... there just might be more work for you.<end>
+
+=>q53
+Абрам и я работаем... на определённую организацию, чьё название я не могу раскрыть вам в данный момент; чем меньше вы знаете, тем лучше. Что вам нужно знать -- это то, что вы проявили определённые качества, которые мы ищем, и, если ваша производительность останется удовлетворительной... для вас может найтись ещё работа.<end>
+
+=>q54_original
+Everything, and I mean everything, concerning Abram, myself and everyone - I do mean everyone - involved in what we do, stays between us. We require maximum discretion, and, just so you know, we have eyes and ears everywhere.
+
+You get it, don't you?<end>
+
+=>q54
+Всё, абсолютно всё, что касается Абрама, меня и всех -- действительно всех -- кто вовлечён в наши дела, останется между нами. Мы требуем полной тайны, и, чтобы вы знали, у нас есть глаза и уши повсюду.
+
+Вы понимаете, не так ли?<end>
+
+=>q55_original
+I'm getting tired of talking so listen up, I'll be brief: I have three assignments for you at the moment; you can do them in any order you like; do know that two of them will require some traveling. 
+
+First, I want you to go to Foundry and find our cell there. Once you do, you will be asked, "Who goes there?" to which you reply with, "The neophyte." Once you're in, talk to Everard, he'll tell you what needs to be done.<end>
+
+=>q55
+Мне надоело болтать, так что слушайте внимательно, я буду краток: у меня есть для вас три задания на данный момент; вы можете браться за них в любом порядке, как вам нравится; учтите, что два из них потребуют от вас небольшого путешествия. 
+
+Во-первых, я хочу, чтобы вы отправились на Литейную и нашли там нашу ячейку. Там вас спросят: «Кто идёт?», на что вы ответите: «Неофит». Как вас пропустят, поговорите с Эверардом, он скажет вам, что нужно делать.<end>
+
+=>a56_original
+How do I find the cell?<end>
+
+=>a56
+Как я найду ячейку?<end>
+
+=>q57_original
+$(context.player.Name), if I need to tell you such basic things, you might not be cut out for this line of work. Where was I... Ah, yes.<end>
+
+=>q57
+$(context.player.Name), если мне нужно объяснять вам такие элементарные вещи, то вы, возможно, не подходите для этой работы. На чём я остановился... Ах, да.<end>
+
+=>q58_original
+Second, I want you to go to SGS - that's right - and find a man called Lenox Pierce. He is in need of our services, so be polite and represent us well. <end>
+
+=>q58
+Во-вторых, я хочу, чтобы вы отправились на ССГ -- да, да -- и нашли там человека по имени Ленокс Пирс. Он нуждается в наших услугах, поэтому будьте вежливы и представляйте нас в хорошем свете.<end>
+
+=>a59_original
+And what's the third assignment?<end>
+
+=>a59
+И что за третье задание?<end>
+
+=>q60_original
+The third one is here, in Core City. A man called Ohad Xander is waiting for you down at the Core City train station. He also needs some help with a certain... "issue."
+
+Go now, let's not keep people waiting. You will be paid upon assignment completion. If you have any more questions or want to trade, I'll be right here - enjoying my drink.<end>
+
+=>q60
+Третье -- здесь, в Кор-Сити. Человек по имени Охад Ксандер ждёт вас на платформе Кор-Сити. Ему нужна небольшая помощь с определённым... «вопросом».
+
+Теперь идите, не будем заставлять людей ждать. Вы получите деньги по выполнении задания. Если у вас возникли дополнительные вопросы или вы хотите поторговать, я буду прямо здесь, наслаждаться выпивкой.<end>
+
+=>q61_original
+<end>
+
+=>q61
+<end>
+
+=>a62_original
+I got it, what's the second assignment.<end>
+
+=>a62
+Ясно, какое второе задание?<end>
+
+=>a63_original
+You used me as a decoy.<end>
+
+=>a63
+Вы использовали меня как приманку.<end>
+
+=>q64_original
+That I did. Guilty as charged.<end>
+
+=>q64
+Именно это я и сделал. Признаю себя виновным.<end>
+
+=>q65_original
+I told you we'd meet again, $(context.player.Name). You look well enough. Listen, I'd love to chat, but I'm waiting for someone important, I'll catch you later.<end>
+
+=>q65
+Я же говорил, что мы встретимся снова, $(context.player.Name). Вы неплохо выглядите. Слушайте, с удовольствием бы поболтал, но я жду кое-кого важного; встретимся позже.<end>
+
+=>q66_original
+Oh, $(context.player.Name), there's a familiar face. I'd love to chat with you at the moment, but I'm waiting for someone important. I'll catch you later.<end>
+
+=>q66
+О, $(context.player.Name), знакомое лицо. С удовольствием бы поболтал, но я жду кое-кого важного. Встретимся позже.<end>
+
+=>q67_original
+So you are $(context.player.Name). Name's Jack Quicksilver. Abram told me you come from SGS. I was stuck there recently, it's funny how we never met. But, that's not important right now. He also told me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q67
+Так это вы $(context.player.Name). Меня называют Скользкий Джек. Абрам рассказал мне, что вы с ССГ. Было дело, я застрял там недавно; забавно, что мы не пересеклись. Но это неважно. Он также рассказал мне, что вы помогли ему на Свалке. Сказал мне, что у вас есть потенциал.<end>
+
+=>q68_original
+...And here $(#he/she) is. You've talked to Abram, I presume. He informed me earlier you helped him in Junkyard. Told me you have potential.<end>
+
+=>q68
+...А вот и он$(#/а). Вы уже говорили с Абрамом, я полагаю. Он сообщил мне, что вы помогли ему на Свалке. Сказал мне, что у вас есть потенциал.<end>
+
+=>q69_original
+Well, well, if it isn't $(context.player.Name). I told you we would meet again. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q69
+Ну и ну, это ли не $(context.player.Name). Я же говорил, что мы встретимся снова. Абрам сообщил мне, что вы помогли ему на Свалке. Сказал мне, что у вас есть потенциал.<end>
+
+=>q70_original
+Well, well, if it isn't $(context.player.Name). We talked briefly at SGS, yet here we are again. Interesting. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
+
+=>q70
+Ну и ну, это ли не $(context.player.Name). Мы уже коротко пообщались на ССГ, и вот мы снова встретились. Любопытно. Абрам сообщил мне, что вы помогли ему на Свалке. Сказал мне, что у вас есть потенциал.<end>
+
+=>q71_original
+Yeah?<end>
+
+=>q71
+Да?<end>
+
+=>q72_original
+<end>
+
+=>q72
+<end>
+
+=>a73_original
+Let's barter. ::Barter.::<end>
+
+=>a73
+Давайте торговать. ::Обмен.::<end>
+
+=>a74_original
+Where are you from, Jack?<end>
+
+=>a74
+Откуда вы, Джек?<end>
+
+=>q75_original
+I'm not a citizen of any place if that's what you're asking. I travel around a lot, but when I'm not on a train, I spend most of my time in Core City.<end>
+
+=>q75
+Я не гражданин какой-то станции, если вы это имеете в виду. Я много путешествую, но когда я не в дороге, то провожу большую часть времени в Кор-Сити.<end>
+
+=>a76_original
+What brought you here in the first place?<end>
+
+=>a76
+Что вообще привело вас сюда?<end>
+
+=>q77_original
+A lucrative business opportunity. But it slipped past me, unfortunately.<end>
+
+=>q77
+Это была прибыльная деловая возможность. Но она ускользнула от меня, к сожалению.<end>
+
+=>a78_original
+What do you do for living? Are you a trader?<end>
+
+=>a78
+Чем вы зарабатываете на жизнь? Вы торговец?<end>
+
+=>q79_original
+Among other things, yeah. Are you looking to trade?<end>
+
+=>q79
+Помимо прочего, да. Вы хотите торговать?<end>
+
+=>a80_original
+Show me what you got. ::Barter.::<end>
+
+=>a80
+Покажите, что у вас есть. ::Обмен.::<end>
+
+=>a81_original
+Maybe later.<end>
+
+=>a81
+Может быть, позже.<end>
+
+=>q82_original
+I'll be here for a little while longer.<end>
+
+=>q82
+Я останусь здесь ещё на некоторое время.<end>
+
+=>a83_original
+What happened with that business opportunity?<end>
+
+=>a83
+Что случилось с той деловой возможностью?<end>
+
+=>q84_original
+It's a business secret.<end>
+
+=>q84
+Это коммерческая тайна.<end>
+
+=>q85_original
+If you're interested in doing some work, though, that's something I can arrange.<end>
+
+=>q85
+Если вас интересует работа за деньги, я могу это устроить.<end>
+
+=>a86_original
+What kind of work?<end>
+
+=>a86
+Какая работа?<end>
+
+=>q87_original
+Package delivery. I'll pay you in SGS credits. Hundred pieces.
+
+<end>
+
+=>q87
+Доставка посылки. Я заплачу вам кредитами ССГ. Сотня.
+<end>
+
+=>q88_original
+You interested?<end>
+
+=>q88
+Вам интересно?<end>
+
+=>q89_original
+<end>
+
+=>q89
+<end>
+
+=>a90_original
+Yeah. Tell me the details.<end>
+
+=>a90
+Да. Расскажите мне подробности.<end>
+
+=>q91_original
+::He beckons you closer.:: You know where the GMS warehouse block is?<end>
+
+=>q91
+::Он манит вас поближе.:: Вы знаете, где находится складской корпус GMS?<end>
+
+=>a92_original
+Yes.<end>
+
+=>a92
+Да.<end>
+
+=>q93_original
+First go to the barracks at the station platform here in SGS. This key will open one of the footlockers and the package will be inside. ::He hands you the key.::<end>
+
+=>q93
+Сперва идите в казармы на платформе станции здесь, на ССГ. Этим ключом откройте один из ящиков, и внутри найдёте пакет. ::Он вручает вам ключ.::<end>
+
+=>q94_original
+Take the package to the warehouse block, to the building just south of the GMS compound. A man will be waiting for the package there and you'll get your money.<end>
+
+=>q94
+Отнесите пакет к складскому корпусу, в здание чуть южнее GMS. Там вас будет ждать человек -- отдадите ему пакет и получите свои деньги.<end>
+
+=>a95_original
+Alright.<end>
+
+=>a95
+Ладно.<end>
+
+=>q96_original
+We will not speak of this again until the job is done.<end>
+
+=>q96
+Нам не о чем больше говорить, пока работа не будет сделана.<end>
+
+=>a97_original
+Why don't you just take the package yourself?<end>
+
+=>a97
+Почему бы вам просто не отнести этот пакет самому?<end>
+
+=>q98_original
+No questions. <end>
+
+=>q98
+Никаких вопросов.<end>
+
+=>a99_original
+Actually I changed my mind.<end>
+
+=>a99
+Вообще-то, я передумал$(#/а).<end>
+
+=>q100_original
+Too late for that now. <end>
+
+=>q100
+Теперь уже поздно.<end>
+
+=>a101_original
+No.<end>
+
+=>a101
+Нет.<end>
+
+=>q102_original
+Never mind then. Can't risk you getting lost with the package.<end>
+
+=>q102
+Тогда не берите в голову. Не могу рисковать, чтобы вы заблудились с посылкой.<end>
+
+=>a103_original
+Maybe later.<end>
+
+=>a103
+Может быть, позже.<end>
+
+=>a104_original
+What's the pay?<end>
+
+=>a104
+Сколько платите?<end>
+
+=>q105_original
+I'll pay you in SGS credits. Hundred pieces. It's a package delivery job.
+
+<end>
+
+=>q105
+Я заплачу вам кредитами ССГ. Одна сотня. За доставку посылки. 
+<end>
+
+=>a106_original
+Perhaps later.<end>
+
+=>a106
+Возможно, позже.<end>
+
+=>q107_original
+::He nods.::<end>
+
+=>q107
+::Он кивает.::<end>
+
+=>a108_original
+Tell me about that job you mentioned earlier again.<end>
+
+=>a108
+Расскажите мне снова о работе, которую вы упомянули ранее.<end>
+
+=>a109_original
+Catch you later, Jack.<end>
+
+=>a109
+Ещё увидимся, Джек.<end>
+
+=>q110_original
+Or maybe I'll catch you.<end>
+
+=>q110
+Или, может быть, я найду вас.<end>
+
+=>q111_original
+Haven't seen you around here before. You stuck in this hole now as well?<end>
+
+=>q111
+Не видел вас здесь раньше. Тоже застряли в этой дыре?<end>
+
+=>a112_original
+No, actually, I'm new here.<end>
+
+=>a112
+Нет, вообще-то, я здесь новеньк$(#ий/ая).<end>
+
+=>q113_original
+Name's Jack Quicksilver.<end>
+
+=>q113
+Меня называют Скользкий Джек.<end>
+
+=>q114_original
+ Who're you?<end>
+
+=>q114
+А вы кто?<end>
+
+=>a115_original
+My name is $(context.player.Name).<end>
+
+=>a115
+Меня зовут $(context.player.Name).<end>
+
+=>q116_original
+::He just nods in confirmation.::<end>
+
+=>q116
+::Он просто кивает в подтверждение.::<end>
+
+=>a117_original
+Why would I be stuck?<end>
+
+=>a117
+Почему это я застрял$(#/а)?<end>
+
+=>q118_original
+Thought you might be travelling and got trapped here by the earthquake. Forget it.<end>
+
+=>q118
+Думал, что вы были в пути и застряли здесь из-за землетрясения. Забудьте.<end>
+
+=>a119_original
+Who wants to know?<end>
+
+=>a119
+Кто хочет знать?<end>
+
+=>q120_original
+Don't answer a question with a question. It's irritating.<end>
+
+=>q120
+Не отвечайте вопросом на вопрос. Это раздражает.<end>
+

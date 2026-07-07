@@ -1,0 +1,1410 @@
+﻿=>q1_original
+::You noticed a suspicious countenance on Pasquale as you were telling him about the murder. But, when he finally returns, you could immediately tell that what you said turned out to be the truth. His expression of doubt is now one of astonishment as well as regret.::<end>
+
+=>q1
+::Вы заметили на лице Паскуаля сомнение, когда рассказывали ему об убийстве. Но когда он вернулся, вы сразу поняли, что то, что вы сказали, оказалось правдой. Сомнения на его лице сменились на удивление, с дополнительным оттенком сожаления.::<end>
+
+=>q2_original
+You... you were right. There is a puncture wound going through the nose and right into the brain. That was enough to kill him. I would have never guessed it... I failed, if I had only been more thorough...<end>
+
+=>q2
+Вы... вы были правы. Есть колотая рана, проходящая через нос и прямо в мозг. Этого достаточно, чтобы убить. Я бы никогда не догадался... я ошибался, если бы только я был более внимателен...<end>
+
+=>a3_original
+Relax, it's understandable. Thank you for your help.<end>
+
+=>a3
+Расслабьтесь, это можно понять. Спасибо за помощь.<end>
+
+=>q4_original
+Yes... But, tell me who did this? I have to report this.<end>
+
+=>q4
+Да... но, скажите, кто это сделал? Я должен сообщить об этом.<end>
+
+=>a5_original
+I have to investigate this further. Don't say anything to anyone until I have more evidence, or else the murderer might realize we're on his tail.<end>
+
+=>a5
+Мне нужно расследовать это дело дальше. Не говорите никому ничего до тех пор, пока у меня не будет больше доказательств, иначе убийца может понять, что мы у него на хвосте.<end>
+
+=>q6_original
+Alright. I'll keep my mouth shut. This is all insane...<end>
+
+=>q6
+Конечно. Я буду держать рот на замке. Это какое-то безумие...<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Do you have anything to trade? ::Barter.::<end>
+
+=>a8
+У вас есть что-нибудь на обмен? ::Обмен.::<end>
+
+=>a9_original
+Could you take a look at my injuries?<end>
+
+=>a9
+Не могли бы взглянуть на мои раны?<end>
+
+=>q10_original
+Of course, that's why I'm here. We'll have you fixed in no time.<end>
+
+=>q10
+Конечно, именно для этого я здесь. Мы вас исцелим в мгновение ока.<end>
+
+=>a11_original
+::Let him treat your wounds.::<end>
+
+=>a11
+::Позволить ему лечить ваши раны.::<end>
+
+=>a12_original
+Who's the dead $(context.frag_dun_wasteWater_corpseGender) in the operating room?<end>
+
+=>a12
+Что за покойник лежит у вас в операционной?<end>
+
+=>q13_original
+A guard found <end>
+
+=>q13
+Охранник обнаружил<end>
+
+=>q14_original
+him <end>
+
+=>q14
+его<end>
+
+=>q15_original
+dying in Mushroom Cove. <end>
+
+=>q15
+в Грибной бухте, почти при смерти.<end>
+
+=>q16_original
+$(tempcontext.wasteWater_pronoun3Cap) name was <end>
+
+=>q16
+$(tempcontext.wasteWater_pronoun3Cap) звали<end>
+
+=>q17_original
+Joshua Royce. His brother, <end>
+
+=>q17
+Джошуа Ройс. Его брат,<end>
+
+=>q18_original
+Chester Royce, came in recently and collected the body. The two were scavengers; I guess they got separated somehow.<end>
+
+=>q18
+Честер Ройс приходил недавно и забрал тело. Они были мусорщиками и, похоже, как-то потеряли друг друга.<end>
+
+=>q19_original
+<end>
+
+=>q19
+<end>
+
+=>a20_original
+What happened to $(tempcontext.wasteWater_pronoun2)?<end>
+
+=>a20
+Какова причина $(tempcontext.wasteWater_pronoun2) смерти?<end>
+
+=>q21_original
+The body's covered in green growths universally associated with mutagen exposure. <end>
+
+=>q21
+Тело покрыто зелёными наростами, что обусловлено воздействием мутагена.<end>
+
+=>q22_original
+No one knows what exactly transpired, but $(tempcontext.wasteWater_pronoun1) was dead on arrival. <end>
+
+=>q22
+Никто не знает, что именно произошло, но $(tempcontext.wasteWater_pronoun1)... вообщем, к нам привезли уже труп.<end>
+
+=>q23_original
+<end>
+
+=>q23
+<end>
+
+=>a24_original
+Can I see the body?<end>
+
+=>a24
+Могу я взглянуть на тело?<end>
+
+=>q25_original
+What for?<end>
+
+=>q25
+Зачем?<end>
+
+=>a26_original
+::[Doctor]:: I'm a doctor too.<end>
+
+=>a26
+::[Доктор]:: Я тоже врач.<end>
+
+=>q27_original
+Hmm... Sure. Sure. Go ahead.<end>
+
+=>q27
+Хм... Конечно. Конечно. Давай.<end>
+
+=>q28_original
+You know, we could really use another doctor here. We're pretty understaffed considering the size of population of this station.<end>
+
+=>q28
+Вообще-то, нам бы не помешал ещё один врач. У нас довольно мало персонала, учитывая численность населения этой станции.<end>
+
+=>a29_original
+::[Biology]:: I'd like to examine it.<end>
+
+=>a29
+::[Биология]:: Мне бы хотелось осмотреть тело.<end>
+
+=>q30_original
+Well...<end>
+
+=>q30
+Ну...<end>
+
+=>q31_original
+I suppose... I suppose I can allow it. Just don't touch the body, okay?<end>
+
+=>q31
+Я полагаю... Полагаю, я могу это позволить. Только не прикасайся к телу, хорошо?<end>
+
+=>a32_original
+I may know this person.<end>
+
+=>a32
+Я знаю этого человека.<end>
+
+=>a33_original
+I have my reasons.<end>
+
+=>a33
+У меня есть на то причины.<end>
+
+=>a34_original
+Where can I find this Chester Royce?<end>
+
+=>a34
+Где я могу найти этого Честера Ройса?<end>
+
+=>q35_original
+I think he sailed over from Junkyard. You can catch a ferry ride there down at the docks, cave level.<end>
+
+=>q35
+Думаю, он приплыл со Свалки. Вы можете сесть на паром, в доках, в районе пещер.<end>
+
+=>q36_original
+But whether he returned there or not, I don't know. And I didn't ask. The whole encounter... 
+
+He took it hard.<end>
+
+=>q36
+Но вернулся он туда или нет, я не знаю. И не спрашивал. Вся эта встреча... 
+
+Он тяжело это воспринял.<end>
+
+=>a37_original
+Can I talk to this guard who found $(tempcontext.wasteWater_pronoun2)?<end>
+
+=>a37
+Могу я поговорить с этим охранником, который обнаружил $(tempcontext.wasteWater_pronoun2)?<end>
+
+=>q38_original
+I don't know which of the guards brought $(tempcontext.wasteWater_pronoun2) in. Malcom, the security officer can help you with that. <end>
+
+=>q38
+Не знаю, кто из охранников доставил $(tempcontext.wasteWater_pronoun2) сюда. Мальком, офицер службы безопасности, должен знать.<end>
+
+=>q39_original
+He's at the cave exit, on the lowest level of the station.<end>
+
+=>q39
+Он у выхода из пещеры, на самом нижнем уровне станции.<end>
+
+=>a40_original
+You said you found very few items on the body. Was there a ring among those?<end>
+
+=>a40
+Вы сказали, что в вещах почти ничего не было. А было ли среди них кольцо?<end>
+
+=>q41_original
+::He pauses to think.:: Not as far as I can remember. There was a... uh... a few coins, an omnitool... <end>
+
+=>q41
+::Он делает паузу, чтобы подумать.:: Насколько я помню, нет. Там было... гмм... пара монет, универсальный инструмент...<end>
+
+=>q42_original
+No. No ring.<end>
+
+=>q42
+Нет. Кольца нет.<end>
+
+=>a43_original
+Is there a sewer entrance nearby?<end>
+
+=>a43
+Там поблизости есть вход в канализацию?<end>
+
+=>q44_original
+Let me think...
+
+The only sewage system I'm aware of is the one belonging to SGS, and it all goes out into the Chancer's Bay.<end>
+
+=>q44
+Дай-ка подумать...
+
+Единственная канализационная система, о которой я знаю, принадлежит ССГ, и всё сливается в залив Аферистов.<end>
+
+=>q45_original
+But the truth is that there are plenty of old Biocorp buildings and facilities around, some ruined - some merely buried under tons of rock, waiting for a determined spelunker or a powerful earthquake to reveal them, so it's impossible to tell what's nearby.<end>
+
+=>q45
+Но правда в том, что здесь полно старых зданий и сооружений Биокорп, некоторые разрушены, некоторые просто погребены под тоннами камней, дожидаясь, когда целеустремлённый спелеолог или мощное землетрясение их откроет, поэтому невозможно сказать, что находится поблизости.<end>
+
+=>a46_original
+I'd like to talk about something else.<end>
+
+=>a46
+Неважно, давайте поговорим о чём-нибудь другом.<end>
+
+=>q47_original
+I'm listening.<end>
+
+=>q47
+Я слушаю.<end>
+
+=>q48_original
+Third-degree burns all over the body. <end>
+
+=>q48
+Ожоги третьей степени по всему телу.<end>
+
+=>q49_original
+Numerous gunshot wounds. <end>
+
+=>q49
+Многочисленные огнестрельные ранения.<end>
+
+=>q50_original
+Electrocution. <end>
+
+=>q50
+Поражение электрическим током.<end>
+
+=>q51_original
+Attacked by animals. The body's covered in numerous bite marks, and large chunks of flesh have been bitten off. <end>
+
+=>q51
+Нападение хищников. Тело покрыто многочисленными следами укусов, и большие куски плоти были откушены.<end>
+
+=>q52_original
+Came in with patches of hair ripped off and severely traumatized. <end>
+
+=>q52
+Тело поступило с вырванными клочками волос и сильно травмированным.<end>
+
+=>q53_original
+Jennifer Royce. Her brother, <end>
+
+=>q53
+Дженнифер Ройс. Её брат,<end>
+
+=>q54_original
+Identity is still unknown. Probably some scavenger, but $(tempcontext.wasteWater_pronoun1) had very few items on $(tempcontext.wasteWater_pronoun2) when $(tempcontext.wasteWater_pronoun1) was found.<end>
+
+=>q54
+Личность пока не установлена, $(tempcontext.wasteWater_pronoun1), скорее всего, какой-то мусорщик, и когда $(tempcontext.wasteWater_pronoun2) нашли, в $(tempcontext.wasteWater_pronoun2) вещах почти ничего не было.<end>
+
+=>q55_original
+her <end>
+
+=>q55
+её<end>
+
+=>a56_original
+Who's the dead $(context.frag_dun_wasteWater_corpseGender) that was in the operating room?<end>
+
+=>a56
+Что за покойник лежал у вас в операционной?<end>
+
+=>a57_original
+I heard there's a dead $(context.frag_dun_wasteWater_corpseGender) in the operating room.<end>
+
+=>a57
+Говорят, что у вас в операционной лежит покойник.<end>
+
+=>a58_original
+About the Mushroom Cove scavenger...<end>
+
+=>a58
+Насчёт мусорщика из Грибной бухты...<end>
+
+=>q59_original
+We've established the identity of that dead scavenger: <end>
+
+=>q59
+Мы установили личность того мёртвого мусорщика:<end>
+
+=>q60_original
+<end>
+
+=>q60
+<end>
+
+=>q61_original
+<end>
+
+=>q61
+<end>
+
+=>q62_original
+Yes?<end>
+
+=>q62
+Да?<end>
+
+=>q63_original
+<end>
+
+=>q63
+<end>
+
+=>q64_original
+<end>
+
+=>q64
+<end>
+
+=>a65_original
+What do you know about Patrick Pierce's death?<end>
+
+=>a65
+Что вы знаете о смерти Патрика Пирса?<end>
+
+=>q66_original
+Here we go again. Look, I've checked the body and did various tests. I don't know what killed him. The problem with people here is that they think being a doctor means you know everything related to medicine. I am not a forensic pathologist - we don't have one here, unfortunately. <end>
+
+=>q66
+Опять это. Послушайте, я осмотрел тело и провёл различные тесты. Я не знаю, что его убило. Проблема с людьми здесь заключается в том, что они думают, что быть врачом означает знать всё, что касается медицины. Я не патологоанатом, у нас его нет, к сожалению.<end>
+
+=>q67_original
+So, I can only do my best to check the body and move on to treating the living. So, unless you have some specific information about his death, we can't really discuss it any further.<end>
+
+=>q67
+Поэтому я могу только приложить все усилия, чтобы осмотреть тело и продолжать дальше лечить живых. Так что, если только у вас нет конкретной информации касательно его смерти, нам действительно нечего обсуждать.<end>
+
+=>a68_original
+Forensic pathologist?<end>
+
+=>a68
+Патологоанатом?<end>
+
+=>q69_original
+Forensic pathologists examine a dead body and determine the cause of death. It's... not the most wanted profession in the world of today. We, the few doctors here in SGS, aren't really specialized in that sort of things, so we do the best we can...<end>
+
+=>q69
+Патологоанатом осматривает тело и устанавливает причину смерти. Это... не самая востребованная профессия в современном мире. Мы, несколько врачей здесь в ССГ, на самом деле не специализируемся в такого рода вещах, поэтому мы делаем всё, что можем...<end>
+
+=>a70_original
+What if his death was a well planned murder?<end>
+
+=>a70
+Что если его смерть была хорошо спланированным убийством?<end>
+
+=>q71_original
+Well, I found no traces of toxins or any other deadly substances in his blood. He doesn't have any wounds, internal or external on his body, and I checked it twice. A violent death is highly unlikely...<end>
+
+=>q71
+Ну, я не нашёл следов токсинов или других смертельно опасных веществ в его крови. У него нет никаких повреждений на теле, ни внутренних ни внешних, я проверил это дважды. Насильственная смерть маловероятна...<end>
+
+=>a72_original
+I know how Patrick Pierce died.<end>
+
+=>a72
+Я знаю, как умер Патрик Пирс.<end>
+
+=>q73_original
+And how would you know that?<end>
+
+=>q73
+И откуда вы это знаете?<end>
+
+=>a74_original
+I did some investigating and believe Patrick was murdered.<end>
+
+=>a74
+Я пров$(#ёл/ела) небольшое расследование, и считаю, что Патрик был убит.<end>
+
+=>q75_original
+::Pasquale's face turns serious.:: Murder? But... But how is that possible? Wait, first, tell me how was Patrick "murdered"?<end>
+
+=>q75
+::Лицо Паскуаля становится серьёзным.:: Убит? Но... но как это возможно? Подождите, сначала расскажите мне, как именно Патрик был «убит»?<end>
+
+=>a76_original
+A long, sharp object was used to stab him through the nose and into his brain.<end>
+
+=>a76
+Его закололи длинным острым предметом, удар был нанесён через нос в мозг.<end>
+
+=>q77_original
+::Pasquale remains speechless.::<end>
+
+=>q77
+::Паскуаль молчит.::<end>
+
+=>a78_original
+Can you check the body now that you know the cause?<end>
+
+=>a78
+Вы можете осмотреть тело вновь, теперь зная причину?<end>
+
+=>q79_original
+Yes, yes. I will, at once. You wait here while I quickly examine the body.<end>
+
+=>q79
+Да, да. Незамедлительно. Вы подождите здесь, а я быстро осмотрю тело.<end>
+
+=>a80_original
+::Wait.::<end>
+
+=>a80
+::Ждать.::<end>
+
+=>a81_original
+That's not important. What is important is that Patrick was murdered.<end>
+
+=>a81
+Это неважно. Важно то, что Патрик был убит.<end>
+
+=>a82_original
+I'd like to have a certain substance tested.<end>
+
+=>a82
+Я хотел$(#/а) бы, чтобы вы проверили одно вещество.<end>
+
+=>q83_original
+Sure, I can do that. Please, tell me what's this all about.<end>
+
+=>q83
+Конечно, я могу это сделать. Пожалуйста, скажите мне, в чём дело.<end>
+
+=>a84_original
+I have a reason to believe this combat drug, called Hercules, has negative effects on the human body. I need to have it tested to be sure.<end>
+
+=>a84
+У меня есть основания считать, что этот боевой стимулятор, называемый «Геракл», оказывает негативное воздействие на человеческий организм. Мне нужно его проверить, чтобы быть уверенн$(#ым/ой).<end>
+
+=>q85_original
+Combat drugs? That doesn't sound good. From my experience, administration of such substances is very likely to cause some health problems. But, let's do the testing first and see what we're dealing with. Please wait for me to run some tests. It won't take too long.<end>
+
+=>q85
+Боевой стимулятор? Звучит не очень хорошо. Исходя из моего опыта, могу сказать, что применение подобных веществ зачастую может вызвать проблемы со здоровьем. Но давайте сперва проведём исследования и узнаем с чем имеем дело. Потерпите, пока я проведу несколько тестов. Это не займёт много времени.<end>
+
+=>q86_original
+::Pasquale leaves the office. While you wait, you pass your time by walking around, by playing with the pen he left on his desk and by looking at the cracks in the ceiling. He returns shortly, as he said he would. At that moment, you somehow forgot where you put that pen you took from the desk. Oh well...::<end>
+
+=>q86
+::Паскуаль покидает кабинет. В ожидании, вы коротаете время, прохаживаясь по кабинету, играя с ручкой, оставленной на столе, и рассматривая трещины в потолке. Вскоре он возвращается, как и обещал. К этому моменту, вы как-то забыли, куда положили ручку, что взяли со стола. Ну да ладно...::<end>
+
+=>q87_original
+This is incredible. You were right about this drug, but calling its effects "negative" is a huge understatement.<end>
+
+=>q87
+Это невероятно. Вы были правы насчёт этого препарата, но называть его последствия «негативными» -- это сильное преуменьшение.<end>
+
+=>a88_original
+Tell me what you discovered.<end>
+
+=>a88
+Расскажите, что вы обнаружили.<end>
+
+=>q89_original
+This substance, "Hercules" as you call it, is in essence a mix of different synthetic hormones that act upon various organs and tissues in the body, considerably improving their performance, but only for a short period of time. This "bombardment" of hormones pushes the body beyond its limit and will cause horrible consequences, perhaps even death, within a relatively short time period, depending on the user.<end>
+
+=>q89
+Это вещество, «Геракл», как вы его называете, по сути смесь разных синтетических гормонов, которые воздействуют на различные органы и ткани в организме, значительно повышая их производительность, но только в течение короткого периода времени. Такая «бомбардировка» гормонами толкает тело за пределы его возможностей и может привести к ужасным последствиям, возможно даже смерти, через относительно короткий период времени, в зависимости от человека.<end>
+
+=>q90_original
+Metabolite saturation in muscles will eventually cause painful cramps, increased heart rate and blood pressure will cause headaches and possibly lead to cardiac arrest, there is also the loss of concentration... Look, that's only the tip of it, there are also unhealthy amounts of heavy metals in the substance, I dare not to think where and how this is made.
+
+How did you come across this atrocity?<end>
+
+=>q90
+Насыщение метаболитом в мышцах в конечном итоге вызовет болезненные судороги; учащение пульса и повышение кровяного давления станут причиной головных болей и могут привести к остановке сердца; а ещё потеря концентрации... Послушайте, это только верхушка айсберга, тут также вредное для здоровья количество тяжёлых металлов, и я не смею даже думать, где и как это было изготовлено.
+
+Где вы нашли эту гадость?<end>
+
+=>a91_original
+Some guy is selling it in Core City.<end>
+
+=>a91
+Какой-то парень продаёт это в Кор-Сити.<end>
+
+=>q92_original
+Oh... Oh!<end>
+
+=>q92
+Ох... Ох!<end>
+
+=>a93_original
+I need to expose him. And to do that, I need some evidence. May I have the test results?<end>
+
+=>a93
+Мне нужно его разоблачить. И чтобы сделать это, мне нужны доказательства. Могу ли я получить результаты тестов?<end>
+
+=>q94_original
+But of course! Here you go $(context.player.Name). Everything's here. ::He hands you a flash drive.::<end>
+
+=>q94
+Ну конечно! Вот, держите, $(context.player.Name). Всё здесь. ::Он протягивает вам флеш-накопитель.::<end>
+
+=>q95_original
+<end>
+
+=>q95
+<end>
+
+=>a96_original
+Thank you Pasquale. See you around.<end>
+
+=>a96
+Спасибо, Паскуаль. Увидимся.<end>
+
+=>a97_original
+Gotta run, thanks man!<end>
+
+=>a97
+Пора бежать, спасибо, мужик!<end>
+
+=>a98_original
+Just give me the test results. There is no time to lose.<end>
+
+=>a98
+Просто дайте мне результаты тестов. Нельзя терять времени.<end>
+
+=>q99_original
+Okay, no problem. I hope you know what you're doing. Everything's here. ::He hands you a flash drive.::<end>
+
+=>q99
+Хорошо, это не проблема. Я надеюсь, что вы знаете, что делаете. Всё здесь. ::Он вручает вам флеш-накопитель.::<end>
+
+=>a100_original
+That's not important. I just need the test results, if possible.<end>
+
+=>a100
+Это неважно. Мне просто нужны результаты тестов, если это возможно.<end>
+
+=>a101_original
+::Let him continue.::<end>
+
+=>a101
+::Позволить ему продолжить.::<end>
+
+=>a102_original
+Let's talk about my psionic potential again.<end>
+
+=>a102
+Давайте снова поговорим о моём пси-потенциале.<end>
+
+=>q103_original
+Alright. What would you like to know?<end>
+
+=>q103
+Ладно. Что вы хотели узнать?<end>
+
+=>q104_original
+<end>
+
+=>q104
+<end>
+
+=>a105_original
+How did this genetic trait come to be?<end>
+
+=>a105
+Как появился этот генетический признак?<end>
+
+=>q106_original
+No one is really sure. Research indicates that it's a relatively recent genetic mutation, but it sure could not have been a random one. So many things about it are just too complex and convenient to be anything but artificially designed.<end>
+
+=>q106
+Никто толком не знает. Исследования показывают, что это относительно недавняя генетическая мутация, но очевидно, что она не могла быть случайной. Столько вещей, связанных с этим, слишком сложны и удобны, чтобы не быть искусственно разработанными.<end>
+
+=>q107_original
+There are problems with this hypothesis, though: Former Biocorp's head of genetic research, Dr. Hal Roche, outlined these problems best in his thesis. I won't bore you with details, but the essence of the problem is that, with the technology that we currently have at our disposal, creating, testing and integrating genetic structures of such complexity is simply not possible without a colossal amount of trial and error work.<end>
+
+=>q107
+Однако есть проблемы в этой гипотезе. Бывший глава генетических исследований Биокорп, Хал Роше, превосходно изложил эти проблемы в своей диссертации. Я не буду утомлять вас подробностями, но суть проблемы заключается в том, что с технологиями, которыми мы сейчас располагаем, создание, тестирование и интеграция таких сложных генетических структур просто невозможны без колоссального количества проб и ошибок.<end>
+
+=>q108_original
+So much trial and error work, Roche argued, that even if you combined all the genetic processors in the world in his time and let them work on the subject for the entire time of their existence, they would still be extremely unlikely to produce these results.<end>
+
+=>q108
+Таких многих проб и ошибок, утверждает Роше, что даже если бы мы совместили все генетические процессоры, имевшиеся в мире в его время, и позволили бы им работать над этим вопросом в течение всего времени их существования, всё равно крайне маловероятно, что они добились бы таких результатов.<end>
+
+=>q109_original
+Furthermore, Roche points out that the structures of the brain where innervation that allows psionic activity takes place were never studied in such depth. Even though we know plenty about how the brain as a whole works, there is a large gap between the top-down research - performed by psychologists and neurologists - and bottom-up research - done by neuroscientists studying neurons and receptors. 
+
+Inside this gap lie psionics, but due to the brain's nature and complexity, those who wish to study it need to start from either of these directions and slowly approach the middle.<end>
+
+=>q109
+Кроме того, Роше отмечает, что структуры головного мозга, в которых происходит иннервация, позволяющая осуществлять псионическую активность никогда не изучались так глубоко. Несмотря на то, что мы много знаем о том, как работает мозг в целом, существует большой разрыв между познаниями в исследованиях, выполняемыми психологами и неврологами, и подробных исследованиях, выполняемыми нейробиологами, изучающими нейроны и рецепторы.
+
+Внутри этого промежутка лежит суть псионики, но из-за природы и сложности мозга те, кто хочет изучить её, должны начать с любого из этих направлений и медленно приближаться к заветной середине.<end>
+
+=>q110_original
+So you see, it's a bit of a mystery. We know much more about how to make it work than how it actually works.<end>
+
+=>q110
+Так что, как видите, это в некотором роде загадка. Мы знаем гораздо больше о том, как заставить это работать, чем как оно на самом деле работает.<end>
+
+=>a111_original
+Interesting.<end>
+
+=>a111
+Интересно.<end>
+
+=>q112_original
+Indeed it is. Is there something else you wanted to know?<end>
+
+=>q112
+Действительно. Итак, есть ли что-то ещё, что вы хотели узнать?<end>
+
+=>a113_original
+Enough already. You could have just said you didn't know.<end>
+
+=>a113
+Хватит уже. Вы могли просто сказать, что не знаете.<end>
+
+=>q114_original
+::He chuckles.:: Sorry if I rambled. I'm just fascinated by the subject. Anyway, is there something else you wanted to know?<end>
+
+=>q114
+::Он смеётся.:: Извините, если я много говорю. Я просто очарован этой темой. Итак, есть ли что-то ещё, что вы хотели узнать?<end>
+
+=>a115_original
+So how do I realize this potential?<end>
+
+=>a115
+И как же мне реализовать этот потенциал?<end>
+
+=>q116_original
+You must first disable your psionic inhibitor. It's a neural structure in your brain that prevents you from *innervating* - or accessing - your psionic projection centers. We assume it was designed to prevent the infants from unwittingly harming themselves or those around them.<end>
+
+=>q116
+Сначала вы должны отключить свой пси-ингибитор. Это нейронная структура в мозге, которая блокирует *иннервацию* - доступ к вашим центрам псионической проекции. Мы предполагаем, что его назначение в том, чтобы уберечь младенцев от невольного причинения вреда себе или окружающим.<end>
+
+=>q117_original
+There are ways to perform this innervation by deep, extended meditation, but this can take years and years. We have more efficient methods nowadays.<end>
+
+=>q117
+Выполнения этой иннервации можно достичь с помощью длительных медитаций, но это может занять годы и годы. Сегодня у нас есть более эффективные методы.<end>
+
+=>q118_original
+::He reaches into his pocket, then opens his hand before you: You see a large red pill.:: It'll take care of the inhibitor right away, but there is one side effect I am obliged to mention: The majority of users experience immediate and significant weakening of their immune system, and when I say majority, I mean everyone. To put it bluntly - it will severely affect your health.
+
+Therefore, the choice is yours.<end>
+
+=>q118
+::Он засовывает руку в карман, затем вынимает и раскрыв ладонь демонстрирует вам большую красную пилюлю.:: Эта пилюля быстро позаботится об ингибиторе, но есть один побочный эффект, о котором я считаю своим долгом упомянуть: большинство пациентов испытывают немедленное и значительное ослабление своей иммунной системы, и когда я говорю большинство, я имею в виду всех. Говоря откровенно, это очень негативно скажется на вашем здоровье.<end>
+
+=>q119_original
+<end>
+
+=>q119
+<end>
+
+=>a120_original
+Is the process dangerous? Painful?<end>
+
+=>a120
+Является ли эта процедура болезненной или опасной?<end>
+
+=>q121_original
+No, no, not at all... Well, maybe a bit dangerous for some, but it doesn't hurt at all... much. You might get a bit woozy but that's it.<end>
+
+=>q121
+Нет, нет, вовсе нет... ну, может быть, немного опасной для некоторых, но это совсем не больно... не сильно. Вы можете испытать небольшую слабость, но и только.<end>
+
+=>a122_original
+Do I need to prepare somehow?<end>
+
+=>a122
+Нужно ли мне как-то подготовиться?<end>
+
+=>q123_original
+No, just go ahead and swallow it.<end>
+
+=>q123
+Нет, просто проглотите препарат.<end>
+
+=>a124_original
+::Take the pill and swallow it.::<end>
+
+=>a124
+::Взять пилюлю и проглотить её.::<end>
+
+=>q125_original
+::You force the oversized pill down, and for a while nothing happens.::<end>
+
+=>q125
+::Вы с трудом проглатываете большую пилюлю, и некоторое время ничего не происходит...::<end>
+
+=>a126_original
+I don't think it's working...<end>
+
+=>a126
+Кажется, это не работает...<end>
+
+=>a127_original
+Forget it, doc, I'm doing it the old fashioned way.<end>
+
+=>a127
+Забудьте, док, я сделаю это по старинке.<end>
+
+=>q128_original
+::He sighs.:: It's your time to waste. I can't help you with that though. I'm a doctor, not a monk.<end>
+
+=>q128
+::Он вздыхает.:: Вы сам$(#/а) хозя$(#ин/йка) вашему времени. Но здесь я не могу помочь вам. Я врач, не монах.<end>
+
+=>q129_original
+Come to me if you change your mind.<end>
+
+=>q129
+Приходите, если передумаете.<end>
+
+=>q130_original
+<end>
+
+=>q130
+<end>
+
+=>a131_original
+Understood, doc.<end>
+
+=>a131
+Понятно, док.<end>
+
+=>a132_original
+::Nod and leave.::<end>
+
+=>a132
+::Кивнуть и уйти.::<end>
+
+=>a133_original
+I want to ask you something.<end>
+
+=>a133
+Я хотел$(#/а) спросить ещё кое о чём.<end>
+
+=>q134_original
+Go ahead.<end>
+
+=>q134
+Говорите.<end>
+
+=>a135_original
+I need to think about this. In the meantime, I had other questions.<end>
+
+=>a135
+Мне нужно об этом подумать. А пока у меня есть другие вопросы.<end>
+
+=>a136_original
+All this sounds disturbing. I don't want any psionic mumbo-jumbo going on in my head.<end>
+
+=>a136
+Всё это звучит тревожно. Я не хочу никаких псионических мумбо-юмбо в моей голове.<end>
+
+=>q137_original
+As you wish. If you change your mind, let me know.<end>
+
+=>q137
+Как пожелаете. Если передумаете, дайте мне знать.<end>
+
+=>a138_original
+Never mind, let's talk about something else.<end>
+
+=>a138
+Неважно, давайте поговорим о чём-нибудь другом.<end>
+
+=>a139_original
+Who are the psionic teachers in this station again?<end>
+
+=>a139
+Повторите, какие учители псионики есть на станции?<end>
+
+=>q140_original
+Quinton is well versed in Metathermics, which is the area of psionic development that deals with instigating rapid temperature changes and chemical reactions. He used to be one of Biocorp's researchers working on new applications of psionics.
+
+You'll find him on the agronomy level.<end>
+
+=>q140
+Куинтон хорошо разбирается в метатермике, это область псионики, которая специализируется на быстром изменении температуры и химических реакциях. Он был одним из исследователей Биокорп, работавших над новыми применениями псионики.
+
+Вы найдёте его на агрономическом уровне.<end>
+
+=>q141_original
+Bisson is our martial arts expert. He can teach you psychokinetics and how to effectively use it in unarmed combat if that's something you're interested in.
+
+He's usually in the gymnasium across the hall<end>
+
+=>q141
+Биссон - наш эксперт по боевым искусствам. Он может научить вас психокинетике и её эффективному применению в рукопашном бою, если вас это интересует.
+
+Обычно он в спортзале напротив<end>
+
+=>q142_original
+.<end>
+
+=>q142
+.<end>
+
+=>q143_original
+Thought control discipline is considered by many to be nefarious and it's also the hardest to get really good at. I'm not sure who here can teach you it. 
+
+I heard rumors that Ezra, the chief of engineering, is actually a powerful mind controller, but I don't know if that's true. Most people here, including me, know nothing about Ezra so it might just be that some of them are making this stuff up.<end>
+
+=>q143
+Управление разумом -- дисциплина, по мнению многих, зловредная, а также очень трудная в изучении. Я не уверен, кто здесь может научить этому. 
+
+Я слышал слухи о том, что Эзра, начальник инженерной лаборатории, на самом деле умеет управлять разумом, но я не знаю, правда ли это. Большинство людей здесь, включая меня, ничего не знают об Эзре, поэтому всё это может быть выдумками.<end>
+
+=>q144_original
+And then there is Temporal Manipulation, which purportedly allows one to control time itself. I've never seen it in action. It's a discipline few practice. However, I've heard that a man that goes by the name of... what was it... Ethan L-- Lanford, yes, Ethan Lanford; I've heard that he is a practitioner of the discipline. He's not from around here, but he does visit SGS from time to time. <end>
+
+=>q144
+А ещё есть Управление временем, которое позволяет сознательно управлять самим временем. Я никогда не видел его в действии, однако я слышал о человеке по имени... как его... Итан Л... Лэнфорд... да, Итан Лэнфорд. Я слышал, что он практикует эту дисциплину. Он не местный, но иногда навещает ССГ.<end>
+
+=>q145_original
+In fact, he was in the bar up until the metro got cleared, then he left.<end>
+
+=>q145
+Вообще-то, он был тут в баре, пока метро не расчистили, а потом уехал.<end>
+
+=>q146_original
+I'm sure Arlene knows more about him. Ask her if you're interested.<end>
+
+=>q146
+Не сомневаюсь, что Арлин знает его. Спросите её, если вам интересно.<end>
+
+=>q147_original
+That's all of them as far as I know.<end>
+
+=>q147
+Это все, кого я знаю.<end>
+
+=>q148_original
+Anyway, I have to get back to work now. Do you have any more questions?<end>
+
+=>q148
+В любом случае, мне нужно возвращаться к работе. У вас есть ещё вопросы?<end>
+
+=>q149_original
+<end>
+
+=>q149
+<end>
+
+=>a150_original
+Where can I get more psi boosters and inhalants?<end>
+
+=>a150
+Где мне взять ещё пси-усилителей и ингалянтов?<end>
+
+=>q151_original
+Most doctor's offices should have them in supply, mine included. I can sell you some if you'd like.<end>
+
+=>q151
+Вы можете их купить почти в любом медицинском учреждении, в том числе и здесь. Я могу вам продать их, если пожелаете.<end>
+
+=>a152_original
+::[Persuade]:: Only a pair of boosters?<end>
+
+=>a152
+::[Убеждение]:: Всего два пси-усилителя?<end>
+
+=>q153_original
+Uh, what do you mean by "only" a pair? That's quite sufficient to get you started.<end>
+
+=>q153
+Ух, что значит «всего два»? Двух вам вполне хватит для начала.<end>
+
+=>a154_original
+I've got a lot of dangerous work ahead of me, doc, and considering I've yet to become an experienced psionic, I'd rather not find myself short on brain juice when I need it the most.<end>
+
+=>a154
+Меня ждёт много работы -- опасной работы, док, а учитывая, что мне ещё только предстоит стать опытным псиоником, лучше бы мне не оказаться без сока для мозга в ситуации, когда он мне очень понадобится.<end>
+
+=>q155_original
+<end>
+
+=>q155
+<end>
+
+=>q156_original
+Very well. I'll give you one... two more. ::He hands you two more psi boosters.:: But that's all you're getting for free. <end>
+
+=>q156
+Что ж, хорошо. Я дам вам ещё один... ещё два. ::Он даёт вам ещё два пси-усилителя.:: Но это всё, что я могу дать вам бесплатно.<end>
+
+=>q157_original
+These things don't just grow out of the ground, you know.<end>
+
+=>q157
+Все эти вещи не растут просто так на земле, знаете ли.<end>
+
+=>q158_original
+Just use them wisely and you should be alright. Or you could simply purchase more. They're cheap, but not cheap enough for me to be giving them away just like that.<end>
+
+=>q158
+Используйте их с умом, и всё будет в порядке. Или просто купите ещё. Они дёшевы, но не настолько, чтобы раздавать их бесплатно.<end>
+
+=>a159_original
+Well, since apparently I'm not all that gifted and will need a lot of training, I was sort of expecting some extra motivation. Besides, dangerous work awaits me after I'm done here with you.<end>
+
+=>a159
+Ну, поскольку я не так$(#ой уж одарённый/ая уж одарённая), и мне придётся много тренироваться, мне бы, так сказать, пригодилась дополнительная мотивация. Кроме того, после того, как я от вас уйду, меня ждёт опасная работа.<end>
+
+=>q160_original
+<end>
+
+=>q160
+<end>
+
+=>a161_original
+So how do I start learning psionic abilities?<end>
+
+=>a161
+Как я могу начать обучение псионическим способностям?<end>
+
+=>q162_original
+You'll have to talk to those already adept at it and see if they'll teach you. We have two very good specialists in our station.<end>
+
+=>q162
+Вам придётся поговорить с теми, кто уже искусен в этом, и попросить их научить вас. У нас есть два очень хороших специалиста на станции.<end>
+
+=>a163_original
+You keep mentioning the word "innervation." What does it mean exactly?<end>
+
+=>a163
+Вы продолжаете упоминать слово "иннервация". Что именно оно означает?<end>
+
+=>q164_original
+The word itself can mean several things: to supply with nerves, to stimulate, or to provide nerves with energy. In the context of psionics, in order for psionic invocation to take place, the brain's neural circuit needs to be suited for that specific invocation, fine-tuned even if maximum efficacy is desired. 
+
+Innervation is, thus, the training of the nervous system through stimulation of neural pathways - and focus. It is a taxing but necessary process for anybody who wishes to learn or relearn psionic abilities. Also, certain individuals naturally exhibit increased neurogenesis - creation of new neurons, giving them greater neural capacity, while those with strong dedication can also work to improve themselves in this regard.<end>
+
+=>q164
+Само слово несёт несколько значений: снабжение тканей нервами, стимуляция нервов или обеспечение их энергией. В контексте псионики, чтобы сама псионическая манипуляция стала возможной, нейронная цепь мозга должна приспособиться к этой конкретной манипуляции, тонко на неё настроиться, если требуется максимальная эффективность.
+
+Таким образом, иннервация - это тренировка нервной системы посредством стимуляции нейронных путей и сосредоточенности. Это трудоёмкий, но неизбежный процесс для любого, кто желает изучить или переучить псионические способности. Кроме того, отдельные люди от природы демонстрируют повышенную способность к нейрогенезу - созданию новых нейронов, что дарует им больший нейронный потенциал, но и человек с сильной волей способен продвинуться в этом отношении.<end>
+
+=>q165_original
+One other thing I have to mention is that, just like sprinting and long-tunnel running require different training regimes and body types, so does the neural circuit require different neural infrastructures for different psionic disciplines. Optimizing for one set of abilities will deoptimize for the other, so majority of psionics, especially less experienced ones, stay away from multidisciplinarity due to the increased strain it puts on their mind - and sometimes sanity.<end>
+
+=>q165
+Я должен упомянуть ещё один нюанс: точно так же, как для спринта и марафона через длинный туннель нужны различные тренировочные программы и типы телосложения, для разных пси-дисциплин нужны различные нейронные связи в псионических цепях. Адаптация к одному набору способностей приведёт к снижению эффективности другого, поэтому большинство псиоников, особенно неискушённых, избегают мультидисциплинарности из-за повышенной нагрузки, которую она оказывает на разум - а порой и на рассудок.<end>
+
+=>q166_original
+Hopefully that answers your question.<end>
+
+=>q166
+Надеюсь, что ответил на ваш вопрос.<end>
+
+=>a167_original
+I'd like to purchase some psi boosters. ::Barter.::<end>
+
+=>a167
+Я хотел$(#/а) бы купить ещё пси-усилителей. ::Обмен.::<end>
+
+=>a168_original
+Got it. Now, there was something else I wanted to talk to you about...<end>
+
+=>a168
+Ясно. Я хотел$(#/а) ещё кое о чём поговорить с вами.<end>
+
+=>a169_original
+I'll keep that in mind, but I have other business to attend to right now. Catch you some other time.<end>
+
+=>a169
+Я буду иметь это в виду, но сейчас у меня есть другие дела. Навещу вас в другой раз.<end>
+
+=>q170_original
+In fact, I just saw him in the bar moments ago. <end>
+
+=>q170
+Вообще-то, я видел его в баре не так давно.<end>
+
+=>q171_original
+, but I think he's helping with clearing up the tunnels right now, so you'll likely find him at the station platform.<end>
+
+=>q171
+, но я думаю, что сейчас он помогает с расчисткой туннелей, так что, скорее всего, вы найдёте его на платформе станции.<end>
+
+=>a172_original
+Tell me more about innervation.<end>
+
+=>a172
+Расскажите подробнее об иннервации.<end>
+
+=>a173_original
+How's Newton doing?<end>
+
+=>a173
+Как поживает Ньютон?<end>
+
+=>q174_original
+He'll be all right. He wasn't seriously wounded, it'll heal quickly. But, he's been under a lot of stress, so we'll keep him here for a while. Give him a chance to get some rest. Poor kid. <end>
+
+=>q174
+С ним всё будет в порядке. Он не был серьёзно ранен и быстро поправится. Но он испытал сильный стресс, так что мы подержим его здесь некоторое время. Пусть немного отдохнёт. Бедный парнишка.<end>
+
+=>q175_original
+All in all, he'll be fine. Is there anything else you wanted to ask me?<end>
+
+=>q175
+В целом, с ним всё будет в порядке. Вы хотели узнать ещё что-нибудь?<end>
+
+=>a176_original
+How's Lora holding up?<end>
+
+=>a176
+Как держится Лора?<end>
+
+=>q177_original
+She is stable. Unconscious, but stable. Her wounds would've been fatal if it not for the Faceless, and I have to admit, their medicine is something out of this world, so to speak. And, besides taking care of her, they even left her a gift.<end>
+
+=>q177
+Её состояние стабильно. Она без сознания, но стабильна. Её раны были бы смертельными, если бы не безликие, и я должен признать, их медицина не из нашего мира, так сказать. К тому же, помимо лечения, они даже оставили ей подарок.<end>
+
+=>a178_original
+What do you mean?<end>
+
+=>a178
+Что вы имеете в виду?<end>
+
+=>q179_original
+The Faceless have implanted a device in her throat which pretty much serves as a replacement larynx, as her own vocal folds have been completely destroyed. I am not talking just about retaining the ability to speak, but to fulfill two functions that come before speech: Preventing food from entering the windpipe, and allowing leverage when lifting heavy objects by closing the vocal folds.<end>
+
+=>q179
+Безликие имплантировали в её горло устройство, которое в значительной степени служит заменой гортани, так как её собственные голосовые связки были полностью уничтожены. Я говорю не просто о сохранении способности говорить, но и выполнять две функции, которые важнее речи: предотвращать попадание пищи в трахею, и закрывать голосовые связки, помогая при подъёме тяжёлых предметов.<end>
+
+=>q180_original
+The device is an engineering miracle, from my perspective at least, but it serves Lora now, so inspecting it further is impossible.<end>
+
+=>q180
+Устройство представляет собой инженерное чудо, по крайней мере, с моей точки зрения, но сейчас оно служит Лоре, поэтому изучать его дальше невозможно.<end>
+
+=>a181_original
+What are your thoughts on the Faceless invasion?<end>
+
+=>a181
+Что вы думаете о вторжении безликих?<end>
+
+=>q182_original
+I must say it's an exciting turn of events. We know so little about the Faceless and how their society works. Rumor has it that they have highly developed psionic abilities and that they communicate through telepathy.<end>
+
+=>q182
+Я должен сказать, это увлекательный поворот событий. Мы так мало знаем о безликих и о том, как устроено их общество. Поговаривают, что они обладают высокоразвитыми псионическими способностями и общаются посредством телепатии.<end>
+
+=>q183_original
+I wonder if that's true.<end>
+
+=>q183
+Интересно, правда ли это.<end>
+
+=>a184_original
+What are your thoughts on the Faceless retreat from Core City?<end>
+
+=>a184
+Что вы думаете об отступлении безликих из Кор-Сити?<end>
+
+=>q185_original
+What is most important is that it ended well for us, and that things are slowly returning to normal. Well, as normal as things are in Underrail.<end>
+
+=>q185
+Самое главное, что это закончилось хорошо для нас, и что всё постепенно возвращается в норму. Ну, в норму по меркам Подземки.<end>
+
+=>q186_original
+As for the Faceless, the only thing we've learned from this, or at least I have, is that we are at their mercy, no matter how highly we think of ourselves. We must be careful.<end>
+
+=>q186
+Что касается безликих, единственное, что мы узнали из этого, или, по крайней мере, я узнал, заключается в том, что мы полностью в их власти, независимо от того, насколько высокого мы мнения о себе. Мы должны быть осторожны.<end>
+
+=>a187_original
+I have to go.<end>
+
+=>a187
+Мне нужно идти.<end>
+
+=>a188_original
+You failed alright. I shouldn't be the one to do your job.<end>
+
+=>a188
+Вы действительно совершили ошибку. Я не долж$(#ен/на) делать за вас вашу работу.<end>
+
+=>q189_original
+::Pasquale remains silent for ten whole seconds. After that, he speaks again.::
+
+Tell me, who did this? I have to report this!<end>
+
+=>q189
+::Паскуаль молчит целых секунд десять.::
+
+Скажите мне, кто это сделал? Я должен сообщить об этом!<end>
+
+=>q190_original
+Ahh, good, you're awake. How are you feeling?<end>
+
+=>q190
+Ах, хорошо, вы очнулись. Как вы себя чувствуете?<end>
+
+=>a191_original
+Ugh, my head hurts... What happened?<end>
+
+=>a191
+Уф, голова болит... что случилось?<end>
+
+=>q192_original
+Disabling the inhibitor seems to have caused a psionic surge, but you're alright now.<end>
+
+=>q192
+Отключение ингибитора, похоже, вызвало псионический всплеск, но вы уже в порядке.<end>
+
+=>q193_original
+While you were out I took the liberty of performing some more testing to determine the actual levels of your psionic potential. And<end>
+
+=>q193
+Пока вы были без сознания, я взял на себя смелость выполнить ещё несколько тестов для определения фактического уровня вашего пси-потенциала. И<end>
+
+=>q194_original
+ - it is great! I wholeheartedly suggest that you start your training immediately.<end>
+
+=>q194
+он просто огромен! Я определённо рекомендую вам начать обучение немедленно.<end>
+
+=>q195_original
+Also, take these. ::He hands you a pair of syringes filled with blue liquid.:: These psi *boosters* will help increase your psionic recovery rate; basically, they'll allow you to use more psi abilities within a certain period of time than you normally could. They're fairly cheap, work fast, have no major side effects and are equally useful to beginners and experienced psionics alike. 
+
+There isn't a reason not to have a couple when you're going out there.<end>
+
+=>q195
+А ещё, возьмите вот это. ::Он даёт вам пару шприцев, наполненных синей жидкостью.:: Эти *пси-усилители* помогут вам восполнить псионическую энергию. Попросту говоря, они могут позволить вам применять пси-способности чаще чем при нормальных условиях. Они довольно дёшевы, действуют быстро, не имеют серьёзных побочных эффектов и одинаково полезны как для новичков, так и для опытных псиоников.
+
+Нет причины не захватить с собой парочку, куда бы вы ни отправились.<end>
+
+=>q196_original
+::And then he hands you four unusual inhalers.:: And these contain *desaturated psionic inhalants*. They'll replenish your psionic reserves, and also help neurohormonal regulation, and alleviate synaptic fatigue - especially after extensive innervation.
+
+Just like muscles recover from fatigue with the help of the body's glycogen reserves, so does your mind have its own finite psionic equivalent.<end>
+
+=>q196
+::Затем он вручает вам четыре необычных ингалятора.:: А они содержат *ненасыщенные псионические ингалянты*, которые восстановят ваш псионический резерв, а также помогут нейрогормональной регуляции и облегчат синаптическую усталость - особенно после интенсивной иннервации.
+
+Точно так же, как мышцы восстанавливаются после нагрузок при помощи запасов гликогена в организме, так и у разума есть свой собственный ограниченный псионический эквивалент.<end>
+
+=>q197_original
+ you have a decent predispositions for developing psionic powers, and if you train your mind further, you can become quite good at it.<end>
+
+=>q197
+у вас есть хорошие задатки для развития псионических способностей, и вы сможете стать довольно сильны, если будете и дальше развивать свой разум.<end>
+
+=>q198_original
+, well, the inherent potential is there, but you'll have to train your mind hard before you can really make use of it.<end>
+
+=>q198
+, что же, врождённый потенциал у вас есть, но вы должны будете упорно тренировать свой разум, прежде чем действительно сможете эффективно применять его.<end>
+
+=>q199_original
+<end>
+
+=>q199
+<end>
+
+=>q200_original
+::He speaks after a short pause.:: It's you, $(context.player.Name). Are you here about Ethan?<end>
+
+=>q200
+::Он говорит после непродолжительной паузы.:: $(context.player.Name). Вы здесь из-за Итана?<end>
+
+=>a201_original
+Yes. I wanted to see if you've examined his remains.<end>
+
+=>a201
+Да. Я хотел$(#/а) узнать, исследовали ли вы его останки.<end>
+
+=>q202_original
+There is really nothing to examine. <end>
+
+=>q202
+Тут и исследовать-то особо нечего.<end>
+
+=>q203_original
+He's just a psionic who used his abilities to make himself appear different; otherwise he's perfectly normal from a medical perspective.<end>
+
+=>q203
+Он просто псионик, использовавший свои способности, чтобы казаться другим; в остальном, с медицинской точки зрения, он совершенно нормален.<end>
+
+=>q204_original
+We live in a world with psionics, yet even a simple illusion such as that one can still induce such confusion and distress. 
+
+::He chuckles.:: The human mind is truly an amazing thing, isn't it?<end>
+
+=>q204
+Мы живём в мире, полном псионики, и тем не менее даже такая простая иллюзия, как эта, может вызвать такое замешательство и беспокойство.
+
+::Он посмеивается.:: Человеческий разум - поистине удивительная вещь, не так ли?<end>
+
+=>a205_original
+No.<end>
+
+=>a205
+Нет.<end>
+
+=>q206_original
+Good. Good. Mostly because I have nothing interesting to tell you about his remains. <end>
+
+=>q206
+Хорошо. Хорошо. Главным образом потому, что мне нечего рассказать вам о его останках.<end>
+
+=>q207_original
+People have suddenly started asking me about aging - spontaneous and good ol' - after what happened at the bar. <end>
+
+=>q207
+После того, что случилось в баре, меня вдруг стали расспрашивать о спонтанном старении.<end>
+
+=>q208_original
+$(context.player.Name), Vera wanted to speak to you. She asked me - and nearly everyone else - to tell you to go to her office should I see you. It's urgent.<end>
+
+=>q208
+$(context.player.Name), Вера хотела поговорить с вами. Она просила меня -- и практически всех -- передать, чтобы вы зашли к ней в кабинет, если я увижу вас. Это срочно.<end>
+
+=>q209_original
+Now that I think of it, Tanner never, ever came to my office. He was never ill, never hurt himself despite how much time he spent out. Funny...<end>
+
+=>q209
+Теперь, когда я думаю об этом, то понимаю, что Таннер ни разу не приходил в мой кабинет. Он никогда не болел, никогда не получал ранений, несмотря на то, сколько времени он проводил вне станции. Забавно...<end>
+
+=>q210_original
+I hope the Faceless don't get here. I've already got my hands full. ::He chuckles.:: What did you need?<end>
+
+=>q210
+Я надеюсь, что безликие сюда не доберутся. Я и так уже завален работой. ::Он смеётся.:: Что вам нужно?<end>
+
+=>q211_original
+Hello, $(context.player.Name).<end>
+
+=>q211
+Здравствуйте, $(context.player.Name).<end>
+
+=>q212_original
+Ah hello, $(context.player.Name). First of all let me congratulate you on your admittance to our little station. I'm sure you'll love it here.<end>
+
+=>q212
+Ах, здравствуйте, $(context.player.Name). Прежде всего, позвольте поздравить вас с присоединением к нашей маленькой станции. Я уверен, вам здесь понравится.<end>
+
+=>q213_original
+It's good that you came. I actually wanted to talk to you about some of the results from all those tests we did earlier.<end>
+
+=>q213
+Это хорошо, что вы пришли. Я как раз хотел поговорить о некоторых результатах тех тестов, что мы делали ранее.<end>
+
+=>a214_original
+Is there something wrong with me?<end>
+
+=>a214
+Со мной что-то не так?<end>
+
+=>q215_original
+No, no, quite the contrary. Sorry if I scared you. <end>
+
+=>q215
+Нет, нет, совсем наоборот. Извините, если я напугал вас.<end>
+
+=>q216_original
+You see, test results show that you have certain amounts of *psionic* potential.<end>
+
+=>q216
+Видите ли, результаты тестов показывают, что у вас есть некоторый *псионический* потенциал.<end>
+
+=>a217_original
+The what...?<end>
+
+=>a217
+У меня... что?<end>
+
+=>q218_original
+Allow me to explain what psionic potential really is: It's a relatively rare inheritable, complex genetic trait that triggers development of certain, otherwise latent components in the brain.<end>
+
+=>q218
+Для начала позвольте мне рассказать немного о пси-потенциале. Это относительно редкий наследуемый сложный генетический признак, который провоцирует развитие определённых, или латентных областей мозга.<end>
+
+=>q219_original
+It allows a person to perform some subtle psionic invocations, such as influencing the minds of others, as well as some not so subtle ones - such as causing radical temperature changes and telekinetic manipulations.<end>
+
+=>q219
+Он позволяет человеку производить определённые тонкие пси-манипуляции, такие, как воздействие на умы других людей, а также некоторые не столь тонкие, такие, как радикальное изменение температуры и телекинетические манипуляции.<end>
+
+=>a220_original
+I'm not derailed!<end>
+
+=>a220
+Я не поехавш$(#ий/ая)!<end>
+
+=>q221_original
+I'm not saying you are. It's not a bad thing. On the contrary, it's a great gift to inherit.
+
+And it won't make you-- I mean, it doesn't have to turn you insane.<end>
+
+=>q221
+Я этого не говорил. Это не плохая вещь. Наоборот, это отличный наследственный дар.
+
+И это не сделает вас... я хочу сказать, это не должно свести вас с ума.<end>
+
+=>a222_original
+You mean, like, I can read people's minds?<end>
+
+=>a222
+То есть, я, типа, могу читать мысли?<end>
+
+=>q223_original
+::He chuckles.:: No, no, not really... well, not yet anyway. Perhaps one day if you train your mind right.<end>
+
+=>q223
+::Он смеётся.:: Нет, нет, не совсем... ну, по крайней мере, пока что. Возможно однажды, если вы будете тренировать свой разум.<end>
+
+=>a224_original
+How much potential?<end>
+
+=>a224
+И сколько у меня этого потенциала?<end>
+
+=>q225_original
+I'm not exactly sure until I run some more DNA tests, but it's there.<end>
+
+=>q225
+Я точно не знаю, пока я не провёл несколько тестов ДНК, но он у вас есть.<end>
+
+=>a226_original
+What exactly?<end>
+
+=>a226
+О чём именно?<end>
+

@@ -1,0 +1,430 @@
+﻿=>q1_original
+You keep those filthy paws away from me, pipe-jammin' scum! Or I'll...<end>
+
+=>q1
+Держи свои грязные лапы подальше от меня, нечистота трубная! Или я...<end>
+
+=>q2_original
+You still here, $(#boy/girl)?<end>
+
+=>q2
+Ты всё ещё здесь, $(#мальчик/девочка)?<end>
+
+=>q3_original
+::An ancient, shriveled woman angrily waves her ladle at you.::
+
+Pipeworkin' sons of drop-offs! If I wanted some zone-ass bastards a-bargin' into my home, I would've never left the Drop Zone.<end>
+
+=>q3
+::Древняя, усохшая женщина сердито машет на вас половником.::
+
+Трубочистские отбросы! Если б я хотела, чтоб какие-то зонерские ублюдки вламывались в мой дом, я б никогда не покинула Зону Провала.<end>
+
+=>q4_original
+You $(#boys/folks) leave this place now, you! Or else Imma open a can of zone-out and show ya how this grandma dominates pipelickers like you. Beat it now, y'all!<end>
+
+=>q4
+Вы, $(#мальчики/ребята), покините это место сейчас же! Или же я откупорю банку посланий в зону и покажу вам, как эта бабуля доминирует над труболизами вроде вас. Убирайтесь отсюда, живо!<end>
+
+=>q5_original
+Excuse me, man, but this place used to be mine, you know. So you're actually a-bargin' into *my* place, you... you... nasty woman. We just need to, like, find something important and we're, like, gone.<end>
+
+=>q5
+Прости, но это место когда-то было моим, знаешь ли. Так что это ты на самом деле вламываешься ко *мне* домой старая... женщина. Нам просто надо найти нечто важное, и мы, типа, исчезнем.<end>
+
+=>q6_original
+Whatcha say, dross-face? Your place? GET OUTTA HERE!
+
+You too, $(#barrel-stuffer/pipe-scutchin' hooksie).<end>
+
+=>q6
+Чего ты несёшь, отброс? Твоё место? ВАЛИ ОТСЮДА!
+
+И ты тоже, $(#бочкообтиратель/труботрёпка).<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Hey, w-who are you call-ing a $(#barrel-stuffer/pipe-scutchin' hooksie), you smelly crone?<end>
+
+=>a8
+Эй, к-кого это ты назвала $(#бочкообтирателем/труботрёпкой), карга вонючая?<end>
+
+=>q9_original
+Shut up, you rail-grindin' trash surfer!<end>
+
+=>q9
+Рот закрой, мусор рельсоразмазанный!<end>
+
+=>a10_original
+::[Intelligence]:: W-wrinkly guano-slurping sow!<end>
+
+=>a10
+::[Интеллект]:: С-сморщенная, хлебающая дерьмо свиноматка!<end>
+
+=>q11_original
+Wha-- How dare you, you pipe-cravin', stalagmite-ridin' yob!?<end>
+
+=>q11
+Чего... Да как ты смеешь, труболиз$(#/ка), на сталагмит насаженн$(#ый паршивец/ая паршивка)?!<end>
+
+=>a12_original
+::[Intelligence]:: Mutant-humping, shroom-assed hag!<end>
+
+=>a12
+::[Интеллект]:: Мутантогорбая грибозадая ведьма!<end>
+
+=>q13_original
+Mut-- Whaaaaaaa--? Why you slackjaw-brained, butt-dwellin' boar snot!<end>
+
+=>q13
+Мут... Чего-о-о? Ты, сопля из кабаньего зада с мозгами разирота!<end>
+
+=>a14_original
+::[Intelligence]:: At least I am n-not a doddering, colostomy bag-for-brains m-m-mole rat!<end>
+
+=>a14
+::[Интеллект]:: Я, по крайней мере, н-не полоумная к-кротовая крыса с калоприёмником вместо мозгов!<end>
+
+=>q15_original
+Oh, you! OH, YOU! I'll... ::Both you and Dude instinctively flinch as she raises her ladle - but she freezes in that position. After a brief pause, she returns to stirring her soup.:: Where... where'd ya learn to talk like that, $(#boy/girl)? Anyone with a tongue *that* foul, *that*... *repulsive* must've had a horrible, horrible life. Or severe brain damage. Or that truffle syndrome thing, whatever.
+
+Poor, poor you.<end>
+
+=>q15
+Ах, ты! АХ, ТЫ! Да я... ::Вы с Чуваком инстинктивно вздрагиваете, когда она поднимает свой половник - но она так и замирает в этой позе. И после короткой паузы снова принимается помешивать суп.:: Где... где ты научил$(#ся/ась) так разговаривать, $(#мальчик/девочка)? Любой с таким *грязным*, таким... *омерзительным* языком наверняка пережил ужасные, ужасные вещи. Либо серьёзное повреждение мозга. Или это, как его там, синдром трюфеля, неважно.
+
+Бедолага ты, бедолага.<end>
+
+=>q16_original
+::Her eyes bounce between Dude and you, and instead of wrath her face now displays pity.:: You $(#boys/folks) don't look so bad after all. You ain't no bandits, thank the chasm - you're just a pair of miserable drifters. You... a-feelin' hungry, kids? This ain't no stinky barrel soup, no - it be proper hopper stew. Bought some off Ol' Lumber for almost nothin' at all, he-he! Nothin' at all!
+
+Want some?<end>
+
+=>q16
+::Её глаза мечутся между вами и Чуваком, и вместо гнева на её лице появляется жалость.:: В конце концов, вы, $(#мальчики/ребята), выглядите не так уж и плохо. Слава провалу, вы не бандиты, а просто пара жалких бродяг. Вы... проголодались, детки? Это вам не вонючий суп из бочки, нет - это будет настоящая пещерниковая похлёбка. Купила немного старого Ламбера почти за бесценок! Совсем даром!
+
+Хотите немного?<end>
+
+=>a17_original
+Why not?<end>
+
+=>a17
+Почему нет?<end>
+
+=>q18_original
+Listen, man, I too would love a bowl, but it'll sober us up - and that's not good right now, man.<end>
+
+=>q18
+Слушай, чув$(#ак/иха), я бы тоже с удовольствием навернул мисочку, но это отрезвит нас - а это всегда хреново, $(#приятель/подруга).<end>
+
+=>q19_original
+Eh? You've been a-drinkin'? My late husband used to drink like a pi--<end>
+
+=>q19
+А? Вы что пили? Мой покойный муж пил как труб...<end>
+
+=>q20_original
+Hey, man, we're just gonna take a quick look around the place, okay? We just gotta find something, like, really important. You have no idea how important, man.<end>
+
+=>q20
+Эй, старушка, мы просто быстренько осмотримся вокруг, ладно? Нам только нужно найти нечто, типа, очень важное. Ты даже не представляешь, насколько это серьёзно.<end>
+
+=>q21_original
+::She stares at you for a few moments.:: Alright, alright, you can come in. <end>
+
+=>q21
+::Какое-то время она пристально смотрит на вас.:: Хорошо, хорошо, можете пройти.<end>
+
+=>q22_original
+Just be quick and don't make no mess. Dig? Or else... ::She threatens you with her ladle.::<end>
+
+=>q22
+Только поторопитесь и не устраивайте беспорядка. Врубились? Иначе... ::Она угрожает вам своим половником.::<end>
+
+=>a23_original
+We're in a hurry, but t-thanks!<end>
+
+=>a23
+Мы торопимся, но с-спасибо!<end>
+
+=>a24_original
+S-s-stupid old woman.<end>
+
+=>a24
+Т-т-тупая старуха.<end>
+
+=>q25_original
+I knew you were a dumb $(#barrel-stuffer/pipe-scutchin' hooksie).<end>
+
+=>q25
+Да ты и впрямь туп$(#ой бочкообтиратель/ая труботрёпка).<end>
+
+=>a26_original
+Hag!<end>
+
+=>a26
+Ведьма!<end>
+
+=>a27_original
+No, you're a slackjaw-bearded... uh, what w-w-was it?<end>
+
+=>a27
+Нет, это ты сопля из зада... э... как там было дальше?<end>
+
+=>a28_original
+Uh, I don't know how to top that...<end>
+
+=>a28
+Хм, я не знаю, как превзойти такое...<end>
+
+=>a29_original
+No, y-you're a pipe-cravin', stalactite... uh, w-what was it?<end>
+
+=>a29
+Нет, это ты труболизка, на сталактит... э... как там было?<end>
+
+=>a30_original
+No, you are a r-rail-grindin' tr-tr-tr... what w-as it?<end>
+
+=>a30
+Нет, это ты мусор рельс... как там было?<end>
+
+=>a31_original
+I am... My partner a-and I are here on official P-Praetorian Security business. Mhm. Y-you are to step aside and let us, um, do our s-search, or el... else I'll be forced to d-detain you... and stuff.<end>
+
+=>a31
+Я... Мой напарник и-и я здесь по официальному делу П-Преторианской службы безопасности. Угу. Вы-ы должны отойти в сторону и позволить нам, гм, заняться п-поисками, ина... иначе я буду вынужден$(#/а) з-задержать вас... и всё такое.<end>
+
+=>q32_original
+Eh... <end>
+
+=>q32
+Эх...<end>
+
+=>q33_original
+You enforcers are the scum o' the earth! Where were you when my husband was bein' stabbed by a derailed madman at the metro station? Where were you when the Zone was a-riotin' and innocent people were bein' zoned out?<end>
+
+=>q33
+Вы, силовики - отбросы общества! Где вы были, когда моего мужа на станции метро зарезал поехавший безумец? Где вы были, когда Зона взбунтовалась и стольких невинных отправили в зону?<end>
+
+=>a34_original
+Just let us do our b-business. We won't be l-l-long.<end>
+
+=>a34
+Просто позвольте нам делать нашу р-работу. Мы не задержимся н-н-надолго.<end>
+
+=>q35_original
+Bah...<end>
+
+=>q35
+Ба...<end>
+
+=>q36_original
+Do your dirty business, you. <end>
+
+=>q36
+Делайте своё грязное дело.<end>
+
+=>a37_original
+We c-c-can't be every-where.<end>
+
+=>a37
+Мы н-н-не можем быть ве-зде.<end>
+
+=>q38_original
+But you can be here, a-botherin' me!<end>
+
+=>q38
+Однако, здесь вы быть можете, и доставать меня!<end>
+
+=>a39_original
+I c-cannot answer t-to that question.<end>
+
+=>a39
+Я н-не могу ответить н-на этот вопрос.<end>
+
+=>q40_original
+I'm sure of that...<end>
+
+=>q40
+Конечно же...<end>
+
+=>a41_original
+::[Persuade]:: I am... My partner a-and I are here on official P-Praetorian Security business. Mhm. Y-you are to step aside and let us, um, do our s-search, or el... else I'll be forced to d-detain you... and stuff.<end>
+
+=>a41
+::[Убеждение]:: Я... Мой напарник и-и я здесь по официальному делу П-Преторианской службы безопасности. Угу. Вы-ы должны отойти в сторону и позволить нам, гм, заняться п-поисками, ина... иначе я буду вынужден$(#/а) з-задержать вас... и всё такое.<end>
+
+=>q42_original
+Eh... Praetorians? <end>
+
+=>q42
+А, Преторианцы?<end>
+
+=>q43_original
+Ya lyin' pipelicker. <end>
+
+=>q43
+Ты лжёшь, труболиз$(#/ка).<end>
+
+=>q44_original
+You ain't a-foolin' me!<end>
+
+=>q44
+Тебе меня не одурачить!<end>
+
+=>q45_original
+Now get your reekin' asses outta here, you!<end>
+
+=>q45
+А теперь тащите отсюда свои вонючие задницы, вы!<end>
+
+=>a46_original
+::[Intimidate]:: Unless you... y-you want to be the main ingredient of that, um, soup you're m-making, you're go-ing to let us... search this-s-s place.<end>
+
+=>a46
+::[Запугивание]:: Если вы... в-вы не хотите стать главным ингредиентом, гм, супа, который г-готовите, вы позво-олите нам... обыс-с-скать это место.<end>
+
+=>q47_original
+::Her defenses buckle under pressure, and her piercing gaze turns dull.::
+
+Alright... Alright. <end>
+
+=>q47
+::Её оборона ослабевает под давлением, а её пронзительный взгляд тускнеет.::
+
+Хорошо... Хорошо.<end>
+
+=>q48_original
+It is you who is gonna be in this soup once I shove this ladle up your drop hole, $(#barrel-stuffer/pipe-scutchin' hooksie). I've seen and heard things you'd never believe durin' this long life o' mine, and your threats don't scare me one bit!<end>
+
+=>q48
+Ты сейчас сам$(#/а) в этом супе окажешься, когда я тебе этот половник в очко засуну, $(#бочкообтиратель/труботрёпка). Я за свою долгую жизнь чего только не видела и чего только не слышала, ты и представить не сможешь, и твои угрозы меня нисколько не пугают!<end>
+
+=>a49_original
+::[Persuade]:: Please, ma'am, pl-ease. This m-m-man here has b-been trying to... uh... recover his fa-ther's t-techwatch for ten years! It's... the only thing... um... his fa-ther left him. H-have you no heart? It's been stashed some-where in your... your... house, ma'am. P-please let us, oh, search f-for it.<end>
+
+=>a49
+::[Убеждение]:: Пожалуйста, мэм, про-шу вас. Этот ч-ч-человек пытается... ох... вернуть ч-часы своего о-отца вот уже десять лет! Это... единственное... гм... что о-отец оставил ему. Н-неужели у вас нет сердца? Они были спрятаны где-то в вашем... вашем... доме, мэм. П-пожалуйста, позвольте нам, ох, поискать и-их.<end>
+
+=>q50_original
+Father's techwatch? Like... wrist watch? I haven't found no watch in here, and I've been here for plenty a years now.<end>
+
+=>q50
+Отцовские часы? Типа... наручные? Я не находила здесь никаких часов, а ведь живу здесь уже много лет.<end>
+
+=>a51_original
+H-how about we give you a few ch-charons for your trouble? W-would it then be okay for us to take a peek-k-k?<end>
+
+=>a51
+К-как насчёт того, чтобы мы дали вам несколько ха-харонов за ваши хлопоты? П-после этого мы могли бы заглянуть туда-а-а?<end>
+
+=>q52_original
+::Her eyes flare up.::
+
+Charons...? What are ya a-offerin' exactly?<end>
+
+=>q52
+::Её глаза вспыхивают.::
+
+Хароны?.. И сколько же ты предлагаешь?<end>
+
+=>q53_original
+<end>
+
+=>q53
+<end>
+
+=>a54_original
+*One* charon.<end>
+
+=>a54
+*Один* харон.<end>
+
+=>q55_original
+But that's pittance! I ain't gonna let you in for that.<end>
+
+=>q55
+Да это же жалкие гроши! За это я вас не пущу.<end>
+
+=>a56_original
+Two ch-arons.<end>
+
+=>a56
+Два ха-рона.<end>
+
+=>a57_original
+Five char-ons.<end>
+
+=>a57
+Пять хар-онов.<end>
+
+=>a58_original
+T-t-ten charons.<end>
+
+=>a58
+Д-д-десять харонов.<end>
+
+=>a59_original
+Twenty ch-arons.<end>
+
+=>a59
+Двадцать ха-ронов.<end>
+
+=>q60_original
+Not bad, but if the thing you want is so important, then it ought to be worth some more, right?<end>
+
+=>q60
+Неплохо, но если вещь, которая вам нужна, настолько важная, то она должна стоить немного больше, верно?<end>
+
+=>a61_original
+F-fifty charons.<end>
+
+=>a61
+П-пятдесят харонов.<end>
+
+=>a62_original
+One hun-dred charons.<end>
+
+=>a62
+С-с-сотня харонов.<end>
+
+=>q63_original
+::She pockets the coins before you even realized you gave it to her.::
+
+Dominatin'! You're free to do your business. <end>
+
+=>q63
+::Она засунула монеты в карман ещё до того, как вы поняли, что отдали их ей.::
+
+Хардкор! Вы вольны заниматься своими делами.<end>
+
+=>a64_original
+T-two hun-dred charons and not a ch-charon more.<end>
+
+=>a64
+Д-двести харонов и ни ха-роном больше.<end>
+
+=>a65_original
+I'd make an offer, bu--but I'm all outta m-money.<end>
+
+=>a65
+Я хотел$(#/а) бы что-то предложить, но у меня нет д-денег.<end>
+
+=>q66_original
+Pipeworks-muncher!<end>
+
+=>q66
+Жмот$(#/ина) трубочистск$(#ий/ая)!<end>
+
+=>a67_original
+Step a-aside, Dude - I'm gonna solve this MY way. ::Burp and attack!::<end>
+
+=>a67
+Отойди в с-сторону, Чувак , я разберусь с этим *по-своему*. ::Рыгнуть и напасть!::<end>
+

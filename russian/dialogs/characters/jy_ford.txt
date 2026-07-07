@@ -1,0 +1,1054 @@
+﻿=>q1_original
+I'm busy now, $(#son/woman). Go away.<end>
+
+=>q1
+Сейчас я занят, $(#сынок/доча). Уходи.<end>
+
+=>q2_original
+You again. Get outta here! Leave me alone.<end>
+
+=>q2
+Опять ты. Убирайся отсюда! Оставь меня в покое.<end>
+
+=>q3_original
+::You come up to an old fisherman. Wearing an old jacket and rubber boots, this simply-clothed man watches his rod with great focus and pays no attention to you.::<end>
+
+=>q3
+::Вы подходите к пожилому рыбаку, одетому в старую куртку и резиновые сапоги. Этот просто одетый мужчина пристально наблюдает за поплавком и не обращает на вас внимания.::<end>
+
+=>a4_original
+Hi there.<end>
+
+=>a4
+Привет.<end>
+
+=>q5_original
+::The man silences you with a swift gesture of his hand, for his prey is about to bite. The float disappears under the surface, and the rod bends downward. The fisherman grasps it tightly, yanking the rod as if he was expecting to pull a sunken ferry out of the depths. Soon enough, a small light-bluish eel flies through the air and ends its journey in the man's raw-boned hand.::<end>
+
+=>q5
+::Старик заставляет вас замолчать быстрым жестом руки, ведь его добыча заглатывает наживку. Поплавок исчезает под водой, а удочка изгибается вниз. Рыбак держит её крепко, дёргая удочку так, будто пытается вытащить затонувший паром из глубин. Достаточно скоро небольшой светло-голубой угорь взлетает по воздуху и заканчивает свой путь в его костлявой руке.::<end>
+
+=>q6_original
+::Disappointed, he unhooks the fish with a single motion and gently releases it back into the water, in which it happily disappears. One of the two men standing nearby begins laughing but immediately stops before his and the old fisherman's stares meet, instead shifting his view to his own rather steady float.::<end>
+
+=>q6
+::Разочарованный, он отцепляет рыбку одним движением руки и осторожно выпускает её обратно в воду, где она благополучно исчезает. Один из двух мужчин, стоящих неподалёку, начинает смеяться, но тут же прекращает, прежде чем его взгляд встречается со взглядом старого рыбака; вместо этого он переключает внимание на свой весьма неподвижный поплавок.::<end>
+
+=>q7_original
+::The old geezer then resets the rod, and his few steps back and forth reveal a limp in his left leg. Then, he turns to you.::
+
+Who the hell are you?<end>
+
+=>q7
+::Старикан снова устанавливает удочку и делает несколько шагов вперёд и назад, демонстрируя хромоту в левой ноге. Затем он поворачивается к вам.::
+
+Ты ещё кто так$(#ой/ая)?<end>
+
+=>a8_original
+Hi there. Could I ask you a few questions?<end>
+
+=>a8
+Привет. Могу я задать вам несколько вопросов?<end>
+
+=>q9_original
+::He turns the left side of his head toward you and leans closer, mouth wide open.::
+
+Didn't catch that. Could you speak up?<end>
+
+=>q9
+::Он поворачивается к вам левым ухом и наклоняется ближе, широко открыв рот.::
+
+Не расслышал, что ты сказал$(#/а). Говори громче.<end>
+
+=>a10_original
+I SAID: HI THERE, COULD I ASK YOU A COUPLE OF QUESTIONS!?<end>
+
+=>a10
+Я ГОВОРЮ, ПРИВЕТ, МОГУ Я ЗАДАТЬ ПАРУ ВОПРОСОВ?!<end>
+
+=>q11_original
+What the hell, $(#son/woman)? You didn't have to wreck me ears.<end>
+
+=>q11
+Какого хрена, $(#сынок/доча)? Пожалей мои уши.<end>
+
+=>q12_original
+What questions?<end>
+
+=>q12
+Про что вопросов?<end>
+
+=>a13_original
+About you.<end>
+
+=>a13
+О вас.<end>
+
+=>q14_original
+I don't know you. Unless you a lost $(#son/daughter) of mine I ain't... Well, if you were I especially wouldn't wanna talk to you. 
+
+Erm... are you a spawn of me own?<end>
+
+=>q14
+Я тебя не знаю. Если только ты не мой потерявшийся отпрыск, я не... Хотя, если это так, то я особенно не хочу с тобой разговаривать. 
+ 
+Э... ты же не моё отродье?<end>
+
+=>a15_original
+No.<end>
+
+=>a15
+Нет.<end>
+
+=>q16_original
+Oh. Great. I hate kids.<end>
+
+=>q16
+Ох. Отлично. Я ненавижу детей.<end>
+
+=>a17_original
+How about Junkyard then?<end>
+
+=>a17
+Тогда что вы можете рассказать о Свалке?<end>
+
+=>q18_original
+Go annoy someone else with that. I ain't a Junkyard guide. Besides, you wouldn't wanna ask the wrong people some of the questions you might have in the bag, $(#son/woman).<end>
+
+=>q18
+Иди приставай с этим к кому-нибудь другому. Я тебе не гид по Свалке. Кроме того, ты не хотел$(#/а) бы задать не тем людям некоторые из вопросов, которые могут быть в твоей голове, $(#сынок/доча).<end>
+
+=>a19_original
+How about fishing then?<end>
+
+=>a19
+Ну тогда, как насчёт рыбалки?<end>
+
+=>q20_original
+::He takes a look at his motionless float.:: The water ain't good right now. I suppose I could spare a few moments.<end>
+
+=>q20
+::Он смотрит на свой неподвижный поплавок.:: Клюёт уже не так хорошо. Думаю, у меня найдётся немного времени.<end>
+
+=>a21_original
+Very good. I'm $(context.player.Name), by the way.<end>
+
+=>a21
+Отлично. Кстати, меня зовут $(context.player.Name).<end>
+
+=>q22_original
+Geezer Ford. That's what the folks around here call me. But for you - it's Mr. Ford.<end>
+
+=>q22
+Я старикан Форд, так меня здесь называют. Но для тебя я мистер Форд.<end>
+
+=>a23_original
+Got it, Mr. Ford.<end>
+
+=>a23
+Ясно, мистер Форд.<end>
+
+=>q24_original
+Yeah. Go ahead now, ask your questions.<end>
+
+=>q24
+Ага. Давай, задавай свои вопросы.<end>
+
+=>q25_original
+<end>
+
+=>q25
+<end>
+
+=>a26_original
+About that fishing challenge...<end>
+
+=>a26
+Поговорим о вашем рыболовном вызове...<end>
+
+=>q27_original
+Yeah? I still need to see you catch$(context.npc_jy_ford_whatHeNeeds)<end>
+
+=>q27
+М-да? Тебе ещё надо поймать$(context.npc_jy_ford_whatHeNeeds)<end>
+
+=>q28_original
+<end>
+
+=>q28
+<end>
+
+=>a29_original
+I caught an anglerfish.<end>
+
+=>a29
+Я поймал$(#/а) удильщика.<end>
+
+=>q30_original
+::He takes a look at it.:: That's an anglerfish alright. Look at them teeth.<end>
+
+=>q30
+::Он смотрит на него.:: Да, это удильщик. Посмотри, какие зубищи.<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>q32_original
+Well... it appears you've caught them all.<end>
+
+=>q32
+Ну... похоже, ты поймал$(#/а) их всех.<end>
+
+=>a33_original
+Well?<end>
+
+=>a33
+И?<end>
+
+=>q34_original
+::He stares at you.::<end>
+
+=>q34
+::Он смотрит на вас.::<end>
+
+=>a35_original
+I'm waiting.<end>
+
+=>a35
+Я жду.<end>
+
+=>q36_original
+::He maintains his gaze, but eventually it shifts toward the fishing rod. His hand beckons you to follow him.::
+
+Come 'ere.<end>
+
+=>q36
+::Он продолжает смотреть, но вскоре его взгляд смещается в сторону удочки. Его рука призывает вас подойти ближе.::
+
+Подь сюда.<end>
+
+=>a37_original
+::Let him show you the trick.::<end>
+
+=>a37
+::Позволить ему показать вам приём.::<end>
+
+=>q38_original
+You still got more to catch. I still need to see$(context.npc_jy_ford_whatHeNeeds)<end>
+
+=>q38
+Тебе ещё есть кого ловить. Я ещё хочу увидеть$(context.npc_jy_ford_whatHeNeeds)<end>
+
+=>a39_original
+I caught a black dragon.<end>
+
+=>a39
+Я поймал$(#/а) чёрного дракона.<end>
+
+=>q40_original
+Black as coal. I know of a guy who caught an albino one in one of them wet caves far south of here. Bastard.<end>
+
+=>q40
+Чёрный, как уголь. Я знаю парня, который поймал альбиноса в одной из тех сырых пещер далеко на юг отсюда. Ублюдок.<end>
+
+=>a41_original
+I caught a demon squid.<end>
+
+=>a41
+Я поймал$(#/а) демонического кальмара.<end>
+
+=>q42_original
+::He touches the squid's tentacles a few times before nodding.:: Good. Good. Fine specimen.<end>
+
+=>q42
+::Он дотрагивается до щупалец кальмара несколько раз, прежде чем кивнуть.:: Хорошо. Отлично. Прекрасный образец.<end>
+
+=>a43_original
+I caught a ghostface.<end>
+
+=>a43
+Я поймал$(#/а) фантома.<end>
+
+=>q44_original
+Very good, $(#son/woman). I remember when I caught my first ghostface. It was in the cold caves of... khm. Very good.<end>
+
+=>q44
+Очень хорошо, $(#сынок/доча). Я помню, как поймал своего первого фантома. Это было в холодных пещерах на... кхм. Очень хорошо.<end>
+
+=>a45_original
+I caught a minihead.<end>
+
+=>a45
+Я поймал$(#/а) минимолота.<end>
+
+=>q46_original
+::He leans forward, mouth open.:: Huh? ::Then he looks at the minihead.:: Oh, oh. Good. Got that one, I see.<end>
+
+=>q46
+::Он наклоняется вперёд, открыв рот.:: Да? ::Затем он смотрит на минимолота.:: О, а. Хорошо. Поймал$(#/а) таки, вижу.<end>
+
+=>a47_original
+I caught a pentapus.<end>
+
+=>a47
+Я поймал$(#/а) пятинога.<end>
+
+=>q48_original
+One, two, three, four... Yeah. It is all there. Nice.<end>
+
+=>q48
+Один, два, три, четыре... да. Все здесь. Хорошо.<end>
+
+=>a49_original
+I caught a phantom jelly.<end>
+
+=>a49
+Я поймал$(#/а) призрачного студня.<end>
+
+=>q50_original
+This is indeed a real phantom jelly. Some folks can't tell the difference between these and spectre jellies, but it be obvious to anyone who's not a damn rookie. 
+
+Good work.<end>
+
+=>q50
+Это действительно настоящий призрачный студень. Некоторые не способны отличить их от фантомных желе, но разница видна любому, кто не совсем салага. 
+
+Хорошая работа.<end>
+
+=>a51_original
+I caught a shrimp.<end>
+
+=>a51
+Я поймал$(#/а) креветку.<end>
+
+=>q52_original
+::He takes a careful look at it.:: Yup. You got it. Well done, $(#son/woman).<end>
+
+=>q52
+::Он бросает на неё внимательный взгляд.:: Ага. Ты её поймал$(#/а). Молодец, $(#сынок/доча).<end>
+
+=>a53_original
+I caught a slackjaw.<end>
+
+=>a53
+Я поймал$(#/а) разирота.<end>
+
+=>q54_original
+::He smells the fish, frowning as he does so.:: That's the smell! When you buy these, they mostly don't smell this bad. I don't know what they do to 'em. Still, you caught this one. Good work.<end>
+
+=>q54
+::Он нюхает рыбу, морщась при этом.:: Ну и запах! Когда их покупаешь, они обычно не воняют так сильно. Я не знаю, что с ними делают для этого. Всё-таки, ты его поймал$(#/а). Хорошая работа.<end>
+
+=>a55_original
+I caught a walking fish.<end>
+
+=>a55
+Я поймал$(#/а) ходячую рыбу.<end>
+
+=>q56_original
+::He nods in approval.:: Not bad. Just don't let it walk away. ::He laughs.:: That's a joke. Old but gold.<end>
+
+=>q56
+::Он кивает головой в знак одобрения.:: Неплохо. Главное -- не дать ей уйти. ::Он смеётся.:: Это шутка. Нестареющая классика.<end>
+
+=>a57_original
+Got it. I'm off to do some fishing.<end>
+
+=>a57
+Ясно. Пойду немного порыбачу.<end>
+
+=>q58_original
+Try not to drown.<end>
+
+=>q58
+Постарайся не утонуть.<end>
+
+=>a59_original
+What's your name?<end>
+
+=>a59
+Как вас зовут?<end>
+
+=>a60_original
+Where'd you get that limp?<end>
+
+=>a60
+Где вы повредили ногу?<end>
+
+=>q61_original
+That ain't a fishin'-related question.<end>
+
+=>q61
+Этот вопрос не связан с рыбалкой.<end>
+
+=>a62_original
+It is if you got it while you were fishing.<end>
+
+=>a62
+Связан, если это произошло, когда вы ловили рыбу.<end>
+
+=>q63_original
+::He pauses.:: Ah. Gotcha. But it ain't due to no fishin'. My one leg is shorter. I was born that way.<end>
+
+=>q63
+::Он замолкает.:: А. Поймал$(#/а) меня. Но это не из-за рыбалки. У меня одна нога короче другой. Я таким родился.<end>
+
+=>q64_original
+There you go, $(#son/woman). You got that one.<end>
+
+=>q64
+Вот пожалуйста, $(#сынок/доча), тебе ответ.<end>
+
+=>a65_original
+That is true. Let's talk about fishing then.<end>
+
+=>a65
+Это правда. Тогда давайте поговорим о рыбалке.<end>
+
+=>q66_original
+Like I'm havin' a conversation with a slackjaw.<end>
+
+=>q66
+Как будто я разговариваю с разиротом.<end>
+
+=>a67_original
+I changed my mind about doing that challenge you gave me.<end>
+
+=>a67
+Я передумал$(#/а) насчёт вашего рыболовного испытания.<end>
+
+=>q68_original
+Oh, really? Well, $(#son/woman), I told you <end>
+
+=>q68
+О, неужели? Ну, $(#сынок/доча), я повторю.<end>
+
+=>q69_original
+I betcha couldn't bring me one of each of these: pentapus, slackjaw, minihead, black dragon, phantom jelly, ghostface, anglerfish, demon squid, shrimp, walkin' fish. If you are good enough to do that, if you're an even remotely decent fisherman, then I'm gonna reveal one of my fishin' tricks, one I've never told anyone. Anyone.<end>
+
+=>q69
+Спорим, ты не сможешь принести мне по одному экземпляру каждого из видов: пятинога, разирота, минимолота, чёрного дракона, призрачного студня, фантома, удильщика, демонического кальмара, креветку, ходячую рыбу. Если ты достаточно хорош$(#/а), чтобы сделать это, если ты хоть немного приличный рыбак, я раскрою тебе один из моих рыболовных приёмов, один из тех, которые я никогда никому не показывал. Никому.<end>
+
+=>a70_original
+I bet you I can catch them all.<end>
+
+=>a70
+Спорим, я смогу поймать их всех.<end>
+
+=>q71_original
+Then do it. Then do it. But if you lose, you're gonna have to go around Junkyard and say: "Mr. Ford is the best fisherman in the whole South Underrail!", while I blow up harder than two pufferfishes matin'.<end>
+
+=>q71
+Тогда сделай это. Сделай. Но если проиграешь, ты долж$(#ен/на) будешь обойти Свалку, всем говоря: «Мистер Форд -- лучший рыбак во всей Южной Подземке»... и что ты сосёшь сильнее чем две спаривающихся поцелуйки.<end>
+
+=>a72_original
+Deal.<end>
+
+=>a72
+Договорились.<end>
+
+=>q73_original
+Deal. Now you better hurry up unless you want me to die of old age. Go.<end>
+
+=>q73
+По рукам. Тебе лучше поторопиться, если не хочешь, чтобы я умер от старости. Ступай.<end>
+
+=>a74_original
+I already caught something for you.<end>
+
+=>a74
+У меня уже есть кое-что для вас.<end>
+
+=>q75_original
+Oh? Well, let's see it then...<end>
+
+=>q75
+О? Хорошо, давай тогда посмотрим...<end>
+
+=>a76_original
+Goodbye, Mr. Ford.<end>
+
+=>a76
+До свидания, мистер Форд.<end>
+
+=>a77_original
+::Leave.::<end>
+
+=>a77
+::Уйти.::<end>
+
+=>a78_original
+That's a lot to catch.<end>
+
+=>a78
+Это много чего нужно поймать.<end>
+
+=>q79_original
+That's nothin', $(#son/woman), not for a big shot like you.<end>
+
+=>q79
+Это ерунда, $(#сынок/доча), особенно для такой важной шишки, как ты.<end>
+
+=>a80_original
+Actually, I don't think I'm willing to do this.<end>
+
+=>a80
+Вообще-то, я не уверен$(#/а), что хочу заниматься этим.<end>
+
+=>q81_original
+Quaker. You scared of puttin' your money where your mouth is. And I ain't askin' for much.<end>
+
+=>q81
+Трясун. Ты боишься поставить деньги на свои слова. И я не прошу много.<end>
+
+=>a82_original
+You know what? I'm not going to prove anything to you, old man.<end>
+
+=>a82
+Знаете что? Я не собираюсь ничего вам доказывать, старик.<end>
+
+=>a83_original
+So, how's the water here? In general, I mean.<end>
+
+=>a83
+Так, что, как клюёт? В смысле, в целом здесь.<end>
+
+=>q84_original
+Well, it might seem stupid to someone lookin' from afar, like, what in hell's goddamn railroad are those slackers doin' by that muddy puddle. But, listen, there's an underwater tunnel connectin' to a whole system of caves which are full of 'em eels.<end>
+
+=>q84
+Ну, это может и выглядит глупо для кого-нибудь издалека: что за дьяволова рельса, эти бездельники сидят вокруг мутной лужи. Но послушай, здесь есть подводный тоннель, соединяющийся с целой системой пещер, в которых полно этих угрей.<end>
+
+=>q85_original
+::He looks toward the tent and points to the man standing by the barrel.:: See that ugly yo-yo there? His name's Hopper Jim. Quaker at heart. Centipedes, spiders and all kinda bugs scare the livin' ooze out of him. But, man, can he fish like a spawn of siphoner. He caught a fifty kilo eel right 'ere. Mmm-hm.<end>
+
+=>q85
+::Он смотрит в сторону палатки и указывает на мужчину, стоящего возле бочки.:: Видишь вон того страшного клоуна? Его зовут Пещерник Джим. Трясун в сердце. Многоножки, пауки и любые козявки пужают его до мокрых штанишек. Но, $(#сынок/доча), он умеет рыбачить, как брызгунье отродье. Он поймал угря весом в пятьдесят кило прямо здесь. Ага.<end>
+
+=>a86_original
+Go on...<end>
+
+=>a86
+Продолжайте...<end>
+
+=>q87_original
+Now... it wasn't a regular ol' blue eel. It was a red behemoth with a yellow stripe on its side. I'd never seen anythin' like it before. Now that's a catch! And I, bein' the best fisherman in whole Underrail... South Underrail definitely, ain't gonna let someone like Hopper Jim outdo me.<end>
+
+=>q87
+Только... это был не обычный старый синий угорь. Это был красный исполин с жёлтой полосой на боку. Я никогда не видел ничего подобного. Вот это улов! И я, будучи лучшим рыбаком во всей Подземке... Южной Подземке, это точно, не позволю какому-то Пещернику Джиму уделать меня.<end>
+
+=>a88_original
+What happened to the red eel?<end>
+
+=>a88
+Что случилось с тем красным угрём?<end>
+
+=>q89_original
+::He leans forward, mouth open.:: Whatcha say?<end>
+
+=>q89
+::Он наклоняется вперёд с раскрытым ртом.:: Что ты сказал$(#/а)?<end>
+
+=>a90_original
+I said: What happened to the red eel Hopper Jim caught?<end>
+
+=>a90
+Я сказал$(#/а): что случилось с красным угрём, которого поймал Пещерник Джим?<end>
+
+=>q91_original
+He sold it to one of them Northerner wimps. United Stations feller. He weighed less than that eel. ::He laughs.:: Don't know how much he got for it, the bastard wouldn't tell.<end>
+
+=>q91
+Он продал его одному из этих северных слабаков. Парню из Объединённых Станций. Он весил меньше того угря. ::Он смеётся.:: Не знаю, сколько он получил за него, этот ублюдок не признаётся.<end>
+
+=>q92_original
+I think it be hangin' on some wall now, far as I heard.<end>
+
+=>q92
+Теперь он висит у кого-то на стене, как я слышал.<end>
+
+=>a93_original
+You think you're the best fisherman in Underrail? You?<end>
+
+=>a93
+Вы думаете, что вы самый лучший рыбак в Подземке? Вы?<end>
+
+=>q94_original
+Yeah. ::He squints at you with one of his eyes, while the other one sharpens up.:: Somethin' botherin' you, $(#son/woman)?<end>
+
+=>q94
+Да. ::Он прищуривает на вас один глаз, пока другим сверлит вас.:: Что-то не так, $(#сынок/доча)?<end>
+
+=>a95_original
+I'm pretty sure there are better fishermen than you out there, old man.<end>
+
+=>a95
+Я уверен$(#/а), что есть рыбаки и получше, старик.<end>
+
+=>q96_original
+"Pretty sure" my wrinkly old butt, $(#you little hopper son of a rail/you brainless baggage). <end>
+
+=>q96
+«Уверься» в моём старом морщинистом седалище, ты $(#мелкий пещерник сын рельсы/безмозглая нахалка).<end>
+
+=>q97_original
+What do you know, huh? 'Cause you sure sound like you think you're some kinda big shot, yeah, talkin' to *me*, Geezer Ford, like that. 
+
+You don't... you don't think *you*'re better than me, eh?<end>
+
+=>q97
+Да что ты знаешь, а? А то, тебя послушать, так ты со *мной*, старым Фордом, разговариваешь так, будто ты -- большой знаток.А может, ты... уж не думаешь ли ты, что *ты* лучше меня, а?<end>
+
+=>q98_original
+<end>
+
+=>q98
+<end>
+
+=>a99_original
+Maybe I am.<end>
+
+=>a99
+Может быть, я действительно лучше.<end>
+
+=>q100_original
+Oh? So you do think you're better than me? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
+
+=>q100
+О? Ты думаешь, что ты лучше меня? Хорошо. Хорошо. Докажи это. Докажи это, $(#сынок/доча).<end>
+
+=>a101_original
+How do you want me to prove it?<end>
+
+=>a101
+Как вы хотите, чтобы я это доказал$(#/а)?<end>
+
+=>q102_original
+::He turns silent as his mind retreats to envision an appropriate challenge. Eventually, it emerges with one.::
+
+I betcha you couldn't even do the southern tour.<end>
+
+=>q102
+::Он затихает, пока пытается придумать соответствующую задачу. В конце концов ему это удаётся.::
+
+Могу поспорить, ты даже не справишься с южным туром.<end>
+
+=>a103_original
+I could.<end>
+
+=>a103
+Конечно, справлюсь.<end>
+
+=>q104_original
+::His suspicious eyes begin to burn you.::
+
+Do you even know what a southern tour is?<end>
+
+=>q104
+::Его подозрительные глаза обжигают вас взглядом.::
+
+Ты хоть знаешь, что такое южный тур?<end>
+
+=>a105_original
+::[Intelligence]:: You travel South Underrail and catch fish.<end>
+
+=>a105
+::[Интеллект]:: Это когда ты путешествуешь по Южной Подземке и ловишь рыбу.<end>
+
+=>q106_original
+What fish?<end>
+
+=>q106
+Какую рыбу?<end>
+
+=>a107_original
+Only the biggest and rarest you can find.<end>
+
+=>a107
+Только самую крупную и редкую, какую можно найти.<end>
+
+=>q108_original
+You know nothin'. Phony hopper. Thinkin' you're big shot.<end>
+
+=>q108
+Ты не знаешь ничего. Дутый пещерник. Думаешь, что ты большая шишка.<end>
+
+=>q109_original
+A southern tour is when you fish for one of each kind in South Underrail. Now, we ain't talking about one-of-a-kind stuff, like them red eels and stuff, but the more... common species. That don't mean it gonna be easy.<end>
+
+=>q109
+Южный тур -- это когда ты ловишь по одной рыбе каждого вида, что водятся в Южной Подземке. Я не говорю об уникальных экземплярах, таких как красные угри и прочее, просто более... распространённые виды. Но это ещё не значит, что будет легко.<end>
+
+=>q110_original
+Now, I ain't gonna ask of you to catch exactly every kinda fish there is, that'd take too long. I ain't gonna wait a year for a sorry excuse for a fisherman such as yourself to fish 'em all out.<end>
+
+=>q110
+Я уж не собираюсь заставлять тебя ловить по экземпляру всех видов рыб, что здесь водятся, это заняло бы слишком много времени. Я не собираюсь ждать год, пока такая жалкая пародия на рыбака, как ты, не выловит их всех.<end>
+
+=>a111_original
+Red eels only.<end>
+
+=>a111
+Только красных угрей.<end>
+
+=>a112_original
+It doesn't matter, you just catch as much as you can carry.<end>
+
+=>a112
+Это не имеет значения, просто наловить столько, сколько сможешь унести.<end>
+
+=>a113_original
+One of each species.<end>
+
+=>a113
+По одной каждого вида.<end>
+
+=>q114_original
+Good. You ain't an absolute slackjaw. But that ain't provin' anythin'.<end>
+
+=>q114
+Хорошо. Ты не полный разирот. Но это ничего не доказывает.<end>
+
+=>a115_original
+Any you can find.<end>
+
+=>a115
+Всю, что сможешь найти.<end>
+
+=>a116_original
+Well...<end>
+
+=>a116
+Ну...<end>
+
+=>q117_original
+::He explodes with laughter, its echo so loud you feel it manages to reach every ear in Junkyard.::
+
+You ain't nothin' if you've never done a southern tour, $(#son/woman).<end>
+
+=>q117
+::Он лопается от смеха, его эхо, пожалуй, услышит каждое ухо на Свалке.::
+
+Ты никто, $(#сынок/доча), если ты не совершал$(#/а) южного тура.<end>
+
+=>a118_original
+Erm...<end>
+
+=>a118
+Эм...<end>
+
+=>a119_original
+Yeah...<end>
+
+=>a119
+Да...<end>
+
+=>a120_original
+I think...<end>
+
+=>a120
+Я думаю...<end>
+
+=>a121_original
+Ehm... what is the southern tour exactly?<end>
+
+=>a121
+Э-э... что такое южный тур?<end>
+
+=>a122_original
+Better, no. Good enough to see you're full of it? That I am.<end>
+
+=>a122
+Лучше? Нет. Достаточно хорош$(#/а), чтобы видеть что вы просто хвастун? Это да.<end>
+
+=>q123_original
+Good enough? Alright. Alright. Prove it. Prove it, $(#son/woman).<end>
+
+=>q123
+Достаточно хорош$(#/а)? Хорошо. Отлично. Докажи это. Докажи это, $(#сынок/доча).<end>
+
+=>a124_original
+No, I don't think I'm better.<end>
+
+=>a124
+Нет, я не думаю, что я лучше.<end>
+
+=>q125_original
+Then shut your yap. Hell...<end>
+
+=>q125
+Тогда заткни свою пасть. Дьявол...<end>
+
+=>q126_original
+'T's like talkin' to a retarded slackjaw.<end>
+
+=>q126
+Как будто говоришь с отсталым разиротом.<end>
+
+=>a127_original
+Well, Hopper Jim seems to be a better fisherman than you.<end>
+
+=>a127
+Ну, Пещерник Джим, как мне кажется, лучший рыбак, чем вы.<end>
+
+=>q128_original
+What? Hopper Jim ain't a better fisherman than Geezer Ford, $(#you little hopper son of a rail/you brainless baggage). <end>
+
+=>q128
+Что? Пещерник Джим не лучший рыбак, чем старикан Форд, ты, $(#мелкий пещерник сын рельсы/безмозглая нахалка).<end>
+
+=>a129_original
+Nothing, nothing. Let me ask you something else.<end>
+
+=>a129
+Ничего, ничего. Позвольте мне спросить кое-что ещё.<end>
+
+=>q130_original
+Don't you be changin' the subject on me, $(#you little hopper son of a rail/you brainless baggage). <end>
+
+=>q130
+Не уходи от темы, ты $(#мелкий пещерник сын рельсы/безмозглая нахалка).<end>
+
+=>a131_original
+What's your record?<end>
+
+=>a131
+Каков ваш рекорд?<end>
+
+=>q132_original
+It ain't about the weight, if that's whatcha thinking, it about the principle. I've caught bigger fish. Sixty, seventy kilos - no problem. Hell, I was doin' ferry tours before Jim was even fillin' his diapers. I caught the *largest* slackjaw Core City's ever seen. I caught more walkin' fishes than he caught fleas bittin' into his skin. But he caught a fifty-kilo red eel in this pool right 'ere.<end>
+
+=>q132
+Дело не в весе, если ты об этом подумал$(#/а), дело в принципе. Я ловил рыбу и побольше. Шестьдесят, семьдесят килограмм, -- не проблема. Проклятье, я ходил на пароме, когда Джим ещё под стол пешком не ходил. Я поймал *самого* большого разирота, которого когда-либо видел Кор-Сити. Я поймал больше ходячих рыб, чем он выловил блох, кусающих его шкуру. Но он поймал красного угря на пятьдесят кило в этой луже, прямо здесь.<end>
+
+=>q133_original
+That means I gotta catch somethin' better and bigger and rub it in his nose. If not a red eel, then somethin' else. That's what it all about, $(#son/woman). That's what it all about.<end>
+
+=>q133
+Это значит, что я должен поймать что-то получше и побольше и повозить им ему по харе. Если не красного угря, то что-нибудь ещё. Вот так, $(#сынок/доча). Вот так.<end>
+
+=>a134_original
+I would like to change the subject.<end>
+
+=>a134
+Я хотел$(#/а) бы сменить тему.<end>
+
+=>q135_original
+I'll catch another one of 'em. There's more and I know it. You wait and see.<end>
+
+=>q135
+Я поймаю ещё одного такого. Там их много, и я это знаю. Подожди и увидишь.<end>
+
+=>a136_original
+Is this one of *those* fishing stories?<end>
+
+=>a136
+Это одна из *тех* рыбацких баек?<end>
+
+=>q137_original
+No. It was fifty kilos. I swear on me wife's grave.<end>
+
+=>q137
+Нет. Он весил пятьдесят килограмм. Клянусь могилой моей жены.<end>
+
+=>a138_original
+Did Hopper Jim beat some kind of record of yours by catching that red eel?<end>
+
+=>a138
+Пещерник Джим побил какой-то ваш рекорд, поймав этого красного угря?<end>
+
+=>a139_original
+I gotta go. I'll catch you later.<end>
+
+=>a139
+Мне надо идти. Поговорим в следующий раз.<end>
+
+=>a140_original
+Got it, Mr. Ford. I'm $(context.player.Name).<end>
+
+=>a140
+Ясно, мистер Форд. Меня зовут $(context.player.Name).<end>
+
+=>q141_original
+::He nods.::<end>
+
+=>q141
+::Он кивает.::<end>
+
+=>a142_original
+Geezer Ford. Why do they call you that?<end>
+
+=>a142
+Старикан Форд. Почему вас так называют?<end>
+
+=>q143_original
+Hey! *Mr. Ford*. Your ears are workin' worse than mine, $(#son/woman).<end>
+
+=>q143
+Эй! *Мистер Форд*. Твои уши работают хуже чем мои, $(#сынок/доча).<end>
+
+=>a144_original
+I heard you right, but I'm sticking with Geezer Ford. Suits you better.<end>
+
+=>a144
+Я всё прекрасно расслышал$(#/а), но я остаюсь при своём мнении - старикан Форд. Вам больше это подходит.<end>
+
+=>q145_original
+Look here, $(#you little hopper son of a rail/you brainless baggage). I ain't gonna stand here and listen to you disrespectin' me, you dig? Now get lost!<end>
+
+=>q145
+Слушай сюда, ты, $(#мелкий пещерник сын рельсы/безмозглая нахалка). Я не собираюсь слушать твои оскорбления, сечёшь? Теперь отвали!<end>
+
+=>a146_original
+Someone's sensitive. Bye, old man.<end>
+
+=>a146
+Какой обидчивый. Пока, старик.<end>
+
+=>a147_original
+Stupid old jerk.<end>
+
+=>a147
+Глупый старый болван.<end>
+
+=>a148_original
+::Nod and leave.::<end>
+
+=>a148
+::Кивнуть и уйти.::<end>
+
+=>a149_original
+Let's talk then.<end>
+
+=>a149
+Ну давай поговорим.<end>
+
+=>q150_original
+Yeah.<end>
+
+=>q150
+Ага.<end>
+
+=>a151_original
+How about you tell me something about yourself?<end>
+
+=>a151
+А не хотите рассказать мне что-нибудь о себе?<end>
+
+=>a152_original
+About Junkyard.<end>
+
+=>a152
+О Свалке.<end>
+
+=>a153_original
+About fishing.<end>
+
+=>a153
+О рыбалке.<end>
+
+=>a154_original
+I said: Nice catch.<end>
+
+=>a154
+Я говорю, хороший улов.<end>
+
+=>q155_original
+Wha'? That thing? ::He laughs.:: That ain't good enough to feed a cat, $(#son/woman). If you're tryin' to act nice, then don't, and if you're tryin' to make fun of me then go stick your head in a siphoner's rear, ya dig?<end>
+
+=>q155
+Чта? Эта козявка? ::Он смеётся.:: Его бы не хватило, чтобы накормить даже кошку, $(#сынок/доча). Если ты пытаешься выглядеть дружелюбно, не надо. Если хочешь посмеяться надо мной, пойди и засунуть свою голову в зад брызгуну, сечёшь?<end>
+
+=>a156_original
+I didn't mean it in any bad way. Anyway, could I ask you a couple of questions?<end>
+
+=>a156
+Я не имел$(#/а) в виду ничего плохого. В общем, могу я задать вам пару вопросов?<end>
+
+=>a157_original
+Actually, I *was* trying to mock you. That was the lamest catch I've ever seen.<end>
+
+=>a157
+По правде говоря, я действительно издеваюсь над тобой. Это был самый убогий улов, который я когда-либо видел$(#/а).<end>
+
+=>q158_original
+Get outta here, you hopper son of a rail! I ain't gonna listen to you speaking outta your ass, you dig? Get lost!<end>
+
+=>q158
+Убирайся отсюда, ты, пещерник $(#сын/дочь) рельсы! Я не собираюсь слушать, что ты там говоришь из своей жопы, понял$(#/а)? Исчезни!<end>
+
+=>a159_original
+I said: Why did you release it back to the water?<end>
+
+=>a159
+Я говорю, почему вы отпустили его обратно в воду?<end>
+
+=>q160_original
+Wha'? The eel? I ain't gonna eat a tiny eel. It's too small to feed a cat. No, you let 'em live and grow, and then you catch them and eat them. Or sell 'em, whatever.<end>
+
+=>q160
+Чта? Угря? Я не собираюсь есть крошечного угря. Он слишком мал, чтобы накормить даже кошку. Нет, дай ему вырасти, и тогда лови и ешь. Или продай, как хочешь.<end>
+
+=>a161_original
+I see. Can I ask you a couple of questions?<end>
+
+=>a161
+Понятно. Могу я задать пару вопросов?<end>
+
+=>a162_original
+::Speak to yourself.:: Yeah, you didn't catch anything good today.<end>
+
+=>a162
+::Тихо пробормотать.:: Да уж, сегодня ты без улова.<end>
+
+=>q163_original
+You stop mumbling, $(#son/woman), and speak up.<end>
+
+=>q163
+Ты прекрати бормотать, $(#сынок/доча), и говори громче.<end>
+
+=>a164_original
+Nice catch.<end>
+
+=>a164
+Хороший улов.<end>
+
+=>a165_original
+Why'd you let it back into the water?<end>
+
+=>a165
+Почему вы отпустили его обратно в воду?<end>
+
+=>a166_original
+Greetings, old man.<end>
+
+=>a166
+Привет, старик.<end>
+
+=>a167_original
+Fishing, are we?<end>
+
+=>a167
+Рыбу ловим, да?<end>
+
+=>a168_original
+Can I ask you a few questions?<end>
+
+=>a168
+Могу я задать пару вопросов?<end>
+
+=>a169_original
+::Leave him alone.::<end>
+
+=>a169
+::Оставить его в покое.::<end>
+
+=>q170_original
+You again.<end>
+
+=>q170
+Снова ты.<end>
+

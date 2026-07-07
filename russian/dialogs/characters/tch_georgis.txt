@@ -1,0 +1,1680 @@
+﻿=>q1_original
+Save yourself, $(#brother/sister)!<end>
+
+=>q1
+Спасайтесь, $(#брат/сестра)!<end>
+
+=>q2_original
+Can't talk right now, $(#brother/sister) - something important is happening!<end>
+
+=>q2
+Не могу сейчас разговаривать, $(#брат/сестра), происходит что-то важное!<end>
+
+=>q3_original
+::He yawns.:: Um, Tchort is evolution, $(context.player.Name)...<end>
+
+=>q3
+::Он зевает.:: Эм, Чорт -- это эволюция, $(context.player.Name)...<end>
+
+=>q4_original
+::You yawn in unison with him.::<end>
+
+=>q4
+::Вы зеваете в унисон с ним.::<end>
+
+=>q5_original
+How are you feeling?<end>
+
+=>q5
+Как вы себя чувствуете?<end>
+
+=>a6_original
+As apex as siphoner in a pig pen.<end>
+
+=>a6
+Верховно как брызгун в свинарнике.<end>
+
+=>q7_original
+Yes, right - that sounds apex. Excellent!<end>
+
+=>q7
+Да, да, звучит верховно. Отлично!<end>
+
+=>q8_original
+Unfortunately - or fortunately - no one in the department or otherwise was there to see how dedicated we were to science, I... think, that is...<end>
+
+=>q8
+К сожалению или к счастью, никто с кафедры, да и вообще никто не видел, как мы были посвящены науке, я... так думаю, по крайней мере...<end>
+
+=>q9_original
+I got some good results which I will analyze them later, once my head is well again. As for you, $(context.player.Name), your input was incredibly valuable and, therefore, I give you this. ::He hands you three hundred stygian coins.:: Thank you for your time and dedication. It is... appreciated.<end>
+
+=>q9
+Я получил некоторые обнадёживающие результаты, но рассмотрю их позже, как только в голове перестанет гудеть. Что до вас, $(context.player.Name), ваш вклад был невероятно ценен, и поэтому я дам вам вот это. ::Он протягивает вам триста стигийских монет.:: Спасибо за вашу помощь и проявленный интерес, я это... ценю.<end>
+
+=>q10_original
+::He yawns.:: Do you need anything else?<end>
+
+=>q10
+::Он зевает.:: Вам нужно что-нибудь ещё?<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+I volunteer to drink!<end>
+
+=>a12
+Я не прочь выпить!<end>
+
+=>q13_original
+$(#Brother/Sister), we are doing important scientific work - we are *not* doing this out of pure fun. Now please wait for me while I inform Investigator Octavia that we are not to be disturbed.<end>
+
+=>q13
+$(#Брат/Сестра), мы делаем важную научную работу, это *не* ради собственного удовольствия. А теперь, пожалуйста, подождите, я скажу исследователю Октавии, чтобы нас не беспокоили.<end>
+
+=>a14_original
+::Get ready.::<end>
+
+=>a14
+::Приготовиться.::<end>
+
+=>a15_original
+I am sorry, but I don't drink alcohol. Therefore I would be very bad at helping you.<end>
+
+=>a15
+Сожалею, но я не пью алкоголь. Поэтому я не в состоянии помочь вам.<end>
+
+=>q16_original
+Ah, that *is* unfortunate news. I guess I got a bit different impression of you...<end>
+
+=>q16
+Ах, это не очень хорошие новости. У меня сложилось о вас немного другое впечатление...<end>
+
+=>q17_original
+Well, don't worry, $(context.player.Name), I will find someone else to assist me. Don't worry about it in the slightest.<end>
+
+=>q17
+Ну, не переживайте, $(context.player.Name), я найду кого-нибудь другого. Не беспокойтесь об этом нисколечко.<end>
+
+=>a18_original
+I am looking for some work.<end>
+
+=>a18
+Я ищу какую-нибудь работу.<end>
+
+=>q19_original
+Oh, interested in becoming an investigator? That is apex! Excellent! Institute of Tchort welcomes young and prosperous $(#men/women) such as yourself. You know... an old quote by Illustrious Eidein just sprang to my mind: "Tchortists are like nucleotides from which DNA is composed - small building blocks that together form something truly great." Actions of each individual lead to the creation of something better. Every piece of the puzzle is important.<end>
+
+=>q19
+Ох, хотите стать исследователем? Это верховно! Отлично! Институт Чорта приветствует молодых и многообещающих людей вроде вас. Знаете... старая цитата сиятельного Эйдейна приходит на ум: «Чортисты -- как нуклеотиды, из которых состоит ДНК -- малые строительные блоки, которые вместе образуют нечто поистине великое». Действия каждого отдельного человека ведут к созданию чего-то лучшего. Каждый кусочек мозаики важен.<end>
+
+=>q20_original
+If you are willing to become a piece just like the rest of us then together we *will* complete the puzzle. Yes... 
+
+In any case, I have some work just for you!<end>
+
+=>q20
+Если вы готовы стать таким же кусочком, как и все мы, тогда мы сложим эту головоломку. Да... 
+
+В любом случае, у меня есть работа как раз для вас!<end>
+
+=>a21_original
+I'm as ready as I'll ever be.<end>
+
+=>a21
+Готовее чем сейчас я вряд ли когда-нибудь буду.<end>
+
+=>q22_original
+Yes, right. <end>
+
+=>q22
+Да, точно.<end>
+
+=>q23_original
+I currently need you to help me with two things: First is related to an experimental chemical weapon, a pistol to be precise, that needs some combat testing. Judging from your recent history of Lunatic decimation you shouldn't have trouble with this one. ::He laughs.:: Those feral creatures...<end>
+
+=>q23
+В настоящее время мне нужна ваша помощь с двумя вещами: первая связана с экспериментальным химическим оружием, точнее с пистолетом, которое требует некоторых боевых испытаний. Судя по вашей недавней истории истребления безумцев, у вас не должно возникнуть проблем с этим. ::Он смеется.:: Эти дикие твари...<end>
+
+=>q24_original
+Anyway, the second is related to the matter of locating and retrieving research data our department would find incredibly useful. It would require you to leave the Institute building. I haven't left the building since I got here; it was around eighty-five if I remember correctly, at the time of Core City riots, so I don't know how much outside has changed, and therefore, how much will my directions be accurate.<end>
+
+=>q24
+Второй же касается розыска и получения данных исследований, которые наша кафедра нашла бы очень и очень полезными. Это дело потребует от вас покинуть здание Института. Я ещё ни разу не выходил наружу с тех пор, как попал сюда; было это примерно в году восемьдесят пятом, если я не ошибаюсь, в период беспорядков в Кор-Сити, так что я не знаю, как сильно всё изменилось, и, соответственно, насколько мои указания будут точны.<end>
+
+=>q25_original
+So $(#brother/sister), are you still interested? If you are, I can give you the details.<end>
+
+=>q25
+Ну что, $(#брат/сестра), вас всё ещё интересует эта работа? Если да, я сообщу вам детали.<end>
+
+=>a26_original
+Tchort guide your words, brother.<end>
+
+=>a26
+Ваши слова, да Чорту в уши, брат.<end>
+
+=>a27_original
+I want to do some sciency stuff!<end>
+
+=>a27
+Я хочу заниматься научными штуками!<end>
+
+=>q28_original
+All in due time, $(context.player.Name), all in due time. First, I had use for some of your, uh... other skills.<end>
+
+=>q28
+Всему своё время, $(context.player.Name), всему своё время. Для начала мне пригодились бы некоторые из ваших, э-э... особых навыков.<end>
+
+=>a29_original
+As long as you're not sticking needles in me...<end>
+
+=>a29
+Только не втыкайте в меня иголки...<end>
+
+=>q30_original
+No, of course not. No, no, what I had in mind is nothing of the sort. Nothing that would require you to be so passive. In any case...<end>
+
+=>q30
+Нет, конечно нет. Нет, нет, я не имел в виду ничего подобного. Ничего, что потребовало бы от вас столь пассивной роли. В любом случае...<end>
+
+=>a31_original
+Do you have any more work for me?<end>
+
+=>a31
+Есть ещё работа для меня?<end>
+
+=>q32_original
+Well... huh... yes, why not! I do have something for you, $(context.player.Name). I need a-- ::He yawns.:: a test subject.<end>
+
+=>q32
+Ну... хм... да, почему бы и нет! У меня есть кое-что для вас, $(context.player.Name). Мне нужен... ::Зевает.:: подопытный.<end>
+
+=>a33_original
+What are you going to inject me with?<end>
+
+=>a33
+Что вы собираетесь мне вколоть?<end>
+
+=>q34_original
+I am not going to inject you with anything... although if you *really* wish me to, I had some other things I've been wanting to... No, no, that's a whole different story...<end>
+
+=>q34
+Я не собираюсь вам ничего колоть... хотя, если вы хотите, у меня завалялась пара препаратов, которые давно пора... Нет, нет, это совсем другая история...<end>
+
+=>q35_original
+Listen, during the years I've had some time to pursue a more... personal project. Not many of my colleagues are aware of what I'm doing, $(#brother/sister), so I ask of you to keep this between you and me. Now, uh, as an organic chemist... No, as an expert in the field of organic chemistry... Ah, I'll just be straight with you - I've been wishing to make the perfect alcoholic beverage!<end>
+
+=>q35
+Слушайте, за эти долгие годы у меня было время заняться более... персональным проектом. Немногие мои коллеги знают, что я этим занимаюсь, $(#брат/сестра), поэтому я прошу сохранить это между нами. Так вот, хм, как химик-органик... Нет, как специалист в области органической химии... Ах, я буду с вами откровенен -- я давно хотел создать идеальный спиртной напиток!<end>
+
+=>q36_original
+Yes, that's right: I am making strong liquor - approximately fifty percent alcohol content. Now, that's decent; at least for me. That is, of course, not the most important thing - what is important is the taste, smell, consistency and all the other qualities. You know, you would like the drink itself to be enjoyable first and foremost, right?<end>
+
+=>q36
+Да, именно так: я делаю крепкое спиртное, примерно пятьдесят градусов. Хорошая штука, по крайней мере, на мой вкус. Это, конечно, не самое главное; главное -- вкус, запах, консистенция и другие детали. Прежде всего, сам напиток должен быть приятен, вы понимаете меня, не правда ли?<end>
+
+=>a37_original
+And you need a test subject because...?<end>
+
+=>a37
+И вам нужен подопытный, потому что?..<end>
+
+=>q38_original
+Hold on, I'm not finished. Uh, where was I.... Yes, right! Now, there aren't many natural ingredients containing adequate amounts of sugar to convert to alcohol during the distillation process - not that are available to me at least. I mean, there are *some* mushrooms which can be used, technically, but Tchort's tentacles pull me down and strangle me, those produce dreadful results. I have no idea how Underrail folk can consume that... swill. Eidein pardon me, but that thing's worse than boiled rathound urine!<end>
+
+=>q38
+Подождите, я не закончил. Ох, на чём это я... Ах да! Так вот, существует не так много натуральных продуктов, содержащих достаточное количество сахара, чтобы получить алкоголь в ходе процесса дистилляции -- по крайней мере, не в моём распоряжении. Конечно, есть кое-какие грибы, но, утащи и задуши меня Чортовы щупальца, они дают ужасные результаты. Я понятия не имею, как жители Подземки могут потреблять это... пойло. Прости меня Эйдейн, но оно хуже чем кипячёная крысоволчья моча!<end>
+
+=>q39_original
+To get to the point, the liquor I make is synthetic - but the aim is to produce a very pleasant result, as if it was a nature's gift and not, well, laboratory meddling. Good enough even for our illustrious Eidein himself! But one needs to be an expert, for even small mistakes can cause the end result to be... *disastrous*!<end>
+
+=>q39
+По сути, мой напиток -- синтетический, но моя цель в том, чтобы создать очень приятный вкус, как если бы он был даром природы, а не, ну, продуктом лаборатории. Достойный даже нашего сиятельного Эйдейна! Но здесь нужен эксперт, ведь даже небольшие ошибки могут привести к... *катастрофическому* результату!<end>
+
+=>q40_original
+So I need a volunteer...volunteer... Yes! Now *that* sounds a lot better than "test subject;" I need to remember that... Anyway, $(#brother/sister): I need a volunteer to try out several samples I had prepared. I will be doing the testing with you, so do not worry - if I'm drinking it with you, you should know it's good! If you are interested, $(#brother/sister), I have everything close by and we can begin at any time.<end>
+
+=>q40
+Поэтому мне нужен доброволец... доброволец... Да! Это звучит намного лучше, чем «подопытный»; нужно запомнить... Короче, $(#брат/сестра): мне нужен доброволец, чтобы опробовать несколько образцов. Я буду проводить тестирование вместе с вами, так что не переживайте -- если я пью то же самое, значит это хорошая выпивка! Если вы заинтересованы, $(#брат/сестра), у меня всё готово, и мы можем начать в любое время.<end>
+
+=>a41_original
+Oh, I see! You want me to test your booze!<end>
+
+=>a41
+А, всё ясно! Вы хотите, чтобы я попробовал$(#/а) ваш самогон!<end>
+
+=>a42_original
+Is drinking even allowed in Institute of Tchort?<end>
+
+=>a42
+А выпивка в Институте Чорта разве не запрещена?<end>
+
+=>a43_original
+Will it cause me to mutate into a hideous creature with superhuman strength?<end>
+
+=>a43
+А я, случайно, не мутирую в отвратительное существо с нечеловеческой силой?<end>
+
+=>q44_original
+No! It shouldn't... NO! Magnificent Tchort! It's nothing of the sort...<end>
+
+=>q44
+Нет! Да не должно... НЕТ! Чорт великолепный! Ничего подобного...<end>
+
+=>a45_original
+What exactly do you have in mind?<end>
+
+=>a45
+Вы о чём?<end>
+
+=>a46_original
+I don't think I like the sound of that...<end>
+
+=>a46
+Что-то мне не нравится как это звучит...<end>
+
+=>q47_original
+Wait! Wait, hold it, $(#brother/sister), I might have expressed myself badly. Pardon me. Allow me to explain what I meant...<end>
+
+=>q47
+Подождите! Подождите, постойте, $(#брат/сестра), я, пожалуй, не так выразился. Прошу прощения. Позвольте мне объяснить, что я имел в виду...<end>
+
+=>a48_original
+No way! I'm not going to be a test subject!<end>
+
+=>a48
+Ни за что! Я не собираюсь становиться подопытн$(#ым/ой)!<end>
+
+=>a49_original
+There was a problem with XAL-001 - a major problem.<end>
+
+=>a49
+Обнаружилась проблема с ЭКП-001 -- серьёзная проблема.<end>
+
+=>q50_original
+Wh-- Magnificent Tchort! ::He rubs his eyes.:: Tell me what happened, $(#brother/sister)?<end>
+
+=>q50
+Чт... Чорт великолепный! ::Он протирает глаза.:: Скажите мне, что случилось, $(#брат/сестра)?<end>
+
+=>a51_original
+At first it worked fine but after some time it started leaking acid and spraying it in all directions - even back at me.<end>
+
+=>a51
+Сначала он работал нормально, но через некоторое время начал течь кислотой и разбрызгивать её во все стороны, даже на меня.<end>
+
+=>q52_original
+I... I am speechless... We performed numerous tests but... I guess we overlooked something... <end>
+
+=>q52
+Я... У меня нет слов... Мы провели столько тестов, но... очевидно, мы что-то упустили...<end>
+
+=>q53_original
+Magnificent Tchort... His Excellency will not be happy. Luckily he is not here at the moment and... hmmm. Listen, may I have XAL-001 back so that we can investigate what caused the issue?<end>
+
+=>q53
+Чорт великолепный... Его превосходительство будет не в восторге. К счастью, он в данный момент в отъезде и... хм-м-м. Ладно, могу я забрать ЭКП-001 обратно, чтобы мы могли разобраться, что вызвало сбой?<end>
+
+=>a54_original
+Here you go. ::Give him XAL-001.::<end>
+
+=>a54
+Вот. ::Отдать ему ЭКП-001.::<end>
+
+=>q55_original
+Thank you, $(#brother/sister)... I am very disappointed with this abortive test; I thought we had it! But alas...<end>
+
+=>q55
+Спасибо, $(#брат/сестра)... Я очень разочарован провальным результатом; я думал, всё получится! Но увы...<end>
+
+=>a56_original
+I'm sure you'll get it right next time.<end>
+
+=>a56
+Я уверен$(#/а), в следующий раз получится.<end>
+
+=>q57_original
+Yes, right, you have a point there. If we allow ourselves to be stopped by every obstacle we will never get anywhere.<end>
+
+=>q57
+Да, да, тут вы правы. Если останавливаться перед каждым препятствием, мы не сдвинемся с места.<end>
+
+=>q58_original
+This is for you, $(#brother/sister). ::He hands you three hundred stygian coins.:: XAL, XAL... magnificent Tchort.<end>
+
+=>q58
+Это вам, $(#брат/сестра). ::Он протягивает вам триста стигийских монет.:: ЭКП, ЭКП... Чорт великолепный.<end>
+
+=>q59_original
+<end>
+
+=>q59
+<end>
+
+=>a60_original
+So, do I get something for my work?<end>
+
+=>a60
+Так, я что-нибудь получу за свою работу?<end>
+
+=>q61_original
+Yes, right! Thanks for reminding me.<end>
+
+=>q61
+Да, да! Спасибо, что напомнили.<end>
+
+=>a62_original
+Abortive test? That junk you gave me nearly cost me my life!<end>
+
+=>a62
+Провальным результатом? Да из-за этого куска хлама я чуть копыта не отбросил$(#/а)!<end>
+
+=>q63_original
+Ugh, I am really sorry about that; had I known the test would be so catastrophic I wouldn't have asked of you to perform it. I hope you forgive me, $(#brother/sister). I am sorry.<end>
+
+=>q63
+Ох, я очень об этом сожалею; если бы я знал, что результат будет таким катастрофическим, я не стал бы вас просить делать это. Я надеюсь, вы простите меня, $(#брат/сестра). Я перед вами виноват.<end>
+
+=>a64_original
+I don't have it anymore...<end>
+
+=>a64
+У меня его больше нет...<end>
+
+=>q65_original
+You-- Why not?<end>
+
+=>q65
+Вы... Почему нет?<end>
+
+=>a66_original
+It just fell apart after it started causing troubles.<end>
+
+=>a66
+Он просто развалился на части, после того как начались неприятности.<end>
+
+=>q67_original
+It fell apart...? Magnificent Tchort, that is even worse news.<end>
+
+=>q67
+Он развалился?.. Чорт великолепный, хуже новости не придумать.<end>
+
+=>q68_original
+No, no, no... How can I see what is wrong with the weapon if I don't have the wretched thing!?<end>
+
+=>q68
+Нет, нет, нет... Как я смогу узнать, что случилось с оружием, если у меня его даже нет?!<end>
+
+=>a69_original
+I am very sorry, but it is what it is. There was nothing I could've done.<end>
+
+=>a69
+Я очень извиняюсь, но так уж получилось. Я ничего не мог$(#/ла) поделать.<end>
+
+=>q70_original
+::He calms down after a second.:: Yes, right... it is what it is. Well, based on your description on what had happened I'm sure we will know where to look for what caused the problem. Yes, yes...<end>
+
+=>q70
+::Он успокаивается через секунду.:: Да, да... ничего не поделаешь. Что же, исходя из вашего описания, мы, должно быть, сможем установить что вызвало проблему. Да, да...<end>
+
+=>q71_original
+I apologize for reacting that way; Eidein pardon me. The next version of the weapon will be better, I promise. This is for you, $(#brother/sister). ::He hands you three hundred stygian coins.::<end>
+
+=>q71
+Я извиняюсь за то, что так себя повёл; прости меня Эйдейн. Следующий прототип будет лучше, я обещаю. Это вам, $(#брат/сестра). ::Он протягивает вам триста стигийских монет.::<end>
+
+=>a72_original
+I risked my life to test that worthless junk and all you do is complain?<end>
+
+=>a72
+Я рисковал$(#/а) своей жизнью, чтобы испытать этот кусок хлама, а вы только жалуетесь?<end>
+
+=>q73_original
+::He calms down after a second.:: Listen, I didn't mean in that way. I am happy that you have returned to us in one piece, $(#brother/sister), I really am. Um... in the end, even without the weapon itself I believe we will know where to look for the cause of the problem - based on what you said, of course.<end>
+
+=>q73
+::Он успокаивается через секунду.:: Послушайте, я не это хотел сказать. Я рад видеть вас в целости и сохранности, $(#брат/сестра), в самом деле. Хм... в конце концов, думаю, даже без самого оружия мы найдём причину проблемы на основе того, что вы рассказали, конечно.<end>
+
+=>a74_original
+I had to discard it in the heat of combat.<end>
+
+=>a74
+Мне пришлось выбросить его в пылу боя.<end>
+
+=>q75_original
+You discarded it in combat...? Magnificent Tchort, that is even worse news.<end>
+
+=>q75
+Вы выбросили его в бою?.. Чорт великолепный, хуже новости не придумать.<end>
+
+=>a76_original
+I managed to find some data on protein design in Hecate Research Outpost. Here. ::Give him the data.::<end>
+
+=>a76
+Мне удалось найти некоторые данные по белковой инженерии в Исследовательском центре Геката. Вот. ::Дать ему данные.::<end>
+
+=>q77_original
+You did? Oh, that is apex, $(#brother/sister)! I'll send this right through to my assistants! <end>
+
+=>q77
+Вы их нашли? Ох, верховно, $(#брат/сестра)! Я немедленно передам это моим ассистентам!<end>
+
+=>q78_original
+And this is for you, $(#brother/sister). ::He gives you three hundred stygian coins.:: I will mention this to Episkopos Lydia at the next symposium, have no fear. Listen, if you keep this up, you might have a good future in Investigation. Honestly.<end>
+
+=>q78
+А это вам, $(#брат/сестра). ::Он даёт вам триста стигийских монет.:: Я скажу о вас епископу Лидии на следующем симпозиуме, не сомневайтесь. Знаете, если вы будете так продолжать, то вам светит большое будущее в Исследовании. Честно-честно.<end>
+
+=>q79_original
+<end>
+
+=>q79
+<end>
+
+=>a80_original
+I will test XAL-001 for you. May I have it?<end>
+
+=>a80
+Я испытаю ваш ЭКП-001. Могу я получить его?<end>
+
+=>q81_original
+Ah, apex! Here it is in all its glory. ::He hands you the chemical pistol.::<end>
+
+=>q81
+Ах, верховно! Вот он, во всей красе. ::Он вручает вам химический пистолет.::<end>
+
+=>q82_original
+::The moment you are receive the chemical pistol you start inspecting it in great detail. You do so out of curiosity; you have substantial knowledge of mechanics and chemistry and are interested in the way weapons like this work. It doesn't take long, however, to spot a potential problem.::<end>
+
+=>q82
+::Получив химический пистолет, вы начинаете изучать его в мельчайших подробностях. Вы делаете это из любопытства, ведь обладаете значительными познаниями в областях механики и химии, и интересуетесь принципами работы подобного оружия. У вас уходит немного времени на то, чтобы обнаружить потенциальную проблему.::<end>
+
+=>q83_original
+::Namely, you are able to notice that the design of the sprayer, most importantly its small diameter, is unfit for the weapon with an increased rate of fire such as this, as described by Georgis. While it might work without problems in a safe environment, combat use would most certainly cause a jam after a short period of time due to dirt and other small particle accumulation. The consequence of this would be the build-up of pressure inside the weapon with potentially disastrous results.::<end>
+
+=>q83
+::А именно, вы замечаете, что конструкция сопла, в частности, его малый диаметр, не подходит для оружия с таким с высоким темпом стрельбы, как описал Георгис. Хотя оно может без проблем работать в контролируемой среде, боевое применение, несомненно, приведёт к быстрому засорению из-за накопления грязи и других мелких частиц. Следствием этого будет нарастание давления внутри оружия с потенциально катастрофическими результатами.::<end>
+
+=>a84_original
+::Do not say anything.::<end>
+
+=>a84
+::Ничего не говорить.::<end>
+
+=>q85_original
+There. And some ammo, almost forgot. I would like you to abuse the weapon; that is the goal of this test. Also, if anyone bothers you at the main entrance, just tell them you are performing weapon tests for Principal Investigator Georgis.<end>
+
+=>q85
+Вот. И боеприпасы, чуть не забыл. Я хочу, чтобы вы не жалели оружие -- это является целью испытания. И если кто-нибудь остановит вас у главного входа, просто скажите, что проводите испытания оружия для научного руководителя Георгиса.<end>
+
+=>a86_original
+For how long do I need to use the weapon?<end>
+
+=>a86
+Как долго мне проводить испытания?<end>
+
+=>q87_original
+The longer the better, really. Remember - the weapon was designed for use in extreme conditions, so abuse it appropriately. ::He laughs.:: Once you think the weapon is up to par with the task let me know.<end>
+
+=>q87
+Чем дольше -- тем лучше, на самом деле. Помните: оружие было разработано для использования в экстремальных условиях, так что нагружайте его надлежащим образом. ::Смеётся.:: Как только решите, что оружие отвечает требованиям, дайте мне знать.<end>
+
+=>a88_original
+Well, I'm off to use this bad boy. See you later, investigator.<end>
+
+=>a88
+Ну, я пойду пошмаляю из этого плохиша. Увидимся позже, научный руководитель.<end>
+
+=>q89_original
+Tchort guide you and-- ::He yawns.:: Sorry. Tchort guide you and good luck.<end>
+
+=>q89
+Чорт направит вас, и... ::Зевает.:: Прошу прощения. Чорт направит вас, и удачи.<end>
+
+=>a90_original
+Understood. I will do as you instructed. Tchort guide you.<end>
+
+=>a90
+Понятно. Я сделаю, как вы просите. Чорт направит вас.<end>
+
+=>q91_original
+Tchort guide you too, $(context.player.Name) and-- ::He yawns.:: Sorry! Tchort guide you and good luck.<end>
+
+=>q91
+Чорт направит вас тоже, $(context.player.Name), и... ::Он зевает.:: Прошу прощения! Чорт направит вас, и удачи.<end>
+
+=>a92_original
+There is a problem with this weapon.<end>
+
+=>a92
+Есть проблема с этим оружием.<end>
+
+=>q93_original
+Problem? Magnificent Tchort; I don't think you can just find a problem.<end>
+
+=>q93
+Проблема? Чорт великолепный; вы просто взяли и нашли проблему.<end>
+
+=>a94_original
+::Explain your findings.::<end>
+
+=>a94
+::Объяснить ему ваши выводы.::<end>
+
+=>q95_original
+::He carefully listens to your explanation. Sporadically he would look at the weapon himself and nod in agreement. He would occasionally yawn, but you are sure it has nothing to do with what you're saying. Once you are done, he answers.::<end>
+
+=>q95
+::Он внимательно слушает ваши объяснения. Время от времени, он бросает взгляд на оружие и согласно кивает. Он изредка зевает, но это не вызвано тем, что вы говорите. Дослушав до конца, он отвечает.::<end>
+
+=>q96_original
+Yes, right... that actually makes sense. I guess we really overlooked that, *and* it would explain why it wouldn't show in our, well, mostly lab tests. I'll take the weapon and relay what you just told me to the design team.<end>
+
+=>q96
+Да, да... вообще-то, всё логично. Похоже, мы действительно упустили это из виду, и неудивительно, почему данный недостаток не выявили наши, ну, в основном, лабораторные испытания. Я заберу оружие и передам ваши выводы проектной группе.<end>
+
+=>q97_original
+Here, ::He hands you three hundred stygian coins.:: take this, $(#brother/sister). You earned it within mere minutes! ::He smiles.:: Apex, just apex.<end>
+
+=>q97
+Вот. ::Он протягивает вам триста стигийских монет.:: Возьмите это, $(#брат/сестра). Вы заработали столько денег в считанные минуты! ::Он улыбается.:: Верховно, просто верховно.<end>
+
+=>a98_original
+Excuse me, I need something analyzed. ::Show him the broken-off spike.::<end>
+
+=>a98
+Прошу прощения, мне нужно кое-что проанализировать. ::Показать ему кусок шипа.::<end>
+
+=>q99_original
+Take it to Octavia, $(#brother/sister). She'll perform the analysis for you.<end>
+
+=>q99
+Отнеси его Октавии, $(#брат/сестра). Она сделает анализ для тебя.<end>
+
+=>q100_original
+ ::He yawns.:: Now...<end>
+
+=>q100
+::Он зевает.:: А теперь...<end>
+
+=>a101_original
+Tell me more about that experimental chemical pistol.<end>
+
+=>a101
+Расскажите мне про ваш экспериментальный химический пистолет.<end>
+
+=>q102_original
+Yes, right - the chemical pistol! Somewhere around year ninety-seven were we approached by Preservation about us helping them design a more advanced chemical weapon than what was available at the time; something truly apex! <end>
+
+=>q102
+Да, точно, химический пистолет! Ещё где-то в году девяносто седьмом Сохранение обратилось к нам просьбой помочь им разработать более совершенное химическое оружие, чем то, что было доступно на этот момент; что-нибудь поистине верховное!<end>
+
+=>q103_original
+You see, Harmost Stavros desired all rassophore expeditions in the Deep Caverns to be equipped with several chemical weapons per combat unit during their time down there. The reasons for that were of logistical nature - a combat unit could use naturally occurring caustic chemicals... ehm, *acids* - which are abundant in Deep Caverns and can be obtained from living or environmental sources - and be self-sufficient ammunition-wise, therefore maintaining constant combat capability.<end>
+
+=>q103
+Видите ли, гармост Ставрос желал дополнительно выдать рясофорам в Глубоких пещерах химическое оружие. Причины на то логистического характера -- экспедиция могла бы использовать подножные химические вещества... э-э, *кислоты*, которых в изобилии в Глубоких пещерах, их можно получить из животных или растительных источников -- и быть самодостаточной в плане боеприпасов, поддерживая постоянную боеспособность.<end>
+
+=>a104_original
+Go on...<end>
+
+=>a104
+Продолжайте...<end>
+
+=>q105_original
+Which brings us to - <end>
+
+=>q105
+Что приводит нас к...<end>
+
+=>q106_original
+XAL-001! That is short for - Experimental Acid Launcher. It offers a great improvement in terms of fire rate and ergonomics over all available models currently in use - *and* we are planning further attachments to increase capacity and to help the processing of raw chemicals in the field, yada, yada, yada... To sum it up - we believe it to be a truly apex design!<end>
+
+=>q106
+ЭКП-001! Это означает «Экспериментальный Кислотный Пистолет». Он представляет собой большой шаг вперёд в плане скорострельности и эргономики по сравнению со всеми существующими аналогами, а *ещё*, мы планируем в дальнейшем добавить дополнительные модули, чтобы увеличить ёмкость магазина и упростить сбор химикатов в поле, бла, бла, бла... Короче, мы считаем, что это просто верховная разработка!<end>
+
+=>a107_original
+Again, where do I come in?<end>
+
+=>a107
+Итак, что вы хотите от меня?<end>
+
+=>q108_original
+Yes, right! Listen now, $(context.player.Name)... while we are pleased so far with how the prototype turned out it still needs more field testing before it can finally enter production. That is where *you* come in, $(#brother/sister)! I need you to test the weapon - preferably on Lunatics or the Faceless; you had successfully dealt with the former in the past so I have no doubt that you will enjoy the work.<end>
+
+=>q108
+Да, да! Теперь слушайте, $(context.player.Name)... Хотя мы довольны прототипом, он всё ещё нуждается в полевых испытаниях, прежде чем можно будет наконец запускать его в производство. Вот тут *вы* и пригодитесь, $(#брат/сестра)! Вы протестируете оружие, желательно, на Психотиках или безликих; вы уже успешно справлялись с ними в прошлом, поэтому я не сомневаюсь, что вы получите удовольствие от работы.<end>
+
+=>q109_original
+Bottom line is: If you are interested, I can give you XAL-001 right this very moment so that you may test it - with Tchort's guidance, of course. ::He laughs.::<end>
+
+=>q109
+Вот и всё: если вас интересует, я могу дать вам ЭКП-001 сию же минуту, чтобы вы могли испытать его, под направлением Чорта, конечно. ::Он смеётся.::<end>
+
+=>a110_original
+Can we get to the part where you tell me what I need to do?<end>
+
+=>a110
+Может уже перейдём к тому, что мне нужно делать?<end>
+
+=>q111_original
+Yes, right... sorry...
+
+If we skip all that, we get right to - <end>
+
+=>q111
+Да, конечно... Простите...
+
+Давайте пропустим всё это и перейдём прямо к...<end>
+
+=>a112_original
+Tell me more about that research data you need.<end>
+
+=>a112
+Расскажите мне, какие данные о каких исследованиях вам необходимы.<end>
+
+=>q113_original
+Yes, right. Let me tell you of an old Biocorp facility by the name of Hecate Research Outpost which exists somewhere in Lower Underrail. It is a small facility which usually wouldn't be worthy of our time. Usually...
+
+We, Institute of Tchort, have recently acquired a document which suggests that some interesting data on protein design can be found there. Apparently, they did some projects there and, well, if they were able to identify any novel sequences it could be of great use.<end>
+
+=>q113
+Да, точно. Дайте-ка я расскажу вам о старом объекте Биокорп -- исследовательском центре Геката, который скрыт где-то в Нижней Подземке. Это небольшой объект, который вряд ли был бы достоин нашего внимания. Вот только...
+
+Мы, Институт Чорта, недавно получили документ, который свидетельствует о том, что там можно найти кое-какие интересные данные по белковой инженерии. Судя по всему, они там вели несколько проектов, и, если им удалось идентифицировать какие-нибудь необычные последовательности, это могло бы быть весьма полезным.<end>
+
+=>q114_original
+Therefore, I would like you to visit this place and snoop around and see what you can find, if something *can* be found. The facility is located somewhere to the east of Core City; we don't have an exact location but shouldn't be too far away from it. 
+
+So what do you say, $(#brother/sister), are you interested in making a contribution to the Institute?<end>
+
+=>q114
+Поэтому я хотел бы попросить вас посетить это место, порыскать там и посмотреть, можно ли там вообще найти что-нибудь интересное. Учреждение расположено где-то к востоку от Кор-Сити; мы не знаем точного местоположения, но это вряд ли очень далеко. 
+
+Так, что скажете, $(#брат/сестра), протянете Институту руку помощи?<end>
+
+=>q115_original
+<end>
+
+=>q115
+<end>
+
+=>a116_original
+I am. As a matter of fact - I have already been there and have the data here.<end>
+
+=>a116
+Ага. Собственно, я там уже бывал$(#/а), и у меня есть такие данные.<end>
+
+=>q117_original
+You what...? Oh, that is apex, $(#brother/sister)! I'll send this right through to my assistants. <end>
+
+=>q117
+Вы что?.. Ох, верховно, $(#брат/сестра)! Я немедленно передам это моим ассистентам!<end>
+
+=>a118_original
+I'll see what I can do about it.<end>
+
+=>a118
+Я посмотрю, что можно сделать.<end>
+
+=>q119_original
+Apex! What else can I say but Tchort guide you, $(context.player.Name).<end>
+
+=>q119
+Верховно! Что ещё я могу сказать, кроме как Чорт направит вас, $(context.player.Name).<end>
+
+=>q120_original
+Now, was there something else you needed?<end>
+
+=>q120
+Теперь, вам что-нибудь ещё нужно?<end>
+
+=>a121_original
+What else can you tell me about Hecate Research Outpost?<end>
+
+=>a121
+Можете рассказать что-нибудь ещё о центре Геката?<end>
+
+=>q122_original
+Well, all we know about it comes from a document which recently came into our possession. Apparently, Hecate used to be a relatively small research facility located somewhere in Lower Underrail and used to be owned by, you guessed it, Biocorp! Magnificent Tchort, now that I remember, nearly everything was Biocorp back then. Hecate was small and not too important and so it became forgotten when Biocorp was overtaken by Underrail Protectorate.<end>
+
+=>q122
+Ну, всё, что мы знаем -- из этого документа, который недавно поступил в наше распоряжение. Там говорится, что Геката когда-то была сравнительно небольшим исследовательским центром, расположенным где-то в Нижней Подземке. Принадлежала она, как вы уже догадались, Биокорп! Чорт великолепный, по правде говоря, всё тогда принадлежало Биокорп. Этот центр был небольшим и не слишком важным, поэтому о нём все забыли, когда Биокорп была уничтожена Протекторатом Подземки.<end>
+
+=>q123_original
+And now it's time to unearth it again and uncover its secrets. Interested?<end>
+
+=>q123
+И теперь пришло время раскопать его и раскрыть его секреты. Вам интересно?<end>
+
+=>q124_original
+And now it's time to unearth it again and uncover its secrets.<end>
+
+=>q124
+И теперь пришло время раскопать его и раскрыть его секреты.<end>
+
+=>a125_original
+What can you tell me about Hecate Research Outpost?<end>
+
+=>a125
+Что вы можете рассказать про Исследовательский центр Геката?<end>
+
+=>a126_original
+You mentioned protein design. What is that?<end>
+
+=>a126
+Вы говорили про белковую инженерию. Что это такое?<end>
+
+=>q127_original
+Eidein pardon me, I suppose I missed explaining that. Protein design is, by definition, a creation of new protein molecules that will fold, or assume a certain shape, to a certain protein structure. And the whole reason why we would seek to do that, $(#brother/sister), is so that we can create proteins with completely new or slightly varied functions.<end>
+
+=>q127
+Прости меня Эйдейн, я, даже не подумал объяснить. Белковая инженерия -- это, по определению, создание новых белковых молекул, которые сворачиваются, или принимают определённую форму, в определённую белковую структуру. И мы делаем это, $(#брат/сестра), чтобы создавать белки с изменёнными или совершенно новыми свойствами.<end>
+
+=>q128_original
+Since proteins are one of the most important biomolecules with numerous functions, you can see why designing new sequences is such an important task. Yes, right... that should be the gist of it. <end>
+
+=>q128
+Поскольку белки являются одними из важнейших биомолекул и выполняют многочисленные функции, нетрудно понять, почему создание новых последовательностей является столь важной задачей. Да, да... в этом вся суть.<end>
+
+=>a129_original
+Why did you join the Institute of Tchort?<end>
+
+=>a129
+Зачем вы пошли в Институт Чорта?<end>
+
+=>q130_original
+That happened a long time ago; some fifteen years ago. I used to work as a chemist in Core City. I was young and ambitious, but those ambitions were - at least temporarily - shattered when news that Biocorp was overtaken by the Protectorate came from North Underrail. By the Tchort, I still remember when the rioters broke into my home and started thrashing and pillaging. Inbred primitives.<end>
+
+=>q130
+Это случилось давным-давно, около пятнадцати лет назад. Я работал химиком в Кор-Сити. Я был молод и честолюбив, но все мои амбиции были растоптаны, по крайней мере, временно, когда из Северной Подземки пришла новость, что Биокорп уничтожена Протекторатом. Клянусь Чортом, я до сих пор помню, как бунтовщики ворвались в мой дом и начали все крушить и грабить. Дикари ублюдочные.<end>
+
+=>q131_original
+So I left Core City and sought the, at the time extremely unfamiliar, Institute of Tchort. I've heard of it from some friends of mine, and I came upon those same entrance gates. Yes... I remember it still. The moment I stepped through the gate I felt something. From a bleak outlook on life I suddenly felt my ambitions waking up again.<end>
+
+=>q131
+Итак, я оставил Кор-Сити и отправился в Институт Чорта, на тот момент мне совершенно незнакомый. Я слышал о нём от некоторых своих друзей, и пришёл к тем самым входным воротам. Да... я помню до сих пор. В тот момент, когда я шагнул через ворота, я что-то почувствовал. После безрадостных перспектив, я вдруг почувствовал, что мои амбиции снова просыпаются.<end>
+
+=>q132_original
+And I guess I managed to realize those ambitions: Investigation was a natural choice for me, and therefore I started as an assistant chemist. Few years later and after a lot of hard work I became a proper investigator and led some of my own projects; Then finally in year ninety-two I became a Principal Investigator. Next stop: Episkopos Georgis. ::He laughs.::
+
+I am joking of course, but who knows...<end>
+
+=>q132
+И я думаю, мне удалось реализовать те амбиции: Исследование стало для меня естественным выбором, и так я стал ассистентом химиком. Несколько лет спустя, в результате тяжёлого упорного труда, я стал исследователем и вёл несколько собственных проектов; потом, наконец, в году девяносто втором, я стал научным руководителем. Следующая остановка -- епископ Георгис. ::Смеётся.::
+
+Я шучу, конечно, хотя, кто знает...<end>
+
+=>a133_original
+What do you think of these tremors?<end>
+
+=>a133
+Что вы думаете об этих толчках?<end>
+
+=>q134_original
+Magnificent Tchort! I think they are annoying. I get constant complaints from my investigators who have to work with sensitive and sometimes volatile chemicals which do not fare well when everything around us shakes so much.<end>
+
+=>q134
+Чорт великолепный! Они меня раздражают. Я постоянно получаю жалобы от своих исследователей, которым приходится работать с чувствительными, а иногда и нестабильными химическими веществами, что не есть хорошо, когда всё вокруг трясётся.<end>
+
+=>q135_original
+And no one has any answers on why this is happening. It just will not stop, $(#brother/sister).<end>
+
+=>q135
+И никто не может сказать, почему это происходит. Конца им нет, $(#брат/сестра).<end>
+
+=>a136_original
+Is there a way for me to get a hold of some chemicals around here?<end>
+
+=>a136
+Можно мне приобрести здесь кое-какие химические вещества?<end>
+
+=>q137_original
+Hmmm, it is rare for someone to come with that request. But I don't see why not. Go talk to Investigator Octavia, she can sell you some of the chemicals we have in excess. Just tell her I gave you permission.<end>
+
+=>q137
+Хм-м-м, редко когда кто приходит с такой просьбой. Но я не вижу, почему нет. Поговорите с исследователем Октавией, она может продать вам химические вещества, которых у нас есть в избытке. Просто скажите ей, что я дал разрешение.<end>
+
+=>a138_original
+Where can I find her?<end>
+
+=>a138
+Где я могу найти её?<end>
+
+=>q139_original
+She is right outside my office. You walked past her on your way here. I mean, unless you somehow... ::He pauses; trying to find the right words to say.::<end>
+
+=>q139
+Она рядом с моим кабинетом. Вы проходили мимо неё по пути сюда. То есть, если только вы как-то не... ::Он делает паузу, пытаясь найти нужные слова.::<end>
+
+=>q140_original
+Never mind. Forget I wanted to say anything. ::He yawns.:: I should get some sleep.<end>
+
+=>q140
+Не берите в голову. Забудьте, что я хотел что-то сказать. ::Он зевает.:: Надо немного поспать.<end>
+
+=>a141_original
+Thank you. I had other questions.<end>
+
+=>a141
+Спасибо. У меня были другие вопросы.<end>
+
+=>q142_original
+Well go ahead.<end>
+
+=>q142
+Ну, говорите.<end>
+
+=>a143_original
+What does a cell about to undergo mitosis say to an interested investigator? "I hope I have your divided attention!"<end>
+
+=>a143
+Что сказала клетка, готовая к митозу, заинтересованному исследователю? «Я надеюсь, что привлекаю ваше нераздельное внимание!»<end>
+
+=>q144_original
+::Baffled, he replies.::
+
+What?<end>
+
+=>q144
+::Озадаченный, он отвечает.::
+
+Что?<end>
+
+=>a145_original
+Get it? Divided, mitosis... You know?<end>
+
+=>a145
+Дошло? Деление, митоз... Понимаешь?<end>
+
+=>q146_original
+Oh. Oh. Oh! ::He laughs, yawning soon after.:: Magnificent Tchort, I'm sorry. Tiredness can truly make a man's mind so numb that he can't even understand such a simple joke. A principal investigator, above all.<end>
+
+=>q146
+Ох. Ох. Ох! ::Он смеётся, а затем зевает.:: Чорт великолепный, простите. Усталость может так притупить разум, что не можешь понять даже такую простую шутку. А я ещё научный руководитель.<end>
+
+=>q147_original
+::He points his fingers at you, smiling.:: It's a good joke. It is. I'm going to retell that.<end>
+
+=>q147
+::Он указывает на вас пальцем и улыбается.:: Хорошая шутка. Да. Я расскажу её кому-нибудь.<end>
+
+=>a148_original
+Tchort guide you, Georgis.<end>
+
+=>a148
+Чорт направит вас, Георгис.<end>
+
+=>q149_original
+::He nods.:: Tchort guide you too, $(context.player.Name). ::Yawns.::<end>
+
+=>q149
+::Он кивает.:: И вас тоже Чорт направит, $(context.player.Name). ::Зевает.::<end>
+
+=>a150_original
+I have to go now. Goodbye.<end>
+
+=>a150
+Мне пора идти. До свидания.<end>
+
+=>q151_original
+Tchort guide you, $(#brother/sister). Tchort guide you. ::He yawns.::<end>
+
+=>q151
+Чорт направит вас, $(#брат/сестра). Чорт направит. ::Он зевает.::<end>
+
+=>a152_original
+I think I'm okay... I'll survive.<end>
+
+=>a152
+Я, вроде, в порядке... жить буду.<end>
+
+=>q153_original
+Apex. You will survive, don't worry.<end>
+
+=>q153
+Верховно. Ещё как будете, не волнуйтесь.<end>
+
+=>a154_original
+I still feel like miniature people are hammering my brain.<end>
+
+=>a154
+У меня по-прежнему такое чувство, будто миниатюрные человечки долбят мне мозг.<end>
+
+=>q155_original
+Oh, that will pass, don't worry.<end>
+
+=>q155
+О, это пройдёт, не волнуйтесь.<end>
+
+=>a156_original
+What the hell happened?<end>
+
+=>a156
+Что вчера случилось?<end>
+
+=>q157_original
+Science happened, $(context.player.Name). Science...<end>
+
+=>q157
+Наука случилась, $(context.player.Name). Наука...<end>
+
+=>q158_original
+::As time flies by and your bloodstream becomes less blood and more alcohol, you start losing your senses of taste and smell... and sight... and balance. Even the, the familiar voice inside your head becomes, like, a bit more, um, difficult to... follow. Yesssss...::<end>
+
+=>q158
+::По мере того как ваша кровь становится всё более разбавленной алкоголем, вы начинаете терять чувства вкуса и обоняния... и зрение... и координацию. Даже, зна... знакомый голос в вашей голове становится, вроде как, немного более, хм, сложным... для понимания. Да-а-а-а...::<end>
+
+=>q159_original
+::Georgis downs his shot and looks at you. Approximately.:: Tchort magnificent! That one was goOoOoOoOod! Oh, oh, oh! What do you say?<end>
+
+=>q159
+::Георгис опрокидывает стакан и смотрит на вас. Приблизительно.:: Чорт великолепный! Хороша-а-а-а-а-а-а-а-а! Ох, ох, ох! Как тебе?<end>
+
+=>a160_original
+::Smell the drink.::<end>
+
+=>a160
+::Понюхать напиток.::<end>
+
+=>q161_original
+::You feel absolutely nothing.::<end>
+
+=>q161
+::Вы абсолютно ничего не чувствуете.::<end>
+
+=>a162_original
+GOOD!<end>
+
+=>a162
+ХОРОШО!<end>
+
+=>q163_original
+Yes, right... Dr-ink it... ::He hicks.::<end>
+
+=>q163
+Да, да... П-пей... ::Он икает.::<end>
+
+=>a164_original
+::Take the shot.::<end>
+
+=>a164
+::Выпить.::<end>
+
+=>q165_original
+::You are unable to taste anything.::<end>
+
+=>q165
+::Вы не чувствуете вкуса.::<end>
+
+=>a166_original
+EXCELLENT!<end>
+
+=>a166
+ОТЛИЧНО!<end>
+
+=>q167_original
+I am very g-lad you like it! Apex, apex, apex! <end>
+
+=>q167
+Я очень р-рад, что тебе нравится! Верховно, верховно, верховно!<end>
+
+=>q168_original
+I made this for the ninety-first ann-iversary of Tchortism - and it was a good ba-tch! You know how much I love Tchort and, and Eidein and all my brothers and sisters... but un-fortunately they didn't get the chance to taste it.<end>
+
+=>q168
+Я сварил этот к девяносто первому юби-лею чортизма, и это вышла хорошая партия! Ты знаешь, как сильно я люблю Чорта и, и Эйдейна и всех моих братьев и сестёр... но к не-счастью, у них не было возможности попробовать его.<end>
+
+=>a169_original
+Can I ask you a question, a question?<end>
+
+=>a169
+Можно я тебя спрошу? Вопрос?<end>
+
+=>q170_original
+Yes... ask...<end>
+
+=>q170
+Ну... давай...<end>
+
+=>a171_original
+Why did you choose me, $(context.player.Name), me, to drink with you?<end>
+
+=>a171
+Почему именно я -- $(context.player.Name) -- зачем ты решил выпить со мной?<end>
+
+=>q172_original
+Ah! There is a good reason for that... ::He hicks.:: You see... I am cursed by my po-sition, you know. I am the head of this de-partment and a respected investigator. Mmm. I've asked people to try some of the liquor I make and tell me what they thought. They all said: "It is apex, Principal Investigator! Apex!" But I know they wouldn't tell me the tr-uth, like - how do you tell a principal investigator that what he made with love is b-a-ad, if it was in-deed bad? How!? Eh?
+
+Understand what I'm saying, $(context.player.Name)? ::He hicks!::<end>
+
+=>q172
+Ха! На это есть хорошая причина... ::Он икает.:: Ты знаешь... мой пост это моё проклятье, понимаешь? Я начальник кафедры и я уважаемый исследователь. М-м-м. Я других просил попробовать кое-что из моего спиртного и сказать, что они думают. Все поголовно говорят: «Это верховно, научный руководитель! Верховно!» Но я-то знаю, они не скажут правду, ведь научный руководитель с такой любовью работал, а получилось -- говно? Как?! А?
+
+Ты меня понимаешь, $(context.player.Name)? ::Он икает::<end>
+
+=>a173_original
+Yes...<end>
+
+=>a173
+Да...<end>
+
+=>q174_original
+I mean, the other two pr-incipal directors, Rista and Schteff - they are al-ways honest and help me with drrrrrrinking, um, tasting the samples, but I simply needed someone who didn't know me for so long and, um... you came along. I need-ed valid, un-biased feedback, ugh, yes...<end>
+
+=>q174
+Ладно, другие рук-ководители -- Риста и Штефф -- они крис-тально честны и всегда вып-п-пьют, э-э, помогут мне продегустировать образцы, но мне нужен был кто-нибудь, кто не знал меня много лет, и, хм... а тут ты. Мне нужно сторон-неё не-пред-взятое мнение, тьфу, да...<end>
+
+=>q175_original
+::He yawns.:: I suddenly feel *so* tired.<end>
+
+=>q175
+::Он зевает.:: Что-то я устал.<end>
+
+=>a176_original
+::[Drunkenness]:: I have something to tell you... Georg-ugh...<end>
+
+=>a176
+::[Опьянение]:: Дай я тебе кое-что скажу... Георг-уф...<end>
+
+=>q177_original
+I am listening... ::He hicks!::<end>
+
+=>q177
+Я тебя слушаю... ::Он икает.::<end>
+
+=>a178_original
+I saw Tchortists stealing this, eh, thingy from a research facility in Core City, and I came to the Institute just to find it.<end>
+
+=>a178
+Я видел$(#/а), как чортисты спёрли эту, э-э, одну штуковину из лаборатории в Кор-Сити, и приш$(#ёл/ла) в Институт только чтобы найти её.<end>
+
+=>q179_original
+::He almost pushes you over with a confused stare, before turning the same one to the half-empty bottle on the table.:: I don't think I'll drrrrink this batch again. Yeah... it causes people to... say funny things. Not apex! Eidein pardon me for m-aking it...<end>
+
+=>q179
+::Он чуть не сбивает вас ног растерянным взглядом, прежде чем переключить его на полупустую бутылку на столе.:: Лучше давай эт-ту больше не будем. Да... От неё некоторые начинают... говорить забавные вещи. Не верховно! Эйдейн, прости меня, что я её вообще сварил...<end>
+
+=>q180_original
+Well, time to sample the next... erm sample.<end>
+
+=>q180
+Ну, пора попробовать очередную... э-э-э, пробу.<end>
+
+=>q181_original
+How about... this one!? ::He randomly selects one of the bottles.::<end>
+
+=>q181
+Как насчёт... вот этого?! ::Он хватает одну из бутылок.::<end>
+
+=>a182_original
+What year is that?<end>
+
+=>a182
+А эта какого года?<end>
+
+=>q183_original
+::Your intricate question perplexes him.:: I don't remember... It's a year, I can tell you that. It was a long time ago... maybe when Monsignor Brad-ock, the Institute's historian died... Maybe, ehm, ten years ago... I don't know. Let's drrrrrrink!<end>
+
+=>q183
+::Ваш замысловатый вопрос озадачивает его.:: Я не помню... Какого-то года -- это я могу сказать точно. Давно было... может, когда монсеньор Брэд-ок помер, историк Института... А может, хм, десять лет назад... Я не знаю. Давай выпьем!<end>
+
+=>a184_original
+::Keep on drinking.::<end>
+
+=>a184
+::Продолжать напиваться.::<end>
+
+=>a185_original
+I really like it here in the Institute. I think I finally found a place I can actually call home.<end>
+
+=>a185
+Мне очень нравится в Институте. Думаю, что наконец наш$(#ёл/ла) место, которое могу вправду назвать домом.<end>
+
+=>q186_original
+Apex! I am r-eally happy for you, $(context.player.Name)... um, apex! The Institute is a place of safety, progress and something else I can't remember at the m-oment... but I to find this magnificent in-stituti-on the most apex one in existence.<end>
+
+=>q186
+Верховно! Я прав-да рад за тебя, $(context.player.Name)... э-э, верховно! Институт -- место безопасности, прогресса и чего-то ещё, не помню щас... но я нахожу этот великолепный Ин-сти-тут самым верховным из существующих.<end>
+
+=>a187_original
+I actually think rathounds are kinda cute. There, I said it! I know everyone hates them and wants them dead, but I think they are cute dammit!<end>
+
+=>a187
+По-моему, крысоволки очень милые. Да, ты меня слышал! Я знаю, все их ненавидят и хотят изничтожить, но я думаю, что они такие милые!<end>
+
+=>q188_original
+We all have our own little quirks and ret-t-t-tarded thoughts, $(context.player.Name), don't worry about it. It's probably the alcohol talk-ing from you anyway. Now that I think about what you said, I, um, once knew someone... ::He makes a lengthy pause.:: but I forgot. Magnificent Tch-ort, I forgot. ::He sighs.::<end>
+
+=>q188
+У всех свои причуды и тараканы, $(context.player.Name), не волнуйся. Чего не сморозишь по пьяни. Я вот щас подумал о том, что ты сказал$(#/а), и, эм, я когда-то знал такого... ::Он делает длительную паузу.:: но забыл. Великолепный Ч-чорт, я забыл. ::Он вздыхает.::<end>
+
+=>a189_original
+I think you are apex! I rarely get a chance to, ugh, get wasted like a pig with someone of your caliber, Georgis!<end>
+
+=>a189
+Я думаю, что ты верховный! Мне редко выпадает шанс, э-э, нажраться как свинья с человеком такого калибра, Георгис!<end>
+
+=>q190_original
+I think you are apex too, $(context.player.Name). You helped me test that ab-ortive, um, acid pistol design AND brought me that re-search data. You are apex. APEX!<end>
+
+=>q190
+Я думаю, что ты тоже верховн$(#ый/ая), $(context.player.Name). Ты помог$(#/ла) мне проверить этот долбаный, хм, кислотный пистолет и прин$(#ёс/есла) мне данные. Ты верховн$(#ый/ая). ВЕРХОВН$(#ЫЙ/АЯ)!<end>
+
+=>a191_original
+Thank you...<end>
+
+=>a191
+Спасибо...<end>
+
+=>a192_original
+I know I am...<end>
+
+=>a192
+Да знаю, знаю...<end>
+
+=>a193_original
+I punched a wall into oblivion with my fists in Hathor mine and unleashed a torrent to drown a colony of burrowers.<end>
+
+=>a193
+Я пробил$(#/а) стену шахты Хатор кулаками и утопил$(#/а) целую колонию могильщиков.<end>
+
+=>a194_original
+Do you know that joke about what a cell about to undergo mitosis told an investigator?<end>
+
+=>a194
+Знаешь анекдот про то, что сказала исследователю клетка, проходящая митоз?<end>
+
+=>q195_original
+No, what?<end>
+
+=>q195
+Нет, что?<end>
+
+=>a196_original
+It said, um: "I hope I have your divided attention!" ::Laugh.::<end>
+
+=>a196
+Она сказала, м-м: «Я надеюсь, что привлекла ваше нераздельное внимание!» ::Рассмеяться.::<end>
+
+=>q197_original
+::He bursts out laughing.:: Never heard that one! ::He laughs.:: It's hilarious! If I re-member it later, I'm gonna tell it to everyone at the Department of Genetics! ::He laughs.:: They are gonna laugh like crazy!<end>
+
+=>q197
+::Он лопается со смеха.:: Ни разу эту не слышал. ::Он смеётся.:: Это просто умора! Если не, не забуду, расскажу всем на кафедре генетики! ::Смеётся.:: Они будут смеяться, как сумасшедшие!<end>
+
+=>a198_original
+Yeah, you go tell it to them! ::Laugh.::<end>
+
+=>a198
+Да, пойди расскажи им! ::Смеяться.::<end>
+
+=>a199_original
+I am the bloody Invictus! I have a feeling people just don't believe me!<end>
+
+=>a199
+Ты знаешь, я же инвиктус! А такое чувство, что мне никто не верит!<end>
+
+=>q200_original
+Yeah, apex. Everything about Ar-ena seems apex. I... I left Core City during the riots... never got the chance to see it. I mean, I went there to discuss the medication export with the, um, oli-garchs, but never had the time to see a match. I wish I could th-ough... I wish I could...<end>
+
+=>q200
+Ага, верховно. Всё на Ар-рене, как мне кажется, верховно. Я... я ушёл из Кор-Сити во время беспорядков... не выдалось посмотреть. Не, ну я был там, когда обсуждал поставки лекарств с, э-э, оли-гархами, но не было времени посмотреть матч. Хотя, хотел бы... хотел бы...<end>
+
+=>a201_original
+No...<end>
+
+=>a201
+Нет...<end>
+
+=>a202_original
+I have no opinion on this particular sample! I suggest we just... move on to the next one. ::Hick!::<end>
+
+=>a202
+У меня нет мнения по данному образцу! Я предлагаю... перейти к следующему. ::Икнуть.::<end>
+
+=>q203_original
+No! You must have an op-inion! <end>
+
+=>q203
+Нет! Ты долж$(#ен/на) составить М-НЕНИ-Е!<end>
+
+=>a204_original
+THIS TASTES LIKE RATHOUND URINE!<end>
+
+=>a204
+НА ВКУС КАК КРЫСОВОЛЧЬЯ МОЧА!<end>
+
+=>q205_original
+That is a filthy lie! Don't... make me call Ju-dicator Azarias to, to lock you up for that. <end>
+
+=>q205
+Это грязная ложь! Не... заставляй меня звать вер-шителя Азарию, чтобы он тебя закрыл за это.<end>
+
+=>a206_original
+I DON'T FEEL ANYTHING!<end>
+
+=>a206
+Я НИЧЕГО НЕ ЧУВСТВУЮ!<end>
+
+=>a207_original
+UGH!<end>
+
+=>a207
+ФУ!<end>
+
+=>q208_original
+Yes, right... doors closed... table... bottles... All here! Now, I brought out a few samples...<end>
+
+=>q208
+Да, да... двери закрыты... стол... бутылки... Всё здесь! Так вот, я принёс несколько образцов...<end>
+
+=>a209_original
+A few? There's like ten bottles here.<end>
+
+=>a209
+Несколько? Да тут с десяток бутылок.<end>
+
+=>q210_original
+I have been making them for quite some time, $(context.player.Name); there is even more that I haven't brought out! Now, this batch... ::He picks up one of the bottles.:: was made in... erm, year ninety-eight! Let us start with that one.<end>
+
+=>q210
+Я уже давно этим занимаюсь, $(context.player.Name); это далеко не всё, что у меня есть! Вот эта партия... ::Он берёт в руки одну из бутылок.:: была сделана в... э-э, году девяносто восьмом! Начнём с неё.<end>
+
+=>q211_original
+::He pours the liquid into a pair of shot glasses with great care, not spilling a single drop, and pouring exactly the same amount into both glasses. Then, he carefully closes the bottle, puts it aside and then gives you one of the glasses while keeping the other for himself.::<end>
+
+=>q211
+::Он осторожно и с большой точностью наполняет пару стаканов, не пролив ни капли. Затем он тщательно закупоривает бутылку, отставляет её в сторону и даёт вам один стакан, оставляя второй себе.::<end>
+
+=>q212_original
+There. Smell it first and tell me what you think.<end>
+
+=>q212
+Вот. Сначала понюхайте и скажите, что вы думаете.<end>
+
+=>a213_original
+By the way, you never told me what you call this drink.<end>
+
+=>a213
+Кстати, вы не сказали мне, как вы называете этот напиток.<end>
+
+=>q214_original
+Alcosynth. I thought of different names before but... this one is simple and precise. Now smell it and tell me what you think.<end>
+
+=>q214
+Алкосинт. Я обдумывал разные названия, но... это простое и точное. А теперь понюхайте и скажите, что вы думаете.<end>
+
+=>a215_original
+::Smell the drink.::<end>
+
+=>a215
+::Понюхать напиток.::<end>
+
+=>q216_original
+::You cautiously smell the drink. The scent is smooth and pleasant with a slightly sweet, flowery note; at least reminiscent of those flowers *you* have had a chance to smell. In addition, it gently tickles your nose without allowing the strong spirity smell to overpower it and make it reek like cheap hooch. All in all, you find it pleasing.::<end>
+
+=>q216
+::Вы осторожно нюхаете напиток. Аромат у него нерезкий и приятный, со сладковатым цветочным оттенком; по крайней мере, он напоминает те цветы, что *вы* имели возможность понюхать. Также, он нежно щекочет ваш нос, не позволяя сильному запаху спирта перебить аромат и сделать напиток вонючим, как дешёвый самогон. В целом, вы находите его довольно приятным.::<end>
+
+=>a217_original
+I like it. It possesses a very smooth and flowery scent. Very nice!<end>
+
+=>a217
+Мне нравится. Очень нежный цветочный аромат. Очень приятный!<end>
+
+=>q218_original
+Apex! I am glad you like it, and I agree with your assessment completely. Now let us taste it.<end>
+
+=>q218
+Верховно! Я рад, что вам нравится, согласен в оценке полностью. Теперь давайте пробовать.<end>
+
+=>q219_original
+<end>
+
+=>q219
+<end>
+
+=>a220_original
+::Take a small sip.::<end>
+
+=>a220
+::Сделать небольшой глоток.::<end>
+
+=>q221_original
+::As you take the small sip you immediately feel a warm sensation flowing down your throat and ending somewhere around the chest area, lasting a short period of time before going away. The taste is robust, rich and has that smooth and mildly sweet flavor you expected after smelling it. Still, it is unmistakably a strong drink packing quite a punch and its relatively mild taste could easily fool someone into having too much of it.::<end>
+
+=>q221
+::Сделав небольшой глоток, вы сразу чувствуете тепло, стекающее по горлу и заканчивающееся где-то в области груди. Вкус -- насыщенный и богатый, обладающий приятным сладковатым привкусом, как вы и ожидали, понюхав напиток. И всё-таки, это бесспорно крепкий напиток, довольно сильно бьющий по мозгам, и его сравнительно мягкий вкус может легко заставить выпить лишнего.::<end>
+
+=>q222_original
+::Georgis puts his hand on his chest and downs the drink in a single go.:: Oh, oh, oh! Good stuff! Very good! What did you think of it?<end>
+
+=>q222
+::Георгис пьёт на одном дыхании, положив руку на грудь.:: Ох, ох, ох! Хорошо пошла! Очень хорошо! Что вы думаете?<end>
+
+=>a223_original
+The taste is very good despite my strong dislike for the smell. Very good!<end>
+
+=>a223
+Вкус очень хорош, несмотря на не слишком приятный запах. Очень вкусно!<end>
+
+=>q224_original
+Apex! I am very glad you like the taste of that one. I hope you like the next sample just as well! Let us move on...<end>
+
+=>q224
+Верховно! Я очень рад, что вам понравилось. Я надеюсь, следующий образец вам понравится не меньше! Давайте продолжим...<end>
+
+=>q225_original
+::He pours two more glasses from the next bottle.:: Now, $(context.player.Name), I took great pride in this batch when I first made it in year eighty-nine. By the Tchort, that was a long time ago. Nowadays I feel it is a bit-- No, saying it would influence your opinion! Try it first and then we will talk.<end>
+
+=>q225
+::Он наливает ещё два бокала из следующей бутылки.:: Вот, $(context.player.Name), я очень горжусь этой партией, сделанной в году восемьдесят девятом. Чорт великолепный, давно же это было. Сегодня я считаю, что она немного... нет, ничего не буду говорить, чтобы не повлиять на ваше мнение! Попробуйте, а потом обсудим.<end>
+
+=>q226_original
+So, smell it first... ::He inhales with a smile on his face.:: Oooh, good, good. ::He then places his hand on his heart and downs the drink in one gulp.::<end>
+
+=>q226
+Итак, сначала понюхайте... ::Он вдыхает с улыбкой на лице.:: О-о-о-о, хорошо, хорошо. ::Затем он кладёт руку на сердце и выпивает залпом.::<end>
+
+=>a227_original
+::Smell the drink.::<end>
+
+=>a227
+::Понюхать напиток.::<end>
+
+=>q228_original
+::It seems that the smooth and flowery smell of the previous sample tricked you into thinking that this one too will gently caress your nose, but instead you experienced an olfactory genocide. As it creeps through your nasal cavity it dazes you like a potent drug, blurring your vision for a moment and making your head feel as if two trains went through your nostrils and collided inside your skull. And you haven't even tasted the thing yet.::<end>
+
+=>q228
+::Видимо, мягкий цветочный запах предыдущего образца заставил вас подумать, что этот тоже будет нежно ласкать ваш нос, но вместо этого вы испытываете обонятельный геноцид. Попав в нос, пары вызывают головокружение и затуманивают ваш взгляд, словно какой-нибудь сильнодействующий препарат, будто два поезда влетели в ваши ноздри и столкнулись внутри черепа. А вы ещё даже не попробовали напиток.::<end>
+
+=>a229_original
+I better take it easy. ::Take a sip.::<end>
+
+=>a229
+Лучше поаккуратнее. ::Пригубить.::<end>
+
+=>a230_original
+Well, if it doesn't kill ya... ::Take the shot.::<end>
+
+=>a230
+Ну, что не убивает меня... ::Глотнуть.::<end>
+
+=>a231_original
+Tchort guide me! ::Take the shot.::<end>
+
+=>a231
+Чорт, направь! ::Хлебнуть.::<end>
+
+=>a232_original
+Well, judging by the exquisite smell I expected much from the taste - and I wasn't disappointed. Very good!<end>
+
+=>a232
+Что же, судя по изысканности запаха, я многого ожидал$(#/а) и от вкуса -- и я не разочарован$(#/а). Весьма неплохо!<end>
+
+=>a233_original
+I like it. Full, rich and as I swallow it warms my throat nicely. Very good!<end>
+
+=>a233
+Мне нравится. Насыщенный, богатый, согревает горло. Очень хорошо!<end>
+
+=>a234_original
+It is not bad taste-wise, but it can be a lot better in my opinion.<end>
+
+=>a234
+На вкус неплохо, но, на мой взгляд, тут ещё есть над чем поработать.<end>
+
+=>q235_original
+Yes, yes... I understand what you mean perfectly. Let's see what you think of the next sample...<end>
+
+=>q235
+Да, да... я вас понимаю прекрасно. Давайте посмотрим, что вы скажете о следующей пробе...<end>
+
+=>a236_original
+Strange... despite me liking the smell of it the taste is just somewhat bland and non-existent to me.<end>
+
+=>a236
+Странно... Несмотря на приятный запах, вкус показался мне несколько пресным и невыраженным.<end>
+
+=>q237_original
+Well... it is what it is, $(#brother/sister). I like this batch but... we are not all the same. But it is only one of many and I hope you will find the others a bit more pleasant than this one. Let us move one to the next sample...<end>
+
+=>q237
+Ну... что есть, то есть, $(#брат/сестра). Мне нравится эта партия, но на вкус и цвет... Но это только один образец из многих, и я надеюсь, вы найдёте другие более приятными, чем этот. Давайте перейдём к следующему образцу...<end>
+
+=>a238_original
+Again, this does nothing for me. The taste is as bland as its smell.<end>
+
+=>a238
+Опять же, ничего не могу сказать. Вкус столь же невыразителен, как и запах.<end>
+
+=>a239_original
+I don't know... it is somewhat tasteless to me. I expected more.<end>
+
+=>a239
+Я не знаю... несколько слабоват вкус, по-моему. Я ожидал$(#/а) большего.<end>
+
+=>a240_original
+::Take the full shot.::<end>
+
+=>a240
+::Выпить залпом.::<end>
+
+=>q241_original
+::As you take the shot you immediately feel a warm sensation flowing down your throat and ending somewhere around the chest area, lasting a short period of time before going away. The taste is robust, rich and has that smooth and mildly sweet flavor you expected it to have after smelling it. Still, it is unmistakably a strong drink packing quite a punch, and its appealing taste could easily fool someone into having too much of it.::<end>
+
+=>q241
+::Сделав глоток, вы сразу чувствуете тепло, стекающее по горлу и заканчивающееся где-то в области груди. Вкус -- насыщенный и богатый, обладающий приятным сладковатым привкусом, как вы и ожидали, понюхав напиток. И всё-таки, это бесспорно крепкий напиток, довольно сильно бьющий по мозгам, и его сравнительно мягкий вкус может легко заставить выпить лишнего.::<end>
+
+=>q242_original
+::In the first millisecond after downing the whole glass do you realize you have misjudged the potency of the liquor. While the initial taste can be described as robust and smooth with a mildly sweet flavor, you don't get enough time to enjoy it as you begin feeling as if someone poured molten metal down your throat. Your whole digestive tract is set ablaze and there is nothing you can do about it. Also, the tightening of the throat followed by coughing, as well as tears pouring down your cheeks just emphasize the severity of the irritation you now feel. Luckily, the sensation soon goes away and you feel alive again. Slowly, you wipe the tears from your eyes and look at Georgis.::<end>
+
+=>q242
+::В первые же миллисекунды после принятия на грудь целого стакана вы понимаете, что недооценили крепость напитка. Хотя изначальный вкус можно охарактеризовать как насыщенный и мягкий, со сладковатым привкусом, вы просто не успеваете насладиться им, поскольку у вас быстро появляется ощущение, будто кто-то вылил расплавленный металл вам прямо в глотку. Весь ваш пищеварительный тракт горит, и вы ничего не можете с этим поделать. Кроме того, сдавленное горло и кашель, а также слёзы, ручьями текущие по щекам, лишь усугубляют ваши ощущения. К счастью, раздражение скоро стихает, и вы возвращаетесь к жизни. Медленно, вы вытираете слёзы с глаз и смотрите на Георгиса.::<end>
+
+=>q243_original
+::Georgis places his hand on his heart and down the drink in a single go.:: Oh, oh, oh! Good st-- ::He sees you are red in face and full of tears.:: Are you okay? Perhaps you should try drinking in smaller gulps. Anyway, tell me what you thought of it?<end>
+
+=>q243
+::Георгис пьёт на одном дыхании, положив руку на грудь.:: Ох, ох, ох! Хорошо пош... ::Он замечает ваше покрасневшее лицо и полные слёз глаза.:: Вы в порядке? Может, вам стоит попробовать пить небольшими глотками. В любом случае, скажите, что вы думаете?<end>
+
+=>a244_original
+Hrnnnnnkkkkkkk!<end>
+
+=>a244
+Хрн-н-н-нк-к-к-к-к!<end>
+
+=>q245_original
+Take your time...<end>
+
+=>q245
+Не торопитесь...<end>
+
+=>a246_original
+Good... very good...<end>
+
+=>a246
+Хороша... очень хороша...<end>
+
+=>q247_original
+Apex! Just take it easy the next time; I need you alive. ::He laughs.:: Anyway, let us move on, $(#brother/sister)...<end>
+
+=>q247
+Верховно! Только не торопитесь так в следующий раз; вы мне нуж$(#ен/на) жив$(#ым/ой). ::Он смеётся.:: Ладно, давайте продолжим, $(#брат/сестра)...<end>
+
+=>a248_original
+Good taste... but a bit... too strong...<end>
+
+=>a248
+Хороший вкус... но немного... крепковато...<end>
+
+=>q249_original
+Apex! Maybe it wouldn't be too strong if you took it a bit easier; take a sip next time. Anyway, let us move on, $(#brother/sister)...<end>
+
+=>q249
+Верховно! Может быть, вам не покажется слишком крепким, если пить немного помедленней; сделайте небольшой глоток в следующий раз. Ладно, давайте продолжим, $(#брат/сестра)...<end>
+
+=>a250_original
+Should be... stronger...<end>
+
+=>a250
+Надо бы... покрепче...<end>
+
+=>q251_original
+::He laughs.:: Right... Let us move on, $(#brother/sister), and try to take it a bit easier with the next one please; I need you alive.<end>
+
+=>q251
+::Он смеётся.:: Ясно... давайте продолжим, $(#брат/сестра), попробуйте пить немного помедленнее, пожалуйста; вы мне нуж$(#ен/на) жив$(#ым/ой).<end>
+
+=>a252_original
+Too strong... tastes... bad...<end>
+
+=>a252
+Слишком крепко... на вкус... плохо...<end>
+
+=>q253_original
+Hmmm, maybe if you took it a bit easier you wouldn't be dying right now. ::He laughs.:: Let us move on, we can return later to this one. Just... take it easy next time.<end>
+
+=>q253
+Хм-м-м, не пей вы залпом -- не умирали бы сейчас. ::Он смеётся.:: Давайте продолжать, мы можем попробовать этот ещё раз попозже. Только... полегче в следующий раз.<end>
+
+=>a254_original
+Ughhhhhhhhrghhhhhhhhh!<end>
+
+=>a254
+Ух-х-х-х-х-х-х-х-х-х-х-х!<end>
+
+=>a255_original
+Brbrrrrrrrrrrrrrrrbrr!<end>
+
+=>a255
+Бр-бр-р-р-р-р-р-р-р-р-р-р-р-р-бр-р!<end>
+
+=>a256_original
+Pffffffffffffftfthhhhhhhhhfffffffff!<end>
+
+=>a256
+Пфх-х-х-х-хф-ф-фх-х-х-х!<end>
+
+=>a257_original
+The smell is too soft for me; I prefer something stronger. I'd say it is okay, but it's just not to my tastes.<end>
+
+=>a257
+Запах слишком мягкий, по-моему; я предпочитаю что-нибудь покрепче. Я бы сказал$(#/а), что пахнет неплохо, но просто не в моём вкусе.<end>
+
+=>q258_original
+Yes, yes... I know your kind. It is smooth and some people, I suppose, do not like that. Well, now let us taste it! Go ahead.<end>
+
+=>q258
+Да, да... знаю таких. Аромат мягкий, а некоторые люди любят пожёстче. Ну, давайте попробуем! Вперёд.<end>
+
+=>a259_original
+Meh...<end>
+
+=>a259
+Так себе...<end>
+
+=>q260_original
+Meh?<end>
+
+=>q260
+Так себе?<end>
+
+=>a261_original
+Meh as in it's somewhere inbetween. Can't really decide.<end>
+
+=>a261
+Так себе, как-то неясно. Не могу определиться.<end>
+
+=>q262_original
+Yes, right... I'll keep that in mind. Now let us taste it.<end>
+
+=>q262
+Да, да... я буду иметь это в виду. Теперь давайте пробовать.<end>
+
+=>a263_original
+The smell is pretty much non-existent. I expected more.<end>
+
+=>a263
+Запах какой-то еле осязаемый. Я ожидал$(#/а) большего.<end>
+
+=>q264_original
+Magnificent Tchort! I am sad to hear that, but that is the reason why I asked you to help with all this: I need to know other people's opinion whether I end up liking it or not. Right, now pick up your glass and let's have a taste...<end>
+
+=>q264
+Чорт великолепный! Мне грустно это слышать, но именно потому я и просил вас помочь: мне нужно мнение других людей, несмотря на то, нравится мне оно или нет. Ладно, берите свой стакан и давайте оценим вкус...<end>
+
+=>a265_original
+How about I just chug it down and skip the smelling part?<end>
+
+=>a265
+Может, пропустим всякие нюхания и просто жахнем?<end>
+
+=>q266_original
+No - you have to smell it first. The senses of taste and smell go together; when you smell first you are preparing your brain for what you are about to taste afterwards. Listen to what I'm saying to you, $(context.player.Name), and let us do this by the rules.<end>
+
+=>q266
+Нет, сначала необходимо понюхать. Чувства вкуса и обоняния неразделимы; когда ощущаете запах, ваш мозг готовится оценить вкус. Слушайте, что я вам говорю, $(context.player.Name), и давайте делать всё по правилам.<end>
+
+=>q267_original
+::As soon as he notices you, the man in a white lab-coat closes a folder he was straining to read and greets you with a firm handshake. His blood-shot eyes are drowning in fatigue, something which rubbing his eyes, which he performs from time to time, simply cannot remove, but can only relieve for a bit. Still, he appears alert and focused enough, and above all friendly during your conversation.::
+
+Oh, oh, oh. Hello, $(#brother/sister). Tchort is evolution, Tchort is evolution. I am Principal Investigator Georgis, and I run the Department of Chemistry... a part of the Investigation, in case you didn't know.<end>
+
+=>q267
+::Заметив вас, мужчина в белом лабораторном халате закрывает папку, которую силился читать, и приветствует вас крепким рукопожатием. Его налитые кровью глаза опухли от усталости, и он время от времени растирает их, но это приносит облегчение лишь ненадолго. Не смотря на это, он бодр, достаточно сосредоточен и крайне дружелюбен.::
+
+Ох, ох, ох. Здравствуйте, $(#брат/сестра). Чорт -- это эволюция, Чорт -- это эволюция. Я научный руководитель Георгис, руковожу кафедрой химии... которая является отделом Исследования, если вы не знали.<end>
+
+=>a268_original
+Evolution is Tchort. I am $(context.player.Name).<end>
+
+=>a268
+Эволюция -- это Чорт. Я $(context.player.Name).<end>
+
+=>q269_original
+Ah, yes, yes... You helped Efreitor Denzil get the Reaching Man from Lunatics. Yes, right. Eidein was very pleased to have the figurine finally in his hands.
+
+Tell me, how may I help you?<end>
+
+=>q269
+Ах, да, да... Вы помогли ефрейтору Дэнзилу вернуть Достигающего. Да, точно. Эйдейн был очень рад, что статуэтка наконец-то в его руках.
+
+Скажите, чем я могу помочь вам?<end>
+
+=>a270_original
+Pleasure to meet you, Investigator. Call me $(context.player.Name).<end>
+
+=>a270
+Рад$(#/а) познакомиться с вами. Зовите меня $(context.player.Name).<end>
+
+=>a271_original
+Oh, oh, oh, hello to you too, brother! $(context.player.Name)'s the name.<end>
+
+=>a271
+Ох, ох, ох, здравствуйте и вы, брат! Я $(context.player.Name).<end>
+
+=>a272_original
+'Ey. I'm $(context.player.Name).<end>
+
+=>a272
+Привет. Я $(context.player.Name).<end>
+
+=>q273_original
+Eidein pardon me, but these *bloody* tremors are getting on my nerves...<end>
+
+=>q273
+Прости меня Эйдейн, но эти долбаные толчки действуют мне на нервы...<end>
+
+=>q274_original
+Oh, oh, oh! It's you, $(#brother/sister).<end>
+
+=>q274
+Ох, ох, ох! Это вы, $(#брат/сестра).<end>
+

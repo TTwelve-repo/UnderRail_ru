@@ -1,0 +1,160 @@
+﻿=>q1_original
+::You see horror in the strongman's face, even though that is mechanically impossible.::
+
+You... are not afraid, $(#sir/ma'am)?<end>
+
+=>q1
+::Вы видите ужас на лице силача, хотя это технически невозможно.::
+
+Вы... не боитесь, $(#сэр/мэм)?<end>
+
+=>a2_original
+Petrified.<end>
+
+=>a2
+Оцепенел$(#/а).<end>
+
+=>q3_original
+You should be afraid, $(#sir/ma'am) - danger is all around us. They roam these hallways still, $(#sir/ma'am).<end>
+
+=>q3
+Вы должны бояться, $(#сэр/мэм) - опасность повсюду вокруг нас. Они всё ещё бродят по этим коридорам, $(#сэр/мэм).<end>
+
+=>a4_original
+Who?<end>
+
+=>a4
+Кто?<end>
+
+=>q5_original
+Forgive me for being so disrespectful, but have you lost your damn mind, $(#sir/ma'am)!? Have you not *seen* them, $(#sir/ma'am)? The ones who used to be like you and me... the same ones who once saved lives but now end them. For mindlessness and decay have produced in them but a single blinding urge - to destroy all that is different from themselves. 
+
+You have either been very, *very* lucky... or you're lying... $(#sir/ma'am).<end>
+
+=>q5
+Простите мне такое неуважение, но вы, что ли, совсем спятили, $(#сэр/мэм)?! Разве вы не видели их, $(#сэр/мэм)? Тех, кто был похож на нас с вами, тех, кто когда-то спасал жизни, но теперь обрывает их. Потому что бездумие и разложение породили в них лишь одно ослепляющее побуждение - уничтожить всё, что отличается от них самих.
+
+Вам либо очень, *очень* повезло... либо вы лжёте... $(#сэр/мэм).<end>
+
+=>a6_original
+Hold on, hold on. Are you talking about the robots?<end>
+
+=>a6
+Погоди, погоди. Ты говоришь о роботах?<end>
+
+=>q7_original
+Forgive me again, $(#sir/ma'am)... ::He grabs you by your arms and effortlessly pulls you closer.:: Robots? What kind of nonsensical question is that? <end>
+
+=>q7
+И снова простите меня, $(#сэр/мэм)... ::Он хватает вас за руки и без особых усилий притягивает к себе.:: Роботы? Что за бессмысленный вопрос?<end>
+
+=>q8_original
+Don't you understand, $(#sir/ma'am)!? Look into my eyes - and tell me what you see. 
+
+Do you see life... or do you see death?<end>
+
+=>q8
+Неужели вы не понимаете, $(#сэр/мэм)?! Посмотрите в мои глаза - и скажите мне, что вы видите.
+
+Вы видите жизнь... или видите смерть?<end>
+
+=>a9_original
+Life.<end>
+
+=>a9
+Жизнь.<end>
+
+=>q10_original
+$(#Sir/Ma'am) - you stupid bastard! Can't you see it's both? Both! 
+
+My eyes, they're just like... her eyes... and his eyes... and their eyes... <end>
+
+=>q10
+$(#Сэр/Мэм) - вы идиот$(#/ка)! Разве вы не видите и того, и другого? Вместе!
+
+Мои глаза, точно такие же, как... её глаза... и его глаза... и их глаза...<end>
+
+=>q11_original
+::He averts his eyes and releases you.::
+
+Aaahh... Forgive my foul mouth and my possessed hands. And forgive me for not being able to help you with what will befall you in a moment. In my life there is both life and death - and that is why I am afraid. I am not afraid of life - I wish to live. I am not afraid of death - I wish to die. But both?
+
+*Unbearable*...<end>
+
+=>q11
+::Он отводит глаза и отпускает вас.::
+
+А-а-а-ах... Простите мой грязный рот и мои одержимые руки. И простите меня за то, что не смогу помочь вам с тем, что случится с вами сейчас. В моём существовании есть и жизнь, и смерть - вот почему я боюсь. Я не боюсь жизни - я хочу жить. Я не боюсь смерти - я хочу умереть. Но и то, и другое?
+
+*Невыносимо*...<end>
+
+=>q12_original
+But your arrival... it just might bring me closer to the only one of these two which I can now embrace with certainty.
+
+If you'd excuse me... and do take care of yourself, $(#sir/ma'am).<end>
+
+=>q12
+Однако, ваше появление... может приблизить меня к единственному из них, и я смогу принять это с уверенностью.
+
+А теперь, если позволите... и берегите себя, $(#сэр/мэм).<end>
+
+=>a13_original
+::Watch as he leaves.::<end>
+
+=>a13
+::Смотреть ему вслед.::<end>
+
+=>a14_original
+Death.<end>
+
+=>a14
+Смерть.<end>
+
+=>a15_original
+I see nothing.<end>
+
+=>a15
+Я ничего не вижу.<end>
+
+=>a16_original
+What are you really?<end>
+
+=>a16
+Кто ты на самом деле?<end>
+
+=>q17_original
+Forgive me again, $(#sir/ma'am)... ::He grabs you by your arms and pulls you closer without any effort.:: <end>
+
+=>q17
+И снова простите меня, $(#сэр/мэм)... ::Он хватает вас за руки и без особых усилий притягивает к себе.::<end>
+
+=>a18_original
+I don't understand a word of what you're talking about.<end>
+
+=>a18
+Я не понял$(#/а) ни слова из того, о чём ты говоришь.<end>
+
+=>a19_original
+I am.<end>
+
+=>a19
+Боюсь.<end>
+
+=>a20_original
+A bit.<end>
+
+=>a20
+Немного.<end>
+
+=>a21_original
+No.<end>
+
+=>a21
+Нет.<end>
+
+=>a22_original
+What should I be afraid of?<end>
+
+=>a22
+Чего я долж$(#ен/на) бояться?<end>
+

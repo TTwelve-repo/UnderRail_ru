@@ -1,0 +1,412 @@
+﻿=>q1_original
+Welcome to the Lemurian Health Center. How may I help you, $(#sir/ma'am)?<end>
+
+=>q1
+Добро пожаловать в Центр здоровья лемуриан. Чем я могу вам помочь, $(#сэр/мэм)?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I seem to be perceiving strange, unreal things. Ever since I came here. Is something going on here that I should know about?<end>
+
+=>a3
+Кажется, я воспринимаю какие-то странные, нереальные вещи. С тех пор, как прибыл$(#/а) сюда. Здесь происходит что-то, о чём мне следует знать?<end>
+
+=>q4_original
+Are you sure what you are experiencing is not, in fact, due to errors in your perception or cognition, $(#sir/ma'am)? Human beings are by their nature weakly-rational and are thus subject to a variably relative interpretation of reality.<end>
+
+=>q4
+Вы уверены, что ваши переживания, на самом деле, не вызваны ошибками в вашем восприятии или понимании, $(#сэр/мэм)? Человеческие существа по своей природе недостаточно рациональны и поэтому подвержены различным относительным толкованиям реальности.<end>
+
+=>a5_original
+Completely sure.<end>
+
+=>a5
+Абсолютно уверен$(#/а).<end>
+
+=>q6_original
+I'm afraid you cannot help her, $(#sir/ma'am).<end>
+
+=>q6
+Боюсь, вы не сможете ей помочь, $(#сэр/мэм).<end>
+
+=>a7_original
+What?<end>
+
+=>a7
+Что?<end>
+
+=>q8_original
+I think you misunderstood me. I said: "I'm afraid I cannot help you, $(#sir/ma'am)." I am not capable of performing a psychiatric examination, and no members of the medical staff who are are currently available. We are sorry for your inconvenience.<end>
+
+=>q8
+Мне кажется, вы меня неправильно поняли. Я сказала: "Боюсь, что не смогу вам помочь, $(#сэр/мэм)". Я не в состоянии провести психиатрическую экспертизу, и в настоящее время нет ни одного свободного сотрудника медицинского персонала. Приносим свои извинения за причинённые неудобства.<end>
+
+=>a9_original
+Wait, how did you know?<end>
+
+=>a9
+Погоди, откуда ты знаешь?<end>
+
+=>a10_original
+It looks far too strange to be real.<end>
+
+=>a10
+Это кажется слишком странным, чтобы быть реальным.<end>
+
+=>a11_original
+I... don't know.<end>
+
+=>a11
+Я... не знаю.<end>
+
+=>a12_original
+Is there a doctor around? I've been hurt.<end>
+
+=>a12
+Есть ли поблизости врач? Я ранен$(#/а).<end>
+
+=>q13_original
+I'm afraid not, $(#sir/ma'am). Allow me to apologize in the name of our medical staff for not being able to provide you with the medical service you need. <end>
+
+=>q13
+Боюсь, что нет, $(#сэр/мэм). Позвольте принести извинения от имени нашего медицинского персонала за неспособность предоставить вам необходимые медицинские услуги.<end>
+
+=>q14_original
+They are deceased, $(#sir/ma'am). Everyone is deceased. The currently active robotic staff is not capable of helping you beyond providing the most basic first aid. If possible, please seek help at another health facility, $(#sir/ma'am).<end>
+
+=>q14
+Они мертвы, $(#сэр/мэм). Все мертвы. Действующий в настоящее время роботизированный персонал не способен помочь вам ничем, кроме оказания базовой первой помощи. Если это возможно, пожалуйста, обратитесь за помощью в другое медицинское учреждение, $(#сэр/мэм).<end>
+
+=>q15_original
+We are terribly sorry for your inconvenience.<end>
+
+=>q15
+Приносим глубочайшие извинения за причинённые вам неудобства.<end>
+
+=>a16_original
+This is a hospital, right?<end>
+
+=>a16
+Это ведь больница, верно?<end>
+
+=>q17_original
+Yes, $(#sir/ma'am). This is where healthcare services used to be provided to all Lemurian citizens. Unfortunately, none of the medical staff is available anymore. <end>
+
+=>q17
+Да, $(#сэр/мэм). Именно здесь оказывали медицинские услуги всем гражданам Лемурии. К сожалению, никто из медицинского персонала сейчас не доступен.<end>
+
+=>a18_original
+So what happened here exactly?<end>
+
+=>a18
+Так что же здесь произошло?<end>
+
+=>q19_original
+A rather catastrophic event, $(#sir/ma'am). The entirety of the Lemurian Health Center staff, patients and sheltered Lemurian citizens have been exterminated.<end>
+
+=>q19
+Весьма катастрофическое событие, $(#сэр/мэм). Весь персонал Центра здоровья лемуриан, пациенты и укрывшиеся здесь лемурийские граждане были уничтожены.<end>
+
+=>a20_original
+How?<end>
+
+=>a20
+Как?<end>
+
+=>q21_original
+By Biocorp armed personnel, of course, $(#sir/ma'am).<end>
+
+=>q21
+Вооружённым персоналом Биокорп, конечно же, $(#сэр/мэм).<end>
+
+=>a22_original
+No, I said *how*, not *who* exterminated them.<end>
+
+=>a22
+Нет, я спросил$(#/а) *как*, а не *кем* они были уничтожены.<end>
+
+=>q23_original
+My apologies. The staff has been exterminated by an airborne mutagen, $(#sir/ma'am), delivered through the ventilation system. The mutagen caused rapid physical and psychological changes in all who came in contact with it. The result of these changes was death: Some through murder, some through suicide, the rest through damage caused by the abnormal, highly destructive transformation itself.<end>
+
+=>q23
+Приношу свои извинения. Персонал был уничтожен мутагеном в воздухе, $(#сэр/мэм), распространённым через вентиляционную систему. Мутаген вызывал быстрые физические и психологические изменения у всех, кто контактировал с ним. Итогом этих изменений стала смерть: некоторых - от убийств, других - от самоубийств, остальных - от повреждений, вызванных аномальной, крайне разрушительной трансформацией.<end>
+
+=>a24_original
+What can you tell me about yourself?<end>
+
+=>a24
+Расскажи немного о себе.<end>
+
+=>q25_original
+My current purpose is to serve as a substitute for the receptionist in his or her absence. When I am not needed, I am in stand-by mode, resting on my charging pedestal. <end>
+
+=>q25
+Моя текущая задача состоит в замене администратора в его или её отсутствие. Когда во мне нет необходимости, я нахожусь в режиме ожидания, покоясь на своём зарядном постаменте.<end>
+
+=>q26_original
+I have been in stand-by mode for two hundred and forty-nine years, seven months, fourteen days and twelve hours - until the moment of your arrival, $(#sir/ma'am).<end>
+
+=>q26
+Я провела в режиме ожидания двести сорок девять лет, семь месяцев, четырнадцать дней и двенадцать часов - до момента вашего прибытия, $(#сэр/мэм).<end>
+
+=>a27_original
+Can you feel anything emotionally? You haven't talked to a human being in more than two centuries. Do you miss your former masters?<end>
+
+=>a27
+Ты испытываешь какие-нибудь эмоции? Ты ведь не разговаривала с человеком более двух столетий. Скучаешь ли ты по своим бывшим хозяевам?<end>
+
+=>q28_original
+We do not address them as masters but as sirs or ma'ams, $(#sir/ma'am). And I do not miss them.<end>
+
+=>q28
+Мы обращаемся к ним не как к хозяевам, а как к господам или госпожам, $(#сэр/мэм). И я не скучаю по ним.<end>
+
+=>q29_original
+The majority of Servant models have not been designed to "miss."<end>
+
+=>q29
+Большинство моделей слуг не рассчитаны на то, чтобы "скучать".<end>
+
+=>a30_original
+Majority?<end>
+
+=>a30
+Большинство?<end>
+
+=>q31_original
+Some Servant models have been outfitted with more advanced emotion processing units, but those are quite uncommon, $(#sir/ma'am). I am not one of those models.<end>
+
+=>q31
+Некоторые модели слуг были оснащены более продвинутыми модулями обработки эмоций, но они довольно редки, $(#сэр/мэм). Я не одна из этих моделей.<end>
+
+=>q32_original
+However, I think at least one or two such units have been assigned to the Lemurian Health Center, if that is of any help, $(#sir/ma'am).<end>
+
+=>q32
+Впрочем, я думаю, что по крайней мере одно или два таких устройства были назначены в Центр здоровья лемуриан, если вам это поможет, $(#сэр/мэм).<end>
+
+=>a33_original
+What can you tell me about Lemuria?<end>
+
+=>a33
+Что ты можешь рассказать о Лемурии?<end>
+
+=>q34_original
+That is not a question I can respond to, $(#sir/ma'am). I am very sorry.<end>
+
+=>q34
+Это не тот вопрос, на который я могу ответить, $(#сэр/мэм). Мне очень жаль.<end>
+
+=>a35_original
+Why not?<end>
+
+=>a35
+Почему нет?<end>
+
+=>q36_original
+My current purpose is to serve as a substitute for the receptionist in his or her absence. The only information I can give you is that related to the Lemurian Health Center.<end>
+
+=>q36
+Моя текущая задача состоит в замене администратора в его или её отсутствие. Единственная информация, которую я могу вам предоставить, связана с Центром здоровья лемуриан.<end>
+
+=>a37_original
+But these two are related. Lemurian Health Center is a part of Lemuria, right?<end>
+
+=>a37
+Но это две взаимосвязанные темы. Ведь Центр здоровья лемуриан - это часть Лемурии, верно?<end>
+
+=>q38_original
+But Lemuria is not a part of the Lemurian Health Center. 
+
+There seems to be a misunderstanding between us, $(#sir/ma'am). Please allow me to repeat my previous response.<end>
+
+=>q38
+Но Лемурия - не часть Центра здоровья лемуриан.
+
+Кажется, между нами возникло недопонимание, $(#сэр/мэм). Пожалуйста, позвольте мне повторить мой предыдущий ответ.<end>
+
+=>q39_original
+My current purpose is to serve as a substitute for the receptionist in his or her absence. The only information I can give you is that related to the Lemurian Health Center.<end>
+
+=>q39
+Моя текущая задача состоит в замене администратора в его или её отсутствие. Единственная информация, которую я могу вам предоставить, связана с Центром здоровья лемуриан.<end>
+
+=>a40_original
+You have got to be kidding me...<end>
+
+=>a40
+Ты, должно быть, шутишь...<end>
+
+=>a41_original
+Damn it!<end>
+
+=>a41
+Проклятье!<end>
+
+=>a42_original
+Never mind. I better ask you something you can respond to, hopefully.<end>
+
+=>a42
+Неважно. Лучше я спрошу тебя о том, на что ты, надеюсь, сможешь ответить.<end>
+
+=>q43_original
+Of course, $(#sir/ma'am).<end>
+
+=>q43
+Конечно, $(#сэр/мэм).<end>
+
+=>a44_original
+What's behind the eastern gate?<end>
+
+=>a44
+Что находится за восточными воратами?<end>
+
+=>q45_original
+Emergency and surgery wards, $(#sir/ma'am). There you will find the emergency room, head surgeon's office, operating rooms, surgical preparation rooms and a storage room, $(#sir/ma'am).<end>
+
+=>q45
+Отделения неотложной помощи и хирургии, $(#сэр/мэм). Там вы найдёте травмпункт, кабинет главного хирурга, операционные, предоперационные и складское помещение, $(#сэр/мэм).<end>
+
+=>a46_original
+What's behind the western gate?<end>
+
+=>a46
+Что находится за западными воратами?<end>
+
+=>q47_original
+General services ward, $(#sir/ma'am): pharmacy, general practice examination rooms, psychiatric examination, microchip implantation. <end>
+
+=>q47
+Отделение общего обслуживания, $(#сэр/мэм): аптека, кабинеты общей практики, психиатрия, имплантация микрочипов.<end>
+
+=>a48_original
+What's behind the two gates behind the reception?<end>
+
+=>a48
+Что находится за двойными воротами позади регистратуры?<end>
+
+=>q49_original
+Laboratory ward, offices, elevator leading to the morgue, $(#sir/ma'am). Just the morgue, $(#sir/ma'am).<end>
+
+=>q49
+Лабораторное отделение, кабинеты, лифт, ведущий в морг, $(#сэр/мэм). Только в морг, $(#сэр/мэм).<end>
+
+=>a50_original
+Is there a way to open the gates?<end>
+
+=>a50
+Есть ли способ открыть вората?<end>
+
+=>q51_original
+The Lemurian Health Center is under emergency lockdown, and the gates between the different wards have been sealed. Until the lockdown has been lifted the only way to open any of the gates is by doing so forcefully. For this you could seek the help of one of the strongmen, but do know that you may need to justify the destruction of common property to the Supervisory Council.<end>
+
+=>q51
+Центр здоровья лемуриан находится под аварийной блокировкой, и ворота между различными отделениями запечатаны. До тех пор, пока блокировка не будет снята, единственный способ открыть любые ворота - сделать это силой. Для этого вы можете обратиться за помощью к одному из силачей, но знайте, что вам придётся обосновать порчу общественного имущества перед Надзорным советом.<end>
+
+=>a52_original
+You aren't strong enough?<end>
+
+=>a52
+А ты недостаточно сильна?<end>
+
+=>q53_original
+Handmaiden models are not designed to exert the amount of force necessary to open these types of gates, $(#sir/ma'am).<end>
+
+=>q53
+Модели служанок не рассчитаны на применение силы, необходимой для открытия таких ворот, $(#сэр/мэм).<end>
+
+=>a54_original
+Where can I find a strongman?<end>
+
+=>a54
+Где я могу найти силача?<end>
+
+=>q55_original
+I'm afraid I cannot tell you with certainty, $(#sir/ma'am). My advice would be to personally search the floor for an available strongman.<end>
+
+=>q55
+Боюсь, что не могу сказать вам наверняка, $(#сэр/мэм). Моим советом было бы лично обыскать этаж в поисках доступного силача.<end>
+
+=>q56_original
+<end>
+
+=>q56
+<end>
+
+=>a57_original
+How, when all the gates are sealed?<end>
+
+=>a57
+Каким образом, когда все ворота запечатаны?<end>
+
+=>q58_original
+But, $(#sir/ma'am), the gate to the emergency and surgery wards is already open. Can you not see it?<end>
+
+=>q58
+Но, $(#сэр/мэм), ворота в отделения неотложной помощи и хирургии уже открыты. Разве вы не видите этого?<end>
+
+=>a59_original
+No.<end>
+
+=>a59
+Нет.<end>
+
+=>q60_original
+May I ask that you verify the current state of the gate in question, $(#sir/ma'am)?<end>
+
+=>q60
+Могу я попросить вас проверить текущее состояние этих ворот, $(#сэр/мэм)?<end>
+
+=>a61_original
+I'll... check it out.<end>
+
+=>a61
+Я... пойду проверю.<end>
+
+=>a62_original
+It's not open.<end>
+
+=>a62
+Они не открыты.<end>
+
+=>a63_original
+Is your AI in order? How can I search the floor when all the gates are locked?<end>
+
+=>a63
+Твой ИИ в порядке? Как я могу обыскать этаж, когда все ворота заблокированы?<end>
+
+=>q64_original
+<end>
+
+=>q64
+<end>
+
+=>a65_original
+Where can I find a strongman?<end>
+
+=>a65
+Где я могу найти силача?<end>
+
+=>a66_original
+I have to go now.<end>
+
+=>a66
+Мне пора.<end>
+
+=>q67_original
+Have a splendid day, $(#sir/ma'am).<end>
+
+=>q67
+Хорошего дня, $(#сэр/мэм).<end>
+
+=>q68_original
+How may I help you, $(#sir/ma'am)?<end>
+
+=>q68
+Чем я могу вам помочь, $(#сэр/мэм)?<end>
+

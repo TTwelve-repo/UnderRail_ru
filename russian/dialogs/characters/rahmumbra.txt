@@ -1,0 +1,1680 @@
+﻿=>q1_original
+::Rahm-Umbra remains silent.::<end>
+
+=>q1
+::Рам-Умбра молчит.::<end>
+
+=>q2_original
+::The large figure turns to you, motionless and silent, his several lenses focused on your advent. You face him, expecting a vicious attack, but instead he gives you a moment to realize that his intentions lie elsewhere.::
+
+I will overlook your previous errors, but know that it will be the last time for me to do so. I wish only to speak to you.<end>
+
+=>q2
+::Высокая фигура поворачивается к вам, -- молчаливая и неподвижная, -- многочисленные объективы следят за вашим приближением. Вы смотрите на него, ожидая нападения, но секунду спустя понимаете, что его не последует.::
+
+Я прощаю тебе предыдущие ошибки, но знай, что я делаю это в последний раз. Я желаю только поговорить.<end>
+
+=>a3_original
+We didn't end our previous encounter on most friendly terms. I thought you'd attack me.<end>
+
+=>a3
+В прошлый раз мы расстались не в лучших отношениях. Я ожидал$(#/а) нападения.<end>
+
+=>q4_original
+You need to be alive. It is as simple as that.<end>
+
+=>q4
+Ты долж$(#ен/на) жить. Вот и всё.<end>
+
+=>a5_original
+Well, if we're going to talk, can we start by you telling me your name? What do I call you?<end>
+
+=>a5
+Что ж, если мы будем говорить, ты можешь для начала назвать своё имя? Как мне тебя называть?<end>
+
+=>q6_original
+Rahm-Umbra.<end>
+
+=>q6
+Рам-Умбра.<end>
+
+=>a7_original
+Why were you waiting for me, Rahm-Umbra?<end>
+
+=>a7
+Зачем ты ждал меня, Рам-Умбра?<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+We find ourselves in the same events again and again, oculite. At the Oculus, at the Tchortist institute, and here. These are not coincidences.<end>
+
+=>q9
+Мы снова и снова оказываемся частью одних событий, окулит. В Окулусе, в Институте чортистов и здесь. Это не совпадения.<end>
+
+=>q10_original
+As I connect events I have witnessed, I wonder in how many more of those we passed by each other, unaware that the other one was nearby.<end>
+
+=>q10
+Когда я соединяю вместе события, которым был свидетелем, мне становится интересно, сколько ещё раз мы прошли мимо друг друга, не подозревая, что были рядом.<end>
+
+=>a11_original
+::[Intelligence]:: So you too want the Cube?<end>
+
+=>a11
+::[Интеллект]:: Значит, ты тоже ищешь этот Куб?<end>
+
+=>q12_original
+Yes, but for a different reason than you.<end>
+
+=>q12
+Да, но по другой причине.<end>
+
+=>a13_original
+What is the deal with that cube? Most of what happened recently seem to somehow revolve around it.<end>
+
+=>a13
+Что вообще за дела с этим кубом? Всё, что ни происходит в последнее время, кажется, вращается вокруг него.<end>
+
+=>q14_original
+Your questions are sidetracking the conversation. Listen, and I will tell you what you need to know.<end>
+
+=>q14
+Твои вопросы уводят наш разговор от сути. Слушай, и я расскажу тебе то, что тебе нужно знать.<end>
+
+=>q15_original
+The artifact - it is in the possession of what you know as Tchort. Tchort must be destroyed, and the artifact returned to the Tunnelers, Faceless, refer to them as you wish. They are not your enemies; you share more common goals than you had ever thought.<end>
+
+=>q15
+Артефакт -- он находится у того, что ты знаешь как Чорт. Чорт должен быть уничтожен, а артефакт должен быть возвращён Проходчикам -- безликим, называй их как хочешь. Они не враги тебе; у вас с ними больше общих целей чем вы думаете.<end>
+
+=>a16_original
+And it is I who needs to do all this?<end>
+
+=>a16
+И это я долж$(#ен/на) всё это делать?<end>
+
+=>q17_original
+It appears so. You will play an important part in Tchort's destruction, or even outright destroy it on your own.<end>
+
+=>q17
+Судя по всему -- да. Ты будешь играть важную роль в уничтожении Чорта, если даже не сделаешь этого самостоятельно.<end>
+
+=>q18_original
+All events which have led to this one here have produced a setting, a frame - your deficient language prevents me from conveying the meaning properly - in which the only outcome is for you and Tchort to meet. The only possible way for you to create an exit out of Deep Caverns is to destroy Tchort. I have contemplated it greatly, considered possibilities you are not remotely aware of, and I inferred no alternative.<end>
+
+=>q18
+Все события, которые предшествовали данному, создали положение, окружение, -- ваш дефектный язык не позволяет мне донести смысл полностью -- в котором твоя встреча с Чортом является единственным возможным исходом. Единственно возможный для тебя способ покинуть Глубокие пещеры -- это уничтожить Чорта. Я думал об этом, рассматривал возможности, о которых ты не подозреваешь, и я не увидел альтернативы.<end>
+
+=>a19_original
+If you want Tchort dead so badly, why don't you kill it yourself?<end>
+
+=>a19
+Если ты так хочешь убить Чорта, почему бы тебе не сделать это самому?<end>
+
+=>q20_original
+That is not my event. I find it difficult to explain, as I have stated, but it is something that must occur, and you are the main participant. Of course, I could be wrong about you and this frame ends up being your grave, this conversation meaningless to you and detrimental to me.<end>
+
+=>q20
+Это не моё событие. Мне сложно объяснить, как я уже сказал, но это должно произойти, и ты -- главный участник. Конечно, я могу ошибаться в тебе, и это окружение станет твоей могилой, этот разговор потеряет смысл для тебя и окажется вредным для меня.<end>
+
+=>q21_original
+The information you gave me at the Tchortist Institute, the name of the station you are from - that revealed another connection for me to consider. Connection to the artifact, to your events and... to my events. Connection that revealed the one who orchestrated your moves for his benefit alone. The more I ponder these things, the more I am confident that what I am telling you is correct.<end>
+
+=>q21
+Информация, полученная мной от тебя в Институте чортистов -- про твою станцию -- обнаружила для меня другую связь. Связь с артефактом, с твоими событиями и... моими событиями. Связь, которая выявила того, кто направлял твои действия в своих собственных интересах. Чем больше я думаю об этом, тем больше я уверен, что то, что я говорю тебе -- правда.<end>
+
+=>a22_original
+Let me get this straight: You want Tchort killed, and I'm somehow destined to do it; you want the artifact returned to the Faceless but you somehow cannot interfere. Why are you still here then?<end>
+
+=>a22
+Давай уточним: ты хочешь убить Чорта, и мне каким-то образом суждено это сделать; ты хочешь, чтобы артефакт вернулся к безликим, но ты почему-то не можешь вмешаться. Почему тогда ты всё ещё здесь?<end>
+
+=>q23_original
+To make certain these things occur. My presence here was not related to Tchort originally. But as I learned of it, of its name, it became more important. Most important.<end>
+
+=>q23
+Чтобы убедиться, что эти события произойдут. Изначально моё присутствие здесь не имело отношения к Чорту. Но когда я узнал о нём, его имя, это стало важным. Наиболее важным.<end>
+
+=>a24_original
+Okay. Tell me about Tchort and what one would have to do in order to defeat it.<end>
+
+=>a24
+Ладно. Расскажи мне про Чорта, и что нужно сделать для того, чтобы победить его.<end>
+
+=>q25_original
+It is an entity, an embodiment of something that must not be allowed to prevail. I cannot tell you what that is, for I do not know yet myself. Perhaps I will have these answers ready for some other event.<end>
+
+=>q25
+Это сущность -- воплощение того, победу чего нельзя допустить. Я не могу сказать тебе, что это такое, потому что я ещё не знаю. Возможно, у меня будут эти ответы в другое событие.<end>
+
+=>q26_original
+::His arm extends, pointing toward the tunnel.:: This way leads to Tchort's domain. After you step into it, you will be prone to its influence; your fragile mind will be exposed to violation. Far to the north, you will see an entangled gate; behind it lies Tchort.<end>
+
+=>q26
+::Он вытягивает руку, указывая в сторону тоннеля.:: Этот путь ведёт во владения Чорта. Когда ты пойдёшь им, ты почувствуешь его влияние; твоё хрупкое сознание будет подвержено вторжению. Далеко на севере ты найдёшь опутанные ворота; за ними лежит Чорт.<end>
+
+=>q27_original
+The details of Tchort's destruction I do not know. After it is done, again, the artifact must be returned to the Faceless.<end>
+
+=>q27
+Подробности об уничтожении Чорта мне не известны. После того, как это случится, повторяю, артефакт должен быть возвращён безликим.<end>
+
+=>a28_original
+I will do as you ask. It serves both me and you, it seems. But I'm going to need a bit more information if I am going to do it.<end>
+
+=>a28
+Я сделаю, как ты просишь. Похоже, что это в наших общих интересах. Но в таком случае мне понадобится больше информации.<end>
+
+=>q29_original
+I will share such information.<end>
+
+=>q29
+Я поделюсь такой информацией.<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+What does the artifact do and why does Tchort want it?<end>
+
+=>a31
+Что делает этот артефакт и зачем он Чорту?<end>
+
+=>q32_original
+The artifact's purpose is a complex one. It is a powerful item. That should be enough.<end>
+
+=>q32
+Назначение артефакта имеет комплексный характер. Это могущественный предмет. Этого должно быть достаточно.<end>
+
+=>a33_original
+Why are you being like this? Just tell me what the bloody thing does.<end>
+
+=>a33
+Почему с тобой так трудно? Просто скажи мне, что эта хреновина делает.<end>
+
+=>q34_original
+The artifact's purpose should not be your concern. You only need to make sure it is returned to the Faceless.<end>
+
+=>q34
+Назначение артефакта не должно тебя волновать. Просто убедись, что он будет возвращён безликим.<end>
+
+=>a35_original
+I think the information will prove useful.<end>
+
+=>a35
+Я думаю, что эта информация окажется полезной.<end>
+
+=>q36_original
+It will not. The artifact's purpose should not be your concern. You only need to make sure it is returned to the Faceless.<end>
+
+=>q36
+Не окажется. Назначение артефакта не должно тебя волновать. Просто убедись, что он будет возвращён безликим.<end>
+
+=>a37_original
+Fine, then I'll ask you something else.<end>
+
+=>a37
+Ладно, тогда я спрошу что-нибудь другое.<end>
+
+=>q38_original
+Do so.<end>
+
+=>q38
+Сделай так.<end>
+
+=>a39_original
+You seem to know the Faceless well. What can you tell me about them?<end>
+
+=>a39
+Похоже, что ты хорошо знаешь безликих. Что ты можешь рассказать про них?<end>
+
+=>q40_original
+We cooperated, and I have visited their home not too far from here. They are not your enemies, unless you've mistreated them in the past - think carefully about your previous actions before engaging them. But whatever your personal disposition towards the Faceless, the artifact must be returned to them.<end>
+
+=>q40
+Мы сотрудничали, и я побывал у них дома недалеко отсюда. Они тебе не враги, если только ты не конфликтовал$(#/а) с ними в прошлом - тщательно обдумай свои предшествующие поступки, прежде чем вступать с ними в бой. Впрочем, независимо от твоего личного отношения к безликим, артефакт должен вернуться к ним.<end>
+
+=>a41_original
+What are they exactly?<end>
+
+=>a41
+Кто они такие?<end>
+
+=>q42_original
+They are more similar to your kin than you might think, and they are even connected to mine. Do not obstruct their workings - their mission is important to us all.<end>
+
+=>q42
+Они ближе к твоему роду, чем ты думаешь, и даже связаны с моим. Не препятствуй их работе - их миссия важна для всех нас.<end>
+
+=>q43_original
+::He becomes somewhat distant for a moment but soon continues.:: Is there anything else you need to know?<end>
+
+=>q43
+::На мгновение, он кажется отстранённым, но затем продолжает.:: Ты хочешь знать что-нибудь ещё?<end>
+
+=>a44_original
+Are there any other people in Deep Caverns? Besides the Tchortists, I mean.<end>
+
+=>a44
+Есть ли ещё люди в Глубоких пещерах? Ну, помимо чортистов.<end>
+
+=>q45_original
+I was told that a man was spotted relatively near Hollow Earth; multiple times. The Faceless described him as "one with a chaotic mind." He is the only one of your kin that could be found here as far as I know, excluding the Tchortists.<end>
+
+=>q45
+Мне сказали, что сравнительно недалеко от Полой Земли видели мужчину, несколько раз. Безликие описали его как «человека с запутанным сознанием». Он единственный из твоего рода, кого можно найти здесь, насколько я знаю, за исключением чортистов.<end>
+
+=>a46_original
+Where can I find this man?<end>
+
+=>a46
+Где я могу найти этого человека?<end>
+
+=>q47_original
+His exact location is unknown to me; it was unimportant. I do recall that he was noticed in Faceless territory, slightly north of their checkpoint at the eastern exit from Hollow Earth. I know nothing more than that.<end>
+
+=>q47
+Его точное местонахождение мне неизвестно, оно не имело значения. Однако я помню, что он был замечен на территории безликих, недалеко к северу от их заставы у восточного выхода из Полой Земли. Это всё, что я знаю.<end>
+
+=>a48_original
+Tell me about what awaits me once I step through that tunnel?<end>
+
+=>a48
+Расскажи мне, что ждёт меня, когда я шагну в этот туннель?<end>
+
+=>q49_original
+Hollow Earth. Your kin built it in ages which came before, but their own foolishness also razed it. That is what I have been told. It is the home to Tchort's influence and its spawn, creatures that exist for no other purpose than to defend their master. They are legion; attempting to weed them out is futile, for they will come after you again and again.<end>
+
+=>q49
+Полая Земля. Твой род построил это место в минувшую эпоху, но их собственная глупость также и разрушила его. Так мне сказали. Это область владений Чорта и его порождений -- существ, которые были созданы ради единственной цели -- защищать своего хозяина. Они -- легион; попытки истребить их -- бесполезны, потому что они будут продолжать приходить снова и снова.<end>
+
+=>q50_original
+But despite that, the creatures are not the greatest threat - Tchort itself is; ending its existence is where your focus should lie. It will be your worst enemy, one you will not likely see until the event in which it is destroyed comes to its resolution, at which point all of its minions should perish as well.<end>
+
+=>q50
+Но самая большая угроза -- не порождения, а сам Чорт; прекращение его существования -- вот на чём ты долж$(#ен/на) сосредоточиться. Он будет твоим злейшим врагом, которого ты, вероятно, не увидишь, пока не подойдёшь к завершающему событию, в котором он будет уничтожен, и в этот момент все его миньоны также погибнут.<end>
+
+=>a51_original
+Tell me about Tchort.<end>
+
+=>a51
+Расскажи мне про Чорта.<end>
+
+=>q52_original
+I have difficulty comprehending Tchort, but I may look at it from a different perspective. Go by what I have told you so far, lest I risk confusing you by relaying unfinished thoughts.<end>
+
+=>q52
+Я с трудом понимаю Чорта, но я смотрю на него с иной точки зрения чем ты. Довольствуйся тем, что я уже сказал тебе, иначе я рискую запутать тебя, передавая незаконченные мысли.<end>
+
+=>q53_original
+The Faceless might give you a more appropriate answer. Their information too is limited, but their mindset is closer to yours.<end>
+
+=>q53
+Безликие могут дать тебе более подходящий ответ. Их информация также ограничена, но их ментальность ближе тебе.<end>
+
+=>a54_original
+You mentioned an entangled gate behind which I'll find Tchort. What does that mean?<end>
+
+=>a54
+Ты упомянул опутанные ворота, за которыми я найду Чорта. Что это значит?<end>
+
+=>q55_original
+I was only told of it, but it is supposed to act as an entrance to Tchort's... location. The gate is large and sturdy, while this entanglement is made of thick organic matter, most likely produced in the same fashion as the spawn which guard it.<end>
+
+=>q55
+Мне про них только рассказывали, но они должны служить входом в... расположение Чорта. Это большие и прочные ворота, опутанные плотной органической тканью, скорее всего, произведённой таким же образом, как и порождения, которые охраняют его.<end>
+
+=>a56_original
+How do I get through it?<end>
+
+=>a56
+Как мне пройти через них?<end>
+
+=>q57_original
+I do not know. It is unlikely, however, that you will be able to easily remove this entanglement. I made a few observations which might help you: From what I have been told, the spawns rarely venture far from Tchort. I have seen them attack the Faceless checkpoints to the east, outside their domain, but they would not pursue me past the south exit from the area, this tunnel here.<end>
+
+=>q57
+Я не знаю. Однако маловероятно, что удалить опутывание будет легко. Я сделал несколько наблюдений, которые могут помочь тебе: из того, что мне сказали, следует, что порождения редко отходят далеко от Чорта. Я видел, как они атаковали заставу безликих на востоке, за пределами своих владений, но они не преследуют меня дальше южного выхода с территории -- этого тоннеля.<end>
+
+=>a58_original
+::[Intelligence]:: There is something about this area that scares them, right?<end>
+
+=>a58
+::[Интеллект]:: Есть что-то в этом месте, что их пугает, верно?<end>
+
+=>q59_original
+I believe so. <end>
+
+=>q59
+Я так считаю.<end>
+
+=>q60_original
+::He raises his arm just like before, but this time it points west.:: There is a cavern there which contains fungal organisms that are different than others in Deep Caverns. Perhaps that is the reason the spawn were unwilling to follow me.<end>
+
+=>q60
+::Он поднимает руку, как прежде, но на этот раз указывает на запад.:: Там есть пещера, в которой живут грибковые организмы, отличные от других в Глубоких пещерах. Возможно, что в них причина того, что порождения не желают следовать за мной.<end>
+
+=>q61_original
+If you find no other way to remove the entanglement, go there. Maybe you will find something of use.<end>
+
+=>q61
+Если ты не найдёшь другого способа удалить опутывание, иди туда. Может быть, там ты найдёшь что-нибудь полезное.<end>
+
+=>a62_original
+What do you mean?<end>
+
+=>a62
+Что ты имеешь в виду?<end>
+
+=>a63_original
+Maybe they find you more terrifying than the Faceless.<end>
+
+=>a63
+Может быть, они боятся тебя больше чем безликих.<end>
+
+=>q64_original
+Unlikely. <end>
+
+=>q64
+Маловероятно.<end>
+
+=>a65_original
+Where can I find supplies around here?<end>
+
+=>a65
+Где здесь я могу найти припасы?<end>
+
+=>q66_original
+Speak to the Faceless.<end>
+
+=>q66
+Говори с безликими.<end>
+
+=>a67_original
+They'll give me supplies?<end>
+
+=>a67
+Они дадут мне припасы?<end>
+
+=>q68_original
+Possibly. That is not what I meant, however. There is a section of abandoned storage buildings in their territory, east of Hollow Earth. A resourceful person such as yourself should be able to find something usable there.<end>
+
+=>q68
+Возможно. Однако это не то, что я имел в виду. На их территории, к востоку от Полой Земли, есть ряд заброшенных складских зданий. Находчивый человек вроде тебя будет в состоянии найти там что-нибудь полезное.<end>
+
+=>a69_original
+Tell me about yourself. What are you and where are you from?<end>
+
+=>a69
+Расскажи мне про себя. Что ты и откуда ты?<end>
+
+=>q70_original
+I am bound to this place only temporarily by my mission. I do not belong here.<end>
+
+=>q70
+Я лишь временно связан с этим местом своей миссией. Больше с ним меня ничто не связывает.<end>
+
+=>q71_original
+I am a creature, like you, but I am not of this world of yours. And while you are submerged completely under it, I stand with one foot in it and with the other outside.<end>
+
+=>q71
+Я существо, как и ты, но не из твоего мира. И пока ты полностью в него погруж$(#ён/ена), я стою в нём лишь одной ногой, но другой - вне его.<end>
+
+=>a72_original
+Do you know what this is? ::Show him the shard.::<end>
+
+=>a72
+Ты знаешь, что это такое? ::Показать ему осколок.::<end>
+
+=>q73_original
+::He peers into it intently and remains silent for a while.::<end>
+
+=>q73
+::Он внимательно его разглядывает и какое-то время молчит.::<end>
+
+=>q74_original
+It has a potential to be many things, but I don't know which one it would be for you. There is a darkness around it and I cannot pierce into the events surrounding it. I do, however, know that they are far off from here.<end>
+
+=>q74
+У него есть потенциал быть многим, но я не знаю, чем именно он станет для тебя. Его окутывает тьма, и я не могу проникнуть в окружающие его события. Однако я знаю, что до них ещё далеко.<end>
+
+=>q75_original
+How did you come by this?<end>
+
+=>q75
+Откуда тебе это известно?<end>
+
+=>a76_original
+It was chipped off a monolith at the entrance to the Black Sea.<end>
+
+=>a76
+Он был отколот от монолита у входа в Чёрное море.<end>
+
+=>q77_original
+Chipped off how?<end>
+
+=>q77
+Отколот как?<end>
+
+=>a78_original
+With a mining pick.<end>
+
+=>a78
+С помощью шахтёрской кирки.<end>
+
+=>q79_original
+::He remains quiet for a bit.::<end>
+
+=>q79
+::Он молчит какое-то время.::<end>
+
+=>q80_original
+The... "complex" this came from was made by my people for our own purposes.<end>
+
+=>q80
+Тот... "комплекс", откуда он появился, был создан моим народом для наших собственных целей.<end>
+
+=>q81_original
+ The complex is used to store many things and retrieving these things is usually not as straightforward as chipping at it.<end>
+
+=>q81
+Комплекс используется для хранения множества вещей, и их получение обычно не столь прямолинейно, как откалывание.<end>
+
+=>q82_original
+But activating the retrieved item is even harder for someone like you. How did you accomplish that?<end>
+
+=>q82
+Но активировать извлечённый элемент ещё сложнее для кого-то вроде тебя. Как тебе это удалось?<end>
+
+=>a83_original
+Azif, whom you surely already know, has activated it for me.<end>
+
+=>a83
+Его активировал для меня Азиф, которого ты наверняка уже знаешь.<end>
+
+=>q84_original
+I see. <end>
+
+=>q84
+Понятно.<end>
+
+=>q85_original
+I do not know the exact purpose of this particular instrument, but it does resemble a type of... "torch" we use to remove certain otherworldly residue.<end>
+
+=>q85
+Я не знаю точного назначения этого конкретного инструмента, но он действительно похож на... "факел", который мы используем для удаления некоторых потусторонних останков.<end>
+
+=>q86_original
+My kin and I are not of this world of yours and sometimes we have to go beyond its... limitations. This occasionally results in things from outer expanses seeping into places where they should not be. When that happens, we use devices such as this to remove them.<end>
+
+=>q86
+Ни я, ни мой род не принадлежим к вашему миру, и порой нам приходится покидать его... пределы. Периодически это приводит к тому, что вещи из внешних пространств просачиваются туда, где их не должно быть. Когда такое происходит, мы используем устройства, подобные этому, чтобы удалить их.<end>
+
+=>q87_original
+<end>
+
+=>q87
+<end>
+
+=>q88_original
+You should be wary of this phenomenon when consuming any drugs that allow you to see... or even move beyond the safe limits of this world. That torch alone might not be able to save you in a case of a bigger... anomaly.<end>
+
+=>q88
+Тебе стоит опасаться этого явления при употреблении любых веществ, дающих возможность увидеть... или даже выйти за безопасные пределы этого мира. Один этот факел может не спасти тебя в случае серьёзной... аномалии.<end>
+
+=>q89_original
+<end>
+
+=>q89
+<end>
+
+=>a90_original
+Do you want the torch back since it was made by your "kind"?<end>
+
+=>a90
+Ты хочешь вернуть факел, раз он был создан твоим "видом"?<end>
+
+=>q91_original
+Perhaps it would be for the best if you kept it. You might need it.<end>
+
+=>q91
+Возможно, будет лучше, если ты его сохранишь. Он может тебе понадобиться.<end>
+
+=>a92_original
+What do you think I should do with it?<end>
+
+=>a92
+Что, по-твоему, мне следует с ним сделать?<end>
+
+=>q93_original
+That is the real question. I think this piece has a purpose, but whether it's fulfilled through you or not, and whether it will be a benefit to you or not - that I cannot say.<end>
+
+=>q93
+Вот в чём настоящий вопрос. Думаю, у всего этого есть цель, но будет ли она воплощена тобой, принесёт ли она тебе выгоду - этого я не могу сказать.<end>
+
+=>q94_original
+Hold onto it, but proceed carefully.<end>
+
+=>q94
+Храни его у себя, но действуй осторожно.<end>
+
+=>q95_original
+<end>
+
+=>q95
+<end>
+
+=>q96_original
+<end>
+
+=>q96
+<end>
+
+=>a97_original
+Do you want the shard back since it was made by your "kind"?<end>
+
+=>a97
+Ты хочешь вернуть осколок, раз он был создан твоим "видом"?<end>
+
+=>q98_original
+I have no purpose for it and I will not draw in the darkness around it to cloud the events at hand. It is better that it remains with you.<end>
+
+=>q98
+У меня нет для него назначения, и я не собираюсь окружать его тьмой, затмевая ближайшие события. Будет лучше, если он останется у тебя.<end>
+
+=>a99_original
+How do you people activate these things?<end>
+
+=>a99
+Как вы, люди, активировали их?<end>
+
+=>q100_original
+That is not important to you as you would not be able to do the same. Instead, you should seek a way that would be available to you. Your main problem is that you do not have the eyes to see it properly and I do not know how you overcome that.<end>
+
+=>q100
+Для тебя это не имеет значения, поскольку тебе не под силу сделать то же самое. Ты долж$(#ен/на) отыскать другой, доступный тебе способ. Основная твоя проблема в том, что у тебя нет зрения, чтобы увидеть его по-настоящему, и я не знаю, как это преодолеть.<end>
+
+=>q101_original
+ But there is at least one that may know - Azif.<end>
+
+=>q101
+Но есть по меньшей мере один, кто может знать - Азиф.<end>
+
+=>a102_original
+Let's change the subject.<end>
+
+=>a102
+Давай сменим тему.<end>
+
+=>q103_original
+I am listening.<end>
+
+=>q103
+Я слушаю.<end>
+
+=>a104_original
+::Tell him how you destroyed the Shadowlith with the torch.::<end>
+
+=>a104
+::Рассказать ему как вы уничтожили Тенесвет факелом?.::<end>
+
+=>q105_original
+::He listens patiently as you tell him the story of how you descended into the Abyssal Station and destroyed the black monolith you found there and what you learned about it.::<end>
+
+=>q105
+::Он терпеливо выслушивает о том, как вы спустились в глубоководную станцию, уничтожили обнаруженный вами чёрный монолит, и всё, что вы узнали о нём.::<end>
+
+=>q106_original
+It is good that you destroyed it, even though it seems that came about a bit too late. At least now it will cause no more trouble to your people.<end>
+
+=>q106
+Хорошо, что ты его уничтожил$(#/а), хотя, кажется, это произошло слишком поздно. По крайней мере, больше он не доставит проблем твоему народу.<end>
+
+=>a107_original
+::Tell him how you destroyed the totem stone of the savages in the Black Sea.::<end>
+
+=>a107
+::Рассказать ему как вы разрушили каменный тотем дикарей Чёрного моря.::<end>
+
+=>q108_original
+::He listens patiently as you tell him about the temple of the savages and how you destroyed their totem stone.::<end>
+
+=>q108
+::Он терпеливо выслушивает ваш рассказ о храме дикарей и о том, как вы разрушили их тотемный камень.::<end>
+
+=>q109_original
+There are forces, both personal and impersonal, emanating from the outer reaches that can corrupt or annihilate life of this world. Those "savages," as you call them, came under their yoke and the outer thing projected its likeness onto them. Make no mistake, though, destroying a piece of this corrupt complex does not cut off these forces entirely. There are more subtle ways in which they creep in, and your world is soaked in them.<end>
+
+=>q109
+Есть силы, как индивидуальные, так и безличные, происходящие из внешних пределов и способные исказить или уничтожить жизнь этого мира. Те "дикари", как ты их называешь, попали под их влияние, и существо извне проецировало на них свой образ. Но не обманывайся, разрушение части этого порочного комплекса не отсекает эти силы полностью. Существуют более тонкие способы, которыми они проникают внутрь, и твой мир пронизан ими.<end>
+
+=>a110_original
+::Tell him how you killed the savage king in his void/spirit form.::<end>
+
+=>a110
+::Рассказать ему как вы убили короля дикарей в его духовной форме.::<end>
+
+=>q111_original
+::He listens patiently as you tell him about how you struck the savage king down twice.::<end>
+
+=>q111
+::Он терпеливо слушает ваш рассказ о том, как вы дважды сразили короля дикарей.::<end>
+
+=>q112_original
+Whatever it is that you killed the second time, was not the man you killed the first time.<end>
+
+=>q112
+Что бы ты ни убил$(#/а) во второй раз, это был уже не тот человек, которого ты убил$(#/а) прежде.<end>
+
+=>a113_original
+::Tell him how you killed a void creature with it.::<end>
+
+=>a113
+::Рассказать ему как вы уничтожили пустотную тварь с его помощью.::<end>
+
+=>q114_original
+::He listens patiently as you tell him the story of how you descended into the Abyssal Station and fought and killed a void creature.::<end>
+
+=>q114
+::Он терпеливо слушает ваш рассказ о том, как вы спустились на глубоководную станцию, сразились с пустотной тварью и убили её.::<end>
+
+=>q115_original
+These creatures are without count and striking them down individually is of no use. You should have, instead, focused on removing their source.<end>
+
+=>q115
+Эти существа бесчисленны, и убивать их поодиночке бесполезно. Вместо этого тебе стоило сосредоточиться на устранении их источника.<end>
+
+=>a116_original
+Let's talk about something else.<end>
+
+=>a116
+Давай поговорим о чём-нибудь другом.<end>
+
+=>q117_original
+Go on.<end>
+
+=>q117
+Продолжай.<end>
+
+=>a118_original
+A knowledgable friend of mine did it.<end>
+
+=>a118
+Это сделал один мой друг, сведущий в таких делах.<end>
+
+=>a119_original
+I drank a special concoction that allowed me to take proper hold of it.<end>
+
+=>a119
+Я выпил$(#/а) особую смесь, которая позволила мне овладеть им.<end>
+
+=>a120_original
+By sheer luck.<end>
+
+=>a120
+По чистой случайности.<end>
+
+=>q121_original
+You come to me for answers, yet you withhold such information from me, as if I inquire for my own profit at your expense. Very well. I will not press you on it.<end>
+
+=>q121
+Ты приходишь ко мне за ответами, но скрываешь от меня информацию, будто я хочу что-то выгодать за твой счёт. Что ж, ладно. Я не собираюсь настаивать.<end>
+
+=>q122_original
+But activating the retrieved item is even harder.<end>
+
+=>q122
+Но активировать извлечённый элемент ещё сложнее.<end>
+
+=>q123_original
+I do not know what you can do with this one, as you have neither the eyes to see it properly, nor do you know how to grasp it. And I cannot instruct you on these things, even if I wanted to.<end>
+
+=>q123
+Я не знаю, что тебе с ним делать, так как у тебя нет зрения, чтобы увидеть его по-настоящему, и ты не знаешь, как овладеть им. А я не смог бы обучить тебя этому, даже если бы захотел.<end>
+
+=>q124_original
+ Perhaps you should go back to the place we first met and ask our mutual friend Azif for assistance.<end>
+
+=>q124
+Возможно, тебе стоит вернуться туда, где мы впервые встретились, и попросить помощи у нашего общего друга Азифа.<end>
+
+=>q125_original
+ The complex is used to store many things, but retrieving them is not easy, even for my kind.<end>
+
+=>q125
+Комплекс используется для хранения множества вещей, но получить их нелегко, даже для таких как я.<end>
+
+=>a126_original
+A man struck it with a mining pick and got turned to pyrite, but he did manage to chip it off.<end>
+
+=>a126
+Один человек ударил по монолиту шахтёрской киркой и превратился в пирит, но ему удалось отколоть осколок.<end>
+
+=>a127_original
+A man struck it with a mining pick and got carbonized, but he did manage to chip it off.<end>
+
+=>a127
+Один человек ударил по монолиту шахтёрской киркой и обуглился, но ему всё же удалось отколоть осколок.<end>
+
+=>a128_original
+I don't know.<end>
+
+=>a128
+Я не знаю.<end>
+
+=>a129_original
+A mariner in the Black Sea used it to kill one of the giant savage natives there by throwing it at him. I retrieved it from the savage's corpse.<end>
+
+=>a129
+Один моряк в Чёрном море бросил его в дикаря-гиганта, чтобы того убить. Я вытащил$(#/а) осколок из его тела.<end>
+
+=>q130_original
+These "savages"? How are they connected to the shard itself?<end>
+
+=>q130
+Эти "дикари"? Как они связаны с самим осколком?<end>
+
+=>a131_original
+I think they fear it. At any rate, they fear to draw near the monolith it came from.<end>
+
+=>a131
+Я думаю, они его боятся. По крайней мере, они боятся приближаться к тому монолиту, от которого он произошёл.<end>
+
+=>q132_original
+And where is this monolith?<end>
+
+=>q132
+И где находится этот монолит?<end>
+
+=>a133_original
+It is at the entrance of the Black Sea.<end>
+
+=>a133
+Он у входа в Чёрное море.<end>
+
+=>q134_original
+And how do you know it came from it?<end>
+
+=>q134
+И откуда ты знаешь о его происхождении?<end>
+
+=>a135_original
+I don't know for certain, but it looks like it.<end>
+
+=>a135
+Я не знаю наверняка, но очень на это похоже.<end>
+
+=>a136_original
+I don't think they are. One of them just happened to get it embedded in himself.<end>
+
+=>a136
+Не думаю, что они связаны. Один из них просто случайно на него напоролся.<end>
+
+=>a137_original
+I don't know.<end>
+
+=>a137
+Я не знаю.<end>
+
+=>a138_original
+It was buried in the corpse of a savage giant in the Black Sea.<end>
+
+=>a138
+Он был в трупе дикаря-гиганта, погребённого в Чёрном море.<end>
+
+=>a139_original
+I found it in a barrel in Lower Underrail.<end>
+
+=>a139
+Я наш$(#ёл/ла) его в бочке, в Нижней Подземке.<end>
+
+=>q140_original
+There is more to that than you are admitting, but it matters not to me, you can keep that secret.<end>
+
+=>q140
+За этим кроется нечто большее, чем ты признаёшь, но для меня это не имеет значения, можешь сохранить это в тайне.<end>
+
+=>a141_original
+Let's talk about the shard again.<end>
+
+=>a141
+Давай снова поговорим об осколке.<end>
+
+=>q142_original
+I am listening.<end>
+
+=>q142
+Я слушаю.<end>
+
+=>a143_original
+Do you know what this is? ::Show him the Ethereal Torch.::<end>
+
+=>a143
+Ты знаешь, что это? ::Показать ему Эфирный факел.::<end>
+
+=>q144_original
+::He looks at the device intently for a few moments.:: I have seen such instruments. Where have you found this?<end>
+
+=>q144
+::Несколько мгновений он изучающе рассматривает устройство.:: Я уже видел такие инструменты. Где ты его наш$(#ёл/ла)?<end>
+
+=>a145_original
+It used to be a shard before it transformed into this.<end>
+
+=>a145
+Когда-то это был осколок, прежде чем он превратился в это.<end>
+
+=>q146_original
+And how did you come by this shard?<end>
+
+=>q146
+И откуда у тебя этот осколок?<end>
+
+=>a147_original
+In a barrel in Lower Underrail.<end>
+
+=>a147
+В Нижней Подземке, в бочке.<end>
+
+=>q148_original
+There is more to that than you are admitting, but it matters not to me, you can keep that secret.<end>
+
+=>q148
+За этим кроется нечто большее, чем ты признаёшь, но для меня это не имеет значения, можешь сохранить это в тайне.<end>
+
+=>a149_original
+Let's talk about the torch again.<end>
+
+=>a149
+Давай ещё раз поговорим о факеле.<end>
+
+=>q150_original
+I'm listening.<end>
+
+=>q150
+Я слушаю.<end>
+
+=>a151_original
+I am ready to go.<end>
+
+=>a151
+Я готов$(#/а) идти.<end>
+
+=>q152_original
+Good. It is time for me to leave too. We will see each other after Tchort has been destroyed.<end>
+
+=>q152
+Хорошо. Мне тоже настало время уйти. Мы увидимся после того, как Чорт будет уничтожен.<end>
+
+=>a153_original
+Wait. If you are going to leave, then I better ask you a few more things now, while I have the chance.<end>
+
+=>a153
+Подожди. Если ты собираешься уходить, то я лучше задам тебе несколько вопросов сейчас, пока у меня есть такая возможность.<end>
+
+=>q154_original
+Do so.<end>
+
+=>q154
+Сделай так.<end>
+
+=>a155_original
+I hope you know what you're talking about. I'm off now.<end>
+
+=>a155
+Я надеюсь, ты знаешь, о чём говоришь. Я ухожу.<end>
+
+=>q156_original
+Very well. I wish you success.<end>
+
+=>q156
+Очень хорошо. Я желаю тебе успеха.<end>
+
+=>a157_original
+::Wait for him to leave.::<end>
+
+=>a157
+::Подождать, пока он уйдёт.::<end>
+
+=>a158_original
+That is all the questions I've had.<end>
+
+=>a158
+Это все вопросы, которые у меня были.<end>
+
+=>a159_original
+I don't trust you one bit, but don't see many options here.<end>
+
+=>a159
+Я не доверяю тебе, но не вижу других вариантов.<end>
+
+=>q160_original
+I am not interested in what you think of me. No, I only care about the outcome of these events.<end>
+
+=>q160
+Меня не интересует, что ты обо мне думаешь. Нет, меня заботит только исход этих событий.<end>
+
+=>q161_original
+I can offer you all I know about this location, as limited as it is.<end>
+
+=>q161
+Я могу предложить тебе все мои знания об этом месте, хотя они и ограничены.<end>
+
+=>a162_original
+So far what you've told me only makes things more confusing, and on top of that you ask me to accomplish something without even knowing why. *And* you give me absolutely no reason to trust you. Why should I do what you say?<end>
+
+=>a162
+Пока, то, что ты рассказал мне, только делает всё более запутанным, к тому же, ты просишь меня сделать что-то, не спрашивая почему. Вдобавок, у меня нет абсолютно никаких оснований доверять тебе. Почему я долж$(#ен/на) делать то, что ты говоришь?<end>
+
+=>q163_original
+There is no other option. Whether you end up victorious or a stain in the ground, the only way for you to leave this place is by being a participant in Tchort's destruction.<end>
+
+=>q163
+Другого выхода нет. Победишь ты, или станешь пятном на земле, единственный способ покинуть это место -- принять участие в уничтожении Чорта.<end>
+
+=>a164_original
+That's it, I'm done with this nonsense. You can go to hell! I'm going to try and find a way out of here. *My* way out. Now get lost.<end>
+
+=>a164
+Всё, хватит с меня этого бреда. Сам можешь идти к Чорту! Я и так найду способ выбраться отсюда. *Свой* способ. Теперь отвали.<end>
+
+=>q165_original
+The only way for you to leave this place is by being a participant in Tchort's destruction. There is no other option, little $(#man/woman), and you will quickly realize that.<end>
+
+=>q165
+Единственный для тебя способ покинуть это место -- принять участие в уничтожении Чорта. Другого выхода нет, маленький человек, и ты скоро поймёшь это.<end>
+
+=>q166_original
+I will leave now, as you don't want any more of my help. We will see each other after Tchort has been destroyed.<end>
+
+=>q166
+Я уйду, потому что ты не хочешь моей помощи. Мы увидимся после того, как Чорт будет уничтожен.<end>
+
+=>q167_original
+The more I ponder the events which led you here, however, the more I am confident that what I am telling you is correct.<end>
+
+=>q167
+Однако чем больше я думаю о приведших тебя сюда событиях, тем больше я уверен, что то, что я говорю тебе -- правда.<end>
+
+=>a168_original
+All this talk makes me feel like I'm some kind of chosen one.<end>
+
+=>a168
+От всех этих разговоров у меня такое чувство, будто я как$(#ой/ая)-то избранн$(#ый/ая).<end>
+
+=>q169_original
+Your arrival here is not a coincidence. You will play an important part in Tchort's destruction, or even outright destroy it on your own.<end>
+
+=>q169
+Твоё прибытие сюда -- не случайность. Ты будешь играть важную роль в уничтожении Чорта, если даже не сделаешь этого самостоятельно.<end>
+
+=>a170_original
+What reason?<end>
+
+=>a170
+Какой причине?<end>
+
+=>a171_original
+You too want that cube, right? I remember we spoke about it at the Institute.<end>
+
+=>a171
+Ты тоже ищешь этот куб, верно? Я помню, что мы говорили о нём в Институте.<end>
+
+=>a172_original
+I think I understand some of what you're saying, but I still don't get where this is going.<end>
+
+=>a172
+Кажется, я частично понимаю, о чём ты говоришь, но я всё равно не понимаю, куда ты клонишь.<end>
+
+=>q173_original
+The artifact led both of us here. We have been seeking it for a different reason, though, but our events are connected.<end>
+
+=>q173
+Артефакт привёл нас обоих сюда. Хотя мы искали его по разным причинам, но наши события связаны.<end>
+
+=>a174_original
+Can you get to the point? I barely escaped the Institute and I'm looking for a way out of here. I don't have to much time to interpret your mumbo-jumbo.<end>
+
+=>a174
+Ты можешь говорить конкретнее? Я едва сбежал$(#/а) из Института и теперь ищу выход отсюда. У меня нет времени, чтобы разгадывать твои шарады.<end>
+
+=>q175_original
+Watch your tone, little $(#man/woman). If you do wish to leave this place alive, you will listen to what I have to say. I am here for the very same object you are looking for.<end>
+
+=>q175
+Следи за своим тоном, маленький человек. Если ты хочешь покинуть это место жив$(#ым/ой), ты выслушаешь то, что я скажу. Я ищу здесь тот же самый объект, что и ты.<end>
+
+=>q176_original
+We find ourselves in the same events, oculite. At Oculus, and here. And we just barely missed each other at the Institute. These are not coincidences.<end>
+
+=>q176
+Мы снова оказываемся частью одних событий, окулит. В Окулусе и здесь. И мы едва разминулись в Институте. Это не совпадения.<end>
+
+=>q177_original
+We find ourselves in the same events. At the Institute, and here. These are not coincidences.<end>
+
+=>q177
+Мы снова оказываемся частью одних событий, окулит. В Институте и здесь. Это не совпадения.<end>
+
+=>q178_original
+We haven't met before, yet it is certain that we merely did not perceive each other at the Tchortist institute, rather than not being the participants of the same event.<end>
+
+=>q178
+Мы раньше не встречались, но мы просто не заметили друг друга в Институте чортистов, хотя и были участниками одного события.<end>
+
+=>a179_original
+Works for me.<end>
+
+=>a179
+Я не возражаю.<end>
+
+=>q180_original
+Good.<end>
+
+=>q180
+Хорошо.<end>
+
+=>a181_original
+My errors?<end>
+
+=>a181
+Ошибки?<end>
+
+=>q182_original
+Foolishness, if you will. And the only reason you are not being punished for it is because you need to be alive.<end>
+
+=>q182
+Можно сказать, глупость. И единственная причина, по которой ты не понесёшь наказания, это потому что ты долж$(#ен/на) жить.<end>
+
+=>q183_original
+::A rumbling voice speaks to you once more.::
+
+You made it. Good.<end>
+
+=>q183
+::Вы вновь слышите рокочущий голос.::
+
+Ты здесь. Хорошо.<end>
+
+=>a184_original
+What's going on here?<end>
+
+=>a184
+Что здесь происходит?<end>
+
+=>q185_original
+We must speak. I have been waiting for you.<end>
+
+=>q185
+Нам нужно поговорить. Я ждал тебя.<end>
+
+=>q186_original
+::A rumbling voice speaks to you once more.::
+
+You made it, oculite. Good.<end>
+
+=>q186
+::Вы вновь слышите рокочущий голос.::
+
+Ты здесь, окулит. Хорошо.<end>
+
+=>q187_original
+::There's much that strikes you as wrong upon seeing this person. He is quite tall and a bit too lean for a human. His mechanical prosthetic right arm and left leg are clearly visible. On both his mechanical and healthy hand he has six long thin creepy fingers.::<end>
+
+=>q187
+::Как только вы замечаете эту фигуру, многое в ней кажется вам неправильным. Он довольно высок и слишком худой для человека. Его правая рука и левая нога, очевидно, механические. На обеих руках, здоровой и механической, по шесть длинных, жутковатых пальцев.::<end>
+
+=>q188_original
+::His face is completely covered and he appears to wear some sort of a metal mask with four protruding lenses, and there's another extension on his very forehead that looks like a short gun barrel. Instead of hair, rigid wires protrude from the back of his head.::<end>
+
+=>q188
+::Его лицо полностью закрыто какой-то металлической маской с четырьмя выпуклыми линзами и ещё одним выступом на лбу, напоминающим ствол пистолета. Вместо волос, жёсткие провода торчат сзади его головы.::<end>
+
+=>q189_original
+::As he speaks, his deep rumbling voice feels somehow displaced, as if not coming out from his mouth.::
+
+You are here. Good.<end>
+
+=>q189
+::Когда он говорит, его глубокий рокочущий голос кажется исходящим из ниоткуда.::
+
+Ты здесь. Хорошо.<end>
+
+=>a190_original
+Who are you?<end>
+
+=>a190
+Кто ты?<end>
+
+=>q191_original
+Do not be intimidated by my appearance. I wish to speak to you.<end>
+
+=>q191
+Не пугайся моей внешности. Я хочу поговорить с тобой.<end>
+
+=>a192_original
+What are you?<end>
+
+=>a192
+Что ты?<end>
+
+=>q193_original
+::Six stands alone amid the ruins. Meeting him here is nothing like your first encounter. Unlike earlier, when he was uninterested and even annoyed with your queries, he now seems intrigued by your presence.::<end>
+
+=>q193
+::Шесть одиноко стоит среди руин. Эта встреча с ним не похожа на ваше первое знакомство. Прежде он казался равнодушен и даже раздражён вашими вопросами, но теперь выглядит заинтересованным в вашей компании.::<end>
+
+=>q194_original
+::As the multiple lenses of his helmet focus intently on you, you can feel an oppressive aura weigh down on your mind. As if the walls and the ceiling are closing in on you, you suddenly feel claustrophobic in this large room. You feel tired, merely speaking takes effort.::<end>
+
+=>q194
+::Многочисленные объективы его шлема фокусируются на вас, и гнетущая аура начинает давить на ваш разум. Внезапно, вы чувствуете приступ клаустрофобии, стены и потолок этого большого зала как будто приближаются к вам. Вы чувствуете усталость, даже слова требуют усилий.::<end>
+
+=>q195_original
+This is not the first time I find you oddly in my path, Oculite. What is your business here?<end>
+
+=>q195
+Это не первый раз, когда я неожиданно встречаю тебя на моём пути, окулит. Что ты делаешь здесь?<end>
+
+=>q196_original
+<end>
+
+=>q196
+<end>
+
+=>a197_original
+I'm investigating the Institute.<end>
+
+=>a197
+Я расследую, что происходит в Институте.<end>
+
+=>q198_original
+Why?<end>
+
+=>q198
+Зачем?<end>
+
+=>a199_original
+Their religion is fishy. There's something behind this charade.<end>
+
+=>a199
+У них там какой-то подозрительный культ. За ним что-то прячется.<end>
+
+=>q200_original
+::He watches you for a while. You feel as if the air pressure is growing in the room. The walls are pressing against your temples, mercury pouring behind your eyes, weighing your thoughts down.::
+
+There is something you are not telling me.<end>
+
+=>q200
+::Он смотрит на вас некоторое время. Вы чувствуете, как будто давление воздуха в комнате растёт. Стены начинают давить на виски, и ртуть наполняет голову, придавливая ваши мысли.::
+
+Ты что-то не договариваешь.<end>
+
+=>a201_original
+They acquired some sort of an artifact, a cube, which I'm tracking down.<end>
+
+=>a201
+В их руках один артефакт -- куб, который я ищу.<end>
+
+=>q202_original
+And why is this artifact of interest to you?<end>
+
+=>q202
+И почему этот артефакт тебя интересует?<end>
+
+=>a203_original
+It seems to be the cause of the Faceless invasion, so I want to get to the bottom of this.<end>
+
+=>a203
+Судя по всему, в нём причина вторжения безликих, так что я хочу добраться до сути.<end>
+
+=>q204_original
+::He looks away from you for the first time since the encounter began. The aura that weighted heavily on you seems to be lifting. He remains silent for a few moments.::<end>
+
+=>q204
+::Впервые с начала встречи он смотрит в сторону от вас. Аура, которые придавила вас, кажется, рассеивается. Он молчит несколько секунд.::<end>
+
+=>q205_original
+This is true, but it is a dangerous place you are heading to if you keep following their prize. If you are concerned for the welfare of your kin, the best course of action would be to stay out of their way.<end>
+
+=>q205
+Это правда, но тебе придётся отправиться в опасное место, если ты продолжишь преследовать свою цель. Если тебя беспокоит благополучие твоего рода, лучше всего тебе не стоять у них на пути.<end>
+
+=>a206_original
+What is that cube?<end>
+
+=>a206
+Что это за куб?<end>
+
+=>q207_original
+It is of no use to you. Let it find its way to its owners.<end>
+
+=>q207
+Тебе он без пользы. Помоги ему вернуться к владельцам.<end>
+
+=>q208_original
+We both should be leaving this place now. Danger draws near.<end>
+
+=>q208
+Теперь тебе и мне нужно покинуть это место. Опасность приближается.<end>
+
+=>a209_original
+::End Dialog.::<end>
+
+=>a209
+::Завершить диалог.::<end>
+
+=>a210_original
+I'll consider your advice.<end>
+
+=>a210
+Я подумаю над твоим советом.<end>
+
+=>q211_original
+::He says nothing.:: <end>
+
+=>q211
+::Он ничего не говорит.::<end>
+
+=>a212_original
+Two merchants from my station got killed because they bought it and I want to know why.<end>
+
+=>a212
+Двух торговцев с моей станции убили из-за того, что они купили его, и я хочу знать почему.<end>
+
+=>q213_original
+::He watches you for a few moments. It seems that this information caught him off guard. As he asks his next question you feel as if there's something worm-like moving inside your skull.:: And what station are you from?<end>
+
+=>q213
+::Он молча смотрит на вас в течение нескольких секунд. Кажется, что ваш ответ застал его врасплох. Когда он задаёт следующий вопрос, вы чувствуете, как будто что-то червеобразное движется внутри вашего черепа.:: И с какой ты станции?<end>
+
+=>a214_original
+South Gate Station.<end>
+
+=>a214
+Со станции Саут-Гейт.<end>
+
+=>q215_original
+::He looks away from you for the first time since the encounter began. The aura that weighted heavily on you seems to be lifting. He remains silent.::<end>
+
+=>q215
+::Впервые с начала встречи он смотрит в сторону от вас. Аура, которая придавила вас, кажется, рассеивается. Он молчит.::<end>
+
+=>a216_original
+So...<end>
+
+=>a216
+Итак...<end>
+
+=>q217_original
+There is no time.<end>
+
+=>q217
+Нет времени.<end>
+
+=>a218_original
+Time for what?<end>
+
+=>a218
+Время для чего?<end>
+
+=>q219_original
+You should leave this place - the Institute. If you stay, you will surely die. Danger draws near.<end>
+
+=>q219
+Ты долж$(#ен/на) покинуть это место -- Институт. Если ты останешься, ты умрёшь. Опасность приближается.<end>
+
+=>a220_original
+::Wait for him to speak.::<end>
+
+=>a220
+::Ждать, что он скажет.::<end>
+
+=>a221_original
+Rail Crossing.<end>
+
+=>a221
+С Переезда.<end>
+
+=>q222_original
+::He studies you a while.:: I could see that lie as it pulsed through your brain, neuron to neuron. It matters not - your dead body will tell me everything I need to know.<end>
+
+=>q222
+::Он рассматривает вас некоторое время.:: Я могу видеть эту ложь, как она пульсирует через твой мозг, от нейрона к нейрону. Неважно -- твоё мёртвое тело скажет всё, что мне нужно знать.<end>
+
+=>a223_original
+::Fight!::<end>
+
+=>a223
+::Бой!::<end>
+
+=>a224_original
+Foundry.<end>
+
+=>a224
+С Литейной.<end>
+
+=>a225_original
+Forget it. I'm not telling you that.<end>
+
+=>a225
+Забудь. Я не скажу.<end>
+
+=>q226_original
+It matters not - your dead body will tell me everything I need to know.<end>
+
+=>q226
+Неважно -- твоё мёртвое тело скажет всё, что мне нужно знать.<end>
+
+=>a227_original
+That's none of your business.<end>
+
+=>a227
+Это не твоё дело.<end>
+
+=>q228_original
+::No threat or battle cry is issued; silently and swiftly he springs to action.::<end>
+
+=>q228
+::Без угроз или боевого клича, он бесшумно и стремительно бросается вперёд.::<end>
+
+=>a229_original
+No, there isn't.<end>
+
+=>a229
+Нет.<end>
+
+=>q230_original
+<end>
+
+=>q230
+<end>
+
+=>q231_original
+I will give you one more chance to tell the truth. ::You feel pain in the left side of your skull.::<end>
+
+=>q231
+Я дам тебе ещё один шанс сказать правду. ::Вы чувствуете боль в левом виске.::<end>
+
+=>a232_original
+That's all there is to it.<end>
+
+=>a232
+Это всё.<end>
+
+=>a233_original
+Go to hell!<end>
+
+=>a233
+Отправляйся в ад!<end>
+
+=>a234_original
+I'm tracking down an artifact the Tchortists acquired.<end>
+
+=>a234
+Я ищу артефакт, находящийся в руках чортистов.<end>
+
+=>a235_original
+That's odd. I don't remember seeing you before.<end>
+
+=>a235
+Это странно. Я не помню, чтобы видел$(#/а) тебя раньше.<end>
+
+=>q236_original
+I am aware of that. The question still remains, however - what are you here for?<end>
+
+=>q236
+Это мне известно. Я повторю вопрос: что ты здесь делаешь?<end>
+
+=>a237_original
+I'm merely passing by.<end>
+
+=>a237
+Я просто проходил$(#/а) мимо.<end>
+
+=>q238_original
+I have no time for games, little $(#man/woman). If you are not useful then you are disposable. Now speak - why have you come here?<end>
+
+=>q238
+У меня нет времени для игр, человечишка. Если ты бесполез$(#ен/на), тогда от тебя можно избавиться. Теперь говори -- что ты здесь делаешь?<end>
+
+=>a239_original
+I could say the same thing about you.<end>
+
+=>a239
+Я могу сказать то же самое про тебя.<end>
+
+=>a240_original
+::[Will/Thought Control] Try to fight back against his aura.::<end>
+
+=>a240
+::[Воля/Управление разумом] Попытаться бороться против его ауры.::<end>
+
+=>q241_original
+::You try to muster the willpower to shrug off the oppressive aura and for a moment it feels like you're succeeding. But soon the grip tightens, pressing your skull inward. Your thoughts are slow and heavy.::<end>
+
+=>q241
+::Вы пытаетесь собрать силу воли, чтобы сбросить гнетущую ауру, и на мгновение кажется, что у вас получается. Но вскоре хватка затягивается, сжимая ваш череп. Ваши мысли становятся медленными и тяжёлыми.::<end>
+
+=>a242_original
+::Struggle on...::<end>
+
+=>a242
+::Бороться...::<end>
+
+=>q243_original
+::You fight back with all your mental strength and manage to break free from his grasp. Surprised and angered by this, he attacks.::<end>
+
+=>q243
+::Вы напрягаете все свои ментальные способности, и вам удастся освободиться от его хватки. Удивлённый и разозлённый этим, он атакует.::<end>
+
+=>q244_original
+A valiant effort, but you *will* answer my questions. What is your business here?<end>
+
+=>q244
+Хорошая попытка, но ты всё же *ответишь* на мои вопросы. Что ты здесь делаешь?<end>
+
+=>a245_original
+::Give up.::<end>
+
+=>a245
+::Сдаться.::<end>
+
+=>q246_original
+::You try to muster the willpower to shrug off the oppressive aura, but it proves too strong.::<end>
+
+=>q246
+::Вы пытаетесь собрать силу воли, чтобы сбросить гнетущую ауру, но она оказывается слишком сильной.::<end>
+
+=>q247_original
+Resistance can turn into pain, little $(#man/woman). You will answer my question.<end>
+
+=>q247
+Сопротивление может обернуться болью, маленький человек. Ты ответишь на мой вопрос.<end>
+
+=>a248_original
+You don't scare me, you cybernetic freak! I ain't answering your questions.<end>
+
+=>a248
+Ты меня не напугаешь, кибернетический урод! Я не собираюсь отвечать на твои вопросы.<end>
+
+=>a249_original
+My business is my own.<end>
+
+=>a249
+Это моё дело.<end>
+
+=>q250_original
+This is not the first time I find you oddly in my path, and yet you do not seem like you belong there. What is your business here, scavenger?<end>
+
+=>q250
+Это не первый раз, когда я неожиданно встречаю тебя на моём пути, хотя тебе здесь не место. Что ты делаешь здесь, бродяга?<end>
+
+=>q251_original
+::There's much that strikes you as wrong as you approach this person. He is quite tall and a bit too lean for a human. His mechanical prosthetic right arm and left leg are clearly visible. On both his mechanical and healthy hand he has six long thin creepy fingers.::<end>
+
+=>q251
+::Пока вы приближаетесь, многое в этой фигуре кажется вам неправильным. Он довольно высок и слишком худой для человека. Его правая рука и левая нога, очевидно, механические. На обеих руках, здоровой и механической, по шесть длинных, жутковатых пальцев.::<end>
+
+=>q252_original
+::His face is completely covered and he appears to wear some sort of a metal mask with four protruding lenses, and there's another extension on his very forehead that looks like a short gun barrel. Instead of hair, rigid wires protrude from the back of his head.::<end>
+
+=>q252
+::Его лицо полностью закрыто какой-то металлической маской с четырьмя выпуклыми линзами и ещё одним выступом на лбу, напоминающим ствол пистолета. Вместо волос, жёсткие провода торчат сзади его головы.::<end>
+
+=>q253_original
+::He doesn't seem interested in talking to you.::<end>
+
+=>q253
+::Он, кажется, не заинтересован в разговоре с вами.::<end>
+
+=>a254_original
+Hey, can we speak for a moment?<end>
+
+=>a254
+Привет, у тебя есть минутка?<end>
+
+=>q255_original
+No.<end>
+
+=>q255
+Нет.<end>
+
+=>a256_original
+You're being very rude.<end>
+
+=>a256
+Это весьма невежливо.<end>
+
+=>q257_original
+And you are being quite annoying. I have probably shown you more lenience than you warrant. Now go about your business before my patience runs out.<end>
+
+=>q257
+Ты меня раздражаешь. Я, должно быть, показал тебе большую мягкость чем следовало. Иди занимайся своими делами, пока не иссякло моё терпение.<end>
+
+=>a258_original
+Hey, I'm talking to you.<end>
+
+=>a258
+Эй, я с тобой разговариваю.<end>
+
+=>q259_original
+::You only have a fragment of a second to regret your insolence before he descends upon you.::<end>
+
+=>q259
+::У вас есть только доля секунды, чтобы пожалеть о своём нахальстве, прежде чем он нападает.::<end>
+
+=>a260_original
+Damn cybernetic creep...<end>
+
+=>a260
+Долбаное кибернетическое пугало...<end>
+
+=>a261_original
+::Leave him be.::<end>
+
+=>a261
+::Оставить его в покое.::<end>
+
+=>q262_original
+::There's much that strikes you as wrong as you approach this person. He is quite tall and a bit too lean for a human. His mechanical prosthetic right arm and left leg are clearly visible. On both his mechanical and healthy hand he has six long thin creepy fingers.::<end>
+
+=>q262
+::Пока вы приближаетесь, многое в этой фигуре кажется вам неправильным. Он довольно высок и слишком худой для человека. Его правая рука и левая нога, очевидно, механические. На обеих руках, здоровой и механической, по шесть длинных, жутковатых пальцев.::<end>
+
+=>q263_original
+::His face is completely covered and he appears to wear some sort of a metal mask with four protruding lenses, and there's another extension on his very forehead that looks like a short gun barrel. Instead of hair, rigid wires protrude from the back of his head.::<end>
+
+=>q263
+::Его лицо полностью закрыто какой-то металлической маской с четырьмя выпуклыми линзами и ещё одним выступом на лбу, напоминающим ствол пистолета. Вместо волос, жёсткие провода торчат сзади его головы.::<end>
+
+=>q264_original
+::As you approach to converse with him, he waves you away. As he speaks, his deep rumbling voice feels somehow displaced, as if not coming out from his mouth.:: 
+
+My business is with Azif.<end>
+
+=>q264
+::Вы приближаетесь, чтобы поговорить с ним, но он жестом останавливает вас. Когда он говорит, его глубокий рокочущий голос кажется исходящим из ниоткуда.:: 
+
+Моё дело с Азифом.<end>
+
+=>a265_original
+I just wanted to say hi.<end>
+
+=>a265
+Я просто хотел$(#/а) поздороваться.<end>
+
+=>q266_original
+I have no desire to exchange pleasantries with you. Be on your way.<end>
+
+=>q266
+У меня нет никакого желания обмениваться с тобой любезностями. Иди своей дорогой.<end>
+
+=>a267_original
+Who are you?<end>
+
+=>a267
+Кто ты?<end>
+
+=>q268_original
+That is none of your concern. Move along and leave me to my thoughts.<end>
+
+=>q268
+Это не твоя забота. Проходи и оставь меня моим мыслям.<end>
+
+=>a269_original
+What are you?<end>
+
+=>a269
+Что ты?<end>
+
+=>q270_original
+::He doesn't seem pleased with what you said.:: I will give you the benefit of the doubt and assume you did not mean to insult me, but this is the one and only time this will occur.<end>
+
+=>q270
+::Похоже, что он недоволен тем, что вы сказали.:: Я предположу, что ты не хотел$(#/а) оскорбить меня, но только в этот раз.<end>
+
+=>q271_original
+Now move along before your manners get you killed.<end>
+
+=>q271
+Теперь уходи, пока твои манеры тебя не убили.<end>
+
+=>a272_original
+Can I ask you a couple of questions?<end>
+
+=>a272
+Могу я задать тебе пару вопросов?<end>
+
+=>q273_original
+No.<end>
+
+=>q273
+Нет.<end>
+
+=>a274_original
+Don't you wave me off!<end>
+
+=>a274
+Не отмахивайся от меня!<end>
+
+=>q275_original
+Lower your tone before it gets you killed, and move along.<end>
+
+=>q275
+Понизь голос, пока он не убил тебя, и проходи.<end>
+
+=>a276_original
+::Leave him be.::<end>
+
+=>a276
+::Оставить его в покое.::<end>
+

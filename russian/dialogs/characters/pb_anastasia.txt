@@ -1,0 +1,336 @@
+﻿=>q1_original
+::This petite, middle-aged woman you see before you seems to be studying some medical charts. Since your eyes were immediately drawn to the charts she was holding, you are quick to notice that one of her hands is badly scarred. The horribly warped skin of her left hand, diffusing from a few spots and contrasting her otherwise clear skin, seems to have been caused by the healing of a deep burn.
+
+She is aware you're looking but does nothing to conceal the object of your interest. Instead, she lowers the charts and begins talking. However, her voice offers yet another surprise: It is a product of two clearly separate, violently dissonant voices clashing against each other before merging into one jarring sound.::<end>
+
+=>q1
+::Эта миниатюрная женщина средних лет изучает какие-то медицинские карты. Бросив взгляд на бумаги, которые она держит, вы не можете не заметить, что кисти её рук покрыты страшными шрамами. Ужасно обезображенная кожа её левой руки, расходящаяся от нескольких пятен и контрастирующая с окружающей их чистой кожей, похожа на последствия глубокого ожога.
+
+Она замечает, что вы смотрите, но не делает ничего, чтобы скрыть объект вашего интереса. Вместо этого она опускает карты и начинает разговор. Её голос вновь удивляет вас: он звучит как продукт слияния двух других нестройных голосов, конфликтующих друг с другом перед объединением в один дребезжащий звук.::<end>
+
+=>q2_original
+Corporal, nice to meet you. Khm... $(context.player.Name) was it?<end>
+
+=>q2
+Капрал, приятно с вами познакомиться. Кх... $(context.player.Name), не так ли?<end>
+
+=>a3_original
+That's right. It's $(context.player.Name). Who are you?<end>
+
+=>a3
+Да. $(context.player.Name). А кто вы?<end>
+
+=>q4_original
+My name is Anastasia... khm... Anastasia Merrick. This is the... khm... sorry, this is the infirmary, as you can tell, and I'm the... khm... chief physician here. <end>
+
+=>q4
+Меня зовут Анастасия... кх... Анастасия Меррик. Это... кх... извините, это лазарет, как вы можете видеть, и я... кх... главный врач здесь.<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>a6_original
+Can you take a look at my injuries?<end>
+
+=>a6
+Можете взглянуть на мои раны?<end>
+
+=>q7_original
+::She nods.:: Relax, Corporal, and let me see... khm... what we're dealing with...<end>
+
+=>q7
+::Она кивает.:: Расслабьтесь, капрал, и дайте мне посмотреть... кх... с чем мы имеем дело...<end>
+
+=>a8_original
+::Let her treat your injuries.::<end>
+
+=>a8
+::Пусть она обработает ваши раны.::<end>
+
+=>a9_original
+I am interested in medical supplies. ::Barter.::<end>
+
+=>a9
+Мне нужны медикаменты. ::Обмен.::<end>
+
+=>a10_original
+Excuse me for asking, but can you tell me what happened to your hand and your voice?<end>
+
+=>a10
+Извините за любопытство, не могли бы вы рассказать мне, что случилось с вашей рукой и голосом?<end>
+
+=>q11_original
+::She waits for several seconds, slowly swallowing during her silence. After this brief pause, she replies.::
+
+Khm... It's okay to... ask... You see, Corporal, I was a victim of a... khm... chemical attack... several years ago. I was traveling to Fort Apogee by a civilian train... khm... from North Underrail... Back then, there was no... khm... need for every train to have troopers aboard... khm... since that section of the railway was... considered safe. Yet, just before reaching South Underrail... khm... the train was ambushed near a small station.<end>
+
+=>q11
+::Ей требуется несколько секунд, чтобы собраться с мыслями, после чего она осторожно сглатывает.::
+
+Кх... ваше любопытство... вполне понятно... Видите ли, капрал, я оказалась жертвой... кх... химической атаки... несколько лет назад. Я ехала в форт Апогей на гражданском поезде... кх... из Северной Подземки... тогда не было... кх... нужды, чтобы каждый поезд охраняли солдаты... кх... ведь этот перегон... считался безопасным. Но, немного не доезжая до Южной Подземки... кх... поезд попал в засаду возле небольшой станции.<end>
+
+=>q12_original
+It was my first trip to...khm... South Underrail. The attackers used chemical weapons...khm. Launchers, grenades... khm. Some of the corrosive substance... khm... burned clean through this hand here... khm... burned my left leg. But the gas... khm... the gas hurt my throat... khm. I could feel it burning... khm... deforming my throat with every inhalation. The damage to my vocal folds is... irreversible... I managed to protect my eyes somehow. Which is very... khm... very fortunate. A blind doctor is... khm... um... you understand.<end>
+
+=>q12
+Это была моя первая поездка в... кх... Южную Подземку. Нападавшие применили химическое оружие... кх. Пусковые установки, гранаты... кх. Едкая субстанция... кх... прожгла мне эту руку... кх... обожгла мою левую ногу. А газ... кх... газ повредил мне горло... кх. Я чувствовала, как он жжёт... кх... плавит мне горло с каждым вдохом. Ущерб моим голосовым связкам является... необратимым... Я как-то смогла защитить глаза. Мне очень... кх... очень повезло. Слепой врач... кх... кх... вы понимаете.<end>
+
+=>a13_original
+That is horrible. Who would do something as horrible as that?<end>
+
+=>a13
+Это ужасно. Кто мог совершить что-то такое?<end>
+
+=>q14_original
+We were told...khm... that the Free Drones did it. Southerners. Apparently to deter Protectorate from... khm... moving into South Underrail. I have no reason to...khm... doubt they were behind it... khm... Corporal. Bandits would've robbed us... Slavers would've kidnapped us... khm. Drones... they cause pain and death, then run away... khm... that's all they ever do. I remember hearing the anti-Protectorate... khm... chants. They laughed at the people dying... khm. And the Free Drones haven't changed to this day... khm... from what I hear. Barbarians.
+
+<end>
+
+=>q14
+Нам сказали, что... кх... это Вольные шершни. Южане. Видимо, чтобы отпугнуть Протекторат от... кх... притязаний на Южную Подземку. У меня нет оснований... кх... сомневаться, что это они стояли за нападением... кх... капрал. Бандиты бы нас ограбили... Работорговцы похитили бы нас... кх. Шершни... они причиняют боль и смерть, и убегают... кх... это всё, что они делают. Я помню, как слышала их антипротекторатские... кх... частушки. Они смеялись над тем, как люди умирают... кх. И Вольные шершни не изменились и по сей день... кх... как я слышала. Варвары.
+
+<end>
+
+=>a15_original
+I'm so sorry to hear it. It is a difficult subject, so I think we should change the subject. I had some other questions to ask.<end>
+
+=>a15
+Мне так жаль это слышать. Это трудная тема, так что давайте сменим её. У меня есть ещё несколько вопросов.<end>
+
+=>q16_original
+::She nods.::<end>
+
+=>q16
+::Она кивает.::<end>
+
+=>a17_original
+What can you tell me about the Free Drones?<end>
+
+=>a17
+Что вы можете мне рассказать про Вольных шершней?<end>
+
+=>q18_original
+Because of the Free Drones... I... khm... I have difficulty speaking... to put it mildly. All this you're hearing... khm... it's because of them. To illustrate... khm... sometimes my throat muscles squeeze my larynx so hard it chokes me... khm.<end>
+
+=>q18
+Из-за Вольных шершней... мне... кх... мне трудно говорить... как видите. Это всё... кх... это из-за них. Понимаете... кх... иногда мышцы сжимают моё горло так сильно, что душат меня... кх.<end>
+
+=>q19_original
+I then have to...khm... swallow... in order to ease the tension. Sometimes...khm... it doesn't go away at once... It contracts and... khm... doesn't let go.
+
+That's... the Free Drones. Pain.<end>
+
+=>q19
+Тогда мне нужно... кх... сглотнуть... для того, чтобы ослабить напряжение. Иногда... кх... это так просто не проходит... Бывает судорога и... кх... не отпускает.
+
+Вот что такое... Вольные шершни. Боль.<end>
+
+=>a20_original
+Why did you decide to help the Protectorate?<end>
+
+=>a20
+Почему вы решили помочь Протекторату?<end>
+
+=>q21_original
+I wanted to... khm... help people. That's it... South Underrail is a... much more dang-- khm... khm.. ::She stops, her face red. As she slowly swallows, the color reverts and she proceeds.:: ...dangerous place than North...<end>
+
+=>q21
+Я хотела... кх... помочь людям. Вот и всё... Южная Подземка -- это... гораздо более опас... кх... кх.. ::Она останавливается, её лицо краснеет. Она медленно сглатывает, и продолжает.:: опасное место, чем Север...<end>
+
+=>q22_original
+Even despite... khm... my problems, I am able to do it... and won't stop while my help here is... needed.<end>
+
+=>q22
+Даже несмотря на... кх... мои проблемы, я в состоянии работать... и не остановлюсь пока моя помощь... нужна здесь.<end>
+
+=>a23_original
+Where in Fort Apogee can I exchange currencies?<end>
+
+=>a23
+Где в форте Апогей я могу обменять валюту?<end>
+
+=>q24_original
+See Staff Sergeant Fraser...khm...<end>
+
+=>q24
+Обратитесь к старшему сержанту Фрейзеру... кх...<end>
+
+=>q25_original
+He performs the exchange.<end>
+
+=>q25
+Он осуществляет обмен.<end>
+
+=>a26_original
+What can you tell me about Consul Oliver?<end>
+
+=>a26
+Что вы можете мне рассказать про консула Оливера?<end>
+
+=>q27_original
+He's, khm... a well-educated man, dedicated to his work... khm. Capable. Comes from a... khm... wealthy family. But... he sometimes seems a bit detached from what is really happening around him. Sitting in the office, isolated, affects the perception sometimes... khm... and I understand it well myself.<end>
+
+=>q27
+Он кх... хорошо образованный человек, преданный своей работе... кх. Способный. Из... кх... богатой семьи. Но... он иногда кажется мне немного оторванным от того, что в действительности происходит вокруг. Сидение в офисе, в изоляции, может влиять на восприятие... кх... мне ли этого не знать.<end>
+
+=>q28_original
+When I came here from North Underrail... I imagined the south differently. Much differently. I failed to realize how bad it is here... until I saw it myself... experienced it... for myself.
+
+Oh, what am I... khm... saying... the consul is a competent... khm... man, maybe I'm just... or... Forget I said anything.<end>
+
+=>q28
+Когда я приехала сюда из Северной Подземки... я по-другому представляла себе Юг. Гораздо иначе. Я не осознавала, насколько здесь всё плохо... пока не увидела это сама... не испытала на себе.
+
+Ох, что я... кх... говорю... консул является умелым... кх... руководителем, может быть, я просто... или... Забудьте, что я сказала.<end>
+
+=>a29_original
+What can you tell me about Colonel Cathcart?<end>
+
+=>a29
+Что вы можете мне рассказать про полковника Каткарта?<end>
+
+=>q30_original
+You better ask the soldiers that... khm... question, because it's their lives that are in his hands... khm... I have only good things to say about the colonel... khm... but, ultimately, his decisions mean life or death to the troops, while I... khm... I just treat the ones who weren't as unfortunate, or, depending on the injuries suffered, as fortunate... khm... as those who were killed in action.<end>
+
+=>q30
+Лучше задайте этот вопрос... кх... солдатам, потому что это их жизни в его руках... кх... Я могу сказать про полковника только хорошее... кх... но, в конечном счёте, это его решения означают жизнь или смерть для солдат, в то время как я... кх... я просто латаю тех, кому повезло уцелеть, ну, или не очень повезло, в зависимости от тяжести ранения... кх...<end>
+
+=>q31_original
+However... khm... recently I've been having more patients than usual. I don't know how good or bad that... khm... is in relation to the big picture. I... khm... am just a physician. I only care... about saving lives.<end>
+
+=>q31
+Однако... кх... в последнее время у меня больше пациентов чем обычно. Я не знаю, насколько это хорошо или плохо... кх... по отношению к картине в целом. Я... кх... я просто врач. Я только забочусь... о спасении жизней.<end>
+
+=>a32_original
+What can you tell me about Fraser?<end>
+
+=>a32
+Что вы можете мне рассказать про Фрейзера?<end>
+
+=>q33_original
+::A sharp furrow chisels itself into her forehead.:: Staff Sergeant is... khm... always speaking well of me... khm... all his supremacist nonsense... khm... How I'm a brave Northerner doctor who, despite her... khm... disabilities had persevered and stayed in Fort Apogee... khm... to aid the cause.<end>
+
+=>q33
+::Глубокая морщина разделяет её лоб.:: Старший сержант... кх... всегда хорошо говорит обо мне... кх... всегда свой высокопарный бред... кх... Какая я храбрая северянка, которая, несмотря на свои... кх... ограниченные возможности, выстояла и осталась в форте Апогей... кх... чтобы служить общему делу.<end>
+
+=>q34_original
+I dislike such people... khm... but I have to deal with them, I'm afraid. He's a rotten man, Corporal... khm... and sadly not the only one around. He despises all who aren't Northerners. He asks me... why I socialize with Southerners... khm... like Luka or... khm... Justin. He doesn't explicitly call them "ratters," but... khm... khm... he implies it. It's always at the tip of his.. khm... tongue. I suppose the two of us... khm... represent Protectorate in completely opposite ways, sadly.<end>
+
+=>q34
+Я не люблю таких людей... кх... но мне приходится иметь с ними дело. Это гнилой человек, капрал... кх... и, к сожалению, не единственный такой тут. Он презирает всех, кто не северяне. Он меня спрашивает... почему я общаюсь с южанами... кх... вроде Луки или... кх... Джастина. Он прямо не называет их «крысятниками», но... кх... кх... он подразумевает это. Это всегда на кончике его... кх... языка. Полагаю, что мы с ним... кх... представляем Протекторат с совершенно противоположных точек зрения, к сожалению.<end>
+
+=>q35_original
+My words... khm... are precious... Corporal, and I wouldn't want to waste them on that... khm... man.<end>
+
+=>q35
+Слова для меня... кх... драгоценны... капрал, и я не хочу тратить их на этого... кх... человека.<end>
+
+=>a36_original
+What can you tell me about Luka?<end>
+
+=>a36
+Что вы можете мне рассказать про Луку?<end>
+
+=>q37_original
+::She smiles.:: Luka is a very nice man... khm... very charming... He is the head mechanic, a Dreadnought expert... khm. He is fascinated by those machines so much... We hang out all the time and... khm... despite our different professions and... khm... different environments we grew up in... we found that we have a lot in common.<end>
+
+=>q37
+::Она улыбается.:: Лука -- очень хороший человек... кх... обаятельный... Он главный механик, эксперт по дредноутам... кх. Он просто очарован этими машинами... Мы часто встречаемся и... кх... несмотря на наши разные профессии и... кх... разное происхождение... мы находим, что у нас много общего.<end>
+
+=>q38_original
+::She laughs which, due to her damaged throat, sounds like two jagged rocks grinding against each other.:: When we're having lunch in the mess... khm... we take turns at talking about our jobs. He'd talk about machines, tools, his colleagues... whatever happens to be on his mind at the time... and after that... I'd talk about my med stuff... khm. I usually pick the grossest examples I could remember... khm. He's very squeamish, so I often go into... khm... great detail. ::She smiles.:: And end it with "Enjoy your... khm... meal!"<end>
+
+=>q38
+::Она смеётся, что, из-за её повреждённого горла звучит как будто два шлифовальных камня трутся друг о друга.:: Когда мы обедаем в столовой... кх... мы по очереди рассказываем о работе. Он говорит о машинах, инструментах, своих коллегах... всё, что ни придёт на ум... а потом... я рассказываю про свой лазарет... кх. Я часто выбираю самые нелицеприятные примеры... кх. Он очень брезглив, поэтому я люблю углубляться... кх... в детали. ::Она улыбается.:: А потом говорю -- «приятного... кх... аппетита!»<end>
+
+=>q39_original
+I think we both learned a lot about each... khm... other's professions. And approaches to life. Interactions like that... khm... enrich a person.<end>
+
+=>q39
+Я думаю, мы оба многое узнали о... кх... профессиях друг друга. И подходе к жизни. Взаимодействия такого рода... кх... обогащают человека.<end>
+
+=>a40_original
+What can you tell me about Case?<end>
+
+=>a40
+Что вы можете мне рассказать про Кейса?<end>
+
+=>q41_original
+He's got anterior... khm... cruciate ligament injury in his left knee. ::She pauses for a split second before continuing.:: I don't know why I said that... khm... first. It's how my brain works... khm... I suppose. 
+
+He works at the mess. Very kind... khm... man. He's a Southerner, much like you, so I reckon you two... khm... have a lot in common.<end>
+
+=>q41
+У него травма передней... кх... крестообразной связки левого колена. ::Она замолкает на долю секунды, прежде чем продолжить.:: Я не знаю, зачем я говорю вам это... кх... Профессиональная деформация... кх... наверное. 
+
+Он работает в столовой. Очень добрый... кх... человек. Он южанин, как и вы, так что, полагаю, у вас нашлось бы... кх... о чём поговорить.<end>
+
+=>q42_original
+The knee injury prevents him from being a... khm... soldier, but I think that's good for him. I've treated so many horrible... khm... injuries and have seen... khm... things. At least he doesn't have to worry about any... khm... of *that* happening to him.<end>
+
+=>q42
+Травма колена не позволяет ему быть... кх... солдатом, но я думаю, что это и хорошо. Я видела так много ужасных... кх... ранений и страшные... кх... вещи. По крайней мере, нечего *такого*... кх... с ним не случится.<end>
+
+=>a43_original
+What can you tell me about CAU?<end>
+
+=>a43
+Что вы можете мне рассказать про группу ХБА?<end>
+
+=>q44_original
+Please... khm...<end>
+
+=>q44
+Пожалуйста... кх...<end>
+
+=>q45_original
+I'd rather not talk about that.<end>
+
+=>q45
+Не будем говорить об этом.<end>
+
+=>a46_original
+What can you tell me about the Faceless?<end>
+
+=>a46
+Что вы можете мне рассказать про безликих?<end>
+
+=>q47_original
+Probably... khm... nothing, because I don't know much about them... khm... <end>
+
+=>q47
+Наверное... кх... ничего, потому что я мало знаю о них... кх...<end>
+
+=>q48_original
+I mean... khm... I've heard rumors... khm... stories, but I'd rather not... khm... comment. <end>
+
+=>q48
+Я имею в виду... кх... до меня доходят слухи... кх... рассказы, но я предпочла бы не... кх... комментировать.<end>
+
+=>a49_original
+See you around, Doc.<end>
+
+=>a49
+Ещё увидимся, док.<end>
+
+=>q50_original
+We better not, if you know what I... khm... mean. ::She smiles.::<end>
+
+=>q50
+Лучше бы не пришлось, если понимаете... кх... что я имею в виду. ::Она улыбается.::<end>
+
+=>a51_original
+Yes. And you are?<end>
+
+=>a51
+Да. А вы?..<end>
+
+=>q52_original
+Khm... Corporal?<end>
+
+=>q52
+Кх... Капрал?<end>
+

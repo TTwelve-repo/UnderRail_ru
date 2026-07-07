@@ -1,0 +1,772 @@
+﻿=>q1_original
+Why did you have to die, you bastard...<end>
+
+=>q1
+Зачем же ты сдох, тварина...<end>
+
+=>q2_original
+::He greets you with his arms wide open.:: You did it $(context.player.Name)! Damn, South Railroad Outpost and the embassy were a painful thorn in our sides, but now it all belongs to the Free Drones! Yeah!<end>
+
+=>q2
+::Он встречает вас с распростёртыми объятьями.:: Тебе удалось, $(context.player.Name)! Долбаный Форпост ЮЖД и посольство были нам как заноза в заднице, но теперь он принадлежит Вольным шершням! Да!<end>
+
+=>a3_original
+That's the first step. Next stop - Fort Apogee!<end>
+
+=>a3
+Это только первый шаг. Следующая остановка -- форт Апогей!<end>
+
+=>q4_original
+Yeah, once we burn it down, the Protectorate is pretty much gone from South Underrail!<end>
+
+=>q4
+Да, после того, как мы сожжём его дотла, Протектората почти не останется в Южной Подземке!<end>
+
+=>q5_original
+I've been instructed by Trenton to prepare some fine equipment for you. Take a pick: You've armor, weapons and psi equipment to choose from. What'll it be?<end>
+
+=>q5
+Трентон просил подготовить несколько занятных штучек для тебя. Вот тебе на выбор доспехи, оружие и всякие пси-хрени. Что возьмёшь?<end>
+
+=>a6_original
+Show me the weapons.<end>
+
+=>a6
+Покажи оружие.<end>
+
+=>q7_original
+Pistols, submachine guns, assault rifles, crossbows, sniper rifles, <end>
+
+=>q7
+Пистолеты, пистолеты-пулемёты, автоматы, арбалеты, снайперские винтовки,<end>
+
+=>q8_original
+machine guns, grenade launchers, <end>
+
+=>q8
+пулемёты, гранатомёты,<end>
+
+=>q9_original
+shotguns, machetes, spears, <end>
+
+=>q9
+дробовики, мачете, копья,<end>
+
+=>q10_original
+sledgehammers, combat knifes and combat gloves. Harry "The Supplier" Becket has it all! ::He laughs.::<end>
+
+=>q10
+кувалды, боевые ножи и боевые перчатки. У Гарри Бекета, «снабженца», есть всё! ::Он смеётся.::<end>
+
+=>a11_original
+I'll take a pistol.<end>
+
+=>a11
+Я возьму пистолет.<end>
+
+=>q12_original
+Here you go. ::He gives you a pistol.::<end>
+
+=>q12
+Держи. ::Он даёт вам пистолет.::<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>a14_original
+Trenton told me to see you about some gear.<end>
+
+=>a14
+Трентон велел спросить у тебя о снаряжении.<end>
+
+=>q15_original
+Yup, I've been told you'd come. At the moment, I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
+
+=>q15
+Ага, мне сказали, что ты придёшь. На данный момент я могу предложить кое-какие доспехи, оружие или, если тебе нужна пси-хрень, тоже кое-что есть.<end>
+
+=>a16_original
+I'm interested in armor.<end>
+
+=>a16
+Меня интересует броня.<end>
+
+=>q17_original
+I've metal armor, leather armor, riot gear and tactical vests.<end>
+
+=>q17
+Есть металлические доспехи, кожаные доспехи, штурмовая броня и тактические жилеты.<end>
+
+=>a18_original
+I'll take a suit of metal armor.<end>
+
+=>a18
+Я возьму металлическую броню.<end>
+
+=>q19_original
+Here you go. ::He gives you a suit of metal armor.::<end>
+
+=>q19
+Держи. ::Он даёт вам металлическую броню.::<end>
+
+=>a20_original
+I'll take a suit of leather armor.<end>
+
+=>a20
+Я возьму кожаную броню.<end>
+
+=>q21_original
+Here you go. ::He gives you a suit of leather armor.::<end>
+
+=>q21
+Держи. ::Он даёт вам кожаную броню.::<end>
+
+=>a22_original
+I'll take riot gear.<end>
+
+=>a22
+Я возьму штурмовую броню<end>
+
+=>q23_original
+Here you go. ::He gives you riot gear.::<end>
+
+=>q23
+Держи. ::Он даёт вам штурмовую броню.::<end>
+
+=>a24_original
+I'll take a tactical vest.<end>
+
+=>a24
+Я возьму тактический жилет.<end>
+
+=>q25_original
+Here you go. ::He gives you a tactical vest.::<end>
+
+=>q25
+Держи. ::Он даёт вам тактический жилет.::<end>
+
+=>a26_original
+Actually, I'm interested in weapons.<end>
+
+=>a26
+На самом деле, меня интересует оружие.<end>
+
+=>a27_original
+Actually, I'm interested in the psi stuff.<end>
+
+=>a27
+На самом деле, меня интересует пси-оборудование.<end>
+
+=>q28_original
+I've spare psi boosters and inhalants - seven and five, respectively - and some psionic headbands.<end>
+
+=>q28
+Есть запасные пси-усилители и пси-ингалянты, семь и пять штук, соответственно - если быть точным, и несколько пси-обручей.<end>
+
+=>a29_original
+I'll take the boosters and inhalants.<end>
+
+=>a29
+Я возьму пси-усилители и пси-ингалянты.<end>
+
+=>q30_original
+Here you go. ::He gives you seven psi boosters and five psi inhalants.::<end>
+
+=>q30
+Держи. ::Он даёт вам семь пси-усилителей и пять пси-ингаляторов.::.::<end>
+
+=>a31_original
+I'll take a psionic headband.<end>
+
+=>a31
+Я возьму пси обруч.<end>
+
+=>q32_original
+Here you go. ::He gives you a psionic headband.::<end>
+
+=>q32
+Держи. ::Он даёт вам псионический обруч.::<end>
+
+=>a33_original
+Actually, I'm interested in armor.<end>
+
+=>a33
+На самом деле, меня интересуют доспехи.<end>
+
+=>a34_original
+I'll take the psi stuff.<end>
+
+=>a34
+Давай твою пси-хрень.<end>
+
+=>a35_original
+I'm here to pick up the explosives.<end>
+
+=>a35
+Я здесь, чтобы забрать взрывчатку.<end>
+
+=>q36_original
+Going out to cause some trouble? ::He laughs.:: Here you go, you bastard. Make the Cans pay for everything they did!<end>
+
+=>q36
+Натворишь делов? ::Он смеётся.:: Держи, курвин$(#/а) $(#сын/дочь). Заставь банок заплатить за всё, что они сделали!<end>
+
+=>q37_original
+So... that's five charges and a detonator, if I'm not mistaken. Lemme see... one... two... three, four... where did I put you... ah, there it is - five! Detonator - check! That's it. I've everything you need. ::He gives you the explosives and the detonator.::<end>
+
+=>q37
+Так... тут пять зарядов и детонатор, если я не ошибаюсь. Дай посмотреть... один... два... три, четыре... где же ты... ах, вот он -- пять! Детонатор на месте! Вот и всё. Здесь всё, что нужно. ::Он даёт вам взрывчатку и детонатор.::<end>
+
+=>a38_original
+Oh, I will make them pay, Becket. I'm on fire!<end>
+
+=>a38
+О, я заставлю их заплатить, Бекет. Я прямо горю!<end>
+
+=>q39_original
+Good luck, you brave bastard. Stay free!<end>
+
+=>q39
+Удачи. Оставайся свободн$(#ым/ой)!<end>
+
+=>a40_original
+Death to Protectorate!<end>
+
+=>a40
+Смерть Протекторату!<end>
+
+=>a41_original
+Wish me luck, Becket.<end>
+
+=>a41
+Пожелай мне удачи, Бекет.<end>
+
+=>a42_original
+Maura told me to see you.<end>
+
+=>a42
+Мавра сказала зайти к тебе.<end>
+
+=>q43_original
+Right! She arranged for you to get some extra gear. But shush - not a word to anyone about this! ::He laughs.:: Um... thanks for saving her. She's a, um, a dear friend of mine and... it was difficult without her. I'm just glad she's with us again.
+
+Khm, anyway, at the moment I can offer you some armor, some weapons or if you're a $(#psi-kinda-guy/psi-gal), I've some of that stuff too.<end>
+
+=>q43
+Точно! Она просила отложить дополнительное оборудование для тебя. Но тс-с-с -- никому ни слова об этом! ::Он смеётся.:: Хм... спасибо, что спас$(#/ла) её. Она, э-э, мой дорогой друг и... трудно было без неё. Я рад, что она снова с нами.
+
+Хм, короче, на данный момент я могу предложить кое-какие доспехи, оружие, и есть кое-какие пси-хрени.<end>
+
+=>a44_original
+Show me what you got. ::Barter.::<end>
+
+=>a44
+Покажи, что есть. ::Обмен.::<end>
+
+=>a45_original
+::[Mercantile]:: Hey, Becket, where do you keep the good stuff? Don't try to tell me that a guy like yourself doesn't have something on the side, waiting for the right buyer.<end>
+
+=>a45
+::[Торговля]:: Эй, Бекет, где ты хранишь хорошее добро? Не рассказывай мне, что не припас ничего для особых покупателей.<end>
+
+=>q46_original
+::He laughs.:: You clever bastard, you sure got the nose for these things, eh? I've the stuff you want right 'ere.<end>
+
+=>q46
+::Он смеётся.:: А ты хитр$(#ый/ая) $(#ублюдок/шельма), у тебя похоже чутьё на такие вещи, а? У меня есть то, что тебе нужно.<end>
+
+=>a47_original
+::Barter.::<end>
+
+=>a47
+::Обмен::<end>
+
+=>q48_original
+::He laughs.:: You silly bastard, the stuff I've already 'ere is *the* good stuff. You know it! So show me the charons and let's do some business.<end>
+
+=>q48
+::Он смеётся.:: Ты, глуп$(#ый/ая) $(#ублюдок/шельма), добро, которое у меня здесь есть и *есть* самое хорошее. И ты знаешь это! Так что покажи мне хароны и давай займёмся делом.<end>
+
+=>a49_original
+Why did you join the Free Drones?<end>
+
+=>a49
+Почему ты вступил в Вольные шершни?<end>
+
+=>q50_original
+You know, I used to be a United Stations supporter. Yeah, I know - I actually believed all that unification rubbish. It somehow made sense, you know... If all the stations united, we'd be able to fight off raiders and beasts. Protectorate would - you guessed it - protect us! That's big stuff, bigger than a Deep Caverns echo... but unfortunately, that's not how things work in real life.<end>
+
+=>q50
+Ты знаешь, я раньше был сторонником Объединённых Станций. Да, знаю, я действительно верил во всю эту дребедень. Это имело смысл, ну, знаешь... если все станции объединятся, мы сможем отбиться от рейдеров и зверей. Протекторат будет -- правильно -- защищать нас! Эта брехня звучала громче чем эхо в Глубоких пещерах... но, к сожалению, так в реальной жизни не бывает.<end>
+
+=>q51_original
+I've seen the price of the safety they offer, of their... protection! And I think it's too damn high. Protectorate will make us lie belly down in the mud and walk over us, and then tell us it's a good life. Bandits won't touch us, true, but that's a lot of mud to eat. To hell with it, I don't want that! So I hooked up with my old acquaintance, Maura, and came here. The peeps need supplies, and that's what I do best!<end>
+
+=>q51
+Я видел цену безопасности, которую они предлагают, их... защиты! И по мне, она малость высоковата. Протекторат заставит нас лечь в грязь и будет ходить по нам, а потом расскажет, какая это хорошая жизнь. Бандиты не трогают, но в остальном... Хрен им, я не хочу так жить! Поэтому я связался со старой знакомой, Маврой, и пришёл сюда. Всем нужны припасы, а это дело я знаю лучше всего!<end>
+
+=>a52_original
+What can you tell me about Kokoschka?<end>
+
+=>a52
+Что ты можешь рассказать о Кокошке?<end>
+
+=>q53_original
+That magnificent bastard had to die, didn't he? Ehh, I remember when I first met him. Weird bastard! I greeted him with that, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He was a good bastard, you know.<end>
+
+=>q53
+Этот великолепный ублюдок просто не мог не погибнуть, да? Эх, помню, когда я впервые встретился с ним. Странный сукин сын! Я приветствовал его, а он ответил что-то вроде: «Почему ты называешь меня ублюдком, шкламанпц?» или что-то типа того. Мне пришлось объяснять ему, что я не пытался его оскорбить, и что такими словами я комплименты делаю. Он был тот ещё ублюдок, знаешь ли.<end>
+
+=>q54_original
+Unfortunately, um... he's a dead bastard now... Damn...<end>
+
+=>q54
+К сожалению, э-э-э... теперь он уже мёртвый ублюдок... Твою...<end>
+
+=>q55_original
+::He laughs.:: Bastard! I told him that when I met him for the first time, and he responded with something like, "Why you call me bastard, you schklamanpz?" or something like that. I had to explain to him that I wasn't trying to offend him and how I mean these things in a good way. He's a good bastard, you know.<end>
+
+=>q55
+::Он смеётся.:: Этот сукин сын! Помню, когда я впервые встретил его, он спросил что-то вроде: «Почему ты называешь меня ублюдком, шкламанпц?» или что-то типа того. Мне пришлось объяснять ему, что я не пытался его оскорбить, и что такими словами я комплименты делаю. Он тот ещё ублюдок, знаешь ли.<end>
+
+=>q56_original
+I guess he wasn't used to that in... wherever he's from, I forgot. The funny things is, now he tries to do the same but... he forces it a bit too much.
+
+Just yesterday he smiled at me and said: "Hey, you man that smells like rotting brbuznit! I mean it well, don't get angried." "Angried"!<end>
+
+=>q56
+Видно, он не привык к такому в... откуда ж он, забыл. Смешно, что теперь он пытается делать то же самое, но... слишком старается.
+
+Вот как вчера он улыбнулся мне и сказал: «Привет, мужик, ты провонял тухлым брбузнитом! Но это комплимент, не злоствуй». «Не злоствуй»!<end>
+
+=>a57_original
+What can you tell me about Darling?<end>
+
+=>a57
+Что ты можешь рассказать о Дарлинг?<end>
+
+=>q58_original
+Oh, she's a fine woman. Yes. There's this motherly feel about her, you know what I mean. Like she's the one who takes care of us, she listens, gives advice and reassures you everything is gonna be fine.<end>
+
+=>q58
+О, она прекрасная женщина. Да. Она тут всем как мама, если ты меня понимаешь. В смысле, она заботится о нас, слушает, даёт советы и уверяет, что всё будет хорошо.<end>
+
+=>q59_original
+And she's young and good lookin', and cooks really damn well! Darn it, I wish I had a caring mother like that, mine was a crone that never loved me. I was the middle child! Anyway, I just wish she'd take it easy with the bleedin' smokes, she's been puffing those things a bit too much lately. <end>
+
+=>q59
+К тому же, она молода, и красотка, и охренительно вкусно готовит! Проклятье, хотел бы я, чтобы моя мать была такой заботливой, а не ведьмой, которая никогда меня не любила. Я был вторым ребёнком! Только, ей бы курить поменьше, а то пыхтит слишком много в последнее время.<end>
+
+=>q60_original
+At least those things aren't easy to come by, so that's helping.<end>
+
+=>q60
+По крайней мере, курево непросто достать, так что всё не так плохо.<end>
+
+=>a61_original
+What can you tell me about Hutch?<end>
+
+=>a61
+Что ты можешь рассказать о Хатче?<end>
+
+=>q62_original
+Poor Hutch, he was a good kid. He was a blueprint for a perfect freedom fighter. Young, strong, cunning, honest, idealistic.<end>
+
+=>q62
+Бедняга Хатч, он был добрым малым. Примером идеального борца за свободу. Молодой, сильный, хитрый, честный идеалист.<end>
+
+=>q63_original
+And in love... That's what killed him, I heard he volunteered to go to Junkyard. Bastard... At least he didn't die alone.<end>
+
+=>q63
+Влюблённый... и это его убило. Я слышал, он сам вызвался идти на Свалку. Сукин сын... по крайней мере, он не умер в одиночестве.<end>
+
+=>a64_original
+What can you tell me about Maura?<end>
+
+=>a64
+Что ты можешь рассказать о Мавре?<end>
+
+=>q65_original
+Maura is an acquaintance of mine, we used to do business in Junkyard, Core City, Camp Hathor... everywhere. We specialized in sought after, less common and merchandise. One day, she left to join the Free Drones, she was sick and tired of the Protectorate propaganda, she wanted to make a change.<end>
+
+=>q65
+Мавра -- моя старая подруга, мы вели дела на Свалке, в Кор-Сити, в лагере Хатор... везде. Мы специализировались на редких, востребованных товарах. Однажды она ушла, чтобы присоединиться к Вольным Шершням, она была сыта по горло пропагандой Протектората, она хотела изменений.<end>
+
+=>q66_original
+Rubbish, I said. She's gone crazy, I thought! But, I was just blind myself. Bastard... Ironically, she was the one who brought me here. She's a capable woman, I'd trust her with anything...<end>
+
+=>q66
+Я сказал, что за бред? Она сошла с ума -- так я думал! Но это я был слеп. Ублюдок... Как ни странно, это она привела меня сюда. Она способная женщина, я доверяю ей во всём...<end>
+
+=>a67_original
+What can you tell me about Trenton?<end>
+
+=>a67
+Что ты можешь рассказать о Трентоне?<end>
+
+=>q68_original
+Oh, Corben's one tough bastard. When he comes up with a plan, you know he's been working on it for a long time, ignoring hunger, thirst or sleep until it's just right. Perfect! He can predict what the enemy's gonna do, and that always makes him one step ahead of the Cans.
+
+And there's nuthin' fake about him, too. He does what he does and speaks the way it is. That might not always be what you want to hear, but you know it's the truth.<end>
+
+=>q68
+О, Корбен -- крепкий ублюдок. Придумывая план, он долго работает, не обращая внимания на голод, жажду и сон, пока тот не будет готов. Доведён до идеала! Он может предсказать, что противник собирается делать, и это всегда позволяет ему быть на шаг впереди банок.
+
+А ещё, нет в нём ни капли фальши. Он делает то, что делает и говорит так, как есть. Не всегда это будет то, что ты хочешь услышать, но можно не сомневаться в его искренности.<end>
+
+=>q69_original
+He's just magnificent! We need more Trentons in the world, that's for sure!<end>
+
+=>q69
+Он просто великолепен! Нужно больше Трентонов в этом мире, это точно!<end>
+
+=>a70_original
+What can you tell me about Bate?<end>
+
+=>a70
+Что ты можешь рассказать о Бэйте?<end>
+
+=>q71_original
+That git! That lying, Protectorate-loving git! I thought he was one of us!<end>
+
+=>q71
+Этот мерзавец! Лжец, протекторатский жополиз! Я думал, он один из нас!<end>
+
+=>q72_original
+For so long he's been feeding the Cans with information about us... Ugh! I'm furious! We lost so many good peeps because of him.<end>
+
+=>q72
+Так долго он кормил этих сволочей информацией... тьфу! Я в бешенстве! Из-за него мы потеряли так много хороших людей.<end>
+
+=>q73_original
+Bate is a different type of leader than Trenton is. While Trenton is straight to the point strategic mastermind, Alvin Bate has that common man... leader sort of thing. Erm, what I really mean, he behaves like he was one of us... us regular peeps. The bastard! ::Laughs.:: Not saying Trenton isn't, but... he keeps to himself.<end>
+
+=>q73
+Бэйт -- лидер другого типа, чем Трентон. Трентон это наш прямолинейный стратегический мегамозг, а Элвин Бэйт остаётся... таким обычным человеком... Но лидером. Эм-м, я имею в виду, он ведёт себя как один из нас... простого народа. Ублюдок! ::Смеётся.:: Не говорю, что Трентон не наш... но он себе на уме.<end>
+
+=>q74_original
+Bate, on the other hand, will brief us about serious issues, then get wasted with us later. And that bastard can drink two burrowers worth of mushroom brew. At least! ::Laughs.::<end>
+
+=>q74
+Бэйт, с другой стороны, не станет скрывать серьёзных проблем, просто нажрётся с нами позже. Этот ублюдок может пить грибное пойло как два могильщика. По меньшей мере! ::Смеётся.::<end>
+
+=>a75_original
+What can you tell me about Marcella?<end>
+
+=>a75
+Что ты можешь рассказать о Марселле?<end>
+
+=>q76_original
+Um, I don't know how much I can tell you about that, $(context.player.Name). She disappeared about two months ago, and everyone is clueless about what exactly happened. Some say she was a Protectorate spy, some say she died fighting the Cans, bravely.<end>
+
+=>q76
+Э-э-э, не знаю, можно ли тебе рассказывать, $(context.player.Name). Она исчезла около двух месяцев назад, и никто не знает, что именно произошло. Некоторые говорят, что она шпионила на Протекторат, другие говорят, что она погибла, храбро сражаясь с банками.<end>
+
+=>q77_original
+I don't really know what to think. But I know that, if she ever shows up again... It's won't be pretty. I'm sure of it.<end>
+
+=>q77
+Я прямо не знаю, что и думать. Но я знаю, что, если она когда-нибудь объявится снова... будет не до веселья. Как пить дать.<end>
+
+=>a78_original
+Goodbye, Becket.<end>
+
+=>a78
+Пока, Бекет.<end>
+
+=>a79_original
+I'll take a submachine gun.<end>
+
+=>a79
+Я возьму пистолет-пулемёт.<end>
+
+=>q80_original
+Here you go. ::He gives you a submachine gun.::<end>
+
+=>q80
+Держи. ::Он даёт вам пистолет-пулемёт.::<end>
+
+=>a81_original
+I'll take a regular shotgun.<end>
+
+=>a81
+Я возьму обычный дробовик.<end>
+
+=>q82_original
+Here you go. ::He gives you a shotgun.::<end>
+
+=>q82
+Держи. ::Он даёт вам дробовик.::<end>
+
+=>a83_original
+I'll take a combat shotgun.<end>
+
+=>a83
+Я возьму боевой дробовик.<end>
+
+=>q84_original
+Here you go. ::He gives you a combat shotgun.::<end>
+
+=>q84
+Держи. ::Он даёт вам боевой дробовик.::<end>
+
+=>a85_original
+I'll take an assault rifle.<end>
+
+=>a85
+Я возьму автомат.<end>
+
+=>q86_original
+Here you go. ::He gives you an assault rifle.::<end>
+
+=>q86
+Держи. ::Он даёт вам автомат.::<end>
+
+=>a87_original
+I'll take a crossbow.<end>
+
+=>a87
+Я возьму арбалет.<end>
+
+=>q88_original
+Here you go. ::He gives you a crossbow.::<end>
+
+=>q88
+Держи. ::Он даёт вам арбалет.::<end>
+
+=>a89_original
+I'll take a sniper rifle.<end>
+
+=>a89
+Я возьму снайперскую винтовку.<end>
+
+=>q90_original
+Here you go. ::He gives you a sniper rifle.::<end>
+
+=>q90
+Держи. ::Он даёт вам снайперскую винтовку.::<end>
+
+=>a91_original
+I'll take a light machine gun.<end>
+
+=>a91
+Я возьму пулемёт.<end>
+
+=>q92_original
+Here you go. ::He gives you a machine gun.::<end>
+
+=>q92
+Держи. ::Он даёт вам пулемёт.::<end>
+
+=>a93_original
+I'll take a grenade launcher.<end>
+
+=>a93
+Я возьму гранатомёт.<end>
+
+=>q94_original
+Here you go. ::He gives you a grenade launcher.::<end>
+
+=>q94
+Держи. ::Он даёт вам гранатомёт.::<end>
+
+=>a95_original
+I'll take a sledgehammer.<end>
+
+=>a95
+Я возьму кувалду.<end>
+
+=>q96_original
+Here you go. ::He gives you a sledgehammer.::<end>
+
+=>q96
+Держи. ::Он даёт вам кувалду.::<end>
+
+=>a97_original
+I'll take a machete.<end>
+
+=>a97
+Я возьму мачете.<end>
+
+=>q98_original
+Here you go. ::He gives you a machete.::<end>
+
+=>q98
+Держи. ::Он даёт вам мачете.::<end>
+
+=>a99_original
+I'll take a spear.<end>
+
+=>a99
+Я возьму копьё.<end>
+
+=>q100_original
+Here you go. ::He gives you a spear.::<end>
+
+=>q100
+Держи. ::Он даёт вам копьё.::<end>
+
+=>a101_original
+I'll take a combat knife.<end>
+
+=>a101
+Я возьму боевой нож.<end>
+
+=>q102_original
+Here you go. ::He gives you a combat knife.::<end>
+
+=>q102
+Держи. ::Он даёт вам боевой нож.::<end>
+
+=>a103_original
+I'll take a combat glove.<end>
+
+=>a103
+Я возьму боевые перчатки.<end>
+
+=>q104_original
+Here you go. ::He gives you a combat glove.::<end>
+
+=>q104
+Держи. ::Он даёт вам боевые перчатки.::<end>
+
+=>a105_original
+We shouldn't relax too much, the Protectorate is still strong in South Underrail.<end>
+
+=>a105
+Нам рано расслабляться. Протекторат по-прежнему силён в Южной Подземке.<end>
+
+=>q106_original
+Sure, you've a point there... But, the peeps need a bit of a celebration 'cause we smashed the Cans like no big deal!<end>
+
+=>q106
+Конечно, тут с тобой не поспоришь... но, пиплам есть что отметить, мы же разбили банок на раз!<end>
+
+=>a107_original
+If it wasn't for me, you'd all be sitting in this hole doing nuthin'.<end>
+
+=>a107
+Если бы не я, вы бы все сидели бы в этой дыре, ничего не делая.<end>
+
+=>q108_original
+Erm... ::He laughs.:: For a second there I though you were serious, you silly bastard!<end>
+
+=>q108
+Эм-м... ::Он смеётся.:: На секунду я подумал, что ты это серьёзно, туп$(#ой/ая) курвин$(#/а) $(#сын/дочь)!<end>
+
+=>q109_original
+::The man removes his mask as soon as you come near him. He smiles after doing so, displaying an admirable set of rotten teeth springing from a rectangular jaw covered with a several days old beard. His clothes are patchy in some and torn in other places. As for his words, they are carried by a rough-sounding but unmistakably friendly voice.::
+
+Hey, you magnificent bastard! Welcome to the under-passages! Name's Harry Becket, and if it wasn't for me, all these derailed peeps would've been taking on the Cans with nuthin' but rocks and a bit of hope! ::He laughs.::<end>
+
+=>q109
+::Мужчина снимает противогаз, когда вы приближаетесь к нему. Он улыбается, показывая замечательный набор гнилых зубов, торчащих из прямоугольной челюсти, покрытой многодневной щетиной. Его одежда вся в заплатах и в некоторых местах порвана. Что касается его голоса, он звучит резко, но, несомненно, дружелюбно.::
+
+Привет, $(#великолепный ублюдок/прелестная швабра)! Добро пожаловать в тоннели! Зовут меня -- Гарри Бекет, и если бы не я, весь этот поехавший народец давно жрал бы один каменный суп, чуток приправленный надеждой! ::Он смеётся.::<end>
+
+=>q110_original
+I also heard you are quite a ferocious $(#pal/gal)! Those bleedin' Lurkers never knew what hit 'em! ::He laughs.:: You strolled right into their turf and busted out our captured pals!<end>
+
+=>q110
+Ещё, я слышал, что ты свиреп$(#ый/ая) сукин$(#/а) $(#сын/дочь)! Эти грёбаные скрытни не знали, с кем связались! ::Он смеётся.:: Ты ворвал$(#ся/ась) прямиком к ним в хату и вытащил$(#/а) наших ребят!<end>
+
+=>a111_original
+Thank you, but it wasn't exactly like that...<end>
+
+=>a111
+Спасибо, но дело было не совсем так...<end>
+
+=>q112_original
+Don't be so humble, you silly bastard. Brag! Brag until everyone gives you *the* look! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
+
+=>q112
+Не скромничай, курвин$(#/а) ты $(#сын/дочь). Хвастайся! Хвались, пока все не начнут показывать на тебя пальцами! Этот генератор энергетического щита специально для тебя! Эй, добрые дела не проходят безнаказанно, так что, надеюсь, тебе понравится! ::Он даёт вам генератор энергетического щита.::<end>
+
+=>q113_original
+<end>
+
+=>q113
+<end>
+
+=>a114_original
+Yeah, I'm cool and I know it! But please, don't stop...<end>
+
+=>a114
+Да, я крут$(#/а) и я знаю это! Но, пожалуйста, не останавливайся...<end>
+
+=>q115_original
+::He laughs.:: I'd have to stop if I want to give you your reward. I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
+
+=>q115
+::Он смеётся.:: Придётся остановиться, если я хочу выдать тебе награду. Этот генератор энергетического щита специально для тебя! Эй, добрые дела не проходят бесследно, так что, я надеюсь, тебе понравится! ::Он даёт вам генератор энергетического щита.::<end>
+
+=>a116_original
+I'm just here for the stuff.<end>
+
+=>a116
+Мне просто нужно снаряжение.<end>
+
+=>q117_original
+::He laughs.:: Coming right up! I've an energy shield just for you! Hey, good deeds shouldn't go unrewarded, so I hope you like it! ::He gives you an energy shield emitter.::<end>
+
+=>q117
+::Он смеётся.:: Уже на подходе! Этот генератор энергетического щита специально для тебя! Эй, добрые дела не проходят бесследно, так что, я надеюсь, тебе понравится! ::Он даёт вам генератор энергетического щита.::<end>
+
+=>q118_original
+I sell all sorts of stuff - good stuff, so feel free to spend some charons! :: He laughs.::<end>
+
+=>q118
+Я продаю всякие вещи -- хорошие вещи, так что не стесняйся потратить несколько харонов! ::Он смеётся.::<end>
+
+=>q119_original
+You vicious bastard! ::He laughs.:: I heard what you did to those bleedin' Lurkers! You strolled right into their turf and busted out our pals!<end>
+
+=>q119
+Ты жестк$(#ий/ая) $(#ублюдок/тварь)! ::Он смеётся.:: Я слышал, что ты сделал$(#/а) с этими грёбаными скрытнями! Ты ворвал$(#ся/ась) прямиком к ним в хату и вытащил$(#/а) наших ребят!<end>
+
+=>q120_original
+I got some new stuff you might wanna take a look at 'ere. Make sure you've the charons ready, of course!<end>
+
+=>q120
+У меня есть кое-какой новый товар, на который вам стоит взглянуть. Убедитесь, что у вас есть наличные, конечно!<end>
+
+=>a121_original
+Let's check it out. ::Barter.::<end>
+
+=>a121
+Давай посмотрим. ::Обмен.::<end>
+
+=>a122_original
+I wanted to ask you something first.<end>
+
+=>a122
+Я хочу спросить у вас кое-что ещё...<end>
+
+=>q123_original
+Whacha wanna ask me?<end>
+
+=>q123
+О чём ты хотел меня спросить?<end>
+
+=>q124_original
+Hey, check out that new girl - discount Izumi! ::He proceeds to laugh for solid ten seconds.::<end>
+
+=>q124
+Эй, зацени ту новенькую - Изуми по скидке! ::Он ещё долго хохочет.::<end>
+
+=>q125_original
+Just kidd'n! <end>
+
+=>q125
+Просто прикалываюсь!<end>
+
+=>q126_original
+Whatcha need?<end>
+
+=>q126
+Надо чего?<end>
+

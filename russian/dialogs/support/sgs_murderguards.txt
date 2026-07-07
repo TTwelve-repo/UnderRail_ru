@@ -1,0 +1,60 @@
+﻿=>q1_original
+<end>
+
+=>q1
+<end>
+
+=>q2_original
+Hey $(context.player.Name), maybe you don't want to go in there. It's really bad.<end>
+
+=>q2
+Привет, $(context.player.Name). Может, тебе не стоит туда заходить? Неприятное зрелище.<end>
+
+=>q3_original
+Bret was killed recently. Do you perhaps know anything that could help us find the killer?<end>
+
+=>q3
+Брета убили. Может быть, ты знаешь что-нибудь, что могло бы помочь нам найти убийцу?<end>
+
+=>q4_original
+Man, the Pierces are really unlucky. First Patrick, now Lenox...<end>
+
+=>q4
+Этим Пирсам не везёт, так не везёт. Сперва Патрик, теперь Ленокс...<end>
+
+=>q5_original
+And now Tanner's gone... What's next?<end>
+
+=>q5
+Теперь ещё и Таннер пропал... что дальше?<end>
+
+=>q6_original
+Unbelievable, Lenox and Bret killed each other! What the hell is going on around here?<end>
+
+=>q6
+Подумать только, Ленокс и Брет убили друг друга! Что здесь вообще происходит?<end>
+
+=>q7_original
+I guess even SGS is not safe anymore...<end>
+
+=>q7
+Похоже, даже на ССГ теперь не безопасно...<end>
+
+=>q8_original
+So, I haven't seen you in a while. How's life?<end>
+
+=>q8
+Давно тебя не видел. Как жизнь?<end>
+
+=>q9_original
+::Sighs.::<end>
+
+=>q9
+::Вздыхает.::<end>
+
+=>q10_original
+Heard about Gorsky's death in Core City?<end>
+
+=>q10
+Слышал$(#/а), Горский погиб в Кор-Сити?<end>
+

@@ -1,0 +1,528 @@
+﻿=>q1_original
+Stop bothering me, you idiot. Get out!<end>
+
+=>q1
+Не зли меня, идиот$(#/ка). Убирайся!<end>
+
+=>q2_original
+::A middle-aged woman wearing gleaming metal armor gets up from behind her desk and stands up to meet her guest. She looks at you, lifting her slightly wrinkly eyelids to reveal experienced eyes that haven't lost much intensity since her younger days. Her voice, on the other hand, is already one step inside the grave, for it is heavy and low-pitched, sounding as if there is some weight on her vocal folds which pushes the voice down into the low range.::
+
+<end>
+
+=>q2
+::Женщина средних лет в блестящей металлической броне поднимается из-за стола, чтобы встретить гостя. Она смотрит на вас из-под слегка морщинистых век опытными глазами, которые с годами не потеряли блеска. Её голос, с другой стороны, уже будто ступил в могилу: он тяжёлый и низкий, звучащий, как будто придавленный тяжёлым весом.::
+
+<end>
+
+=>q3_original
+Oh, aren't you $(context.player.Name)? It is a pleasure to finally meet you. I'm Delma Ward, the WARDen of Foundry prison. I will take this opportunity to say that we are all very grateful for what you did, getting rid of those rocky creatures and all. 
+
+Whatever it is you need, I will do my best to help you.<end>
+
+=>q3
+О, не вы ли $(context.player.Name)? Приятно наконец познакомиться с вами. Меня зовут Дельма Уорд, я начальник тюрьмы Литейной. Позвольте воспользоваться этой возможностью, чтобы сказать, что все мы очень благодарны за то, что вы для нас сделали, изгнав этих каменных созданий. 
+
+Если вам что-то нужно, я сделаю всё, что в моих силах, чтобы помочь вам.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+I need to ask you some questions about a prisoner named Todor Sallywatch.<end>
+
+=>a5
+Мне нужно задать вам несколько вопросов о заключённом по имени Тодор Саллиуотч.<end>
+
+=>q6_original
+Yes, Todor Sallywatch. What did you want to ask me about him? <end>
+
+=>q6
+Да, Тодор Саллиуотч. О чём вы хотели меня спросить?<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+Why is he here?<end>
+
+=>a8
+Почему он здесь?<end>
+
+=>q9_original
+What is your relationship with him?<end>
+
+=>q9
+Какие у вас отношения с ним?<end>
+
+=>a10_original
+He's my cousin.<end>
+
+=>a10
+Он мой кузен.<end>
+
+=>q11_original
+Cousin?<end>
+
+=>q11
+Кузен?<end>
+
+=>a12_original
+::[Persuade]:: Yes, my mother's uncle and his father's father are brothers.<end>
+
+=>a12
+::[Убеждение]:: Да, дядя моей мамы -- брат отца его отца.<end>
+
+=>q13_original
+Huh? Well, I guess that makes some sense. Yes. Okay, all is well. What was that you asked me, again?<end>
+
+=>q13
+Да? Ну что же, в этом есть некоторый смысл. Да. Ладно, хорошо. Так что вы хотели узнать?<end>
+
+=>q14_original
+I don't fall for that. I'm sorry, but I can't give this sort of information to just about everyone.<end>
+
+=>q14
+Я не верю вам. Извините, но я не могу дать такого рода информацию кому попало.<end>
+
+=>a15_original
+Oh, come on! After all I've done for Foundry, you distrust me? Maybe I should have stayed out of the mine business and see how you fare without my help.<end>
+
+=>a15
+Ой, да ладно! После всего что я сделал$(#/а) для Литейной, вы не доверяете мне? Может быть, мне следовало не лезть в шахту и посмотреть, как бы вы справитесь без моей помощи.<end>
+
+=>q16_original
+::Your response instigates a long pause.:: Um, I'm sorry. I don't know what came over me, $(#amigo/chica). It seemed...
+
+Never mind, can you repeat the question you asked me a moment ago?<end>
+
+=>q16
+::Она на некоторое время замолкает.:: Эм, извините меня. Я не знаю, что на меня нашло, $(#амиго/чика). Казалось...
+
+Не берите в голову, вы не могли бы повторить ваш вопрос?<end>
+
+=>a17_original
+If that's the case, let's discuss something else.<end>
+
+=>a17
+Раз так, давайте обсудим что-нибудь другое.<end>
+
+=>q18_original
+If you say so.<end>
+
+=>q18
+Как скажете.<end>
+
+=>a19_original
+You don't trust me, after all I've done for Foundry?<end>
+
+=>a19
+Вы не верите мне, после всего, что я сделал$(#/а) для Литейной?<end>
+
+=>q20_original
+I'm sorry, I didn't mean it like that. Forget I said anything. What was it you asked me about him, again?<end>
+
+=>q20
+Простите, я не это имела в виду. Забудьте, что я сказала. Так что вы хотели узнать?<end>
+
+=>a21_original
+Actually, we're just friends.<end>
+
+=>a21
+На самом деле, мы просто друзья.<end>
+
+=>q22_original
+I'm sorry, that's not good enough. Rules are rules.<end>
+
+=>q22
+Мне очень жаль, но этого недостаточно. Правила есть правила.<end>
+
+=>a23_original
+So, I saved Foundry from being overrun by monsters and can't even ask about or see my friend in prison. Well, thank you, Delma.<end>
+
+=>a23
+Значит, я спас$(#/ла) Литейную от нашествия чудовищ, и даже не могу узнать о судьбе моего друга в тюрьме. Ну спасибо, Дельма.<end>
+
+=>q24_original
+::Your response instigates a long pause.:: All right, all right. What was that you wanted to ask me about Todor Sallywatch?<end>
+
+=>q24
+::Она на некоторое время замолкает.:: Хорошо, хорошо. Так, что вы хотели узнать про Тодора Саллиуотча?<end>
+
+=>a25_original
+He's my husband.<end>
+
+=>a25
+Он мой муж.<end>
+
+=>q26_original
+I believe I heard someone mention him having a wife, or was it... Anyway, all is well. Can you repeat the question again, please?<end>
+
+=>q26
+Кажется, кто-то упоминал, что у него есть жена, или была... в общем, хорошо. Не могли бы вы повторить вопрос ещё раз, пожалуйста?<end>
+
+=>a27_original
+We're just friends.<end>
+
+=>a27
+Мы просто друзья.<end>
+
+=>q28_original
+He is accused of murdering a traveling merchant called Bolivar Daud. His case is currently on hold due to the unfortunate death of Judge Taylor, and it will be continued after a new judge has been elected.<end>
+
+=>q28
+Он обвиняется в убийстве странствующего торговца по имени Боливар Дауд. Его дело в настоящее время приостановлено в связи с трагической смертью судьи Тейлора, и оно будет продолжено после выборов нового судьи.<end>
+
+=>q29_original
+Or, if something important and urgent comes up, the current chief - Chief Banner in this case - can decide the fate of the accused. That is all according to Foundry law.<end>
+
+=>q29
+Или, если всплывает что-то важное и срочное, нынешний шеф -- Шеф Баннер, в данном случае -- может решить судьбу обвиняемого. Таков закон Литейной.<end>
+
+=>a30_original
+I'd like to see him.<end>
+
+=>a30
+Я бы хотел$(#/а) бы увидеть его.<end>
+
+=>q31_original
+I'll allow it, but this one time only. I'll tell the guards to lead you to the visiting room.<end>
+
+=>q31
+Я разрешаю, но только один раз. Я скажу охране, чтобы вас проводили в комнату свиданий.<end>
+
+=>a32_original
+::Go meet Todor.::<end>
+
+=>a32
+::Идти на встречу с Тодором.::<end>
+
+=>a33_original
+I changed my mind. I need to do something first.<end>
+
+=>a33
+Я передумал$(#/а). Мне нужно ещё кое-что сделать.<end>
+
+=>q34_original
+As you wish $(#amigo/chica).<end>
+
+=>q34
+Как хотите, $(#амиго/чика).<end>
+
+=>q35_original
+I'm sorry, but you've already talked to him. I can't allow more visits for the time being.<end>
+
+=>q35
+Извините, но вы уже поговорили с ним. Я не могу разрешить больше посещений на данный момент.<end>
+
+=>a36_original
+Actually, let's discuss something else.<end>
+
+=>a36
+Давайте лучше обсудим что-нибудь другое.<end>
+
+=>a37_original
+What can you tell me about this place?<end>
+
+=>a37
+Что вы можете рассказать мне об этом месте?<end>
+
+=>q38_original
+You mean Foundry? Well, I don't know, $(#amigo/chica), I'm a prison warden, and most of the time I'm making sure murderers, thieves and other criminals stay locked up or do their community service. It's always the bad side of Foundry I see and deal with on a daily basis.<end>
+
+=>q38
+Вы имеете в виду Литейную? Ну, я не знаю, $(#амиго/чика), я начальник тюрьмы, и большую часть времени я слежу, чтобы убийцы, воры и другие преступники сидели под замком или выполняли общественные работы. Каждый день я имею дело с тёмной стороной Литейной.<end>
+
+=>q39_original
+On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there, especially now with the infestation of some very, very aggressive creatures. That's life in Foundry from their perspective. 
+
+Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The mining business brings in a lot of money and goods, and Foundry is one of the safest places to live in South Underrail thanks to the Foundry Guard. So, there's a lot of positives too.<end>
+
+=>q39
+С другой стороны, если вы зададите этот вопрос шахтёрам, они расскажут вам про травмы и смерть в шахте и об опасностях работы там, особенно сейчас, когда случилось нашествие каких-то крайне агрессивных тварей. Такова жизнь на Литейной с их точки зрения. 
+
+Ох, это, должно быть, прозвучало угнетающе. ::Она улыбается.:: Есть и положительные стороны: горнодобывающий бизнес приносит много денег и товаров, и Литейная является одним из самых безопасных мест для жизни во всей Южной Подземке, благодаря Страже Литейной. Так что есть и много позитива.<end>
+
+=>q40_original
+On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there. That's life in Foundry from their perspective. 
+
+Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The mining business brings in a lot of money and goods, and Foundry is one of the safest places to live in South Underrail thanks to the Foundry Guard. So, there's a lot of positives too.<end>
+
+=>q40
+С другой стороны, если вы зададите этот вопрос шахтёрам, они расскажут вам про травмы и смерть в шахте и об опасностях работы там. Такова жизнь на Литейной с их точки зрения. 
+
+Ох, это, должно быть, прозвучало угнетающе. ::Она улыбается.:: Есть и положительные стороны: горнодобывающий бизнес приносит много денег и товаров, и Литейная является одним из самых безопасных мест для жизни во всей Южной Подземке, благодаря Страже Литейной. Так что, есть и много позитива.<end>
+
+=>a41_original
+I see you like growing flowers.<end>
+
+=>a41
+Я вижу, вы любите выращивать цветы.<end>
+
+=>q42_original
+Yes, yes I do. Say, what do you think of them?<end>
+
+=>q42
+Да, очень люблю. Скажите, что вы о них думаете?<end>
+
+=>a43_original
+They are beautiful! Flowers are rare in general, let alone as exquisite as these.<end>
+
+=>a43
+Они прекрасны! Цветы -- и так редкость, не говоря уже о таких изысканных, как эти.<end>
+
+=>q44_original
+Thank you very much! I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q44
+Спасибо большое! Я нахожу, что цветы в офисе помогают разрядить обстановку, $(#амиго/чика). Когда я хочу отдохнуть, я сажусь и любуюсь ими во всей красе. Я наслаждаюсь яркими красками, которых так не хватает в окружающем нас мире. Я просто смотрю на них в тишине, и больше ничего не надо. Мои произведения искусства! ::Улыбка озаряет её лицо на короткое мгновение.::<end>
+
+=>q45_original
+And during that time, while I'm relaxing in my office, all is well! Then, someone brings in a guy who killed his brother with a jackhammer. A signal it's time to get back to work! I swear, people just get more and more violent these days.<end>
+
+=>q45
+Я люблю так расслабляться в своём кабинете! А потом приводят парня, который убил своего брата отбойным молотком. Сигнал, что пора вернуться к работе! Я готова поклясться, люди в последнее время просто звереют.<end>
+
+=>a46_original
+They are okay, I suppose.<end>
+
+=>a46
+Ну, они вполне ничего.<end>
+
+=>q47_original
+Well, I really like them. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the wonderful colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q47
+А я их очень люблю. Я нахожу, что цветы в офисе помогают разрядить обстановку, $(#амиго/чика). Когда я хочу отдохнуть, я сажусь и любуюсь ими во всей красе. Я наслаждаюсь яркими красками, которых так не хватает в окружающем нас мире. Я просто смотрю на них в тишине, и больше ничего не надо. Мои произведения искусства! ::Улыбка озаряет её лицо на короткое мгновение.::<end>
+
+=>a48_original
+Nah, I hate flowers myself. Thankfully, there aren't many of those around.<end>
+
+=>a48
+Не-а, я сам$(#/а) терпеть не могу цветы. К счастью, их не так много вокруг.<end>
+
+=>q49_original
+Ah, well, I'm very sorry to hear that. I find it very relaxing to have flowers in the office, $(#amigo/chica). When I feel the need to unwind, I sit down and observe them in all their beauty. I enjoy the colors that are missing from the world around us. I simply watch them in silence, nothing else. My works of art! ::A smile escapes her for a brief moment.::<end>
+
+=>q49
+О, мне очень жаль это слышать. Я нахожу, что цветы в офисе помогают разрядить обстановку, $(#амиго/чика). Когда я хочу отдохнуть, я сажусь и любуюсь ими во всей красе. Я наслаждаюсь яркими красками, которых так не хватает в окружающем нас мире. Я просто смотрю на них в тишине, и больше ничего не надо. Мои произведения искусства! ::Улыбка озаряет её лицо на короткое мгновение.::<end>
+
+=>q50_original
+You should try it! Get yourself a plant if you can, water it, watch it grow and blossom. Trust me, there is something... magical about it. It's, it's hard to explain.<end>
+
+=>q50
+Вы тоже должны попробовать! Заведите себе растение, если можете, поливайте его, смотрите, как оно растёт и цветёт. Поверьте мне, есть в этом что-то... волшебное. Это... это сложно объяснить.<end>
+
+=>a51_original
+Do you know anything about those mine creatures?<end>
+
+=>a51
+Вы знаете что-нибудь о существах в шахте?<end>
+
+=>q52_original
+Uh, well, the Foundry Guard is on high alert right now because of those things. Apparently, miners came in contact with some unknown species of violent creatures, and for safety reasons the mine has been temporarily closed.<end>
+
+=>q52
+Э-э, ну, Стража Литейной сейчас приведена в состояние повышенной готовности из-за них. Рассказывают, что шахтёры наткнулись на каких-то неизвестных и очень агрессивных созданий, и, из соображений безопасности, шахта была временно закрыта.<end>
+
+=>q53_original
+My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and even though we now know some of them were performed by Evelyn Ingram, still... some creatures might be finding their way in. Eyes open, got it? <end>
+
+=>q53
+Мой вам совет, $(#амиго/чика): не приближайтесь к шахте и старайтесь находиться вблизи вооружённого персонала, пока ситуация не разрешится. Имеются сообщения о жестоких убийствах в жилом районе, и, хотя теперь мы знаем, что часть из них были совершены Эвелин Ингрэм, всё же... несколько тварей могли пробраться внутрь. Будьте начеку, понимаете?<end>
+
+=>q54_original
+My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and the creatures could be responsible. Eyes open, got it? <end>
+
+=>q54
+Мой вам совет, $(#амиго/чика): не приближайтесь к шахте и старайтесь находиться вблизи вооружённого персонала, пока ситуация не разрешится. Имеются сообщения о жестоких убийствах в жилом районе, и в них могут быть виноваты эти твари. Будьте начеку, понимаете?<end>
+
+=>a55_original
+How do you feel now that the mine has been reopened?<end>
+
+=>a55
+Как дела теперь, когда шахта вновь открылась?<end>
+
+=>q56_original
+Foundry is back on its feet, alive and kicking. We got rid of the Beast, with your help of course, $(#amigo/chica). ::She laughs.::<end>
+
+=>q56
+Литейная вновь встала на ноги, жива и здорова. Мы избавились от Зверя -- с вашей помощью, конечно, $(#амиго/чика). ::Она смеётся.::<end>
+
+=>q57_original
+We still have to deal with the pollution and an increase in violent crimes, though. It's one step at a time, I suppose.<end>
+
+=>q57
+Нам также приходится решать проблему загрязнения и роста насильственных преступлений. Шаг за шагом, как говорится.<end>
+
+=>a58_original
+Tell me about the prison.<end>
+
+=>a58
+Расскажите мне об тюрьме?<end>
+
+=>q59_original
+This prison is so secure no one's ever managed to escape from here. No one even tried, everyone knows how any such attempts will end. Well, there was a riot several years ago, unsuccessful, of course, but other than that, nothing.<end>
+
+=>q59
+Эта тюрьма настолько хорошо охраняется, что никому никогда не удавалось бежать отсюда. Никто даже и не пытался, все знают, как такое закончится. У нас был бунт несколько лет назад, неудачный, конечно, но больше ничего.<end>
+
+=>q60_original
+Foundry prides itself with being a station of justice; all prisoners go through fair trial, something which is rarely performed nowadays, $(#amigo/chica). Usually it's "You seem guilty... BOOM! Next please." Sad but true.
+
+Those who end up here usually do community service, which includes mining and other types of work.<end>
+
+=>q60
+Литейная гордится справедливостью правосудия; всем заключённым гарантировано честное судебное разбирательство, что редкость в наше время, $(#амиго/чика). Обычно бывает так: «Ты выглядишь виноватым... БУМ! Следующий!» Печально, но факт.
+
+Те, кто оказывается здесь, как правило, искупают вину на общественных работах, в том числе и в шахте.<end>
+
+=>a61_original
+Can you tell me more about the community service?<end>
+
+=>a61
+Расскажите поподробнее об общественных работах.<end>
+
+=>q62_original
+Sure I can, $(#amigo/chica). All prisoners are required to perform community service jobs. Since Foundry revolves around mining, all who are physically capable of such work are sent to the mine. It's like a regular job, only you get paid less... actually you don't get paid at all. Those who are not able to work inside the mine, we find something for them. It all depends on their previous skills, physical fitness and other factors.
+
+All is well, we never have problems with prisoners outside of the prison. They know they couldn't outsmart and escape the Foundry Guard anyway, so no one even bothered trying.<end>
+
+=>q62
+Конечно, расскажу, $(#амиго/чика). Все заключённые обязаны выполнять общественно полезную работу. Поскольку Литейная -- это горнодобывающая станция, все, кто физически пригоден, отправляются в шахту. Это как обычная работа, только платят меньше... на самом деле, не платят вовсе. Для тех, кто не способен работать в шахте, мы находим что-то другое. Всё зависит от их навыков, физической формы и других факторов.
+
+Всё налажено, и у нас ни разу не возникло проблем с заключёнными за пределами тюрьмы. Они знают, что всё равно не смогут перехитрить и сбежать от Стражи Литейной, так никто даже не пытается.<end>
+
+=>a63_original
+I wanted to ask you something else.<end>
+
+=>a63
+Я хотел$(#/а) спросить ещё кое о чём.<end>
+
+=>q64_original
+You are free to ask.<end>
+
+=>q64
+Вы можете спрашивать.<end>
+
+=>a65_original
+::[Persuade]:: I need full access to your surveillance room. I was sent here by Chief Banner himself.<end>
+
+=>a65
+::[Убеждение]:: Мне нужен доступ к вашей комнате видеонаблюдения. Меня прислал шеф Баннер.<end>
+
+=>q66_original
+::Her reply is preceded by a puzzled look.:: Excuse me? I was never informed of this. Care to explain?<end>
+
+=>q66
+::Она бросает на вас недоумевающий взгляд.:: Прошу прощения? Меня не проинформировали об этом. Потрудитесь объяснить.<end>
+
+=>a67_original
+I can't reveal the details, but since it came from the chief himself, do know that it is of utmost importance.<end>
+
+=>a67
+Я не могу сообщить вам подробности, но приказ исходит лично от шефа, и это очень важно.<end>
+
+=>q68_original
+Okay. I understand. For an outsider, you have performed some great work for us, so I shouldn't have any reason to doubt you. All is well - you are free to conduct your investigation. If you need access to the main console, you are only allowed to review camera recordings - you are not allowed access to any of the other options.<end>
+
+=>q68
+Хорошо. Я понимаю. Для чужака, вы отлично поработали на благо Литейной, поэтому у меня нет причин сомневаться в вас. Всё в порядке, вы можете проводить своё расследование. Если вам нужен доступ к основной консоли, вам разрешено только просматривать записи с камер, но вам не разрешён доступ к другим функциям.<end>
+
+=>q69_original
+I'm sorry, but I'm going to have to speak to Chief Banner as soon as I see him. I know you've already cooperated with and helped the Foundry Guard, for which we are all thankful, but I'm saying no to your request. For now - until I speak to the chief.<end>
+
+=>q69
+Простите, но мне нужно сперва поговорить с Шефом Баннером. Я знаю, что вы хорошо послужили Литейной, за что мы все благодарны, но я вынуждена отклонить вашу просьбу. По крайней мере, пока я не поговорю с шефом.<end>
+
+=>a70_original
+Something suspicious is happening within the Foundry Guard. Chief tasked me to conduct the whole investigation in secrecy, so I can't reveal too much information.<end>
+
+=>a70
+Что-то подозрительное творится в Страже Литейной. Шеф поручил мне провести всё расследование в тайне, поэтому я не могу раскрывать определённую информацию.<end>
+
+=>a71_original
+Goodbye.<end>
+
+=>a71
+До свидания.<end>
+
+=>q72_original
+Good day, $(#sir/ma'am). My name's Delma Ward and I'm the warden of Foundry prison. Who might you be?<end>
+
+=>q72
+Добрый день, $(#сэр/мэм). Меня зовут Дельма Уорд, и я начальник тюрьмы Литейной. А вы?..<end>
+
+=>a73_original
+I'm $(context.player.Name). It is a pleasure to meet you.<end>
+
+=>a73
+Меня зовут $(context.player.Name). Приятно познакомиться.<end>
+
+=>q74_original
+Well, $(context.player.Name), what can I do to help you?<end>
+
+=>q74
+Итак, $(context.player.Name), чем я могу помочь вам?<end>
+
+=>a75_original
+That's none of your business, woman.<end>
+
+=>a75
+Это не твоё дело, женщина.<end>
+
+=>q76_original
+::She frowns.:: You're in my prison, $(#amigo/chica). If I ask for your name, you better give me a proper answer instead of a smartass remark. Let's do this again... shall we? 
+
+Who are you?<end>
+
+=>q76
+::Она хмурится.:: Вы в моей тюрьме, $(#амиго/чика). Если я задаю вопрос, то ожидаю услышать прямой ответ, а не хитрожопую отговорку. Давайте попробуем ещё раз. 
+
+Кто вы?<end>
+
+=>a77_original
+Um, I'm very sorry for my behaviour. It's been a rough day and I don't know what came over me to reply like that. I'm $(context.player.Name).<end>
+
+=>a77
+Э-э, приношу извинения за моё поведение. У меня был тяжёлый день, и я не знаю, что на меня нашло. Меня зовут $(context.player.Name).<end>
+
+=>q78_original
+All is well, the recent events have had us all on the edge. Just don't let it happen again. What can I do to help you?<end>
+
+=>q78
+Ничего страшного, в свете последних событий все мы несколько напряжены. Просто постарайтесь больше не срываться. Теперь, чем я могу помочь вам?<end>
+
+=>a79_original
+Go to hell, woman. I'm not telling you my name!<end>
+
+=>a79
+Да пошла ты, я не скажу тебе своего имени!<end>
+
+=>q80_original
+You're very lucky this is a civilized station; if you had said that somewhere else, you'd probably had gotten a bullet through your barren skull. 
+
+We're done here. Get out of my office or else you'll get yourself into real trouble.<end>
+
+=>q80
+Вам очень повезло, что здесь цивилизованная станция; если бы вы сказали такое где-то ещё, то скорее всего, получили бы пулю в свой пустой череп. 
+
+Этот разговор окончен. Убирайтесь из моего кабинета, иначе я обещаю вам крупные неприятности.<end>
+
+=>q81_original
+$(#Amigo/Chica), good to see you.<end>
+
+=>q81
+Рада вас видеть, $(#амиго/чика).<end>
+
+=>q82_original
+Yes? What can I do to help you?<end>
+
+=>q82
+Да? Что я могу для вас сделать?<end>
+

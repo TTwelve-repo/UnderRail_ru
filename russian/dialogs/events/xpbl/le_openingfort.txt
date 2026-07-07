@@ -1,0 +1,514 @@
+﻿=>q1_original
+::The three familiar yet vastly different faces await your approach: Professor Oldfield greets you with a jubilant grin, Chief Briggs with a nod and his usual countenance, whereas Seeger simply registers your presence before his eyes return to their anxious wandering around.::<end>
+
+=>q1
+::Три знакомых, но совершенно разных лица ждут вашего приближения: Профессор Олдфилд приветствует вас радостной улыбкой, Шеф Бриггс кивком и своим обычным выражением лица, однако Сигер просто примечает ваше появление, но тут же его взгляд возвращаются к своему беспокойному рысканью.::<end>
+
+=>q2_original
+$(context.npc_xpbl_oldfield_playerName). Do you... have it? Do you have the microchip implant?<end>
+
+=>q2
+$(context.npc_xpbl_oldfield_playerName). Он... у тебя? У тебя есть микрочип-имплантат?<end>
+
+=>a3_original
+::Show them the severed arm.::<end>
+
+=>a3
+::Показать им отрубленную руку.::<end>
+
+=>q4_original
+::The image contaminates the professor's smile a bit; Seeger seems outright disgusted; Chief Briggs displays no emotion.:: <end>
+
+=>q4
+::Её вид слегка портит улыбку профессора; Сигер, кажется, испытывает откровенное отвращение; шеф Бриггс не проявляет никаких эмоций.::<end>
+
+=>q5_original
+Oh my... Excellent work. Well done. Well done!<end>
+
+=>q5
+О, мой... Отличная работа. Неплохо. Молодцы!<end>
+
+=>q6_original
+Seeger, how are we supposed to use these, again? Do we just use it with that panel or is there something else to it?<end>
+
+=>q6
+Сигер, и как нам этим пользоваться, ещё раз? Нам просто приложить его к этой панели или нужно что-то ещё?<end>
+
+=>q7_original
+I think, mmmm, Professor, that one is just supposed to approach the, you know, the panel and... it'll open. ::He makes his hands into two gates and moves them apart.:: But I am not exactly sure. That's what, mmmm, what I got from the recovered data.<end>
+
+=>q7
+Я думаю, м-м-м, профессор, что его просто нужно поднести к, ну вы знаете, панели и... она откроет. ::Он складывает свои ладони в две дверцы и раздвигает их..:: Но я не совсем уверен. Это всё что, м-м-м, я узнал из восстановленных данных.<end>
+
+=>q8_original
+Are you alright, Seeger?<end>
+
+=>q8
+Ты в порядке, Сигер?<end>
+
+=>q9_original
+Mmm? Oh yes, Professor Oldfield. Yes, yes.<end>
+
+=>q9
+Ммм? О да, Профессор Олдфилд. Да-да.<end>
+
+=>q10_original
+You mentioned you wanted to scan the microchip.<end>
+
+=>q10
+Вы упомянули, что хотите просканировать микрочип.<end>
+
+=>q11_original
+Yes... Yes. Yes!<end>
+
+=>q11
+Да... Конечно!<end>
+
+=>q12_original
+::Seeger approaches you tentatively, revulsion mounting in his expression, and produces a small square device with a hand-sized display attached to a straight plastic handle; it does not appear to have anything but a single button on its right side. Seeger presses it, points the device at the disembodied arm and stares at the screen, swiping and tapping it constantly. The bright light reflecting off his face gives him the appearance of a proper pale corpse; you wonder whether it is actually the light that is responsible or his detestation for the piece of an actual corpse you are holding.::<end>
+
+=>q12
+::Сигер осторожно приближается к вам, на его лице растёт отвращение, он достаёт маленькое квадратное устройство с дисплеем размером с ладонь, прикреплённым к прямой пластиковой ручке; похоже, на нём нет ничего, кроме одной кнопки с правой стороны. Сигер нажимает на неё, направляет устройство на бесплотную руку и смотрит на экран, постоянно проводя пальцем и постукивая по нему. Яркий свет, отражающийся от его лица, придаёт ему вид настоящего бледного трупа; вы задаётесь вопросом, виноват ли в этом свет или его отвращение к куску настоящего трупа, который вы держите в руках.::<end>
+
+=>q13_original
+I'm getting... something. A signal... pulsing... Yes, it's repeating every few seconds.<end>
+
+=>q13
+Я получаю... нечто. Сигнал... пульсацию... Да, он повторяется каждые несколько секунд.<end>
+
+=>q14_original
+$(context.player.Name), how about you try opening the gate with... *that*. I'll be next to you with the device and try to see if I can, mmmm... catch any changes in the signal. <end>
+
+=>q14
+$(context.player.Name), как насчёт того, чтобы попробовать открыть ворота с помощью... *этого*. Я буду рядом с тобой с этим устройством и попробую посмотреть, смогу ли я, м-м-м... уловить какие-нибудь изменения в сигнале.<end>
+
+=>q15_original
+Sec-troopers, get in position.<end>
+
+=>q15
+Охранники, занять позицию.<end>
+
+=>q16_original
+You two. Be on your guard.<end>
+
+=>q16
+Вы двое. Будьте начеку.<end>
+
+=>a17_original
+Uh... Was I supposed to bring it here? I thought...<end>
+
+=>a17
+А... Я долж$(#ен/на) был$(#/а) принести его сюда? Я думал$(#/а)...<end>
+
+=>q18_original
+Wh-- But of course - where else? My goodness! 
+
+Well, what are you waiting for? Go get it. Get it. We don't have time to waste.<end>
+
+=>q18
+Чт... Ну, конечно - куда же ещё? Боже мой!
+
+Ну, чего же ты ждёшь? Иди и возьми его. Возьми. Не трать время впустую.<end>
+
+=>a19_original
+Yes, sir. Sorry about that. I'll go fetch it straight away.<end>
+
+=>a19
+Да сэр. Мне жаль. Я сейчас же схожу за ним.<end>
+
+=>a20_original
+::Say nothing and leave.::<end>
+
+=>a20
+::Молча уйти.::<end>
+
+=>q21_original
+Did you bring the implant?<end>
+
+=>q21
+Ты прин$(#ёс/есла) имплантат?<end>
+
+=>a22_original
+Yeah, uh, I'll be right back.<end>
+
+=>a22
+Да, я сейчас вернусь.<end>
+
+=>q23_original
+At last...<end>
+
+=>q23
+Наконец-то...<end>
+
+=>a24_original
+It's... rather unimpressive.<end>
+
+=>a24
+Не впечатляет.<end>
+
+=>q25_original
+What we are really looking for has to be... down. ::He inspects the elevator.:: It appears to be locked as well.<end>
+
+=>q25
+То, что мы ищем, должно быть... внизу. ::Он осматривает лифт.:: Похоже, он заблокирован.<end>
+
+=>q26_original
+Mind if I try this time?<end>
+
+=>q26
+Не возражаете, если я попробую сейчас?<end>
+
+=>q27_original
+Go ahead.<end>
+
+=>q27
+Давай.<end>
+
+=>a28_original
+::Wait.::<end>
+
+=>a28
+::Ждать.::<end>
+
+=>a29_original
+Cool.<end>
+
+=>a29
+Круто.<end>
+
+=>a30_original
+I went through all that trouble for this?<end>
+
+=>a30
+Я преодолел$(#/а) все эти трудности ради этого?<end>
+
+=>a31_original
+Not much here.<end>
+
+=>a31
+Не так уж и много.<end>
+
+=>a32_original
+Let's head through that elevator.<end>
+
+=>a32
+Давайте поедем на этом лифте.<end>
+
+=>q33_original
+Yes. <end>
+
+=>q33
+Да.<end>
+
+=>q34_original
+::Fifteen to twenty minutes have passed before the team reports that the area has been secured and that the air is safe to breathe. The four of you step into the elevator and descend to the floor below. The elevator doors open and the room greets you with air that is thick and reeking of decay; this odor reminds you of the room you found Phil's body in, only here it is much stronger.::<end>
+
+=>q34
+::Проходит пятнадцать-двадцать минут, прежде чем группа докладывает, что территория безопасна, а воздух пригоден для дыхания. Вчетвером вы заходите в лифт и спускаетесь на этаж ниже. Двери лифта распахиваются и перед вами открывается комната со спёртым воздухом, наполненная запахом гниения; этот запах напоминает вам комнату, в которой вы обнаружили тело Фила, только здесь он намного сильнее.::<end>
+
+=>q35_original
+Oh, the... ::Seeger puts on his gas mask, not only to make it easier on his nostrils but also to narrow and partially obscure the dreadful image before him, it seems. The professor plugs his nose and even the chief seems to show some reaction to the malodorousness.::<end>
+
+=>q35
+Ох, это... ::Сигер надевает противогаз не только для того, чтобы легче было дышать, но и для того, чтобы частично скрыть ужасную картину, которая предстала перед ним. Профессор затыкает нос, и даже шеф, кажется, выказывает некоторую реакцию на зловоние.::<end>
+
+=>q36_original
+Area is clear, sir. No signs of life. We haven't noticed any latent security systems either.<end>
+
+=>q36
+Всё чисто, сэр. Никаких признаков жизни. Мы также не заметили никаких скрытых систем безопасности.<end>
+
+=>q37_original
+These men... they were NFT soldiers.<end>
+
+=>q37
+Эти люди... были солдатами ТНГ.<end>
+
+=>q38_original
+Appears so, sir. From the evidence we've found so far, the majority of the soldiers killed each other. Those who remained standing committed suicide.<end>
+
+=>q38
+Похоже на то, сэр. Судя по тому, что мы обнаружили до сих пор, большинство солдат убили друг друга. А те, кто остались, покончили с собой.<end>
+
+=>q39_original
+::Seeger reluctantly approaches one of the dead soldiers with his device; two hollow eye sockets gaze at him from the ground, for he is probably the first man to approach them in centuries. He outstretches his arm and scans a rotten hand on the ground while trying to keep the rest of his body as far back as possible. From this angle you are able to see what is on the device's screen, and the screen displays one flat line.::<end>
+
+=>q39
+::Сигер неохотно приближается к одному из мёртвых солдат со своим устройством; две пустые глазницы смотрят на него снизу, вероятно, это первый человек, который приблизился к ним за многие столетия. Он вытягивает свою руку и осматривает гнилую ладонь, лежащую на земле, стараясь держать остальную часть своего тела как можно дальше. С этого угла вы можете видеть, что находится на экране устройства, и на экране отображается одна плоская линия.::<end>
+
+=>q40_original
+This one's dead. I mean... the implant. No signal.<end>
+
+=>q40
+Этот мёртв. Я имею в виду... имплантат. Нет сигнала.<end>
+
+=>q41_original
+They killed each other? My goodness...<end>
+
+=>q41
+Они перебили друг друга? Боже мой...<end>
+
+=>q42_original
+The barricades and positioning indicate that they were in a defensive position, most likely lying in wait for Biocorp forces to come out of the elevator. Now... all of the bodies we've inspected have unnatural, distorted bone structure...<end>
+
+=>q42
+Баррикады и их расположение указывают на то, что они занимали оборонительную позицию, скорее всего, ожидая выхода сил Биокорп из лифта. А сейчас... все проверенные нами тела имеют неестественную, деформированную структуру костей...<end>
+
+=>q43_original
+Mutagen.<end>
+
+=>q43
+Мутаген.<end>
+
+=>q44_original
+That would also explain the friendly fire and the suicides.<end>
+
+=>q44
+Это также объясняет огонь по своим и самоубийства.<end>
+
+=>q45_original
+::Seeger flinches and looks at the sec-trooper, then the chief.::<end>
+
+=>q45
+::Сигер вздрагивает и смотрит сначала на охранника, затем на шефа.::<end>
+
+=>q46_original
+The air is free from harmful particles; we've performed all necessary scans. I would advise against touching the bodies before Doc Savage inspects them, though.<end>
+
+=>q46
+В воздухе нет опасных частиц, мы провели все необходимые проверки. Но я бы не советовал трогать тела до того, как доктор Дикий их осмотрит.<end>
+
+=>q47_original
+Are there any other exits from the area?<end>
+
+=>q47
+Есть ли другие выходы из этого района?<end>
+
+=>q48_original
+Yes, sir. There is a gate leading east. The signs say it leads to shelters and evacuation tunnels.<end>
+
+=>q48
+Да, сэр. Есть проход, ведущий на восток. Судя по указателям, он ведёт к убежищам и эвакуационным туннелям.<end>
+
+=>q49_original
+Take us to it.<end>
+
+=>q49
+Отведи нас туда.<end>
+
+=>a50_original
+::Follow the sec-troopers.::<end>
+
+=>a50
+::Проследовать за спец-охранниками.::<end>
+
+=>q51_original
+So this is it... Amazing!<end>
+
+=>q51
+Ну, вот и всё... Потрясающе!<end>
+
+=>q52_original
+Professor, for security reasons I will have to confine you to this area for now. There seems to be enough material here for your staff to work with. We'll keep this gate sealed until Recovery Team Alfa returns and I have more spare men to send to investigate these evacuation tunnels; we need to keep our defenses tight in case the natives launch another attack.<end>
+
+=>q52
+Профессор, по соображениям безопасности мне придётся ненадолго ограничить вас этим районом. Кажется, здесь достаточно материала для работы ваших сотрудников. Мы будем держать ворота закрытыми до тех пор, пока не вернётся поисковая команда Альфа, тогда я смог бы выделить людей для обследования этих эвакуационных туннелей; мы будем держать глухую оборону на случай, если туземцы предпримут новую атаку.<end>
+
+=>q53_original
+No signal here either. What gives? ::Interjects Seeger, or would if anyone paid any attention to him.::<end>
+
+=>q53
+Здесь тоже нет сигнала. Какого чёрта? ::Вмешался Сигер, иначе никто бы не обратил на него внимание.::<end>
+
+=>q54_original
+I will leave several sec-troopers to guard you at all times.<end>
+
+=>q54
+Я оставлю несколько спец-охранников для вашей защиты.<end>
+
+=>q55_original
+I understand, Chief, I understand. Whatever you say must be done. ::He smiles again as his eyes are peering into the rooms around him.:: But finally, finally we are inside. I can't believe it... All this effort might *actually* pay off.<end>
+
+=>q55
+Я понимаю, шеф, понимаю. Всё, что вы скажете. ::Он снова улыбается, вглядываясь в окружающие комнаты.:: Но наконец-то, наконец-то мы внутри. Я не могу в это поверить... Все наши труды *действительно* могут окупиться.<end>
+
+=>q56_original
+Nope. Nothing here either. Xit! ::Scratches his head.::<end>
+
+=>q56
+Нет. Здесь тоже ничего нет. Фак! ::Почёсывает голову.::<end>
+
+=>a57_original
+What about me, Chief?<end>
+
+=>a57
+А как же я, Шеф?<end>
+
+=>q58_original
+::He looks at the professor, then back at you. Even though by now you don't expect to read anything on his face, there is a hint there that he is pleased with what you've done. Or it might just be the lighting.::<end>
+
+=>q58
+::Он смотрит на профессора, потом снова на вас. Но даже если вы и не ожидали ничего прочесть на его лице, кажется он доволен проделанной вами работой. Или может это просто игра света.::<end>
+
+=>q59_original
+Speak to Marcus about your paycheck. We will leave the professor and his staff to their work. I will grant you some rest if you are feeling tired; you've earned it, after all. If you are up for more work, however, there are a few things that need to be done around the camp to solidify our defenses.<end>
+
+=>q59
+Поговори с Маркусом о своей зарплате. Мы оставим профессора и его сотрудников наедине с их работой. Я дам тебе немного времени на отдых, если ты устал$(#/а); в конце концов, ты заслужил$(#/а) это. Однако, если ты готов$(#/а) к дополнительной работе, есть пара дел, которые необходимо сделать возле лагеря, чтобы укрепить нашу оборону.<end>
+
+=>a60_original
+As a matter of fact, I think I could use some rest.<end>
+
+=>a60
+По правде говоря, мне не помешало бы немного отдохнуть.<end>
+
+=>q61_original
+Very well. In case you've forgotten, it's the large tent just south of the professor's. Go and get some rest. Once you're awake, though, <end>
+
+=>q61
+Так и есть. На случай, если ты забыл$(#/а), это большая палатка, которая стоит к югу от дома профессора. Иди и отдохни немного. Но как только ты проснёшься,<end>
+
+=>q62_original
+speak to Marcus about those camp defenses I mentioned.<end>
+
+=>q62
+поговори с Маркусом об обороне лагеря, я упоминал об этом.<end>
+
+=>q63_original
+'Kay. This one shot himself... *three* times in the head... 
+
+He didn't... 
+
+...couldn't kill himself with the first two bullets. ::He turns off his device and faces you; you were right - without his device's illumination, he is as pale as a corpse.::<end>
+
+=>q63
+Окей. А этот застрелился сам... *три* раза в голову...
+
+Но он не смог...
+
+...не смог убить себя первыми двумя пулями. ::Он выключает своё устройство и смотрит на вас; Вы были правы - он и без освещения своего устройства бледен, как труп.::<end>
+
+=>q64_original
+I will be in my tent if I am needed.<end>
+
+=>q64
+Я буду в своей палатке, если понадоблюсь.<end>
+
+=>a65_original
+::End Dialog::<end>
+
+=>a65
+::Конец диалога::<end>
+
+=>a66_original
+I'm good, sir. What do you need me to do?<end>
+
+=>a66
+Я в порядке, сэр. Чем я могу быть полезен$(#/а)?<end>
+
+=>q67_original
+Marcus will brief you about that.<end>
+
+=>q67
+Маркус расскажет тебе об этом.<end>
+
+=>a68_original
+What I need, sir, is to make short trips outside the Black Sea, and someone who can quickly drive me back and forth?<end>
+
+=>a68
+Что мне нужно, сэр, так это сделать небольшую вылазку за пределы Чёрного моря, и кто-то, кто сможет быстро доставлять меня туда и обратно?<end>
+
+=>q69_original
+Why do you need to leave the Black Sea?<end>
+
+=>q69
+Зачем тебе нужно покинуть Чёрное море?<end>
+
+=>a70_original
+I need some things I can't obtain here, and I can't do it all by myself. You do want me to open these facilities for you, right?<end>
+
+=>a70
+Мне нужно кое-что, чего я не могу достать здесь, и я не могу сделать всё самостоятельно. Вы ведь хотите, чтобы я открыл$(#/а) эти объекты для вас, верно?<end>
+
+=>q71_original
+That I do. <end>
+
+=>q71
+Что я и делаю.<end>
+
+=>q72_original
+But it can't be done. I've very few sec-troopers left. I already had to pull all our jet skiers back to defend the camp. 
+
+You're either going to have to make due with what you have here, or make the trips yourself.<end>
+
+=>q72
+Но это невозможно. У меня осталось слишком мало охранников. Мне пришлось отвести всех наших гидроциклистов назад для защиты лагеря.
+
+Вам придётся сделать это с тем, что у вас есть, либо совершить экспедицию самостоятельно.<end>
+
+=>q73_original
+Very well. I'll allow it. A jet skier will be waiting for you at the docks. Do what you need to do, and make it quick.<end>
+
+=>q73
+Хорошо. Я позволяю. Гидроцикл будет ждать вас в доках. Делайте то, что считаете нужным, только быстро.<end>
+
+=>a74_original
+I'm good, sir.<end>
+
+=>a74
+Я в порядке, сэр.<end>
+
+=>a75_original
+As one of my commanding officers used to say, "No rest for the wicked." What do you need me to do?<end>
+
+=>a75
+Как говаривал один из моих командиров: "Покой нам только снится." Чем я могу быть полезен$(#/а)?<end>
+
+=>a76_original
+Rest is for the wimps. Gimme work.<end>
+
+=>a76
+Отдых для слабаков. Дайте мне работу.<end>
+
+=>q77_original
+<end>
+
+=>q77
+<end>
+
+=>a78_original
+I volunteer to search those evacuation tunnels.<end>
+
+=>a78
+Я вызвал$(#ся/ась) обыскать эти эвакуационные туннели.<end>
+
+=>q79_original
+Noted. But the time is not right yet. <end>
+
+=>q79
+Приму к сведению. Но время ещё не пришло.<end>
+
+=>a80_original
+So this is how a pay raise looks like...<end>
+
+=>a80
+Так вот как выглядит повышение зарплаты...<end>
+
+=>q81_original
+Is there a problem?<end>
+
+=>q81
+Какая-то проблема?<end>
+
+=>q82_original
+Open the gate.<end>
+
+=>q82
+Откройте ворота.<end>
+
+=>q83_original
+I'm ready, $(context.player.Name).<end>
+
+=>q83
+Я готов, $(context.player.Name).<end>
+

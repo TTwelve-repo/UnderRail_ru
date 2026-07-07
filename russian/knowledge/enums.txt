@@ -1,0 +1,458 @@
+﻿::MainMenuTheme.Default
+По умолчанию
+
+::MainMenuTheme.Original
+Оригинальная игра
+
+::MainMenuTheme.Expedition
+Экспедиция
+
+::MainMenuTheme.HeavyDuty
+Тяжелый режим
+
+::UiSize.Auto
+Авто
+
+::UiSize.Classic
+Классика
+
+::UiSize.Small
+Мелкий
+
+::UiSize.Large
+Крупный
+
+::UiSize.Huge
+Огромный
+
+::InterfaceElementSize2.Auto
+Авто
+
+::InterfaceElementSize2.Small
+Мелкий
+
+::InterfaceElementSize2.Large
+Крупный
+
+::InterfaceElementSize2.ExtraLarge
+Сверхкрупный
+
+::InterfaceElementSize2.Huge
+Огромный
+
+::AutoSelectOption.Never
+Никогда
+
+::AutoSelectOption.NoneSelected
+Если не выбрана
+
+::AutoSelectOption.Always
+Всегда
+
+::OutlinesOption.Never
+Никогда
+
+::OutlinesOption.HighlightsOnly
+Только при подсветке
+
+::OutlinesOption.AlwaysInCombat
+Всегда в бою
+
+::ScrollingCombatTextOptions.Mandatory
+Обязательные
+
+::ScrollingCombatTextOptions.Damage
+Урон
+
+::ScrollingCombatTextOptions.PeriodicDamage
+Период. урон
+
+::ScrollingCombatTextOptions.Healing
+Лечение
+
+::ScrollingCombatTextOptions.ShieldGain
+Восст. щита
+
+::ScrollingCombatTextOptions.ShieldLoss
+Потеря щита
+
+::ScrollingCombatTextOptions.PsiGain
+Восст. пси
+
+::ScrollingCombatTextOptions.PsiLoss
+Потеря пси
+
+::ScrollingCombatTextOptions.Buffs
+Полож. эфф.
+
+::ScrollingCombatTextOptions.Debuffs
+Отриц. эфф.
+
+::ScrollingCombatTextOptions.ResistsSImmunities
+Сопрот./иммун.
+
+::ScrollingCombatTextOptions.ApCarryover
+Перенос ОД
+
+::ScrollingCombatTextOptions.SpecialActions
+Спец. действия
+
+::ScrollingCombatTextOptions.Initiative
+Инициатива
+
+::ScrollingCombatTextOptions.All
+Все
+
+::Hotkey.HelpScreen
+Экран помощи
+
+::Hotkey.QuickSave
+Быстрое сохранение
+
+::Hotkey.QuickLoad
+Быстрая загрузка
+
+::Hotkey.ToggleHUD
+Выключить/включить интерфейс
+
+::Hotkey.ActionButton1
+Кнопка панели 1
+
+::Hotkey.ActionButton2
+Кнопка панели 2
+
+::Hotkey.ActionButton3
+Кнопка панели 3
+
+::Hotkey.ActionButton4
+Кнопка панели 4
+
+::Hotkey.ActionButton5
+Кнопка панели 5
+
+::Hotkey.ActionButton6
+Кнопка панели 6
+
+::Hotkey.ActionButton7
+Кнопка панели 7
+
+::Hotkey.ActionButton8
+Кнопка панели 8
+
+::Hotkey.ActionButton9
+Кнопка панели 9
+
+::Hotkey.QuickButton1
+Кнопка пояса 1
+
+::Hotkey.QuickButton2
+Кнопка пояса 2
+
+::Hotkey.QuickButton3
+Кнопка пояса 3
+
+::Hotkey.QuickButton4
+Кнопка пояса 4
+
+::Hotkey.QuickButton5
+Кнопка пояса 5
+
+::Hotkey.QuickButton6
+Кнопка пояса 6
+
+::Hotkey.SwapWeapon
+Сменить руку
+
+::Hotkey.ReloadCurrentWeapon
+Перезарядить текущее оружие
+
+::Hotkey.ToggleShield
+Включить/выключить щит
+
+::Hotkey.RechargeShield
+Зарядить щит
+
+::Hotkey.EndTurn
+Конец хода
+
+::Hotkey.EndCombat
+Конец боя
+
+::Hotkey.SpeedUp
+Быстрее
+
+::Hotkey.SlowDown
+Медленнее
+
+::Hotkey.Highlight
+Подсветка
+
+::Hotkey.ReverseHighlight
+Перевернутая подсветка
+
+::Hotkey.ToggleFollowPlayer
+Камере следовать за игроком
+
+::Hotkey.QuickInvoker
+Окно быстрого вызова
+
+::Hotkey.CombatStatsOverview
+Окно боевых параметров
+
+::Hotkey.CharacterSheet
+Лист персонажа
+
+::Hotkey.CraftingWindow
+Окно создания предметов
+
+::Hotkey.Inventory
+Инвентарь
+
+::Hotkey.Notes
+Заметки
+
+::Hotkey.OdditiesWindow
+Список диковинок
+
+::Hotkey.VehicleWindow
+Окно транспортного средства
+
+::Hotkey.GlobalMapWindow
+Окно карты мира
+
+::Hotkey.Psi
+Окно псионики
+
+::Hotkey.TakeAll
+Взять всё
+
+::Hotkey.ScrollUp
+Прокрутка вверх
+
+::Hotkey.ScrollDown
+Прокрутка вниз
+
+::Hotkey.ScrollLeft
+Прокрутка влево
+
+::Hotkey.ScrollRight
+Прокрутка вправо
+
+::BaseAbilityEnum.Strength
+Сила
+
+::BaseAbilityEnum.Dexterity
+Ловкость
+
+::BaseAbilityEnum.Agility
+Подвижность
+
+::BaseAbilityEnum.Constitution
+Телосложение
+
+::BaseAbilityEnum.Perception
+Восприятие
+
+::BaseAbilityEnum.Will
+Воля
+
+::BaseAbilityEnum.Intelligence
+Интеллект
+
+::SkillEnum.Guns
+Стрельба
+
+::SkillEnum.Throwing
+Метание
+
+::SkillEnum.Crossbows
+Арбалеты
+
+::SkillEnum.Melee
+Ближний бой
+
+::SkillEnum.HeavyGuns
+Тяжелое оружие
+
+::SkillEnum.Heavy Guns
+Тяжелое оружие
+
+::SkillEnum.Dodge
+Уклонение
+
+::SkillEnum.Evasion
+Уворот
+
+::SkillEnum.Stealth
+Скрытность
+
+::SkillEnum.Hacking
+Хакерство
+
+::SkillEnum.Lockpicking
+Взлом замков
+
+::SkillEnum.Pickpocketing
+Карманная кража
+
+::SkillEnum.Traps
+Ловушки
+
+::SkillEnum.Mechanics
+Механика
+
+::SkillEnum.Electronics
+Электроника
+
+::SkillEnum.Chemistry
+Химия
+
+::SkillEnum.Biology
+Биология
+
+::SkillEnum.Tailoring
+Шитье
+
+::SkillEnum.ThoughtControl
+Управление разумом
+
+::SkillEnum.Thought Control
+Управление разумом
+
+::SkillEnum.Psychokinesis
+Психокинез
+
+::SkillEnum.Metathermics
+Метатермика
+
+::SkillEnum.TemporalManipulation
+Управление временем
+
+::SkillEnum.Temporal Manipulation
+Управление временем
+
+::SkillEnum.Persuasion
+Убеждение
+
+::SkillEnum.Intimidation
+Запугивание
+
+::SkillEnum.Mercantile
+Торговля
+
+::SkillCategory.Offense
+Нападение
+
+::SkillCategory.Defense
+Защита
+
+::SkillCategory.Subterfuge
+Уловки
+
+::SkillCategory.Technology
+Мастерство
+
+::SkillCategory.Psi
+Пси
+
+::SkillCategory.Social
+Социальные
+
+::TimelapseShader.Legacy
+Простое (старое)
+
+::TimelapseShader.Advanced
+Продвинутое
+
+::OuroborosDisplayMode.Windowed
+В окне
+
+::OuroborosDisplayMode.BorderlessWindowed
+В окне без рамок
+
+::OuroborosDisplayMode.Fullscreen
+Во весь экран
+
+::GameDifficulty.Easy
+Лёгкая
+
+::GameDifficulty.Normal
+Ветеран
+
+::GameDifficulty.Hard
+Эксперт
+
+::GameDifficulty.Dominating
+ДОМИНАЦИЯ
+
+::GameDifficulty.Custom
+Настраиваемая
+
+::DamageType.Mechanical
+Механический
+
+::DamageType.Heat
+Тепло
+
+::DamageType.Cold
+Холод
+
+::DamageType.Electricity
+Электричество
+
+::DamageType.Acid
+Кислота
+
+::DamageType.Energy
+Энергия
+
+::DamageType.Bio
+Био
+
+::ImpactSpeed.VeryLow
+Очень низкая
+
+::ImpactSpeed.Low
+Низкая
+
+::ImpactSpeed.Medium
+Средняя
+
+::ImpactSpeed.High
+Высокая
+
+::ImpactSpeed.VeryHigh
+Очень высокая
+
+::PsiSchool.PsiAbility
+Пси-способность
+
+::PsiSchool.Psionic
+Псионический
+
+::PsiSchool.ThoughtControl
+Управление разумом
+
+::PsiSchool.Thought Control
+Управление разумом
+
+::PsiSchool.Psychokinesis
+Психокинез
+
+::PsiSchool.Metathermics
+Метатермика
+
+::PsiSchool.TemporalManipulation
+Управление временем
+
+::PsiSchool.Temporal Manipulation
+Управление временем
+
+::ItemRepairCategory.Mechanical
+Механика
+
+::ItemRepairCategory.Fabric
+Ткань
+
+::ItemRepairCategory.Electronic
+Электроника

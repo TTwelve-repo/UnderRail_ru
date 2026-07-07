@@ -1,0 +1,906 @@
+﻿=>q1_original
+::You see a short, middle-aged man sitting behind the desk and ::<end>
+
+=>q1
+::Вы видите невысокого мужчину средних лет, сидящего за столом и ::<end>
+
+=>q2_original
+::gazing into an azure drink which he holds elegantly by the long, thin stem of the cocktail glass containing it. He carefully puts it ::<end>
+
+=>q2
+::смотрящего в голубой напиток в коктейльном бокале, который он элегантно держит за длинную тонкую ножку. Он аккуратно ставит его, ::<end>
+
+=>q3_original
+::down before going around the desk to shake your hand, displaying a closed-lip smile.::
+
+$(context.player.Name). I'm Mr. Edstrom, but you can call me Gunnar.
+
+::His voice is friendly and even, and he continues talking while walking back to his desk.::
+
+At last I get the chance to meet you.<end>
+
+=>q3
+::перед тем как обойти стол, и с лёгкой улыбкой пожимает вам руку.::
+
+$(context.player.Name). Меня зовут Мистер Эдстром, но вы можете звать меня Гуннар.
+
+::Его голос звучит дружелюбно и ровно. Он продолжает говорить, возвращаясь к столу.::
+
+Наконец мне выпал шанс встретиться с вами.<end>
+
+=>a4_original
+I can say the same, sir.<end>
+
+=>a4
+Я могу сказать то же самое, сэр.<end>
+
+=>q5_original
+::He smiles.:: We're all friends here. No need to call me sir. Now, I've heard all sort of things about you. You know, this is one tough business we got here, $(context.player.Name). I mean, with Arena broadcasts, betting, equipment maintenance, security, catching beasts and transporting them to the Arena... it takes a lot of management to accomplish all that, but management is nothing if you don't have the right people to actually do the job.
+
+And you, you fit that description. You've served JKK well so far, and now's the time to give you your reward.<end>
+
+=>q5
+::Он улыбается.:: Здесь все свои. И не нужно называть меня «сэр». Я многое о вас слышал. Вы знаете, как здесь тяжело вести дела, $(context.player.Name). Я имею в виду -- трансляции с Арены, ставки, ремонт оборудования, охрана, отлов зверей и транспортировка их на Арену... всему этому нужно управление. Но управление -- это ничто, если у вас нет людей, способных выполнить работу. 
+
+И вы -- вы как раз такой человек. Вы уже хорошо послужили КБР, и теперь настало время наградить вас.<end>
+
+=>q6_original
+But first, allow me to congratulate you on your success, Invictus. Know that I have been watching your matches with great delight, and that I'm sure your performance as a JKK operative is as impressive as the one in the Arena.<end>
+
+=>q6
+Но сначала позвольте мне поздравить вас с успехом, инвиктус. Знайте, я смотрел ваши матчи с большим удовольствием, и я уверен, что ваш успех в качестве оперативника КБР будет столь же впечатляющим, как на Арене.<end>
+
+=>a7_original
+Oh well, I'm just dominating.<end>
+
+=>a7
+Что тут скажешь, я просто доминирую.<end>
+
+=>q8_original
+Yes, you are. ::He smiles.:: $(context.player.Name)... I'm very glad you're here. I was looking for someone that can be trusted, that is honest and above all - a real human being. You now have full access to JKK's equipment merchant; in other words, Ola.<end>
+
+=>q8
+Да, ещё как. ::Он улыбается.:: $(context.player.Name)... я очень рад, что вы здесь. Я искал кого-то, кому можно доверять, кого-то честного и, прежде всего, настоящего человека. Теперь у вас есть полный доступ к продавцу снаряжения КБР; иными словами, Уле.<end>
+
+=>q9_original
+Also, regarding all further operations, you answer to me directly from now on. In addition to that, if you are experiencing any problems with anyone or anything within JKK, feel free to talk to me, okay? My doors are always open.<end>
+
+=>q9
+Также, касательно всех дальнейших действий, с этого момента вы подчиняетесь исключительно и непосредственно мне. В дополнение к тому, если у вас возникнут проблемы с кем-то или чем-то в пределах КБР, не стесняйтесь поговорить со мной, хорошо? Мои двери всегда открыты.<end>
+
+=>q10_original
+I already have something important for you.<end>
+
+=>q10
+У меня уже есть для вас кое-что важное.<end>
+
+=>q11_original
+Are you familiar with the name Edmund Knight, perhaps?<end>
+
+=>q11
+Возможно, вам знакомо имя Эдмунд Найт?<end>
+
+=>a12_original
+Edmund Knight?<end>
+
+=>a12
+Эдмунд Найт?<end>
+
+=>q13_original
+Edmund Knight is the son of Archibald Knight, chief of Praetorian Security. This young man was murdered recently. An Oligarch's son. 
+
+You realize the severity of this unfortunate event, I'm sure. This has not gone public yet, so before I proceed I have to ask for your discretion regarding everything you hear now.<end>
+
+=>q13
+Эдмунд Найт -- сын Арчибальда Найта, шефа Преторианской службы безопасности. Этот молодой человек недавно был убит. Сын олигарха.
+
+Уверен, вы должны понимать всю серьёзность этого печального события. О нём ещё не известно общественности, так что прежде всего я должен просить вас сохранить в тайне всё, что вы сейчас услышите.<end>
+
+=>a14_original
+You will have it, sir.<end>
+
+=>a14
+Будет сделано, сэр.<end>
+
+=>q15_original
+Good. We, the Oligarchs, have had a meeting in which we discussed what had happened, and the president of Coretech, Rupert Simmons claims that some Acid Hunters were involved in his death.<end>
+
+=>q15
+Отлично. Мы, олигархи, провели совещание, где обсудили произошедшее, и президент КорТех Руперт Симмонс считает, что в это были вовлечены некие Кислотные охотники.<end>
+
+=>a16_original
+I'm also looking for these Acid Hunters, they've caused quite a bit of trouble in quite a few places.<end>
+
+=>a16
+Я тоже ищу этих Кислотных охотников, они уже причинили немало проблем, и не только здесь.<end>
+
+=>q17_original
+Oh? Is that so? Your statement surely reinforces my opinion of them. But, even if they are troublemakers, as you mentioned, they are not the ones who killed Edmund.<end>
+
+=>q17
+О? Неужели? Ваши слова, несомненно, подтверждают моё мнение о них. Но хотя они и являются такими негодяями, как вы говорите, это не они убили Эдмунда.<end>
+
+=>q18_original
+Simmons' son, Miland, killed Edmund. And apparently, it all has to do with an item the Acid Hunters brought here. Now, Knight doesn't know this; if he found out, it would be a disaster. I'm sure of it and that is the reason I want to prevent it from happening.<end>
+
+=>q18
+Сын Симмонса, Миланд, убил Эдмунда. И видимо, это всё связано с предметом, что Кислотные охотники принесли в город. Найт об этом не знает, но, если он узнает, это будет катастрофа. Я в этом уверен, и поэтому хочу её предотвратить.<end>
+
+=>a19_original
+That item, is it perhaps an unusually shaped device with strange markings, contained in a metal box?<end>
+
+=>a19
+Этот предмет, часом, не выглядит как необычной формы устройство с непонятными символами, хранящееся в металлической коробке?<end>
+
+=>q20_original
+::He smiles.:: $(context.player.Name), you're way ahead of me. I guess these people really have a spotlight on them outside of Core City... And now also in Core City.
+
+What you say is correct: This strange device was the reason Miland killed Edmund. As far as my daughter explained, who was with them at the time, Miland was the one who ended up taking the device.<end>
+
+=>q20
+::Он улыбается.:: $(context.player.Name), вы опережаете меня. Вижу, что эти люди действительно привлекли к себе внимание за пределами Кор-Сити... а теперь и в Кор-Сити тоже.
+
+То, что вы говорите -- правда: из-за этого странного устройства Миланд убил Эдмунда. Насколько объяснила моя дочь, которая была с ними в тот момент, именно Миланд в итоге забрал устройство.<end>
+
+=>a21_original
+Can I talk to your daughter perhaps?<end>
+
+=>a21
+Я могу поговорить с вашей дочерью?<end>
+
+=>q22_original
+Oh, I'd rather not expose her to any more stress. She already told me what she knew; I don't want to trouble her anymore.<end>
+
+=>q22
+О, я бы предпочёл не подвергать её ещё большему стрессу. Она уже сказала мне, что знала; я не хочу больше её беспокоить.<end>
+
+=>a23_original
+So, where do I fit in?<end>
+
+=>a23
+И что же требуется от меня?<end>
+
+=>q24_original
+I want you to go and talk to these Acid Hunters. I want a confirmation, and possibly a further explanation as to what happened back there and what that device actually is. If Coretech acquired something powerful... we must know about it. Knowledge is power; dangerous things might happen here quite soon, and the more we know, the greater our chances to avoid them and come up on top.<end>
+
+=>q24
+Я хочу, чтобы вы пошли и поговорили с этими Кислотными охотниками. Я хочу подтверждения, и, желательно, побольше подробностей того, что же там произошло, и чем на самом деле является это устройство. Если в КорТех получили нечто могущественное... мы должны знать об этом. Знание -- сила; довольно скоро здесь могут произойти опасные события, и чем больше мы знаем, тем выше наши шансы избежать их и выйти победителями.<end>
+
+=>q25_original
+And to make your job even simpler, <end>
+
+=>q25
+И чтобы сделать вашу работу ещё проще,<end>
+
+=>q26_original
+we learned where they're hiding. <end>
+
+=>q26
+мы узнали, где они прячутся.<end>
+
+=>q27_original
+::He smiles.:: We just need you, the right $(#man/woman) for the job to go and talk to them - that is all. Only use force if it's necessary. Big things are at stake here.<end>
+
+=>q27
+::Он улыбается.:: Нам просто нужны вы, верный человек для работы, чтобы пойти и поговорить с ними, вот и всё. Используйте силу только если это необходимо. Многое стоит на кону.<end>
+
+=>a28_original
+I've already been to their hideout.<end>
+
+=>a28
+Я был$(#/а) в их убежище.<end>
+
+=>q29_original
+Ah! You delight me more and more. What did you discover?<end>
+
+=>q29
+Ах! Вы радуете меня всё больше и больше. Что удалось обнаружить?<end>
+
+=>q30_original
+<end>
+
+=>q30
+<end>
+
+=>a31_original
+The leader of Acid Hunters, Cornell, confirmed everything you said.<end>
+
+=>a31
+Главарь Кислотных охотников Корнелл подтвердил всё, что вы сказали.<end>
+
+=>q32_original
+Perfect! So, they were cooperative. Now, for the most important thing: Did they tell you what was actually the device they gave to Miland?<end>
+
+=>q32
+Отлично! Значит они были готовы к сотрудничеству. Теперь самое главное: они сказали вам, чем на самом деле было устройство, которое они дали Миланду?<end>
+
+=>a33_original
+Well, the only thing I found out is that the Faceless are after them, but other than that, they don't know anything about the device or it's origin.<end>
+
+=>a33
+Ну, единственное, что я узнал$(#/а), это то, что их ищут безликие, но кроме этого они ничего не знают об устройстве или его происхождении.<end>
+
+=>q34_original
+It confirms my suspicions! There had to be a connection between the two. But, I was hoping for something more on the device. We'll just have to proceed with a little less info.<end>
+
+=>q34
+Это подтверждает мои подозрения! Должна была быть связь между ними. Но я надеялся узнать побольше об устройстве. Нам просто придётся действовать с чуть меньшим объёмом информации.<end>
+
+=>a35_original
+Proceed with what?<end>
+
+=>a35
+Как действовать?<end>
+
+=>q36_original
+I'll forget, so let me pay you now before we proceed. ::He hands you 600 charons.::<end>
+
+=>q36
+Пока я не забыл, позвольте мне вознаградить вас сейчас, прежде чем мы продолжим. ::Он протягивает вам 600 харонов.::<end>
+
+=>q37_original
+So, this is what we know so far: The Acid Hunters revealed little, sure, but we are positive that the Faceless are here because of the device. Archibald is yet unaware who is the real murderer, and we intend to keep it that way.<end>
+
+=>q37
+Итак, вот что мы имеем на данный момент: да, Кислотные охотники рассказали немного, но мы уверены, что безликие здесь из-за устройства. Арчибальд ещё не знает, кто настоящий убийца, и мы намерены оставить это как есть.<end>
+
+=>q38_original
+He won't be an issue. The device is the real problem, though. The Faceless are here because of it, and if we don't return it to them, I fear they'll overrun us.
+
+Luckily, we have undisputable evidence of it's location. Coretech scientist were seen entering an abandoned passage in the lower level of Core City. And, upon further inspection, JKK operatives confirmed this must be where they keep this device. I want you to go there and discover as much as possible about it.<end>
+
+=>q38
+Он не будет проблемой. Устройство -- вот настоящая проблема. Безликие здесь из-за него, и, если мы не вернём его им, я боюсь, что они пересилят нас. 
+
+К счастью, у нас есть проверенная информация о его местоположении. Учёного КорТех заметили на входе в заброшенный проход на нижнем уровне Кор-Сити. И в ходе дальнейшего расследования, оперативники КБР подтвердили, что это должно быть то место, где они держат это устройство. Я хочу, чтобы вы отправились туда и разузнали как можно больше об устройстве.<end>
+
+=>q39_original
+<end>
+
+=>q39
+<end>
+
+=>a40_original
+I've already been to this research facility.<end>
+
+=>a40
+Я был$(#/а) в исследовательском центре.<end>
+
+=>q41_original
+You have? Well, do you have the device?<end>
+
+=>q41
+У вас? Устройство у вас?<end>
+
+=>q42_original
+<end>
+
+=>q42
+<end>
+
+=>a43_original
+Tchortists took the device right before me. I tried to follow them, but they managed to escape.<end>
+
+=>a43
+Чортисты захватили устройство прямо у меня на глазах. Я попытал$(#ся/ась) преследовать их, но им удалось скрыться.<end>
+
+=>q44_original
+I've been informed that all Tchortists left Core City at the same time. I found it odd, but now, considering what you just told me, it all makes sense. We neglected to factor in their presence and motives, as the Faceless are our main focus, and the Tchortists sure exploited that.<end>
+
+=>q44
+Мне сообщили, что все чортисты одновременно покинули Кор-Сити. Это показалось мне странным, но теперь, учитывая, что вы только что сказали мне, это обретает смысл. С нашей стороны было ошибкой не учесть факт их присутствия и их мотивы, пока мы сосредоточили внимание на безликих, и чортисты не замедлили воспользоваться этим.<end>
+
+=>a45_original
+Now what?<end>
+
+=>a45
+Что теперь?<end>
+
+=>q46_original
+::He makes a lengthy pause, after which he continues.:: Come to think of it, maybe this is not such a bad outcome after all. Once the Faceless realize that the device is not here - and we will help them with that - they'll go after the Tchortists. Perfect. ::He chuckles.:: As long as that wretched thing is out of Core City, I think this will end good for us.<end>
+
+=>q46
+::Он делает продолжительную паузу, после которой продолжает.:: Если подумать, быть может, это не такой уж плохой результат, в конце концов. Как только безликие узнают, что устройства здесь нет -- и мы им в этом поможем -- они погонятся за чортистами. Превосходно. ::Он хихикает.:: Чем дальше эта несчастная штуковина находится от Кор-Сити, тем лучше всё это закончится для нас.<end>
+
+=>q47_original
+We are done for now, well, almost: I've arranged something for you. Speak to Ola; he will tell you all you need to know. 
+
+After that, maybe you should go and get some rest, $(context.player.Name). Look at yourself - you definitely need it!<end>
+
+=>q47
+Мы уже закончили, ну почти: я приготовил для вас кое-что. Поговорите с Улой; он расскажет вам всё, что нужно знать. После этого, может быть, вам стоит пойти и немного отдохнуть, $(context.player.Name). Посмотрите на себя -- отдых вам не помешает!<end>
+
+=>a48_original
+I'm sorry I failed you.<end>
+
+=>a48
+Простите, что подв$(#ёл/ела) вас.<end>
+
+=>q49_original
+You haven't failed me. I know you did your best. ::He makes a lengthy pause, after which he continues.:: Come to think of it, maybe this is not such a bad outcome after all. Once the Faceless realize that the device is not here - and we will help them with that - they'll go after the Tchortists. Perfect. ::He chuckles.:: As long as that wretched thing is out of Core City, I think this will end good for us.<end>
+
+=>q49
+Вы не подвели меня. Я знаю, вы сделали всё, что могли. ::Он делает продолжительную паузу, после которой продолжает.:: Если подумать, быть может, это не такой уж плохой результат, в конце концов. Как только безликие узнают, что устройства здесь нет -- и мы им в этом поможем -- они погонятся за чортистами. Превосходно. ::Он хихикает.:: Чем дальше эта несчастная штуковина находится от Кор-Сити, тем лучше всё это закончится для нас.<end>
+
+=>a50_original
+Well, that's that.<end>
+
+=>a50
+Ну, вот и всё.<end>
+
+=>q51_original
+It sure is. ::He makes a lengthy pause, after which he continues.:: Come to think of it, maybe this is not such a bad outcome after all. Once the Faceless realize that the device is not here - and we will help them with that - they'll go after the Tchortists. Perfect. ::He chuckles.:: As long as that wretched thing is out of Core City, I think this will end good for us.<end>
+
+=>q51
+Это точно. ::Он делает продолжительную паузу, после которой продолжает.:: Если подумать, быть может, это не такой уж плохой результат, в конце концов. Как только безликие узнают, что устройства здесь нет -- и мы им в этом поможем -- они погонятся за чортистами. Превосходно. ::Он хихикает.:: Чем дальше эта несчастная штуковина находится от Кор-Сити, тем лучше всё это закончится для нас.<end>
+
+=>a52_original
+Won't this affect your relationship with Coretech?<end>
+
+=>a52
+Не повлияет ли это на ваши отношения с КорТех?<end>
+
+=>q53_original
+We've all had our fair share of conflicts, you know. We'll iron it out in the end. But if this thing is allowed to remain there, oh, we won't have to worry about our own disputes.<end>
+
+=>q53
+У нас всегда были определённые разногласия, вы же знаете. В конце концов мы все их преодолеем. Но если эта вещица останется там, где есть -- о, нам уже не придётся беспокоиться о внутренних распрях.<end>
+
+=>a54_original
+Just tell me where I need to go.<end>
+
+=>a54
+Просто скажите мне, где это.<end>
+
+=>q55_original
+Yet again, JKK operatives prove their superiority. ::He smiles.:: We acquired this keycard which can be used to unlock a door to a hidden passageway on the lower level. It's next to one of those... under-passages exits in Drop Zone. ::He gives you the keycard.::<end>
+
+=>q55
+И вновь оперативники КБР показали своё превосходство. ::Он улыбается.:: Мы достали эту ключ-карту, с помощью которой можно отпереть скрытый ход на нижнем уровне. Это рядом с одним из этих... выходов из подземных проходов в Зону провала. ::Он даёт вам ключ-карту.::<end>
+
+=>q56_original
+We don't know what lies there, so be careful and as discrete as possible. I expect nothing short of complete success from you, $(context.player.Name). Once you have the device, we'll turn it over to the Faceless; hopefully, that will be enough for them to lift the blockade.<end>
+
+=>q56
+Мы не знаем, что вас там ждёт, так что будьте осторожны и оставайтесь незаметны настолько, насколько это возможно. Я не ожидаю ничего иного, кроме как полного успеха от вас, $(context.player.Name). Когда устройство будет у вас, мы передадим его безликим; надеюсь, этого будет достаточно, чтобы они сняли блокаду.<end>
+
+=>a57_original
+I'll get this device for you.<end>
+
+=>a57
+Я достану для вас это устройство.<end>
+
+=>q58_original
+So, this is what we know so far: We've learned very little from the Acid Hunters, which is an unfortunate fact. Nevertheless, Archibald is yet unaware who is the real murderer, and we intend to keep it that way.<end>
+
+=>q58
+Итак, вот что мы имеем на данный момент: мы узнали очень мало от Кислотных охотников, и это печально. Тем не менее, Арчибальд ещё не знает, кто настоящий убийца, и мы намерены оставить это как есть.<end>
+
+=>q59_original
+He won't be an issue. The device is the problem, though. Even though we aren't one hundred percent positive, we believe the Faceless are here because of it. And if we don't return it to them, I fear they'll overrun us.
+
+Luckily, we have undisputable evidence of it's location. Coretech scientist were seen entering an abandoned passage in the lower level of Core City. And, upon further inspection, JKK operatives confirmed this must be where they keep this device. I want you to go there and acquire it.<end>
+
+=>q59
+Он не будет проблемой. Устройство -- вот настоящая проблема. Хоть мы и не уверены в этом на сто процентов, мы думаем, что безликие здесь из-за него. И, если мы не вернём его им, я боюсь, что они пересилят нас. 
+
+К счастью, у нас есть проверенная информация о его местоположении. Учёного КорТех заметили на входе в заброшенный проход на нижнем уровне Кор-Сити. И в ходе дальнейшего расследования, оперативники КБР подтвердили, что это должно быть то место, где они держат это устройство. Я хочу, чтобы вы отправились туда и заполучили его.<end>
+
+=>q60_original
+So, this is what we know so far: We've learned absolutely nothing from the Acid Hunters, which is an unfortunate fact. Nevertheless, Archibald is yet unaware who is the real murderer, and we intend to keep it that way.<end>
+
+=>q60
+Итак, вот что мы имеем на данный момент: мы ничего не узнали от Кислотных охотников, и это печально. Тем не менее, Арчибальд ещё не знает, кто настоящий убийца, и мы намерены оставить это как есть.<end>
+
+=>a61_original
+They told me they got it off some trade caravan, but other than that, they don't know anything about the device or it's origin.<end>
+
+=>a61
+Они сказали мне, что забрали его у некоего торгового каравана, но больше ничего не знают о самом устройстве или его происхождении.<end>
+
+=>q62_original
+That tells us very little, if they know nothing of this thing... I was hoping for something more on the device. We'll just have to proceed with little less info.<end>
+
+=>q62
+Это мало о чём говорит нам, если они ничего не знают об этой штуке... Я надеялся узнать о ней побольше. Нам просто придётся действовать с чуть меньшим объёмом информации.<end>
+
+=>a63_original
+I discovered nothing new.<end>
+
+=>a63
+Я не обнаружил$(#/а) ничего нового.<end>
+
+=>q64_original
+::He stares at you calmly.:: Unfortunate, but it's not the end of the world. We'll just have to proceed with little less info than I had hoped for.<end>
+
+=>q64
+::Он смотрит на вас спокойно.:: Очень жаль, но это не конец света. Просто нам придётся действовать с чуть меньшим объёмом информации, чем я надеялся.<end>
+
+=>a65_original
+They attacked me, so I had to take them out.<end>
+
+=>a65
+Они напали на меня, поэтому мне пришлось положить их.<end>
+
+=>a66_original
+They escaped before I got there.<end>
+
+=>a66
+Они сбежали прежде, чем я добрал$(#ся/ась) туда.<end>
+
+=>a67_original
+Actually, nothing yet.<end>
+
+=>a67
+На самом деле, у меня пока ничего.<end>
+
+=>q68_original
+Really? $(context.player.Name), I don't want you idle. Please, take care of this.<end>
+
+=>q68
+Правда? $(context.player.Name), я не хочу, чтобы вы бездельничали. Пожалуйста, займитесь этим делом.<end>
+
+=>a69_original
+I understand everything.<end>
+
+=>a69
+Я всё понимаю.<end>
+
+=>q70_original
+Marvelous, I knew I could count on you. ::He smiles.:: This is what I've been told about finding the Acid Hunters: "Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed." <end>
+
+=>q70
+Чудесно, я знал, что могу рассчитывать на вас. ::Он улыбается.:: Вот что мне сообщили о местонахождении Кислотных охотников: «Иди в канализацию и найди большую сливную трубу, такую, где человек может пройти в полный рост. Из этой большой трубы можно попасть в несколько камер, и в одной из них имеется трещина в стене. Засунь руку в трещину, и ты найдёшь рычаг. Дёрни за рычаг, и откроется вход в их логово».<end>
+
+=>q71_original
+I'm sure you'll use your skills to find them without problems.<end>
+
+=>q71
+Я уверен, что ваши навыки позволят вам без проблем найти их.<end>
+
+=>a72_original
+I'm on the job.<end>
+
+=>a72
+Я берусь за дело.<end>
+
+=>q73_original
+Great. And remember, this stays between you and me.<end>
+
+=>q73
+Отлично. И помните, это только между нами.<end>
+
+=>a74_original
+I understand. So long.<end>
+
+=>a74
+Я понимаю. До встречи.<end>
+
+=>a75_original
+Where can I find them?<end>
+
+=>a75
+Где я могу их найти?<end>
+
+=>q76_original
+This is what I've been told about finding the Acid Hunters: "Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed." <end>
+
+=>q76
+Вот что мне сообщили о местонахождении Кислотных охотников: «Иди в канализацию и найди большую сливную трубу, такую, где человек может пройти в полный рост. Из этой большой трубы можно попасть в несколько камер, и в одной из них имеется трещина в стене. Засунь руку в трещину, и ты найдёшь рычаг. Дёрни за рычаг, и откроется вход в их логово».<end>
+
+=>q77_original
+we caught a man who knows where they're hiding. <end>
+
+=>q77
+мы поймали человека, который знает, где они прячутся.<end>
+
+=>a78_original
+What could be so important to force these men to kill each other?<end>
+
+=>a78
+Что могло быть настолько важным, что заставило их поубивать друг друга?<end>
+
+=>q79_original
+Oh, it appears these *gentlemen,* and I do mean the Acid Hunters, had a strange device with them. They stole it or found it somewhere, it matters not, but both Miland and Edmund wanted it. A fight broke out, a gun was fired, and Edmund was soon dead. My daughter was with them at the time, and she explained to me that after that, Miland took this device with him.<end>
+
+=>q79
+О, оказалось, что эти *господа* -- я имею в виду Кислотных охотников -- имели с собой странное устройство. Они его украли или нашли его где-то, не имеет значения -- важно, что и Миланд и Эдмунд хотели его заполучить. Завязалась драка, прозвучал выстрел, и вскоре Эдмунд погиб. Моя дочь была с ними в этот момент, и она сказала мне, что именно Миланд в итоге забрал устройство.<end>
+
+=>a80_original
+What was that something?<end>
+
+=>a80
+И что это?<end>
+
+=>a81_original
+They've caused quite a bit of trouble in quite a few places.<end>
+
+=>a81
+Они уже причинили немало проблем, и не только здесь.<end>
+
+=>a82_original
+Never heard of them.<end>
+
+=>a82
+Никогда не слышал$(#/а) о них.<end>
+
+=>q83_original
+The Acid Hunters are a gang of scavengers that roam the Underrail. Nothing unusual... Well, we'll get to that, but the crucial thing is that they are not Edmund's murderers.<end>
+
+=>q83
+Кислотные охотники -- это банда мусорщиков, скитающаяся по Подземке. Ничего особенного... Ну, мы вернёмся к этому позже, главное в том, что это не они убили Эдмунда.<end>
+
+=>a84_original
+Perhaps, but I'm not sure.<end>
+
+=>a84
+Возможно, но я не уверен$(#/а).<end>
+
+=>a85_original
+Never heard of him.<end>
+
+=>a85
+Никогда о нём не слышал$(#/а).<end>
+
+=>q86_original
+That is all I wanted to discuss with you for now. You will be contacted once I need you again.<end>
+
+=>q86
+Пока это всё, что я хотел обсудить. С вами свяжутся, как только вы понадобитесь мне снова.<end>
+
+=>a87_original
+Thank you. It's good to be appreciated.<end>
+
+=>a87
+Спасибо. Приятно, когда тебя ценят.<end>
+
+=>q88_original
+It's nothing. Believe me. ::He smiles.:: $(context.player.Name)... I'm very glad you're here. I was looking for someone that can be trusted, that is honest and above all - a real human being. You now have full access to JKK's equipment merchant; in other words, Ola.<end>
+
+=>q88
+Не стоит благодарности. Поверьте. ::Он улыбается.:: $(context.player.Name)... я очень рад, что вы здесь. Я искал кого-то, кому можно доверять, кого-то честного и, прежде всего, настоящего человека. Теперь у вас есть полный доступ к продавцу снаряжения КБР; иными словами, Уле.<end>
+
+=>a89_original
+So, about this reward...<end>
+
+=>a89
+Итак, насчёт награды...<end>
+
+=>q90_original
+Yes, let's not get distracted. $(context.player.Name)... I'm very glad you're here. I was looking for someone that can be trusted, that is honest and above all - a real human being. You now have full access to JKK's equipment merchant; in other words, Ola.<end>
+
+=>q90
+Да, давайте не будем отвлекаться. $(context.player.Name)... я очень рад, что вы здесь. Я искал кого-то, кому можно доверять, кого-то честного и, прежде всего, настоящего человека. Теперь у вас есть полный доступ к продавцу снаряжения КБР; иными словами, Уле.<end>
+
+=>q91_original
+But first, allow me to congratulate you on your success in the Arena... what was it? $(context.playerArenaTitle)! Know that I have been watching your matches with great delight, and that I'm sure your performance as a JKK operative is as impressive as the one in the Arena.<end>
+
+=>q91
+Но сначала позвольте мне поздравить вас с успехом на Арене. Дайте вспомнить... $(context.playerArenaTitle)! Знайте, я смотрел ваши матчи с большим удовольствием, и я уверен, что ваш успех в качестве оперативника КБР будет столь же впечатляющим, как на Арене.<end>
+
+=>a92_original
+Thank you for your kindness.<end>
+
+=>a92
+Благодарю за вашу доброту.<end>
+
+=>q93_original
+::He smiles.:: Thank you for being honest and dedicated to JKK. You know, this is one tough business we got here, $(context.player.Name). I mean, with the Arena broadcasts, betting, equipment maintenance, security, catching beasts and transporting them to the Arena... it takes a lot of management to accomplish all that, but management is nothing if you don't have the right people to actually do the job.
+
+And you, you fit that description. You've served JKK well so far, and now is time to give you your reward.<end>
+
+=>q93
+::Он улыбается.:: Благодарю вас за честность и преданность КБР. Вы знаете, как здесь тяжело вести дела, $(context.player.Name). Я имею в виду -- трансляции с Арены, ставки, ремонт оборудования, охрана, отлов зверей и транспортировка их на Арену... всему этому нужно управление. Но управление -- это ничто, если у вас нет людей, способных выполнить работу. 
+
+И вы, -- вы как раз такой человек. Вы уже хорошо послужили КБР, и теперь настало время наградить вас.<end>
+
+=>a94_original
+Cool.<end>
+
+=>a94
+Круто.<end>
+
+=>q95_original
+Cool? ::He smiles.:: Most casual response I've ever heard. I like it... I've heard all sort of things about you. You know, this is one tough business we got here, $(context.player.Name). I mean, with the Arena broadcasts, betting, equipment maintenance, security, catching beasts and transporting them to the Arena... it takes a lot of management to accomplish all that, but management is nothing if you don't have the right people to actually do the job.
+
+And you, you fit that description. You've served JKK well so far, and now is time to give you your reward.<end>
+
+=>q95
+Круто? ::Он улыбается.:: Самый непринуждённый ответ, какой я когда-либо слышал. Мне нравится... Я многое о вас слышал. Вы знаете, как здесь тяжело вести дела, $(context.player.Name). Я имею в виду -- трансляции с Арены, ставки, ремонт оборудования, охрана, отлов зверей и транспортировка их на Арену... всему этому нужно управление. Но управление -- это ничто, если у вас нет людей, способных выполнить работу. 
+
+И вы, -- вы как раз такой человек. Вы уже хорошо послужили КБР, и теперь настало время наградить вас.<end>
+
+=>q96_original
+::admiring a bottle of Northern King, a strong liquor you remember reading about along time ago; you also remember that its price had far too many zeros for your liking, despite the taste having been described as being worth it. He puts the bottle ::<end>
+
+=>q96
+::любуясь бутылкой Северного короля -- крепкого напитка, о котором вы читали давным-давно; вы также помните впечатление, что в цене многовато нулей, хотя по описаниям вкус того стоит. Он ставит бутылку ::<end>
+
+=>q97_original
+Good to see you, $(context.player.Name). I have something important to discuss with you.<end>
+
+=>q97
+Рад видеть вас, $(context.player.Name). Я должен обсудить с вами кое-что важное.<end>
+
+=>q98_original
+Is that one of our young and promising JKK operatives? ::He smiles.:: What can Gunnar do for you?<end>
+
+=>q98
+Неужто это один из наших молодых и многообещающих оперативников КБР? ::Он улыбается.:: Что Гуннар может сделать для вас?<end>
+
+=>q99_original
+<end>
+
+=>q99
+<end>
+
+=>a100_original
+About the Acid Hunters...<end>
+
+=>a100
+Насчёт Кислотных охотников...<end>
+
+=>q101_original
+Ah. What did you discover?<end>
+
+=>q101
+Ах. Что ты обнаружил?<end>
+
+=>a102_original
+I've been to the research facility.<end>
+
+=>a102
+Я был$(#/а) в исследовательском центре.<end>
+
+=>q103_original
+Do you have the device?<end>
+
+=>q103
+Устройство у вас?<end>
+
+=>a104_original
+How do I get to that research facility again?<end>
+
+=>a104
+Напомните, как попасть в исследовательский центр?<end>
+
+=>q105_original
+Listen carefully this time: It's on the lower level, near an under-passages exit in Drop Zone. There, you will find a door that can be unlocked with the keycard I gave you.<end>
+
+=>q105
+Слушайте внимательно на этот раз: она на нижнем уровне, рядом с выходом из подземных проходов в Зону провала. Там вы найдёте дверь, которую можно открыть с помощью ключ-карты, что я дал вам.<end>
+
+=>q106_original
+It's that simple. ::He smiles.::<end>
+
+=>q106
+Настолько просто. ::Он улыбается.::<end>
+
+=>a107_original
+How do I find the Acid Hunters again?<end>
+
+=>a107
+Напомните, где мне искать Кислотных охотников?<end>
+
+=>q108_original
+This is what I've been told about finding the Acid Hunters: "Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed." <end>
+
+=>q108
+Вот что мне сообщили о местонахождении Кислотных охотников: «Иди в канализацию и найди большую сливную трубу, такую, где человек может пройти в полный рост. Из этой большой трубы можно попасть в несколько камер, и в одной из них имеется трещина в стене. Засунь руку в трещину, и ты найдёшь рычаг. Дёрни за рычаг, и откроется вход в их логово».<end>
+
+=>q109_original
+Happy hunting.<end>
+
+=>q109
+Счастливой охоты.<end>
+
+=>a110_original
+Have you ever heard of the Acorn, a.k.a ACoNR?<end>
+
+=>a110
+Вы когда-нибудь слышали о Жёлуде, он же АКоНР?<end>
+
+=>q111_original
+I'm afraid I haven't.<end>
+
+=>q111
+Я боюсь, что нет.<end>
+
+=>q112_original
+<end>
+
+=>q112
+<end>
+
+=>a113_original
+I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could serve our organization greatly.<end>
+
+=>a113
+Я сам$(#/а) не очень многое знаю об этом, но, насколько я понимаю, это очень ценная технология, которая может очень помочь нашей организации.<end>
+
+=>q114_original
+Oh. Interesting. <end>
+
+=>q114
+О, интересно.<end>
+
+=>q115_original
+I'm certain it would.<end>
+
+=>q115
+Я уверен, что так и будет.<end>
+
+=>q116_original
+However: <end>
+
+=>q116
+Однако:<end>
+
+=>q117_original
+The conversation we've had about the device the Tchortists took... Well, you see what that little thing has brought to this city. That... little piece of technology - all that trouble. 
+
+The consequences of its short stay will surely linger on for years to come.<end>
+
+=>q117
+Мы уже говорили про устройство, взятое чортистами... Что ж, вы видите, до чего довела этот город такая маленькая фитюлька. Такой... маленький кусочек технологии и... такие большие проблемы.
+
+Последствия его короткого пребывания здесь, несомненно, сохранятся на долгие годы.<end>
+
+=>q118_original
+And this Acorn, it has the same air about it as the aforementioned. 
+
+Yes... ::He pauses.::<end>
+
+=>q118
+И этот Жёлудь, от него исходит та же аура, как и от уже упомянутого.
+
+Да... ::Он делает паузу.::<end>
+
+=>q119_original
+$(context.player.Name), keep this Acorn away from this city, at least for the time being. Especially from the other two.
+
+::He smiles.:: It's for the best. It's for the best.<end>
+
+=>q119
+$(context.player.Name), держи этот Жёлудь подальше от этого города, по крайней мере, пока. И особенно от остальных двоих.
+
+::Он улыбается.:: Так будет лучше. Намного лучше.<end>
+
+=>q120_original
+But it'll have to wait. <end>
+
+=>q120
+Но придётся подождать.<end>
+
+=>q121_original
+Finish your tasks - <end>
+
+=>q121
+Закончи свои дела -<end>
+
+=>q122_original
+then we will discuss the Acorn. ::He smiles.::<end>
+
+=>q122
+тогда мы можем поговорить о Жёлуде. ::Он улыбается.::<end>
+
+=>q123_original
+After certain other matters have been dealt with - <end>
+
+=>q123
+После того, как некоторые вопросы были рассмотрены -<end>
+
+=>a124_original
+All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our organization greatly.<end>
+
+=>a124
+Всё, что я знаю, это то, что он каким-то образом связан с некоторыми высокотехнологичными машинами, способными преодолевать большие расстояния, и даже выходить на поверхность. Это могло бы хорошо послужить нашей организации.<end>
+
+=>a125_original
+It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our organization greatly.<end>
+
+=>a125
+Кажется, это устройство, способное производить высокотехнологичные предметы, такие как устройства и машины. Оно может хорошо послужить нашей организации.<end>
+
+=>q126_original
+*Oh*. That is... very interesting. <end>
+
+=>q126
+*О*. Это... очень интересно.<end>
+
+=>a127_original
+It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our organization greatly.<end>
+
+=>a127
+Это устройство, способное использовать материалы из окружающей среды для создания сложных устройств и машин. Оно может хорошо послужить нашей организации.<end>
+
+=>a128_original
+It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our organization greatly.<end>
+
+=>a128
+Это суперкомпьютер, способный управлять наноботами, которые могут использовать материалы из окружающей среды для создания сложных устройств и машин. Он может хорошо послужить нашей организации.<end>
+
+=>a129_original
+Never mind. There was something else I wanted to ask you.<end>
+
+=>a129
+Забудь. Я хотел$(#/а) поговорить ещё кое о чём.<end>
+
+=>q130_original
+Go ahead.<end>
+
+=>q130
+Продолжайте.<end>
+
+=>a131_original
+About the Acorn again...<end>
+
+=>a131
+Снова о Жёлуде...<end>
+
+=>q132_original
+I'm waiting.<end>
+
+=>q132
+Я жду.<end>
+
+=>a133_original
+Can we discuss the Acorn now?<end>
+
+=>a133
+Мы можем поговорить о Жёлуде сейчас?<end>
+
+=>q134_original
+Yes, yes - the Acorn. <end>
+
+=>q134
+Да, да, Жёлудь.<end>
+
+=>a135_original
+Can you tell me how the Oligarchy came to be?<end>
+
+=>a135
+Можете рассказать мне, как появились олигархи?<end>
+
+=>q136_original
+Oh, that story started even before I came to Core City. Archie and Rupert both used to work for Biocorp, the New Biocorp, a supercorporation that owned nearly everything in Underrail. Internal problems - internal bleeding as I like to call it - weakened it and eventually lead to its slow demise. By the time the Underrail Protectorate came in for the kill, Biocorp was already standing over its grave... waiting to be pushed in.<end>
+
+=>q136
+О, эта история началась ещё до того, как я приехал в Кор-Сити. Арчи и Руперт оба раньше работали на Биокорп -- Новую Биокорп -- суперкорпорацию, которой принадлежала почти вся Подземка. Внутренние проблемы -- внутреннее кровотечение, как я люблю это называть -- ослабили её и в итоге привели к краху. К тому времени, как Протекторат Подземки нанёс последний удар, Биокорп уже стояла одной ногой в могиле... надо было только подтолкнуть.<end>
+
+=>q137_original
+Moving on, several years into the future, I came to a place that's falling apart. The long-lasting conflict left scars on every brick and tile of this once grand city, but fortunately Coretech and Praetorian Security had decided to make a peace agreement just before everything crumbled down. Oh yes, you'll rarely hear it nowadays, but it wasn't *just* the epidemic rioters and gangs that were responsible for all those years of chaos - the two warring factions were at each other's throats, fighting for power, and in that fight they tore down everything around them.
+
+One of the reasons for the cease of fire was the shocking success of the Arena! Look at it now, it's marvelous, but then it was a just an open space for gangs to settle their differences. And - it was waiting for me. I knew what I had to do...<end>
+
+=>q137
+Переместимся на несколько лет вперёд, когда я пришёл в этот разваливавшийся на части город. Затянувшийся конфликт оставил шрамы на каждом кирпиче и камне этого некогда великого города, но, к счастью, когда всё уже было на грани краха, КорТех и Преторианская служба безопасности решили заключить соглашение. О да, сегодня об этом нечасто услышишь, но не *только* бунтовщики и банды были в ответе за годы беспорядков. Две воюющие организации держали друг друга за горло, боролись за власть, и при этом громили всё, что их окружало.
+
+Одной из причин прекращения огня послужил невероятный успех Арены! Посмотрите на неё сейчас -- она изумительна, но тогда это было просто открытое пространство, где банды решали свои разногласия. И она ждала меня. Я знал, что нужно было делать...<end>
+
+=>q138_original
+I had some connections, some money and I saw the potential. First, we started broadcasting the matches! And the crowd went wild! People poured into Core City to enjoy the bloodbath, and money followed. The Arena grew, our business grew and then we became the most powerful men in Core City.
+
+I decided to spice it up a little, you know. Let's bring in some exotic animals, let's make it glamorous, let's make it the biggest thing ever. And it did become just that. Even with the Faceless knocking at our door, the people haven't stopped coming.<end>
+
+=>q138
+У меня было несколько связей, немного денег, и я увидел возможность. Сначала мы начали транслировать матчи! И толпа пришла в дикий восторг! Люди хлынули в Кор-Сити, чтобы насладиться кровавой бойней, и принесли деньги. Арена росла, наш бизнес рос, и со временем мы стали самыми влиятельными людьми в Кор-Сити. 
+
+Я решил немного оживить зрелище, знаете ли. Давайте привезём экзотических животных, сделаем всё эффектно, создадим самое большое шоу всех времён. И у меня получилось. Даже когда безликие на пороге, люди не перестали приходить.<end>
+
+=>q139_original
+::He laughs.:: Look at us now. Each Oligarch has his own private forces; operatives, agents, enforcers - whatever you want to call them. 
+
+We can only make this city even better, trust me, but that requires some... intervention from time to time.<end>
+
+=>q139
+::Он смеётся.:: Посмотрите на нас сейчас. Каждый олигарх имеет свои собственные войска; оперативники, агенты, бойцы -- как их ни называй. 
+
+Мы можем сделать этот город ещё лучше, поверьте мне, но это требует некоторого... вмешательства, время от времени.<end>
+
+=>a140_original
+Goodbye, Gunnar.<end>
+
+=>a140
+До свидания, Гуннар.<end>
+

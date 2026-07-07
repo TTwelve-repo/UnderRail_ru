@@ -1,0 +1,3858 @@
+﻿=>q1_original
+::The man greets you as soon as you enter his domain, smiling as he invites you further in with a wave of his hand. His smile, though, is forced, as a shroud of concern dims his eye's gleam and breaks the genuineness.::<end>
+
+=>q1
+::Мужчина приветствует вас улыбкой и, как только вы входите в его владения, жестом руки приглашает вас пройти внутрь. Однако, его улыбка выглядит натянутой, поскольку пелена беспокойства затмевает блеск его взгляда и его искренность.::<end>
+
+=>q2_original
+::An oily wrench lays on his desk, only an old smeared rag separating one from the other. You notice it, he notices it. An instant later, it disappears into one of his deep pockets, wrapped in the rag.::
+
+That should not be there. We was, um... Gib and I were fixin' one of 'em two-oh-eights for a client of ours. Field repairs. Just got back to the shop, so sorry 'bout my appearance. So, ya here for a jet? Parts? Repairs?<end>
+
+=>q2
+::На его столе лежит вымазанный маслом гаечный ключ, и от соприкосновения их отделяет лишь старая сальная тряпка. Вы замечаете его, как и Рэй. Спустя мгновение ключ, обёрнутый тряпкой, исчезает в одном из его глубоких карманов.::
+
+Этому здесь не место. Мы, эм... мы с Гибом чинили один из тех двухсот восьмых для нашего клиента. Ремонт на выезде. Я только вернулся в магазин, так что извиняюсь за свой внешний вид. Итак, тебе нужен гидроцикл? Запчасти? Ремонт?<end>
+
+=>a3_original
+I'm interested in purchasing a jet ski.<end>
+
+=>a3
+Я заинтересован$(#/а) в покупке гидроцикла.<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>q5_original
+::You open your mouth, but the voice that is heard is not yours.:: 
+
+I'm sorry: Name's Raymond Cerr, the owner. Eh, ya were sayin'...? <end>
+
+=>q5
+::Только вы открываете рот, как его голос вас прерывает.::
+
+Прошу прощенья: меня зовут Рэймонд Керр, владелец. Э-э, ты что-то хотел$(#/а) сказать?..<end>
+
+=>q6_original
+::You notice that the previously quite observable anxiety has quickly dissipated. His smile broadens; his countenance brightens.::<end>
+
+=>q6
+::Вы замечаете, что его прежде довольно заметное беспокойство быстро рассеивается, улыбка становится шире, а лицо так и сияет.::<end>
+
+=>a7_original
+I'm looking for some spare components.<end>
+
+=>a7
+Мне нужны кое-какие запчасти.<end>
+
+=>a8_original
+My jet needs repairs.<end>
+
+=>a8
+Моему гидроциклу нужен ремонт.<end>
+
+=>q9_original
+Hardcore. Well, now, um, friend... ::He snaps his fingers.:: By the way, what do I call ya$(#, son/)? What's yer name?<end>
+
+=>q9
+Хардкор. Что ж, а теперь, хм, $(#друг/подруга)... ::Он щёлкает пальцами.:: Кстати, как мне к тебе обращаться? Как твоё имя?<end>
+
+=>a10_original
+That is none of your business.<end>
+
+=>a10
+Не твоё дело.<end>
+
+=>q11_original
+::He raises his hands, chest height, palms facing forward.:: No need to act all hardcore, friend. I was just askin'. Imma just call ya... friend, then.<end>
+
+=>q11
+::Он поднимает руки до уровня груди, ладонями вперёд.:: Не стоит это так хардкорно воспринимать. Я просто спросил. Тогда я буду звать тебя просто... $(#другом/подругой).<end>
+
+=>q12_original
+Now, $(context.npc_cc_ray_playerName), <end>
+
+=>q12
+Что ж, $(context.npc_cc_ray_playerName),<end>
+
+=>q13_original
+<end>
+
+=>q13
+<end>
+
+=>q14_original
+Imma ask ya one thing now before we proceed: Is this your first jet or have you owned or at least ridden one before?<end>
+
+=>q14
+Прежде чем мы продолжим, я должен задать тебе один вопрос: это твой первый гидроцикл или ты уже раньше владел$(#/а) либо, по крайней мере, управлял$(#/а) одним из них?<end>
+
+=>a15_original
+Never owned, never ridden one before.<end>
+
+=>a15
+Никогда прежде не владел$(#/а) и не управлял$(#/а) ими.<end>
+
+=>q16_original
+So - a jet virgin. Pardon the expression. ::He laughs.:: That's o-kay, $(context.npc_cc_ray_playerName).<end>
+
+=>q16
+Значит... гидроцикло-девственн$(#ик/ица). Извини за выражение. ::Он смеётся.:: Это нормально, $(context.npc_cc_ray_playerName).<end>
+
+=>q17_original
+We got lots of different jets, $(context.npc_cc_ray_playerName). The only question is whatcha need and how much coin ya got. If yer lookin' for somethin' cheaper, somethin' to getcha from point A to point B, we offer a variety of junk jets at yer disposal. If ya, however, wanna get from point A to point B mighty fast, maybe dominate some asshats along the way, or return to haulin' lots of loot - or just cruise around with style, then maybe ya oughta take a look at somethin' a bit better.<end>
+
+=>q17
+У нас множество разнообразных гидроциклов, $(context.npc_cc_ray_playerName). Вопрос лишь в том, что тебе нужно и сколько у тебя монет. Если ищешь чего подешевле, чего-то, что просто поможет добраться из пункта А в пункт Б, то мы предлагаем широкий спектр различных мусорщиков. Однако, если ты хочешь добраться из пункта А в пункт Б с ветерком, может, задоминировать по пути парочку каких-нибудь выпердышей, прихватить с собой кучу трофеев - или просто погонять на стиле, то, пожалуй, тебе стоит взглянуть на что-нибудь получше.<end>
+
+=>a18_original
+I was thinking of something a bit cheaper.<end>
+
+=>a18
+Я подумываю взять что-нибудь подешевле.<end>
+
+=>q19_original
+We'll find ya somethin' good, dontcha worry.<end>
+
+=>q19
+Не волнуйся, мы подберём тебе что-нибудь хорошее.<end>
+
+=>a20_original
+::Follow him.::<end>
+
+=>a20
+::Следовать за ним.::<end>
+
+=>a21_original
+Show me the good stuff. I'm not a zoner.<end>
+
+=>a21
+Покажи мне самые лучшие. Я же не какой-нибудь зонер.<end>
+
+=>q22_original
+Ha-ha, that's what I like to hear. <end>
+
+=>q22
+Ха-ха, это я и хотел услышать.<end>
+
+=>a23_original
+I rode them before, yeah.<end>
+
+=>a23
+Да, я уже ездил$(#/а) на гидроцикле.<end>
+
+=>q24_original
+Hardcore, hardcore. So ya got some experience. That's good, $(context.npc_cc_ray_playerName).<end>
+
+=>q24
+Хардкор, хардкор. Значит, у тебя есть какой-никакой опыт. Это хорошо, $(context.npc_cc_ray_playerName).<end>
+
+=>a25_original
+I'm currently using some piece of junk, more like jetsam than jet, but now I'm itching to get the real deal.<end>
+
+=>a25
+Сейчас у меня какой-то хлам, больше похожий на обломок кораблекрушения, чем на гидроцикл, но теперь я жажду приобрести что-то стоящее.<end>
+
+=>q26_original
+That is the rite of passage we must all take, $(context.npc_cc_ray_playerName). And it ain't just the coin, nah, ya can't just hop into a beast straight away, right? Ye'll dominate yerself if ya ain't got the experience. Can't deny that.<end>
+
+=>q26
+Это обряд посвящения, $(context.npc_cc_ray_playerName), через который мы все должны пройти. И дело не только в монетах, не-а, нельзя просто взять и сразу запрыгнуть на зверя, верно? Нужно подоминировать над собой, пока не наберёшься опыта. С этим не поспоришь.<end>
+
+=>q27_original
+<end>
+
+=>q27
+<end>
+
+=>q28_original
+we got a hardcore assortment of engines, batteries, suspensions - from cheap to coin-meltin', we got it all. Of course, we also stock cells for powerin' yer jets, ammo and all the-- Bah, enough of my yappin'. Lemme show ya what we got.<end>
+
+=>q28
+у нас хардкорный ассортимент двигателей, батарей, подвесок - от самых дешёвых до тех, что испарят твои монеты в мгновение ока, у нас есть всё. Разумеется, у нас есть и энергоячейки для кормёжки твоего гидроцикла, боеприпасы и всё... Да хватит уже моей болтовни. Давай я просто покажу тебе, что у нас есть.<end>
+
+=>a29_original
+::Barter.::<end>
+
+=>a29
+::Обмен.::<end>
+
+=>q30_original
+let's talk repairs. <end>
+
+=>q30
+поговорим о ремонте.<end>
+
+=>q31_original
+Unless ya've suffered a breakdown, and by that I mean a malfunction which either prevents yer jet from operatin' at all, or impedes it so much ya can't drive it no more, there's no need for me to be takin' yer hard-earned coins for repairs ya could do on yer own.<end>
+
+=>q31
+Если только он не вышел из строя, под чем я подразумеваю неисправность, из-за которой твой гидроцикл либо вообще не заводится, либо им просто невозможно управлять, то мне нет нужды брать твои кровно заработанные монеты за ремонт, с которым ты можешь и сам$(#/а) справиться.<end>
+
+=>q32_original
+Instead, I could just sell ya one of our vehicle repair kits. They're cheap and so simple to use it is said if ya threw it in the water to them slackjaw fishes, they'd pick it right up and start fixin' stuff. ::He laughs.:: They can be used to perform all kinds of repairs on pretty much any type of vehicle under the stalactites, be it a jet, quad... heck, maybe even a powered frame like the Protectorate Dreadnought, I dunno. Ya just follow the instructions and yer hardcore.<end>
+
+=>q32
+Вместо этого я могу просто продать тебе один из наших ремкомплектов для транспорта. Они дешёвые и настолько просты в использовании, что говорят, если такой кинуть в воду к разиротам, они сразу же его схватят и примутся что-нибудь починять. ::Он смеётся.:: Их можно использовать для ремонта практически любого типа транспортных средств под сталактитами, будь то гидроцикл, квадроцикл... дьявол, может, и для силовой платформы, типа дредноута Протектората, не знаю. Просто следуй инструкциям и будь хардкорн$(#ым/ой).<end>
+
+=>a33_original
+In that case, I'd like to purchase a few repair kits.<end>
+
+=>a33
+В таком случае я бы приобр$(#ёл/ела) несколько ремкомплектов.<end>
+
+=>q34_original
+O-kay. Here...<end>
+
+=>q34
+Лады. Вот, взгляни...<end>
+
+=>a35_original
+I'll think about it. Let me ask you something else in the meantime.<end>
+
+=>a35
+Я об этом подумаю. А пока позволь я спрошу тебя ещё кое о чём.<end>
+
+=>q36_original
+O-kay.<end>
+
+=>q36
+Лады.<end>
+
+=>q37_original
+<end>
+
+=>q37
+<end>
+
+=>a38_original
+I'm interested in purchasing a jet ski.<end>
+
+=>a38
+Я заинтересован$(#/а) в покупке гидроцикла.<end>
+
+=>q39_original
+Sure, sure. Which one? Don't be afraid to ask questions, $(context.npc_cc_ray_playerName).<end>
+
+=>q39
+Конечно, конечно. Которого именно? И не стесняйся задавать вопросы, $(context.npc_cc_ray_playerName).<end>
+
+=>q40_original
+<end>
+
+=>q40
+<end>
+
+=>a41_original
+Can I take a look at the expensive jet skis?<end>
+
+=>a41
+Можно взглянуть на дорогие гидроциклы?<end>
+
+=>q42_original
+Sure. Follow me.<end>
+
+=>q42
+Конечно. Следуй за мной.<end>
+
+=>a43_original
+Can I take a look at the cheap jet skis?<end>
+
+=>a43
+Можно взглянуть на дешёвые гидроциклы?<end>
+
+=>q44_original
+Sure. Follow me.<end>
+
+=>q44
+Конечно. Следуй за мной.<end>
+
+=>a45_original
+::Follow him.::<end>
+
+=>a45
+::Следовать за ним.::<end>
+
+=>a46_original
+I've decided which jet ski I want.<end>
+
+=>a46
+Я уже определил$(#ся/ась) с выбором гидроцикла.<end>
+
+=>q47_original
+Which one?<end>
+
+=>q47
+Какой именно?<end>
+
+=>a48_original
+Torpedo.<end>
+
+=>a48
+Торпедо.<end>
+
+=>q49_original
+It's yers for $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0). <end>
+
+=>q49
+Он твой за $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0).<end>
+
+=>q50_original
+<end>
+
+=>q50
+<end>
+
+=>a51_original
+Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0) stygian coins.::<end>
+
+=>a51
+По рукам. Вот деньги. ::Дать ему $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0) стигийских монет.::<end>
+
+=>q52_original
+<end>
+
+=>q52
+<end>
+
+=>q53_original
+<end>
+
+=>q53
+<end>
+
+=>q54_original
+Congratulations, $(context.npc_cc_ray_playerName) - ya bought yerself a jet! <end>
+
+=>q54
+Поздравляю, $(context.npc_cc_ray_playerName) - ты приобр$(#ёл/ела) себе гидроцикл!<end>
+
+=>q55_original
+Keep yer eyes on it real good. Them pirate sons of rats are everywhere now.<end>
+
+=>q55
+Хорошенько за ним приглядывай. Теперь эти пиратские крысьи дети повсюду.<end>
+
+=>q56_original
+
+
+And here's yer key. ::He hands you a jet ski key.::<end>
+
+=>q56
+А вот и твой ключ. ::Он вручает вам ключ от гидроцикла.::<end>
+
+=>a57_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount1) is all I got.<end>
+
+=>a57
+::[Торговля]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount1) это всё, что у меня есть.<end>
+
+=>q58_original
+Well...<end>
+
+=>q58
+Ну...<end>
+
+=>q59_original
+I'm sorry, but I can't accept that. I wish I could, I really wish, but ya know how dominatin' life is. Yeah?<end>
+
+=>q59
+Извини, но на столько я не могу согласиться. Я бы и не прочь, правда, но ты же знаешь, какой доминирующей бывает жизнь. Ведь так?<end>
+
+=>q60_original
+<end>
+
+=>q60
+<end>
+
+=>q61_original
+<end>
+
+=>q61
+<end>
+
+=>q62_original
+<end>
+
+=>q62
+<end>
+
+=>a63_original
+Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0) stygian coins.::<end>
+
+=>a63
+По рукам. Вот деньги. ::Дать ему $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0) стигийских монет.::<end>
+
+=>q64_original
+<end>
+
+=>q64
+<end>
+
+=>q65_original
+<end>
+
+=>q65
+<end>
+
+=>a66_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount1) is all I got.<end>
+
+=>a66
+::[Торговля]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount1) это всё, что у меня есть.<end>
+
+=>q67_original
+Well...<end>
+
+=>q67
+Ну...<end>
+
+=>a68_original
+::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount2)?<end>
+
+=>a68
+::[Торговля]:: Слишком дорого. Как насчёт $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount2)?<end>
+
+=>q69_original
+Well...<end>
+
+=>q69
+Ну...<end>
+
+=>a70_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount3) for it.<end>
+
+=>a70
+::[Торговля]:: $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0)? Не может быть, чтобы он стоил так дорого. Я дам тебе за него $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount3).<end>
+
+=>q71_original
+Well...<end>
+
+=>q71
+Ну...<end>
+
+=>a72_original
+Actually, I think this might be too expensive for me. Mind if I choose another one?<end>
+
+=>a72
+А вообще, я тут подумал$(#/а), что для меня это дороговато. Не возражаешь, если я выберу другой?<end>
+
+=>q73_original
+O-kay. <end>
+
+=>q73
+Лады.<end>
+
+=>a74_original
+Or maybe I haven't decided.<end>
+
+=>a74
+Или, всё-таки, я ещё не определил$(#ся/ась).<end>
+
+=>q75_original
+No need to rush, $(context.npc_cc_ray_playerName). Ya don't buy a jet every day. Just take yer time.<end>
+
+=>q75
+Не нужно торопиться, $(context.npc_cc_ray_playerName). Не каждый же день покупаешь гидроцикл. Не спеши.<end>
+
+=>q76_original
+<end>
+
+=>q76
+<end>
+
+=>q77_original
+<end>
+
+=>q77
+<end>
+
+=>a78_original
+Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0) stygian coins.::<end>
+
+=>a78
+По рукам. Вот деньги. ::Дать ему $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0) стигийских монет.::<end>
+
+=>q79_original
+<end>
+
+=>q79
+<end>
+
+=>q80_original
+<end>
+
+=>q80
+<end>
+
+=>a81_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount1) is all I got.<end>
+
+=>a81
+::[Торговля]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount1) это всё, что у меня есть.<end>
+
+=>q82_original
+Well...<end>
+
+=>q82
+Ну...<end>
+
+=>a83_original
+::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount2)?<end>
+
+=>a83
+::[Торговля]:: Слишком дорого. Как насчёт $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount2)?<end>
+
+=>q84_original
+Well...<end>
+
+=>q84
+Ну...<end>
+
+=>a85_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount3) for it.<end>
+
+=>a85
+::[Торговля]:: $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0)? Не может быть, чтобы он стоил так дорого. Я дам тебе за него $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount3).<end>
+
+=>q86_original
+Well...<end>
+
+=>q86
+Ну...<end>
+
+=>q87_original
+<end>
+
+=>q87
+<end>
+
+=>q88_original
+<end>
+
+=>q88
+<end>
+
+=>a89_original
+Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0) stygian coins.::<end>
+
+=>a89
+По рукам. Вот деньги. ::Дать ему $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0) стигийских монет.::<end>
+
+=>q90_original
+<end>
+
+=>q90
+<end>
+
+=>q91_original
+<end>
+
+=>q91
+<end>
+
+=>a92_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount1) is all I got.<end>
+
+=>a92
+::[Торговля]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount1) это всё, что у меня есть.<end>
+
+=>q93_original
+Well...<end>
+
+=>q93
+Ну...<end>
+
+=>a94_original
+::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount2)?<end>
+
+=>a94
+::[Торговля]:: Слишком дорого. Как насчёт $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount2)?<end>
+
+=>q95_original
+Well...<end>
+
+=>q95
+Ну...<end>
+
+=>a96_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount3) for it.<end>
+
+=>a96
+::[Торговля]:: $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0)? Не может быть, чтобы он стоил так дорого. Я дам тебе за него $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount3).<end>
+
+=>q97_original
+Well...<end>
+
+=>q97
+Ну...<end>
+
+=>q98_original
+<end>
+
+=>q98
+<end>
+
+=>q99_original
+<end>
+
+=>q99
+<end>
+
+=>a100_original
+Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0) stygian coins.::<end>
+
+=>a100
+По рукам. Вот деньги. ::Дать ему $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0) стигийских монет.::<end>
+
+=>q101_original
+<end>
+
+=>q101
+<end>
+
+=>q102_original
+<end>
+
+=>q102
+<end>
+
+=>a103_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount1) is all I got.<end>
+
+=>a103
+::[Торговля]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount1) это всё, что у меня есть.<end>
+
+=>q104_original
+Well...<end>
+
+=>q104
+Ну...<end>
+
+=>a105_original
+::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount2)?<end>
+
+=>a105
+::[Торговля]:: Слишком дорого. Как насчёт $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount2)?<end>
+
+=>q106_original
+Well...<end>
+
+=>q106
+Ну...<end>
+
+=>a107_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount3) for it.<end>
+
+=>a107
+::[Торговля]:: $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0)? Не может быть, чтобы он стоил так дорого. Я дам тебе за него $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount3).<end>
+
+=>q108_original
+Well...<end>
+
+=>q108
+Ну...<end>
+
+=>q109_original
+<end>
+
+=>q109
+<end>
+
+=>q110_original
+<end>
+
+=>q110
+<end>
+
+=>a111_original
+Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0) stygian coins.::<end>
+
+=>a111
+По рукам. Вот деньги. ::Дать ему $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0) стигийских монет.::<end>
+
+=>q112_original
+<end>
+
+=>q112
+<end>
+
+=>q113_original
+<end>
+
+=>q113
+<end>
+
+=>a114_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount1) is all I got.<end>
+
+=>a114
+::[Торговля]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount1) это всё, что у меня есть.<end>
+
+=>q115_original
+Well...<end>
+
+=>q115
+Ну...<end>
+
+=>a116_original
+::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount2)?<end>
+
+=>a116
+::[Торговля]:: Слишком дорого. Как насчёт $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount2)?<end>
+
+=>q117_original
+Well...<end>
+
+=>q117
+Ну...<end>
+
+=>a118_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount3) for it.<end>
+
+=>a118
+::[Торговля]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0)? Не может быть, чтобы он стоил так дорого. Я дам тебе за него $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount3).<end>
+
+=>q119_original
+Well...<end>
+
+=>q119
+Ну...<end>
+
+=>q120_original
+<end>
+
+=>q120
+<end>
+
+=>q121_original
+<end>
+
+=>q121
+<end>
+
+=>a122_original
+Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0) stygian coins.::<end>
+
+=>a122
+По рукам. Вот деньги. ::Дать ему $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0) стигийских монет.::<end>
+
+=>q123_original
+<end>
+
+=>q123
+<end>
+
+=>q124_original
+<end>
+
+=>q124
+<end>
+
+=>a125_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount1) is all I got.<end>
+
+=>a125
+::[Торговля]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount1) это всё, что у меня есть.<end>
+
+=>q126_original
+Well...<end>
+
+=>q126
+Ну...<end>
+
+=>a127_original
+::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount2)?<end>
+
+=>a127
+::[Торговля]:: Слишком дорого. Как насчёт $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount2)?<end>
+
+=>q128_original
+Well...<end>
+
+=>q128
+Ну...<end>
+
+=>a129_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount3) for it.<end>
+
+=>a129
+::[Торговля]:: $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0)? Не может быть, чтобы он стоил так дорого. Я дам тебе за него $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount3).<end>
+
+=>q130_original
+Well...<end>
+
+=>q130
+Ну...<end>
+
+=>q131_original
+<end>
+
+=>q131
+<end>
+
+=>q132_original
+<end>
+
+=>q132
+<end>
+
+=>a133_original
+Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0) stygian coins.::<end>
+
+=>a133
+По рукам. Вот деньги. ::Дать ему $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0) стигийских монет.::<end>
+
+=>q134_original
+<end>
+
+=>q134
+<end>
+
+=>q135_original
+<end>
+
+=>q135
+<end>
+
+=>a136_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount1) is all I got.<end>
+
+=>a136
+::[Торговля]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount1) это всё, что у меня есть.<end>
+
+=>q137_original
+Well...<end>
+
+=>q137
+Ну...<end>
+
+=>a138_original
+::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount2)?<end>
+
+=>a138
+::[Торговля]:: Слишком дорого. Как насчёт $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount2)?<end>
+
+=>q139_original
+Well...<end>
+
+=>q139
+Ну...<end>
+
+=>a140_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount3) for it.<end>
+
+=>a140
+::[Торговля]:: $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0)? Не может быть, чтобы он стоил так дорого. Я дам тебе за него $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount3).<end>
+
+=>q141_original
+Well...<end>
+
+=>q141
+Ну...<end>
+
+=>a142_original
+::[Mercantile]:: Too much. How about $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount2)?<end>
+
+=>a142
+::[Торговля]:: Слишком дорого. Как насчёт $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount2)?<end>
+
+=>q143_original
+Well...<end>
+
+=>q143
+Ну...<end>
+
+=>a144_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0)? No way is it worth that much. I'll give you $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount3) for it.<end>
+
+=>a144
+::[Торговля]:: $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0)? Не может быть, чтобы он стоил так дорого. Я дам тебе за него $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount3).<end>
+
+=>q145_original
+Well...<end>
+
+=>q145
+Ну...<end>
+
+=>a146_original
+Blazer.<end>
+
+=>a146
+Блейзер.<end>
+
+=>q147_original
+It's yers for $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0).<end>
+
+=>q147
+Он твой за $(context.VehicleStatus_xpbl_blazerFrame.BuyPriceWithDiscount0).<end>
+
+=>a148_original
+Phaser.<end>
+
+=>a148
+Фазер.<end>
+
+=>q149_original
+It's yers for $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0).<end>
+
+=>q149
+Он твой за $(context.VehicleStatus_xpbl_phaserFrame.BuyPriceWithDiscount0).<end>
+
+=>a150_original
+Shark.<end>
+
+=>a150
+Акула.<end>
+
+=>q151_original
+It's yers for $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0).<end>
+
+=>q151
+Он твой за $(context.VehicleStatus_xpbl_sharkFrame.BuyPriceWithDiscount0).<end>
+
+=>a152_original
+Glow.<end>
+
+=>a152
+Светоч.<end>
+
+=>q153_original
+It's yers for $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0).<end>
+
+=>q153
+Он твой за $(context.VehicleStatus_xpbl_glowFrame.BuyPriceWithDiscount0).<end>
+
+=>a154_original
+Plasma Leviator.<end>
+
+=>a154
+Плазменный левиатор.<end>
+
+=>q155_original
+It's yers for $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0).<end>
+
+=>q155
+Он твой за $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.BuyPriceWithDiscount0).<end>
+
+=>a156_original
+Devastator.<end>
+
+=>a156
+Опустошитель.<end>
+
+=>q157_original
+It's yers for $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0).<end>
+
+=>q157
+Он твой за $(context.VehicleStatus_xpbl_devastatorFrame.BuyPriceWithDiscount0).<end>
+
+=>a158_original
+Freighter.<end>
+
+=>a158
+Перевозчик.<end>
+
+=>q159_original
+It's yers for $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0).<end>
+
+=>q159
+Он твой за $(context.VehicleStatus_xpbl_freighterFrame.BuyPriceWithDiscount0).<end>
+
+=>a160_original
+It's one of the junk jets.<end>
+
+=>a160
+Один из мусорщиков.<end>
+
+=>q161_original
+Mhm. Which one?<end>
+
+=>q161
+Угу. Какой именно?<end>
+
+=>q162_original
+<end>
+
+=>q162
+<end>
+
+=>a163_original
+Junk Jet.<end>
+
+=>a163
+Мусорщик.<end>
+
+=>q164_original
+It's yers for 600.<end>
+
+=>q164
+Он твой за 600.<end>
+
+=>q165_original
+<end>
+
+=>q165
+<end>
+
+=>a166_original
+Deal. Here's the money. ::Give him 600 stygian coins.::<end>
+
+=>a166
+По рукам. Вот деньги. ::Дать ему 600 стигийских монет.::<end>
+
+=>q167_original
+<end>
+
+=>q167
+<end>
+
+=>a168_original
+::[Mercantile]:: 600 seems a bit too much. How about 400?<end>
+
+=>a168
+::[Торговля]:: 600, по-моему, слишком много. Как насчёт 400?<end>
+
+=>q169_original
+Well...<end>
+
+=>q169
+Ну...<end>
+
+=>q170_original
+Sorry, that's too low. Even for a jet like this.<end>
+
+=>q170
+Извини, это слишком мало. Даже за такой гидроцикл.<end>
+
+=>q171_original
+<end>
+
+=>q171
+<end>
+
+=>q172_original
+<end>
+
+=>q172
+<end>
+
+=>q173_original
+<end>
+
+=>q173
+<end>
+
+=>a174_original
+Deal. Here's the money. ::Give him 1100 stygian coins.::<end>
+
+=>a174
+По рукам. Вот деньги. ::Дать ему 1100 стигийских монет.::<end>
+
+=>q175_original
+<end>
+
+=>q175
+<end>
+
+=>a176_original
+::[Mercantile]:: 1100 seems a bit too much. How about 800?<end>
+
+=>a176
+::[Торговля]:: 1100, по-моему, слишком много. Как насчёт 800?<end>
+
+=>q177_original
+Well...<end>
+
+=>q177
+Ну...<end>
+
+=>a178_original
+Actually, it was that other one.<end>
+
+=>a178
+На самом деле, я имел$(#/а) в виду другой.<end>
+
+=>q179_original
+<end>
+
+=>q179
+<end>
+
+=>q180_original
+<end>
+
+=>q180
+<end>
+
+=>a181_original
+Deal. Here's the money. ::Give him 2700 stygian coins.::<end>
+
+=>a181
+По рукам. Вот деньги. ::Дать ему 2700 стигийских монет.::<end>
+
+=>q182_original
+<end>
+
+=>q182
+<end>
+
+=>a183_original
+::[Mercantile]:: 2700 seems a bit too much. How about 2300?<end>
+
+=>a183
+::[Торговля]:: 2700, по-моему, слишком много. Как насчёт 2300?<end>
+
+=>q184_original
+Well...<end>
+
+=>q184
+Ну...<end>
+
+=>a185_original
+::[Mercantile]:: This thing isn't worth more than 1900 and you know it.<end>
+
+=>a185
+::[Торговля]:: Он стоит не дороже 1900, и ты это знаешь.<end>
+
+=>q186_original
+Well...<end>
+
+=>q186
+Ну...<end>
+
+=>q187_original
+<end>
+
+=>q187
+<end>
+
+=>q188_original
+<end>
+
+=>q188
+<end>
+
+=>a189_original
+Deal. Here's the money. ::Give him 3200 stygian coins.::<end>
+
+=>a189
+По рукам. Вот деньги. ::Дать ему 3200 стигийских монет.::<end>
+
+=>q190_original
+<end>
+
+=>q190
+<end>
+
+=>a191_original
+::[Mercantile]:: 3200 seems a bit too much. How about 2800?<end>
+
+=>a191
+::[Торговля]:: 3200, по-моему, слишком много. Как насчёт 2800?<end>
+
+=>q192_original
+Well...<end>
+
+=>q192
+Ну...<end>
+
+=>a193_original
+::[Mercantile]:: This thing isn't worth more than 2400 and you know it.<end>
+
+=>a193
+::[Торговля]:: Он стоит не дороже 2400, и ты это знаешь.<end>
+
+=>q194_original
+Well...<end>
+
+=>q194
+Ну...<end>
+
+=>a195_original
+Scrap Jet.<end>
+
+=>a195
+Металлоломщик.<end>
+
+=>q196_original
+It's yers for 1100.<end>
+
+=>q196
+Он твой за 1100.<end>
+
+=>a197_original
+Skimmer.<end>
+
+=>a197
+Водорез.<end>
+
+=>q198_original
+It's yers for 2700.<end>
+
+=>q198
+Он твой за 2700.<end>
+
+=>a199_original
+Scooter.<end>
+
+=>a199
+Скутер.<end>
+
+=>q200_original
+It's yers for 3200.<end>
+
+=>q200
+Он твой за 3200.<end>
+
+=>a201_original
+Actually, it's one of the expensive ones. My bad.<end>
+
+=>a201
+Вообще-то, мне нужен один из дорогих. Мои извинения.<end>
+
+=>a202_original
+I'd like to buy back that Reef Glider I sold you before.<end>
+
+=>a202
+Я хочу выкупить свой рифовый глайдер.<end>
+
+=>q203_original
+Sorry, $(context.npc_cc_ray_playerName), but I ain't sellin' that one to anyone. I've just grown to like it way too much. At first I was like, meh, it's odd and this and that, but now I absolutely love it - love it. And the performance - hardcore. Can't deny it, can't deny it.<end>
+
+=>q203
+Извини, $(context.npc_cc_ray_playerName), но я никому его не продам. Я просто слишком к нему привязался. Сперва я сомневался, но потом, как это не странно, я по-настоящему влюбился в него - я его обожаю. И характеристики - огонь. Не могу его отвергнуть, просто не могу.<end>
+
+=>q204_original
+Ya should've thought about it real good before sellin' it to me.<end>
+
+=>q204
+Стоило хорошенько подумать, прежде чем продавать его мне.<end>
+
+=>a205_original
+Tell me about the Torpedo.<end>
+
+=>a205
+Расскажи мне о Торпедо.<end>
+
+=>q206_original
+Speed. That's all there is to the Torpedo - speed. It's one of the finest examples of Hexagon engineering. It's twice as fast as a normal jet, twice as light, comes equipped with XG Turbopower 999 electric turbochargers which brings ya from naught to hardcore in the time it takes ya to press that sweet "turbo" button. It got two engines, baby, and almost no weight. This jet, this very jet, is *the* fastest jet in South Underrail. Let me repeat that: The *fastest* jet in South Underrail. Can't deny that.<end>
+
+=>q206
+Скорость. Всё, что нужно Торпедо - скорость. Это один из лучших примеров инженерии Шестигранника. Он в два раза быстрее обычного гидроцикла и в два раза легче, оснащён электрическими турбонагнетателями "XG Turbopower 999", которые разгонят тебя с нуля до хардкора за то же время, которое у тебя займёт нажатие этой сладостной кнопочки "турбо". У него два двигателя, $(#парень/детка), но он почти ничего не весит. Этот гидроцикл, именно этот гидроцикл - самый быстрый гидроцикл в Южной Подземке. Позволь повторить ещё раз: *самый* быстрый гидроцикл в Южной Подземке. С этим не поспоришь.<end>
+
+=>q207_original
+Speed. It comes at a price, though. And not just how much coin it's worth, but the fact that the frame offers little protection and durability, and that it handles best when yer goin' in a straight line.<end>
+
+=>q207
+Скорость. Однако, за неё приходится платить. И дело не только в монетах, но и в том, что у рамы маловато защиты и прочности, и лучше всего она показывает себя при движении по прямой.<end>
+
+=>q208_original
+Speed, if that's all ya care about - get the Torpedo.<end>
+
+=>q208
+Если тебя волнует только скорость - бери Торпедо.<end>
+
+=>a209_original
+Tell me about the Blazer.<end>
+
+=>a209
+Расскажи мне о Блейзере.<end>
+
+=>q210_original
+This baby's a speeder. It's fast, light, reliable, has turbo - and it looks freakin' hardcore. My dad always used to tell me: "Son, if it got flames on it, it's badass." And so far he's been right. This is one *mean* machine, and it ain't a production machine. It's unique, one of a kind. Custom-built by skilled hands and a racer's heart.<end>
+
+=>q210
+Этот малыш - настоящий лихач. Он быстрый, лёгкий, надёжный, имеет турбонаддув - и выглядит ужасно хардкорно. Мой отец постоянно повторял: "Сынок, если на нём пламя, то это крутой засранец." И до сих пор он был прав. Это "настоящая" машина, а не конвеерный аппарат. Он уникальный, единственный в своём роде. Изготовленный на заказ умелыми руками и сердцем гонщика.<end>
+
+=>q211_original
+Didja know, back in the golden days of jet racin', before pirates started infestin' the waters and Protectorate started stickin' their nose everywhere, Mike Burnwater, the most hardcore jet racer that ever was used to dominate these waters. No one could touch him. He died, sadly, when his steerin' crapped out on him durin' a race around the Core Ring against the Great Jetso, his arch-nemesis, and he hit a wall and died in the explosion. This jet, the Blazer, was his brother's spare jet, but Mike himself did its flamin' paintjob.<end>
+
+=>q211
+Знаешь ли ты, что ещё в золотые времена гонок на гидроциклах, до того, как пираты заполонили воды и Протекторат начал везде сувать свой нос, в этих водах доминировал Майк Бёрнвотер - самый хардкорный гонщик на гидроциклах всех времён. Никто к нему не мог и приблизиться. К несчастью, когда его рулевое управление поднасрало ему прямо во время гонки по кольцу Кор против Великого Джетсо, его заклятого врага, он врезался в стену и погиб в результате взрыва. Этот гидроцикл, Блейзер, был запасным гидроциклом его брата, но окрасил пламенем его сам Майк.<end>
+
+=>q212_original
+This is not just a machine - this baby got soul. Can't deny that.<end>
+
+=>q212
+Это не просто машина - у этого малыша есть душа. С этим не поспоришь.<end>
+
+=>a213_original
+Tell me about the Phaser.<end>
+
+=>a213
+Расскажи мне о Фазере.<end>
+
+=>q214_original
+Another marvel from Hexagon. Even folks who don't like Hexagon aesthetics appreciate Phaser's mesmerizin' brilliance. There's somethin' hardcore about seein' a stream of lights shoot past ya in the dark, and that's what Phaser does best - movin' fast and lookin' stylish. Bein' the second-fastest jet I can offer ya, I think it's clear that this thing has a light frame, lotsa power and an electric turbocharger. Ya engage that and off ya go blindin' unsuspectin' folks.<end>
+
+=>q214
+Ещё одно чудо из Шестигранника. Даже люди, которым не нравится их эстетика, по достоинству оценят завораживающий блеск Фазера. Есть что-то хардкорное в том, чтобы наблюдать, как мимо тебя в темноте проносится поток света, и с этим Фазер справляется лучше всего - движется быстро и выглядит стильно. Поскольку это второй по скорости гидроцикл, который я могу тебе предложить, думаю, очевидно, что у него облегчённая рама, солидная мощность и электрический турбонагнетатель. Врубаешь его и улетаешь, ослепляя так и не одуплившийся народ.<end>
+
+=>q215_original
+If ya want style and speed, this is the jet for ya. However, this ain't the jet ya wanna be bangin' about South Underrail. Most of the frame's been made from X1-class thermoplastic which reduces weight but makes the jet a lot less resistant to damage.<end>
+
+=>q215
+Если ты хочешь стиля и скорости, то этот гидроцикл для тебя. Однако, это не тот гидроцикл, на котором ты хотел$(#/а) бы бурагозить по Южной Подземке. Почти вся рама изготовлена из термопластика класса X1, что снижает вес, но делает его куда менее устойчивым к повреждениям.<end>
+
+=>a216_original
+Tell me about the Shark.<end>
+
+=>a216
+Расскажи мне об Акуле.<end>
+
+=>q217_original
+The Shark is a jet with probably the oddest backstory I have in my shop. It's a custom-made jet that belonged to this vigilante from Junkyard, Gizzy McGold, who used to go huntin' for pirates before the Black Eels started suppressin' them. Stories say 'is wife had been zoned out by the pirates, which is why he went derailed and started killin' 'em.<end>
+
+=>q217
+Акула - это гидроцикл, пожалуй, с самой странной предысторией из всех, что есть у меня в магазине. Он был изготовлен на заказ и принадлежал одному мстителю со Свалки, Гиззи Макголду, который охотился на пиратов ещё до того, как Чёрные угри начали их подавлять. История гласит, что пираты отправили его жену в зону, из-за чего он сошёл с рельсов и принялся их убивать.<end>
+
+=>q218_original
+From what I know, it started out as yer typical junk jet, maybe an old SL model frame, but he put some decent armor on it, installed this triple rocket launcher - which uses Harp-1 rockets, and I got them for sale - good components... and then he went huntin'. Its speed is o-kay, but whatcha really want it for is its good armor and dominatin' firepower.<end>
+
+=>q218
+Судя по тому, что я знаю, он начал с обычного мусорщика, возможно, со старой рамы модели SL, но затем поставил на него приличную броню, эту тройную ракетную установку, использующую ракеты Арфа-1 - у меня они, кстати, есть на продажу - и качественные детали... а потом он отправился на охоту. У него неплохая скорость, но настоящая причина, по которой он тебе нужен - это отличная броня и доминирующая огневая мощь.<end>
+
+=>q219_original
+Gizzy got zoned out a long time ago - not by pirates but by some teenage thug at The Rig - after which his jet went from hand to hand before it reached me.<end>
+
+=>q219
+Гиззи давным-давно отправили в зону - не пираты, а какой-то малолетний головорез с Буровой - после чего его гидроцикл долго ходил по рукам, пока, наконец, не попал ко мне.<end>
+
+=>a220_original
+Tell me about the Glow.<end>
+
+=>a220
+Расскажи мне о Светоче.<end>
+
+=>q221_original
+If Blazer's been made to speed in style, Glow's been made to zone out in style. Its whole frame has been made, or more specifically "additively manufactured," from the high-quality X3 thermoplastic which offers great durability and - due to the advantages of basically printin' a vehicle - a uniquely hardcore appearance. And o-kay speed, considerin' the weight of the frame.<end>
+
+=>q221
+Если Блейзер был создан для стильной быстрой езды, то Светоч был создан для стильной отправки в зону. Вся его рама была изготовлена или, если быть более точным, "аддитивно произведена" из высококлассного термопластика X3, гарантирующего высокую прочность и - в основном благодаря преимуществам 3D печати - уникально хардкорный внешний вид. А заодно и приличную скорость, учитывая вес рамы.<end>
+
+=>q222_original
+It comes with XL 55 twin lasers which draw power from the jet's primary battery. Ya gotta watch out not to use up all yer juice when shootin' those things. 
+
+The only real drawback this thing got is that it leaves ya a bit exposed. But other than that, it's one dominatin' jet. Can't deny that.<end>
+
+=>q222
+В комплектацию входят двойные лазеры XL 55, потребляющие энергию основной батареи гидроцикла. Нужно быть осмотрительнее, чтобы не выжать все соки, пока палишь из этих крошек.
+
+Единственный реальный недостаток - на нём ты остаёшься слегка незащищённым. Но в остальном, это один из самых доминирующих гидроциклов. С этим не поспоришь.<end>
+
+=>a223_original
+Tell me about the Plasma Leviator.<end>
+
+=>a223
+Расскажи мне о Плазменном левиаторе.<end>
+
+=>q224_original
+Glow's bigger brother. The Plasma Leviator is yet another hardcore jet hailin' from good ol' Hexagon. This thing is definitely not as stylish as Glow, but it packs a bigger punch without a question. Instead of lasers, this thing's got XP 39 twin plasma cannons which draw power from the jet's batteries. Yeah, it's got two, since this thing's a power hog.<end>
+
+=>q224
+Старший брат Светоча. Плазменный левиатор - ещё один хардкорный гидроцикл, родом из старого доброго Шестигранника. Этот аппарат определённо не так стилен, как Светоч, но без сомнения бьёт он куда больнее. Вместо лазеров у него двойные плазменные пушки XP 39, питающиеся от батарей гидроцикла. И да, у него их две, ведь этот зверь - пожиратель энергии.<end>
+
+=>q225_original
+It's fairly slow due to its heavy armor and is the right choice for those who'd rather be tradin' speed for some extra protection and firepower.<end>
+
+=>q225
+Он довольно медленный из-за своей тяжёлой брони, а потому идеально подходит для тех, кто предпочитает променять скорость на дополнительную защиту и огневую мощь.<end>
+
+=>a226_original
+Tell me about the Devastator.<end>
+
+=>a226
+Расскажи мне об Опустошителе.<end>
+
+=>q227_original
+Devastator. The name says it all. Devastator. Manufactured by Biocorp Armory, Devastators were designed to be tanks on water and were to be used by the Underrail Protectorate. Equipped with a single state-of-the-art FC-2 fusion cannon, there isn't a vessel in this world short of a battleship that can come up against this ridable domination.<end>
+
+=>q227
+Опустошитель. Названием сказано всё. *Опустошитель*. Изготовленные оружейной Биокорп, они должны были стать танками на воде и верно служить Протекторату Подземки. Они оборудованы одной ультрасовременной термоядерной пушкой FC-2, и в этом мире нет судна меньше линкора, способного противостоять такому доминированию.<end>
+
+=>q228_original
+However, it turns out the cost of makin' one of these, primarily because of the fusion cannon, was too high for Biocorp Armory to mass produce, especially once they figured out they rarely needed anythin' better than their old trusty Cruiser. Around ten of these have been made, and a few have been purchased by some dominatingly wealthy gentlemen in North Underrail. Eventually, one of those ended up here.<end>
+
+=>q228
+Однако, оказалось, что стоимость производства одной единицы - в первую очередь из-за термоядерной пушки - слишком высока, чтобы оружейная Биокорп поставила их на конвейер, особенно после того, как они осознали, что редко нуждаются в чём-то превосходящем их старый надёжный патрульный гидроцикл. Таких было изготовлено всего около десяти, и пару из них приобрели доминирующе состоятельные джентльмены Северной Подземки. И вот, в конечном итоге, один из них оказался здесь.<end>
+
+=>q229_original
+What more can I say? It's slow even with two engines, it's devastatin', it has two batteries to last a long time... and it's the most expensive jet I got to offer.<end>
+
+=>q229
+Что я могу добавить? Он медленный даже с двумя двигателями, опустошительный, у него две батареи, чтобы хватало надолго... и это самый дорогой гидроцикл из всех, что я могу тебе предложить.<end>
+
+=>a230_original
+Tell me about the Freighter.<end>
+
+=>a230
+Расскажи мне о Перевозчике.<end>
+
+=>q231_original
+This jet is for those who got a lot of heavy baggage and a lot of time on their hands. The Biocorp Industries Freighter is a sturdy, affordable jet with two engines and two batteries, and o-kay protection. It's heavy and it's slow, but even with stock components it'll never struggle no matter how much stuff you've stuffed in it.<end>
+
+=>q231
+Этот гидроцикл предназначен для тех, кто любит возить с собой много тяжеловесного багажа и у кого уйма свободного времени. Перевозчик Биокорп Индастриз - это прочный, недорогой гидроцикл с двумя двигателями и двумя батареями, а также неплохой защитой. Он тяжёлый и медленный, но даже с заводскими комплектующими, ему нипочём любой груз, сколько бы ты в него ни запихал$(#/а).<end>
+
+=>q232_original
+Even though it isn't "designed" for towin', it can tow other jets no problem. Hell, I've used one of these many years ago to tow a small ferry, and I betcha can use it to even tow one of them fat rat yachts. And ya might find this surprisin', but it's one of the most comfortable and stable jets around, even when goin' at top speed. Can't deny that.<end>
+
+=>q232
+И хотя он не "предназначен" для буксировки, он без труда может буксировать другие гидроциклы. Чёрт, да я сам как-то давным-давно буксировал на таком небольшой паром, и готов поспорить, что он справится даже с яхтой какой-нибудь жирной крысы. И, может, тебя это удивит, но он - один из самых удобных и устойчивых гидроциклов в Подземке, даже на полном ходу. С этим не поспоришь.<end>
+
+=>a233_original
+What can you tell me about junk jets?<end>
+
+=>a233
+Что ты можешь рассказать мне о мусорщиках?<end>
+
+=>q234_original
+The junk jets, as normal folks and pros alike tend to call 'em, are basically makeshift jets made from whatever's been lyin' around. They can come in many different shapes and sizes, but there are generally four frames which are used as bases for further modification. Twenty, thirty years ago, before the dissolution of Biocorp, there had been a large demand for jets, apparently. Since then a lot of those have been abandoned, damaged or disassembled, so folks have been takin' what they could find and started modifyin' them.<end>
+
+=>q234
+Мусорщики, как их обычно называет и простой народ, и профессионалы - это в основном самодельные гидроциклы, собранные из всего, что попалось под руку. Они бывают самых разных форм и размеров, но чаще всего встречаются четыре рамы, используемые в качестве основы для дальнейшей модификации. Судя по всему, лет двадцать-тридцать тому назад, ещё до распада Биокорп, спрос на гидроциклы был очень велик. С тех пор многие из них были брошены, поломаны или разобраны, поэтому люди собирали всё, что могли найти, и стали их модифицировать.<end>
+
+=>q235_original
+The basic junk jet, the one that comes to everyone's mind when ya say "jet," is a small standin' jet. It's got o-kay speed, low durability, a simple trunk - but it gets the job done.<end>
+
+=>q235
+Типичный "мусорщик", тот, который приходит на ум каждому, когда произносишь "гидроцикл" - это малогабаритный аппарат без сиденья. У него неплохая скорость, небольшой запас прочности, простенький багажник - но с задачей своей он справляется.<end>
+
+=>q236_original
+Scrap jet is a more modern term for a larger standin' jet, 'cuz it got a bit more scrap on it. It's slightly heavier, but it offers more protection and durability.<end>
+
+=>q236
+Металлоломщик - более современный термин для обозначения стоячего гидроцикла покрупнее, оттого что на нём побольше металлолома. Он немного тяжелее, но обладает большей защитой и прочностью.<end>
+
+=>q237_original
+Then there's the "skimmer," which is the smaller kind of the sittin' jets, and the "scooter", the larger one. Sittin' jets are in general more durable but are slower. 
+
+What really makes the junk jets are their components. They might not be able to compete with the brand-name or higher-quality custom-built jets, but ya can tweak 'em and tune 'em to get somethin' really good for little coin.<end>
+
+=>q237
+Ещё есть "водорез", который относится к типу малых сидячих гидроциклов, и "скутер", тот, что побольше. Сидячие гидроциклы, как правило, попрочнее, но и помедленнее.
+
+Что действительно отличает мусорщиков, так это их компоненты. Может, они и не сравнятся с фирменными или высококачественными гидроциклами, собранными на заказ, но их можно подрегулировать и прокачать, чтобы получить что-то реально хорошее за небольшую сумму.<end>
+
+=>a238_original
+What are some important things I need to know when choosing a jet ski?<end>
+
+=>a238
+Что самое важное при выборе гидроцикла?<end>
+
+=>q239_original
+Well, it depends on whatcha want from yer jet, but basically ya can break it down into four parts ya gotta consider: the frame - that's the most important one - the engine, the battery and the suspension. There's a bunch of stuff ya can get for yer jet, accessories and what not, but these four are the pipes and barrels.<end>
+
+=>q239
+Что ж, это зависит от того, чего ты хочешь от своего гидроцикла, но в принципе его можно разделить на четыре составляющие, которым нужно уделить внимание: рама - самое важное - двигатель, батарея и подвеска. Есть куча всего, что можно надыбать для своего гидоцикла, аксессуаров и всего такого, но эти четыре - трубы и бочки.<end>
+
+=>q240_original
+<end>
+
+=>q240
+<end>
+
+=>a241_original
+Tell me more about frames.<end>
+
+=>a241
+Расскажи мне поподробнее о рамах.<end>
+
+=>q242_original
+The frame is the jet itself. Ya can exchange engines and batteries - with limitations, of course - and tune yer jet to yer likin', but ya change the frame and it ain't the same jet no more. Ya want a speeder? Ya get a light, slick, sexy frame. Ya want a fighter? Ya want it to be sturdy, to have guns and armor. Ya wanna haul loot? Room for a big engine so ya got a lotta power.<end>
+
+=>q242
+Рама - это и есть гидроцикл. Можно заменить двигатели и батареи - конечно, с определёнными ограничениями - и подстроить свой гидроцикл под себя, но поменяй раму, и это будет уже другой гидроцикл. Нужен гонщик? Выбирай лёгкую, обтекаемую, сексапильную раму. Нужен боец? Тебе необходима прочная рама с оружием и бронёй. Хочешь возить добычу? Нужен отсек для большого двигателя, чтобы тебе хватало мощности.<end>
+
+=>q243_original
+Speakin' of that, weight of the frame is a very important thing, 'cuz no matter how hardcore yer engine is, if that thing's too heavy, ya ain't gonna be doin' any racin' with it. Some frames can support certain components which others cannot, and some can even support multiple engines and batteries. So ya gotta be thinkin' about that as well if ya wanna upgrade yer jet.<end>
+
+=>q243
+Раз уж зашла речь... крайне важен вес рамы, ведь независимо от того, насколько у тебя хардкорный двигатель, если рама слишком тяжёлая, особо не погоняешь. На некоторые рамы можно установить компоненты, каких на другие не поставишь, а определённые даже поддерживают работу с несколькими двигателями и батареями. Так что стоит учитывать это, если собираешься усовершенствовать свой гидроцикл.<end>
+
+=>a244_original
+Tell me more about engines.<end>
+
+=>a244
+Расскажи мне поподробнее о двигателях.<end>
+
+=>q245_original
+The engine is what makes yer jet move. Now, before I continue, I work with electrics only. I say that 'cuz there are ass-joes out there that do build jets - and vehicles in general - that got internal combustion engines. Yeah, yeah. Mhm. People use what people got layin' about, eh?<end>
+
+=>q245
+Двигатель - это сердце гидроцикла, которое приводит его в движение. И прежде чем продолжить, хочу заметить, что работаю только с электрическими. Я говорю это потому, что есть такие выпердыши, которые собирают гидроциклы - да и вообще любой транспорт - на двигателях внутреннего сгорания. Да-да. Ага. Люди используют то, что другие выкидывают, верно?<end>
+
+=>q246_original
+Anyways, when it comes to engines, things are fairly straightforward, especially nowadays when everythin' so modular. By the way, some jets can support *two* engines, so ya just connect the extra one and now ya got two. Easy-peasy. <end>
+
+=>q246
+Так или иначе, когда дело доходит до двигателей, всё довольно просто, особенно в наши времена модульных решений. Кстати, некоторые гидроциклы поддерживают работу *двух* двигателей, просто подключаешь дополнительный, и теперь у тебя их два. Как два пальца.<end>
+
+=>q247_original
+The better the engine is, the more power yer jet's gonna have and the faster it's gonna go. Ya got some limitations on the size of the engine ya can put in a jet, of course, which mostly depends on its frame, and some engines use more juice than others relative to their output. Other than that, though, it's just a matter of cashin' it out and puttin' it in, and that's somethin' even a zoner can do. If he had the coins...<end>
+
+=>q247
+Чем лучше двигатель, тем больше мощи и скорости будет выдавать твой гидроцикл. Конечно, в зависимости от рамы существуют ограничения на размер двигателя, который можно установить, и некоторые двигатели потребляют больше энергии, чем другие, в сравнении с их мощностью. Что касается остального, то всё сводится к тому, чтобы выложить за него сумму и воткнуть в гидроцикл, а с этим справился бы даже зонер. Если бы у него были монеты...<end>
+
+=>a248_original
+Tell me more about batteries.<end>
+
+=>a248
+Расскажи мне поподробнее о батареях.<end>
+
+=>q249_original
+A jet ain't gonna run on love and carin' - it needs juice. The battery's what provides that very juice. Pretty much all jet batteries got the same voltage, so they are interchangeable, therefore the differences between batteries lie primarily in their size and their capacity. <end>
+
+=>q249
+Гидроцикл не будет работать лишь на любви и заботе - ему нужна энергия. Именно батарея обеспечивает его этой самой энергией. Практически все батареи гидроциклов одинаковы по напряжению, поэтому они взаимозаменяемы, а различия заключаются, прежде всего, в их размерах и ёмкости.<end>
+
+=>q250_original
+The higher the capacity, the longer ya can drive yer jet before needin' to recharge it. If ya can't fit a battery in yer frame, ya better choose a smaller battery. And that's it, $(context.npc_cc_ray_playerName). That's all ya gotta know about jet batteries.<end>
+
+=>q250
+Чем больше ёмкость, тем дольше ты сможешь гонять, прежде чем тебе понадобится подзаряжать гидроцикл. Если не удаётся воткнуть батарею в свою раму, придётся выбрать батарею поменьше. Вот и всё, $(context.npc_cc_ray_playerName). Больше тебе ничего и не надо знать о батареях для гидроциклов.<end>
+
+=>a251_original
+Tell me more about suspension.<end>
+
+=>a251
+Расскажи мне поподробнее о подвеске.<end>
+
+=>q252_original
+The suspension is what keeps yer jet stable and easier to control. Technically, ya can do without it, but let's face it - life's a lot better if ya got it. Water is an uneven surface, where even when there aren't any waves yer still ridin' on somethin' that's providin' a lot of resistance.<end>
+
+=>q252
+Подвеска - это то, что сохраняет стабильность твоего гидроцикла и облегчает его управление. Технически, можно обойтись и без неё, но посмотрим правде в глаза - с ней жизнь становится куда проще. Вода неравномерна, и даже когда нет волн, рассекая её, ты всё равно сталкиваешься с сильным сопротивлением.<end>
+
+=>q253_original
+Suspension helps ya improve yer ride quality, keep yer aim steadier and makes yer landin' much better when yer bouncin' over them waves at a hundred kilometers an hour. The most important thing is to make sure the size of the suspension is right for the jet. Everythin' else is just a matter of how much coin ya want to exchange for stability.<end>
+
+=>q253
+Подвеска помогает тебе повысить качество езды, проще прицеливаться и куда мягче приземляться, когда прыгаешь по волнам на сотне километров в час. Самое главное - убедиться, что подвеска подходит к гидроциклу по размеру. Всё остальное зависит только от того, сколько монет ты готов$(#/а) обменять на устойчивость.<end>
+
+=>a254_original
+Got it. Let's talk about jet skis.<end>
+
+=>a254
+Ясно. Поговорим о гидроциклах.<end>
+
+=>q255_original
+Hardcore.<end>
+
+=>q255
+Хардкор.<end>
+
+=>a256_original
+There was something else I wanted to ask you.<end>
+
+=>a256
+Я хотел$(#/а) поговорить ещё кое о чём.<end>
+
+=>q257_original
+Whatcha need?<end>
+
+=>q257
+Что тебе нужно?<end>
+
+=>a258_original
+Can I take a closer look at the jet skis?<end>
+
+=>a258
+Можно мне поближе взглянуть на гидроциклы?<end>
+
+=>q259_original
+Sure, sure. Inspect any jet ya like. And feel free to take a look at what's under the hood, heh. If ya got questions, just ask.<end>
+
+=>q259
+Конечно, конечно. Осмотривай любой, какой приглянётся. И не стесняйтесь заглянуть под капот, хех. Спрашивай, если возникнут вопросы.<end>
+
+=>a260_original
+Thanks. I will.<end>
+
+=>a260
+Спасибо. Я так и сделаю.<end>
+
+=>a261_original
+I'll go take a closer look at the jet skis.<end>
+
+=>a261
+Пойду-ка я поближе взгляну на гидроциклы.<end>
+
+=>q262_original
+I'll be around if ya need anythin'.<end>
+
+=>q262
+Я буду рядом, если что-то понадобится.<end>
+
+=>a263_original
+I'd like to take a look at some of the jet skis you have available.<end>
+
+=>a263
+Я хотел$(#/а) бы взглянуть на имеющиеся гидроциклы.<end>
+
+=>q264_original
+So, whatcha interested in?<end>
+
+=>q264
+Итак, что тебя интересует?<end>
+
+=>a265_original
+Show me what you got. ::Barter.::<end>
+
+=>a265
+Покажи, что у тебя есть. ::Обмен.::<end>
+
+=>a266_original
+Is that all you got in your inventory, Ray? I expected a better selection from the only jet ski shop in South Underrail.<end>
+
+=>a266
+Это всё, что у тебя есть, Рэй? Я ожидал$(#/а) лучшего выбора от единственного магазина продающего гидроциклы в Южной Подземке.<end>
+
+=>q267_original
+I can't say whether I have somethin' hardcore lyin' in the back, but I can say that if I did, it would be for special customers only.<end>
+
+=>q267
+Не могу сказать, есть ли у меня в загашнике что-то хардкорное, но если бы оно и было, то предназначалось бы только для особых клиентов.<end>
+
+=>a268_original
+::[Mercantile]:: If being one of your special customers means having more money than self-control, then I might just be that kind of person.<end>
+
+=>a268
+::[Торговля]:: Если быть одним из твоих особых клиентов означает иметь больше денег, чем самообладания, тогда я могу быть именно таким клиентом.<end>
+
+=>q269_original
+Eh, I can't reveal what makes one a special customer, but ya certainly got it. Check this out.<end>
+
+=>q269
+Э-э, я не могу объяснить, что делает клиента особенным, но у тебя это точно есть. Зацени товар.<end>
+
+=>q270_original
+<end>
+
+=>q270
+<end>
+
+=>q271_original
+Ya don't look the part, $(context.npc_cc_ray_playerName). Yeah-- I mean I ain't sayin' that's what makes a special customer in the first place, no.<end>
+
+=>q271
+С виду не скажешь, $(context.npc_cc_ray_playerName). Ага... в смысле, я не говорю, что именно это в первую очередь делает клиента особенным, нет.<end>
+
+=>a272_original
+I see. I'm interested in something else, then.<end>
+
+=>a272
+Ясно. Тогда меня интересует кое-что другое.<end>
+
+=>a273_original
+I need some spare parts.<end>
+
+=>a273
+Мне нужны запчасти.<end>
+
+=>q274_original
+Yer in the right place, $(context.npc_cc_ray_playerName), 'cuz <end>
+
+=>q274
+С этим ты по адресу, $(context.npc_cc_ray_playerName), ведь<end>
+
+=>a275_original
+I'd like to sell a jet to you.<end>
+
+=>a275
+Я бы хотел$(#/а) продать тебе гидроцикл.<end>
+
+=>q276_original
+So ya know, I ain't interested in buyin' no junk jets - ya know, the makeshift ones. I'm interested in quality jets only. If that's whatcha got, just <end>
+
+=>q276
+Чтобы ты знал$(#/а), я не заинтересован в покупке мусорщиков... ну, тех - самодельных. Меня интересуют только качественные гидроциклы. Если у тебя именно такой, тогда<end>
+
+=>q277_original
+bring yer jet inside and we'll take a look at 'er. There're buttons by the jet lift ya can use to raise and lower the gate.<end>
+
+=>q277
+загоняй его внутрь, а мы на него взглянем. Рядом с подъёмником есть кнопки, которыми можно поднять и опустить ворота.<end>
+
+=>q278_original
+<end>
+
+=>q278
+<end>
+
+=>a279_original
+How much will you give me for the Torpedo?<end>
+
+=>a279
+Сколько ты дашь за Торпедо?<end>
+
+=>q280_original
+Well... I'd say around... hmmm... <end>
+
+=>q280
+Ну... скажем... хм-м-м...<end>
+
+=>q281_original
+$(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease0). <end>
+
+=>q281
+$(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease0).<end>
+
+=>q282_original
+I ain't buyin' it without the key, just so ya know. If ya got the key, and ya agree to the price, then we got ourselves a deal.<end>
+
+=>q282
+И чтобы ты знал$(#/а), я не стану покупать его без родного ключа. Если у тебя есть ключ и ты соглас$(#ен/на) на цену, значит, мы договорились.<end>
+
+=>q283_original
+<end>
+
+=>q283
+<end>
+
+=>q284_original
+<end>
+
+=>q284
+<end>
+
+=>a285_original
+We got ourselves a deal. ::Sell the Torpedo for $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease0).::<end>
+
+=>a285
+По рукам. ::Продать Торпедо за $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease0).::<end>
+
+=>q286_original
+<end>
+
+=>q286
+<end>
+
+=>q287_original
+<end>
+
+=>q287
+<end>
+
+=>q288_original
+$(context.npc_cc_ray_playerName), ya got yerself a deal.<end>
+
+=>q288
+$(context.npc_cc_ray_playerName), считай, договорились.<end>
+
+=>q289_original
+<end>
+
+=>q289
+<end>
+
+=>q290_original
+Oh, and if ya think ya might've forgotten somethin' in yer jet, check that gray locker in the corner of my office. I put everythin' I find there. Okay?<end>
+
+=>q290
+Да, и если тебе кажется, что ты забыл$(#/а) вещи в своём гидроциклe, то проверь тот серый шкафчик в углу моего кабинета. Я складываю в него всё, что нахожу. Хорошо?<end>
+
+=>a291_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease1) and it's yours.<end>
+
+=>a291
+::[Торговля]:: $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease1) и он твой.<end>
+
+=>q292_original
+<end>
+
+=>q292
+<end>
+
+=>q293_original
+::He sighs.:: Ya drive a hard bargain. O-kay, <end>
+
+=>q293
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+
+=>q294_original
+Sorry, too much. Too much, $(context.npc_cc_ray_playerName).<end>
+
+=>q294
+Извини, но это слишком много. Слишком, $(context.npc_cc_ray_playerName).<end>
+
+=>q295_original
+<end>
+
+=>q295
+<end>
+
+=>q296_original
+<end>
+
+=>q296
+<end>
+
+=>a297_original
+We got ourselves a deal. ::Sell the Blazer for $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease0).::<end>
+
+=>a297
+По рукам. ::Продать Блейзер за $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease0).::<end>
+
+=>q298_original
+<end>
+
+=>q298
+<end>
+
+=>q299_original
+<end>
+
+=>q299
+<end>
+
+=>a300_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease1) and it's yours.<end>
+
+=>a300
+::[Торговля]:: $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease1) и он твой.<end>
+
+=>q301_original
+<end>
+
+=>q301
+<end>
+
+=>q302_original
+::He sighs.:: Ya drive a hard bargain. O-kay, <end>
+
+=>q302
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+
+=>a303_original
+::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease2)? We got a deal?<end>
+
+=>a303
+::[Торговля]:: Ну же, Рэй, ты способен на большее. Как насчёт $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease2)? Мы договорились?<end>
+
+=>q304_original
+<end>
+
+=>q304
+<end>
+
+=>a305_original
+::[Mercantile]:: What the hell, Ray? I got a guy offerin' me $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease3) and I'm wasting my time here with you.<end>
+
+=>a305
+::[Торговля]:: Какого чёрта, Рэй? Есть парень, который предлагает мне $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease3), а я тут на тебя время трачу.<end>
+
+=>q306_original
+<end>
+
+=>q306
+<end>
+
+=>a307_original
+I lost the key.<end>
+
+=>a307
+Я потерял$(#/а) ключ.<end>
+
+=>q308_original
+Then how are ya ridin'-- Never mind.<end>
+
+=>q308
+Тогда как ты на нём езд... Забудь.<end>
+
+=>q309_original
+No key, no purchase.<end>
+
+=>q309
+Нет ключа - нет покупки.<end>
+
+=>a310_original
+I need to think about this some more.<end>
+
+=>a310
+Мне нужно подумать.<end>
+
+=>q311_original
+As long as ya'd like. I ain't goin' nowhere. Not unless I get an emergency call.<end>
+
+=>q311
+Сколько понадобится. Я никуда не собираюсь уходить. Только если срочно не вызовут.<end>
+
+=>a312_original
+No. Sorry, I can't accept that.<end>
+
+=>a312
+Извини, я не могу на это согласиться.<end>
+
+=>q313_original
+I'm sorry, but that's my offer.<end>
+
+=>q313
+Мне жаль, но таково моё предложение.<end>
+
+=>q314_original
+<end>
+
+=>q314
+<end>
+
+=>q315_original
+<end>
+
+=>q315
+<end>
+
+=>a316_original
+We got ourselves a deal. ::Sell the Phaser for $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease0).::<end>
+
+=>a316
+По рукам. ::Продать Фазер за $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease0).::<end>
+
+=>q317_original
+<end>
+
+=>q317
+<end>
+
+=>q318_original
+<end>
+
+=>q318
+<end>
+
+=>a319_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease1) and it's yours.<end>
+
+=>a319
+::[Торговля]:: $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease1) и он твой.<end>
+
+=>q320_original
+<end>
+
+=>q320
+<end>
+
+=>q321_original
+::He sighs.:: Ya drive a hard bargain. O-kay, <end>
+
+=>q321
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+
+=>a322_original
+::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease2)? We got a deal?<end>
+
+=>a322
+::[Торговля]:: Ну же, Рэй, ты способен на большее. Как насчёт $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease2)? Мы договорились?<end>
+
+=>q323_original
+<end>
+
+=>q323
+<end>
+
+=>a324_original
+::[Mercantile]:: What the hell, Ray? I got a guy offerin' me $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease3) and I'm wasting my time here with you.<end>
+
+=>a324
+::[Торговля]:: Какого чёрта, Рэй? Есть парень, который предлагает мне $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease3), а я тут на тебя время трачу.<end>
+
+=>q325_original
+<end>
+
+=>q325
+<end>
+
+=>a326_original
+I lost the key.<end>
+
+=>a326
+Я потерял$(#/а) ключ.<end>
+
+=>q327_original
+<end>
+
+=>q327
+<end>
+
+=>q328_original
+<end>
+
+=>q328
+<end>
+
+=>a329_original
+We got ourselves a deal. ::Sell the Shark for $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease0).::<end>
+
+=>a329
+По рукам. ::Продать Акулу за $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease0).::<end>
+
+=>q330_original
+<end>
+
+=>q330
+<end>
+
+=>q331_original
+<end>
+
+=>q331
+<end>
+
+=>a332_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease1) and it's yours.<end>
+
+=>a332
+::[Торговля]:: $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease1) и он твой.<end>
+
+=>q333_original
+<end>
+
+=>q333
+<end>
+
+=>q334_original
+::He sighs.:: Ya drive a hard bargain. O-kay, <end>
+
+=>q334
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+
+=>a335_original
+::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease2)? We got a deal?<end>
+
+=>a335
+::[Торговля]:: Ну же, Рэй, ты способен на большее. Как насчёт $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease2)? Мы договорились?<end>
+
+=>q336_original
+<end>
+
+=>q336
+<end>
+
+=>a337_original
+::[Mercantile]:: What the hell, Ray? I got a guy offerin' me $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease3) and I'm wasting my time here with you.<end>
+
+=>a337
+::[Торговля]:: Какого чёрта, Рэй? Есть парень, который предлагает мне $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease3), а я тут на тебя время трачу.<end>
+
+=>q338_original
+<end>
+
+=>q338
+<end>
+
+=>a339_original
+I lost the key.<end>
+
+=>a339
+Я потерял$(#/а) ключ.<end>
+
+=>q340_original
+<end>
+
+=>q340
+<end>
+
+=>q341_original
+<end>
+
+=>q341
+<end>
+
+=>a342_original
+We got ourselves a deal. ::Sell the Glow for $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease0).::<end>
+
+=>a342
+По рукам. ::Продать Светоч за $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease0).::<end>
+
+=>q343_original
+<end>
+
+=>q343
+<end>
+
+=>q344_original
+<end>
+
+=>q344
+<end>
+
+=>a345_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease1) and it's yours.<end>
+
+=>a345
+::[Торговля]:: $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease1) и он твой.<end>
+
+=>q346_original
+<end>
+
+=>q346
+<end>
+
+=>q347_original
+::He sighs.:: Ya drive a hard bargain. O-kay, <end>
+
+=>q347
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+
+=>a348_original
+::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease2)? We got a deal?<end>
+
+=>a348
+::[Торговля]:: Ну же, Рэй, ты способен на большее. Как насчёт $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease2)? Мы договорились?<end>
+
+=>q349_original
+<end>
+
+=>q349
+<end>
+
+=>a350_original
+::[Mercantile]:: What the hell, Ray? I got a guy offerin' me $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease3) and I'm wasting my time here with you.<end>
+
+=>a350
+::[Торговля]:: Какого чёрта, Рэй? Есть парень, который предлагает мне $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease3), а я тут на тебя время трачу.<end>
+
+=>q351_original
+<end>
+
+=>q351
+<end>
+
+=>a352_original
+I lost the key.<end>
+
+=>a352
+Я потерял$(#/а) ключ.<end>
+
+=>q353_original
+<end>
+
+=>q353
+<end>
+
+=>q354_original
+<end>
+
+=>q354
+<end>
+
+=>a355_original
+We got ourselves a deal. ::Sell the Plasma Leviator for $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease0).::<end>
+
+=>a355
+По рукам. ::Продать Плазменный левиатор за $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease0).::<end>
+
+=>q356_original
+<end>
+
+=>q356
+<end>
+
+=>q357_original
+<end>
+
+=>q357
+<end>
+
+=>a358_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease1) and it's yours.<end>
+
+=>a358
+::[Торговля]:: $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease1) и он твой.<end>
+
+=>q359_original
+<end>
+
+=>q359
+<end>
+
+=>q360_original
+::He sighs.:: Ya drive a hard bargain. O-kay, <end>
+
+=>q360
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+
+=>a361_original
+::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease2)? We got a deal?<end>
+
+=>a361
+::[Торговля]:: Ну же, Рэй, ты способен на большее. Как насчёт $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease2)? Мы договорились?<end>
+
+=>q362_original
+<end>
+
+=>q362
+<end>
+
+=>a363_original
+::[Mercantile]:: What the hell, Ray? I got a guy offerin' me $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease3) and I'm wasting my time here with you.<end>
+
+=>a363
+::[Торговля]:: Какого чёрта, Рэй? Есть парень, который предлагает мне $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease3), а я тут на тебя время трачу.<end>
+
+=>q364_original
+<end>
+
+=>q364
+<end>
+
+=>a365_original
+I lost the key.<end>
+
+=>a365
+Я потерял$(#/а) ключ.<end>
+
+=>q366_original
+<end>
+
+=>q366
+<end>
+
+=>q367_original
+<end>
+
+=>q367
+<end>
+
+=>a368_original
+We got ourselves a deal. ::Sell the Devastator for $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease0).::<end>
+
+=>a368
+По рукам. ::Продать Опустошитель за $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease0).::<end>
+
+=>q369_original
+<end>
+
+=>q369
+<end>
+
+=>q370_original
+<end>
+
+=>q370
+<end>
+
+=>a371_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease1) and it's yours.<end>
+
+=>a371
+::[Торговля]:: $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease1) и он твой.<end>
+
+=>q372_original
+<end>
+
+=>q372
+<end>
+
+=>q373_original
+::He sighs.:: Ya drive a hard bargain. O-kay, <end>
+
+=>q373
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+
+=>a374_original
+::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease2)? We got a deal?<end>
+
+=>a374
+::[Торговля]:: Ну же, Рэй, ты способен на большее. Как насчёт $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease2)? Мы договорились?<end>
+
+=>q375_original
+<end>
+
+=>q375
+<end>
+
+=>a376_original
+::[Mercantile]:: What the hell, Ray? I got a guy offerin' me $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease3) and I'm wasting my time here with you.<end>
+
+=>a376
+::[Торговля]:: Какого чёрта, Рэй? Есть парень, который предлагает мне $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease3), а я тут на тебя время трачу.<end>
+
+=>q377_original
+<end>
+
+=>q377
+<end>
+
+=>a378_original
+I lost the key.<end>
+
+=>a378
+Я потерял$(#/а) ключ.<end>
+
+=>q379_original
+<end>
+
+=>q379
+<end>
+
+=>q380_original
+<end>
+
+=>q380
+<end>
+
+=>a381_original
+We got ourselves a deal. ::Sell the Freighter for $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease0).::<end>
+
+=>a381
+По рукам. ::Продать Перевозчик за $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease0).::<end>
+
+=>q382_original
+<end>
+
+=>q382
+<end>
+
+=>q383_original
+<end>
+
+=>q383
+<end>
+
+=>a384_original
+::[Mercantile]:: $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease1) and it's yours.<end>
+
+=>a384
+::[Торговля]:: $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease1) и он твой.<end>
+
+=>q385_original
+<end>
+
+=>q385
+<end>
+
+=>q386_original
+::He sighs.:: Ya drive a hard bargain. O-kay, <end>
+
+=>q386
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+
+=>a387_original
+::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease2)? We got a deal?<end>
+
+=>a387
+::[Торговля]:: Ну же, Рэй, ты способен на большее. Как насчёт $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease2)? Мы договорились?<end>
+
+=>q388_original
+<end>
+
+=>q388
+<end>
+
+=>a389_original
+::[Mercantile]:: What the hell, Ray? I got a guy offerin' me $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease3) and I'm wasting my time here with you.<end>
+
+=>a389
+::[Торговля]:: Какого чёрта, Рэй? Есть парень, который предлагает мне $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease3), а я тут на тебя время трачу.<end>
+
+=>q390_original
+<end>
+
+=>q390
+<end>
+
+=>a391_original
+I lost the key.<end>
+
+=>a391
+Я потерял$(#/а) ключ.<end>
+
+=>a392_original
+::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease2)? We got a deal?<end>
+
+=>a392
+::[Торговля]:: Ну же, Рэй, ты способен на большее. Как насчёт $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease2)? Мы договорились?<end>
+
+=>q393_original
+<end>
+
+=>q393
+<end>
+
+=>a394_original
+::[Mercantile]:: What the hell, Ray? I got a guy offerin' me $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease3) and I'm wasting my time here with you.<end>
+
+=>a394
+::[Торговля]:: Какого чёрта, Рэй? Есть парень, который предлагает мне $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease3), а я тут на тебя время трачу.<end>
+
+=>q395_original
+<end>
+
+=>q395
+<end>
+
+=>a396_original
+I lost the key.<end>
+
+=>a396
+Я потерял$(#/а) ключ.<end>
+
+=>q397_original
+$(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease0). <end>
+
+=>q397
+$(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease0).<end>
+
+=>q398_original
+$(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease0). <end>
+
+=>q398
+$(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease0).<end>
+
+=>q399_original
+$(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease0). <end>
+
+=>q399
+$(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease0).<end>
+
+=>q400_original
+$(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease0). <end>
+
+=>q400
+$(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease0).<end>
+
+=>q401_original
+$(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease0). <end>
+
+=>q401
+$(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease0).<end>
+
+=>q402_original
+$(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease0). <end>
+
+=>q402
+$(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease0).<end>
+
+=>q403_original
+$(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease0). <end>
+
+=>q403
+$(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease0).<end>
+
+=>a404_original
+How much will you give me for the Blazer?<end>
+
+=>a404
+Сколько ты дашь за Блейзер?<end>
+
+=>a405_original
+How much will you give me for the Phaser?<end>
+
+=>a405
+Сколько ты дашь за Фазер?<end>
+
+=>a406_original
+How much will you give me for the Shark?<end>
+
+=>a406
+Сколько ты дашь за Акулу?<end>
+
+=>a407_original
+How much will you give me for the Glow?<end>
+
+=>a407
+Сколько ты дашь за Светоч?<end>
+
+=>a408_original
+How much will you give me for the Plasma Leviator?<end>
+
+=>a408
+Сколько ты дашь за Плазменный левиатор?<end>
+
+=>a409_original
+How much will you give me for the Devastator?<end>
+
+=>a409
+Сколько ты дашь за Опустошитель?<end>
+
+=>a410_original
+How much will you give me for the Freighter?<end>
+
+=>a410
+Сколько ты дашь за Перевозчик?<end>
+
+=>a411_original
+How much will you give me for the Protectorate Cruiser?<end>
+
+=>a411
+Сколько ты дашь за гидроцикл Протектората?<end>
+
+=>q412_original
+Whoa, whoa, hold down a second here. I can't just purchase some random military or, or law enforcement jets. These things can get a man in a lotta trouble, especially if their background ain't as clear as it should be.<end>
+
+=>q412
+Опаньки, ну-ка притормози. Я не могу просто взять и купить какой-нибудь шальной гидроцикл военных или силовиков. Подобные вещи могут навлечь массу неприятностей, особенно если их прошлое покрыто туманом.<end>
+
+=>a413_original
+It's not like you don't sell military jets already.<end>
+
+=>a413
+Будто ты сам не торгуешь военными гидроциклами.<end>
+
+=>q414_original
+I got the Devastator fair and square, with proper papers and all, and no one ever bothered me about it. Still, I ain't flauntin' it around just in case. But this? No. Sorry.<end>
+
+=>q414
+Опустошитель достался мне по всем правилам, с сопутствующими бумагами и прочей фигнёй, никому за него не придраться. И всё же, на всякий случай, я им не хвастаюсь. Но это? Нет, уж извини.<end>
+
+=>q415_original
+I don't want someone knockin' on my door and askin' questions.<end>
+
+=>q415
+Я не хочу, чтобы однажды в мою дверь постучали и стали задавать вопросы.<end>
+
+=>a416_original
+How much will you give me for the Aegis Patroller?<end>
+
+=>a416
+Сколько ты дашь за гидроцикл Эгиды?<end>
+
+=>a417_original
+I'd like to sell you a Reef Glider.<end>
+
+=>a417
+Я хотел$(#/а) бы продать тебе рифовый глайдер.<end>
+
+=>q418_original
+A... what?<end>
+
+=>q418
+Чиво-о-о?<end>
+
+=>a419_original
+Reef Glider.<end>
+
+=>a419
+Рифовый глайдер.<end>
+
+=>q420_original
+Never heard of it. <end>
+
+=>q420
+Никогда о таком не слышал.<end>
+
+=>q421_original
+What kind of a jet is it?<end>
+
+=>q421
+Что это за гидроцикл?<end>
+
+=>a422_original
+It's a very old type of jet ski, a relic, one can say. It was manufactured by NFT more than two centuries ago and the chances of finding a functional one are as slim as a zoner's wallet.<end>
+
+=>a422
+Это очень старая модель гидроцикла, можно сказать, реликвия. Его выпускала ТНГ более двух веков назад, и шансов найти такой в рабочем состоянии столько же, сколько найти кошелёк у зонера.<end>
+
+=>q423_original
+Sounds freakin' hardcore!<end>
+
+=>q423
+Звучит чертовски хардкорно!<end>
+
+=>q424_original
+How much ya askin' for it?<end>
+
+=>q424
+Сколько ты за него хочешь?<end>
+
+=>q425_original
+<end>
+
+=>q425
+<end>
+
+=>a426_original
+::[Mercantile]:: Twenty grand.<end>
+
+=>a426
+::[Торговля]:: Двадцать штук.<end>
+
+=>q427_original
+Twenty grand... Twenty grand...<end>
+
+=>q427
+Двадцать штук... Двадцать тысяч...<end>
+
+=>q428_original
+<end>
+
+=>q428
+<end>
+
+=>q429_original
+Ya got yerself a deal, $(context.npc_cc_ray_playerName).<end>
+
+=>q429
+По рукам, $(context.npc_cc_ray_playerName).<end>
+
+=>q430_original
+Got the key?<end>
+
+=>q430
+Есть ключ?<end>
+
+=>a431_original
+Here. ::Give him the key.::<end>
+
+=>a431
+Вот. ::Дать ему ключ.::<end>
+
+=>q432_original
+Hardcore. Ooh, and it's a nice-looking key too.<end>
+
+=>q432
+Хардкор. О-ох, и ключ-то какой красивый.<end>
+
+=>q433_original
+Oh, Imma enjoy takin' this baby out for its first ride, *mhm*. Soon as I close the shop, he-he.<end>
+
+=>q433
+Ах, жду не дождусь испробовать эту малышку, м-м-м. Как только закрою магазин, хе-хе.<end>
+
+=>a434_original
+No. The key has been lost a long time ago, sadly.<end>
+
+=>a434
+Нет. К сожалению, ключ был утерян давным-давно.<end>
+
+=>q435_original
+::He frowns sligthly.::
+
+I usually don't buy 'em without keys, but this... this is too hardcore to pass on. O-kay. I'm o-kay without the key.<end>
+
+=>q435
+::Он слегка хмурится.::
+
+Я обычно не покупаю их без ключей, но этот... этот слишком хардкорный, чтобы его упускать. Лады, пускай будет без ключа.<end>
+
+=>q436_original
+Sorry, too much. Too much, $(context.npc_cc_ray_playerName).<end>
+
+=>q436
+Извини, но это слишком много. Слишком, $(context.npc_cc_ray_playerName).<end>
+
+=>a437_original
+::[Mercantile]:: Seventeen grand.<end>
+
+=>a437
+::[Торговля]:: Семнадцать штук.<end>
+
+=>q438_original
+Seventeen grand... Seventeen grand...<end>
+
+=>q438
+Семнадцать штук... Семнадцать тысяч...<end>
+
+=>q439_original
+<end>
+
+=>q439
+<end>
+
+=>a440_original
+::[Mercantile]:: Fifteen grand.<end>
+
+=>a440
+::[Торговля]:: Пятнадцать штук.<end>
+
+=>q441_original
+Fifteen grand... Fifteen grand...<end>
+
+=>q441
+Пятнадцать штук... Пятнадцать тысяч...<end>
+
+=>q442_original
+<end>
+
+=>q442
+<end>
+
+=>a443_original
+::[Mercantile]:: Twelve grand.<end>
+
+=>a443
+::[Торговля]:: Двенадцть штук.<end>
+
+=>q444_original
+Twelve grand... twelve grand...<end>
+
+=>q444
+Двенадцть штук... Двенадцть тысяч...<end>
+
+=>q445_original
+<end>
+
+=>q445
+<end>
+
+=>a446_original
+::[Mercantile]:: Ten grand.<end>
+
+=>a446
+::[Торговля]:: Десять штук.<end>
+
+=>q447_original
+Ten grand... ten grand...<end>
+
+=>q447
+Десять штук... Десять тысяч...<end>
+
+=>q448_original
+<end>
+
+=>q448
+<end>
+
+=>a449_original
+Seven grand.<end>
+
+=>a449
+Семь штук.<end>
+
+=>q450_original
+Seven g-- Yeah. Sure, sure. <end>
+
+=>q450
+Семь ш... Да, конечно, конечно.<end>
+
+=>a451_original
+I need to think about this.<end>
+
+=>a451
+Мне нужно подумать об этом.<end>
+
+=>q452_original
+O-kay. <end>
+
+=>q452
+Лады.<end>
+
+=>a453_original
+It's a custom model.<end>
+
+=>a453
+Он собран на заказ.<end>
+
+=>q454_original
+Ah. <end>
+
+=>q454
+О...<end>
+
+=>a455_original
+Frankly, I have no clue myself.<end>
+
+=>a455
+Честно говоря, я не имею ни малейшего понятия.<end>
+
+=>q456_original
+Ya didn't steal it?<end>
+
+=>q456
+Ты же не угнал$(#/а) его?<end>
+
+=>a457_original
+No.<end>
+
+=>a457
+Нет.<end>
+
+=>a458_original
+Don't worry, no one will be coming to collect this jet ski.<end>
+
+=>a458
+Не парься, за этим гидроциклом уже никто не придёт.<end>
+
+=>q459_original
+Uh, that can have many different meanings...<end>
+
+=>q459
+Хм, этот ответ может заключать множество разных смыслов...<end>
+
+=>a460_original
+Never heard of a Reef Glider?<end>
+
+=>a460
+Никогда не слышал о рифовом глайдере?<end>
+
+=>q461_original
+No. <end>
+
+=>q461
+Нет.<end>
+
+=>a462_original
+I have nothing at the moment.<end>
+
+=>a462
+У меня сейчас ничего нет.<end>
+
+=>q463_original
+Well... o-kay. <end>
+
+=>q463
+Ну... хорошо.<end>
+
+=>q464_original
+O-kay.<end>
+
+=>q464
+Лады.<end>
+
+=>a465_original
+My jet ski needs repairs.<end>
+
+=>a465
+Моему гидроциклу нужен ремонт.<end>
+
+=>a466_original
+What can you tell me about the man outside?<end>
+
+=>a466
+Что ты можешь рассказать мне о человеке снаружи?<end>
+
+=>q467_original
+Otto? He's a hunter... of sorts. Comes 'round from time to time to do some work on 'is junk jet. Was always an o-kay fellow, can't deny that, and I never had problems with 'im, but now he's turned into a blitherin'-ass coot! Some prey of 'is is givin' 'im trouble, and he's is goin' full-speed mental 'cause of it! 
+
+And 'is jet... what a dominated wreck it was when he brought it in!<end>
+
+=>q467
+Отто? Он своего рода... охотник. Заглядывает время от времени, чтобы немного подлатать свой мусорщик. Всегда был хорошим парнем, этого не отнять, и у нас с ним проблем не возникало, но теперь он стал просто придурошным идиотом! У него начинаются какие-то проблемы с добычей, и из-за этого он слетает с катушек на полной скорости!
+
+А его гидроцикл... какой же это был задоминированный кусок хлама, когда он его притащил!<end>
+
+=>q468_original
+Glad he's gone. Son of ass was <end>
+
+=>q468
+Рад, что его нет. Этот придурок распугивал<end>
+
+=>q469_original
+drivin' away the clients with 'is derailed screechin'.<end>
+
+=>q469
+клиентов своим поехавшим визгом.<end>
+
+=>q470_original
+Gib's almost done with 'is jet. After that - bye-o, Ott-o!
+
+Son of ass is <end>
+
+=>q470
+Гиб почти закончил с его гидроциклом. А потом - досвидос, Отто!
+
+Этот придурок распугивает<end>
+
+=>a471_original
+What can you tell me about the man who was hanging outside of your shop?<end>
+
+=>a471
+Что ты можешь рассказать о человеке, который ошивался у твоего магазина?<end>
+
+=>a472_original
+What can you tell me about the Arena?<end>
+
+=>a472
+Что можешь рассказать об Арене?<end>
+
+=>q473_original
+Arena? Well, it's the pipes and barrels of Core City. Blood, gore, bone, guts, explosions, fire, impalement, decapitation... what ain't it got?
+
+JETS! It ain't got jet combat!<end>
+
+=>q473
+Арена? Ну, это трубы и бочки Кор-Сити. Кровь, реки крови, кости, кишки, взрывы, огонь, пронзание, обезглавливание... чего же не хватает?
+
+ГИДРОЦИКЛОВ! Не хватает боя гидроциклов!<end>
+
+=>q474_original
+Listen to this idea: A brand new arena, filled with water. The gladiators arrive on their jets, say, in two teams - the Ghastly Marauders versus Waves of Terror. The crowd cheers. Chompers are then released into the water. The crowd cheers even harder! Someone throws in a cat and the water starts bubblin' and turns red! The match begins at last: Bullets ventilate one of the jets and it blows up. Kaboom! ::He makes burning and splashing sounds.:: The gladiator jumps off in time - straight into the jaws of chompers. The crowd cheers! And then total mayhem ensues...<end>
+
+=>q474
+Как тебе такая идея: новая арена, заполненная водой. Гладиаторы прибывают на своих гидроциклах, скажем, в двух командах - Мерзкие Мародёры против Волн Террора.Толпа ликует. Затем в воду запускают зубастиков. Толпа ликует ещё сильнее! Кто-то бросает кошку, и вода начинает бурлить и краснеть! Матч наконец начинается: пули пробивают на сквозь один из гидроциклов, и он взрывается. Бабах! ::Он издаёт звуки огня и всплеска.:: Гладиатор успевает спрыгнуть - и прямо в челюсти к зубастикам. Толпа ликует! И тогда начинается полный хаос...<end>
+
+=>q475_original
+Minutes later - silence. Everything's calm. Water's red. Bones and debris are floatin' on the surface. The crowd erupts! Everybody's cheerin' for the lone victor, wounded but hardcore, who then raises one of 'is enemy's head before droppin' it for the chompers to feast on.
+
+Who's gonna say no to that? It dominates!<end>
+
+=>q475
+Минуту спустя - тишина. Всё затихло. Вода красная. На поверхности плавают кости и обломки. Толпа взрывается! Все аплодируют единственному победителю, израненному, но хардкорному, а затем он поднимает голову одного из врагов и бросает её на растерзание зубастикам.
+
+Кто скажет "нет" такому? Это доминирующе!<end>
+
+=>a476_original
+::[Intelligence]:: Especially not you, since you're going to be the one supplying everyone with jet skis, right?<end>
+
+=>a476
+::[Интеллект]:: Уж точно не ты, ведь именно ты будешь снабжать всех гидроциклами, так?<end>
+
+=>q477_original
+::A sly smile escapes him.:: Well, ya know... that's a positive thing too, yes. Yes. But, but it ain't about me, no, it's about the people, entertainment - our culture.<end>
+
+=>q477
+::С его лица сходит лукавая улыбка.:: Ну знаешь, это, конечно, тоже положительный момент. Да. Но... но дело ведь не во мне, нет, а в людях, в развлечениях - в нашей культуре.<end>
+
+=>q478_original
+What a time to be alive, $(context.npc_cc_ray_playerName), what a time to be alive...<end>
+
+=>q478
+Какие времена настали, $(context.npc_cc_ray_playerName), какие времена...<end>
+
+=>a479_original
+That sounds awe-- hardcore!<end>
+
+=>a479
+Это звучит просто... хардкорно!<end>
+
+=>q480_original
+Of course! Maybe one day it's gonna become reality. What a time to be alive, $(context.npc_cc_ray_playerName), what a time to be alive...<end>
+
+=>q480
+Ну разумеется! Возможно, однажды это станет реальностью. Какие времена настали, $(context.npc_cc_ray_playerName), какие времена...<end>
+
+=>a481_original
+Meh.<end>
+
+=>a481
+Пф-ф-ф.<end>
+
+=>q482_original
+O-kay... guess ya ain't as enthusiastic about the idea as I am. But damn, that would be *so* hardcore. Hardcore...<end>
+
+=>q482
+Лады... вижу, эта идея не вызывает у тебя такого же восторга, как у меня. Но, блин, это было бы *так* хардкорно. Так хардкорно...<end>
+
+=>a483_original
+Maybe we should change the subject.<end>
+
+=>a483
+Может, нам стоит сменить тему.<end>
+
+=>a484_original
+What can you tell me about the Drop Zone?<end>
+
+=>a484
+Что можешь рассказать о Зоне провала?<end>
+
+=>q485_original
+It sucks. It sucks hardcore.<end>
+
+=>q485
+Это отстой. Это хардкорный отстой.<end>
+
+=>q486_original
+If I, Ray, if I was a zoner, I'd abandon that damned place and go live somewhere else. They'd be better off for sure instead of blamin' everythin' on the Oligarchy. Life *is* tough, but only *you* can claw yourself outta the Pipeworks.
+
+Got no further comments.<end>
+
+=>q486
+Если бы я, Рэй, был зонером, я бы свалил из этого проклятого места и пошёл бы жить куда-нибудь ещё. Им бы просто уйти вместо того, чтобы обвинять во всём олигархов. Жизнь *жестока*, но только ты *сам* можешь выбраться из Труб.
+
+Больше и говорить не о чем.<end>
+
+=>a487_original
+What can you tell me about the Oligarchy?<end>
+
+=>a487
+Что можешь рассказать про олигархов?<end>
+
+=>q488_original
+Core City folks like complainin' about the Oligarchy. Anythin' wrong that happens in this grindin' city and it's their fault. Arena ticket's too expensive - Oligarchy's fault. Zoners robin' my apartment - Oligarchy's fault. My soup's too cold - Oligarchy's fault. Buncha pipeworkin' ass-juicers.<end>
+
+=>q488
+Жители Кор-Сити любят жаловаться на олигархов. Если что-то идёт не так в этом ужасном городе, так это их вина. Билет на арену слишком дорог - вина олигархов. Зонеры грабят мою квартиру - вина олигархов. Мой суп слишком холодный - вина олигархов. Кучка трубочистских жопошников. <end>
+
+=>q489_original
+Look, things ain't perfect. Can't deny that. I wish taxes were a bit lower, for example. Ownin' a store like this ain't cheap. But ya work hard and ya pay yer dues, and ya respect the Man... and things'll work out eventually.<end>
+
+=>q489
+Слушай, не всё идёт гладко. С этим не поспоришь. Например, мне бы хотелось, чтобы налоги были чуток пониже. Владение таким магазином влетает в монетку. Но стоит усердно работать, платить по счетам, уважать нужных людей... и в конце концов всё получится.<end>
+
+=>a490_original
+So, what went missing during the break-in?<end>
+
+=>a490
+Так что пропало при ограблении?<end>
+
+=>q491_original
+<end>
+
+=>q491
+<end>
+
+=>q492_original
+Well, usually I wouldn't reveal that, but it ain't like ya weren't helpful so far...<end>
+
+=>q492
+Ну, вообще-то, я бы не стал этого раскрывать, но это не значит, что от тебя не было пользы...<end>
+
+=>q493_original
+<end>
+
+=>q493
+<end>
+
+=>q494_original
+<end>
+
+=>q494
+<end>
+
+=>q495_original
+::He bites into his lower lip, and you can tell he is on the edge of crying.:: All... all... of my jets have been stolen. <end>
+
+=>q495
+::Он прикусывает нижнюю губу, и видно, что он готов разрыдаться.:: Все... все... мои гидроциклы угнали.<end>
+
+=>q496_original
+<end>
+
+=>q496
+<end>
+
+=>q497_original
+$(context.npc_cc_ray_moneyStolen) of the money I had in my desk has been stolen. <end>
+
+=>q497
+У меня украли $(context.npc_cc_ray_moneyStolen), что я держал у себя в столе.<end>
+
+=>q498_original
+A lotta stuff's been stolen. I haven't checked my whole inventory, but a lot went missin'. <end>
+
+=>q498
+Много вещей было украдено. Я ещё не провёл полную инвентаризацию, но видно, что многое пропало.<end>
+
+=>q499_original
+That's all I've noticed so far.<end>
+
+=>q499
+Это всё, что я успел заметить.<end>
+
+=>q500_original
+I just hope there ain't some surprise waitin' for me, like a bom'.<end>
+
+=>q500
+Я лишь надеюсь, что меня не поджидает сюрприз, типа бомбы.<end>
+
+=>q501_original
+To Pipeworks with it. Literally. But... I'm still in business, $(context.npc_cc_ray_playerName). The ceiling ain't crashin' down on me yet.
+
+Let's leave this aside and talk about somethin' else. What can I do ya for?<end>
+
+=>q501
+Ну и в трубу всё это. В прямом смысле. Я же... всё ещё в деле, $(context.npc_cc_ray_playerName). Потолок пока на меня не рухнул.
+
+Давай забудем об этом и поговорим о чём-нибудь другом. Чем я могу тебе помочь?<end>
+
+=>q502_original
+Some items have been stolen. I haven't checked my whole inventory, but already I noticed that certain things went missin'. <end>
+
+=>q502
+Было украдено несколько вещей. Я ещё не провёл полную инвентаризацию, но уже вижу, что кое-чего не хватает.<end>
+
+=>q503_original
+$(context.npc_cc_ray_jetsStolen_number) of my jets have been stolen. <end>
+
+=>q503
+$(context.npc_cc_ray_jetsStolen_number) из моих гидроциклов были угнаны.<end>
+
+=>q504_original
+One of my jets has been stolen. <end>
+
+=>q504
+Один из моих гидроциклов был украден.<end>
+
+=>q505_original
+I haven't noticed yet if anythin's been stolen. But even if nothin's been stolen - what if somethin's been planted!? What if there's a bom' tickin' somewhere in my store? Or if it's an assassin and he's waitin' to zone me out?<end>
+
+=>q505
+Я пока не заметил, было ли что-то украдено. Но если даже ничего не стащили - вдруг что-нибудь подсунули?! Что, если где-то в моём магазине прямо сейчас тикает бомба? Или это убийца, и он выжидает момента, чтобы отправить меня в зону?<end>
+
+=>q506_original
+I'm sorry, but I'd rather, ya know, I'd rather not talk about it, $(context.npc_cc_ray_playerName).<end>
+
+=>q506
+Извини, $(context.npc_cc_ray_playerName), но, понимаешь, я бы предпочёл... предпочёл бы не говорить об этом.<end>
+
+=>a507_original
+::[Persuade]:: I see. But think about this: There isn't a lot of jet ski merchants or shops around here, right? If I see or hear about someone selling jet components, hypothetically speaking, then maybe we could trace it back to whoever broke into your shop.<end>
+
+=>a507
+::[Убеждение]:: Понимаю. Но подумай вот о чём: тут ведь не так уж и много продавцов гидроциклов или магазинов, верно? Если я увижу или услышу, что кто-то сбывает детали для гидроциклов, то, возможно, мы смогли бы отследить цепочку до того, кто вломился в твой магазин.<end>
+
+=>q508_original
+Ya'd... do that? Hardcore! So there are thoughtful people in Underrail after all!<end>
+
+=>q508
+Ты э... это сделаешь? Хардкор! Значит, всё-таки в Подземке есть неравнодушные люди!<end>
+
+=>q509_original
+My answer is still gonna be no.<end>
+
+=>q509
+Мой ответ по-прежнему "нет".<end>
+
+=>a510_original
+It's your right not to say anything.<end>
+
+=>a510
+Ну, это твоё право - ничего не говорить.<end>
+
+=>q511_original
+Sure it is, $(context.npc_cc_ray_playerName), can't deny that.<end>
+
+=>q511
+Разумеется, $(context.npc_cc_ray_playerName), с этим не поспоришь.<end>
+
+=>a512_original
+You seemed troubled when I met you. Is there something wrong?<end>
+
+=>a512
+При встрече ты показался мне каким-то встревоженным. Что-то не так?<end>
+
+=>q513_original
+::He hesitates for a second before speaking.:: Well... ya see... someone broke into my shop while I was gone. Avoided the cameras, the pipeworkin' scum. I brought the matter to the Praetorians patrollin' about, but no one saw anythin'. 
+
+Ya didn't happen to be lookin' for me around that time? Didja see anythin' suspicious?<end>
+
+=>q513
+::Прежде чем заговорить, он секунду колеблется.:: Ну... понимаешь... пока меня не было, кто-то вломился в мой магазин. Прошёл мимо камер, трубочисткая сволочь. Я сообщил об этом патрулю преторианцев, но никто ничего не видел.
+
+Ты случайно не искал$(#/а) меня в то время? Может, заметил$(#/а) что-нибудь подозрительное?<end>
+
+=>a514_original
+I was in the area, but I saw nothing out of the ordinary.<end>
+
+=>a514
+Я был$(#/а) в этом районе, но не видел$(#/а) ничего необычного.<end>
+
+=>q515_original
+Pipeworkin' scum. <end>
+
+=>q515
+Что за трубочистская сволочь...<end>
+
+=>q516_original
+Even in these dangerous times, with the Tunnelers at our doorstep, filthy hands of them filthy thieves just ain't gonna stop nabbin'. Can't deny that. Pipeworkers!<end>
+
+=>q516
+Даже в эти опасные времена, когда Проходчики стоят у нас на пороге, мерзкие ручонки этих подлых воров не перестают хапать... Настоящие трубочисты! С этим не поспоришь.<end>
+
+=>q517_original
+<end>
+
+=>q517
+<end>
+
+=>a518_original
+I wanted to ask you something else.<end>
+
+=>a518
+Я хотел$(#/а) спросить ещё кое о чём.<end>
+
+=>q519_original
+Sure.<end>
+
+=>q519
+Конечно.<end>
+
+=>q520_original
+Just because them Tunnelers didn't oblitarate my store don't mean some pipeworkin' sack-a-asses gotta break into my store.<end>
+
+=>q520
+То, что эти Проходчики не разрушили мой магазин, ещё не значит, что какие-то трубочистские мешки дерьма могут в него вламываться.<end>
+
+=>a521_original
+Wasn't anywhere near this place before the first time I came in.<end>
+
+=>a521
+До того, как я впервые к тебе заш$(#ёл/ла), меня здесь и близко не было.<end>
+
+=>a522_original
+Hmmm... I did see this funny-looking person creeping around your shop.<end>
+
+=>a522
+Хм-м-м... вообще-то, я видел$(#/а) одну странную личность, шныряющую у твоего магазина.<end>
+
+=>q523_original
+::His eyes nearly pop out of their sockets in astonishment.:: What? Hold on, hold on, now! Ya gotta tell me what 'e looked like. I... Wait, was it a dude or a woman?<end>
+
+=>q523
+::От изумления его глаза чуть не выскакивают из орбит.:: Что? Ну-ка, погоди! Ты долж$(#ен/на) рассказать мне, как он выглядел. Я... Секундочку, это был мужчина или женщина?<end>
+
+=>a524_original
+Man.<end>
+
+=>a524
+Мужчина.<end>
+
+=>q525_original
+Yeah. And, like, height?<end>
+
+=>q525
+Ага. А рост?<end>
+
+=>a526_original
+Over two meters tall, I reckon.<end>
+
+=>a526
+Думаю, метра два точно есть.<end>
+
+=>q527_original
+Hold on... ::He takes a notebook and begins writing your words down.:: 
+
+So, gender... height... Um, constitution? Skinny...? Fat...?<end>
+
+=>q527
+Погоди... ::Он берёт блокнот и начинает записывать ваши слова.::
+
+Итак, пол... рост... Эм-м, телосложение? Худое?.. Полное?..<end>
+
+=>a528_original
+Looked as strong as a boulder.<end>
+
+=>a528
+На вид крепкое, как скала.<end>
+
+=>q529_original
+O-kay... Got that down. Um, clothes?<end>
+
+=>q529
+Ладно... Записал. А одежда?<end>
+
+=>a530_original
+Rags.<end>
+
+=>a530
+Обноски.<end>
+
+=>q531_original
+Yesss... Hair color?<end>
+
+=>q531
+Да-а-а... Цвет волос?<end>
+
+=>a532_original
+Blonde.<end>
+
+=>a532
+Светлый.<end>
+
+=>q533_original
+Yes, yes, yes... Oh, almost forgot. Complexion?<end>
+
+=>q533
+Да, да, да... О, чуть не забыл. Цвет кожи?<end>
+
+=>a534_original
+Chalk-white.<end>
+
+=>a534
+Бледный.<end>
+
+=>q535_original
+O-kay. And finally, didja catch the face?<end>
+
+=>q535
+Так... И, наконец, удалось ли разглядеть лицо?<end>
+
+=>a536_original
+There were no distinct features.<end>
+
+=>a536
+Не было никаких отличительных черт.<end>
+
+=>q537_original
+<end>
+
+=>q537
+<end>
+
+=>q538_original
+O-kay! Got it. Wrote it all down.<end>
+
+=>q538
+Хорошо! Понял. Всё записал.<end>
+
+=>q539_original
+So... the suspect is a $(context.npc_cc_ray_describeBreakIn_finalDescription). Will give this description to the Praetorians. Hope somethin' comes out of it.<end>
+
+=>q539
+Итак... приметы подозреваемого: $(context.npc_cc_ray_describeBreakIn_finalDescription). Передам это описание преторианцам. Надеюсь, от этого будет польза.<end>
+
+=>q540_original
+Heh, ya got one of 'em rathound hides too. Guess they're gettin' more popular than I thought.<end>
+
+=>q540
+Хех, у тебя ведь тоже одна из этих крысоволочьих шкур. Похоже, они стали популярнее, чем я думал.<end>
+
+=>q541_original
+Thank ya so, so much. If they catch the person ya just described Imma give you a hardcore discount on the next jet ya purchase from me. It's a dominatin' deal, can't deny that. It's the least I could do, $(context.npc_cc_ray_playerName).<end>
+
+=>q541
+Большое спасибо. Если поймают человека, которого ты сейчас описал$(#/а), я дам тебе хардкорную скидку на покупку следующего гидроцикла. Доминирующее предложение, не буду отрицать. Это меньшее, что я могу сделать, $(context.npc_cc_ray_playerName).<end>
+
+=>q542_original
+O-kay... So the suspect is a... $(context.npc_cc_ray_describeBreakIn_finalDescription). If I give this to the Praetorians they'll laugh at me.<end>
+
+=>q542
+Лады... Значит, подозреваемый... $(context.npc_cc_ray_describeBreakIn_finalDescription). Если я расскажу это преторианцам, они меня засмеют.<end>
+
+=>q543_original
+::He sighs.:: Well, thanks anyway, $(context.npc_cc_ray_playerName), but this ain't gonna cut it. Ain't gonna cut it.<end>
+
+=>q543
+::Он вздыхает.:: Что ж, в любом случае спасибо, $(context.npc_cc_ray_playerName), но это не поможет. Никак не поможет.<end>
+
+=>a544_original
+I remember the person having a giant hairy mole on the right cheek.<end>
+
+=>a544
+Я запомнил$(#/а) огромную волосатую родинку на правой щеке.<end>
+
+=>a545_original
+There was a huge, fresh scar over the left eye.<end>
+
+=>a545
+Над левым глазом был большой свежий шрам.<end>
+
+=>a546_original
+I remember this manly, magnificent jawline covered with a neat, day-old beard.<end>
+
+=>a546
+Помню мужественный подбородок с лёгкой однодневной щетиной.<end>
+
+=>a547_original
+She had the most beautiful face I had ever seen. Smooth skin, delicate, aristocratic lines, arterial blood-colored lips. It was a sight to behold.<end>
+
+=>a547
+У неё было самое красивое лицо, которое я когда-либо видел$(#/а). Гладкая кожа, нежные аристократические черты, соблазнительно алые губы. Это надо было видеть.<end>
+
+=>a548_original
+It was ugly. Man, was it ugly. Nauseatingly ugly. Like, deformed and... ugly. It makes mutants look good in comparison.<end>
+
+=>a548
+Лицо было уродливым. До чего же уродливое. Прям, до тошноты уродливое. Типа, обезображенное и... уродливое. Даже мутанты выглядят лучше.<end>
+
+=>a549_original
+It was heavily tattooed. The colors were all over the place and I couldn't really make out what it was supposed to represent.<end>
+
+=>a549
+Лицо было покрыто татуировками, но они были слишком цветастыми, и я не смог$(#/ла) их разобрать.<end>
+
+=>a550_original
+No, sadly.<end>
+
+=>a550
+К сожалению, нет.<end>
+
+=>a551_original
+White.<end>
+
+=>a551
+Белый.<end>
+
+=>a552_original
+Light tan.<end>
+
+=>a552
+Слегка тёмный.<end>
+
+=>a553_original
+Brown.<end>
+
+=>a553
+Смуглый.<end>
+
+=>a554_original
+Black.<end>
+
+=>a554
+Чёрный.<end>
+
+=>a555_original
+Couldn't tell.<end>
+
+=>a555
+Не могу с уверенностью утверждать.<end>
+
+=>a556_original
+Blond.<end>
+
+=>a556
+Светлый.<end>
+
+=>a557_original
+Dark.<end>
+
+=>a557
+Тёмный.<end>
+
+=>a558_original
+Light-brown.<end>
+
+=>a558
+Русый.<end>
+
+=>a559_original
+Ginger.<end>
+
+=>a559
+Рыжий.<end>
+
+=>a560_original
+Fiery-red.<end>
+
+=>a560
+Огненно-рыжий.<end>
+
+=>a561_original
+Mindshroom blue.<end>
+
+=>a561
+Мозглячный синий.<end>
+
+=>a562_original
+Dock water-green.<end>
+
+=>a562
+Зелёный, как воды в доке.<end>
+
+=>a563_original
+Fecal brown.<end>
+
+=>a563
+Фекально-коричневый.<end>
+
+=>a564_original
+The person was bald as a hopper.<end>
+
+=>a564
+Человек был лысый, как пещерник.<end>
+
+=>a565_original
+The head was covered. Couldn't see.<end>
+
+=>a565
+Голова была прикрыта. Невозможно было разглядеть.<end>
+
+=>a566_original
+A long leather overcoat and army boots.<end>
+
+=>a566
+Длинное кожаное пальто и армейские ботинки.<end>
+
+=>a567_original
+Metal armor.<end>
+
+=>a567
+Металлическая броня.<end>
+
+=>a568_original
+Fancy, expensive clothing.<end>
+
+=>a568
+Дорогая, модная одежда.<end>
+
+=>a569_original
+T-shirt and pants.<end>
+
+=>a569
+Футболка и брюки.<end>
+
+=>a570_original
+Hide of a rathound.<end>
+
+=>a570
+Кожаная броня из крысоволка.<end>
+
+=>a571_original
+Dark body-tight suit.<end>
+
+=>a571
+Тёмный облегающий костюм.<end>
+
+=>a572_original
+Naked.<end>
+
+=>a572
+Нагишом.<end>
+
+=>q573_original
+What?<end>
+
+=>q573
+Чего?<end>
+
+=>a574_original
+I said the person was completely naked.<end>
+
+=>a574
+Я говорю, что тот человек был совершенно голым.<end>
+
+=>a575_original
+Can't remember exactly.<end>
+
+=>a575
+Точно не помню.<end>
+
+=>a576_original
+Skinny as a whistle.<end>
+
+=>a576
+Тощее, как щепка.<end>
+
+=>a577_original
+Average.<end>
+
+=>a577
+Обычное.<end>
+
+=>a578_original
+Had a mighty fine figure.<end>
+
+=>a578
+Великолепная фигура.<end>
+
+=>q579_original
+::He lifts his stare toward you.:: Are ya jokin' with me? I ain't in the mood, $(context.npc_cc_ray_playerName).<end>
+
+=>q579
+::Он поднимает на вас свой пристальный взгляд.:: Ты надо мной прикалываешься? Я не в том настроении, $(context.npc_cc_ray_playerName).<end>
+
+=>a580_original
+Dead serious.<end>
+
+=>a580
+Я серьёзно.<end>
+
+=>a581_original
+Um... maybe.<end>
+
+=>a581
+Хм... возможно.<end>
+
+=>q582_original
+Hm. Listen ya...! I... Look, just tell me what what this person looked like, o-kay? I ain't got time for messin' around.<end>
+
+=>q582
+Хм. Слушай!.. Я... Просто скажи мне, как выглядел тот человек, лады? У меня нет времени на ерунду.<end>
+
+=>a583_original
+Fat. Like, seriously fat.<end>
+
+=>a583
+Полное. Типа, нереально полное.<end>
+
+=>a584_original
+Tall.<end>
+
+=>a584
+Высокий.<end>
+
+=>a585_original
+Average, I think.<end>
+
+=>a585
+Среднего роста, кажется.<end>
+
+=>a586_original
+Short.<end>
+
+=>a586
+Небольшой.<end>
+
+=>a587_original
+The person was a midget.<end>
+
+=>a587
+Этот человек был карликом.<end>
+
+=>q588_original
+A mi-midget? The hell...?<end>
+
+=>q588
+К-карлик? Какого?..<end>
+
+=>a589_original
+Woman.<end>
+
+=>a589
+Женщина.<end>
+
+=>a590_original
+Couldn't tell exactly. Could be either.<end>
+
+=>a590
+Нельзя исключать ни того, ни другого.<end>
+
+=>a591_original
+I think I left something in the trunk of a jet I sold you.<end>
+
+=>a591
+Кажется, я оставил$(#/а) кое-что в багажнике гидроцикла, который тебе продал$(#/а).<end>
+
+=>q592_original
+I told ya already: Check that gray locker in the corner of my office.<end>
+
+=>q592
+Я же уже говорил: проверь тот серый шкафчик в углу моего кабинета.<end>
+
+=>q593_original
+I can't be remember who forgot what, ya know. Unless... unless it's a chopped up body or somethin' like that...<end>
+
+=>q593
+Знаешь, мне не упомнить того, кто и что забывает. Если только... это не расчленённый труп или что-то подобное...<end>
+
+=>a594_original
+See you around, Ray.<end>
+
+=>a594
+Ещё увидимся, Рэй.<end>
+
+=>q595_original
+Catch ya later, dominator! <end>
+
+=>q595
+Увидимся, доминатор$(#/ша)!<end>
+
+=>q596_original
+And watch out for them pirate scum.<end>
+
+=>q596
+И остерегайся этого пиратского сброда.<end>
+
+=>q597_original
+<end>
+
+=>q597
+<end>
+
+=>q598_original
+I ain't buyin' junk jets, so ya know, only quality jets. If ya got a nice ride, just <end>
+
+=>q598
+Чтобы ты знал$(#/а), я не скупаю мусорщики, а только качественные гидроциклы. Если у тебя такой есть, просто<end>
+
+=>q599_original
+well, we provide this fine region with jets and jet accessories. We got the largest selection of jets in South Underrail, we sell engines, batteries, suspensions, cells - whatever ya need. We also do repairs and if ya got a nice jet ya'd like to sell, we can discuss that as well. I ain't interested in buyin' no junk jets, though, so don't bring me those.<end>
+
+=>q599
+мы снабжаем этот прекрасный регион гидроциклами и аксессуарами для них. У нас самый большой выбор в Южной Подземке, мы продаём двигатели, аккумуляторы, подвески, батареи - всё, что нужно. Кроме того, мы занимаемся ремонтом, и если у тебя имеется хороший гидроцикл, который ты не против продать, мы можем обсудить и это. Но я не заинтересован в покупке мусорщиков, так что их можешь даже не предлагать.<end>
+
+=>a600_original
+My name is not important right now, Ray.<end>
+
+=>a600
+Моё имя сейчас не важно, Рэй.<end>
+
+=>q601_original
+O-kay. Imma just call ya... friend, then.<end>
+
+=>q601
+Лады. Тогда я буду звать тебя просто... $(#другом/подругой).<end>
+
+=>a602_original
+Bob.<end>
+
+=>a602
+Боб.<end>
+
+=>q603_original
+But... Bob is a male name.<end>
+
+=>q603
+Но... Боб - это мужское имя.<end>
+
+=>a604_original
+Not where I'm from.<end>
+
+=>a604
+Не там, откуда я родом.<end>
+
+=>q605_original
+Bob it is, then.<end>
+
+=>q605
+Боб, так Боб.<end>
+
+=>q606_original
+<end>
+
+=>q606
+<end>
+
+=>a607_original
+Tell that to my parents.<end>
+
+=>a607
+Расскажи это моим родителям.<end>
+
+=>a608_original
+It's short for Bobbette.<end>
+
+=>a608
+Это сокращение от Боббет.<end>
+
+=>a609_original
+I like Bob. Bob is nice. It's also a palindrome. Bob.<end>
+
+=>a609
+Мне нравится Боб. Боб, это клёво. Это ещё и палиндром. Боб.<end>
+
+=>q610_original
+Bob. Nice and simple.<end>
+
+=>q610
+Боб. Легко и просто.<end>
+
+=>a611_original
+Jane.<end>
+
+=>a611
+Джейн.<end>
+
+=>q612_original
+Jane? That's, um, a girl's name.<end>
+
+=>q612
+Джейн? Эм-м, это женское имя.<end>
+
+=>a613_original
+Yes.<end>
+
+=>a613
+Да.<end>
+
+=>q614_original
+So... Jane it is.<end>
+
+=>q614
+Значит... Джейн.<end>
+
+=>q615_original
+<end>
+
+=>q615
+<end>
+
+=>a616_original
+I used to call myself $(context.player.Name), but as of *very* recently I've switched to Jane.<end>
+
+=>a616
+Раньше меня звали $(context.player.Name), но с *недавнего* времени я перешёл на Джейн.<end>
+
+=>a617_original
+Only if you pronounce it in a girly way.<end>
+
+=>a617
+Только если произносить его по-девчачьи.<end>
+
+=>a618_original
+My childhood was dominated by cruelty and emotional insubstantiality.<end>
+
+=>a618
+В моём детстве доминировала жестокость и эмоциональная неустойчивость.<end>
+
+=>q619_original
+Jane? One of my ex-wives was called Jane, rest 'er soul. I'll definitely remember it. ::He laughs.::<end>
+
+=>q619
+Джейн? Одну из моих бывших жён звали Джейн, упокой её душу. Я точно запомню. ::Он смеётся.::<end>
+
+=>a620_original
+$(context.player.Name).<end>
+
+=>a620
+$(context.player.Name).<end>
+
+=>q621_original
+$(context.player.Name). Got it. ::He smiles.::<end>
+
+=>q621
+$(context.player.Name). Ясно. ::Он улыбается.::<end>
+
+=>a622_original
+I have a jet ski to sell.<end>
+
+=>a622
+У меня есть гидроцикл на продажу.<end>
+
+=>a623_original
+Just came in to see what this place is about.<end>
+
+=>a623
+Просто заш$(#ёл/ла) посмотреть, что это за место.<end>
+
+=>q624_original
+<end>
+
+=>q624
+<end>
+
+=>q625_original
+::Substantial man - substantial smile. He greets you as soon as you enter his domain, inviting you further in with a wave of his hand.::
+
+Hi there, friend. Come in, come in, we're open. What can I do ya for?<end>
+
+=>q625
+::Солидный мужчина - солидная улыбка. Он приветствует вас, как только вы входите в его владения и жестом руки приглашает пройти внутрь.::
+
+Приветсвую, $(#друг/подруга). Проходи-проходи, мы открыты. Чем я могу помочь?<end>
+
+=>q626_original
+::An oily wrench lays on his desk, only an old smeared rag separating one from the other. You notice it, he notices it. An instant later, it disappears into one of his deep pockets, wrapped in the rag. His smile was never gone.::
+
+That should not be there. ::He chuckles.:: We... Gib and I were fixin' one of 'em two-oh-eights for a client of ours. Field repairs. Just got back to the shop, so sorry 'bout my appearance. So, ya here for a jet? Parts? Repairs?<end>
+
+=>q626
+::На его столе лежит вымазанный маслом гаечный ключ, и от соприкосновения их отделяет лишь старая сальная тряпка. Вы замечаете его, как и Рэй. Спустя мгновение ключ, обёрнутый тряпкой, исчезает в одном из его глубоких карманов. А улыбка так и не исчезает с его лица.::
+
+Этому здесь не место. ::Он посмеивается.:: Мы... мы с Гибом чинили один из тех двухсот восьмых для нашего клиента. Ремонт на выезде. Я только вернулся в магазин, так что извиняюсь за свой внешний вид. Итак, тебе нужен гидроцикл? Запчасти? Ремонт?<end>
+
+=>q627_original
+Here they are, $(context.npc_cc_ray_playerName). These range between about... five hundred and, say, three thousand charons - except for the Freighter, that one's a bit more expensive. They're pretty cheap. They've all been serviced, so don't worry yer gonna get somethin' that's gonna fall apart the moment ya pick up speed, heh.<end>
+
+=>q627
+А вот и они, $(context.npc_cc_ray_playerName). Цены на них колеблятся от... пяти сотен, и, скажем, до трёх тысяч харонов - кроме Перевозчика, он немного дороже. Это довольно дёшево. Они все прошли техосмотр, поэтому можешь не волноваться, что получишь то, что развалится, стоит тебе только прибавить газку, хех.<end>
+
+=>q628_original
+Here they are, $(context.npc_cc_ray_playerName). I keep these inside 'cuz I don't wanna risk some assless son of a rat nabbin' 'em. As ya can see, these are mean machines. We got speeders, fighters, freighters... 
+
+Ya know, ya came at the right time, as we really slashed them prices recently. Still, do know that some of these can set ya back by tens of thousands of charons. So take yer pick. <end>
+
+=>q628
+А вот и они, $(context.npc_cc_ray_playerName). Я не хочу рисковать и держу их внутри, чтобы их не угнал какой-нибудь голодранец. Как видишь, это серьёзная техника. У нас есть гонщики, бойцы, перевозчики...
+
+Знаешь, ты заглянул$(#/а) как раз вовремя, потому что недавно мы серьёзно снизили на них цены. И всё же, некоторые могут обойтись тебе в десятки тысяч харонов. Так что выбор за тобой.<end>
+
+=>q629_original
+Heya, $(context.npc_cc_ray_playerName), I just received some hardcore stuff. Brand new. Wanna take a look?<end>
+
+=>q629
+Хэй-я, $(context.npc_cc_ray_playerName), только что поступил хардкорный товар. Совершенно новый. Хочешь взлянуть?<end>
+
+=>a630_original
+Maybe later. There was something else I wanted to ask you.<end>
+
+=>a630
+Может быть, позже. Я хотел$(#/а) поговорить ещё кое о чём.<end>
+
+=>q631_original
+Well, well, if it ain't my favorite customer. <end>
+
+=>q631
+Так-так-так, неужели это мой любимый покупатель.<end>
+
+=>q632_original
+What can I do ya for, $(context.npc_cc_ray_playerName)?<end>
+
+=>q632
+Чем я могу помочь, $(context.npc_cc_ray_playerName)?<end>
+

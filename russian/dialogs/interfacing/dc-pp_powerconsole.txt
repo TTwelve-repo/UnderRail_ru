@@ -1,0 +1,321 @@
+﻿=>q1_original
+::Arke Power Station Power Management Console
+
+Biocorp Dis Electronics
+
+Power station rated capacity: 300 MW
+Warning! Estimated turbine efficiency is extremely low! (<10%)
+Turbine maintenance or replacement is necessary!
+Warning! Total electric supply capacity is extremely low! (<5%)
+
+Current estimated capacity: <10 MW::<end>
+
+=>q1
+::Консоль управления электростанции Арка
+
+Биокорп Дис Электроникс
+
+Номинальная мощность электростанции: 300 МВт
+Предупреждение! Расчётная эффективность турбины крайне низка! (<10%)
+Необходимо техническое обслуживание или замена турбины!
+Внимание! Суммарная выходная мощность крайне низка! (<5%)
+
+Текущая мощность: <10 МВт::<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>q3_original
+::Current power expenditure (%):
+
+Research Complex: $(context.loc_dc_labPower)%
+Tithonus Lab: 0%
+Mutagen Tanks A: $(context.loc_dc_mutagenPower)%
+Mutagen Tanks B: 0%
+Arke Power Station: $(context.loc_dc_arkePower)%
+Warehouse Block 1: 0%
+Warehouse Block 2: $(context.loc_dc_warehousePower)%
+BCAF - Detachment Hollow Earth: 0%
+Talos Outpost: $(context.loc_dc_facelessPower)%
+Caerus Residential Block: $(context.loc_dc_residentialPower)%
+Tartarus Maximum Security Prison: $(context.loc_dc_prisonPower)%
+South Elevator: 0%
+
+Current power available for allocation: $(context.loc_dc_TotalPower)%::<end>
+
+=>q3
+::Текущие энергозатраты (%):
+
+Научно-исследовательский комплекс: $(context.loc_dc_labPower)%
+Лаборатория Тифон: 0%
+Хранилище мутагенов А: $(context.loc_dc_mutagenPower)%
+Хранилище мутагенов Б: 0%
+Электростанция Арка: $(context.loc_dc_arkePower)%
+Складской корпус 1: 0%
+Складской корпус 2: $(context.loc_dc_warehousePower)%
+Гарнизон ВСБК Полая Земля: 0%
+Форпост Талос: $(context.loc_dc_facelessPower)%
+Жилой корпус Кайрос: $(context.loc_dc_residentialPower)%
+Тюрьма строгого режима Тартар: $(context.loc_dc_prisonPower)%
+Южный лифт: 0%
+
+Текущая доступная мощность: $(context.loc_dc_TotalPower)%::<end>
+
+=>a4_original
+::Power plant management::<end>
+
+=>a4
+::Управление элктропитанием::<end>
+
+=>q5_original
+::Gas turbine 1 status: on
+Gas turbine 2 status: on
+
+Warning! Turbine maintenance or replacement is necessary!
+
+Steam turbine status: on
+Heat recovery steam generator (HRSG) status: on
+::<end>
+
+=>q5
+::Состояние газовой турбины 1: вкл
+Состояние газовой турбины 2: вкл
+Предупреждение! Необходимо техническое обслуживание или замена турбины!
+Статус паровой турбины: вкл
+Статус Паровой Генератор Рекуперации Тепла (ПГРТ): вкл::<end>
+
+=>q6_original
+::HRSG supplementary burners: on
+
+Mode of operation: combined cycle (Manual config)::<end>
+
+=>q6
+::Дополнительные горелки ПГРТ: вкл.
+
+Режим работы: комбинированный цикл (Ручная настройка)::<end>
+
+=>a7_original
+::Back::<end>
+
+=>a7
+::Назад::<end>
+
+=>q8_original
+::HRSG supplementary burners: off
+
+Mode of operation: combined cycle (Auto config)::<end>
+
+=>q8
+::Дополнительные горелки ПГРТ: выкл.
+
+Режим работы: комбинированный цикл (Авто настройка)::<end>
+
+=>a9_original
+::[Electronics] Manually configure the combined-cycle system::<end>
+
+=>a9
+::[Электроника] Настроить парогазовый цикл системы вручную::<end>
+
+=>q10_original
+::Optimizing gas turbine air-fuel mixture... Done.
+
+Engaging and configuring HRSG supplementary burners... Done.
+
+::<end>
+
+=>q10
+::Оптимизация топливовоздушной смеси газовой турбины... Готово.
+Включение и настройка дополнительных горелок ПГРТ... Готово.<end>
+
+=>q11_original
+::Verifying steam turbine status... Done.
+
+Optimizing supercondenser operation... Done.
+
+Manual configuration successful. Total net power gain: 51%::<end>
+
+=>q11
+::Проверка состояния паровой турбины... Готово.
+
+Оптимизация работы сверхконденсатора... Готово.
+
+Ручная настройка прошла успешно. Общий полезный прирост мощности: 51%::<end>
+
+=>q12_original
+::Warning! Steam pressure reaching unacceptable levels!
+
+Reverting to default settings... 
+Disengaging HRSG supplementary burners... 
+Optimizing air-fuel mixture...
+
+Procedure completed! (52 errors logged)::<end>
+
+=>q12
+::Предупреждение! Давление пара достигает неприемлемого уровня!
+
+Возврат к настройкам по умолчанию...
+Отключение дополнительных горелок ПГРТ...
+Оптимизация топливно-воздушной смеси...
+
+Процедура завершена! (зарегистрировано 52 ошибки)::<end>
+
+=>a13_original
+::Deallocate power from Arke security systems and assembly lines::<end>
+
+=>a13
+::Отключить питание систем безопасности электростанции и сборочных линий::<end>
+
+=>q14_original
+::This procedure will disable all security systems, including AMA lines, surveillance systems and turret defenses.
+
+Are you sure you want to proceed?::<end>
+
+=>q14
+::Эта процедура приведёт к отключению всех систем безопасности, в том числе линий АПС, систем видеонаблюдения и защитных турелей.
+
+Вы уверены, что хотите продолжить?::<end>
+
+=>a15_original
+::Yes::<end>
+
+=>a15
+::Да::<end>
+
+=>q16_original
+::Disabling security systems...
+
+Turbine chamber security - security disabled!
+Office section - security disabled!
+Automated manufacturing and assembly - security disabled!
+IRIS Core - Error: Remote access is denied!
+
+Procedure completed with 1 error(s)::<end>
+
+=>q16
+::Отключение систем безопасности...
+
+Турбинный зал -- система безопасности отключена!
+Офисы -- система безопасности отключена!
+Автоматическое производство и сборка -- система безопасности отключена!
+Ядро ИРИДА -- Ошибка: Удалённый доступ запрещён!
+
+Процедура завершена с 1 ошибкой(ами)::<end>
+
+=>a17_original
+::No::<end>
+
+=>a17
+::Нет::<end>
+
+=>q18_original
+::Procedure canceled::<end>
+
+=>q18
+::Процедура отменена::<end>
+
+=>a19_original
+::Allocate power to Warehouse Block 2 (-5%)::<end>
+
+=>a19
+::Подать питание в Складской блок 2 (-5%)::<end>
+
+=>q20_original
+::Power allocated successfully!::
+
+<end>
+
+=>q20
+::Питание подано успешно!::
+<end>
+
+=>a21_original
+::Deallocate power from Warehouse Block 2 (+5%)::<end>
+
+=>a21
+::Отключить питание в Складском блоке 2 (+5%)::<end>
+
+=>q22_original
+::Power deallocated successfully!::
+
+<end>
+
+=>q22
+::Питание отключено успешно!::
+<end>
+
+=>a23_original
+::Allocate power to Hollow Earth main research complex (-60%)::<end>
+
+=>a23
+::Подать питание в главный научно-исследовательский комплекс «Полая Земля» (-60%)::<end>
+
+=>a24_original
+::Deallocate power from Hollow Earth main research complex (+60%)::<end>
+
+=>a24
+::Отключить питание в главном научно-исследовательском комплексе «Полая Земля» (+60%)::<end>
+
+=>a25_original
+::Allocate power to Mutagen Tanks A (-30%)::<end>
+
+=>a25
+::Подать питание в Хранилище мутагенов А (-30%)::<end>
+
+=>a26_original
+::Deallocate power from Mutagen Tanks A (+30%)::<end>
+
+=>a26
+::Отключить питание в Хранилище мутагенов А (+30%)::<end>
+
+=>a27_original
+::Allocate power to Mutagen Tanks B *(Node 3 offline)*::<end>
+
+=>a27
+::Подать питание в Хранилище мутагенов Б *(Узел 3 отключён)*::<end>
+
+=>a28_original
+::Allocate power to Caerus Residential Block (-40%)::<end>
+
+=>a28
+::Подать питание в Жилой корпус Кайрос (-40%)::<end>
+
+=>q29_original
+::Power allocated successfully!::
+<end>
+
+=>q29
+::Питание подано успешно!::<end>
+
+=>a30_original
+::Deallocate power from Caerus Residential Block (+40%)::<end>
+
+=>a30
+::Отключить питание в Жилом корпусе Кайрос (+40%)::<end>
+
+=>a31_original
+::Allocate power to Tartarus Maximum Security Prison *(Nodes 8 and 11 offline)*::<end>
+
+=>a31
+::Подать питание в Тюрьму строгого режима Тартар *(Узлы 8 и 11 отключены)*::<end>
+
+=>a32_original
+::Allocate power to South Elevator *(Node 19 offline)*::<end>
+
+=>a32
+::Подать питание на Южный лифт *(Узел 19 отключён)*::<end>
+
+=>a33_original
+::Allocate power to Talos Outpost *(Node 2 offline)*::<end>
+
+=>a33
+::Подать питание на Форпост Талос *(Узел 2 отключён)*::<end>
+
+=>a34_original
+::Exit::<end>
+
+=>a34
+::Выход::<end>
+

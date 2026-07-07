@@ -1,0 +1,624 @@
+﻿=>q1_original
+::You hear nothing but static.::<end>
+
+=>q1
+::Вы не слышите ничего, кроме белого шума.::<end>
+
+=>q2_original
+::There is no need to use this now.::<end>
+
+=>q2
+::Нет нужды использовать это сейчас.::<end>
+
+=>q3_original
+::You hear nothing but static.::<end>
+
+=>q3
+::Вы не слышите ничего, кроме белого шума.::<end>
+
+=>q4_original
+Hey, the elevator is working! Lovely! You did it, $(context.player.Name)! Come up here!<end>
+
+=>q4
+Эй, лифт заработал! Прелестно! У вас получилось, $(context.player.Name)! Идите сюда!<end>
+
+=>q5_original
+::You hear Vivian's worried voice over the speaker.:: $(context.player.Name)! $(context.player.Name)! Can you hear me? Are you okay? <end>
+
+=>q5
+::Вы слышите встревоженный голос Вивиан в динамике.:: $(context.player.Name)! $(context.player.Name)! Вы меня слышите? Вы в порядке?<end>
+
+=>a6_original
+I'm fine, but I can't seem to get back up. What is this place?<end>
+
+=>a6
+Я в порядке, но я не могу подняться обратно наверх. Что это за место?<end>
+
+=>q7_original
+Drats! The stupid elevator is not working! I can't do anything to make it operational again, not from up here. Let's see, hmm, there is a console in this room, let me take a look. Just... one... moment...
+
+Aha, got it! According to what I'm reading, below me is some Biocorp research facility. Who knows what they've got there, so be careful. Also, I've just opened the map of the area, and I can see the whole layout. Wait, I think I can also remotely unlock some doors, maybe that'll be useful at some point. Tell me, where are you now?<end>
+
+=>q7
+Проклятье! Дурацкий лифт не работает! Я ничего не могу сделать отсюда, чтобы заставить его заработать. Посмотрим... в этой комнате есть консоль, дайте мне взглянуть. Одну... минуточку...
+
+Ага, ясно! Тут написано, что внизу находится исследовательский центр Биокорп. Кто знает, что у них там было, так что будьте осторожны. Ещё я нашла план здания и вижу, где что находится. Подождите, я думаю, что смогу удалённо разблокировать некоторые двери, вам это может пригодиться. Скажите мне, где вы сейчас находитесь?<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>a9_original
+How can I get the elevator working?<end>
+
+=>a9
+Как я могу заставить лифт работать?<end>
+
+=>q10_original
+I have no idea, but there is a "generator room" just by the elevator, judging from what I can see here.<end>
+
+=>q10
+Понятия не имею, но, судя по всему, рядом с лифтом есть «Генераторная».<end>
+
+=>q11_original
+Maybe you should check it out.<end>
+
+=>q11
+Может быть, вам стоит осмотреться.<end>
+
+=>a12_original
+Can you give me some directions?<end>
+
+=>a12
+Можете подсказать мне дорогу?<end>
+
+=>q13_original
+Okay, let's see. You are now in Sector 1, as far as I can see here. Just next to the elevator is the "Generator room," and to the east of that is the "Armory," or so it says here. All the way to the west is the "Main Storage," and to the east is the "Offices." Northwest you've got the "Maintenance Room," and south-southeast is where the "Security Room" is located. 
+
+South doors lead to Sector 2. Meanwhile, Sector 3 is accessed near the maintenance room.<end>
+
+=>q13
+Ладно, посмотрим. Насколько я вижу, вы находитесь в Секторе 1. Рядом с лифтом есть «Генераторная», к востоку оттуда -- «Оружейная», так здесь написано. На западе находится «Главный склад», а на востоке -- «Офисы». На северо-западе от вас «Техническое помещение», а на юго-юго-востоке находится «Комната охраны». 
+
+Южные двери ведут в Сектор 2, а проход в Сектор 3 находится возле технического помещения.<end>
+
+=>q14_original
+Got everything?<end>
+
+=>q14
+Всё понятно?<end>
+
+=>q15_original
+Okay, let's see... You are now in Sector 2, and there are only three rooms here. The westernmost reads "Pumping room," the middle one is "Research 2," and the eastern one is unlabeled on this map.<end>
+
+=>q15
+Ладно, давайте посмотрим... Вы сейчас в Секторе 2, здесь находятся три комнаты. Самая западная -- «Насосное помещение», в центре -- «Лаборатория 2», а восточная не отмечена на карте.<end>
+
+=>q16_original
+That's all I can see here...<end>
+
+=>q16
+Это всё, что я вижу здесь...<end>
+
+=>a17_original
+Some doors are locked in here. Can you do anything to help?<end>
+
+=>a17
+Здесь некоторые двери заперты. Можете ли вы чем-нибудь помочь?<end>
+
+=>q18_original
+Let's see, you're in Sector 1... Drats, I don't think I can unlock any of the doors near you. I need some special permission or something. But, listen, I can see all these doors require keycards to open, so maybe you should check the office; perhaps you'll be able to find some of the keycards there.<end>
+
+=>q18
+Давайте посмотрим, вы находитесь в Секторе 1... Проклятье, я не думаю, что смогу открыть двери рядом с вами. Мне нужно специальное разрешение или что-то вроде того. Но послушайте, я вижу, что эти двери открываются ключ-картами, так что, может, стоит поискать в офисе. Возможно, там вы найдёте какую-нибудь ключ-карту.<end>
+
+=>q19_original
+At least I got to unlock the doors in Sector 2 for you, so I'm not completely useless. ::She laughs.::<end>
+
+=>q19
+По крайней мере, я смогла открыть для вас двери в Секторе 2, так что я не совсем бесполезна. ::Она смеётся.::<end>
+
+=>q20_original
+Still, from what I see here I think I might be able to open some of the doors in Sector 2, so call me when you get there.
+
+Did you catch all that?<end>
+
+=>q20
+Из того, что я здесь вижу, думаю, что я смогу открыть для вас некоторые двери в Секторе 2, так что позвоните мне, когда будете там.
+
+Вы всё слышали?<end>
+
+=>q21_original
+Let's see, you're now in Sector 2... Hey, I can unlock all the doors in this sector from here! All done! Damn Vivian, you are hacking like a cham-- Khm, sorry.<end>
+
+=>q21
+Посмотрим, вы сейчас в Секторе 2... Эй, я могу открыть все двери в этом секторе отсюда! Готово! Блин, Вивиан, ты прямо хак... Кхм, извините.<end>
+
+=>q22_original
+You should be good to go.<end>
+
+=>q22
+Всё должно быть готово.<end>
+
+=>q23_original
+It says here all doors are unlocked in Sector 2. Maybe they're just stuck. Try kicking them.<end>
+
+=>q23
+Здесь говорится, что все двери в Секторе 2 разблокированы. Может, просто заело. Попробуйте с ноги.<end>
+
+=>q24_original
+Stupid doors...<end>
+
+=>q24
+Дурацкие двери...<end>
+
+=>a25_original
+I'm in the armory.<end>
+
+=>a25
+Я в оружейной.<end>
+
+=>q26_original
+That sounds lovely, maybe you can find something of interest there. Maybe some weapons and ammo.<end>
+
+=>q26
+Звучит прелестно, может быть, вы найдёте что-нибудь полезное. Например, оружие или боеприпасы.<end>
+
+=>q27_original
+I really don't know what else to tell you about an armory.<end>
+
+=>q27
+Я действительно не знаю, что ещё можно сказать об оружейной.<end>
+
+=>a28_original
+I'm in the toilet.<end>
+
+=>a28
+Я в туалете.<end>
+
+=>q29_original
+$(context.player.Name)! Yuck! I did not need to know that.<end>
+
+=>q29
+$(context.player.Name)! Фу! Мне не обязательно было это знать!<end>
+
+=>q30_original
+I mean, really.<end>
+
+=>q30
+Нет, правда.<end>
+
+=>a31_original
+I'm in a large room full of desks.<end>
+
+=>a31
+Я нахожусь в большой комнате, заставленной столами.<end>
+
+=>q32_original
+That's the office. Let me check... Yes, it is. You should look around.<end>
+
+=>q32
+Вот и офис. Дайте я взгляну... Да, точно. Вам стоит осмотреться.<end>
+
+=>q33_original
+Maybe someone left you a sandwich there. ::She laughs.:: I'm sorry, this is no time for jokes.<end>
+
+=>q33
+Может быть, кто-нибудь оставил вам сэндвич. ::Она смеётся.:: Простите, сейчас не время для шуток.<end>
+
+=>a34_original
+I'm in the office.<end>
+
+=>a34
+Я нахожусь в офисе.<end>
+
+=>q35_original
+Did you find that sandwi-- I mean, lovely. See if you can find something useful there.<end>
+
+=>q35
+Вы нашли тот сэнд... То есть, прелестно! Посмотрите, может, удастся найти что-нибудь полезное.<end>
+
+=>q36_original
+Keep your eyes open.<end>
+
+=>q36
+Будьте начеку.<end>
+
+=>a37_original
+I'm in the storage room.<end>
+
+=>a37
+Я нахожусь на складе.<end>
+
+=>q38_original
+Okay, got it. I tried accessing the storage manifest, but the file seems corrupted. Still, it should not be a problem, you can check it out what's in there for yourself.<end>
+
+=>q38
+Ладно, я поняла. Я попробовала найти опись, но файл, похоже, повреждён. Но это не проблема, вы сами можете посмотреть, что там есть.<end>
+
+=>q39_original
+Maybe you can find those generator parts in here.<end>
+
+=>q39
+Может быть, вы сможете найти здесь части генератора.<end>
+
+=>q40_original
+There could be useful stuff in there.<end>
+
+=>q40
+Там могут быть полезные вещи.<end>
+
+=>q41_original
+Maybe you can find something to fix those pipes.<end>
+
+=>q41
+Может быть, вы сможете найти что-то, что поможет починить трубы.<end>
+
+=>q42_original
+Maybe you can find parts for the generator in here, or something to fix the pipes.<end>
+
+=>q42
+Может быть, вы найдёте здесь детали для генератора или что-нибудь, чтобы починить трубы.<end>
+
+=>a43_original
+I'm in a small room full of large metal boxes.<end>
+
+=>a43
+Я нахожусь в маленькой комнате, заполненной большими металлическими ящиками.<end>
+
+=>q44_original
+Hmm, there is an unmarked room in Sector 2. Maybe that's the one.<end>
+
+=>q44
+Хм-м, в Секторе 2 есть неотмеченная комната. Может быть, это она?<end>
+
+=>q45_original
+I've got nothing here. You're gonna have to check it out for yourself.<end>
+
+=>q45
+Я не могу ничего сказать. Вам придётся проверить само$(#му/й).<end>
+
+=>a46_original
+I'm in a small room with a console, two desks and some shelves.<end>
+
+=>a46
+Я нахожусь в маленькой комнате с консолью, двумя столами и какими-то полками.<end>
+
+=>q47_original
+Console? Hmmm, can you be a bit more specific?<end>
+
+=>q47
+Консоль? Хм-м, можно поконкретнее?<end>
+
+=>a48_original
+It's in the southeast part of this area.<end>
+
+=>a48
+Это в юго-восточной части.<end>
+
+=>q49_original
+Oh, the security room, makes sense. Nothing specific about it on my end. Check the console; if it's working, maybe it could prove useful.<end>
+
+=>q49
+О, помещение охраны, ну конечно. Ничего особенного не могу сказать. Проверьте консоль -- если она работает, то может оказаться полезной.<end>
+
+=>q50_original
+I saw mention of patrolling security sentries somewhere in here, but I can't seem to find it again. Drats!<end>
+
+=>q50
+Я где-то видела упоминание о патрульных роботах, но не могу найти его снова. Проклятье!<end>
+
+=>a51_original
+I'm in the security room.<end>
+
+=>a51
+Я в комнате охраны.<end>
+
+=>q52_original
+Okay, there was a console there, right? Maybe you should check it out. I've finally found info regarding the sentries: They are patrolling the main hallway in Sector 2.<end>
+
+=>q52
+Так, там была консоль, да? Может быть, стоит её проверить. И я наконец-то нашла информацию о сторожевых роботах: они патрулируют главный коридор в Секторе 2.<end>
+
+=>q53_original
+Maybe you can do something about that from the security room.<end>
+
+=>q53
+Может быть, вы сможете сделать что-то в комнате безопасности.<end>
+
+=>a54_original
+I'm in a room with desks, tables and some high tech equipment.<end>
+
+=>a54
+Я нахожусь в комнате со столами и каким-то высокотехнологичным оборудованием.<end>
+
+=>q55_original
+There is a room in here, marked as "Research 2." Maybe that's the one.<end>
+
+=>q55
+Здесь есть комната с пометкой «Лаборатория 2». Может быть, это она.<end>
+
+=>q56_original
+Other than that... I've got nothing. Drats.<end>
+
+=>q56
+Кроме этого... У меня всё. Проклятье.<end>
+
+=>a57_original
+I'm in a room full of work tables, shelves with all sorts of equipment and some fuel tanks.<end>
+
+=>a57
+Я нахожусь в комнате с верстаками, полками со всяким оборудованием и топливными баками.<end>
+
+=>q58_original
+That sounds like the maintenance room. <end>
+
+=>q58
+Похоже на техническое помещение.<end>
+
+=>q59_original
+Maybe you can find some useful equipment. It's a maintenance room after all.<end>
+
+=>q59
+Может быть, там есть полезное снаряжение. Это техническое помещение, в конце концов.<end>
+
+=>a60_original
+I'm in the maintenance room.<end>
+
+=>a60
+Я в техническом помещении.<end>
+
+=>q61_original
+Got it. Look around...<end>
+
+=>q61
+Поняла. Осмотритесь...<end>
+
+=>a62_original
+I'm in the room with the generator.<end>
+
+=>a62
+Я в комнате с генератором.<end>
+
+=>q63_original
+Lovely, I can see on the console that the hydraulic generator for the elevator is in that room. That's the one, see if you can start it up.<end>
+
+=>q63
+Прелестно, я вижу на консоли, что гидравлический генератор для лифта находится в этой комнате. Попробуйте запустить его.<end>
+
+=>q64_original
+Get back to me after that.<end>
+
+=>q64
+Свяжитесь со мной после этого.<end>
+
+=>a65_original
+I'm in the pumping room. There's lots of pipes and tanks here.<end>
+
+=>a65
+Я в насосной комнате. Здесь полно труб и цистерн.<end>
+
+=>q66_original
+Oh, okay. As far as I can gather, the pump in this room is used to supply fluid to the elevator's hydraulic generator.<end>
+
+=>q66
+Ох, ладно. Насколько я поняла, насос в этом помещении служит для подачи жидкости к гидравлическому генератору лифта.<end>
+
+=>q67_original
+Lovely! This is exactly what you need!<end>
+
+=>q67
+Прелестно! Это именно то, что вам нужно!<end>
+
+=>q68_original
+That could prove important for your escape, $(context.player.Name). You should check its condition.<end>
+
+=>q68
+Это может помочь вам найти выход, $(context.player.Name). Проверьте его состояние.<end>
+
+=>a69_original
+There is a collapsed passage near the maintenance room.<end>
+
+=>a69
+Рядом с техническим помещением есть заваленный проход.<end>
+
+=>q70_original
+Oh, that leads to Sector 3. Drats! Let me see for a second... Sector... 3... Okay, it's a large research and development area of this facility, much larger than Sector 1 and 2 combined!<end>
+
+=>q70
+О, это путь в Сектор 3. Проклятье! Дайте мне секунду... Сектор... 3... Ага, это огромное исследовательское учреждение, по площади больше, чем сектора 1 и 2 вместе взятые!<end>
+
+=>q71_original
+A collapsed tunnel doesn't help us at all!<end>
+
+=>q71
+Рухнувший туннель нам не поможет!<end>
+
+=>a72_original
+I checked the hydraulic pump, but there was an error regarding a breach in the pipeline.<end>
+
+=>a72
+Я проверил$(#/а) гидравлический насос, но там была ошибка касательно нарушения в трубопроводе.<end>
+
+=>q73_original
+Oh, so that's a problem. Well, see if you can follow the pipes and see where they're damaged. Maybe you can find a way fix it somehow, if it's not too severe?<end>
+
+=>q73
+Ох, это плохо. Попробуйте пройти вдоль труб и поискать повреждения. Может быть, вам удастся их подлатать?<end>
+
+=>q74_original
+Check the maintenance room or the storage, maybe you can find something there to help you check the pip-- I mean fix the pipes! Fix the pipes!<end>
+
+=>q74
+Проверьте техническое помещение или склад, может быть, вы найдёте там что-нибудь, что может помочь вам прочи... в смысле, починить трубы! Починить трубы!<end>
+
+=>a75_original
+I checked the hydraulic generator and it looks to me that some parts are broken.<end>
+
+=>a75
+Я проверил$(#/а) гидрогенератор, и мне кажется, что некоторые его детали неисправны.<end>
+
+=>q76_original
+Oh, that is not good. Not good at all! ::She pauses for a few seconds.:: Hey, I got an idea: We can repair the generator together; I can guide you through the whole process; I've worked on hydraulic generators before, which is *incredibly* convenient. But, if something seems broken, then our best bet is to try to find a replacement before anything else.<end>
+
+=>q76
+Ох, это нехорошо. Совсем нехорошо! ::Она замолкает на несколько секунд.:: Эй, у меня идея. Мы сможем отремонтировать генератор вместе, я буду помогать вам советами. Я раньше работала с гидрогенераторами -- удачно, не правда ли? Если там что-то сломано, наш лучший вариант -- попробовать найти замену, прежде чем делать что-то ещё.<end>
+
+=>q77_original
+My best guess is that there could be some spare parts either in the storage or in the maintenance room. Check them both out.<end>
+
+=>q77
+Думаю, что запчасти могут быть либо на складе, либо в техническом помещении. Проверьте и там и там.<end>
+
+=>a78_original
+I have them right here with me, and I'm in the generator room right now.<end>
+
+=>a78
+Они прямо здесь, со мной, я нахожусь в генераторной.<end>
+
+=>q79_original
+Lovely. ::She takes a deep breath.:: Okay, listen carefully: First, I need you to explain to me what you see in there...<end>
+
+=>q79
+Прелестно. ::Она делает глубокий вдох.:: Ладно, слушайте внимательно: сначала опишите мне, что вы там видите...<end>
+
+=>a80_original
+::Start the repairs.::<end>
+
+=>a80
+::Начать ремонт.::<end>
+
+=>a81_original
+I have them right here with me.<end>
+
+=>a81
+Они прямо здесь, со мной.<end>
+
+=>q82_original
+Lovely! Call me when you're near the generator so that we can start working on it.<end>
+
+=>q82
+Прелестно! Позвоните мне, когда будете возле генератора, и мы сможем начать работу.<end>
+
+=>a83_original
+Got it. Talk to you later.<end>
+
+=>a83
+Ясно. Поговорим позже.<end>
+
+=>a84_original
+I have some generator parts with me.<end>
+
+=>a84
+У меня есть какие-то детали от генератора.<end>
+
+=>a85_original
+I'm in the generator room, and have the necessary parts.<end>
+
+=>a85
+Я в генераторной, и у меня есть необходимые запчасти.<end>
+
+=>a86_original
+I can't start the hydraulic generator, it said that the hydraulic fluid levels are low.<end>
+
+=>a86
+Я не могу запустить гидрогенератор, он сообщает о низком уровне рабочей жидкости.<end>
+
+=>q87_original
+Yeah, we've gotta fix those pipes and start the pump; the generator can't work without it.<end>
+
+=>q87
+Да, нужно починить эти трубы и запустить насос. Генератор не может работать без него.<end>
+
+=>q88_original
+Drats, problems everywhere.<end>
+
+=>q88
+Проклятье, проблемы повсюду.<end>
+
+=>q89_original
+Hmm... check the pumping room in Sector 2.<end>
+
+=>q89
+Хм... проверьте насосную в Секторе 2.<end>
+
+=>q90_original
+It's gotta be that.<end>
+
+=>q90
+Должно быть, оно.<end>
+
+=>a91_original
+I'm roaming the corridors.<end>
+
+=>a91
+Я брожу по коридорам.<end>
+
+=>q92_original
+Understood. Call me when you're somewhere specific.<end>
+
+=>q92
+Поняла. Позвоните мне, когда куда-нибудь придёте.<end>
+
+=>q93_original
+If you need my help, that is.<end>
+
+=>q93
+Ну, если вам нужна моя помощь...<end>
+
+=>a94_original
+I'm in the vents.<end>
+
+=>a94
+Я в вентиляции.<end>
+
+=>a95_original
+I'm near the elevator.<end>
+
+=>a95
+Я возле лифта.<end>
+
+=>q96_original
+Okay, I don't think there is much to be done there right now.<end>
+
+=>q96
+Ладно, вряд ли здесь можно что-то сейчас сделать.<end>
+
+=>q97_original
+Unless you wanna try climbing up, but it looks pretty high...<end>
+
+=>q97
+Ну, если только вы не хотите попробовать взобраться наверх. Тут довольно высоко...<end>
+
+=>a98_original
+I'll call you later.<end>
+
+=>a98
+Я позвоню вам позже.<end>
+
+=>q99_original
+Okay, please take care, and call me if you need help.<end>
+
+=>q99
+Ладно, пожалуйста, будьте осторожны, и позвоните мне, если вам понадобится помощь.<end>
+
+=>a100_original
+::End Conversation::<end>
+
+=>a100
+::Конец разговора::<end>
+
+=>a101_original
+It wasn't the most pleasant landing, but at least I'm still alive. Where am I?<end>
+
+=>a101
+Посадка вышла жёсткая, но по крайней мере я всё ещё жив$(#/а). Где я?<end>
+
+=>q102_original
+I read you.<end>
+
+=>q102
+Я слышу вас.<end>
+

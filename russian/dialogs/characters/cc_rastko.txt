@@ -1,0 +1,556 @@
+﻿=>q1_original
+::The rugged ferryman greets you with a long, thoughtful stare. After a brief moment of inspection he points his finger at you and speaks.::
+
+Ain't you that $(#dude who punched his wife in the face/gal who gave birth to twin girls) on my boat a couple of months ago? ::He then shakes his head as he realizes his error.:: Nah, nah, my bad. That $(#dude/gal) did look a lot like you, though. Anyway, I'm Rastko. Need a ride?<end>
+
+=>q1
+::Суровый паромщик встречает вас долгим задумчивым взглядом. После краткого осмотра он указывает на вас пальцем и говорит.::
+
+Не ты ли $(#тот чувак, что врезал жене по лицу на моей лодке/та женщина, что родила девочек-близнецов на моей лодке) пару месяцев назад? ::Он трясёт головой, понимая свою ошибку.:: Нет, нет, я ошибся. Но $(#тот чувак был очень похож/та девчонка была очень похожа) на тебя. Короче, я Растко. Подвезти куда?<end>
+
+=>q2_original
+<end>
+
+=>q2
+<end>
+
+=>a3_original
+I need to get to Junkyard.<end>
+
+=>a3
+Мне нужно попасть на Свалку.<end>
+
+=>q4_original
+::He glances at your jet ski.:: <end>
+
+=>q4
+::Он смотрит на твой гидроцикл.::<end>
+
+=>q5_original
+<end>
+
+=>q5
+<end>
+
+=>q6_original
+Well, after you've passed the Core Ring just sail straight south and after <end>
+
+=>q6
+Ну, после того, как пройдёте кольцо Кор, следуйте прямо на юг, а затем<end>
+
+=>q7_original
+a while you'll see Junkyard on the western bank. Can't miss it.<end>
+
+=>q7
+через некоторое время вы увидите Свалку на западном берегу. Её невозможно не заметить.<end>
+
+=>q8_original
+<end>
+
+=>q8
+<end>
+
+=>q9_original
+<end>
+
+=>q9
+<end>
+
+=>a10_original
+How do I get to Junkyard?<end>
+
+=>a10
+Как мне добраться до Свалки?<end>
+
+=>a11_original
+How do I get to South Gate Station?<end>
+
+=>a11
+Как добраться до станции Саут-Гейт?<end>
+
+=>a12_original
+How do I get to Camp Hathor?<end>
+
+=>a12
+Как мне добраться до лагеря Хатор?<end>
+
+=>a13_original
+I have other questions.<end>
+
+=>a13
+У меня есть другие вопросы.<end>
+
+=>q14_original
+Want me to take you somewhere?<end>
+
+=>q14
+Хочешь, я доставлю тебя куда-нибудь?<end>
+
+=>q15_original
+you've passed Junkyard look to the east for the SGS docks.<end>
+
+=>q15
+пройдя Свалку, поверните на восток к докам ССГ.<end>
+
+=>q16_original
+Sail east past the Core Ring and The Rig, through the Dreadpool, and then turn south and follow Isaac's River until you see the camp on the western bank.<end>
+
+=>q16
+Следуйте на восток мимо кольца Кор и Буровой, через озеро Страха, а затем поверните на юг и следуйте по реке Исаака, пока не увидите лагерь на западном берегу.<end>
+
+=>q17_original
+Sure, I can get you there, <end>
+
+=>q17
+Конечно, я могу доставить тебя туда,<end>
+
+=>q18_original
+but it'll cost you fifty charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q18
+но это будет стоить тебе пятьдесят харонов. Это много, но водные пути стали довольно опасными в последнее время.<end>
+
+=>a19_original
+Let's go. ::Give him 50 stygian coins.::<end>
+
+=>a19
+Погнали. ::Дать ему 50 стигийских монет.::<end>
+
+=>q20_original
+<end>
+
+=>q20
+<end>
+
+=>q21_original
+Hop in - and keep your limbs inside the boat: People have started talking about something hardcore on the prowl in Core City waters. So yeah...<end>
+
+=>q21
+Запрыгивай - и не высовывайся из лодки: люди говорят о чём-то стрёмном, рыщущем в водах Кор-сити. Так что да...<end>
+
+=>a22_original
+::Sail to Camp Hathor.::<end>
+
+=>a22
+::Плыть в лагерь Хатор.::<end>
+
+=>a23_original
+::Sail to South Gate Station.::<end>
+
+=>a23
+::Плыть на станцию Саут-Гейт.::<end>
+
+=>a24_original
+::Sail to Junkyard.::<end>
+
+=>a24
+::Плыть на Свалку.::<end>
+
+=>q25_original
+I never get tired of sailing there; the Hathorians are much nicer people than these here.<end>
+
+=>q25
+Я всегда рад сходить туда; хаторцы намного приятней, чем люди здесь.<end>
+
+=>a26_original
+::Sail to Camp Hathor.::<end>
+
+=>a26
+::Плыть в лагерь Хатор.::<end>
+
+=>q27_original
+South Gate Station - here we come.<end>
+
+=>q27
+Саут-Гейт, мы идём.<end>
+
+=>a28_original
+::Sail to South Gate Station.::<end>
+
+=>a28
+::Плыть на станцию Саут-Гейт.::<end>
+
+=>q29_original
+Junkyard it is.<end>
+
+=>q29
+Это до Свалки.<end>
+
+=>a30_original
+::Sail to Junkyard.::<end>
+
+=>a30
+::Плыть на Свалку.::<end>
+
+=>a31_original
+I've changed my mind, maybe some other time.<end>
+
+=>a31
+Я передумал$(#/а). Как-нибудь в другой раз.<end>
+
+=>q32_original
+Fine, but no one is gonna offer you a cheaper ride than me if that's what you're concerned about.<end>
+
+=>q32
+Ладно, но никто не предложит дешевле чем я, если ты об этом.<end>
+
+=>q33_original
+but it'll cost you twenty-five charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q33
+но это будет стоить тебе двадцать пять харонов. Это много, но водные пути стали довольно опасными в последнее время.<end>
+
+=>a34_original
+Let's go. ::Give him 25 stygian coins.::<end>
+
+=>a34
+Погнали. ::Дать ему 25 стигийских монет.::<end>
+
+=>a35_original
+I need to get to South Gate Station.<end>
+
+=>a35
+Мне нужно добраться до станции Саут-Гейт.<end>
+
+=>q36_original
+Right, I can get you there. <end>
+
+=>q36
+Да, я могу довезти тебя.<end>
+
+=>q37_original
+It'll cost you fifty charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q37
+Это будет стоить тебе пятьдесят харонов. Дорого, но водные пути стали довольно опасными в последнее время.<end>
+
+=>a38_original
+Let's go. ::Give him 50 stygian coins.::<end>
+
+=>a38
+Погнали. ::Дать ему 50 стигийских монет.::<end>
+
+=>q39_original
+It'll cost you twenty-five charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q39
+Это будет стоить тебе двадцать пять харонов. Дорого, но водные пути стали довольно опасными в последнее время.<end>
+
+=>a40_original
+Let's go. ::Give him 25 stygian coins.::<end>
+
+=>a40
+Погнали. ::Дать ему 25 стигийских монет.::<end>
+
+=>a41_original
+I need to get to Camp Hathor.<end>
+
+=>a41
+Мне нужно добраться до лагеря Хатор.<end>
+
+=>q42_original
+Right, I can get you there. <end>
+
+=>q42
+Да, я могу довезти тебя.<end>
+
+=>q43_original
+It'll cost you seventy charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q43
+Это будет стоить тебе семьдесят харонов. Дорого, но водные пути стали довольно опасными в последнее время.<end>
+
+=>a44_original
+Let's go. ::Give him 70 stygian coins.::<end>
+
+=>a44
+Погнали. ::Дать ему 70 стигийских монет.::<end>
+
+=>q45_original
+It'll cost you thirty-five charons. It's a lot, but the waterways have gotten real dangerous lately.<end>
+
+=>q45
+Это будет стоить тебе тридцать пять харонов. Дорого, но водные пути стали довольно опасными в последнее время.<end>
+
+=>a46_original
+Let's go. ::Give him 35 stygian coins.::<end>
+
+=>a46
+Погнали. ::Дать ему 35 стигийских монет.::<end>
+
+=>a47_original
+I need to get to Forsaken Island.<end>
+
+=>a47
+Мне нужно попасть на Покинутый остров.<end>
+
+=>q48_original
+::He looks at you with disbelief.::
+
+You are joking, right?<end>
+
+=>q48
+::Он смотрит на вас с недоверием.::
+
+Ты шутишь, да?<end>
+
+=>a49_original
+I don't have time for this. Will you take me to Forsaken Island or not?<end>
+
+=>a49
+У меня нет на это времени. Отвезёшь меня на Покинутый остров или нет?<end>
+
+=>q50_original
+::He shakes his head.:: Nah, it's too dangerous. No one in their right mind would take you there, so my advice is to save yourself the trouble and forget about it.<end>
+
+=>q50
+::Он качает головой.:: Не-а, это слишком опасно. Никто в здравом уме не пойдёт туда, так что мой тебе совет -- брось эту затею и забудь об этом.<end>
+
+=>q51_original
+Now, is there a *normal* place you want me to take you?<end>
+
+=>q51
+Теперь, тебя отвезти в какое *нормальное* место?<end>
+
+=>a52_original
+No, I am not.<end>
+
+=>a52
+Нет, не шучу.<end>
+
+=>q53_original
+Oh... OH! Well, I am not sailing there - no sane person is. It's just far too dangerous, and to tell you the truth, even if you offered me a lot - and I mean a whole bucket of shinies I still wouldn't sail there.<end>
+
+=>q53
+Ох... ОХ! Ну так, я не хожу туда, и ни один здравомыслящий человек -- тоже. Это слишком опасно, и, сказать по правде, даже если ты мне предложишь много -- хоть целое ведро драгоценностей, -- я не пойду туда.<end>
+
+=>q54_original
+I can take you somewhere else though, if you wanna.<end>
+
+=>q54
+Но я могу отвезти тебя куда-нибудь ещё, если хочешь.<end>
+
+=>a55_original
+I need some sailing directions.<end>
+
+=>a55
+Мне нужны точные координаты.<end>
+
+=>q56_original
+Sure.<end>
+
+=>q56
+Конечно.<end>
+
+=>a57_original
+What can you tell me about the Black Sea?<end>
+
+=>a57
+Что вы можете рассказать мне о Чёрном море?<end>
+
+=>q58_original
+You ain't planning on going there with those Aegis people?<end>
+
+=>q58
+Вы не собираетесь отправиться туда с этими людьми из Эгиды?<end>
+
+=>a59_original
+Maybe.<end>
+
+=>a59
+Может быть.<end>
+
+=>q60_original
+Maybe... <end>
+
+=>q60
+Может быть...<end>
+
+=>q61_original
+Whatever it is you're planning to do, my advice is to avoid that place. <end>
+
+=>q61
+Независимо от того, что вы планируете делать, мой совет -- избегать этого места.<end>
+
+=>q62_original
+Don't go there. It's full of pirates and vicious beasts, whirlpools and rapids and who knows what other hardcore dangers. There's a good reason why normal folks don't go there, and pirates ain't normal folks anyway. Nah, they ain't.<end>
+
+=>q62
+Не лезь туда. Там полно пиратов и злобных тварей, водоворотов и течений, и кто знает, каких ещё хардкорных опасностей. Нормальным людям там делать нечего, и по хорошей причине, а пираты они всё равно ненормальные. Точно ненормальные.<end>
+
+=>q63_original
+I've lost a few good friends who were dumb enough to go there. It's one hardcore place, too hardcore. Leave it to the pirates. They can have it.<end>
+
+=>q63
+Я потерял несколько хороших друзей, которым хватило дурости отправиться туда. Это хардкорное место, слишком хардкорное. Оставьте его пиратам. Мне оно даром не нужно.<end>
+
+=>a64_original
+What do you know about Aegis Incorporated?<end>
+
+=>a64
+Что вы знаете об Эгида Инкорпорейтед?<end>
+
+=>q65_original
+Security agency from North Underrail. They are protecting some university folks from Dis, that's what I heard. Saw them at the eastern docks a week ago - or was it two? - and it looked like quite a hardcore operation, boats and jets and lotta stuff going to the Black Sea. Of all the places - the Hell's Gut, heh. They're back now. To resupply, I think.<end>
+
+=>q65
+Охранное агентство из Северной Подземки. Я слышал, они тут охраняют каких-то университетских из Дис. Видел их у восточной пристани неделю назад... или две? Похоже было, что у них на уме весьма хардкорная операция -- лодки и гидроциклы, куча грузов к Чёрному морю. Не куда-нибудь -- прямо в Адский котёл, хех. Они уже вернулись. За припасами, должно быть.<end>
+
+=>q66_original
+Them Northerners, coming here and thinking they can outgun anyone and anything. They think they are so... dominating. Well, we got guns too, and know how to use them, we sure do, but we also know what you can mess with and what you cannot. Them folks don't. They'll regret going there, I'm telling ya.<end>
+
+=>q66
+Ох уж эти северяне -- приезжают сюда и думают, что у них пушек хватит на всех и вся. Думают, что они тут... доминируют. Ну так, у нас тоже пушки найдутся, и они не для вида, будь споко$(#ен/йна) -- вот только мы знаем, куда лезть можно, а куда не следует. А они не знают. Они ещё пожалеют, что туда сунулись, вот увидишь.<end>
+
+=>a67_original
+I'd like you to take me somewhere. It's not the Black Sea, by the way.<end>
+
+=>a67
+Я хотел$(#/а) бы, чтобы вы меня кое-куда отвезли. Не к Чёрному морю, конечно же.<end>
+
+=>q68_original
+That's more like it. Where do you wanna go?<end>
+
+=>q68
+Так-то лучше. Куда вы хотите отправиться?<end>
+
+=>a69_original
+I gotta go. Goodbye.<end>
+
+=>a69
+Мне пора идти. До свидания.<end>
+
+=>q70_original
+See ya.<end>
+
+=>q70
+Увидимся.<end>
+
+=>a71_original
+Precisely.<end>
+
+=>a71
+Точно.<end>
+
+=>a72_original
+No, I'm just curious.<end>
+
+=>a72
+Нет, мне просто интересно.<end>
+
+=>q73_original
+Hmmm... <end>
+
+=>q73
+Хм-м...<end>
+
+=>q74_original
+You asking because of those Aegis people at the eastern dock? Aegis Incorporated. They're interested in exploring the Black Sea.<end>
+
+=>q74
+Вы это спрашиваете из-за тех людей из Эгиды на восточной пристани? Эгиды Инкорпорейтед. Похоже, они собирают экспедицию к Чёрному морю.<end>
+
+=>a75_original
+Who are these Aegis Incorporated people?<end>
+
+=>a75
+Кто эти люди из Эгиды Инкорпорейтед?<end>
+
+=>q76_original
+They are a military group from North Underrail... But wait, first thing's first...<end>
+
+=>q76
+Это военизированная группа из Северной Подземки... Но подождите, сперва...<end>
+
+=>a77_original
+Who are those people at the docks east of here? Do you know anything about them?<end>
+
+=>a77
+Кто эти люди в доках к востоку отсюда? Вы знаете что-нибудь о них?<end>
+
+=>q78_original
+The folks wearing armor? They're Aegis... yes, Aegis Incorporated.<end>
+
+=>q78
+Люди в доспехах? Они из Эгиды... да, Эгиды Инкорпорейтед.<end>
+
+=>a79_original
+Forget that, let's discuss something else.<end>
+
+=>a79
+Забудьте об этом, давайте обсудим кое-что ещё.<end>
+
+=>q80_original
+Fine by me.<end>
+
+=>q80
+Меня устраивает.<end>
+
+=>a81_original
+I'm looking for the Acid Hunters. I was told that they have been seen near the docks.<end>
+
+=>a81
+Я ищу Кислотных охотников. Мне сказали, что их видели возле доков.<end>
+
+=>q82_original
+Acid Hunters? Those bags of slackjaw mess. I was nearly zoned out because of those pipeworkers.<end>
+
+=>q82
+Кислотные охотники? Эти мешки грязи. Я чуть в зону не отправился из-за этих трубочистов.<end>
+
+=>a83_original
+What happened?<end>
+
+=>a83
+Что случилось?<end>
+
+=>q84_original
+A trip to Junkyard that ended in a gunfight - chemical gunfight - I had nothing to do with but still ended up having a lot of damage done to my ferry. For which the bastards still owe me shinies. Bunch of pipeworkers.<end>
+
+=>q84
+Путешествие на Свалку, которое закончилось перестрелкой. С применением химического оружия. К которой я никакого отношения не имел, но всё равно моему парому крупно досталось. И за это эти ублюдки всё ещё должны мне блестяшек. Кучка трубочистов.<end>
+
+=>a85_original
+I'm guessing you don't know where I could find them.<end>
+
+=>a85
+Полагаю, что вы не знаете, где я могу их найти?<end>
+
+=>q86_original
+Well, you've just told me they've been seen at the docks, but I haven't seen them in a long time. Gotta be avoiding me.
+
+::He shrugs.:: Sorry, friend, I can't help you. Wish I could, though.<end>
+
+=>q86
+Ну, хотя вы и сказали мне, что их видели в доках, но я их не видел уже давно. Избегают меня, наверное.
+
+::Он пожимает плечами.:: Извини, $(#дружище/подруга), ничем не могу помочь. Хотел бы, но не могу.<end>
+
+=>a87_original
+So do you know where they are or not?<end>
+
+=>a87
+Так вы знаете, где они, или нет?<end>
+
+=>q88_original
+Heard about what's happening out there? ::He shakes his head.:: These waterways are getting more and more hardcore by the day.
+
+So, where do you wanna sail?<end>
+
+=>q88
+Слышал о том, что там происходит? ::Он качает головой.:: Эти водные пути становятся всё более и более трудными с каждым днём.
+
+Итак, куда ты хочешь плыть?<end>
+
+=>q89_original
+At your service, friend. Where are we sailing this time?<end>
+
+=>q89
+Я к твоим услугам, $(#друг/подруга). Куда плывём на этот раз?<end>
+
+=>q90_original
+Yeah? You wanna sail somewhere?<end>
+
+=>q90
+Да? Ты хочешь добраться куда-то?<end>
+

@@ -1,0 +1,822 @@
+﻿=>q1_original
+Make space for others. Next!<end>
+
+=>q1
+Дай место другим. Следующий!<end>
+
+=>q2_original
+::The gangling man is hurriedly typing something into the computer - its light adding further contrast to his raw-boned face - before ::<end>
+
+=>q2
+::Долговязый мужчина что-то торопливо вводит в компьютер, свет от которого ещё сильнее накладывает контраст на его лицо, прежде чем ::<end>
+
+=>q3_original
+::issuing what appears to be a wagering ticket to the person next to you.::
+
+Okay, who's next?<end>
+
+=>q3
+::выдаёт человеку рядом с вами что-то похожее на квитанцию о ставке.::
+
+Ладно, кто следующий?<end>
+
+=>q4_original
+<end>
+
+=>q4
+<end>
+
+=>a5_original
+I'd like to place a bet.<end>
+
+=>a5
+Я хочу сделать ставку.<end>
+
+=>q6_original
+Yeah, yeah, shoot.<end>
+
+=>q6
+Да, да, попробуй.<end>
+
+=>q7_original
+<end>
+
+=>q7
+<end>
+
+=>a8_original
+I'm betting on...<end>
+
+=>a8
+Я ставлю на...<end>
+
+=>q9_original
+::He waits, giving off an aura of impatience.::<end>
+
+=>q9
+::Он ждёт, излучая ауру нетерпения.::<end>
+
+=>q10_original
+<end>
+
+=>q10
+<end>
+
+=>q11_original
+<end>
+
+=>q11
+<end>
+
+=>a12_original
+$(tempcontext.Hopper1Name).<end>
+
+=>a12
+$(tempcontext.Hopper1Name).<end>
+
+=>q13_original
+::He types in the hopper's name.::
+
+Yeah.<end>
+
+=>q13
+::Он печатает имя пещерника.::<end>
+
+=>q14_original
+<end>
+
+=>q14
+<end>
+
+=>a15_original
+On the nose.<end>
+
+=>a15
+На носу.<end>
+
+=>q16_original
+::He inputs the wager type.::
+
+Mmmm-okay, the minimum stake is fifty charons.<end>
+
+=>q16
+::Он вводит тип ставки.::
+
+М-м-м, хорошо, минимальная ставка - пятьдесят харонов.<end>
+
+=>q17_original
+<end>
+
+=>q17
+<end>
+
+=>a18_original
+Fifty charons it is.<end>
+
+=>a18
+Вот пятьдесят харонов.<end>
+
+=>q19_original
+::He inputs the amount.::
+
+Oooookay. We only give refunds in case the race gets canceled.
+
+Now - the *money* - and I'll print you your wagerin' ticket.<end>
+
+=>q19
+::Он вводит сумму.::
+
+Хорошо-о-о. Мы возвращаем деньги, только если забег будет отменён.
+
+А теперь - *деньги*, и я распечатаю тебе квитанцию о ставке.<end>
+
+=>a20_original
+Here you go. ::Give him the coins.::<end>
+
+=>a20
+Вот, держи. ::Отдать ему монеты.::<end>
+
+=>q21_original
+::The machine prints a wagering ticket with a loud *brrrrrr*, a ticket which he grabs and hands to you with little care.::
+
+Bring this to me after the race to settle your bet. Also, dead hoppers maintain their placements at the end of the race.
+
+Okay, who's next?<end>
+
+=>q21
+::Машина печатает квитанцию о ставке с громким *бр-р-р-р*, квитанцию, которую мужчина хватает и вручает вам без особой осторожности.::
+
+Принеси это мне после скачек, чтобы получить свой выигрыш. Ах да, мёртвые пещерники занимают последние места на скачках.
+
+Ладно, кто следующий?<end>
+
+=>q22_original
+Me, me! Make room for the *man*!<end>
+
+=>q22
+Я, я! Дайте пройти *человеку*!<end>
+
+=>q23_original
+Hold it right there, trash - it's my turn!<end>
+
+=>q23
+Стоять на месте, дрянь, сейчас моя очередь!<end>
+
+=>a24_original
+::Leave.::<end>
+
+=>a24
+::Уйти::<end>
+
+=>a25_original
+I changed my mind about the amount.<end>
+
+=>a25
+Я думаю поставить другую сумму.<end>
+
+=>q26_original
+::He puts his finger on the delete button.::
+
+Come on, $(#man/lady).<end>
+
+=>q26
+::Он ставит палец на кнопку "Удалить".::
+
+Давай, $(#парень/дамочка).<end>
+
+=>a27_original
+On the other hand, I guess I won't be betting today.<end>
+
+=>a27
+С другой стороны, я думаю, лучше не делать ставок сегодня.<end>
+
+=>q28_original
+Come on, $(#man/lady), quit wastin' everyone's time.
+
+*Next*!<end>
+
+=>q28
+Ну же, $(#парень/дамочка), хватит тратить чужое время.
+
+*Следующий*!<end>
+
+=>a29_original
+I'm betting a hundred charons.<end>
+
+=>a29
+Ставлю сотню харонов.<end>
+
+=>a30_original
+I'm betting a hundred fifty charons.<end>
+
+=>a30
+Ставлю сто пятьдесят харонов.<end>
+
+=>a31_original
+I'm betting two hundred charons.<end>
+
+=>a31
+Ставлю двести харонов.<end>
+
+=>a32_original
+I'm betting three hundred charons.<end>
+
+=>a32
+Ставлю триста харонов.<end>
+
+=>a33_original
+I'm betting four hundred charons.<end>
+
+=>a33
+Ставлю четыреста харонов.<end>
+
+=>a34_original
+I'm betting five hundred charons.<end>
+
+=>a34
+Ставлю пятьсот харонов.<end>
+
+=>a35_original
+I'm betting a thousand charons.<end>
+
+=>a35
+Ставлю тысячу харонов.<end>
+
+=>q36_original
+Daaaaaamn! We got a one-chancer. Better get ready to jump on the rails, ha-ha!<end>
+
+=>q36
+Чё-ё-ё-ёрт! Да у нас тут азартная душа. Приготовься лечь на рельсы, ха-ха!<end>
+
+=>q37_original
+Quiet! <end>
+
+=>q37
+Тихо!<end>
+
+=>a38_original
+I'm betting one thousand five hundred charons.<end>
+
+=>a38
+Ставлю тысячу пятьсот харонов.<end>
+
+=>a39_original
+I'm betting two thousand charons.<end>
+
+=>a39
+Ставлю две тысячи харонов.<end>
+
+=>a40_original
+I changed my mind about the wager type.<end>
+
+=>a40
+Я хочу сменить тип ставки.<end>
+
+=>q41_original
+::He presses delete.::<end>
+
+=>q41
+::Он нажимает "Удалить".::<end>
+
+=>a42_original
+I gotta go get my wallet. Be back in a moment.<end>
+
+=>a42
+Кошелёк дома остался. Я сейчас вернусь.<end>
+
+=>q43_original
+Get <end>
+
+=>q43
+Давай<end>
+
+=>q44_original
+movin', $(#jack/sis)! Comin' through!<end>
+
+=>q44
+шевелись, $(#приятель/сестрёнка)! Проходи!<end>
+
+=>q45_original
+I was here *first*, yokel.<end>
+
+=>q45
+Я тут стоял *первым*, дубина.<end>
+
+=>a46_original
+At the tail.<end>
+
+=>a46
+На хвосте.<end>
+
+=>a47_original
+Slow show.<end>
+
+=>a47
+Еле-еле душа в теле.<end>
+
+=>a48_original
+In the coins.<end>
+
+=>a48
+Или или.<end>
+
+=>a49_original
+Actually, I'd like to bet on another hopper.<end>
+
+=>a49
+Вообще-то, я хочу поставить на другого пещерника.<end>
+
+=>q50_original
+::He presses delete.::<end>
+
+=>q50
+::Он нажимает "Удалить".::<end>
+
+=>a51_original
+$(tempcontext.Hopper2Name).<end>
+
+=>a51
+$(tempcontext.Hopper2Name).<end>
+
+=>a52_original
+$(tempcontext.Hopper3Name).<end>
+
+=>a52
+$(tempcontext.Hopper3Name).<end>
+
+=>a53_original
+$(tempcontext.Hopper4Name).<end>
+
+=>a53
+$(tempcontext.Hopper4Name).<end>
+
+=>a54_original
+So how does all of this work?<end>
+
+=>a54
+Так как это всё работает?<end>
+
+=>q55_original
+Grab a leaflet at the entrance. It's all in there.<end>
+
+=>q55
+Возьми листовку на входе. Там всё написано.<end>
+
+=>q56_original
+Got lots of pictures in case ya can't *reed*, ha-ha. Now get movin', $(#jack/sis), c'mon!<end>
+
+=>q56
+Там и картинок много, если у тебя туго с *чытэнием*, ха-ха. А теперь иди, $(#приятель/сестрёнка), давай!<end>
+
+=>a57_original
+Actually, I'm betting on...<end>
+
+=>a57
+Вообще-то, я хочу поставить на...<end>
+
+=>q58_original
+::He looks at you, giving off an aura of impatience.::<end>
+
+=>q58
+::Он ждёт, излучая ауру нетерпения.::<end>
+
+=>a59_original
+I already read it.<end>
+
+=>a59
+Уже читал$(#/а).<end>
+
+=>q60_original
+*Both* sides?<end>
+
+=>q60
+*Обе* стороны?<end>
+
+=>a61_original
+Hold up... ::Check the leaflet.::<end>
+
+=>a61
+Подождите-ка... ::Заглянуть в листовку.::<end>
+
+=>q62_original
+Would you hurry up? The race is about to start.<end>
+
+=>q62
+Может, поторопишься? Скачки вот-вот начнутся.<end>
+
+=>q63_original
+Dammit, cantcha see I'm in over my head with these people?<end>
+
+=>q63
+Да чтоб тебя, ты не видишь, сколько у меня ещё народу?<end>
+
+=>q64_original
+You: Go read the damn leaflet.<end>
+
+=>q64
+Ты! Иди и почитай сраную листовку!<end>
+
+=>a65_original
+Thanks, I'll go do that.<end>
+
+=>a65
+Спасибо, я так и сделаю.<end>
+
+=>a66_original
+Alright, alright. ::Leave.::<end>
+
+=>a66
+Хорошо, хорошо. ::Уйти.::<end>
+
+=>a67_original
+N-nooo.<end>
+
+=>a67
+Н-не-е-ет.<end>
+
+=>a68_original
+Uhhhhh...<end>
+
+=>a68
+Э-э-э...<end>
+
+=>a69_original
+Can't you tell me the gist of it?<end>
+
+=>a69
+А в общих чертах не расскажете?<end>
+
+=>a70_original
+Actually, I need to think some more.<end>
+
+=>a70
+На самом деле, мне нужно подумать.<end>
+
+=>q71_original
+Then get <end>
+
+=>q71
+Ну тогда<end>
+
+=>a72_original
+Ehm... Hi.<end>
+
+=>a72
+Эм... Здрасьте.<end>
+
+=>q73_original
+Ey, ey, ey - we ain't got all day, ya slackjaw.<end>
+
+=>q73
+Эй, эй, эй! Не тормози, у нас тут не вагон времени.<end>
+
+=>q74_original
+You wanna place your bet or you wanna continue wastin' everyone's time?<end>
+
+=>q74
+Ты хочешь ставку сделать или хочешь время у людей отнять?<end>
+
+=>a75_original
+I'd like a drink, please.<end>
+
+=>a75
+Мне чего-нибудь выпить, пожалуйста.<end>
+
+=>q76_original
+A dr-- I'm the betmaker, not a bartender.<end>
+
+=>q76
+Вып... Я букмекер, а не бармен.<end>
+
+=>q77_original
+Ey, get a load-a this slackjaw, ha-ha-ha-ha!<end>
+
+=>q77
+Эй, вы только гляньте на этого тормоза, ха-ха-ха!<end>
+
+=>q78_original
+You wanna settle a bet or you wanna continue wastin' everyone's time?<end>
+
+=>q78
+Ты хочешь выигрыш получить или хочешь продолжить отнимать у людей время?<end>
+
+=>q79_original
+<end>
+
+=>q79
+<end>
+
+=>a80_original
+I'd like to settle a bet.<end>
+
+=>a80
+Я хочу получить выигрыш.<end>
+
+=>q81_original
+Your wagerin' ticket.<end>
+
+=>q81
+Давай свою квитанцию.<end>
+
+=>q82_original
+<end>
+
+=>q82
+<end>
+
+=>a83_original
+Here. ::Show him your wagering ticket.::<end>
+
+=>a83
+Вот. ::Показать ему квитанцию о ставке.::<end>
+
+=>q84_original
+Moment. ::He scans the ticket.::<end>
+
+=>q84
+Секунду. ::Он сканирует квитанцию.::<end>
+
+=>q85_original
+Here's $(tempcontext.BetWinnings) charons.<end>
+
+=>q85
+Вот $(tempcontext.BetWinnings) харонов.<end>
+
+=>q86_original
+::He throws the ticket somewhere behind the counter.::
+
+*Next*!<end>
+
+=>q86
+::Он бросает квитанцию куда-то за стойку.::
+
+*Следующий*!<end>
+
+=>a87_original
+Hold up - I got more.<end>
+
+=>a87
+Подождите, у меня ещё есть.<end>
+
+=>q88_original
+::He waits impatiently for the ticket.::<end>
+
+=>q88
+::Он с нетерпением ждёт квитанцию::<end>
+
+=>a89_original
+::Leave.::<end>
+
+=>a89
+::Уйти::<end>
+
+=>q90_original
+My turn! Make way!<end>
+
+=>q90
+Моя очередь! Разойдитесь!<end>
+
+=>q91_original
+It's *my* turn, you wretched...!<end>
+
+=>q91
+Сейчас *моя* очередь, ты, ущербный!..<end>
+
+=>q92_original
+<end>
+
+=>q92
+<end>
+
+=>q93_original
+Here. You won $(tempcontext.BetWinnings) charons. ::He hands you your earnings.::<end>
+
+=>q93
+Вот. Выигрыш $(tempcontext.BetWinnings) харонов. ::Он отдаёт вам деньги.::<end>
+
+=>q94_original
+::An ugly mug peeks over your shoulder and grins.:: Ooooooh, that's a nice big bag o' coins ya earned there, $(#jack/sis).<end>
+
+=>q94
+::Уродливая рожа заглядывает вам через плечо и ухмыляется.:: О-о-о, скок бабла ты срубил$(#/а), $(#парниша/девчуля).<end>
+
+=>a95_original
+Get lost, ratface.<end>
+
+=>a95
+Проваливай, крысятник.<end>
+
+=>q96_original
+'N' *you* getcha coins 'n' get movin'.<end>
+
+=>q96
+Ты *свои* деньги получил$(#/а), теперь двигай.<end>
+
+=>a97_original
+You continue looking over my shoulder and I'll dislocate both of yours.<end>
+
+=>a97
+Продолжай смотреть через моё плечо, и я вывихну тебе их оба.<end>
+
+=>q98_original
+He-hey, hold yer hoppers, $(#jackie/sissy). Didn't mean nothin' by it.<end>
+
+=>q98
+Эй, попридержи пещерников, $(#парниша/сеструха). Я ничего такого не имел в виду.<end>
+
+=>a99_original
+::Collect your winnings in silence.::<end>
+
+=>a99
+::Забрать свой выигрыш молча.::<end>
+
+=>a100_original
+Stare at this! ::Attack!::<end>
+
+=>a100
+Лучше посмотри на это! ::Напасть!::<end>
+
+=>q101_original
+::And then shakes his head.::
+
+No. No payout for this one.<end>
+
+=>q101
+::А потом качает головой.::
+
+Нет, по этой квитанции выплат нет.<end>
+
+=>a102_original
+Hold up. How about this one...<end>
+
+=>a102
+Стойте. А как насчёт этой...<end>
+
+=>a103_original
+It's gotta be worth something.<end>
+
+=>a103
+Ну должно же что-то быть.<end>
+
+=>q104_original
+Hey, no winning ticket - no payout.<end>
+
+=>q104
+Эй, нет квитанции с выигрышем - нет денег.<end>
+
+=>a105_original
+I'm getting a payout no matter what. Open that safe! ::Attack!::<end>
+
+=>a105
+Неважно как, но я получу выплату. А ну открывай сейф! ::Напасть!::<end>
+
+=>a106_original
+Here. ::Give him a wagering ticket.::<end>
+
+=>a106
+Вот. ::Отдать ему квитанцию о ставке.::<end>
+
+=>a107_original
+Here. ::Give him a wagering ticket.::<end>
+
+=>a107
+Вот. ::Отдать ему квитанцию о ставке.::<end>
+
+=>a108_original
+Here. ::Give him a wagering ticket.::<end>
+
+=>a108
+Вот. ::Отдать ему квитанцию о ставке.::<end>
+
+=>a109_original
+Here. ::Give him a wagering ticket.::<end>
+
+=>a109
+Вот. ::Отдать ему квитанцию о ставке.::<end>
+
+=>a110_original
+Here. ::Give him a wagering ticket.::<end>
+
+=>a110
+Вот. ::Отдать ему квитанцию о ставке.::<end>
+
+=>a111_original
+I need a ticket? What a load of derailed crap!<end>
+
+=>a111
+Мне нужна квитанция? Что за дерьмо на рельсах!<end>
+
+=>q112_original
+::He sighs.:: Can't do nothin' without a wagerin' ticket.
+
+*Next*!<end>
+
+=>q112
+::Он вздыхает.:: Ничего не могу сделать без квитанции о ставке.
+
+*Следующий*!<end>
+
+=>a113_original
+I don't have one.<end>
+
+=>a113
+У меня её нет.<end>
+
+=>a114_original
+Guess I don't have another one.<end>
+
+=>a114
+Думаю, другой у меня нет.<end>
+
+=>a115_original
+Nope.<end>
+
+=>a115
+Не я.<end>
+
+=>q116_original
+Ey, ey - make way!<end>
+
+=>q116
+Эй, эй, проходи поскорей!<end>
+
+=>q117_original
+You here for a refund or to waste everyone's time?<end>
+
+=>q117
+Ты сюда за возвратом или время у людей отнять?<end>
+
+=>q118_original
+<end>
+
+=>q118
+<end>
+
+=>a119_original
+I want a refund.<end>
+
+=>a119
+Я хочу вернуть деньги.<end>
+
+=>a120_original
+Not me.<end>
+
+=>a120
+Только не я.<end>
+
+=>a121_original
+Never mind.<end>
+
+=>a121
+Неважно.<end>
+
+=>q122_original
+::turning to you.::
+
+You next?<end>
+
+=>q122
+::повернуться к вам.::
+
+Твоя очередь?<end>
+
+=>q123_original
+::handing out a refund to a person near you.::
+
+Okay, who's next?<end>
+
+=>q123
+::вернуть деньги человеку рядом с вами.::
+
+Ладно, кто следующий?<end>
+
+=>q124_original
+*Next*!<end>
+
+=>q124
+*Следующий*!<end>
+
+=>q125_original
+<end>
+
+=>q125
+<end>
+
+=>q126_original
+<end>
+
+=>q126
+<end>
+
+=>q127_original
+<end>
+
+=>q127
+<end>
+
+=>q128_original
+::Puts a cold root soda on the back of his neck.:: Go watch the race... or whatever.<end>
+
+=>q128
+::Прикладывает холодную содовую к затылку.:: Пойдём на скачки... или куда-нибудь ещё.<end>
+

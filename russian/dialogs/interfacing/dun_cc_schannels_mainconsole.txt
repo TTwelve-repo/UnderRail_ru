@@ -1,0 +1,369 @@
+﻿=>q1_original
+::The light coming from the console's display illuminates the gratings on which you stand, catching your attention to look below. Down there, you see that this cabin you're in right now is on top of a large machine with countless coupled gears and long pipes all leading to the head of the engine. The observation point from which you stand doesn't allow you to see the bottom of this massive motor which is used to run the intricate hanging crane system outside. 
+
+The display on the console showcases two green graphs, one on each monitor, with several large red circles, seemingly placed at random all throughout the scheme. These dots most likely represent the positions of the crane's many lifting arms available at your disposal. Some sections at both monitors are starting to fade out, the others outright not showing up. In the top right corner of the left screen you can see what seems to be a power bar, and it's showing a number: *21*. In between the two large monitors is a third one which shows two large rectangles on it. However, the diminished visuals there leave you with no useful information other than the fact that they are pulsating in orange color.::<end>
+
+=>q1
+::Свет от дисплея падает на решётки под вашими ногами, и это заставляет вас посмотреть вниз. Вы видите, что кабина, где вы сейчас стоите, находится на вершине большого механизма с бесчисленными шестернями и длинными трубами, идущими к верху двигателя. Нижнюю часть этого огромного мотора, управляющего хитроумным подвесным краном снаружи, нельзя увидеть с того места, откуда вы смотрите.
+
+На пульте управления отображаются две зелёных схемы, по одной на каждом мониторе, с несколькими большими красными кругами, расположение которых кажется хаотичным. Эти точки, скорее всего, показывают положение множества подъёмных стрел крана, которые доступны вам. Некоторые части на обоих мониторах выцвели, другие просто ничего не отображают. В правом верхнем углу левого экрана вы можете видеть, кажется, индикатор питания , он показывает число: *21*. Между двумя большими мониторами находится третий, на котором отображаются два больших прямоугольника. Однако эти слабые визуальные эффекты не дают вам никакой полезной информации, кроме того факта, что они пульсируют оранжевым цветом.::<end>
+
+=>q2_original
+::With a few swipes, you clean the accumulated dust from the keyboard. The letters on them are still preserved and it doesn't take you long to figure the controls out.::
+
+::This vantage point allows you to see very far away. By leaning back and forth you can observe every section of the room. Outside the double doors you've walked in is a wide open clear area suitable for lowering anything you can pick up with the crane.::
+
+<end>
+
+=>q2
+::Несколькими взмахами вы стряхиваете скопившуюся пыль с клавиатуры. Буквы на ней всё ещё сохранились, и вам не потребуется много времени, чтобы разобраться с управлением.::
+
+::Эта точка даёт вам очень хороший обзор. Наклоняясь туда-сюда, вы можете увидеть любую часть этого места. За двойными дверями, в которые вы вошли, находится широкая пустая площадка, где можно опустить всё, что подымите с помощью крана.::
+<end>
+
+=>q3_original
+<end>
+
+=>q3
+<end>
+
+=>q4_original
+::Power display: $(context.loc_dun_cc_sChannels_craneUses). The console is functional.::
+
+::Clear trash from: ::<end>
+
+=>q4
+::Индикатор питания: $(context.loc_dun_cc_sChannels_craneUses). Пульт управления работает.::
+
+::Убрать мусор из: ::<end>
+
+=>a5_original
+::North channel.::<end>
+
+=>a5
+::Северный канал.::<end>
+
+=>q6_original
+::Use the crane to: ::<end>
+
+=>q6
+::Использовать кран для: ::<end>
+
+=>a7_original
+::Bring over the western floating barrel.::<end>
+
+=>a7
+::Перенести западную плавучую бочку.::<end>
+
+=>q8_original
+::Using the crane you manage pick up the barrel and bring it in front of the cabin. ::
+
+<end>
+
+=>q8
+::С помощью крана вам удаётся поднять бочку и перенести её к кабине. ::
+<end>
+
+=>a9_original
+::Bring over the floating corpse in the east.::<end>
+
+=>a9
+::Перенести плавающий труп с востока.::<end>
+
+=>q10_original
+::Using the crane you manage pick up the box and bring it in front of the cabin. ::
+
+<end>
+
+=>q10
+::С помощью крана вам удаётся поднять ящик и перенести его к кабине. ::
+<end>
+
+=>a11_original
+::Back.::<end>
+
+=>a11
+::Назад.::<end>
+
+=>a12_original
+::South channel.::<end>
+
+=>a12
+::Южный канал.::<end>
+
+=>q13_original
+::Use the crane to: ::<end>
+
+=>q13
+::Использовать кран для: ::<end>
+
+=>a14_original
+::Bring over the western floating barrel.::<end>
+
+=>a14
+::Перенести западную плавучую бочку.::<end>
+
+=>q15_original
+::Using the crane you manage pick up the barrel and bring it in front of the cabin. ::
+
+<end>
+
+=>q15
+::С помощью крана вам удаётся поднять бочку и перенести её к кабине. ::
+<end>
+
+=>a16_original
+::Bring over the eastern floating box.::<end>
+
+=>a16
+::Перенести восточный плавучий ящик.::<end>
+
+=>q17_original
+::Using the crane you manage pick up the box and bring it in front of the cabin. ::
+
+<end>
+
+=>q17
+::С помощью крана вам удаётся поднять ящик и перенести его к кабине. ::
+<end>
+
+=>a18_original
+::Clear the obstacle next to most southern point of the section.::<end>
+
+=>a18
+::Убрать завал на самой южной точке отсека.::<end>
+
+=>q19_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q19
+::С помощью крана вам удалось расчистить завал. ::
+<end>
+
+=>a20_original
+::Middle channel. ::<end>
+
+=>a20
+::Средний канал.::<end>
+
+=>q21_original
+::Use the crane to: ::<end>
+
+=>q21
+::Использовать кран для: ::<end>
+
+=>a22_original
+::Bring over the northen floating box.::<end>
+
+=>a22
+::Перенести северный плавучий ящик.::<end>
+
+=>q23_original
+::Using the crane you manage pick up the box and bring it in front of the cabin. ::
+
+<end>
+
+=>q23
+::С помощью крана вам удаётся поднять ящик и перенести его к кабине. ::
+<end>
+
+=>a24_original
+::Bring over the southern floating barrel.::<end>
+
+=>a24
+::Перенести южную плавучую бочку.::<end>
+
+=>q25_original
+::Using the crane you manage pick up the barrel and bring it in front of the cabin. ::
+
+<end>
+
+=>q25
+::С помощью крана вам удаётся поднять бочку и перенести её к кабине. ::
+<end>
+
+=>a26_original
+::East platform.::<end>
+
+=>a26
+::Восточная платформа.::<end>
+
+=>q27_original
+::Use the crane to: ::<end>
+
+=>q27
+::Использовать кран для: ::<end>
+
+=>a28_original
+::Clear the obstacle next to the north sewage pool.::<end>
+
+=>a28
+::Убрать завал рядом с северным сточным бассейном.::<end>
+
+=>q29_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q29
+::С помощью крана вам удалось расчистить завал. ::
+<end>
+
+=>a30_original
+::Clear the obstacle next to the south sewage pool.::<end>
+
+=>a30
+::Убрать завал рядом с южным сточным бассейном.::<end>
+
+=>q31_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q31
+::С помощью крана вам удалось расчистить завал. ::
+<end>
+
+=>a32_original
+::Bring over the floating barrel which is inside the southern sewage pool.::<end>
+
+=>a32
+::Перенести плавучую бочку из южного сточного бассейна.::<end>
+
+=>q33_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q33
+::С помощью крана вам удалось расчистить завал. ::
+<end>
+
+=>a34_original
+::West platform.::<end>
+
+=>a34
+::Западная платформа.::<end>
+
+=>q35_original
+::Use the crane to: ::<end>
+
+=>q35
+::Использовать кран для: ::<end>
+
+=>a36_original
+::Clear the trash which is covering the northen sewage pool and bring the box closer to you.::<end>
+
+=>a36
+::Убрать мусор, закрывающий северный сточный бассейн, и перенести ящик ближе к себе.::<end>
+
+=>q37_original
+::Using the crane you manage to remove the obstacles and move the box closer to the cabin. ::
+
+<end>
+
+=>q37
+::С помощью крана вам удалось расчистить завал и перенести ящик ближе к кабине. ::
+<end>
+
+=>a38_original
+::Clear the trash in the middle, which is east from the small console.::<end>
+
+=>a38
+::Убрать мусор в середине к востоку от малого пульта управления.::<end>
+
+=>q39_original
+::Using the crane you manage to remove the trash. ::
+
+<end>
+
+=>q39
+::С помощью крана вам удалось убрать мусор. ::
+<end>
+
+=>a40_original
+::Clear the trash in the middle, which is south from the small console.::<end>
+
+=>a40
+::Убрать мусор в середине к югу от малого пульта управления.::<end>
+
+=>q41_original
+::Using the crane you manage to remove the trash. ::
+
+<end>
+
+=>q41
+::С помощью крана вам удалось убрать мусор. ::
+<end>
+
+=>a42_original
+::Clear the crates in the south, which are east from the sewage pool.::<end>
+
+=>a42
+::Убрать ящики на юге, к востоку от сточного бассейна.::<end>
+
+=>q43_original
+::Using the crane you manage to remove the crates. ::
+
+<end>
+
+=>q43
+::С помощью крана вам удалось убрать ящики. ::
+<end>
+
+=>a44_original
+::Clear the trash in the south, which is south from the sewage pool.::<end>
+
+=>a44
+::Убрать ящики на юге, к югу от сточного бассейна.::<end>
+
+=>q45_original
+::Using the crane you manage to clear the obstacle. ::
+
+<end>
+
+=>q45
+::С помощью крана вам удалось расчистить завал. ::
+<end>
+
+=>a46_original
+::Bring over the floating box which is inside the southern sewage pool.::<end>
+
+=>a46
+::Перенести плавучий ящик из южного сточного бассейна.::<end>
+
+=>q47_original
+::Using the crane you manage pick up the box and bring it in front of the cabin. ::
+
+<end>
+
+=>q47
+::С помощью крана вам удаётся поднять ящик и перенести его к кабине. ::
+<end>
+
+=>a48_original
+::Leave.::<end>
+
+=>a48
+::Уйти::<end>
+
+=>q49_original
+::Power display: $(context.loc_dun_cc_sChannels_craneUses). The console is no longer responding to any of your inputs. It has self locked itself.::<end>
+
+=>q49
+::Индикатор питания: $(context.loc_dun_cc_sChannels_craneUses). Пульт управления больше не отвечает на ваши команды. Он заблокировался.::<end>
+
+=>a50_original
+::Leave.::<end>
+
+=>a50
+::Уйти::<end>
+
+=>q51_original
+::Most of the display has been turned off. Little what was left can be barely seen as it's mostly faded out. All of the controls have become unresponsive. All three monitors share a common message: Power Critical!::<end>
+
+=>q51
+::Большая часть изображений отключилась. То немногое, что осталось, еле видно, так как едва горит. Управление не отвечает. На всех трёх мониторах одно сообщение: "Критический уровень питания!"::<end>
+

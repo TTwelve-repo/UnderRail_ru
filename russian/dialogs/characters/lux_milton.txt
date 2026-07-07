@@ -1,0 +1,334 @@
+﻿=>q1_original
+I thought I told you to leave me alone.<end>
+
+=>q1
+Я разве не говорил оставить меня в покое?..<end>
+
+=>q2_original
+::The lone man notices you approach his camp and swiftly responds - by aiming his gun at your head. It takes him but a few moments to address you, and does so with a voice that seems rather calm and relaxed considering the tense situation at hand.::
+
+Don't move, $(#buddy/girl). Don't even think about moving... or else you'll find yourself obliterated on the spot. Now, who are you and what are you doing in these caves?<end>
+
+=>q2
+::Одинокий мужчина замечает, как вы приближаетесь к его лагерю, и быстро реагирует, направляя свой пистолет вам в лицо. Через пару секунд он обращается к вам голосом, довольно спокойным и расслабленным, учитывая напряжённость ситуации.::
+
+Не двигайся, $(#приятель/девушка). Даже не думай пошевелиться... иначе будешь уничтожен$(#/а) на месте. Говори, кто ты и что ты делаешь в этих пещерах?<end>
+
+=>a3_original
+Whoa, don't shoot, man! My name is $(context.player.Name), and I mean no harm.<end>
+
+=>a3
+Стой, не стреляй, мужик! Меня зовут $(context.player.Name), и я не желаю тебе никакого вреда.<end>
+
+=>q4_original
+$(context.player.Name). $(context.player.Name), as you may have already noticed, we are in the middle of a cave and you just happen to have... "stumbled" upon this little camp here. I'll be keeping my eyes on you and you better make sure I don't spot you doing anything funky, or else... just think of my introductory statement again and you'll know what'll happen.<end>
+
+=>q4
+$(context.player.Name). $(context.player.Name), как ты мог$(#/ла) заметить, мы находимся посреди пещер, и ты так просто... «наткнул$(#ся/ась)» на мой маленький лагерь. Я буду приглядывать за тобой, так что лучше не делай ничего эдакого, или... я быстро напомню тебе о последствиях.<end>
+
+=>q5_original
+Now tell me, what do you want?<end>
+
+=>q5
+А теперь скажи мне, чего ты хочешь?<end>
+
+=>q6_original
+<end>
+
+=>q6
+<end>
+
+=>a7_original
+What are you doing here all alone?<end>
+
+=>a7
+Что ты здесь делаешь, совсем один?<end>
+
+=>q8_original
+Well, first of all, what I'm doing here is none of your business. But, alone I am... at least for the moment.<end>
+
+=>q8
+Ну, во-первых, что я здесь делаю -- не твоё дело. Но я действительно один... по крайней мере, пока.<end>
+
+=>q9_original
+Yet, you are here too, somehow. ::He makes a brief pause before continuing.:: By the way, did you happen to notice anyone else in these caves?<end>
+
+=>q9
+И всё-таки, ты тоже почему-то здесь. ::Он делает небольшую паузу.:: Кстати, ты случайно не встретил$(#/а) кого-нибудь ещё в этих пещерах?<end>
+
+=>a10_original
+As a matter of fact, yes, I have. I saw two men who were killed by rathounds not too far away from here.<end>
+
+=>a10
+Собственно говоря, да. Я видел$(#/а) тела двух мужчин, которых убили крысоволки недалеко отсюда.<end>
+
+=>q11_original
+So, that explains it. Look now: One of those men had a key that is very, very important to me. If you could get it for me, I'd be willing to pay fifty charons for it. Easy money.<end>
+
+=>q11
+Что ж, это всё объясняет. Послушай, у одного из них был ключ, который очень, очень важен для меня. Если бы ты мог$(#/ла) принести его мне, я был бы готов заплатить за него пятьдесят харонов. Лёгкие деньги.<end>
+
+=>a12_original
+Is this the key?<end>
+
+=>a12
+Вот этот ключ?<end>
+
+=>q13_original
+Let me see. ::He takes a quick look.:: Yes... *yes* it is. I'll give you fifty charons for it.<end>
+
+=>q13
+Дай мне посмотреть. ::Он бросает быстрый взгляд.:: Да... *да*, это он. Я дам тебе за него пятьдесят харонов.<end>
+
+=>a14_original
+Here it is. It was nice doing business with ya.<end>
+
+=>a14
+Держи. Приятно было иметь с тобой дело.<end>
+
+=>q15_original
+::He hands you the money and takes the key from you.:: Great, that's it. ::He pockets the key and looks at you with a satisfied smirk on his face.:: As for you, $(#buddy/girl), you better be on your way now. See you later... or not.<end>
+
+=>q15
+::Он протягивает вам деньги и забирает ключ.:: Отлично, вот и всё. ::Он суёт ключ в карман и смотрит на вас с довольной ухмылкой на лице.:: Ну а ты, $(#приятель/девушка), можешь идти своей дорогой. Ещё увидимся... или нет.<end>
+
+=>a16_original
+::[Mercantile]:: What? I had to risk my head for that key and that is all you can offer me? I want double.<end>
+
+=>a16
+::[Торговля]:: Что? Мне пришлось рисковать головой за этот ключ, и это всё, что ты можешь мне предложить? Удвой сумму.<end>
+
+=>q17_original
+Fine, I'll give you a hundred charons. Usually you would get a bullet between your eyes, but today... I feel a bit more merciful.<end>
+
+=>q17
+Хорошо, я дам тебе сто харонов. В другой день, ты получил$(#/а) бы пулю промеж глаз, но сегодня... я чувствую себя немного более благосклонным.<end>
+
+=>a18_original
+Here you go. It was nice doing business with ya.<end>
+
+=>a18
+Пожалуйста, забирай. Было приятно иметь с тобой дело.<end>
+
+=>q19_original
+Are you derailed? Don't barter with me unless you desire a bullet between your eyes. Choose - fifty charons or a bullet.<end>
+
+=>q19
+Ты поехавш$(#ий/ая)? Не торгуйся со мной, если не хочешь пулю промеж глаз. Выбирай -- пятьдесят харонов или пулю.<end>
+
+=>a20_original
+Okay, okay, here's the key. My fifty charons, please.<end>
+
+=>a20
+Ладно, ладно, вот тебе ключ. Мои пятьдесят харонов, пожалуйста.<end>
+
+=>a21_original
+Sorry, buddy, no deal. I'll be leaving now.<end>
+
+=>a21
+Извини, дружище, не пойдёт. Я ухожу.<end>
+
+=>q22_original
+::His voice suddenly drops in pitch and becomes grittier, much tenser than it was previously.:: You've just made a big mistake, and you will pay for it. If you won't give me the key - I'll take it from you by force.<end>
+
+=>q22
+::Его голос внезапно становится ниже и резче, и гораздо более напряжённым, чем раньше.:: Ты только что совершил$(#/а) большую ошибку, и сейчас за неё заплатишь. Если ты не дашь мне ключ, я заберу его силой.<end>
+
+=>a23_original
+::Fight!::<end>
+
+=>a23
+::Бой!::<end>
+
+=>a24_original
+On a second thought, I'll keep it for myself. See you around Milton.<end>
+
+=>a24
+Подумав, я решил$(#/а) оставить его себе. Увидимся, Мильтон.<end>
+
+=>a25_original
+Could use some money. It's a deal.<end>
+
+=>a25
+Мне бы пригодились деньги. Хорошо.<end>
+
+=>q26_original
+Great, I'll be here... *waiting.*<end>
+
+=>q26
+Отлично, я буду здесь... *ждать*.<end>
+
+=>a27_original
+I'm not going back there. Go get it yourself.<end>
+
+=>a27
+Я не собираюсь туда возвращаться. Сам иди и ищи его.<end>
+
+=>q28_original
+::He frowns, but says nothing otherwise.::<end>
+
+=>q28
+::Он хмурится, но ничего не говорит.::<end>
+
+=>a29_original
+Nope. Sorry, I'm just passing by.<end>
+
+=>a29
+Нет. Извини, я просто прохожу мимо.<end>
+
+=>q30_original
+Curses. Listen, I'm looking for two men in these caves - don't ask why. I need something from them, a small footlocker key. So, if you meet them, find their bodies or whatever... just get me that key. I'm even willing to pay for it; fifty charons, as a matter of fact.<end>
+
+=>q30
+Зараза. Слушай, я ищу двух мужчин в этих пещерах, не спрашивай почему. Мне нужно кое-что от них -- маленький ключ от ящика. Так что, если ты встретишь их, найдёшь их тела -- мало ли что... просто принеси мне этот ключ. Я даже готов за него заплатить; пятьдесят харонов, собственно говоря.<end>
+
+=>q31_original
+<end>
+
+=>q31
+<end>
+
+=>a32_original
+Hey, I found that key you were looking for.<end>
+
+=>a32
+Эй, я наш$(#ёл/ла) тот ключ, который ты искал.<end>
+
+=>q33_original
+Really? Give it to me; I promised charons and I have them right here. Just give me the key.<end>
+
+=>q33
+Правда? Давай его сюда; я обещал хароны, и они у меня прямо здесь. Просто дай мне ключ.<end>
+
+=>a34_original
+Why do you need that key? Is it for that locker?<end>
+
+=>a34
+Зачем тебе нужен этот ключ? Он от этого ящика?<end>
+
+=>q35_original
+None of your business, $(#buddy/girl).<end>
+
+=>q35
+Не твоё дело, $(#приятель/девушка).<end>
+
+=>a36_original
+Why are you looking for those men?<end>
+
+=>a36
+Почему ты ищешь этих людей?<end>
+
+=>q37_original
+I told you not to ask that. Are you deaf?<end>
+
+=>q37
+Я же говорил тебе не спрашивать меня об этом. Ты что, глух$(#ой/ая)?<end>
+
+=>a38_original
+Okay, I'll search for the key.<end>
+
+=>a38
+Ладно, я поищу твой ключ.<end>
+
+=>a39_original
+I really don't care about your stupid key.<end>
+
+=>a39
+Мне правда плевать на твой дурацкий ключ.<end>
+
+=>q40_original
+::He frowns, but otherwise says nothing.::<end>
+
+=>q40
+::Он хмурится, но ничего не говорит.::<end>
+
+=>a41_original
+About that key...<end>
+
+=>a41
+Насчёт того ключа...<end>
+
+=>q42_original
+Changed your mind, $(#buddy/girl)?<end>
+
+=>q42
+Передумал$(#/а), $(#приятель/девушка)?<end>
+
+=>a43_original
+I'll be going now.<end>
+
+=>a43
+Я пойду.<end>
+
+=>a44_original
+Who I am is none of your concern. But, know that if I wanted to hurt you I would have done so already instead of participating in this staring contest.<end>
+
+=>a44
+Кто я не твоё дело. Но знай, что если бы я хотел$(#/а) тебе зла, то не стал$(#/а) бы играть в эти гляделки.<end>
+
+=>q45_original
+That is good to know. As you may have already noticed, we are in the middle of a cave and you just happen to have... "stumbled" upon this little camp here. I'll be keeping my eyes on you and you better make sure I don't spot you doing anything funky, or else... just think of my introductory statement again and you'll know what'll happen.<end>
+
+=>q45
+Спасибо, буду знать. Как ты мог$(#/ла) заметить, мы находимся в глубине пещер, и ты так просто... «наткнул$(#ся/ась)» на мой маленький лагерь. Я буду приглядывать за тобой, так что лучше не делай ничего эдакого, или... я быстро напомню тебе о последствиях.<end>
+
+=>a46_original
+::[Intimidate]:: It is you who will be obliterated if you don't put that gun away right now, you dirty rat! Name's $(context.player.Name). Who the hell are YOU, and what are YOU doing here?<end>
+
+=>a46
+::[Запугивание]:: Это ты будешь уничтожен, если не опустишь оружие немедленно, грязная крыса! Я $(context.player.Name). Кто ТЫ, и что ТЫ здесь делаешь?<end>
+
+=>q47_original
+::You notice his voice tenses up for a split second, but then quickly reverts to its original quality.:: Look, ::He smiles:: there is no need for us to spill each other's guts here, right? We are, after all, both civilized $(#gentlemen/human beings). <end>
+
+=>q47
+::Вы замечаете, как его голос напрягается на долю секунды, но затем он быстро берёт себя в руки.:: Слушай, ::Он улыбается.:: нет необходимости выпускать друг другу кишки, верно? Мы все здесь, в конце концов, цивилизованные $(#джентльмены/люди).<end>
+
+=>q48_original
+::Your words are met with a chuckle.:: You sure sound tough, kid. But I want to see how tough you really are.<end>
+
+=>q48
+::Он хмыкает в ответ на ваши слова.:: Крутые слова, малыш$(#/ка). Но я хочу видеть, насколько ты сам$(#/а) крут$(#/а).<end>
+
+=>a49_original
+::Fight!::<end>
+
+=>a49
+::Бой!::<end>
+
+=>a50_original
+I didn't know there was anyone in here. I'll just get going and leave you to whatever you were doing.<end>
+
+=>a50
+Я не знал$(#/а), что здесь кто-то есть. Я лучше просто пойду и оставлю тебя заниматься своими делами.<end>
+
+=>q51_original
+That might be wise. ::He still keeps your head between crosshairs and waits for you to leave.::<end>
+
+=>q51
+Мудрое решение. ::Он всё ещё держит вас на прицеле и ждёт, пока вы уйдёте.::<end>
+
+=>a52_original
+::Leave.::<end>
+
+=>a52
+::Уйти.::<end>
+
+=>a53_original
+::Attack!::<end>
+
+=>a53
+::Напасть!::<end>
+
+=>a54_original
+What do I want? How about cutting your tongue out, worm! ::Fight!::<end>
+
+=>a54
+Чего я хочу? Как насчёт того, чтобы отрезать тебе язык, червяк?! ::Бой!::<end>
+
+=>q55_original
+What'll it be?<end>
+
+=>q55
+Что теперь?<end>
+
