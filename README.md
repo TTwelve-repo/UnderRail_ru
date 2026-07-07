@@ -22,8 +22,6 @@
 
 Тех. часть, инструменты: DragonZH, tarvitz
 
-Шрифты: DragonZH, makc_ar
-
 Тестирование: vlamen, Малдер Фокс, Toirics8914, am-wrag, Xout, Kyasubaru, Ailet, EcsPro, kalum2013 и д.р.
 
 Форум: http://www.zoneofgames.ru/forum/index.php?showtopic=33279
