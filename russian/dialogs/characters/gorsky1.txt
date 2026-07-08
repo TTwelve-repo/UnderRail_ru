@@ -208,13 +208,13 @@ But, once we start rolling again - there's no stopping us!<end>
 First thing is to clean this place up a bit; remove the stench of the Crawlers, set up our gear and make ourselves comfortable. ::He laughs.:: Also we need to get a merchant here - and I know just the man. Come back later and you'll see. We crushed the bloody Crawlers, but now it's best for us to lay low for a while. <end>
 
 =>q34
-Первым делом нужно почистить это место немного; проветрить после Краулеров, перетащить наше барахло и устроиться здесь покомфортнее. ::Он смеётся.:: Также нам нужен торговец, и я знаю одного. Зайди попозже и увидишь. Мы сокрушили долбаных Краулеров, но сейчас для нас лучше залечь на дно на некоторое время.<end>
+Первым делом, нужно прибраться здесь немного: проветрить после Краулеров, перетащить наше барахло и устроиться покомфортнее. ::Он смеётся.:: Также, нам нужен торговец, и я кое-кого знаю. Зайди попозже и увидишь. Мы сокрушили долбаных Краулеров, но сейчас будет лучше пока залечь на дно.<end>
 
 =>a35_original
 So what's going on? Why are you holed up in here?<end>
 
 =>a35
-Так в чём дело? Почему ты прячешься здесь?<end>
+Так, в чём дело? Почему ты прячешься здесь?<end>
 
 =>q36_original
 Those pompous gits, the Oligarchs, think they can cut me off from what's happening. I came here to stand against the Faceless and yet they told me, in no uncertain terms, to pack up and leave.<end>
@@ -250,7 +250,7 @@ We're gonna get a foothold in this city no matter what. That's why I rounded up 
 Sneaky, this is $(context.player.Name), the $(#guy/girl) I've been telling you about. $(#He/She) makes things happen.<end>
 
 =>q41
-Змейка, это $(context.player.Name) -- $(#парень/девушка), о котор$(#ом/ой) я тебе говорил. Он$(#/а) нам поможет.<end>
+Змейка, это $(context.player.Name) -- $(#парень/девушка), о котор$(#ом/ой) я тебе говорил. Он$(#/а) умеет решать вопросы.<end>
 
 =>q42_original
 Eh? Good to hear.<end>
@@ -328,7 +328,7 @@ Mutants?<end>
 Yes, not that those things can cause problems on their own, but they'll slow us down, and the enemy will know we're coming.<end>
 
 =>q54
-Да они не то чтобы представляют проблему сами по себе, но они будут нам мешать, и враг узнает, что мы идём.<end>
+Да они не то чтобы представляют проблему сами по себе, но они могут нас задержать, и враг узнает, что мы идём.<end>
 
 =>a55_original
 So, we use the tunneler to surprise them from behind?<end>
@@ -346,13 +346,13 @@ Of course! We blast through the wall and mop the floor with those bastards! Then
 Meet you there.<end>
 
 =>a57
-Встретимся там.<end>
+Встретимся на месте.<end>
 
 =>a58_original
 I'm ready when you're ready.<end>
 
 =>a58
-Я готов$(#/а), когда вы будете готовы.<end>
+Я буду готов$(#/а), как только вы будете готовы.<end>
 
 =>q59_original
 Excellent. The plan goes like this...<end>
@@ -382,7 +382,7 @@ They were our main rivals back then. They are not as significant now as they wer
 We're going to retake my old camp here in Core City. $(context.player.Name), I don't know if I ever mentioned it, but I used to have a gang here, about twelve-thirteen years ago. It was overtaken by some pitiful gang who call themselves the Black Crawlers. Stupid name, but who cares. <end>
 
 =>q63
-Мы собираемся отбить мой старый лагерь здесь в Кор-Сити. $(context.player.Name), не знаю, рассказывал ли я тебе об этом, но я возглавлял здесь банду около двенадцати-тринадцати лет назад. Лагерь был захвачен одной жалкой бандой, они называют себя Чёрные краулеры. Дурацкое имя, но кого это волнует.<end>
+Мы собираемся отбить мой старый лагерь здесь в Кор-Сити. $(context.player.Name), не знаю, рассказывал ли я тебе об этом, но я возглавлял здесь банду около двенадцати-тринадцати лет назад. Лагерь был захвачен одной жалкой бандой, они называют себя Чёрные краулеры. Дурацкое название, но кого это волнует.<end>
 
 =>q64_original
 The shields are ready - which reminds me... ::Hands you an energy shield.::<end>
@@ -406,7 +406,7 @@ There are two things that we could use your help with.<end>
 With the Zone Rats on our side we have enough manpower to make our presence known when the time comes. However, they are not that well-equipped, and if it comes to direct conflict with the Protectorate or the Faceless I'm afraid we would be easily outgunned.<end>
 
 =>q67
-С Крысами Зоны на нашей стороне, у нас достаточно людей, чтобы заявить о себе в нужный момент. Однако они не так уж хорошо оснащены, и если дело дойдёт до прямого столкновения с Протекторатом или безликими, боюсь, что превосходство будет не за нами.<end>
+С Крысами Зоны на нашей стороне, у нас достаточно людей, чтобы заявить о себе в нужный момент. Однако они не так уж хорошо оснащены, и, если дело дойдёт до прямого столкновения с Протекторатом или безликими, боюсь, что превосходство будет не за нами.<end>
 
 =>q68_original
 I have an idea how we can get hold of some energy shields that will help us stay alive on the streets.<end>
@@ -436,7 +436,7 @@ Tanner has enough troubles holding the fort and making sure the trading is flowi
 And you seriously think I give a rat's ass what Vera thinks about anything? Her place is in the office crunching numbers for trade agreements, not deciding what happens on the streets.<end>
 
 =>q72
-И ты серьёзно считаешь, что мне не до крысоволчьего зада, что там думает Вера о чём-либо? Её место -- в офисе, просчитывать торговые сделки, а не решать, что происходит на улицах.<end>
+И, ты серьёзно считаешь, что мне не до крысоволчьего зада, что там думает Вера о чём-либо? Её место -- в офисе, просчитывать торговые сделки, а не решать, что происходит на улицах.<end>
 
 =>a73_original
 How bad is the Faceless situation?<end>
@@ -448,19 +448,19 @@ How bad is the Faceless situation?<end>
 As you already know they blockaded the tunnel that connects the south to the rest of Underrail. They've also made a couple of incursions into the city's outskirts.<end>
 
 =>q74
-Как ты уже знаешь, они заблокировали туннель, который соединяет юг с остальной Подземкой. Они также совершили пару налётов на окраины города.<end>
+Как ты уже знаешь, они заблокировали туннель, который соединяет Юг с остальной Подземкой. Они также совершили пару налётов на окраины города.<end>
 
 =>q75_original
 We don't know what the purpose of these incursions is, as they are clearly not trying to flood their troops into the city. At least not yet.<end>
 
 =>q75
-Мы не знаем, какова цель этих налётов, поскольку они явно не пытаются закрепиться в городе. По крайней мере пока.<end>
+Мы не знаем, какова цель этих налётов, поскольку они явно не пытаются закрепиться в городе. По крайней мере, пока.<end>
 
 =>a76_original
 You mentioned something about the Protectorate trying to get established here. Do you think they are making their moves right now?<end>
 
 =>a76
-Ты говорил что-то о том, что Протекторат пытается утвердиться здесь. Думаешь, они уже действуют прямо сейчас?<end>
+Ты говорил что-то о том, как Протекторат пытается утвердиться здесь. Думаешь, они не теряли времени?<end>
 
 =>q77_original
 They've been trying to get a foothold here for years. It's no secret. The Oligarchs don't trust them but in the wake of the Faceless invasion they might be persuaded to accept assistance from the Protectorate's base in the Junkyard.<end>
@@ -502,7 +502,7 @@ We found out - from a fairly reliable source - that they recently received a pac
 Eh... there's this oaf Bob. He's a Protectorate soldier... em, security guard, or whatever they call themselves since they are not officially allowed to have "soldiers" in Core City. He's also a regular here in the bar.<end>
 
 =>q83
-А... есть такой болван Боб. Он солдат Протектората... эм, охранник, или как там они себя называют, потому что им официально не разрешено держать «солдат» в Кор-Сити. Он давно ходит в этот бар.<end>
+А... есть такой болван Боб. Он солдат Протектората... эм, -- охранник, или как там они себя называют, потому что им официально не разрешено держать «солдат» в Кор-Сити. Он давно ходит в этот бар.<end>
 
 =>q84_original
 Last night he was drinking himself silly with that Gauntlet girl and, per usual, blabbering about this and that. I don't usually pay much attention to him but this time he actually said something interesting.<end>
@@ -514,7 +514,7 @@ Last night he was drinking himself silly with that Gauntlet girl and, per usual,
 He mentioned that shipment of shield emitters and how they are, supposedly, top quality stuff that they are not allowed to use yet. Which is good though, as it probably means they are still stored together somewhere in the warehouse.<end>
 
 =>q85
-Он упомянул про эту партию генераторов щитов, и что они, вроде бы, настолько крутые, что им не разрешают их использовать. Это хорошо, потому что это также означает, что они, вероятно, всё ещё хранятся партией где-то на складе.<end>
+Он упомянул про эту партию генераторов щитов и что они, вроде бы, настолько крутые, что им не разрешают их использовать. Это хорошо, потому что это также означает, что они, вероятно, всё ещё хранятся партией где-то на складе.<end>
 
 =>q86_original
 The fool got so drunk that he couldn't turn up for his shift today. He rented a room here at the bar to sober up in. This has happened before, so it won't be unusual to his compatriots that he is missing. You can use this to your advantage. Strike the useless oaf down and procure his armor and security pass.<end>
@@ -544,7 +544,7 @@ No simple task, eh?<end>
 But very much worth doing. So you up for it?<end>
 
 =>q90
-Но очень нужная. Так ты берёшься?<end>
+Но очень нужная. Так, ты берёшься?<end>
 
 =>a91_original
 Would other energy shields be acceptable?<end>
@@ -556,7 +556,7 @@ Would other energy shields be acceptable?<end>
 You're not bloody hoppering out on me, $(context.player.Name)? Or having sympathy for those Protectorate bastards?<end>
 
 =>q92
-Хочешь кинуть меня, $(context.player.Name),? Или ты сочувствуешь этим ублюдкам из Протектората?<end>
+Надеюсь, ты не струсил$(#/а), $(context.player.Name)? Или, может, ты сочувствуешь этим ублюдкам из Протектората?<end>
 
 =>q93_original
 ::He glances at Sneaky, then looks back at you.::
@@ -564,9 +564,9 @@ You're not bloody hoppering out on me, $(context.player.Name)? Or having sympath
 Okay, they don't have to be Protectorate shields, but they *gotta* be high-quality. I'm not trusting my life with some zoned-up, cheapjack shield.<end>
 
 =>q93
-::Он смотрит на Змейку, затем снова смотрит на вас.::
+::Он бросает взгляд на Змейку, затем снова на вас.::
 
-Хорошо, они не обязательно должны быть щитами Протектората, но они *должны* быть высокого качества. Я не доверю свою жизнь какому-то зонерскому дешёвому щиту.<end>
+Хорошо, нам не обязательно нужны именно щиты Протектората, но они *должны* быть высокого качества. Я не доверю свою жизнь какому-то зонерскому дешёвому щиту.<end>
 
 =>a94_original
 What constitutes as high-quality?<end>
@@ -578,13 +578,13 @@ What constitutes as high-quality?<end>
 I'll put it in terms even you can understand: If any reputable merchant asks for less than two hundred charons for it - then it ain't worth crap. Shields come with many different modulators, but if possible, go for high-frequency.<end>
 
 =>q95
-Скажу понятным даже тебе языком: если какой-нибудь солидный торговец попросит за него меньше двухсот харонов - то он и дерьма не стоит. Щиты поставляются с разными модуляторами, но если есть возможность, выбирайте высокочастотные.<end>
+Скажу понятным даже тебе языком: если какой-нибудь солидный торговец попросит за него меньше двухсот харонов, -- то он и дерьма не стоит. Щиты поставляются с разными модуляторами, но если есть возможность, тащи высокочастотные.<end>
 
 =>q96_original
 We're gonna need about ten in total, 'cause I want a few backups just in case. You can stash them in that locker - that one in the corner, by the shelves - and let me know when you got them all.<end>
 
 =>q96
-Всего нам понадобится около десяти, потому что я хочу сделать несколько резервных копий на всякий случай. Ты можешь спрятать их в том шкафчике - вон в том, в углу, у полок, - и дай мне знать, когда всё достанешь.<end>
+Всего нам понадобится около десятка, потому что я хотел бы иметь пару запасных на всякий случай. Можешь закинуть их в тот ящик -- вон там, в углу, у полок. Дай мне знать, когда всё достанешь.<end>
 
 =>q97_original
 
@@ -592,6 +592,8 @@ We're gonna need about ten in total, 'cause I want a few backups just in case. Y
 Understood? Good? Now get to it.<end>
 
 =>q97
+
+
 Все ясно? Порядок? Приступай к делу.<end>
 
 =>a98_original
@@ -628,7 +630,7 @@ How do I know what's good enough for your precious ass?<end>
 Hey - watch your mouth! <end>
 
 =>q103
-Эй, следи за своим языком!<end>
+Эй, следи за языком!<end>
 
 =>q104_original
 Wanna get smacked again?<end>
@@ -670,7 +672,7 @@ I'll think about it.<end>
 Bloody hell... alright. You *think* about it. We'll be here when you're done thinking and are ready for some action.<end>
 
 =>q110
-Чтоб тебя... ладно. Иди *подумай* об этом. Мы будем здесь, когда ты надумаешься и будешь готов$(#/а) к действию.<end>
+Чтоб тебя... ладно. Иди *подумай*. Мы будем здесь, когда ты надумаешься и будешь готов$(#/а) к действию.<end>
 
 =>a111_original
 Heck no. I'm sick of you sending me on suicide missions.<end>
@@ -724,19 +726,19 @@ Excellent. I hope you got a chance to take some of those bastards out on the way
 I'll have a technician open the package and prep the shield emitters. You'll get one when it's ready, don't worry.<end>
 
 =>q119
-Наш техник откроет пакет и подготовит излучатели щита. Ты получишь свой, когда он будет готов -- не волнуйся.<end>
+Наш техник откроет пакет и подготовит излучатели щита. Ты получишь свой, когда он будет готов, не волнуйся.<end>
 
 =>a120_original
 Check the locker.<end>
 
 =>a120
-Проверьте шкафчик.<end>
+Проверь в ящике.<end>
 
 =>q121_original
 ::He gestures the bald Zone Rat to check the locker. The aforementioned ::<end>
 
 =>q121
-::Он жестом показывает лысому Крысе Зоны, чтобы он проверил шкафчик. Вышеупомянутый.::<end>
+::Он жестом показывает лысому крысу Зоны проверить ящик. Тот .::<end>
 
 =>q122_original
 ::just shrugs upon seeing that there are no shields inside.:: 
@@ -746,13 +748,13 @@ What in the bloody hell? You pulling my leg?<end>
 =>q122
 ::просто пожимает плечами, увидев, что внутри нет щитов.::
 
-Что это, во имя ада? Ты разыгрываешь меня?<end>
+Как прикажешь это понимать? Это у тебя шутки такие?<end>
 
 =>q123_original
 Stop wasting my damn time, $(context.player.Name).<end>
 
 =>q123
-Не трать моё чёртово время, $(context.player.Name).<end>
+Прекрати тратить моё время, $(context.player.Name).<end>
 
 =>q124_original
 ::opens it and shows that there are not enough shields inside.::
@@ -760,9 +762,9 @@ Stop wasting my damn time, $(context.player.Name).<end>
 I said ten energy shields. *Ten*. Can't you count?<end>
 
 =>q124
-::открывает и показывает, что внутри не хватает щитов.::
+::открывает его и показывает, что внутри не хватает щитов.::
 
-Я сказал десять энергетических щитов. *10*. Ты считать не умеешь?<end>
+Я сказал, десять энергетических щитов. *Десять*. Ты считать не умеешь?<end>
 
 =>q125_original
 ::brings them to the table for Gorsky to inspect.::
@@ -770,7 +772,7 @@ I said ten energy shields. *Ten*. Can't you count?<end>
 <end>
 
 =>q125
-::несёт его на стол Горскому для осмотра.::
+::ставит его на стол перед Горским для осмотра.::
 
 <end>
 
@@ -778,7 +780,7 @@ I said ten energy shields. *Ten*. Can't you count?<end>
 Excellent! That's the stuff we need, $(context.player.Name). ::He says while tinkering with the shields emitters.::<end>
 
 =>q126
-Превосходно! Это то, что нам нужно, $(context.player.Name). ::Говоря это он, возится с эмиттерами щитов.::<end>
+Превосходно! Это то, что нам нужно, $(context.player.Name). ::Он возится с излучателями.::<end>
 
 =>q127_original
 I'll have a technician prep them and make sure everything's indeed up to snuff. 
@@ -786,15 +788,15 @@ I'll have a technician prep them and make sure everything's indeed up to snuff.
 Good bloody work.<end>
 
 =>q127
-Я попрошу техника подготовить их и убедиться, что всё действительно в порядке.
+Наш техник подготовит их и убедится, что всё в порядке.
 
-Хорошая, чёрт возьми, работа.<end>
+Вот это отличная работа.<end>
 
 =>q128_original
 This is not good enough, $(context.player.Name). Remember what I said: If any reputable merchant asks for less than two hundred charons for it - then it ain't worth crap.<end>
 
 =>q128
-Этого недостаточно, $(context.player.Name). Помнишь, что я сказал: если какой-нибудь солидный торговец попросит за него меньше двухсот харонов - то это дерьмо не стоит даже смотреть.<end>
+Они недостаточно хороши, $(context.player.Name). Помнишь, что я сказал: если любой толковый торговец попросит за щит меньше двухсот харонов, то это на дерьмо не стоит даже смотреть?<end>
 
 =>a129_original
 Alright, I'll go grab them.<end>
@@ -812,7 +814,7 @@ How exactly do I get into the warehouse?<end>
 Speak to Sneaky about that.<end>
 
 =>q131
-Поговори со Змейкой об этом.<end>
+Поговори об этом со Змейкой.<end>
 
 =>a132_original
 Never mind.<end>
@@ -848,7 +850,7 @@ Eh, yeah... So the Faceless sent couple of their machines to bore through the cl
 In one place though, they messed up. I don't know if they miscalculated or what, but they bored right out of the cliff and plunged down, landing on some poor zoner's shack.<end>
 
 =>q137
-В одном месте, правда, они промахнулись. Я не знаю, или они просчитались или что, но они пробурили проход прямо насквозь и свалились вниз, приземлившись на лачугу какого-то несчастного зонера.<end>
+В одном месте, правда, они промахнулись. Я не знаю -- или они просчитались, или что, но они пробурили проход прямо насквозь и свалились вниз, приземлившись на лачугу какого-то несчастного зонера.<end>
 
 =>q138_original
 The fall killed the crew and the tunneler is stuck there now.<end>
@@ -872,7 +874,7 @@ There's another problem, though.<end>
 A bunch of zoners gathered in the shack the tunneler fell into to throw a party in celebration. You'll have to persuade them to leave or remove them forcefully.<end>
 
 =>q141
-Несколько зонеров собрались в хижине, куда упал проходчик, чтобы устроить вечеринку по случаю праздника. Тебе придётся убедить их уйти или удалить их силой.<end>
+Несколько зонеров собрались в хижине, куда упал проходчик, чтобы устроить вечеринку по случаю. Тебе придётся убедить их уйти или удалить их силой.<end>
 
 =>q142_original
 After you clear the location, you must find a way to get the tunneler operational again. Look around the city and see if anyone's got the expertise, but be discreet about it.<end>
@@ -908,7 +910,7 @@ Let me think about it.<end>
 Alright. Maybe it would be best if you scouted out the place first. Talk to Sneaky if you need directions.<end>
 
 =>q147
-Ладно. Может быть, так и лучше, если ты сперва разведаешь это место. Поговори со Змейкой, если не знаешь куда идти.<end>
+Ладно. Может быть, так и лучше, если ты сперва разведаешь обстановку. Поговори со Змейкой, если не знаешь куда идти.<end>
 
 =>a148_original
 Forget it.<end>
@@ -974,7 +976,7 @@ Did you really think I was unable to fix a simple tunneler? That I'm stupid?<end
 Well, yes and yes. You proved me wrong about the tunneler, though. But who cares; that tunneler will prove useful indeed. We will go test it out when the time is right.<end>
 
 =>q158
-Ну, да и да. Но ты доказал$(#/а), что я был не прав относительно проходчика. Но какая разница; этот проходчик нам очень пригодится. Мы проверим его в деле, когда придёт время.<end>
+Ну, да и да. Но ты доказал$(#/а), что я был не прав относительно проходчика. Но какая разница -- этот проходчик нам очень пригодится. Мы проверим его в деле, когда придёт время.<end>
 
 =>a159_original
 It's currently being repaired. I got a man named Mykola to fix it.<end>
@@ -1022,7 +1024,7 @@ Like what?<end>
 I bet Protectorate has something to do with this. They are trying to get established here, I can smell it! Well, if they think I'm just going to sit on my hands and let the Protectorate pigs and Faceless freaks run around the Underrail, they have another thing coming.<end>
 
 =>q166
-Могу поспорить, без Протектората тут не обошлось. Они пытаются утвердиться здесь, я чую это! Ну, если они думают, что я собираюсь просто сидеть сложа руки и смотреть, как протекторатские свиньи и безликие уроды бегают по Подземке, они ошибаются.<end>
+Могу поспорить, без Протектората тут не обошлось. Они пытаются утвердиться здесь, -- я чую это! Ну, если они думают, что я собираюсь просто сидеть сложа руки и смотреть, как протекторатские свиньи и безликие уроды бегают по Подземке, они ошибаются.<end>
 
 =>a167_original
 Let's discuss Core City matters.<end>
@@ -1034,7 +1036,7 @@ Let's discuss Core City matters.<end>
 Changed your mind about raiding that Protectorate base?<end>
 
 =>q168
-Передумал$(#/а) насчёт налёта на базу Протектората?<end>
+Передумал$(#/а) насчёт базы Протектората?<end>
 
 =>q169_original
 Done thinking and ready for some action?<end>
@@ -1052,13 +1054,13 @@ Yeah?<end>
 I want to investigate that infested vault in GMS.<end>
 
 =>a171
-Я хочу исследовать то заражённое хранилище в GMS.<end>
+Я хочу исследовать то заражённое хранилище на GMS.<end>
 
 =>q172_original
 Yes, I know. Quinton called and raved about his experiments for full ten minutes before I could ask him what he bloody wanted!<end>
 
 =>q172
-Да, я знаю. Куинтон звонил и ныл мне о своих опытах целых десять минут, прежде чем я смог спросить какого хрена ему надо!<end>
+Да, я знаю. Куинтон звонил и ныл мне о своих опытах целых десять минут, прежде чем я смог добиться, какого хрена ему надо!<end>
 
 =>q173_original
 <end>
@@ -1070,13 +1072,13 @@ Yes, I know. Quinton called and raved about his experiments for full ten minutes
 It's your worthless hide. But if tomorrow I wake up in a station full of freaking burrower spawns, it's you I'm going to kill first. ::He hands you the key card back.::<end>
 
 =>q174
-Ладно, это твоя жалкая шкура на кону. Но если завтра я проснусь на станции полной долбанных могильщиков, то первым делом я убью *тебя*. ::Он возвращает вам ключ-карту.::<end>
+Ладно, это твоя жалкая шкура на кону. Но если завтра я проснусь на станции, полной долбанных могильщиков, то первым делом я убью *тебя*. ::Он возвращает вам ключ-карту.::<end>
 
 =>q175_original
 Whatever, it doesn't matter anyway. I can't find the key card anymore.<end>
 
 =>q175
-Это уже неважно. Я нигде не могу найти ключ-карту.<end>
+Это уже неважно. Карточки у меня больше нет.<end>
 
 =>a176_original
 Figures.<end>
@@ -1140,7 +1142,7 @@ Can you tell me what he was like as a person?<end>
 He never annoyed me, so I suppose he was all right. Did his job well, far as I can tell.<end>
 
 =>q185
-Он никогда не раздражал меня, так что у нас с ним проблем не было. Делал свою работу хорошо, насколько я могу судить.<end>
+Он никогда ко мне не лез, так что у нас с ним никаких проблем не было. Делал свою работу он хорошо, насколько я могу судить.<end>
 
 =>q186_original
 Are we done?<end>
@@ -1158,7 +1160,7 @@ Dan Forte says hi.<end>
 Dan? I haven't heard that name in a long, long time. ::He laughs.:: I'll be damned, that slob is still alive after all these years? Where did you meet him?<end>
 
 =>q188
-Дэн? Я не слышал этого имени уже долгое, очень долгое время. ::Он смеётся.:: Будь я проклят, этот лентяй всё ещё жив столько лет спустя? Где ты его видел$(#/а)?<end>
+От Дэна? Этого имени я не слышал уже долгое, очень долгое время. ::Он смеётся.:: Будь я проклят, этот лежебока всё ещё жив столько лет спустя? Где ты его видел$(#/а)?<end>
 
 =>a189_original
 I met him in Foundry.<end>
@@ -1170,7 +1172,7 @@ I met him in Foundry.<end>
 In Foundry? I hope he's not overworked. ::He laughs.:: Believe me, that's the laziest man I have ever met, but when I needed his help, he was always there.<end>
 
 =>q190
-В Литейке? Надеюсь, он не перетрудился. ::Он смеётся.:: Поверь мне, это самый ленивый человек, которого я когда-либо встречал, но когда мне нужна была помощь, он всегда был рядом.<end>
+В Литейке? Надеюсь, он не перетрудился. ::Он смеётся.:: Поверь мне, это самый ленивый зонер, которого я когда-либо встречал, -- но, когда мне нужна была помощь, он всегда был рядом.<end>
 
 =>a191_original
 He told me you were in a gang together. Got some cool stories to share?<end>
@@ -1210,7 +1212,7 @@ They used to be our main rivals in Core City. It's bloody true.<end>
 One time, during one of the skirmishes, we killed their leader's son. Actually, I killed him; it was one of those situations where me and that lazy bum were the only survivors. But, what followed next surprised us more that it should have: In a few days, the Crawlers found our camp in Core City and tried to take us out. I don't know how they managed to find us, but it seemed like the whole gang was there, and they were thirsty for blood.<end>
 
 =>q196
-Однажды во время стычки мы убили сына их главаря. Точнее, это я убил его; это был один из тех случаев, когда единственными выжившими оставались я и этот бездельник. Того, что было дальше, следовало ожидать, но это оказалось сюрпризом для нас: через несколько дней Краулеры обнаружили наш лагерь в Кор-Сити и попытались вынести нас. Я не знаю, как им удалось найти нас, но казалось, что вся банда была там, и они жаждали крови.<end>
+Однажды во время стычки мы убили сына их главаря. Точнее, это я убил его; это как раз был один из тех случаев, когда единственными выжившими оставались я и этот бездельник. Того, что было дальше, следовало ожидать, но это оказалось сюрпризом для нас -- через несколько дней Краулеры обнаружили наш лагерь в Кор-Сити и попытались вынести нас. Я не знаю, как им удалось нас найти, но казалось, что вся банда была там, и они жаждали крови.<end>
 
 =>q197_original
 This used to be that camp. You know that by now.
@@ -1220,13 +1222,13 @@ It was a well fortified position, but were basically in a dead end. We exchanged
 =>q197
 Здесь раньше и был наш лагерь. Ты уже знаешь.
 
-Это была хорошо укреплённая позиция, но, по сути, тупик. Мы перестреливались с ними некоторое время, затем они штурмовали наши позиции. Мы их стреляли, жгли, били током, даже разрывали на куски, конечности летали повсюду, но они продолжали прибывать и в конце концов подавили наши оборонительные позиции.<end>
+Это была хорошо укреплённая позиция, но, по сути, тупик. Мы поперестреливались с ними некоторое время, а затем они штурмовали наши позиции. Мы их стреляли, жгли, били током, даже разрывали на куски, -- конечности летали повсюду, -- но они продолжали прибывать и в конце концов подавили наши оборонительные позиции.<end>
 
 =>q198_original
 Again, Dan and I were somehow alive and together, killing those punks. And then, suddenly, a bullet went through Dan's head, killing him!<end>
 
 =>q198
-И опять мы с Дэном остались каким-то чудом живы и вместе убивали этих молокососов. А потом, внезапно, пуля попала Дэну в башку, убив его на месте!<end>
+И опять мы с Дэном остались каким-то чудом живы и вместе валили этих молокососов. А потом внезапно пуля попала Дэну в башку, убив его на месте!<end>
 
 =>a199_original
 Really!?<end>
@@ -1238,7 +1240,7 @@ Really!?<end>
 Of course he didn't die, you imbecile! You can't meet and talk to a man thirteen years after he died, can you? Never mind, I'll continue.<end>
 
 =>q200
-Конечно он не умер, $(#болван/дура)! Нельзя же встретиться и поговорить с человеком через тринадцать лет после того, как он умер, как ты думаешь? Короче, я рассказываю.<end>
+Конечно он не умер, $(#болван/дура)! Нельзя же встретиться и поговорить с человеком через тринадцать лет после того, как он умер, -- как ты думаешь? Короче, я рассказываю.<end>
 
 =>a201_original
 Please do.<end>
@@ -1256,7 +1258,7 @@ So, Dan and me got holed up in the back of the camp, in a small building. Small,
 Who was there?<end>
 
 =>a203
-Кто там был?<end>
+Кто был?<end>
 
 =>q204_original
 The leader of The Black Crawlers - Helaku. He was a boulder - bastard with a huge scar on his nose who, unlike his weak minions, could really mess a man up. I was staring down his bloody crossbow, and he knew I killed his son and wanted to send a bolt through my eye. But Dan came to the rescue: One well placed shot from his gun shattered Helaku's wrist and made him drop the crossbow. 
@@ -1264,7 +1266,7 @@ The leader of The Black Crawlers - Helaku. He was a boulder - bastard with a hug
 I don't know why Dan didn't go for the head, that derailed bugger, but I reacted fast and grabbed the falling crossbow mid-air, turned it around and sent one bolt right in his forehead. His eyes rolled backwards, his jaw dropped, and he fell dead.<end>
 
 =>q204
-Главарь Чёрных краулеров -- Хелаку. Он был силён -- ублюдок с огромным шрамом на носу; в отличие от своих хилых шестёрок, он и правда мог разорвать человека. Его арбалет смотрел прямо на меня, и он знал, что это я убил его сына, и хотел отплатить болтом мне в глаз. Но Дэн выручил. Одним точным выстрелом он раздробил запястье Хелаку и заставил его уронить оружие.
+Главарь Чёрных краулеров -- Хелаку. Он был силён -- ублюдок с огромным шрамом на носу; в отличие от своих хилых шестёрок, он и правда мог надрать задницу. Его арбалет смотрел прямо на меня, и он знал, что это я убил его сына, и хотел отплатить болтом мне в глаз. Но Дэн выручил. Одним точным выстрелом он раздробил запястье Хелаку и заставил его уронить оружие.
 
 Я не знаю, почему Дэн не целился в голову, поехавший придурок, но я среагировал быстро и схватил падающий арбалет в воздухе, повернул и вбил болт прямо в лоб ублюдку. Его глаза закатились, челюсть отвисла, и он упал замертво.<end>
 
@@ -1282,7 +1284,7 @@ As for the Black Crawlers, eventually they settled here. But, what do you know, 
 And there you go. Hm. I usually don't talk to people this much, but I suppose I got carried away. Good memories work the job, don't they.<end>
 
 =>q206
-Ну вот и всё. Хм. Я не привык говорить так долго, но в этот раз я увлёкся. Хорошие воспоминания сделали своё дело, похоже.<end>
+Ну, вот и всё. Хм. Я не привык говорить так долго, но в этот раз я увлёкся. Хорошие воспоминания сделали своё дело, похоже.<end>
 
 =>a207_original
 That was a pretty cool story.<end>
@@ -1362,7 +1364,7 @@ We had a well fortified position, but were basically in a dead end. We exchanged
 =>q218
 Видишь, наш лагерь располагался здесь в Кор-Сити, в северной скале. Это была заброшенная секция, построенная в самой скале, связанная с Кор-Сити единственным мостом. Краулеры столпились на той стороне моста, собираясь идти в атаку.
 
-У нас была хорошо укреплённая позиция, но, по сути, тупик. Мы перестреливались с ними некоторое время, затем они штурмовали наши позиции. Мы их стреляли, жгли, били током, даже разрывали на куски, конечности летали повсюду, но они продолжали прибывать и в конце концов подавили наши оборонительные позиции.<end>
+У нас была хорошо укреплённая позиция, но, по сути, тупик. Мы поперестреливались с ними некоторое время, а затем они штурмовали наши позиции. Мы их стреляли, жгли, били током, даже разрывали на куски, -- конечности летали повсюду, -- но они продолжали прибывать и в конце концов подавили наши оборонительные позиции.<end>
 
 =>q219_original
 Back in the old days, Dan and I were inseparable. We did almost everything together: We robbed together, killed together, split loot - we did everything together. And, oh boy, were we a deadly team. You can tell just by how many times the two of us came out of combat as the only survivors. So, there were these bandits that called themselves The Black Crawlers.
@@ -1384,7 +1386,7 @@ Fine, I won't bother you anymore.<end>
 Hold on. If you really want to hear a story, I'll tell you one. Listen...<end>
 
 =>q221
-Погоди. Если ты и правда так хочешь услышать историю, я расскажу тебе одну. Слушай...<end>
+Погоди. Если ты и правда так хочешь услышать историю, я расскажу. Слушай...<end>
 
 =>a222_original
 Maybe this can refresh your memory? ::Offer Gorsky some money.::<end>
@@ -1408,7 +1410,7 @@ Maybe this can refresh yours, you idiot!<end>
 Cool, but I'd like to talk to you about something else.<end>
 
 =>a225
-Круто, но я бы хотел поговорить с тобой о другом.<end>
+Круто, но я бы хотел$(#/а) поговорить с тобой о другом.<end>
 
 =>q226_original
 Alright, about what?<end>
@@ -1426,7 +1428,7 @@ He's a guard in Foundry now.<end>
 A guard? ::He laughs.:: I'm sure he's leaning against some wall and does nothing but rant about how he's bored. Believe me, that's the laziest man I have ever met, but when I needed his help, he was always there.<end>
 
 =>q228
-Страж? ::Он смеётся.:: Наверняка он подпирает какую-нибудь стену и ничего не делает, только ноет всем, как ему скучно. Поверь мне, это самый ленивый человек, которого я когда-либо встречал, но когда мне нужна была помощь, он всегда был рядом.<end>
+Страж? ::Он смеётся.:: Наверняка он подпирает какую-нибудь стену и ничего не делает, только ноет всем, как ему скучно. Поверь мне, это самый ленивый зонер, которого я когда-либо встречал, но когда мне нужна была помощь, он всегда был рядом.<end>
 
 =>a229_original
 I'm afraid he died fighting in Foundry. He helped me fight a giant beast.<end>
@@ -1450,7 +1452,7 @@ Somewhere on the road.<end>
 He was probably sleeping on the cursed road. ::He laughs.:: Believe me, that's the laziest man I have ever met, but when I needed his help, he was always there.<end>
 
 =>q232
-Он, наверное, спал на долбаной дороге. ::Он смеётся.:: Поверь мне, это самый ленивый человек, которого я когда-либо встречал, но когда мне нужна была помощь, он всегда был рядом.<end>
+Он, наверное, спал на долбаной дороге. ::Он смеётся.:: Поверь мне, это самый ленивый зонер, которого я когда-либо встречал, но когда мне нужна была помощь, он всегда был рядом.<end>
 
 =>a233_original
 Got any cool stories from your and Dan's bandit days?<end>
@@ -1490,7 +1492,7 @@ I guess I will have to do it...<end>
 Alright, look here. It's simple: <end>
 
 =>q238
-Ладно, слушай сюда. Всё просто:<end>
+Ладно, слушай сюда. Всё просто: <end>
 
 =>q239_original
 You use the console to set the target distance, right. Then you start a session. The session will track your hits and misses automatically. So you can check your progress while you shoot.
@@ -1498,7 +1500,7 @@ You use the console to set the target distance, right. Then you start a session.
 When you've had enough, end the session.<end>
 
 =>q239
-Значит, с консоли можно установить расстояние до цели. Затем ты начинаешь сессию. Во время сессии будут автоматически отслеживаться твои попадания и промахи. Так что можно видеть свои успехи пока стреляешь.
+Значит, с консоли можно установить расстояние до цели. Затем ты начинаешь сессию. Во время сессии будут автоматически отслеживаться твои попадания и промахи. Так что, можно видеть свои успехи, пока стреляешь.
 
 Когда тебе уже хватит, закончи сессию.<end>
 
@@ -1660,7 +1662,7 @@ No. Listen, it's complicated, the whole thing, and I'm not interested in explain
 You find someone else for that.<end>
 
 =>q265
-Найди кого-нибудь другого для этого.<end>
+Найди кого-нибудь другого.<end>
 
 =>a266_original
 How about I ask you something else?<end>
@@ -1672,7 +1674,7 @@ How about I ask you something else?<end>
 If you must.<end>
 
 =>q267
-Если ты долж$(#ен/на).<end>
+Иначе от тебя не отвяжешься.<end>
 
 =>a268_original
 Nothing.<end>
@@ -1736,7 +1738,7 @@ The boot!<end>
 ::He continues after a brief pause.:: Now what do you want?<end>
 
 =>q277
-::После короткой паузы он продолжает.:: Так что тебе нужно?<end>
+::После короткой паузы он продолжает.:: Так, что тебе нужно?<end>
 
 =>q278_original
 ::The tall, imposing figure of this battle-scarred veteran towers before you. You met Gorsky before. He is one of the councilors that interviewed you when you first arrived.::<end>
