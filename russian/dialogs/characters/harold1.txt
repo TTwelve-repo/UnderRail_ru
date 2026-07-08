@@ -14,7 +14,7 @@ Of course Harold, what's this all about?<end>
 I wanted to talk to you about something that is luckily not *as* urgent at this moment, but important none the less. You see, after the earthquake we experienced a major power outage; whole station went black. Usually when things like that happen, our backup generators switch on to provide power until we get our main power back.<end>
 
 =>q3
-Я хотел поговорить с вами кое о чём, что к счастью не *так* уж срочно на данный момент, но, тем не менее, важно. Видите ли, после землетрясения мы пережили отключение электроэнергии; вся станция отключилась. Обычно, когда происходит что-то подобное, наши резервные генераторы запускаются и снабжают нас электроэнергией, пока мы не восстановим основное питание.<end>
+Я хотел поговорить с вами кое о чём, что, к счастью, не *так* уж срочно на данный момент, но, тем не менее, важно. Видите ли, после землетрясения мы перенесли отключение электроэнергии -- вся станция отключилась. Обычно, когда происходит что-то подобное, наши резервные генераторы запускаются и снабжают нас электроэнергией, пока мы не восстановим основное питание.<end>
 
 =>a4_original
 Keep talking, I'm interested.<end>
@@ -26,13 +26,13 @@ Keep talking, I'm interested.<end>
 Will do. The thing is, there is a delay before the backup generators kick in. It's usually just several seconds, but that means we have an interruption in power, and for many reasons that is unacceptable. Just imagine you're in the med bay, being operated on, and suddenly there's no power anymore. That's just one example; I won't go into mentioning all the systems in SGS that require constant power supply.<end>
 
 =>q5
-Спасибо. Проблема в том, что есть пауза перед тем как включатся резервные генераторы. Обычно она всего несколько секунд, но это означает, что у нас отключится всё питание, и это недопустимо по многим причинам. Вот представьте, что вы в лазарете лежите на операции, и вдруг гаснет свет. Это только один пример; я не буду перечислять все системы на ССГ, которые требуют непрерывного электроснабжения.<end>
+Спасибо. Проблема в том, что есть задержка перед тем, как включатся резервные генераторы. Обычно она всего несколько секунд, но это означает, что у нас отключится всё питание, и это недопустимо по многим причинам. Вот представьте, что вы в лазарете лежите на операции, и вдруг гаснет свет. Это только один пример; я не буду перечислять все системы на ССГ, которые требуют непрерывного электроснабжения.<end>
 
 =>q6_original
 Now, this time, during the earthquake, we've had such a large number of batteries die all at once it's insane. Yes, most of them were *pretty* old optoelectric nuclear batteries; don't mistake them for common nickel-palladium fusion batteries, though. These are very rare.<end>
 
 =>q6
-Но в этот раз, во время землетрясения, у нас сдохло столько аккумуляторов сразу, что это просто безумие. Да, большинство из них были *очень* старыми оптоэлектрическими ядерными батареями; не путайте их с обычными никель-палладиевыми батареями синтеза. Эти найти очень трудно.<end>
+Но в этот раз во время землетрясения у нас сдохло столько аккумуляторов сразу, что это просто безумие. Конечно, большинство из них были уже *очень* старыми оптоэлектрическими ядерными батареями -- не путайте их с обычными никель-палладиевыми батареями синтеза -- эти найти очень трудно.<end>
 
 =>a7_original
 Interesting, but what do you need me for?<end>
@@ -46,7 +46,7 @@ Currently, we have a few optoelectric batteries to spare, but if they keep dying
 There's no other place we know of that might have anything similar.<end>
 
 =>q8
-В настоящее время у нас ещё есть несколько оптоэлектрических батарей в запасе, но если они продолжат выходить из строя, то у нас будут большие проблемы. Поэтому я хочу, чтобы вы сходили на старый завод по переработке батарей, который находится недалеко на восток отсюда, за перекрёстком пещер. Он не работает уже много лет, но может быть вы найдёте там что-нибудь, что мы можем использовать. Запасные оптоэлектрические ячейки, оборудование или чертежи... если найдёте что-нибудь из этого -- обязательно принесите мне.
+В настоящее время у нас ещё есть несколько оптоэлектрических батарей в запасе, но если они продолжат выходить из строя, то у нас будут большие проблемы. Поэтому, я хочу, чтобы вы сходили на старый завод по переработке батарей, который находится недалеко на восток отсюда, за перекрёстком пещер. Он не работает уже много лет, но, может быть, вы найдёте там что-нибудь, что мы можем использовать. Запасные оптоэлектрические ячейки, оборудование или чертежи... если найдёте что-нибудь из этого, обязательно принесите мне.
 
 Мы не знаем больше никакого места, где могло бы быть что-нибудь подобное.<end>
 
@@ -90,7 +90,7 @@ That's fine with me.<end>
 Right then. Here's your reward. ::Gives you 300 credits.:: <end>
 
 =>q15
-Ну ладно. Вот ваша награда. ::Он даёт вам 300 кредитов ССГ.::<end>
+Вот и хорошо. Держите вашу награду. ::Он даёт вам 300 кредитов ССГ.::<end>
 
 =>q16_original
 See you around, $(context.player.Name).<end>
@@ -114,7 +114,7 @@ Okay, you have a point, five hundred credits it is. But not a single credit more
 Sorry, no can do, three hundred is all I can offer you. Is it a deal?<end>
 
 =>q19
-К сожалению, я не могу. Триста -- это всё, что я могу вам предложить. По рукам?<end>
+К сожалению, я не могу этого позволить. Триста -- вот всё, что я могу вам предложить. Договорились?<end>
 
 =>a20_original
 It'll do.<end>
@@ -144,7 +144,7 @@ Deal, I'm on the job.<end>
 Excellent. Now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there. If you can bring me something good, I'll pay you three hundred credits.<end>
 
 =>q24
-Отлично. Только имейте в виду, что землетрясение обвалило некоторые участки пещеры, так что вам, вероятно, понадобится взрывчатка. Кроме этого, будьте осторожны на самом заводе; он был заброшен долгое время, так что никто не знает, что ждёт вас внутри. Если вы сможете принести что-нибудь полезное, я заплачу вам триста кредитов.<end>
+Отлично. Только имейте в виду, что землетрясение обвалило некоторые участки пещеры, так что вам, вероятно, понадобится взрывчатка. Кроме этого, будьте осторожны на самом заводе -- он был заброшен долгое время, так что никто не знает, что ждёт вас внутри. Если вы сможете принести что-нибудь полезное, я заплачу вам триста кредитов.<end>
 
 =>q25_original
 Good luck, $(context.player.Name). See you later.<end>
@@ -280,7 +280,7 @@ A minibot... a minibot explorer.<end>
 You know, you're in luck: Gorsky's team brought back some bot power cores from GMS, and I think there's just the right one for this bot among them. If I can then mount a headlight... hmmm, install a camera... and then... yes, yes. That could work indeed.<end>
 
 =>q46
-Знаете, вам повезло: команда Горского доставила из комплекса GMS несколько энергетических ядер для ботов, и мне кажется, среди них есть подходящее. Если мне удастся закрепить фонарь... хм-м-м, установить камеру... а затем... да, конечно. Это и правда может сработать.<end>
+Знаете, вам повезло: команда Горского доставила из комплекса GMS несколько энергетических ядер для ботов, и, мне кажется, среди них есть подходящее. Если мне удастся закрепить фонарь... хм-м-м, установить камеру... а затем... да, конечно. Это и правда может сработать.<end>
 
 =>q47_original
 Yes, I can do what you ask.<end>
@@ -304,7 +304,7 @@ I'll start working on it straight away. It won't take long; I have all the neces
 You can return to Harland; I'll have someone bring the explorer up when it's ready.<end>
 
 =>q50
-Вы можете возвращаться к Харланду; я попрошу кого-нибудь доставить исследователь, когда он будет готов.<end>
+Вы можете возвращаться к Харланду; я попрошу кого-нибудь доставить исследователя, когда он будет готов.<end>
 
 =>q51_original
 
@@ -312,7 +312,9 @@ You can return to Harland; I'll have someone bring the explorer up when it's rea
 Tell him he owes me a mushroom brew for this.<end>
 
 =>q51
-Скажи ему, что с него за это бутылка грибного пойла.<end>
+
+
+И скажите ему, что с него за это бутылка грибного пойла.<end>
 
 =>q52_original
 <end>
@@ -336,7 +338,7 @@ Right.<end>
 I'm off then.<end>
 
 =>a55
-Тогда я ухожу.<end>
+Тогда я пойду.<end>
 
 =>a56_original
 ::Nod and leave.::<end>
@@ -368,7 +370,7 @@ I'm missing some power cores; these minibots use rather specific ones - don't as
 I'll put something together, but it might take a while.<end>
 
 =>q60
-Мне не достаёт энергетических ядер; у этих миниботов они довольно специфические - не спрашивайте.
+Мне не достаёт энергетических ядер; у этих миниботов они довольно специфические, -- не спрашивайте.
 
 Я постараюсь что-нибудь придумать, но это может занять какое-то время.<end>
 
@@ -388,7 +390,7 @@ Can't tell exactly. <end>
 You go do other things, and I'll start working on it straight away. I'll mail you when I'm done, and I'll have someone bring the explorer up to Harland.<end>
 
 =>q63
-Займитесь пока другими делами, а я сейчас же начну над ним работать. Когда закончу, я пришлю вам письмо и попрошу кого-нибудь доставить исследователь Харланду.<end>
+Займитесь пока другими делами, а я сейчас же начну над ним работать. Когда закончу, я пришлю вам письмо и попрошу кого-нибудь доставить исследователя Харланду.<end>
 
 =>a64_original
 I knew I could count on you.<end>
@@ -424,7 +426,7 @@ What do you know about Patrick Pierce's death?<end>
 Ah, yes. I knew Pat well, he was a man one could truly rely on. An honest man. I felt... really sad when I heard about his death, you know. And seeing his brother in tears when he first came here after he found out. Man, it's been like two months and he still comes back here.<end>
 
 =>q69
-Ах, да. Я хорошо знал Пата, он был человеком на которого всегда можно было положиться. Честным человеком. Мне было... действительно грустно, когда я услышал о его смерти, вы знаете. И вид его брата в слезах, когда он впервые приехал сюда, после того как узнал. Прошло уже, наверное, два месяца, а он всё равно возвращается сюда.<end>
+Ах, да. Я хорошо знал Пата, он был человеком на которого всегда можно было положиться. Честным человеком. Мне было... действительно грустно услышать о его смерти, вы знаете. И вид его брата в слезах, когда он впервые приехал сюда, после того как узнал. Прошло уже, наверное, два месяца, а он всё равно возвращается сюда.<end>
 
 =>q70_original
 I just don't get why Pasquale doesn't do the full autopsy and put this thing to rest. But, it's his business.<end>
@@ -442,7 +444,7 @@ Can you tell me what he was like as a person?<end>
 A hardworking man, fun to hang out with. You would be hard pressed to find someone who disliked him. Well, maybe Big Bret, as the two of them had several heated arguments over the way Pat installed some of the hopper pen heaters. Bret can be impulsive at times, he... he takes his job seriously, and it is a serious job, I agree, but he can take it too far sometimes.<end>
 
 =>q72
-Он был трудолюбив, и с ним было весело. Вам будет трудно найти кого-то, кому он не нравился. Ну, может быть Большой Брет -- эти двое несколько раз жарко спорили про обогреватели, которые Пат установил в клетке для пещерников. Брет может быть вспыльчив временами, он... он серьёзно относится к своим обязанностям. У него серьёзная работа, я не спорю, но временами он принимает её слишком близко к сердцу.<end>
+Он был трудолюбив, и с ним было весело. Вам будет трудно найти кого-то, кому он не нравился. Ну, может быть, Большой Брет -- эти двое несколько раз жарко спорили про обогреватели, которые Пат установил в клетке для пещерников. Брет может быть вспыльчив временами, он... он серьёзно относится к своим обязанностям. У него важная работа, я не спорю, но временами он принимает её слишком близко к сердцу.<end>
 
 =>a73_original
 I've changed my mind about that battery recycling plant...<end>
@@ -520,7 +522,7 @@ I've been to the plant, but there's nothing but junk, junk, and some more junk. 
 Darn it. I was hoping for at least something useful. Right, at least we've tried. Maybe we could check it out later again if we have the manpower.<end>
 
 =>q85
-Вот незадача. Я надеялся получить хотя бы что-то полезное. Ну ладно, по крайней мере, мы попытались. Может быть, мы могли бы проверить его потом ещё раз, если у нас будут свободные люди.<end>
+Вот незадача. Я надеялся получить хотя бы что-то полезное. Ну, ладно, по крайней мере, мы попытались. Может быть, мы могли бы проверить его потом ещё раз, если у нас будут свободные люди.<end>
 
 =>a86_original
 What about my reward?<end>
@@ -532,7 +534,7 @@ What about my reward?<end>
 What reward? The deal was I give you the credits if you bring something useful from the plant. You brought nothing. Simple.<end>
 
 =>q87
-Какой награды? Мы договорились, что я заплачу вам, если вы принесёте что-нибудь полезное с завода. Вы ничего не принесли. Вот и всё.<end>
+Какого вознаграждения? Мы договорились, что я заплачу вам, если вы принесёте что-нибудь полезное с завода. Вы ничего не принесли. Вот и всё.<end>
 
 =>a88_original
 Now that I think about it... I believe I've missed a spot while searching. I'll go check it out again.<end>
@@ -550,7 +552,7 @@ Right, go along then.<end>
 Oh yeah, forgot about that. Oh well, whatcha gonna do. I'm still not going back.<end>
 
 =>a90
-Ах да, я совсем забыл$(#/а). Ну ладно, что поделаешь. Я пока не собираюсь туда возвращаться.<end>
+Ах, да, я совсем забыл$(#/а). Ну, ладно, что поделаешь. Я пока не собираюсь туда возвращаться.<end>
 
 =>q91_original
 Yeah, yeah. See you around.<end>
@@ -586,19 +588,19 @@ What are your thoughts on the Faceless retreat?<end>
 Well, first of all, from the seismic analysis I did, it appears that the Faceless invasion and the recent earthquake are *not* connected in any way. That's first. As for your question, I feel that the Oligarchs are not responsible for the invasion, at least not directly. I've talked to people around here, and all of them are yapping about the Oligarchs. Oligarchs this, Oligarchs that... Nah.<end>
 
 =>q96
-Ну во-первых, судя по моему сейсмическому анализу, похоже, что вторжение безликих и недавнее землетрясение *никак* не связаны. Это во-первых. Что касается вашего вопроса, -- я думаю, что олигархи не несут ответственности за вторжение, по крайней мере не непосредственно. Я обсуждал это со многими людьми здесь, и все они упоминают олигархов. Олигархи то, олигархи сё... нет...<end>
+Ну, во-первых, судя по моему сейсмическому анализу, похоже, что вторжение безликих и недавнее землетрясение *никак* не связаны. Это во-первых. Что касается вашего вопроса, -- я думаю, что олигархи не несут ответственности за вторжение, по крайней мере не непосредственно. Я обсуждал это со многими людьми здесь, и все они упоминают олигархов. Олигархи то, олигархи сё... нет...<end>
 
 =>q97_original
 It's the location. The Faceless needed to block the road to the North, and the best place to do so is Core City. Must be that. That's why they didn't take the city itself, you see. And... and they were seen all over South Underrail, so apparently not all their forces were focused on the blockade.<end>
 
 =>q97
-Это всё из-за места. Безликим необходимо было перекрыть путь на север, и лучшим местом для этого является Кор-Сити. Наверняка так. Вот почему они не взяли сам город, понимаете? И... ещё их видели по всей Южной Подземке, так что, видимо, не все их силы были брошены на блокаду.<end>
+Это всё из-за местоположения. Безликим необходимо было перекрыть путь на север, и лучшим местом для этого является Кор-Сити. Наверняка так. Вот почему они не взяли сам город, понимаете? И... ещё их видели по всей Южной Подземке, так что, видимо, не все их силы были брошены на блокаду.<end>
 
 =>q98_original
 Right. Now why did all of this happen? ::He shrugs.:: It's too early to know. I don't know.<end>
 
 =>q98
-Так. А вот почему всё это произошло? ::Он пожимает плечами.:: Пока слишком рано что-то говорить, я считаю.<end>
+Так. А вот, почему всё это произошло?.. ::Он пожимает плечами.:: Пока слишком рано что-то говорить, я считаю.<end>
 
 =>a99_original
 What are your thoughts on the Faceless invasion?<end>
@@ -610,7 +612,7 @@ What are your thoughts on the Faceless invasion?<end>
 What I'm curious about is its timing. Is it related to the recent earthquake? I'm going to study the seismic recordings to try to discover the source of the disturbance.<end>
 
 =>q100
-Что мне интересно, это момент, который они выбрали. Связано ли это с недавним землетрясением? Я собираюсь изучить сейсмические записи, чтобы попытаться обнаружить источник возмущения.<end>
+Что мне интересно, -- это момент, который они выбрали. Связано ли это с недавним землетрясением? Я собираюсь изучить сейсмические записи, чтобы попытаться обнаружить источник возмущения.<end>
 
 =>a101_original
 Let me know if you find something out.<end>
@@ -634,7 +636,7 @@ What's your opinion on Tanner's disappearance?<end>
 I don't know who he was or *why* this is all happening, but I do know I've noticed a drastic increase in power levels since his disappearance. Clear as a mindshroom in the black, I tell you. He had something in his room drawing a lot of power, and I think that's the reason Ezra wanted me to go to Tanner's room with him.<end>
 
 =>q104
-Я не знаю, кто он был и *почему* это всё происходит, но я точно знаю, что отметил резкое увеличение уровня энергии после его исчезновения. Ясно как мозгляк в темноте, скажу я вам. У него было что-то в комнате, требующее много энергии, и я думаю, что в этом причина того, что Эзра хотел, чтобы я пошёл вместе с ним в комнату Таннера.<end>
+Я не знаю, кто он был и *почему* это всё происходит, но я точно знаю, что отметил резкое увеличение уровня электроэнергии после его исчезновения. Ясно, как мозгляк в темноте, скажу я вам. У него было что-то в комнате, требующее много энергии, и я думаю, что в этом причина того, что Эзра хотел, чтобы я пошёл вместе с ним в комнату Таннера.<end>
 
 =>q105_original
 Once we go to check it out, I'll have more answers. I hope.<end>
@@ -670,7 +672,7 @@ That's a lot of work. I expect a compensation.<end>
 Don't worry about that. If you can find something good, you'll receive three hundred credits. Also, now keep in mind that the earthquake sealed off certain parts of the caves, so you'll probably need explosives. Other than that, be careful when you enter the plant itself; it's been out of commission for quite a while, so who knows what you'll find there.<end>
 
 =>q110
-Не беспокойтесь об этом. Если вы сможете найти что-то полезное, вы получите триста кредитов. Только имейте в виду, что землетрясение обвалило некоторые участки пещеры, так что вам, вероятно, понадобится взрывчатка. Кроме этого, будьте осторожны на самом заводе; он был заброшен долгое время, так что никто не знает, что ждёт вас внутри.<end>
+Не беспокойтесь об этом. Если вы сможете найти что-то полезное, вы получите триста кредитов. Только имейте в виду, что землетрясение обвалило некоторые участки пещеры, так что вам, вероятно, понадобится взрывчатка. Кроме этого, будьте осторожны на самом заводе -- он был заброшен долгое время, так что никто не знает, что ждёт вас внутри.<end>
 
 =>a111_original
 Deal.<end>
@@ -712,7 +714,7 @@ Right, that should be all. <end>
 Sorry, no can do. Three hundred is all I can offer you. Is it a deal?<end>
 
 =>q117
-К сожалению, я не могу. Триста -- это всё, что я могу вам предложить. Договорились?<end>
+К сожалению, я не могу этого позволить. Триста -- вот всё, что я могу вам предложить. Договорились?<end>
 
 =>a118_original
 I'll think about it.<end>
@@ -742,7 +744,7 @@ Why can't you use different batteries?<end>
 Well, the thing is simple. SGS was originally built by the Biocorp's military, long before anyone of us even came here, so obviously they had some advanced tech at their disposal. Optoelectric nuclear batteries were already in use, and even though theoretically you could use fusion batteries, or any other type, we've had no luck with that. It's like the system refuses to work with anything else.<end>
 
 =>q122
-Ну, тут всё просто. ССГ изначально была построена военными Биокорп задолго до того, как кто-либо из нас попал сюда. Естественно, у них был доступ к передовым технологиям. Были использованы оптоэлектрические ядерные батареи, и хотя, теоретически, мы могли бы использовать термоядерные батареи или батареи любого другого типа, у нас ничего из этого не вышло. Как будто система отказывается работать с чем-либо ещё.<end>
+Ну, тут всё просто. ССГ изначально была построена военными Биокорп задолго до того, как кто-либо из нас попал сюда. Естественно, у них был доступ к передовым технологиям. Были использованы оптоэлектрические ядерные батареи, и, хотя, теоретически, мы могли бы использовать термоядерные батареи или батареи любого другого типа, у нас ничего из этого не вышло. Как будто система отказывается работать с чем-либо ещё.<end>
 
 =>a123_original
 ::[Electronics]:: I see. By the way, how do these optoelectric batteries work? I'm really interested.<end>
@@ -760,13 +762,13 @@ It's complicated... You sure you can understand it?<end>
 Fusion cells have their cathodes made from nickel-oxide, and their anodes from palladium. Palladium is used because it can absorb up to nine hundred times its own volume of hydrogen, although, the details of this process are still poorly understood. And through electrolysis within the cell hydrogen nuclei are combined, thus forming a new nucleus and releasing energy.<end>
 
 =>a125
-Ячейки синтеза имеют катоды, изготовленные из оксида никеля, и аноды из палладия. Палладий может поглотить объём водорода до девятьсот раз превышающий его собственный, хотя подробности этого процесса до сих пор плохо изучены. В ходе электролиза внутри ячейки, ядра водорода соединяются, образуя новые ядра и высвобождая энергию.<end>
+Ячейки синтеза имеют катоды, изготовленные из оксида никеля, и аноды из палладия. Палладий может поглотить объём водорода до девятисот раз превышающий его собственный, хотя подробности этого процесса до сих пор плохо изучены. В ходе электролиза внутри ячейки, ядра водорода соединяются, образуя новые ядра и высвобождая энергию.<end>
 
 =>q126_original
 ::Harold nods in approval.:: Oooh! Well done. I really had no idea you knew so much about fusion batteries. Your impressive knowledge could really be useful around the station, you know that? Anyway, you should easily understand how optoelectric batteries work.<end>
 
 =>q126
-::Гарольд одобрительно кивает.:: О-о-о! Молодец. Я, правда, понятия не имел, что вы так много знаете о термоядерных батарейках. Такие впечатляющие познания могли бы очень пригодиться на станции, вы знаете это? Во всяком случае, вам несложно будет понять, как работают оптоэлектрические батареи.<end>
+::Гарольд одобрительно кивает.:: О-о-о! Неплохо. Я и правда понятия не имел, что вы так много знаете о термоядерных батарейках. Такие впечатляющие познания могли бы очень пригодиться на станции, вы знаете это? Во всяком случае, вам несложно будет понять, как работают оптоэлектрические батареи.<end>
 
 =>q127_original
 You see, optoelectrical batteries use a beta-emmiter that is suspended in gas or liquid containing luminescent gas. When the beta active nuclides emit beta particles, they excite their own electrons in the narrow excimer band at a minimum of thermal losses, such that this radiation is converted in a high band gap photovoltaic layer very efficiently into electricity. <end>
@@ -778,13 +780,13 @@ You see, optoelectrical batteries use a beta-emmiter that is suspended in gas or
 Ah, that is quite interesting, and makes perfect sense. You learn something new every day.<end>
 
 =>a128
-Ах, это довольно интересно и очень логично. Каждый день узнаёшь что-то новое.<end>
+Ах, это довольно интересно и совершенно логично. Каждый день узнаёшь что-то новое.<end>
 
 =>q129_original
 I agree, it's rather fascinating. That's why I do these things - cause science is awesome. ::He laughs.:: It's a pleasure to be discussing something like this with you, $(context.player.Name). But now's the time to get back to business. Will you go to the recycling plant for us?<end>
 
 =>q129
-Я согласен, это довольно увлекательно. Вот почему я этим занимаюсь: наука это круто. ::Он смеётся.:: Приятно было поговорить с вами об этом, $(context.player.Name). Но сейчас самое время вернуться к делу. Вы сходите на перерабатывающий завод?<end>
+Я согласен, это довольно увлекательно. Вот почему я этим занимаюсь -- наука это круто. ::Он смеётся.:: Приятно было поговорить с вами, $(context.player.Name), но сейчас самое время вернуться к делу. Вы сходите на перерабатывающий завод?<end>
 
 =>a130_original
 I know how lithium-ion batteries work. The cathode attracts lithium-ions, therefore making it more positively charged than the anode, which  in turn attracts negatively charged electrons. They also have a very high energy density, compared to most other batteries.<end>
@@ -796,7 +798,7 @@ I know how lithium-ion batteries work. The cathode attracts lithium-ions, theref
 Well done, I see you have some advanced knowledge on how batteries work. But still, I think optoelectric batteries are just a tiny bit too advanced for you. Anyhow, will you go to the battery recycling plant for us?<end>
 
 =>q131
-Отлично, я вижу, вы хорошо понимаете как работают батареи. Но всё же я думаю, что оптоэлектрические батареи немного сложноваты для вас. Так или иначе, вы сходите на перерабатывающий завод?<end>
+Отлично, я вижу, вы хорошо понимаете как работают батареи. Но, всё же, я думаю, что оптоэлектрические батареи немного сложноваты для вас. Так или иначе, вы сходите на перерабатывающий завод?<end>
 
 =>a132_original
 Well, I know most batteries have some sort of an electrolyte, and positively and negatively charged electrodes. The electrons flow through the circuit from one electrode to the other, generating an electric current.<end>
@@ -808,7 +810,7 @@ Well, I know most batteries have some sort of an electrolyte, and positively and
 That is true, but still, optoelectric batteries are a bit more advanced than that. Anyhow, back to business. Will you go to the recycling plant for us?<end>
 
 =>q133
-Это так, но оптоэлектрические батареи немного более продвинутые. Ну да ладно, вернёмся к делу. Вы сходите на перерабатывающий завод?<end>
+Это так, но оптоэлектрические батареи немного более продвинутые. Ну, да ладно, вернёмся к делу. Вы сходите на перерабатывающий завод?<end>
 
 =>a134_original
 Fusion battery facilitates extremely small scale nuclear fusion in order to produce a single high energy discharge.<end>
@@ -820,7 +822,7 @@ Fusion battery facilitates extremely small scale nuclear fusion in order to prod
 I see you've read the label, but I'm sorry, optoelectric batteries seem really advanced for you. Now, will you go to the recycling plant for us?<end>
 
 =>q135
-Я вижу, что вы прочитали этикетку, но извините, оптоэлектрические батареи, кажется, слишком сложны для вас. Ну что, вы сходите на перерабатывающий завод?<end>
+Я вижу, что вы прочитали этикетку, но, извините, оптоэлектрические батареи, кажется, слишком сложны для вас. Ну что, вы сходите на перерабатывающий завод?<end>
 
 =>a136_original
 I know that when you press a switch, the lights turn on.<end>
@@ -856,13 +858,13 @@ I see... Now, about searching that recycling plant.<end>
 Right, will you do it?<end>
 
 =>q141
-Да, та вы поможете мне?<end>
+Да, так, вы поможете мне?<end>
 
 =>a142_original
 Too much work, I'll think about it...<end>
 
 =>a142
-У меня слишком много дел, я подумаю об этом...<end>
+У меня слишком много дел, но я подумаю об этом...<end>
 
 =>a143_original
 Yawn, can you just skip to the chase?<end>
@@ -886,7 +888,7 @@ Could you skip the tech stuff? Just tell me what to do.<end>
 I could. A lot of our optoelectric nuclear batteries used to maintain uninterrupted power during a power outage died  when we used them after the earthquake. These are very rare, don't mistake them for regular nickel-palladium fusion cells that can be found everywhere.<end>
 
 =>q146
-Я мог бы. Много оптоэлектрических ядерных батарей, которые мы используем для поддержания бесперебойного питания, сдохли после землетрясения. Они очень редкие, не путайте их с обычными термоядерными никель-палладиевыми ячейками, которые можно найти повсюду.<end>
+Конечно. Много оптоэлектрических ядерных батарей, которые мы используем для поддержания бесперебойного питания, сдохли после землетрясения. Они очень редкие -- не путайте их с обычными термоядерными никель-палладиевыми ячейками, которые можно найти повсюду.<end>
 
 =>a147_original
 I'm sorry, I'm in a hurry. We'll talk later.<end>
@@ -904,7 +906,7 @@ Okay, but when you have the time, please see me.<end>
 Howdy, howdy. Hey, I've already sent the explorer to Harland. Installed everything you $(#guys/two) asked for. Just remind him to charge it properly; yeah, don't want it running out of energy at the worst possible time.<end>
 
 =>q149
-Приветик. Эй, я уже отправил исследователь Харланду. Установил всё, о чём вы, $(#парни/ребята), просили. Только напомните, чтобы он полностью его зарядил; да, не хотелось бы, чтобы в самый неподходящий момент у него закончилась энергия.<end>
+Приветик. Эй, я уже отправил исследователя Харланду. Установил всё, о чём вы, $(#парни/двое), просили. Только напомните, чтобы он полностью его зарядил; да, не хотелось бы, чтобы в самый неподходящий момент у него закончился заряд.<end>
 
 =>q150_original
 We lost Gorsky. I'd say rest in peace, but Gorsky and peace? Nah...<end>
@@ -930,7 +932,9 @@ Glad to see you're still in one piece, $(context.player.Name). Heard it was ugly
 Anyway, what do you need?<end>
 
 =>q153
-Ладно, что тебе нужно?<end>
+
+
+Ладно, что вам нужно?<end>
 
 =>q154_original
 ::He shakes his head.:: Just when you think you've seen every psionic trick in the database, something new surprises you. Right, eh?<end>
@@ -962,7 +966,7 @@ Howdy. You must be the new $(#guy/girl). Name's Harold.
 I'm in charge of this little workshop here.<end>
 
 =>q158
-Приветик. Вы, должно быть, т$(#от/а) новеньк$(#ий/ая). Меня зовут Гарольд.
+Приветик. Вы, должно быть, $(#тот/та) новеньк$(#ий/ая). Меня зовут Гарольд.
 
 Я отвечаю за эту маленькую мастерскую.<end>
 
