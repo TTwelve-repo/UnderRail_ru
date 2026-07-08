@@ -4,7 +4,7 @@
 Don't worry. $(context.player.Name), I ain't gonna blow us up. Nope. Anyway, Vencel told me you'll be staying with us for a while.<end>
 
 =>q1
-::Невысокий мужчина поднимается из-за стола с ящиком гранат в руках. Тяжёлый ящик ударяется о крышку стола с глухим стуком, заставляя вас вскинуть брови, что в свою очередь вызывает улыбку на его лице. Он снимает перчатку и пожимает вашу руку, демонстрируя сильную, пожалуй, даже немного слишком сильную хватку.::
+::Невысокий мужчина поднимается из-за стола с ящиком гранат в руках. Тяжёлый ящик ударяется о крышку стола с глухим стуком, заставляя вас вскинуть брови, что в свою очередь вызывает улыбку на его лице. Он снимает перчатку и пожимает вашу руку, демонстрируя сильную -- пожалуй, даже немного слишком сильную хватку.::
 
 Не волнуйся, $(context.player.Name), я не собираюсь нас взрывать. Не-а. Кстати, Венцель уже сказал мне, что ты поживёшь с нами некоторое время.<end>
 
@@ -48,13 +48,13 @@ One sec: <end>
 Mind doing me a small favor? Harland, one of our security officers, has requested an extra auto-turret over at the under-passages exit. That - and a trainload of ammo, as if he's preparing for <end>
 
 =>q8
-Можешь оказать мне небольшую услугу? Харланд, один из наших офицеров безопасности, запросил дополнительную турель у выхода в подземные переходы. Её - и целый вагон боеприпасов, как будто он там готовится к<end>
+Можешь оказать мне небольшую услугу? Харланд, один из наших офицеров безопасности, запросил дополнительную турель у выхода в подземные переходы. Её и целый вагон боеприпасов, как будто он там готовится к <end>
 
 =>q9_original
 a massive Faceless assault.<end>
 
 =>q9
-массированной атаке безликих.<end>
+вторжению безликих.<end>
 
 =>q10_original
 <end>
@@ -72,7 +72,7 @@ Maybe he is.<end>
 Eh. As dangerous as Lurkers may be, <end>
 
 =>q12
-Как бы опасны ни были Скрытни...<end>
+Хе, как бы опасны ни были скрытни, <end>
 
 =>q13_original
 Harland... he tends to get, hm, paranoid from time to time. I suppose watching over dark hallways non-stop gets to a guy after a while. And then he gets all quaky.<end>
@@ -90,7 +90,7 @@ You're making it sound as if it's something unreasonable.<end>
 I mean, it's not, and we've certainly reinforced all our defenses, but that under-passages exit - to be reasonable - is hardly a prime target for the Faceless as to require such an amount of ordnance. <end>
 
 =>q15
-Я хочу сказать, что мы, разумеется, укрепили всю нашу оборону, но тот выход в подземные проходы - если чуток подумать - вряд ли можно назвать основной целью безликих, чтобы запрашивать такую артиллерию.<end>
+Я хочу сказать, что мы, разумеется, укрепили всю нашу оборону, но тот выход в подземные проходы, если чуток подумать, вряд ли можно назвать основной целью безликих, чтобы запрашивать такую артиллерию.<end>
 
 =>a16_original
 Did he tell you why he needs all of this?<end>
@@ -102,7 +102,7 @@ Did he tell you why he needs all of this?<end>
 "He needs it." But why concretely, now that's something I can't get out of him. Heh, I'll be damned if he even knows it himself. <end>
 
 =>q17
-Ему "нужно". Но "зачем конкретно" - ответа я так и не добился. Хех, будь я проклят, если он сам его знает.<end>
+Ему «нужно». Но «зачем конкретно» -- ответа я так и не добился. Хех, будь я проклят, если он сам его знает. <end>
 
 =>a18_original
 Quaky?<end>
@@ -114,7 +114,7 @@ Quaky?<end>
 Quaky. Eh, like a quaker. Or a hopper - *scared*. You dig?<end>
 
 =>q19
-Трясётся. Ну, типа, дрожит. Как пещерник - *от страха*. Врубаешься?<end>
+Трясётся. Ну, типа, как трясун. Или как пещерник -- *от страха*. Врубаешься?<end>
 
 =>a20_original
 Dig?<end>
@@ -126,7 +126,7 @@ Dig?<end>
 Dig: to get - to understand. Damn, $(context.player.Name), where've you been living all this time?<end>
 
 =>q21
-Врубиться значит - понять. Проклятье, $(context.player.Name), где ты жил$(#/а) до этого?<end>
+Врубиться значит понять. Проклятье, $(context.player.Name), где ты жил$(#/а) до этого?<end>
 
 =>a22_original
 Damn?<end>
@@ -156,7 +156,7 @@ There's an entrance to the under-passages at the metro station above us. Can't m
 See if whatever spooked him this time is a genuine concern, and if so, I'll send him everything he needs. <end>
 
 =>q26
-Посмотрим, стоит ли беспокоиться о том, что напугало его на этот раз, и если да, то я отправлю ему всё необходимое.<end>
+Посмотри, стоит ли беспокоиться о том, что напугало его на этот раз, и если да, то я отправлю ему всё необходимое. <end>
 
 =>q27_original
 I'm just worried about unnecessarily tying up so much ordnance down there when it might be more needed elsewhere, that's all.<end>
@@ -180,7 +180,7 @@ I'd like to see your stock now. ::Barter.::<end>
 I'd like to see your stock before I go. ::Barter.::<end>
 
 =>a30
-Я бы хотел$(#/а) посмотреть твой товар, прежде чем уйти. ::Обмен.::<end>
+Я бы хотел$(#/а) посмотреть твой товар, прежде чем пойду. ::Обмен.::<end>
 
 =>a31_original
 Got it.<end>
@@ -198,7 +198,7 @@ Got it.<end>
 It's just that I don't want us hauling all this ordnance back and forth because of a couple of thugs - or a rathound.<end>
 
 =>q33
-Просто я не хочу, чтобы мы тягали всю эту артиллерию туда и обратно из-за парочки бандитов - или крысоволков.<end>
+Просто я не хочу, чтобы мы тут тягали всю эту артиллерию туда и обратно из-за парочки бандитов или крысоволка.<end>
 
 =>a34_original
 I'll see him if I get the chance.<end>
@@ -222,7 +222,7 @@ Sorry. I got more important things to do.<end>
 Alright. Then I'll send someone else.<end>
 
 =>q37
-Хорошо. Тогда я отправлю кого-нибудь ещё. <end>
+Хорошо. Тогда я отправлю кого-нибудь ещё.<end>
 
 =>a38_original
 See ya.<end>
@@ -240,7 +240,7 @@ Yeah.<end>
 a Lurker invasion.<end>
 
 =>q40
-нашествию Скрытней.<end>
+нашествию скрытней.<end>
 
 =>a41_original
 Can I have my weapon back?<end>
@@ -346,7 +346,7 @@ Shoddy Shotty!<end>
 ::Accept it in silence.::<end>
 
 =>a57
-::Молча принять его.::<end>
+::Молча взять его.::<end>
 
 =>a58_original
 Um, no. I believe I had a twelve-gauge automatic shotgun.<end>
@@ -358,7 +358,7 @@ Um, no. I believe I had a twelve-gauge automatic shotgun.<end>
 Ha! Yeah, right! <end>
 
 =>q59
-Ха! Да, точно!<end>
+Ха! Ну, да, конечно!<end>
 
 =>a60_original
 What the hell is this?<end>
@@ -412,7 +412,7 @@ Pals? We're brothers!<end>
 I'm sorry, I never noticed the resemblance.<end>
 
 =>a68
-Извини, я не заметил$(#/а) никакого сходства.<end>
+Извини, я и не заметил$(#/а) сходства.<end>
 
 =>q69_original
 Well, the respirators don't exactly help, heh. But yeah, we're bros. We came to this station together some years ago, and when they saw how cool we were, they wouldn't let us leave. 
@@ -420,7 +420,7 @@ Well, the respirators don't exactly help, heh. But yeah, we're bros. We came to 
 ::He laughs.:: That's *exactly* how it went.<end>
 
 =>q69
-Ну, респираторы точно не помогают, хех. Но да, мы братья. Мы приехали на эту станцию вместе несколько лет назад, и как только они увидели, как мы круты, то они просто не позволили нам уйти. 
+Ну, респираторы тут точно не помогают, хех. Но да, мы братья. Мы приехали на эту станцию вместе несколько лет назад, и, как только они увидели, насколько мы круты, то просто не позволили нам уйти. 
 
 ::Он смеётся.:: *Точно* так всё и было.<end>
 
@@ -446,7 +446,7 @@ Can you tell me what he was like as a person?<end>
 He was very... what's the proper word here... focused! Yes, focused. He'd start working on something and not be done with it until it's perfect. That's how he did everything. Then Bret comes along as the only one complaining. Apparently, Patrick installed some heaters and they didn't work as they should, so the Big Complainer threw a bit of a tantrum. But yeah, heh, Bret.<end>
 
 =>q73
-Он был очень... как бы сказать... целеустремлённым! Да, целеустремлённым. Он начинал работать над чем-то и не бросал, пока всё не начинало работать идеально. Вот как он делал всё. Только Брет приходил ко мне жаловаться. Судя по всему, Патрик установил несколько нагревателей, и они не работали как надо, так что большой нытик был немного в ярости. Но да, хех, это Брет.<end>
+Он был очень... как бы сказать... целеустремлённым! Да, целеустремлённым. Он начинал работать над чем-то и не бросал, пока всё не начинало работать идеально. Вот как он делал всё. Только Брет приходил ко мне жаловаться. Судя по всему, Патрик установил несколько нагревателей, и они не работали как надо, так что большой нытик был немного в ярости. Но да, хех, это же Брет.<end>
 
 =>a74_original
 What do you think of the Faceless invasion?<end>
@@ -484,7 +484,7 @@ Then, all of us, together, we fight back, every station, together. Get away, you
 ::He pauses.:: The point of the story is... I'm glad they're gone.<end>
 
 =>q79
-И тогда мы, все вместе, мы отбиваемся, все станции вместе. Прочь, проклятая мерзость! Мы устояли. Уроды вернулись в свои мрачные ямы, ожидая часа, чтобы напасть снова.
+И тогда мы, все вместе, мы отбиваемся, все станции вместе. Прочь, проклятая мерзость! И мы устояли. Уроды вернулись в свои мрачные ямы, ожидая часа, чтобы напасть снова.
 
 ::Он делает паузу.:: Меня немного занесло, но суть истории такова: я рад, что они ушли.<end>
 
@@ -530,15 +530,15 @@ Think Harland's pretty pleased with his new turret.
 ::He sighs.:: <end>
 
 =>q86
-Думаю Харланд очень доволен своей новой турелью.
+Думаю, Харланд очень доволен своей новой турелью.
 
-::Он вздыхает::<end>
+::Он вздыхает:: <end>
 
 =>q87_original
 He's a good guy, but I'll be damned if his R&R ain't overdue.<end>
 
 =>q87
-Он хороший парень, но будь я проклят, ему просто необходим отпуск.<end>
+Он хороший парень, но, будь я проклят, ему просто необходим отпуск.<end>
 
 =>q88_original
 Sent some ammo over to Harland. Hope he'll now stop bugging me about it.
@@ -564,7 +564,7 @@ At least Harland got a neat minibot out of all this, if nothing else.
 I gotta say, thanks for helping Harland. <end>
 
 =>q90
-Должен сказать, спасибо, что помог$(#/ла) Харланду.<end>
+Должен сказать, спасибо, что помог$(#/ла) Харланду. <end>
 
 =>q91_original
 Everyone's talking about Tanner's disappearance when they should be talking about yours. Where've you been all this time, $(context.player.Name). You came here to restock, eh?<end>
@@ -592,7 +592,7 @@ Hey, is it true?<end>
 Is what true?<end>
 
 =>a94
-Что же тогда правда?<end>
+Что правда?<end>
 
 =>q95_original
 About that psionic, Ethan, turning old in a blink of an eye<end>
@@ -622,13 +622,13 @@ Yes.<end>
 Damn. <end>
 
 =>q99
-Чёрт.<end>
+Ну ни фига себе.<end>
 
 =>q100_original
 Wish I'd seen it. Heard it was... ::He tilts his head from left to right.:: *Novel*.<end>
 
 =>q100
-Жаль, что я этого не видел. Слышал, что это было... ::Он наклоняет голову слева направо.:: *Нечто*.<end>
+Жаль, что я этого не видел. Слышал, что это было... ::Он качает головой из стороны в сторону.:: *Нечто*.<end>
 
 =>q101_original
 Anyway, you came here for a reason, didn't you?<end>
@@ -670,7 +670,7 @@ I don't have time for this. Show me your stock. ::Barter.::<end>
 That Ethan the psionic attacked you and you had to take him out?<end>
 
 =>q107
-Что Итан псионик напал на тебя, и тебе пришлось убить его?<end>
+Что псионик Итан напал на тебя, и тебе пришлось убить его?<end>
 
 =>a108_original
 Yes.<end>
@@ -702,7 +702,7 @@ So, Core City... ::He shakes his head a few times.:: Apparently there's an entir
 Well, if you're going out, you better stock up - we got some new gear.<end>
 
 =>q112
-Итак, Кор-Сити ::Он несколько раз качает головой.:: Судя по всему, их там целая армия.
+Значит, Кор-Сити... ::Он качает головой.:: Судя по всему, их там целая армия.
 
 Ну, если ты уходишь, то лучше запасись -- мы получили кое-какое новое снаряжение.<end>
 
@@ -711,4 +711,3 @@ Hey, $(context.player.Name). What do you need?<end>
 
 =>q113
 Привет, $(context.player.Name), что тебе нужно?<end>
-
