@@ -58,7 +58,7 @@ You ask me a question like that after all you've been through?
 See you around, $(context.player.Name).<end>
 
 =>q10
-Вы задаёте мне такой вопрос после всего, через что прошли?
+Вы задаёте мне такой вопрос после всего, что вы видели?
 
 Увидимся, $(context.player.Name).<end>
 
@@ -72,7 +72,7 @@ I punched through a rock wall with my bare fists back in Hathor mine! I don't ha
 Sure you do. We all have to wait for something. Ain't it so? That's all I've got to say for now.<end>
 
 =>q12
-Разумеется. Всем нам приходится иногда чего-то ждать. Разве это не так? Вот пока и всё, что я могу вам сказать.<end>
+Разумеется. Всем нам приходится иногда чего-то ждать, разве это не так? Вот пока и всё, что я могу вам сказать.<end>
 
 =>q13_original
 Indeed you have, and with optimal results even. This hasn't gone unnoticed.<end>
@@ -234,13 +234,13 @@ I need some help with the assignments you gave me.<end>
 $(context.player.Name), I can't say much that will help you. It's up to you to figure out what needs to be done and then do it, preferably in an optimal way. Then again, I suppose a word of advice wouldn't hurt.<end>
 
 =>q39
-$(context.player.Name), не могу сказать многого, что помогло бы вам. Это ваша задача -- выяснить, что необходимо сделать, и сделать это -- желательно наиболее оптимальным способом. С другой стороны, я думаю, совет не повредит.<end>
+$(context.player.Name), не могу сказать многого, что помогло бы вам. Это ваша задача -- выяснить, что необходимо сделать, и сделать это -- желательно, наиболее оптимальным способом. С другой стороны, я думаю, совет не повредит.<end>
 
 =>q40_original
 And, it's a very simple piece of advice: Keep your eyes and ears open. There are always cracks in the walls for you to get through, little details that reveal big secrets, small mistakes that have big consequences. Take care in everything you do, for a careless mistake might cause unrepairable damage.<end>
 
 =>q40
-И это очень простой совет: держите глаза и уши открытыми. Всегда есть трещины в стенах, через которые можно пролезть; маленькие детали, за которыми прячутся большие секреты; незначительные ошибки, которые имеют большие последствия. Будьте осторожны во всех делах -- небольшой недосмотр может нанести неустранимый ущерб.<end>
+И это очень простой совет: держите глаза открытыми и нос по ветру. Всегда есть трещины в стенах, через которые можно пролезть; маленькие детали, за которыми прячутся большие секреты; незначительные ошибки, которые имеют большие последствия. Будьте осторожны во всех делах -- небольшой недосмотр может нанести неустранимый ущерб.<end>
 
 =>q41_original
 That's enough of Jack's wisdom for now. ::He smiles.::<end>
@@ -258,7 +258,7 @@ Catch you later, Jack.<end>
 Maybe I should order another drink...<end>
 
 =>q43
-Может, мне стоит заказать ещё выпить...<end>
+Думаю, мне стоит заказать ещё выпить...<end>
 
 =>q44_original
 Hmm? I'm sorry, I don't have time to chat, I'm waiting for someone.<end>
@@ -294,13 +294,13 @@ I knew I was being watched, so I had to use someone as a decoy while I get the r
 I told you a man was waiting to pay you for the delivery. I never said who the man would be. Well, I've waited, and waited, and waited... ::He hands you some charons.:: In any case, thanks for the help. You earned this.<end>
 
 =>q49
-Я сказал вам, что человек будет ждать и заплатит вам за доставку. Я не сказал, кем будет этот человек. Ну, я ждал, и ждал, и ждал... ::Он протягивает вам горсть харонов.:: В любом случае, спасибо за помощь. Вы заработали это.<end>
+Я сказал вам, что человек будет ждать вас и заплатит вам за доставку. Я не сказал, кем будет этот человек. Ну, я ждал, и ждал, и ждал... ::Он протягивает вам горсть харонов.:: В любом случае, спасибо за помощь. Вы заработали это.<end>
 
 =>q50_original
 Since that's out of the way, I'm going to have to excuse myself. I'm waiting for someone important. See you later, $(context.player.Name).<end>
 
 =>q50
-Раз это теперь решено, я буду вынужден отлучиться. Я жду кое-кого важного. Увидимся позже, $(context.player.Name).<end>
+Теперь, я вынужден просить вас оставить меня. Я жду кое-кого важного. Увидимся позже, $(context.player.Name).<end>
 
 =>q51_original
 Now, on to more pressing matters. Abram informed me you helped him in Junkyard. Told me you have potential.<end>
@@ -318,7 +318,7 @@ We will put you to the test, don't worry. Before all that, I'd like to make cert
 Abram and I are working for a... certain organization, whose name I can't reveal to you at the moment; the less you know, the better. What you do need to know is that you have shown certain qualities we seek, and if your performance continues to be satisfactory... there just might be more work for you.<end>
 
 =>q53
-Абрам и я работаем... на определённую организацию, чьё название я не могу раскрыть вам в данный момент; чем меньше вы знаете, тем лучше. Что вам нужно знать -- это то, что вы проявили определённые качества, которые мы ищем, и, если ваша производительность останется удовлетворительной... для вас может найтись ещё работа.<end>
+Абрам и я работаем... на определённую организацию, чьё название я не могу раскрыть вам в данный момент -- чем меньше вы знаете, тем лучше. Что вам нужно знать, это то, что вы проявили определённые качества, которые мы ищем в людях, и, если ваша производительность останется удовлетворительной... для вас может найтись ещё работа.<end>
 
 =>q54_original
 Everything, and I mean everything, concerning Abram, myself and everyone - I do mean everyone - involved in what we do, stays between us. We require maximum discretion, and, just so you know, we have eyes and ears everywhere.
@@ -338,7 +338,7 @@ First, I want you to go to Foundry and find our cell there. Once you do, you wil
 =>q55
 Мне надоело болтать, так что слушайте внимательно, я буду краток: у меня есть для вас три задания на данный момент; вы можете браться за них в любом порядке, как вам нравится; учтите, что два из них потребуют от вас небольшого путешествия. 
 
-Во-первых, я хочу, чтобы вы отправились на Литейную и нашли там нашу ячейку. Там вас спросят: «Кто идёт?», на что вы ответите: «Неофит». Как вас пропустят, поговорите с Эверардом, он скажет вам, что нужно делать.<end>
+Во-первых, я хочу, чтобы вы отправились на Литейную и нашли там нашу ячейку. Там вас спросят: «Кто идёт?», на что вы ответите: «Неофит». Как вас пропустят, поговорите с Эверардом -- он скажет вам, что нужно делать.<end>
 
 =>a56_original
 How do I find the cell?<end>
@@ -350,13 +350,13 @@ How do I find the cell?<end>
 $(context.player.Name), if I need to tell you such basic things, you might not be cut out for this line of work. Where was I... Ah, yes.<end>
 
 =>q57
-$(context.player.Name), если мне нужно объяснять вам такие элементарные вещи, то вы, возможно, не подходите для этой работы. На чём я остановился... Ах, да.<end>
+$(context.player.Name), если мне нужно объяснять вам такие элементарные вещи, то вы, возможно, не подходите для этой работы. На чём я остановился?.. Ах, да.<end>
 
 =>q58_original
 Second, I want you to go to SGS - that's right - and find a man called Lenox Pierce. He is in need of our services, so be polite and represent us well. <end>
 
 =>q58
-Во-вторых, я хочу, чтобы вы отправились на ССГ -- да, да -- и нашли там человека по имени Ленокс Пирс. Он нуждается в наших услугах, поэтому будьте вежливы и представляйте нас в хорошем свете.<end>
+Во-вторых, я хочу, чтобы вы отправились на ССГ -- да, да -- и нашли там человека по имени Ленокс Пирс. Он нуждается в наших услугах, поэтому будьте вежливы и представляйте нас в хорошем свете. <end>
 
 =>a59_original
 And what's the third assignment?<end>
@@ -414,7 +414,7 @@ Oh, $(context.player.Name), there's a familiar face. I'd love to chat with you a
 So you are $(context.player.Name). Name's Jack Quicksilver. Abram told me you come from SGS. I was stuck there recently, it's funny how we never met. But, that's not important right now. He also told me you helped him in Junkyard. Told me you have potential.<end>
 
 =>q67
-Так это вы $(context.player.Name). Меня называют Скользкий Джек. Абрам рассказал мне, что вы с ССГ. Было дело, я застрял там недавно; забавно, что мы не пересеклись. Но это неважно. Он также рассказал мне, что вы помогли ему на Свалке. Сказал мне, что у вас есть потенциал.<end>
+Так, это вы $(context.player.Name). Меня называют Скользкий Джек. Абрам рассказал мне, что вы с ССГ. Было дело, я застрял там недавно; забавно, что мы не пересеклись. Но это неважно. Он также рассказал мне, что вы помогли ему на Свалке. Сказал мне, что у вас есть потенциал.<end>
 
 =>q68_original
 ...And here $(#he/she) is. You've talked to Abram, I presume. He informed me earlier you helped him in Junkyard. Told me you have potential.<end>
@@ -486,7 +486,7 @@ What do you do for living? Are you a trader?<end>
 Among other things, yeah. Are you looking to trade?<end>
 
 =>q79
-Помимо прочего, да. Вы хотите торговать?<end>
+Помимо прочего, -- да. Вы хотите торговать?<end>
 
 =>a80_original
 Show me what you got. ::Barter.::<end>
@@ -537,6 +537,7 @@ Package delivery. I'll pay you in SGS credits. Hundred pieces.
 
 =>q87
 Доставка посылки. Я заплачу вам кредитами ССГ. Сотня.
+
 <end>
 
 =>q88_original
@@ -603,7 +604,7 @@ Why don't you just take the package yourself?<end>
 No questions. <end>
 
 =>q98
-Никаких вопросов.<end>
+Никаких вопросов. <end>
 
 =>a99_original
 Actually I changed my mind.<end>
@@ -615,7 +616,7 @@ Actually I changed my mind.<end>
 Too late for that now. <end>
 
 =>q100
-Теперь уже поздно.<end>
+Теперь уже поздно. <end>
 
 =>a101_original
 No.<end>
@@ -699,7 +700,7 @@ Name's Jack Quicksilver.<end>
 Меня называют Скользкий Джек.<end>
 
 =>q114_original
- Who're you?<end>
+Who're you?<end>
 
 =>q114
 А вы кто?<end>
