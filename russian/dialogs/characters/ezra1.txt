@@ -36,7 +36,7 @@ No. And still calling it a picture seems rather inadequate, based on what I've j
 A small room with a stasis cell of some kind and two desks. There was a chemical set and a number of different chemicals there along with what appeared to be mask fragments.<end>
 
 =>a6
-Небольшая комната с какой-то стазисной ячейкой и двумя письменными столами. Там был лабораторный стол, много разных химикатов и, кажется, фрагменты маски.<end>
+Небольшую комнату с какой-то стазисной ячейкой и двумя письменными столами. Там был лабораторный стол, много разных химикатов и, кажется, фрагменты маски.<end>
 
 =>q7_original
 ::Ezra absorbs your words, but the only response you get are a few slow nods.::<end>
@@ -244,7 +244,7 @@ That seems plausible.<end>
 I happen to know from previous research how these creatures communicate. With the larval form you brought me, I think I will be able to create a device which you will be able to use to summon the creature. At least it should.<end>
 
 =>q40
-Из предыдущих исследований, мне известно, как эти существа общаются. Используя личиночную форму, которую вы принесли мне, я попробую создать устройство, которое можно использовать чтобы призвать существо. В теории.<end>
+Из предыдущих исследований, мне известно, как эти существа общаются. Используя личиночную форму, которую вы принесли мне, я попробую создать устройство, которое можно использовать, чтобы призвать существо. В теории.<end>
 
 =>a41_original
 What do you mean "it should"?<end>
@@ -362,7 +362,7 @@ You are awfully mysterious, Ezra. First you tell me you don't know anything abou
 No one has an answer to everything. And no one should have an answer to everything. Life would be dull otherwise.<end>
 
 =>q59
-Ни у кого нет ответов на все вопросы. И никто не должен иметь ответы на все вопросы. Иначе жизнь была бы скучна.<end>
+Ни у кого нет ответов на все вопросы. И никто не должен иметь ответы на все вопросы, иначе жизнь была бы скучна.<end>
 
 =>q60_original
 I'd like to return to the topic at hand now.<end>
@@ -434,7 +434,7 @@ I don't know much about it myself, but from my understanding it's a highly valua
 ::He continues staring.:: <end>
 
 =>q71
-::Он продолжает сверлить вас взглядом.::<end>
+::Он продолжает сверлить вас взглядом.:: <end>
 
 =>q72_original
 It's a technology of the distant past, yet it's so advanced it might as well be from the future. The fact you <end>
@@ -458,7 +458,7 @@ know as much as you do about it is surprising, to say the least.<end>
 Let's say I've done some digging around.<end>
 
 =>a75
-Скажем так, я тут немного копнул.<end>
+Скажем так, я тут немного копнул$(#/а).<end>
 
 =>q76_original
 Very good. <end>
@@ -470,7 +470,7 @@ Very good. <end>
 But did you find it, the Acorn itself?<end>
 
 =>q77
-Но вы нашли его, сам Жёлудь?<end>
+Но вы нашли его -- сам Жёлудь?<end>
 
 =>a78_original
 Yes. Right here. ::Show him the Acorn.::<end>
@@ -518,7 +518,7 @@ They cannot...<end>
 However, the Acorn's current unusability doesn't diminish its value. ::He looks at it, expecting you to finally hand it over to him.::<end>
 
 =>q85
-Тем не менее, текущая непригодность Жёлудя не уменьшает его ценность. ::Он смотрит на него, ожидая, что вы наконец передадите эту вещь ему.::<end>
+Тем не менее, текущая непригодность Жёлудя не уменьшает его ценности. ::Он смотрит на него, ожидая, что вы наконец передадите эту вещь ему.::<end>
 
 =>a86_original
 Here. You can take it. ::Give him the Acorn.::<end>
@@ -532,7 +532,7 @@ Here. You can take it. ::Give him the Acorn.::<end>
 ::Then he pauses.:: If you had brought this to the station sooner... ::He pauses yet again.:: its stay here would've been much shorter. For certain.<end>
 
 =>q87
-::Словно сканер, его глаз проходит над Жёлудем, анализируя каждую его особенность.:: Он останется здесь, в Инженерном отделе.
+::Словно сканер, его глаз проходит над Жёлудем, анализируя каждую его особенность.:: Он останется здесь, в инженерном отделе.
 
 ::Он делает паузу.:: Если бы вы принесли это на станцию немного раньше... ::Он снова делает паузу.:: То его пребывание здесь было бы намного короче. Определённо.<end>
 
@@ -608,7 +608,7 @@ At this point there is something that needs to be said: There is more than one A
 =>q98
 Не спрашивайте подробностей, я их не знаю. Но мне известны основы того, как функционирует Жёлудь: в его основе лежит искусственный интеллект, который контролирует миллиарды и миллиарды наноботов в своём распоряжении. Его назначение -- создавать то, что определено предварительно загруженными чертежами.
 
-И ещё кое-что: есть больше, чем один Жёлудь. Каждый из них создан для создания определённой вещи, затем доставлен по назначению, чтобы ожидать момента активации, защищённый пока ещё непобедимыми квантовыми замками ближнего поля.<end>
+И ещё кое-что: есть больше, чем один Жёлудь. Каждый из них был создан для решения определённой задачи, затем доставлен по назначению, чтобы ожидать момента активации, защищённый пока ещё непобедимыми квантовыми замками ближнего поля.<end>
 
 =>q99_original
 Acorns, they are not wasted on trivial things. They are made for *megaprojects* - machines and constructions massive in scale and importance and complexity - entire cities: Whatever the mind can conjure. 
@@ -624,7 +624,7 @@ Because within the Acorn there exists a mind that can realize.<end>
 Upon activation, the Acorn analyzes its surroundings: It can interact with it through its nanobotic limbs over which it has exceptional control. It will gather and process raw materials, but ultimately the nanobots are limited in what they can do on their own. So it needs to produce power, build machines so that it may build larger machines, more and more advanced - and even develop necessary technology so that it may progress and ultimately realize its prime directive - to finish the megaproject.<end>
 
 =>q100
-После активации Жёлудь анализирует своё окружение: он может взаимодействовать с ним через свои наноботические конечности с хирургической точностью. Он будет собирать и обрабатывать сырьё, но в конечном итоге наноботы ограничены в том, что они могут делать самостоятельно. Поэтому ему необходимо производить электроэнергию, строить машины, чтобы строить машины, всё более и более сложные, и даже разрабатывать необходимые технологии, чтобы развиваться и в конечном итоге выполнить свою главную директиву -- завершить мегапроект.<end>
+После активации, Жёлудь анализирует своё окружение: он может взаимодействовать с ним через своих наноботов с хирургической точностью. Он будет собирать и обрабатывать сырьё, но в конечном итоге наноботы ограничены в том, что они могут делать самостоятельно. Поэтому ему необходимо производить электроэнергию, строить машины, чтобы строить машины, всё более и более сложные, и даже разрабатывать необходимые технологии, чтобы развиваться и в конечном итоге выполнить свою главную директиву -- завершить мегапроект.<end>
 
 =>q101_original
 But when it comes to finishing the megaproject, there is an important clause: It need not be built to strict specification. The AI will substitute materials, rearrange elements according to need and what *it* thinks is proper with respect to the purpose of the megaproject and within certain confines, all of which it is aware of. 
@@ -632,9 +632,9 @@ But when it comes to finishing the megaproject, there is an important clause: It
 It will adapt to *anything* to complete its work: If the technology is already available, it will learn it. If the machines are there, it will use them. If there is someone willing to help - it will accept it. <end>
 
 =>q101
-Но когда дело дойдёт до завершения мегапроекта, есть важный пункт: он не обязательно будет построен в строгом соответствии с чертежами. ИИ будет заменять материалы, переставлять элементы в соответствии с потребностями и тем, что *он* считает правильным в отношении цели мегапроекта и в определённых пределах, которые ему заданы.
+Но когда дело дойдёт до завершения мегапроекта, есть важный пункт: он не обязательно будет построен в строгом соответствии с чертежами. ИИ будет заменять материалы, переставлять элементы в соответствии с потребностями и тем, что *он* считает правильным в отношении цели мегапроекта и в определённых границах, которые ему заданы.
 
-Он будет приспосабливаться к чему угодно, чтобы завершить свою работу: если технология уже доступна, он изучит её. Если машины есть, он будет их использовать. Если есть кто-то, кто хочет помочь - он примет это.<end>
+Он будет приспосабливаться к чему угодно, чтобы завершить свою работу: если технология уже доступна, он изучит её. Если есть машины, он будет их использовать. Если есть кто-то, кто хочет помочь, -- он примет помощь.<end>
 
 =>q102_original
 It is... alive. ::His single eye radiates cold fascination.:: And then once it finishes its work, it ceases to be.<end>
@@ -854,7 +854,7 @@ Six thousand credits.<end>
 You know what? Take it. ::Give him the Acorn.::<end>
 
 =>a137
-Знаете что... Забирайте так. ::Отдать ему Жёлудь.::<end>
+Знаете, что?.. Забирайте так. ::Отдать ему Жёлудь.::<end>
 
 =>a138_original
 I don't know how.<end>
@@ -878,7 +878,7 @@ Not yet, but I'm working on obtaining it.<end>
 I've known many who were looking for it - a box. A medium-sized box with the word ACoNR on it. And they all failed. If you happen to be the one that finds it, bring it to me. Then we'll talk further.<end>
 
 =>q141
-Я знал многих, кто искал этот ящик. Коробка средних размеров со словом АКоНР на ней. И все они потерпели неудачу. Если вам посчастливится найти его, принести мне. Тогда поговорим.<end>
+Я знал многих, кто искал этот ящик. Коробка средних размеров со словом АКоНР на ней. И все они потерпели неудачу. Если вам посчастливится найти его, принесите мне. Тогда поговорим.<end>
 
 =>a142_original
 No. I just heard about it and wondered if you knew something that could help me.<end>
@@ -902,7 +902,7 @@ Black Sea? Makes sense. <end>
 I learned about it during an expedition to the Black Sea.<end>
 
 =>a145
-Я узнал об этом во время экспедиции на Чёрное море.<end>
+Я узнал о нём во время экспедиции на Чёрное море.<end>
 
 =>a146_original
 Underrail holds many secrets, but they're not secret enough for me.<end>
@@ -992,7 +992,7 @@ How does the device you gave me exactly work?<end>
 The device is composed of a container that holds the larva you brought me and a psi amplifier. Once the device is activated, the creature's nervous system will become overloaded in order to elicit a psionic emission that should, when amplified, reach and summon the Beast. Based on previous psimorph research, I believe I'm able to filter and focus this emission in such a way that it can only be perceived by the larger creatures.<end>
 
 =>q160
-Устройство состоит из контейнера, который содержит нашу личинку, и пси-репродуктора. При включении устройства нервная система личинки будет перегружена, что вызовет псионическое излучение, которое должно приманить Зверя. На основе предыдущих исследований псиморфов, мне удалось сконфигурировать излучение таким образом, что оно может восприниматься только наиболее крупными существами.<end>
+Устройство состоит из контейнера, который содержит нашу личинку, и пси-репродуктора. При включении устройства, нервная система личинки будет перегружена, что вызовет псионическое излучение, которое должно приманить Зверя. На основе предыдущих исследований псиморфов, мне удалось сконфигурировать излучение таким образом, что оно может восприниматься только наиболее крупными существами.<end>
 
 =>q161_original
 It's complicated, but it should work if my calculations are right.<end>
@@ -1022,7 +1022,7 @@ What do you mean by "unusual"?<end>
 Unusual death. Very peaceful. Pasquale never discovered what caused it. I think he could have been more thorough with his autopsy, but I find it hard to blame him as one cannot blame a man for prioritizing the living over the dead.<end>
 
 =>q165
-Необычная смерть. Очень тихая. Паскуаль так и не установил причину. Я бы сказал, что ему следовало быть более тщательным при вскрытии, но мне трудно винить его за то, что он уделяет живым больше внимания, чем мёртвым.<end>
+Необычная смерть. Очень тихая. Паскуаль так и не установил причину. Я бы сказал, что ему следовало быть более тщательным при вскрытии, но мне трудно винить его за то, что он уделяет больше внимания живым, нежели мёртвым.<end>
 
 =>a166_original
 Can you tell me what he was like as a person?<end>
@@ -1098,7 +1098,7 @@ And you, why are you so interested in this subject?<end>
 Foundry is having difficulties with those creatures, as they are infesting their mine. But the real problem is the Beast, a creature identical to what I described, but larger, tougher and *much* meaner. As yet, there doesn't seem to be an apparent way to kill it. The creature, because of its heavy armor, is practically invulnerable, and nearly all who faced it lost their lives.<end>
 
 =>a177
-Литейная испытывает трудности с этими тварями, поскольку они парализовали работы на их шахте. Но настоящая проблема это Зверь -- существо, идентичное тому, которое я описал, но значительно больше, сильнее и *гораздо* злее. До сих пор никто не нашёл способа убить его. Существо имеет крепкую броню и практически неуязвимо, и почти все, кто сражался с ним, поплатились жизнью.<end>
+Литейная испытывает трудности с этими тварями, поскольку они парализовали работу на их шахте. Но настоящая проблема это Зверь -- существо, идентичное тем, которых я описал, но значительно больше, сильнее и *гораздо* злее. До сих пор никто не нашёл способа убить его. Существо имеет крепкую броню и практически неуязвимо, и почти все, кто сражался с ним, поплатились жизнью.<end>
 
 =>q178_original
 So you want to find a way to kill it. Very well. I understand everything now. 
@@ -1106,7 +1106,7 @@ So you want to find a way to kill it. Very well. I understand everything now.
 I'll tell you what you need to know.<end>
 
 =>q178
-Так, вы хотите узнать, как его убить? Хорошо. Теперь я всё понял.
+Так, вы хотите узнать, как его убить? Хорошо, теперь я всё понял.
 
 Я расскажу вам всё, что вам нужно знать.<end>
 
@@ -1300,7 +1300,7 @@ If this is true I'd like to learn from you.<end>
 ::He just keeps staring at you.::<end>
 
 =>q210
-::Он просто глядит на вас.::<end>
+::Он продолжает просто глядеть на вас.::<end>
 
 =>a211_original
 ::Stare back at him.::<end>
@@ -1312,7 +1312,7 @@ If this is true I'd like to learn from you.<end>
 ::At first nothing happens, and the two of you just stand there staring at each other. Your thoughts slowly start to drift away from what you are doing and you almost don't even notice that you're losing control of your own body.::<end>
 
 =>q212
-::Сначала ничего не происходит, и вы просто стоите и пялитесь друг на друга. Ваши мысли начинают медленно уплывать, и вы не замечаете как теряете контроль над собственным телом.::<end>
+::Сначала ничего не происходит, и вы просто стоите и пялитесь друг на друга. Постепенно, ваши мысли начинают медленно уплывать, и вы не замечаете, как теряете контроль над собственным телом.::<end>
 
 =>q213_original
 ::The world around you blurs away until the only thing you can clearly see is Ezra's one eye staring at you. It seems as if it's not looking at your face, but through it - into your mind.::<end>
@@ -1758,7 +1758,7 @@ You mentioned something about adaptation. What did you mean, precisely?<end>
 You see, the larva uses its psi energy to "cocoon" itself inside living or non-living entities and tailor its genetic make-up to support the organism's further development in accordance with what it's merging with. Inside, the larva develops into its adult form, and the resulting creature is fully integrated with the entity of choice. So, if the creature wants a rock shell, it will dig itself into a rock and fuse with it.<end>
 
 =>q285
-Видите ли, личинка использует свою пси-энергию, чтобы образовать кокон внутри живой или неживой материи и адаптировать свою генетическую структуру, чтобы поддержать дальнейшее развитие организма в соответствии с тем, с чем произошло слияние. Внутри личинка развивается во взрослую форму, и получившееся существо полностью едино с объектом слияния. Если она будет зарываться в скалу и образует внутри кокон, то в конечном счёте её панцирь будет состоять из скальных пород.<end>
+Видите ли, личинка использует свою пси-энергию, чтобы образовать кокон внутри живой или неживой материи и адаптировать свою генетическую структуру, чтобы поддерживать дальнейшее развитие организма в соответствии со средой, с которой произошло слияние. Внутри личинка развивается во взрослую форму, и получившееся существо полностью едино с объектом слияния. Если она будет зарываться в скалу и образует внутри кокон, то в конечном счёте её панцирь будет состоять из скальных пород.<end>
 
 =>a286_original
 Are they not, by any chance, called psimorphs?<end>
@@ -1888,11 +1888,10 @@ $(context.player.Name).<end>
 ::As he turns around to face you, you immediately notice there is something off with this man. His face is pale and hairless. He is missing one of his eyes and instead wires protrude from his eye socket, traveling over the side of his face and disappearing down the back of his neck. The other eye is almost colorless with the pupil so contracted that you question whether he can even see at all.::<end>
 
 =>q304
-::Когда он поворачивается к вам лицом, вы сразу же замечаете, что с этим мужчиной что-то не так. Его лицо бледное и на голове нет волос. У него отсутствует один глаз, а вместо него из глазницы торчат провода, тянущиеся к затылку. Второй глаз настолько бесцветный, что вы гадаете, может ли он вообще видеть.::<end>
+::Когда он поворачивается к вам лицом, вы сразу же замечаете, что с этим мужчиной что-то не так. Его лицо бледное, и на голове нет волос. У него отсутствует один глаз, а вместо него из глазницы торчат провода, тянущиеся к затылку. Второй глаз настолько бесцветный, что вы гадаете, может ли он вообще видеть.::<end>
 
 =>q305_original
 ::He speaks with a calm and even voice.:: Hello, $(context.player.Name). I am Ezra. I act as the head network administrator and chief of the entire engineering sector.<end>
 
 =>q305
-::Он говорит спокойным и монотонным голосом.:: Здравствуйте, $(context.player.Name). Меня зовут Эзра. Я занимаю должность главного системного администратора и начальника инженерного отдела.<end>
-
+::Он говорит спокойным и монотонным голосом: :: Здравствуйте, $(context.player.Name). Меня зовут Эзра. Я занимаю должность главного системного администратора и начальника инженерного отдела.<end>
