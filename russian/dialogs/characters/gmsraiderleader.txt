@@ -120,7 +120,7 @@ And suppose I let you live, what do you intend to do?<end>
 I'll look for a key or another way to open that door. I won't interfere with... whatever it is that you're doing here.<end>
 
 =>a20
-Буду искать ключ или другой способ открыть эту дверь. Я не буду вам мешать... чем бы вы здесь не занимались.<end>
+Буду искать ключ или другой способ открыть эту дверь. Я не буду вам мешать... чем бы вы здесь ни занимались.<end>
 
 =>q21_original
 ::He taps his chin, considering you offer.::<end>
@@ -132,7 +132,7 @@ I'll look for a key or another way to open that door. I won't interfere with... 
 Alright, I'm in a good mood today. You may go about your business, see if any of this rabble knows how your door work.<end>
 
 =>q22
-Ладно, я сегодня в хорошем настроении. Ты можешь заниматься своими делами. Вдруг, кто-то из этого сброда знает, как работает твоя дверь.<end>
+Ладно, я сегодня в хорошем настроении. Ты можешь заниматься своими делами. Возможно, кто-то из этого сброда знает, как работает твоя дверь.<end>
 
 =>q23_original
 But listen carefully because this is the only warning that you'll get: If you get in our way - we will waste you.<end>
@@ -144,7 +144,7 @@ But listen carefully because this is the only warning that you'll get: If you ge
 I'd still demand that you let these people go.<end>
 
 =>a24
-Я всё ещё требую, чтобы вы отпустили этих людей.<end>
+Я всё равно требую, чтобы вы отпустили этих людей.<end>
 
 =>q25_original
 ::He smirks at you.:: Wrong answer.<end>
@@ -210,7 +210,7 @@ I had enough of you. Waste this idiot!<end>
 Look around you. You are greatly outnumbered. I suggest you start being more cooperative or you won't be leaving this room alive.<end>
 
 =>q35
-Оглянись. Ты в меньшинстве. Я советую тебе стать сговорчивее, или ты не покинешь эту комнату жив$(#ым/ой).<end>
+Оглянись -- ты в меньшинстве. Я советую тебе стать сговорчивее, или ты не покинешь эту комнату жив$(#ым/ой).<end>
 
 =>a36_original
 I demand that you set these people free.<end>
@@ -246,11 +246,10 @@ Claims $(#he/she) didn't see him.<end>
 $(#His/Her) name is $(context.player.Name). <end>
 
 =>q41
-Е$(#го/ё) зовут $(context.player.Name).<end>
+Е$(#го/ё) зовут $(context.player.Name). <end>
 
 =>q42_original
 I don't know who the hell you are, but you chose a wrong party to crash, punk. Waste $(#him/her)!<end>
 
 =>q42
 Я не знаю, откуда ты так$(#ой/ая) вылез$(#/ла), но ты решил$(#/а) испортить не ту вечеринку, $(#сопляк/сучка). Убить е$(#го/ё)!<end>
-
