@@ -66,7 +66,7 @@ Then let me explain it, Efreitor: As soon as we're done here you are going to ta
 At. all. times.<end>
 
 =>q10
-Тогда позвольте мне объяснить, ефрейтор. Как только мы здесь закончим, вы соберёте своих рясофоров и отправитесь патрулировать Верхнюю Подземку; маршруты от В1 до Н5. Кража Достигающего показала, как мы уязвимы к перехвату наших курьеров Психотиками и другими дегенеративными подонками. Я хочу, чтобы в окрестностях Института стало безопасно круглосуточно.
+Тогда позвольте мне объяснить, ефрейтор. Как только мы здесь закончим, вы соберёте своих рясофоров и отправитесь патрулировать Верхнюю Подземку; маршруты от В1 до Н5. Кража Достигающего показала, как мы уязвимы к перехвату наших курьеров психотиками и другими дегенеративными подонками. Я хочу, чтобы в окрестностях Института стало безопасно круглосуточно.
 
 Круглосуточно!<end>
 
@@ -162,7 +162,7 @@ Now you on the other hand are exactly the opposite! You adapted yourself to the 
 =>q23
 $(context.player.Name), мне очень жаль, что вам пришлось видеть это; я не терплю такое... я даже не знаю, как описать... эм... такую некомпетентность. Вот адекватный термин.
 
-Вот вы, с другой стороны, совсем не так$(#ой/ая)! Вы прекрасно адаптировались к сложившейся ситуации; выпололи паразитов-Психотиков, вернули ценную статуэтку и достигли своей цели: вы стали полноправным членом нашего прекрасного учреждения. Отлично! Выживает сильнейший, разве нет?<end>
+Вот вы, с другой стороны, совсем не так$(#ой/ая)! Вы прекрасно адаптировались к сложившейся ситуации; выпололи паразитов-психотиков, вернули ценную статуэтку и достигли своей цели: вы стали полноправным членом нашего прекрасного учреждения. Отлично! Выживает сильнейший, разве нет?<end>
 
 =>q24_original
 Now, I have been dying to meet you, um, not literally of course; let us leave that to someone else. ::He laughs.:: I have work for you - a test if you will. But if you had some questions before we start, feel free to ask them now.<end>
@@ -1092,7 +1092,7 @@ I need someone to explore that utility station and secure it. "Someone..." ::He 
 If I get the chance to slay Lunatics, Faceless or other vermin - count me in!<end>
 
 =>a174
-Если я получу возможность убивать Психотиков, безликих и прочую нечисть -- я с вами!<end>
+Если я получу возможность убивать психотиков, безликих и прочую нечисть -- я с вами!<end>
 
 =>q175_original
 Wonderful! I was hoping for an enthusiastic response, and I wasn't let down! Now listen...<end>
@@ -1170,7 +1170,7 @@ Ah, great. Let's hear the report...<end>
 Your fears were justified: A large group of Lunatics has managed to get in the utility station through sludge-filled pipes. Some of them even got stuck inside and died.<end>
 
 =>a187
-Ваши опасения оправдались: большая группа Психотиков сумела пробраться на служебную станцию по заполненным илом трубам. Некоторые из них даже застряли внутри и погибли.<end>
+Ваши опасения оправдались: большая группа психотиков сумела пробраться на служебную станцию по заполненным илом трубам. Некоторые из них даже застряли внутри и погибли.<end>
 
 =>q188_original
 *Revolting* inbred ferals.
@@ -1222,7 +1222,7 @@ I took care of them - $(context.player.Name) style.<end>
 Well, the utility station is now full of Lunatic corpses. ::Grin.::<end>
 
 =>a195
-Ну, служебная станция теперь завалена трупами Психотиков. ::Ухмыльнуться.::<end>
+Ну, служебная станция теперь завалена трупами психотиков. ::Ухмыльнуться.::<end>
 
 =>a196_original
 And what?<end>
@@ -1240,7 +1240,7 @@ And what did you do about it, $(#brother/sister)?<end>
 Your fears were justified: A large group of Lunatics has managed to get inside the utility station.<end>
 
 =>a198
-Ваши опасения оправдались: большая группа Психотиков сумела пробраться на служебную станцию.<end>
+Ваши опасения оправдались: большая группа психотиков сумела пробраться на служебную станцию.<end>
 
 =>a199_original
 As a matter of fact, I already visited the utility station you told me about.<end>
@@ -1504,7 +1504,7 @@ It was a glorious time to be a Tchortist back then, many of our monsignors lived
 These Lunatics are really drawn to the Institute, it seems. First the figurine, then the utility station... Do you have a theory on what drives them to do that?<end>
 
 =>a242
-Похоже, этих Психотиков действительно тянет в Институт. Сначала статуэтка, потом служебная станция... Есть идеи, что заставляет их это делать?<end>
+Похоже, этих психотиков действительно тянет в Институт. Сначала статуэтка, потом служебная станция... Есть идеи, что заставляет их это делать?<end>
 
 =>q243_original
 Please, I'd rather not discuss the motives of those... inbred ferals. Their actions are a product of their devolved minds and, as such, are devoid of reasoning and logic. Therefore, why try to understand something which cannot be understood? Agree, no?<end>

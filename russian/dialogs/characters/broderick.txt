@@ -26,13 +26,13 @@ I need a lift to SGS.<end>
 I don't ferry jet skis, in case you were thinking of bringing yours with us.<end>
 
 =>q5
-Я не переправляю гидроциклы на случай, если вы подумали «привезти» ваши.<end>
+Я не переправляю гидроциклы -- на случай, если вы думали захватить свой.<end>
 
 =>q6_original
 You want a lift, you leave your jet behind.<end>
 
 =>q6
-Если хочешь, чтобы тебя подвезли, оставь свой гидроцикл.<end>
+Если нужна перевозка, -- слезайте с гидроцикла.<end>
 
 =>q7_original
 Alright. It'll cost you twenty charons.<end>
@@ -62,7 +62,7 @@ Alright, jump aboard.<end>
 On second thought, I'd rather walk.<end>
 
 =>a11
-Если подумать, то я лучше пойду пешком.<end>
+Если подумать, я лучше пойду пешком.<end>
 
 =>q12_original
 Alright, that I can do. It'll cost you ten charons.<end>
@@ -104,7 +104,7 @@ Good, jump aboard.<end>
 ::Sail to Camp Hathor.::<end>
 
 =>a18
-::Плыть в лагерь Хатор.::<end>
+::Плыть в Лагерь Хатор.::<end>
 
 =>q19_original
 Can do. That'll cost you twenty-five charons, though.<end>
@@ -176,7 +176,7 @@ So, Silas found someone derailed enough after all. Look I'll take you there, but
 What's so scary about that place?<end>
 
 =>a30
-Что такого страшного в этом месте?<end>
+Что такого страшного в том месте?<end>
 
 =>q31_original
 Well, I ain't of the superstitious kind. I mostly dismiss the derailed sailor tales on account of them being products of eating too many mushroom cupcakes, if you know what I mean.<end>
@@ -212,19 +212,19 @@ This one time I was sailing back from Core City when I started having problems w
 So I anchored at this nearby place the sailors call Silent Isle. I heard tales of it being cursed and how anyone who spends too much time there is never seen again, and such nonsense. But that didn't scare me. The only thing I cared about is whether there were pirates there, and as far as I could tell there weren't any.<end>
 
 =>q36
-Так что я бросил якорь в месте, которое моряки называют Молчащим островом. Я слышал байки, что это место проклято, и тех, кто провёл там слишком много времени, больше никто не видел, ну и подобную чепуху. Но это не испугало меня. Единственное, что меня беспокоило -- нет ли там пиратов, и, насколько я мог судить, их там не было.<end>
+Так что, я бросил якорь в месте, которое моряки называют Молчащим островом. Я слышал байки, что это место проклято, и тех, кто провёл там слишком много времени, больше никто не видел, ну и подобную чепуху. Но это не испугало меня. Единственное, что меня беспокоило -- нет ли там пиратов, и, насколько я мог судить, их там не было.<end>
 
 =>q37_original
 I turned off the engine and main lights because I didn't want to be seen and I also didn't want them to drain the battery before I could finish the repairs.<end>
 
 =>q37
-Я выключил двигатель и прожектора, потому что не хотел, чтобы меня заметили и чтобы батарея разрядилась прежде чем я закончу ремонт.<end>
+Я выключил двигатель и прожектора, потому что не хотел, чтобы меня заметили и чтобы батарея разрядилась прежде, чем я закончу ремонт.<end>
 
 =>q38_original
 So I was working there in silence with just a flashlight on so I could see what I was doing. It took me hours to fix the converter, but I managed to do it.<end>
 
 =>q38
-Так я и работал там в тишине, с осветительной вспышкой, света которой хватало только, чтобы видеть, что я делаю. У меня ушло несколько часов, чтобы починить трансформатор, но мне это удалось.<end>
+Так я и работал там в тишине, с осветительной вспышкой, света которой хватало только чтобы видеть, что я делаю. У меня ушло несколько часов, чтобы починить трансформатор, но мне это удалось.<end>
 
 =>q39_original
 I powered up the engine and started to retract the anchor.<end>
@@ -266,7 +266,7 @@ I didn't know what to do. I just stood there staring at him and listening to the
 And as soon as the anchor was up, I pushed the throttle and raced out of there.<end>
 
 =>q45
-И как только якорь поднялся, я нажал на газ и понёсся оттуда.<end>
+И, как только якорь поднялся, я нажал на газ и понёсся оттуда.<end>
 
 =>q46_original
 And nowadays I just steer clear of that island altogether.<end>
@@ -278,13 +278,13 @@ And nowadays I just steer clear of that island altogether.<end>
 Damn, listening to that gave me the heebie-jeebies.<end>
 
 =>a47
-Блин, от этой истории у меня мурашки.<end>
+Блин, от этой истории у меня мурашки по коже.<end>
 
 =>q48_original
 ::He nods.:: Yeah. So you sure you want to go there after all?<end>
 
 =>q48
-::Он кивает.:: Да. Так, вы уверены, что всё ещё хотите туда?<end>
+::Он кивает.:: Ага. Так, вы уверены, что всё ещё хотите туда?<end>
 
 =>q49_original
 <end>
@@ -338,7 +338,7 @@ It'll cost you a hundred charons.<end>
 Deal. ::Pay 100 stygian coins.::<end>
 
 =>a57
-Возьмите. ::Заплатить 100 стигийских монет.::<end>
+По рукам. ::Заплатить 100 стигийских монет.::<end>
 
 =>a58_original
 Forget it.<end>
@@ -362,7 +362,7 @@ It'll cost you fifty charons.<end>
 Deal. ::Pay 50 stygian coins.::<end>
 
 =>a61
-Возьмите. ::Заплатить 50 стигийских монет.::<end>
+По рукам. ::Заплатить 50 стигийских монет.::<end>
 
 =>a62_original
 I'd like to hear the story of Silent Isle after all.<end>
@@ -404,7 +404,7 @@ Not a bad story, but I expected something scarier.<end>
 Well maybe this time around it'll be. You ready to set sail?<end>
 
 =>q68
-Ну, может, в этот раз так и будет. Вы готовы отправиться в плавание?<end>
+Ну, может, в этот раз так оно и будет. Вы готовы отправиться в плавание?<end>
 
 =>a69_original
 You call that scary? That story almost put me to sleep.<end>
@@ -482,7 +482,7 @@ I need to go to Silent Isle again.<end>
 I need some sailing directions.<end>
 
 =>a81
-Мне нужно знать куда плыть.<end>
+Мне нужно узнать водный маршрут.<end>
 
 =>q82_original
 Name the place.<end>
@@ -506,13 +506,13 @@ Core City.<end>
 North. Just go north. When the water turns green you'll know you're near.<end>
 
 =>q85
-Север. Просто иди на север. Когда вода станет зелёной, вы будете знать, что вы рядом.<end>
+На север. Прямо на север. Когда вода позеленеет, осталось уже не далеко.<end>
 
 =>q86_original
 And keep your eyes peeled, with all the recent goings-on.<end>
 
 =>q86
-И держите глаза открытыми, в связи с последними событиями.<end>
+И не зевайте, в связи с последними событиями.<end>
 
 =>q87_original
 Anything else?<end>
@@ -530,7 +530,7 @@ Camp Hathor.<end>
 Go south then east through the Meatway. Once you reach Isaac's River, head north. Camp Hathor's on the western bank.<end>
 
 =>q89
-Идите на юг, затем на восток через Мясной путь. Как только вы достигнете реки Исаака, направляйтесь на север. Лагерь Хатхор находится на Западном берегу.<end>
+Это на юг, затем на восток через Мясной путь. Как только вы достигнете реки Исаака, направляйтесь на север. Лагерь Хатор находится на западном берегу.<end>
 
 =>a90_original
 South Gate Station.<end>
@@ -542,19 +542,19 @@ South Gate Station.<end>
 It's just across the Chancer's Bay.<end>
 
 =>q91
-Это как раз через залив Аферистов.<end>
+Это как раз через Залив аферистов.<end>
 
 =>q92_original
 You should know that.<end>
 
 =>q92
-Ты должен это знать.<end>
+Вам ли этого не знать?<end>
 
 =>a93_original
 There was something else...<end>
 
 =>a93
-Было ещё кое-что...<end>
+Ещё кое-что...<end>
 
 =>q94_original
 Yeah?<end>
@@ -566,7 +566,7 @@ Yeah?<end>
 Thanks. Off I go.<end>
 
 =>a95
-Спасибо. Я ухожу.<end>
+Спасибо. Я пойду.<end>
 
 =>a96_original
 Do you know anything about the Black Sea?<end>
@@ -590,13 +590,13 @@ Derailed? Why?<end>
 People say it's just superstition, that folks like us are just too credulous, but things ain't right there, ain't right. I've heard stories of people who'd been there and returned... different, weren't themselves anymore. Like Lunatics, they'd be raving about things... things I'd rather not even mention. Some had been found mutilated, but by their own hand and not someone else's. They'd have many cuts on their skin, and there'd be animal bones and various ornaments driven into their flesh.<end>
 
 =>q99
-Другие говорят, что это всего лишь предрассудки, что такие как я слишком суеверны, но там что-то не так, совсем не так. Я слышал истории про людей, которые возвращались оттуда... другими, больше не собой. Как Психотики, они несли бред про... даже не хочу говорить, про что. Некоторых находили изуродованными, но не от чужой руки, а от собственной. У них вся кожа была в порезах, а в них были засунуты рыбьи кости и всякие украшения.<end>
+Другие говорят, что это всего лишь предрассудки, что такие как я слишком суеверны, но там что-то не так, совсем не так. Я слышал истории про людей, которые возвращались оттуда... другими, больше не собой. Как психотики, они несли бред про... даже не хочу говорить, про что. Некоторых находили изуродованными, но не от чужой руки, а от собственной. У них вся кожа была в порезах, а в них были засунуты рыбьи кости и всякие украшения.<end>
 
 =>q100_original
 People fear the pirates, and that is justified. They are scum, pure scum. And, yes, people are afraid of the ferocious beasts that live there. That's justified as well. But those things can be shot at, chopped up and burned - killed, those things can be killed. I fear things that can't be. Things... that make people cross to the other side of the rails, you dig. How the pirates can live there is beyond me, but I'd stay away even if I knew, because you actually never *really* know.<end>
 
 =>q100
-Все боятся пиратов, и тут нет ничего удивительного. Они сволочи, просто сволочи. А ещё все боятся опасных тварей, которые там водятся. Это тоже понятно. Но от всего такого можно не защититься пулями, ножами и огнём -- убить, их можно убить. Я боюсь того, что нельзя убить. Вещей... от которых у людей пересекаются рельсы, сечёшь? Не знаю, как пираты могут жить там, но даже если бы и знал, я бы туда не совался, потому что как знать, что там *на самом* деле.<end>
+Все боятся пиратов, и тут нет ничего удивительного. Они сволочи, просто сволочи. А ещё все боятся опасных тварей, которые там водятся. Это тоже понятно. Но от всего такого можно защититься пулями, ножами и огнём -- убить, их можно убить. Я боюсь того, что нельзя убить. Вещей... от которых у людей пересекаются рельсы, сечёшь? Не знаю, как пираты могут жить там, но даже если бы и знал, я бы туда не совался, потому что как знать, что там *на самом* деле.<end>
 
 =>q101_original
 ::He looks around nervously.::
@@ -606,7 +606,7 @@ Even talking about it is giving me the creeps. If you wanted to ask me to take y
 =>q101
 ::Он нервно оглядывается по сторонам::
 
-У меня волосы дыбом встают от одного разговора об этом. Если вы хотели попросить меня доставить вас туда, мой ответ: «Ни за что!» А теперь давайте сменим тему...<end>
+У меня волосы дыбом встают от одного разговора об этом. Если вы хотели попросить меня доставить вас туда, мой ответ: «Ни за что»! А теперь давайте сменим тему...<end>
 
 =>a102_original
 I need to get to Forsaken Island.<end>
@@ -618,7 +618,7 @@ I need to get to Forsaken Island.<end>
 Forsa--!? Forget about it. Silent Isle's, there I can take people. But Forsaken Island? No. No one goes there and neither will I. Sorry. Anywhere else?<end>
 
 =>q103
-Покинутый?!.. Даже не думайте. Молчащий остров -- туда я ещё могу доставить. Но на Покинутый? Нет. Туда никто не ходит, и я тоже. Извините. Желаете куда-нибудь ещё?<end>
+Покинутый?!. Даже не думайте. Молчащий остров -- туда я ещё могу доставить, но на Покинутый? Нет. Туда никто не ходит, и я тоже. Извините. Желаете куда-нибудь ещё?<end>
 
 =>a104_original
 But I really need to get there.<end>
@@ -660,7 +660,7 @@ All prices have been doubled. Blame that scum of the waterways, the Grim Jetters
 Where'd you get that thing? I ain't towin' that thing with us.<end>
 
 =>q110
-Где ты взял эту штуку? Я не буду тащить это с собой.<end>
+Где вы взяли эту штуку? Я не собираюсь это тащить с собой.<end>
 
 =>q111_original
 Ready to go back?<end>
@@ -732,11 +732,10 @@ Couldn't find the cargo, let's go back.<end>
 Fine by me.<end>
 
 =>q122
-Меня устраивает.<end>
+Меня это устраивает.<end>
 
 =>a123_original
 I'm off to have a look around.<end>
 
 =>a123
 Я схожу осмотрюсь.<end>
-

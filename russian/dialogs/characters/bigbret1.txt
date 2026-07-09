@@ -14,7 +14,7 @@ Yes.<end>
 Good! Some people around here never check their damn mail. Irresponsible, if you ask me. Now,<end>
 
 =>q3
-Отлично! Некоторые здесь никогда не даже проверяют свою почту. Если хочешь знать моё мнение, это просто безответственно. Кстати,<end>
+Отлично! Некоторые здесь никогда даже не проверяют свою почту. Если хочешь знать моё мнение, это просто безответственно. Кстати,<end>
 
 =>q4_original
  you've heard of Camp Hathor, right?<end>
@@ -32,7 +32,7 @@ Yeah. In fact, I've been there recently.<end>
 Really? Great: That's exactly what I wanted to talk to you about. We've lost communication with them after the earthquake, and I wanted to ask you to go there and check out what's going on. So, what's the situation?<end>
 
 =>q6
-Правда? Отлично, именно об этом я и хотел с тобой поговорить. Мы потеряли связь с ними после землетрясения, и я хотел попросить тебя сходить туда и проверить, что происходит. Итак, что там с ними?<end>
+Правда? Отлично, именно об этом я и хотел с тобой поговорить. Мы потеряли связь с ними после землетрясения, и я хотел попросить тебя сходить туда и проверить, что происходит. Итак, что у них там?<end>
 
 =>a7_original
 Everything is alright. The camp wasn't damaged in the earthquake, and they'll fix the communication lines soon. They also had some burrower issues, but now that it's all sorted, the camp is functioning as usual.<end>
@@ -290,7 +290,7 @@ I changed my mind and went to check out what's going on at Camp Hathor.<end>
 Glad to hear that. So, what's happening at Camp Hathor?<end>
 
 =>q49
-Рад это слышать. Так, что происходит в лагере Хатор?<end>
+Рад это слышать. Так, что случилось в лагере Хатор?<end>
 
 =>a50_original
 What do you know about Patrick Pierce's death?<end>
@@ -330,7 +330,7 @@ I don't know how he messed up, but I specifically told him to test it and to be 
 Tell me about Camp Hathor again...<end>
 
 =>a55
-Расскажи мне про лагерь Хатор ещё раз...<end>
+Расскажи мне про Лагерь Хатор ещё раз...<end>
 
 =>q56_original
 Okay. Camp Hathor is a hunting camp situated not too far to the east, past the old battery recycling plant if you're going on foot, or south through the Meatway then north up Isaac's River if taking the waterways. It used to be a mining camp, but after the coal mine was closed, some miners stayed there and began hunting and exporting animal meat. They supply us with a good chunk of the meat we consume here.<end>
@@ -348,7 +348,7 @@ All clear?<end>
 The thing is, we've lost contact with them after the earthquake. I'd like you to go there and see what's going on. See if everything's okay.<end>
 
 =>q58
-Дело в том, что мы потеряли с ними связь после землетрясения. Я бы попросил тебя сходить туда и посмотреть, что происходит -- проверить, всё ли у них в порядке.<end>
+Дело в том, что мы потеряли с ними связь после землетрясения. Я попросил бы тебя сходить туда и посмотреть, что происходит -- проверить, всё ли у них в порядке.<end>
 
 =>a59_original
 Sure, I'll check it out.<end>
@@ -384,7 +384,7 @@ Okay. You know where to find me.<end>
 Meh, not interested. Find someone else.<end>
 
 =>a64
-Мне это неинтересно. Найди кого-нибудь другого. <end>
+Мне это неинтересно. Найди кого-нибудь другого.<end>
 
 =>q65_original
 Oh, I see, I see. Still, if the road leads you there for whatever reason, report your findings back to me. Got that?<end>
@@ -506,7 +506,7 @@ It's in the storage room. That's the room with two double-doored entrances just 
 =>q83
 Коллега-охотни$(#к/ца), как я погляжу.
 
-Всё на складе. Это комната с двумя двухстворчатыми дверями прямо напротив. Там ты найдёшь всё, что нужно.<end>
+Всё на складе. Это комната с двумя двустворчатыми дверями прямо напротив. Там ты найдёшь всё, что нужно.<end>
 
 =>q84_original
 Your hunting ground is the Mushroom Cove. Head south from the Crossroad Watch until you reach a waterfall. Go past the waterfall and take the western tunnel in a cave after it. Now, you'll come across a big cavern with a lake. That's the Cove. I'll need three healthy specimens. Good luck.<end>
@@ -692,7 +692,7 @@ Anyway, here's what you need to do to capture some hoppers.
 <end>
 
 =>q111
-В общем, вот что тебе нужно, чтобы ловить пещерников.
+В общем, вот что тебе нужно, чтобы ловить пещерников...
 
 <end>
 
@@ -730,7 +730,7 @@ What are your thoughts on the Faceless invasion?<end>
 I don't know much about the Faceless. Hell, no one does. I wonder if all these years they've kept to themselves in the low tunnels they were actually just amassing for an invasion.<end>
 
 =>q117
-Я не много знаю про безликих. Да никто не знает. Что, если все эти годы, пока они прятались в нижних туннелях, они на самом деле накапливали силы для вторжения?<end>
+Я не многое знаю про безликих. Да никто не знает. Что, если все эти годы, пока они прятались в нижних туннелях, они на самом деле накапливали силы для вторжения?<end>
 
 =>q118_original
 That's about it. They never presented themselves as a threat, they lived in the places no sane human would want to live, leaving all the good habitat to us. They made sure we know next to nothing about them, their technology, culture, motivations, numbers.<end>
@@ -880,7 +880,7 @@ Maybe. Can't remember right now.<end>
 Ah, yes, you don't remember. Check your mail from now on please. You might miss *something* important. Now, <end>
 
 =>q142
-Ах, да, не помнишь. Проверяй свою почту время от времени, пожалуйста. А то можешь пропустить что-нибудь важное. Короче,<end>
+Ах, да, не помнишь. Проверяй свою почту время от времени, пожалуйста. А то можешь пропустить что-нибудь важное. Короче, <end>
 
 =>a143_original
 What mail? I received nothing concerning Camp Hathor from you.<end>
@@ -898,7 +898,7 @@ I'm sure I've sent you an e-mail... Never mind, I'll check later. Now,<end>
 The things that happen in this station... <end>
 
 =>q145
-Что творится на этой станции... <end>
+Что творится на этой станции?.. <end>
 
 =>q146_original
 You got those drill parts by digging through Junkyard, I hear. You really are the errand $(#boy/girl) of this station.<end>
@@ -1040,7 +1040,7 @@ Impressive.<end>
 Indeed. So what can I do you for?<end>
 
 =>q166
-Действительно. Так, что я могу для тебя сделать?<end>
+Ещё бы. Так, что я могу для тебя сделать?<end>
 
 =>a167_original
 I see.<end>
@@ -1113,4 +1113,3 @@ I understand.<end>
 
 =>a178
 Я понимаю.<end>
-

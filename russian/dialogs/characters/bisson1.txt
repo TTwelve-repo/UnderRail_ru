@@ -370,7 +370,7 @@ Also, while most psionic mentors are safe if used properly, some use low-quality
 =>q59
 Я предпочитаю... естественный способ. Мне он подходит больше. Импринтинг может и служит кратчайшим путём к способностям, но не к мудрости.
 
-Кроме того, хотя большинство псионических наставников и безопасны при правильной эксплуатации, некоторые используют низкокачественные или модифицированные устройства и в итоге сходят с рельсов, подобно Психотикам. Помнится... недавно я слышал историю о каких-то торчках, которые использовали их совсем не ради псионики, а серьёзно модифицировали, чтобы словить какой-то... кайф.<end>
+Кроме того, хотя большинство псионических наставников и безопасны при правильной эксплуатации, некоторые используют низкокачественные или модифицированные устройства и в итоге сходят с рельсов, подобно психотикам. Помнится... недавно я слышал историю о каких-то торчках, которые использовали их совсем не ради псионики, а серьёзно модифицировали, чтобы словить какой-то... кайф.<end>
 
 =>q60_original
 But that is a whole different story. Again, if you obtain them from reliable sources, they are safe to use, friend.<end>
@@ -466,7 +466,7 @@ And Tanner was, I think, the biggest mystery out of all the odd people in this s
 You mentioned Lunatics. What can you tell me about them?<end>
 
 =>a75
-Ты упомянул Психотиков. Что ты можешь рассказать мне о них?<end>
+Ты упомянул психотиков. Что ты можешь рассказать мне о них?<end>
 
 =>q76_original
 A gang of - lunatics. Pretty much. They are all capable of invoking psionics, but that comes at the cost of their minds. Some say they became that way due to overdosing on psi-enhancing concoctions and strong inhalants, others say it's due to cerebral imprinting gone wrong. And there are other stories as well. 
@@ -474,9 +474,9 @@ A gang of - lunatics. Pretty much. They are all capable of invoking psionics, bu
 You'll hear a lot about Lunatics, but one thing always rings true - they are not to be underestimated.<end>
 
 =>q76
-Банда Психотиков -- имя говорит само за себя. Они все используют псионику, и у каждого от неё крыша набекрень. Некоторые говорят, что это всё из-за передозировки пси-усиливающими концентратами и сильнодействующими ингалянтами, другие говорят, что это последствия церебрального импринтинга. Всякое рассказывают.
+Банда психотиков -- имя говорит само за себя. Они все используют псионику, и у каждого от неё крыша набекрень. Некоторые говорят, что это всё из-за передозировки пси-усиливающими концентратами и сильнодействующими ингалянтами, другие говорят, что это последствия церебрального импринтинга. Всякое рассказывают.
 
-Ты наверняка много ещё услышишь про Психотиков, но одно точно -- их не следует недооценивать.<end>
+Ты наверняка много ещё услышишь про психотиков, но одно точно -- их не следует недооценивать.<end>
 
 =>q77_original
 They are rare here in the southern parts, but as you begin to approach Core City, and especially once you go to Upper Underrail, that's where you're most likely to encounter them.<end>
@@ -547,4 +547,3 @@ Ah, $(context.player.Name), I believe. <end>
 
 =>q87
 Ах, да -- $(context.player.Name), кажется? <end>
-
