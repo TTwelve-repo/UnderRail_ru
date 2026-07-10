@@ -4,7 +4,7 @@
 Ah, $(context.player.Name), good to finally meet you. I'm Malcom. How can I help you?<end>
 
 =>q1
-::Мужчина встречает вас с лёгкой улыбкой.::
+::Мужчина встречает вас радушной улыбкой: ::
 
 А, $(context.player.Name), рад наконец-то познакомиться. Я Мальком. Чем могу помочь?<end>
 
@@ -18,43 +18,43 @@ Ah, $(context.player.Name), good to finally meet you. I'm Malcom. How can I help
 Know anything about that scavenger from Mushroom Cove?<end>
 
 =>a3
-Знаешь что-нибудь об этом мусорщике из Грибной бухты?<end>
+Вам известно что-нибудь о том мусорщике из Грибной бухты?<end>
 
 =>q4_original
 Well, one of the guards found <end>
 
 =>q4
-Ну, один из охранников обнаружил<end>
+Ну, один из охранников обнаружил <end>
 
 =>q5_original
 him <end>
 
 =>q5
-его<end>
+его <end>
 
 =>q6_original
 there, dying, just as I was starting my shift some hours ago. <end>
 
 =>q6
-там, почти при смерти, как раз, когда я заступал на смену, несколько часов назад.<end>
+на земле, уже при смерти, как раз, когда я заступал на смену несколько часов назад.<end>
 
 =>q7_original
 $(tempContext.wasteWaterPronounCap) <end>
 
 =>q7
-$(tempContext.wasteWaterPronounCap)<end>
+<end>
 
 =>q8_original
 was horribly mutated, covered in green tumors and all. <end>
 
 =>q8
-тело было покрыто ужасными мутациями, с зелёными наростами, и всё такое.<end>
+Тело имело признаки ужасных мутаций -- всё в зелёных наростах и тому подобное. <end>
 
 =>q9_original
 Terrible things happen out there all the time, but this $(context.frag_dun_wasteWater_corpseGender) was still alive when $(tempContext.wasteWaterPronoun) was brought through here. Now that's something you don't see often. Sadly, that didn't last, as $(tempContext.wasteWaterPronoun) died before reaching the medical level, though.<end>
 
 =>q9
-Там постоянно происходят ужасные вещи. Говорят, что $(tempContext.wasteWaterPronoun) привезли к нам ещё с признаками жизни. Но такое редкость и, к сожалению, это не продлилось долго, так как $(tempContext.wasteWaterPronoun)... вообщем, не успели довезти до медицинского уровня.<end>
+Снаружи постоянно творится какой-то ужас, но такое не часто увидишь. Мне сказали, что сначала признаки жизни еще были, но до медицинского уровня довезли уже бехдыханное тело.<end>
 
 =>a10_original
 Did he manage to say who did this to him?<end>
@@ -66,13 +66,13 @@ Did he manage to say who did this to him?<end>
 No. Mushroom Cove's full of psi beetles<end>
 
 =>q11
-Нет. Грибная Бухта полна пси-жуками<end>
+Нет. В Грибной бухте полно пси-жуков<end>
 
 =>q12_original
 . Could be them, as they got some nasty psi abilities at their disposal, but the way this scavenger's been hurt... it's somewhat different from anything I've seen the beetles do.<end>
 
 =>q12
-. Возможно, это они, так как у них есть неприятные пси-способности, но что касается ран на теле... это несколько отличается от всего, что я знаю о жуках.<end>
+. Возможно, это они, ведь у них есть всякие неприятные пси-способности, но, судя по ранам на теле... это не укладывается в то, что я знаю о жуках.<end>
 
 =>q13_original
 <end>
@@ -90,19 +90,19 @@ How do I get to Mushroom Cove?<end>
 It's a wet cave a bit south from here. <end>
 
 =>q15
-Сырая пещера немного южнее отсюда.<end>
+Это сырая пещера недалеко к югу отсюда.<end>
 
 =>q16_original
 But I'd advise against going there right now, $(context.player.Name). It's a dangerous place for a rookie.<end>
 
 =>q16
-Но я бы не советовал туда идти, $(context.player.Name). Для новичка это место опасно.<end>
+Но я бы не советовал вам туда ходить, $(context.player.Name). Это опасное место для новичков.<end>
 
 =>q17_original
 But don't you get any strange ideas, $(context.player.Name). It's a dangerous place...<end>
 
 =>q17
-Но только никаких странных идей, $(context.player.Name). Это опасное место...<end>
+Но не теряйте бдительности, $(context.player.Name). Это опасное место...<end>
 
 =>a18_original
 That's everything I needed to know.<end>
@@ -114,7 +114,7 @@ That's everything I needed to know.<end>
 ::He nods.:: Heading out?<end>
 
 =>q19
-::Он кивает.:: Выходишь?<end>
+::Он кивает.:: Уходите?<end>
 
 =>a20_original
 That's everything I needed to know. I need to get out into the caves.<end>
@@ -146,13 +146,13 @@ Now listen here, this is the procedure...<end>
 When you want to leave, you let me know and I'll open the inner gate. You then step into the transition room. Then I close the inner gate and open the outer gate and off you go.<end>
 
 =>q23
-Когда вы хотите выйти, дайте мне знать, и я открою внутренние ворота. Вы тогда заходите в комнату перехода. После чего, я закрываю внутренние ворота и открываю внешние -- и вперёд.<end>
+Когда вы хотите выйти, дайте мне знать, и я открою внутренние ворота. После этого вы можете зайти в комнату перехода. Затем я закрываю внутренние ворота и открываю внешние, -- и вперёд.<end>
 
 =>q24_original
 Alright, now, when you want to get back in, use the card I gave you on the console outside. Stand in front of the camera so I can confirm it's you. Then I'll open the outer gate.<end>
 
 =>q24
-Ладно, теперь, когда вы захотите вернуться, приложите карту, что я вам дал, к консоли снаружи. Стойте перед камерой, чтобы я мог убедиться, что это вы. После чего я открою внешние ворота.<end>
+Ладно, теперь... когда вы захотите вернуться, приложите карту, что я вам дал, к консоли снаружи. Стойте перед камерой, чтобы я мог убедиться, что это вы. Я открою для вас внешние ворота.<end>
 
 =>q25_original
 Earlier, we used to do bioscanning everytime someone passed, but since no one ever showed up positive, it became a nuisance.<end>
@@ -194,7 +194,7 @@ So, you going or what?<end>
  but this doesn't look like a product of their psionics. <end>
 
 =>q31
-но совсем не похоже на продукт их псионики.<end>
+ но это совсем не похоже на результат действия их псионики. <end>
 
 =>a32_original
 Did she manage to say who did this to her?<end>
@@ -206,37 +206,37 @@ Did she manage to say who did this to her?<end>
 was severely burnt, smelled horribly. <end>
 
 =>q33
-тело по видимому получило сильные ожоги, а запах... ужасно.<end>
+Тело было сильно обожжено, а уж запах... просто ужас. <end>
 
 =>q34_original
 had so many gunshot wounds it was impossible to count them all. <end>
 
 =>q34
-тело по видимому получило множество огнестрельных ранений, и их было столько, что и не сосчитаешь.<end>
+На теле было столько огнестрельных ранений, что и не сосчитаешь. <end>
 
 =>q35_original
 was badly electrocuted, smelled horribly. <end>
 
 =>q35
-видимо, ударило электричеством, а запах... просто ужас. <end>
+На теле были ожоги от электричества, а уж запах... просто ужас. <end>
 
 =>q36_original
 was horribly mauled by something, with bits of flesh dangling off. Wasn't psi beetles, that's for sure. <end>
 
 =>q36
-тело по видимому получило ужасные увечья, плоть свисала кусками. Это уж точно сделали не пси-жуки.<end>
+Тело было страшно изувечено, плоть свисала кусками. Это уж точно сделали не пси-жуки. <end>
 
 =>q37_original
 was missing patches of hair and skin - the skull was showing. But that face... like $(tempContext.wasteWaterPronoun)'s been through living hell. <end>
 
 =>q37
-голова была с отсутствующими клочьями волос и кожи... череп был виден. А $(tempContext.wasteWaterPronoun) лицо... словно... лицо человека, прошедшего через ад.<end>
+С головы местами была содрана кожа, было видно череп. А выражение лица... словно у человека, прошедшего через ад. <end>
 
 =>q38_original
 her <end>
 
 =>q38
-её<end>
+её <end>
 
 =>a39_original
 I need to get out into the caves.<end>
@@ -260,7 +260,7 @@ Open the gate, please. I'm off to the caves.<end>
 ::He nods.:: Oh, and here's a tip for you: If you find yourself surrounded by rathounds, use flares to scare them away. They'll be back, though, so try not to stick around.<end>
 
 =>q42
-::Он кивает.:: О, и вот вам совет: если окажетесь в окружении крысоволков, бросьте вспышку, чтобы их отпугнуть. Но они вернутся, так что постарайтесь не задерживаться.<end>
+::Он кивает.:: О, и вот вам совет: если вас окружат крысоволки, бросьте вспышку, чтобы их отпугнуть. Но они скоро вернутся, так что постарайтесь там не задерживаться.<end>
 
 =>a43_original
 Thanks, I'll keep that in mind.<end>
@@ -296,13 +296,13 @@ I want to stomp them out, not scare them away.<end>
 Well then... try not to lose a foot. <end>
 
 =>q48
-Ну тогда... постарайся не потерять ногу.<end>
+Ну, тогда... постаратесь не потерять ногу. <end>
 
 =>a49_original
 Not right now.<end>
 
 =>a49
-Пока.<end>
+Не сейчас.<end>
 
 =>q50_original
 $(context.player.Name), where have you been all this time? Vera's been looking for you. You should go to her office as soon as possible.<end>
@@ -324,7 +324,7 @@ Just go to her.<end>
 =>q52
 Не знаю, но что-то происходит, $(context.player.Name). Я никогда не видел её такой. 
 
-Просто идите к ней.<end>
+Просто зайдите к ней.<end>
 
 =>a53_original
 I will. See you later.<end>
@@ -336,7 +336,7 @@ I will. See you later.<end>
 You aren't planning on disappearing like Tanner did, right? ::He chuckles.:: Ignore that.<end>
 
 =>q54
-Вы не планируете исчезнуть, как это сделал Таннер, верно? ::Он хихикает.:: Не обращайте внимания.<end>
+Вы не планируете исчезнуть, как это сделал Таннер, я надеюсь? ::Он хихикает.:: Не обращайте внимания.<end>
 
 =>q55_original
 You be careful out there. No one's safe from now 'cause of the Faceless.<end>
@@ -348,31 +348,31 @@ You be careful out there. No one's safe from now 'cause of the Faceless.<end>
 You know, I saw that dead scavenger as <end>
 
 =>q56
-Представляешь, я видел этого мертвеца, когда<end>
+Знаете, я видел <end>
 
 =>q57_original
 he <end>
 
 =>q57
-его<end>
+того покойника, когда его <end>
 
 =>q58_original
 was being carried to medical. ::He shakes his head.::<end>
 
 =>q58
-везли к медикам. ::Он качает головой.::<end>
+везли в лазарет. ::Он качает головой.::<end>
 
 =>a59_original
 I've seen the body myself. What do you know about it?<end>
 
 =>a59
-Я сам$(#/а) видел$(#/а) тело. Тебе что-то известно об этом?<end>
+Я сам$(#/а) видел$(#/а) тело. Вам что-нибудь об этом известно?<end>
 
 =>q60_original
 Well, one of the guards found this dying $(context.frag_dun_wasteWater_corpseGender) in Mushroom Cove just as I was starting my shift some hours ago. <end>
 
 =>q60
-Ну, один из охранников обнаружил $(tempContext.wasteWaterPronoun) в Грибной бухте, почти при смерти, как раз, когда я заступал на смену, несколько часов назад.<end>
+Ну, один из охранников нашёл кого-то в Грибной бухте почти при смерти, как раз, когда я заступал на смену несколько часов назад.<end>
 
 =>a61_original
 I heard about that. What happened?<end>
@@ -384,7 +384,7 @@ I heard about that. What happened?<end>
 Tell me more.<end>
 
 =>a62
-Расскажи мне подробнее.<end>
+Расскажите мне подробнее.<end>
 
 =>a63_original
 I'd rather not discuss that.<end>
@@ -396,7 +396,7 @@ I'd rather not discuss that.<end>
 Fair enough. <end>
 
 =>q64
-Вполне справедливо.<end>
+Понимаю.<end>
 
 =>q65_original
 Going somewhere?<end>
@@ -414,5 +414,4 @@ Don't know, don't wanna know.<end>
 she <end>
 
 =>q67
-её<end>
-
+ту покойницу, когда её <end>
