@@ -12,7 +12,7 @@ Dammit! Don't sneak up on me like that! Are you derailed?<end>
 =>q2
 А?! ::Он целится в вас из винтовки.::
 
-Проклятье! Не подкрадывайтесь так! Вы совсем что-ли?<end>
+Проклятье! Не подкрадывайтесь так! Вы совсем поехавш$(#ий/ая), что-ли?<end>
 
 =>q3_original
 You're the... the new $(#guy/girl), right? Yeah... ::He lowers his rifle.::
@@ -20,7 +20,7 @@ You're the... the new $(#guy/girl), right? Yeah... ::He lowers his rifle.::
 <end>
 
 =>q3
-Вы же... $(#тот новенький/та новенькая), верно? Ну да... ::Он опускает винтовку.::
+Вы же... $(#тот новенький/та новенькая), верно? Ну, да... ::Он опускает винтовку.::
 
 <end>
 
@@ -46,7 +46,7 @@ I've been instructed to round up some hoppers from the Mushroom Cove. Am I headi
 Yes, yes, you are. It's just beyond this passage. Be careful, though, as there are psi beetles in the Cove area.<end>
 
 =>q7
-Да, да, всё правильно. Она как раз за этим проходом. Будьте осторожны, поскольку в районе Бухты водятся пси-жуки.<end>
+Да, да, всё верно. Она как раз за этим проходом. Будьте осторожны, поскольку в районе Бухты водятся пси-жуки.<end>
 
 =>q8_original
 <end>
@@ -58,13 +58,13 @@ Yes, yes, you are. It's just beyond this passage. Be careful, though, as there a
 Did you happen to see a young man go into the Mushroom Cove? Newton's the name.<end>
 
 =>a9
-Вы не видели молодого человека, который отправился в Грибную бухту? Его зовут Ньютон.<end>
+Вы не видели молодого человека, который направлялся в Грибную бухту? Его зовут Ньютон.<end>
 
 =>q10_original
 Yes, he went through here recently. I'd say... about two hours ago or so. He said he was going to catch some cave hoppers. He hasn't returned yet, though.<end>
 
 =>q10
-Да, он прошёл здесь недавно. Я бы сказал... приблизительно два часа назад или около того. Он сказал, что собирается поймать несколько пещерников. Больше я его пока не видел.<end>
+Да, он прошёл здесь недавно. Я бы сказал... приблизительно два часа назад или около того. Он сказал, что идет ловить пещерников. Больше я его пока не видел.<end>
 
 =>a11_original
 By the way, I somehow got the impression that Mushroom Cove was much closer to SGS.<end>
@@ -82,7 +82,7 @@ You know, lots of people have been telling me that recently. Newcomers like you.
 You mentioned psi beetles...<end>
 
 =>a13
-Вы упоминали пси-жуков...<end>
+Вы упоминали пси-жуков?..<end>
 
 =>q14_original
 Yes, psi beetles. Nasty buggers. Especially if they are in a group, because that's when they start slinging powerful psionics at you.<end>
@@ -100,25 +100,25 @@ You know, if you haven't already, talk to Old Jonas at the Crossroads. He knows 
 In any case, stick to the eastern bank and you should be safe. Nasty buggers...<end>
 
 =>q16
-В общем, держитесь восточного берега, и вы будете в безопасности, более-менее. Фу, мерзкие жуки...<end>
+В общем, держитесь восточного берега, и вы будете в безопасности -- более-менее. Фу, мерзкие жуки...<end>
 
 =>a17_original
 What do you know about that scavenger from Mushroom Cove?<end>
 
 =>a17
-Что вы знаете о мусорщике из Грибной бухты?<end>
+Насколько мне известно, в Грибной бухте недавно кого-то убили? Вам что-нибудь известно об этом?<end>
 
 =>q18_original
 Not much, to tell you the truth. Gerald, guard, found <end>
 
 =>q18
-По правде говоря, не много. Джеральд, охранник, нашёл<end>
+По правде говоря, не много. Джеральд, охранник, нашёл <end>
 
 =>q19_original
 him <end>
 
 =>q19
-его<end>
+его <end>
 
 =>q20_original
 dying in the Cove. It all happened before my shift.<end>
@@ -142,7 +142,7 @@ He's probably sleeping. Yeah, long shift. But I think Malcom was on duty at the 
 her <end>
 
 =>q23
-её<end>
+её <end>
 
 =>a24_original
 Alright. Thank you. I'm off now.<end>
@@ -154,7 +154,7 @@ Alright. Thank you. I'm off now.<end>
 Take care.<end>
 
 =>q25
-Берегите себя.<end>
+Будьте осторожны.<end>
 
 =>a26_original
 Psi beetles?<end>
@@ -166,7 +166,7 @@ Psi beetles?<end>
 I somehow got the impression that Mushroom Cove was much closer to SGS.<end>
 
 =>a27
-Почему-то мне казалось, что Грибная бухта гораздо ближе к ССГ.<end>
+Почему-то, мне казалось, что Грибная бухта гораздо ближе к ССГ.<end>
 
 =>a28_original
 I will. Thanks for the warning.<end>
@@ -190,7 +190,7 @@ Don't worry. I can take care of myself.<end>
 I hope so.<end>
 
 =>q31
-Я надеюсь на это.<end>
+Надеюсь на это.<end>
 
 =>a32_original
 I've been instructed to round up some hoppers from the Mushroom Cove.<end>
@@ -202,7 +202,7 @@ I've been instructed to round up some hoppers from the Mushroom Cove.<end>
 Alright. Just take care: Don't know if you've run into them yet, but there are psi beetles in the Cove area.<end>
 
 =>q33
-Ладно. Просто будьте осторожны: не знаю, сталкивались ли вы уже с ними, но в районе бухты водятся пси-жуки.<end>
+Ясно. Но будьте осторожны -- не знаю, сталкивались ли вы уже с ними, но в районе бухты водятся пси-жуки.<end>
 
 =>a34_original
 Just exploring a bit.<end>
@@ -226,7 +226,7 @@ My business is my own.<end>
 Drop the attitude. I'm here to protect nosy $(#guys/girls) like you. There are psi beetles in the Cove area.<end>
 
 =>q37
-Сбавьте обороты. Я здесь, чтобы предупредить слишком любопытных $(#парней/девушек), таких как вы. В районе Бухты водятся пси-жуки.<end>
+Сбавьте обороты. Я здесь, чтобы предупредить слишком любопытных $(#парней/девушек), таких как вы: в районе бухты водятся пси-жуки.<end>
 
 =>q38_original
 Halt! Who goes there?<end>
@@ -330,5 +330,4 @@ Don't you "yeah, yeah" me, you idiot. <end>
 ::He greets you with a nod.:: $(context.player.Name).<end>
 
 =>q53
-::Он приветствует вас, кивнув головой.:: $(context.player.Name).<end>
-
+::Он приветствует вас кивком: :: $(context.player.Name).<end>
