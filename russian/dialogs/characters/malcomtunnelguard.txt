@@ -36,7 +36,7 @@ him <end>
 there, dying, just as I was starting my shift some hours ago. <end>
 
 =>q6
-на земле, уже при смерти, как раз, когда я заступал на смену несколько часов назад.<end>
+на земле, уже при смерти, как раз, когда я заступал на смену несколько часов назад. <end>
 
 =>q7_original
 $(tempContext.wasteWaterPronounCap) <end>
@@ -90,7 +90,7 @@ How do I get to Mushroom Cove?<end>
 It's a wet cave a bit south from here. <end>
 
 =>q15
-Это сырая пещера недалеко к югу отсюда.<end>
+Это сырая пещера недалеко к югу отсюда. <end>
 
 =>q16_original
 But I'd advise against going there right now, $(context.player.Name). It's a dangerous place for a rookie.<end>
@@ -194,7 +194,7 @@ So, you going or what?<end>
  but this doesn't look like a product of their psionics. <end>
 
 =>q31
- но это совсем не похоже на результат действия их псионики. <end>
+, но это совсем не похоже на результат действия их псионики. <end>
 
 =>a32_original
 Did she manage to say who did this to her?<end>
@@ -284,7 +284,7 @@ Everyone knows that.<end>
 Just trying to help you out. <end>
 
 =>q46
-Просто пытаюсь вам помочь.<end>
+Просто пытаюсь вам помочь. <end>
 
 =>a47_original
 I want to stomp them out, not scare them away.<end>
@@ -302,7 +302,7 @@ Well then... try not to lose a foot. <end>
 Not right now.<end>
 
 =>a49
-Не сейчас.<end>
+Сейчас мне ничего не нужно, пока.<end>
 
 =>q50_original
 $(context.player.Name), where have you been all this time? Vera's been looking for you. You should go to her office as soon as possible.<end>
@@ -372,7 +372,7 @@ I've seen the body myself. What do you know about it?<end>
 Well, one of the guards found this dying $(context.frag_dun_wasteWater_corpseGender) in Mushroom Cove just as I was starting my shift some hours ago. <end>
 
 =>q60
-Ну, один из охранников нашёл кого-то в Грибной бухте почти при смерти, как раз, когда я заступал на смену несколько часов назад.<end>
+Ну, один из охранников нашёл кого-то в Грибной бухте почти при смерти, как раз, когда я заступал на смену несколько часов назад. <end>
 
 =>a61_original
 I heard about that. What happened?<end>
@@ -384,19 +384,19 @@ I heard about that. What happened?<end>
 Tell me more.<end>
 
 =>a62
-Расскажите мне подробнее.<end>
+Расскажите мне поподробнее.<end>
 
 =>a63_original
 I'd rather not discuss that.<end>
 
 =>a63
-Мне бы не хотелось это обсуждать.<end>
+Мне не хотелось бы это обсуждать.<end>
 
 =>q64_original
 Fair enough. <end>
 
 =>q64
-Понимаю.<end>
+Понимаю. <end>
 
 =>q65_original
 Going somewhere?<end>

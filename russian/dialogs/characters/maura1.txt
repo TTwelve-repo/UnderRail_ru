@@ -14,7 +14,7 @@
 Who are you and why are you held here?<end>
 
 =>a3
-Кто вы и почему вас держат здесь?<end>
+Кто вы, и почему вас держат здесь?<end>
 
 =>q4_original
 Is this some kind of a trick?<end>
@@ -56,7 +56,7 @@ I'm Maura. As to why I'm held here, you better ask them Protectorate cans that.<
 Just answer the damn question, woman.<end>
 
 =>a10
-Просто ответьте на вопрос, женщина.<end>
+Здесь я задаю вопросы.<end>
 
 =>a11_original
 Are you Maura?<end>
@@ -74,7 +74,7 @@ I'm here to bust you out.<end>
 Why... Who *are* you?<end>
 
 =>q13
-Почему... кто вы?<end>
+Почему?.. Кто вы?<end>
 
 =>a14_original
 I've been hired to get you out of here and that's all you need to know. You want out or not?<end>
@@ -92,7 +92,7 @@ Yes... of course I do. How do we get out of here...?<end>
 Don't tell me you expect us to... just walk outta the front gate?<end>
 
 =>q16
-Не говорите мне, что вы хотите... просто выйти через главные ворота?<end>
+Вы же понимаете, что нас просто так... не выпустят через главные ворота?<end>
 
 =>q17_original
 <end>
@@ -110,19 +110,19 @@ I've unlocked your cell and opened the ventilation shaft. In the vents you'll fi
 I like the sound of that. Should work.<end>
 
 =>q19
-Мне нравится, как это звучит. Это должно сработать.<end>
+Мне нравится, как это звучит. Должно сработать.<end>
 
 =>a20_original
 ::Wait for her to leave.::<end>
 
 =>a20
-::Подождите, пока она уйдёт.::<end>
+::Подождать, пока она уйдёт.::<end>
 
 =>a21_original
 ::Unzip a body bag.:: Get in. I need to get you to the vent that'll take you outside. Your captors seem to be moving a lot of dead bodies around, so we might just be able to slip by without drawing attention.<end>
 
 =>a21
-::Расстёгивает молнию на мешке для трупов.:: Залезай. Мне нужно доставить тебя к вентиляции, которая выведет тебя наружу. Похитители, похоже, переносят многие тела, так что мы сможем проскользнуть мимо, не привлекая внимания.<end>
+::Расстегнуть молнию на мешке для трупов.:: Залезайте. Мне нужно доставить вас к вентиляции, которая выведет вас наружу. Ваши тюремщики, похоже, переносят много тел, так что мы сможем проскользнуть, не привлекая внимания.<end>
 
 =>q22_original
 ::She stares at you in horror, but then she sighs.:: 
@@ -130,57 +130,57 @@ I like the sound of that. Should work.<end>
 Guess beggars can't be choosers. Let's get this over with...<end>
 
 =>q22
-::Она смотрит на тебя в ужасе, но потом вздыхает.::
+::Она смотрит на вас в ужасе, но потом вздыхает: ::
 
-Думаю, нищим выбирать не приходится. Давай покончим с этим...<end>
+Что же, выбирать не приходится. Не будем терять времени...<end>
 
 =>a23_original
 ::Carry her to the vent.::<end>
 
 =>a23
-::Отнесите её в вентиляцию.::<end>
+::Отнести её к вентиляции.::<end>
 
 =>a24_original
 ::[Stealth]:: I've unlocked your cell and the door to this room. I'll take you to the vent that leads outside, so stay close and follow my lead.<end>
 
 =>a24
-::[Скрытность]:: Я открыл твою камеру и дверь в эту комнату. Я отведу тебя к вентиляционному отверстию, ведущему наружу, так что держись рядом и следуй моему примеру.<end>
+::[Скрытность]:: Решётка и дверь в камеру открыты. Я отведу вас к вентиляционной шахте, через которую можно выбраться наружу, так что держитесь рядом и делайте, что я скажу.<end>
 
 =>q25_original
 Got it. I'm right behind you.<end>
 
 =>q25
-Понятно. Показывай дорогу.<end>
+Поняла. Показывайте дорогу.<end>
 
 =>a26_original
 ::Take her to the vent.::<end>
 
 =>a26
-::Переместить её в вентиляцию.::<end>
+::Отвести её к вентиляции.::<end>
 
 =>a27_original
 I've unlocked your cell and the door to this room. You'll have to make a run to the vents in a room down the hall. In the vents you'll find a crack that leads up into the caves.<end>
 
 =>a27
-Я открыл$(#/а) вашу камеру и дверь в эту комнату. Вам придётся добежать до вентиляционной решётки дальше по коридору. В шахте вы найдёте трещину, которая выведет вас в пещеры.<end>
+Я открыл$(#/а) вашу клетку и дверь в камеру. Вам придётся добежать до вентиляционной решётки дальше по коридору. В шахте вы найдёте трещину, которая выведет вас в пещеры.<end>
 
 =>q28_original
 Pfff! Sounds risky... but I guess I'll take my chances. Better than rottin' in this place.<end>
 
 =>q28
-Пф-ф! Звучит рискованно... Но меня это устраивает. Всё лучше, чем гнить в этой клетке.<end>
+Пф-ф! Звучит рискованно... но меня это устраивает. Всё лучше, чем гнить в этой клетке.<end>
 
 =>a29_original
 ::Wait for her to leave.::<end>
 
 =>a29
-::Подождите, пока она уйдёт.::<end>
+::Подождать, пока она уйдёт.::<end>
 
 =>a30_original
 ::Look at the body bag you've found.:: Hmmm. Won't work without some appropriate apparel. You sit tight for just a bit longer.<end>
 
 =>a30
-::Посмотрите на мешок для трупов, который вы нашли.:: Хммм. Без соответствующей одежды не получится. Посиди ещё немного.<end>
+::Посмотреть на мешок для трупов, который вы нашли.:: Хм-м. Надо одеться соответствующим образом. Посидите ещё немного.<end>
 
 =>a31_original
 Actually I'm still working on it. Sit tight.<end>
@@ -216,7 +216,7 @@ What do you have in mind?<end>
 ::Leave her be.::<end>
 
 =>a36
-::Оставить её в покое.::<end>
+::Оставить её.::<end>
 
 =>a37_original
 Sit tight.<end>
@@ -258,7 +258,7 @@ Yup.<end>
 Thank you so much for gettin' me outta can. Cans' can. ::She laughs.:: I... yeah, I might've forgotten your name. I can't remember if you even mentioned it. Yeah, that was a pretty fast-paced day.<end>
 
 =>q43
-Огромное спасибо за то, что ты вытащил$(#/а) меня из-за решётки. Из банки банок. ::Она смеётся.:: Я... да, я забыла как тебя зовут. Я не могу вспомнить, даже упоминал$(#/а) ли ты об этом. Да, это был довольно насыщенный день.<end>
+Огромное спасибо за то, что ты вытащил$(#/а) меня из-за решётки. Из банки банок. ::Она смеётся.:: Я... да я забыла как тебя зовут. Я не могу вспомнить, даже называл$(#/а) ли ты своё имя. Да уж, это был довольно насыщенный день.<end>
 
 =>a44_original
 I understand. It's $(context.player.Name).<end>
@@ -272,9 +272,9 @@ Now I know my savior's name. $(context.player.Name). Got it.
 Look... As a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
 
 =>q45
-Теперь я знаю имя моё$(#го/й) спасител$(#я/ьницы). $(context.player.Name). Запомнила.
+Теперь я знаю имя мое$(#го/й) спасител$(#я/ьницы). $(context.player.Name). Запомнила.
 
-И ещё... в качестве маленькой благодарности за спасение меня от банок, я договорилась, чтобы тебе выдали какое-нибудь снаряжение бесплатно. Иди поговори с Бекетом, нашем снабженцем. Ты найдёшь его недалеко от входа.<end>
+И ещё... в качестве маленькой благодарности за спасение меня от банок, я договорилась, чтобы тебе выдали какое-нибудь снаряжение бесплатно. Поговори с Бекетом, нашем снабженцем. Ты найдёшь его недалеко от входа.<end>
 
 =>q46_original
 <end>
@@ -332,7 +332,7 @@ The more you know, man, the more disgustin' and, and... revoltin' they seem. Dam
 So, why were you captured by the Protectorate?<end>
 
 =>a54
-Так почему тебя поймал Протекторат?<end>
+Так, почему тебя поймал Протекторат?<end>
 
 =>q55_original
 In short - I was an idiot. I wasn't careful and that's why I got busted.<end>
@@ -350,7 +350,7 @@ What do you mean?<end>
 Man, I was supposed to get some stuff from our Junkyard hideout. It's somethin' I do all the time, but this time I had some... hackin' equipment and stuff with me. Which was used to mess with the embassy's network. *Which* forced the Cans to keep their eyes peeled and on their toes. So I came along, and a handsome brainwashed Protectorate piece of trash caught me red-handed. <end>
 
 =>q57
-Блин, я должна была забрать кое-что из нашего убежища на Свалке. Я это делаю всё время, но в тот раз у меня с собой было кое-какое... хакерское оборудование. Которое использовалось в сети посольства. Что заставило банок открыть глаза и отследить его. Я пришла, и симпатичный протекторатский мусор с промытыми мозгами поймал меня с поличным.<end>
+Блин, я должна была забрать кое-что из нашего убежища на Свалке. Я это делаю всё время, но в тот раз у меня с собой было кое-какое... хакерское оборудование. Которое использовалось в сети посольства. Что заставило банок открыть глаза и отследить его. Только я туда пришла, как симпатичный протекторатский мусор с промытыми мозгами поймал меня с поличным.<end>
 
 =>q58_original
 I told them nuthin', just for the record. ::She laughs.:: You know the rest.<end>
@@ -402,7 +402,7 @@ He was so innocent and naive. He didn't even know why we fight or who we fight, 
 "He very fine man." ::She laughs.::<end>
 
 =>q65
-Он очень хороший мужчина. ::Она смеётся.::<end>
+«Он очень хороший мужчина». ::Она смеётся.::<end>
 
 =>q66_original
 I envy him, I really do. He's so innocent and naive! He doesn't know why we fight or who we fight, he just wants to fight for what he thinks is right. In his mind, everything is simple, while I've lost so much sleep over the years, as most of us have. I have yet to see him miss his "to get much rest" ten-hour sleep.
@@ -410,7 +410,7 @@ I envy him, I really do. He's so innocent and naive! He doesn't know why we figh
 ::She laughs.:: As soon as his head touches the pillow, he's in dream land. Legend.<end>
 
 =>q66
-Я ему завидую, правда. Он такой невинный и наивный! Он даже не знает, почему мы боремся или с кем мы воюем, он просто хочет сражаться за то, что считает правильным. В его голове всё так просто, а я не могу спокойно спать уже много лет, как и многие из нас. Я никогда не видела, чтобы он пропустил свой десятичасовой сон «чтобы получить много отдыха».
+Я ему завидую -- правда. Он такой невинный и наивный! Он даже не знает, почему мы боремся или с кем мы воюем, он просто хочет сражаться за то, что считает правильным. В его голове всё так просто, а я не могу спокойно спать уже много лет, как и многие из нас. Я никогда не видела, чтобы он пропустил свой десятичасовой сон «чтобы получить много отдыха».
 
 ::Она смеётся.:: Как только его голова касается подушки, он уже в стране снов. Человек-легенда.<end>
 
@@ -430,7 +430,7 @@ You got your eyes on Darling? Don't try to fool me, man. I can tell.<end>
 ::She smiles.:: You're not the only one, though. She caught Kokoschka's eyes as soon as he arrived, for example. You better make your moves... and fast!<end>
 
 =>q69
-::Она улыбается.:: Ну, не ты один. Кокошка, например, не отходит от неё с тех пор как попал сюда. Лучше действуй... быстро!<end>
+::Она улыбается.:: Ну, не ты один. Кокошка, например, не отходит от неё с тех пор, как попал сюда. Лучше действуй... быстро!<end>
 
 =>q70_original
 Julia is a wonderful woman. She's someone who... listens. I personally can yap all day long and she'll listen to everything I have to say. Man, she's like a therapist.<end>
@@ -540,7 +540,7 @@ That's one of the reasons Marcella was, to me personally, such an important pers
 And now she's gone, go figure. I wonder what happened to her.<end>
 
 =>q86
-И теперь она пропала, пойди разберись. Интересно, что с ней случилось.<end>
+И теперь она пропала, пойди разберись. Интересно, что с ней случилось?<end>
 
 =>q87_original
 She was inspirational, at least she was to me. I'm sure you understand it, having such a strong female leader is really motivatin' and inspirin' to us girls. While our comrades here, excluding Kokoschka, bless him, don't have a medieval view of women, you can't deny that this is a man's world. We, somehow, always have to show that we are equal to men, not the other way around.
@@ -572,19 +572,19 @@ Look... As a little thank-you for savin' me from the Cans, I pulled a favor to g
 =>q90
 Да, хорошо. Запомню, $(#парень/сестра).
 
-И ещё... в качестве маленькой благодарности за спасение меня от банок, я договорилась, чтобы тебе выдали какое-нибудь снаряжение бесплатно. Иди поговори с Бекетом, нашем снабженцем. Ты найдёшь его недалеко от входа.<end>
+И ещё... в качестве маленькой благодарности за спасение меня от банок, я договорилась, чтобы тебе выдали какое-нибудь снаряжение бесплатно. Поговори с Бекетом, нашем снабженцем. Ты найдёшь его недалеко от входа.<end>
 
 =>a91_original
 Some people call me $(context.player.Name), but other call me - Invictus! ::Raise your fist in the air.::<end>
 
 =>a91
-Некоторые называют меня $(context.player.Name), но другие называют меня инвиктус! ::Поднять кулак в воздух.::<end>
+Некоторые называют меня $(context.player.Name), но другие называют меня -- инвиктус! ::Поднять кулак в воздух.::<end>
 
 =>q92_original
 ::She pauses as she observes you. A second later, she points her finger at you.:: I dig. Yeah, I dig! You do look like the Invictus! The resemblance is... yeah, $(#jack/sis).<end>
 
 =>q92
-::Она замолкает и всматривается в ваше лицо. Секунду спустя она тычет в вас пальцем.:: Точно. Да, точно! Ты выглядишь, как инвиктус! Сходство просто... да, $(#парень/сестра).<end>
+::Она замолкает и всматривается в ваше лицо. Секунду спустя, она тычет в вас пальцем.:: Точно. Да, точно! Ты выглядишь, как инвиктус! Сходство просто... да, $(#парень/сестра).<end>
 
 =>a93_original
 No, I am *the* Invictus!<end>
@@ -600,13 +600,13 @@ Look... As a little thank-you for savin' me from the Cans, I pulled a favor to g
 =>q94
 А ведь, если подумать, у тебя даже голос похож! Ты здорово подражаешь.
 
-Да, ещё... в качестве маленькой благодарности за спасение меня от банок, я договорилась, чтобы тебе выдали какое-нибудь снаряжение бесплатно. Иди поговори с Бекетом, нашим снабженцем. Ты найдёшь его недалеко от входа.<end>
+Да, ещё... в качестве маленькой благодарности за спасение меня от банок, я договорилась, чтобы тебе выдали какое-нибудь снаряжение бесплатно. Поговори с Бекетом, нашим снабженцем. Ты найдёшь его недалеко от входа.<end>
 
 =>a95_original
 Yes, I look like... $(#him/her).<end>
 
 =>a95
-Да, я на не$(#го/ё)... похо$(#ж/жа).<end>
+Да, я на не$(#го/ё)... похож$(#/а).<end>
 
 =>q96_original
 Why the sad look? Oh, I think I get it: People don't see the resemblance. I know all about that! Listen, $(#jack/sis), my sister looked just like another glad...
@@ -614,9 +614,9 @@ Why the sad look? Oh, I think I get it: People don't see the resemblance. I know
 Anyhow... as a little thank-you for savin' me from the Cans, I pulled a favor to get you some equipment for free. Go talk to Becket, our supply man. You'll find him near the entrance.<end>
 
 =>q96
-Почему такой грустный взгляд? Ох, кажется, я поняла: люди не замечают сходства. Я это хорошо понимаю! Знаешь, $(#парень/сестра), моя сестра выглядела совсем как другой глад...
+Почему такой грустный взгляд? Ох, кажется, я поняла: люди не замечают сходства. Я это хорошо понимаю! Знаешь, $(#парень/сестра), моя сестра выглядела совсем как другая глад...
 
-Да, ещё... в качестве маленькой благодарности за спасение меня от банок, я договорилась, чтобы тебе выдали какое-нибудь снаряжение бесплатно. Иди поговори с Бекетом, нашим снабженцем. Ты найдёшь его недалеко от входа.<end>
+Да, ещё... в качестве маленькой благодарности за спасение меня от банок, я договорилась, чтобы тебе выдали какое-нибудь снаряжение бесплатно. Поговори с Бекетом, нашим снабженцем. Ты найдёшь его недалеко от входа.<end>
 
 =>a97_original
 Nice to see you're alive and well.<end>
@@ -628,7 +628,7 @@ Nice to see you're alive and well.<end>
 Thanks. Nice to see you too. I finally have a chance to thank you for helpin' me, and yeah... I might've forgotten your name. I can't remember if you even mentioned it. Yeah, that was a pretty fast-paced day.<end>
 
 =>q98
-Спасибо. Я тоже рада тебя видеть. Я наконец-то смогу поблагодарить тебя за помощь, и, да... я забыла как тебя зовут. Я не могу вспомнить, даже упоминал$(#/а) ли ты об этом. Да, это был довольно насыщенный день.<end>
+Спасибо. Я тоже рада тебя видеть. Я наконец-то смогу поблагодарить тебя за помощь, и, да... я забыла как тебя зовут. Я не могу вспомнить, даже называл$(#/а) ли ты своё имя. Да уж, это был довольно насыщенный день.<end>
 
 =>a99_original
 So what?<end>
@@ -640,11 +640,10 @@ So what?<end>
 Hmpf. Nuthin', I guess. I just wanna thank you for helpin' me get outta there. I... yeah, I might've forgotten your name. I can't remember if you even mentioned it. Yeah, that was a pretty fast-paced day.<end>
 
 =>q100
-Хмф. Ничего, наверное. Я просто хочу поблагодарить тебя за помощь. Я... да, я забыла как тебя зовут. Я не могу вспомнить, даже упоминал$(#/а) ли ты об этом. Да, это был довольно насыщенный день.<end>
+Хмф. Ничего, наверное. Я просто хочу поблагодарить тебя за помощь. Я... да... я забыла как тебя зовут. Я не могу вспомнить, даже называл$(#/а) ли ты своё имя. Да уж, это был довольно насыщенный день.<end>
 
 =>q101_original
 Hey, $(#jack/sis).<end>
 
 =>q101
 Привет, $(#парень/сестра).<end>
-
