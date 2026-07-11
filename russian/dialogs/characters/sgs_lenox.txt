@@ -28,15 +28,15 @@ Lenox Pierce?<end>
 ::A pause ensues.:: Yes! ::He lowers his voice.:: I mean yes, I am Lenox Pierce. Are you...?<end>
 
 =>q5
-::Он возвращается в реальность и поднимает голову, показывая мертвенно-бледное лицо. Его глаза вяло фокусируются на вас, и он начинает говорить заплетающимся языком, обдавая вас парами алкоголя.:: Э-э... Что?..
+::Он возвращается в реальность и поднимает голову, являя вам мертвенно-бледное лицо. Его глаза вяло фокусируются на вас, и он начинает говорить заплетающимся языком, обдавая вас парами алкоголя: :: Э-э... Что?..
 
-::Пауза.:: Да! ::Он понижает голос.:: То есть, да -- я Ленокс Пирс. А вы?..<end>
+::Пауза.:: Да! ::Он понижает голос.:: То есть, да -- я Ленокс Пирс. А вы, наверное?..<end>
 
 =>a6_original
 Yes, Jack sent me to talk to you. You can call me $(context.player.Name).<end>
 
 =>a6
-Да, Джек послал меня поговорить с вами. Вы можете звать меня $(context.player.Name).<end>
+Да, Джек прислал меня поговорить с вами. Вы можете звать меня $(context.player.Name).<end>
 
 =>q7_original
 Nice to meet you, um, $(context.player.Name). How are you, um, doing?<end>
@@ -78,7 +78,7 @@ Look, $(context.player.Name), I need you to help me find out how my brother died
 Something like a month... um, yeah, a month and a half ago, he was found dead in his room. Lying in bed, dead. I... I came here to see what happened, and I was told he died in his sleep. Tanner, the councilor, he told me Doctor Pasquale checked his... Pat's body but doesn't know the exact cause of death. Doesn't bleeding know the cause of death!?<end>
 
 =>q13
-Где-то месяц... эм, да, я думаю, что это было полтора месяца назад, он был найден мёртвым в своей комнате. В постели, мёртвым. Я... я приехал сюда, чтобы узнать, что случилось, и мне сказали, что он умер во сне. Таннер, советник, -- он сказал мне, что доктор Паскуаль осмотрел его... тело Патрика, но не установил точную причину смерти. Что значит -- не установил причину смерти?!<end>
+Где-то месяц... эм, да, я думаю, что это было полтора месяца назад, -- он был найден мёртвым в своей комнате. В постели, мёртвым. Я... я приехал сюда, чтобы узнать, что случилось, и мне сказали, что он умер во сне. Таннер, советник -- он сказал мне, что доктор Паскуаль осмотрел его... тело Патрика, но не установил точную причину смерти. Что значит -- не установил причину смерти?!<end>
 
 =>a14_original
 Okay, calm down, Lenox, calm down. What can I do to help you?<end>
@@ -92,7 +92,7 @@ Damn it all... Just damn it. Look, something's wrong! My brother was a healthy m
 But I'm not...<end>
 
 =>q15
-Пошло оно всё... Поверьте мне, здесь что-то не так! Мой брат был здоровым человеком; да, у него болела спина, но это и всё! Я должен знать правду. Что если это была авария, и они это скрывают?! Что если его кто-то убил?! Это не даёт мне покоя. Таннер не хочет мне больше помогать -- он решил, что дело закрыто.
+Пошло оно всё... Поверьте мне, здесь что-то не так! Мой брат был здоровым человеком; да, у него болела спина, но это и всё! Я должен знать правду. Что, если случилась авария, и они это скрывают?! Что, если его кто-то убил?! Это не даёт мне покоя. Таннер не хочет мне больше помогать -- он решил, что дело закрыто.
  
 Но не я...<end>
 
@@ -156,7 +156,7 @@ I... I just can't let this all go, you dig... I have had this terrible feeling a
 Whatever happened to him, he didn't, um... he didn't deserve it. That I can swear!<end>
 
 =>q25
-Я... Я просто не могу это так оставить, сечёшь... У меня такое ужасное чувство, что в его смерти не всё чисто, а эти уроды не говорят мне правду. Я это знаю. Проклятье, я знаю это.
+Я... Я просто не могу это так оставить, сечёшь?.. У меня такое ужасное чувство, что в его смерти не всё чисто, а эти уроды не говорят мне правду. Я это знаю. Проклятье, я знаю это.
 
 То, что с ним случилось, он не... он этого не заслужил. Я могу поклясться!<end>
 
@@ -164,7 +164,7 @@ Whatever happened to him, he didn't, um... he didn't deserve it. That I can swea
 Did your brother ever mention anything to you about Spectres or Operation Banishment?<end>
 
 =>a26
-Ваш брат упоминал что-нибудь про Призраков или Операцию Изгнание?<end>
+Ваш брат упоминал что-нибудь про Призраков или операцию «Изгнание»?<end>
 
 =>q27_original
 Um...  No, he never did. Not as far as I can remember it, no... Why?<end>
@@ -188,7 +188,7 @@ He never told me about it. I, um, I can't help you. I'm sorry.<end>
 Never mind, let me ask you something else.<end>
 
 =>a30
-Неважно, скажи мне сперва кое-что другое.<end>
+Неважно, скажите мне сперва кое-что другое.<end>
 
 =>q31_original
 Okay...<end>
@@ -230,7 +230,7 @@ Pat and I, we were orphans; our mother, um, died when we were young, and dad... 
 After years of doing whatever earns coin - scavenging and the like, you dig - Pat and I came to Core City. It was just after Biocorp fell apart. Um, maybe some time after. Riots and chaos filled the streets. Praetorian Security, newly formed at the time, needed men to help them fight the, um, rioters and... all that bunch.<end>
 
 =>q37
-Несколько лет мы делали всё, чтобы добыть денег -- собирали хлам и всё такое, сечёшь. Потом мы с Патом отправились в Кор-Сити. Это было сразу после развала Биокорп. Эм, наверное, некоторое время спустя. На улицах царил хаос и беспорядки. Преторианской службе безопасности, которая тогда только образовалась, нужны были люди, чтобы бороться с, эм, бунтовщиками и... всем этим сбродом.<end>
+Несколько лет мы делали всё, чтобы добыть денег -- собирали хлам и всё такое, сечёшь? Потом мы с Патом отправились в Кор-Сити. Это было сразу после развала Биокорп -- эм, может быть, немного позже. На улицах царил хаос и беспорядки. Преторианской службе безопасности, которая тогда только образовалась, нужны были люди, чтобы бороться с, эм, бунтовщиками и... всем этим сбродом.<end>
 
 =>q38_original
 The pay was good, so he, um, Pat joined. He was young and, you dig... burly, so he became an enforcer.<end>
@@ -260,13 +260,13 @@ Please, continue.<end>
 Pat and I both stayed in Core City due to his work, um, and it went well for a while. Unfortunately, he was hurt during one of the riots: A brute with a sledgehammer, um, slammed him right in the spine. The bastard got him real bad, so bad he had to leave Praetorian Security, as he couldn't do his, his job anymore. He was also hurt, um, mentally: He saw things, horrible things; rarely talked about it, but I could see it. <end>
 
 =>q42
-Пат и я жили в Кор-Сити из-за его работы, эм, и некоторое время всё было хорошо. К сожалению, он был ранен во время одного из бунтов: какая-то скотина с кувалдой, эм, врезала ему прямо по спине. Этот ублюдок ударил очень сильно, и Патрику пришлось покинуть ПСБ, потому что он больше не мог выполнять свою работу. Он также пострадал, эм, душевно: он видел вещи, ужасные вещи; мы редко говорили об этом, но я-то знал. <end>
+Мы с Патом жили в Кор-Сити из-за его работы, эм, и некоторое время всё было хорошо. К сожалению, он был ранен во время одного из бунтов -- какая-то скотина с кувалдой, эм, врезала ему прямо по спине. Этот ублюдок ударил очень сильно, и Патрику пришлось покинуть ПСБ, потому что он больше не мог выполнять свою работу. Он также пострадал, эм, душевно -- он насмотрелся всякого, ужасные вещи; мы редко говорили об этом, но я-то знал. <end>
 
 =>q43_original
 We left Core City after that. Nothing for us there anymore. I took care of him until his back got better, um... and then we split. He went around, learned to work with electronics; he didn't want to be a scavenger his whole life. So he roamed, um, before settling here. Here, in South Gate Station. He told me he was happy here, that he finally found a place he can feel safe and... at home. ::Tears begin rolling out of his eyes to refil his glass.:: Damn it...<end>
 
 =>q43
-После этого мы уехали из Кор-Сити. Нас ничего там не держало. Я заботился о нём, пока его спине не стало лучше, эм... а потом мы расстались. Он путешествовал, научился работать с электроникой; он не хотел всю жизнь собирать мусор. Так он и путешествовал, эм, пока не осел здесь. Здесь, на станции Саут-Гейт. Он рассказывал мне, что он был здесь счастлив, что он наконец нашёл место, где он может чувствовать себя в безопасности и... дома. ::Слёзы катятся по его щекам и капают в стакан.:: Блин...<end>
+После этого мы уехали из Кор-Сити. Нас ничего там не держало. Я заботился о нём, пока его спине не стало лучше, эм... а потом мы расстались. Он путешествовал, научился работать с электроникой; он не хотел всю жизнь собирать мусор. Так он и путешествовал, эм, пока не осел здесь. Здесь, на станции Саут-Гейт. Он рассказывал мне, что он был здесь счастлив, что он наконец нашёл место, где может чувствовать себя в безопасности и... дома. ::Слёзы катятся по его щекам и капают в стакан.:: Блин...<end>
 
 =>a44_original
 What about you? What did you do after you split?<end>
@@ -308,7 +308,7 @@ Um, fine. Here we go again.<end>
 No, because you're a wreck and you forget to tell me important things.<end>
 
 =>a50
-Нет, потому что ты развалина и забываешь рассказать про важные вещи.<end>
+Нет, потому что вы развалина и забываете рассказать про важные вещи.<end>
 
 =>q51_original
 Why is it so important? It happened a long time ago.<end>
@@ -344,7 +344,7 @@ I have reasons to believe that your brother was murdered.<end>
 ::Lenox's eyes enlarge, revealing fully how bloodshot they actually are.:: Re-Really? My... I... Do you know who did it?<end>
 
 =>q56
-::Глаза Ленокса расширяются, и вы видите, как сильно они налиты кровью.:: П-правда? Мой... Я... Вы знаете, кто это сделал?<end>
+::Глаза Ленокса расширяются, и теперь вы видите, как сильно они налиты кровью.:: П-правда? Мой... Я... Вы знаете, кто это сделал?<end>
 
 =>q57_original
 <end>
@@ -380,7 +380,7 @@ Let's hear it then.<end>
 ::[You need to present clues that made you suspect Pasquale was the killer.]::<end>
 
 =>q62
-::[Представить улики, которые подтверждают, что убийца -- Паскуаль.]::<end>
+::[Представить улики, которые подтверждают, что убийца -- Паскуаль]::<end>
 
 =>a63_original
 ::General clues.::<end>
@@ -530,7 +530,7 @@ Patrick was killed with a large surgical needle.<end>
 Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
 
 =>q87
-Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много для меня информации...<end>
+Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много информации для меня...<end>
 
 =>q88_original
 Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
@@ -554,7 +554,7 @@ I don't know.<end>
 ::He sighs.:: Well, that wasn't helpful.<end>
 
 =>q91
-::Он вздыхает.:: Ну что же, очень жаль.<end>
+::Он вздыхает.:: Ну, что же, очень жаль.<end>
 
 =>a92_original
 Big Bret.<end>
@@ -584,7 +584,7 @@ What? Big Bret... I don't know... Um, what evidence do you have?<end>
 ::[You need to present clues that made you suspect Bret was the killer.]::<end>
 
 =>q96
-::[Представить улики, которые подтверждают, что убийца -- Брет.]::<end>
+::[Представить улики, которые подтверждают, что убийца -- Брет]::<end>
 
 =>a97_original
 ::General clues::<end>
@@ -758,7 +758,7 @@ What will you do now?<end>
 one of the councilors <end>
 
 =>q125
-одним из советников. <end>
+кем-нибудь из советников. <end>
 
 =>q126_original
 about this. I'll take care of, of everything.<end>
@@ -794,7 +794,7 @@ I'm not really convinced. Um, sorry, but that's not good enough.<end>
 Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
 
 =>q131
-Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много для меня информации...<end>
+Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много информации для меня...<end>
 
 =>q132_original
 Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
@@ -830,7 +830,7 @@ Huh... Maybe you're onto something. What clues do you have?<end>
 ::[You need to present clues that made you suspect Quinton was the killer.]::<end>
 
 =>q137
-::[Представить улики, которые подтверждают, что убийца -- Куинтон.]::<end>
+::[Представить улики, которые подтверждают, что убийца -- Куинтон]::<end>
 
 =>a138_original
 ::General clues.::<end>
@@ -968,13 +968,13 @@ Patrick was killed with a knife.<end>
 Patrick was injected with burrower poison and killed.<end>
 
 =>a160
-Патрика убили, вколов ему яд могильщика.<end>
+Патрик был убит инъекцией яда могильщика.<end>
 
 =>a161_original
 Patrick was injected with dimethylmercury and killed.<end>
 
 =>a161
-Патрика убили, вколов ему диметил.<end>
+Патрик был убит инъекцией диметила.<end>
 
 =>a162_original
 Patrick was killed with a hammer.<end>
@@ -1016,7 +1016,7 @@ I'm not really convinced. Um, sorry, but that's not good enough.<end>
 Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
 
 =>q168
-Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много для меня информации...<end>
+Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много информации для меня...<end>
 
 =>q169_original
 Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
@@ -1076,7 +1076,7 @@ Um, revenge? Tell me what you know.<end>
 ::[You need to tell Lenox the clues that made you suspect Mordre was the killer.]::<end>
 
 =>q178
-::[Представить улики, которые подтверждают, что убийца -- Мордре.]::<end>
+::[Представить улики, которые подтверждают, что убийца -- Мордре]::<end>
 
 =>a179_original
 ::General clues.::<end>
@@ -1112,7 +1112,7 @@ Yeah, keep going...<end>
 Spectres are elite assassins who are famous for killing their targets by stabbing them through the nose, killing them and leaving a wound that is difficult to find.<end>
 
 =>a184
-Призраки -- это элитные убийцы, которые известны тем, что убивают своих жертв уколом через нос, оставляя рану, которую трудно обнаружить.<end>
+Призраки -- это элитные убийцы, которые были известны тем, что убивали своих жертв уколом через нос, оставляя рану, которую трудно обнаружить.<end>
 
 =>a185_original
 During his Praetorian Security days, Patrick was a part of the operation that hunted down and killed the remaining Spectres, Biocorp's elite special forces unit.<end>
@@ -1148,7 +1148,7 @@ Michael Mordington was a member of the Spectre unit.<end>
 Mordre confessed the murder. He was a Spectre, an elite Biocorp special forces unit that was cleaned up by Praetorian Security. Your brother was a part of the operation, and Mordre found out.<end>
 
 =>a190
-Мордре признался в убийстве. Он был членом Призраков -- элитного спецподразделения Биокорп, которое было зачищено Преторианской службой безопасности. Ваш брат участвовал в этой операции, и Мордре узнал об этом.<end>
+Мордре признался в убийстве. Он был членом Призраков -- элитного спецподразделения Биокорп, которое было уничтожено Преторианской службой безопасности. Ваш брат участвовал в этой операции, и Мордре узнал об этом.<end>
 
 =>q191_original
 I... can't believe it! Um, that... that bastard! Thank you, thank you! You finally discovered who killed Pat! ::His face visibly brightens up.:: You can return to Jack for your payment. I... I finally know what happened to Pat. ::He begins laughing.::<end>
@@ -1268,7 +1268,7 @@ I'm not really convinced. Um, sorry, but that's not good enough.<end>
 Um, I don't see how things you mentioned are connected. That's just, um, too much information...<end>
 
 =>q210
-Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много для меня информации...<end>
+Эм, я не вижу связи между вещами, которые вы упомянули. Это, эм, слишком много информации для меня...<end>
 
 =>q211_original
 Wait, wait. Um, some of the things you said are in conflict with each other. I'm sorry, but I'm not convinced.<end>
@@ -1370,7 +1370,7 @@ Well, you said he was murdered, so I think you know more about it than me.<end>
 Please hurry up with the frickin' investigation. You have gotten me all nervous and... look my hands are shaking! Hurry, damn it.<end>
 
 =>q227
-Пожалуйста, поторопитесь с этим проклятым расследованием. Я от этого весь нервный и... смотрите -- у меня руки дрожат! Поспешите, проклятье.<end>
+Пожалуйста, поторопитесь с этим проклятым расследованием. Я от этого весь нервный и... смотрите -- у меня руки дрожат! Поспешите же.<end>
 
 =>q228_original
 Something's wrong, just wrong! A healthy man died in his sleep without a known cause? And they, um, told me there is no point in investigating any further? There is no evidence of "foul play" or... or whatever they said. Natural death?<end>
@@ -1470,7 +1470,7 @@ It's tearing me apart. Tanner won't help me anymore. As far as he's concerned, h
 But I'm not...<end>
 
 =>q243
-Заткнись! Я не пьян, я просто в отчаянии! Поверьте мне, здесь что-то не так! Мой брат был здоровым человеком; да, у него болела спина, но это и всё! Я должен знать правду. Что, если это была авария, и они это скрывают?! Что, если его кто-то убил?! 
+Хватит! Я не пьян, я просто в отчаянии! Поверьте мне, здесь что-то не так! Мой брат был здоровым человеком; да, у него болела спина, но это и всё! Я должен знать правду. Что, если это была авария, и они это скрывают?! Что, если его кто-то убил?! 
 
 Это не даёт мне покоя. Таннер не хочет мне больше помогать -- он уже решил, что дело закрыто.
 
@@ -1540,7 +1540,7 @@ I'm sorry. Um, how about we finally begin?<end>
 Just traveling around, nothing really important. Boring stuff. As usual.<end>
 
 =>a254
-Просто путешествую, ничего особо важного. Скукота. Как обычно.<end>
+Просто путешествую, ничего особо важного. Скукота. Всё как обычно.<end>
 
 =>a255_original
 ::Leave.::<end>
@@ -1552,4 +1552,4 @@ Just traveling around, nothing really important. Boring stuff. As usual.<end>
 Hmm? Oh, $(context.player.Name).<end>
 
 =>q256
-Хм? О, $(context.player.Name).<end>
+Хм-м? О, $(context.player.Name).<end>
