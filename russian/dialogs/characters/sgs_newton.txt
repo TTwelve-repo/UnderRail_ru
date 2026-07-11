@@ -50,7 +50,7 @@ Yeah, cool. I survived the psi buggers so that the Faceless can finish me. Dang.
 $(context.player.Name). ::Raises a glass.::<end>
 
 =>q9
-$(context.player.Name). ::Поднимает бокал.::<end>
+$(context.player.Name). ::Поднимает стакан.::<end>
 
 =>q10_original
 <end>
@@ -152,7 +152,7 @@ You do that. Take care of yourself.<end>
 Thanks. I will. Cheers!<end>
 
 =>q26
-Спасибо. Я этим и занимаюсь. Твоё здоровье!<end>
+Спасибо. Этим я и занимаюсь. Твоё здоровье!<end>
 
 =>a27_original
 What a wussy. See you around.<end>
@@ -252,7 +252,7 @@ A sigh of relief precedes his words.::
 Aaaaah, you're not a psi bug. Thank goodness. I almost had a heart attack...<end>
 
 =>q42
-::Испуганный молодой человек выпрыгивает из тёмного угла и начинает рубить воздух перед собой. Его рубашка и брюки испачканы кровью, и вы видите, что его бедро перетянуто куском ткани, пониже которого зияет большая рана. Мгновение спустя он отводит нож и смотрит на вас, выпучив глаза.
+::Испуганный молодой человек выпрыгивает из тёмного угла и начинает рубить воздух перед собой. Его рубашка и брюки испачканы кровью, и вы видите, что его бедро перетянуто куском ткани, пониже которого зияет большая рана. Мгновение спустя, он отводит нож и смотрит на вас, выпучив глаза.
 
 Вздох облегчения предваряет его слова.::
 
@@ -268,7 +268,7 @@ Aaaaah, you're not a psi bug. Thank goodness. I almost had a heart attack...<end
 Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
 
 =>a44
-Ты Ньютон? Большой Брет послал меня найти тебя. Ты долго не возвращался в ССГ.<end>
+Ты Ньютон? Большой Брет послал меня найти тебя. Ты долго не возвращался на ССГ.<end>
 
 =>q45_original
 Yes, yes! I'm Newton. Don't even mention Big Bret to me. He sent me to catch those stupid hoppers. I guess I went too far to the west and ran into psi-bugs. He never told me about them!<end>
@@ -304,7 +304,7 @@ They're all dead. Let's get you out of here.<end>
 Great! GREAT! I wanna get the *hell* outta here as soon as possible. ::He rushes past you, dragging his injured leg behind him.::<end>
 
 =>q50
-Здорово! Отлично! Я хочу выбраться отсюда как можно скорее. ::Он проносится мимо вас, волоча раненую ногу.::<end>
+Здорово! Отлично! Надо выбираться отсюда как можно скорее. ::Он проносится мимо вас, волоча раненую ногу.::<end>
 
 =>a51_original
 ::Wait for him to limp away.::<end>
