@@ -2,7 +2,7 @@
 ::A familiar silhouette towers over you once again. This encounter with the Rathound King greatly reminds you of the first time you met him, for all the previous elements are still present: the king, the throne, the palace, the servants. Yet, the image has been watered down by the flow of events that had occurred. The king bears scars all over his body as well as over - how it appeared then - his granite-solid pride; the throne is an improvised shadow of its former self; the palace, nothing but a grimy, cold cave that stinks of downfall. The servants have been the least affected by the unfortunate relocation, still maintaining the same impression of loyal guards sitting by their king's side.::<end>
 
 =>q1
-::Знакомая фигура снова возвышается над вами. Эта встреча с Королём крысоволков очень похожа на первую, и все прежние её элементы на месте: король, трон, дворец и слуги. Однако общая картина несколько размыта потоком недавних событий. Король покрыт шрамами -- также, как его, казалось бы, прочная как гранит гордость; самодельный трон -- тень прошлого; дворец -- лишь грязная, холодная пещера, олицетворяющая его падение. Только слуги оказались наименее затронуты злополучным переездом, по-прежнему производя впечатление верных стражников, сидящих подле своего короля.::<end>
+::Знакомая фигура снова возвышается над вами. Эта встреча с Королём крысоволков очень похожа на первую, и все прежние её элементы на месте: король, трон, дворец и слуги. Однако общая картина несколько размыта потоком недавних событий. Король покрыт шрамами -- также, как его, казалось бы, незыблемая как гранит гордость; самодельный трон -- тень прошлого; дворец -- лишь грязная, холодная пещера, олицетворяющая его падение. Только слуги оказались наименее затронуты злополучным переездом, по-прежнему производя впечатление верных стражников, сидящих подле своего короля.::<end>
 
 =>q2_original
 ::Speaking of the king, you can almost feel his big hands strangling you through an ocular proxy - a glare full of contempt by which he begins communicating his silent monologue. Everything he had to go through was your fault - of course - so for that he must demonstrate what happens when the mighty Rathound King gets disrespected, and he will feel no displeasure in executing it in the most violent manner known to him.
@@ -12,7 +12,7 @@ His monologue then ends, and the battle begins.::<end>
 =>q2
 ::Что касается короля, вы уже почти чувствуете его большие руки на своей шее. Его взгляд полон презрения, с которого он начинает свой беззвучный монолог. Всё, что ему пришлось пережить, случилось по вашей вине, разумеется, и теперь он должен продемонстрировать, что происходит с теми, кто не уважает могучего Короля крысоволков, и он не будет стесняться показать это наиболее жестоким способом.
 
-На этом, его монолог заканчивается и начинается бой.::<end>
+На этом его монолог заканчивается, и начинается бой.::<end>
 
 =>a3_original
 ::Fight!::<end>
@@ -24,7 +24,7 @@ His monologue then ends, and the battle begins.::<end>
 HA! You truly amaze me, $(context.player.Name): You captured Sarine!<end>
 
 =>q4
-ХА! Ты меня удивляешь, $(context.player.Name)! Ты поймал$(#/а) Сарину.<end>
+ХА! Ты меня удивляешь, $(context.player.Name) -- Ты поймал$(#/а) Сарину!<end>
 
 =>q5_original
 ::He looks at her with pride.:: Welcome to my lair, woman. You--<end>
@@ -54,7 +54,7 @@ You will *learn* to love it here, woman, and you will stay in that very cell unt
 Welcome to the pack!<end>
 
 =>q8
-::Король крысоволков обращается к вам с довольной ухмылкой на лице.:: Что касается тебя, ты хорошо послужил$(#/а) мне. Вот твоя награда. ::Он вручает вам необычную кожаный доспех.::
+::Король крысоволков обращается к вам с довольной ухмылкой на лице.:: Что касается тебя, ты хорошо послужил$(#/а) мне. Вот твоя награда. ::Он вручает вам необычный кожаный доспех.::
 
 Добро пожаловать в стаю!<end>
 
@@ -70,9 +70,9 @@ $(context.player.Name), thank you. First you bring me the woman I desired, then 
 What a glorious day to be... the Rathound King. ::He laughs.::<end>
 
 =>q10
-$(context.player.Name), я благодарен тебе. Сначала ты приводишь мне женщину, которую я желаю, теперь ты, по незнанию, но всё же -- приводишь ко мне сына моего злейшего врага, чтобы я мог его зарезать как свинью. Дурак! ХА!
+$(context.player.Name), я благодарен тебе. Сначала ты приводишь мне женщину, которую я желаю, теперь ты -- по незнанию, но всё же -- приводишь ко мне сына моего злейшего врага, чтобы я мог его зарезать как свинью. Дурак! ХА!
 
-Какой хороший день... для Короля крысоволков. ::Он смеётся.::<end>
+Какой славный день... для Короля крысоволков. ::Он смеётся.::<end>
 
 =>q11_original
 <end>
@@ -96,7 +96,7 @@ Become? I've always been the Rathound King, for it is in my blood. These rathoun
 And who might that be?<end>
 
 =>a14
-И кто бы это мог быть?<end>
+И кто же стоит у тебя на пути?<end>
 
 =>q15_original
 Evil men and women of Camp Hathor, of course! They despise us, want us gone from this world. Those people have no respect for me, my rathounds, my land. They call themselves hunters, but I spit on that - they're nothing but weaklings! Coal diggers who think they have it all figured out. I'll kill every single one of them who dares enter my land. ::He grins.:: My traps have already taken many of their lives, and every death pleases me.<end>
@@ -120,13 +120,13 @@ Camp Hathor?<end>
 It's a small camp of miners-turned-hunters, and it is north of my lair. They are many, and they have weapons, but they are weaklings, both in body and in mind.<end>
 
 =>q18
-Это небольшой лагерь шахтёров-а-теперь-охотников, и он расположен к северу от моего логова. Их много, и у них есть оружие, но они слабаки -- телом и духом.<end>
+Это небольшой лагерь шахтёров, захотевших стать охотниками, и он расположен к северу от моего логова. Их много, и у них есть оружие, но они слабаки -- телом и духом.<end>
 
 =>q19_original
 ::He spits on the floor beside him.:: Weaklings, I say.<end>
 
 =>q19
-::Он сплёвывает.:: Слабаки.<end>
+::Он сплёвывает.:: Слабаки, говорю я.<end>
 
 =>a20_original
 You sound as if they've been causing you a lot of issues.<end>
@@ -138,7 +138,7 @@ You sound as if they've been causing you a lot of issues.<end>
 Do I? Maybe because they have. I only wanted to be left alone and live with my pack on *our* land. But, those of Camp Hathor just wouldn't leave me be. Especially one man, their former leader - Gideon. ::The name is snarled rather than spoken normally, and a deep, angular frown appears on his forehead like a crack on a smooth rock.:: That coward, that pathetic excuse for a man. <end>
 
 =>q21
-Вот как? Это потому, что так и есть. Я только хотел, чтобы меня оставили в покое, -- жить с моей стаей на *нашей* земле. Но эти из лагеря Хатор просто не могут не лезть ко мне. Особенно один из них, их бывший вожак Гидеон. ::Это имя он скорее прорычал чем сказал, и глубокая ломаная морщина разрезает его лоб, словно трещина на гладкой скале.:: Этот трус, эта жалкая пародия на мужчину. <end>
+Вот как? Это потому, что так и есть. Я только хотел, чтобы меня оставили в покое, -- жить с моей стаей на *нашей* земле. Но эти из лагеря Хатор просто не могут не лезть ко мне. Особенно один из них, их бывший вожак Гидеон. ::Это имя он скорее прорычал, чем сказал, и глубокая ломаная морщина разрезает его лоб, словно трещина на гладкой скале.:: Этот трус, эта жалкая пародия на мужчину. <end>
 
 =>q22_original
 He claimed I was trespassing their hunting grounds and stealing their game, while it belonged to me long before they stopped digging coal and decided to turn to hunting. My rathounds - my "dirty" rathounds - were vermin to him, insisting they were attacking and hurting the people of Camp Hathor. FOOL!<end>
@@ -204,7 +204,7 @@ The negotiations are now meaningless, and a man must adapt to the new situation.
 Good, but I'm still keeping my eyes open. ::He stops to look at you for a second.:: You've done well. I don't know why you did all this, but I respect it nonetheless. And I thank you. I don't have any money to give you, but I can give you this instead. ::He hands you a curious suit of leather armor.:: Welcome to the Pack.<end>
 
 =>q32
-Хорошо, но это не усыпит мою бдительность. ::Он делает паузу, чтобы оглядеть вас.:: Ты хорошо послужил$(#/а) мне. Я не знаю, почему ты сделал$(#/а) это, но я испытываю уважение. Благодарю тебя. Я не могу заплатить тебе деньгами, но я могу наградить тебя иначе. ::Он вручает вам необычную кожаную одежду.:: Добро пожаловать в стаю!<end>
+Хорошо, но это не усыпит мою бдительность. ::Он делает паузу, чтобы оглядеть вас.:: Ты хорошо послужил$(#/а) мне. Я не знаю, почему ты сделал$(#/а) это, но я испытываю уважение. Я благодарю тебя. Я не могу заплатить тебе деньгами, но я могу наградить тебя иначе. ::Он вручает вам необычный кожаный доспех.:: Добро пожаловать в стаю!<end>
 
 =>q33_original
 And as far as Sarine is concerned... forget about everything. Things have changed.<end>
@@ -280,7 +280,7 @@ Did you really think I walk through the labyrinth every time I want to go out? H
 Now go, $(context.player.Name).<end>
 
 =>q44
-И ещё одно, пока ты не уш$(#ёл/ла): Ищи на северной стене, прямо напротив моего логова. И ты найдёшь тайный лаз, который позволит тебе обойти все мои ловушки.
+И ещё одно, пока ты не уш$(#ёл/ла): ищи на северной стене, прямо напротив моего логова, и ты найдёшь тайный лаз, который позволит тебе обойти все мои ловушки.
 
 Ты правда думал$(#/а), что я пробираюсь через лабиринт каждый раз, когда хочу выйти погулять? Ха!
 
@@ -458,7 +458,7 @@ Yeah, that's the guy.<end>
 So, she is his woman. Of all men, she had to sleep with the son of my worst enemy. Oh, I would love to see his face contort in horror if Sarine was to become my woman. HA!<end>
 
 =>q73
-Значит, она его женщина. Из всех мужчин, она решила возлечь с сыном моего злейшего врага. Ох, хотел бы я увидеть, как его лицо искажается от ужаса, когда он услышит, что Сарина стала моей. ХА!<end>
+Значит, она его женщина. Из всех мужчин, она решила возлечь с сыном моего злейшего врага. О, хотел бы я увидеть, как его лицо исказится от ужаса, когда он услышит, что Сарина стала моей. ХА!<end>
 
 =>a74_original
 If you want her so bad, I could help you get her. In fact, I could bring her to you.<end>
@@ -492,7 +492,7 @@ After that, she will learn to love me and accept me as her king. She must. But f
 =>q78
 ::Он задумывается.:: Я заинтригован твоим предложением, $(context.player.Name). На моих глазах эта женщина уже показала, чего стоит, и я уверен, что она достойна быть моей королевой. Согласна ли она на это или нет, меня не интересует. Приведи её ко мне, и ты будешь вознагражд$(#ён/ена). 
 
-Со временем она научится любить меня и примет меня как своего короля. Ей придётся. Но сначала ты долж$(#ен/на) привести её сюда.<end>
+Со временем, она научится любить меня и примет меня как своего короля. Ей придётся. Но сначала ты долж$(#ен/на) привести её сюда.<end>
 
 =>a79_original
 We've got ourselves a deal, Rathound King. I'll be back with her.<end>
@@ -708,7 +708,7 @@ A rathound walks into a bar... and the barkeeper shoots it! You see, no one like
 ::The Rathound King stares at you, eyes confounded. For some reason you have a feeling that the joke didn't land as well as you had hoped. Maybe he didn't like it? Maybe he didn't understand it? It's a mystery that might never be solved. Whatever the reason, there are more pressing matters you need to focus on right now, like the fact that the Rathound King is drawing his weapon, and you need to...::<end>
 
 =>q114
-::Король крысоволков смотрит на вас, сбитый с толку. Почему-то у вас такое ощущение, что шутка не так удалась, как вы надеялись. Может быть, она ему не понравилась? Может быть, до него ещё не дошло? Это тайна, которой не суждено быть раскрытой: какой бы ни была причина, есть более насущные дела, на которых вы вынуждены сосредоточиться прямо сейчас, например тот факт, что Король крысоволков достаёт оружие, и начинается...::<end>
+::Король крысоволков смотрит на вас, сбитый с толку. Почему-то у вас такое ощущение, что шутка не так удалась, как вы надеялись. Может быть, она ему не понравилась? Может быть, до него ещё не дошло? Это тайна, которой не суждено быть раскрытой -- какой бы ни была причина, есть более насущные дела, на которых вы вынуждены сосредоточиться прямо сейчас, например тот факт, что Король крысоволков достаёт оружие и начинается...::<end>
 
 =>a115_original
 ::Fight!::<end>
@@ -720,19 +720,19 @@ A rathound walks into a bar... and the barkeeper shoots it! You see, no one like
 What does a cell about to undergo mitosis say to an interested geneticist? "I hope I have your divided attention!"<end>
 
 =>a116
-Что сказала клетка, готовая к митозу, заинтересованному исследователю? «Я надеюсь, что привлекаю ваше нераздельное внимание!»<end>
+Что сказала клетка, готовая к митозу, заинтересованному исследователю?.. «Я надеюсь, что привлекаю ваше нераздельное внимание!»<end>
 
 =>q117_original
 ::The Rathound King scratches his head in confusion.:: Metasis? Geneticisist? I don't understand any of that. Bah! I want to be amused, not bore me with things I don't understand.<end>
 
 =>q117
-::Король крысоволков чешет затылок в растерянности.:: Ментоз? Иселедователь? Я не понимаю. Тьфу! Я хотел развлечься, не докучай меня вещами, которые я не понимаю.<end>
+::Король крысоволков чешет затылок в растерянности.:: Ментоз? Выследователь? Я не понимаю. Тьфу! Я хотел развлечься, не докучай меня вещами, которые я не понимаю.<end>
 
 =>q118_original
 So you better tell me a good joke and stop wasting my time.<end>
 
 =>q118
-Так что лучше расскажи мне смешной анекдот и перестань тратить моё время.<end>
+Так что, лучше расскажи мне смешной анекдот и перестань тратить моё время.<end>
 
 =>a119_original
 How about we discuss something else?<end>
