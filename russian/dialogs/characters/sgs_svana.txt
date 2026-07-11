@@ -540,7 +540,7 @@ I need some sailing directions.<end>
 Where do you wanna go, kid?<end>
 
 =>q89
-Куда направляешься, малыш$(#/ка)?<end>
+Какой пункт назначения, малыш$(#/ка)?<end>
 
 =>q90_original
 <end>
@@ -600,7 +600,7 @@ Go south then east through a long tunnel known as the Meatway. After exiting it 
 Nowhere.<end>
 
 =>a99
-Никуда.<end>
+Не важно.<end>
 
 =>q100_original
 Mm-hmm.<end>
@@ -982,7 +982,7 @@ Anyway, <end>
 Damn it, how could you have left him like that?<end>
 
 =>a160
-Ну ты даёшь, как ты могла вот так бросить его?<end>
+Ну, ты даёшь, как ты могла вот так бросить его?<end>
 
 =>q161_original
 I... feel very bad about it, very bad, but it... happened, just happened. After all that <end>
@@ -1112,7 +1112,7 @@ You... ::Her eyebrows leap way above her goggles.::
 Ah, no, no, no. I ain't taking you there, kid. I don't sail that way. I can tell you about the Black Sea, sure, but only if you give me your word that you ain't gonna make me take you there. I know your kind, you always try persuading people into taking you to all these awful places.<end>
 
 =>q181
-Нет, нет, нет. Я не повезу тебя туда, малыш$(#/ка). Я туда не хожу. Я могу рассказать тебе о Чёрном море -- не вопрос, -- но только если дашь слово, что не заставишь меня везти тебя туда. Я знаю таких, как ты, вы постоянно пытаетесь убедить людей отправиться вместе с ними во всякие ужасные места.<end>
+Нет, нет, нет. Я не повезу тебя туда, малыш$(#/ка). Я туда не хожу. Я могу рассказать тебе о Чёрном море -- не вопрос, -- но только если дашь слово, что не заставишь меня везти тебя туда. Я знаю таких, как ты, -- вы постоянно пытаетесь убедить людей отправиться вместе с ними во всякие ужасные места.<end>
 
 =>a182_original
 Actually no, you were right, I want to go there.<end>
