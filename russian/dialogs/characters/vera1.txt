@@ -4,7 +4,7 @@
 Did you rest well, $(context.player.Name)?<end>
 
 =>q1
-::Хотя признаки беспокойства на её лице ещё можно заметить, сейчас стало куда больше уверенности и стойкости в её манерах и речи.::
+::Хотя признаки беспокойства на её лице ещё можно заметить, сейчас стало куда больше уверенности и решимости в её манерах и речи.::
 
 Вы хорошо отдохнули, $(context.player.Name)?<end>
 
@@ -40,7 +40,7 @@ Yes. To be more specific, I wanted to offer something to you.<end>
 How would you like to become one of the South Gate Station councilors?<end>
 
 =>q6
-Вы не хотели бы занять место советника станции Саут-Гейт?<end>
+Вы бы не хотели занять место советника станции Саут-Гейт?<end>
 
 =>a7_original
 Why me?<end>
@@ -124,7 +124,7 @@ I will have to think about it.<end>
 Certainly. There is no pressure on you. We simply feel you would be a valuable contribution to the council. I will be here once you've make your decision.<end>
 
 =>q20
-Конечно. Никто не давит на вас. Мы просто считаем, что вы стали бы ценным членом совета. Найдите меня здесь, когда вы примете решение.<end>
+Конечно. Никто не давит на вас. Мы просто считаем, что вы стали бы ценным членом совета. Найдите меня здесь, когда примете решение.<end>
 
 =>a21_original
 I understand. I had some other questions to ask you.<end>
@@ -172,7 +172,7 @@ Did the Faceless return Lora?<end>
 Yes. Malcom informed me that Faceless have appeared just east of Crossroad Watch. We were worried they came with hostile intentions, but after seeing that they were carrying Lora, we sent a few men out. The Faceless simply turned her in and left.<end>
 
 =>q28
-Да. Мальком сообщил мне, что безликие появились к востоку от перекрёстка пещер. Мы боялись, что они пришли с враждебными намерениями, но, увидев, что они несут Лору, мы послали нескольких человек навстречу. Безликие просто отдали её и ушли.<end>
+Да. Мальком сообщил мне, что безликие появились к востоку от перекрёстка пещер. Мы боялись, что они пришли с враждебными намерениями, но увидев, что они несут Лору, мы послали нескольких человек навстречу. Безликие просто отдали её и ушли.<end>
 
 =>q29_original
 She is in the med bay, resting.<end>
@@ -200,7 +200,7 @@ What? I cannot believe it... This is horrible, horrible. And at a time like this
 Gorsky and I may have had... disagreements, but I always held respect for him. He did a lot for this station. That is two councilors we have lost in a short period of time. Difficult times lay ahead of us.<end>
 
 =>q32
-Горский и я, возможно... имели определённые разногласия, но я всегда питала уважение к нему. Он многое сделал для этой станции. Мы потеряли двух советников в такой короткий период времени. Трудные времена впереди.<end>
+Горский и я, возможно... имели определённые разногласия, но я всегда питала к нему уважение. Он многое сделал для этой станции. Мы потеряли двух советников в такой короткий период времени. Трудные времена впереди.<end>
 
 =>a33_original
 ::Show Vera the keycard you found.:: Did this belong to the Bakers?<end>
@@ -218,7 +218,7 @@ Gorsky and I may have had... disagreements, but I always held respect for him. H
 I found it on a man's corpse in a deserted camp, located in the caves north of the Rail Crossing train station. I'm afraid that corpse was Terry's. Lora was nowhere to be seen.<end>
 
 =>a35
-Я наш$(#ёл/ла) её на теле мужчины в заброшенном лагере, расположенном в пещерах к северу от Переезда. Я боюсь, что тело принадлежит Терри. Лоры нигде не было видно.<end>
+Я наш$(#ёл/ла) её на теле мужчины в заброшенном лагере, расположенном в пещерах к северу от Переезда. Я боюсь, что тело принадлежало Терри. Лоры нигде не было видно.<end>
 
 =>q36_original
 ::Vera opens her mouth to say something, but falls silent. Several seconds pass before she advances the conversation.:: This is very bad... The Bakers were wonderful people... and... 
@@ -226,7 +226,7 @@ I found it on a man's corpse in a deserted camp, located in the caves north of t
 Have you learned anything else about what happened to them? Any clues, anything at all?<end>
 
 =>q36
-::Вера открывает рот, чтобы что-то сказать, но замолкает. Проходит пара секунд, прежде чем она продолжает разговор.:: Это очень плохо... Бейкеры были замечательными людьми... и... 
+::Вера открывает рот, чтобы что-то сказать, но замолкает. Проходит пара секунд, прежде чем она продолжает: :: Это очень плохо... Бейкеры были замечательными людьми... и... 
 
 Вы узнали что-нибудь ещё о том, что с ними случилось? Какие-то улики, хоть что-нибудь?<end>
 
@@ -246,7 +246,7 @@ Scavengers? But, why? How do you know all that?<end>
 I met them and their leader, Cornell, confessed. They wanted to rob them, so they followed them to Rail Crossing.<end>
 
 =>a39
-Я встретил$(#ся/ась) с ними, и их лидер -- Корнелл -- во всём признался. Они хотели ограбить Бейкеров, и для этого они последовали за ними на Переезд.<end>
+Я встретил$(#ся/ась) с ними, и их лидер Корнелл во всём признался. Они хотели ограбить Бейкеров, и для этого они последовали за ними на Переезд.<end>
 
 =>q40_original
 That is horrible, but it makes no sense! Why put in so much effort into robbing specifically Terry and Lora?<end>
@@ -264,7 +264,7 @@ The Acid Hunters wanted some special cube the Bakers had in their possession.<en
 ::Vera blankly stares at you.:: A cube? What cube? I was never told anything about... any cube. I need to ask Tanner about this, he is the last one who talked to them. I mean, when they contacted us from Core City.<end>
 
 =>q42
-::Вера непонимающе смотрит на вас.:: Куб? Какой куб? Никогда ничего не слышала о... каком-то кубе. Мне нужно спросить Таннера об этом, он последний, кто разговаривал с ними. То есть, когда они связались с нами из Кор-Сити.<end>
+::Вера непонимающе смотрит на вас.:: Куб? Какой куб? Никогда ничего не слышала о... каком-то кубе. Мне нужно спросить Таннера об этом, он последний, кто разговаривал с ними. Я имею в виду, когда они связались с нами из Кор-Сити.<end>
 
 =>q43_original
 So, these Acid Hunters... What happened to them? You said you met them?<end>
@@ -420,7 +420,7 @@ There was another pool of blood next to Terry's. Perhaps some animals dragged th
 ::She frowns in disgust.:: Please, I don't want that image in my head. ::She makes a waving motion, as if driving away the dreadful image that was constructed inside her mind. Afterwards, she makes a lengthy pause, visibly distressed by the conversation. Then, she recomposes herself and continues.:: <end>
 
 =>q68
-::Она морщится от отвращения.:: Пожалуйста, я не хочу представлять себе эту картину. ::Она делает рукой движение, будто отгоняя страшный воображаемый образ. После этого Вера делает продолжительную паузу, явно переживая. Затем она берёт себя в руки.:: <end>
+::Она морщится от отвращения.:: Пожалуйста, я не хочу представлять себе эту картину. ::Она делает рукой движение, будто отгоняя страшный образ. После этого Вера делает продолжительную паузу, явно переживая. Затем она берёт себя в руки.:: <end>
 
 =>a69_original
 They are all dead. I made sure they were dead before I left.<end>
@@ -450,7 +450,7 @@ One of the train operators told me the Bakers were led away from the Rail Crossi
 That is horrible! So they were at Rail Crossing after all, or at least they managed to reach the station. What of Lora? Do you think she could have survived somehow? Escaped her captors, perhaps?<end>
 
 =>q73
-Это ужасно! Так они всё-таки были на Переезде, или, по крайней мере, им удалось добраться до станции. Что с Лорой? Думаете, она могла выжить? Бежать от похитителей, может быть?<end>
+Это ужасно! Так, они всё-таки были на Переезде, или, по крайней мере, им удалось добраться до станции. Что с Лорой? Думаете, она могла выжить? Бежать от похитителей, может быть?<end>
 
 =>a74_original
 Sadly, that is all I know.<end>
@@ -474,7 +474,7 @@ Is there something I can do to help with the Faceless situation?<end>
 Yes, two of our own, Terry and Lora Baker, were on a merchant mission to the north when the Faceless invaded. We know they didn't get caught behind the blockade because they messaged in from the Core City before the assault happened.<end>
 
 =>q77
-Да, двое наших -- Терри и Лора Бейкер -- были с торговой миссией на севере, когда напали безликие. Мы знаем, что они не отрезаны блокадой, потому что получили от них сообщение из Кор-Сити до начала нападения.<end>
+Да, двое наших -- Терри и Лора Бейкер -- были с торговой миссией на севере, когда напали безликие. Мы знаем, что они не отрезаны блокадой, потому что получили от них сообщение из Кор-Сити до начала вторжения.<end>
 
 =>q78_original
 They were supposed to head straight back to SGS, but then this earthquake happened and blocked the railway, preventing their return. They might have stopped by Rail Crossing, in which case they might have been caught by whatever trouble is happening there.<end>
@@ -728,7 +728,7 @@ Perhaps later. Still got more work to do around here.<end>
 Alright. Let me know when you're ready to head over there.<end>
 
 =>q118
-Ладно. Дайте мне знать, когда будете готовы отправиться туда.<end>
+Хорошо. Дайте мне знать, когда будете готовы отправиться туда.<end>
 
 =>a119_original
 I can take those documents now. I'm heading out to Junkyard.<end>
@@ -1024,7 +1024,7 @@ So anyway, how can I help you?<end>
 =>q164
 Приятно слышать.
 
-Так как я могу помочь вам?<end>
+Итак, чем я могу помочь вам?<end>
 
 =>a165_original
 It's been fine so far.<end>
@@ -1052,7 +1052,7 @@ People keep sending me to solo dangerous missions, it's derailed!<end>
 They must have faith in your abilities and, considering you're still alive, I guess their trust was not misplaced.<end>
 
 =>q168
-Значит они верят в ваши способности, и, учитывая, что вы всё ещё живы, я думаю, что они в вас не ошиблись.<end>
+Значит, они верят в ваши способности, и, учитывая, что вы всё ещё живы, я думаю, что они в вас не ошиблись.<end>
 
 =>q169_original
 So, anyway, how can I help you?<end>
@@ -1088,7 +1088,7 @@ No.<end>
 The Faceless blockaded the city. They drilled right into the city perimeter defenses with their machines and caught them by surprise. Now we're cut off from the North and cannot receive any assistance from the Protectorate.<end>
 
 =>q174
-Безликие осадили город. Они пробурились под периметром обороны в своих машинах и застали их врасплох. Теперь мы отрезаны от Севера и не можем получить никакой поддержки от Протектората.<end>
+Безликие осадили город. Они пробурились под периметром обороны в своих машинах и застали всех врасплох. Теперь мы отрезаны от Севера и не можем получить никакой поддержки от Протектората.<end>
 
 =>q175_original
 Unbelievable - a homicide inside the station! The word will surely get out, surely. I just hope it doesn't tarnish our reputation. This station is supposed to be safe.
@@ -1096,7 +1096,7 @@ Unbelievable - a homicide inside the station! The word will surely get out, sure
 ::She takes a deep breath.:: Excuse me, please. Uh, how can I help you?<end>
 
 =>q175
-Невероятно - убийство внутри станции! Наверняка, всё станет известно. Я просто надеюсь, что это не испортит нашу репутацию. Станция должна считаться безопасной.
+Невероятно -- убийство на станции! Наверняка, всё станет известно. Я только надеюсь, что это не испортит нашу репутацию. Станция должна считаться безопасной.
 
 ::Она глубоко вздыхает.:: Простите, пожалуйста. Чем могу помочь?<end>
 
