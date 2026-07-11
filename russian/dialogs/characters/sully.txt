@@ -136,7 +136,7 @@ Are you going to remain here?<end>
 I think it be better if we left. If these raiders were a part of a bigger organization, this place is not safe anymore.<end>
 
 =>q22
-Я думаю, что будет лучше, если мы уйдём. Если эти рейдеры были частью более крупной банды, это место не безопасно.<end>
+Я думаю, что будет лучше, если мы уйдём. Если эти рейдеры были частью более крупной банды, это место небезопасно.<end>
 
 =>a23_original
 Hang in there, man.<end>
@@ -156,7 +156,7 @@ We don't have much to offer in return for your assistance. If you see something 
 It is not like we could stop you anyway. There's been enough bloodshed today as it is.<end>
 
 =>q25
-У нас не так много есть, чтобы предложить в обмен на вашу помощь. Если вы увидите что-то, что вам нужно, просто возьмите.
+У нас не так много есть, чтобы предложить в награду за вашу помощь. Если вы увидите что-то, что вам нужно, просто возьмите.
 
 Мы бы не смогли остановить вас в любом случае. Было уже достаточно кровопролития на сегодня.<end>
 
@@ -188,7 +188,7 @@ What will you do now?<end>
 Truth be told... I do not know. If these raiders were a part of a bigger organization, this place is not safe anymore. We might have to move.<end>
 
 =>q30
-По правде говоря... я не знаю. Если эти рейдеры были частью более крупной банды, это место не безопасно. Возможно, нам придётся уйти.<end>
+По правде говоря... я не знаю. Если эти рейдеры были частью более крупной банды, это место небезопасно. Возможно, нам придётся уйти.<end>
 
 =>a31_original
 There is nothing else that I need. I'll be leaving now.<end>
@@ -260,7 +260,7 @@ Perhaps I do, but why should I tell you?<end>
 ::[Persuade]:: If you tell me, I'll see what I can do to help you.<end>
 
 =>a42
-::[Убеждение]:: Если вы скажете мне, я посмотрю чем я могу помочь вам.<end>
+::[Убеждение]:: Если вы скажете мне, я посмотрю, чем я смогу помочь вам.<end>
 
 =>q43_original
 I'm not sure I should trust you. ::He sighs.:: But I don't have much choice, anyway.<end>
@@ -286,7 +286,7 @@ Your threats are empty. They will not let you harm us. They... have other plans 
 This conversation is over.<end>
 
 =>q46
-Ваши угрозы пусты. Они не позволят вам причинить нам вред. Они... уже имеют другие планы насчёт нас.
+Ваши угрозы пусты. Они не позволят вам причинить нам вред. Они... уже имеют другие планы на наш счёт.
 
 Этот разговор окончен.<end>
 
