@@ -84,7 +84,7 @@ By the way, is that a bald patch on your head? Maybe it's just the lighting. ::H
 I might need some surveillance help. <end>
 
 =>a14
-Мне может понадобиться некоторая помощь с наблюдением.<end>
+Мне может понадобиться некоторая помощь с наблюдением. <end>
 
 =>q15_original
 Hey, whatever you need. ::He looks at the monitor.::<end>
@@ -368,7 +368,7 @@ A client. Do not talk to him; he doesn't want to be talked to. Hmm? I said do no
 What can you tell me about those robed oculites? <end>
 
 =>a58
-Что можешь рассказать о тех окулитах в робах?<end>
+Что можешь рассказать о тех окулитах в робах? <end>
 
 =>q59_original
 ::He answers you while still watching one of the monitors.:: Colloquially known as Whisperers, the deadly psi-warriors belonging to a clan called Khazum Morakht guard Oculus vigilantly. All Khazum Morakht members are highly intelligent individuals who join the clan at a young age and receive training in all major psi disciplines. Only upon mastering all of those can they swear an oath before being allowed to perform their duty.<end>
@@ -449,4 +449,3 @@ Goodbye, Twitch.<end>
 
 =>q71
 ::Смотрит на вас.:: Приятно... ::Отвлекается на монитор, потом снова обращается к вам.:: видеть тебя снова... ::Смотрит на монитор, потом снова на вас.:: $(context.player.Name)!<end>
-

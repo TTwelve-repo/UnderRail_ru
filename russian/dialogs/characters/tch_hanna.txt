@@ -58,7 +58,7 @@ We keep the new vathosphores... downstairs. <end>
 =>q9
 ::Она подаёт знак другому рясофору, и он выходит из комнаты.::
 
-Мы храним новые ватосфоры... внизу.<end>
+Мы храним новые ватосфоры... внизу. <end>
 
 =>q10_original
 ::While the rassophore is away, she grabs a rassophore armor from one of the lockers.::
@@ -397,4 +397,3 @@ Hey, $(context.player.Name). What culling tools do you need now?<end>
 
 =>q61
 Привет, $(context.player.Name). Какой прополочный инструмент вам нужен на этот раз?<end>
-

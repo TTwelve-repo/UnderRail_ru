@@ -310,7 +310,7 @@ Let's do it fast and as least awkward as possible.<end>
 Not gonna happen. <end>
 
 =>q49
-Нет не получится.<end>
+Нет не получится. <end>
 
 =>q50_original
 We're too far away.<end>
@@ -642,7 +642,7 @@ It's Ronald. Westrock.<end>
 $(context.player.Name). <end>
 
 =>a103
-$(context.player.Name).<end>
+$(context.player.Name). <end>
 
 =>q104_original
 Cheers, $(context.player.Name). ::He raises his bottle.::<end>
@@ -718,7 +718,7 @@ So that's where you got that pistol.<end>
 It's my former service pistol. <end>
 
 =>q115
-Это мой бывший служебный пистолет.<end>
+Это мой бывший служебный пистолет. <end>
 
 =>q116_original
 Biometrically locked. I'm the only one who can use it.<end>
@@ -952,7 +952,7 @@ Go on.<end>
 I got this as my service pistol. <end>
 
 =>q152
-Я получил его в качестве служебного пистолета.<end>
+Я получил его в качестве служебного пистолета. <end>
 
 =>a153_original
 To Nimble!<end>
@@ -1120,7 +1120,7 @@ We make a good team. Maybe we should keep this up. Partner.<end>
 We certainly do, but I think <end>
 
 =>q178
-Конечно, да, но я думаю.<end>
+Конечно, да, но я думаю. <end>
 
 =>q179_original
 I've had enough excitement for the time being.<end>
@@ -1190,7 +1190,7 @@ I don't have time to be still. New experiences await.<end>
 If you change your mind, <end>
 
 =>q189
-Если ты передумаешь,<end>
+Если ты передумаешь, <end>
 
 =>a190_original
 I didn't come back empty-handed. I'm going straight to the merchants.<end>
@@ -1371,4 +1371,3 @@ Hate to sound rude, but I'm kind of invested in my lunch at the moment.<end>
 
 =>q219
 ::Вы видите своё собственное отражение в его очках.::<end>
-

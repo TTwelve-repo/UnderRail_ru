@@ -14,7 +14,7 @@ I mix stuff and ya drop it in. Nice and simple.<end>
 Let's see what you've been mixing for tonight. ::Barter.:: <end>
 
 =>a3
-Давай посмотрим, что ты намешала сегодня. ::Обмен.::<end>
+Давай посмотрим, что ты намешала сегодня. ::Обмен.:: <end>
 
 =>a4_original
 Tell me more about this place.<end>
@@ -176,7 +176,7 @@ People are down for some droppin' after workin' hard all day. Lemme tell ya, my 
 It's an all-in party tonight. Down to risk it up with some of my mixes? <end>
 
 =>q30
-Сегодня вечеринка проходит ва-банк. Рискнёшь попробовать что-нибудь из моих коктейлей?<end>
+Сегодня вечеринка проходит ва-банк. Рискнёшь попробовать что-нибудь из моих коктейлей? <end>
 
 =>q31_original
 With all the things goin' around this... this is the natural outcome of it all I suppose. ::She rolls her eyes.::<end>
@@ -200,7 +200,7 @@ Armed to the teeth, they kinda make ya feel safe, ya know? ::She looks at the ca
 Yo, yo, yo! Welcome to the Waterbrew fest! This week, we're mixing it up with some special beers comin' from best brewers around the waterways! ::She invites you to try her drinks.:: <end>
 
 =>q34
-Йоу, йоу, йоу! Добро пожаловать на фестиваль Водоварения! На этой неделе мы приготовим несколько специальных сортов самогона от лучших водоваров с водных просторов! ::Она приглашает вас попробовать свои напитки.::<end>
+Йоу, йоу, йоу! Добро пожаловать на фестиваль Водоварения! На этой неделе мы приготовим несколько специальных сортов самогона от лучших водоваров с водных просторов! ::Она приглашает вас попробовать свои напитки.:: <end>
 
 =>q35_original
 <end>
@@ -337,4 +337,3 @@ Tonight, I can hear myself speakin'. That means it's a pretty slow going night. 
 
 =>q56
 Сегодня я слышу свой голос. А это значит, что ночка проходит довольно вяло. Готов$(#/а) её слегка встряхнуть? ::Она подмигивает.::<end>
-

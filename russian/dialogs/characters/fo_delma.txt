@@ -40,7 +40,7 @@ I need to ask you some questions about a prisoner named Todor Sallywatch.<end>
 Yes, Todor Sallywatch. What did you want to ask me about him? <end>
 
 =>q6
-Да, Тодор Саллиуотч. О чём вы хотели меня спросить?<end>
+Да, Тодор Саллиуотч. О чём вы хотели меня спросить? <end>
 
 =>q7_original
 <end>
@@ -334,13 +334,13 @@ Uh, well, the Foundry Guard is on high alert right now because of those things. 
 My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and even though we now know some of them were performed by Evelyn Ingram, still... some creatures might be finding their way in. Eyes open, got it? <end>
 
 =>q53
-Мой вам совет, $(#амиго/чика): не приближайтесь к шахте и старайтесь находиться вблизи вооружённого персонала, пока ситуация не разрешится. Имеются сообщения о жестоких убийствах в жилом районе, и, хотя теперь мы знаем, что часть из них были совершены Эвелин Ингрэм, всё же... несколько тварей могли пробраться внутрь. Будьте начеку, понимаете?<end>
+Мой вам совет, $(#амиго/чика): не приближайтесь к шахте и старайтесь находиться вблизи вооружённого персонала, пока ситуация не разрешится. Имеются сообщения о жестоких убийствах в жилом районе, и, хотя теперь мы знаем, что часть из них были совершены Эвелин Ингрэм, всё же... несколько тварей могли пробраться внутрь. Будьте начеку, понимаете? <end>
 
 =>q54_original
 My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and the creatures could be responsible. Eyes open, got it? <end>
 
 =>q54
-Мой вам совет, $(#амиго/чика): не приближайтесь к шахте и старайтесь находиться вблизи вооружённого персонала, пока ситуация не разрешится. Имеются сообщения о жестоких убийствах в жилом районе, и в них могут быть виноваты эти твари. Будьте начеку, понимаете?<end>
+Мой вам совет, $(#амиго/чика): не приближайтесь к шахте и старайтесь находиться вблизи вооружённого персонала, пока ситуация не разрешится. Имеются сообщения о жестоких убийствах в жилом районе, и в них могут быть виноваты эти твари. Будьте начеку, понимаете? <end>
 
 =>a55_original
 How do you feel now that the mine has been reopened?<end>
@@ -525,4 +525,3 @@ Yes? What can I do to help you?<end>
 
 =>q82
 Да? Что я могу для вас сделать?<end>
-

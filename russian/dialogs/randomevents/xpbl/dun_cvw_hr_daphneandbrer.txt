@@ -26,7 +26,7 @@ Can you tell me more about this place?<end>
 Huh, the story of this place is quite... hard to believe. I've been told that this corner of the cave used to be one of the hideouts for some looters, you know, the usual business. One day, they caught certain someone, a traveler or something, whom they've tried to rob; as they usually do. Apparently, he had some hoppers with him and, having no way out, he offered to teach them how to tame them. Just for the fun of it, they've accepted the offer and in return they would let him slide. <end>
 
 =>q5
-Ха, история у этого места довольно... невероятная. Мне рассказывали, что эта часть пещеры раньше была одним из убежищ каких-то мародёров, ну, знаешь, обычное дело. Однажды они поймали кого-то известного, путешественника или кого-то там, кого они пытались ограбить, как они обычно это делают. Видимо, с ним были какие-то пещерники, и, не имея выбора, он предложил научить мародёров приручать пещерников. Чтобы ради забавы они приняли предложение, а взамен отпустили бы его.<end>
+Ха, история у этого места довольно... невероятная. Мне рассказывали, что эта часть пещеры раньше была одним из убежищ каких-то мародёров, ну, знаешь, обычное дело. Однажды они поймали кого-то известного, путешественника или кого-то там, кого они пытались ограбить, как они обычно это делают. Видимо, с ним были какие-то пещерники, и, не имея выбора, он предложил научить мародёров приручать пещерников. Чтобы ради забавы они приняли предложение, а взамен отпустили бы его. <end>
 
 =>q6_original
 Before you knew it, they started to get good at it, and soon enough, they've started trying out various "games" using the creatures. ::She rolls her eyes.:: One thing led to another, and here it is: the *Hopperdrome*. ::Unconvinced by her own story, she shrugs her shoulders.:: Ehh, forget about it.<end>
@@ -94,13 +94,13 @@ Huh? It didn't arrive yet? Damned slackers. ::He shakes his head side to side, s
 I'm $(context.player.Name). <end>
 
 =>a15
-Я $(context.player.Name).<end>
+Я $(context.player.Name). <end>
 
 =>q16_original
 Alright ::He nods.:: <end>
 
 =>q16
-Хорошо ::Он кивает.::<end>
+Хорошо ::Он кивает.:: <end>
 
 =>q17_original
 Well, this is my shop. It's filled with a bunch of stuff I'd like to get rid off ::He points all over the shelves nearby.:: The mess in here is just growing and if keeps going like that, I'll drown in it. ::He laughs.:: For a price, I'll let you carry that burden.<end>
@@ -178,7 +178,7 @@ Now that the business's rolling in here, I'd be extra careful sailing the waters
 All the way west from the Rig. There's a place where the real risk takers go out to seek, you know... *adventure*. I don't know, I sure as hell wouldn't have been among the first ones to just go in there like that. <end>
 
 =>q29
-Прямо на запад от Буровой. Там есть место, куда ходят на поиски... ну, знаешь, *приключений* настоящие любители риска. Я не знаю, я бы туда точно просто так не пошёл.<end>
+Прямо на запад от Буровой. Там есть место, куда ходят на поиски... ну, знаешь, *приключений* настоящие любители риска. Я не знаю, я бы туда точно просто так не пошёл. <end>
 
 =>q30_original
 Without the approval of the Black Eels back in the day, none of this here would've been possible. Right now though, I'm not sure what's going on. Interests left and right, it's just so messed up, you know. Someone took out Silas! That's both insane and well... not surprising. Just keep an extra eye out, no other way about it.<end>
@@ -214,7 +214,7 @@ My name is not important.<end>
 Hmph, that I won't argue with. <end>
 
 =>q35
-Хм, с этим не поспоришь.<end>
+Хм, с этим не поспоришь. <end>
 
 =>a36_original
 There will be no next race for you! ::Attack!::<end>
@@ -232,7 +232,7 @@ None of your concern.<end>
 I suppose you're right. <end>
 
 =>q38
-Полагаю, ты прав$(#/а).<end>
+Полагаю, ты прав$(#/а). <end>
 
 =>a39_original
 Yeah I got your stuff right here.<end>
@@ -282,7 +282,7 @@ $(context.player.Name), единственный и неповторимый и�
 Invictus? Hmph, wait until we get this place growing. Soon enough, that prestige of yours will be left behind in dust. Winning Hopperdrome consistently will be *the thing* around here. We'll come up with a new title, one that's worthy of such great deed. <end>
 
 =>q45
-Инвиктус? Хм, подожди, скоро это место разовьётся и вырастет. И твой престиж останется всего лишь пылью. Победа на Пещерникодроме - вот что будет иметь *значение* здесь. Мы придумаем новый титул, достойный такого мастерства.<end>
+Инвиктус? Хм, подожди, скоро это место разовьётся и вырастет. И твой престиж останется всего лишь пылью. Победа на Пещерникодроме - вот что будет иметь *значение* здесь. Мы придумаем новый титул, достойный такого мастерства. <end>
 
 =>a46_original
 There's no challenge I cannot overcome.<end>
@@ -294,7 +294,7 @@ There's no challenge I cannot overcome.<end>
 It'll only get harder and harder, trust me on that. ::He pauses briefly.:: <end>
 
 =>q47
-Это будет только труднее и труднее, поверь мне. ::Он делает короткую паузу.::<end>
+Это будет только труднее и труднее, поверь мне. ::Он делает короткую паузу.:: <end>
 
 =>a48_original
 Wishful thinking.<end>
@@ -306,7 +306,7 @@ Wishful thinking.<end>
 Just you wait. What we have here is a gold mine in making. ::He nods at you.:: <end>
 
 =>q49
-Просто подожди. То, что мы имеем здесь, - это золотая жила в процессе создания. ::Он кивает подтверждая свои слова.::<end>
+Просто подожди. То, что мы имеем здесь, - это золотая жила в процессе создания. ::Он кивает подтверждая свои слова.:: <end>
 
 =>q50_original
 ::The objects populating the table before you are quite massive, all brimmed with mechanical components. Among them is a toolbox loaded with a bunch of gadgets and instruments, all of which are resting in a pool of bolts and screws. You grab its two handles by the side and try to lift it up quietly. As soon as you pull it, you realize that it's way heavier than it looks as the box starts to wobble around, scratching the metal below, causing very loud scratching noise. The rattling of the tools inside further contribute to this mess, which immediately takes the attention away from the mechanic's work, as he makes a loud gasp. He sees that you're struggling with the box and with a mere touch of his hand, he halts your attempts to lift it up.:: The hell're you doing? Trying to mess up with me again? 
@@ -316,7 +316,7 @@ Just you wait. What we have here is a gold mine in making. ::He nods at you.:: <
 =>q50
 ::Стол завален массивными коробками, которые до краёв забиты механическими деталями. Среди них есть ящик, загруженный кучей приспособлений и инструментов, которые покоятся в куче болтов и винтов. Вы хватаете его за обе ручки и пытаетесь тихо поднять. Потянув ящик, вы сразу понимаете, что он намного тяжелее, чем кажется. Ящик начинает качаться, царапая дном металлическую поверхность с громким скрежещущим звуком. Лязганье инструментов внутри ещё больше усиливает эту какофонию, что отвлекает механика от работы. Он громко вздыхает. Увидев, как вы боретесь с коробкой, он простым прикосновением руки останавливает ваши попытки поднять её.:: Какого чёрта ты делаешь? Опять пытаешься до меня доколупаться? 
 
-::Он поднимает защитные очки.:: О, эм... кто ты? И где мои детали?<end>
+::Он поднимает защитные очки.:: О, эм... кто ты? И где мои детали? <end>
 
 =>a51_original
 I'm $(context.player.Name). I don't have your stuff.<end>
@@ -328,7 +328,7 @@ I'm $(context.player.Name). I don't have your stuff.<end>
 Okay, guess I'm not going to finishing this thing in time. ::He gasps.:: <end>
 
 =>q52
-Ладно, полагаю, вовремя закончить это я не успею. ::Он вздыхает.::<end>
+Ладно, полагаю, вовремя закончить это я не успею. ::Он вздыхает.:: <end>
 
 =>a53_original
 How about I stuff you! ::Attack!::<end>
@@ -364,7 +364,7 @@ Pfft, whatever then. Ahhh... I'll just chill out for now, there is no way I'll g
  ::He nods.::This brings back the memories of the docks… yeah. With a pull like that, I bet you'd be able to arm wrestle all of those pipeworkers out there.<end>
 
 =>q58
-::Он кивает.::Это напоминает мне о доках… да. С такой силой, держу пари, ты смог$(#/ла) бы побороть на руках всех этих трубочистов.<end>
+ ::Он кивает.::Это напоминает мне о доках… да. С такой силой, держу пари, ты смог$(#/ла) бы побороть на руках всех этих трубочистов.<end>
 
 =>q59_original
 ::You attempt to grip his hand and pull as hard as you can. His open palm stands still, unphased by the force you exert on it. Realizing what's going on, he retracts his hand backwards and immediately utilizes it to continue on his work. Annoyed with what you've tried to do, he makes a grim expression on his exasperated face, which hasn't moved at all since you walked in.:: This again? Seriously? Don't you have anything better to do? This old wagon's been pulling all you quakers for far too long. Now, where's my stuff?<end>
@@ -406,7 +406,7 @@ I'm sorry, I don't have your stuff.<end>
  ::He places the hurt palm on his cheek and slightly moves it up and down.:: I'll never forget once I had one of those land here. Sure as hell I've learned my lesson that day.<end>
 
 =>q65
-::Он кладёт больную ладонь на щеку и слегка двигает ею вверх и вниз.:: Я никогда не забуду, как однажды одна такая оказалась здесь. Я выучил свой урок в тот день, это уж точно.<end>
+ ::Он кладёт больную ладонь на щеку и слегка двигает ею вверх и вниз.:: Я никогда не забуду, как однажды одна такая оказалась здесь. Я выучил свой урок в тот день, это уж точно.<end>
 
 =>q66_original
 ::You slap his palm with all you've got. As if you attempted to hit a rock, your hand bounces off without making any impact on him. All it did was make him stop working on the device, which he does by lowering the tool he was holding in the other hand.:: Seriously, this again? How many times do people around here have to mess with me for no reason? ::He halts as he tries to remember you.:: Ummm... you're new here, right? How fast have you picked up their dirty pranks, hmph. ::He sighs.:: I'm Brer and I'm in charge of maintaining the racing track. Did you bring me my stuff?<end>
@@ -455,4 +455,3 @@ Help me get rid of this stuff around here. Almost all of it is for sale.<end>
 
 =>q73
 Помоги мне избавиться от всего этого здесь. Почти всё здесь продаётся.<end>
-

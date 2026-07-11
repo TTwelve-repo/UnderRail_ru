@@ -34,7 +34,7 @@ I'm sorry: Name's Raymond Cerr, the owner. Eh, ya were sayin'...? <end>
 =>q5
 ::Только вы открываете рот, как его голос вас прерывает.::
 
-Прошу прощенья: меня зовут Рэймонд Керр, владелец. Э-э, ты что-то хотел$(#/а) сказать?..<end>
+Прошу прощенья: меня зовут Рэймонд Керр, владелец. Э-э, ты что-то хотел$(#/а) сказать?.. <end>
 
 =>q6_original
 ::You notice that the previously quite observable anxiety has quickly dissipated. His smile broadens; his countenance brightens.::<end>
@@ -76,7 +76,7 @@ That is none of your business.<end>
 Now, $(context.npc_cc_ray_playerName), <end>
 
 =>q12
-Что ж, $(context.npc_cc_ray_playerName),<end>
+Что ж, $(context.npc_cc_ray_playerName), <end>
 
 =>q13_original
 <end>
@@ -136,7 +136,7 @@ Show me the good stuff. I'm not a zoner.<end>
 Ha-ha, that's what I like to hear. <end>
 
 =>q22
-Ха-ха, это я и хотел услышать.<end>
+Ха-ха, это я и хотел услышать. <end>
 
 =>a23_original
 I rode them before, yeah.<end>
@@ -184,7 +184,7 @@ we got a hardcore assortment of engines, batteries, suspensions - from cheap to 
 let's talk repairs. <end>
 
 =>q30
-поговорим о ремонте.<end>
+поговорим о ремонте. <end>
 
 =>q31_original
 Unless ya've suffered a breakdown, and by that I mean a malfunction which either prevents yer jet from operatin' at all, or impedes it so much ya can't drive it no more, there's no need for me to be takin' yer hard-earned coins for repairs ya could do on yer own.<end>
@@ -298,7 +298,7 @@ Torpedo.<end>
 It's yers for $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0). <end>
 
 =>q49
-Он твой за $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0).<end>
+Он твой за $(context.VehicleStatus_xpbl_torpedoFrame.BuyPriceWithDiscount0). <end>
 
 =>q50_original
 <end>
@@ -328,7 +328,7 @@ Deal. Here's the money. ::Give him $(context.VehicleStatus_xpbl_torpedoFrame.Buy
 Congratulations, $(context.npc_cc_ray_playerName) - ya bought yerself a jet! <end>
 
 =>q54
-Поздравляю, $(context.npc_cc_ray_playerName) - ты приобр$(#ёл/ела) себе гидроцикл!<end>
+Поздравляю, $(context.npc_cc_ray_playerName) - ты приобр$(#ёл/ела) себе гидроцикл! <end>
 
 =>q55_original
 Keep yer eyes on it real good. Them pirate sons of rats are everywhere now.<end>
@@ -444,7 +444,7 @@ Actually, I think this might be too expensive for me. Mind if I choose another o
 O-kay. <end>
 
 =>q73
-Лады.<end>
+Лады. <end>
 
 =>a74_original
 Or maybe I haven't decided.<end>
@@ -1490,7 +1490,7 @@ The engine is what makes yer jet move. Now, before I continue, I work with elect
 Anyways, when it comes to engines, things are fairly straightforward, especially nowadays when everythin' so modular. By the way, some jets can support *two* engines, so ya just connect the extra one and now ya got two. Easy-peasy. <end>
 
 =>q246
-Так или иначе, когда дело доходит до двигателей, всё довольно просто, особенно в наши времена модульных решений. Кстати, некоторые гидроциклы поддерживают работу *двух* двигателей, просто подключаешь дополнительный, и теперь у тебя их два. Как два пальца.<end>
+Так или иначе, когда дело доходит до двигателей, всё довольно просто, особенно в наши времена модульных решений. Кстати, некоторые гидроциклы поддерживают работу *двух* двигателей, просто подключаешь дополнительный, и теперь у тебя их два. Как два пальца. <end>
 
 =>q247_original
 The better the engine is, the more power yer jet's gonna have and the faster it's gonna go. Ya got some limitations on the size of the engine ya can put in a jet, of course, which mostly depends on its frame, and some engines use more juice than others relative to their output. Other than that, though, it's just a matter of cashin' it out and puttin' it in, and that's somethin' even a zoner can do. If he had the coins...<end>
@@ -1508,7 +1508,7 @@ Tell me more about batteries.<end>
 A jet ain't gonna run on love and carin' - it needs juice. The battery's what provides that very juice. Pretty much all jet batteries got the same voltage, so they are interchangeable, therefore the differences between batteries lie primarily in their size and their capacity. <end>
 
 =>q249
-Гидроцикл не будет работать лишь на любви и заботе - ему нужна энергия. Именно батарея обеспечивает его этой самой энергией. Практически все батареи гидроциклов одинаковы по напряжению, поэтому они взаимозаменяемы, а различия заключаются, прежде всего, в их размерах и ёмкости.<end>
+Гидроцикл не будет работать лишь на любви и заботе - ему нужна энергия. Именно батарея обеспечивает его этой самой энергией. Практически все батареи гидроциклов одинаковы по напряжению, поэтому они взаимозаменяемы, а различия заключаются, прежде всего, в их размерах и ёмкости. <end>
 
 =>q250_original
 The higher the capacity, the longer ya can drive yer jet before needin' to recharge it. If ya can't fit a battery in yer frame, ya better choose a smaller battery. And that's it, $(context.npc_cc_ray_playerName). That's all ya gotta know about jet batteries.<end>
@@ -1658,7 +1658,7 @@ I need some spare parts.<end>
 Yer in the right place, $(context.npc_cc_ray_playerName), 'cuz <end>
 
 =>q274
-С этим ты по адресу, $(context.npc_cc_ray_playerName), ведь<end>
+С этим ты по адресу, $(context.npc_cc_ray_playerName), ведь <end>
 
 =>a275_original
 I'd like to sell a jet to you.<end>
@@ -1670,7 +1670,7 @@ I'd like to sell a jet to you.<end>
 So ya know, I ain't interested in buyin' no junk jets - ya know, the makeshift ones. I'm interested in quality jets only. If that's whatcha got, just <end>
 
 =>q276
-Чтобы ты знал$(#/а), я не заинтересован в покупке мусорщиков... ну, тех - самодельных. Меня интересуют только качественные гидроциклы. Если у тебя именно такой, тогда<end>
+Чтобы ты знал$(#/а), я не заинтересован в покупке мусорщиков... ну, тех - самодельных. Меня интересуют только качественные гидроциклы. Если у тебя именно такой, тогда <end>
 
 =>q277_original
 bring yer jet inside and we'll take a look at 'er. There're buttons by the jet lift ya can use to raise and lower the gate.<end>
@@ -1694,13 +1694,13 @@ How much will you give me for the Torpedo?<end>
 Well... I'd say around... hmmm... <end>
 
 =>q280
-Ну... скажем... хм-м-м...<end>
+Ну... скажем... хм-м-м... <end>
 
 =>q281_original
 $(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease0). <end>
 
 =>q281
-$(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease0).<end>
+$(context.VehicleStatus_xpbl_torpedoFrame.SellPriceWithIncrease0). <end>
 
 =>q282_original
 I ain't buyin' it without the key, just so ya know. If ya got the key, and ya agree to the price, then we got ourselves a deal.<end>
@@ -1772,7 +1772,7 @@ Oh, and if ya think ya might've forgotten somethin' in yer jet, check that gray 
 ::He sighs.:: Ya drive a hard bargain. O-kay, <end>
 
 =>q293
-::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно, <end>
 
 =>q294_original
 Sorry, too much. Too much, $(context.npc_cc_ray_playerName).<end>
@@ -1826,7 +1826,7 @@ We got ourselves a deal. ::Sell the Blazer for $(context.VehicleStatus_xpbl_blaz
 ::He sighs.:: Ya drive a hard bargain. O-kay, <end>
 
 =>q302
-::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно, <end>
 
 =>a303_original
 ::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease2)? We got a deal?<end>
@@ -1940,7 +1940,7 @@ We got ourselves a deal. ::Sell the Phaser for $(context.VehicleStatus_xpbl_phas
 ::He sighs.:: Ya drive a hard bargain. O-kay, <end>
 
 =>q321
-::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно, <end>
 
 =>a322_original
 ::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease2)? We got a deal?<end>
@@ -2018,7 +2018,7 @@ We got ourselves a deal. ::Sell the Shark for $(context.VehicleStatus_xpbl_shark
 ::He sighs.:: Ya drive a hard bargain. O-kay, <end>
 
 =>q334
-::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно, <end>
 
 =>a335_original
 ::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease2)? We got a deal?<end>
@@ -2096,7 +2096,7 @@ We got ourselves a deal. ::Sell the Glow for $(context.VehicleStatus_xpbl_glowFr
 ::He sighs.:: Ya drive a hard bargain. O-kay, <end>
 
 =>q347
-::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно, <end>
 
 =>a348_original
 ::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease2)? We got a deal?<end>
@@ -2174,7 +2174,7 @@ We got ourselves a deal. ::Sell the Plasma Leviator for $(context.VehicleStatus_
 ::He sighs.:: Ya drive a hard bargain. O-kay, <end>
 
 =>q360
-::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно, <end>
 
 =>a361_original
 ::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease2)? We got a deal?<end>
@@ -2252,7 +2252,7 @@ We got ourselves a deal. ::Sell the Devastator for $(context.VehicleStatus_xpbl_
 ::He sighs.:: Ya drive a hard bargain. O-kay, <end>
 
 =>q373
-::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно, <end>
 
 =>a374_original
 ::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease2)? We got a deal?<end>
@@ -2330,7 +2330,7 @@ We got ourselves a deal. ::Sell the Freighter for $(context.VehicleStatus_xpbl_f
 ::He sighs.:: Ya drive a hard bargain. O-kay, <end>
 
 =>q386
-::Он вздыхает.:: Ты хорошо торгуешься. Ладно,<end>
+::Он вздыхает.:: Ты хорошо торгуешься. Ладно, <end>
 
 =>a387_original
 ::[Mercantile]:: Come on, Ray, you can do better than that. How about $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease2)? We got a deal?<end>
@@ -2396,43 +2396,43 @@ I lost the key.<end>
 $(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease0). <end>
 
 =>q397
-$(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease0).<end>
+$(context.VehicleStatus_xpbl_blazerFrame.SellPriceWithIncrease0). <end>
 
 =>q398_original
 $(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease0). <end>
 
 =>q398
-$(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease0).<end>
+$(context.VehicleStatus_xpbl_phaserFrame.SellPriceWithIncrease0). <end>
 
 =>q399_original
 $(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease0). <end>
 
 =>q399
-$(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease0).<end>
+$(context.VehicleStatus_xpbl_sharkFrame.SellPriceWithIncrease0). <end>
 
 =>q400_original
 $(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease0). <end>
 
 =>q400
-$(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease0).<end>
+$(context.VehicleStatus_xpbl_glowFrame.SellPriceWithIncrease0). <end>
 
 =>q401_original
 $(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease0). <end>
 
 =>q401
-$(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease0).<end>
+$(context.VehicleStatus_xpbl_plasmaLeviatorFrame.SellPriceWithIncrease0). <end>
 
 =>q402_original
 $(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease0). <end>
 
 =>q402
-$(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease0).<end>
+$(context.VehicleStatus_xpbl_devastatorFrame.SellPriceWithIncrease0). <end>
 
 =>q403_original
 $(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease0). <end>
 
 =>q403
-$(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease0).<end>
+$(context.VehicleStatus_xpbl_freighterFrame.SellPriceWithIncrease0). <end>
 
 =>a404_original
 How much will you give me for the Blazer?<end>
@@ -2534,7 +2534,7 @@ Reef Glider.<end>
 Never heard of it. <end>
 
 =>q420
-Никогда о таком не слышал.<end>
+Никогда о таком не слышал. <end>
 
 =>q421_original
 What kind of a jet is it?<end>
@@ -2718,7 +2718,7 @@ Seven grand.<end>
 Seven g-- Yeah. Sure, sure. <end>
 
 =>q450
-Семь ш... Да, конечно, конечно.<end>
+Семь ш... Да, конечно, конечно. <end>
 
 =>a451_original
 I need to think about this.<end>
@@ -2730,7 +2730,7 @@ I need to think about this.<end>
 O-kay. <end>
 
 =>q452
-Лады.<end>
+Лады. <end>
 
 =>a453_original
 It's a custom model.<end>
@@ -2742,7 +2742,7 @@ It's a custom model.<end>
 Ah. <end>
 
 =>q454
-О...<end>
+О... <end>
 
 =>a455_original
 Frankly, I have no clue myself.<end>
@@ -2784,7 +2784,7 @@ Never heard of a Reef Glider?<end>
 No. <end>
 
 =>q461
-Нет.<end>
+Нет. <end>
 
 =>a462_original
 I have nothing at the moment.<end>
@@ -2796,7 +2796,7 @@ I have nothing at the moment.<end>
 Well... o-kay. <end>
 
 =>q463
-Ну... хорошо.<end>
+Ну... хорошо. <end>
 
 =>q464_original
 O-kay.<end>
@@ -2830,7 +2830,7 @@ And 'is jet... what a dominated wreck it was when he brought it in!<end>
 Glad he's gone. Son of ass was <end>
 
 =>q468
-Рад, что его нет. Этот придурок распугивал<end>
+Рад, что его нет. Этот придурок распугивал <end>
 
 =>q469_original
 drivin' away the clients with 'is derailed screechin'.<end>
@@ -2846,7 +2846,7 @@ Son of ass is <end>
 =>q470
 Гиб почти закончил с его гидроциклом. А потом - досвидос, Отто!
 
-Этот придурок распугивает<end>
+Этот придурок распугивает <end>
 
 =>a471_original
 What can you tell me about the man who was hanging outside of your shop?<end>
@@ -3008,7 +3008,7 @@ Well, usually I wouldn't reveal that, but it ain't like ya weren't helpful so fa
 ::He bites into his lower lip, and you can tell he is on the edge of crying.:: All... all... of my jets have been stolen. <end>
 
 =>q495
-::Он прикусывает нижнюю губу, и видно, что он готов разрыдаться.:: Все... все... мои гидроциклы угнали.<end>
+::Он прикусывает нижнюю губу, и видно, что он готов разрыдаться.:: Все... все... мои гидроциклы угнали. <end>
 
 =>q496_original
 <end>
@@ -3020,13 +3020,13 @@ Well, usually I wouldn't reveal that, but it ain't like ya weren't helpful so fa
 $(context.npc_cc_ray_moneyStolen) of the money I had in my desk has been stolen. <end>
 
 =>q497
-У меня украли $(context.npc_cc_ray_moneyStolen), что я держал у себя в столе.<end>
+У меня украли $(context.npc_cc_ray_moneyStolen), что я держал у себя в столе. <end>
 
 =>q498_original
 A lotta stuff's been stolen. I haven't checked my whole inventory, but a lot went missin'. <end>
 
 =>q498
-Много вещей было украдено. Я ещё не провёл полную инвентаризацию, но видно, что многое пропало.<end>
+Много вещей было украдено. Я ещё не провёл полную инвентаризацию, но видно, что многое пропало. <end>
 
 =>q499_original
 That's all I've noticed so far.<end>
@@ -3054,19 +3054,19 @@ Let's leave this aside and talk about somethin' else. What can I do ya for?<end>
 Some items have been stolen. I haven't checked my whole inventory, but already I noticed that certain things went missin'. <end>
 
 =>q502
-Было украдено несколько вещей. Я ещё не провёл полную инвентаризацию, но уже вижу, что кое-чего не хватает.<end>
+Было украдено несколько вещей. Я ещё не провёл полную инвентаризацию, но уже вижу, что кое-чего не хватает. <end>
 
 =>q503_original
 $(context.npc_cc_ray_jetsStolen_number) of my jets have been stolen. <end>
 
 =>q503
-$(context.npc_cc_ray_jetsStolen_number) из моих гидроциклов были угнаны.<end>
+$(context.npc_cc_ray_jetsStolen_number) из моих гидроциклов были угнаны. <end>
 
 =>q504_original
 One of my jets has been stolen. <end>
 
 =>q504
-Один из моих гидроциклов был украден.<end>
+Один из моих гидроциклов был украден. <end>
 
 =>q505_original
 I haven't noticed yet if anythin's been stolen. But even if nothin's been stolen - what if somethin's been planted!? What if there's a bom' tickin' somewhere in my store? Or if it's an assassin and he's waitin' to zone me out?<end>
@@ -3136,7 +3136,7 @@ I was in the area, but I saw nothing out of the ordinary.<end>
 Pipeworkin' scum. <end>
 
 =>q515
-Что за трубочистская сволочь...<end>
+Что за трубочистская сволочь... <end>
 
 =>q516_original
 Even in these dangerous times, with the Tunnelers at our doorstep, filthy hands of them filthy thieves just ain't gonna stop nabbin'. Can't deny that. Pipeworkers!<end>
@@ -3620,7 +3620,7 @@ See you around, Ray.<end>
 Catch ya later, dominator! <end>
 
 =>q595
-Увидимся, доминатор$(#/ша)!<end>
+Увидимся, доминатор$(#/ша)! <end>
 
 =>q596_original
 And watch out for them pirate scum.<end>
@@ -3638,7 +3638,7 @@ And watch out for them pirate scum.<end>
 I ain't buyin' junk jets, so ya know, only quality jets. If ya got a nice ride, just <end>
 
 =>q598
-Чтобы ты знал$(#/а), я не скупаю мусорщики, а только качественные гидроциклы. Если у тебя такой есть, просто<end>
+Чтобы ты знал$(#/а), я не скупаю мусорщики, а только качественные гидроциклы. Если у тебя такой есть, просто <end>
 
 =>q599_original
 well, we provide this fine region with jets and jet accessories. We got the largest selection of jets in South Underrail, we sell engines, batteries, suspensions, cells - whatever ya need. We also do repairs and if ya got a nice jet ya'd like to sell, we can discuss that as well. I ain't interested in buyin' no junk jets, though, so don't bring me those.<end>
@@ -3830,7 +3830,7 @@ Ya know, ya came at the right time, as we really slashed them prices recently. S
 =>q628
 А вот и они, $(context.npc_cc_ray_playerName). Я не хочу рисковать и держу их внутри, чтобы их не угнал какой-нибудь голодранец. Как видишь, это серьёзная техника. У нас есть гонщики, бойцы, перевозчики...
 
-Знаешь, ты заглянул$(#/а) как раз вовремя, потому что недавно мы серьёзно снизили на них цены. И всё же, некоторые могут обойтись тебе в десятки тысяч харонов. Так что выбор за тобой.<end>
+Знаешь, ты заглянул$(#/а) как раз вовремя, потому что недавно мы серьёзно снизили на них цены. И всё же, некоторые могут обойтись тебе в десятки тысяч харонов. Так что выбор за тобой. <end>
 
 =>q629_original
 Heya, $(context.npc_cc_ray_playerName), I just received some hardcore stuff. Brand new. Wanna take a look?<end>
@@ -3848,11 +3848,10 @@ Maybe later. There was something else I wanted to ask you.<end>
 Well, well, if it ain't my favorite customer. <end>
 
 =>q631
-Так-так-так, неужели это мой любимый покупатель.<end>
+Так-так-так, неужели это мой любимый покупатель. <end>
 
 =>q632_original
 What can I do ya for, $(context.npc_cc_ray_playerName)?<end>
 
 =>q632
 Чем я могу помочь, $(context.npc_cc_ray_playerName)?<end>
-

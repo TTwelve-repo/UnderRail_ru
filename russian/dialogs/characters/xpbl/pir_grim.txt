@@ -66,7 +66,7 @@ I got little out of him, but I expected even less. He is, nonetheless, a pricele
 Katya was nowhere to be seen, so I decided to have Donnie take care of him. <end>
 
 =>q11
-Кати нигде не было видно, поэтому я решил попросить Донни позаботиться о нём.<end>
+Кати нигде не было видно, поэтому я решил попросить Донни позаботиться о нём. <end>
 
 =>q12_original
 Give him simple jobs to keep him busy and get him used to the port's environment.<end>
@@ -96,7 +96,7 @@ So, Todd's staying here?<end>
 Of course he is. I wasn't gonna throw him to the serpents, $(context.player.Name), not the Last Lemurian. <end>
 
 =>q16
-Ну конечно же, он останется. Я не собирался бросать его на съедение змеям, $(context.player.Name), только не последнего Лемурийца.<end>
+Ну конечно же, он останется. Я не собирался бросать его на съедение змеям, $(context.player.Name), только не последнего Лемурийца. <end>
 
 =>q17_original
 Now - let us go see the professor and tell him about our discoveries.<end>
@@ -126,7 +126,7 @@ What's the situation with Aegis patrols?<end>
 They've lost a lot of troops, but they're still too strong an opponent. In any case, <end>
 
 =>q21
-Они потеряли много людей, но всё ещё остаются сильным противником. В любом случае,<end>
+Они потеряли много людей, но всё ещё остаются сильным противником. В любом случае, <end>
 
 =>q22_original
 it's best we let the Scalers take care of them for us.<end>
@@ -148,7 +148,7 @@ It's just a matter of time...<end>
 Aegis are still too strong an opponent, so <end>
 
 =>q24
-Эгида всё ещё слишком серьёзный противник, так что<end>
+Эгида всё ещё слишком серьёзный противник, так что <end>
 
 =>a25_original
 About The Rig...<end>
@@ -268,7 +268,7 @@ I used to do some work for the Eels before. Hopefully that'll give me an edge.<e
 Ye've worked fer a lot of our enemies, banga. ::He stares at you for a bit longer than what's comfortable.:: <end>
 
 =>q44
-Ты поработал$(#/а) на многих наших врагов, банга. ::Он долго смотрит на вас, отчего вам становится не по себе.::<end>
+Ты поработал$(#/а) на многих наших врагов, банга. ::Он долго смотрит на вас, отчего вам становится не по себе.:: <end>
 
 =>q45_original
 Use anythin' you can to your advantage. We just want the sonar destroyed.<end>
@@ -350,13 +350,13 @@ Yup.<end>
 Out of the question. <end>
 
 =>q57
-Об этом не может быть и речи.<end>
+Об этом не может быть и речи. <end>
 
 =>q58_original
 Merchant ships are one thing; a heavily-guarded naval fortress is another. <end>
 
 =>q58
-Торговые суда - это одно, а усиленно охраняемая морская крепость - совсем другое.<end>
+Торговые суда - это одно, а усиленно охраняемая морская крепость - совсем другое. <end>
 
 =>q59_original
 Destroyin' the sonar is far too important, and if our intentions are revealed we may never get another chance.<end>
@@ -597,7 +597,7 @@ It seems to... fit you well. Yes. Besides, you're the one that found the means t
 Nexus of Technology... <end>
 
 =>q97
-Технологии Нексуса...<end>
+Технологии Нексуса... <end>
 
 =>q98_original
 Hmm... These people developed some unusual technology indeed. The towerin' statue that attacked you, this weaponized art, seem like somethin' someone could put to great use. We see them everywhere yet were never aware of what they truly are. If their weaponry could be stripped and used without the hosts...<end>
@@ -625,7 +625,7 @@ Keep up the jettin' work, $(context.player.Name), and keep me further informed. 
 A horticulture center... <end>
 
 =>q101
-Агроцентр...<end>
+Агроцентр... <end>
 
 =>q102_original
 It's no surprise that this location is where all of Hell's Gut's vegetation is spreadin' from, but actually hearin' about what's inside is somethin' I can't but not find simply fascinatin'. They actually developed plants that could survive outside of gardens and hydroponics - outside of strict supervision and care.<end>
@@ -637,13 +637,13 @@ It's no surprise that this location is where all of Hell's Gut's vegetation is s
 I'll try to sneak in a pirate crew to loot what they can before the Scalers figure out how to use elevators. <end>
 
 =>q103
-Я постараюсь незаметно отправить пиратскую команду разграбить всё, что удастся, прежде чем Чешуйчатые разберутся, как пользоваться лифтами.<end>
+Я постараюсь незаметно отправить пиратскую команду разграбить всё, что удастся, прежде чем Чешуйчатые разберутся, как пользоваться лифтами. <end>
 
 =>q104_original
 The hospital... ::He pauses.:: <end>
 
 =>q104
-Больница... ::Он задумывается.::<end>
+Больница... ::Он задумывается.:: <end>
 
 =>q105_original
 What you told me stays between you and me. Pirates are already superstitious enough, and rumors of this kind can spread and grow in a cancerous manner. The hospital is rich in loot, so I'll send in a crew to pick it clean once I pick a decent one.<end>
@@ -655,7 +655,7 @@ What you told me stays between you and me. Pirates are already superstitious eno
 We'll keep the microchip implanter intact in case you might need it again. <end>
 
 =>q106
-Мы сохраним имплантер микрочипов на случай, если он понадобится тебе снова.<end>
+Мы сохраним имплантер микрочипов на случай, если он понадобится тебе снова. <end>
 
 =>q107_original
 A military base!? 
@@ -686,7 +686,7 @@ But in the mean time... there is plenty more to loot. That underwater station in
 Interestin'. <end>
 
 =>q110
-Интересно.<end>
+Интересно. <end>
 
 =>a111_original
 I've been to this large research facility... ::Explain to him what you discovered.::<end>
@@ -772,7 +772,7 @@ Haven't I shown you I got plenty of guts?<end>
 You certainly have, $(context.player.Name). <end>
 
 =>q123
-Определённо, $(context.player.Name).<end>
+Определённо, $(context.player.Name). <end>
 
 =>q124_original
 ::He half-smiles.::<end>
@@ -844,31 +844,31 @@ A flooded archive right beneath Port Crag. So close, yet so far.<end>
 I'll tell Razor to send a group <end>
 
 =>q135
-Я скажу Бритве, чтобы он отправил туда группу<end>
+Я скажу Бритве, чтобы он отправил туда группу <end>
 
 =>q136_original
 there straight away. <end>
 
 =>q136
-незамедлительно.<end>
+незамедлительно. <end>
 
 =>q137_original
 The Acorn... it could be right in this archive, right beneath our very own feet. But even if that's not true, <end>
 
 =>q137
-Жёлудь... он может быть прямо в этом архиве, прямо у нас под ногами. Но даже если это не так,<end>
+Жёлудь... он может быть прямо в этом архиве, прямо у нас под ногами. Но даже если это не так, <end>
 
 =>q138_original
 I suspect there is plenty a things for us to find down there. We also now have a chance to investigate these combat statues - the ones you destroyed. <end>
 
 =>q138
-Я подозреваю, что там найдётся много интересного для нас. Кроме того, теперь у нас есть возможность исследовать эти боевые статуи - те, что ты уничтожил$(#/а).<end>
+Я подозреваю, что там найдётся много интересного для нас. Кроме того, теперь у нас есть возможность исследовать эти боевые статуи - те, что ты уничтожил$(#/а). <end>
 
 =>q139_original
 I'll send a group <end>
 
 =>q139
-Я пошлю туда группу<end>
+Я пошлю туда группу <end>
 
 =>a140_original
 I went to The Creeper Bay and located some naval mines... ::Explain to him what you discovered.::<end>
@@ -938,19 +938,19 @@ The Glowin' Canine - the Shadowlith. The hospital. The *Scalers*.
 I, however, understand more, and with that I am more than satisfied. You did jettin' work, $(context.player.Name). <end>
 
 =>q148
-Однако, я понимаю всё больше и этим более чем удовлетворён. Ты проделал$(#/а) охренительную работу, $(context.player.Name).<end>
+Однако, я понимаю всё больше и этим более чем удовлетворён. Ты проделал$(#/а) охренительную работу, $(context.player.Name). <end>
 
 =>q149_original
 Out in the waterways, here in the Hell's Gut - you deliver. <end>
 
 =>q149
-Там, на водных путях, здесь, в Адском котле - ты доставляешь.<end>
+Там, на водных путях, здесь, в Адском котле - ты доставляешь. <end>
 
 =>q150_original
 See Donnie about your reward. <end>
 
 =>q150
-Поговори с Донни о своей награде.<end>
+Поговори с Донни о своей награде. <end>
 
 =>q151_original
 You've revealed to us centuries-old secrets, and most importantly - *riches*.
@@ -960,19 +960,19 @@ We are pirates after all; we'll leave archaeology to <end>
 =>q151
 Ты открыл$(#/а) нам многовековые тайны, и что самое важное - *богатства*.
 
-В конце концов, мы же пираты, оставим археологию<end>
+В конце концов, мы же пираты, оставим археологию <end>
 
 =>q152_original
 the professor. <end>
 
 =>q152
-профессору.<end>
+профессору. <end>
 
 =>q153_original
 Speaking of which, <end>
 
 =>q153
-Кстати говоря,<end>
+Кстати говоря, <end>
 
 =>q154_original
 you haven't said anything about the Acorn.<end>
@@ -990,7 +990,7 @@ Got it right here, Cap'n. ::Show him the Acorn.::<end>
 ::He looks at it with curiosity.:: <end>
 
 =>q156
-::Он смотрит на него с любопытством.::<end>
+::Он смотрит на него с любопытством.:: <end>
 
 =>q157_original
 That's it? That's the Acorn?<end>
@@ -1132,7 +1132,7 @@ No. Haven't figured out how.<end>
 That's the Acorn. <end>
 
 =>a179
-Это Жёлудь.<end>
+Это Жёлудь. <end>
 
 =>a180_original
 It seems to be capable of manufacturing highly advanced things, like objects and machinery. I don't know how, however.<end>
@@ -1192,25 +1192,25 @@ I haven't found it.<end>
 Shame. <end>
 
 =>q189
-Жаль.<end>
+Жаль. <end>
 
 =>q190_original
 You've been to almost every ruin in Hell's Gut and you still haven't found it. <end>
 
 =>q190
-Ты побывал$(#/а) почти во всех руинах Адского котла и до сих пор не наш$(#ёл/ла) его.<end>
+Ты побывал$(#/а) почти во всех руинах Адского котла и до сих пор не наш$(#ёл/ла) его. <end>
 
 =>q191_original
 Not even in the Abyssal Station, as that log claimed. <end>
 
 =>q191
-И даже на Глубоководной станции, как утверждал тот журнал.<end>
+И даже на Глубоководной станции, как утверждал тот журнал. <end>
 
 =>q192_original
 Perhaps... it no longer exists. <end>
 
 =>q192
-Возможно... его больше и не существует.<end>
+Возможно... его больше и не существует. <end>
 
 =>q193_original
 ::He pauses.:: No matter. There is so much up for grabs now that the facilities have been opened. No use grievin' over somethin' so elusive.<end>
@@ -1228,7 +1228,7 @@ Perhaps the professor is wrong: Maybe it doesn't exist... or no longer exists.<e
 But speaking of riches, <end>
 
 =>q195
-Но говоря о богатстве,<end>
+Но говоря о богатстве, <end>
 
 =>q196_original
 Now, this Lemurian, Todd, where is he?<end>
@@ -1258,7 +1258,7 @@ I left him on the submarine, and he's going to stay there until I figure out wha
 someone else, shall we? <end>
 
 =>q200
-кому-нибудь другому, ладно?<end>
+кому-нибудь другому, ладно? <end>
 
 =>a201_original
 And then, after I managed to get away from the Shadowlith's influence, I got back to the submarine and successfully surfaced.<end>
@@ -1288,7 +1288,7 @@ Is there anyone here that could take a look at this device? ::Show him the Fold-
 ::He looks at the device.:: Yes, yes. There are plenty of these broken devices lyin' around. <end>
 
 =>q205
-::Он смотрит на устройство.:: Да-да. Здесь повсюду валяется множество таких сломанных устройств.<end>
+::Он смотрит на устройство.:: Да-да. Здесь повсюду валяется множество таких сломанных устройств. <end>
 
 =>q206_original
 Why are you showin' me this?<end>
@@ -1330,7 +1330,7 @@ Is there anyone here that could take a look at this device? ::Show him the slimy
 ::He looks at it with disgust.:: Keep that thing away from my desk. <end>
 
 =>q212
-::Он смотрит на него с отвращением.:: Держи эту дрянь подальше от моего стола.<end>
+::Он смотрит на него с отвращением.:: Держи эту дрянь подальше от моего стола. <end>
 
 =>a213_original
 Nothing new for now.<end>
@@ -1366,13 +1366,13 @@ Know them like the back of my hand.<end>
 Excellent. Then let's get right down to business. <end>
 
 =>q218
-Отлично. Тогда давай сразу перейдём к делу.<end>
+Отлично. Тогда давай сразу перейдём к делу. <end>
 
 =>q219_original
 Our <end>
 
 =>q219
-Наш<end>
+Наш <end>
 
 =>q220_original
 next - and your first - raid will be takin' place in Dreadpool. The merchants are exploitin' our absence, most certainly encouraged by the Eels' braggin' about them subduin' us, so now's the time for us to, in turn, exploit that and show them we're still in the game.<end>
@@ -1543,7 +1543,7 @@ What's the situation with the Black Eels?<end>
 They've been the fangs in our and our predecessors' feet for years. It wouldn't be wrong to call them our archnemeses by this point, not at all. <end>
 
 =>q247
-Они были клыками в наших ногах и ногах наших предшественников в течение долгих лет. Не было бы ошибкой назвать их нашими заклятыми врагами, ни капли.<end>
+Они были клыками в наших ногах и ногах наших предшественников в течение долгих лет. Не было бы ошибкой назвать их нашими заклятыми врагами, ни капли. <end>
 
 =>q248_original
 Their Rig is positioned at the southern end of Core Ring, controllin' Omega Pass which leads to Dreadpool. For that reason, the Core Ring is difficult for us to target, but slippin' small raidin' parties through the Meatway or settin' up jet stashes beforehand in order to target the Chancer's Bay is quite feasible, and it is somethin' we frequently do.<end>
@@ -1663,13 +1663,13 @@ I wouldn't mind some explaining.<end>
 Well, briefly, <end>
 
 =>q267
-Ну, вкратце,<end>
+Ну, вкратце, <end>
 
 =>q268_original
 the waterways comprise everything from narrow passages to large bodies of water, some of which restrict our movement due to their defensibility, while others allow us to apply advanced tactics because of their spaciousness. <end>
 
 =>q268
-водные пути охватывают всё - от узких коридоров до обширных водоёмов, некоторые из них ограничивают наше передвижение в силу своей защищённости, в то время как другие позволяют нам использовать передовые тактики благодаря их простору.<end>
+водные пути охватывают всё - от узких коридоров до обширных водоёмов, некоторые из них ограничивают наше передвижение в силу своей защищённости, в то время как другие позволяют нам использовать передовые тактики благодаря их простору. <end>
 
 =>q269_original
 Due to its proximity and frequent traffic, Dreadpool is where the majority of our raids take place. It lies just beyond the Jaws and is the only way through which larger ferries must pass in order to reach Isaac's River - and thus Camp Hathor - as the Meatway connecting the southern section of the river to the Chancer's Bay is too narrow for them.<end>
@@ -1681,7 +1681,7 @@ Due to its proximity and frequent traffic, Dreadpool is where the majority of ou
 With that said, our <end>
 
 =>q270
-Учитывая сказанное, наш<end>
+Учитывая сказанное, наш <end>
 
 =>a271_original
 Little.<end>
@@ -1699,7 +1699,7 @@ What waterways?<end>
 I see. <end>
 
 =>q273
-Понятно.<end>
+Понятно. <end>
 
 =>a274_original
 When's the next raid?<end>
@@ -1831,7 +1831,7 @@ You carry own with your work. And let me know if you discover anything new.<end>
 ::He half-smiles.:: But we can speculate all we want. <end>
 
 =>q293
-::Он слегка улыбается.:: Но мы можем строить догадки сколько угодно.<end>
+::Он слегка улыбается.:: Но мы можем строить догадки сколько угодно. <end>
 
 =>a294_original
 I've yet to learn what it actually is, but from all the clues I've gathered it seems like it was of great importance to Lemurians.<end>
@@ -1885,25 +1885,25 @@ I found a log stating that it was transported from a military base to a place ca
 Hmmm, interestin'. <end>
 
 =>q302
-Хммм, интересно.<end>
+Хммм, интересно. <end>
 
 =>q303_original
 Or perhaps it *was* the transport. Remember what the professor told us. It's supposedly a mobile habitat. <end>
 
 =>q303
-Или, возможно, это и был *транспорт*. Вспомни, что нам сказал профессор. Предположительно, это мобильная среда обитания.<end>
+Или, возможно, это и был *транспорт*. Вспомни, что нам сказал профессор. Предположительно, это мобильная среда обитания. <end>
 
 =>q304_original
 Well, there's the clue to your next destination, this *Abyssal* Station. <end>
 
 =>q304
-Что ж, вот и ключ к твоей следующей цели, этой Глубоководной станции.<end>
+Что ж, вот и ключ к твоей следующей цели, этой Глубоководной станции. <end>
 
 =>q305_original
 And judgin' by its name, you might just get to use that submarine after all. <end>
 
 =>q305
-И судя по её названию, тебе всё-таки придётся воспользоваться этой подводной лодкой.<end>
+И судя по её названию, тебе всё-таки придётся воспользоваться этой подводной лодкой. <end>
 
 =>q306_original
 That is, of course, unless the depths have swallowed it.<end>
@@ -1967,7 +1967,7 @@ What are we going to do with the professor now?<end>
 We cannot return him to the camp anymore, that is certain. But... <end>
 
 =>q315
-Мы уже не можем вернуть его в лагерь, это точно. Но...<end>
+Мы уже не можем вернуть его в лагерь, это точно. Но... <end>
 
 =>q316_original
 I think we've learned all we can from the poor professor. The important things at least.<end>
@@ -1991,7 +1991,7 @@ Are you going to... kill him?<end>
 No. <end>
 
 =>q319
-Нет.<end>
+Нет. <end>
 
 =>q320_original
 In the meantime, we'll keep the professor as comfortable as possible. He earned it.<end>
@@ -2033,7 +2033,7 @@ Tell me about the inhabitants of the Black Sea.<end>
 The Hell's Gut is home to many deadly creatures, but the most dangerous ones seem to be those walkin' on two legs. The Scalers - savage humans rule the northern waters. A community of muties live on an island to the west, and right on the island in the middle is the camp <end>
 
 =>q326
-Адский котёл служит домом для многих смертоносных существ, но самые опасные из них, похоже, те, что ходят на двух ногах. Чешуйчатые - народ дикарей, правящий северными водами. Община мутантов живёт на острове к западу, а прямо посередине на острове - лагерь<end>
+Адский котёл служит домом для многих смертоносных существ, но самые опасные из них, похоже, те, что ходят на двух ногах. Чешуйчатые - народ дикарей, правящий северными водами. Община мутантов живёт на острове к западу, а прямо посередине на острове - лагерь <end>
 
 =>q327_original
 where the expedition's camp used to be.<end>
@@ -2139,13 +2139,13 @@ Got it. Is there anything else you wanted to discuss?<end>
 Yes, I have another important task for you. It's about the ruins. <end>
 
 =>q343
-Да, у меня есть для тебя ещё одно важное задание. Это касается руин.<end>
+Да, у меня есть для тебя ещё одно важное задание. Это касается руин. <end>
 
 =>q344_original
 Your work will parallel that of the expedition - only you will be reportin' to us from now on. <end>
 
 =>q344
-Твоя работа будет сопутствовать работе экспедиции - только теперь ты будешь отчитываться перед нами.<end>
+Твоя работа будет сопутствовать работе экспедиции - только теперь ты будешь отчитываться перед нами. <end>
 
 =>q345_original
 I want you to open as many of the ruined facilities of the Hell's Gut as you can and expose its riches to the Grim Jetters to loot and pillage. You will be rewarded, both by bein' the first looter on the scene and by bein' paid for reportin' your findin's to me.<end>
@@ -2187,13 +2187,13 @@ That'd be all for now, $(context.player.Name). Got questions?<end>
 We've been surrounded by these dilapidated facilities for years, our predecesors for decades - maybe centuries, yet we can only stand and watch and imagine what must lie inside. <end>
 
 =>q351
-Мы были окружены этими обветшалыми сооружениями в течение многих лет, наши предшественники - в течение десятилетий , а возможно, и столетий, но мы можем только стоять и смотреть и представлять, что же должно лежать внутри.<end>
+Мы были окружены этими обветшалыми сооружениями в течение многих лет, наши предшественники - в течение десятилетий , а возможно, и столетий, но мы можем только стоять и смотреть и представлять, что же должно лежать внутри. <end>
 
 =>q352_original
 But all of that may be about to change. <end>
 
 =>q352
-Но всё это может вскоре измениться.<end>
+Но всё это может вскоре измениться. <end>
 
 =>q353_original
 All of that may be about to change with the arrival of the Black Sea expedition.<end>
@@ -2211,7 +2211,7 @@ From what we've learned so far they've come well prepared and likely will find -
 At the end of the day, <end>
 
 =>q355
-В конечном итоге,<end>
+В конечном итоге, <end>
 
 =>q356_original
 But they'd have to get through the Scalers first. Just recently they started attackin' the expedition's camp. It's just a matter of time before they overrun them.<end>
@@ -2235,7 +2235,7 @@ What do you know about the Ferryman?<end>
 Ah, the Ferryman. <end>
 
 =>q359
-Ах, Паромщик.<end>
+Ах, Паромщик. <end>
 
 =>q360_original
 He's an old sailor past his prime, yet it barely shows. His ferry is his home, and with it he sails across the sea, scavengin' for various things in it. And he's been doing so for years. Older crewmen know him, and they say he has always been around.<end>
@@ -2339,13 +2339,13 @@ What can you tell me about the Scalers?<end>
 Our barbaric northern neighbors, known to even the earliest Black Sea pirates. The Scalers have been here for a long time, and few people have been to their territory and made it back alive. They are vile and ruthless, <end>
 
 =>q375
-Наши северные соседи-варвары, известны даже самым ранним пиратам Чёрного моря. Чешуйчатые были здесь уже давно, мало кто побывал на их территории и вернулся оттуда живым. Они подлые и безжалостные,<end>
+Наши северные соседи-варвары, известны даже самым ранним пиратам Чёрного моря. Чешуйчатые были здесь уже давно, мало кто побывал на их территории и вернулся оттуда живым. Они подлые и безжалостные, <end>
 
 =>q376_original
 and as I've already mentioned, <end>
 
 =>q376
-и как я уже упоминал,<end>
+и как я уже упоминал, <end>
 
 =>q377_original
 more keen on drinkin' human blood than their mother's milk. They clearly worship the serpents, perhaps even emulate them in some ways; perhaps this is where their bloodlust comes from.<end>
@@ -2481,13 +2481,13 @@ Nothing. Just asking in case I need one.<end>
 Sensible. <end>
 
 =>q398
-Разумно.<end>
+Разумно. <end>
 
 =>q399_original
 See Katya. <end>
 
 =>q399
-Навести Катю.<end>
+Навести Катю. <end>
 
 =>q400_original
 She lives in a house on the southern outskirts. She'll take care of your injuries and whatever else's botherin' you. She also offers medicine.<end>
@@ -2505,7 +2505,7 @@ I've been injured.<end>
 I see. <end>
 
 =>q402
-Понятно.<end>
+Понятно. <end>
 
 =>a403_original
 I think I might've caught something...<end>
@@ -2547,7 +2547,7 @@ Where can I find a healer, again?<end>
 Her name is Katya. <end>
 
 =>q409
-Её зовут Катя.<end>
+Её зовут Катя. <end>
 
 =>a410_original
 This ship...<end>
@@ -2651,7 +2651,7 @@ A ship like this? Why not this very ship?<end>
 It can't move. <end>
 
 =>q425
-Он не на ходу.<end>
+Он не на ходу. <end>
 
 =>q426_original
 It has suffered heavy damage. Its propulsion engine has been completely destroyed by a projectile of some kind, propeller too. Its secondary engines are still operational, though; they drive the electric generators which produce the ship's power.<end>
@@ -2717,7 +2717,7 @@ Can this ship move?<end>
 It can't. <end>
 
 =>q436
-Это невозможно.<end>
+Это невозможно. <end>
 
 =>a437_original
 I can see the ships console is still functioning. May I take a look at it?<end>
@@ -2807,7 +2807,7 @@ I've seen better.<end>
 That I find hard to believe. <end>
 
 =>q451
-В это мне трудно поверить.<end>
+В это мне трудно поверить. <end>
 
 =>a452_original
 Can you tell me about yourself? Who is Cadmus Grim?<end>
@@ -2866,7 +2866,7 @@ Here I spent many years wanderin' around, findin' my way in this wretchedness. T
 =>q458
 Я провёл здесь немало лет, блуждая, нащупывая свой путь среди всей этой убогости. Обладание вышеупомянутыми навыками, практическими навыками означало, что мне было что противопоставить обычному сброду, и вскоре я уже сформировал свою собственную банду, но не как Кадмус *Грин*... а как *Грим* - Беспощадный, что звучит куда более уместно.
 
-::Он ухмыляется.:: Это как-то само пришло вместе с тем, как я становился южанином; всё дело в жаргоне и менталитете.<end>
+::Он ухмыляется.:: Это как-то само пришло вместе с тем, как я становился южанином; всё дело в жаргоне и менталитете. <end>
 
 =>q459_original
 As my... armies grew, so was I given the chance to employ the other skills I'd been taught. To keep the story short, this is where it brought me, from land to sea - to glory.<end>
@@ -2980,7 +2980,7 @@ Nice painting. Must be worth a lot.<end>
 If it were an original, it would have been exchanged for cold but heart-warmin' coins. <end>
 
 =>q477
-Если бы это был подлинник, её бы обменяли на холодные, но греющие душу монеты.<end>
+Если бы это был подлинник, её бы обменяли на холодные, но греющие душу монеты. <end>
 
 =>q478_original
 Or maybe it is, but I simply like it too much to give it away.<end>
@@ -3004,7 +3004,7 @@ That painting again...<end>
 ::He glances at it.:: I've had it for a while. <end>
 
 =>q481
-::Он взглянул на неё.:: Она у меня уже давно.<end>
+::Он взглянул на неё.:: Она у меня уже давно. <end>
 
 =>a482_original
 That map on the desk, it's the map of the Black Sea, right?<end>
@@ -3130,13 +3130,13 @@ It's a mixture of herbs and fragrant mushrooms I have had prepared for me by Kat
 . <end>
 
 =>q502
-.<end>
+. <end>
 
 =>q503_original
 Since she prepares medicine as well from various herbs, I've asked of her to prepare perfumes for me, at which she's very adept. <end>
 
 =>q503
-Поскольку она готовит лекарства из различных трав, я попросил её сделать для меня духи, в чём она очень искусна.<end>
+Поскольку она готовит лекарства из различных трав, я попросил её сделать для меня духи, в чём она очень искусна. <end>
 
 =>q504_original
 This one I call the Last Garden, after a book "The Last Garden of a Megalopolis", by... a certain well-known Dis author from the past.<end>
@@ -3148,7 +3148,7 @@ This one I call the Last Garden, after a book "The Last Garden of a Megalopolis"
 , our resident healer. <end>
 
 =>q505
-, наш местный целитель.<end>
+, наш местный целитель. <end>
 
 =>a506_original
 What is that thing? ::Point at the thin, uncanny sculpture.::<end>
@@ -3178,7 +3178,7 @@ Take care, Cap'n.<end>
 I was told Katya didn't want to take him in, so I decided to have Donnie take care of him. <end>
 
 =>q510
-Мне сказали, что Катя не хочет брать его к себе, и я решил попросить Донни позаботиться о нём.<end>
+Мне сказали, что Катя не хочет брать его к себе, и я решил попросить Донни позаботиться о нём. <end>
 
 =>a511_original
 You should've waited for me.<end>
@@ -3190,7 +3190,7 @@ You should've waited for me.<end>
 There was no need. <end>
 
 =>q512
-В этом не было никакой необходимости.<end>
+В этом не было никакой необходимости. <end>
 
 =>q513_original
 I had Senda and one of her friends take him outside. He didn't mind. In fact, he was very comfortable. ::He half-smiles.::<end>
@@ -3342,7 +3342,7 @@ Now - let's talk business. <end>
 =>q536
 Порт защищён. Отлично сработано. Мы отправили их под воду так глубоко, что они вряд ли когда-нибудь всплывут в наших окрестностях. Однако мы всегда должны заглядывать дальше наших отражений на поверхности.
 
-А теперь поговорим о делах.<end>
+А теперь поговорим о делах. <end>
 
 =>q537_original
 <end>
@@ -3360,7 +3360,7 @@ Now - let's talk business. <end>
 The expedition camp has been destroyed. <end>
 
 =>q539
-Лагерь экспедиции уничтожен.<end>
+Лагерь экспедиции уничтожен. <end>
 
 =>q540_original
 They are no longer in our way - we can start raidin' the waterways of Underrail yet again.<end>
@@ -3372,7 +3372,7 @@ They are no longer in our way - we can start raidin' the waterways of Underrail 
 Which means that... is our new top priority. <end>
 
 =>q541
-Что значит... теперь это наш новый приоритет.<end>
+Что значит... теперь это наш новый приоритет. <end>
 
 =>q542_original
 <end>
@@ -3390,7 +3390,7 @@ But before we move onto that, I wanted to discuss something important as well - 
 Firstly, we have to deal with Aegis once and for all. Their patrols have prevented us from raidin' the Underrail waterways for too long. <end>
 
 =>q544
-Во-первых, мы должны разобраться с Эгидой раз и навсегда. Их патрули слишком долго мешали нам совершать налёты на водных путях Подземки.<end>
+Во-первых, мы должны разобраться с Эгидой раз и навсегда. Их патрули слишком долго мешали нам совершать налёты на водных путях Подземки. <end>
 
 =>q545_original
 We're gonna eliminate their jet patrols. *Entirely*. Your job is to sail out there and send their jetters under till there are no more of them in sight.<end>
@@ -3430,7 +3430,7 @@ Got it. Is there anything else?<end>
 I've received word that Aegis lost a large number of sec-troopers, so many, in fact, that they can no longer maintain jet patrols and defend the camp at the same time. <end>
 
 =>q550
-Я получил сообщение, что Эгида потеряла много людей, так много, что они больше не могут поддерживать водные патрули и одновременно защищать лагерь.<end>
+Я получил сообщение, что Эгида потеряла много людей, так много, что они больше не могут поддерживать водные патрули и одновременно защищать лагерь. <end>
 
 =>q551_original
 <end>
@@ -3460,13 +3460,13 @@ For now, we'll stick to lootin' what we can - the ruins.<end>
 A window of opportunity has presented itself to us: Aegis have lost many sec-troopers to Scaler attacks. <end>
 
 =>q555
-Перед нами открылась возможность: Эгида потеряла много бойцов из-за атак Чешуйчатых.<end>
+Перед нами открылась возможность: Эгида потеряла много бойцов из-за атак Чешуйчатых. <end>
 
 =>q556_original
 Now's the right time to act if we wanna raid the Underrail waterways again: <end>
 
 =>q556
-Сейчас самое подходящее время действовать, если мы хотим снова устраивать налёты на водных путях Подземки:<end>
+Сейчас самое подходящее время действовать, если мы хотим снова устраивать налёты на водных путях Подземки: <end>
 
 =>q557_original
 My port is under attack!<end>
@@ -3514,7 +3514,7 @@ I'm right behind you, Cap'n.<end>
 That's what I like to hear. <end>
 
 =>q564
-Вот то, что я хотел услышать.<end>
+Вот то, что я хотел услышать. <end>
 
 =>a565_original
 Gladly, but there were some things I wanted to ask you first.<end>
@@ -3576,7 +3576,7 @@ Now, there is a matter of utmost...
 Let's talk business, $(context.player.Name) - time is of the essence. <end>
 
 =>q573
-Поговорим о деле, $(context.player.Name) - время имеет существенное значение.<end>
+Поговорим о деле, $(context.player.Name) - время имеет существенное значение. <end>
 
 =>q574_original
 <end>
@@ -3594,13 +3594,13 @@ Let's talk business, $(context.player.Name) - time is of the essence. <end>
 Aegis is out of the game. <end>
 
 =>q576
-Эгида вышла из игры.<end>
+Эгида вышла из игры. <end>
 
 =>q577_original
 I've just received jettin' news: <end>
 
 =>q577
-Я только что получил охренительные новости:<end>
+Я только что получил охренительные новости: <end>
 
 =>q578_original
 $(context.player.Name), I've received jettin' news: The number of Aegis sec-troopers has dropped significantly. They're pullin' more and more troops inland to defend the camp at the expense of their naval presence.<end>
@@ -3612,7 +3612,7 @@ $(context.player.Name), я получил охренительные новос�
 The sonar has been destroyed. <end>
 
 =>q579
-Сонар был уничтожен.<end>
+Сонар был уничтожен. <end>
 
 =>q580_original
 <end>
@@ -3636,13 +3636,13 @@ I'm sure of it. But there will be more opportunities, Cruzer, don't worry. Our j
 At last, <end>
 
 =>q583
-И наконец,<end>
+И наконец, <end>
 
 =>q584_original
 the waterways are ours. <end>
 
 =>q584
-эти водные пути - наши.<end>
+эти водные пути - наши. <end>
 
 =>q585_original
 With the Eels out of the picture and the inability of any other force in the South to oppose us, our future is as bright as the fires upon the sinkin' ships of all the fools that dared wetting their feet in our waters.<end>
@@ -3698,7 +3698,7 @@ Fortunately, as death is an inseparable part of our line of work, there are alwa
 Our *mate* 'ere ditched D' Rig without us right as we were about to retreat. <end>
 
 =>q592
-Наш$(#/а) $(#приятель/подруга) свалил$(#/а) с Буровой без нас, как раз когда мы собирались отступать.<end>
+Наш$(#/а) $(#приятель/подруга) свалил$(#/а) с Буровой без нас, как раз когда мы собирались отступать. <end>
 
 =>q593_original
 If $(#he/she) hadn' already proven $(#'imself/'erself) I'd drown $(#'im/'er) in $(#'im/'er) own blood.<end>
@@ -3746,7 +3746,7 @@ How can I not?<end>
 I still cannot fathom how one $(#man/woman) was able to take down a Protectorate ship all alone. <end>
 
 =>q600
-Я всё ещё не могу понять, как од$(#ин/на) $(#мужчина/женщина) смог$(#/ла) разобраться с кораблём Протектората в одиночку.<end>
+Я всё ещё не могу понять, как од$(#ин/на) $(#мужчина/женщина) смог$(#/ла) разобраться с кораблём Протектората в одиночку. <end>
 
 =>q601_original
 This is a milestone for the Grim Jetters. We started out as a ragtag band of jetters, then gained our reputation and power by threatenin' even the most well-defended Union ships. But a proper ship of war? That was unprecedented. Until now...<end>
@@ -3776,7 +3776,7 @@ Everyone was involved in this raid, Razor: From plannin', to collectin' data, se
 $(#Gentlemen/Ladies and gentlemen), <end>
 
 =>q605
-$(#Господа/Дамы и господа),<end>
+$(#Господа/Дамы и господа), <end>
 
 =>q606_original
 there is only one obstacle in our path to our complete waterway domination - those blasted Black Eels.<end>
@@ -3926,7 +3926,7 @@ I am the Invictus.<end>
 Armstrong is ours. <end>
 
 =>q630
-"Армстронг" наш.<end>
+"Армстронг" наш. <end>
 
 =>q631_original
 <end>
@@ -3968,7 +3968,7 @@ Have you heard about Razor?<end>
 ::He nods.:: I have. <end>
 
 =>q637
-::Он кивает.:: Слышал.<end>
+::Он кивает.:: Слышал. <end>
 
 =>q638_original
 You're all here. So, Razor, what's the situation with Armstrong?<end>
@@ -3986,7 +3986,7 @@ Who's Armstrong?<end>
 Be quiet, <end>
 
 =>q640
-Помолчи,<end>
+Помолчи, <end>
 
 =>q641_original
 Can.<end>
@@ -4022,7 +4022,7 @@ Dead accurate. ::He flips his knife.:: It's comin', an' it's comin' soon, Cap'n.
 'S jus' as ye suspect'd, Cap'n. D' Eels got it, an' it's gotta be on d' Rig. <end>
 
 =>q646
-Всё так, как вы и подозревали, кэп. Угри взяли его, должно быть, он на Буровой.<end>
+Всё так, как вы и подозревали, кэп. Угри взяли его, должно быть, он на Буровой. <end>
 
 =>q647_original
 But what's puzzlin' me is dat dey didn' show up durin' d' raids. Not a single patrol. Dey should've known.<end>
@@ -4064,7 +4064,7 @@ I betcha did.<end>
 We need to move out as soon as possible. "About to reach Core City" could mean anythin' from minutes, hours to a day. <end>
 
 =>q653
-Нам нужно выдвигаться как можно скорее. "Вот-вот достигнет Кор-Сити" могло означать что угодно - от нескольких минут, часов до целого дня.<end>
+Нам нужно выдвигаться как можно скорее. "Вот-вот достигнет Кор-Сити" могло означать что угодно - от нескольких минут, часов до целого дня. <end>
 
 =>q654_original
 You, $(context.player.Name), you'll meet Razor in a cove in the Core Ring.<end>
@@ -4118,7 +4118,7 @@ I presume you have questions.<end>
 Are you derailed? <end>
 
 =>q662
-Ты что, с рельсов сош$(#ёл/ла)?<end>
+Ты что, с рельсов сош$(#ёл/ла)? <end>
 
 =>q663_original
 There is a big difference between a merchant ferry and a combat-ready Protectorate ship.<end>
@@ -4368,7 +4368,7 @@ Time to raid.<end>
 You two. You know what to do. If we pull this off, this will be our first *proper* Protectorate ship. <end>
 
 =>q703
-Вы двое знаете, что делать. Если мы провернём это, он станет нашим первым *настоящим* кораблём Протектората.<end>
+Вы двое знаете, что делать. Если мы провернём это, он станет нашим первым *настоящим* кораблём Протектората. <end>
 
 =>q704_original
 Don't make us look bad, $(context.player.Name). If you fail me and live - I'll find you and send you under myself.<end>
@@ -4552,7 +4552,7 @@ All in all, the break-out raids were a complete success.<end>
 Yes, yes they were. And after every raid there comes the time to split the loot. See Donnie about your share. <end>
 
 =>q733
-Да, так и есть. А после каждого налёта приходит время делить добычу. Поговори с Донни насчёт своей доли.<end>
+Да, так и есть. А после каждого налёта приходит время делить добычу. Поговори с Донни насчёт своей доли. <end>
 
 =>q734_original
 A better share for better performance, of course.<end>
@@ -4649,4 +4649,3 @@ $(context.player.Name).<end>
 
 =>q749
 $(context.player.Name).<end>
-

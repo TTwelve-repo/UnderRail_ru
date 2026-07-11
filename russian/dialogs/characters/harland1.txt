@@ -34,7 +34,7 @@ I'm Harland. <end>
 =>q5
 Да, ничего, но *блин*...
 
-Я Харланд.<end>
+Я Харланд. <end>
 
 =>q6_original
 ::He briefly inspects you and peers over your shoulder.:: 
@@ -188,7 +188,7 @@ About your camera problem...<end>
 Yeah? <end>
 
 =>q28
-Да?<end>
+Да? <end>
 
 =>q29_original
 <end>
@@ -248,7 +248,7 @@ Just a bunch of stoned shroom farmers. Nothing to worry about.<end>
 Well, I still don't like the sound of that. People like that, so close to the station... You never know what's going to happen - who's going to settle there next! <end>
 
 =>q38
-Ну, мне по-прежнему не нравится, как это звучит. Такие люди так близко к станции... Неизвестно, чем это кончится -- кем могут оказаться следующие, кто там поселится!<end>
+Ну, мне по-прежнему не нравится, как это звучит. Такие люди так близко к станции... Неизвестно, чем это кончится -- кем могут оказаться следующие, кто там поселится! <end>
 
 =>q39_original
 Asking for an extra auto-turret might be too much, but I'm getting that ammo no matter what!<end>
@@ -266,13 +266,13 @@ Listen, $(context.player.Name), I know I've raised a false alarm or two already,
 Hey, here are some credits for your troubles. ::He hands you 400 SGS credits.:: <end>
 
 =>q41
-Эй, вот пара кредитов за твои труды. ::Он вручает вам 400 кредитов ССГ.::<end>
+Эй, вот пара кредитов за твои труды. ::Он вручает вам 400 кредитов ССГ.:: <end>
 
 =>q42_original
 You earned it. <end>
 
 =>q42
-Ты заслужил$(#/а) их.<end>
+Ты заслужил$(#/а) их. <end>
 
 =>q43_original
 It's dangerous out there.<end>
@@ -302,7 +302,7 @@ Well, back to the usual, I guess.<end>
 Even though we ended up finding nothing, you earned it. <end>
 
 =>q47
-И хоть в итоге мы ничего не нашли, ты заслужил$(#/а) их.<end>
+И хоть в итоге мы ничего не нашли, ты заслужил$(#/а) их. <end>
 
 =>a48_original
 Just a bunch of shroom farmers having troubles with their farm bots. Nothing to worry about.<end>
@@ -326,7 +326,7 @@ They're a group of shroom farmers indulging themselves in some rather dangerous 
 Drugged-up madmen? <end>
 
 =>q51
-Обдолбавшиеся безумцы?<end>
+Обдолбавшиеся безумцы? <end>
 
 =>q52_original
 Oooooh, I'm calling Lucas right now. I'm getting that extra auto-turret and ammo - no. matter. what!<end>
@@ -344,7 +344,7 @@ They're a group of shroom farmers who've been having problems with their rogue p
 Rogue plasma sentries? <end>
 
 =>q54
-Вышедшие из-под контроля плазменные стражи?<end>
+Вышедшие из-под контроля плазменные стражи? <end>
 
 =>a55_original
 They're a group of shroom farmers who've been captured by Lurkers.<end>
@@ -356,7 +356,7 @@ They're a group of shroom farmers who've been captured by Lurkers.<end>
 Lurkers? <end>
 
 =>q56
-Скрытни?<end>
+Скрытни? <end>
 
 =>a57_original
 ...but it's all been taken care of. There's nothing to worry about.<end>
@@ -524,7 +524,7 @@ It's possible.<end>
 Hmmm... <end>
 
 =>q82
-Хм-м...<end>
+Хм-м... <end>
 
 =>a83_original
 Don't think so.<end>
@@ -894,7 +894,7 @@ No idea what you're talking about.<end>
 Maaan! <end>
 
 =>q141
-Бли-и-ин!<end>
+Бли-и-ин! <end>
 
 =>a142_original
 I can get you one if you need it.<end>
@@ -958,7 +958,7 @@ It's the explorer. <end>
 ::He sighs.:: Maaaan! I got impatient and, uh... I drove the bot to that cave. Neat little thing, gotta say - works like a charm! <end>
 
 =>q151
-::Он вздыхает.:: Бли-и-ин! Мне стало невтерпёж, и... я отправил бота в ту пещеру. Занятная игрушка, надо сказать -- работает как по волшебству!<end>
+::Он вздыхает.:: Бли-и-ин! Мне стало невтерпёж, и... я отправил бота в ту пещеру. Занятная игрушка, надо сказать -- работает как по волшебству! <end>
 
 =>q152_original
 I even managed to scare away that stalker with the mounted gun.<end>
@@ -1064,7 +1064,7 @@ Did the explorer arrive?<end>
 Yeah, yeah. <end>
 
 =>q166
-Да, да.<end>
+Да, да. <end>
 
 =>a167_original
 What did you mess up now?<end>
@@ -1076,13 +1076,13 @@ What did you mess up now?<end>
 I didn't-- Well... <end>
 
 =>q168
-Ничего я не... Ну...<end>
+Ничего я не... Ну... <end>
 
 =>q169_original
 Hey, this little explorer bot is top notch, man! <end>
 
 =>q169
-Слушай, этот маленький исследовательский бот -- просто высший класс, $(#дружище/подруга)!<end>
+Слушай, этот маленький исследовательский бот -- просто высший класс, $(#дружище/подруга)! <end>
 
 =>q170_original
 Real pleased with it. I'm driving it all over the passages, and I gotta say, I feel a lot better doing that than staring through motionless cameras. 
@@ -1134,7 +1134,7 @@ Something tells me he's not coming back.<end>
 Hey, I decided to keep that little bot, and oh man, am I glad I did. <end>
 
 =>q177
-Знаешь, я решил оставить себе этого маленького бота, и, ох, блин, как же я рад.<end>
+Знаешь, я решил оставить себе этого маленького бота, и, ох, блин, как же я рад. <end>
 
 =>q178_original
 <end>

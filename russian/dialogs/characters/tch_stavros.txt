@@ -36,7 +36,7 @@ Out.<end>
 Evolution is Tchort. I am Harmost Stavros. I've already been informed where you're from and that you're the one brave enough to free our rassophores from the clutches of the inbreds. <end>
 
 =>q6
-Эволюция -- это Чорт. Я гармост Ставрос. Мне уже сообщили, откуда вы, и о вашем храбром поступке, как вы освободили наших рясофоров из лап выродков.<end>
+Эволюция -- это Чорт. Я гармост Ставрос. Мне уже сообщили, откуда вы, и о вашем храбром поступке, как вы освободили наших рясофоров из лап выродков. <end>
 
 =>q7_original
 Sadly, only one rassophore returned. But, it is still better than none, and is a good thing for morale, if only a bit.<end>
@@ -162,7 +162,7 @@ I was sent down here by Eidein to help with Tchort's defense. And I am alone. Th
 I see. The Faceless must've disabled the elevator in order to cut us off. <end>
 
 =>q25
-Ясно. Безликие, должно быть, отключили лифт, чтобы нас отрезать.<end>
+Ясно. Безликие, должно быть, отключили лифт, чтобы нас отрезать. <end>
 
 =>q26_original
 However, who are you to earn yourself Eidein's trust enough for him to send you alone? I've never seen you before, so you must've joined the Institute of Tchort during my - relatively short - absence, and I've too never seen Eidein so favorable toward a novitiate?<end>
@@ -184,7 +184,7 @@ A lot *has* happened... that I cannot deny, $(context.player.Name). <end>
 =>q28
 ::Он пристально смотрит на вас в течение нескольких мгновений.::
 
-Многое произошло... этого я не могу отрицать, $(context.player.Name).<end>
+Многое произошло... этого я не могу отрицать, $(context.player.Name). <end>
 
 =>q29_original
 Now, did Eidein make any attempts at coming down with you? According to emergency plan we had, he was supposed to go to Tchort, but from what you told me I somehow draw a conclusion that he didn't make any such attempts.<end>
@@ -208,7 +208,7 @@ I really don't know. I suppose the plan has changed. What I've already told you 
 Right... <end>
 
 =>q32
-М-да...<end>
+М-да... <end>
 
 =>q33_original
 ::He sighs.:: Alright, $(context.player.Name), you have earned yourself some rest. Should you need supplies, speak to Rassophore Prevlic in the armory. A word of caution, though: He had been injured during the battle with the devolved, and is still severely traumatized. He is very unstable, so do *not* speak with him about the current events so not to upset him. Am I clear? Keep the talk minimal and watch what you say.<end>
@@ -280,7 +280,7 @@ Tell me about the Hollow Earth complex.<end>
 Hollow Earth used to be a secret Biocorp research complex. Scientists specialized in numerous fields worked here, and the vast complex was protected by the most elite soldiers. The area just outside Cytosine Outpost used to be where most of the laboratories were located, now nothing but ruin. <end>
 
 =>q44
-Полая Земля была секретным научно-исследовательским комплексом Биокорп. Учёные различных специальностей работали здесь, а защищали комплекс самые элитные подразделения. Прямо за периметром Цитозина раньше располагались лаборатории, но теперь нет ничего, кроме руин.<end>
+Полая Земля была секретным научно-исследовательским комплексом Биокорп. Учёные различных специальностей работали здесь, а защищали комплекс самые элитные подразделения. Прямо за периметром Цитозина раньше располагались лаборатории, но теперь нет ничего, кроме руин. <end>
 
 =>q45_original
 Of course, over the years we, Institute of Tchort, have managed to extract useful research data which accelerated our own efforts.<end>
@@ -370,7 +370,7 @@ How do you get your power?<end>
 We have our own generators. <end>
 
 =>q59
-У нас есть собственные генераторы.<end>
+У нас есть собственные генераторы. <end>
 
 =>a60_original
 Has anyone ever been there?<end>
@@ -508,7 +508,7 @@ Do you have any tasks for me, Your Excellency?<end>
 You have already helped us enough. <end>
 
 =>q82
-Вы уже достаточно помогли нам.<end>
+Вы уже достаточно помогли нам. <end>
 
 =>q83_original
 I had considered sending you on a recon mission, but the rassophores you rescued gave me enough information regarding Faceless positioning, personnel and available equipment.<end>
@@ -574,7 +574,7 @@ This base - or bases - should be your primary reconnaissance targets if possible
 I am asking a lot of you and know that it is a tremendously difficult task, but our options are limited. <end>
 
 =>q93
-Я прошу многого и знаю, что это чрезвычайно сложная задача, но нам не приходится выбирать.<end>
+Я прошу многого и знаю, что это чрезвычайно сложная задача, но нам не приходится выбирать. <end>
 
 =>a94_original
 I have already been to one of these bases.<end>
@@ -760,7 +760,7 @@ Everything.<end>
 A bold statement, $(context.player.Name). <end>
 
 =>q124
-Дерзкое заявление, $(context.player.Name).<end>
+Дерзкое заявление, $(context.player.Name). <end>
 
 =>a125_original
 Cooking and killing! That's the best combo!<end>
@@ -772,7 +772,7 @@ Cooking and killing! That's the best combo!<end>
 Interesting. Rassophore Jeremy, our best cook was killed recently, but let's ignore that for a moment; I have something else in mind. <end>
 
 =>q126
-Интересно. Рясофор Джереми -- наш лучший повар -- был убит недавно, но давайте пока оставим это; у меня на уме другое.<end>
+Интересно. Рясофор Джереми -- наш лучший повар -- был убит недавно, но давайте пока оставим это; у меня на уме другое. <end>
 
 =>a127_original
 About those captives...<end>
@@ -912,7 +912,7 @@ Tchort is formless, you know that, but not mindless. It can exert its mental inf
 The sole reason why Eidein is the *only* one allowed to enter the Nucleus is because Tchort simply wouldn't let anyone else so close to itself; it is its will, and we must abide. <end>
 
 =>q149
-Единственная причина, почему *только* одному Эйдейну разрешается входить в Нуклеус -- Чорт просто не позволил бы никому другому находиться так близко к себе; такова его воля, и мы должны подчиниться.<end>
+Единственная причина, почему *только* одному Эйдейну разрешается входить в Нуклеус -- Чорт просто не позволил бы никому другому находиться так близко к себе; такова его воля, и мы должны подчиниться. <end>
 
 =>q150_original
 All this shows the magnificence of Tchort: Even in its most vulnerable phase, during its regeneration, it has a way to defend itself, to influence all that is around it. There were traitors in the past who spoke of Tchort as if it is a mere fabrication, and told that a trip to Deep Caverns would only prove their claims. Ironically for them, it proves exactly the opposite - it proves Tchort's magnificence.<end>
@@ -1246,7 +1246,7 @@ No, not as far as I know.<end>
 In the end, I suppose that is the least relevant thing now. <end>
 
 =>q204
-В конце концов, мне кажется, это наименее актуально сейчас.<end>
+В конце концов, мне кажется, это наименее актуально сейчас. <end>
 
 =>a205_original
 He did, but he never made it.<end>
@@ -1488,13 +1488,13 @@ They have all made it back safely and are ready for action.<end>
 Tchort is evolution. I am Harmost Stavros. I've already been informed that you're the one brave enough to free our rassophores from the clutches of the inbreds. <end>
 
 =>q241
-Чорт -- это эволюция. Я гармост Ставрос. Мне уже сообщили о вашем храбром поступке, как вы освободили наших рясофоров из лап выродков.<end>
+Чорт -- это эволюция. Я гармост Ставрос. Мне уже сообщили о вашем храбром поступке, как вы освободили наших рясофоров из лап выродков. <end>
 
 =>q242_original
 Evolution is Tchort. I am Harmost Stavros. Welcome to Cytosine Outpost. <end>
 
 =>q242
-Эволюция -- это Чорт. Я гармост Ставрос. Добро пожаловать на форпост Цитозин.<end>
+Эволюция -- это Чорт. Я гармост Ставрос. Добро пожаловать на форпост Цитозин. <end>
 
 =>a243_original
 I'm $(context.player.Name).<end>
@@ -1590,7 +1590,7 @@ I would like to make myself clear now, $(context.player.Name), and you better li
 Excellent work, $(context.player.Name). <end>
 
 =>q256
-Отличная работа, $(context.player.Name).<end>
+Отличная работа, $(context.player.Name). <end>
 
 =>q257_original
 The rassophores which you have rescued have made it back to Cytosine Outpost.<end>
@@ -1627,4 +1627,3 @@ Tchort is evolution, $(context.player.Name).<end>
 
 =>q262
 Чорт -- это эволюция, $(context.player.Name).<end>
-

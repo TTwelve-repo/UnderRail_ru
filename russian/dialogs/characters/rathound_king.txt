@@ -138,7 +138,7 @@ You sound as if they've been causing you a lot of issues.<end>
 Do I? Maybe because they have. I only wanted to be left alone and live with my pack on *our* land. But, those of Camp Hathor just wouldn't leave me be. Especially one man, their former leader - Gideon. ::The name is snarled rather than spoken normally, and a deep, angular frown appears on his forehead like a crack on a smooth rock.:: That coward, that pathetic excuse for a man. <end>
 
 =>q21
-Вот как? Это потому, что так и есть. Я только хотел, чтобы меня оставили в покое, -- жить с моей стаей на *нашей* земле. Но эти из лагеря Хатор просто не могут не лезть ко мне. Особенно один из них, их бывший вожак Гидеон. ::Это имя он скорее прорычал чем сказал, и глубокая ломаная морщина разрезает его лоб, словно трещина на гладкой скале.:: Этот трус, эта жалкая пародия на мужчину.<end>
+Вот как? Это потому, что так и есть. Я только хотел, чтобы меня оставили в покое, -- жить с моей стаей на *нашей* земле. Но эти из лагеря Хатор просто не могут не лезть ко мне. Особенно один из них, их бывший вожак Гидеон. ::Это имя он скорее прорычал чем сказал, и глубокая ломаная морщина разрезает его лоб, словно трещина на гладкой скале.:: Этот трус, эта жалкая пародия на мужчину. <end>
 
 =>q22_original
 He claimed I was trespassing their hunting grounds and stealing their game, while it belonged to me long before they stopped digging coal and decided to turn to hunting. My rathounds - my "dirty" rathounds - were vermin to him, insisting they were attacking and hurting the people of Camp Hathor. FOOL!<end>
@@ -482,7 +482,7 @@ It sounds fun.<end>
 You find pleasure in kidnapping women? Hmmm... <end>
 
 =>q77
-Ты находишь удовольствие в похищении женщин? Хм-м-м...<end>
+Ты находишь удовольствие в похищении женщин? Хм-м-м... <end>
 
 =>q78_original
 ::He stops to think.:: I'm intrigued by your proposal, $(context.player.Name). I had already observed this woman prove her worth before, and I am certain that she is fit enough to be my queen. Whether she agrees with it or not right now is not my concern. Bring her to me, and you will be rewarded. 
@@ -534,7 +534,7 @@ I have a problem with Camp Hathor, just like you. A low blow such as this would 
 Ah, I see. And I am not surprised. <end>
 
 =>q85
-А, понимаю. И я не удивлён.<end>
+А, понимаю. И я не удивлён. <end>
 
 =>a86_original
 For a reward, of course. I'm guessing a powerful king such as yourself has some interesting things to offer.<end>
@@ -546,7 +546,7 @@ For a reward, of course. I'm guessing a powerful king such as yourself has some 
 HA! Now you make sense. <end>
 
 =>q87
-ХА! Теперь я тебя понимаю.<end>
+ХА! Теперь я тебя понимаю. <end>
 
 =>a88_original
 That sounds a bit disturbing. How about we change the subject?<end>
@@ -570,7 +570,7 @@ Don't know his last name, but I suppose a place like Camp Hathor doesn't have a 
 It must be him. <end>
 
 =>q91
-Это должен быть он.<end>
+Это должен быть он. <end>
 
 =>a92_original
 Perhaps she would. How much do you really desire this woman?<end>
@@ -618,7 +618,7 @@ What's with all the traps around the lair?<end>
 The traps are there to prevent intruders from getting into my lair. Many wander into these caves, but not many are cunning enough to survive. I've also built a labyrinth below, to make things even more difficult. So far, no one has been able to avoid the traps and navigate the labyrinth. No one but you. <end>
 
 =>q99
-Ловушки -- для того, чтобы отвадить незваных гостей от моего логова. Многие заходят в эти пещеры, но мало кто достаточно хитёр, чтобы выжить. Я также построил лабиринт внизу, чтобы ещё больше усложнить им жизнь. До сих пор никто не смог избежать ловушек и пройти через лабиринт. Никто, кроме тебя.<end>
+Ловушки -- для того, чтобы отвадить незваных гостей от моего логова. Многие заходят в эти пещеры, но мало кто достаточно хитёр, чтобы выжить. Я также построил лабиринт внизу, чтобы ещё больше усложнить им жизнь. До сих пор никто не смог избежать ловушек и пройти через лабиринт. Никто, кроме тебя. <end>
 
 =>q100_original
 Which is quite admirable, $(context.player.Name).<end>
@@ -881,4 +881,3 @@ Ah! It is good to see you again, $(context.player.Name). Know that you are alway
 
 =>q140
 А! Я рад видеть тебя снова, $(context.player.Name). Знай, что ты всегда желанн$(#ый/ая) гость$(#/я) в моём логове.<end>
-

@@ -320,7 +320,7 @@ I'll keep a close eye on the trail, once it starts. <end>
 =>q50
 Любопытно, капрал, весьма любопытно, но я уверен, что мы вскоре получим объяснение. Я не знаю, что вам сказать, похоже, что переговоры провалились.
 
-Я буду внимательно следить за судебным процессом, как только он начнётся.<end>
+Я буду внимательно следить за судебным процессом, как только он начнётся. <end>
 
 =>q51_original
 Ah, yes, Corporal. What of them?<end>
@@ -550,7 +550,7 @@ So, it is mutual. ::He laughs.:: Make yourself comfortable, $(context.player.Nam
 Fort Apogee is most certainly not in the neighborhood, I can tell you that. <end>
 
 =>a85
-Дорога в форт Апогей, безусловно, неблизкая, скажу я вам.<end>
+Дорога в форт Апогей, безусловно, неблизкая, скажу я вам. <end>
 
 =>q86_original
 You are right, $(context.player.Name). It is not. We are separated from the lower region by Core City, and... you know what the situation is like there, I'm certain.<end>
@@ -741,4 +741,3 @@ Ah, Corporal, come on in. What can I do for you?<end>
 
 =>q116
 А, капрал, проходите. Что я могу сделать для вас?<end>
-

@@ -62,7 +62,7 @@ Catch you later, $(context.player.Name).<end>
 It's not a scavenging opportunity, it's a death wish. And if it was just your hide that you were risking, I wouldn't give a damn, but I can't have those critters getting out and about. <end>
 
 =>q9
-Это не отличная возможность, а покушение на самоубийство. Если бы ты рисковал$(#/а) только своей шкурой, мне было бы плевать, но я не хочу, чтобы эти твари выбрались оттуда и расползлись.<end>
+Это не отличная возможность, а покушение на самоубийство. Если бы ты рисковал$(#/а) только своей шкурой, мне было бы плевать, но я не хочу, чтобы эти твари выбрались оттуда и расползлись. <end>
 
 =>q10_original
 You are not getting this key card. Now get out of here!<end>
@@ -314,7 +314,7 @@ You killed half of them?! Why?<end>
 Hey, I don't have time to teach you bloody history. <end>
 
 =>q51
-Эй, у меня нет времени учить тебя долбаной истории.<end>
+Эй, у меня нет времени учить тебя долбаной истории. <end>
 
 =>q52_original
 Life is tough, especially here in the south. We did what had to be done.<end>
@@ -338,7 +338,7 @@ I guess it was you or them.<end>
 Exactly. <end>
 
 =>q55
-Точно.<end>
+Точно. <end>
 
 =>a56_original
 I see.<end>
@@ -440,7 +440,7 @@ I'm to go down there alone? What are the rest of you going to do?<end>
 We'll continue trying to open the door manually. <end>
 
 =>q72
-Мы будем пытаться открыть двери вручную.<end>
+Мы будем пытаться открыть двери вручную. <end>
 
 =>q73_original
 What? Are you scared of a few rathounds? Go get the bloody door opened, you ninny.<end>

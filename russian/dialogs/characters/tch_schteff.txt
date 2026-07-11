@@ -424,7 +424,7 @@ You really have a talent to send people to the most dangerous stinkin' places. I
 Mutants? I didn't know there was any mutants there! Magnificent Tchort, what the hell is wrong with me and this project - it's like a curse or something! ::He grabs his head.:: <end>
 
 =>q68
-Мутанты? Я не знаю откуда там мутанты! Чорт великолепный, что такое со мной и этим проектом творится -- просто проклятие какое-то! ::Он хватается за голову.::<end>
+Мутанты? Я не знаю откуда там мутанты! Чорт великолепный, что такое со мной и этим проектом творится -- просто проклятие какое-то! ::Он хватается за голову.:: <end>
 
 =>a69_original
 Luckily I'm alive, but damn it man - you really know where to send your assistants.<end>
@@ -554,7 +554,7 @@ Apex... Okay, as I already mentioned earlier, this T-ray emitter will have a tra
  I'm sorry, I'm getting sidetracked here. Let's go through the process one more time: Here is the emitter, ::He gives you the T-ray emitter.:: and here is the comm device. ::He hands you a communication device.::<end>
 
 =>q89
-Простите, я ухожу от темы. Давайте пройдёмся ещё раз: вот излучатель, ::Он даёт вам Т-излучатель.:: вот переговорное устройство. ::Он протягивает вам устройство.::<end>
+ Простите, я ухожу от темы. Давайте пройдёмся ещё раз: вот излучатель, ::Он даёт вам Т-излучатель.:: вот переговорное устройство. ::Он протягивает вам устройство.::<end>
 
 =>q90_original
 Go down the stairs past Eidein's Library and talk to the guards at the first junction; you can't miss it. Again, the area is mostly deserted but I recommend you still keep your eyes open.<end>
@@ -850,7 +850,7 @@ Doesn't sound that way to me.<end>
 No, what I meant was: <end>
 
 =>q137
-Нет, я имел в виду другое.<end>
+Нет, я имел в виду другое. <end>
 
 =>a138_original
 Oh no, did I say something offensive? I am new to Tchortism, please forgive me!<end>
@@ -862,7 +862,7 @@ Oh no, did I say something offensive? I am new to Tchortism, please forgive me!<
 Don't be silly, $(context.player.Name), you haven't offended anyone. <end>
 
 =>q139
-Не глупите, $(context.player.Name), вы никого не обидели.<end>
+Не глупите, $(context.player.Name), вы никого не обидели. <end>
 
 =>a140_original
 What can you tell me about these tremors?<end>
@@ -1066,7 +1066,7 @@ Where can I find him?<end>
 He is over by the particle accelerator, probably doing some calculations. He's a brilliant mathematician so I *allow* him to do all the difficult math for me. ::He laughs.:: <end>
 
 =>q173
-Он работает над ускорителем частиц, вероятно, делает какие-нибудь расчёты. Он блестящий математик, так что я *позволяю* ему делать за меня всё, что касается сложных вычислений. ::Он смеётся.::<end>
+Он работает над ускорителем частиц, вероятно, делает какие-нибудь расчёты. Он блестящий математик, так что я *позволяю* ему делать за меня всё, что касается сложных вычислений. ::Он смеётся.:: <end>
 
 =>a174_original
 Thank you. I had other questions though.<end>
@@ -1189,4 +1189,3 @@ Need something, $(#brother/sister)?<end>
 
 =>q192
 Нужно что-то, $(#брат/сестра)?<end>
-

@@ -62,7 +62,7 @@ Good, good. If no one has anything else to add, that will conclude this council 
 Actually... just one more thing, in case you weren't informed already: I admitted a new citizen to the station. <end>
 
 =>q11
-Да, есть ещё кое-что, на случай, если вы ещё не знаете: я принял на станцию нового гражданина.<end>
+Да, есть ещё кое-что, на случай, если вы ещё не знаете: я принял на станцию нового гражданина. <end>
 
 =>q12_original
 That $(context.player.Name) $(#fellow/girl)?<end>
@@ -105,4 +105,3 @@ Indeed. That is all. Vera. Gorsky.<end>
 
 =>a18
 ::Пропустить вступление::<end>
-

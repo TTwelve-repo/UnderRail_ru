@@ -32,7 +32,7 @@ All for nothing.<end>
 There's a giant robotic statue roaming <end>
 
 =>q6
-Там бродит гигантская роботизированная статуя<end>
+Там бродит гигантская роботизированная статуя <end>
 
 =>q7_original
 the docks.<end>
@@ -101,13 +101,13 @@ I was wondering who's going be responsible for that after their death.<end>
 Yes. ::He pauses.:: Ladelman ate everything, and ate like it was his last meal. <end>
 
 =>q17
-Да. ::Он делает паузу.:: Лэйдельман съел всё, и ел так, словно это была его последняя трапеза.<end>
+Да. ::Он делает паузу.:: Лэйдельман съел всё, и ел так, словно это была его последняя трапеза. <end>
 
 =>q18_original
 Marcus... was real picky about his food. <end>
 
 =>q18
-Маркус... был очень разборчив в еде.<end>
+Маркус... был очень разборчив в еде. <end>
 
 =>q19_original
 Let me check if I got something for you.<end>
@@ -131,13 +131,13 @@ Here. ::He hands you $(context.loc_xpbl_le_currentPaycheck) stygian coins.::<end
 Want something to eat? <end>
 
 =>q22
-Хотите чего-нибудь поесть?<end>
+Хотите чего-нибудь поесть? <end>
 
 =>q23_original
 Today on the menu: <end>
 
 =>q23
-Сегодня в меню:<end>
+Сегодня в меню: <end>
 
 =>q24_original
 whatever's left.<end>
@@ -221,7 +221,7 @@ Appreciate it.<end>
 Hungry? <end>
 
 =>q37
-Голодны?<end>
+Голодны? <end>
 
 =>a38_original
 It was quite good.<end>
@@ -503,4 +503,3 @@ Nothing.<end>
 
 =>q82
 <end>
-

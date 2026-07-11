@@ -20,7 +20,7 @@ Anybody there? Over.<end>
 Hey dere. <end>
 
 =>q4
-Эй там.<end>
+Эй там. <end>
 
 =>q5_original
 Who gave ye dis frequency?<end>
@@ -74,7 +74,7 @@ Fine, man, fine. I'm gone.<end>
 Dumbat... <end>
 
 =>q13
-Тупица...<end>
+Тупица... <end>
 
 =>q14_original
 <end>
@@ -134,7 +134,7 @@ This is the one and only - Invictus.<end>
 Dat ye $(context.player.Name)? <end>
 
 =>q23
-Это ты, $(context.player.Name)?<end>
+Это ты, $(context.player.Name)? <end>
 
 =>a24_original
 This is, um, $(#Jimmy/Jenny).<end>
@@ -184,7 +184,7 @@ No, it's me, $(context.player.Name), the new $(#guy/girl).<end>
 Oh, hey. <end>
 
 =>q30
-О, здаров.<end>
+О, здаров. <end>
 
 =>a31_original
 Yelloooooooooooooo...<end>
@@ -196,7 +196,7 @@ Yelloooooooooooooo...<end>
 Take it easy, banga, take it easy! Yer splittin' me ears. <end>
 
 =>q32
-Полегче, банга, полегче! Ты разрываешь мне уши.<end>
+Полегче, банга, полегче! Ты разрываешь мне уши. <end>
 
 =>a33_original
 Can anyone hear me?<end>
@@ -208,7 +208,7 @@ Can anyone hear me?<end>
 Yea, yea, I can hear ye. <end>
 
 =>q34
-Да-да, я тя слышу.<end>
+Да-да, я тя слышу. <end>
 
 =>a35_original
 I've got a gift for you...<end>
@@ -220,7 +220,7 @@ I've got a gift for you...<end>
 A gift? What kinda gift? Wait, who's dis? <end>
 
 =>q36
-Подарок? Чё за подарок? Погоди-ка, это кто?<end>
+Подарок? Чё за подарок? Погоди-ка, это кто? <end>
 
 =>a37_original
 AAAAAAAAAAAAAAAAAAAAAaaaaaAAAAAAAAaaaAAAAAAAAAAAAAAA!<end>
@@ -233,4 +233,3 @@ AAAAAAAAAAAAAAAAAAAAAaaaaaAAAAAAAAaaaAAAAAAAAAAAAAA!<end>
 
 =>a38
 ::Выключить её.::<end>
-

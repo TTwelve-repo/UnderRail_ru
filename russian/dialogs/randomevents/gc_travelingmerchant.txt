@@ -11,7 +11,7 @@
 Greetings, youngster. <end>
 
 =>q2
-Приветствую, $(#молодой человек/девушка).<end>
+Приветствую, $(#молодой человек/девушка). <end>
 
 =>q3_original
 <end>
@@ -23,7 +23,7 @@ Greetings, youngster. <end>
 Need some weapons and gear? <end>
 
 =>q4
-Нужно оружие или снаряжение?<end>
+Нужно оружие или снаряжение? <end>
 
 =>q5_original
 Got a few things a $(#guy/gal) like you might find interestin'. Wanna take a look, eh, wanna?<end>
@@ -139,37 +139,37 @@ Ya sure? I'll be restin' here a while longer, so in case you change your mind, h
 Need some electronics? <end>
 
 =>q22
-Нужна электроника?<end>
+Нужна электроника? <end>
 
 =>q23_original
 Need some mechanical components? <end>
 
 =>q23
-Нужны механические компоненты?<end>
+Нужны механические компоненты? <end>
 
 =>q24_original
 Need some medications and medical equipment? <end>
 
 =>q24
-Нужны лекарства и медицинское снаряжение?<end>
+Нужны лекарства и медицинское снаряжение? <end>
 
 =>q25_original
 Need some hunting gear? <end>
 
 =>q25
-Нужно охотничье снаряжение?<end>
+Нужно охотничье снаряжение? <end>
 
 =>q26_original
 Need some food? <end>
 
 =>q26
-Нужна еда?<end>
+Нужна еда? <end>
 
 =>q27_original
 Need some *explosives*? <end>
 
 =>q27
-Нужны *взрывчатые вещества*?<end>
+Нужны *взрывчатые вещества*? <end>
 
 =>q28_original
 Got a varied assortment of things a $(#guy/gal) like you might find interestin'. Wanna take a look?<end>
@@ -185,5 +185,4 @@ He-he. <end>
 =>q29
 ::Бродячий торговец приветствует вас.::
 
-Хе-хе.<end>
-
+Хе-хе. <end>

@@ -96,7 +96,7 @@ Would you... ::He smiles.:: Would you look at that beauty. Yes, that's wood. Isn
 ::After looking at it for some more, he continues.:: <end>
 
 =>q16
-::Посмотрев ещё немного, он продолжает.::<end>
+::Посмотрев ещё немного, он продолжает.:: <end>
 
 =>q17_original
 Of all the things that exist in this wretched world, this *wood* is something I can find little information about. I only learned its name from some ancient schematic I had.<end>
@@ -108,7 +108,7 @@ Of all the things that exist in this wretched world, this *wood* is something I 
 All in all, old world weapons, wooden or not, working with those is a whole lot different than fixing yokel guns. <end>
 
 =>q18
-В общем, оружие старого мира, деревянное или нет, работа с ним сильно отличается от починки современного двуствольного оружия.<end>
+В общем, оружие старого мира, деревянное или нет, работа с ним сильно отличается от починки современного двуствольного оружия. <end>
 
 =>q19_original
 <end>
@@ -157,7 +157,7 @@ Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all 
 ::He takes everything, including the weapon.:: Alright, time to get started. <end>
 
 =>q25
-::Он забирает всё, включая оружие.:: Ладно, пора начинать.<end>
+::Он забирает всё, включая оружие.:: Ладно, пора начинать. <end>
 
 =>q26_original
 I'm... excited, to be honest.<end>
@@ -169,7 +169,7 @@ I'm... excited, to be honest.<end>
 Should go smoother with the technical manuals you brought me, so I don't think it'll take too long. <end>
 
 =>q27
-С техническими руководствами, что вы мне принесли, должно пройти более гладко, так что не думаю, что это займёт слишком много времени.<end>
+С техническими руководствами, что вы мне принесли, должно пройти более гладко, так что не думаю, что это займёт слишком много времени. <end>
 
 =>q28_original
 Anything else you need before I start?<end>
@@ -181,7 +181,7 @@ Anything else you need before I start?<end>
 Can't tell how long it's gonna take exactly, but it won't be quick. <end>
 
 =>q29
-Не могу точно сказать, сколько это займёт времени, но это будет не быстро.<end>
+Не могу точно сказать, сколько это займёт времени, но это будет не быстро. <end>
 
 =>q30_original
 <end>
@@ -229,7 +229,7 @@ But... ::He pauses briefly.:: *If* you can save me time and effort, then I suppo
 ::He waves your idea away.:: No, no. I work with no one. <end>
 
 =>q37
-::Он отмахивается от вашей идеи.:: Нет, нет. Я ни с кем не работаю.<end>
+::Он отмахивается от вашей идеи.:: Нет, нет. Я ни с кем не работаю. <end>
 
 =>q38_original
 What I meant was, if you can find me some, say, schematics, erm - technical manuals or anything of the such it'd help me a lot. It doesn't even have to be for *this* weapon specifically, as a lot of these old world weapons - just like contemporary ones - share parts and design paradigms between them.
@@ -275,7 +275,7 @@ Yeah...<end>
 Can't wait to check out this little train of goodies here. <end>
 
 =>q44
-Не терпится увидеть этот небольшой поезд вкусностей.<end>
+Не терпится увидеть этот небольшой поезд вкусностей. <end>
 
 =>q45_original
 Not only is this gonna help me plenty, it's gonna be a riveting read as well.<end>
@@ -1935,7 +1935,7 @@ Go on.<end>
 All in all, <end>
 
 =>q278
-В общем и целом,<end>
+В общем и целом, <end>
 
 =>q279_original
 I really didn't have the heart to cut the rifle apart and see how the wood looks on the inside. But what I saw in the only other wooden firearm was that its wood was made with a different color and fiber size. It had its protective coating damaged, and I could feel the wood beneath. It had a very nice, smooth, smooth feel to it.<end>
@@ -1963,7 +1963,7 @@ We were discussing the material.<end>
 I was *just* getting to that. <end>
 
 =>q282
-Я *как раз* подходил к этому.<end>
+Я *как раз* подходил к этому. <end>
 
 =>a283_original
 I had something else in mind.<end>
@@ -2109,13 +2109,13 @@ Almost done! Just got to do some final polishing and this beauty will be back in
 I'm done with the internals, and now I'm working on the <end>
 
 =>q306
-Я закончил с внутренностями, и теперь я работаю над<end>
+Я закончил с внутренностями, и теперь я работаю над <end>
 
 =>q307_original
 barrels. <end>
 
 =>q307
-стволы.<end>
+стволы. <end>
 
 =>q308_original
 After that I'll do the cleaning and polishing, and that'll be that.<end>
@@ -2127,7 +2127,7 @@ After that I'll do the cleaning and polishing, and that'll be that.<end>
 barrel. <end>
 
 =>q309
-ствол.<end>
+ствол. <end>
 
 =>q310_original
 Still got a long way to go. I'm working on the internal mechanism, figuring out how this thing's assembled. A lot of work on the external bits after that... so come back later. *Later*.<end>
@@ -2187,7 +2187,7 @@ The strange thing about that place is that there was this room in there, and in 
 I couldn't tell exactly what it was back then, though it did seem familiar. Later I remembered seeing one of those things, the device that was on the top of the pedestal. <end>
 
 =>q319
-Я не мог тогда точно сказать, что это было, хотя оно показалось мне знакомым. Позже я вспомнил, что видел похожую штуку; я имею в виду устройство, которое было на вершине пьедестала.<end>
+Я не мог тогда точно сказать, что это было, хотя оно показалось мне знакомым. Позже я вспомнил, что видел похожую штуку; я имею в виду устройство, которое было на вершине пьедестала. <end>
 
 =>q320_original
 I've read about it in a book about the Old Wars. It's called an *active pulse capacitor*, and while I don't know its inner workings, I do know it was used in combination with electromagnetic emitters to disable high power devices across a wide area.<end>
@@ -2530,4 +2530,3 @@ What do you want?<end>
 
 =>q374
 Чего вы хотели?<end>
-

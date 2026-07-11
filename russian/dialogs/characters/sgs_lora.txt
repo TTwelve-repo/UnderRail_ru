@@ -184,7 +184,7 @@ But you never made it to Buzzer.<end>
 No. <end>
 
 =>q30
-Нет.<end>
+Нет. <end>
 
 =>q31_original
 ::She releases a metallic sigh before continuing.:: We were attacked at the Rail Crossing station.<end>
@@ -411,7 +411,7 @@ But none of those were able to get to SGS.<end>
 Yes. <end>
 
 =>q65
-Да.<end>
+Да. <end>
 
 =>q66_original
 Because of the cave-in. So, Terry suggested we go to Rail Crossing: We would be closer to SGS when the tracks eventually get cleared, and we could see if Buzzer - he has a big shop there - if Buzzer, uh, if he had the power supplies. For Harold.<end>
@@ -441,7 +441,7 @@ Then what happened?<end>
 No trains could take us to SGS. <end>
 
 =>q70
-Ни один поезд не шёл до ССГ.<end>
+Ни один поезд не шёл до ССГ. <end>
 
 =>a71_original
 Tanner? I thought Vera sent you to Core City.<end>
@@ -465,7 +465,7 @@ You're coming with me. Time to take you back to South Gate Station.<end>
 Wait. I am hooked to this machine. Look. ::She points to the machine next to her. There are numerous wires and tubes that go into her arms and abdomen.:: They keep me alive. I don't think I can make it far without it. <end>
 
 =>q74
-Стойте. Я подключена к этой машине. Смотрите. ::Она указывает на машину рядом с ней. Многочисленные провода и трубки идут к её рукам и животу.:: Они поддерживают мою жизнь. Вряд ли я смогу далеко уйти сама.<end>
+Стойте. Я подключена к этой машине. Смотрите. ::Она указывает на машину рядом с ней. Многочисленные провода и трубки идут к её рукам и животу.:: Они поддерживают мою жизнь. Вряд ли я смогу далеко уйти сама. <end>
 
 =>q75_original
 <end>
@@ -523,7 +523,7 @@ There is a man called Leo who lives nearby. I'll take you to him.<end>
 ::[Biology] You inspect the machine.:: I see no way for me to safely take you away from here. I'm going to need someone else's help. <end>
 
 =>a83
-::[Биология] Вы осматриваете машину.:: Я не вижу способа безопасно забрать вас отсюда. Мне понадобится помощь.<end>
+::[Биология] Вы осматриваете машину.:: Я не вижу способа безопасно забрать вас отсюда. Мне понадобится помощь. <end>
 
 =>a84_original
 Damn it! I don't want to move you until I figure something out.<end>
@@ -743,7 +743,7 @@ I know. But if you knew what they'd do to you next, you'd wish they had left you
 Forget about them, now it's me who's saving you. <end>
 
 =>a117
-Забудьте о них, теперь я приш$(#ёл/ла) спасти вас.<end>
+Забудьте о них, теперь я приш$(#ёл/ла) спасти вас. <end>
 
 =>a118_original
 I don't care. We are done talking about the Faceless.<end>
@@ -792,4 +792,3 @@ $(context.player.Name)?<end>
 
 =>q125
 $(context.player.Name)?<end>
-

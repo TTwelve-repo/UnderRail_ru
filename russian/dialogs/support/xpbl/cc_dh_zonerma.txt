@@ -138,7 +138,7 @@ Hey, man, we're just gonna take a quick look around the place, okay? We just got
 ::She stares at you for a few moments.:: Alright, alright, you can come in. <end>
 
 =>q21
-::Какое-то время она пристально смотрит на вас.:: Хорошо, хорошо, можете пройти.<end>
+::Какое-то время она пристально смотрит на вас.:: Хорошо, хорошо, можете пройти. <end>
 
 =>q22_original
 Just be quick and don't make no mess. Dig? Or else... ::She threatens you with her ladle.::<end>
@@ -204,7 +204,7 @@ I am... My partner a-and I are here on official P-Praetorian Security business. 
 Eh... <end>
 
 =>q32
-Эх...<end>
+Эх... <end>
 
 =>q33_original
 You enforcers are the scum o' the earth! Where were you when my husband was bein' stabbed by a derailed madman at the metro station? Where were you when the Zone was a-riotin' and innocent people were bein' zoned out?<end>
@@ -228,7 +228,7 @@ Bah...<end>
 Do your dirty business, you. <end>
 
 =>q36
-Делайте своё грязное дело.<end>
+Делайте своё грязное дело. <end>
 
 =>a37_original
 We c-c-can't be every-where.<end>
@@ -264,13 +264,13 @@ I'm sure of that...<end>
 Eh... Praetorians? <end>
 
 =>q42
-А, Преторианцы?<end>
+А, Преторианцы? <end>
 
 =>q43_original
 Ya lyin' pipelicker. <end>
 
 =>q43
-Ты лжёшь, труболиз$(#/ка).<end>
+Ты лжёшь, труболиз$(#/ка). <end>
 
 =>q44_original
 You ain't a-foolin' me!<end>
@@ -298,7 +298,7 @@ Alright... Alright. <end>
 =>q47
 ::Её оборона ослабевает под давлением, а её пронзительный взгляд тускнеет.::
 
-Хорошо... Хорошо.<end>
+Хорошо... Хорошо. <end>
 
 =>q48_original
 It is you who is gonna be in this soup once I shove this ladle up your drop hole, $(#barrel-stuffer/pipe-scutchin' hooksie). I've seen and heard things you'd never believe durin' this long life o' mine, and your threats don't scare me one bit!<end>
@@ -402,7 +402,7 @@ Dominatin'! You're free to do your business. <end>
 =>q63
 ::Она засунула монеты в карман ещё до того, как вы поняли, что отдали их ей.::
 
-Хардкор! Вы вольны заниматься своими делами.<end>
+Хардкор! Вы вольны заниматься своими делами. <end>
 
 =>a64_original
 T-two hun-dred charons and not a ch-charon more.<end>
@@ -427,4 +427,3 @@ Step a-aside, Dude - I'm gonna solve this MY way. ::Burp and attack!::<end>
 
 =>a67
 Отойди в с-сторону, Чувак , я разберусь с этим *по-своему*. ::Рыгнуть и напасть!::<end>
-

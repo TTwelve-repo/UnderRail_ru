@@ -260,7 +260,7 @@ Please, continue.<end>
 Pat and I both stayed in Core City due to his work, um, and it went well for a while. Unfortunately, he was hurt during one of the riots: A brute with a sledgehammer, um, slammed him right in the spine. The bastard got him real bad, so bad he had to leave Praetorian Security, as he couldn't do his, his job anymore. He was also hurt, um, mentally: He saw things, horrible things; rarely talked about it, but I could see it. <end>
 
 =>q42
-Пат и я жили в Кор-Сити из-за его работы, эм, и некоторое время всё было хорошо. К сожалению, он был ранен во время одного из бунтов: какая-то скотина с кувалдой, эм, врезала ему прямо по спине. Этот ублюдок ударил очень сильно, и Патрику пришлось покинуть ПСБ, потому что он больше не мог выполнять свою работу. Он также пострадал, эм, душевно: он видел вещи, ужасные вещи; мы редко говорили об этом, но я-то знал.<end>
+Пат и я жили в Кор-Сити из-за его работы, эм, и некоторое время всё было хорошо. К сожалению, он был ранен во время одного из бунтов: какая-то скотина с кувалдой, эм, врезала ему прямо по спине. Этот ублюдок ударил очень сильно, и Патрику пришлось покинуть ПСБ, потому что он больше не мог выполнять свою работу. Он также пострадал, эм, душевно: он видел вещи, ужасные вещи; мы редко говорили об этом, но я-то знал. <end>
 
 =>q43_original
 We left Core City after that. Nothing for us there anymore. I took care of him until his back got better, um... and then we split. He went around, learned to work with electronics; he didn't want to be a scavenger his whole life. So he roamed, um, before settling here. Here, in South Gate Station. He told me he was happy here, that he finally found a place he can feel safe and... at home. ::Tears begin rolling out of his eyes to refil his glass.:: Damn it...<end>
@@ -752,13 +752,13 @@ What will you do now?<end>
 ::He pauses.:: Um, I'll talk to... <end>
 
 =>q124
-::Он замолкает.:: Эм, я поговорю... об этом с<end>
+::Он замолкает.:: Эм, я поговорю... об этом с <end>
 
 =>q125_original
 one of the councilors <end>
 
 =>q125
-одним из советников.<end>
+одним из советников. <end>
 
 =>q126_original
 about this. I'll take care of, of everything.<end>
@@ -782,7 +782,7 @@ I will.<end>
 Tanner <end>
 
 =>q129
-Таннером.<end>
+Таннером. <end>
 
 =>q130_original
 I'm not really convinced. Um, sorry, but that's not good enough.<end>
@@ -1492,7 +1492,7 @@ Yes... yes we can. I didn't mean to, um, drag on. I'm sorry.<end>
 You wouldn't mind if we skip the friendly chat? <end>
 
 =>a246
-Вы не возражаете, если мы перейдём сразу к делу?<end>
+Вы не возражаете, если мы перейдём сразу к делу? <end>
 
 =>q247_original
 Not at all. As you can see, I'm very bad at these things... ::He smiles.:: Plus I, um, have some things on my mind further... um, distracting me. That's why we're here.<end>
@@ -1553,4 +1553,3 @@ Hmm? Oh, $(context.player.Name).<end>
 
 =>q256
 Хм? О, $(context.player.Name).<end>
-

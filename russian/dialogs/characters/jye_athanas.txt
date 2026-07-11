@@ -376,7 +376,7 @@ South Railroad Outpost?<end>
 That's the metro base right above us. We use an elevator here in the embassy to quickly access it. <end>
 
 =>q60
-Это небольшая база прямо над нами, мы используем лифт здесь в посольстве для быстрого доступа к ней.<end>
+Это небольшая база прямо над нами, мы используем лифт здесь в посольстве для быстрого доступа к ней. <end>
 
 =>q61_original
 In fact, that's how we got to Junkyard in the first place - via railroad. Only later did we establish a waterways route after acquiring Port Zenith in Core City as well as reaching a mutually acceptable agreement with the Black Eels.<end>
@@ -499,4 +499,3 @@ How can I help you this time, $(#Mister/Miss) $(context.player.Name)?<end>
 
 =>q79
 Чем могу помочь на этот раз, мис$(#тер/с) $(context.player.Name)?<end>
-

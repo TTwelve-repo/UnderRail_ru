@@ -208,7 +208,7 @@ But, once we start rolling again - there's no stopping us!<end>
 First thing is to clean this place up a bit; remove the stench of the Crawlers, set up our gear and make ourselves comfortable. ::He laughs.:: Also we need to get a merchant here - and I know just the man. Come back later and you'll see. We crushed the bloody Crawlers, but now it's best for us to lay low for a while. <end>
 
 =>q34
-Первым делом, нужно прибраться здесь немного: проветрить после Краулеров, перетащить наше барахло и устроиться покомфортнее. ::Он смеётся.:: Также, нам нужен торговец, и я кое-кого знаю. Зайди попозже и увидишь. Мы сокрушили долбаных Краулеров, но сейчас будет лучше пока залечь на дно.<end>
+Первым делом, нужно прибраться здесь немного: проветрить после Краулеров, перетащить наше барахло и устроиться покомфортнее. ::Он смеётся.:: Также, нам нужен торговец, и я кое-кого знаю. Зайди попозже и увидишь. Мы сокрушили долбаных Краулеров, но сейчас будет лучше пока залечь на дно. <end>
 
 =>a35_original
 So what's going on? Why are you holed up in here?<end>
@@ -280,7 +280,7 @@ Okay, what happens now that we have the shields and the tunneler?<end>
 Now we get down to real bloody business. We got what we need at the moment. <end>
 
 =>q46
-Теперь мы займёмся настоящим делом. У нас есть всё, что нам нужно.<end>
+Теперь мы займёмся настоящим делом. У нас есть всё, что нам нужно. <end>
 
 =>q47_original
 <end>
@@ -364,7 +364,7 @@ Excellent. The plan goes like this...<end>
 We're going to retake my old camp here in Core City. $(context.player.Name), I don't know if I ever mentioned it, but I used to have a gang here, about twelve-thirteen years ago. Dan was there too, the man you met earlier. It was overtaken by some pitiful gang who call themselves the Black Crawlers. Stupid name, but who cares. <end>
 
 =>q60
-Мы собираемся отбить мой старый лагерь здесь в Кор-Сити. $(context.player.Name), не знаю, рассказывал ли я тебе об этом, но я возглавлял здесь банду около двенадцати-тринадцати лет назад. Дэн тоже был там, ты уже встречал$(#/а) его раньше. Лагерь был захвачен одной жалкой бандой, они называют себя Чёрные краулеры. Дурацкое название, но кого это волнует.<end>
+Мы собираемся отбить мой старый лагерь здесь в Кор-Сити. $(context.player.Name), не знаю, рассказывал ли я тебе об этом, но я возглавлял здесь банду около двенадцати-тринадцати лет назад. Дэн тоже был там, ты уже встречал$(#/а) его раньше. Лагерь был захвачен одной жалкой бандой, они называют себя Чёрные краулеры. Дурацкое название, но кого это волнует. <end>
 
 =>a61_original
 The Black Crawlers?<end>
@@ -382,7 +382,7 @@ They were our main rivals back then. They are not as significant now as they wer
 We're going to retake my old camp here in Core City. $(context.player.Name), I don't know if I ever mentioned it, but I used to have a gang here, about twelve-thirteen years ago. It was overtaken by some pitiful gang who call themselves the Black Crawlers. Stupid name, but who cares. <end>
 
 =>q63
-Мы собираемся отбить мой старый лагерь здесь в Кор-Сити. $(context.player.Name), не знаю, рассказывал ли я тебе об этом, но я возглавлял здесь банду около двенадцати-тринадцати лет назад. Лагерь был захвачен одной жалкой бандой, они называют себя Чёрные краулеры. Дурацкое название, но кого это волнует.<end>
+Мы собираемся отбить мой старый лагерь здесь в Кор-Сити. $(context.player.Name), не знаю, рассказывал ли я тебе об этом, но я возглавлял здесь банду около двенадцати-тринадцати лет назад. Лагерь был захвачен одной жалкой бандой, они называют себя Чёрные краулеры. Дурацкое название, но кого это волнует. <end>
 
 =>q64_original
 The shields are ready - which reminds me... ::Hands you an energy shield.::<end>
@@ -630,7 +630,7 @@ How do I know what's good enough for your precious ass?<end>
 Hey - watch your mouth! <end>
 
 =>q103
-Эй, следи за языком!<end>
+Эй, следи за языком! <end>
 
 =>q104_original
 Wanna get smacked again?<end>

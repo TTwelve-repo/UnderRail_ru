@@ -252,7 +252,7 @@ Alright, $(context.player.Name), listen up... <end>
 =>q38
 ::Он смотрит на вас какое-то мгновение, а потом несколько раз кивает.:: Да. Мне ещё предстоит проверить вас в действии, но пока я довольствуюсь тем, что вы... ::Он оглядывается назад.:: и Лэйдельман подтвердил. Так что...
 
-Хорошо, $(context.player.Name), слушайте...<end>
+Хорошо, $(context.player.Name), слушайте... <end>
 
 =>q39_original
 We - Aegis Incorporated - have been employed to protect a team of scientists from the University of Dis undertaking an expedition to the Black Sea, or as it's known by the locals - the Hell's Gut. The sea lies in a vast, unexplored cavern, where a technologically advanced community existed until about two and a half to three centuries ago.<end>
@@ -413,7 +413,7 @@ Don't repeat this mistake...
 ::[Strength] Pull his hand away.:: <end>
 
 =>a63
-::[Сила] Отдёрнуть его руку.::<end>
+::[Сила] Отдёрнуть его руку.:: <end>
 
 =>q64_original
 ::You calmly grab his mechanical hand with both of yours - just as he was about to squeeze you harder - and pull it away from your shoulder, all the while calmly staring into his eyes, displaying little effort despite there being a lot involved. ::<end>
@@ -431,7 +431,7 @@ Don't repeat this mistake...
 ::He then takes a step back.:: You have the absolute right to know what you will be getting yourself into, but I will *not* tolerate this kind of behavior again. <end>
 
 =>q66
-::Затем он делает шаг назад.:: Вы имеете полное право знать, во что вы себя втягиваете, но я больше не потерплю такого поведения.<end>
+::Затем он делает шаг назад.:: Вы имеете полное право знать, во что вы себя втягиваете, но я больше не потерплю такого поведения. <end>
 
 =>q67_original
 
@@ -463,7 +463,7 @@ However, we will not allow any of that to affect our mission too negatively. We'
 ::[Escape Artist] Break free.:: <end>
 
 =>a71
-::[Мастер побега] Вырваться на свободу.::<end>
+::[Мастер побега] Вырваться на свободу.:: <end>
 
 =>q72_original
 ::In a few swift and elegant motions you twist yourself out of his grasp - just as he was about to squeeze you harder. ::<end>
@@ -491,7 +491,7 @@ However, we will not allow any of that to affect our mission too negatively. We'
 Of course you do. <end>
 
 =>q75
-Конечно.<end>
+Конечно. <end>
 
 =>a76_original
 Let us discuss payment.<end>
@@ -573,7 +573,7 @@ We've planned for resupply trips back to Core City. This is one of them.<end>
 What we haven't planned, and couldn't possibly, is the railroad blockade. <end>
 
 =>q88
-То, что мы не планировали и не могли запланировать, - это блокада железной дороги.<end>
+То, что мы не планировали и не могли запланировать, - это блокада железной дороги. <end>
 
 =>q89_original
 I expect that to be rectified soon, however.<end>
@@ -870,13 +870,13 @@ Praetorian Security. Very good. I--<end>
 Excuse me, sir, but I overheard you talkin' and, um, I had something to add. One of the new laborers had been a janitor in <end>
 
 =>q135
-Простите, сэр, но я услышал ваш разговор и хотел кое-что добавить. Один из работяг работал уборщиком в<end>
+Простите, сэр, но я услышал ваш разговор и хотел кое-что добавить. Один из работяг работал уборщиком в <end>
 
 =>q136_original
 Coretech <end>
 
 =>q136
-Кор-тех<end>
+Кор-тех <end>
 
 =>q137_original
 before we hired 'im, and he heard a few employees talkin' about some newcomer who only started workin' and already $(#he/she)'s one of the boss' new favorites. That's what the folks were sayin'.<end>
@@ -930,13 +930,13 @@ That's me.<end>
 JKK <end>
 
 =>q145
-КБР<end>
+КБР <end>
 
 =>q146_original
 Praetorian Security <end>
 
 =>q146
-ПСБ<end>
+ПСБ <end>
 
 =>a147_original
 I am working for JKK as one of their security operatives, and I have been commended for my achievements by Gunnar Edstrom himself, the owner of JKK and one of the Core City Oligarchs. I've been sent on some of the most demanding missions, missions that pushed all my skills to the absolute limit. I am the $(#man/woman) who gets things done, sir, and I am at your service.<end>
@@ -1074,7 +1074,7 @@ I overheard you speakin', sir, and wanted to confirm what this $(#man/woman) her
 =>q165
 ::Когда шеф поворачивается, чтобы поговорить с человеком позади него, то обнаруживает, что тот уже стоит по стойке смирно.::
 
-Я слышал ваш разговор, сэр, и хотел подтвердить, о чём говорит эт$(#от/а) $(#мужчина/женщина). Один из рабочих Литейной рассказывал мне о том, что случилось<end>
+Я слышал ваш разговор, сэр, и хотел подтвердить, о чём говорит эт$(#от/а) $(#мужчина/женщина). Один из рабочих Литейной рассказывал мне о том, что случилось <end>
 
 =>q166_original
 this Beast. They had this, you know, public appearance and the whole Foundry was there. It was hardcore, he told me. Filly, the laborer. Not in those words, though.<end>
@@ -1366,13 +1366,13 @@ Just after we had entered the Keep but right before the recovery team returned a
 ::[Strength] Break free and fight!:: <end>
 
 =>a213
-::[Сила] Вырваться на свободу и сражаться!::<end>
+::[Сила] Вырваться на свободу и сражаться!:: <end>
 
 =>a214_original
 ::[Escape Artist] Break free and fight!:: <end>
 
 =>a214
-::[Мастер побега] Вырваться на свободу и сражаться!::<end>
+::[Мастер побега] Вырваться на свободу и сражаться!:: <end>
 
 =>a215_original
 Khhh....<end>
@@ -1432,7 +1432,7 @@ The one I instructed you to bring to Marcus? <end>
 =>q222
 ::Он делает паузу.:: Да...
 
-Тот самый, что я велел отнести Маркусу?<end>
+Тот самый, что я велел отнести Маркусу? <end>
 
 =>a223_original
 Yes.<end>
@@ -1514,7 +1514,7 @@ No. He cannot be.<end>
 My apologies, $(context.player.Name). <end>
 
 =>q235
-Мои извинения, $(context.player.Name).<end>
+Мои извинения, $(context.player.Name). <end>
 
 =>q236_original
 I was too hasty to blame you. I lost sight of everything else. This technician... Seeger... It is all so obvious now.<end>
@@ -1544,7 +1544,7 @@ Now what, Chief? How do we get the professor back?<end>
 We either seek to negotiate, or we infiltrate their base and rescue him. <end>
 
 =>q240
-Мы либо попытаемся договориться, либо проникнем на их базу и спасём его.<end>
+Мы либо попытаемся договориться, либо проникнем на их базу и спасём его. <end>
 
 =>q241_original
 Directly attacking them should be our last option, but even infiltration holds great risks due to our unfamiliarity with the terrain and professor's location.<end>
@@ -1604,13 +1604,13 @@ I volunteer, Chief. I'm a Southerner and have dealt with all kinds of scum this 
 Very well then, $(context.player.Name). I give you full authority to negotiate in my name. <end>
 
 =>q249
-Тогда отлично, $(context.player.Name). Я даю вам полное право вести переговоры от моего имени.<end>
+Тогда отлично, $(context.player.Name). Я даю вам полное право вести переговоры от моего имени. <end>
 
 =>q250_original
 From the moment we arrived there has always been a pirate jet ski patrol in F4, just outside their base; you should try approaching them. <end>
 
 =>q250
-С того момента, как мы прибыли, в квадрате F4, недалеко от их базы, постоянно находится пиратский патруль на гидроциклах; вы должны попытаться приблизиться к ним.<end>
+С того момента, как мы прибыли, в квадрате F4, недалеко от их базы, постоянно находится пиратский патруль на гидроциклах; вы должны попытаться приблизиться к ним. <end>
 
 =>q251_original
 My sec-troopers will be on standby; if things go fubar, use the navcom and we'll move in as soon as possible.<end>
@@ -1661,13 +1661,13 @@ Infiltration it is, then. We cannot trust the pirates.
 Yahota's eyes will be yours as soon as she's in position. Contact her over the navcom before moving in. <end>
 
 =>q258
-Глаза Яхоты будут твоими, как только она окажется на месте. Свяжись с ней через навком, прежде чем отправляться.<end>
+Глаза Яхоты будут твоими, как только она окажется на месте. Свяжись с ней через навком, прежде чем отправляться. <end>
 
 =>q259_original
 If infiltration proves impossible or too risky, then you have my full authority to negotiate in my name. <end>
 
 =>q259
-Если проникновение окажется невозможным или слишком рискованным, тогда у вас есть все мои полномочия вести переговоры от моего имени.<end>
+Если проникновение окажется невозможным или слишком рискованным, тогда у вас есть все мои полномочия вести переговоры от моего имени. <end>
 
 =>q260_original
 You will be alone out there. We have no recon of their territory, so you will have to find a way to infiltrate their base on your own.<end>
@@ -1989,7 +1989,7 @@ How did they know where the professor was?<end>
 Someone told them. There has to be a traitor in our ranks, for their timing could not have been better. <end>
 
 =>q309
-Кто-то им сказал. В наших рядах есть предатель, потому что они выбрали самое подходящее время.<end>
+Кто-то им сказал. В наших рядах есть предатель, потому что они выбрали самое подходящее время. <end>
 
 =>q310_original
 $(context.player.Name).<end>
@@ -2013,7 +2013,7 @@ What happened around here?<end>
 They had been waiting in the evacuation tunnel when the sec-trooper team opened the gate - waiting for someone to let them in from the other side. That comm device you gave to Marcus, we found the same one on <end>
 
 =>q313
-Они прятались в эвакуационном туннеле, дожидаясь, когда спец-охранники откроют ворота. То устройство связи, что вы дали Маркусу, мы нашли такое же<end>
+Они прятались в эвакуационном туннеле, дожидаясь, когда спец-охранники откроют ворота. То устройство связи, что вы дали Маркусу, мы нашли такое же <end>
 
 =>q314_original
 that pirate with a bandana over there.<end>
@@ -2139,7 +2139,7 @@ We can still do this.<end>
 Get out of my sight before I strangle you. <end>
 
 =>q332
-Убирайся с глаз моих, пока я тебя не задушил.<end>
+Убирайся с глаз моих, пока я тебя не задушил. <end>
 
 =>q333_original
 We're pulling out. I can at least save the lives of my sec-troopers and the expeditionary staff.
@@ -2203,7 +2203,7 @@ What are your orders, sir?<end>
 The professor was killed during the escape. <end>
 
 =>a342
-Профессор был убит при попытке к бегству.<end>
+Профессор был убит при попытке к бегству. <end>
 
 =>q343_original
 ::He stares at you.::
@@ -2270,7 +2270,7 @@ That overweight technician, um, dropped it.<end>
 A technician? <end>
 
 =>q352
-Техник?<end>
+Техник? <end>
 
 =>q353_original
 This is rather unusual. We only issue Redigner navcoms.<end>
@@ -2324,43 +2324,43 @@ What's the camp's security status?<end>
 The situation is bad. There are only a handful of sec-troopers left defending the camp. <end>
 
 =>q361
-Ситуация ужасная. Осталась лишь горстка спец-охранников для защиты лагеря.<end>
+Ситуация ужасная. Осталась лишь горстка спец-охранников для защиты лагеря. <end>
 
 =>q362_original
 Our firearm and ammunition supplies are <end>
 
 =>q362
-Наши поставки оружия и боеприпасов<end>
+Наши поставки оружия и боеприпасов <end>
 
 =>q363_original
 very good, <end>
 
 =>q363
-очень хорошо,<end>
+очень хорошо, <end>
 
 =>q364_original
 high-tech equipment supplies - <end>
 
 =>q364
-поставки высокотехнологичного оборудования -<end>
+поставки высокотехнологичного оборудования - <end>
 
 =>q365_original
 very good, <end>
 
 =>q365
-очень хорошо,<end>
+очень хорошо, <end>
 
 =>q366_original
 medical supplies - <end>
 
 =>q366
-медикаменты -<end>
+медикаменты - <end>
 
 =>q367_original
 very good. <end>
 
 =>q367
-очень хорошо.<end>
+очень хорошо. <end>
 
 =>q368_original
 <end>
@@ -2390,7 +2390,7 @@ In addition to that we have lost<end>
  Yahota. <end>
 
 =>q372
-Яхота.<end>
+ Яхота. <end>
 
 =>q373_original
 ::He makes a brief pause.::
@@ -2411,7 +2411,7 @@ That is all.<end>
 ... some very good people. <end>
 
 =>q375
-несколько очень хороших людей.<end>
+несколько очень хороших людей. <end>
 
 =>q376_original
 We have a sufficient number of jet skis left.<end>
@@ -2435,61 +2435,61 @@ We barely have any jet skis left.<end>
 satisfactory. <end>
 
 =>q379
-приемлемо.<end>
+приемлемо. <end>
 
 =>q380_original
 running extremely low. <end>
 
 =>q380
-крайне малы.<end>
+крайне малы. <end>
 
 =>q381_original
 almost non-existent. <end>
 
 =>q381
-почти нет.<end>
+почти нет. <end>
 
 =>q382_original
 satisfactory, <end>
 
 =>q382
-приемлемо,<end>
+приемлемо, <end>
 
 =>q383_original
 running extremely low, <end>
 
 =>q383
-крайне малы,<end>
+крайне малы, <end>
 
 =>q384_original
 almost non-existent, <end>
 
 =>q384
-почти нет,<end>
+почти нет, <end>
 
 =>q385_original
 satisfactory, <end>
 
 =>q385
-приемлемо,<end>
+приемлемо, <end>
 
 =>q386_original
 quickly diminishing, <end>
 
 =>q386
-быстро сокращаются,<end>
+быстро сокращаются, <end>
 
 =>q387_original
 almost non-existent, <end>
 
 =>q387
-почти нет,<end>
+почти нет, <end>
 
 =>q388_original
 There are currently $(context.global_xpbl_aegisSecTroopersAvailable) sec-troopers defending the camp. <end>
 
 =>q388
-Сейчас $(context.global_xpbl_aegisSecTroopersAvailable) спец-охранников защищают лагерь.<end>
+Сейчас $(context.global_xpbl_aegisSecTroopersAvailable) спец-охранников защищают лагерь. <end>
 
 =>a389_original
 Sir, I need to make short trips outside the Black Sea. Is there someone in the camp who can quickly drive me back and forth?<end>
@@ -2585,13 +2585,13 @@ What do you know about the Ferryman?<end>
 We consider him a minor threat. He was seen entering the pirate territory, <end>
 
 =>q404
-Мы считаем его незначительной угрозой. Его видели входящим на территорию пиратов,<end>
+Мы считаем его незначительной угрозой. Его видели входящим на территорию пиратов, <end>
 
 =>q405_original
 but after the firefight below the Keep <end>
 
 =>q405
-но после перестрелки под хранилищем<end>
+но после перестрелки под хранилищем <end>
 
 =>q406_original
 we've disregarded him as being actively involved with the pirates.<end>
@@ -2603,13 +2603,13 @@ we've disregarded him as being actively involved with the pirates.<end>
 However, what worries me the most is the fact that he is also sailing through native waters completely uncontested. What kind of relationship he has with them is something we've not been able to determine yet, as he was uncooperative whenever he was approached. <end>
 
 =>q407
-Однако больше всего меня беспокоит тот факт, что он совершенно безбоязненно ходит по местным водам. Какие у него отношения с ними, мы пока не можем определить, так как он отказывался сотрудничать, когда к нему обращались.<end>
+Однако больше всего меня беспокоит тот факт, что он совершенно безбоязненно ходит по местным водам. Какие у него отношения с ними, мы пока не можем определить, так как он отказывался сотрудничать, когда к нему обращались. <end>
 
 =>q408_original
 He is lightly armed and for the time being best avoided. <end>
 
 =>q408
-Он легко вооружён и пока лучше его избегать.<end>
+Он легко вооружён и пока лучше его избегать. <end>
 
 =>q409_original
 If you need any further information, Yahota is tracking him from the top of the lighthouse.<end>
@@ -2621,7 +2621,7 @@ If you need any further information, Yahota is tracking him from the top of the 
 but after professor's kidnapping <end>
 
 =>q410
-но после похищения профессора<end>
+но после похищения профессора <end>
 
 =>q411_original
 and while he's been doing nothing but sailing around and apparently scavenging materials from the water for the past two weeks, he could in fact be acting as a pirate spy and observing us.<end>
@@ -2639,13 +2639,13 @@ What can you tell me about the pirates?<end>
 They are a high-level threat, <end>
 
 =>q413
-Они представляют собой угрозу высокого уровня,<end>
+Они представляют собой угрозу высокого уровня, <end>
 
 =>q414_original
 especially after tthe natives started attacking the island. <end>
 
 =>q414
-особенно после того, как аборигены начали нападать на остров.<end>
+особенно после того, как аборигены начали нападать на остров. <end>
 
 =>q415_original
 They are mostly concentrated in the southern bay and along the eastern coast and have regular jet ski patrols along their perimeter and within the bay. They mostly employ light to heavy firearms and other low-tech projectile weapons, but their fortifications also have large-caliber machine guns, especially at their main base.<end>
@@ -2663,7 +2663,7 @@ Did they oppose your arrival?<end>
 Of course. There were a number of incidents when we first arrived, mostly between our and their jet patrols. They were aggressive, but we came prepared and have managed to repel all of their incursions into our territory. <end>
 
 =>q417
-Разумеется. Сразу по прибытии было несколько инцидентов, в основном между нашими и их гидроциклистами. Они проявили агрессивность, но мы были подготовлены и сумели отразить все их притязания на нашу территорию.<end>
+Разумеется. Сразу по прибытии было несколько инцидентов, в основном между нашими и их гидроциклистами. Они проявили агрессивность, но мы были подготовлены и сумели отразить все их притязания на нашу территорию. <end>
 
 =>q418_original
 But we didn't come here to wage wars: It wasn't our original plan to have a permanent camp on this island, as we are in the open and could be observed and attacked from all sides, not to mention it would exacerbate the tensions with the pirates due to our proximity to their positions; we instead planned to move further north, unaware of the native presence there.<end>
@@ -2687,7 +2687,7 @@ What is it?<end>
 especially now after the native invasion. <end>
 
 =>q421
-особенно теперь, после вторжения аборигенов.<end>
+особенно теперь, после вторжения аборигенов. <end>
 
 =>a422_original
 Who are those natives anyway?<end>
@@ -2739,7 +2739,7 @@ You, $(context.player.Name), are the only one on active field duty right now.<en
 There is currently only one active recovery team, Alfa. It's essentially a fireteam composed of five of my best sec-troopers. <end>
 
 =>q429
-В настоящее время у нас только одна поисковая команда - Альфа. И по сути, это боевое звено, состоящее из пяти моих лучших спец-охранников.<end>
+В настоящее время у нас только одна поисковая команда - Альфа. И по сути, это боевое звено, состоящее из пяти моих лучших спец-охранников. <end>
 
 =>q430_original
 I've yet to dispatch them, but just like you their mission is to search for a microchip implant.<end>
@@ -2775,7 +2775,7 @@ I wanted to ask you about your relationship with Yahota.<end>
 ::He gives you a cold stare.:: <end>
 
 =>q435
-::Он холодно смотрит на вас.::<end>
+::Он холодно смотрит на вас.:: <end>
 
 =>q436_original
 <end>
@@ -2819,13 +2819,13 @@ Take that as you will.<end>
 That having been said, he was the most competent person to have applied to be our guide to the Black Sea, <end>
 
 =>q442
-Как уже было сказано, он оказался самым компетентным человеком, кто предложил себя в качестве гида по Чёрному морю,<end>
+Как уже было сказано, он оказался самым компетентным человеком, кто предложил себя в качестве гида по Чёрному морю, <end>
 
 =>q443_original
 and he had qualities one could've relied on, <end>
 
 =>q443
-и у него были качества, на которые можно было положиться,<end>
+и у него были качества, на которые можно было положиться, <end>
 
 =>q444_original
 like his competence with jet ski and firearm maintenance, the latter of which earned him his post in the supply tent with Marcus.
@@ -2841,7 +2841,7 @@ like his competence with jet ski and firearm maintenance, the latter of which ea
 and he has qualities one could rely on, <end>
 
 =>q445
-и у него есть качества, на которые можно положиться,<end>
+и у него есть качества, на которые можно положиться, <end>
 
 =>a446_original
 What exactly didn't you like about Ladelman?<end>
@@ -2877,7 +2877,7 @@ Pirates?<end>
 Yes. <end>
 
 =>q451
-Да.<end>
+Да. <end>
 
 =>a452_original
 So, I see you were having some fun while I was away.<end>
@@ -3093,13 +3093,13 @@ What are you doing here, $(context.player.Name)? Get back to the pirate base! On
 We got hostiles <end>
 
 =>q485
-У нас враги<end>
+У нас враги <end>
 
 =>q486_original
 at the docks! <end>
 
 =>q486
-на причале!<end>
+на причале! <end>
 
 =>q487_original
 Move! On the double!<end>
@@ -3111,7 +3111,7 @@ Move! On the double!<end>
 near the Keep! <end>
 
 =>q488
-рядом с хранилищем!<end>
+рядом с хранилищем! <end>
 
 =>q489_original
 We defended the camp. Excellent work, sec-trooper.<end>
@@ -3171,7 +3171,7 @@ You did excellent work, sec-trooper. You are the reason for this expedition's su
 You are hereby dismissed from your duty as a sec-trooper, $(context.player.Name). <end>
 
 =>q498
-$(context.player.Name), настоящим вы отстраняетесь от исполнения своих обязанностей в качестве спец-охранника.<end>
+$(context.player.Name), настоящим вы отстраняетесь от исполнения своих обязанностей в качестве спец-охранника. <end>
 
 =>q499_original
 Send my regards to Colonel Cathcart.<end>
@@ -3239,7 +3239,7 @@ Yes, sir. He also explained to me our mission here and introduced me to my first
 Very good. <end>
 
 =>q509
-Очень хорошо.<end>
+Очень хорошо. <end>
 
 =>q510_original
 I also see you've collected your gear from Marcus.<end>
@@ -3257,7 +3257,7 @@ I also see you've collected your gear from Marcus.<end>
 Before we begin I need to speak to you about your attitude. More precisely, <end>
 
 =>q512
-Прежде чем мы начнём, мне нужно поговорить с вами о вашем поведении. Точнее говоря,<end>
+Прежде чем мы начнём, мне нужно поговорить с вами о вашем поведении. Точнее говоря, <end>
 
 =>q513_original
 your impertinent comments at the dock<end>
@@ -3269,25 +3269,25 @@ your impertinent comments at the dock<end>
  and your obnoxious complaining in the professor's tent.<end>
 
 =>q514
-и ваши несносные жалобы в палатке профессора.<end>
+ и ваши несносные жалобы в палатке профессора.<end>
 
 =>q515_original
 I don't wish to hear any excuses or further comments, I just need you to listen to me carefully: <end>
 
 =>q515
-Я не хочу слышать никаких оправданий или объяснений, мне просто нужно, чтобы вы внимательно меня выслушали:<end>
+Я не хочу слышать никаких оправданий или объяснений, мне просто нужно, чтобы вы внимательно меня выслушали: <end>
 
 =>q516_original
 That kind of behavior is unacceptable while you're under my command. I already have to deal with Ladelman's Southern shenanigans, but that is something I have little say in. You, however, are now a sec-trooper for and you better start acting like it. <end>
 
 =>q516
-Пока вы находитесь под моим командованием такое поведение недопустимо. Мне и так уже приходится разбираться с закидонами южанина Лэйдельмана, но про это я промолчу. Вы же теперь спец-охранник, и вам лучше начать вести себя соответственно.<end>
+Пока вы находитесь под моим командованием такое поведение недопустимо. Мне и так уже приходится разбираться с закидонами южанина Лэйдельмана, но про это я промолчу. Вы же теперь спец-охранник, и вам лучше начать вести себя соответственно. <end>
 
 =>q517_original
 I can't imagine why you haven't yet been thrown out of the Protectorate, behaving like this. You are a soldier - act like one. <end>
 
 =>q517
-Не могу понять, почему тебя до сих пор не вышвырнули из Протектората, при твоём-то поведении. Если ты солдат, так веди себя как солдат.<end>
+Не могу понять, почему тебя до сих пор не вышвырнули из Протектората, при твоём-то поведении. Если ты солдат, так веди себя как солдат. <end>
 
 =>q518_original
 Am I clear? Or do I need to repeat what I've just told you?<end>
@@ -3317,7 +3317,7 @@ I am terribly sorry for what I have done, sir. I will not disrespect you ever ag
 Very good. In that case I will not be cutting your paycheck, but mark my words: Next time you will find yourself at the Core City docks, no further warnings or pay cuts or anything of the sort. Next time will be your last. <end>
 
 =>q522
-Хорошо. В таком случае я не стану урезать вам зарплату, но запомните мои слова: в следующий раз вы окажетесь в Кор-Сити, никаких предупреждений, никакого урезания зарплаты или чего-либо подобного. Следующий раз будет последним.<end>
+Хорошо. В таком случае я не стану урезать вам зарплату, но запомните мои слова: в следующий раз вы окажетесь в Кор-Сити, никаких предупреждений, никакого урезания зарплаты или чего-либо подобного. Следующий раз будет последним. <end>
 
 =>q523_original
 I have nothing further to add, so let us move on...<end>
@@ -3395,7 +3395,7 @@ But I don't know how to ride a jet ski.<end>
 The ones we use are quite simple to operate. Jenkins will tell you all you need to know. <end>
 
 =>q535
-Те, которые мы используем, довольно просты в эксплуатации. Дженкинс расскажет вам всё, что нужно знать.<end>
+Те, которые мы используем, довольно просты в эксплуатации. Дженкинс расскажет вам всё, что нужно знать. <end>
 
 =>q536_original
 That would be all, $(context.player.Name).<end>
@@ -3461,7 +3461,7 @@ I am looking forward to riding one, sir.<end>
 Very good. <end>
 
 =>q546
-Очень хорошо.<end>
+Очень хорошо. <end>
 
 =>a547_original
 May I ask why, sir?<end>
@@ -3479,7 +3479,7 @@ I have no issue with that.<end>
 Very good, but <end>
 
 =>q549
-Очень хорошо, но<end>
+Очень хорошо, но <end>
 
 =>a550_original
 I said: I'll think about it.<end>
@@ -3536,7 +3536,7 @@ Can you say that one more time?<end>
  as well as that stupid joke about mistaking his tent for a kitchen.<end>
 
 =>q558
-как и дурацкая шутка насчёт принятия его палатки за кухню.<end>
+ как и дурацкая шутка насчёт принятия его палатки за кухню.<end>
 
 =>q559_original
 your obnoxious complaining in the professor's tent<end>
@@ -3626,7 +3626,7 @@ Yes, sir?<end>
 You really are one persistent troublemaker. <end>
 
 =>q573
-Вы настоящий нарушитель спокойствия.<end>
+Вы настоящий нарушитель спокойствия. <end>
 
 =>q574_original
 Why did you lie that I allowed donating those supplies?<end>
@@ -3644,7 +3644,7 @@ You wouldn't allow it, sir.<end>
 How is that an argument? <end>
 
 =>q576
-Разве это может являться аргументом?<end>
+Разве это может являться аргументом? <end>
 
 =>q577_original
 It doesn't matter anyway.<end>
@@ -3674,7 +3674,7 @@ What?<end>
 You're fired. <end>
 
 =>q581
-Вы уволены.<end>
+Вы уволены. <end>
 
 =>q582_original
 Empty your footlocker, turn in your navcom and armor to Marcus and leave the island. 
@@ -3796,7 +3796,7 @@ You don't have the guts.<end>
 That's it. <end>
 
 =>q600
-Вот и всё.<end>
+Вот и всё. <end>
 
 =>a601_original
 Whatever, Chief.<end>
@@ -3860,4 +3860,3 @@ Don't you have your orders, $(context.player.Name)?<end>
 =>q610
 ::Вы нашли его глубоко погруженным в свои мысли. В его взгляде чувствовалось что-то странное, но вы не можете точно сказать, что именно. В остальном выражение его лица было суровым.::
 <end>
-

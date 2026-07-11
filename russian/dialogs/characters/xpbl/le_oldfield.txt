@@ -96,7 +96,7 @@ We did it. Oh, goodness me... we did it. <end>
 =>q14
 ::Он осторожно берёт его, осматривает со всех сторон и в сотый раз удостоверяется, что здесь написано - АКоНР.::
 
-Мы сделали это. О, боже мой... мы нашли.<end>
+Мы сделали это. О, боже мой... мы нашли. <end>
 
 =>q15_original
 ::He sheds a single tear, bowing his head and wiping it off.:: So many lives were lost... but we did it.<end>
@@ -136,13 +136,13 @@ The Black Sea expedition... is *over*.<end>
 Even though... Even though we haven't found the Acorn... <end>
 
 =>q20
-Даже если... Даже если мы и не нашли Жёлудь...<end>
+Даже если... Даже если мы и не нашли Жёлудь... <end>
 
 =>q21_original
 I simply can't put my gratitude into words, $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q21
-Я просто не могу выразить свою благодарность словами, $(context.npc_xpbl_oldfield_playerName).<end>
+Я просто не могу выразить свою благодарность словами, $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q22_original
 If you ever find yourself in Dis, $(context.npc_xpbl_oldfield_playerName), please stop by the University. You'll always be welcome.
@@ -158,7 +158,7 @@ Unless you have anything to ask me, you're free to leave. Oh, and don't forget t
 There is one more thing, Professor. There's someone I haven't mentioned yet. A person I met in the Abyssal Station. I'd like to bring him to the camp. <end>
 
 =>a23
-Есть ещё кое-что, профессор. Или кое-кто, о ком я ещё не упоминал$(#/а). Человек, которого я встретил$(#/а) на глубоководной станции и хотел$(#/а) бы доставить его в лагерь.<end>
+Есть ещё кое-что, профессор. Или кое-кто, о ком я ещё не упоминал$(#/а). Человек, которого я встретил$(#/а) на глубоководной станции и хотел$(#/а) бы доставить его в лагерь. <end>
 
 =>q24_original
 At the-- A person? By the caverns!<end>
@@ -265,7 +265,7 @@ By the caverns, Arch Island Keep is a genuine gold mine of ancient history. In a
 Regardless, besides <end>
 
 =>q39
-Несмотря ни на что, к тому же<end>
+Несмотря ни на что, к тому же <end>
 
 =>q40_original
 Nexus of Technology, there is another location we have info on - Crimson Meadow Horticulture Center, located in H7; it's that misty red shore north-east of our camp. All of these red plants seem to originate from there. But be warned: Chief told me his sec-troopers encountered dangerous insectoid creatures over there.<end>
@@ -331,7 +331,7 @@ Glad to hear my work's paying off.<end>
 Besides <end>
 
 =>q50
-Кроме того,<end>
+Кроме того, <end>
 
 =>a51_original
 Do you have any work for me, professor?<end>
@@ -343,7 +343,7 @@ Do you have any work for me, professor?<end>
 Ah, yes, yes. I've been trying to reach you. <end>
 
 =>q52
-Ах, да, да. Я пытался связаться с вами.<end>
+Ах, да, да. Я пытался связаться с вами. <end>
 
 =>a53_original
 I have a report to make about Nexus of Technology, a large research center... ::Explain to him what you discovered.::<end>
@@ -383,19 +383,19 @@ Ah, yes - microchip encoder. That clearance level will certainly prove to be of 
 Excellent work, $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q58
-Отлично, $(context.npc_xpbl_oldfield_playerName).<end>
+Отлично, $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q59_original
 See Marcus about your well-earned bonus. <end>
 
 =>q59
-Спросите у Маркуса о своём заслуженном вознаграждении.<end>
+Спросите у Маркуса о своём заслуженном вознаграждении. <end>
 
 =>q60_original
 I'll contact you as soon as I have a new task for you. <end>
 
 =>q60
-Я свяжусь с вами, как только у меня для вас будет новое задание.<end>
+Я свяжусь с вами, как только у меня для вас будет новое задание. <end>
 
 =>q61_original
 The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in the camp's kitchen.
@@ -411,7 +411,7 @@ The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in
 See the sec-chef about your bonus. <end>
 
 =>q62
-Поговорите с шефом о своем бонусе.<end>
+Поговорите с шефом о своем бонусе. <end>
 
 =>a63_original
 I have a report to make about Crimson Meadow, a massive horticulture center... ::Explain to him what you discovered.::<end>
@@ -427,7 +427,7 @@ By the caverns, that is *un*believable, $(context.npc_xpbl_oldfield_playerName).
 =>q64
 ::Вам настолько хорошо удаётся передать угрюмую атмосферу центра садоводства, что профессор добрых полминуты остаётся безмолвным после того, как вы заканчиваете свой рассказ. Он говорит после этой паузы.::
 
-Клянусь Подземкой, это *невероятно*, $(context.npc_xpbl_oldfield_playerName). Растительность, насекомые, пестициды... поразительно, поистине поразительно.<end>
+Клянусь Подземкой, это *невероятно*, $(context.npc_xpbl_oldfield_playerName). Растительность, насекомые, пестициды... поразительно, поистине поразительно. <end>
 
 =>q65_original
 But one of the most important things is that you managed to find that dispatch console. They seem to be the key to discovering the locations of Lemurian facilities.<end>
@@ -497,7 +497,7 @@ I needed it to access Joint Security headquarters. There was a scanner there whi
 Ah, yes, I believe you mentioned it to me. <end>
 
 =>q75
-Ах, да, кажется, вы упоминали об этом.<end>
+Ах, да, кажется, вы упоминали об этом. <end>
 
 =>q76_original
 <end>
@@ -521,7 +521,7 @@ I'll keep that in mind.<end>
 In any case... <end>
 
 =>q79
-В любом случае...<end>
+В любом случае... <end>
 
 =>q80_original
 <end>
@@ -539,7 +539,7 @@ I need it to access Joint Security headquarters. There is a scanner there which 
 I see... Very well then. <end>
 
 =>q82
-Ясно... Тогда хорошо.<end>
+Ясно... Тогда хорошо. <end>
 
 =>a83_original
 I had a feeling I'd need that at some later point. Better do it while I'm there.<end>
@@ -551,7 +551,7 @@ I had a feeling I'd need that at some later point. Better do it while I'm there.
 I'll trust your judgement. <end>
 
 =>q84
-Доверяю вашему мнению.<end>
+Доверяю вашему мнению. <end>
 
 =>a85_original
 You believe me, though, right?<end>
@@ -663,7 +663,7 @@ Precisely!<end>
 This is your next destination, $(context.npc_xpbl_oldfield_playerName), Abyssal Station Zero. <end>
 
 =>q100
-Это ваш следующий пункт назначения, $(context.npc_xpbl_oldfield_playerName), глубоководная станция Зеро.<end>
+Это ваш следующий пункт назначения, $(context.npc_xpbl_oldfield_playerName), глубоководная станция Зеро. <end>
 
 =>q101_original
 In case that these elevators are no longer functional, there is still that submarine you can try to use. Although... I fear whether it could endure the depths.<end>
@@ -675,7 +675,7 @@ In case that these elevators are no longer functional, there is still that subma
 See Marcus about your well-earned bonus. <end>
 
 =>q102
-Спросите у Маркуса о своём заслуженном вознаграждении.<end>
+Спросите у Маркуса о своём заслуженном вознаграждении. <end>
 
 =>q103_original
 Best of luck, $(context.npc_xpbl_oldfield_playerName), best of luck.<end>
@@ -697,13 +697,13 @@ The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in
 See the sec-chef about your bonus. <end>
 
 =>q105
-Поговорите с шефом о своем бонусе.<end>
+Поговорите с шефом о своем бонусе. <end>
 
 =>q106_original
 Hopefully those elevators still work. If not... There has to be another way. There has to be. <end>
 
 =>q106
-Надеюсь, эти лифты ещё работают. Если нет... Должен быть другой способ. Должен быть.<end>
+Надеюсь, эти лифты ещё работают. Если нет... Должен быть другой способ. Должен быть. <end>
 
 =>a107_original
 Exactly. And from this station I've just returned.<end>
@@ -715,7 +715,7 @@ Exactly. And from this station I've just returned.<end>
 Goodness me... <end>
 
 =>q108
-Боже мой...<end>
+Боже мой... <end>
 
 =>q109_original
 Tell me. Tell me everything.<end>
@@ -733,7 +733,7 @@ Tell me. Tell me everything.<end>
 Where... where was it taken? <end>
 
 =>q111
-Где... где вы это взяли?<end>
+Где... где вы это взяли? <end>
 
 =>a112_original
 The location is marked as Abyssal Station Zero Elevators. It is somewhere in the southeastern bay.<end>
@@ -745,7 +745,7 @@ The location is marked as Abyssal Station Zero Elevators. It is somewhere in the
 Abyssal Station Zero... <end>
 
 =>q113
-Глубоководная станция Зеро...<end>
+Глубоководная станция Зеро... <end>
 
 =>a114_original
 To Abyssal Station Zero. From which I've just returned.<end>
@@ -799,7 +799,7 @@ A deep-diving submarine, from the looks of it.<end>
 Remarkable! <end>
 
 =>q122
-Потрясающе!<end>
+Потрясающе! <end>
 
 =>q123_original
 But this Abyssal Station you're talking about... It is something completely new to me.<end>
@@ -823,7 +823,7 @@ This submarine, $(context.npc_xpbl_oldfield_playerName), it could be the last pa
 Yes, it's all coming together. <end>
 
 =>q126
-Да, всё сходится.<end>
+Да, всё сходится. <end>
 
 =>q127_original
 The only question which remains is: Will this submarine actually work?<end>
@@ -841,7 +841,7 @@ There's only one way to find out.<end>
 Very well, $(context.npc_xpbl_oldfield_playerName). Best of luck. <end>
 
 =>q129
-Хорошо, $(context.npc_xpbl_oldfield_playerName). Желаю удачи.<end>
+Хорошо, $(context.npc_xpbl_oldfield_playerName). Желаю удачи. <end>
 
 =>q130_original
 You may become the first $(#man/woman) in two centuries to dive in a Lemurian submarine. 
@@ -875,7 +875,7 @@ Leave it to me, professor. I'll make it work.<end>
 Well, best of luck, $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q134
-Что ж, желаю удачи, $(context.npc_xpbl_oldfield_playerName).<end>
+Что ж, желаю удачи, $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q135_original
 This would certainly open a new way for us to access these facilities. There would be no need to traverse dangerous waters, but we can instead sail below the surface.<end>
@@ -917,7 +917,7 @@ Who's is in charge of the sec-troopers right now?<end>
 Yahota, <end>
 
 =>q141
-Яхота,<end>
+Яхота, <end>
 
 =>q142_original
 I believe.<end>
@@ -945,7 +945,7 @@ I, however, ultimately lead the expedition.<end>
 Marcus, <end>
 
 =>q145
-Маркус,<end>
+Маркус, <end>
 
 =>q146_original
 Doctor Savage holds the highest rank,<end>
@@ -1061,19 +1061,19 @@ Any new discoveries?<end>
 Right now we have a very good idea about how the <end>
 
 =>q163
-У нас есть очень хорошая идея о том, как<end>
+У нас есть очень хорошая идея о том, как <end>
 
 =>q164_original
 Lemurians <end>
 
 =>q164
-лемурийцы<end>
+лемурийцы <end>
 
 =>q165_original
 lived <end>
 
 =>q165
-выжили<end>
+выжили <end>
 
 =>q166_original
 and traveled from facility to facility<end>
@@ -1085,7 +1085,7 @@ and traveled from facility to facility<end>
 . <end>
 
 =>q167
-.<end>
+. <end>
 
 =>q168_original
 But recently we've had a major discovery when we found a record on the third of the four NFT projects - called Atlantis.<end>
@@ -1115,13 +1115,13 @@ Most of the population resided in a place called the *Citadel of Life*, which wa
 But the Citadel was vulnerable, the most vulnerable complex in the Black Sea, and was absolutely demolished during the attack. <end>
 
 =>q172
-Но цитадель была уязвима, самый уязвимый комплекс во всём Чёрном море, и он был полностью разрушен во время нападения.<end>
+Но цитадель была уязвима, самый уязвимый комплекс во всём Чёрном море, и он был полностью разрушен во время нападения. <end>
 
 =>q173_original
 You can perhaps see it from here, those southeastern cliffs: <end>
 
 =>q173
-Их, пожалуй, можно увидеть отсюда, эти юго-восточные скалы:<end>
+Их, пожалуй, можно увидеть отсюда, эти юго-восточные скалы: <end>
 
 =>q174_original
 They're fractured and riddled with craters. 
@@ -1137,7 +1137,7 @@ They're fractured and riddled with craters.
 But speaking of vulnerabilities, there is one major "flaw," if you will, that most facilities share - and that is the existence of ventilation systems. You see, the NFT had means of maintaining proper internal atmosphere without the use of ventilation shafts: Oxygen generators provided breathable air by using either liquid or solid fuel; carbon dioxide was absorbed by scrubbers; excess carbon *monoxide* and hydrogen from oxygen generation was passed through heated catalysts, etc... You get the picture - the facilities had everything they needed to function in complete isolation. <end>
 
 =>q175
-Но если говорить об уязвимостях, то есть один большой "недостаток", который объединяет большинство объектов - это наличие вентиляционных систем. Видите ли, у ТНГ были средства поддержания надлежащей внутренней атмосферы без использования вентиляционных шахт: кислородные установки при помощи жидкого или твёрдого топлива вырабатывали пригодный для дыхания воздух, а углекислый газ поглощался скрубберами; избыток *монооксида* углерода и водорода от генерации кислорода пропускался через нагретые катализаторы и т.д... Ну, вы поняли о чём я... объекты имели всё необходимое, для функционирования в полной изоляции.<end>
+Но если говорить об уязвимостях, то есть один большой "недостаток", который объединяет большинство объектов - это наличие вентиляционных систем. Видите ли, у ТНГ были средства поддержания надлежащей внутренней атмосферы без использования вентиляционных шахт: кислородные установки при помощи жидкого или твёрдого топлива вырабатывали пригодный для дыхания воздух, а углекислый газ поглощался скрубберами; избыток *монооксида* углерода и водорода от генерации кислорода пропускался через нагретые катализаторы и т.д... Ну, вы поняли о чём я... объекты имели всё необходимое, для функционирования в полной изоляции. <end>
 
 =>q176_original
 Just like submarines.<end>
@@ -1149,7 +1149,7 @@ Just like submarines.<end>
 The ventilation system, however, seems to have existed in case of fires and other kinds of large-scale air contamination. Whether it was necessary or not is something I'd not go into, but what it did, ironically, as we've all seen upon our descent to the Arch Island Keep, was that it also allowed Biocorp to use their own... "contaminants" against <end>
 
 =>q177
-Система вентиляции существовала, по-видимому, на случай пожаров или других видов крупномасштабного загрязнения воздуха. Было ли это необходимо или нет, я бы не стал вдаваться в подробности, но, как это ни парадоксально, и мы об этом узнали после нашего спуска в хранилище острова Арч-Айленд, с её помощью Биокорп смогла использовать свои... "отравляющие вещества" против<end>
+Система вентиляции существовала, по-видимому, на случай пожаров или других видов крупномасштабного загрязнения воздуха. Было ли это необходимо или нет, я бы не стал вдаваться в подробности, но, как это ни парадоксально, и мы об этом узнали после нашего спуска в хранилище острова Арч-Айленд, с её помощью Биокорп смогла использовать свои... "отравляющие вещества" против <end>
 
 =>q178_original
 the Lemurians.<end>
@@ -1173,7 +1173,7 @@ them.<end>
 You've by now seen those southeastern cliffs there: <end>
 
 =>q181
-Вы уже видели те юго-восточные скалы:<end>
+Вы уже видели те юго-восточные скалы: <end>
 
 =>a182_original
 I'm interested in hearing about their means of transport.<end>
@@ -1191,13 +1191,13 @@ Ah, yes. As you may have guessed, the Lemurians relied mostly on vessels for tra
 However, the most interesting <end>
 
 =>q184
-Однако, больше всего представляет интерес<end>
+Однако, больше всего представляет интерес <end>
 
 =>q185_original
 - especially since you discovered one - <end>
 
 =>q185
-- особенно после того, как вы обнаружили одну -<end>
+- особенно после того, как вы обнаружили одну - <end>
 
 =>q186_original
 are their submersibles. Yes. Most of their facilities are almost entirely under water, which leads to a logical conclusion that NFT needed something that could perform underwater construction and maintenance. What they had was a whole range of so-called *subassemblers* and *sublifters*. They would lower all of the needed materials with these spherical cargo pods, in documents referred to as *subspheres*, and from them the sublifters - submarines equipped with heavy-duty robotic arms - moved materials which subassemblers, well, assembled and used.
@@ -1235,19 +1235,19 @@ There are no detailed descriptions of what or where it actually is, but from thi
 The context in which it is mentioned suggests that a certain number of people came to Lemuria at some point in time, for reasons undocumented. <end>
 
 =>q190
-Опираясь на сопутствующие данные, можно предположить, что в какой-то момент времени определённое количество людей прибыло в Лемурию по причинам, которые нигде не упоминаются.<end>
+Опираясь на сопутствующие данные, можно предположить, что в какой-то момент времени определённое количество людей прибыло в Лемурию по причинам, которые нигде не упоминаются. <end>
 
 =>q191_original
 From what you <end>
 
 =>q191
-Исходя из того, что вы<end>
+Исходя из того, что вы <end>
 
 =>q192_original
 and Todd have <end>
 
 =>q192
-и Тодд<end>
+и Тодд <end>
 
 =>q193_original
 told me, however, it is clear that these Atlanteans came here to live and work at Abyssal Station Zero.<end>
@@ -1275,7 +1275,7 @@ There was something else I wanted to ask you.<end>
 population <end>
 
 =>q196
-обитатели<end>
+обитатели <end>
 
 =>a197_original
 What can you tell me about Seeger?<end>
@@ -1341,7 +1341,7 @@ And Seeger naturally found this attractive.<end>
 Indeed. <end>
 
 =>q205
-Действительно.<end>
+Действительно. <end>
 
 =>q206_original
 There are some things you can only find in Hexagon, and that I can understand. But by the caverns, this recent virtual/mixed reality - whatever it is - craze that spread among the Hexagonians has captivated - magnetized Jeremy as well. I was seriously considering taking someone else to this expedition, fearing he'd show up with visible ocular implants or some other kind of augmentation done in some shoddy Hexagonian shop.
@@ -1529,7 +1529,7 @@ What kind of world was that when they could accomplish something like that?<end>
 Oh, <end>
 
 =>q235
-Ох,<end>
+Ох, <end>
 
 =>q236_original
 such framework preceded supercorporations by, some claim millennia. It was prevalent in the old world.<end>
@@ -1553,7 +1553,7 @@ Seems kind of stupid.<end>
 Well, <end>
 
 =>q239
-Что ж,<end>
+Что ж, <end>
 
 =>a240_original
 So what were the other supercorporations like?<end>
@@ -1587,7 +1587,7 @@ Nucleus Corporation was the at the forefront of nuclear power and weapons resear
 Forgive me, but that is all I could share. Expanding the topic further would take too much time and knowledge I don't possess. <end>
 
 =>q244
-Простите, но это всё, что я могу предоставить на данный момент. Дальнейшее обсуждение темы заняло бы слишком много времени и знаний, которыми я к тому же не обладаю.<end>
+Простите, но это всё, что я могу предоставить на данный момент. Дальнейшее обсуждение темы заняло бы слишком много времени и знаний, которыми я к тому же не обладаю. <end>
 
 =>q245_original
 We best focus on what is before us.<end>
@@ -1629,7 +1629,7 @@ I had met him a few times; there were lectures of mine... unimportant. But goodn
 Over the course of these two weeks, dare I say it grew into friendship. <end>
 
 =>q251
-За эти две недели, осмелюсь сказать, отношения переросли в дружбу.<end>
+За эти две недели, осмелюсь сказать, отношения переросли в дружбу. <end>
 
 =>q252_original
 I... will miss him. He was a great man.<end>
@@ -1647,7 +1647,7 @@ By the caverns, I hope we all make it out alive.<end>
 Richard, <end>
 
 =>q254
-Ричард,<end>
+Ричард, <end>
 
 =>a255_original
 This whole expedition seems like an expensive endeavor. Did the University of Dis finance it?<end>
@@ -1747,7 +1747,7 @@ We have an agreement. We have an agreement!<end>
 Richard, unfortunately, your sec-troopers might not get all their bonuses straight away. Once we are back to Dis I'll take care of everything. <end>
 
 =>q268
-К сожалению, Ричард, ваши спец-охранники могут сейчас не получить своё вознаграждение. Как только мы вернёмся в Дис, я обо всём позабочусь.<end>
+К сожалению, Ричард, ваши спец-охранники могут сейчас не получить своё вознаграждение. Как только мы вернёмся в Дис, я обо всём позабочусь. <end>
 
 =>q269_original
 Don't worry, Professor. My men will understand.<end>
@@ -1765,7 +1765,7 @@ Don't worry, Professor. My men will understand.<end>
 I'll... see what I can do about the Aegis bonuses. But all of that once we return to Dis. <end>
 
 =>q271
-Я... посмотрю, что там насчёт вознаграждения Эгиды. Но это будет, когда мы вернёмся в Дис.<end>
+Я... посмотрю, что там насчёт вознаграждения Эгиды. Но это будет, когда мы вернёмся в Дис. <end>
 
 =>q272_original
 $(context.npc_xpbl_oldfield_playerName), I'm afraid our budget cannot support us giving you that kind of money.<end>
@@ -1870,7 +1870,7 @@ The Acorn was nowhere to be found. I'm sorry, professor.<end>
 All those lives... for nothing. <end>
 
 =>q288
-Все эти жизни... напрасны.<end>
+Все эти жизни... напрасны. <end>
 
 =>q289_original
 For nothing.<end>
@@ -1912,7 +1912,7 @@ But all the dead sec-troopers...<end>
 So... this was all for nothing. <end>
 
 =>q295
-Значит... всё было напрасно.<end>
+Значит... всё было напрасно. <end>
 
 =>a296_original
 And then, after I managed to get away from the Shadowlith's influence, I got back to the submarine and successfully surfaced.<end>
@@ -2148,7 +2148,7 @@ Let's go, Professor. We need to get out of here.<end>
 ::He looks at you and gets up, holding the Acorn tightly.:: <end>
 
 =>q327
-::Он смотрит на вас и поднимается, крепко держа Жёлудь.::<end>
+::Он смотрит на вас и поднимается, крепко держа Жёлудь.:: <end>
 
 =>q328_original
 Why? Why are you helping me?<end>
@@ -2234,7 +2234,7 @@ Where?<end>
 I know someone... <end>
 
 =>q339
-Я знаю кое-кого...<end>
+Я знаю кое-кого... <end>
 
 =>a340_original
 Conscience. Terrible thing.<end>
@@ -2258,7 +2258,7 @@ Don't ask.<end>
 ::He pauses before continuing.:: <end>
 
 =>q343
-::Он делает паузу перед тем, как продолжить.::<end>
+::Он делает паузу перед тем, как продолжить.:: <end>
 
 =>a344_original
 Whatever it is, it's now yours.<end>
@@ -2675,7 +2675,7 @@ P-please... please! Stop! <end>
 =>q407
 ::Вы причиняете немного боли.::
 
-П-пожалуйста... пожалуйста! Хватит!<end>
+П-пожалуйста... пожалуйста! Хватит! <end>
 
 =>q408_original
 What do you expect me to say? I told you the truth. That's the truth! You, you... you and I already talked about this. Don't you remember? Please!<end>
@@ -3002,7 +3002,7 @@ The camp is in ruins; everyone's been sent under - everyone. So returnin' you to
 ...or return you to Linda?<end>
 
 =>q454
-Следует ли мне держать тебя здесь взаперти? А может бросить тебя к змеям? Или расстрелять? 
+ Следует ли мне держать тебя здесь взаперти? А может бросить тебя к змеям? Или расстрелять? 
 
 ...или вернуть тебя Линде?<end>
 
@@ -3122,7 +3122,7 @@ Here I spent many years wanderin' around, findin' my way in this wretchedness. T
 =>q471
 Я провёл здесь немало лет, блуждая, нащупывая свой путь среди всей этой убогости. Обладание вышеупомянутыми навыками, практическими навыками означало, что мне было что противопоставить обычному сброду, и вскоре я уже сформировал свою собственную банду, но не как Кадмус *Грин*... а как *Грим* - Беспощадный, что звучит куда более уместно.
 
-::Он ухмыляется.:: Это как-то само пришло вместе с тем, как я становился южанином; всё дело в жаргоне и менталитете.<end>
+::Он ухмыляется.:: Это как-то само пришло вместе с тем, как я становился южанином; всё дело в жаргоне и менталитете. <end>
 
 =>q472_original
 As my... army grew, so was I given the chance to employ the other skills I'd been taught. But to keep the story short, this is where all of this has brought me, from land to sea - to glory.<end>
@@ -3160,13 +3160,13 @@ But I really liked your lectures.
 We're lettin' the professor go. Have <end>
 
 =>q476
-Мы отпускаем профессора. Пусть<end>
+Мы отпускаем профессора. Пусть <end>
 
 =>q477_original
 Razor <end>
 
 =>q477
-Бритва<end>
+Бритва <end>
 
 =>q478_original
 <end>
@@ -3250,13 +3250,13 @@ return him to the camp.<end>
 Cruzer <end>
 
 =>q489
-Могила<end>
+Могила <end>
 
 =>q490_original
 a group of jetters <end>
 
 =>q490
-группа гидроциклистов<end>
+группа гидроциклистов <end>
 
 =>q491_original
 There is no information on how these machines work exactly, but they have been linked to something called the *ACoNR*, or *Acorn*, as it appears to be pronounced. This Acorn, whatever it is - an actual mobile habitat or merely a part of it or its key - is implied to be of paramount, *paramount* importance to reaching Horizon, the remotest of all four habitats, and perhaps to reaching the other two remaining.
@@ -3468,7 +3468,7 @@ I was going to say cool.<end>
 ::He chuckles.:: <end>
 
 =>q522
-::Он смеётся.::<end>
+::Он смеётся.:: <end>
 
 =>a523_original
 Not what I expected.<end>
@@ -3480,7 +3480,7 @@ Not what I expected.<end>
 ::He nods.:: <end>
 
 =>q524
-::Он кивает.::<end>
+::Он кивает.:: <end>
 
 =>a525_original
 Sure. So, what is my next mission?<end>
@@ -3554,7 +3554,7 @@ S-STOOOOOOP! <end>
  
 До тех пор...::
 
-ХВА-А-АТИТ!<end>
+ХВА-А-АТИТ! <end>
 
 =>q536_original
 ::You aim for the weakest points and strike at them relentlessly.::
@@ -3606,7 +3606,7 @@ How noble.<end>
 Yes. <end>
 
 =>q543
-Да.<end>
+Да. <end>
 
 =>a544_original
 What do you think of this, Cap'n.<end>
@@ -3830,7 +3830,7 @@ It's pointless to hide it, professor. Just tell us already and make it easier fo
 ::The professor nods and begins.:: <end>
 
 =>q577
-::Профессор кивает и начинает.::<end>
+::Профессор кивает и начинает.:: <end>
 
 =>q578_original
 But the Acorn we haven't been able to find, sadly.<end>
@@ -3860,7 +3860,7 @@ Which means there is nothin' left for you to do here. And, really, nothin' left 
 Where were we...? Yes. <end>
 
 =>q582
-На чём мы остановились?.. Да.<end>
+На чём мы остановились?.. Да. <end>
 
 =>q583_original
 The sellin' point. That thing you tell people that makes their eyes pop out of their sockets with awe.<end>
@@ -4244,7 +4244,7 @@ You most certainly are. However, some compatibility with your - if only for the 
 Now let us move on to a more pressing subject. <end>
 
 =>q642
-Теперь перейдём к более насущной теме.<end>
+Теперь перейдём к более насущной теме. <end>
 
 =>q643_original
 I need to speak to you about... the expedition.<end>
@@ -4262,7 +4262,7 @@ Didn't we already have that conversation?<end>
 We did. But there <end>
 
 =>q645
-Да. Но там<end>
+Да. Но там <end>
 
 =>q646_original
 are things you haven't been told yet. Important things. *Classified* things. The reason we are having this talk in private and not over the navcom is that we simply cannot risk what I am about to tell you being overheard by the wrong ears.<end>
@@ -4280,7 +4280,7 @@ I understand, Professor. Top secret.<end>
 Jolly good. <end>
 
 =>q648
-Замечательно.<end>
+Замечательно. <end>
 
 =>q649_original
 If I had known I was going to end up in a pirate jail cell and be so close to meeting my maker... we would probably have had this conversation sooner. But then again, I had yet to witness your performance back then. In any case, Chief Briggs is the only person besides me and soon you who knows about this, so in case something dire happens - again - you can freely speak to him.<end>
@@ -4352,7 +4352,7 @@ Only Chief Briggs and I know this, so in case something dire happens to me you c
 There <end>
 
 =>q660
-Там<end>
+Там <end>
 
 =>a661_original
 You are right. I'll do my best.<end>
@@ -4364,7 +4364,7 @@ You are right. I'll do my best.<end>
 Jolly good. <end>
 
 =>q662
-Замечательно.<end>
+Замечательно. <end>
 
 =>a663_original
 I suppose I could... try.<end>
@@ -4376,7 +4376,7 @@ I suppose I could... try.<end>
 Yes... <end>
 
 =>q664
-Да...<end>
+Да... <end>
 
 =>a665_original
 Noted.<end>
@@ -4394,7 +4394,7 @@ Thank you, Professor. Much obliged.<end>
 You're welcome. <end>
 
 =>q667
-Всегда пожалуйста.<end>
+Всегда пожалуйста. <end>
 
 =>a668_original
 I hear that so often it's starting to get a bit boring.<end>
@@ -4454,13 +4454,13 @@ It's over. It is finally over.<end>
 And we've managed to avoid bloodshed. <end>
 
 =>q677
-И нам удалось избежать кровопролития.<end>
+И нам удалось избежать кровопролития. <end>
 
 =>q678_original
 Even though we've had to give up pretty much all of our supplies. <end>
 
 =>q678
-Даже несмотря на то, что нам пришлось отдать почти все наши припасы.<end>
+Даже несмотря на то, что нам пришлось отдать почти все наши припасы. <end>
 
 =>q679_original
 But your safety always comes first, Professor.<end>
@@ -4660,7 +4660,7 @@ Yes. I'm okay. A single broken rib is... ::He holds his chest and looks at you.:
 ::He glances at the professor's wounds.:: You should see <end>
 
 =>q708
-::Он оглядывает раны профессора.:: Вам стоит взглянуть<end>
+::Он оглядывает раны профессора.:: Вам стоит взглянуть <end>
 
 =>q709_original
 Doctor Savage.<end>
@@ -4708,7 +4708,7 @@ What are you doing here? Defend the camp!<end>
 By the caverns! One of the statue bots has been activated and is wreaking havoc in the camp! <end>
 
 =>q716
-Клянусь Подземкой! Одна из роботизированных статуй была активирована и сеет хаос в лагере!<end>
+Клянусь Подземкой! Одна из роботизированных статуй была активирована и сеет хаос в лагере! <end>
 
 =>q717_original
 It's south, at the docks!<end>
@@ -4738,7 +4738,7 @@ I would, however, like to thank you wholeheartedly for what you've done for this
 $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q721
-$(context.npc_xpbl_oldfield_playerName).<end>
+$(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q722_original
 You are here.<end>
@@ -4766,7 +4766,7 @@ You saved my life, and for that you have my eternal gratitude. <end>
 =>q725
 О, $(context.npc_xpbl_oldfield_playerName), заходите, заходите. Должен сказать, если бы не ваше острое чутьё и быстрая реакция, нападение пиратов могло бы закончиться катастрофой.
 
-Вы спасли мне жизнь, и за это я вам бесконечно благодарен.<end>
+Вы спасли мне жизнь, и за это я вам бесконечно благодарен. <end>
 
 =>q726_original
 Now, what can I do for you?<end>
@@ -4790,13 +4790,13 @@ And told me to see you.<end>
 Yes. <end>
 
 =>q729
-Да.<end>
+Да. <end>
 
 =>q730_original
 I have asked you to come to my tent in order to <end>
 
 =>q730
-Я попросил вас прийти в мою палатку, чтобы<end>
+Я попросил вас прийти в мою палатку, чтобы <end>
 
 =>q731_original
 explain to you what this whole expedition is about - what its purpose is - as well as the details of your first mission; for, after all, unless you have sufficient wider knowledge on the subject of our interest here, one cannot expect from you to perform optimally, can he?<end>
@@ -4814,7 +4814,7 @@ I'm all ears.<end>
 Excellent. <end>
 
 =>q733
-Превосходно.<end>
+Превосходно. <end>
 
 =>q734_original
 Some... three to three and a half centuries ago this whole sea, this whole enormous cavern was chosen as the location of a major NFT project, the abbreviation standing for *New Frontier Technologies*, a supercorporation that can be said to have been comparable to Biocorp in power and influence; to Biocorp... *and* the other four supercorporations, to be exact.<end>
@@ -4868,7 +4868,7 @@ You mentioned something about Biocorp military. Are they responsible for all of 
 Yes. <end>
 
 =>q742
-Да.<end>
+Да. <end>
 
 =>q743_original
 It has been known for years with great certainty that it was Biocorp's navy that had demolished NFT's facilities and killed, for all we know, the entire population. It was a holocaust. This very island was the first and last stand NFT had made before their demise.<end>
@@ -4924,7 +4924,7 @@ Frankly, Professor, I can't wait to get started. You got me all hyped up now.<en
 Excellent! That kind of spirit is precisely what we need. <end>
 
 =>q750
-Отлично! Именно такой настрой нам и нужен.<end>
+Отлично! Именно такой настрой нам и нужен. <end>
 
 =>q751_original
 Now, with that out of the way, let's proceed to your mission: Seeger has recently managed to recover data from one of the MPCs...<end>
@@ -4972,7 +4972,7 @@ Hold on. Chief Briggs mentioned a whole recovery team going after this. Shouldn'
 The chief has been busy, so I am not aware if he has assembled the team yet; regardless, everyone else has been briefed about the things we just discussed. <end>
 
 =>q758
-Шеф был занят, поэтому я пока не знаю, собрал ли он команду, но все остальные были проинформированы о том, что мы только что обсудили.<end>
+Шеф был занят, поэтому я пока не знаю, собрал ли он команду, но все остальные были проинформированы о том, что мы только что обсудили. <end>
 
 =>q759_original
 I've told you my part, the rest is up to Chief Briggs. See him in his tent; I've forwarded the data Seeger sent me... ::He checks his computer.:: Yes, yes I did.
@@ -5018,7 +5018,7 @@ What can you tell me about it?<end>
 The chief will give you the details. <end>
 
 =>q765
-Шеф сообщит вам подробности.<end>
+Шеф сообщит вам подробности. <end>
 
 =>a766_original
 How do I get there?<end>
@@ -5036,7 +5036,7 @@ I'm off then.<end>
 Goodness me, aren't you eager. ::He chuckles.:: <end>
 
 =>q768
-Боже мой, вы не горите желанием. ::Он усмехается.::<end>
+Боже мой, вы не горите желанием. ::Он усмехается.:: <end>
 
 =>a769_original
 I've heard that part already. Microchips and all.<end>
@@ -5054,7 +5054,7 @@ Yeah, about my first assignment...<end>
 Hm? Oh, yes, yes... <end>
 
 =>q771
-Хм? Ох, да, да...<end>
+Хм? Ох, да, да... <end>
 
 =>a772_original
 Which brings us to my first assignment.<end>
@@ -5108,7 +5108,7 @@ I hope I'm finally going to learn a bit more about what's happening here.<end>
 Certainly. That is why I have asked that you come to my tent. I wanted to <end>
 
 =>q780
-Безусловно. Вот почему я попросил вас прийти в мою палатку. Я хотел<end>
+Безусловно. Вот почему я попросил вас прийти в мою палатку. Я хотел <end>
 
 =>a781_original
 When will I be dispatched to my first mission?<end>
@@ -5120,7 +5120,7 @@ When will I be dispatched to my first mission?<end>
 Very soon, very soon. First I need to <end>
 
 =>q782
-Скоро, очень скоро. Сначала мне нужно<end>
+Скоро, очень скоро. Сначала мне нужно <end>
 
 =>a783_original
 I had some questions for you before we started.<end>
@@ -5132,7 +5132,7 @@ I had some questions for you before we started.<end>
 They will have to wait for a while longer, I'm afraid. But don't worry, at one point or another your questions will be answered. <end>
 
 =>q784
-Боюсь, что с этим придётся немного подождать. Но не волнуйтесь, когда-нибудь на ваши вопросы будут даны ответы.<end>
+Боюсь, что с этим придётся немного подождать. Но не волнуйтесь, когда-нибудь на ваши вопросы будут даны ответы. <end>
 
 =>q785_original
 Go to Seeger and get me those files.<end>
@@ -5262,7 +5262,7 @@ Can you at least tell me about this NFT?<end>
 That will have to wait, $(context.player.Name). See Marcus about your gear; <end>
 
 =>q805
-С этим придётся подождать, $(context.player.Name). Насчёт своего снаряжения обращайтесь к Маркусу;<end>
+С этим придётся подождать, $(context.player.Name). Насчёт своего снаряжения обращайтесь к Маркусу; <end>
 
 =>q806_original
 his tent is the one just across from this one. Once I have assembled a recovery team I will brief you.<end>
@@ -5370,7 +5370,7 @@ And I need to finally collect my gear.<end>
 See Marcus about that; <end>
 
 =>q823
-Поговорите об этом с Маркусом;<end>
+Поговорите об этом с Маркусом; <end>
 
 =>a824_original
 What do I do?<end>
@@ -5382,7 +5382,7 @@ What do I do?<end>
 See Marcus about receiving your gear; <end>
 
 =>q825
-Хотите получить снаряжение - ищите Маркуса,<end>
+Хотите получить снаряжение - ищите Маркуса, <end>
 
 =>a826_original
 Savages!<end>
@@ -5472,7 +5472,7 @@ It would've been easier if I had received my gear.<end>
 You are correct, but the circumstances prevented that and you know it. Cease your complaining. <end>
 
 =>q840
-Вы правы, но обстоятельства помешали этому, и вы это знаете. Перестаньте жаловаться.<end>
+Вы правы, но обстоятельства помешали этому, и вы это знаете. Перестаньте жаловаться. <end>
 
 =>a841_original
 I'm sorry. Forget I said anything.<end>
@@ -5710,25 +5710,25 @@ Pleased to meet you, Professor.<end>
 Likewise. Welcome to the camp. <end>
 
 =>q875
-И мне. Добро пожаловать в лагерь.<end>
+И мне. Добро пожаловать в лагерь. <end>
 
 =>q876_original
 Right then. Forgive me but we will have to get straight to the point: <end>
 
 =>q876
-Ну тогда, прошу прощения, но нам придётся перейти прямо к делу:<end>
+Ну тогда, прошу прощения, но нам придётся перейти прямо к делу: <end>
 
 =>q877_original
 $(context.player.Name) - or Corporal, if so you prefer - <end>
 
 =>q877
-$(context.player.Name) или капрал, если вам так больше нравится -<end>
+$(context.player.Name) или капрал, если вам так больше нравится - <end>
 
 =>q878_original
 Chief Briggs and I had just been discussing you, and we've come to the conclusion that a person with your experience and skillset would be best assigned to one of the recovery teams. <end>
 
 =>q878
-Шеф Бриггс и я только что обсуждали вас, и мы пришли к выводу, что человек с вашим опытом и навыками будет лучше всего назначен в одну из поисковых групп.<end>
+Шеф Бриггс и я только что обсуждали вас, и мы пришли к выводу, что человек с вашим опытом и навыками будет лучше всего назначен в одну из поисковых групп. <end>
 
 =>q879_original
 ::He removes his glasses and proceeds to wipe them clean.:: For this you will *also* have to thank Mr. Ladelman for backing your story; his extensive insight into many of the happenings south of Core City is one of the reasons why we've hired the man in the first place. Isn't that right, Chief?<end>
@@ -5774,7 +5774,7 @@ I have no objections, Professor.<end>
 That is excellent, excellent. <end>
 
 =>q885
-Это превосходно, превосходно.<end>
+Это превосходно, превосходно. <end>
 
 =>q886_original
 In fact... your first mission might just be around the corner. For while Chief Briggs has been away, we've made a breakthrough discovery. We've been stuck in the mud for far too long, but goodness me, this will propel us forward like nothing else we've done here so far.<end>
@@ -5838,7 +5838,7 @@ $(#He/She)'s awfully quiet, no?<end>
 Goodness me, do speak up, $(context.npc_xpbl_oldfield_playerName). There is no need to be so quiet. But, it is excellent that you agree, that "we are on the same page," as the colloquialism goes. <end>
 
 =>q895
-Боже, говорите громче, $(context.npc_xpbl_oldfield_playerName). Не нужно быть так$(#им/ой) тих$(#им/ой). Но прекрасно, что вы согласны, или, как говорят, хорошо, что "мы на одной волне".<end>
+Боже, говорите громче, $(context.npc_xpbl_oldfield_playerName). Не нужно быть так$(#им/ой) тих$(#им/ой). Но прекрасно, что вы согласны, или, как говорят, хорошо, что "мы на одной волне". <end>
 
 =>a896_original
 Sounds right to me. But if I am going to be searching derelict facilities, I am going to need to learn a bit about them and their previous owners.<end>
@@ -5850,7 +5850,7 @@ Sounds right to me. But if I am going to be searching derelict facilities, I am 
 Most certainly. You will receive all the information you need in due time. <end>
 
 =>q897
-Разумеется. Вы получите всю необходимую информацию в своё время.<end>
+Разумеется. Вы получите всю необходимую информацию в своё время. <end>
 
 =>a898_original
 Guard and escort duty is boring. I need challenge.<end>
@@ -5874,7 +5874,7 @@ I'd actually really like *mere* guard duty.<end>
 $(context.player.Name), <end>
 
 =>q901
-$(context.player.Name),<end>
+$(context.player.Name), <end>
 
 =>a902_original
 ::[Persuade]:: *The* Professor Oldfield? I've heard a lot about you from some of my friends. They said very good things about the quality of your lectures.<end>
@@ -5984,13 +5984,13 @@ So many lives lost... <end>
 =>q918
 ::, и в отчаянии качает головой.::
 
-Как много жизней загублено...<end>
+Как много жизней загублено... <end>
 
 =>q919_original
 Richard... <end>
 
 =>q919
-Ричард...<end>
+Ричард... <end>
 
 =>q920_original
 By the caverns...<end>
@@ -6045,7 +6045,7 @@ Mmm? Ah, $(context.npc_xpbl_oldfield_playerName), goodness me.
 ::He raises his head from behind the monitor.:: <end>
 
 =>q927
-::Он поднимает голову из-за монитора.::<end>
+::Он поднимает голову из-за монитора.:: <end>
 
 =>q928_original
 ::He removes his glassess and rubs his eyes and temples.:: This damn migraine...
@@ -6055,5 +6055,4 @@ Mmm? Ah, $(context.npc_xpbl_oldfield_playerName), goodness me.
 =>q928
 ::Он снимает очки и трёт глаза и виски.:: Проклятая мигрень...
 
-::Затем он замечает вас.::<end>
-
+::Затем он замечает вас.:: <end>

@@ -98,13 +98,13 @@ I don't feel my brain working.<end>
 ::He nods.:: That'll do. <end>
 
 =>q17
-::Он кивает.:: Этого хватит.<end>
+::Он кивает.:: Этого хватит. <end>
 
 =>q18_original
 Anyway... <end>
 
 =>q18
-В общем...<end>
+В общем... <end>
 
 =>q19_original
 <end>
@@ -180,7 +180,7 @@ Another scavenger was found torn apart south of here. It's either rathounds, or 
 Another derailed girl was found roaming south of here, half-naked. Didn't know who she was or what happened to her. She's lucky she was found by some decent folks, otherwise... <end>
 
 =>q30
-Тут, к югу отсюда, одну девицу нашли полуголой, совсем с рельсов съехала. Не знаю, кто она и что с ней было, но ей повезло, что её обнаружили приличные люди, иначе...<end>
+Тут, к югу отсюда, одну девицу нашли полуголой, совсем с рельсов съехала. Не знаю, кто она и что с ней было, но ей повезло, что её обнаружили приличные люди, иначе... <end>
 
 =>q31_original
 If the pirates can raid The Rig, they can raid anything. What's next? Camp Hathor? Junkyard? No one knows, but everyone's scared crapless.<end>
@@ -192,7 +192,7 @@ If the pirates can raid The Rig, they can raid anything. What's next? Camp Hatho
 Some lone rat caused <end>
 
 =>q32
-Как$(#ой-то подонок/ая-то крыса) устроил$(#/а)<end>
+Как$(#ой-то подонок/ая-то крыса) устроил$(#/а) <end>
 
 =>q33_original
 a bloodbath on The Rig, slaughtering every Black Eel there<end>
@@ -204,7 +204,7 @@ a bloodbath on The Rig, slaughtering every Black Eel there<end>
 . <end>
 
 =>q34
-.<end>
+. <end>
 
 =>q35_original
 Some say this person was in fact a Scrapper, others point to pirates and various other factions - or just good ol' derailment; everyone's got their theory.<end>
@@ -228,13 +228,13 @@ The Rig is on high alert right now, but things should be returning to normal soo
  a lot of trouble on The Rig, killing a bunch of Black Eels in the process.<end>
 
 =>q38
-на Буровой серьёзные проблемы, попутно перебив множество Чёрных угрей.<end>
+ на Буровой серьёзные проблемы, попутно перебив множество Чёрных угрей.<end>
 
 =>q39_original
  some trouble on the Rig<end>
 
 =>q39
-на Буровой неприятности<end>
+ на Буровой неприятности<end>
 
 =>q40_original
 I heard something about that weasel Grover owing some money to Silas and not being able to repay. I figure Black Eels will be coming for him soon, so you better steer clear of him.<end>
@@ -330,7 +330,7 @@ Newest freak sighting: Two-headed mutants in Old Junkyard. Make of that what you
 Junkyard. <end>
 
 =>q55
-Свалка.<end>
+Свалка. <end>
 
 =>q56_original
 The main thing you got to know is that there are two major gangs here - Scrappers, who control the depot and all the junk that's being scavenged from the Old Junkyard, and Black Eels, who control the docks and the shipment of said junk.<end>
@@ -354,7 +354,7 @@ There are smaller gangs here and there, but they don't mess with the big boys an
 Old Junkyard. <end>
 
 =>q59
-Старая Свалка.<end>
+Старая Свалка. <end>
 
 =>q60_original
 Also called 'Depot A'. It's a closed off section of the Junkyard where some sort of an accident happened a long while back that released mutagen into the environment.<end>
@@ -396,13 +396,13 @@ Does he come alone?<end>
 Now that you've mentioned it, he did always come with another person - <end>
 
 =>q66
-Раз уж мы заговорили об этом, то он всегда приходил не один -<end>
+Раз уж мы заговорили об этом, то он всегда приходил не один - <end>
 
 =>q67_original
 except when he came in a day or so ago. He <end>
 
 =>q67
-за исключением его визита день или два назад. Он<end>
+за исключением его визита день или два назад. Он <end>
 
 =>q68_original
 asked me if someone was looking for him, someone called... eh... J-J-J...<end>
@@ -420,13 +420,13 @@ Joshua.<end>
 Yeah. Joshua. <end>
 
 =>q70
-Да, Джошуа.<end>
+Да, Джошуа. <end>
 
 =>q71_original
 That's the one. This is the first time I see him since. <end>
 
 =>q71
-Точно. Я впервые увидел его с тех пор.<end>
+Точно. Я впервые увидел его с тех пор. <end>
 
 =>q72_original
 <end>
@@ -502,13 +502,13 @@ Jennifer.<end>
 Yeah. Jennifer. <end>
 
 =>q83
-Да, Дженнифер.<end>
+Да, Дженнифер. <end>
 
 =>q84_original
 except for now and the last time he was here, a day or so ago. Back then he <end>
 
 =>q84
-за исключением этого раза и прошлого день или два назад. Тогда он<end>
+за исключением этого раза и прошлого день или два назад. Тогда он <end>
 
 =>q85_original
 Yeah. He stops by occasionally. Bald guy. Scavenger. Kinda tall. Why?<end>
@@ -736,7 +736,7 @@ Yes.<end>
 Good. <end>
 
 =>q122
-Хорошо.<end>
+Хорошо. <end>
 
 =>q123_original
 I'm running a bit short on blue eels. If you could go out and catch me some, I'll pay well for them. What do you say?<end>
@@ -898,7 +898,7 @@ I'll take it.<end>
 Good, you know it makes sense. <end>
 
 =>q149
-Хорошо, вы знаете, в этом есть смысл.<end>
+Хорошо, вы знаете, в этом есть смысл. <end>
 
 =>a150_original
 No eels for you then!<end>
@@ -994,7 +994,7 @@ I'd start saving now, if I were you.<end>
 Hey, heard what happened? <end>
 
 =>q165
-Эй, слыхал, что произошло?<end>
+Эй, слыхал, что произошло? <end>
 
 =>q166_original
 What can I get you, $(#jack/lady)?<end>
@@ -1007,4 +1007,3 @@ What can I get you, $(#jack/lady)?<end>
 
 =>q167
 ::Крупный мужчина с неряшливой бородой стоит у прилавка, от него пахнет выпивкой и протухшей едой. Он говорит глубоким, грохочущим голосом, и вы не можете точно сказать, он сейчас не в духе или просто скучает.::<end>
-

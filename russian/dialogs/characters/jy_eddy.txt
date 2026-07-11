@@ -358,7 +358,7 @@ This disk? ::Give him the mysterious disk.::<end>
 ::He stares at you in surprise.:: Already? <end>
 
 =>q59
-::Он уставился на вас с удивлением.:: Уже?<end>
+::Он уставился на вас с удивлением.:: Уже? <end>
 
 =>q60_original
 Ha-ha, I knew you could pull it off! Good job. I'll let the guards know you're allowed to pass into the ol' Depot A.
@@ -386,7 +386,7 @@ Alright. I'll find you your disk.<end>
 I'll be waiting. <end>
 
 =>q63
-Я буду ждать.<end>
+Я буду ждать. <end>
 
 =>q64_original
 Good hunting.<end>
@@ -416,7 +416,7 @@ Fine, but after this I get access to the Depot A, right?<end>
 You have my word. <end>
 
 =>q68
-Даю слово.<end>
+Даю слово. <end>
 
 =>a69_original
 Forget it. I'm not doing any more thieveries for you.<end>
@@ -555,4 +555,3 @@ Yeah?<end>
 
 =>q91
 Чего?<end>
-

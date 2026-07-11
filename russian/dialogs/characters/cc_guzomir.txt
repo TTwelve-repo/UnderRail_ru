@@ -12,7 +12,7 @@
 Hello, officer $(#sir/ma'am). <end>
 
 =>q2
-Приветствую<end>
+Приветствую <end>
 
 =>q3_original
 Welcome to my shack. Ignore the smell if you can and, um - don't fall off the ledge, bre. Seen enough of that for today.<end>
@@ -220,7 +220,7 @@ One moment: Eh, that uniform... where'd you get it?<end>
 Hardcore, bre! It does look... *authentic*. <end>
 
 =>q33
-Хардкор! Она выглядит... *настоящей*.<end>
+Хардкор! Она выглядит... *настоящей*. <end>
 
 =>a34_original
 Sure does. Any particular reason why you're asking?<end>
@@ -332,11 +332,10 @@ None of your business.<end>
 Hello... whoever you are. <end>
 
 =>q51
-Привет... кто бы ты ни был$(#/а),<end>
+Привет... кто бы ты ни был$(#/а), <end>
 
 =>q52_original
 Hello. Watch your step.<end>
 
 =>q52
 Привет. Смотри под ноги. <end>
-

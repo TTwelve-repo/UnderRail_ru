@@ -94,7 +94,7 @@ Are you willing to do that?<end>
 I am. <end>
 
 =>a15
-Готов$(#/а).<end>
+Готов$(#/а). <end>
 
 =>q16_original
 Splendid! That is music to my ears. Before you are officially accepted, you must know several things...<end>
@@ -154,7 +154,7 @@ Splendid. Congratulations, and welcome to Praetorian Security. Our official mott
 Now - your uniform. <end>
 
 =>q25
-А сейчас о вашей униформе.<end>
+А сейчас о вашей униформе. <end>
 
 =>q26_original
 You have a choice between the Peacekeeper and the Chestguard. The Peacekeeper is a heavy full-body steel armor suit that comes either with a cape or a scapular; the Chestguard is its lighter version, a tactical cuirass, and is intended to facilitate movement while still providing full riot control capability.<end>
@@ -264,7 +264,7 @@ I can pay for it.<end>
 ::He smiles.:: I like your straightforwardness. You did not try to maneuver me like almost all of those who dare come here with such a request; the things, the excuses - the elaboration I have heard over the years... <end>
 
 =>q42
-::Он улыбается.:: Мне нравится ваша прямота. Вы не пытаетесь юлить передо мной, как это делают почти все, кто посмел бы прийти сюда с такой просьбой; каких только изобретательных отговорок, оправданий я не слышал за эти долгие годы...<end>
+::Он улыбается.:: Мне нравится ваша прямота. Вы не пытаетесь юлить передо мной, как это делают почти все, кто посмел бы прийти сюда с такой просьбой; каких только изобретательных отговорок, оправданий я не слышал за эти долгие годы... <end>
 
 =>q43_original
 Even though I haven't been granted permission explicitly, I do not think that the chief would mind if I elevate your armory access level.<end>
@@ -1059,13 +1059,13 @@ That is all I have to say on that particular matter.<end>
 Good. <end>
 
 =>q165
-Хорошо.<end>
+Хорошо. <end>
 
 =>q166_original
 Now, as for your training: <end>
 
 =>q166
-Теперь, что касается твоего обучения:<end>
+Теперь, что касается твоего обучения: <end>
 
 =>q167_original
 There will be no training for you. Due to the Faceless invasion, we cannot send all our recruits through our standard training programs. You already seem capable enough. Your first assignment will show if I am correct or not.<end>
@@ -1191,7 +1191,7 @@ $(context.player.Name), где вы были? Вы пропустили моме
 Senior Enforcer, <end>
 
 =>q187
-Старший боец,<end>
+Старший боец, <end>
 
 =>q188_original
 some new equipment has arrived to the Praetorian Security armory.<end>
@@ -1215,11 +1215,10 @@ It'll have to wait a bit, sir. I came here to ask you something.<end>
 Enforcer, <end>
 
 =>q191
-Боец.<end>
+Боец. <end>
 
 =>q192_original
 Yes?<end>
 
 =>q192
 Да?<end>
-

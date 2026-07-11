@@ -66,7 +66,7 @@ Preferably.<end>
 ::He shrugs.:: Sure. All in the name of Investigation, right?  <end>
 
 =>q11
-::Он пожимает плечами.:: Конечно. И все это во имя расследования, верно?<end>
+::Он пожимает плечами.:: Конечно. И все это во имя расследования, верно? <end>
 
 =>q12_original
 Let me just get the squishies, $(#bro/sis).<end>
@@ -144,7 +144,7 @@ Glad to be of help.<end>
 It is the benefit of the outside view, $(#bro/sis). We who work on something can sometimes get so focused on it that it narrows our vision. We fail to see other things. Good work! <end>
 
 =>q24
-Вот польза взгляда со стороны, $(#брат/сестра). Мы, случается, так сосредотачиваемся на чём-то, что это сужает наш кругозор. Мы не видим других возможностей. Хорошая работа!<end>
+Вот польза взгляда со стороны, $(#брат/сестра). Мы, случается, так сосредотачиваемся на чём-то, что это сужает наш кругозор. Мы не видим других возможностей. Хорошая работа! <end>
 
 =>a25_original
 I am not in the mood to talk about regurgitation. Can we discuss something else?<end>
@@ -252,7 +252,7 @@ Where can I find him?<end>
 His office is over there. ::He points at the double doors.:: That's his office - enter at your own risk. Tchort guide you. <end>
 
 =>q42
-Его кабинет находится... ::Он указывает на двойные двери.:: Вон его кабинет: входи на свой страх и риск. Чорт направит тебя.<end>
+Его кабинет находится... ::Он указывает на двойные двери.:: Вон его кабинет: входи на свой страх и риск. Чорт направит тебя. <end>
 
 =>a43_original
 At my own risk? Why?<end>
@@ -394,7 +394,7 @@ Can you tell me who's in charge here?<end>
 Ah. AH! You seek Principal Investigator Rista, right? His office is over there. ::He points at the double doors.:: That's his office - enter at your own risk. Tchort guide you. <end>
 
 =>q65
-А. А! Ты ищешь научного руководителя Ристу, верно? Его кабинет там. ::Он указывает на двойные двери.:: Это его кабинет, входи на свой страх и риск. Чорт направит тебя.<end>
+А. А! Ты ищешь научного руководителя Ристу, верно? Его кабинет там. ::Он указывает на двойные двери.:: Это его кабинет, входи на свой страх и риск. Чорт направит тебя. <end>
 
 =>a66_original
 Tchort guide you, brother.<end>
@@ -437,4 +437,3 @@ Hey, good to see you $(context.player.Name). How can I help you?<end>
 
 =>q72
 Привет, рад тебя видеть $(context.player.Name). Чем могу помочь?<end>
-

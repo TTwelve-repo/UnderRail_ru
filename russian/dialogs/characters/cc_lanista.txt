@@ -191,7 +191,7 @@ Guess what's next in line for you? No guess? ::He grins.:: Siphoners!<end>
 This is gonna be a tough one: you're about to fight some nasty burrowers. I mean, you and two other challengers, as usual. Good luck, hal-- $(context.player.Name). <end>
 
 =>q31
-На этот раз будет непросто: ты будешь драться с весьма зубастыми могильщиками. То есть, ты и два других претендента, как обычно. Удачи, $(context.player.Name).<end>
+На этот раз будет непросто: ты будешь драться с весьма зубастыми могильщиками. То есть, ты и два других претендента, как обычно. Удачи, $(context.player.Name). <end>
 
 =>a32_original
 ::Start the match.::<end>
@@ -733,7 +733,7 @@ Meh, I don't get what the big deal is.<end>
 I don't think you realize what this means, $(context.player.Name)! <end>
 
 =>q116
-Похоже, что ты не понимаешь, что это значит, $(context.player.Name)!<end>
+Похоже, что ты не понимаешь, что это значит, $(context.player.Name)! <end>
 
 =>a117_original
 I'm guessing very rare?<end>
@@ -745,7 +745,7 @@ I'm guessing very rare?<end>
 Very rare. <end>
 
 =>q118
-Большая редкость.<end>
+Большая редкость. <end>
 
 =>q119_original
 Don't be impatient, come back later.<end>
@@ -870,4 +870,3 @@ Ready for another match?<end>
 
 =>q136
 Готов$(#/а) к очередному матчу?<end>
-

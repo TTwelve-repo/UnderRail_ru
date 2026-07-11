@@ -368,7 +368,7 @@ Yes.<end>
 ::He leans even more toward you, peering into your honesty.:: Then I'd like to see that in writing. You don't have it, do you? Indeed you don't... <end>
 
 =>q60
-::Он наклоняется ещё ближе к вам, сверля вас взглядом.:: В таком случае я хотел бы увидеть запрос в письменной форме. У вас его нет, не так ли? Конечно же нет...<end>
+::Он наклоняется ещё ближе к вам, сверля вас взглядом.:: В таком случае я хотел бы увидеть запрос в письменной форме. У вас его нет, не так ли? Конечно же нет... <end>
 
 =>q61_original
 This department is far too busy, $(#bro/sis), and I am not encumbering myself or my investigators with anything unless I have been directly ordered to do so or if it's something of some unwitnessed magnificence. I am sorry.<end>
@@ -432,7 +432,7 @@ No.<end>
 ::He nods with a smile.:: Yes. Then I won't be able to help you. <end>
 
 =>q70
-::Он кивает с улыбкой.:: Да. В таком случае я не смогу вам помочь.<end>
+::Он кивает с улыбкой.:: Да. В таком случае я не смогу вам помочь. <end>
 
 =>a71_original
 They look like worms, with weird heads shaped like small drills.<end>
@@ -570,7 +570,7 @@ I'm really glad for you, but I'll be even gladder once I have my money.<end>
 Fair enough, $(#bro/sis)! <end>
 
 =>q93
-Справедливо, $(#брат/сестра)!<end>
+Справедливо, $(#брат/сестра)! <end>
 
 =>a94_original
 I'm interested in what you described as a "ferry trip."<end>
@@ -720,7 +720,7 @@ Do as you please, I just want my charons.<end>
 Indeed you do! Why else would you go there but for the charons. No, I'm not being sarcastic - it's what you do, right? Anyway, here. ::He hands you 650 stygian coins.:: As I promised. And that is all regarding this matter as far as I'm concerned. <end>
 
 =>q118
-Ваша правда! Иначе зачем бы вам идти туда, кроме как ради харонов. Нет, я не издеваюсь -- это же ваша работа, верно? В любом случае, вот. ::Он протягивает вам 650 стигийских монет.:: Как и обещал. И это всё, что касается данного вопроса, насколько я могу судить.<end>
+Ваша правда! Иначе зачем бы вам идти туда, кроме как ради харонов. Нет, я не издеваюсь -- это же ваша работа, верно? В любом случае, вот. ::Он протягивает вам 650 стигийских монет.:: Как и обещал. И это всё, что касается данного вопроса, насколько я могу судить. <end>
 
 =>a119_original
 I already visited that island.<end>
@@ -738,7 +738,7 @@ A dangerous journey to hunt a giant monster!? Count me in!<end>
  Very good! That's all... yup, that is all.<end>
 
 =>q121
-Очень хорошо! Вот и всё... ага, вот и всё.<end>
+ Очень хорошо! Вот и всё... ага, вот и всё.<end>
 
 =>q122_original
 Good luck and Tchort guide you, $(#bro/sis).<end>
@@ -1060,7 +1060,7 @@ I've decided that I do want to help you.<end>
 Finally you come to your senses. <end>
 
 =>q174
-Наконец-то вы говорите дело.<end>
+Наконец-то вы говорите дело. <end>
 
 =>q175_original
 Very good! Here is the device. ::He gives you a portable neural pacifier.:: As soon as you get the chance to use the device, place it on Psycho's head; line the markers on the device with the place where the two halves of the carapace open to expose the brain. Once lined up, press the only button on the device and stand back. Everything else is automatic, just step away and you will be fine. 
@@ -1377,4 +1377,3 @@ Yes?<end>
 
 =>q224
 Да?<end>
-

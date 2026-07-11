@@ -55,7 +55,7 @@ Yes.<end>
 You wanna give up your former life and dedicate your new one to Grim Jetters? <end>
 
 =>q8
-Ты хочешь бросить свою прежнюю жизнь и посвятить свою новую Беспощадным всадникам?<end>
+Ты хочешь бросить свою прежнюю жизнь и посвятить свою новую Беспощадным всадникам? <end>
 
 =>q9_original
 To have every single livin' soul outside the Black Sea hate your guts and would happily send you under on sight?<end>
@@ -97,7 +97,7 @@ Whatever you want me to do to.<end>
 You could start by givin' me... information. <end>
 
 =>q15
-Ты можешь начать с того, что дашь мне... информацию.<end>
+Ты можешь начать с того, что дашь мне... информацию. <end>
 
 =>q16_original
 About everythin' that has been goin' on here. Why this expedition is here, what you've discovered up until now... *Everythin'*.<end>
@@ -190,7 +190,7 @@ Perhaps you'll prove to be a good addition to our ranks after all.<end>
 But you only know so much. <end>
 
 =>q28
-Но ты знаешь больше.<end>
+Но ты знаешь больше. <end>
 
 =>q29_original
 Now, concernin' that free passage through our territory...<end>
@@ -238,13 +238,13 @@ Deal.<end>
 What remains now is that you contact your camp <end>
 
 =>q36
-Теперь тебе остаётся только связаться со своим лагерем<end>
+Теперь тебе остаётся только связаться со своим лагерем <end>
 
 =>q37_original
 and deliver to us everythin' you promised. <end>
 
 =>q37
-, чтобы они доставили нам всё, что ты обещал$(#/а).<end>
+, чтобы они доставили нам всё, что ты обещал$(#/а). <end>
 
 =>q38_original
 After that the professor will be yours.<end>
@@ -292,7 +292,7 @@ Feel free to use mine. ::He hands you a radio, a waterproof floatie-talkie.::<en
 and arrange for everything you promised. <end>
 
 =>q45
-и организовать всё, что ты обещал$(#/а).<end>
+и организовать всё, что ты обещал$(#/а). <end>
 
 =>a46_original
 No extra hands then.<end>
@@ -310,7 +310,7 @@ What do you want now?<end>
 Watch your tongue. Information. I want information. <end>
 
 =>q48
-Следи за своим языком. Информация. Мне нужна информация.<end>
+Следи за своим языком. Информация. Мне нужна информация. <end>
 
 =>q49_original
 Good. Then welcome to the Grim Jetters, $(context.player.Name).
@@ -338,7 +338,7 @@ Yes.<end>
 You wanna betray the people you worked for and become a Grim Jetter? <end>
 
 =>q52
-Ты хочешь предать людей, на которых работал$(#/а), и стать Беспощадным всадником?<end>
+Ты хочешь предать людей, на которых работал$(#/а), и стать Беспощадным всадником? <end>
 
 =>a53_original
 ::Assess your odds of starting a fight.::<end>
@@ -362,7 +362,7 @@ You wanna betray the people you worked for and become a Grim Jetter? <end>
 ::You choose not to fight.:: <end>
 
 =>q56
-::Вы решаете не вступать в бой.::<end>
+::Вы решаете не вступать в бой.:: <end>
 
 =>q57_original
 <end>
@@ -420,7 +420,7 @@ Good. I'm speakin' to someone with a good noggin' on his shoulders. I am glad to
 =>q65
 ::Капитан коротко обменивается взглядами с двумя своими помощниками, с интересом следящими за вашей речью.::
 
-Хорошо. Я разговариваю с тем, у кого есть голова на плечах. Рад слышать, что мы понимаем друг друга.<end>
+Хорошо. Я разговариваю с тем, у кого есть голова на плечах. Рад слышать, что мы понимаем друг друга. <end>
 
 =>q66_original
 What you're doin' here was never in question - you're diggin' through these abandoned, dilapidated facilities scattered across the Hell's Gut. But an expedition like this is an extreme risk. It devours lives and money like a voracious sea serpent. That kind of effort could only come from someone who *knows*, not thinks, *knows* he's gonna get somethin' really freakin' good out of it. You ain't scavengin' for random pieces of tech and museum material - you're after somethin' specific, and I wanna know what it is.<end>
@@ -462,7 +462,7 @@ My role in this whole expedition is rather limited, so perhaps I cannot give you
 I like the sound of that. I am primarily interested in how you actually managed to enter the facilities. But more on that later. <end>
 
 =>q72
-Мне нравится, как это звучит. В первую очередь меня интересует, как вам всё-таки удалось попасть на эти объекты. Но об этом чуть позже.<end>
+Мне нравится, как это звучит. В первую очередь меня интересует, как вам всё-таки удалось попасть на эти объекты. Но об этом чуть позже. <end>
 
 =>q73_original
 <end>
@@ -474,7 +474,7 @@ I like the sound of that. I am primarily interested in how you actually managed 
 ::[Persuade]:: If these negotiations go well, perhaps we can even help each other. Some of these facilities lie in your territory. Perhaps we can help you unlock some of them - if you were to grant us free passage, <end>
 
 =>a74
-::[Убеждение]:: Если эти переговоры пройдут успешно, возможно, мы даже сможем помочь друг другу. Некоторые из этих объектов находятся на вашей территории. Мы можем помочь вам открыть некоторые из них, если вы дадите нам свободный проход,<end>
+::[Убеждение]:: Если эти переговоры пройдут успешно, возможно, мы даже сможем помочь друг другу. Некоторые из этих объектов находятся на вашей территории. Мы можем помочь вам открыть некоторые из них, если вы дадите нам свободный проход, <end>
 
 =>q75_original
 Well... I do have some, how should I say, *issues* with allowin' armed security troopers to roam our waters freely.<end>
@@ -675,7 +675,7 @@ Is this why you came here? To get your face smashed in<end>
  and risk Professor's life further?<end>
 
 =>q103
-и, чтобы подвергнуть жизнь профессора дальнейшему риску?<end>
+ и, чтобы подвергнуть жизнь профессора дальнейшему риску?<end>
 
 =>q104_original
 <end>
@@ -697,7 +697,7 @@ Hm. Defiant till the last moment, I see. <end>
 =>q106
 ::Однако, вам удаётся попасть только ему на грудь, и даже плевок на такое расстояние потребовал больших усилий..::
 
-Хм. Дерзк$(#ий/ая) до последнего, как я погляжу.<end>
+Хм. Дерзк$(#ий/ая) до последнего, как я погляжу. <end>
 
 =>a107_original
 Wait! Wait... you got this all wrong...<end>
@@ -874,7 +874,7 @@ Tell me why you think we're here then.<end>
 ::His stare alone exerts pressure on you, and then he continues speaking in an assertive manner.:: <end>
 
 =>q135
-::Одним только взглядом он оказывает на вас давление, а затем продолжает говорить в напористой манере.::<end>
+::Одним только взглядом он оказывает на вас давление, а затем продолжает говорить в напористой манере.:: <end>
 
 =>a136_original
 Then you know.<end>
@@ -922,7 +922,7 @@ We are not here because of the ruins.<end>
 Do not try to deceive me. <end>
 
 =>q143
-Не пытайся обмануть меня.<end>
+Не пытайся обмануть меня. <end>
 
 =>a144_original
 But you've entered the Fort through an evacuation tunnel.<end>
@@ -1216,7 +1216,7 @@ It's me, $(context.player.Name). Can you hear me?<end>
 It sure would. <end>
 
 =>q187
-Это так, безусловно.<end>
+Это так, безусловно. <end>
 
 =>q188_original
 But since we trust each other equally, I'd rather do things my way.<end>
@@ -1240,7 +1240,7 @@ But since we trust each other equally, I'd rather do things my way.<end>
 I'm doin' my best. <end>
 
 =>q191
-Я делаю всё возможное.<end>
+Я делаю всё возможное. <end>
 
 =>a192_original
 When will I be able to see him?<end>
@@ -1784,7 +1784,7 @@ Interestin', but I find all this... rather unconvincin'. Perhaps this is not som
 ::[Intimidate]:: Impossible. Not only is the Jaws our only way of retreat in case the savages overwhelm us, but to let you sneak behind our backs and continue your raids? It's immoral and illegal, Captain, and our conscience might suddenly and violently awaken. You will have to stay put, Captain, for your own good. <end>
 
 =>a281
-::[Запугивание]:: Невозможно. Челюсти - не только наш единственный способ отступить на случай, если дикари нас прижмут. Нам что, позволить вам прокрасться за наши спины и продолжить свои налёты? Это аморально и незаконно, капитан, и наша совесть может внезапно и бурно проснуться. Вам придётся остаться здесь, капитан, для вашего же блага.<end>
+::[Запугивание]:: Невозможно. Челюсти - не только наш единственный способ отступить на случай, если дикари нас прижмут. Нам что, позволить вам прокрасться за наши спины и продолжить свои налёты? Это аморально и незаконно, капитан, и наша совесть может внезапно и бурно проснуться. Вам придётся остаться здесь, капитан, для вашего же блага. <end>
 
 =>q282_original
 Then it's best that we leave things as they are... for now. We should move on to subjects where we can make an agreement acceptable to both parties.<end>
@@ -1814,7 +1814,7 @@ We killed *three* troopers. The third one followed us into the tunnel even thoug
 In fact, he was the one who shot our insider <end>
 
 =>q286
-На самом деле, именно он застрелил нашего информатора<end>
+На самом деле, именно он застрелил нашего информатора <end>
 
 =>q287_original
 before he himself received a terminal dose of lead. His body was left in the tunnel; he is now fish chomp.
@@ -1830,7 +1830,7 @@ I have to give it to him, though, he was a brave man.<end>
 He shot one of my men <end>
 
 =>q288
-Он застрелил одного из моих людей<end>
+Он застрелил одного из моих людей <end>
 
 =>a289_original
 Where's my jet ski?<end>
@@ -1866,13 +1866,13 @@ I am $(context.player.Name), Aegis Incorporated sec-trooper.<end>
 $(context.player.Name). Sec-trooper. <end>
 
 =>q294
-$(context.player.Name). Спец-охранник.<end>
+$(context.player.Name). Спец-охранник. <end>
 
 =>q295_original
 The professor is safe. <end>
 
 =>q295
-Профессор в безопасности.<end>
+Профессор в безопасности. <end>
 
 =>q296_original
 The other two - the sec-trooper and the fat one - have succumbed to the wounds they received durin' the fight. We had to abandon them in the tunnel which is now, well, an expansion to the underwater habitat.<end>
@@ -1914,7 +1914,7 @@ The professor, however, is just a little shaken up. Shaken up - but unharmed. Al
 ::He smiles slightly.:: I have to admit that your observations are... sound to a degree. ::But then the smile vanishes.:: However, I stongly disagree with your conclusion. <end>
 
 =>q302
-::Он слегка улыбается.:: Должен признать, что твои наблюдения обоснованны... в некоторой степени. ::Но затем улыбка исчезает.:: Однако я категорически не согласен с твоим выводом.<end>
+::Он слегка улыбается.:: Должен признать, что твои наблюдения обоснованны... в некоторой степени. ::Но затем улыбка исчезает.:: Однако я категорически не согласен с твоим выводом. <end>
 
 =>q303_original
 This expedition of yours, it has brought a lot of trouble. Not only to us, but *them* as well. You invade someone else's territory, armed and dangerous, flauntin' your disregard for anyone's interests but your own. What did you expect in return? Hospitality? Tolerance? Not only have your patrols confined us here, but the tribesmen, the Scalers - which you had agitated - are all over the Black Sea now, more keen on drinkin' human blood than their mother's milk. You people have kicked the hive, so to speak, with all your might and awakened a swarm that threatens to devour anything that gets in its way.<end>
@@ -2004,7 +2004,7 @@ Blood is not in our interest, even though a lot of it has been shed so far.<end>
 Which is entirely your fault. <end>
 
 =>q317
-И это полностью ваша вина.<end>
+И это полностью ваша вина. <end>
 
 =>a318_original
 We'd never risk the professor's life.<end>
@@ -2016,7 +2016,7 @@ We'd never risk the professor's life.<end>
 But you already have. <end>
 
 =>q319
-Но вы уже это сделали.<end>
+Но вы уже это сделали. <end>
 
 =>a320_original
 What do you want?<end>
@@ -2034,7 +2034,7 @@ If anything happens to the professor you will not *ask* but beg us to be civil.<
 I did not mention civility out of pretentiousness. <end>
 
 =>q322
-Я не упомянул о цивилизованности из претенциозности.<end>
+Я не упомянул о цивилизованности из претенциозности. <end>
 
 =>a323_original
 We'll see about that.<end>
@@ -2046,7 +2046,7 @@ We'll see about that.<end>
 We will. <end>
 
 =>q324
-Мы будем ждать.<end>
+Мы будем ждать. <end>
 
 =>a325_original
 Bastards!<end>
@@ -2088,7 +2088,7 @@ I am $(context.player.Name) of the Institute of Tchort.<end>
 Tchortist? How interestin': A Tchortist workin' for a security contractor from North Underrail. I wonder - I honestly do - how *that* came to be.  I've heard there is a lot of you in Core City now. <end>
 
 =>q331
-Чортист? Как интересно: Чортист, работающий на подрядчика по безопасности из Северной Подземки. Я недоумеваю - честно недоумеваю - как *такое* могло произойти. Я слышал, что в Кор-Сити сейчас много ваших.<end>
+Чортист? Как интересно: Чортист, работающий на подрядчика по безопасности из Северной Подземки. Я недоумеваю - честно недоумеваю - как *такое* могло произойти. Я слышал, что в Кор-Сити сейчас много ваших. <end>
 
 =>q332_original
 But... ::He shakes his head.:: I suppose now is not the time to discuss that.<end>
@@ -2116,7 +2116,7 @@ I had to spend two months in bed 'cus a dis. <end>
 =>q335
 ::Он стягивает свою бандану, чтобы показать вам огромную дыру в левой части нижней челюсти. Его зубы по большей части сохранились, но их геометрия и расположение серьёзно исказились; то, как его бандана прилипает к челюсти после того, как он снова надевает её, очерчивает это место, что очень похоже на рентгеновский снимок.::
 
-Я два месяца валялся в койке из-за этого.<end>
+Я два месяца валялся в койке из-за этого. <end>
 
 =>a336_original
 Sorry to hear you had to go through that.<end>
@@ -2134,7 +2134,7 @@ Two months. Cost me a lotta coins, it did, 'cus I couldn't loot. But it cost 'im
 Corporal, <end>
 
 =>q338
-Капрал,<end>
+Капрал, <end>
 
 =>a339_original
 Cool scar, bro. I bet it gets you a lot of women.<end>
@@ -2189,7 +2189,7 @@ How can you be sure it wasn't me? I've shot at a lot of ass-faced bastards durin
 Was a man. An' 'e's dead now. <end>
 
 =>q346
-Был мужчиной. И теперь он покойник.<end>
+Был мужчиной. И теперь он покойник. <end>
 
 =>q347_original
 Who knows, maybe I get to pop ye as well.<end>
@@ -2201,7 +2201,7 @@ Who knows, maybe I get to pop ye as well.<end>
 'E's dead. <end>
 
 =>q348
-Он сдох.<end>
+Он сдох. <end>
 
 =>a349_original
 That has nothing to do with me.<end>
@@ -2213,7 +2213,7 @@ That has nothing to do with me.<end>
 Yer d' Cap'n's guest now, but out dere yer kind's free game. <end>
 
 =>q350
-Сейчас ты гость капитана, но снаружи мы играем свободно.<end>
+Сейчас ты гость капитана, но снаружи мы играем свободно. <end>
 
 =>a351_original
 ::Say nothing.::<end>
@@ -2225,7 +2225,7 @@ Yer d' Cap'n's guest now, but out dere yer kind's free game. <end>
 Well... <end>
 
 =>q352
-Ну...<end>
+Ну... <end>
 
 =>a353_original
 $(context.player.Name) of the Free Drones.<end>
@@ -2237,7 +2237,7 @@ $(context.player.Name) из Вольных шершней.<end>
 Free Drones? How interestin': An anarchist workin' for a security contractor from North Underrail. I wonder - I honestly do - how *that* came to be. <end>
 
 =>q354
-Вольные шершни? Как интересно: анархист, работающий на подрядчика по безопасности из Северной Подземки. Я недоумеваю - честно недоумеваю - как *такое* могло произойти.<end>
+Вольные шершни? Как интересно: анархист, работающий на подрядчика по безопасности из Северной Подземки. Я недоумеваю - честно недоумеваю - как *такое* могло произойти. <end>
 
 =>a355_original
 Where is Professor Oldfield? What have you done with him?<end>
@@ -2249,7 +2249,7 @@ Where is Professor Oldfield? What have you done with him?<end>
 He is safe. <end>
 
 =>q356
-Он в безопасности.<end>
+Он в безопасности. <end>
 
 =>a357_original
 Where are they?<end>
@@ -2261,7 +2261,7 @@ Where are they?<end>
 You mean Professor Oldfield and the other men? <end>
 
 =>q358
-Ты имеешь в виду профессора Олдфилда и других?<end>
+Ты имеешь в виду профессора Олдфилда и других? <end>
 
 =>a359_original
 ::Say nothing.::<end>
@@ -2464,7 +2464,7 @@ I accept.<end>
 I might not have learned all I wanted, but after a deal like this I am willin' to wait. <end>
 
 =>q390
-Может, я и не узнал всего, что хотел, но после такой сделки я готов подождать.<end>
+Может, я и не узнал всего, что хотел, но после такой сделки я готов подождать. <end>
 
 =>q391_original
 But first things first - the information you promised.<end>
@@ -2476,7 +2476,7 @@ But first things first - the information you promised.<end>
 You're almost there... <end>
 
 =>q392
-Ты уже совсем близко...<end>
+Ты уже совсем близко... <end>
 
 =>q393_original
 We're gettin' somewhere, but you can do better.<end>
@@ -2615,4 +2615,3 @@ Remove $(#his/her) blindfold.<end>
 
 =>a413
 ::Ждать.::<end>
-

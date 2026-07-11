@@ -14,7 +14,7 @@
 So... you're that corporal $(#guy/girl). <end>
 
 =>q3
-Итак... вы тот самый капрал.<end>
+Итак... вы тот самый капрал. <end>
 
 =>q4_original
 Hm. We'll see...<end>
@@ -26,7 +26,7 @@ Hm. We'll see...<end>
 So... you're the new $(#guy/girl). <end>
 
 =>q5
-И так... вы т$(#от/а) нов$(#ый/ая) $(#парень/девушка).<end>
+И так... вы т$(#от/а) нов$(#ый/ая) $(#парень/девушка). <end>
 
 =>q6_original
 <end>
@@ -122,7 +122,7 @@ Go and pack your bags. We're getting outta Hell's Gut.<end>
 Good riddance. <end>
 
 =>q21
-Скатертью дорога.<end>
+Скатертью дорога. <end>
 
 =>q22_original
 ::She returns to scanning the dim horizon.::<end>
@@ -134,7 +134,7 @@ Good riddance. <end>
 You shouldn't be here anymore. <end>
 
 =>q23
-Вам не следует оставаться здесь больше.<end>
+Вам не следует оставаться здесь больше. <end>
 
 =>q24_original
 ::Cold air surrounds the roof. Yahota stands still, gazing at the sea, her cloak flapping in the wind - which doesn't seem to bother her at all.::<end>
@@ -258,7 +258,7 @@ And the natives?<end>
 Haven't noticed any activity lately. No moving lights, boats or anything of the sort. <end>
 
 =>q43
-В последнее время не замечаю активности. Никаких движущихся огней, лодок или чего-то подобного.<end>
+В последнее время не замечаю активности. Никаких движущихся огней, лодок или чего-то подобного. <end>
 
 =>q44_original
 <end>
@@ -276,7 +276,7 @@ And the pirates?<end>
 Not much activity lately. Much fewer moving lights and boats as well. <end>
 
 =>q46
-Не так много активности в последнее время. И намного меньше движущихся огней и лодок.<end>
+Не так много активности в последнее время. И намного меньше движущихся огней и лодок. <end>
 
 =>q47_original
 This might be the calm before the storm.<end>
@@ -300,7 +300,7 @@ Less activity than before the first attack, but still plenty.<end>
 Still lots of activity. There's a lot of them there. <end>
 
 =>q50
-По-прежнему много активности. Их там ещё много.<end>
+По-прежнему много активности. Их там ещё много. <end>
 
 =>q51_original
 Lots of activity there ever since we moved in. They are probably preparing for another attack.<end>
@@ -324,7 +324,7 @@ Lots of pirate jet ski patrols about. They could be up to something<end>
  again<end>
 
 =>q54
-снова<end>
+ снова<end>
 
 =>q55_original
 .<end>
@@ -354,7 +354,7 @@ No. He sailed north into savage territory before I lost sight of him.<end>
 But he should be in my scope again soon. <end>
 
 =>q59
-Но скоро снова должен появиться в моём прицеле.<end>
+Но скоро снова должен появиться в моём прицеле. <end>
 
 =>q60_original
 He follows a fairly consistent route, visiting the mutie island and the pirate base before going north again.<end>
@@ -366,13 +366,13 @@ He follows a fairly consistent route, visiting the mutie island and the pirate b
 ::She nods.:: He's docked at the <end>
 
 =>q61
-::Она кивает.:: Он пришвартовался к<end>
+::Она кивает.:: Он пришвартовался к <end>
 
 =>q62_original
 pirate base. <end>
 
 =>q62
-базе пиратов.<end>
+базе пиратов. <end>
 
 =>q63_original
 He's lying on the ground and doesn't appear to be moving. Looks fragged to me.<end>
@@ -384,7 +384,7 @@ He's lying on the ground and doesn't appear to be moving. Looks fragged to me.<e
 pier on the southern side of the mutie island. <end>
 
 =>q64
-пирсу на южной стороне острова мутантов.<end>
+пирсу на южной стороне острова мутантов. <end>
 
 =>a65_original
 What can you see from here?<end>
@@ -424,7 +424,7 @@ Still, I need some info on the surrounding locations and what is and has been go
 ::She inhales and exhales slowly as her eyes are panning across the scenery.:: South, it's nothing but the Jaws, as you locals call it, <end>
 
 =>q70
-::Она медленно вдыхает и выдыхает, её глаза окидывают панораму.:: На юге нет ничего, кроме Челюстей, как вы местные их называете,<end>
+::Она медленно вдыхает и выдыхает, её глаза окидывают панораму.:: На юге нет ничего, кроме Челюстей, как вы местные их называете, <end>
 
 =>q71_original
 and that glowing monolith on the cliff.<end>
@@ -436,7 +436,7 @@ and that glowing monolith on the cliff.<end>
 West, mutie island, you already know. <end>
 
 =>q72
-На западе остров мутантов, вы уже знаете.<end>
+На западе остров мутантов, вы уже знаете. <end>
 
 =>q73_original
 Saw no activity after you left.<end>
@@ -448,25 +448,25 @@ Saw no activity after you left.<end>
 East and southeast, pirate territory: <end>
 
 =>q74
-На востоке и юго-востоке территория пиратов:<end>
+На востоке и юго-востоке территория пиратов: <end>
 
 =>q75_original
 Little to no activity. <end>
 
 =>q75
-Практически нет активности.<end>
+Практически нет активности. <end>
 
 =>q76_original
 North - <end>
 
 =>q76
-На севере -<end>
+На севере - <end>
 
 =>q77_original
 now that's the... fraggin' savage land. <end>
 
 =>q77
-та самая... хренова земля дикарей.<end>
+та самая... хренова земля дикарей. <end>
 
 =>q78_original
 <end>
@@ -478,13 +478,13 @@ now that's the... fraggin' savage land. <end>
 Haven't noticed any activity lately. No moving lights or anything of the sort. <end>
 
 =>q79
-В последнее время не замечаю активности. Никаких движущихся огней или чего-то подобного.<end>
+В последнее время не замечаю активности. Никаких движущихся огней или чего-то подобного. <end>
 
 =>q80_original
 North-east, <end>
 
 =>q80
-Северо-восток,<end>
+Северо-восток, <end>
 
 =>q81_original
 that's where the horticulture center is located. You know all about that.<end>
@@ -530,7 +530,7 @@ there's plenty of vegetation there. And some kind of... fraggin' mist, damned if
 Not much activity lately. Much fewer moving lights as well. <end>
 
 =>q87
-Не так много активности в последнее время. И намного меньше движущихся огней.<end>
+Не так много активности в последнее время. И намного меньше движущихся огней. <end>
 
 =>q88_original
 This might be the calm before the storm.<end>
@@ -554,13 +554,13 @@ Less activity than before the first attack, but still plenty.<end>
 Still lots of activity. There's a lot of them. <end>
 
 =>q91
-По-прежнему много активности. Их там ещё много.<end>
+По-прежнему много активности. Их там ещё много. <end>
 
 =>q92_original
 Lots of activity there ever since we moved in. <end>
 
 =>q92
-Там много активности с момента нашего прибытия.<end>
+Там много активности с момента нашего прибытия. <end>
 
 =>q93_original
 There's a few spots which are well-illuminated; that must be where their villages are.<end>
@@ -572,7 +572,7 @@ There's a few spots which are well-illuminated; that must be where their village
 the savage land. <end>
 
 =>q94
-земля дикарей.<end>
+земля дикарей. <end>
 
 =>q95_original
 Lots of activity after the attack.<end>
@@ -584,7 +584,7 @@ Lots of activity after the attack.<end>
 Lots of lights, lots of jets patrolling around. <end>
 
 =>q96
-Много огней, много гидроциклов, патрулирующих окрестности.<end>
+Много огней, много гидроциклов, патрулирующих окрестности. <end>
 
 =>q97_original
 Also, the whole eastern side of the Black Sea is basalt rock, but there's also a lot of that red vegetation there.<end>
@@ -656,7 +656,7 @@ Tell me about the surrounding areas.<end>
 South, it's the Jaws <end>
 
 =>q108
-На юге - Челюсти<end>
+На юге - Челюсти <end>
 
 =>a109_original
 You don't seem very pleased with me being around.<end>
@@ -761,7 +761,7 @@ I wanted to ask you about your relationship with Chief Briggs.<end>
 Bri--? ::She shakes her head.:: No. We won't be talking about the chief right now. <end>
 
 =>q125
-Бри--? ::Она качает головой.:: Нет, о шефе мы сейчас говорить не будем.<end>
+Бри--? ::Она качает головой.:: Нет, о шефе мы сейчас говорить не будем. <end>
 
 =>q126_original
 No... C'mon. ::She turns to the sea.::<end>
@@ -1033,7 +1033,7 @@ Ah. You know, I think your attitude is the one freezing this rooftop, not the wi
 ::She frowns.:: <end>
 
 =>q167
-::Она хмурится.::<end>
+::Она хмурится.:: <end>
 
 =>a168_original
 ::Nod.::<end>
@@ -1051,7 +1051,7 @@ Tell me about the monolith.<end>
 ::She answers coldly.:: <end>
 
 =>q170
-::Она холодно отвечает.::<end>
+::Она холодно отвечает.:: <end>
 
 =>q171_original
 Can't tell you much. Never seen anything like it before. It's a strange, glowing, angular structure.<end>
@@ -1103,7 +1103,7 @@ How good of a shot are you?<end>
 Outstanding. <end>
 
 =>q178
-Превосходно.<end>
+Превосходно. <end>
 
 =>q179_original
 ::She glances at you::
@@ -1124,7 +1124,7 @@ Don't you have any surveillance and detection equipment you can use?<end>
 ::She answers coldly.:: <end>
 
 =>q181
-::Она холодно отвечает.::<end>
+::Она холодно отвечает.:: <end>
 
 =>q182_original
 NV and thermal cameras, auto-turrets, perimetral omnisensors and other automatic detection systems. We brought it all.<end>
@@ -1192,7 +1192,7 @@ I wanted to compliment you on your fighting abilities.<end>
 Guess it's time to leave this place. <end>
 
 =>q191
-Думаю, пришло время покинуть это место.<end>
+Думаю, пришло время покинуть это место. <end>
 
 =>q192_original
 ::She continues staring at the sea.::<end>
@@ -1204,7 +1204,7 @@ Guess it's time to leave this place. <end>
 And we even... even got a live Lemurian out of it. ::She shakes her head in disbelief.:: <end>
 
 =>q193
-И нам даже... даже удалось заполучить живого лемурийца. ::Она недоверчиво качает головой.::<end>
+И нам даже... даже удалось заполучить живого лемурийца. ::Она недоверчиво качает головой.:: <end>
 
 =>q194_original
 It's been too fraggin' long...<end>
@@ -1288,7 +1288,7 @@ Thanks for busting us out of there.<end>
 ::She nods.:: All in a day's work. <end>
 
 =>q206
-::Она кивает.:: Пара пустяков.<end>
+::Она кивает.:: Пара пустяков. <end>
 
 =>a207_original
 I came here for some information.<end>
@@ -1300,7 +1300,7 @@ I came here for some information.<end>
 Go for it. <end>
 
 =>q208
-Действуйте.<end>
+Действуйте. <end>
 
 =>a209_original
 ::Say nothing.::<end>
@@ -1334,19 +1334,19 @@ I could see your encounter with the turrets in front of that military installati
  and the savage party's arrival after that. They occupy a lighthouse in D10. Think that's where you've been spotted from.<end>
 
 =>q213
-и прибытие группы дикарей после этого. Они занимают маяк в D10. Думаю, это оттуда вас заметили.<end>
+ и прибытие группы дикарей после этого. Они занимают маяк в D10. Думаю, это оттуда вас заметили.<end>
 
 =>q214_original
 . <end>
 
 =>q214
-.<end>
+. <end>
 
 =>q215_original
 ::She scans the dim horizon, occassionally looking through her scope when details require closer examination.:: <end>
 
 =>q215
-::Она осматривает туманный горизонт, время от времени поглядывая в свой прицел, когда детали требуют более тщательного изучения.::<end>
+::Она осматривает туманный горизонт, время от времени поглядывая в свой прицел, когда детали требуют более тщательного изучения.:: <end>
 
 =>q216_original
 
@@ -1392,7 +1392,7 @@ Doc bought it. Spared him the misery, if anything.<end>
 How painters can stand to watch something as boring as this for hours and hours is something I'll never know. <end>
 
 =>q221
-Мне никогда не понять, как художники могут стоять часами и смотреть на такие скучные вещи.<end>
+Мне никогда не понять, как художники могут стоять часами и смотреть на такие скучные вещи. <end>
 
 =>q222_original
 
@@ -1408,17 +1408,16 @@ Ever seen a sea serpent eating a bat? The bat was flying low... then boom. Gone.
 You got us in. ::She nods.:: <end>
 
 =>q223
-Мы попали туда с вашей помощью. ::Она кивает.::<end>
+Мы попали туда с вашей помощью. ::Она кивает.:: <end>
 
 =>q224_original
 And fragged all the muties. <end>
 
 =>q224
-И захреначил$(#/а) всех мутантов.<end>
+И захреначил$(#/а) всех мутантов. <end>
 
 =>q225_original
 Keep it up.<end>
 
 =>q225
 Так держать.<end>
-

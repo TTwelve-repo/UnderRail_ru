@@ -52,7 +52,7 @@ Do you need my assistance, $(#sir/ma'am)? <end>
 =>q8
 ::Слуга пытается открыть ворота руками.::
 
-Вам нужна моя помощь, $(#сэр/мэм)?<end>
+Вам нужна моя помощь, $(#сэр/мэм)? <end>
 
 =>q9_original
 I am unable to assist you until after I have opened this gate.<end>
@@ -244,7 +244,7 @@ Just be careful not to injure yourself, $(#sir/ma'am).<end>
 ::[Strength]:: Let me help you. I've got strong hands myself. <end>
 
 =>a40
-::[Сила]:: Позволь мне помочь. У меня сильные руки.<end>
+::[Сила]:: Позволь мне помочь. У меня сильные руки. <end>
 
 =>a41_original
 Why are only some of you Servants friendly to me whereas the others are not?<end>
@@ -281,4 +281,3 @@ Thank you, $(#sir/ma'am).<end>
 
 =>q46
 Благодарю вас, $(#сэр/мэм).<end>
-

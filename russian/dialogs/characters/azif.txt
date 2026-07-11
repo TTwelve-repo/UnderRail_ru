@@ -120,7 +120,7 @@ If he is, then so is Tanner.<end>
 Tanner... <end>
 
 =>q18
-Таннер...<end>
+Таннер... <end>
 
 =>a19_original
 ::[Intelligence]:: You're about to tell me a lot of things about Tanner, aren't you?<end>
@@ -132,7 +132,7 @@ Tanner... <end>
 ::He nods slowly, confirming your remark.:: <end>
 
 =>q20
-::Он медленно кивает, подтверждая вашу догадку.::<end>
+::Он медленно кивает, подтверждая вашу догадку.:: <end>
 
 =>q21_original
 You have revealed so much to me, things I had never expected to hear from someone we acquired in such a coincidental way, someone who had just happened to enter the Protectorate embassy at the right time. I am thankful for the insight you have provided. Now is the time to honor my part of the deal.<end>
@@ -244,7 +244,7 @@ You can understand that Rahm-Umbra was far from pleased, and I believe he was in
 The rest - well, that was your story, $(context.player.Name). <end>
 
 =>q38
-Что ж, остальное -- уже ваша история, $(context.player.Name).<end>
+Что ж, остальное -- уже ваша история, $(context.player.Name). <end>
 
 =>a39_original
 ::[Intelligence]:: I had some suspicions that the person who gave the Cube to the Bakers in Core City was someone from Oculus, but I had little evidence to support it.<end>
@@ -496,7 +496,7 @@ My question still stands.<end>
 . Not revealing sensitive information about them is one of those obligations. <end>
 
 =>q80
-. Одно из этих обязательств -- не раскрывать тайной информации о них.<end>
+. Одно из этих обязательств -- не раскрывать тайной информации о них. <end>
 
 =>a81_original
 You are interested in him as much as I am. Don't try to deny it.<end>
@@ -676,7 +676,7 @@ To spy on people?<end>
 Indeed. <end>
 
 =>q110
-Действительно.<end>
+Действительно. <end>
 
 =>q111_original
 Though much of their machinery is broken or inoperable, those that we can still use give us considerable insight into what is going on in Underrail.<end>
@@ -700,7 +700,7 @@ And what would that be?<end>
 Monitoring. <end>
 
 =>q114
-Наблюдение.<end>
+Наблюдение. <end>
 
 =>a115_original
 Great acoustics?<end>
@@ -718,7 +718,7 @@ No, that is just a fortunate bonus.<end>
 This place was meant for monitoring the world around it, or more specifically - the human society. <end>
 
 =>q117
-Это место предназначалось для наблюдения за окружающим пространством, а точнее, за человеческим обществом.<end>
+Это место предназначалось для наблюдения за окружающим пространством, а точнее, за человеческим обществом. <end>
 
 =>a118_original
 Who were the Godmen?<end>
@@ -1072,7 +1072,7 @@ There lived a man, and it could be that he still lives, named Wit Nosek. A long 
 He worked on a project called "The Ark." The exact details of the project are unknown to me, but I do know it was related to some manner of life longevity research. <end>
 
 =>q172
-Он работал над проектом под названием «Ковчег». Точные детали проекта мне неизвестны, но я знаю, что он был связан с исследованиями по продлению жизни.<end>
+Он работал над проектом под названием «Ковчег». Точные детали проекта мне неизвестны, но я знаю, что он был связан с исследованиями по продлению жизни. <end>
 
 =>q173_original
 What I do know is that near the end of his time with Biocorp he made a major breakthrough in his research. Unfortunately, those were chaotic times and he ended up not sharing these results with his colleagues before he fled from the organization.<end>
@@ -1132,7 +1132,7 @@ Pretty old, yeah.<end>
 I see. <end>
 
 =>q182
-Понимаю.<end>
+Понимаю. <end>
 
 =>q183_original
 Go on - did he tell you anything about his research?<end>
@@ -1222,7 +1222,7 @@ I'd rather not say.<end>
 Holding tight onto your assignment, I see. I respect that. <end>
 
 =>q197
-Вы держите свою задачу крепкой хваткой, как я вижу. Я это уважаю.<end>
+Вы держите свою задачу крепкой хваткой, как я вижу. Я это уважаю. <end>
 
 =>q198_original
 Was he more forthcoming this time?<end>
@@ -1406,7 +1406,7 @@ Thus it's a very valuable thing, yes.<end>
 Now, besides finding out about it, did you also, perhaps... find *it*? <end>
 
 =>q227
-А, помимо того, что вы узнали о нем, вы, случайно также не... *нашли* его?<end>
+А, помимо того, что вы узнали о нем, вы, случайно также не... *нашли* его? <end>
 
 =>q228_original
 <end>
@@ -1576,7 +1576,7 @@ They manufactured and issued them, that is documented and well-known. The contai
 Such acute artificial intelligence and fine nanobot control and capability surpass the known technological achievements of any of the supercorporations of the time period, and even of today. <end>
 
 =>q250
-Столь хитроумный искусственный интеллект и тонкость управления наноботами превосходят известные технологические достижения любой из суперкорпораций того периода и даже сегодняшнего дня.<end>
+Столь хитроумный искусственный интеллект и тонкость управления наноботами превосходят известные технологические достижения любой из суперкорпораций того периода и даже сегодняшнего дня. <end>
 
 =>a251_original
 Where could the other ones be?<end>
@@ -2380,7 +2380,7 @@ Or you can give the device to me, in which case I alone will bear the risk, but 
 I have seen and been in possession of pieces similar to this before. This Godmen technology is strange thing, yes: They seem to put their data, machines, tool, and maybe some living conscious minds inside these big packages that are the monoliths we see scattered across the world.<end>
 
 =>q384
-Я уже видел и имел в своём распоряжении фрагменты, подобные этому. Эта технология Боголюдей -- странная вещь, да: судя по всему, они помещают свои данные, машины, инструменты и, возможно, даже живое сознание в большие конструкции, которые и являются монолитами, разбросанными по всему миру.
+Я уже видел и имел в своём распоряжении фрагменты, подобные этому. Эта технология Боголюдей -- странная вещь, да: судя по всему, они помещают свои данные, машины, инструменты и, возможно, даже живое сознание в большие конструкции, которые и являются монолитами, разбросанными по всему миру.<end>
 
 =>q385_original
 Getting carbonized<end>
@@ -2831,7 +2831,7 @@ I understand.<end>
 Very good. <end>
 
 =>q457
-Очень хорошо.<end>
+Очень хорошо. <end>
 
 =>q458_original
 Tell me then - is this something that you would want to be a part of? Will you join our organization?<end>
@@ -2919,7 +2919,7 @@ I think so.<end>
 Yes, I think you do. <end>
 
 =>q471
-Да, я тоже так считаю.<end>
+Да, я тоже так считаю. <end>
 
 =>a472_original
 Not really, no.<end>

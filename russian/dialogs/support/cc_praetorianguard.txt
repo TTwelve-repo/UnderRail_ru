@@ -32,7 +32,7 @@ Some hobo is digging through trash right in front of my house and is making a hu
 ::Takes a closer look at you.:: <end>
 
 =>q6
-::Внимательно приглядывается к вам.::<end>
+::Внимательно приглядывается к вам.:: <end>
 
 =>q7_original
 $(#Sir/Ma'am)! I'm sorry, I didn't recognize you right away.<end>
@@ -44,7 +44,7 @@ $(#Сэр/мэм)! Простите, я не узнал вас.<end>
 In any case, <end>
 
 =>q8
-Так или иначе,<end>
+Так или иначе, <end>
 
 =>q9_original
 I think I know exactly who you're talking about: It is an elderly, balding man wearing a green jacket. Is that correct?<end>
@@ -261,4 +261,3 @@ Foundry had a major prison break recently. Who's hardcore now?<end>
 
 =>q44
 На Литейной недавно был большой побег из тюрьмы. Ну и кто теперь хардкорный?<end>
-

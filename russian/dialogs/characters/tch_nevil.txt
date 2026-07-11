@@ -146,13 +146,13 @@ I think I found a suitable ventilation shaft for them to go through. I don't kno
 Then <end>
 
 =>q21
-Тогда<end>
+Тогда <end>
 
 =>q22_original
 I'll wait for them in Upper Underrail. <end>
 
 =>q22
-Я буду ожидать их в Верхней Подземке.<end>
+Я буду ожидать их в Верхней Подземке. <end>
 
 =>q23_original
 I've done many patrols across the rails. I've got a few ideas where they might emerge from.<end>
@@ -206,7 +206,7 @@ I think I found a suitable ventilation shaft for them to go through. It'll take 
 Then I'll head there. <end>
 
 =>q31
-Тогда я направляюсь туда.<end>
+Тогда я направляюсь туда. <end>
 
 =>a32_original
 I'll do my best to lead them right here, but that might not be possible.<end>
@@ -218,7 +218,7 @@ I'll do my best to lead them right here, but that might not be possible.<end>
 This place is far too dangerous anyway. <end>
 
 =>q33
-В любом случае это место слишком опасно.<end>
+В любом случае это место слишком опасно. <end>
 
 =>a34_original
 It's highly unlikely that I'll be able to smuggle them through the vents we went through.<end>
@@ -481,4 +481,3 @@ Brace yourself! They are coming!<end>
 
 =>q72
 Готовьтесь! Они идут!<end>
-

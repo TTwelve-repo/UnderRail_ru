@@ -54,7 +54,7 @@ By the caverns, Arch Island Keep is a genuine gold mine of ancient history. In a
 Regardless, besides <end>
 
 =>q9
-Как бы то ни было, помимо<end>
+Как бы то ни было, помимо <end>
 
 =>q10_original
 Nexus of Technology, there is another location we have info on - Crimson Meadow Horticulture Center, located in H7; it's that misty red shore north-east of our camp. All of these red plants seem to originate from there. But be warned: Chief told me his sec-troopers encountered dangerous insectoid creatures over there.<end>
@@ -256,7 +256,7 @@ Hey, Marky.<end>
 Goodbye, $(context.player.Name). <end>
 
 =>q42
-До свидания, $(context.player.Name).<end>
+До свидания, $(context.player.Name). <end>
 
 =>q43_original
 ::Static.::<end>
@@ -292,13 +292,13 @@ At J1. They appear to be in good condition. I just need you to send someone to p
 We don't have any sec-troopers left to spare. <end>
 
 =>q48
-У нас нет свободных спец-охранников.<end>
+У нас нет свободных спец-охранников. <end>
 
 =>q49_original
 Especially considering they'd have to go through pirate territory. <end>
 
 =>q49
-Особенно учитывая, что им пришлось бы двигаться через территорию пиратов.<end>
+Особенно учитывая, что им пришлось бы двигаться через территорию пиратов. <end>
 
 =>q50_original
 Over.<end>
@@ -343,13 +343,13 @@ I'll see what I can do. Out.<end>
 Maybe that old ferryman would be willing to help you. <end>
 
 =>q56
-Возможно, тот старый паромщик согласится вам помочь.<end>
+Возможно, тот старый паромщик согласится вам помочь. <end>
 
 =>q57_original
 Having sec-troopers out of the camp at a moment like this is far too risky. <end>
 
 =>q57
-В такой момент, как сейчас, выводить спец-охранников из лагеря слишком рискованно.<end>
+В такой момент, как сейчас, выводить спец-охранников из лагеря слишком рискованно. <end>
 
 =>q58_original
 It's too dangerous to go through the pirate territory.<end>
@@ -379,7 +379,7 @@ They allowed me passage through their territory, over.<end>
 If you say so. In that case I'll dispatch some laborers to the location you specified. <end>
 
 =>q62
-Как скажете. В таком случае я отправлю несколько рабочих в указанное вами место.<end>
+Как скажете. В таком случае я отправлю несколько рабочих в указанное вами место. <end>
 
 =>q63_original
 Over.<end>
@@ -421,7 +421,7 @@ The way to J1 is free. Don't you worry about the pirates, over.<end>
 In that case I'll dispatch an armed transport to the location you specified. <end>
 
 =>q69
-В таком случае, я отправлю вооружённый транспорт в указанное вами место.<end>
+В таком случае, я отправлю вооружённый транспорт в указанное вами место. <end>
 
 =>a70_original
 What do you propose I do, over?<end>
@@ -619,43 +619,43 @@ I'm interested in the camp's security status, over.<end>
 The situation is bad. There are only a handful of sec-troopers left defending the camp. <end>
 
 =>q102
-Дела плохи. Осталась лишь горстка спец-охранников, защищающих лагерь.<end>
+Дела плохи. Осталась лишь горстка спец-охранников, защищающих лагерь. <end>
 
 =>q103_original
 Our firearm and ammunition supplies are <end>
 
 =>q103
-Наши запасы огнестрельного оружия и боеприпасов<end>
+Наши запасы огнестрельного оружия и боеприпасов <end>
 
 =>q104_original
 very good, <end>
 
 =>q104
-очень хорошее,<end>
+очень хорошее, <end>
 
 =>q105_original
 high-tech equipment supplies - <end>
 
 =>q105
-обеспечение высокотехнологичным оборудованием -<end>
+обеспечение высокотехнологичным оборудованием - <end>
 
 =>q106_original
 very good, <end>
 
 =>q106
-очень хорошее,<end>
+очень хорошее, <end>
 
 =>q107_original
 medical supplies - <end>
 
 =>q107
-медицинское снабжение -<end>
+медицинское снабжение - <end>
 
 =>q108_original
 very good. <end>
 
 =>q108
-очень хорошее.<end>
+очень хорошее. <end>
 
 =>q109_original
 <end>
@@ -685,7 +685,7 @@ In addition to that we have lost<end>
  Yahota.<end>
 
 =>q113
-Яхоту.<end>
+ Яхоту.<end>
 
 =>q114_original
 That is all, over.<end>
@@ -721,61 +721,61 @@ We barely have any jet skis left.<end>
 satisfactory. <end>
 
 =>q119
-приемлемо.<end>
+приемлемо. <end>
 
 =>q120_original
 running extremely low. <end>
 
 =>q120
-крайне низкое.<end>
+крайне низкое. <end>
 
 =>q121_original
 almost non-existent. <end>
 
 =>q121
-практически отсутствует.<end>
+практически отсутствует. <end>
 
 =>q122_original
 satisfactory, <end>
 
 =>q122
-приемлемо,<end>
+приемлемо, <end>
 
 =>q123_original
 running extremely low, <end>
 
 =>q123
-крайне мало,<end>
+крайне мало, <end>
 
 =>q124_original
 almost non-existent, <end>
 
 =>q124
-практически исчерпаны,<end>
+практически исчерпаны, <end>
 
 =>q125_original
 satisfactory, <end>
 
 =>q125
-приемлемо,<end>
+приемлемо, <end>
 
 =>q126_original
 quickly diminishing, <end>
 
 =>q126
-быстро сокращаются,<end>
+быстро сокращаются, <end>
 
 =>q127_original
 almost non-existent, <end>
 
 =>q127
-практически исчерпаны,<end>
+практически исчерпаны, <end>
 
 =>q128_original
 There are currently $(context.global_xpbl_aegisSecTroopersAvailable) sec-troopers defending the camp. <end>
 
 =>q128
-Сейчас $(context.global_xpbl_aegisSecTroopersAvailable) спец-охранников защищают лагерь.<end>
+Сейчас $(context.global_xpbl_aegisSecTroopersAvailable) спец-охранников защищают лагерь. <end>
 
 =>a129_original
 ::Channel 3 (Yahota)::<end>
@@ -853,7 +853,7 @@ I'm interested in enemy activity, over.<end>
 ::She answers coldly.:: <end>
 
 =>q141
-::Она холодно отвечает.::<end>
+::Она холодно отвечает.:: <end>
 
 =>q142_original
 <end>
@@ -865,7 +865,7 @@ I'm interested in enemy activity, over.<end>
 The sea's looking calm at the moment. No enemy activity whatsoever. <end>
 
 =>q143
-Сейчас море кажется спокойным. Никакой вражеской активности.<end>
+Сейчас море кажется спокойным. Никакой вражеской активности. <end>
 
 =>q144_original
 Over.<end>
@@ -913,7 +913,7 @@ Pirates.<end>
 The whole south-eastern part of the sea is pretty much dead. Barely any pirate activity there. <end>
 
 =>q151
-Вся юго-восточная часть моря практически безжизненна. Там почти не наблюдается пиратской активности.<end>
+Вся юго-восточная часть моря практически безжизненна. Там почти не наблюдается пиратской активности. <end>
 
 =>q152_original
 Over.<end>
@@ -937,7 +937,7 @@ And the savages, over?<end>
 Haven't noticed any activity lately. No moving lights, boats or anything of the sort. <end>
 
 =>q155
-В последнее время не замечено никакой активности. Никаких движущихся огней, лодок или чего-то подобного.<end>
+В последнее время не замечено никакой активности. Никаких движущихся огней, лодок или чего-то подобного. <end>
 
 =>q156_original
 Over.<end>
@@ -955,43 +955,43 @@ And the pirates, over?<end>
 Not much activity lately. Much fewer moving lights and boats as well. <end>
 
 =>q158
-В последнее время не очень много активности. Гораздо меньше движущихся огней и лодок.<end>
+В последнее время не очень много активности. Гораздо меньше движущихся огней и лодок. <end>
 
 =>q159_original
 This might be the calm before the storm. <end>
 
 =>q159
-Возможно, это затишье перед бурей.<end>
+Возможно, это затишье перед бурей. <end>
 
 =>q160_original
 Less activity than before the first attack, but still plenty. <end>
 
 =>q160
-Меньше активности, чем перед первой атакой, но всё равно много.<end>
+Меньше активности, чем перед первой атакой, но всё равно много. <end>
 
 =>q161_original
 Still lots of activity. There's a lot of them there. <end>
 
 =>q161
-По-прежнему много активности. Там их очень много.<end>
+По-прежнему много активности. Там их очень много. <end>
 
 =>q162_original
 Lots of activity there ever since we moved in. They are probably preparing for another attack. <end>
 
 =>q162
-С тех пор как мы перебрались, там было очень оживлённо. Вероятно, они готовятся к новой атаке.<end>
+С тех пор как мы перебрались, там было очень оживлённо. Вероятно, они готовятся к новой атаке. <end>
 
 =>q163_original
 Not much activity over at the pirate base. Their patrols are becoming rather sparse as well. <end>
 
 =>q163
-На пиратской базе особой активности не наблюдается. Их патрули также стали достаточно редкими.<end>
+На пиратской базе особой активности не наблюдается. Их патрули также стали достаточно редкими. <end>
 
 =>q164_original
 Lots of pirate jet ski patrols about. They could be up to something <end>
 
 =>q164
-Полно пиратских патрулей на гидроциклах. Они могут замышлять что-то<end>
+Полно пиратских патрулей на гидроциклах. Они могут замышлять что-то <end>
 
 =>q165_original
 again<end>
@@ -1003,7 +1003,7 @@ again<end>
 . <end>
 
 =>q166
-.<end>
+. <end>
 
 =>a167_original
 Savages.<end>
@@ -1039,7 +1039,7 @@ Not now.<end>
 ::She answers coldly.:: <end>
 
 =>q172
-::Она холодно отвечает.::<end>
+::Она холодно отвечает.:: <end>
 
 =>q173_original
 Negative. Use the navcom.<end>
@@ -1051,7 +1051,7 @@ Negative. Use the navcom.<end>
 And focus on the mission. <end>
 
 =>q174
-И сосредоточьтесь на задании.<end>
+И сосредоточьтесь на задании. <end>
 
 =>q175_original
 Over.<end>
@@ -1075,13 +1075,13 @@ Can you see the Ferryman anywhere, over?<end>
 ::She answers coldly.:: <end>
 
 =>q178
-::Она холодно отвечает.::<end>
+::Она холодно отвечает.:: <end>
 
 =>q179_original
 No. He sailed north into savage territory before I lost sight of him. Should be in my scope again soon. <end>
 
 =>q179
-Нет. Он отплыл на север, на территорию дикарей, прежде чем я потеряла его из виду. Скоро он снова окажется в моём поле зрения.<end>
+Нет. Он отплыл на север, на территорию дикарей, прежде чем я потеряла его из виду. Скоро он снова окажется в моём поле зрения. <end>
 
 =>q180_original
 He follows a fairly consistent route, visiting the mutie island and the pirate base before going north again. Over.<end>
@@ -1093,13 +1093,13 @@ He follows a fairly consistent route, visiting the mutie island and the pirate b
 Yes. He's docked at the <end>
 
 =>q181
-Да. Он пришвартовался у<end>
+Да. Он пришвартовался у <end>
 
 =>q182_original
 pirate base. <end>
 
 =>q182
-базы пиратов.<end>
+базы пиратов. <end>
 
 =>q183_original
 He's lying on the ground and doesn't appear to be moving. Looks fragged to me. Over.<end>
@@ -1111,7 +1111,7 @@ He's lying on the ground and doesn't appear to be moving. Looks fragged to me. O
 pier on the southern side of the mutie island. <end>
 
 =>q184
-пирса на южной стороне острова мутантов.<end>
+пирса на южной стороне острова мутантов. <end>
 
 =>a185_original
 I need information on the pirate base. Over.<end>
@@ -1123,7 +1123,7 @@ I need information on the pirate base. Over.<end>
 You neutralized pretty much every fraggin' pirate. <end>
 
 =>q186
-Ты нейтрализовал$(#/а) почти всех грёбаных пиратов.<end>
+Ты нейтрализовал$(#/а) почти всех грёбаных пиратов. <end>
 
 =>q187_original
 Locate the professor and carry out his extraction, over.<end>
@@ -1135,13 +1135,13 @@ Locate the professor and carry out his extraction, over.<end>
 They're well-armed, have lots of jet skis at their disposal - and hounds, lots of hounds walking about. <end>
 
 =>q188
-Они отлично вооружены, в их распоряжении множество гидроциклов - и гончие, много гончих, прогуливающихся вокруг.<end>
+Они отлично вооружены, в их распоряжении множество гидроциклов - и гончие, много гончих, прогуливающихся вокруг. <end>
 
 =>q189_original
 Lots of fraggin' pirates here, that's for sure. <end>
 
 =>q189
-Здесь полно грёбаных пиратов, уж это точно.<end>
+Здесь полно грёбаных пиратов, уж это точно. <end>
 
 =>q190_original
 From what I've been able to gather so far, there are three locations where Professor Oldfield is most probably being held at: The first is a derelict battleship in G2, right in the middle of their main base. Then there's a large heavily-defended building in E3. And then there's also that smaller base in I5, the one with the NFT lighthouse. There's a lot of activity there as well, which makes it another potential target.<end>
@@ -1317,7 +1317,7 @@ Are you okay, Professor?<end>
 Yes, I'm fine, I'm fine. <end>
 
 =>q217
-Да, в порядке я, в порядке.<end>
+Да, в порядке я, в порядке. <end>
 
 =>q218_original
 Don't worry about me. Best of luck. Out.<end>
@@ -1387,7 +1387,7 @@ Microchip encoder.<end>
 Ah, yes - microchip encoder. That clearance level will certainly prove to be of great use, certainly. <end>
 
 =>q228
-Ах, да - кодировщик микрочипов. Этот уровень допуска, безусловно, окажется очень полезным.<end>
+Ах, да - кодировщик микрочипов. Этот уровень допуска, безусловно, окажется очень полезным. <end>
 
 =>q229_original
 <end>
@@ -1405,13 +1405,13 @@ Ah, yes - microchip encoder. That clearance level will certainly prove to be of 
 Excellent work, $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q231
-$(context.npc_xpbl_oldfield_playerName), отличная работа.<end>
+$(context.npc_xpbl_oldfield_playerName), отличная работа. <end>
 
 =>q232_original
 See Marcus about your well-earned bonus when you come back. <end>
 
 =>q232
-Когда вернётесь, спросите у Маркуса о своём заслуженном вознаграждении.<end>
+Когда вернётесь, спросите у Маркуса о своём заслуженном вознаграждении. <end>
 
 =>q233_original
 I'll contact you as soon as I have a new task for you. Best of luck. Oldfield out.<end>
@@ -1427,13 +1427,13 @@ The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in
 =>q234
 Спец-повар, да, повар теперь отвечает за зарплату. Ищите его на кухне лагеря.
 
-::Он делает недолгую паузу, прежде чем продолжить.:: Боюсь, что он... один из немногих оставшихся в живых.<end>
+::Он делает недолгую паузу, прежде чем продолжить.:: Боюсь, что он... один из немногих оставшихся в живых. <end>
 
 =>q235_original
 See the sec-chef about your bonus when you come back. <end>
 
 =>q235
-Когда вернётесь, обратитесь к шефу за премией.<end>
+Когда вернётесь, обратитесь к шефу за премией. <end>
 
 =>a236_original
 I have a report to make about Crimson Meadow Horticulture Center, over.<end>
@@ -1461,7 +1461,7 @@ By the caverns, that is un-believable, $(context.npc_xpbl_oldfield_playerName). 
 =>q239
 ::Вам настолько хорошо удаётся передать угрюмую атмосферу центра садоводства, что профессор добрых полминуты остаётся безмолвным после того, как вы заканчиваете свой рассказ. Он говорит после этой паузы.::
 
-Клянусь Подземкой, это невероятно, $(context.npc_xpbl_oldfield_playerName). Растительность, насекомые, пестициды... поразительно, поистине поразительно.<end>
+Клянусь Подземкой, это невероятно, $(context.npc_xpbl_oldfield_playerName). Растительность, насекомые, пестициды... поразительно, поистине поразительно. <end>
 
 =>q240_original
 But one of the most important things is that you managed to find that dispatch console. They seem to be the key to discovering the locations of Lemurian facilities.<end>
@@ -1543,7 +1543,7 @@ I needed it to access Joint Security headquarters. There was a scanner there whi
 Ah, yes, I believe you mentioned it to me. <end>
 
 =>q252
-Ах, да, кажется, вы говорили мне об этом.<end>
+Ах, да, кажется, вы говорили мне об этом. <end>
 
 =>q253_original
 I believe Doctor Savage can extract the implant for you.<end>
@@ -1561,13 +1561,13 @@ I'll keep that in mind, over.<end>
 Yes, over, yes. <end>
 
 =>q255
-Да-да, приём.<end>
+Да-да, приём. <end>
 
 =>q256_original
 In any case... <end>
 
 =>q256
-В любом случае...<end>
+В любом случае... <end>
 
 =>q257_original
 <end>
@@ -1585,7 +1585,7 @@ I need it to access Joint Security headquarters. There is a scanner there which 
 I see... Very well then. <end>
 
 =>q259
-Понятно...  Тогда хорошо.<end>
+Понятно...  Тогда хорошо. <end>
 
 =>a260_original
 I had a feeling I'd need that at some later point. Better do it while I'm there.<end>
@@ -1597,7 +1597,7 @@ I had a feeling I'd need that at some later point. Better do it while I'm there.
 I'll trust your judgement. <end>
 
 =>q261
-Я доверяю вашему мнению.<end>
+Я доверяю вашему мнению. <end>
 
 =>a262_original
 You believe me, though, right?<end>
@@ -1715,7 +1715,7 @@ Precisely!<end>
 This is your next destination, $(context.npc_xpbl_oldfield_playerName), Abyssal Station Zero. <end>
 
 =>q278
-Это ваш следующий пункт назначения, $(context.npc_xpbl_oldfield_playerName), Глубоководная станция Зеро.<end>
+Это ваш следующий пункт назначения, $(context.npc_xpbl_oldfield_playerName), Глубоководная станция Зеро. <end>
 
 =>q279_original
 In case that these elevators are no longer functional, there is still that submarine you can try to use. Although... I fear whether it could endure the depths.<end>
@@ -1727,7 +1727,7 @@ In case that these elevators are no longer functional, there is still that subma
 See Marcus about your well-earned bonus when you come back. <end>
 
 =>q280
-Когда вернётесь, спросите у Маркуса о своём заслуженном вознаграждении.<end>
+Когда вернётесь, спросите у Маркуса о своём заслуженном вознаграждении. <end>
 
 =>q281_original
 Best of luck, $(context.npc_xpbl_oldfield_playerName), best of luck. Oldfield out.<end>
@@ -1749,13 +1749,13 @@ The sec-chef, yes, the sec-chef is in charge of payments now. You'll find him in
 See the sec-chef about your bonus when you come back. <end>
 
 =>q283
-Когда вернётесь, обратитесь к шефу за премией.<end>
+Когда вернётесь, обратитесь к шефу за премией. <end>
 
 =>q284_original
 Hopefully those elevators still work. If not... There has to be another way. There has to be. <end>
 
 =>q284
-Надеюсь, эти лифты ещё работают. Если же нет... Должен быть другой путь. Должен.<end>
+Надеюсь, эти лифты ещё работают. Если же нет... Должен быть другой путь. Должен. <end>
 
 =>a285_original
 Exactly. And from this station I've just returned.<end>
@@ -1773,7 +1773,7 @@ Goodness me... It's best that we discuss this in the camp. Come here as soon as 
 Where... where was it taken? <end>
 
 =>q287
-Куда... куда его отвезли?<end>
+Куда... куда его отвезли? <end>
 
 =>a288_original
 The location is marked as Abyssal Station Zero Elevators. It is somewhere in the southeastern bay.<end>
@@ -1785,7 +1785,7 @@ The location is marked as Abyssal Station Zero Elevators. It is somewhere in the
 Abyssal Station Zero... <end>
 
 =>q289
-Глубоководная станция Зеро...<end>
+Глубоководная станция Зеро... <end>
 
 =>a290_original
 To Abyssal Station Zero. From which I've just returned.<end>
@@ -1821,7 +1821,7 @@ Yes I have.<end>
 Excellent. <end>
 
 =>q295
-Превосходно.<end>
+Превосходно. <end>
 
 =>a296_original
 Did you doubt me?<end>
@@ -1833,7 +1833,7 @@ Did you doubt me?<end>
 Not at all, $(context.npc_xpbl_oldfield_playerName), not at all. <end>
 
 =>q297
-Нисколько, $(context.npc_xpbl_oldfield_playerName), нисколько.<end>
+Нисколько, $(context.npc_xpbl_oldfield_playerName), нисколько. <end>
 
 =>a298_original
 Oh, did I.<end>
@@ -1875,7 +1875,7 @@ A deep-diving submarine, from the looks of it, over.<end>
 Remarkable! <end>
 
 =>q304
-Потрясающе!<end>
+Потрясающе! <end>
 
 =>q305_original
 But this Abyssal Station you're talking about... It is something completely new to me.<end>
@@ -1911,7 +1911,7 @@ There's only one way to find out.<end>
 Well, best of luck, $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q310
-Ну что ж, желаю удачи, $(context.npc_xpbl_oldfield_playerName).<end>
+Ну что ж, желаю удачи, $(context.npc_xpbl_oldfield_playerName). <end>
 
 =>q311_original
 You may become the first $(#man/woman) in two centuries to dive in a Lemurian submarine. 
@@ -2069,7 +2069,7 @@ Does Chief know about this?<end>
 ::He sighs.:: <end>
 
 =>q335
-::Он вздыхает.::<end>
+::Он вздыхает.:: <end>
 
 =>q336_original
 I see your point...<end>
@@ -2309,7 +2309,7 @@ Are you... out of your mind? You want to put... Wait, what implant? NFT's?<end>
 Uh... I'm not following you at all, but I still can't do that. <end>
 
 =>q374
-Эм... Я совершенно не понимаю, о чём вы, но я всё равно не могу этого сделать.<end>
+Эм... Я совершенно не понимаю, о чём вы, но я всё равно не могу этого сделать. <end>
 
 =>q375_original
 I don't have the proper tools, and not to mention all the other risks I see with a procedure like that in these conditions.<end>
@@ -2337,7 +2337,7 @@ Yes. I can't get past a bioscanning chamber at the military base to the north. M
 Sorry, $(context.player.Name), but I can't do that. <end>
 
 =>q378
-Извините, $(context.player.Name), но я не могу этого сделать.<end>
+Извините, $(context.player.Name), но я не могу этого сделать. <end>
 
 =>q379_original
 ::He sighs.:: What?<end>
@@ -2449,7 +2449,7 @@ We're in the camp. Over.<end>
 We've been ambushed by a giant hermit crab. Neutralized it before it could get close. This one was hiding in an NFT crate. Be on the lookout. <end>
 
 =>q396
-Нам устроил засаду гигантский краб-отшельник. Обезвредили его прежде, чем он успел приблизиться. Он прятался в ящике ТНГ. Будьте начеку.<end>
+Нам устроил засаду гигантский краб-отшельник. Обезвредили его прежде, чем он успел приблизиться. Он прятался в ящике ТНГ. Будьте начеку. <end>
 
 =>q397_original
 
@@ -2462,13 +2462,13 @@ Resuming mission, over.<end>
 We recently engaged giant insects capable of long-ranged attacks. They live in three to four meters tall hives and are highly defensive. We're trying to avoid these hives as much as possible but there is simply too many of them. <end>
 
 =>q398
-Недавно мы столкнулись с гигантскими насекомыми, способными совершать дальние атаки. Они живут в ульях высотой от трёх до четырёх метров и хорошо защищаются. Мы стараемся избегать этих ульев, насколько это возможно, но их просто слишком много.<end>
+Недавно мы столкнулись с гигантскими насекомыми, способными совершать дальние атаки. Они живут в ульях высотой от трёх до четырёх метров и хорошо защищаются. Мы стараемся избегать этих ульев, насколько это возможно, но их просто слишком много. <end>
 
 =>q399_original
 We engaged a group of natives. Neutralized one, the rest retreated. No casualties on our sides. <end>
 
 =>q399
-Мы вступили в бой с группой туземцев. Обезвредили одного, остальные отступили. С нашей стороны потерь нет.<end>
+Мы вступили в бой с группой туземцев. Обезвредили одного, остальные отступили. С нашей стороны потерь нет. <end>
 
 =>q400_original
 Nothing t--
@@ -2484,13 +2484,13 @@ Nothing t--
 Everything's okay. Your voice disturbed some bats. We have nothing new to report. <end>
 
 =>q401
-Всё в порядке. Ваш голос потревожил несколько летучих мышей. У нас пока ничего нового.<end>
+Всё в порядке. Ваш голос потревожил несколько летучих мышей. У нас пока ничего нового. <end>
 
 =>q402_original
 Nothing new to report. <end>
 
 =>q402
-Докладывать нечего.<end>
+Докладывать нечего. <end>
 
 =>q403_original
 We're on the move. Over.<end>
@@ -2614,7 +2614,7 @@ Report. Over.<end>
 We're... trying to pick off as many as we can... ::You hear gunfire and water splashing in the background.:: <end>
 
 =>q422
-Мы... будем отбиваться столько, сколько сможем... ::Вы слышите выстрелы и всплески воды на фоне.::<end>
+Мы... будем отбиваться столько, сколько сможем... ::Вы слышите выстрелы и всплески воды на фоне.:: <end>
 
 =>q423_original
 <end>
@@ -2648,7 +2648,7 @@ I hope it's just fatigue, but be ready for anything. Over.<end>
 The waters are calm at the moment. <end>
 
 =>q427
-На данный момент воды спокойны.<end>
+На данный момент воды спокойны. <end>
 
 =>q428_original
 Resuming patrol, over.<end>
@@ -2682,7 +2682,7 @@ A previously unreported kind of serpent attacked Sierra-Seven. He's okay. The sn
 All is clear at the moment. <end>
 
 =>q432
-На данный момент всё чисто.<end>
+На данный момент всё чисто. <end>
 
 =>q433_original
 This is Jenkins, over.<end>
@@ -2748,7 +2748,7 @@ Anybody there? Over.<end>
 Hey dere. <end>
 
 =>q443
-Эй там.<end>
+Эй там. <end>
 
 =>q444_original
 Who gave ye dis frequency?<end>
@@ -2802,7 +2802,7 @@ Fine, man, fine. I'm gone.<end>
 Dumbat... <end>
 
 =>q452
-Тупица...<end>
+Тупица... <end>
 
 =>q453_original
 <end>
@@ -2856,7 +2856,7 @@ This is the one and only - Invictus.<end>
 Dat ye $(context.player.Name)? <end>
 
 =>q461
-Это ты, $(context.player.Name)?<end>
+Это ты, $(context.player.Name)? <end>
 
 =>a462_original
 This is, um, $(#Jimmy/Jenny).<end>
@@ -2906,7 +2906,7 @@ No, it's me, $(context.player.Name), the new $(#guy/girl).<end>
 Oh, hey. <end>
 
 =>q468
-О, здоров.<end>
+О, здоров. <end>
 
 =>a469_original
 Yelloooooooooooooo...<end>
@@ -2918,7 +2918,7 @@ Yelloooooooooooooo...<end>
 Take it easy, banga, take it easy! Yer splittin' me ears. <end>
 
 =>q470
-Полегче, банга, полегче! Ты разрываешь мне уши.<end>
+Полегче, банга, полегче! Ты разрываешь мне уши. <end>
 
 =>a471_original
 Can anyone hear me?<end>
@@ -2930,7 +2930,7 @@ Can anyone hear me?<end>
 Yea, yea, I can hear ye. <end>
 
 =>q472
-Да-да, я тя слышу.<end>
+Да-да, я тя слышу. <end>
 
 =>a473_original
 I've got a gift for you...<end>
@@ -2942,7 +2942,7 @@ I've got a gift for you...<end>
 A gift? What kinda gift? Wait, who's dis? <end>
 
 =>q474
-Подарок? Чё за подарок? Погоди-ка, это кто?<end>
+Подарок? Чё за подарок? Погоди-ка, это кто? <end>
 
 =>a475_original
 AAAAAAAAAAAAAAAAAAAAAaaaaaAAAAAAAAaaaAAAAAAAAAAAAAAA!<end>
@@ -2987,7 +2987,7 @@ AAAAAAAAAAAAAAAAAAAAAaaaaaAAAAAAAAaaaAAAAAAAAAAAAAAA!<end>
 I ::static:: --n hear your jet. <end>
 
 =>q481
-Я ::помехи:: ...лышу твой гидроцикл.<end>
+Я ::помехи:: ...лышу твой гидроцикл. <end>
 
 =>q482_original
 Come to the fe-- ::static::.<end>
@@ -3405,7 +3405,7 @@ I can hear you, Professor. Over.<end>
 Oh, good, good. Besides <end>
 
 =>q548
-О, Хорошо, хорошо. Помимо<end>
+О, Хорошо, хорошо. Помимо <end>
 
 =>a549_original
 ::Put the device back in your pocket.::<end>
@@ -3471,7 +3471,7 @@ The matter is not of *utmost* urgency, but it is important and I'd rather delay 
 $(context.player.Name), this is Marcus. <end>
 
 =>q559
-$(context.player.Name), это Маркус.<end>
+$(context.player.Name), это Маркус. <end>
 
 =>q560_original
 <end>
@@ -3555,7 +3555,7 @@ Weren't there guards down there?<end>
 There were. Listen, <end>
 
 =>q573
-Была. Послушай,<end>
+Была. Послушай, <end>
 
 =>q574_original
 Chief Briggs wants you to meet him ASAP in the Keep, right at the entrance to the evacuation tunnels.
@@ -3607,7 +3607,7 @@ Where is he?<end>
 We don't know with certainty. Listen, <end>
 
 =>q581
-Мы не знаем наверняка. Послушай,<end>
+Мы не знаем наверняка. Послушай, <end>
 
 =>a582_original
 ::Put the device back in your pocket.::<end>
@@ -3619,7 +3619,7 @@ We don't know with certainty. Listen, <end>
 We have an emergency. <end>
 
 =>q583
-У нас чрезвычайная ситуация.<end>
+У нас чрезвычайная ситуация. <end>
 
 =>q584_original
 <end>
@@ -3779,13 +3779,13 @@ Attention all sec-troopers: We did it. The enemy has been defeated. I repeat: Th
 Attention all sec-troopers: The camp is under attack. I repeat - we are under attack. <end>
 
 =>q609
-Внимание всем спец-охранникам: лагерь атакован. Повторяю - мы атакованы.<end>
+Внимание всем спец-охранникам: лагерь атакован. Повторяю - мы атакованы. <end>
 
 =>q610_original
 It's the pirates this time. <end>
 
 =>q610
-На этот раз это пираты.<end>
+На этот раз это пираты. <end>
 
 =>q611_original
 <end>
@@ -3881,7 +3881,7 @@ We locked him up for now. We're going to try to get more information out of him.
 Good work, $(context.player.Name). Chief Briggs is pleased as well. You're getting a bonus for this. <end>
 
 =>q626
-Хорошая работа, $(context.player.Name). Шеф Бриггс тоже доволен. Тебе за это полагается премия.<end>
+Хорошая работа, $(context.player.Name). Шеф Бриггс тоже доволен. Тебе за это полагается премия. <end>
 
 =>q627_original
 And that first paycheck you didn't get originally.<end>
@@ -3911,7 +3911,7 @@ Are you going to throw him to the serpents?<end>
 No, what... No. <end>
 
 =>q631
-Нет, что ты... Нет.<end>
+Нет, что ты... Нет. <end>
 
 =>a632_original
 ::Put the device back in your pocket.::<end>
@@ -3924,4 +3924,3 @@ No, what... No. <end>
 
 =>a633
 ::Убрать устройство обратно в карман.::<end>
-

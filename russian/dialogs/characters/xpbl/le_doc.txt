@@ -218,7 +218,7 @@ Mmm?<end>
 ::He greets you with nervous twitching.:: <end>
 
 =>q36
-::Он приветствует вас, нервно вздрагивая.::<end>
+::Он приветствует вас, нервно вздрагивая.:: <end>
 
 =>q37_original
 Heard what happened.<end>
@@ -242,13 +242,13 @@ Thanks for ratting me out.<end>
 Hey, hey, hey, don't drag me into this. <end>
 
 =>q40
-Эй, эй, эй, не втягивайте меня в это.<end>
+Эй, эй, эй, не втягивайте меня в это. <end>
 
 =>q41_original
 You brought this on yourself. <end>
 
 =>q41
-Это ваша собственная вина.<end>
+Это ваша собственная вина. <end>
 
 =>q42_original
 Now, do you need anything before you leave or what?<end>
@@ -276,7 +276,7 @@ Now, is there anything you need? <end>
 =>q45
 Вы неплохо справлялись до сего времени, но в итоге накосячили. Вот и всё.
 
-Так вам что-нибудь нужно?<end>
+Так вам что-нибудь нужно? <end>
 
 =>q46_original
 Oh, and thanks for the help. ::He gestures smoking.:: Appreciate it.<end>
@@ -294,13 +294,13 @@ No one to blame but myself.<end>
 Mhm. <end>
 
 =>q48
-Мм.<end>
+Мм. <end>
 
 =>q49_original
 Mmm. Shame it turned out that way. <end>
 
 =>q49
-Мм. Жаль, что так получилось.<end>
+Мм. Жаль, что так получилось. <end>
 
 =>a50_original
 No one to blame but the chief himself.<end>
@@ -312,7 +312,7 @@ No one to blame but the chief himself.<end>
 Hey, you brought this on yourself. <end>
 
 =>q51
-Эй, это ваша вина.<end>
+Эй, это ваша вина. <end>
 
 =>a52_original
 About Chief Brigg's promotion to Major Piggs?<end>
@@ -324,13 +324,13 @@ About Chief Brigg's promotion to Major Piggs?<end>
 Look, look, I'm not in the mood to listen to your sulking. <end>
 
 =>q53
-Слушайте, я не в настроении выслушивать ваши обиды.<end>
+Слушайте, я не в настроении выслушивать ваши обиды. <end>
 
 =>q54_original
 Hey. Have some dignity. <end>
 
 =>q54
-Эй. Не позорьтесь.<end>
+Эй. Не позорьтесь. <end>
 
 =>a55_original
 I need some supplies. ::Barter.::<end>
@@ -366,7 +366,7 @@ Goodbye, Doc. Take care.<end>
 Came to stock up on medicine? <end>
 
 =>q60
-Пришли запастись медикаментами?<end>
+Пришли запастись медикаментами? <end>
 
 =>q61_original
 ::He sighs.:: Go see Chief Briggs. He wants to talk to you.<end>
@@ -434,7 +434,7 @@ Hang in there, Doc, just a bit more.<end>
 ::He sighs, closing a first aid kit and placing it inside a box.:: What... do you need? <end>
 
 =>q70
-::Он вздыхает, закрывая аптечку и кладя её в коробку.:: Что... вам нужно?<end>
+::Он вздыхает, закрывая аптечку и кладя её в коробку.:: Что... вам нужно? <end>
 
 =>a71_original
 I came here for some medical supplies before you pack it all up.<end>
@@ -458,7 +458,7 @@ Sure.<end>
 Mhm. <end>
 
 =>q74
-Мм.<end>
+Мм. <end>
 
 =>q75_original
 ::The doc pulls out a tool one could easily mistake for a precision torture device: It's an electronic implement with a cylindrical base - acting as its handle - which narrows into a hollow fifteen-centimeter-long rigid tube with numerous tiny needles inside it. Three ominous red lights, triangular in formation and positioned around the tube, flare up as the doc brings the whole apparatus closer to your hand.::<end>
@@ -486,7 +486,7 @@ He wipes the blood off it and hands it to you.:: Take it.<end>
 ::He cleans the extraction device, his stare lingering on the deadly-looking needles. He then sighs and puts it away.:: <end>
 
 =>q78
-::Он чистит инструмент для извлечения, его взгляд задерживается на очень острых иглах. Затем он вздыхает и убирает его.::<end>
+::Он чистит инструмент для извлечения, его взгляд задерживается на очень острых иглах. Затем он вздыхает и убирает его.:: <end>
 
 =>q79_original
 Anything else you need? Last chance before we get out of here.<end>
@@ -528,7 +528,7 @@ Are you... out of your mind? You want to put... Wait, what implant? NFT's?<end>
 Uh... I'm not following you at all, but I still can't do that. <end>
 
 =>q85
-Эм... Я совершенно не понимаю, о чём вы, но я всё равно не могу этого сделать.<end>
+Эм... Я совершенно не понимаю, о чём вы, но я всё равно не могу этого сделать. <end>
 
 =>q86_original
 I don't have the proper tools, and not to mention all the other risks I see with a procedure like that in these conditions.<end>
@@ -556,7 +556,7 @@ Yes. I can't get past a bioscanning chamber at the military base to the north. M
 Sorry, $(context.player.Name), but I can't do that. <end>
 
 =>q89
-Простите, $(context.player.Name), но я не могу этого сделать.<end>
+Простите, $(context.player.Name), но я не могу этого сделать. <end>
 
 =>q90_original
 ::He sighs.:: What?<end>
@@ -602,7 +602,7 @@ Does Chief know about this?<end>
 ::He sighs.:: <end>
 
 =>q96
-::Он вздыхает.::<end>
+::Он вздыхает.:: <end>
 
 =>q97_original
 I see your point...<end>
@@ -834,7 +834,7 @@ Not now...<end>
 ::He rubs his temples with trembling hands.:: I'm okay. Mhm. I'm okay. <end>
 
 =>q132
-::Он потирает виски дрожащими руками.:: Я в порядке. Хм. В порядке.<end>
+::Он потирает виски дрожащими руками.:: Я в порядке. Хм. В порядке. <end>
 
 =>q133_original
 Here's the deal, and it's quite simple: You know what agoraphobia is, right?<end>
@@ -904,7 +904,7 @@ You got it. Chief Briggs was very angry with Ladelman over the people he found. 
 These <end>
 
 =>q143
-Эти<end>
+Эти <end>
 
 =>q144_original
 men couldn't have stayed here. They would've gone absolutely mad.<end>
@@ -952,7 +952,7 @@ And that is why I need to closely monitor you people. We don't know who can hand
 Now tell me about this dream of yours. <end>
 
 =>q151
-А теперь расскажите о вашем сне.<end>
+А теперь расскажите о вашем сне. <end>
 
 =>a152_original
 I had this strange dream involving serpents...<end>
@@ -986,7 +986,7 @@ But... serpents, yes, serpents. <end>
 =>q156
 Насчёт *сигарет*. ::Он вздыхает.:: Я стоял в темноте, когда уловил запах... и увидел огонёк... клубы дыма...
 
-Но... змеи, да, змеи.<end>
+Но... змеи, да, змеи. <end>
 
 =>q157_original
 You're not the first<end>
@@ -1034,7 +1034,7 @@ Exactly. So all Southerners are having the same dreams?<end>
 ::He sighs.:: Yes, but you see, the problem is, <end>
 
 =>q164
-::Он вздыхает.:: Да, но понимаете, проблема в том, что...<end>
+::Он вздыхает.:: Да, но понимаете, проблема в том, что... <end>
 
 =>q165_original
 just after the last supply trip some sec-troopers have started to report dreaming the same things. No other symptoms of megalospelyncophobia, just the dreams.
@@ -1044,7 +1044,7 @@ It is not an unusual thing to dream about serpents when we're surrounded by them
 =>q165
 сразу после последней поставки некоторые охранники начали сообщать о том, что им стало сниться то же самое. Других симптомов мегалоспелинкофобии не было, только сны.
 
-В снах о змеях нет ничего необычного, если мы окружены ими.<end>
+В снах о змеях нет ничего необычного, если мы окружены ими. <end>
 
 =>q166_original
 But right now more than half the camp is dreaming the same dreams. Northerners *and* Southerners. Every time they go to sleep.<end>
@@ -1086,7 +1086,7 @@ Psionics, maybe.<end>
 That's something I can neither confirm nor deny. <end>
 
 =>q172
-Это я не могу ни подтвердить, ни опровергнуть.<end>
+Это я не могу ни подтвердить, ни опровергнуть. <end>
 
 =>q173_original
 ::He sighs.:: I think we're dealing with a whole new phenomenon here - a form of collective mental states, a collective anxiety. It may or may not have stemmed from Southerners' megalospelyncophobia, but it was certainly a factor.<end>
@@ -1128,13 +1128,13 @@ It's the water. It's always the water.<end>
 ::He shakes his head.:: No, no, we treat all our water. <end>
 
 =>q179
-::Он качает головой.:: Нет-нет, мы все очищаем воду.<end>
+::Он качает головой.:: Нет-нет, мы все очищаем воду. <end>
 
 =>a180_original
 I don't know. <end>
 
 =>a180
-Я не знаю.<end>
+Я не знаю. <end>
 
 =>a181_original
 What do you make of it, Doc?<end>
@@ -1146,7 +1146,7 @@ What do you make of it, Doc?<end>
 But up until recently more than half the camp was dreaming the same dreams. Northerners *and* Southerners. Every time they go to sleep. Then they abruptly stopped. <end>
 
 =>q182
-Но до недавнего времени более половине лагеря снились те же самые сны. Северянам *и* южанам. Каждый раз, когда люди ложились спать. Затем резко перестали.<end>
+Но до недавнего времени более половине лагеря снились те же самые сны. Северянам *и* южанам. Каждый раз, когда люди ложились спать. Затем резко перестали. <end>
 
 =>a183_original
 When did they stop?<end>
@@ -1230,13 +1230,13 @@ I was a mighty serpent. I felt strong and triumphant as I was eating this little
 *You*... were a serpent? ::He sighs.:: That is very unusual. <end>
 
 =>q196
-*Вы*... были змеем? ::Он вздыхает.:: Это крайне необычно.<end>
+*Вы*... были змеем? ::Он вздыхает.:: Это крайне необычно. <end>
 
 =>q197_original
 And there is another problem, as <end>
 
 =>q197
-Есть ещё одна проблема:<end>
+Есть ещё одна проблема: <end>
 
 =>q198_original
 <end>
@@ -1306,7 +1306,7 @@ Anyway, these <end>
 =>q208
 ::Он вздыхает.:: Вы здесь были ещё не так долго... Я не знаю, люди разные. Я... я не знаю.
 
-Так или иначе, эти<end>
+Так или иначе, эти <end>
 
 =>a209_original
 I see.<end>
@@ -1324,7 +1324,7 @@ I had a strange dream...<end>
 Did you? We'll get to that. But all in all, these <end>
 
 =>q211
-Да? Мы ещё вернёмся к этому. В общем, эти<end>
+Да? Мы ещё вернёмся к этому. В общем, эти <end>
 
 =>a212_original
 No.<end>
@@ -1372,7 +1372,7 @@ And...?<end>
 ::He sighs.:: Never mind. <end>
 
 =>q219
-::Он вздыхает.:: Не важно.<end>
+::Он вздыхает.:: Не важно. <end>
 
 =>q220_original
 I'm not even smoking anymore, apparently, because I haven't brought enough to last me the entire expedition and that damn Ladelman didn't bring me any from Core City.<end>
@@ -1414,7 +1414,7 @@ I suppose it isn't.<end>
 ::He sighs.:: Never mind me. Long day. <end>
 
 =>q226
-::Он вздыхает.:: Не обращайте на меня внимания. Тяжёлый день.<end>
+::Он вздыхает.:: Не обращайте на меня внимания. Тяжёлый день. <end>
 
 =>a227_original
 It's not good for you.<end>
@@ -1462,7 +1462,7 @@ Our medical team is quite small, whereas the amount of people that need our assi
  and me. All other sec-medics are dead. <end>
 
 =>q234
-, и я. Все остальные спец-медики мертвы.<end>
+ , и я. Все остальные спец-медики мертвы. <end>
 
 =>q235_original
 <end>
@@ -1573,7 +1573,7 @@ I get to catch a break from time to time.<end>
 ::He sighs.:: <end>
 
 =>q252
-::Он вздыхает.::<end>
+::Он вздыхает.:: <end>
 
 =>a253_original
 What should I be worried about the most while I'm here?<end>
@@ -1585,7 +1585,7 @@ What should I be worried about the most while I'm here?<end>
 ::He rubs his temples with trembling hands.:: <end>
 
 =>q254
-::Он дрожащими руками потирает виски.::<end>
+::Он дрожащими руками потирает виски.:: <end>
 
 =>q255_original
 First and foremost, never drink untreated water. If you absolutely must, however - boil it first. The water's full of bacteria, parasites - even toxic chemicals. We use AquaCleans to treat the water, so it's as safe to drink as it possibly can.<end>
@@ -1655,7 +1655,7 @@ Death.<end>
 ::He sighs.:: <end>
 
 =>q265
-::Он вздыхает.::<end>
+::Он вздыхает.:: <end>
 
 =>a266_original
 Wanna cigar?<end>
@@ -2047,7 +2047,7 @@ Wait... <end>
 =>q325
 ::Он хватается за голову.:: О-о-ох...
 
-Подождите...<end>
+Подождите... <end>
 
 =>a326_original
 Tell me about collective anxiety.<end>
@@ -2059,7 +2059,7 @@ Tell me about collective anxiety.<end>
 ::He rubs his temples with trembling hands.:: <end>
 
 =>q327
-::Он дрожащими руками потирает виски.::<end>
+::Он дрожащими руками потирает виски.:: <end>
 
 =>q328_original
 Mmm. It is a *sociogenic* mental condition which affects an entire community, sociogenic meaning that it is caused by purely social means, as an aggregate of individual conditions. In our case, the symptoms of megalospelyncophobia have "spread" purely through social interaction and general proximity to those who experience them, to other individuals in the community. 
@@ -2151,7 +2151,7 @@ Gotta go, Doc. Take care.<end>
 ::He then cleans and puts away the extraction device.:: <end>
 
 =>q341
-::Затем он чистит и убирает инструмент для извлечения.::<end>
+::Затем он чистит и убирает инструмент для извлечения.:: <end>
 
 =>a342_original
 Yeah, I almost forgot about that. Let's get this thing out.<end>
@@ -2187,7 +2187,7 @@ Already took care of it, Doc.<end>
 ::His eyes twitches.:: <end>
 
 =>q347
-::Его глаза дёргаются.::<end>
+::Его глаза дёргаются.:: <end>
 
 =>q348_original
 Very well then.<end>
@@ -2255,13 +2255,13 @@ You're quitting, Doc?<end>
 ::He sighs.:: <end>
 
 =>q357
-::Он вздыхает.::<end>
+::Он вздыхает.:: <end>
 
 =>q358_original
 Figured, if I made it through all of this without cigarettes, the thing that relaxed me the most... I don't need them anymore. <end>
 
 =>q358
-Полагаю, если я пройду через всё это без сигарет, то это расслабит меня лучше всего... Они мне больше не нужны.<end>
+Полагаю, если я пройду через всё это без сигарет, то это расслабит меня лучше всего... Они мне больше не нужны. <end>
 
 =>q359_original
 I still got a headache, but that'll pass. Nothing some good rest won't cure.<end>
@@ -2303,7 +2303,7 @@ Why'd you throw it away?<end>
 ::He sighs.:: I don't need it anymore. I'm quitting. <end>
 
 =>q365
-::Он вздыхает.:: Мне это больше не нужно. Я завязываю.<end>
+::Он вздыхает.:: Мне это больше не нужно. Я завязываю. <end>
 
 =>q366_original
 ::He closes a first aid kit.:: What! Can't you see I'm busy?
@@ -2592,7 +2592,7 @@ What's wrong, Doc?<end>
 I... I... It's happening again. <end>
 
 =>q410
-Э.. э.. это случилось снова.<end>
+Э.. э.. это случилось снова. <end>
 
 =>q411_original
 That cigar you gave me... the sweet, sweet thing. ::His eyes are gleaming.:: I felt pure bliss when I drew the first smoke... and all the pain, the headaches... everything was gone.<end>
@@ -2604,13 +2604,13 @@ That cigar you gave me... the sweet, sweet thing. ::His eyes are gleaming.:: I f
 ::But then his eyes flare up.:: And then it came back with a vengeance! It's worse than before. <end>
 
 =>q412
-::Но затем его глаза вспыхивают.:: А потом она вернулась с удвоенной силой! Стало хуже, чем раньше.<end>
+::Но затем его глаза вспыхивают.:: А потом она вернулась с удвоенной силой! Стало хуже, чем раньше. <end>
 
 =>q413_original
 And the dreams... the dreams... <end>
 
 =>q413
-И эти сны... сны...<end>
+И эти сны... сны... <end>
 
 =>q414_original
 Keep them away from me! Keep them away!<end>
@@ -2628,7 +2628,7 @@ Not again!<end>
 ::He nods quickly a few times.:: <end>
 
 =>q416
-::Он быстро кивает несколько раз.::<end>
+::Он быстро кивает несколько раз.:: <end>
 
 =>a417_original
 I see you need another cigar.<end>
@@ -2640,7 +2640,7 @@ I see you need another cigar.<end>
 No, no, no! Get those things away from me! ::He pulls on his hair with both of his hands.:: <end>
 
 =>q418
-Нет, нет, нет! Уберите это от меня! ::Он обеими руками тянет себя за волосы.::<end>
+Нет, нет, нет! Уберите это от меня! ::Он обеими руками тянет себя за волосы.:: <end>
 
 =>a419_original
 I needed something...<end>
@@ -2688,7 +2688,7 @@ That's rather unhygienic.<end>
 I'll show you un--! <end>
 
 =>q424
-Я тебе дам, неги...<end>
+Я тебе дам, неги... <end>
 
 =>q425_original
 ::He sighs.:: Sorry. Sorry. I'm fine. W-what's bothering you?<end>
@@ -2706,7 +2706,7 @@ I think you need help.<end>
 You'll need help whe--! <end>
 
 =>q427
-Это тебе помощь понадобится, ког...<end>
+Это тебе помощь понадобится, ког... <end>
 
 =>q428_original
 ::He runs his trembling fingers through his mustache while addressing you.::
@@ -2872,7 +2872,7 @@ In case you haven't heard, Chief Briggs has been killed in action. ::He falls si
 ::He sighs.:: Just zipped up <end>
 
 =>q450
-::Он вздыхает.:: Только что застегнул<end>
+::Он вздыхает.:: Только что застегнул <end>
 
 =>q451_original
 Marcus and Ladelman.<end>
@@ -2947,4 +2947,3 @@ Where does it hurt?<end>
 
 =>q461
 Где болит?<end>
-

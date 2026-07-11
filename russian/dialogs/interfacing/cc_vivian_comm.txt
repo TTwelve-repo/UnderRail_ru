@@ -26,7 +26,7 @@ Hey, the elevator is working! Lovely! You did it, $(context.player.Name)! Come u
 ::You hear Vivian's worried voice over the speaker.:: $(context.player.Name)! $(context.player.Name)! Can you hear me? Are you okay? <end>
 
 =>q5
-::Вы слышите встревоженный голос Вивиан в динамике.:: $(context.player.Name)! $(context.player.Name)! Вы меня слышите? Вы в порядке?<end>
+::Вы слышите встревоженный голос Вивиан в динамике.:: $(context.player.Name)! $(context.player.Name)! Вы меня слышите? Вы в порядке? <end>
 
 =>a6_original
 I'm fine, but I can't seem to get back up. What is this place?<end>
@@ -356,7 +356,7 @@ I'm in a room full of work tables, shelves with all sorts of equipment and some 
 That sounds like the maintenance room. <end>
 
 =>q58
-Похоже на техническое помещение.<end>
+Похоже на техническое помещение. <end>
 
 =>q59_original
 Maybe you can find some useful equipment. It's a maintenance room after all.<end>
@@ -621,4 +621,3 @@ I read you.<end>
 
 =>q102
 Я слышу вас.<end>
-

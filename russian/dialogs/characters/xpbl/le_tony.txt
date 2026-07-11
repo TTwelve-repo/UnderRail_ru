@@ -48,7 +48,7 @@ Here you go. ::Give him fifty stygian coins.::<end>
 Yeeeeeah! <end>
 
 =>q8
-Да-а-а-а-а-а!<end>
+Да-а-а-а-а-а! <end>
 
 =>q9_original
 ::To your and Marcus' surprise ::<end>
@@ -140,13 +140,13 @@ Is there a way for me to get a better jet ski around here?<end>
 Well, you got the Patroller now. That thing's a lot more hardcore than that piece o' junk you started with. <end>
 
 =>q22
-Ну, у тебя уже есть патрульный. Эта штука гораздо более хардкорная, чем та штука, с которой ты начинал$(#/а).<end>
+Ну, у тебя уже есть патрульный. Эта штука гораздо более хардкорная, чем та штука, с которой ты начинал$(#/а). <end>
 
 =>q23_original
 If you want somethin' better... ::He leans closer so that Marcus couldn't hear him.:: <end>
 
 =>q23
-Если ты хочешь что-то получше... ::Он наклоняется ближе, чтобы Маркус его не услышал.::<end>
+Если ты хочешь что-то получше... ::Он наклоняется ближе, чтобы Маркус его не услышал.:: <end>
 
 =>q24_original
 You could jet out of the Black Sea and visit Ray's Shop at the Core City docks, eastern section, where we were at, remember?
@@ -173,7 +173,7 @@ In and out, no one'll know.<end>
 However... <end>
 
 =>q27
-Однако...<end>
+Однако... <end>
 
 =>q28_original
 Yeah, $(context.npc_xpbl_ladelman_playerName), I hear ya. A crappy jet feels like bettin' your coins on a challenger who uses 'is *actual* name. 
@@ -183,13 +183,13 @@ Uh, not that it ever happened to me, nah. <end>
 =>q28
 Ага, $(context.npc_xpbl_ladelman_playerName), я тебя понимаю. Дерьмовый гидроцикл кажется, как будто ты ставишь свои деньги на противника, которому больше подходит это "настоящее" имя.
 
-Ух, не то, что это когда-либо случалось со мной, ха-ха.<end>
+Ух, не то, что это когда-либо случалось со мной, ха-ха. <end>
 
 =>q29_original
 Anyway, listen: <end>
 
 =>q29
-Так или иначе, послушай вот что:<end>
+Так или иначе, послушай вот что: <end>
 
 =>a30_original
 I need some parts for my jet ski. Do you happen to sell any?<end>
@@ -207,13 +207,13 @@ I can only sell you vehicle repair kits. Everythin' else's strictly regulated, a
 Anyway, see Ray. He'll have anythin' you need. <end>
 
 =>q32
-Так или иначе, сходи к Рэю. У него есть всё, что тебе нужно.<end>
+Так или иначе, сходи к Рэю. У него есть всё, что тебе нужно. <end>
 
 =>q33_original
 But... ::He leans closer so that Marcus couldn't hear him.:: <end>
 
 =>q33
-Но... ::Он наклоняется ближе, чтобы Маркус его не услышал.::<end>
+Но... ::Он наклоняется ближе, чтобы Маркус его не услышал.:: <end>
 
 =>a34_original
 Where did you say Ray's shop was?<end>
@@ -225,7 +225,7 @@ Where did you say Ray's shop was?<end>
 At the eastern docks in Core City. <end>
 
 =>q35
-В восточных доках в Кор-Сити.<end>
+В восточных доках в Кор-Сити. <end>
 
 =>a36_original
 Have you ever worked for Ray? It seems kind of an obvious choice for you.<end>
@@ -277,13 +277,13 @@ I need some help fighting on a jet ski.<end>
 Wait, wait, wait... <end>
 
 =>q43
-Постой, постой, постой...<end>
+Постой, постой, постой... <end>
 
 =>q44_original
 The Invictus $(#him/her)self <end>
 
 =>q44
-Сам$(#/а) Инвиктус<end>
+Сам$(#/а) Инвиктус <end>
 
 =>q45_original
 is asking *me* for help with fighting? Me?
@@ -333,7 +333,7 @@ So, can you give me a few tips?<end>
 I can give you more than a tip - I could teach you some basic naval combat. <end>
 
 =>q51
-Я могу дать тебе больше, чем совет - я могу научить тебя основным принципам морского боя.<end>
+Я могу дать тебе больше, чем совет - я могу научить тебя основным принципам морского боя. <end>
 
 =>q52_original
 For you, totally free of charge.<end>
@@ -363,7 +363,7 @@ Let's get going.<end>
 Fifty coins and I got you covered. <end>
 
 =>q56
-Пятьдесят монет, и я обо всём позабочусь.<end>
+Пятьдесят монет, и я обо всём позабочусь. <end>
 
 =>a57_original
 Thank you, thank you. Now, can you help me?<end>
@@ -387,7 +387,7 @@ So...<end>
 A seasoned gladiator <end>
 
 =>q60
-Опытн$(#ый/ая) гладиатор$(#/ша)<end>
+Опытн$(#ый/ая) гладиатор$(#/ша) <end>
 
 =>a61_original
 I got other questions.<end>
@@ -475,7 +475,7 @@ How can you boast about your sister being a prostitute?<end>
 Hey, hey, Lilly ain't no disease-ridden zoner-grinder. She's got standards! She's got the looks and the charm... and that's why my sweet little sis lives a better *pipeworkin'* life than me! Got this nice place in Core City, food, water, fine clothes, *coins*... while I'm 'ere <end>
 
 =>q74
-Эй, эй, Лилли не какая-нибудь заразная точильщица-зонер. У неё есть стандарты! У неё есть внешность и очарование... и вот почему моя милая маленькая сестрёнка живёт лучшей *трубочисткой* жизнью, чем я! А у меня есть это милое местечко в Кор-Сити, еда, вода, хорошая одежда, *монеты*... пока я здесь<end>
+Эй, эй, Лилли не какая-нибудь заразная точильщица-зонер. У неё есть стандарты! У неё есть внешность и очарование... и вот почему моя милая маленькая сестрёнка живёт лучшей *трубочисткой* жизнью, чем я! А у меня есть это милое местечко в Кор-Сити, еда, вода, хорошая одежда, *монеты*... пока я здесь <end>
 
 =>q75_original
 waitin' to get zoned out.<end>
@@ -511,7 +511,7 @@ Did you seriously call Todd a pipeworker?<end>
 Yeeeeeah! <end>
 
 =>q80
-Да-а-а-а-а-а!<end>
+Да-а-а-а-а-а! <end>
 
 =>q81_original
 The Lemurian almost got a heart attack when Ladelman jumped out of the tent, yelling "hardcore" and "Where's my pipeworker?".<end>
@@ -527,13 +527,13 @@ And he's not *just* a Lemurian: He's one and a half Lemurians with the weight he
 =>q82
 Ну же, Марки, я просто пытался быть дружелюбным! Он нравиться мне!
 
-И он не "просто" лемурийец: он полтора лемурийца, плюс ещё вес его пениса, бха-ха-ха-ха!<end>
+И он не "просто" лемурийец: он полтора лемурийца, плюс ещё вес его пениса, бха-ха-ха-ха! <end>
 
 =>q83_original
 Anyway, he <end>
 
 =>q83
-Так или иначе, у него<end>
+Так или иначе, у него <end>
 
 =>q84_original
 had trouble - how do you say - interepertin'... uh, figurin' out what I was sayin' and thought I called 'im a *piper*. So he kept repetin' that... before the sec-trooper took 'im away to Ginger.
@@ -573,7 +573,7 @@ Did you just hear that, $(context.npc_xpbl_ladelman_playerName), did you? Marky'
 He <end>
 
 =>q89
-У него<end>
+У него <end>
 
 =>a90_original
 I wanted to ask you about some of the people in this camp.<end>
@@ -585,7 +585,7 @@ I wanted to ask you about some of the people in this camp.<end>
 Eh... Fewer and fewer left to talk about, $(context.npc_xpbl_ladelman_playerName). <end>
 
 =>q91
-Э-э... Всё меньше и меньше остаётся с кем поговорить, $(context.npc_xpbl_ladelman_playerName).<end>
+Э-э... Всё меньше и меньше остаётся с кем поговорить, $(context.npc_xpbl_ladelman_playerName). <end>
 
 =>q92_original
 How about we discuss somethin' else? What do you say?<end>
@@ -789,7 +789,7 @@ Do you know where the Wardell residence is? That's where I'm living right now.<e
 You son of a fat rat... <end>
 
 =>q123
-Ты сын жирной крысы...<end>
+Ты сын жирной крысы... <end>
 
 =>q124_original
 Who'd you zone out to-- Oh, wait... Right.<end>
@@ -801,7 +801,7 @@ Who'd you zone out to-- Oh, wait... Right.<end>
 Anyways, <end>
 
 =>q125
-В любом случае,<end>
+В любом случае, <end>
 
 =>q126_original
 I got here 'cause of my pal Danky Max. He told me some wimps from the North were lookin' for a guide.<end>
@@ -847,7 +847,7 @@ Joe De Pacino, an ancient rathound with psionic powers and a gang of mercenaries
 Hm. Fair enough. <end>
 
 =>q132
-Хм, вопросов нет...<end>
+Хм, вопросов нет... <end>
 
 =>q133_original
 Welcome to the neighborhood, neighbor.<end>
@@ -901,7 +901,7 @@ Some Tchortists.<end>
 Ugh, Tchortists. <end>
 
 =>q141
-Тьфу, чортисты.<end>
+Тьфу, чортисты. <end>
 
 =>a142_original
 No one. I earned it through hard work.<end>
@@ -913,7 +913,7 @@ No one. I earned it through hard work.<end>
 If hard work's all it takes I'd be a pipeworkin' oligarch right now. <end>
 
 =>q143
-Если тяжёлая работа - это всё, что нужно, я уже был бы трубочистким олигархом.<end>
+Если тяжёлая работа - это всё, что нужно, я уже был бы трубочистким олигархом. <end>
 
 =>a144_original
 Hard work... for the right people.<end>
@@ -1043,7 +1043,7 @@ Maybe she should've augmented her attitude a bit. The chick<end>
 was <end>
 
 =>q163
-Разве жизнь не прекрасна, Марки? У меня было то же самое чувство, когда я вместо сборки ручных гранат занялся ремонтом пулемётов. Простая, более безопасная работа, которая лучше оплачивалась, и поближе к хозяйской дочке, горячей блондиночке... Если подумать, то я и потерял эту работу из-за неё. Так-то вот.<end>
+Разве жизнь не прекрасна, Марки? У меня было то же самое чувство, когда я вместо сборки ручных гранат занялся ремонтом пулемётов. Простая, более безопасная работа, которая лучше оплачивалась, и поближе к хозяйской дочке, горячей блондиночке... Если подумать, то я и потерял эту работу из-за неё. Так-то вот. <end>
 
 =>q164_original
 actin' like she's the chief herself. I mean, if you wanna be the boss of me, you gotta have *some* curves, baby. Yeeeah!<end>
@@ -1135,7 +1135,7 @@ Well, she is second in command here. Not saying she is not a bit difficult somet
 's <end>
 
 =>q177
-Разве жизнь не прекрасна, Марки? У меня было то же самое чувство, когда я вместо сборки ручных гранат занялся ремонтом пулемётов. Простая, более безопасная работа, которая лучше оплачивалась, и поближе к хозяйской дочке, горячей блондиночке... Если подумать, то я и потерял эту работу из-за неё. Так-то вот.<end>
+Разве жизнь не прекрасна, Марки? У меня было то же самое чувство, когда я вместо сборки ручных гранат занялся ремонтом пулемётов. Простая, более безопасная работа, которая лучше оплачивалась, и поближе к хозяйской дочке, горячей блондиночке... Если подумать, то я и потерял эту работу из-за неё. Так-то вот. <end>
 
 =>q178_original
 She is what we call a *security specialist*.<end>
@@ -1559,7 +1559,7 @@ I'll give you batteries...
 ::He turns to you.:: <end>
 
 =>q240
-::Он поворачивается к вам.::<end>
+::Он поворачивается к вам.:: <end>
 
 =>a241_original
 ::[Chemistry]:: Ever mixed chemicals?<end>
@@ -1647,7 +1647,7 @@ One of my more recent jobs was workin' as a door-to-door salesman for a new line
 Unfortunately, it turned out they had defective power cells and started explodin'. Guess I stayed with malnourished rats, bwahaha! <end>
 
 =>q252
-К сожалению, оказалось, что в них были дефектные элементы питания и они начали взрываться. Похоже, я остался с истощёнными крысами, бха-ха-ха!<end>
+К сожалению, оказалось, что в них были дефектные элементы питания и они начали взрываться. Похоже, я остался с истощёнными крысами, бха-ха-ха! <end>
 
 =>a253_original
 ::[Intimidation]:: You'd pass for a bouncer.<end>
@@ -1717,7 +1717,7 @@ Here we go.<end>
 ::Then he lets his face droop.:: Mmm. Another *Savage* joke... ::He sighs.:: <end>
 
 =>q261
-::Потом серьёзность сходит с его лица.:: М-м-м. Ещё одна *Дикая* шутка... ::Он вздыхает.::<end>
+::Потом серьёзность сходит с его лица.:: М-м-м. Ещё одна *Дикая* шутка... ::Он вздыхает.:: <end>
 
 =>q262_original
 ::Then he brings his fingers and thumbs together into an "O" shape and puts them over his eyes.:: 
@@ -1877,7 +1877,7 @@ Sorry to disappoint you, $(context.npc_xpbl_ladelman_playerName), but I'd never 
 ::He then leans closer and whispers.:: <end>
 
 =>q283
-::Затем он наклоняется ближе и шепчет.::<end>
+::Затем он наклоняется ближе и шепчет.:: <end>
 
 =>q284_original
 But His Domination, the Invictus would never reveal it to 'im, right?<end>
@@ -2085,7 +2085,7 @@ The chief wants to see you. Seemed pissed off, so good luck.<end>
 Hey, $(context.npc_xpbl_ladelman_playerName). Stoppin' by one last time before <end>
 
 =>q317
-Эй, $(context.npc_xpbl_ladelman_playerName). Решил$(#/а) зайти в последний раз перед<end>
+Эй, $(context.npc_xpbl_ladelman_playerName). Решил$(#/а) зайти в последний раз перед <end>
 
 =>q318_original
 we leave?<end>
@@ -2331,13 +2331,13 @@ Hey there. What's up?<end>
 ::He takes a deep breath.:: <end>
 
 =>q356
-::Он делает глубокий вдох.::<end>
+::Он делает глубокий вдох.:: <end>
 
 =>q357_original
 We got ourselves one big-ass hardcore dominatin' Naga-trooper patrollin' the beaches. <end>
 
 =>q357
-Теперь у нас есть хардкорный доминируюищий огромный Нага-солдат, который патрулирует пляжи.<end>
+Теперь у нас есть хардкорный доминируюищий огромный Нага-солдат, который патрулирует пляжи. <end>
 
 =>q358_original
 Imagine that thing in the Arena... Yeeeeeah.<end>
@@ -2408,4 +2408,3 @@ Feels... strange without Briggsy around. Uh, Chief. Chief.<end>
 
 =>q368
 ::Он бросает в сторону пустой ящик с боеприпасами.:: Этот пуст...<end>
-

@@ -6,7 +6,7 @@ There's no way we're going back in there again. The place was a bloody nightmare
 =>q1
 ::Звук ваших шагов по лестнице ненадолго прерывает беседу. Однако, когда вы приближаетесь, она продолжается с того, на чём остановилась. ::
 
-Это место было настоящим кровавым кошмаром, говорю же тебе. ::Они поворачиваются к вам, и на мгновение распорядитель буровой кажется удивлённым вашим появлением.::<end>
+Это место было настоящим кровавым кошмаром, говорю же тебе. ::Они поворачиваются к вам, и на мгновение распорядитель буровой кажется удивлённым вашим появлением.:: <end>
 
 =>q2_original
 This is the $(#guy/girl) I've told you about. Glad to see Ion has brought you here. How's it been? ::It would seem that the return to her home has restored her completely. She seems genuinely happy to see you, as she has a huge grin on her face.::<end>
@@ -76,13 +76,13 @@ Have you made some changes?<end>
 We'll have to keep it clean goin' forward. Everyone's out there to get us. ::He glances over at the windows.:: With Kaya by my side now, we're not backin' down. <end>
 
 =>q12
-Мы не забросим это место, и будем двигаясь только вперёд. Так мы приблизимся к тому, кем были друг для друга когда-то. ::Он бросает взгляд на окна.:: Теперь, когда Кая рядом со мной, мы не отступим.<end>
+Мы не забросим это место, и будем двигаясь только вперёд. Так мы приблизимся к тому, кем были друг для друга когда-то. ::Он бросает взгляд на окна.:: Теперь, когда Кая рядом со мной, мы не отступим. <end>
 
 =>a13_original
 What about the Protectorate? <end>
 
 =>a13
-А что насчёт Протектората?<end>
+А что насчёт Протектората? <end>
 
 =>q14_original
 They know little of the new situation here. We are still decidin' what to do about 'em. Considerin' everythin', it's in our best interest to maintain our rep with the bastards. We can't afford any more trouble... for now. Soon... there'll be a time and place... just for that.<end>
@@ -112,13 +112,13 @@ Are you concerned with the pirate raids?<end>
 Jetters have caused so much disturbance to what we have tried to establish 'ere. The Protectorate's finest now sleep with the fishes. They've had to have some insiders in there. Still hard to believe it all, you know? <end>
 
 =>q18
-Всадники серьёзно пошатнули тот порядок, который мы пытались здесь установить. Лучшие люди Протектората теперь покоятся с рыбками. Должно быть, они внедрили кого-то из своих людей. До сих пор сложно во всё это поверить, понимаешь?<end>
+Всадники серьёзно пошатнули тот порядок, который мы пытались здесь установить. Лучшие люди Протектората теперь покоятся с рыбками. Должно быть, они внедрили кого-то из своих людей. До сих пор сложно во всё это поверить, понимаешь? <end>
 
 =>q19_original
 Their efforts are staggerin' for sure, but they don't stand a chance against us. <end>
 
 =>q19
-Их успехи, конечно, ошеломляют, но у них всё равно нет ни единого шанса против нас.<end>
+Их успехи, конечно, ошеломляют, но у них всё равно нет ни единого шанса против нас. <end>
 
 =>a20_original
 How naive of you to let me in here. I'll sink the Rig! ::Attack!::<end>
@@ -136,7 +136,7 @@ Glad to hear all of that. Is there anything else?<end>
 That would be all for now. At this point, The Rig will have to wait for any new... gang members. Ion's waiting for you outside. I've left a little something for your efforts. It should suffice for all the trouble. ::She winks.:: <end>
 
 =>q22
-Пока всё. На этом этапе Буровой придётся искать новых... членов банды. Сейчас Ион ждёт тебя снаружи. Я кое-что оставила для вашего подспорья. Этого должно хватить на все неприятности. ::Она подмигивает.::<end>
+Пока всё. На этом этапе Буровой придётся искать новых... членов банды. Сейчас Ион ждёт тебя снаружи. Я кое-что оставила для вашего подспорья. Этого должно хватить на все неприятности. ::Она подмигивает.:: <end>
 
 =>q23_original
 Restorin' the family has a price none could ever repay easily. You have my respect... ::He bows slightly.:: Good luck, huntin' and scrappin'.<end>
@@ -475,7 +475,7 @@ It was ourselves that tore everything apart. Most of all... the two of us... Amb
 =>q76
 Не было ни одного чёртового дела, над которым бы мы не работали вместе. Мы знали пещеры как свои пять пальцев; каждый камень, каждую щепочку... ::Она смотрит на землю.:: Не было ничего, что могло бы нас остановить. И именно поэтому мы зашли... так далеко.
 
-Это мы сами всё разорвали на части. Больше всего... мы сами... Амбиции, возможности погасили в нас старые привычки... возможно, уже навсегда.<end>
+Это мы сами всё разорвали на части. Больше всего... мы сами... Амбиции, возможности погасили в нас старые привычки... возможно, уже навсегда. <end>
 
 =>a77_original
 Why do they see you as a traitor?<end>
@@ -539,7 +539,7 @@ I'm a corporal of the Protectorate. We can provide you with cover.<end>
 You... with them too? Ugh... I guess that makes us... allies of sorts. <end>
 
 =>q86
-Так ты... тоже с ними? Ну... думаю, это делает нас, в каком-то смысле, союзниками.<end>
+Так ты... тоже с ними? Ну... думаю, это делает нас, в каком-то смысле, союзниками. <end>
 
 =>a87_original
 That is correct. And we take good care of all who share our common goals. The Protectorate will provide a secure shelter for you.<end>
@@ -1011,7 +1011,7 @@ I've fought my way through here. Bunch of mutants and other creatures were in my
 You... alone? ::Your words bring back some confidence into her.:: Maybe... there's an out after all... <end>
 
 =>q164
-Ты... в одиночку? ::Ваши слова возвратили ей немного уверенности.:: Возможно, всё-таки есть выход...<end>
+Ты... в одиночку? ::Ваши слова возвратили ей немного уверенности.:: Возможно, всё-таки есть выход... <end>
 
 =>a165_original
 There are still a few left. Let's just say it was manageable. I'd like to know how you ended up in this cave?<end>
@@ -1023,7 +1023,7 @@ There are still a few left. Let's just say it was manageable. I'd like to know h
 ::Her eyes now look past you, seemingly focused on to nothing.:: Likely the same way you did... Through the opening in the... waterways. We sailed from The Rig. Sent by my brother, the Rigmaster. ::She shakes her head.:: Our group rode in... pumped for some action. And it all went well until... <end>
 
 =>q166
-::Сейчас её взгляд проходит сквозь вас, ни за что не цепляясь.:: Скорее всего, так же, как и вы... Через огромный пролом. Вас прислал мой брат начальник Буровой. ::Она водит головой из стороны в сторону.:: Он отправил нас сюда, чтобы мы осмотрелись, поискали что-нибудь полезное. И... всё это казалось мне неплохой затеей до сих пор...<end>
+::Сейчас её взгляд проходит сквозь вас, ни за что не цепляясь.:: Скорее всего, так же, как и вы... Через огромный пролом. Вас прислал мой брат начальник Буровой. ::Она водит головой из стороны в сторону.:: Он отправил нас сюда, чтобы мы осмотрелись, поискали что-нибудь полезное. И... всё это казалось мне неплохой затеей до сих пор... <end>
 
 =>a167_original
 Until?<end>
@@ -1439,4 +1439,3 @@ I'm all alone now... AND I INTEND TO STAY SO!<end>
 
 =>q234
 Теперь я совсем одна... И Я ПОЗАБОЧУСЬ, ЧТОБЫ ТАК И БЫЛО!<end>
-

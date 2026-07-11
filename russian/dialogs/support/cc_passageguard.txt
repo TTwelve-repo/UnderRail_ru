@@ -20,7 +20,7 @@ It's Senior Enforcer $(context.player.Name).<end>
 Ah, yes, $(#sir/ma'am). ::He salutes you.:: I thought I recognized you but wasn't exactly sure. <end>
 
 =>q4
-Ах да, $(#сэр/мэм). ::Он козыряет.:: Простите, что я сразу вас не узнал.<end>
+Ах да, $(#сэр/мэм). ::Он козыряет.:: Простите, что я сразу вас не узнал. <end>
 
 =>q5_original
 Anyway, we're worried about Lurkers so we have to be careful with any poor soul that comes to Core City through these passages. You're free to pass, of course.<end>
@@ -68,7 +68,7 @@ I'm off duty, actually, so I'm exploring them in my own free time.<end>
 I... see. <end>
 
 =>q12
-Я... ясно.<end>
+Я... ясно. <end>
 
 =>a13_original
 Tell me about it. I didn't know there was a checkpoint here!<end>
@@ -104,7 +104,7 @@ I am Enforcer $(context.player.Name) of Praetorian Security.<end>
 Yes, yes... I've seen you back in the headquarters before, that's right. <end>
 
 =>q18
-Да, да... Точно, я видел вас раньше в штабе.<end>
+Да, да... Точно, я видел вас раньше в штабе. <end>
 
 =>a19_original
 I don't think so.<end>
@@ -165,4 +165,3 @@ Bloody Lurkers...<end>
 
 =>q28
 Проклятые скрытни...<end>
-

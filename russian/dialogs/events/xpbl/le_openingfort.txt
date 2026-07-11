@@ -20,7 +20,7 @@ $(context.npc_xpbl_oldfield_playerName). Он... у тебя? У тебя ест
 ::The image contaminates the professor's smile a bit; Seeger seems outright disgusted; Chief Briggs displays no emotion.:: <end>
 
 =>q4
-::Её вид слегка портит улыбку профессора; Сигер, кажется, испытывает откровенное отвращение; шеф Бриггс не проявляет никаких эмоций.::<end>
+::Её вид слегка портит улыбку профессора; Сигер, кажется, испытывает откровенное отвращение; шеф Бриггс не проявляет никаких эмоций.:: <end>
 
 =>q5_original
 Oh my... Excellent work. Well done. Well done!<end>
@@ -80,7 +80,7 @@ I'm getting... something. A signal... pulsing... Yes, it's repeating every few s
 $(context.player.Name), how about you try opening the gate with... *that*. I'll be next to you with the device and try to see if I can, mmmm... catch any changes in the signal. <end>
 
 =>q14
-$(context.player.Name), как насчёт того, чтобы попробовать открыть ворота с помощью... *этого*. Я буду рядом с тобой с этим устройством и попробую посмотреть, смогу ли я, м-м-м... уловить какие-нибудь изменения в сигнале.<end>
+$(context.player.Name), как насчёт того, чтобы попробовать открыть ворота с помощью... *этого*. Я буду рядом с тобой с этим устройством и попробую посмотреть, смогу ли я, м-м-м... уловить какие-нибудь изменения в сигнале. <end>
 
 =>q15_original
 Sec-troopers, get in position.<end>
@@ -198,7 +198,7 @@ Let's head through that elevator.<end>
 Yes. <end>
 
 =>q33
-Да.<end>
+Да. <end>
 
 =>q34_original
 ::Fifteen to twenty minutes have passed before the team reports that the area has been secured and that the air is safe to breathe. The four of you step into the elevator and descend to the floor below. The elevator doors open and the room greets you with air that is thick and reeking of decay; this odor reminds you of the room you found Phil's body in, only here it is much stronger.::<end>
@@ -366,7 +366,7 @@ As a matter of fact, I think I could use some rest.<end>
 Very well. In case you've forgotten, it's the large tent just south of the professor's. Go and get some rest. Once you're awake, though, <end>
 
 =>q61
-Так и есть. На случай, если ты забыл$(#/а), это большая палатка, которая стоит к югу от дома профессора. Иди и отдохни немного. Но как только ты проснёшься,<end>
+Так и есть. На случай, если ты забыл$(#/а), это большая палатка, которая стоит к югу от дома профессора. Иди и отдохни немного. Но как только ты проснёшься, <end>
 
 =>q62_original
 speak to Marcus about those camp defenses I mentioned.<end>
@@ -434,7 +434,7 @@ I need some things I can't obtain here, and I can't do it all by myself. You do 
 That I do. <end>
 
 =>q71
-Что я и делаю.<end>
+Что я и делаю. <end>
 
 =>q72_original
 But it can't be done. I've very few sec-troopers left. I already had to pull all our jet skiers back to defend the camp. 
@@ -486,7 +486,7 @@ I volunteer to search those evacuation tunnels.<end>
 Noted. But the time is not right yet. <end>
 
 =>q79
-Приму к сведению. Но время ещё не пришло.<end>
+Приму к сведению. Но время ещё не пришло. <end>
 
 =>a80_original
 So this is how a pay raise looks like...<end>
@@ -511,4 +511,3 @@ I'm ready, $(context.player.Name).<end>
 
 =>q83
 Я готов, $(context.player.Name).<end>
-

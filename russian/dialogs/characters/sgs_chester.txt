@@ -50,7 +50,7 @@ It's my father's ring, but it's been worn by my-- ::He pauses.::
 =>q7
 Это кольцо моего отца, но оно было у... ::Он делает паузу.::
 
-моего родственника...<end>
+моего родственника... <end>
 
 =>q8_original
 brother<end>
@@ -86,7 +86,7 @@ I ask for nothing. Here's the ring. ::Give him the gold ring.::<end>
 ::The ring rests on his palm, and he stares at it with teary eyes.:: <end>
 
 =>q13
-::Кольцо лежит у него на ладони, и он смотрит на него слезящимися глазами.::<end>
+::Кольцо лежит у него на ладони, и он смотрит на него слезящимися глазами.:: <end>
 
 =>q14_original
 ::He lifts his head looks at you one last time, grabs his spade - and leaves without saying a word.::<end>
@@ -202,7 +202,7 @@ We got separated amidst all of that, you see... and $(tempcontext.siblingName)..
 He <end>
 
 =>q29
-У него<end>
+У него <end>
 
 =>q30_original
 had a... ::He smiles.:: a great sense of direction in the caves... ::And then his stare drops.:: but for some reason it failed then and there. ::He pauses.:: After I waited for, I don't know, half an hour at our rendezvous point, I came back. The bandits... they were nowhere to be seen, and neither was $(tempcontext.siblingName).<end>
@@ -230,7 +230,7 @@ No. I'd seen the body. I don't want to know anything... as long as the bastard r
 She <end>
 
 =>q33
-У неё<end>
+У неё <end>
 
 =>a34_original
 Now what will you do?<end>
@@ -313,7 +313,7 @@ A hundred charons will do it.<end>
 ::He counts one hundred charons.:: <end>
 
 =>q45
-::Он отсчитывает сто харонов.::<end>
+::Он отсчитывает сто харонов.:: <end>
 
 =>q46_original
 Here. ::He hands you the coins.::
@@ -347,7 +347,7 @@ Niiiiice. Here you go. ::Give him the gold ring.::<end>
 ::He counts one hundred fifty charons.:: <end>
 
 =>q50
-::Он отсчитывает сто пятьдесят харонов.::<end>
+::Он отсчитывает сто пятьдесят харонов.:: <end>
 
 =>q51_original
 ::He stares at you for a while, then shakes his head.::<end>
@@ -365,7 +365,7 @@ Hundred fifty it is.<end>
 ::He counts one hundred fifty charons.:: <end>
 
 =>q53
-::Он отсчитывает сто пятьдесят харонов.::<end>
+::Он отсчитывает сто пятьдесят харонов.:: <end>
 
 =>a54_original
 ::[Mercantile]:: Two hundred.<end>
@@ -377,7 +377,7 @@ Hundred fifty it is.<end>
 ::He counts two hundred charons.:: <end>
 
 =>q55
-::Он отсчитывает двести харонов.::<end>
+::Он отсчитывает двести харонов.:: <end>
 
 =>a56_original
 ::[Mercantile]:: Two fifty.<end>
@@ -389,7 +389,7 @@ Hundred fifty it is.<end>
 ::He counts two hundred fifty charons.:: <end>
 
 =>q57
-::Он отсчитывает двести пятьдесят харонов.::<end>
+::Он отсчитывает двести пятьдесят харонов.:: <end>
 
 =>a58_original
 It's not good enough. Guess I'll be keeping this.<end>
@@ -511,7 +511,7 @@ That's not important. What is is how much are you willing to pay for it?<end>
 I am willing... <end>
 
 =>q76
-Я хочу...<end>
+Я хочу... <end>
 
 =>a77_original
 Hey, man.<end>
@@ -558,4 +558,3 @@ You're in my spot, buddy.<end>
 
 =>q83
 <end>
-

@@ -90,7 +90,7 @@ That's fine with me.<end>
 Right then. Here's your reward. ::Gives you 300 credits.:: <end>
 
 =>q15
-Вот и хорошо. Держите вашу награду. ::Он даёт вам 300 кредитов ССГ.::<end>
+Вот и хорошо. Держите вашу награду. ::Он даёт вам 300 кредитов ССГ.:: <end>
 
 =>q16_original
 See you around, $(context.player.Name).<end>
@@ -108,7 +108,7 @@ See you around, $(context.player.Name).<end>
 Okay, you have a point, five hundred credits it is. But not a single credit more. ::He gives you 500 credits:: <end>
 
 =>q18
-Ладно, вы правы, пусть будет пятьсот кредитов. Но ни кредитом больше. ::Он даёт вам 500 кредитов ССГ::<end>
+Ладно, вы правы, пусть будет пятьсот кредитов. Но ни кредитом больше. ::Он даёт вам 500 кредитов ССГ:: <end>
 
 =>q19_original
 Sorry, no can do, three hundred is all I can offer you. Is it a deal?<end>
@@ -216,7 +216,7 @@ Tanner tells me you know of a way to restore power to the outposts to the north.
 Here. It's a flux controller. If you insert it into the slot at the front of the power generator, it *should* get it running again. <end>
 
 =>q36
-Вот. Это регулятор потока. Достаточно вставить его в гнездо на передней панели электрогенератора, и он *должен* снова заработать.<end>
+Вот. Это регулятор потока. Достаточно вставить его в гнездо на передней панели электрогенератора, и он *должен* снова заработать. <end>
 
 =>q37_original
 After that you ought to be able to reactivate all the outposts. I'm afraid you'll have to do that manually, though. You see, each of them has a switch that cuts off the power in case of a hazard.<end>
@@ -384,7 +384,7 @@ When is it going to be ready?<end>
 Can't tell exactly. <end>
 
 =>q62
-Точно сказать не могу.<end>
+Точно сказать не могу. <end>
 
 =>q63_original
 You go do other things, and I'll start working on it straight away. I'll mail you when I'm done, and I'll have someone bring the explorer up to Harland.<end>
@@ -414,7 +414,7 @@ So, you wanted to talk to me about something?<end>
 Oh yes. <end>
 
 =>q67
-А, да.<end>
+А, да. <end>
 
 =>a68_original
 What do you know about Patrick Pierce's death?<end>
@@ -492,13 +492,13 @@ Great, glad you're happy.<end>
 As I promised, here's your reward. ::He gives you 500 SGS credits.:: <end>
 
 =>q80
-Как я и обещал, вот ваша награда. ::Он даёт вам 500 кредитов ССГ.::<end>
+Как я и обещал, вот ваша награда. ::Он даёт вам 500 кредитов ССГ.:: <end>
 
 =>q81_original
 As I promised, here's your reward. ::He gives you 300 SGS credits.:: <end>
 
 =>q81
-Как я и обещал, вот ваша награда. ::Он даёт вам 300 кредитов ССГ.::<end>
+Как я и обещал, вот ваша награда. ::Он даёт вам 300 кредитов ССГ.:: <end>
 
 =>a82_original
 I just want my credits.<end>
@@ -510,7 +510,7 @@ I just want my credits.<end>
 Fine, fine. You're so impatient. <end>
 
 =>q83
-Ладно, ладно. Вы так нетерпеливы.<end>
+Ладно, ладно. Вы так нетерпеливы. <end>
 
 =>a84_original
 I've been to the plant, but there's nothing but junk, junk, and some more junk. I'm not going back there, if you want to search it again, find someone else.<end>
@@ -684,7 +684,7 @@ Deal.<end>
 Right, that's what I like to hear. <end>
 
 =>q112
-Отлично, это я и хотел услышать.<end>
+Отлично, это я и хотел услышать. <end>
 
 =>a113_original
 ::[Mercantile]:: I think I deserve a bit more credits for something this important. Something like five hundred credits should be enough.<end>
@@ -708,7 +708,7 @@ Yeah, that's more like it.<end>
 Right, that should be all. <end>
 
 =>q116
-Ладно, вроде, это всё.<end>
+Ладно, вроде, это всё. <end>
 
 =>q117_original
 Sorry, no can do. Three hundred is all I can offer you. Is it a deal?<end>
@@ -774,7 +774,7 @@ Fusion cells have their cathodes made from nickel-oxide, and their anodes from p
 You see, optoelectrical batteries use a beta-emmiter that is suspended in gas or liquid containing luminescent gas. When the beta active nuclides emit beta particles, they excite their own electrons in the narrow excimer band at a minimum of thermal losses, such that this radiation is converted in a high band gap photovoltaic layer very efficiently into electricity. <end>
 
 =>q127
-Видите ли, оптоэлектрические батареи используют бета-излучатель, взвешенный в газе или жидкости, содержащей люминесцентный газ. Когда бета-активные нуклиды испускают бета-частицы, они возбуждают собственные электроны в узком эксимерном диапазоне при минимальных тепловых потерях таким образом, что это излучение очень эффективно преобразуется в электричество в широкой запрещённой зоне фотогальванического слоя.<end>
+Видите ли, оптоэлектрические батареи используют бета-излучатель, взвешенный в газе или жидкости, содержащей люминесцентный газ. Когда бета-активные нуклиды испускают бета-частицы, они возбуждают собственные электроны в узком эксимерном диапазоне при минимальных тепловых потерях таким образом, что это излучение очень эффективно преобразуется в электричество в широкой запрещённой зоне фотогальванического слоя. <end>
 
 =>a128_original
 Ah, that is quite interesting, and makes perfect sense. You learn something new every day.<end>
@@ -876,7 +876,7 @@ Yawn, can you just skip to the chase?<end>
 Sorry, I can get carried away sometimes. I'll keep it short. <end>
 
 =>q144
-Извините, я могу иногда увлекаться. Я постараюсь покороче.<end>
+Извините, я могу иногда увлекаться. Я постараюсь покороче. <end>
 
 =>a145_original
 Could you skip the tech stuff? Just tell me what to do.<end>
@@ -918,7 +918,7 @@ We lost Gorsky. I'd say rest in peace, but Gorsky and peace? Nah...<end>
 The whole station's buzzing about what happened at the bar. <end>
 
 =>q151
-Вся станция гудит о том, что произошло в баре.<end>
+Вся станция гудит о том, что произошло в баре. <end>
 
 =>q152_original
 Glad to see you're still in one piece, $(context.player.Name). Heard it was ugly.<end>

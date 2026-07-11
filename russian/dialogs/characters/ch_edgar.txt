@@ -120,7 +120,7 @@ I managed to get into his lair, south of here. I went past some caves filled wit
 Amazing! $(context.player.Name), there's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King as well, therefore making our lives much easier. First, take this. ::He hands you 300 charons.:: <end>
 
 =>q20
-Потрясающе! $(context.player.Name), мне осталось сделать только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.::<end>
+Потрясающе! $(context.player.Name), мне осталось сделать только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.:: <end>
 
 =>a21_original
 I found his lair south of here. I went past some caves filled with rathounds, then found an abandoned building that turned out to be the entrance to his lair. It was heavily trapped, but I managed to get inside and got to talk to him.<end>
@@ -132,7 +132,7 @@ I found his lair south of here. I went past some caves filled with rathounds, th
 Then you've seen how savage and ruthless he is. I'm amazed you're even alive. <end>
 
 =>q22
-Тогда вы видели, как он свиреп и безжалостен. Поразительно, что вы ещё живы.<end>
+Тогда вы видели, как он свиреп и безжалостен. Поразительно, что вы ещё живы. <end>
 
 =>a23_original
 I actually managed to convince him to negotiate a truce with Camp Hathor.<end>
@@ -358,7 +358,7 @@ But why are you guys fighting?<end>
 It all started four years ago, even though it seems like a century. Back then, late Gideon Sud was the leader of Camp Hathor. One day he came before us all and told us that someone calling himself "Rathound King" was invading our hunting grounds. At one point Gideon said he had even managed to speak to this man, but it turned out he wasn't nothing but a filthy savage who had no interest in discussing anything with anyone. <end>
 
 =>q57
-Всё началось четыре года назад, хотя кажется, что целый век. Тогда, ныне покойный Гидеон Сад был лидером лагеря Хатор. Однажды он собрал нас всех и сказал нам, что кто-то, называющий себя «Королём крысоволков», посягает на наши охотничьи угодья. Когда-то Гидеон даже сказал, что ему удалось поговорить с этим человеком, но оказалось, что он был просто грязным дикарём, который совершенно не желал обсуждать что-либо с кем-либо.<end>
+Всё началось четыре года назад, хотя кажется, что целый век. Тогда, ныне покойный Гидеон Сад был лидером лагеря Хатор. Однажды он собрал нас всех и сказал нам, что кто-то, называющий себя «Королём крысоволков», посягает на наши охотничьи угодья. Когда-то Гидеон даже сказал, что ему удалось поговорить с этим человеком, но оказалось, что он был просто грязным дикарём, который совершенно не желал обсуждать что-либо с кем-либо. <end>
 
 =>q58_original
 The man claimed these lands belonged to him, and wouldn't accept anyone telling him otherwise. His stubborn attitude and Gideon's refusal to give in to this man's demands marked the start of our conflict. Since then, he's been attacking our hunters, either directly or by trapping the hunting grounds, and on a few occasions has even sent packs of rathounds to invade our camp. All in all, he's caused a lot of trouble and lot of death around here. But we'll get rid of him, eventually. We will get rid of him.<end>
@@ -466,7 +466,7 @@ That lying bastard. And to think that we almost made a truce with him.<end>
 You did excellent. There's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King as well, therefore making our lives much easier. First, take this. ::Hands you 300 charons.:: <end>
 
 =>q75
-Вы отлично справились. Мне осталось сделать только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.::<end>
+Вы отлично справились. Мне осталось сделать только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.:: <end>
 
 =>a76_original
 And they didn't.<end>
@@ -564,7 +564,7 @@ Big Bret from SGS told me to come here and see what's happening with you guys. H
 Ah, good old Bret. This earthquake caused nothing more than a bit of panic and a problem or two, one of which is with our communication equipment. We'll get that fixed in no time. <end>
 
 =>q90
-Ах, старый добрый Брет. Это землетрясение вызвало не более чем небольшую панику и одну или две проблемы, одна из которых связана с нашим коммуникационным оборудованием. Мы это быстро исправим.<end>
+Ах, старый добрый Брет. Это землетрясение вызвало не более чем небольшую панику и одну или две проблемы, одна из которых связана с нашим коммуникационным оборудованием. Мы это быстро исправим. <end>
 
 =>q91_original
 Everything else is running as usual; we're hunting and exporting meat at the same capacity, and now that the bugs are gone, we've got but a few things to worry about.<end>
@@ -648,7 +648,7 @@ I can help. I have my ways of dealing with these sorts of situations.<end>
 What could you possibly do that we cannot? <end>
 
 =>q104
-Что такого можете сделать вы, что нам не по силам?<end>
+Что такого можете сделать вы, что нам не по силам? <end>
 
 =>a105_original
 Maybe it's skill, maybe it's luck, and maybe it's both - but I have a knack for solving the unsolvable while getting to keep my head still attached.<end>
@@ -834,7 +834,7 @@ We're all in your debt. Thank you so much. I find it quite impressive to witness
 As a thank you, I offer you a monetary reward, about two hundred coins, and on top of that, since I am very pleased by your work, one of the following: <end>
 
 =>q135
-В качестве благодарности могу предложить вам денежное вознаграждение -- около двухсот монет. И в дополнение к этому, так как я очень доволен вашей работой, один из следующих предметов:<end>
+В качестве благодарности могу предложить вам денежное вознаграждение -- около двухсот монет. И в дополнение к этому, так как я очень доволен вашей работой, один из следующих предметов: <end>
 
 =>q136_original
 a crossbow, a sniper rifle, an assault rifle, a shotgun, a knife, a machete or a spear. All top quality. What would you like?<end>
@@ -858,7 +858,7 @@ Crossbow sounds nice.<end>
 Excellent choice. You've earned it. <end>
 
 =>q139
-Отличный выбор. Вы это заслужили.<end>
+Отличный выбор. Вы это заслужили. <end>
 
 =>q140_original
 Now that this bug infestation is over, the Rathound King is the only thing we have to worry about again.<end>
@@ -1150,7 +1150,7 @@ I mean, that they're happy together.<end>
 Oh. Yes, yes. <end>
 
 =>q185
-А. Да, да.<end>
+А. Да, да. <end>
 
 =>a186_original
 I'm in a hurry, bye.<end>
@@ -1169,4 +1169,3 @@ State your business.<end>
 
 =>q188
 Что вам нужно?<end>
-

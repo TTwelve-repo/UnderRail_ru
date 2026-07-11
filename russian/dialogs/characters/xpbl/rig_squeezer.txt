@@ -2,7 +2,7 @@
 Yo. <end>
 
 =>q1
-Йо.<end>
+Йо. <end>
 
 =>q2_original
 The Rig's on alert, $(#jack/sis).<end>
@@ -14,7 +14,7 @@ The Rig's on alert, $(#jack/sis).<end>
 Welcome to Boulder's Jet Bits - we got parts, batteries and repair kits. And other stuff. Name's Squeezer. <end>
 
 =>q3
-Добро пожаловать в "Запчасти Боулдера" - у нас есть запчасти, аккумуляторы и ремонтные комплекты. И многое другое. Меня зовут Гвоздь.<end>
+Добро пожаловать в "Запчасти Боулдера" - у нас есть запчасти, аккумуляторы и ремонтные комплекты. И многое другое. Меня зовут Гвоздь. <end>
 
 =>q4_original
 <end>
@@ -188,11 +188,10 @@ See ya.<end>
 The shop's still workin'. Everythin's cool. <end>
 
 =>q32
-Магазин по-прежнему работает. Всё круто.<end>
+Магазин по-прежнему работает. Всё круто. <end>
 
 =>q33_original
 Whatcha need, $(#jack/sis)?<end>
 
 =>q33
 Чё надо,$(#парень/сестра)?<end>
-

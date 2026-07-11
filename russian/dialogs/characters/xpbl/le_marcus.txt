@@ -62,7 +62,7 @@ Phew! We'll meet you back at the tent.<end>
 Hostile statue in the camp! <end>
 
 =>q11
-Враждебная статуя в лагере!<end>
+Враждебная статуя в лагере! <end>
 
 =>q12_original
 Docks!<end>
@@ -219,7 +219,7 @@ No. Just came to say goodbye.<end>
 Hey, $(context.player.Name). Here to turn in your gear? One <end>
 
 =>q35
-Привет, $(context.player.Name). Хочешь сдать своё снаряжение? За тобой<end>
+Привет, $(context.player.Name). Хочешь сдать своё снаряжение? За тобой <end>
 
 =>q36_original
 body armor, one helmet and one navcom.<end>
@@ -307,7 +307,7 @@ I deserved it. I should be getting sacked.<end>
 ::He pauses, nods, then proceeds.:: <end>
 
 =>q49
-::Он делает паузу, кивает, затем продолжает:::<end>
+::Он делает паузу, кивает, затем продолжает::: <end>
 
 =>q50_original
 Goodbye and good luck, $(context.player.Name).<end>
@@ -373,7 +373,7 @@ And I did so much for this stinking expedition.<end>
 I can't believe he fired you, $(context.npc_xpbl_ladelman_playerName) $(#himself/herself). You don't get gladiators workin' for you every day, for pipe's sake. <end>
 
 =>q60
-Не могу поверить, что он прогнал тебя, $(context.npc_xpbl_ladelman_playerName). Во имя трубы, не каждый день удаётся нанять на работу гладиатора.<end>
+Не могу поверить, что он прогнал тебя, $(context.npc_xpbl_ladelman_playerName). Во имя трубы, не каждый день удаётся нанять на работу гладиатора. <end>
 
 =>q61_original
 <end>
@@ -427,7 +427,7 @@ Well, go get it for me, please. I need to have everything accounted for.<end>
 You owe me one <end>
 
 =>q69
-За тобой числится<end>
+За тобой числится <end>
 
 =>q70_original
 So long. ::Nods.::<end>
@@ -575,7 +575,7 @@ I'd like to exchange dollars for charons.<end>
 Sure. <end>
 
 =>q93
-Конечно.<end>
+Конечно. <end>
 
 =>q94_original
 I'll give you one and a half stygian coins per dollar.<end>
@@ -641,7 +641,7 @@ Anyone around here exchanging United Stations dollars for charons?<end>
 I can do it for you, $(context.player.Name). In fact, you can also pay in dollars when purchasing items from me or Doctor Savage. <end>
 
 =>q104
-Я могу это сделать, $(context.player.Name). Хотя, если покупаешь что-то у меня или доктора Дикого, то можешь расплачиваться в долларах.<end>
+Я могу это сделать, $(context.player.Name). Хотя, если покупаешь что-то у меня или доктора Дикого, то можешь расплачиваться в долларах. <end>
 
 =>q105_original
 <end>
@@ -659,7 +659,7 @@ But not from me. No, siree. I still haven't gotten used to handlin' them Norther
 Yes, well... Anyway, <end>
 
 =>q107
-Да, хорошо... В любом случае,<end>
+Да, хорошо... В любом случае, <end>
 
 =>a108_original
 I found this floatie-talkie. This is not a standard issue comm device, as far as I'm aware.<end>
@@ -947,7 +947,7 @@ What happened to the traitor?<end>
 He's in custody. <end>
 
 =>q151
-Он находится под стражей.<end>
+Он находится под стражей. <end>
 
 =>q152_original
 We're taking him back with us. We're probably going to turn him over to Core City authorities.<end>
@@ -971,7 +971,7 @@ We canned the pipeworker.<end>
 ::He glances at Ladelman.:: <end>
 
 =>q155
-::Он бросает взгляд на Лэйдельмана.::<end>
+::Он бросает взгляд на Лэйдельмана.:: <end>
 
 =>q156_original
 We've got an empty shipping container. It's the best place to keep him in right now. It's secure, and he's out of the way.<end>
@@ -1047,7 +1047,7 @@ So, what's going to happen to him after all of this?<end>
 He's either going to get shot or get turned in to Core City authorities when we return. <end>
 
 =>q167
-Его либо расстреляют, либо по возвращении сдадут властям Кор-Сити.<end>
+Его либо расстреляют, либо по возвращении сдадут властям Кор-Сити. <end>
 
 =>q168_original
 The Chief has yet to decide.<end>
@@ -1119,7 +1119,7 @@ Or can you...?<end>
 ::He sighs and turns to you.:: <end>
 
 =>q179
-::Он вздыхает и обращается к вам.::<end>
+::Он вздыхает и обращается к вам.:: <end>
 
 =>q180_original
 Also, contact me if you find any functional military equipment and I'll dispatch a boat to transport it to the camp if possible.<end>
@@ -1165,13 +1165,13 @@ At J1. They appear to be in good condition. I just need you to send someone to p
 We don't have any sec-troopers left to spare. <end>
 
 =>q186
-У нас нет свободных спец-охранников.<end>
+У нас нет свободных спец-охранников. <end>
 
 =>q187_original
 Especially considering they'd have to go through pirate territory. <end>
 
 =>q187
-Особенно учитывая, что им пришлось бы двигаться через территорию пиратов.<end>
+Особенно учитывая, что им пришлось бы двигаться через территорию пиратов. <end>
 
 =>q188_original
 <end>
@@ -1210,13 +1210,13 @@ He's been uncooperative so far, but who knows. That's all I could think of.<end>
 Maybe that old ferryman would be willing to help you. <end>
 
 =>q193
-Возможно, тот старый паромщик согласится вам помочь.<end>
+Возможно, тот старый паромщик согласится вам помочь. <end>
 
 =>q194_original
 Having sec-troopers out of the camp at a moment like this is far too risky. <end>
 
 =>q194
-В такой момент, как сейчас, выводить спец-охранников из лагеря слишком рискованно.<end>
+В такой момент, как сейчас, выводить спец-охранников из лагеря слишком рискованно. <end>
 
 =>q195_original
 I don't know... It's too dangerous to go through the pirate territory.<end>
@@ -1246,7 +1246,7 @@ They allowed me passage through their territory.<end>
 If you say so. In that case I'll dispatch some laborers to the location you specified. <end>
 
 =>q199
-Как скажете. В таком случае я отправлю несколько рабочих в указанное вами место.<end>
+Как скажете. В таком случае я отправлю несколько рабочих в указанное вами место. <end>
 
 =>q200_original
 <end>
@@ -1282,7 +1282,7 @@ The way to J1 is free. Don't you worry about the pirates.<end>
 In that case I'll dispatch an armed transport to the location you specified. <end>
 
 =>q205
-В таком случае, я отправлю вооружённый транспорт в указанное вами место.<end>
+В таком случае, я отправлю вооружённый транспорт в указанное вами место. <end>
 
 =>a206_original
 What do you propose I do then?<end>
@@ -1318,25 +1318,25 @@ Have you managed to discover anything useful in the Keep about the island's defe
 Yes, we did. The Keep gave us great insight into how the defenders organized and managed their defenses, as well as how the automated defense system functioned. <end>
 
 =>q211
-Да, данные хранилища дали нам представление о том, как защитники организовали и управляли своей обороной, а также как функционировала автоматизированная система защиты.<end>
+Да, данные хранилища дали нам представление о том, как защитники организовали и управляли своей обороной, а также как функционировала автоматизированная система защиты. <end>
 
 =>q212_original
 You already know about the turrets <end>
 
 =>q212
-Ты уже в курсе насчёт турелей<end>
+Ты уже в курсе насчёт турелей <end>
 
 =>q213_original
  and the Protectors, <end>
 
 =>q213
-и Защитники,<end>
+ и Защитники, <end>
 
 =>q214_original
 but there are plenty of other systems which are no longer operational. <end>
 
 =>q214
-но есть множество других систем, которые больше не работают.<end>
+но есть множество других систем, которые больше не работают. <end>
 
 =>q215_original
 There's no point discussing the island's fortifications, so I'll go straight to automated defenses: the smaller statuesque plasma turrets and the larger, more powerful plasma cannons. Apparently their primary tactic was to use the smaller turrets, with their higher rate of fire, to deplete the energy shields of enemy ships so the more powerful projectiles could pass through once the shields collapsed. 
@@ -1396,7 +1396,7 @@ I can tell, Tone. I've been stuck in this tent with you for far too long...<end>
 ::He turns to you.:: <end>
 
 =>q222
-::Он поворачивается к вам.::<end>
+::Он поворачивается к вам.:: <end>
 
 =>q223_original
 That's all we've managed to learn<end>
@@ -1423,7 +1423,7 @@ That's all we've managed to learn<end>
 Haven't read it yet, but I've been told it <end>
 
 =>q226
-Я в курсе, но мне ещё не удалось прочитать его<end>
+Я в курсе, но мне ещё не удалось прочитать его <end>
 
 =>q227_original
 contains some information regarding the final moments from the battle.<end>
@@ -1435,7 +1435,7 @@ contains some information regarding the final moments from the battle.<end>
 It <end>
 
 =>q228
-Он<end>
+Он <end>
 
 =>q229_original
 so far<end>
@@ -1453,7 +1453,7 @@ Yes...<end>
 You already know about the Protectors, <end>
 
 =>q231
-Ты уже знаешь о Защитниках,<end>
+Ты уже знаешь о Защитниках, <end>
 
 =>a232_original
 I'll see you later.<end>
@@ -1531,7 +1531,7 @@ I just remembered: Chief Briggs needs to see you. Urgently.<end>
 Good work, $(context.player.Name). Anything we can do to boost our defenses will help save the lives of our sec-troopers and our staff. <end>
 
 =>q244
-Хорошая работа, $(context.player.Name). Любые наши действия, способные усилить нашу оборону, помогут спасти жизни наших спец-охранников и наших сотрудников.<end>
+Хорошая работа, $(context.player.Name). Любые наши действия, способные усилить нашу оборону, помогут спасти жизни наших спец-охранников и наших сотрудников. <end>
 
 =>q245_original
 However, I think we've done all we can regarding this island's security systems. Focus on your other assignments for now, and let me know if anything new comes up.<end>
@@ -1555,7 +1555,7 @@ There is a bonus waiting for you as well.<end>
 Keep it up. <end>
 
 =>q248
-Не останавливайся на достигнутом.<end>
+Не останавливайся на достигнутом. <end>
 
 =>q249_original
 <end>
@@ -1573,13 +1573,13 @@ Keep it up. <end>
 What do you need? <end>
 
 =>q251
-Что вам нужно?<end>
+Что вам нужно? <end>
 
 =>q252_original
 I got some bad news first, <end>
 
 =>q252
-Сперва плохие новости,<end>
+Сперва плохие новости, <end>
 
 =>q253_original
 $(context.player.Name): The camp's running low on electronic supplies. We're in no position to make supply trips back for more, so make the most use of what's available.<end>
@@ -1591,7 +1591,7 @@ $(context.player.Name): В лагере заканчиваются запасы 
 ::He greets you with a downhearted tone of voice.:: <end>
 
 =>q254
-::Он приветствует вас подавленным голосом.::<end>
+::Он приветствует вас подавленным голосом.:: <end>
 
 =>q255_original
 <end>
@@ -1603,7 +1603,7 @@ $(context.player.Name): В лагере заканчиваются запасы 
 Tone, Chief... Hard to believe they're gone. <end>
 
 =>q256
-Тон, Шеф... Не верится, что их уже нет.<end>
+Тон, Шеф... Не верится, что их уже нет. <end>
 
 =>q257_original
 What've we gotten ourselves into, $(context.player.Name)?<end>
@@ -1621,7 +1621,7 @@ This is what we signed up for. I know I'm in this even if I end up at the bottom
 ::He nods.:: <end>
 
 =>q259
-::Он кивает.::<end>
+::Он кивает.:: <end>
 
 =>a260_original
 Hell's Gut, Marcus. That's what.<end>
@@ -1633,7 +1633,7 @@ Hell's Gut, Marcus. That's what.<end>
 ::He makes a brief pause, nodding to himself.:: <end>
 
 =>q261
-::Он делает короткую паузу, кивая самому себе.::<end>
+::Он делает короткую паузу, кивая самому себе.:: <end>
 
 =>a262_original
 Keep your head up, sec-trooper. We'll pull through.<end>
@@ -1657,13 +1657,13 @@ Keep your head up, sec-trooper. We'll pull through.<end>
 Hard to believe the chief is gone. <end>
 
 =>q265
-Трудно поверить, что шефа больше нет.<end>
+Трудно поверить, что шефа больше нет. <end>
 
 =>q266_original
 Hard to believe Tone is gone. <end>
 
 =>q266
-Трудно поверить, что Тони больше нет.<end>
+Трудно поверить, что Тони больше нет. <end>
 
 =>q267_original
 <end>
@@ -1687,5 +1687,4 @@ Hey.<end>
 I got some bad news, <end>
 
 =>q270
-У меня плохие новости,<end>
-
+У меня плохие новости, <end>

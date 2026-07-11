@@ -185,7 +185,7 @@ Wait, wait! I'm one of you guys. I'm Corporal $(context.player.Name).<end>
 Yeah, right! <end>
 
 =>q29
-Ага, конечно!<end>
+Ага, конечно! <end>
 
 =>q30_original
 Stay still - you're coming with me!
@@ -244,4 +244,3 @@ Why? I didn't do anything wrong.<end>
 
 =>a38
 ::Бой!::<end>
-

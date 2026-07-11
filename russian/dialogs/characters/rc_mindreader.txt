@@ -44,7 +44,7 @@ Thank you for cooperating, $(context.player.Name). We will be leaving now.<end>
  But before we leave, I'm afraid we must deal with our unwilling host.<end>
 
 =>q8
-Но прежде чем мы уйдём, я боюсь, мы должны покончить с нашим невольным хозяином.<end>
+ Но прежде чем мы уйдём, я боюсь, мы должны покончить с нашим невольным хозяином.<end>
 
 =>q9_original
 <end>
@@ -134,7 +134,7 @@ This is none of your concern.<end>
 Then you must die as well. <end>
 
 =>q23
-Тогда ты тоже долж$(#ен/на) умереть.<end>
+Тогда ты тоже долж$(#ен/на) умереть. <end>
 
 =>q24_original
 ::As his voice retreats from your mind, you can feel a rush of hostile thoughts.::<end>
@@ -267,4 +267,3 @@ No way, you're not touching my mind with that dirty claw.<end>
 
 =>a45
 ::Напасть!::<end>
-

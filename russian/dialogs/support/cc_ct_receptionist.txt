@@ -42,7 +42,7 @@ Most certainly, $(#sir/ma'am). Coretech is the top technology research and appli
 I'm afraid not. As I said, we are in need of someone who is an expert in geophysics, not electronics. But we might have something else available. <end>
 
 =>q7
-Боюсь, нет. Как я уже сказала, нам нужен эксперт по геофизике, а не электронике. Но, у нас может найтись что-нибудь ещё.<end>
+Боюсь, нет. Как я уже сказала, нам нужен эксперт по геофизике, а не электронике. Но, у нас может найтись что-нибудь ещё. <end>
 
 =>q8_original
 
@@ -126,7 +126,7 @@ I'm sorry, but this isn't for me. Can we discuss something else?<end>
 We are in need of someone who is an *expert* in organic chemistry. But we might have something else available. <end>
 
 =>q20
-Нам нужен *эксперт* в области органической химии. Но, возможно, у меня есть кое-что ещё.<end>
+Нам нужен *эксперт* в области органической химии. Но, возможно, у меня есть кое-что ещё. <end>
 
 =>a21_original
 ::[Guns]:: If by "ballistics" you mean someone that can shoot a gun, then I'm your $(#man/woman)!<end>
@@ -138,7 +138,7 @@ We are in need of someone who is an *expert* in organic chemistry. But we might 
 Well, I'm afraid not. We are in need of a ballistics *expert*. But we might have something else available. <end>
 
 =>q22
-Боюсь, это не совсем то. Нам нужен *научный специалист* по баллистике. Но, возможно, у меня есть кое-что ещё.<end>
+Боюсь, это не совсем то. Нам нужен *научный специалист* по баллистике. Но, возможно, у меня есть кое-что ещё. <end>
 
 =>a23_original
 ::[Heavy Guns]:: I shoot big guns. Really big guns.<end>
@@ -150,7 +150,7 @@ Well, I'm afraid not. We are in need of a ballistics *expert*. But we might have
 That's very good, but we're not in need of... that at the moment. But we might have something else available. <end>
 
 =>q24
-Это очень хорошо, но в данный момент мы не нуждаемся в... этом. Но, возможно, у меня есть кое-что ещё.<end>
+Это очень хорошо, но в данный момент мы не нуждаемся в... этом. Но, возможно, у меня есть кое-что ещё. <end>
 
 =>a25_original
 ::[Crossbows]:: As a proficient crossbow user, I think I know a thing or two about ballistics.<end>
@@ -172,7 +172,7 @@ Ehm... We don't have an open position for that. But we might have something else
 =>q27
 ::Она делает небольшую паузу.:: 
 
-Эм... У нас нет подобной вакансии. Но, у нас может найтись что-нибудь ещё. $(context.player.Name) -- ваше полное имя, да?<end>
+Эм... У нас нет подобной вакансии. Но, у нас может найтись что-нибудь ещё. $(context.player.Name) -- ваше полное имя, да? <end>
 
 =>a28_original
 ::[Mechanics]:: I suppose you aren't looking for a mechanical engineer or anything similar?<end>
@@ -184,7 +184,7 @@ Ehm... We don't have an open position for that. But we might have something else
 I'm afraid not. Not at the moment, at least. But we might have something else available. <end>
 
 =>q29
-Боюсь, нет. По крайней мере, не на данный момент. Но, у нас может найтись что-нибудь ещё.<end>
+Боюсь, нет. По крайней мере, не на данный момент. Но, у нас может найтись что-нибудь ещё. <end>
 
 =>a30_original
 ::[Biology]:: You don't work with living creatures much, do you?<end>
@@ -196,7 +196,7 @@ I'm afraid not. Not at the moment, at least. But we might have something else av
 If by that you mean: "Do we have an open position for a biologist?", then the answer is no, I'm afraid. But we might have something else available. <end>
 
 =>q31
-Если вы хотите спросить: "Нет ли у нас открытой вакансии биолога?" То я боюсь, что нет. Но, у нас может найтись что-нибудь ещё.<end>
+Если вы хотите спросить: "Нет ли у нас открытой вакансии биолога?" То я боюсь, что нет. Но, у нас может найтись что-нибудь ещё. <end>
 
 =>a32_original
 ::[Hacking]:: Need someone who's good with computers?<end>
@@ -214,7 +214,7 @@ Yes, qualifications. Is there any other kind of work I could do here?<end>
 Well, we might have something available. <end>
 
 =>q34
-Возможно, у нас есть что-то в наличии.<end>
+Возможно, у нас есть что-то в наличии. <end>
 
 =>a35_original
 I don't think I have the right qualifications. I've got other questions for you, though.<end>
@@ -251,4 +251,3 @@ Welcome back, $(#sir/ma'am). How may I help you?<end>
 
 =>q40
 Рада вас снова видеть, $(#сэр/мэм). Чем я могу вам помочь?<end>
-

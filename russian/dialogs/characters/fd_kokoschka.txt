@@ -24,7 +24,7 @@ Rad i boj, komvarische ofi-- <end>
 =>q4
 ::Смущённый, он вытягивается по стойке смирно и выполняет приветствие.::
 
-Рад и бодж, комварище офи...<end>
+Рад и бодж, комварище офи... <end>
 
 =>q5_original
 Hey, it you - $(context.player.Name)! Why you wear it, why wear uniform for my army when you not army... errr, in army?<end>
@@ -78,7 +78,7 @@ I wear whatever I want. Why I wear this uniform is none of your concern.<end>
 It is my concern, because you wear uniform of my army. <end>
 
 =>q13
-Это моя забота, потому что ты одеваешь форму моей армии.<end>
+Это моя забота, потому что ты одеваешь форму моей армии. <end>
 
 =>q14_original
 ::Bewildered, he addresses you with friendliness in his voice.::
@@ -88,7 +88,7 @@ Komvarische? De gi bre-- <end>
 =>q14
 ::Смущённый, он обращается к вам дружелюбным голосом.::
 
-Комварище? Де ги бре...<end>
+Комварище? Де ги бре... <end>
 
 =>q15_original
 <end>
@@ -234,7 +234,7 @@ Err, it zlatortiya, that the money we use in Fatherland! ::He points his finger 
 =>q35
 ::Увидев банкноту, он отвечает с восторгом во взгляде.::
 
-Эр-р, это златортия -- те деньги, которые мы используем в Отечестве! ::Он указывает на лицо, изображённое на купюре.:: Смотри, это Надбойвод Ярков Мохник, наш лидер, или, как у вас говорят, вожак в доме, э-хе-хе.<end>
+Эр-р, это златортия -- те деньги, которые мы используем в Отечестве! ::Он указывает на лицо, изображённое на купюре.:: Смотри, это Надбойвод Ярков Мохник, наш лидер, или, как у вас говорят, вожак в доме, э-хе-хе. <end>
 
 =>q36_original
 I already told you Nadbojvod is his title, yes. It still better than overgeneral by... so much.<end>
@@ -306,7 +306,7 @@ Anyway, where can I exchange this money for some charons? Do you know anyone who
 You trick me, make my heart race like little mouse running from big cat. But... <end>
 
 =>q47
-Ты обманул$(#/а), чтобы моё сердце билось так, как мышь, когда она убегает от большой кошки. Но...<end>
+Ты обманул$(#/а), чтобы моё сердце билось так, как мышь, когда она убегает от большой кошки. Но... <end>
 
 =>q48_original
 I can help you. I will return to Fatherland one day, after I break my enemies in four here, so I will use money. How much do you have?<end>
@@ -324,7 +324,7 @@ I am a millionaire!<end>
 Ehehe, that is very little money. You are not like million-money people in South Underrail. <end>
 
 =>q50
-Э-хе-хе, это очень маленькие деньги. Ты не как миллионоденежные люди в Южной Подземке.<end>
+Э-хе-хе, это очень маленькие деньги. Ты не как миллионоденежные люди в Южной Подземке. <end>
 
 =>q51_original
 Here, million coins - live like Nadbojvod himself. Better. In Fatherland - live like zonemen from Core City. If you have quadrillion - then you, how we say, can eat whole pigs, drink kzozel until your belly pop, buy clothes that looks good on a chovek, eat some more whole pigs, stain clothes with pig smear by accident, have a maid wash it - have a maid - and you will still have enough money left to drive in the train until you reach your house from the other side. That is when you rich, ehehe.<end>
@@ -412,7 +412,7 @@ Here's two hundred bills for one hundred charons. ::Give him 200 zlatortiya bill
 Here you go. ::He hands you your charons.:: <end>
 
 =>q64
-Вот тебе. ::Он даёт вам ваши хароны.::<end>
+Вот тебе. ::Он даёт вам ваши хароны.:: <end>
 
 =>q65_original
 I am out, sorry. No more coins. And no more convincing to add more coins. Coin man-purse is too light.<end>
@@ -490,7 +490,7 @@ Just a few bills. But that is a lot of zeros, though.<end>
 That is very little. You can easily be a million-money $(#man/woman) in Fatherland, but that not like million-money people in South Underrail. <end>
 
 =>q77
-Это очень мало. Ты легко можешь быть миллионоденежн$(#ый мужчина/ая женщина) в Отечестве, но это не как миллионоденежные люди в Южной Подземке.<end>
+Это очень мало. Ты легко можешь быть миллионоденежн$(#ый мужчина/ая женщина) в Отечестве, но это не как миллионоденежные люди в Южной Подземке. <end>
 
 =>a78_original
 A single bill. But it's a ten thousand zlatortiya one.<end>
@@ -502,7 +502,7 @@ A single bill. But it's a ten thousand zlatortiya one.<end>
 Well... <end>
 
 =>q79
-Ну...<end>
+Ну... <end>
 
 =>a80_original
 Protectorate spies are *everywhere*.<end>
@@ -550,13 +550,13 @@ Yes.<end>
 Ehehe. Zplno! Good. If <end>
 
 =>q87
-Э-хе-хе. Зплно! Хорошо. Если<end>
+Э-хе-хе. Зплно! Хорошо. Если <end>
 
 =>q88_original
 you spend time in Fatherland drunk, then that means you had good time and that you a real man, real chovek. <end>
 
 =>q88
-если ты пров$(#ёл/ела) время в Отечестве бух$(#им/ой), тогда это значит, что ты пров$(#ёл/ела) хорошее время, и что ты -- настоящий човек.<end>
+если ты пров$(#ёл/ела) время в Отечестве бух$(#им/ой), тогда это значит, что ты пров$(#ёл/ела) хорошее время, и что ты -- настоящий човек. <end>
 
 =>q89_original
 Even if you are not man, a chovek, but woman, a zhena. Ehehehe. That much great achievement - to be like man. But not all women should be like a man, or else you become like Schulanka, our right neighbor. She too much like man. ::He shrugs.::<end>
@@ -586,7 +586,7 @@ No.<end>
 Going with a drunk friend and you not drunk? Impossible - and unpossible! You lie to me. Don't do that. But if <end>
 
 =>q93
-Идёшь с бухим другом, и ты не бух$(#ой/ая)? Невозможное и невероятное! Ты лжёшь мне. Не лги мне. Но если<end>
+Идёшь с бухим другом, и ты не бух$(#ой/ая)? Невозможное и невероятное! Ты лжёшь мне. Не лги мне. Но если <end>
 
 =>a94_original
 Can't remember.<end>
@@ -598,7 +598,7 @@ Can't remember.<end>
 Then you was drunk. Ehehehe. If <end>
 
 =>q95
-Тогда ты был$(# бухой/а бухая). Э-хе-хе. Если<end>
+Тогда ты был$(# бухой/а бухая). Э-хе-хе. Если <end>
 
 =>a96_original
 I'd rather not talk about it.<end>
@@ -628,7 +628,7 @@ On a dead man.<end>
 A dead man from Fatherland? <end>
 
 =>q100
-На мертвеце из Отечества?<end>
+На мертвеце из Отечества? <end>
 
 =>q101_original
 Is he tall, ginger, with thin, bony arms and chest as smooth as bum of baby? And face full of white pimples? And mustache like a grandmother trying to be manly? 
@@ -648,7 +648,7 @@ Yes. Just the guy.<end>
 Haha! Brbochko - you son of rat! Glad to hear he is dead to the core. He my left neighbor. <end>
 
 =>q103
-Ха-ха! Брбочко, ты сын крысы! Я счастливый, когда услышал, что он мёртвый насовсем. Он мой левый сосед.<end>
+Ха-ха! Брбочко, ты сын крысы! Я счастливый, когда услышал, что он мёртвый насовсем. Он мой левый сосед. <end>
 
 =>q104_original
 I hate him. Everyone hates him. Prgudnem da gu na silu opop na te krupischlo more. Ehehehe...<end>
@@ -678,7 +678,7 @@ Maybe, but I am not sure.<end>
 I am hoping it was our neighbor, Brbochko. <end>
 
 =>q108
-Я надеялся, что это был наш сосед Брбочко.<end>
+Я надеялся, что это был наш сосед Брбочко. <end>
 
 =>a109_original
 No.<end>
@@ -744,7 +744,7 @@ I took it from someone I killed.<end>
 You killed man from Fatherland? <end>
 
 =>q119
-Ты убил$(#/а) человека из Отечества?<end>
+Ты убил$(#/а) человека из Отечества? <end>
 
 =>a120_original
 ::[Intelligence]:: I took it from your stash.<end>
@@ -786,7 +786,7 @@ Here's your rifle back.<end>
 Ah, thank you, thank you. I knew you would take care of my Ahka. <end>
 
 =>q126
-Ах, спасибо, спасибо. Я знал, что ты позаботишься об Ака.<end>
+Ах, спасибо, спасибо. Я знал, что ты позаботишься об Ака. <end>
 
 =>q127_original
 <end>
@@ -916,7 +916,7 @@ If you don't like it...<end>
 No. <end>
 
 =>q141
-Нет.<end>
+Нет. <end>
 
 =>a142_original
 Enjoy your refurbished rifle, friend.<end>
@@ -962,7 +962,7 @@ I... You... I...<end>
 You great fighter, the best of okay, but I... ah, how you say... I feel very great emotional attachment to my Ahka. <end>
 
 =>q148
-Ты великий боец, наверное лучш$(#ий/ая) из лучших, но я... ах, как бы это сказать... я чувствую сильную эмоциональную привязанность к моему Ака.<end>
+Ты великий боец, наверное лучш$(#ий/ая) из лучших, но я... ах, как бы это сказать... я чувствую сильную эмоциональную привязанность к моему Ака. <end>
 
 =>q149_original
 I could not trade it. Never.<end>
@@ -1060,7 +1060,7 @@ As promised. ::Hand him the can.::<end>
 Thank you, thank you, thank you! <end>
 
 =>q163
-Спасибо, спасибо, спасибо!<end>
+Спасибо, спасибо, спасибо! <end>
 
 =>q164_original
 I eat this, how you say - slowly, and with awesome pleasure, yes.<end>
@@ -1164,7 +1164,7 @@ But I need my Ahka! To ra-ta-ta-ta-ta evil people! Big battles coming up!<end>
 Later... maybe I let you touch it later. <end>
 
 =>q179
-Позже... может быть я дам вам потрогать его позже.<end>
+Позже... может быть я дам вам потрогать его позже. <end>
 
 =>q180_original
 But no trade. Trade, never.<end>
@@ -1252,7 +1252,7 @@ Yes! ::And then he pretty much snatches the can from your hand.::<end>
 Mine! <end>
 
 =>q193
-Мне!<end>
+Мне! <end>
 
 =>a194_original
 Maybe later.<end>
@@ -1416,7 +1416,7 @@ Tell me more about Nadbojvod Mochnik.<end>
 He man like every man should be. He has stayed with same woman even though he could have every one of them; has many, many little Mochniks, so his strong bloodline will not die; cherishes our tradition, culture and faith, and is domachin - a great hospitable homeowner. It very important in Fatherland. <end>
 
 =>q219
-Он мужчина, какой должен быть каждый мужчина. Он остался с одной женщиной, хотя он мог иметь их всех; у него много маленьких Мохников, чтобы его сильный род не умер; он хранит нашу традицию, культуру и веру, и он домачин - сильно гостеприимный хозяин дома. Это очень важно в Отечестве.<end>
+Он мужчина, какой должен быть каждый мужчина. Он остался с одной женщиной, хотя он мог иметь их всех; у него много маленьких Мохников, чтобы его сильный род не умер; он хранит нашу традицию, культуру и веру, и он домачин - сильно гостеприимный хозяин дома. Это очень важно в Отечестве. <end>
 
 =>q220_original
 We have big army, very big army - but he never send us to attack other, we only defend from evil, yes. Many want to destroy us, but we break them in four! Evil army, bandit, barbar-men or animal - we break them all in four. He best leader! And he has mustache that throw great shadows - like a real man should.<end>
@@ -1480,7 +1480,7 @@ As in confide in others, talk about private things you wouldn't tell just about 
 Oh. <end>
 
 =>q229
-Ох.<end>
+Ох. <end>
 
 =>q230_original
 <end>
@@ -1492,13 +1492,13 @@ Oh. <end>
 Okay, I tell you. <end>
 
 =>q231
-Ладно, я тебе скажу.<end>
+Ладно, я тебе скажу. <end>
 
 =>q232_original
 I love women too much. They nice, pretty, make tummy go heaven and mind go away. They cook for you, take care of you and make sure you have what you need to be head of family and home. They can't do what men can, but men can't do some things woman can, like have bosom, remember all things, notice every detail in world, see through all lies of all men, and talk and talk and talk until man has to tell her to shut up. <end>
 
 =>q232
-Я слишком много люблю женщин. Они милые, красивые, от них живот улетает в небо, а ум улетает прочь. Они для тебя готовят, они за тебя заботятся, и они смотрят, чтобы у тебя всё было, чтобы быть головой семьи и дома. Они не могут делать, что могут делать мужчины, но мужчины могут делать некоторое, что могут делать женщины, например иметь грудь, помнить про всё, замечать всю деталь в мире, видеть насквозь всю ложь всех мужчин, и говорить, и говорить, и говорить, пока мужчине не придётся сказать ей, чтобы она заткнулась.<end>
+Я слишком много люблю женщин. Они милые, красивые, от них живот улетает в небо, а ум улетает прочь. Они для тебя готовят, они за тебя заботятся, и они смотрят, чтобы у тебя всё было, чтобы быть головой семьи и дома. Они не могут делать, что могут делать мужчины, но мужчины могут делать некоторое, что могут делать женщины, например иметь грудь, помнить про всё, замечать всю деталь в мире, видеть насквозь всю ложь всех мужчин, и говорить, и говорить, и говорить, пока мужчине не придётся сказать ей, чтобы она заткнулась. <end>
 
 =>q233_original
 And if man does woman-work he does not do things he great at. Home suffer. Family suffer. Children hungry and go whaaaaa! And if woman try to do man-work, man laugh. Ehehe. Some can do good at certain things, not all, but those rare and often half-man anyway. Normal woman, woman woman, she can never be like man. And that is why I love them, because they are women.<end>
@@ -1810,7 +1810,7 @@ I don't think you understood me. I meant...<end>
 Oh yes, yes! Sorry, I too literal in understanding. Sorry. <end>
 
 =>q279
-Ах да, да! Извини, я понял это слишком буквально. Извини.<end>
+Ах да, да! Извини, я понял это слишком буквально. Извини. <end>
 
 =>a280_original
 Suuuure. Now, can a grizozirg eat with both of its mouths?<end>
@@ -2092,7 +2092,7 @@ I see you woman - I mean no offence. I just tell you women can't lead so you don
 Mmm... czernina. <end>
 
 =>q326
-Ох... чернина.<end>
+Ох... чернина. <end>
 
 =>q327_original
 I have to teach my Darling how to make one. Yes, it good idea!<end>
@@ -2104,7 +2104,7 @@ I have to teach my Darling how to make one. Yes, it good idea!<end>
 I miss czernina. <end>
 
 =>q328
-Я скучаю по чернине.<end>
+Я скучаю по чернине. <end>
 
 =>a329_original
 I see. Anyway, let me ask you something else.<end>
@@ -2338,7 +2338,7 @@ Goodbye.<end>
 You take off uniform! Yes, very thank you. <end>
 
 =>q367
-Ты снял$(#/а) форму. Да, очень спасибо!<end>
+Ты снял$(#/а) форму. Да, очень спасибо! <end>
 
 =>q368_original
 Nice to meet you. You have $(#face of brave man/face of beautiful woman). Very exquisite! What your name?<end>
@@ -2384,7 +2384,7 @@ Ah, good, you come talk to Kokoschka. <end>
 =>q374
 ::Он приветствует вас сердечной улыбкой и обращается к вам с иностранным акцентом.:: 
 
-Отлично, ты приш$(#ёл/ла) поговорить с Кокошкой.<end>
+Отлично, ты приш$(#ёл/ла) поговорить с Кокошкой. <end>
 
 =>q375_original
 You take off uniform. Yes, very thank you! What you, how you say, wanna chat till rails bend?<end>
@@ -2412,7 +2412,7 @@ Because they can.<end>
 Hmm... <end>
 
 =>q378
-Хм...<end>
+Хм... <end>
 
 =>q379_original
 In Fatherland, you see, if woman is bald, it mean she is either ill, has lice that are very much huge, or she got hair cut as punishment for crime! Like cheating on her husband. Or attacking her husband with sharp things. Or poisoning her husband with poison. 
@@ -2472,7 +2472,7 @@ Beats me. Always found it ugly.<end>
 Yes... <end>
 
 =>q386
-Да...<end>
+Да... <end>
 
 =>a387_original
 I don't know.<end>
@@ -2485,4 +2485,3 @@ Here goes my good friend, $(context.player.Name). How you say... errr, hello, ho
 
 =>q388
 А вот и мой лучший друг, $(context.player.Name). Как сказать... э-эр, привет, как делаешь?<end>
-

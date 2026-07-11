@@ -96,7 +96,7 @@ Just a moment, please.
 Very good. <end>
 
 =>q14
-Очень хорошо.<end>
+Очень хорошо. <end>
 
 =>q15_original
 Now, I need some information about the room, access...<end>
@@ -168,7 +168,7 @@ I am interested. Just make sure that the ground floor gets renovated as soon as 
 Don't worry. It'll be taken care of. Now, I've got all the necessary catalogs for you to browse. <end>
 
 =>q26
-Не беспокойтесь. Мы обо всём позаботимся. Теперь можете посмотреть каталоги.<end>
+Не беспокойтесь. Мы обо всём позаботимся. Теперь можете посмотреть каталоги. <end>
 
 =>q27_original
 <end>
@@ -1366,7 +1366,7 @@ Study.<end>
 ::He pulls out a catalog that depicts an older, well-dressed gentleman leaning on a large, elegant desk.:: Numerous options are available for making your study functional, organized and to best reflect your personality and individuality. <end>
 
 =>q225
-::Он достаёт каталог, на котором изображён пожилой хорошо одетый джентльмен, опирающийся на большой элегантный стол.:: Многочисленные варианты функционального, организованного интерьера наилучшим образом подчеркнут вашу личность и индивидуальность.<end>
+::Он достаёт каталог, на котором изображён пожилой хорошо одетый джентльмен, опирающийся на большой элегантный стол.:: Многочисленные варианты функционального, организованного интерьера наилучшим образом подчеркнут вашу личность и индивидуальность. <end>
 
 =>q226_original
 <end>
@@ -1462,7 +1462,7 @@ I need a file cabinet.<end>
 Sure. We offer standard filing cabinets for two hundred charons. Might not be anything fancy, but it gets the job done. <end>
 
 =>q241
-Конечно. Мы предлагаем стандартные шкафы по двести харонов. Ничего сверхъестественного, но они делают свою работу.<end>
+Конечно. Мы предлагаем стандартные шкафы по двести харонов. Ничего сверхъестественного, но они делают свою работу. <end>
 
 =>a242_original
 I'll take it. ::Pay 200 stygian coins.::<end>
@@ -2479,7 +2479,7 @@ And you will get it! Our successful surveillance plan involves installing camera
 One can never have enough eyes. I'll take it. ::Pay 2200 stygian coins.:: <end>
 
 =>a410
-Лишних глаз не бывает. Беру. ::Заплатить 2200 стигийских монет.::<end>
+Лишних глаз не бывает. Беру. ::Заплатить 2200 стигийских монет.:: <end>
 
 =>q411_original
 ::He laughs.:: Truly so. Trust me, this surveillance system is so hardcore even big companies like Coretech or JKK use it. Nothing will happen in your home without you knowing it.<end>
@@ -2929,7 +2929,7 @@ I'd like to furnish my house.<end>
 Sure, I've got all the necessary catalogs at hand. <end>
 
 =>q483
-Конечно, все нужные каталоги у меня при себе.<end>
+Конечно, все нужные каталоги у меня при себе. <end>
 
 =>a484_original
 I'd like to buy a house.<end>
@@ -3206,4 +3206,3 @@ Welcome back. How may I help you this time?<end>
 
 =>q529
 С возвращением. Чем я могу вам помочь на этот раз?<end>
-

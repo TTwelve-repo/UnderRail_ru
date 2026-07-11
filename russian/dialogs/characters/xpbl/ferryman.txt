@@ -8,7 +8,7 @@
 We're <end>
 
 =>q2
-Нам<end>
+Нам <end>
 
 =>q3_original
 moving out, kid. Talking's over.<end>
@@ -20,7 +20,7 @@ moving out, kid. Talking's over.<end>
 I'm <end>
 
 =>q4
-Мне<end>
+Мне <end>
 
 =>q5_original
 ::Todd cautiously boards the ferry, scanning the vastness around him. The Ferryman's intimidating visage softens ever so slightly, and he reaches out for a handshake. Todd reciprocates with surprisingly little hesitation, although he can't help but gawk at everything, be it something on this scrap-littered deck or far beyond.::<end>
@@ -128,7 +128,7 @@ I don't know much about it myself, but from my understanding it's a highly valua
 Hm. I see. <end>
 
 =>q18
-Хм-м.<end>
+Хм-м. <end>
 
 =>q19_original
 Why did you bring this... box to me?<end>
@@ -152,13 +152,13 @@ I was curious if you knew something.<end>
 Whatever this thing is, looks to me like there's gotta be a damn good reason why it was buried in whatever depths you found it. <end>
 
 =>q22
-Чем бы ни была эта штука, мне кажется, должна быть чертовски веская причина, почему она была погребена на такой глубине.<end>
+Чем бы ни была эта штука, мне кажется, должна быть чертовски веская причина, почему она была погребена на такой глубине. <end>
 
 =>q23_original
 I want nothing to do with it, kid. <end>
 
 =>q23
-Я не хочу с этим связываться, малыш$(#/ка).<end>
+Я не хочу с этим связываться, малыш$(#/ка). <end>
 
 =>q24_original
 And if you remembered our conversation, you know I think it'd be best if you chucked that thing back in the sea.<end>
@@ -188,7 +188,7 @@ And if I were you, I'd chuck that thing back in the sea.<end>
 This thing you carry, if it really is what you say it is, there's gotta be a damn good reason why it was buried in whatever depths you found it. <end>
 
 =>q27
-Если эта штука действительно то, о чём ты говоришь, должна быть чертовски веская причина, почему она была погребена на такой глубине.<end>
+Если эта штука действительно то, о чём ты говоришь, должна быть чертовски веская причина, почему она была погребена на такой глубине. <end>
 
 =>a28_original
 I was wondering if you were interested in it.<end>
@@ -206,7 +206,7 @@ I was wondering if you were interested in it.<end>
 Nothing, hm. <end>
 
 =>q30
-Ничего, хм.<end>
+Ничего, хм. <end>
 
 =>a31_original
 Take it easy, old man. Forget about it.<end>
@@ -218,7 +218,7 @@ Take it easy, old man. Forget about it.<end>
 Good. 'Cause <end>
 
 =>q32
-Хорошо. Потому что...<end>
+Хорошо. Потому что... <end>
 
 =>a33_original
 All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface.<end>
@@ -230,7 +230,7 @@ All I know is that it's somehow connected to certain high-tech machines capable 
 ::He shakes his head.:: <end>
 
 =>q34
-::Он качает головой.::<end>
+::Он качает головой.:: <end>
 
 =>a35_original
 It seems to be a device capable of manufacturing highly advanced things, like objects and machinery.<end>
@@ -260,7 +260,7 @@ Never mind, actually. There was something else I wanted to ask you.<end>
 Wait. Wait. <end>
 
 =>q39
-Подожди. Подожди.<end>
+Подожди. Подожди. <end>
 
 =>a40_original
 How's Todd doing?<end>
@@ -344,13 +344,13 @@ Fine, kid, fine. My heart ain't made of stone. I'll take him in. Besides, I've s
 =>q51
 ::Он задумывается, ветер дует ему в лицо, заставляя дым из трубки липнуть к его бороде и волосам и создавая впечатление, что дымится его голова. Через некоторое время он отвечает.::
 
-Хорошо, малыш$(#/ка), хорошо. У меня сердце не каменное. Я возьму его к себе. Кроме того, я провёл годы в море в поисках реликвий, а тут живой - живое, дышащее, человеческое существо.<end>
+Хорошо, малыш$(#/ка), хорошо. У меня сердце не каменное. Я возьму его к себе. Кроме того, я провёл годы в море в поисках реликвий, а тут живой - живое, дышащее, человеческое существо. <end>
 
 =>q52_original
 Where is the submarine? <end>
 
 =>q52
-Где подводная лодка?<end>
+Где подводная лодка? <end>
 
 =>q53_original
 Is that the one? ::He points at it.::<end>
@@ -368,7 +368,7 @@ Yes. I'll go get him. ::Get Todd.::<end>
 Is it where I left it? <end>
 
 =>q55
-Это там, где я его оставил?<end>
+Это там, где я его оставил? <end>
 
 =>q56_original
 ::He pulls from his pocket and unfolds an old, stained map of the Black Sea.::<end>
@@ -429,7 +429,7 @@ It's right around... ::Show him on the map where the submarine is located.::<end
 Show it to me on the map. I'll pick him up. <end>
 
 =>q64
-Покажи мне на карте. Я заберу его.<end>
+Покажи мне на карте. Я заберу его. <end>
 
 =>a65_original
 I can't take care of him, and he's not capable of taking care of himself outside the confines of his former home. I can't leave someone like that on his own, but I also have to be careful of who I leave him with.<end>
@@ -495,7 +495,7 @@ $(context.player.Name).<end>
 ::He chuckles.:: Lost. <end>
 
 =>q75
-::Он усмехается.:: Заблудил$(#ся/ась).<end>
+::Он усмехается.:: Заблудил$(#ся/ась). <end>
 
 =>q76_original
 You are lost.<end>
@@ -721,7 +721,7 @@ No, no. ::He shakes his head.:: There is no time *and* space - time *is* space. 
 And I know, I know... this is a lot to take in all at once. But since you don't appear to be having problems comprehending what I'm trying to communicate, <end>
 
 =>q108
-И я знаю, знаю... здесь слишком много всего, чтобы сразу понять. Но поскольку у тебя нет проблем с пониманием того, что я пытаюсь объяснить,<end>
+И я знаю, знаю... здесь слишком много всего, чтобы сразу понять. Но поскольку у тебя нет проблем с пониманием того, что я пытаюсь объяснить, <end>
 
 =>q109_original
 <end>
@@ -751,13 +751,13 @@ True Death is... the ultimate death. The permanent death.<end>
 ::He nods.:: It ain't something I can confirm through strictly empirical means, but everything I've learned so far led me to believe that it is true. <end>
 
 =>q113
-::Он кивает.:: Я не могу это подтвердить при помощи практических средств, но все мои собранные к этому моменту знания, заставили меня поверить, что это правда.<end>
+::Он кивает.:: Я не могу это подтвердить при помощи практических средств, но все мои собранные к этому моменту знания, заставили меня поверить, что это правда. <end>
 
 =>q114_original
 'Cause, you see, <end>
 
 =>q114
-Потому что, видишь ли,<end>
+Потому что, видишь ли, <end>
 
 =>q115_original
 False Death does not release one from the Descent. One will just be reborn again where he left off - or even lower. Suicide will not only *not* help you - it will instead confuse you and further remove you from the Origin.<end>
@@ -957,13 +957,13 @@ And in Origin I get to "exist" on, right?<end>
 You wanna live on? <end>
 
 =>q146
-Ты хочешь жить дальше?<end>
+Ты хочешь жить дальше? <end>
 
 =>q147_original
 You don't want all your actions to cease, you say? But they will. <end>
 
 =>q147
-Значит, ты не хочешь, чтобы твоя деятельность прекратилась? Но так и будет.<end>
+Значит, ты не хочешь, чтобы твоя деятельность прекратилась? Но так и будет. <end>
 
 =>a148_original
 I don't find the idea of my existence ending in nothing all that appealing.<end>
@@ -981,7 +981,7 @@ I'll let some other me down the line deal with True Death. Why should I worry ab
 There is no down the line in the sense you're thinking of. It's all you - it's your essence. If all your actions cease - and they will - they cease for you. <end>
 
 =>q150
-Здесь нет черты в том смысле, как ты думаешь. Это всё ты, твоя сущность. Если вся твоя деятельность прекратится, а так и будет, она исчезнет для тебя.<end>
+Здесь нет черты в том смысле, как ты думаешь. Это всё ты, твоя сущность. Если вся твоя деятельность прекратится, а так и будет, она исчезнет для тебя. <end>
 
 =>a151_original
 If every death is a False Death and we will always be reborn, how do we know if we've died before?<end>
@@ -993,7 +993,7 @@ If every death is a False Death and we will always be reborn, how do we know if 
 ::He takes a moment to think about it, puffing while doing so.:: <end>
 
 =>q152
-::Он задумывается на мгновение, не переставая дымить трубкой.::<end>
+::Он задумывается на мгновение, не переставая дымить трубкой.:: <end>
 
 =>q153_original
 We can't *know*. We can't, 'cause it would be necessary to look at ourselves from a perspective that would allow us to obtain the means to justify our belief that we have experienced False Death. And that perspective we cannot assume. I don't think so.<end>
@@ -1217,7 +1217,7 @@ Frustration.<end>
 Hmmm... <end>
 
 =>q186
-Хм-м...<end>
+Хм-м... <end>
 
 =>q187_original
 ::His face disappears in thick smoke.:: In the case that what you're feeling is true, then you've answered your original question. However, it may not be. In case that you do possess, somehow, a means to sense it, then it is something I and many - most others do not.<end>
@@ -1277,7 +1277,7 @@ I cannot describe it.<end>
 Hm. <end>
 
 =>q196
-Хм.<end>
+Хм. <end>
 
 =>a197_original
 I've been thinking: Can you help someone with their burden by killing them? Strictly hypothetically.<end>
@@ -1313,7 +1313,7 @@ False Death is only of the flesh. You seem to be disregarding the essence, what 
 That I did say, but who can make the right call? Can I? Can you? <end>
 
 =>q202
-Я так и сказал, но кто сделает правильный выбор? Может я? Может ты?<end>
+Я так и сказал, но кто сделает правильный выбор? Может я? Может ты? <end>
 
 =>q203_original
 Things are often different than they seem, and death, even if false, is not to be taken lightly.<end>
@@ -1397,7 +1397,7 @@ And you seem to be disregarding its inherent connection with our physical side. 
 Burden *is* burden, but not all burden is perceivable - measurable. <end>
 
 =>q216
-Бремя есть бремя, но не всякое бремя можно заметить, измерить.<end>
+Бремя есть бремя, но не всякое бремя можно заметить, измерить. <end>
 
 =>a217_original
 I'm just wondering whether net gain can be achieved.<end>
@@ -1511,7 +1511,7 @@ You mentioned that you invented the term Spirit of Gravity. How did it originate
 The term was inspired in large part by certain Old books. The scientific term gravity is familiar to you - a force by which objects with mass attract one another. But spirit? That is something entirely different. <end>
 
 =>q235
-Этот термин в значительной степени был подсказан некоторыми старыми книгами. Тебе знакомо научное определение гравитации - сила, с помощью которой объекты с массой притягиваются друг к другу. Но дух? Это совсем другое.<end>
+Этот термин в значительной степени был подсказан некоторыми старыми книгами. Тебе знакомо научное определение гравитации - сила, с помощью которой объекты с массой притягиваются друг к другу. Но дух? Это совсем другое. <end>
 
 =>q236_original
 To me, the spirit is an immaterial property that brings something to life - like a spark, a spark that ignites fuel in an internal combustion engine of a ship like mine.
@@ -1545,7 +1545,7 @@ Therefore, the Spirit of *Gravity* is something that is immaterial in essence bu
 No. Energy is a physical property. A spirit is something completely immaterial. <end>
 
 =>q240
-Нет. Энергия - это физическое свойство. Дух - это нечто совершенно нематериальное.<end>
+Нет. Энергия - это физическое свойство. Дух - это нечто совершенно нематериальное. <end>
 
 =>q241_original
 To me, spirit is an immaterial property that brings something to life. It's like... like a *spark*, yes, a spark that ignites fuel in an internal combustion engine of a ship like mine...<end>
@@ -1631,7 +1631,7 @@ So, a ship can have spirit?<end>
 In this sense, yes, but <end>
 
 =>q253
-В этом смысле, да, но<end>
+В этом смысле, да, но <end>
 
 =>a254_original
 ::[Intelligence]:: Essence?<end>
@@ -1643,7 +1643,7 @@ In this sense, yes, but <end>
 Essence... That implies the vital quality of something. Spirit ain't that. <end>
 
 =>q255
-Сущность... Она подразумевает жизненное качество чего-то. Это не Дух.<end>
+Сущность... Она подразумевает жизненное качество чего-то. Это не Дух. <end>
 
 =>a256_original
 ::[Intelligence]:: Leading force?<end>
@@ -1655,7 +1655,7 @@ Essence... That implies the vital quality of something. Spirit ain't that. <end>
 Leading... doesn't sound right. It doesn't "lead" anything. And it ain't a physical kind of force, like literal gravity. <end>
 
 =>q257
-Направляющая... не совсем правильно. Она никуда не "направляет". И это не физическая сила, подобно гравитации.<end>
+Направляющая... не совсем правильно. Она никуда не "направляет". И это не физическая сила, подобно гравитации. <end>
 
 =>a258_original
 ::[Intelligence]:: Driving force?<end>
@@ -1751,19 +1751,19 @@ Origin: The highest point of existence, free of all the hardships. Complete weig
 It is both. ::He nods.:: It is both. <end>
 
 =>q273
-И то, и другое. ::Он кивает.:: И то, и другое.<end>
+И то, и другое. ::Он кивает.:: И то, и другое. <end>
 
 =>q274_original
 The weight which we carry on our backs and the one we carry *within* - this burden, it makes us sink to the Center. <end>
 
 =>q274
-Тот груз, что мы несём на своих спинах, и тот, что у нас *внутри* - это бремя, заставляющее нас опускаться к Центру.<end>
+Тот груз, что мы несём на своих спинах, и тот, что у нас *внутри* - это бремя, заставляющее нас опускаться к Центру. <end>
 
 =>q275_original
 In fact, our <end>
 
 =>q275
-По сути, наше<end>
+По сути, наше <end>
 
 =>q276_original
 very Existence is like a constantly sinking ship. From the Origin to the Center, all of us share the ride. But the ship is tilted forward. ::He takes a draw.:: Tilted, with some of us being on its higher end - the stern, some on the lower bow, closer to the Center; and the rest... somewhere in between.<end>
@@ -1837,7 +1837,7 @@ Their advanced technology means great burden.<end>
 That is one of the reasons, I agree. <end>
 
 =>q286
-Соглашусь, это одна из причин.<end>
+Соглашусь, это одна из причин. <end>
 
 =>q287_original
 Their reliance on technology, the physical space they occupy and physical form they bear, their past... all these things add to their burden.<end>
@@ -1879,7 +1879,7 @@ Are there others like them?<end>
 Yes. <end>
 
 =>q293
-Да.<end>
+Да. <end>
 
 =>q294_original
 As man partakes in Reality and is drawn down by the Spirit of Gravity he descends towards ever lower levels along with, but sometimes also as a vanguard of, Humanity. Sometimes whole groups can be this vanguard.<end>
@@ -1915,7 +1915,7 @@ Do they even know they are worse off?<end>
 Depends. Depends on their burden. <end>
 
 =>q299
-Зависит, зависит от их бремени.<end>
+Зависит, зависит от их бремени. <end>
 
 =>q300_original
 You cannot help those who won't help themselves - helping them means carrying their burden yourself while they accumulate more of their own - yet those who wanna help themselves might drag you down in doing so, like a drowning man pulling both his rescuer and himself to a watery grave. And then there are the sinister ones, the wicked...<end>
@@ -1991,7 +1991,7 @@ If we descend to their physical level, do we risk staying there with them, becom
 Possibly. <end>
 
 =>q311
-Возможно.<end>
+Возможно. <end>
 
 =>a312_original
 So the moral is to observe and take notes.<end>
@@ -2045,7 +2045,7 @@ Many reasons.<end>
 And there truly are many: <end>
 
 =>q320
-Действительно много:<end>
+Действительно много: <end>
 
 =>a321_original
 Their way of life, be it a product of their of wickedness or someone else's.<end>
@@ -2069,7 +2069,7 @@ Can you tell me about them?<end>
 ::He puffs smoke.:: I can. <end>
 
 =>q324
-::Он выдыхает дым.:: Это возможно.<end>
+::Он выдыхает дым.:: Это возможно. <end>
 
 =>a325_original
 Do you consider money to be a burden?<end>
@@ -2133,7 +2133,7 @@ It is a sad part of Humanity's imperfection: If money did not exist, it would be
 =>q334
 Хочу я того или нет, не имеет значения, как и вопрос о том, смогу или нет.
 
-Это печальная часть несовершенства человечества, если бы денег не существовало, их пришлось бы изобрести.<end>
+Это печальная часть несовершенства человечества, если бы денег не существовало, их пришлось бы изобрести. <end>
 
 =>a335_original
 I think money is pure evil. Having more than I need is just wrong, and I just get rid of it as soon as possible.<end>
@@ -2157,7 +2157,7 @@ I work hard and get paid. That money represents my blood and my sweat, and for t
 You, you, you... It's all about you, kid; that is a burden in and of itself, a fertile ground for the seeds of *coin* to take root in and corrupt. <end>
 
 =>q338
-Ты, ты, ты... Ты думаешь только о себе, малыш$(#/ка). Бремя, по своей сути, плодородная почва для семян денежного порока и всегда готово пустить корни и развратить.<end>
+Ты, ты, ты... Ты думаешь только о себе, малыш$(#/ка). Бремя, по своей сути, плодородная почва для семян денежного порока и всегда готово пустить корни и развратить. <end>
 
 =>q339_original
 ::He puffs smoke.::<end>
@@ -2175,7 +2175,7 @@ Money is something that simply exists, a part of the world. I don't think it's e
 Individuals may have this wisdom, they may, but Humanity as a whole does not. <end>
 
 =>q341
-Отдельные личности могут обладать этой мудростью, но человечество в целом - нет.<end>
+Отдельные личности могут обладать этой мудростью, но человечество в целом - нет. <end>
 
 =>a342_original
 Good or bad, we can't live without it.<end>
@@ -2187,7 +2187,7 @@ Good or bad, we can't live without it.<end>
 As long as we are a part of Humanity, we will inevitably share some of its burdens. <end>
 
 =>q343
-До тех пор, пока мы являемся частью человечества, мы неизбежно разделяем часть его бремени.<end>
+До тех пор, пока мы являемся частью человечества, мы неизбежно разделяем часть его бремени. <end>
 
 =>a344_original
 Money gets you a lot of things, old man. You'd be happier too if you were wealthy.<end>
@@ -2205,7 +2205,7 @@ I've given up more of this "wealth" than you've accumulated in your short life, 
 We are done with this topic. <end>
 
 =>q346
-С этой темой мы закончили.<end>
+С этой темой мы закончили. <end>
 
 =>a347_original
 I have no further comments.<end>
@@ -2217,7 +2217,7 @@ I have no further comments.<end>
 Then we are done with this topic. <end>
 
 =>q348
-Тогда с этой темой покончено.<end>
+Тогда с этой темой покончено. <end>
 
 =>a349_original
 Then why didn't you help me for free?<end>
@@ -2253,7 +2253,7 @@ Tell me about the sinking ship metaphor again.<end>
 Our <end>
 
 =>q354
-Наш<end>
+Наш <end>
 
 =>a355_original
 Tell me about money as burden again.<end>
@@ -2394,7 +2394,7 @@ Not really.<end>
 Hmm, in a way. But I'd rather phrase it like this: <end>
 
 =>q377
-Хм, в каком-то смысле. Но мне больше нравится другая формулировка:<end>
+Хм, в каком-то смысле. Но мне больше нравится другая формулировка: <end>
 
 =>a378_original
 ::[Intelligence]:: Are you trying to say we share our burden somehow?<end>
@@ -2418,7 +2418,7 @@ Oh, okay. Some are sinking faster than the others, but we are still on the same 
 You can say it like that, yes. But you see: <end>
 
 =>q381
-Можно сказать и так. Но, видишь ли:<end>
+Можно сказать и так. Но, видишь ли: <end>
 
 =>a382_original
 Are you trying to say our society is sinking like this ship? Our culture and values?<end>
@@ -2430,7 +2430,7 @@ Are you trying to say our society is sinking like this ship? Our culture and val
 It is the inseparable part of decline, yes. And the very fact that the blame falls not on one, but on many: <end>
 
 =>q383
-Да, это неотъемлемая часть упадка. И это факт, что кара ложится не на одного, а на многих:<end>
+Да, это неотъемлемая часть упадка. И это факт, что кара ложится не на одного, а на многих: <end>
 
 =>a384_original
 Are these lower ones submerged?<end>
@@ -2496,7 +2496,7 @@ And you found none.<end>
 Actually, I found many. <end>
 
 =>q394
-Вообще-то, я много нашёл.<end>
+Вообще-то, я много нашёл. <end>
 
 =>a395_original
 What did you discover?<end>
@@ -2584,7 +2584,7 @@ Even if False Death confuses me, kid, I'll still look up.<end>
 You imply... a conflict? Hmmmm... ::He puffs smoke.:: <end>
 
 =>q406
-Ты подразумеваешь... конфликт? Хммм... ::Он выдыхает дым.::<end>
+Ты подразумеваешь... конфликт? Хммм... ::Он выдыхает дым.:: <end>
 
 =>q407_original
 Old books spoke of great celestial wars between higher beings, wars which arose from what is essentially distancing from the Origin and accumulation of weight by some.
@@ -2606,7 +2606,7 @@ It might just be the nature of the Spirit of Gravity. You said everything that l
 Yes, yes, but Origin is *beyond* the Spirit of Gravity, a higher state than Existence itself. It can be transcended, don't you remember, kid? <end>
 
 =>q409
-Да, да, но Исток за *пределами* Духа гравитации, в наивысшем положении, чем само Бытие. А можно ли его превзойти, ты помнишь, малыш$(#/ка)?<end>
+Да, да, но Исток за *пределами* Духа гравитации, в наивысшем положении, чем само Бытие. А можно ли его превзойти, ты помнишь, малыш$(#/ка)? <end>
 
 =>a410_original
 Something made their essence heavy, or perhaps they did so themselves...<end>
@@ -2640,7 +2640,7 @@ There is no physical weight there. So the cause must be, naturally, metaphysical
 ::He nods and puffs smoke.:: <end>
 
 =>q414
-::Он кивает и выдыхает дым.::<end>
+::Он кивает и выдыхает дым.:: <end>
 
 =>a415_original
 What?<end>
@@ -2745,7 +2745,7 @@ I see... ::He puffs smoke.:: <end>
 =>q428
 ::Пока вы разговаривали, он набивал свою трубку свежим табаком, неспеша уплотняя его, перед тем, как снова зажечь, и всё это делалось точно так же, как тогда, когда он впервые познакомил вас со Спуском в Центр.::
 
-Ясно... ::Он выдыхает дым.::<end>
+Ясно... ::Он выдыхает дым.:: <end>
 
 =>q429_original
 Then we're in agreement, kid.<end>
@@ -2757,13 +2757,13 @@ Then we're in agreement, kid.<end>
 Don't <end>
 
 =>q430
-Нет,<end>
+Нет, <end>
 
 =>q431_original
 regard this question of mine as the end of our discussion, kid, by no means. <end>
 
 =>q431
-никоим образом не считай мой вопрос концом нашей беседы, малыш$(#/ка).<end>
+никоим образом не считай мой вопрос концом нашей беседы, малыш$(#/ка). <end>
 
 =>q432_original
 Let's see where we disagree in the hope that we sail away from each other a bit wiser.<end>
@@ -2883,13 +2883,13 @@ I need some more time to think this through.<end>
 ::He nods.:: Fine, fine. The Descent into Center... it is a lot to consider. <end>
 
 =>q449
-::Он кивает.:: Хорошо, хорошо. Спуск в центр... так сразу не скажешь.<end>
+::Он кивает.:: Хорошо, хорошо. Спуск в центр... так сразу не скажешь. <end>
 
 =>q450_original
 But don't <end>
 
 =>q450
-Нет,<end>
+Нет, <end>
 
 =>a451_original
 I think...<end>
@@ -3047,7 +3047,7 @@ You are right. Let me ask you something else.<end>
 ::He nods and puffs smoke.:: <end>
 
 =>q475
-::Он кивает и выдыхает дым.::<end>
+::Он кивает и выдыхает дым.:: <end>
 
 =>q476_original
 You know, I haven't discussed the Descent into Center with anyone since Hank... ::He pauses.:: Hank... Wardell, was it? 
@@ -3263,7 +3263,7 @@ You're right. Despite all its benefits, it does appear that Ascension through te
 No one is denying the benefits. But benefits add weight. <end>
 
 =>q507
-Никто не отрицает значение преимуществ, но преимущества добавляют вес.<end>
+Никто не отрицает значение преимуществ, но преимущества добавляют вес. <end>
 
 =>a508_original
 You are mistaken, old man.<end>
@@ -3275,7 +3275,7 @@ You are mistaken, old man.<end>
 Such a wise, wise argument. ::He takes a draw.:: <end>
 
 =>q509
-Столь разумный и мудрый аргумент. ::Он затягивается.::<end>
+Столь разумный и мудрый аргумент. ::Он затягивается.:: <end>
 
 =>q510_original
 Look at the world around you, its "present" and its "past," what is level and what is above, and you will see that I am correct. That I am indeed... correct.<end>
@@ -3369,7 +3369,7 @@ That would depend on the individual, wouldn't it? And seeking Ascension separate
 I will grant you that not all people are alike, but they *are* imperfect. We all are. <end>
 
 =>q524
-Я соглашусь с тобой, что не все люди одинаковы, но они и несовершенны. Мы все.<end>
+Я соглашусь с тобой, что не все люди одинаковы, но они и несовершенны. Мы все. <end>
 
 =>a525_original
 But is there a line we can draw? Not all technological progress must lead to destruction.<end>
@@ -3447,7 +3447,7 @@ I first came to the realization that the reason all of us can *Ascend* is 'cause
 But just 'cause we can, doesn't mean we will, and just 'cause we possess virtues doesn't mean we're flawless. All will descend fully, but only some will ascend. Only they are the *true* light of the Origin, the rest are errors, distorted refractions, illusions - imperfections. I don't speak of men, for they are all imperfect. I speak of that which is within them. <end>
 
 =>q537
-Но только потому, что мы можем, не значит, что будем, и только потому, что мы обладаем достоинствами, не значит, что мы безупречны. Все снизойдут вниз, но только некоторые возвысятся. Только они являются истинным светом Истока, все остальные - ошибки, искажённые преломления, иллюзии, несовершенства. Я говорю не о людях, как таковых, потому что все они несовершенны. Я говорю о том, что находится внутри них.<end>
+Но только потому, что мы можем, не значит, что будем, и только потому, что мы обладаем достоинствами, не значит, что мы безупречны. Все снизойдут вниз, но только некоторые возвысятся. Только они являются истинным светом Истока, все остальные - ошибки, искажённые преломления, иллюзии, несовершенства. Я говорю не о людях, как таковых, потому что все они несовершенны. Я говорю о том, что находится внутри них. <end>
 
 =>q538_original
 <end>
@@ -3459,7 +3459,7 @@ But just 'cause we can, doesn't mean we will, and just 'cause we possess virtues
 ::He takes a long draw and fills the space between you with thick smoke.:: What it is <end>
 
 =>q539
-::Он делает длинную затяжку и заполняет пространство между вами густым дымом.:: Так что,<end>
+::Он делает длинную затяжку и заполняет пространство между вами густым дымом.:: Так что, <end>
 
 =>q540_original
 is all that is left of you once you've rid yourself of burden.<end>
@@ -3525,7 +3525,7 @@ Loot?<end>
 ::He angrily shakes his head.:: This is not the time for jokes, kid! ::He takes a calming draw.:: What that is <end>
 
 =>q550
-::Он сердито качает головой.:: Сейчас не время для шуток, малыш$(#/ка)! ::Затем делает успокоительную затяжку.:: Так что,<end>
+::Он сердито качает головой.:: Сейчас не время для шуток, малыш$(#/ка)! ::Затем делает успокоительную затяжку.:: Так что, <end>
 
 =>a551_original
 Emptiness?<end>
@@ -3543,7 +3543,7 @@ And what is that?<end>
 It <end>
 
 =>q553
-Итак,<end>
+Итак, <end>
 
 =>q554_original
 <end>
@@ -3561,7 +3561,7 @@ If time is an illusion, then the Ascension happening instantaneously - temporall
 You're thinking the right way, and that is the way I approached it too. <end>
 
 =>q556
-Ты думаешь в верном направлении, и я тоже так к этому подхожу.<end>
+Ты думаешь в верном направлении, и я тоже так к этому подхожу. <end>
 
 =>a557_original
 How do you know it is available to all?<end>
@@ -3603,7 +3603,7 @@ I need a break.<end>
 You understood the essence. <end>
 
 =>q563
-Ты усвоил$(#/а) суть.<end>
+Ты усвоил$(#/а) суть. <end>
 
 =>q564_original
 <end>
@@ -3645,7 +3645,7 @@ I think it does.<end>
 So do I. <end>
 
 =>q570
-Как и я.<end>
+Как и я. <end>
 
 =>a571_original
 I don't know.<end>
@@ -3721,7 +3721,7 @@ Implying that there is some kind of false death as well. One that is not permane
 Yes. <end>
 
 =>q582
-Да.<end>
+Да. <end>
 
 =>a583_original
 But when you die, you're dead. And I've seen a lot of dead folks, lemme tell ya.<end>
@@ -3751,7 +3751,7 @@ Go for it.<end>
 ::He takes a draw.:: <end>
 
 =>q587
-::Он затягивается.::<end>
+::Он затягивается.:: <end>
 
 =>a588_original
 I'd like to discuss everything we've spoken about so far.<end>
@@ -3811,19 +3811,19 @@ I think so.<end>
 You don't appear as though you do. <end>
 
 =>q597
-Я сомневаюсь.<end>
+Я сомневаюсь. <end>
 
 =>q598_original
 We better pause here. <end>
 
 =>q598
-Нам лучше сделать паузу.<end>
+Нам лучше сделать паузу. <end>
 
 =>q599_original
 This is a lot to take in all at once. <end>
 
 =>q599
-Здесь слишком много всего, чтобы сразу понять.<end>
+Здесь слишком много всего, чтобы сразу понять. <end>
 
 =>q600_original
 If you have any thoughts about what's been said so far, I'd be very interested in hearing it. ::He relights his pipe, puffs a few times before taking a long draw.::<end>
@@ -3847,7 +3847,7 @@ No.<end>
 Then we better pause here. <end>
 
 =>q603
-Тогда нам лучше сделать паузу.<end>
+Тогда нам лучше сделать паузу. <end>
 
 =>a604_original
 I find all of this highly confusing. Can't you put it in a bit more plain language?<end>
@@ -3859,7 +3859,7 @@ I find all of this highly confusing. Can't you put it in a bit more plain langua
 ::He pauses, puffing some smoke.:: <end>
 
 =>q605
-::Он делает паузу, пыхтя трубкой.::<end>
+::Он делает паузу, пыхтя трубкой.:: <end>
 
 =>a606_original
 ::[Intelligence]:: Ah, so we start at the Origin and are being pulled down over time by the Spirit of Gravity toward this Center.<end>
@@ -3904,7 +3904,7 @@ Go on.<end>
 The passage of time - it is but an illusion. <end>
 
 =>q612
-Течение времени - всего лишь иллюзия.<end>
+Течение времени - всего лишь иллюзия. <end>
 
 =>a613_original
 Why Center and not, like, Bottom?<end>
@@ -3916,7 +3916,7 @@ Why Center and not, like, Bottom?<end>
 That is more complicated. I need to address other things first before we can get to that, starting with this: <end>
 
 =>q614
-Это намного сложнее. Прежде чем мы доберёмся до этого, мне нужно сначала заняться другими вопросами, начиная с этого:<end>
+Это намного сложнее. Прежде чем мы доберёмся до этого, мне нужно сначала заняться другими вопросами, начиная с этого: <end>
 
 =>a615_original
 ::[Intelligence]:: Do you mean to say that our collective path, as a civilization, leads to inevitable doom?<end>
@@ -3940,7 +3940,7 @@ Stretches in what sense?<end>
 Allow me to explain. <end>
 
 =>q618
-Позволь мне объяснить.<end>
+Позволь мне объяснить. <end>
 
 =>a619_original
 Is that supposed to be a metaphor of some kind?<end>
@@ -3964,7 +3964,7 @@ Like, physically stretches?<end>
 There is a physical aspect to what I say, certainly, but don't take what I say literally, for there is much more to it than what may appear at first glance. <end>
 
 =>q622
-Конечно, в том, что я говорю, есть физический аспект, но не принимай мои слова буквально, потому что в них заложено гораздо больше, чем может показаться на первый взгляд.<end>
+Конечно, в том, что я говорю, есть физический аспект, но не принимай мои слова буквально, потому что в них заложено гораздо больше, чем может показаться на первый взгляд. <end>
 
 =>a623_original
 Isn't that what gravity is supposed to be doing anyway? Pulling things down.<end>
@@ -3976,7 +3976,7 @@ Isn't that what gravity is supposed to be doing anyway? Pulling things down.<end
 Yes. But the Spirit of Gravity is something more than just *literal* gravity. <end>
 
 =>q624
-Да. Но Дух гравитации - это нечто большее, чем просто - гравитация.<end>
+Да. Но Дух гравитации - это нечто большее, чем просто - гравитация. <end>
 
 =>a625_original
 Probably not, but I'm willing to try.<end>
@@ -4042,7 +4042,7 @@ $(context.playerArenaTitle).<end>
 Your title is meaningless. <end>
 
 =>q635
-Твоё звание ничего не значит.<end>
+Твоё звание ничего не значит. <end>
 
 =>a636_original
 The Invictus.<end>
@@ -4090,7 +4090,7 @@ Just a $(#man/woman) looking for truth.<end>
 Oh, you think so? <end>
 
 =>q643
-О, ты так думаешь?<end>
+О, ты так думаешь? <end>
 
 =>a644_original
 A nobody.<end>
@@ -4108,7 +4108,7 @@ It means you know something but don't want to tell me.<end>
 Tell you? <end>
 
 =>q646
-Сказать тебе?<end>
+Сказать тебе? <end>
 
 =>a647_original
 Just an observation.<end>
@@ -4120,7 +4120,7 @@ Just an observation.<end>
 An observation? <end>
 
 =>q648
-Наблюдательность?<end>
+Наблюдательность? <end>
 
 =>a649_original
 It's getting on my nerves.<end>
@@ -4132,7 +4132,7 @@ It's getting on my nerves.<end>
 Why...! <end>
 
 =>q650
-Почему!..<end>
+Почему!.. <end>
 
 =>a651_original
 I'd like to discuss the Descent into Center with you.<end>
@@ -4144,7 +4144,7 @@ I'd like to discuss the Descent into Center with you.<end>
 Fine. <end>
 
 =>q652
-Ладно.<end>
+Ладно. <end>
 
 =>a653_original
 About that Descent into Center of yours...<end>
@@ -4162,7 +4162,7 @@ What do you do with the more interesting things you find, like artifacts and var
 I do find things of greater value that is inexpressible through mere coinage - mere quantity. <end>
 
 =>q655
-Я действительно нахожу предметы огромной ценности, которые нельзя выразить деньгами и их количеством.<end>
+Я действительно нахожу предметы огромной ценности, которые нельзя выразить деньгами и их количеством. <end>
 
 =>q656_original
 <end>
@@ -4174,7 +4174,7 @@ I do find things of greater value that is inexpressible through mere coinage - m
 But ultimately, I do not collect them. I <end>
 
 =>q657
-В конце концов, я их не коллекционирую. Я<end>
+В конце концов, я их не коллекционирую. Я <end>
 
 =>q658_original
 pass them on. ::He puffs smoke.:: There is no other way but to pass them on, kid. I do, however, make sure to give them to someone who will be... enriched by it, even if just a little. 
@@ -4226,7 +4226,7 @@ With that I agree, kid, with that I agree wholeheartedly.<end>
 I do not collect these... relics I find, I <end>
 
 =>q665
-Я не коллекционирую... реликвии, я<end>
+Я не коллекционирую... реликвии, я <end>
 
 =>a666_original
 I like collecting interesting things.<end>
@@ -4256,7 +4256,7 @@ But will the people be able to understand and appreciate them? If people see no 
 ::He looks at you briefly.:: <end>
 
 =>q670
-::Он бросает на вас мимолётный взгляд.::<end>
+::Он бросает на вас мимолётный взгляд.:: <end>
 
 =>q671_original
 I don't sell 'em, kid. ::He puffs smoke.:: I do not.<end>
@@ -4310,13 +4310,13 @@ I heard you possess an unusual object that somewhat resembles the monolith.<end>
 ::He nods.:: <end>
 
 =>q679
-::Он кивает.::<end>
+::Он кивает.:: <end>
 
 =>q680_original
 I don't have it anymore. It's gone. <end>
 
 =>q680
-У меня его больше нет. Он исчез.<end>
+У меня его больше нет. Он исчез. <end>
 
 =>a681_original
 You lost it?<end>
@@ -4328,7 +4328,7 @@ You lost it?<end>
 No. <end>
 
 =>q682
-Нет.<end>
+Нет. <end>
 
 =>q683_original
 You know, it happened a long time ago. Fourteen years or so, I think. Yes. That's when I got this... object.<end>
@@ -4352,7 +4352,7 @@ I got it from a pirate... ::He puffs smoke.:: The name eludes me, but he was a m
 He said he got it from a man who... got it from some other man who had apparently found it and claimed it came from the dreaded Glowing Canine. <end>
 
 =>q686
-Он сказал, что получил его от человека, который... получил его от какого-то другого человека, который, очевидно, нашёл его и утверждал, что он часть ужасного Светящегося клыка.<end>
+Он сказал, что получил его от человека, который... получил его от какого-то другого человека, который, очевидно, нашёл его и утверждал, что он часть ужасного Светящегося клыка. <end>
 
 =>q687_original
 I thought it looked interesting. Very unusual, very.<end>
@@ -4476,7 +4476,7 @@ Groin? You're more savage than they are.<end>
 I did not aim for it. ::He puffs smoke.:: It is a dirty move. I saw some of the warriors instantly reach to protect theirs. But I did not aim for it. <end>
 
 =>q704
-Я не целился. ::Он выдыхает дым.:: Это был подлый поступок. Я заметил машинальные движения некоторых воинов, прикрывающих свои... но я это сделал не специально.<end>
+Я не целился. ::Он выдыхает дым.:: Это был подлый поступок. Я заметил машинальные движения некоторых воинов, прикрывающих свои... но я это сделал не специально. <end>
 
 =>q705_original
 Something... came over me and made me take this object and simply throw it at him. Just like when it came over me to challenge Sjörsr in the first place.<end>
@@ -4552,7 +4552,7 @@ In the $(GiantSkerderHitBodyPart_DisplayName)? But that's not exactly a vital bo
 It ain't, but it didn't need to be. <end>
 
 =>q716
-Это не так, но и это могло не случиться.<end>
+Это не так, но и это могло не случиться. <end>
 
 =>a717_original
 Instant death?<end>
@@ -4564,7 +4564,7 @@ Instant death?<end>
 Instant. <end>
 
 =>q718
-Мгновенно.<end>
+Мгновенно. <end>
 
 =>a719_original
 Who?<end>
@@ -4588,7 +4588,7 @@ Did they steal it?<end>
 No. But it has become theirs thereafter. <end>
 
 =>q722
-Нет. Но с тех пор он стал их собственностью.<end>
+Нет. Но с тех пор он стал их собственностью. <end>
 
 =>a723_original
 ::Say nothing.::<end>
@@ -4612,7 +4612,7 @@ Did you get it from the monolith?<end>
 No, no. I'd never go there, especially not with the intent of desecrating it in any way. <end>
 
 =>q726
-Нет, нет. Я бы никогда туда не отправился, особенно с намерением как-то осквернить его.<end>
+Нет, нет. Я бы никогда туда не отправился, особенно с намерением как-то осквернить его. <end>
 
 =>a727_original
 You sold it?<end>
@@ -4657,7 +4657,7 @@ I'm sorry.<end>
 You better be. <end>
 
 =>q733
-Надеюсь, что так.<end>
+Надеюсь, что так. <end>
 
 =>a734_original
 Liar.<end>
@@ -4825,13 +4825,13 @@ There's a lot one can say about this place. A lot.<end>
 In general: <end>
 
 =>q761
-В целом:<end>
+В целом: <end>
 
 =>q762_original
 The central area is where the <end>
 
 =>q762
-Центральная область - это место, где<end>
+Центральная область - это место, где <end>
 
 =>q763_original
 expedition camp used to be.<end>
@@ -4855,13 +4855,13 @@ The eastern section of the cavern is made of basalt rock and is just as lively a
 expedition camp is located. <end>
 
 =>q766
-расположен лагерь экспедиции.<end>
+расположен лагерь экспедиции. <end>
 
 =>q767_original
 But I'm not willing to talk about it at length, so I'll keep it brief: <end>
 
 =>q767
-Но я не хочу говорить об этом долго, поэтому буду краток:<end>
+Но я не хочу говорить об этом долго, поэтому буду краток: <end>
 
 =>a768_original
 This place seems to have very rich and diverse flora. Where do I look for some of the more useful species of plants and fungus?<end>
@@ -4891,7 +4891,7 @@ The vegetation is not here by mere chance. No, no. It's been cultivated by the f
 There is a variety of species here. The most abundant are by far the water reeds, but there ain't much you can extract from them. The honey stalks fruits contain useful chemicals and are also deceitfully tempting to eat, and you'd resist that urge if you value your life. ::He takes a draw and exhales smoke.:: Green warts too. <end>
 
 =>q772
-Здесь множество видов. Самые распространённые - водоросли, но из них мало что можно извлечь. Плоды медоносных стеблей содержат полезные химические вещества, а также обманчиво соблазнительны для еды, и лучше воспротивиться этому желанию, если ценишь свою жизнь. ::Он затягивается и выдыхает дым:: Зелёный кап тоже есть.<end>
+Здесь множество видов. Самые распространённые - водоросли, но из них мало что можно извлечь. Плоды медоносных стеблей содержат полезные химические вещества, а также обманчиво соблазнительны для еды, и лучше воспротивиться этому желанию, если ценишь свою жизнь. ::Он затягивается и выдыхает дым:: Зелёный кап тоже есть. <end>
 
 =>q773_original
 These can be found all over the cavern but are most abundant in the more dangerous places like the Fetid Marsh and the surrounding areas - all Sørmirbæren territories.<end>
@@ -5039,7 +5039,7 @@ They are the Sørmirbæren: The *Serpentborn*.<end>
 They are a tribe of proud, strong warriors, intolerant of weakness and fear - and outsiders and what they represent. These serpent-filled waters they deem sacred, and they'll punish everyone unworthy of entering them by spilling their guts for the very same serpents to feast on... or worse. <end>
 
 =>q794
-Это племя гордых, сильных воинов, нетерпимых к слабости и страху, а также к чужакам, и к тому, что они символизируют. Эти наполненные змеями воды они считают священными, и они накажут любого недостойного вошедшего в них, выпустив им кишки, как угощение для тех же змей... или ещё хуже.<end>
+Это племя гордых, сильных воинов, нетерпимых к слабости и страху, а также к чужакам, и к тому, что они символизируют. Эти наполненные змеями воды они считают священными, и они накажут любого недостойного вошедшего в них, выпустив им кишки, как угощение для тех же змей... или ещё хуже. <end>
 
 =>q795_original
 
@@ -5113,7 +5113,7 @@ It is as though they recognize these ruins as monuments of decadence.<end>
 Whatever the reason may be, kid, one thing is certain: Everything they do emerges from and is guided by their worship of the Serpent - Flottsørmir. <end>
 
 =>q804
-Какова бы ни была причина, малыш$(#/ка), одно ясно: Всё, что бы они ни делали, вытекает и руководствуется из их культа Змею - Флотсоурмиру.<end>
+Какова бы ни была причина, малыш$(#/ка), одно ясно: Всё, что бы они ни делали, вытекает и руководствуется из их культа Змею - Флотсоурмиру. <end>
 
 =>a805_original
 Tell me about Flottsørmir.<end>
@@ -5161,13 +5161,13 @@ Natives, pirates, a community of muties<end>
 ::He puffs smoke.:: <end>
 
 =>q812
-::Он выпускает клуб дыма.::<end>
+::Он выпускает клуб дыма.:: <end>
 
 =>q813_original
  and as of recently that damn expedition.<end>
 
 =>q813
-а с недавних пор ещё эта проклятая экспедиция.<end>
+ а с недавних пор ещё эта проклятая экспедиция.<end>
 
 =>a814_original
 About the Grim Jetters...<end>
@@ -5227,7 +5227,7 @@ What can you tell me about them?<end>
 The Black Sea has been refuge for generations upon generations of pirate crews. They come with the flow and disappear with the ebb, leaving but a few stragglers to wait for the next flow. <end>
 
 =>q823
-Чёрное море служило убежищем для многих поколений пиратов. Они приходят с приливом и исчезают с отливом, оставляя несколько недобитков до следующего их прихода.<end>
+Чёрное море служило убежищем для многих поколений пиратов. Они приходят с приливом и исчезают с отливом, оставляя несколько недобитков до следующего их прихода. <end>
 
 =>q824_original
 The Grim Jetters have by far been the largest, most successful crew yet, but as with every other crew, their ebb too came.<end>
@@ -5357,7 +5357,7 @@ The pirates. Tell me about them.<end>
 The Grim Jetters. <end>
 
 =>q844
-Беспощадные всадники.<end>
+Беспощадные всадники. <end>
 
 =>a845_original
 What can you tell me about the muties?<end>
@@ -5369,13 +5369,13 @@ What can you tell me about the muties?<end>
 ::He takes a deep breath. :: <end>
 
 =>q846
-::Он делает глубокий вдох. ::<end>
+::Он делает глубокий вдох. :: <end>
 
 =>q847_original
 They are no more, no more, kid. They were sad creatures emburdened by one of the worst things science and "logic" have produced. <end>
 
 =>q847
-Их нет, больше нет, малыш$(#/ка). Они были жалкими созданиями, обременёнными одной из худших вещей, которую произвела наука и "логика".<end>
+Их нет, больше нет, малыш$(#/ка). Они были жалкими созданиями, обременёнными одной из худших вещей, которую произвела наука и "логика". <end>
 
 =>q848_original
 But not even in death does their suffering end...<end>
@@ -5461,7 +5461,7 @@ What do you know about the expedition?<end>
 Your mates know more than me. The two weeks since it all started have been rough for the Jetters... since Aegis Incorporated came here. <end>
 
 =>q860
-Твои друзья знают больше, чем я. Две недели после того, как всё это началось, были тяжёлыми для всадников... с тех пор как сюда пришла Эгида Инкорпорейтед.<end>
+Твои друзья знают больше, чем я. Две недели после того, как всё это началось, были тяжёлыми для всадников... с тех пор как сюда пришла Эгида Инкорпорейтед. <end>
 
 =>q861_original
 That's what they're called. ::He puffs smoke.:: Got into trouble with the Jetters right away, and of course with the natives - the Sørmirbæren. Of course.<end>
@@ -5479,19 +5479,19 @@ Why are they here?<end>
 Sifting through the ruins. Why else? Sifting, mhm. There's plenty to find here, kid, plenty. They came with boats, jets, loaded up with all their fancy equipment and armed to the teeth. They sailed in like all of this is theirs... <end>
 
 =>q863
-Покопаться в руинах. Зачем же ещё? Покопаться, хмм. Там много чего можно найти, малыш, очень много. Они прибыли на лодках, гидроциклах, нагруженные всем своим навороченным снаряжением и вооружённые до зубов, как будто всё это принадлежит им...<end>
+Покопаться в руинах. Зачем же ещё? Покопаться, хмм. Там много чего можно найти, малыш, очень много. Они прибыли на лодках, гидроциклах, нагруженные всем своим навороченным снаряжением и вооружённые до зубов, как будто всё это принадлежит им... <end>
 
 =>q864_original
 ...and left behind destruction and death. <end>
 
 =>q864
-...и оставил после себя разрушение и смерть.<end>
+...и оставил после себя разрушение и смерть. <end>
 
 =>q865_original
 ::He shakes his head.:: <end>
 
 =>q865
-::Он качает головой.::<end>
+::Он качает головой.:: <end>
 
 =>q866_original
 Fools. Dead fools.<end>
@@ -5503,7 +5503,7 @@ Fools. Dead fools.<end>
 They got what they asked for. <end>
 
 =>q867
-Они получили то, что хотели.<end>
+Они получили то, что хотели. <end>
 
 =>q868_original
 <end>
@@ -5521,13 +5521,13 @@ You dislike them?<end>
 I dislike them. I dislike them for their arrogance... but I also pity them, kid, I pity the fools. I do, I do. ::He puffs smoke.:: <end>
 
 =>q870
-У меня к ним антипатия. Они мне не нравятся из-за их высокомерия... но я также жалею их, малыш$(#/ка), мне жаль этих дурней... Да, да. ::Он выдыхает дым.::<end>
+У меня к ним антипатия. Они мне не нравятся из-за их высокомерия... но я также жалею их, малыш$(#/ка), мне жаль этих дурней... Да, да. ::Он выдыхает дым.:: <end>
 
 =>q871_original
 In some ways me and them, we're alike. We both want something from the Black Sea. But the difference is that I know what to leave be. I know my place. <end>
 
 =>q871
-В каком-то смысле у меня с ними много общего. Мы хотим чего-то от Чёрного моря. Но разница в том, что я знаю, когда остановиться. Я знаю своё место.<end>
+В каком-то смысле у меня с ними много общего. Мы хотим чего-то от Чёрного моря. Но разница в том, что я знаю, когда остановиться. Я знаю своё место. <end>
 
 =>q872_original
 They don't.<end>
@@ -5539,7 +5539,7 @@ They don't.<end>
 Some things you should just leave be. They, they don't know their place. <end>
 
 =>q873
-В мире есть вещи, которые лучше просто оставить в покое. Они же, они забыли, кто они есть.<end>
+В мире есть вещи, которые лучше просто оставить в покое. Они же, они забыли, кто они есть. <end>
 
 =>q874_original
 ...and the fools paid the price.<end>
@@ -5557,13 +5557,13 @@ Why were they here?<end>
 ::He inspects you.:: Hmm. <end>
 
 =>q876
-::Он осматривает вас.:: Хмм.<end>
+::Он осматривает вас.:: Хмм. <end>
 
 =>q877_original
 They came here about two weeks ago, this... Aegis Incorporated. <end>
 
 =>q877
-Они прибыли сюда около двух недель назад, эта... Эгида Инкорпорейтед.<end>
+Они прибыли сюда около двух недель назад, эта... Эгида Инкорпорейтед. <end>
 
 =>a878_original
 What's your opinion on Aegis Incorporated?<end>
@@ -5649,7 +5649,7 @@ Where exactly is The Pirate Bay?<end>
 Southeast of here, <end>
 
 =>q890
-К юго-востоку отсюда,<end>
+К юго-востоку отсюда, <end>
 
 =>q891_original
 beyond the walls of Port Ceto.<end>
@@ -5661,13 +5661,13 @@ beyond the walls of Port Ceto.<end>
 And beyond that - ruins. Ruins. ::He stares into the sea, appearing as though he's looking straight through the surface.:: There's another, smaller bay further east, but that's infested with creepers. I know little about it. <end>
 
 =>q892
-А дальше - руины. ::Он так смотрит на море, будто его взгляд проникает в самые глубины:: Дальше на восток есть ещё одна бухта, поменьше, но её заполонили ползуны. Я об этом мало что знаю.<end>
+А дальше - руины. ::Он так смотрит на море, будто его взгляд проникает в самые глубины:: Дальше на восток есть ещё одна бухта, поменьше, но её заполонили ползуны. Я об этом мало что знаю. <end>
 
 =>q893_original
 But The Pirate Bay, yes... ::He puffs smoke.:: for <end>
 
 =>q893
-Пиратская бухта, это да... ::Он выдыхает дым.:: ибо,<end>
+Пиратская бухта, это да... ::Он выдыхает дым.:: ибо, <end>
 
 =>q894_original
 decades and decades it's been a safe haven for various pirate crews, hence the name. ::He puffs smoke.::<end>
@@ -5679,13 +5679,13 @@ decades and decades it's been a safe haven for various pirate crews, hence the n
 For <end>
 
 =>q895
-Ибо<end>
+Ибо <end>
 
 =>q896_original
 South of here, <end>
 
 =>q896
-К югу отсюда,<end>
+К югу отсюда, <end>
 
 =>a897_original
 The monolith at the entrance to the Black Sea, what do you know about it?<end>
@@ -5871,7 +5871,7 @@ Why are you here?<end>
 I'm... searching. <end>
 
 =>q925
-Я... в поиске.<end>
+Я... в поиске. <end>
 
 =>a926_original
 For what?<end>
@@ -5965,7 +5965,7 @@ Family - no. Friends... I have people I cooperate with: muties, pirates... even 
 But friends in a traditional sense? No. <end>
 
 =>q940
-Друзей, в традиционном смысле, то нет.<end>
+Друзей, в традиционном смысле, то нет. <end>
 
 =>q941_original
 The closest would be, perhaps, the people like you with whom I can discuss these fundamental questions of reality. Perhaps, but still... ::He puffs smoke.::<end>
@@ -6198,7 +6198,7 @@ Muties... Port Ceto... northeastern waters... geyser village...
 ::He shakes his head.:: My eyes and screens don't really get along, kid. Haven't for a long time. ::He puffs smoke.:: <end>
 
 =>q975
-::Он качает головой.:: Мои глаза уже и с экранами не очень-то ладят, малыш$(#/ка). Особенно если долго смотреть. ::Он выпускает клуб дыма.::<end>
+::Он качает головой.:: Мои глаза уже и с экранами не очень-то ладят, малыш$(#/ка). Особенно если долго смотреть. ::Он выпускает клуб дыма.:: <end>
 
 =>q976_original
 And besides, you know my stance on high technology.<end>
@@ -6240,13 +6240,13 @@ I'll be hitting $(context.npc_xpbl_ferryman_firstNextLocation) first, and after 
 That's the plan, kid. <end>
 
 =>q982
-Таков план, малыш$(#/ка).<end>
+Таков план, малыш$(#/ка). <end>
 
 =>q983_original
 There you have it. <end>
 
 =>q983
-Так, готово.<end>
+Так, готово. <end>
 
 =>q984_original
 Doesn't concern you.<end>
@@ -6294,7 +6294,7 @@ Looks pretty powerful.<end>
 'Cause it is. ::He nods.:: It is. <end>
 
 =>q991
-Потому что это так и есть. ::Он кивает.:: Да.<end>
+Потому что это так и есть. ::Он кивает.:: Да. <end>
 
 =>q992_original
 You got something in mind, kid?<end>
@@ -6330,7 +6330,7 @@ Yes.<end>
 That's dangerous, kid. Real dangerous. <end>
 
 =>q997
-Это опасно, малыш$(#/ка). Очень опасно.<end>
+Это опасно, малыш$(#/ка). Очень опасно. <end>
 
 =>a998_original
 I know, but they're necessary to protect the expedition.<end>
@@ -6342,7 +6342,7 @@ I know, but they're necessary to protect the expedition.<end>
 ::His stare bears no sympathy for your cause. He puffs smoke and continues.:: <end>
 
 =>q999
-::В его взгляде нет сочувствия к вашей проблеме. Он выдыхает дым и продолжает.::<end>
+::В его взгляде нет сочувствия к вашей проблеме. Он выдыхает дым и продолжает.:: <end>
 
 =>q1000_original
 They're gonna be deployed around the island, ain't they? Mines know no friends, kid. They'll be a danger to every ship in the Black Sea.
@@ -6457,7 +6457,7 @@ How old is that thing?<end>
 Old. But it gets the job done. <end>
 
 =>q1015
-Старый. Но свою работу делает.<end>
+Старый. Но свою работу делает. <end>
 
 =>q1016_original
 ::He nods and puffs smoke.::<end>
@@ -6499,13 +6499,13 @@ Great. I'll call you if I need something.<end>
 ::He puffs smoke and shakes his head.:: No can do. We're talking about live mines here. <end>
 
 =>q1022
-::Он выдыхает дым и качает головой.:: Нет, не могу. Мы говорим о действующих минах?<end>
+::Он выдыхает дым и качает головой.:: Нет, не могу. Мы говорим о действующих минах? <end>
 
 =>q1023_original
 A thousand charons. <end>
 
 =>q1023
-Тысяча харонов.<end>
+Тысяча харонов. <end>
 
 =>a1024_original
 ::[Mercantile]:: I know it's a dangerous job, but we're tight on resources. We can only spare eight hundred.<end>
@@ -6577,7 +6577,7 @@ You provoked them. You're in their waters.<end>
 And not only that. These mines... ::He stops to puff smoke.:: <end>
 
 =>q1035
-И не только это. Эти мины... ::Он останавливается, чтобы выдохнуть дым.::<end>
+И не только это. Эти мины... ::Он останавливается, чтобы выдохнуть дым.:: <end>
 
 =>a1036_original
 I think so.<end>
@@ -6625,7 +6625,7 @@ Mhm.<end>
 The mines are live. ::He puffs smoke.:: <end>
 
 =>q1043
-Мины действующие. ::Он выдыхает дым.::<end>
+Мины действующие. ::Он выдыхает дым.:: <end>
 
 =>a1044_original
 Think of them as military artifacts.<end>
@@ -6691,13 +6691,13 @@ For science.<end>
 ::He merely chuckles.:: <end>
 
 =>q1054
-::Он только усмехается.::<end>
+::Он только усмехается.:: <end>
 
 =>q1055_original
 Look, kid: <end>
 
 =>q1055
-Слушай, малыш$(#/ка):<end>
+Слушай, малыш$(#/ка): <end>
 
 =>q1056_original
 Normally I wouldn't give a rotten fish about moving that submarine for you, but I have this feeling doing so would... yes, would bring an end to this whole chaos much quicker.
@@ -6707,7 +6707,7 @@ But, I'll need to cover my expenses. <end>
 =>q1056
 В другом случае, я бы и тухлую рыбу не поменял на буксировку подводной лодки для тебя, но у меня такое чувство, что это могло бы... да, положило бы конец всему этому хаосу гораздо быстрее.
 
-Но мне нужно будет покрыть свои расходы.<end>
+Но мне нужно будет покрыть свои расходы. <end>
 
 =>q1057_original
 Where do you need it moved?<end>
@@ -6743,7 +6743,7 @@ Ah, yes, just east of here.<end>
 I'll tow the submarine as soon as I'm done here. <end>
 
 =>q1062
-Я отбуксирую подводную лодку, как только закончу здесь.<end>
+Я отбуксирую подводную лодку, как только закончу здесь. <end>
 
 =>q1063_original
 That'll cost you seven hundred charons.<end>
@@ -6773,7 +6773,7 @@ It's a long and dangerous haul, kid. The money on its own I care little about, b
 Five hundred it is. <end>
 
 =>q1067
-Пятьсот.<end>
+Пятьсот. <end>
 
 =>q1068_original
 ::He nods.:: It's enough.<end>
@@ -6795,7 +6795,7 @@ Fine. <end>
 =>q1070
 ::Он считает и кладёт монеты в карман.::
 
-Отлично.<end>
+Отлично. <end>
 
 =>a1071_original
 Great. Here it is then. ::Give him 500 stygian coins.::<end>
@@ -6807,19 +6807,19 @@ Great. Here it is then. ::Give him 500 stygian coins.::<end>
 Five hundred... no. But six hundred... I'll settle for that. <end>
 
 =>q1072
-Пятьсот... нет. Но за шестьсот... я соглашусь.<end>
+Пятьсот... нет. Но за шестьсот... я соглашусь. <end>
 
 =>q1073_original
 Six hundred it is. <end>
 
 =>q1073
-Шестьсот.<end>
+Шестьсот. <end>
 
 =>q1074_original
 So... seven hundred. <end>
 
 =>q1074
-Итак... семьсот.<end>
+Итак... семьсот. <end>
 
 =>a1075_original
 ::[Mercantile]:: That's a lot of money. How about six hundred?<end>
@@ -6891,7 +6891,7 @@ I'll let you know when I find out.<end>
 ::He puffs smoke and looks around.:: Peace and quiet. Tempting... <end>
 
 =>q1086
-::Он выдыхает дым и оглядывается.:: Тишина и покой. Заманчиво...<end>
+::Он выдыхает дым и оглядывается.:: Тишина и покой. Заманчиво... <end>
 
 =>q1087_original
 Tempting...<end>
@@ -6913,7 +6913,7 @@ Fine. Fine, I'll tow your submarine, kid. <end>
 =>q1089
 ::Он делает длинную затяжку и выпускает дым в воздух.::
 
-Хорошо, хорошо, я отбуксирую твою подводную лодку, малыш$(#/ка).<end>
+Хорошо, хорошо, я отбуксирую твою подводную лодку, малыш$(#/ка). <end>
 
 =>q1090_original
 <end>
@@ -7015,7 +7015,7 @@ You've seen it, haven't you?<end>
 I have, I have. <end>
 
 =>q1106
-У меня, у меня.<end>
+У меня, у меня. <end>
 
 =>a1107_original
 No. Just asking.<end>
@@ -7479,7 +7479,7 @@ I said I'm sorry. For how I treated you. I didn't come here to disrespect you. I
 Unnecessary... ::He chuckles.:: Enough fooling around. <end>
 
 =>q1182
-Это лишнее... ::Он смеётся.:: Ладно, шутки в сторону.<end>
+Это лишнее... ::Он смеётся.:: Ладно, шутки в сторону. <end>
 
 =>q1183_original
 Why did you come to me?<end>
@@ -7545,7 +7545,7 @@ That's what they all say...<end>
 Your euthanizer, old man. ::Attack!:: <end>
 
 =>a1193
-Это твой эвтанайзер, старик. ::Напасть!::<end>
+Это твой эвтанайзер, старик. ::Напасть!:: <end>
 
 =>a1194_original
 Um... sorry for bothering you. I'll get going.<end>
@@ -7649,7 +7649,7 @@ I see you've started opening them, I do. <end>
 =>q1209
 ::Он говорит сквозь дым.::
 
-Я смотрю, ты уже их открываешь.<end>
+Я смотрю, ты уже их открываешь. <end>
 
 =>q1210_original
 The lighthouse. Its luminescence... captivating, ain't it?<end>
@@ -7721,7 +7721,7 @@ Art.<end>
 Art. ::He chuckles.:: <end>
 
 =>q1221
-Искусство. ::Он усмехается.::<end>
+Искусство. ::Он усмехается.:: <end>
 
 =>q1222_original
 The world don't care about Art anymore, kid. Don't care. Art requires culture, and culture is in short supply. What we get now is mostly the perversion of Art, barring a few exceptions popping up from time to time. The art of Art has been lost a long time ago.
@@ -7763,13 +7763,13 @@ Technology.<end>
 Technology. <end>
 
 =>q1226
-Технология.<end>
+Технология. <end>
 
 =>q1227_original
 ::He shakes his head.:: You think more technology is gonna help this world, eh? <end>
 
 =>q1227
-::Он качает головой.:: Думаешь, новые технологии спасут этот мир?<end>
+::Он качает головой.:: Думаешь, новые технологии спасут этот мир? <end>
 
 =>q1228_original
 Typical. ::He chuckles.:: Typical...<end>
@@ -7787,7 +7787,7 @@ History.<end>
 History... ::He chuckles.:: <end>
 
 =>q1230
-История... ::Он усмехается.::<end>
+История... ::Он усмехается.:: <end>
 
 =>q1231_original
 Do you think we would be here if people cared about history? They care only - *only* if it's aligned with their worldview, otherwise it gets tossed into the ocean like a torn rag or distorted to such extremes that it had better been tossed.
@@ -7809,7 +7809,7 @@ Weapons.<end>
 Mankind's favorite. So that we may further cull each other. <end>
 
 =>q1233
-Фаворит человечества. Чтобы мы могли и дальше убивать друг друга.<end>
+Фаворит человечества. Чтобы мы могли и дальше убивать друг друга. <end>
 
 =>a1234_original
 New animal species.<end>
@@ -7821,7 +7821,7 @@ New animal species.<end>
 Animals. Which you killed, I presume? At least those that wouldn't move out of the way. <end>
 
 =>q1235
-Животные. Тобой умерщвлённые, я полагаю? По крайней мере, те, которые не сдвинутся с места.<end>
+Животные. Тобой умерщвлённые, я полагаю? По крайней мере, те, которые не сдвинутся с места. <end>
 
 =>a1236_original
 Machines.<end>
@@ -7833,7 +7833,7 @@ Machines.<end>
 Ah, machines - technology. <end>
 
 =>q1237
-Машины, это и есть технология.<end>
+Машины, это и есть технология. <end>
 
 =>a1238_original
 Not much. Ruins be ruins.<end>
@@ -7941,13 +7941,13 @@ Yes.<end>
 ::You find the ferryman busy as always.:: <end>
 
 =>q1255
-::Вы находите паромщика как всегда занятым.::<end>
+::Вы находите паромщика как всегда занятым.:: <end>
 
 =>q1256_original
 ::Todd doesn't seem to be lagging far behind either.:: <end>
 
 =>q1256
-::Тодд, похоже, тоже не сильно отстаёт.::<end>
+::Тодд, похоже, тоже не сильно отстаёт.:: <end>
 
 =>q1257_original
 <end>
@@ -7982,4 +7982,3 @@ You again.<end>
 
 =>q1261
 Снова ты.<end>
-

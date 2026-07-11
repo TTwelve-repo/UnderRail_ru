@@ -392,7 +392,7 @@ Not a problem. I'm not going anywhere.<end>
 What can you tell me about those robed oculites? <end>
 
 =>a63
-Что вы можете рассказать мне о тех окулитах в робах?<end>
+Что вы можете рассказать мне о тех окулитах в робах? <end>
 
 =>q64_original
 We call them Whisperers. They are quite an interesting breed, I must say. They all belong to a single clan of psi-warriors, who call themselves Khazum Morakht. A very rough sounding word, I know. But believe me, it fits them well.<end>
@@ -451,4 +451,3 @@ What do you need, $(context.player.Name)?<end>
 
 =>q72
 Что вам нужно, $(context.player.Name).<end>
-

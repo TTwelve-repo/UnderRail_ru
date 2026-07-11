@@ -235,7 +235,7 @@ Father? Is that you? <end>
 =>q35
 ::Лицо улыбается, когда вы приближаетесь.::
 
-Отец? Это ты?<end>
+Отец? Это ты? <end>
 
 =>a36_original
 Yes, it is me, IRIS.<end>
@@ -341,7 +341,7 @@ Who am I, IRIS?<end>
 You are Stamen Bermann, head of AI Research and Development department of Biocorp, currently employed at Hollow Earth research complex, Deep Caverns. <end>
 
 =>q52
-Ты Стамен Бергман, руководитель отдела исследования и разработки искусственного интеллекта Биокорп, в настоящее время сотрудник научно-исследовательского комплекса Полая Земля, Глубокие пещеры.<end>
+Ты Стамен Бергман, руководитель отдела исследования и разработки искусственного интеллекта Биокорп, в настоящее время сотрудник научно-исследовательского комплекса Полая Земля, Глубокие пещеры. <end>
 
 =>a53_original
 Tell me more.<end>
@@ -439,7 +439,7 @@ Tell me about the famine.<end>
 For a number of years, the food production in Underrail has been in decline, which heavily impacted both the underclass and middle class citizens, resulting in violent riots and increasing tensions in both North and South Underrail. <end>
 
 =>q67
-На протяжении нескольких лет производство продовольствия в Подземке было в упадке, что затронуло как низший, так и средний класс граждан, и вылилось во всё более и более ожесточённые столкновения и рост напряжённости в Северной и Южной Подземке.<end>
+На протяжении нескольких лет производство продовольствия в Подземке было в упадке, что затронуло как низший, так и средний класс граждан, и вылилось во всё более и более ожесточённые столкновения и рост напряжённости в Северной и Южной Подземке. <end>
 
 =>q68_original
 You thought the famine was due to bad management from the apex technocrats, as well as to other recent environmental and geopolitical changes. Your predictions for the future of Biocorp and Underrail were negative in general, this only further attributing to it.<end>
@@ -493,7 +493,7 @@ I have been to RAF-013 once. I was attacked by a whole lot of these bots.<end>
 Each facility has its own dedicated subsystem capable of managing the whole facility, but without outside interference, the default instructions are to maintain the facility, maintain a set number of units and to defend itself against intrusions. <end>
 
 =>q76
-Каждый объект имеет собственную выделенную подсистему, способную управлять всем объектом. Без вмешательства извне, инструкции по умолчанию включают обслуживание объекта, обслуживание установленного количества боевых единиц и защиту от вторжения.<end>
+Каждый объект имеет собственную выделенную подсистему, способную управлять всем объектом. Без вмешательства извне, инструкции по умолчанию включают обслуживание объекта, обслуживание установленного количества боевых единиц и защиту от вторжения. <end>
 
 =>q77_original
 Unless a specific directive makes for exceptions, all intruders are treated as hostiles and are designated for elimination.<end>
@@ -581,7 +581,7 @@ Father, what have I done? <end>
 =>q90
 Я обнаружила большое количество мёртвых тел всему объекту, и даже одну человеческую голову в криогенном контейнере, и это я поместила её туда. Я или другая я.
 
-Отец, что я наделала?<end>
+Отец, что я наделала? <end>
 
 =>a91_original
 There has been some issues after your reboot. I will take care of it, and there is nothing to worry about. Ignore all these anomalies you detect.<end>
@@ -714,4 +714,3 @@ What can I do for you, Father?<end>
 
 =>q112
 Что я могу для тебя сделать, Отец?<end>
-

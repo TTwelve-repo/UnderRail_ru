@@ -26,7 +26,7 @@ Kharon. Welcome. ::wheeze::<end>
 I'm Marinov. Ma-ree-nov. ::wheeze:: What is your name? <end>
 
 =>q5
-Я Маринов. Ма-ри-нов. ::хрипит:: Как ваше имя?<end>
+Я Маринов. Ма-ри-нов. ::хрипит:: Как ваше имя? <end>
 
 =>q6_original
 You're... a clever one. ::wheeze:: You know what's going on.<end>
@@ -62,7 +62,7 @@ I can't help you.<end>
 The medicine has... ::wheeze:: arrived. Thank you, thank you very much. <end>
 
 =>q11
-Лекарства... ::хрипит:: прибыли. Спасибо, большое спасибо.<end>
+Лекарства... ::хрипит:: прибыли. Спасибо, большое спасибо. <end>
 
 =>q12_original
 You can go speak to Wesley now.<end>
@@ -140,7 +140,7 @@ The natives and pirates don't bother you?<end>
 The natives - Serpentines - never. The pirates... depends. We've had sporadic *interactions* with various crews in the past... ::wheeze:: but they'd always leave us alone in the end. <end>
 
 =>q24
-Местные - Серпантины - никогда. Пираты... смотря как. У нас были спорадические "контакты" с различными группами в прошлом... ::хрипит:: но они всегда оставляли нас в одиночестве в итоге.<end>
+Местные - Серпантины - никогда. Пираты... смотря как. У нас были спорадические "контакты" с различными группами в прошлом... ::хрипит:: но они всегда оставляли нас в одиночестве в итоге. <end>
 
 =>q25_original
 The only unaffected we've ever had good relations with is the Ferryman.<end>
@@ -188,7 +188,7 @@ It chose you?<end>
 No. Of course not, no. <end>
 
 =>q32
-Нет. Конечно, нет.<end>
+Нет. Конечно, нет. <end>
 
 =>a33_original
 You stumbled upon it then?<end>
@@ -200,7 +200,7 @@ You stumbled upon it then?<end>
 No. <end>
 
 =>q34
-Нет.<end>
+Нет. <end>
 
 =>a35_original
 Tell me about yourself.<end>
@@ -300,13 +300,13 @@ What can you tell me about the Ferryman?<end>
 He's a scavenger. Has a large ferry with a crane which he uses to bring out various submerged... ::wheeze:: items. Sails all over the Black Sea with apparent impunity, as neither the Serpentines nor <end>
 
 =>q50
-Он мусорщик. Имеет большой паром с краном, который он использует для поднятия всяких затопленных... ::хрипит:: вещей. Плавает по всему Чёрному морю с явной безнаказанностью, так как ни Серпантины, ни<end>
+Он мусорщик. Имеет большой паром с краном, который он использует для поднятия всяких затопленных... ::хрипит:: вещей. Плавает по всему Чёрному морю с явной безнаказанностью, так как ни Серпантины, ни <end>
 
 =>q51_original
 your fellow <end>
 
 =>q51
-ваши<end>
+ваши <end>
 
 =>q52_original
 pirates disturb him.<end>
@@ -324,7 +324,7 @@ I can understand the pirates, but how come the natives leave him alone?<end>
 That I do not know. <end>
 
 =>q54
-Этого я не знаю.<end>
+Этого я не знаю. <end>
 
 =>q55_original
 He is an occassional visitor that trades with us the things he scavenges: tools, items, materials - those kinds of things. He docks at the southern part of the island where Eustace and a few others meet him and unload the goods. That's it. I've spoken to him on only a few ::wheeze:: occassions, and only briefly. Wise, capable man.<end>
@@ -348,7 +348,7 @@ What else do you know about him?<end>
 Not much. <end>
 
 =>q58
-Не многое.<end>
+Не многое. <end>
 
 =>a59_original
 I wanted to ask you about your life here...<end>
@@ -420,7 +420,7 @@ I need to speak to you about certain medical supplies.<end>
 Very well. <end>
 
 =>q70
-Хорошо.<end>
+Хорошо. <end>
 
 =>q71_original
 What is this about? ::wheeze::<end>
@@ -510,7 +510,7 @@ I'm $(context.player.Name). Didn't get to thank you for fixing me up, doc.<end>
 You're welcome. <end>
 
 =>q85
-Не стоит благодарности.<end>
+Не стоит благодарности. <end>
 
 =>q86_original
 ::He extends his hand, clearly waiting for a handshake.::<end>
@@ -528,7 +528,7 @@ You're welcome. <end>
 ::His handshake is unexpectedly firm, considering how frail his hands appear.:: <end>
 
 =>q88
-::Его рукопожатие неожиданно крепкое, учитывая, насколько хрупкими выглядят его руки.::<end>
+::Его рукопожатие неожиданно крепкое, учитывая, насколько хрупкими выглядят его руки.:: <end>
 
 =>q89_original
 <end>
@@ -546,7 +546,7 @@ So, these medical supplies... ::wheeze::<end>
 ::He observes you for a moment. One eye moves up and down, then center; the other eye follows the pattern but with a slight delay.:: We don't see a lot of unaffected coming to us, so it's always good to be reminded of how we used to look. <end>
 
 =>q91
-::Он осматривает вас некоторое время. Один глаз движется вверх и вниз, затем в центр; другой глаз следует позади, но с небольшой задержкой.:: К нам не часто заходят те, кто без повреждений, поэтому всегда приятно напомнить себе о том, как мы выглядели раньше.<end>
+::Он осматривает вас некоторое время. Один глаз движется вверх и вниз, затем в центр; другой глаз следует позади, но с небольшой задержкой.:: К нам не часто заходят те, кто без повреждений, поэтому всегда приятно напомнить себе о том, как мы выглядели раньше. <end>
 
 =>q92_original
 What drove you to come here, if I may ask?<end>
@@ -640,7 +640,7 @@ Not at all. I have some time to chat if you wish.<end>
 In that case... I best introduce myself. ::wheeze:: <end>
 
 =>q106
-В таком случае... Мне лучше представиться. ::хрипит::<end>
+В таком случае... Мне лучше представиться. ::хрипит:: <end>
 
 =>q107_original
 I'd be delighted. ::wheeze::<end>
@@ -778,7 +778,7 @@ Can't talk about it. Wesley's ears only.<end>
 Ah. Then I won't interfere. We'll all find out sooner or later. ::wheeze:: <end>
 
 =>q129
-Ах. Тогда не буду вмешиваться. Мы всё равно узнаем рано или поздно. ::хрипит::<end>
+Ах. Тогда не буду вмешиваться. Мы всё равно узнаем рано или поздно. ::хрипит:: <end>
 
 =>a130_original
 We can discuss other things if you'd like.<end>
@@ -842,7 +842,7 @@ My touch didn't bother you when you needed help. ::wheeze::<end>
 Well, as you wish... I understand. <end>
 
 =>q139
-Что ж, как пожелаете... Я понимаю.<end>
+Что ж, как пожелаете... Я понимаю. <end>
 
 =>q140_original
 It's not contagious.<end>
@@ -902,7 +902,7 @@ Physical.<end>
 Very well. <end>
 
 =>q149
-Хорошо.<end>
+Хорошо. <end>
 
 =>q150_original
 <end>
@@ -956,7 +956,7 @@ The tumors themselves are composed of mostly solid tissue filled with a mixture 
 Hmmm... I will have to trust you on that. ::wheeze:: In any case, it is a strong acid, whatever it may be. <end>
 
 =>q158
-Хммм... мне придётся поверить вам на слово. ::хрипит:: В любом случае, это сильная кислота, какой бы она ни была.<end>
+Хммм... мне придётся поверить вам на слово. ::хрипит:: В любом случае, это сильная кислота, какой бы она ни была. <end>
 
 =>q159_original
 My hypothesis is that such extreme acid secretion is linked to the biosynthesis of amino and nucleic acids in the body of the affected - the very building blocks of DNA, of life. This is where the purpose of the mutagen I mentioned earlier comes in. ::wheeze:: All affected, no matter the severity of the mutation, live to be very, very... very old.
@@ -1058,7 +1058,7 @@ Well, I'm sure you're... you're probably right. ::wheeze::<end>
 Anyway, what I, um... wanted to say was that <end>
 
 =>q173
-Так или иначе, что, я, гм... хотел сказать, что<end>
+Так или иначе, что, я, гм... хотел сказать, что <end>
 
 =>q174_original
 the level of exposure dictates the severity of the mutation - at least with this type of mutagen - but the first symptoms appear to be universal: nausea, vomiting, chest and abdominal pain, skin irritation. All of these appear to be reactions to the chemical itself and have little to do with the mutation yet. That being said, the mutation occurs rapidly, changing the affected person completely within days, hours - and in most extreme cases even minutes. ::wheeze::<end>
@@ -1118,7 +1118,7 @@ Go on.<end>
 Now, <end>
 
 =>q183
-Сейчас<end>
+Сейчас <end>
 
 =>q184_original
 <end>
@@ -1294,7 +1294,7 @@ He's not around here, is he?<end>
 No. <end>
 
 =>q211
-Нет.<end>
+Нет. <end>
 
 =>a212_original
 Physical. Tell me about the specifics of the mutation.<end>
@@ -1500,7 +1500,7 @@ I'm good, thank you. See ya.<end>
 You're still with us. ::wheeze:: <end>
 
 =>q244
-Вы всё ещё с нами. ::хрипит::<end>
+Вы всё ещё с нами. ::хрипит:: <end>
 
 =>q245_original
 It is so much brighter in here... ::wheeze:: And the equipment we will be able to power on without using batteries or having to worry about overloading the system... it's marvelous! Truly marvelous! ::wheeze::<end>
@@ -1531,4 +1531,3 @@ It feels odd having you here. ::He smiles with half of his face.:: I've yet to a
 
 =>q249
 Так странно, что вы здесь. ::Он улыбается на пол-лица.:: Я ещё не привык.<end>
-

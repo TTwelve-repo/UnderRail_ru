@@ -78,7 +78,7 @@ I don't know. I didn't want to tell him anything so he didn't specify.<end>
 Good. I'll keep an eye on him. <end>
 
 =>q13
-Хорошо. Я присмотрю за ним.<end>
+Хорошо. Я присмотрю за ним. <end>
 
 =>q14_original
 You've done well to come to us with this info. Thank you. If you find out more about this person's actions or motivations let me know immediately.<end>
@@ -174,7 +174,7 @@ I've done as he asked.<end>
 In that case you have outgrown your usefulness, spy. <end>
 
 =>q29
-В таком случае, ты больше не нуж$(#ен/на), шпион$(#/ка).<end>
+В таком случае, ты больше не нуж$(#ен/на), шпион$(#/ка). <end>
 
 =>a30_original
 Nothing. I still have it on me here.<end>
@@ -246,7 +246,7 @@ Good. If it's cybernatically modified, chances are Abram can track your movement
 I advise you return it to him and tell him you could not accomplish the mission. <end>
 
 =>q41
-Я советую вернуть её и сказать, что вы не смогли выполнить задание.<end>
+Я советую вернуть её и сказать, что вы не смогли выполнить задание. <end>
 
 =>a42_original
 Abram is in the caves just west of the Junkyard gate and is planning to extract one of your prisoners called Maura through some sort of a tunnel.<end>
@@ -517,4 +517,3 @@ Halt, citizen. This is a restricted area.<end>
 
 =>q86
 Стойте, граждан$(#ин/ка). Это запретная зона.<end>
-

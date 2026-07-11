@@ -680,7 +680,7 @@ I don't know much about it myself, but from my understanding it's a highly valua
 Intriguing. <end>
 
 =>q104
-Интригует.<end>
+Интригует. <end>
 
 =>q105_original
 While I personally do not know anything about this Acorn of yours, if I were to have it I'd gladly bring it with me on my next trip to Nucleus and present it to Tchort.<end>
@@ -924,7 +924,7 @@ All I know is that it's somehow connected to some high-tech machines capable of 
 The Surface? That is most intriguing, $(context.player.Name). <end>
 
 =>q140
-Поверхность? Это больше всего интригует, $(context.player.Name).<end>
+Поверхность? Это больше всего интригует, $(context.player.Name). <end>
 
 =>a141_original
 It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could serve our cause greatly.<end>
@@ -936,7 +936,7 @@ It seems to be a device capable of manufacturing highly advanced things, like ob
 Most intriguing. <end>
 
 =>q142
-Весьма интригует.<end>
+Весьма интригует. <end>
 
 =>a143_original
 It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our cause greatly.<end>
@@ -948,7 +948,7 @@ It's a device capable of utilizing materials from its surroundings in order to c
 That is most intriguing, $(#brother/sister). And it is befitting of such a name - Acorn. <end>
 
 =>q144
-Это очень интригует, $(#брат/сестра). И ему подходит название - Жёлудь.<end>
+Это очень интригует, $(#брат/сестра). И ему подходит название - Жёлудь. <end>
 
 =>a145_original
 It's a supercomputer capable of controlling nanobots that can use materials from their surroundings to construct complex objects and machinery. It could serve our cause greatly.<end>
@@ -1302,7 +1302,7 @@ In that I have no doubt, $(context.player.Name). We rarely get to witness such v
 ::He pauses.:: <end>
 
 =>q201
-::Он делает паузу.::<end>
+::Он делает паузу.:: <end>
 
 =>q202_original
 Make yourself comfortable and let us begin. What do you seek of me?<end>
@@ -1387,4 +1387,3 @@ Tchort is evolution. Welcome to my office. What do you seek, $(context.player.Na
 
 =>q215
 Чорт -- это эволюция. Добро пожаловать в мой кабинет. Что вам нужно, $(context.player.Name)?<end>
-

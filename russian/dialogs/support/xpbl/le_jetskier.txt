@@ -78,7 +78,7 @@ Makes sense. How much?<end>
 Fifty stygian coins to Core City and back. It's to cover for the trip expenses, plain and simple. <end>
 
 =>q13
-Пятьдесят стигийских монет до Кор-Сити и обратно. Это чтобы покрыть расходы на поездку, просто и ясно.<end>
+Пятьдесят стигийских монет до Кор-Сити и обратно. Это чтобы покрыть расходы на поездку, просто и ясно. <end>
 
 =>q14_original
 <end>
@@ -130,7 +130,7 @@ Can we, you know, work out some kind of a deal?<end>
 I'm afraid not. Orders. <end>
 
 =>q21
-Боюсь, что нет. Приказ.<end>
+Боюсь, что нет. Приказ. <end>
 
 =>a22_original
 Can't you just deduce it from my pay?<end>
@@ -142,7 +142,7 @@ Can't you just deduce it from my pay?<end>
 I'm afraid not. Cash only. <end>
 
 =>q23
-Боюсь, что нет. Только наличные.<end>
+Боюсь, что нет. Только наличные. <end>
 
 =>a24_original
 Preposterous!<end>
@@ -208,7 +208,7 @@ Ready to go back?<end>
 ::He greets you with a nod.:: <end>
 
 =>q34
-::Он приветствует вас, кивнув.::<end>
+::Он приветствует вас, кивнув.:: <end>
 
 =>q35_original
 We gotta make this round quick, $(context.player.Name). Situation's critical.<end>
@@ -220,7 +220,7 @@ We gotta make this round quick, $(context.player.Name). Situation's critical.<en
 We've lost far too many troopers, $(context.player.Name). If this continues <end>
 
 =>q36
-Мы потеряли слишком много охранников, $(context.player.Name). Если так пойдёт и дальше,<end>
+Мы потеряли слишком много охранников, $(context.player.Name). Если так пойдёт и дальше, <end>
 
 =>q37_original
 the chief will most likely transfer all jet skiers inland to defend the camp.<end>
@@ -264,11 +264,10 @@ supplies, $(context.player.Name), so better stock up over there. I'll be loaded 
 certain <end>
 
 =>q43
-определённых<end>
+определённых <end>
 
 =>q44_original
 Another round?<end>
 
 =>q44
 Ещё круг?<end>
-

@@ -24,7 +24,7 @@ The standing one? Understood. Out.<end>
 Sec-trooper $(context.player.Name). I'm Sec-trooper Jenkins. <end>
 
 =>q4
-Спец-охранник $(context.player.Name). Я - спец-охранник Дженкинс.<end>
+Спец-охранник $(context.player.Name). Я - спец-охранник Дженкинс. <end>
 
 =>a5_original
 Pleased to meet you. The chief sent me here to receive the keys to one of the jet skis.<end>
@@ -54,7 +54,7 @@ No.<end>
 Don't worry. While there are many different types of jet skis, the one you'll be using is fairly simple to operate. <end>
 
 =>q9
-Ничего страшного. Хотя существует множество различных типов гидроциклов, тот, которым вы будете пользоваться, довольно прост в управлении.<end>
+Ничего страшного. Хотя существует множество различных типов гидроциклов, тот, которым вы будете пользоваться, довольно прост в управлении. <end>
 
 =>q10_original
 You put the key into the ignition, start it, hold the bars with both hands and press the levers behind them to accelerate. Most jet skis do not have brakes; you simply release the levers and the force of the water will stop it fast. Jet skis are simple to operate, but it takes some time getting used to riding them. 
@@ -88,13 +88,13 @@ You'll be using one of the two makeshift jet skis we acquired recently.<end>
 Yours is the <end>
 
 =>q14
-Ваш - тот,<end>
+Ваш - тот, <end>
 
 =>q15_original
 smaller one. <end>
 
 =>q15
-что поменьше.<end>
+что поменьше. <end>
 
 =>q16_original
 Do not let their appearance deceive you; they are mechanically in good condition.<end>
@@ -124,7 +124,7 @@ I understand. Can I get the keys now?<end>
 Yes. <end>
 
 =>q20
-Да.<end>
+Да. <end>
 
 =>q21_original
 <end>
@@ -200,7 +200,7 @@ I'll look for it. Perhaps someone else already found it. Now, is there anything 
 Damn it... ::She looks up.:: Please do that, I am in quite a hurry. And yes, there is something else I wanted to tell you. <end>
 
 =>q32
-Проклятье... ::Она поднимает глаза.:: Пожалуйста, сделайте это, я очень спешу. И да, есть ещё кое-что, что я хотела бы вам рассказать.<end>
+Проклятье... ::Она поднимает глаза.:: Пожалуйста, сделайте это, я очень спешу. И да, есть ещё кое-что, что я хотела бы вам рассказать. <end>
 
 =>q33_original
 <end>
@@ -218,7 +218,7 @@ Here you are. ::She hands you the jet ski key.::<end>
 larger one. <end>
 
 =>q35
-что побольше.<end>
+что побольше. <end>
 
 =>a36_original
 No, and I've heard they're difficult to ride and extremely dangerous.<end>
@@ -230,7 +230,7 @@ No, and I've heard they're difficult to ride and extremely dangerous.<end>
 Some are. Those that have been damaged, modified by non-professionals, have faulty components... But the one you'll be using has been properly maintained and is fairly simple to operate. <end>
 
 =>q37
-Некоторые - да. Те, что были повреждены, модифицированы дилетантами, содержат неисправные компоненты... Но тот, который вы будете использовать, правильно обслуживался и довольно прост в управлении.<end>
+Некоторые - да. Те, что были повреждены, модифицированы дилетантами, содержат неисправные компоненты... Но тот, который вы будете использовать, правильно обслуживался и довольно прост в управлении. <end>
 
 =>a38_original
 Yes.<end>
@@ -242,7 +242,7 @@ Yes.<end>
 Good. Then I don't need to explain how to ride one. <end>
 
 =>q39
-Хорошо. Тогда мне не нужно объяснять, как на нём ездить.<end>
+Хорошо. Тогда мне не нужно объяснять, как на нём ездить. <end>
 
 =>a40_original
 I'm a pro. Just let me have one and off I go.<end>
@@ -254,7 +254,7 @@ I'm a pro. Just let me have one and off I go.<end>
 Excellent then. <end>
 
 =>q41
-Что ж, отлично.<end>
+Что ж, отлично. <end>
 
 =>a42_original
 I came here to receive the keys to one of the jet skis.<end>
@@ -285,4 +285,3 @@ Khm. Have you ridden a jet ski before?<end>
 
 =>q46
 Кхм. Вы прежде катались на гидроцикле?<end>
-

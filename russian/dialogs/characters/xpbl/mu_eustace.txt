@@ -136,7 +136,7 @@ $(context.player.Name), приятно познакомиться.<end>
 ::He nods.:: Yeah. <end>
 
 =>q22
-::Он кивает.:: Ага.<end>
+::Он кивает.:: Ага. <end>
 
 =>a23_original
 $(context.player.Name).<end>
@@ -158,7 +158,7 @@ If you're lookin' for someone to trade with... ::wheeze:: then you're talkin' to
 =>q25
 Делом. ::хрипит:: Всяким разным. ::Он осматривает вас, затем продолжает.:: Охотимся. ::Он делает паузу.:: Делаем ловушки, стрелы... ::Ещё паузу.:: 
 
-Если вы ищете кого-то, с кем можно поторговать... ::хрипит:: значит, вы пришли по... ::кашляет:: адресу. ::Он чуть улыбается.::<end>
+Если вы ищете кого-то, с кем можно поторговать... ::хрипит:: значит, вы пришли по... ::кашляет:: адресу. ::Он чуть улыбается.:: <end>
 
 =>q26_original
 I got some... ::wheeze:: huntin' gear and leather... if you're interested.<end>
@@ -444,7 +444,7 @@ Tell me about the siphoner pools.<end>
 Just west of here... ::cough:: in a small cave. The siphoners are spawnin' like... ::wheeze:: crazy there 'cause it's rich in fish... ::wheeze:: especially if you venture further in. ::wheeze:: <end>
 
 =>q72
-К западу отсюда... ::кашляет:: в маленькой пещере. Брызгуны тусуются там как... ::хрипит:: сумасшедшие, потому что там много рыбы... ::хрипит:: тем более, если вы рискнёте войти внутрь.. ::хрипит::<end>
+К западу отсюда... ::кашляет:: в маленькой пещере. Брызгуны тусуются там как... ::хрипит:: сумасшедшие, потому что там много рыбы... ::хрипит:: тем более, если вы рискнёте войти внутрь.. ::хрипит:: <end>
 
 =>q73_original
 We rarely go too deep... ::wheeze:: 'cause of greater siphoners. Tough critters.<end>
@@ -492,7 +492,7 @@ He had five fingers on his hand, plus the thumb?<end>
 No. He had five fingers in total. <end>
 
 =>q80
-Нет. У него было всего пять пальцев.<end>
+Нет. У него было всего пять пальцев. <end>
 
 =>q81_original
 Used to be Six Fingers, but that... ::wheeze:: didn't work out. ::He almost smiles.::<end>
@@ -504,7 +504,7 @@ Used to be Six Fingers, but that... ::wheeze:: didn't work out. ::He almost smil
 Anyways... ::wheeze:: <end>
 
 =>q82
-Так или иначе... ::хрипит::<end>
+Так или иначе... ::хрипит:: <end>
 
 =>q83_original
 Five Fingers fell asleep and... ::wheeze:: got devoured by the buggers. Another mutie, Rags, got snatched too, as... ::wheeze:: there was no spotter to warn him. ::cough:: All we found of him was an undeployed bear trap.<end>
@@ -534,7 +534,7 @@ He had five fingers in total?<end>
 Five in total. <end>
 
 =>q87
-Всего пять.<end>
+Всего пять. <end>
 
 =>a88_original
 And?<end>
@@ -582,7 +582,7 @@ If memory serves... ::sniff:: the Ferryman spoke... ::wheeze:: about a foul-smel
 But they make some kinda... ::wheeze:: glowin' honey. He, the Ferryman, trades it with us... ::wheeze:: It <end>
 
 =>q95
-Но они делают какой-то... ::хрипит:: светящийся мёд. Он, Паромщик, торгует им с нами... ::хрипит:: Мёд<end>
+Но они делают какой-то... ::хрипит:: светящийся мёд. Он, Паромщик, торгует им с нами... ::хрипит:: Мёд <end>
 
 =>q96_original
 makes the body... ::wheeze:: feel good, yeah. ::sniff::<end>
@@ -594,7 +594,7 @@ makes the body... ::wheeze:: feel good, yeah. ::sniff::<end>
 But the honey... <end>
 
 =>q97
-Но мёд...<end>
+Но мёд... <end>
 
 =>a98_original
 What about this island?<end>
@@ -684,7 +684,7 @@ The newcomers? They came here... ::wheeze:: about two weeks ago, armed... ::whee
 They packed their... ::gurgle:: bags and left... ::wheeze:: so <end>
 
 =>q112
-Они собрали свои... ::булькает:: вещи и уехали... ::хрипит:: так что<end>
+Они собрали свои... ::булькает:: вещи и уехали... ::хрипит:: так что <end>
 
 =>q113_original
 they ain't gonna bother no one anymore.<end>
@@ -696,19 +696,19 @@ they ain't gonna bother no one anymore.<end>
 Since... the Serpentines... ::wheeze:: wiped them out... ::sniff:: <end>
 
 =>q114
-С тех пор... как Серпантины... ::хрипит:: уничтожили их... ::сопит::<end>
+С тех пор... как Серпантины... ::хрипит:: уничтожили их... ::сопит:: <end>
 
 =>q115_original
 The Serpentines... ::wheeze:: are in a war with them now... and <end>
 
 =>q115
-Серпантины... ::хрипит:: сейчас воюют с ними... и<end>
+Серпантины... ::хрипит:: сейчас воюют с ними... и <end>
 
 =>q116_original
 your mates <end>
 
 =>q116
-твои приятели<end>
+твои приятели <end>
 
 =>q117_original
 have shown their... ::wheeze:: displeasure on numerous... ::sniff:: occasions.<end>
@@ -744,7 +744,7 @@ Some have tried... ::wheeze:: but the... ::sniff:: Serpentines drove them out.<e
 the pirates <end>
 
 =>q122
-пиратов<end>
+пиратов <end>
 
 =>a123_original
 What do you know about the pirate territory?<end>
@@ -786,13 +786,13 @@ Tell me about the native territory.<end>
 The Serpentines... ::wheeze:: rule everythin' north of here. Unlike <end>
 
 =>q129
-Серпантины... ::хрипит:: правят всем к северу отсюда. В отличие от<end>
+Серпантины... ::хрипит:: правят всем к северу отсюда. В отличие от <end>
 
 =>q130_original
 your mates... ::wheeze:: <end>
 
 =>q130
-твоих приятелей... ::хрипит::<end>
+твоих приятелей... ::хрипит:: <end>
 
 =>q131_original
 they ain't got fast movin'... ::wheeze:: jets to chase after you. But they... ::wheeze:: got huge ships made of bone... ::sniff:: and leather. And they got natural... ::wheeze:: predators guardin' their waters.<end>
@@ -810,7 +810,7 @@ The Ferryman... has been there. No one... ::wheeze:: else. No one else... ::coug
 the pirates <end>
 
 =>q133
-пираты<end>
+пираты <end>
 
 =>a134_original
 Can you tell me anything about the local wildlife?<end>
@@ -864,7 +864,7 @@ They haven't spread far, though. ::wheeze:: Lotsa hungry critters 'round here.<e
 Forget I said anythin'. <end>
 
 =>q140
-Забудьте, что я это сказал$(#/а).<end>
+Забудьте, что я это сказал$(#/а). <end>
 
 =>q141_original
 ::Wheeze::<end>
@@ -906,13 +906,13 @@ Dangerous. They ain't got the taste for us... ::wheeze:: luckily, so they don't 
 But they love... ::wheeze:: <end>
 
 =>q147
-Но им очень нравятся... ::хрипит::<end>
+Но им очень нравятся... ::хрипит:: <end>
 
 =>q148_original
 your friends on... ::cough:: jets. <end>
 
 =>q148
-твои друзья на... ::кашляет:: гидроциклах.<end>
+твои друзья на... ::кашляет:: гидроциклах. <end>
 
 =>q149_original
 Pirates... ::wheeze:: too. They're fast... and got a real nasty bite. ::wheeze:: All of 'em.<end>
@@ -924,7 +924,7 @@ Pirates... ::wheeze:: too. They're fast... and got a real nasty bite. ::wheeze::
 the newcomers on... ::cough:: jets. <end>
 
 =>q150
-новички на... ::кашляет:: гидроциклах.<end>
+новички на... ::кашляет:: гидроциклах. <end>
 
 =>q151_original
 Your mates too.<end>
@@ -942,7 +942,7 @@ What can you tell me about the local siphoners?<end>
 There are lesser ones... ::wheeze:: and there are greater ones... Pretty much the same things other than size... ::wheeze:: The greater ones taste a bit better, though. <end>
 
 =>q153
-Есть маленькие... ::хрипит:: и есть большие... Почти не отличаются... только размером... ::хрипит:: Но те, что побольше, получше на вкус.<end>
+Есть маленькие... ::хрипит:: и есть большие... Почти не отличаются... только размером... ::хрипит:: Но те, что побольше, получше на вкус. <end>
 
 =>q154_original
 Or so they... ::wheeze:: told me. I can't taste nothin'.<end>
@@ -1014,7 +1014,7 @@ That monolith at the entrance, what do you know about it?<end>
 It's been there since we... ::wheeze:: came. Ain't got the faintest what it... ::sniff:: is or does. <end>
 
 =>q165
-Он был там с тех пор, как мы... ::хрипит:: пришли. Совсем без понятия, что это... ::сопит:: такое или что делает.<end>
+Он был там с тех пор, как мы... ::хрипит:: пришли. Совсем без понятия, что это... ::сопит:: такое или что делает. <end>
 
 =>q166_original
 Heard plenty of stories... ::wheeze:: But I don't know. However... ::sniff:: the Serpentines... they fear it. ::wheeze:: Scares the... ::sniff:: crap outta them.<end>
@@ -1117,4 +1117,3 @@ What do you... ::wheeze:: *need*?<end>
 
 =>q178
 Что вы... ::хрипит:: *хотите*?<end>
-

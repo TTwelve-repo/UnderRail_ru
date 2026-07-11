@@ -170,13 +170,13 @@ I want you to go and talk to these Acid Hunters. I want a confirmation, and poss
 And to make your job even simpler, <end>
 
 =>q25
-И чтобы сделать вашу работу ещё проще,<end>
+И чтобы сделать вашу работу ещё проще, <end>
 
 =>q26_original
 we learned where they're hiding. <end>
 
 =>q26
-мы узнали, где они прячутся.<end>
+мы узнали, где они прячутся. <end>
 
 =>q27_original
 ::He smiles.:: We just need you, the right $(#man/woman) for the job to go and talk to them - that is all. Only use force if it's necessary. Big things are at stake here.<end>
@@ -450,7 +450,7 @@ I understand everything.<end>
 Marvelous, I knew I could count on you. ::He smiles.:: This is what I've been told about finding the Acid Hunters: "Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed." <end>
 
 =>q70
-Чудесно, я знал, что могу рассчитывать на вас. ::Он улыбается.:: Вот что мне сообщили о местонахождении Кислотных охотников: «Иди в канализацию и найди большую сливную трубу, такую, где человек может пройти в полный рост. Из этой большой трубы можно попасть в несколько камер, и в одной из них имеется трещина в стене. Засунь руку в трещину, и ты найдёшь рычаг. Дёрни за рычаг, и откроется вход в их логово».<end>
+Чудесно, я знал, что могу рассчитывать на вас. ::Он улыбается.:: Вот что мне сообщили о местонахождении Кислотных охотников: «Иди в канализацию и найди большую сливную трубу, такую, где человек может пройти в полный рост. Из этой большой трубы можно попасть в несколько камер, и в одной из них имеется трещина в стене. Засунь руку в трещину, и ты найдёшь рычаг. Дёрни за рычаг, и откроется вход в их логово». <end>
 
 =>q71_original
 I'm sure you'll use your skills to find them without problems.<end>
@@ -486,13 +486,13 @@ Where can I find them?<end>
 This is what I've been told about finding the Acid Hunters: "Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed." <end>
 
 =>q76
-Вот что мне сообщили о местонахождении Кислотных охотников: «Иди в канализацию и найди большую сливную трубу, такую, где человек может пройти в полный рост. Из этой большой трубы можно попасть в несколько камер, и в одной из них имеется трещина в стене. Засунь руку в трещину, и ты найдёшь рычаг. Дёрни за рычаг, и откроется вход в их логово».<end>
+Вот что мне сообщили о местонахождении Кислотных охотников: «Иди в канализацию и найди большую сливную трубу, такую, где человек может пройти в полный рост. Из этой большой трубы можно попасть в несколько камер, и в одной из них имеется трещина в стене. Засунь руку в трещину, и ты найдёшь рычаг. Дёрни за рычаг, и откроется вход в их логово». <end>
 
 =>q77_original
 we caught a man who knows where they're hiding. <end>
 
 =>q77
-мы поймали человека, который знает, где они прячутся.<end>
+мы поймали человека, который знает, где они прячутся. <end>
 
 =>a78_original
 What could be so important to force these men to kill each other?<end>
@@ -686,7 +686,7 @@ How do I find the Acid Hunters again?<end>
 This is what I've been told about finding the Acid Hunters: "Go into the sewers and find a large drain pipe, one a man can walk into. This large pipe has exits to different chambers, and one of them has a crack in the wall. Put your hand in the crack and you'll find a lever. Pull the lever, and the entrance to their lair will be revealed." <end>
 
 =>q108
-Вот что мне сообщили о местонахождении Кислотных охотников: «Иди в канализацию и найди большую сливную трубу, такую, где человек может пройти в полный рост. Из этой большой трубы можно попасть в несколько камер, и в одной из них имеется трещина в стене. Засунь руку в трещину, и ты найдёшь рычаг. Дёрни за рычаг, и откроется вход в их логово».<end>
+Вот что мне сообщили о местонахождении Кислотных охотников: «Иди в канализацию и найди большую сливную трубу, такую, где человек может пройти в полный рост. Из этой большой трубы можно попасть в несколько камер, и в одной из них имеется трещина в стене. Засунь руку в трещину, и ты найдёшь рычаг. Дёрни за рычаг, и откроется вход в их логово». <end>
 
 =>q109_original
 Happy hunting.<end>
@@ -722,7 +722,7 @@ I don't know much about it myself, but from my understanding it's a highly valua
 Oh. Interesting. <end>
 
 =>q114
-О, интересно.<end>
+О, интересно. <end>
 
 =>q115_original
 I'm certain it would.<end>
@@ -734,7 +734,7 @@ I'm certain it would.<end>
 However: <end>
 
 =>q116
-Однако:<end>
+Однако: <end>
 
 =>q117_original
 The conversation we've had about the device the Tchortists took... Well, you see what that little thing has brought to this city. That... little piece of technology - all that trouble. 
@@ -770,13 +770,13 @@ $(context.player.Name), держи этот Жёлудь подальше от �
 But it'll have to wait. <end>
 
 =>q120
-Но придётся подождать.<end>
+Но придётся подождать. <end>
 
 =>q121_original
 Finish your tasks - <end>
 
 =>q121
-Закончи свои дела -<end>
+Закончи свои дела - <end>
 
 =>q122_original
 then we will discuss the Acorn. ::He smiles.::<end>
@@ -788,7 +788,7 @@ then we will discuss the Acorn. ::He smiles.::<end>
 After certain other matters have been dealt with - <end>
 
 =>q123
-После того, как некоторые вопросы были рассмотрены -<end>
+После того, как некоторые вопросы были рассмотрены - <end>
 
 =>a124_original
 All I know is that it's somehow connected to some high-tech machines capable of traversing great distances, even reaching the Surface. It could serve our organization greatly.<end>
@@ -806,7 +806,7 @@ It seems to be a device capable of manufacturing highly advanced things, like ob
 *Oh*. That is... very interesting. <end>
 
 =>q126
-*О*. Это... очень интересно.<end>
+*О*. Это... очень интересно. <end>
 
 =>a127_original
 It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could serve our organization greatly.<end>
@@ -854,7 +854,7 @@ Can we discuss the Acorn now?<end>
 Yes, yes - the Acorn. <end>
 
 =>q134
-Да, да, Жёлудь.<end>
+Да, да, Жёлудь. <end>
 
 =>a135_original
 Can you tell me how the Oligarchy came to be?<end>
@@ -903,4 +903,3 @@ Goodbye, Gunnar.<end>
 
 =>a140
 До свидания, Гуннар.<end>
-

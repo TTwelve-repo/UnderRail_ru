@@ -192,7 +192,7 @@ Asked ya first, idjit. Yer in mah hole home, home hole.<end>
 ::He raises his free hand.:: Don't matter anyway. <end>
 
 =>q28
-::Он поднимает свободную руку.:: В любом случае это не имеет значения.<end>
+::Он поднимает свободную руку.:: В любом случае это не имеет значения. <end>
 
 =>q29_original
 Get out. ::His eyes are on the coin pile, likely comparing the size before and after your arrival.:: 
@@ -202,7 +202,7 @@ Dohn want anyone <end>
 =>q29
 Убирайся. ::Его взгляд направлен на стопку монет, вероятно, он сравнивает размер до и после вашего появления.::
 
-Не хочу ничего<end>
+Не хочу ничего <end>
 
 =>q30_original
 'ere!<end>
@@ -226,7 +226,7 @@ Who are you?<end>
 Nuhna yer business. <end>
 
 =>q33
-Не твоё дело.<end>
+Не твоё дело. <end>
 
 =>q34_original
 Get out.<end>
@@ -262,13 +262,13 @@ I see you're working on some shoes. Are you a shoemaker?<end>
 ::He pauses. Could just be drunken delay.:: <end>
 
 =>q39
-::Он делает паузу. Возможно, это из-за большого количества выпитого.::<end>
+::Он делает паузу. Возможно, это из-за большого количества выпитого.:: <end>
 
 =>q40_original
 Yeah. <end>
 
 =>q40
-Ага.<end>
+Ага. <end>
 
 =>a41_original
 Can you make me a pair of shoes? I see you're wearing a nice pair yourself.<end>
@@ -280,7 +280,7 @@ Can you make me a pair of shoes? I see you're wearing a nice pair yourself.<end>
 No. <end>
 
 =>q42
-Нет.<end>
+Нет. <end>
 
 =>a43_original
 I'll pay you good.<end>
@@ -941,7 +941,7 @@ I didn't touch anything, I swear!<end>
 Be better fer yer health if ya didn't. <end>
 
 =>q133
-Было бы лучше для твоего здоровья, если бы ты этого не сделал.<end>
+Было бы лучше для твоего здоровья, если бы ты этого не сделал. <end>
 
 =>a134_original
 $(context.player.Name).<end>
@@ -984,4 +984,3 @@ I'm warnin' ya, idjit. Get out!<end>
 
 =>q140
 ::Он роняет бутылку.:: Теперь ты сделал это!<end>
-

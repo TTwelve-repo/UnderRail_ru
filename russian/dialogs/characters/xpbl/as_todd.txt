@@ -8,7 +8,7 @@ We're, uh, moving out, $(context.npc_xpbl_as_todd_playerName). Talking's over.<e
 Hi, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>q2
-Привет, $(context.npc_xpbl_as_todd_playerName).<end>
+Привет, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>q3_original
 ::He whispers, furtively looking at Seeger.:: This man's hair scares me. But he lets me play games.<end>
@@ -32,7 +32,7 @@ Hey, did you see all the people? Did you? Oooh, I could never have imagined ther
 The old man was nice. We talked a lot about Lemuria. He was nice, but other people look at me strange. <end>
 
 =>q6
-Старик был мил. Мы много говорили о Лемурии. Он был добр, но другие люди смотрят на меня странно.<end>
+Старик был мил. Мы много говорили о Лемурии. Он был добр, но другие люди смотрят на меня странно. <end>
 
 =>q7_original
 But the funny man, the funny man told me I was his favorite, uh... piper! Yes, piper. I don't know what that means, but he was good to me.<end>
@@ -380,7 +380,7 @@ Should we, ummm, be moving?<end>
 Is this... <end>
 
 =>q60
-Это...<end>
+Это... <end>
 
 =>q61_original
 New Lemuria?<end>
@@ -843,7 +843,7 @@ Yes. $(#Mr./Ms.) Invictus.<end>
 ::Gentle falsetto.:: Asta Øivindr. <end>
 
 =>q126
-::Мягкий фальцет.:: Аста Эйвиндр.<end>
+::Мягкий фальцет.:: Аста Эйвиндр. <end>
 
 =>q127_original
 Our daughter Synneva couldn't be present.<end>
@@ -855,7 +855,7 @@ Our daughter Synneva couldn't be present.<end>
 ::Hoarse falsetto.:: Ah, yes... And we're Shelley and Angus Newman. Welcome - and we apologize about... ehem, what you heard during our first encounter, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>q128
-::Хриплый фальцет.:: Ах, да... мы Шелли и Ангус Ньюманы. Добро пожаловать, и мы приносим свои извинения... кхм, за то, что вы слышали во время нашей первой встречи, $(context.npc_xpbl_as_todd_playerName).<end>
+::Хриплый фальцет.:: Ах, да... мы Шелли и Ангус Ньюманы. Добро пожаловать, и мы приносим свои извинения... кхм, за то, что вы слышали во время нашей первой встречи, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>q129_original
 ::Bass.:: Mmm, yes. We're sorry if the boy did something embarrassing. He's an imbecile.<end>
@@ -915,7 +915,7 @@ That's all you need to know.<end>
 ::Baritone.:: Indeed we are. But all in due time. <end>
 
 =>q136
-::Баритон.:: Так и есть. Но всему своё время.<end>
+::Баритон.:: Так и есть. Но всему своё время. <end>
 
 =>q137_original
 Feel free to ask your questions.<end>
@@ -999,13 +999,13 @@ Can it be opened?<end>
 ::Hoarse falsetto.:: Of course. Our family has access to it. <end>
 
 =>q150
-::Хриплый фальцет.:: Разумеется. У нашей семьи есть к нему доступ.<end>
+::Хриплый фальцет.:: Разумеется. У нашей семьи есть к нему доступ. <end>
 
 =>q151_original
 As I've already mentioned: <end>
 
 =>q151
-Как уже было сказано:<end>
+Как уже было сказано: <end>
 
 =>q152_original
 The Newmans are, ehem, direct descendants of the last technology minister Theodore Newman, so this family has always had this privilege of station full access. But the Øivindrs do too, of course.<end>
@@ -1117,7 +1117,7 @@ In those days we could still produce things with the machines that survived the 
 =>q169
 :: Бас, покачивая головой.:: Это самый большой купол, наверное раза в три больше, чем стыковочный. Там было так много пространства над головой... ::Он улыбается.:: так много, что даже если ты встанешь на плечи другому, над тобой всё ещё останется место. Но он был запечатан после пожара, ещё много лет назад, когда я был мальчиком.
 
-В те дни мы ещё могли что-то производить с помощью механизмов, переживших Разобщение.<end>
+В те дни мы ещё могли что-то производить с помощью механизмов, переживших Разобщение. <end>
 
 =>q170_original
 ::Bass.:: By the depths - it was glorious! A network of assembly lines and autobots, which, my father told me, back in his grandfather's day processed materials brought in by sublifters from mining outposts and produced everything we needed, from simple No.1 screws to strongmen and sublifters.
@@ -1139,13 +1139,13 @@ Docking dome.<end>
 ::Hoarse falsetto.:: You came from there, right? Via submarine or a subsphere, right? It is, after all, the station's only connection to the Outside, the place where our <end>
 
 =>q172
-::Хриплый фальцет.:: Вы ведь оттуда прибыли, верно? На подводной лодке или субсфере? В конце концов, это ведь единственная связь станции с Внешним миром, местом, куда наши<end>
+::Хриплый фальцет.:: Вы ведь оттуда прибыли, верно? На подводной лодке или субсфере? В конце концов, это ведь единственная связь станции с Внешним миром, местом, куда наши <end>
 
 =>q173_original
 - and some of your - <end>
 
 =>q173
-и некоторые ваши<end>
+и некоторые ваши <end>
 
 =>q174_original
 ancestors arrived to their future home after being driven out of their former ones by Biocorp - where the war for them ended.<end>
@@ -1215,7 +1215,7 @@ Residential dome two.<end>
 ::Hoarse falsetto.:: It is a dome east of here, similar to this one. It leads to Food Processing and Aquaponics. It was slowly abandoned following the Disunion as there weren't many people left at the station. <end>
 
 =>q184
-::Хриплый фальцет.:: Это купол к востоку отсюда, идентичный этому. Через него можно попасть в купол пищевого производства и аквапоники. Он был постепенно заброшен после Разобщения, поскольку на станции осталось мало людей.<end>
+::Хриплый фальцет.:: Это купол к востоку отсюда, идентичный этому. Через него можно попасть в купол пищевого производства и аквапоники. Он был постепенно заброшен после Разобщения, поскольку на станции осталось мало людей. <end>
 
 =>q185_original
 ::Bass.:: All that free space... But after the boy messed up at the Aquaponics we don't let him go there anymore.<end>
@@ -1262,7 +1262,7 @@ Food Processing dome.<end>
 ::Hoarse falsetto, proudly.:: Well, Food Processing and Aquaponics are, ehem, two sections of a single dome, yes. Think of it that way. <end>
 
 =>q191
-::Хриплый фальцет, гордо.:: Ну, пищевое производство и аквапоника - это, кхм, две секции одного купола, да. Смотрите на это так.<end>
+::Хриплый фальцет, гордо.:: Ну, пищевое производство и аквапоника - это, кхм, две секции одного купола, да. Смотрите на это так. <end>
 
 =>q192_original
 It's where I work. The Aquaponics is a wonderful self-contained, automated system which unifies breeding aquatic life with growing plants - all for our nourishment. And all of this is processed at the other part of the dome - and that is my job. I make sure that what we're eating is up to the highest standards. 
@@ -1336,7 +1336,7 @@ Food Processing and Aquaponics dome.<end>
 ::Hoarse falsetto, proudly.:: <end>
 
 =>q202
-::Хриплый фальцет, гордо.::<end>
+::Хриплый фальцет, гордо.:: <end>
 
 =>a203_original
 Power dome.<end>
@@ -1394,7 +1394,7 @@ It's all a part of the Old Lemuria Restoration Project.<end>
 ::Baritone.:: And what do you intend to do <end>
 
 =>q211
-::Баритон.:: И что вы собираетесь делать<end>
+::Баритон.:: И что вы собираетесь делать <end>
 
 =>q212_original
 if you find this Acorn?<end>
@@ -1472,7 +1472,7 @@ We were talking about Todd.<end>
 ::Bass.:: <end>
 
 =>q224
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q225_original
 Yes?<end>
@@ -1829,7 +1829,7 @@ I'd like to speak to your parents and parents-in-law again.<end>
 ::Bass.:: Ah, welcome back, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>q275
-::Бас.:: О, с возвращением, $(context.npc_xpbl_as_todd_playerName).<end>
+::Бас.:: О, с возвращением, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>q276_original
 Care for a drink? We have an old bottle of Green Coral. Double distilled. Wonderful, mature spirit.<end>
@@ -1878,7 +1878,7 @@ Ancient liquor? Of course.<end>
 ::Baritone, after taking a sip of nothing himself.:: Splendid. <end>
 
 =>q282
-::Баритон, глотнув пустоты.:: Великолепно.<end>
+::Баритон, глотнув пустоты.:: Великолепно. <end>
 
 =>a283_original
 ::Pretend to drink.:: Yes, very nice.<end>
@@ -1926,7 +1926,7 @@ It literally has no taste.<end>
 ::Hoarse falsetto.:: We mustn't blame our guest for $(#his/her) lack of appreciation, eh... <end>
 
 =>q290
-::Хриплый фальцет.:: Нам не следует винить нашего гостя в недостке вкуса, эм...<end>
+::Хриплый фальцет.:: Нам не следует винить нашего гостя в недостке вкуса, эм... <end>
 
 =>q291_original
 Who knows what kinds of wonderful drinks they have in New Lemuria...<end>
@@ -2240,7 +2240,7 @@ There was something else...<end>
 Please. <end>
 
 =>q338
-Пожалуйста.<end>
+Пожалуйста. <end>
 
 =>a339_original
 ::Leave him be.::<end>
@@ -2322,7 +2322,7 @@ By the depths, what is all this commotion?
 ::Hoarse falsetto.:: <end>
 
 =>q349
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q350_original
 Oh! It's a... woman. A young woman.<end>
@@ -2334,7 +2334,7 @@ Oh! It's a... woman. A young woman.<end>
 ::Bass.:: What difference does it make, Shelley? <end>
 
 =>q351
-::Бас.:: Какая разница, Шелли?<end>
+::Бас.:: Какая разница, Шелли? <end>
 
 =>q352_original
 The boy's useless.<end>
@@ -2346,7 +2346,7 @@ The boy's useless.<end>
 ::Hoarse falsetto.:: Angus! Don't draw attention to it in front of the visitor! <end>
 
 =>q353
-::Хриплый фальцет.:: Ангус! Ну зачем ты это говоришь перед гостем!<end>
+::Хриплый фальцет.:: Ангус! Ну зачем ты это говоришь перед гостем! <end>
 
 =>q354_original
 ::Bass.:: Who gives a damn, woman!? 
@@ -2464,13 +2464,13 @@ Get that fat ass movin', boy.<end>
 It's a... man. <end>
 
 =>q370
-Это... мужчина.<end>
+Это... мужчина. <end>
 
 =>q371_original
 ::Bass.:: Leave it, Shelly. A woman wouldn't make a difference anyway. <end>
 
 =>q371
-::Бас.:: Шелли, уйди. Женщина тут всё равно не поможет.<end>
+::Бас.:: Шелли, уйди. Женщина тут всё равно не поможет. <end>
 
 =>q372_original
 ::They hesitate...::<end>
@@ -2749,7 +2749,7 @@ This'll do. Here.<end>
 ::Bass, irritated.:: <end>
 
 =>q413
-::Бас, раздражённо.::<end>
+::Бас, раздражённо.:: <end>
 
 =>q414_original
 Now, let's say you need to use a Huss - Huss wrench. In this case, a size eight jack rivet. It's on position one.
@@ -2783,7 +2783,7 @@ Move your hand up, in line with the rivet.<end>
 ::Bass.:: <end>
 
 =>q418
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q419_original
 Finally...<end>
@@ -2858,13 +2858,13 @@ One more thing left to do: Some tools can be on the far ends of the bracer, and 
 ::Bass.:: <end>
 
 =>q430
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q431_original
 Excellent! That's all there is to it, basically. <end>
 
 =>q431
-Отлично! В общем-то, это и всё.<end>
+Отлично! В общем-то, это и всё. <end>
 
 =>q432_original
 It's not exactly robotic science...
@@ -2958,7 +2958,7 @@ That was tiring. I'm done.<end>
 And there you are. <end>
 
 =>q446
-Вот так.<end>
+Вот так. <end>
 
 =>a447_original
 ::Select the rivet and move it a bit to the right.::<end>
@@ -2976,7 +2976,7 @@ And there you are. <end>
 ::Bass.:: <end>
 
 =>q449
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q450_original
 <end>
@@ -3000,7 +3000,7 @@ It's a miracle Todd learned how to use the tool bracer with you around.<end>
 ::Bass, furious.:: What do you mean "learned"? The boy's as useless as-- <end>
 
 =>q453
-::Бас, в ярости.:: Что значит "смог научиться"? Пацан бесполезен как...<end>
+::Бас, в ярости.:: Что значит "смог научиться"? Пацан бесполезен как... <end>
 
 =>q454_original
 ::His voice drops in pitch, and he - whoever he is right now - is staring at the tool bracer.:: I... I've been practicing when Father wasn't looking...<end>
@@ -3028,7 +3028,7 @@ It's a miracle Todd learned how to use the tool bracer with you around.<end>
 By the depths! By the depths! <end>
 
 =>q457
-Ох, глубины тебя забери!<end>
+Ох, глубины тебя забери! <end>
 
 =>q458_original
 Tilt your hand up in line with the damn rivet, then rotate left or right. Ro-tate. Left - right.<end>
@@ -3040,13 +3040,13 @@ Tilt your hand up in line with the damn rivet, then rotate left or right. Ro-tat
 Dammit, child! <end>
 
 =>q459
-Да чтоб тебя, дитя!<end>
+Да чтоб тебя, дитя! <end>
 
 =>q460_original
 Hey. Listen: <end>
 
 =>q460
-Так. Слушай.<end>
+Так. Слушай. <end>
 
 =>q461_original
 Tilt your hand up in line with the rivet, and then rotate it left or right.<end>
@@ -3094,7 +3094,7 @@ Now what do I do?<end>
 ::Bass.:: <end>
 
 =>q468
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q469_original
 Focus! Give it back to the bracer - the rivet, the rivet!<end>
@@ -3118,13 +3118,13 @@ Focus! Give it back to the bracer - the rivet, the rivet!<end>
 ::Bass.:: Dammit! <end>
 
 =>q472
-::Бас.:: Проклятье!<end>
+::Бас.:: Проклятье! <end>
 
 =>q473_original
 ::He picks up the rivet and puts it in your hand.:: <end>
 
 =>q473
-::Он подбирает заклёпку и вкладывает её вам в руку.::<end>
+::Он подбирает заклёпку и вкладывает её вам в руку.:: <end>
 
 =>q474_original
 Can't you do anything right, child? Give the rivet back to the bracer.<end>
@@ -3166,7 +3166,7 @@ Can't you figure out anything, child? Give the rivet back to the bracer.<end>
 Hey. <end>
 
 =>q480
-Эй.<end>
+Эй. <end>
 
 =>q481_original
 Now tilt your hand down and give the rivet back to the bracer.<end>
@@ -3184,7 +3184,7 @@ Coooool!<end>
 ::Bass.:: <end>
 
 =>q483
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q484_original
 Yeah, yeah - now give the rivet back to the bracer.<end>
@@ -3202,7 +3202,7 @@ Yeah, yeah - now give the rivet back to the bracer.<end>
 ::Bass.:: <end>
 
 =>q486
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q487_original
 What are you doing, damn it to depths!? Down - down - *down*!<end>
@@ -3238,7 +3238,7 @@ Now what?<end>
 ::Bass.:: <end>
 
 =>q492
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q493_original
 Move your bloody hand down and take the rivet!<end>
@@ -3262,7 +3262,7 @@ Take it. Move your hand down and it'll drop into your hand.<end>
 ::Bass.:: <end>
 
 =>q496
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q497_original
 There you go.<end>
@@ -3292,7 +3292,7 @@ There you go.<end>
 ::Bass.:: <end>
 
 =>q501
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q502_original
 <end>
@@ -3328,7 +3328,7 @@ No, just the hand.<end>
 ::Bass.:: <end>
 
 =>q507
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q508_original
 Just up - just up. No circling - just move your hand up.<end>
@@ -3352,7 +3352,7 @@ Uh...<end>
 ::Bass.:: <end>
 
 =>q511
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q512_original
 Can't you follow simple instructions? Tilt your hand up - *in line with the rivet*.<end>
@@ -3376,13 +3376,13 @@ What do you mean, "move up"?<end>
 ::Bass.:: <end>
 
 =>q515
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q516_original
 Come on, child - pay attention, damn it! <end>
 
 =>q516
-Давай, дитя, будь внимательнее, чтоб тебя!<end>
+Давай, дитя, будь внимательнее, чтоб тебя! <end>
 
 =>q517_original
 Angle it up, tilt it. ::He gestures it again.::<end>
@@ -3394,7 +3394,7 @@ Angle it up, tilt it. ::He gestures it again.::<end>
 ::Bass.:: <end>
 
 =>q518
-::Бас.::<end>
+::Бас.:: <end>
 
 =>a519_original
 ::Put it on and wait.::<end>
@@ -3406,7 +3406,7 @@ Angle it up, tilt it. ::He gestures it again.::<end>
 ::Bass.:: Now press <end>
 
 =>q520
-::Бас.:: Теперь нажми<end>
+::Бас.:: Теперь нажми <end>
 
 =>q521_original
 the root of your thumb with your fingers. Just a quick one.<end>
@@ -3470,7 +3470,7 @@ See? Like this!<end>
 ::Bass.:: What are you doing? Press <end>
 
 =>q530
-::Бас.:: Что ты делаешь? Нажми<end>
+::Бас.:: Что ты делаешь? Нажми <end>
 
 =>a531_original
 I'm aware of that.<end>
@@ -3500,7 +3500,7 @@ I'd like to try out the tool bracer again.<end>
 ::Bass.:: <end>
 
 =>q535
-::Бас.::<end>
+::Бас.:: <end>
 
 =>q536_original
 Stop fooling around this time. Put it on, the bracer, then you do this. ::He touches the root of his thumb with his fingers.:: Got it?<end>
@@ -3600,7 +3600,7 @@ I've seen your family portrait. It's real nice.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q551
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q552_original
 <end>
@@ -3630,13 +3630,13 @@ I'm very sorry for your loss.<end>
 ::Hoarse falsetto.:: Thank you, thank you - it all happened a long time ago. <end>
 
 =>q556
-::Хриплый фальцет.:: Спасибо, спасибо, всё это было очень давно.<end>
+::Хриплый фальцет.:: Спасибо, спасибо, всё это было очень давно. <end>
 
 =>q557_original
 ::Hoarse falsetto, sighing.:: <end>
 
 =>q557
-::Хриплый фальцет, вздыхая.::<end>
+::Хриплый фальцет, вздыхая.:: <end>
 
 =>q558_original
 This station has been through a lot: the Great War, Disunion, health issues - death.<end>
@@ -3660,13 +3660,13 @@ Death...<end>
 ::Hoarse falsetto, nodding.:: <end>
 
 =>q561
-::Хриплый фальцет, кивая.::<end>
+::Хриплый фальцет, кивая.:: <end>
 
 =>q562_original
 There was still a lot of people here, you know, back when we were young. But over the years one by one they passed away... ::She sighs.:: <end>
 
 =>q562
-Здесь было ещё много народу в те дни, когда мы были молодыми. Но с годами их не стало... ::Она вздыхает.::<end>
+Здесь было ещё много народу в те дни, когда мы были молодыми. Но с годами их не стало... ::Она вздыхает.:: <end>
 
 =>q563_original
 <end>
@@ -3684,7 +3684,7 @@ And few were being born to replace the dying.<end>
 ::Hoarse falsetto.:: Yes. <end>
 
 =>q565
-::Хриплый фальцет.:: Да.<end>
+::Хриплый фальцет.:: Да. <end>
 
 =>q566_original
 Sadly, bad living conditions resulted in numerous health issues for us Lemurians over the years. It's too... confined. The Subislanders don't mind it. In fact, they prefer it. Lemurians took plenty of medications to maintain their health, but much of our capacity for manufacturing medicine was destroyed during the Disunion.<end>
@@ -3708,7 +3708,7 @@ Disunion didn't seem to have gotten in the way of good relations between you and
 ::Hoarse falsetto:: No, no. <end>
 
 =>q569
-::Хриплый фальцет.:: Нет, нет.<end>
+::Хриплый фальцет.:: Нет, нет. <end>
 
 =>q570_original
 Most Subislanders went Outside during the Disunion, and the remaining ones continued living here with us. There was some tension in the succeeding years, naturally, but all was forgotten, yes. However, many lives were lost then, and much was destroyed.<end>
@@ -3738,7 +3738,7 @@ Your bloodlines survived, you and your husband's. And now you have Todd.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q574
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q575_original
 Angus has always been a great father to Todd, great, we both are, hard-working and dedicated. It may seem like, ehem, he's hard on Todd, but, as I've told Stig and Asta many times, it's just how it comes across.<end>
@@ -3768,7 +3768,7 @@ The man's got a lot on his shoulders. You're lucky he has still retained his san
 ::Hoarse falsetto.:: <end>
 
 =>q579
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a580_original
 It all comes with being a parent.<end>
@@ -3780,7 +3780,7 @@ It all comes with being a parent.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q581
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q582_original
 Our son needs our help. He's got so much to worry about and he can't possibly make time for everything. That's why I'm here. And my, ehem, husband, of course, and our in-laws.<end>
@@ -3804,7 +3804,7 @@ Your husband has got a lot on his shoulders.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q585
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a586_original
 You've got a lot of things in mind.<end>
@@ -3816,7 +3816,7 @@ You've got a lot of things in mind.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q587
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q588_original
 I do my best as a mother and wife and the only alimentary technician. I have to think about everything. But my mother has always taught me that to be strong you have to let it out. Let it out. So I have my boudoir where I can go and... weep, yes. It's nothing to be ashamed of. It releases negative emotions.<end>
@@ -3870,7 +3870,7 @@ Has Todd ever seen you do this? Weeping?<end>
 ::Hoarse falsetto.:: <end>
 
 =>q596
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a597_original
 Your mother raised you to be a strong woman.<end>
@@ -3882,7 +3882,7 @@ Your mother raised you to be a strong woman.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q598
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a599_original
 Let's focus on the portrait.<end>
@@ -3939,7 +3939,7 @@ I'm sure he did.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q607
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q608_original
 Øivindrs, they are our only friends here - and obviously in-laws. Nothing but the best about them, ehem, especially the sweet, sweet Synna.<end>
@@ -3963,7 +3963,7 @@ I've yet to meet Synna.<end>
 ::Hoarse falsetto, after a slight pause.:: <end>
 
 =>q611
-::Хриплый фальцет, после небольшой паузы.::<end>
+::Хриплый фальцет, после небольшой паузы.:: <end>
 
 =>q612_original
 Todd and Synna always seemed like they were made for each other. They were so different yet so alike. They had no one else but each other, sure, but they are a perfect match. I still remember their wedding like it was yesterday. Sad we couldn't do a proper photographing session; we had to use a surveillance camera.<end>
@@ -3987,7 +3987,7 @@ They had no one else indeed. But they know each other from birth, so they know e
 ::Hoarse falsetto, nodding.:: <end>
 
 =>q615
-::Хриплый фальцет, кивая.::<end>
+::Хриплый фальцет, кивая.:: <end>
 
 =>a616_original
 I'm sure they are. But Todd, unfortunately...<end>
@@ -3999,7 +3999,7 @@ I'm sure they are. But Todd, unfortunately...<end>
 ::Hoarse falsetto.:: <end>
 
 =>q617
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a618_original
 What if they, just hypothetically, didn't like each other?<end>
@@ -4047,13 +4047,13 @@ The Subislanders prefer these conditions, but they were always fewer in numbers.
 ::Hoarse falsetto.:: <end>
 
 =>q625
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q626_original
 There were a lot more Subislanders before the Disunion, yes, there were, but now... the Øivindrs are the only ones left. <end>
 
 =>q626
-До Разобщения субостровитян было куда больше, да, но теперь... остались только Эйвиндры.<end>
+До Разобщения субостровитян было куда больше, да, но теперь... остались только Эйвиндры. <end>
 
 =>q627_original
 <end>
@@ -4071,7 +4071,7 @@ You've known them your entire life, basically.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q629
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a630_original
 This station has a sad past indeed.<end>
@@ -4083,7 +4083,7 @@ This station has a sad past indeed.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q631
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a632_original
 Synna looked wonderful in their portrait, though. I'm sure she has grown up into a beautiful woman. Todd is one lucky guy.<end>
@@ -4123,7 +4123,7 @@ So the happiest he's ever been was when he ran away to a dark, dirty wall sectio
  ::She shakes her head, recovering her previous voice.:: Angus disciplined him, but... as I've said, yes... Todd was... happy.<end>
 
 =>q637
-::Она трясёт головой, возвращая себе прежний голос.:: Ангус наказал его, но... как я уже сказала, да... Тодд был... счастлив.<end>
+ ::Она трясёт головой, возвращая себе прежний голос.:: Ангус наказал его, но... как я уже сказала, да... Тодд был... счастлив.<end>
 
 =>q638_original
 ::Hoarse falsetto.:: Oh... maybe... maybe he does need some... I want only the best for him... We're watching his every move, when in fact maybe...
@@ -4163,7 +4163,7 @@ But isn't it, even without an expert's opinion, more likely that Todd is the one
 ::Hoarse falsetto.:: <end>
 
 =>q643
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a644_original
 So you keep him here doing exercises?<end>
@@ -4175,7 +4175,7 @@ So you keep him here doing exercises?<end>
 ::Hoarse falsetto.:: <end>
 
 =>q645
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q646_original
 Todd spends most of his time in this dome. It's the safest. And cleanest. As important as health is at any time, naturally, it's even more important when he has... these problems.<end>
@@ -4199,7 +4199,7 @@ These health problems...<end>
 ::Hoarse falsetto.:: Ah... <end>
 
 =>q649
-::Хриплый фальцет.:: Ах...<end>
+::Хриплый фальцет.:: Ах... <end>
 
 =>a650_original
 With fertility?<end>
@@ -4319,19 +4319,19 @@ You did well.<end>
 ::Hoarse falsetto.:: Thank you. <end>
 
 =>q669
-::Хриплый фальцет..:: Спасибо.<end>
+::Хриплый фальцет..:: Спасибо. <end>
 
 =>a670_original
 But you need more than just quality food to maintain health of the station. <end>
 
 =>a670
-Но вам нужно больше, чем просто качественная еда, чтобы поддерживать здоровье станции.<end>
+Но вам нужно больше, чем просто качественная еда, чтобы поддерживать здоровье станции. <end>
 
 =>q671_original
 ::Hoarse falsetto, sighing.:: <end>
 
 =>q671
-::Хриплый фальцет, вздыхая.::<end>
+::Хриплый фальцет, вздыхая.:: <end>
 
 =>a672_original
 One can tell by looking at Todd that you're feeding him well.<end>
@@ -4343,7 +4343,7 @@ One can tell by looking at Todd that you're feeding him well.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q673
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q674_original
 <end>
@@ -4401,7 +4401,7 @@ But they didn't find this place. This was really the safest place in Lemuria.<en
 ::Hoarse falsetto.:: Yes, indeed, indeed. But speaking of safety, <end>
 
 =>q682
-::Хриплый фальцет.:: Да, верно, верно. И говоря о безопасности,<end>
+::Хриплый фальцет.:: Да, верно, верно. И говоря о безопасности, <end>
 
 =>a683_original
 ::[Persuade]:: Yet on that portrait his only worry seems to have been trying to put on the best smile for the camera.<end>
@@ -4419,7 +4419,7 @@ But they didn't find this place. This was really the safest place in Lemuria.<en
 ::Hoarse falsetto.:: <end>
 
 =>q685
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a686_original
 Yet on that portrait his only worry seems to have been trying to put on the best smile for the camera.<end>
@@ -4449,7 +4449,7 @@ Illness took away many people after the Disunion, didn't it?<end>
 ::Hoarse falsetto.:: <end>
 
 =>q690
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a691_original
 But the Subislanders that remained here...<end>
@@ -4465,7 +4465,7 @@ But the Subislanders that remained here...<end>
 =>q692
 ::Хриплый фальцет.:: Несколько семей остались и объединились в Эйвиндров...
 
-::Она замолкает.::<end>
+::Она замолкает.:: <end>
 
 =>a693_original
 But the food production has thankfully survived.<end>
@@ -4477,7 +4477,7 @@ But the food production has thankfully survived.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q694
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>a695_original
 Was there enough food for everyone?<end>
@@ -4489,7 +4489,7 @@ Was there enough food for everyone?<end>
 ::Hoarse falsetto.:: Of course! <end>
 
 =>q696
-::Хриплый фальцет.:: Конечно же!<end>
+::Хриплый фальцет.:: Конечно же! <end>
 
 =>a697_original
 Yes, it all started with the Great War.<end>
@@ -4501,7 +4501,7 @@ Yes, it all started with the Great War.<end>
 ::Hoarse falsetto, nodding.:: <end>
 
 =>q698
-::Хриплый фальцет, кивая.::<end>
+::Хриплый фальцет, кивая.:: <end>
 
 =>a699_original
 Tell me about her.<end>
@@ -4519,7 +4519,7 @@ Tell me about her.<end>
 ::Hoarse falsetto, sighing.:: Yes, yes. <end>
 
 =>q701
-::Хриплый фальцет, вздыхая.:: Да, да.<end>
+::Хриплый фальцет, вздыхая.:: Да, да. <end>
 
 =>a702_original
 How old was she?<end>
@@ -4531,13 +4531,13 @@ How old was she?<end>
 ::Hoarse falsetto.:: Fifty-eight. <end>
 
 =>q703
-::Хриплый фальцет.:: Пятьдесят восемь.<end>
+::Хриплый фальцет.:: Пятьдесят восемь. <end>
 
 =>q704_original
 I think Øivindrs' and our family portraits are the only two left on display. <end>
 
 =>q704
-Думаю, на экране остались только два изображения - портреты нашей семьи и семьи Эйвиндров.<end>
+Думаю, на экране остались только два изображения - портреты нашей семьи и семьи Эйвиндров. <end>
 
 =>a705_original
 Family portrait?<end>
@@ -4549,13 +4549,13 @@ Family portrait?<end>
 ::Hoarse falsetto.:: Oh, yes. In our room. <end>
 
 =>q706
-::Хриплый фальцет.:: О, да. В нашей комнате.<end>
+::Хриплый фальцет.:: О, да. В нашей комнате. <end>
 
 =>q707_original
 I don't know if you still do it in New Lemuria, but family <end>
 
 =>q707
-Я не знаю, продолжаете ли вы это делать в Новой Лемурии, но семейные<end>
+Я не знаю, продолжаете ли вы это делать в Новой Лемурии, но семейные <end>
 
 =>q708_original
 portraits are a matter of tradition here. Every year an entire family would get photographed in the photoroom, and effects and backrounds of our choice would be added. It was wonderful.
@@ -4577,7 +4577,7 @@ But after the photoroom equipment got broken down we stopped doing it. Angus tri
 Family <end>
 
 =>q710
-Семейные<end>
+Семейные <end>
 
 =>a711_original
 About your family portrait...<end>
@@ -4673,7 +4673,7 @@ Tests? What kinds of tests?<end>
 ::Baritone.:: The ones I keep on my computer in the doctor's office. They're various and numerous. <end>
 
 =>q726
-::Баритон.:: Те, что я храню на своём компьютере во врачебном кабинете. Они разнообразны и многочисленны.<end>
+::Баритон.:: Те, что я храню на своём компьютере во врачебном кабинете. Они разнообразны и многочисленны. <end>
 
 =>q727_original
 ::Baritone.:: I've been Todd's physician since his birth, after all.<end>
@@ -4763,7 +4763,7 @@ A great opportunity for him to learn how to fight.<end>
 ::Baritone.:: <end>
 
 =>q741
-::Баритон.::<end>
+::Баритон.:: <end>
 
 =>q742_original
 I understand. ::He pauses.:: I think I now understand what you mean.<end>
@@ -4787,13 +4787,13 @@ It's not his low testosterone that makes him less of a man, it's not being a man
 ::Baritone.:: Native Lemurians, how different they are. I've grown distant to Todd after years of him and Synna not being able to make a child. His problems prevented it, and I've worked for years to improve his health with the means I had. <end>
 
 =>q745
-::Баритон.:: Коренные лемурийцы, какие же они не такие. Я стал отстраняться от Тодда, после того как многие годы он и Синна не смогли завести ребёнка. Его проблемы препятствуют этому, и я годами пытался улучшить его здоровье теми средствами, что у меня были.<end>
+::Баритон.:: Коренные лемурийцы, какие же они не такие. Я стал отстраняться от Тодда, после того как многие годы он и Синна не смогли завести ребёнка. Его проблемы препятствуют этому, и я годами пытался улучшить его здоровье теми средствами, что у меня были. <end>
 
 =>q746_original
 ::His voice rises in pitch and exhibits more emotion.:: I felt like another patient... <end>
 
 =>q746
-::Его голос резко повышается и теперь звучит намного эмоциональнее.:: Хотел бы я быть другим пациентом..<end>
+::Его голос резко повышается и теперь звучит намного эмоциональнее.:: Хотел бы я быть другим пациентом.. <end>
 
 =>q747_original
 ::He shakes his head, reverting to his previous self.:: Yes, we've grown distant, Asta and I and him. Moreover, I believe he no longer has any kind of relationship with my wife.<end>
@@ -4811,7 +4811,7 @@ It's not his low testosterone that makes him less of a man, it's not being a man
 You make a lot of good points, $(context.npc_xpbl_as_todd_playerName)... But still <end>
 
 =>q749
-Во многом вы, конечно, правы, $(context.npc_xpbl_as_todd_playerName)... но тем не менее...<end>
+Во многом вы, конечно, правы, $(context.npc_xpbl_as_todd_playerName)... но тем не менее... <end>
 
 =>q750_original
 I cannot allow Todd near the gate if that's how you intend to handle the situation.<end>
@@ -4823,19 +4823,19 @@ I cannot allow Todd near the gate if that's how you intend to handle the situati
 You do make some good points, $(context.npc_xpbl_as_todd_playerName). I see what you mean. Still, <end>
 
 =>q751
-В чём-то вы, конечно, правы, $(context.npc_xpbl_as_todd_playerName)... Я понимаю, что вы имеете в виду. Но всё равно,<end>
+В чём-то вы, конечно, правы, $(context.npc_xpbl_as_todd_playerName)... Я понимаю, что вы имеете в виду. Но всё равно, <end>
 
 =>q752_original
 I think you're mostly wrong, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>q752
-Мне кажется, вы сильно заблуждаетесь, $(context.npc_xpbl_as_todd_playerName).<end>
+Мне кажется, вы сильно заблуждаетесь, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>q753_original
 You are completely wrong, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>q753
-Вы абсолютно неправы, $(context.npc_xpbl_as_todd_playerName).<end>
+Вы абсолютно неправы, $(context.npc_xpbl_as_todd_playerName). <end>
 
 =>a754_original
 He should just run away.<end>
@@ -5113,7 +5113,7 @@ I was just leaving.<end>
 ::Hoarse falsetto.:: <end>
 
 =>q798
-::Хриплый фальцет.::<end>
+::Хриплый фальцет.:: <end>
 
 =>q799_original
 Take care, take care.<end>
@@ -5149,7 +5149,7 @@ Todd? Are you in there... somewhere?<end>
 We'll be here if you wish to <end>
 
 =>q804
-Мы будем здесь, если захотите<end>
+Мы будем здесь, если захотите <end>
 
 =>q805_original
 tell us about New Lemuria.<end>
@@ -5383,7 +5383,7 @@ Meanwhile, I'm a direct descendant of the great composer Kurt Reiluch.<end>
 ::Bass.:: Yes, yes. Although, there aren't many family names left anymore. As my father used to say, "Make sons unless you want your last name extinct." ::He even laughs bassily, but then his spirit wanes as his predicament comes into mental foreground.:: <end>
 
 =>q841
-::Бас.:: Да, да. Хотя, не так уж много фамилий осталось. Как говаривал мой отец: "Заводи сыновей, если не хочешь, чтобы твоя фамилия исчезла". ::Он даже смеётся басовито, но затем воодушевление покидает его, когда незавидное положение становится очевидным.::<end>
+::Бас.:: Да, да. Хотя, не так уж много фамилий осталось. Как говаривал мой отец: "Заводи сыновей, если не хочешь, чтобы твоя фамилия исчезла". ::Он даже смеётся басовито, но затем воодушевление покидает его, когда незавидное положение становится очевидным.:: <end>
 
 =>q842_original
 ::Baritone.:: A fate which befell most Subislanders. Most of our family names were lost due to old family name inheritance laws.<end>
@@ -5515,7 +5515,7 @@ Wait, don't you have pictures or any kind of data from the past?<end>
 ::Baritone.:: Not as much as we'd like. A long time ago there was a great energy emission that wiped out almost all the data from the central database: documents, pictures, video files... <end>
 
 =>q863
-::Баритон.:: Не так много, как хотелось бы. Очень давно произошёл мощный выброс энергии, который уничтожил практически всю информацию в центральной базе данных: документы, фотографии, видеофайлы...<end>
+::Баритон.:: Не так много, как хотелось бы. Очень давно произошёл мощный выброс энергии, который уничтожил практически всю информацию в центральной базе данных: документы, фотографии, видеофайлы... <end>
 
 =>q864_original
 ::Gentle falsetto.:: Barely anything survived.<end>
@@ -5770,7 +5770,7 @@ Lifeless wastes!
 There is a large doming cavern above the sea, but there is also plenty of land. The land is populated by various groups of people, fighting each other all the time: soldiers, pirates, savages... <end>
 
 =>a898
-Над морем есть огромная куполообразная пещера, кроме того, суши тоже достаточно. Земля населена разными группами людей, постоянно сражающихся друг с другом: солдаты, пираты, дикари...<end>
+Над морем есть огромная куполообразная пещера, кроме того, суши тоже достаточно. Земля населена разными группами людей, постоянно сражающихся друг с другом: солдаты, пираты, дикари... <end>
 
 =>q899_original
 Savages!
@@ -5937,7 +5937,7 @@ That is, while they were still returning. <end>
 =>q923
 ::Баритон.:: Большинство этих настроений зародилось в куполе ИиР. Разногласия возникали даже между самими субостровитянами. Некоторые считали, что взгляды исследователей стали слишком странными и в некотором смысле нереальными, их поведение также изменилось. Их семьи, жившие в жилых куполах, говорили о том, что их любимые возвращаются после нескольких дней, недель отсутствия с навязчивыми идеями о нашей древней культуре субостровитян, о выходе во Внешний мир, о будущем и прошлом, с ненавистью к болезни коренных жителей.
 
-Точнее, так было, пока они ещё возвращались.<end>
+Точнее, так было, пока они ещё возвращались. <end>
 
 =>q924_original
 ::Hoarse falsetto, with a trembling voice.:: Ugh! *Ugh*! I don't even want to imagine it.<end>
@@ -5977,7 +5977,7 @@ Then, about a century ago, it happened: The gates to R&D opened and armed Subisl
 ::Gentle falsetto.:: The Disunionists left for the Outside through Docking. They took the pre-war subspheres. <end>
 
 =>q929
-::Мягкий фальцет.:: Сторонники разобщения ушли во Внешний мир через доки, забрав с собой довоенные субсферы.<end>
+::Мягкий фальцет.:: Сторонники разобщения ушли во Внешний мир через доки, забрав с собой довоенные субсферы. <end>
 
 =>q930_original
 ::Baritone.:: They left corpses and desolation behind them, about twenty or so survivors, mostly native Lemurian and about three disjointed Subislander families which would later all merge into Øivindrs.<end>
@@ -6723,7 +6723,7 @@ All will be explained in due time. But first, I need to ask you some questions. 
 ::Bass.:: Sorry for interrupting, but before any of that: <end>
 
 =>q1024
-::Бас.:: Простите, что перебиваю, но прежде всего:<end>
+::Бас.:: Простите, что перебиваю, но прежде всего: <end>
 
 =>a1025_original
 Are we just going to stare at each other or what?<end>
@@ -6985,7 +6985,7 @@ Actually, my name is $(context.playerArenaTitle).<end>
 ::Gentle falsetto.:: Unusual name indeed. Asta Øivindr. <end>
 
 =>q1065
-::Мягкий фальцет.:: Действительно, необычное имя. Аста Эйвиндр.<end>
+::Мягкий фальцет.:: Действительно, необычное имя. Аста Эйвиндр. <end>
 
 =>a1066_original
 I'll have to correct you there: It's Corporal $(context.player.Name).<end>
@@ -7360,7 +7360,7 @@ I am. But... but Mother told me to always be polite. <end>
 =>q1121
 ::Ему требуется какое-то время, чтобы ответить.::
 
-Беспокоит. Но... но мама учила меня всегда быть вежливым.<end>
+Беспокоит. Но... но мама учила меня всегда быть вежливым. <end>
 
 =>q1122_original
 Especially... to ladies.<end>
@@ -7465,4 +7465,3 @@ New Todd ::Tenor.::<end>
 
 =>q1138
 Новый Тодд ::Тенор.::<end>
-

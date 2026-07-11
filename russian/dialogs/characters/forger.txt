@@ -212,7 +212,7 @@ Your arrival doesn't change his behavior as he continues to doesn't recognize yo
 =>q35
 ::Его налитые кровью глаза судорожно подёргиваются, пока он пытается устоять на дрожащих ногах. Что-то заставляет его вести себя неестественно, так как, в отличии от верхних и нижних конечностей, остальные части его тела еле шевелятся. Он всё ещё носит перчатку; однако она полностью разорвана, с вырванными проводами, и свет на его ладони выключен.
 
-Ваше появление не меняет его поведения, так как он всё ещё не узнаёт вас.::<end>
+Ваше появление не меняет его поведения, так как он всё ещё не узнаёт вас.:: <end>
 
 =>q36_original
 <end>
@@ -564,13 +564,13 @@ Why are you here?<end>
 You have been warned. <end>
 
 =>q93
-Я тебя предупредил.<end>
+Я тебя предупредил. <end>
 
 =>q94_original
 ::The expression on his face shifts into one filled with rage as he suddenly makes a loud grunt followed up by a dash towards you - his right fist undoubtedly poised to hit you. In the same time his energy shield activates, masking the fine details of his movement.:: <end>
 
 =>q94
-::Выражение его лица искажает гримаса ярости, громко зарычав, он внезапно бросается на вас - очевидно готовясь провести хук справа. Одновременно активируется энергетический щит, маскирующий мелкие детали его движения.::<end>
+::Выражение его лица искажает гримаса ярости, громко зарычав, он внезапно бросается на вас - очевидно готовясь провести хук справа. Одновременно активируется энергетический щит, маскирующий мелкие детали его движения.:: <end>
 
 =>a95_original
 ::[Strength] Strike him back.::<end>
@@ -582,7 +582,7 @@ You have been warned. <end>
 ::Raw fury flows through your fist as it takes flight. The target - his face, is no match for such vehemence. In a blink of an eye only two feet remain standing. His lifeless body crumbles to the ground, blood rupturing from his pulverized nose. From such short exchange, your culminated wrath has been left perhaps... unsatisfied.:: <end>
 
 =>q96
-::Обнажённая остервенелость охватывает ваш кулак, когда вы направляете его в цель. Его лицо, слишком мелкая сошка для такой ярости. Всё происходит в мгновение ока, он ещё пытается устоять на ногах, а его бездыханное тело уже рухнуло на землю, из разбитого носа хлещет кровь. После такого короткого обмена мнениями ваш кульминационный гнев, возможно, остался... неудовлетворённым.::<end>
+::Обнажённая остервенелость охватывает ваш кулак, когда вы направляете его в цель. Его лицо, слишком мелкая сошка для такой ярости. Всё происходит в мгновение ока, он ещё пытается устоять на ногах, а его бездыханное тело уже рухнуло на землю, из разбитого носа хлещет кровь. После такого короткого обмена мнениями ваш кульминационный гнев, возможно, остался... неудовлетворённым.:: <end>
 
 =>a97_original
 ::Crack your knuckles and leave.::<end>
@@ -789,7 +789,7 @@ Hmm... would you look at that, another stray cockroach took a wrong turn. Some..
 ::Firstly, you remember hearing him talk on one of the phones in the Ironheads base. He mentioned something about not willing to not do "crunching" anymore.:: <end>
 
 =>q130
-::Во-первых, вы помните, как слышали, как он разговаривал по одному из телефонов на базе Айронхедов. Он упомянул что-то о нежелании больше не заниматься «хрустом».::<end>
+::Во-первых, вы помните, как слышали, как он разговаривал по одному из телефонов на базе Айронхедов. Он упомянул что-то о нежелании больше не заниматься «хрустом».:: <end>
 
 =>q131_original
 ::The other time you've listened in on him was on a phone south of Warehouse Block Beta, north of GMS compound and close to the Ironheads base. He mentioned the same message as before just this time, it was said to a different caller.::<end>
@@ -925,7 +925,7 @@ Why you have to call me out like that? I was being genuine.<end>
 Leave that thought to cook in the oven. Let's get back to the crunch. <end>
 
 =>q150
-Оставь эту мысль готовиться в духовке. Вернёмся к хрусту.<end>
+Оставь эту мысль готовиться в духовке. Вернёмся к хрусту. <end>
 
 =>q151_original
 <end>
@@ -1073,7 +1073,7 @@ That's unacceptable. This deal is no more.<end>
 Wrong choice! <end>
 
 =>q174
-Неправильный выбор!<end>
+Неправильный выбор! <end>
 
 =>q175_original
 <end>
@@ -1233,7 +1233,7 @@ Acid Hunters? I've been looking for that gang all over the place.<end>
 Well, there you go. Another reason to do the crunch. <end>
 
 =>q200
-Ну вот видишь. Ещё одна причина сделать хруст.<end>
+Ну вот видишь. Ещё одна причина сделать хруст. <end>
 
 =>a201_original
 Have you noticed anything suspicious about them?<end>
@@ -1257,7 +1257,7 @@ Were they carrying something that doesn't belong to them?<end>
 Here, I'll break it down for you... <end>
 
 =>q204
-Ладно уж, разложу всё по полочкам для тебя...<end>
+Ладно уж, разложу всё по полочкам для тебя... <end>
 
 =>a205_original
 Could you discern their motive for such actions?<end>
@@ -1417,7 +1417,7 @@ A big gizmo?<end>
 You'll be making it for me... well, sort of. In due time, it'll become more clear. ::He gestures you to slow down.:: <end>
 
 =>q230
-Ты сделаешь это для меня... ну, вроде того. А-а, потом разберёмся. ::Он жестом показывает вам, чтобы вы замедлились.::<end>
+Ты сделаешь это для меня... ну, вроде того. А-а, потом разберёмся. ::Он жестом показывает вам, чтобы вы замедлились.:: <end>
 
 =>a231_original
 ::Nod.::<end>
@@ -1435,7 +1435,7 @@ That's funny. ::Laugh ironically.::<end>
 More like... sad. Oh well, back to the gig. <end>
 
 =>q233
-Скорее... грустно. Ну что ж, вернёмся к представлению.<end>
+Скорее... грустно. Ну что ж, вернёмся к представлению. <end>
 
 =>a234_original
 Finally...<end>
@@ -1486,7 +1486,7 @@ What do you mean?<end>
 Ah, forget about it... <end>
 
 =>q241
-А-ах, забудь об этом...<end>
+А-ах, забудь об этом... <end>
 
 =>a242_original
 I fear nothing. In fact, the mystery of our encounter makes it all that much more interesting.<end>
@@ -1630,13 +1630,13 @@ Whatever... Mind continuing the thought from earlier?<end>
 Right, right... <end>
 
 =>q265
-Правильно, правильно...<end>
+Правильно, правильно... <end>
 
 =>a266_original
 What's the point of this? <end>
 
 =>a266
-Какой в этом смысл?<end>
+Какой в этом смысл? <end>
 
 =>q267_original
 Can't let a cigarette butt into a gas tank, kid.<end>
@@ -1752,7 +1752,7 @@ Well, I'm good at snatching things...<end>
 Wanna put that to the test?. ::He tilts up his chin.:: Actually there're a couple of gizmos... <end>
 
 =>q284
-Хочешь проверить это? ::Он вздёргивает подбородок.:: На самом деле есть парочка вещиц...<end>
+Хочешь проверить это? ::Он вздёргивает подбородок.:: На самом деле есть парочка вещиц... <end>
 
 =>a285_original
 What would those be?<end>
@@ -1860,7 +1860,7 @@ There're certain gizmos you can forsee but... there're also those that you can't
 Can't teach an old dog new tricks. I'm fine with what I know. However... maybe you could save that effort for something else. <end>
 
 =>q302
-Невозможно научить старую собаку новым трюкам. Меня устраивает то, что я знаю. Однако... возможно, тебе стоило бы приберечь эти усилия для чего-то другого.<end>
+Невозможно научить старую собаку новым трюкам. Меня устраивает то, что я знаю. Однако... возможно, тебе стоило бы приберечь эти усилия для чего-то другого. <end>
 
 =>a303_original
 ::Keep listening.::<end>
@@ -2100,7 +2100,7 @@ Is someone after you?<end>
 Somethings and someones, it's much more complicated than just that. <end>
 
 =>q340
-Что-то и кто-то, на самом деле всё гораздо сложнее, именно так.<end>
+Что-то и кто-то, на самом деле всё гораздо сложнее, именно так. <end>
 
 =>a341_original
 What do you mean?<end>
@@ -2176,7 +2176,7 @@ Are you calling me stupid or something?<end>
 I'll let you be the judge to that. But now... <end>
 
 =>q352
-Я позволю тебе судить об этом. Но теперь...<end>
+Я позволю тебе судить об этом. Но теперь... <end>
 
 =>a353_original
 The Drop Zone? What's that?<end>
@@ -2188,7 +2188,7 @@ The Drop Zone? What's that?<end>
 I'm not your tourist guide. You'll stumble into your long lost home eventually. ::He chuckles.:: Back to the subject matter now... <end>
 
 =>q354
-Я не твой гид. В конце концов ты наткнёшься на свой давно потерянный дом. ::Он посмеивается.:: Вернёмся к теме...<end>
+Я не твой гид. В конце концов ты наткнёшься на свой давно потерянный дом. ::Он посмеивается.:: Вернёмся к теме... <end>
 
 =>a355_original
 This is the last time you'll insult anyone! Now die! ::Attack!::<end>
@@ -2346,7 +2346,7 @@ I have already have plenty trouble of my own, I'm out.<end>
 There's just... something... about this place. I won't be satisfied until I figure out what it is. <end>
 
 =>a379
-Просто есть... что-то... в этом месте. Я не успокоюсь, пока не выясню, что именно.<end>
+Просто есть... что-то... в этом месте. Я не успокоюсь, пока не выясню, что именно. <end>
 
 =>q380_original
 ::Your curiosity leaves him silent for a moment. His eyes slowly size you up and at the end he gestures a gentle nod to himself.:: The same thought buzzes through out my mind for a long time now. In my case though, there're a bunch of gizmos preventing those ideas from coming to fruition. ::He points at you.:: Maybe... maybe you could be an exception to the rule.
@@ -2386,7 +2386,7 @@ Do I look like I need medical assistance?<end>
 Thanks - but no thanks. ::He scratches his beard nervously. Apprehended by his thoughts, it takes him considerable time to break the silence.:: I must say... it's been a long time since someone... ::A subtle smile awakens his wiry face, yet he pauses mid sentence. He deliberately avoids eye contact with you, as his gaze shifts to the side.:: <end>
 
 =>q385
-Спасибо - но нет. ::Он нервно почёсывает бороду. Захваченный своими мыслями, ему требуется немало времени, чтобы нарушить тишину.:: Должен сказать... прошло много времени с тех пор, как кто-то... ::Лёгкая улыбка пробуждает его жилистое лицо, но он делает паузу на полуслове. Он намеренно избегает зрительного контакта с вами, так как его взгляд смещается в сторону.::<end>
+Спасибо - но нет. ::Он нервно почёсывает бороду. Захваченный своими мыслями, ему требуется немало времени, чтобы нарушить тишину.:: Должен сказать... прошло много времени с тех пор, как кто-то... ::Лёгкая улыбка пробуждает его жилистое лицо, но он делает паузу на полуслове. Он намеренно избегает зрительного контакта с вами, так как его взгляд смещается в сторону.:: <end>
 
 =>a386_original
 I'm here to help.<end>
@@ -2650,7 +2650,7 @@ How am I supposed to know the rules?<end>
 I won't waste any time on explaining that. <end>
 
 =>q429
-Не буду тратить время на объяснения.<end>
+Не буду тратить время на объяснения. <end>
 
 =>a430_original
 This room is like a clogged toilet. No wonder you're attracted to it.<end>
@@ -2704,7 +2704,7 @@ Yep.<end>
 I don't recall buzzing in social services to take me in for a treatment like some old dog. You sure you hit up the right place? <end>
 
 =>q438
-Я не помню, чтобы я звонил в социальные службы, чтобы они забрали меня для ухода, как какую-то старую собаку. Вы уверены, что попали в нужное место?<end>
+Я не помню, чтобы я звонил в социальные службы, чтобы они забрали меня для ухода, как какую-то старую собаку. Вы уверены, что попали в нужное место? <end>
 
 =>a439_original
 It's just me being myself, looking out for those who could use some help.<end>
@@ -2839,7 +2839,7 @@ Who's after you?<end>
 Take it easy, it was just a joke. <end>
 
 =>a460
-Успокойся, это была просто шутка.<end>
+Успокойся, это была просто шутка. <end>
 
 =>a461_original
 Nothing will ever stand in my way. Time to prove it! ::Attack!::<end>
@@ -2931,7 +2931,7 @@ Let's just say that what you did with the light was very dangerous... for you.<e
 Wait 'till you see what else it can do. ::He flexes his right fist, blue light shining bright once more.:: <end>
 
 =>q474
-Подожди, пока не увидишь, что она ещё может. ::Он сжимает правый кулак, синий свет снова ярко сияет.::<end>
+Подожди, пока не увидишь, что она ещё может. ::Он сжимает правый кулак, синий свет снова ярко сияет.:: <end>
 
 =>a475_original
 Let's see what you got!<end>
@@ -3081,7 +3081,7 @@ It doesn't have to stay that way.<end>
 Implying you'd want to crunch with me? Hmm... <end>
 
 =>q497
-Имеешь в виду, что хочешь похрустеть со мной? Хм...<end>
+Имеешь в виду, что хочешь похрустеть со мной? Хм... <end>
 
 =>a498_original
 I've done a lot of crunching myself to get to here. The way I see it, it's all just one long chain of events, ope- ended seeking to extend further into the unknown.<end>
@@ -3111,7 +3111,7 @@ You're looking for a tool? I could look it up somewhere.<end>
 ::He sighs.:: Ughh... <end>
 
 =>q502
-::Он вздыхает.:: Угхх...<end>
+::Он вздыхает.:: Угхх... <end>
 
 =>a503_original
 I've got a jackhammer. Will that do?<end>
@@ -3144,7 +3144,7 @@ It was a phone deep inside of the Ironheads base.<end>
 Hmm... ::He glances over to an exposed electrical power grid near him.:: How did that not disc-- ::He gazes back at you.:: --uhm, just a moment. ::Silence ensues as he seems to be trying to recall something. The light emanating from his glove dims in brightness as he turns his hand so that he can see his palm. With his left hand, he starts touching his right palm as if he's pressing some invisible buttons.:: <end>
 
 =>q507
-Хм... ::Он смотрит на незащищённую электрическую сеть рядом с собой.:: Как это не диск, ::Он задумчиво смотрит на вас.:: ммм, минуточку. ::Наступает тишина, он, кажется, пытается что-то вспомнить. Свет, исходящий от его перчатки, тускнеет, когда он поворачивает руку так, чтобы видеть свою ладонь. Левой рукой, он начинает тыкать в правую ладонь, как будто нажимает какие-то невидимые кнопки.::<end>
+Хм... ::Он смотрит на незащищённую электрическую сеть рядом с собой.:: Как это не диск, ::Он задумчиво смотрит на вас.:: ммм, минуточку. ::Наступает тишина, он, кажется, пытается что-то вспомнить. Свет, исходящий от его перчатки, тускнеет, когда он поворачивает руку так, чтобы видеть свою ладонь. Левой рукой, он начинает тыкать в правую ладонь, как будто нажимает какие-то невидимые кнопки.:: <end>
 
 =>q508_original
 That should now be sorted. ::He nods.:: The fact that you've heard my voice doesn't change a thing. Hmmm... credit goes where it's due. For this feedback you gave me... ::His head slightly tilts upwards.:: a crunch equal in kind is in order. And I've got a few gizmos in mind. Interested?<end>
@@ -3180,7 +3180,7 @@ I'm fairly certain it was somewhere between the GMS compound, Ironheads base and
 ::Out of a sudden he utters some words to himself.:: Was it... hmm... That one should've been dead by now... Hold up. ::He lifts up his right palm where he can see it. Before his left hand reaches the other, the light glowing from the glove turns off completely. A several finger taps away, he finishes tinkering with his gadget before shifting his attention back to you.:: <end>
 
 =>q513
-::Внезапно он бормочет какие-то слова.:: Это было... хм... Этот уже должен был быть мёртв... Погоди-ка. ::Он поднимает правую ладонь так, чтобы лучше видеть её. Прежде чем его левая рука дотрагивается до неё, свет, исходящий от перчатки, полностью гаснет. Несколько касаний пальцев, и он заканчивает возиться со своим гаджетом, затем переключается на вас.::<end>
+::Внезапно он бормочет какие-то слова.:: Это было... хм... Этот уже должен был быть мёртв... Погоди-ка. ::Он поднимает правую ладонь так, чтобы лучше видеть её. Прежде чем его левая рука дотрагивается до неё, свет, исходящий от перчатки, полностью гаснет. Несколько касаний пальцев, и он заканчивает возиться со своим гаджетом, затем переключается на вас.:: <end>
 
 =>a514_original
 I can't remember. Somewhere near the railroads in Lower Underrail.<end>
@@ -3192,7 +3192,7 @@ I can't remember. Somewhere near the railroads in Lower Underrail.<end>
 Hmm... Most likely near the Ironheads base. ::He sighs.:: Thought I pulled the plug on them. <end>
 
 =>q515
-Хмм... Скорее всего, рядом с базой Железноголовых. ::Он вздыхает.:: Думал, я отключил их от сети.<end>
+Хмм... Скорее всего, рядом с базой Железноголовых. ::Он вздыхает.:: Думал, я отключил их от сети. <end>
 
 =>q516_original
 Let's see... ::Without hesitation, he begins to approach you. His right hand scratches his right cheek and stays there as he walks. Once he got within arms reach away from you, he starts to slowly circle you.::<end>
@@ -3224,7 +3224,7 @@ I'm telling you, I just can't remember.<end>
 Hmph, another loose wire. ::He gasps.:: <end>
 
 =>q520
-Хм, ещё один свободный провод. ::Он раскрыл рот.::<end>
+Хм, ещё один свободный провод. ::Он раскрыл рот.:: <end>
 
 =>a521_original
 Stop right there.<end>
@@ -3307,7 +3307,7 @@ I cannot disclose my sources. Let's just say that they are correct all of the ti
 Only a fool would buy that. <end>
 
 =>q533
-Только дурак купится на это.<end>
+Только дурак купится на это. <end>
 
 =>a534_original
 It may not sound that convincing but trust me, you wouldn't want to push those that could provide evidence.<end>
@@ -3481,7 +3481,7 @@ Yes.<end>
 ::He chortles.:: <end>
 
 =>q562
-::Он хохочет.::<end>
+::Он хохочет.:: <end>
 
 =>a563_original
 You better believe be.<end>
@@ -3681,7 +3681,7 @@ My intuition has guided me to that revelation. ::Explain a roundabout way of how
 Hmm... that's a load of gizmos... <end>
 
 =>q594
-Хм... вещиц хоть пруд пруди...<end>
+Хм... вещиц хоть пруд пруди... <end>
 
 =>a595_original
 I won't reveal my methods.<end>
@@ -3723,7 +3723,7 @@ I don't know, can you somehow dig inside my mind?<end>
 Doubt I'd find anything useful in there. ::He looks away.:: <end>
 
 =>q601
-Сомневаюсь, что найду там хоть что-нибудь полезное. ::Он смотрит в сторону.::<end>
+Сомневаюсь, что найду там хоть что-нибудь полезное. ::Он смотрит в сторону.:: <end>
 
 =>a602_original
 It was from a dream I've had. ::Talk about an imaginary dream where the name shows up.::<end>
@@ -3747,7 +3747,7 @@ I'm serious. My dreams are a source of infinite verified information.<end>
 W-what? How would one even begin to... ughh. ::He looks away.:: <end>
 
 =>q605
-Ч-что? Зачем было вообще начинать... тьфу. ::Он смотрит в сторону.::<end>
+Ч-что? Зачем было вообще начинать... тьфу. ::Он смотрит в сторону.:: <end>
 
 =>a606_original
 Do as you wish. I'm telling the truth.<end>
@@ -3783,7 +3783,7 @@ It says so on your forehead.<end>
 That's funny. ::He wipes his forehead.:: Hmm... unless you're one of the derailed few, ::Using his right hand index finger, he gently taps the side of his head.:: seeing muck and gizmos the others don't. <end>
 
 =>q611
-Это весело. ::Он вытирает лоб.:: Хм... если только ты не из тех немногих, кто сошёл с рельсов, ::Указательным пальцем правой руки он нежно постукивает по своей голове.:: глядя на грязь и вещицы, которых нет у других т.<end>
+Это весело. ::Он вытирает лоб.:: Хм... если только ты не из тех немногих, кто сошёл с рельсов, ::Указательным пальцем правой руки он нежно постукивает по своей голове.:: глядя на грязь и вещицы, которых нет у других т. <end>
 
 =>a612_original
 ::[Psi Empathy]:: Call us what you will. The boundaries of my mind have been extended far beyond anything previously imaginable. And yet, there's still more to learn.<end>
@@ -3849,7 +3849,7 @@ I've found a wanted poster which mentions a saboteur...<end>
 ::He stops you mid sentence.:: W-what? There shouldn't be none left! ::He looks away.:: Damn gizmos ripped me off again! Where'd you find it? <end>
 
 =>q622
-::Он останавливает вас на середине предложения.:: Ч-что? Там не должно остаться ни одного! ::Он смотрит в сторону.:: Проклятые штуковины опять меня обокрали! Где ты его наш$(#ёл/ла)?<end>
+::Он останавливает вас на середине предложения.:: Ч-что? Там не должно остаться ни одного! ::Он смотрит в сторону.:: Проклятые штуковины опять меня обокрали! Где ты его наш$(#ёл/ла)? <end>
 
 =>a623_original
 It was located in a maintenance room, next to a railroad, south of Rail Crossing. The property inside was all messed up.<end>
@@ -3897,7 +3897,7 @@ You knew him? He's dead?<end>
 Mhm... Shun away for all whom he didn't do crunching with. <end>
 
 =>q630
-М-мм... Держись подальше от всех, с кем он не хрустел.<end>
+М-мм... Держись подальше от всех, с кем он не хрустел. <end>
 
 =>a631_original
 And what about you? Can you contact him?<end>
@@ -3949,7 +3949,7 @@ Look, <end>
 =>q638
 Доброта приобретается за дополнительную плату... как и моё сострадание. ::Явно раздражённый, он поднимает очки, чтобы вытереть глаза. После глубокого вдоха он кажется намного более... расслабленным.::
 
-Разуй бельма,<end>
+Разуй бельма, <end>
 
 =>a639_original
 You got the point... So, uhm... What's up?<end>
@@ -3971,7 +3971,7 @@ Crunch begets crunch. I'll need to see what you're made of before you get to... 
 =>q641
 Вот это настойчивость, а? ::Молчание овладевает им. Вы замечаете, что его взгляд стал рассеянным, будто он смотрит в пустоту. Ни одно моргание не прерывает его глубоких размышлений. Ему потребуется целая минута, чтобы заговорить, при этом он продолжает поглаживать бороду.::
 
-Хруст порождает хруст. Мне нужно увидеть, из чего ты сделан$(#/а), прежде чем ты доберёшься до... ну будет тебе дополнительная информация, если срастётся.<end>
+Хруст порождает хруст. Мне нужно увидеть, из чего ты сделан$(#/а), прежде чем ты доберёшься до... ну будет тебе дополнительная информация, если срастётся. <end>
 
 =>a642_original
 You want me to work for you?<end>
@@ -4127,7 +4127,7 @@ Let's start this conversation all over.<end>
 You're giving me a headache, ugh... <end>
 
 =>q667
-От тебя у меня болит голова, тьфу...<end>
+От тебя у меня болит голова, тьфу... <end>
 
 =>a668_original
 I didn't mean to frustrate you. Allow me to amend for my mistake.<end>
@@ -4157,7 +4157,7 @@ Was I onto something? Is that why you're getting mad?<end>
 Derailed muck, you've wasted your chance! <end>
 
 =>q672
-Слишком много, ты упустил свой шанс!<end>
+Слишком много, ты упустил свой шанс! <end>
 
 =>a673_original
 Who do you think you are, telling me what to do?<end>
@@ -4169,7 +4169,7 @@ Who do you think you are, telling me what to do?<end>
 I'm the last *gizmo* you'll ever see! <end>
 
 =>q674
-Я последняя *вещица*, которую ты когда-либо увидишь!<end>
+Я последняя *вещица*, которую ты когда-либо увидишь! <end>
 
 =>a675_original
 You don't want to mess with me.<end>
@@ -4217,7 +4217,7 @@ Hmph, hmph. ::He chuckles after which he starts to wind up.:: Only if you knew h
 No respect for the raining champ? <end>
 
 =>a682
-Никакого уважения к действующему чемпиону?<end>
+Никакого уважения к действующему чемпиону? <end>
 
 =>q683_original
 Outright showing respect to an Invictus is like thinking about the flow of current whenever you touch an electrical gizmo. Literal pipes and barrels! ::He shakes his head.:: Unless you've lived under a rock. In that case, most of the gizmos in your life wouldn't make sense, least of which is a concocted, made outta blood title.<end>
@@ -4355,7 +4355,7 @@ What would you know about getting hot? The most fire you've ever seen was under 
 How can one become the Invictus and not know the real meaning of battle? <end>
 
 =>a705
-Как можно стать Инвиктусом не зная истинного смысла битвы?<end>
+Как можно стать Инвиктусом не зная истинного смысла битвы? <end>
 
 =>q706_original
 The gizmos I'm dealing with, far surpass the problems one would have in a cage match. ::He readjusts his glasses.:: One of my crunches is like... a dozen Arena clashes, hmph.<end>
@@ -4427,7 +4427,7 @@ That's a load of dung.<end>
 No more puny comparisons. Your weak bones are about to experience such pain that no cremation will be needed once I'm done pulverizing your sorry husk! ::Attack!:: <end>
 
 =>a717
-Больше никаких ничтожных сравнений. Твои слабые кости вот-вот испытают невероятную боль, и кремация не понадобится, потому что я сотру в порошок твою жалкую телесную оболочку! ::Атака!::<end>
+Больше никаких ничтожных сравнений. Твои слабые кости вот-вот испытают невероятную боль, и кремация не понадобится, потому что я сотру в порошок твою жалкую телесную оболочку! ::Атака!:: <end>
 
 =>a718_original
 And what do we have here? An elder rat chewing on some wires...<end>
@@ -4460,13 +4460,13 @@ Dust sweeper of the city streets. Tin can wannabe came to probe every nook and c
 What about you acting all smug while spying on me with that glove of yours? <end>
 
 =>a722
-Что насчёт того, что ты ведёшь себя надменно, когда шпионишь за мной своей перчаткой?<end>
+Что насчёт того, что ты ведёшь себя надменно, когда шпионишь за мной своей перчаткой? <end>
 
 =>q723_original
 You caught that? I see... So, are you one of the few who's willing to cut the corners; to crunch with the likes whom you're not supposed to? Or are you doubling down on the trouble you just ran into? <end>
 
 =>q723
-Ты подловил$(#/а)? Ясно... Итак, ты из тех немногих, кто срезает углы; хрустит с такими же кому запрещено? Или ты усугубляешь проблему, которая только что возникла?<end>
+Ты подловил$(#/а)? Ясно... Итак, ты из тех немногих, кто срезает углы; хрустит с такими же кому запрещено? Или ты усугубляешь проблему, которая только что возникла? <end>
 
 =>a724_original
 Depends on who I'm working with and for what purpose.<end>
@@ -4676,7 +4676,7 @@ I like it more here.<end>
 Fine, I'll go. <end>
 
 =>a758
-Ладно, я пойду.<end>
+Ладно, я пойду. <end>
 
 =>q759_original
 Pest... just like the ones right outside. I've crunched around these magnetic coils out there; they're quite... fun. There's some savvy tech there too, you don't wanna miss those gizmos. ::He points at the door from which you came as he shrugs his shoulders.:: Junk I'm crunching here with... just a bunch of nothing you'd like.<end>
@@ -4772,7 +4772,7 @@ You have problems with the Oligarchy?<end>
 You bet I do! And besides, who doesn't? Ughh... <end>
 
 =>q774
-Ещё бы! Да и вообще, у кого их нет? Ух...<end>
+Ещё бы! Да и вообще, у кого их нет? Ух... <end>
 
 =>a775_original
 ::[Persuasion]:: This predicament is completely avoidable. It's in neither of our interests to escalate this non-existing conflict any further. On the other hand, I'm much more interested in having a conversation. After all, we should act like humans, not insects.::<end>
@@ -4784,7 +4784,7 @@ You bet I do! And besides, who doesn't? Ughh... <end>
 Once a pair of brains figure something out, the secret's loose. ::He shakes his head side to side.:: <end>
 
 =>q776
-Однажды пара умов что-нибудь придумает, и секрет будет раскрыт. ::Он качает головой из стороны в сторону.::<end>
+Однажды пара умов что-нибудь придумает, и секрет будет раскрыт. ::Он качает головой из стороны в сторону.:: <end>
 
 =>a777_original
 That is true as long as they're both unreliable. For myself, that is not the case.<end>
@@ -4920,7 +4920,7 @@ Let's start from the beginning. Talk, now!<end>
 We... should take this... with caution. <end>
 
 =>q798
-Мы... должны принять это... с осторожностью.<end>
+Мы... должны принять это... с осторожностью. <end>
 
 =>a799_original
 Your possessions. All of it.<end>
@@ -5012,7 +5012,7 @@ This is it - a crunch for a crunch. Now take it. ::He hands you over the device.
 =>q812
 ::На мгновение он отворачивается от вас и извлекает из своего пальто странное устройство. Молниеносно соединяет несколько его компонентов, после чего подходит к вам.:: Это то, что я приберёг для тебя. ::Он поднимает предмет.:: Направь его на металлические глаза и наблюдай, как они щурятся, пытаясь обнаружить кого-нибудь или что-нибудь. ::Каждый раз, когда кончики пальцев его перчатки соприкасались с гаджетом, они издавали статический звук, который вряд ли кто сможет слушать на отдыхе.::
 
-Вот и всё -- хруст за хруст. Забирай. ::Он передаёт вам устройство.::<end>
+Вот и всё -- хруст за хруст. Забирай. ::Он передаёт вам устройство.:: <end>
 
 =>a813_original
 Thank you.<end>
@@ -5064,7 +5064,7 @@ Listen, you'll be heading to Upper Underraill Metro. Two emergency phones lead t
 The Orange Box has seven buttons of which six are used to input sounds and the last one to repeat the required sequence. The gizmo is primitive, it has no ability to preview the current inserted sequence in any way but it will remember it until it reaches its maximum length. At that point consider the sequence inserted and evaluated. There's a tiny light I've added to the box that displays the current progress. First sequence is red, the second is green and the final one is blue. If all three are matching, the light will become white for a while before it shuts itself off. <end>
 
 =>q820
-Оранжевая коробка имеет семь кнопок, шесть из которых используются для ввода звуков, а последняя - для повторения требуемой последовательности. Штуковина примитивна, у неё нет возможности каким-либо образом просматривать введённую последовательность, но она будет запоминать её до тех пор, пока не достигнет максимальной длины. На этом этапе рассмотрим введённую и оценённую последовательность. В поле, которое я добавил, есть крошечный индикатор, отображающий текущий прогресс. Первая последовательность - красная, вторая - зелёная, а последняя - синяя. Если все три совпадают, то индикатор на некоторое время станет белым, прежде чем отключится.<end>
+Оранжевая коробка имеет семь кнопок, шесть из которых используются для ввода звуков, а последняя - для повторения требуемой последовательности. Штуковина примитивна, у неё нет возможности каким-либо образом просматривать введённую последовательность, но она будет запоминать её до тех пор, пока не достигнет максимальной длины. На этом этапе рассмотрим введённую и оценённую последовательность. В поле, которое я добавил, есть крошечный индикатор, отображающий текущий прогресс. Первая последовательность - красная, вторая - зелёная, а последняя - синяя. Если все три совпадают, то индикатор на некоторое время станет белым, прежде чем отключится. <end>
 
 =>q821_original
 The box also has a connector suited to fit the ones over at each and every emergency phone in the Upper Underrail Metro. Once it's connected, in order to unlock the key pad, the user has to match three, multi-input sequences in a row without a mistake. The length of the sequence may vary, and can only be heard, not seen. If a mistake is made at any point, the entire gig goes back to start which means you'll have to do it all over.
@@ -5084,7 +5084,7 @@ That's it for gaining the access to the hideouts. Once there, I'll need you to p
 =>q822
 Каждая кнопка на коробке соответствует кнопкам на телефоне. Прослушай звуки каждой опции набора на телефоне экстренной связи и хорошенько их запомни. Последовательность может быть повторена любое количество раз без какого-либо риска. Однако воспроизводимый звук может иметь некоторые... помехи из-за несовершенной реализации.
 Не полагайся на ритм последовательности, вместо этого сосредоточься на самих звуках.
-Вот и всё, что нужно для получения доступа к укрытиям. Оказавшись там, заберёшь ещё две вещицы, чтобы я мог продолжить своё представление здесь. ::Он указывает на электрическую сеть рядом с собой.::<end>
+Вот и всё, что нужно для получения доступа к укрытиям. Оказавшись там, заберёшь ещё две вещицы, чтобы я мог продолжить своё представление здесь. ::Он указывает на электрическую сеть рядом с собой.:: <end>
 
 =>q823_original
 First is the High Voltage Penetrator Core and the second one is a customized remote controller. They should be easy enough to find once you're in.
@@ -5118,7 +5118,7 @@ I'm ready.<end>
 This one is yours now. ::He gives you the Orange Box.:: <end>
 
 =>q827
-Это теперь твоё. ::Он даёт вам оранжевую коробку.::<end>
+Это теперь твоё. ::Он даёт вам оранжевую коробку.:: <end>
 
 =>q828_original
 Before you go, I have a second crunch in mind for you. ::He walks to the side and picks up some metro tickets.:: Take these for a test run. Any train will do. Let me know If everything goes as it should,
@@ -5182,7 +5182,7 @@ And now, crunch away, kid.<end>
 You'll need the Orange Box in order to pull this off. <end>
 
 =>q837
-Тебе понадобится оранжевая коробка, чтобы осуществить это.<end>
+Тебе понадобится оранжевая коробка, чтобы осуществить это. <end>
 
 =>q838_original
 And now you know what to do. Off you go. ::He waves you off.::<end>
@@ -5716,7 +5716,7 @@ You lost a what?<end>
 It's like a small box. Seven buttons and a speaker, a bit rough around the edges. ::He shows you the size of the device using his fingers. It's small enough that it can be handled with one hand.:: <end>
 
 =>q918
-Это как маленькая коробочка. Семь кнопок и динамик, немного грубоватый по краям. ::Он показывает вам размер устройства пальцами. Он достаточно мал, чтобы с ним можно было обращаться одной рукой.::<end>
+Это как маленькая коробочка. Семь кнопок и динамик, немного грубоватый по краям. ::Он показывает вам размер устройства пальцами. Он достаточно мал, чтобы с ним можно было обращаться одной рукой.:: <end>
 
 =>a919_original
 I'll look around.<end>
@@ -5770,7 +5770,7 @@ Make it quick.<end>
 I've finished the Gauntlet. <end>
 
 =>a927
-Я завершил Смертельный забег.<end>
+Я завершил Смертельный забег. <end>
 
 =>q928_original
 You did? Had no time to tune in, sorry. Oh well, I guess that gig went well for you after all. It had to be a dominating gig, ey? ::He gives you a thumbs up before going back to his work.::<end>
@@ -5836,7 +5836,7 @@ The facility is now fully overcharged. What's next?<end>
 I've seen it from up here. A crunch well done. <end>
 
 =>q938
-Я видел это отсюда сверху. Отлично сделанный хруст.<end>
+Я видел это отсюда сверху. Отлично сделанный хруст. <end>
 
 =>q939_original
 ::He reveals the palm of his right hand to you. It contains a device, best described as a thin layer of intricately connected electronics, akin to a metal foil. Once stretched, this sheet could cover a large flat surface.:: Here I have some CACS for you. Stick these to your blunt tools and watch them go crazy on contact with any hard surface. The heavier the impact you can achieve, the more they'll cook the spot. 
@@ -5867,7 +5867,7 @@ That I can but they'll cost you. They take some time to craft, too... Also the p
 ::He takes a deep breath.:: And now, this is where the slow and tedious process of brute crunching begins. I won't need your aid any time soon. <end>
 
 =>q942
-::Он делает глубокий вдох.:: А теперь начинается медленный и утомительный процесс грубого хруста. Твоя помощь в ближайшее время мне не понадобится.<end>
+::Он делает глубокий вдох.:: А теперь начинается медленный и утомительный процесс грубого хруста. Твоя помощь в ближайшее время мне не понадобится. <end>
 
 =>a943_original
 I was expecting a reward for all this...<end>
@@ -6161,7 +6161,7 @@ I guess so...<end>
 You got off easy, kid. ::He nods to himself before going back to his work.:: <end>
 
 =>q989
-Ты легко отделал$(#ся/ась), $(#малыш/малышка). ::Он кивает сам себе, прежде чем вернуться к своей работе.::<end>
+Ты легко отделал$(#ся/ась), $(#малыш/малышка). ::Он кивает сам себе, прежде чем вернуться к своей работе.:: <end>
 
 =>a990_original
 ::[Perception] or [Intelligence]:: When we first met, I remember you calling me as: "another cockroach". What's so special about that? Have you had more similar encounters?<end>
@@ -6395,7 +6395,7 @@ It's not the tool that does the job done but the hands that use it.<end>
 That means we agree, right? <end>
 
 =>q1026
-Это значит, что мы согласны, верно?<end>
+Это значит, что мы согласны, верно? <end>
 
 =>a1027_original
 In a way, yes. But why restrain yourself from utilizing everything at your disposal?<end>
@@ -6639,7 +6639,7 @@ Without the source code for most of the gigs I'm tangling with, devoting any eff
 It's not about the code but rather figuring out how you can break the system at hand. ::Explain further how a hacker would discover vulnerabilities of a designated software.:: <end>
 
 =>a1060
-Дело не в коде, а в том, чтобы выяснить, как можно сломать систему находящуюся в лёгкой доступности. ::Далее идёт объяснение, как хакер может обнаружить уязвимости определённого программного обеспечения.::<end>
+Дело не в коде, а в том, чтобы выяснить, как можно сломать систему находящуюся в лёгкой доступности. ::Далее идёт объяснение, как хакер может обнаружить уязвимости определённого программного обеспечения.:: <end>
 
 =>q1061_original
 All that is fine and dandy, *when* you have the access to the inputs and the outputs of a gig. But here, all I have is bunch of wires and the current that goes through them. One could find similarities to either of the situations but yeah... I just don't think there's a better way to handle this one right here.
@@ -7256,4 +7256,3 @@ Yes?<end>
 
 =>q1156
 Да?<end>
-

@@ -137,7 +137,7 @@ And last, but not least, your safety is guaranteed within the Coretech building.
 ::He puts the empty bags aside and turns to you.:: <end>
 
 =>q19
-::Он откладывает пустые сумки в сторону и поворачивается к вам.::<end>
+::Он откладывает пустые сумки в сторону и поворачивается к вам.:: <end>
 
 =>q20_original
 There. That issue's been rectified.<end>
@@ -389,7 +389,7 @@ ICPD *must* be returned to Coretech, I repeat that one final time. Otherwise it 
 =>q59
 И ещё одно, $(context.player.Name): Любен, как и другие сотрудники с его уровнем допуска, имеет подкожный чип в руке, так что возьмите этот локатор. Безопасно извлечь такой чип сложно, но времена отчаяния требуют отчаянных мер, так что возможно всякое.
 
-ДВД *должен* быть возвращён КорТех, повторю это ещё раз. В противном случае он может попасть в не те руки.<end>
+ДВД *должен* быть возвращён КорТех, повторю это ещё раз. В противном случае он может попасть в не те руки. <end>
 
 =>a60_original
 I have the ICPD. ::Show him the device.::<end>
@@ -417,7 +417,7 @@ Dead.<end>
 I see. I guess you had no choice. <end>
 
 =>q63
-Понятно. Полагаю, у вас не было выбора.<end>
+Понятно. Полагаю, у вас не было выбора. <end>
 
 =>q64_original
 Here is your payment. You are shaping up to be a valuable asset, I can say. Good work, $(context.player.Name). I think the equipment provided with the payment will be satisfactory. ::Hands you 400 charons and an energy pistol.::<end>
@@ -989,4 +989,3 @@ $(context.player.Name), it is a pleasure to see you, as always.<end>
 
 =>q153
 $(context.player.Name), рад вас видеть снова.<end>
-

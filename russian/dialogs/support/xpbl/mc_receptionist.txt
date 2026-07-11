@@ -74,7 +74,7 @@ Is there a doctor around? I've been hurt.<end>
 I'm afraid not, $(#sir/ma'am). Allow me to apologize in the name of our medical staff for not being able to provide you with the medical service you need. <end>
 
 =>q13
-Боюсь, что нет, $(#сэр/мэм). Позвольте принести извинения от имени нашего медицинского персонала за неспособность предоставить вам необходимые медицинские услуги.<end>
+Боюсь, что нет, $(#сэр/мэм). Позвольте принести извинения от имени нашего медицинского персонала за неспособность предоставить вам необходимые медицинские услуги. <end>
 
 =>q14_original
 They are deceased, $(#sir/ma'am). Everyone is deceased. The currently active robotic staff is not capable of helping you beyond providing the most basic first aid. If possible, please seek help at another health facility, $(#sir/ma'am).<end>
@@ -98,7 +98,7 @@ This is a hospital, right?<end>
 Yes, $(#sir/ma'am). This is where healthcare services used to be provided to all Lemurian citizens. Unfortunately, none of the medical staff is available anymore. <end>
 
 =>q17
-Да, $(#сэр/мэм). Именно здесь оказывали медицинские услуги всем гражданам Лемурии. К сожалению, никто из медицинского персонала сейчас не доступен.<end>
+Да, $(#сэр/мэм). Именно здесь оказывали медицинские услуги всем гражданам Лемурии. К сожалению, никто из медицинского персонала сейчас не доступен. <end>
 
 =>a18_original
 So what happened here exactly?<end>
@@ -146,7 +146,7 @@ What can you tell me about yourself?<end>
 My current purpose is to serve as a substitute for the receptionist in his or her absence. When I am not needed, I am in stand-by mode, resting on my charging pedestal. <end>
 
 =>q25
-Моя текущая задача состоит в замене администратора в его или её отсутствие. Когда во мне нет необходимости, я нахожусь в режиме ожидания, покоясь на своём зарядном постаменте.<end>
+Моя текущая задача состоит в замене администратора в его или её отсутствие. Когда во мне нет необходимости, я нахожусь в режиме ожидания, покоясь на своём зарядном постаменте. <end>
 
 =>q26_original
 I have been in stand-by mode for two hundred and forty-nine years, seven months, fourteen days and twelve hours - until the moment of your arrival, $(#sir/ma'am).<end>
@@ -282,7 +282,7 @@ What's behind the western gate?<end>
 General services ward, $(#sir/ma'am): pharmacy, general practice examination rooms, psychiatric examination, microchip implantation. <end>
 
 =>q47
-Отделение общего обслуживания, $(#сэр/мэм): аптека, кабинеты общей практики, психиатрия, имплантация микрочипов.<end>
+Отделение общего обслуживания, $(#сэр/мэм): аптека, кабинеты общей практики, психиатрия, имплантация микрочипов. <end>
 
 =>a48_original
 What's behind the two gates behind the reception?<end>
@@ -409,4 +409,3 @@ How may I help you, $(#sir/ma'am)?<end>
 
 =>q68
 Чем я могу вам помочь, $(#сэр/мэм)?<end>
-

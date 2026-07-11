@@ -24,13 +24,13 @@ Very good. <end>
 =>q4
 ::Он берет Жёлудь и разглядывает его необычные черты, прежде чем положить рядом с собой.::
 
-Отлично.<end>
+Отлично. <end>
 
 =>q5_original
 This went much better than I had imagined. <end>
 
 =>q5
-Всё прошло даже лучше, чем я предполагал.<end>
+Всё прошло даже лучше, чем я предполагал. <end>
 
 =>q6_original
 The United Stations are thankful for your cooperation, $(context.player.Name)<end>
@@ -42,13 +42,13 @@ The United Stations are thankful for your cooperation, $(context.player.Name)<en
 . And don't worry about Professor Oldfield. <end>
 
 =>q7
-. И не беспокойся о профессоре Олдфилде.<end>
+. И не беспокойся о профессоре Олдфилде. <end>
 
 =>q8_original
 We'll make sure he gets back home safely. <end>
 
 =>q8
-Мы позаботимся о том, чтобы он благополучно добрался до дома.<end>
+Мы позаботимся о том, чтобы он благополучно добрался до дома. <end>
 
 =>q9_original
 His contribution is invaluable and he will be compensated accordingly.<end>
@@ -114,19 +114,19 @@ Are we done?<end>
 We are. <end>
 
 =>q19
-Закончили.<end>
+Закончили. <end>
 
 =>q20_original
 . <end>
 
 =>q20
-.<end>
+. <end>
 
 =>q21_original
  - and so am I. You've made my job a lot simpler.<end>
 
 =>q21
-и я тоже. Ты сделал$(#/а) мою работу намного проще.<end>
+ и я тоже. Ты сделал$(#/а) мою работу намного проще.<end>
 
 =>q22_original
 <end>
@@ -195,19 +195,19 @@ Invictus.<end>
 Invictus. <end>
 
 =>q32
-Инвиктус.<end>
+Инвиктус. <end>
 
 =>q33_original
 I'm Aran, <end>
 
 =>q33
-Я Аран,<end>
+Я Аран, <end>
 
 =>q34_original
 a representative of the United Stations, even though I may not look the part. <end>
 
 =>q34
-представитель Объединённых станций, даже не смотря на мой внешний вид.<end>
+представитель Объединённых станций, даже не смотря на мой внешний вид. <end>
 
 =>q35_original
 <end>
@@ -237,13 +237,13 @@ I have information that you<end>
 've joined Doctor Oldfield's expedition to the Black Sea and <end>
 
 =>q39
-присоединил$(#ся/ась) к экспедиции доктора Олдфилда в Чёрное море и<end>
+присоединил$(#ся/ась) к экспедиции доктора Олдфилда в Чёрное море и <end>
 
 =>q40_original
  may be in possession of an object called the Acorn. If that is true, the United Stations are very - *very* - interested in this object. They would gladly pay you a generous sum of money for it, no questions asked how you obtained it.<end>
 
 =>q40
-, возможно, владеешь предметом называемым Жёлудь. Если это правда, то Объединённые Станции очень - *очень* - заинтересованы в этом объекте. Они с радостью заплатят тебе за него щедрую сумму денег, не задавая никаких вопросов о том, как ты его получил$(#/а).<end>
+ , возможно, владеешь предметом называемым Жёлудь. Если это правда, то Объединённые Станции очень - *очень* - заинтересованы в этом объекте. Они с радостью заплатят тебе за него щедрую сумму денег, не задавая никаких вопросов о том, как ты его получил$(#/а).<end>
 
 =>q41_original
 <end>
@@ -279,19 +279,19 @@ It's true. I have the Acorn...<end>
 I'm offering you <end>
 
 =>q46
-Я предлагаю тебе<end>
+Я предлагаю тебе <end>
 
 =>q47_original
 nine thousand <end>
 
 =>q47
-девять тысяч<end>
+девять тысяч <end>
 
 =>q48_original
 charons, it being the preferred currency in these parts. <end>
 
 =>q48
-харонов, это самая предпочтительная валюта в этих краях.<end>
+харонов, это самая предпочтительная валюта в этих краях. <end>
 
 =>q49_original
 <end>
@@ -590,7 +590,7 @@ Are you going to take it or not?<end>
 Certainly. <end>
 
 =>q96
-Безусловно.<end>
+Безусловно. <end>
 
 =>a97_original
 Money doesn't interest me. I want the katana.<end>
@@ -676,7 +676,7 @@ That sword you got there. Looks interesting.<end>
 It's a katana. Fine swords they are. Require a lot of finesse to cut right, although the energy edge on this one makes it a bit more forgiving. <end>
 
 =>q109
-Это катана. Превосходный меч, но требуется обределённое изящество чтобы овладеть им правильно, хотя дополнительное энерго-лезвие делает этот процесс более простым.<end>
+Это катана. Превосходный меч, но требуется обределённое изящество чтобы овладеть им правильно, хотя дополнительное энерго-лезвие делает этот процесс более простым. <end>
 
 =>q110_original
 <end>
@@ -778,7 +778,7 @@ He did, but not enough.<end>
 Don't expect me to overly illuminate you either, but... very well. <end>
 
 =>q126
-Не жди, что я стану слишком уж тебя просвещать, но... ладно.<end>
+Не жди, что я стану слишком уж тебя просвещать, но... ладно. <end>
 
 =>q127_original
 There's no reason to hide anything at this point.<end>
@@ -812,7 +812,7 @@ Truthfully, and between you and me, I doubt any of the experts at United Station
 So in the end, your options are rather limited, you know. <end>
 
 =>q131
-Так что, в итоге, твои возможности довольно ограничены, ты же понимаешь.<end>
+Так что, в итоге, твои возможности довольно ограничены, ты же понимаешь. <end>
 
 =>q132_original
 You could try wasting your time but no one here will get to the goods inside, so it will inevitably end up in the North anyway. Few even know what the Acorn is, so if you decide to sell it you're unlikely... let's be straight with each other - you'll *never* get as good a deal as I'm offering you right here, right now. 
@@ -822,7 +822,7 @@ So just cut out the middle man and walk away rich. <end>
 =>q132
 Вы можете попытаться, но никто здесь не сможет его открыть, так что он неизбежно окажется на севере. Здесь вообще мало кто знает, что такое Жёлудь, так что если вы решите продать его... давайте будем честны друг с другом, вам никогда не получить лучшей цены, чем ту, которую предлагаю я. 
 
-Так что обойдёмся без посредников и уходите богат$(#ым/ой).<end>
+Так что обойдёмся без посредников и уходите богат$(#ым/ой). <end>
 
 =>q133_original
 <end>
@@ -858,7 +858,7 @@ No.<end>
 Very well. <end>
 
 =>q138
-Очень хорошо.<end>
+Очень хорошо. <end>
 
 =>a139_original
 I get the impression that the preferred outcome is for the Acorn to ultimately end up in Hexagon, you being Hexagonian yourself.<end>
@@ -910,7 +910,7 @@ No deal. The Acorn stays with me.<end>
 Listen: <end>
 
 =>q146
-Послушай:<end>
+Послушай: <end>
 
 =>q147_original
 <end>
@@ -928,7 +928,7 @@ $(context.player.Name), если ты всё ещё сомневаешься, н
 ::He pauses, then continues.:: <end>
 
 =>q149
-::Он делает паузу, затем продолжает.::<end>
+::Он делает паузу, затем продолжает.:: <end>
 
 =>q150_original
 You do speak with impenetrable conviction, but if you're smart enough to obtain the Acorn you're smart enough to know how to keep it.<end>
@@ -964,7 +964,7 @@ No. I don't have the Acorn.<end>
 Then we're done here - but we're not *done*. <end>
 
 =>q155
-Тогда разговор окончен - но мы *ещё* не закончили.<end>
+Тогда разговор окончен - но мы *ещё* не закончили. <end>
 
 =>q156_original
 <end>
@@ -1070,7 +1070,7 @@ I'm a man of many hobbies, piracy being one of them.<end>
 It could be. <end>
 
 =>q172
-Может быть, и так.<end>
+Может быть, и так. <end>
 
 =>q173_original
 But how can I know that you're telling me the truth?<end>
@@ -1088,7 +1088,7 @@ I'd be glad to help you any way I can. I want this to get cleared up as much as 
 ::He observes you, pondering.:: <end>
 
 =>q175
-::Он наблюдает за вами, размышляя.::<end>
+::Он наблюдает за вами, размышляя.:: <end>
 
 =>a176_original
 Not my problem.<end>
@@ -1142,7 +1142,7 @@ I work for JKK... but you knew that already, right?<end>
 Indeed. <end>
 
 =>q184
-Действительно.<end>
+Действительно. <end>
 
 =>a185_original
 Archibald Knight.<end>
@@ -1214,7 +1214,7 @@ Of course.<end>
 I see. Although it wasn't planned, I suppose I will be paying Consul Oliver a visit after all. <end>
 
 =>q196
-Понятно. Хотя это и не было запланировано, я полагаю, что всё-таки нанесу визит консулу Оливеру.<end>
+Понятно. Хотя это и не было запланировано, я полагаю, что всё-таки нанесу визит консулу Оливеру. <end>
 
 =>a197_original
 Free Drones.<end>
@@ -1320,7 +1320,7 @@ I'm tired of your questions. I don't have it anymore and that's all you need to 
 ::He answers after a brief delay.:: I see. <end>
 
 =>q213
-::Он отвечает после небольшой паузы.:: Понятно.<end>
+::Он отвечает после небольшой паузы.:: Понятно. <end>
 
 =>a214_original
 This conversation is over.<end>
@@ -1374,13 +1374,13 @@ No deal. I've made up my mind.<end>
 twelve thousand <end>
 
 =>q222
-двенадцать тысяч<end>
+двенадцать тысяч <end>
 
 =>q223_original
 fifteen thousand <end>
 
 =>q223
-пятнадцать тысяч<end>
+пятнадцать тысяч <end>
 
 =>a224_original
 ...but I cannot give it to you. It belongs to Professor Oldfield.<end>
@@ -1416,7 +1416,7 @@ Perhaps. But Professor Oldfield would've paid me as well.<end>
 ::He nods.:: No problem. <end>
 
 =>q229
-::Он кивает.:: Без проблем.<end>
+::Он кивает.:: Без проблем. <end>
 
 =>a230_original
 To make a decision I'd need to know a bit more about the Acorn.<end>
@@ -1440,7 +1440,7 @@ I was about to.<end>
 ::He nods.:: <end>
 
 =>q233
-::Он кивает.::<end>
+::Он кивает.:: <end>
 
 =>a234_original
 Things got in the way.<end>
@@ -1512,7 +1512,7 @@ It was the bloody pirates! I was returning to Core City when they surrounded me 
 The pirates... <end>
 
 =>q245
-Пираты...<end>
+Пираты... <end>
 
 =>q246_original
 ::He looks at you with distrust.::<end>
@@ -1534,13 +1534,13 @@ Stop. It's meaningless. <end>
 =>q248
 ::Он откидывается назад, слегка поднимая голову.::
 
-Перестань. Это бессмысленно.<end>
+Перестань. Это бессмысленно. <end>
 
 =>q249_original
 Don't lie to me. <end>
 
 =>q249
-Не ври мне.<end>
+Не ври мне. <end>
 
 =>a250_original
 ::[Intelligence]:: I ran into a Faceless patrol near Core City. My mind went blurry and I fell to the ground. I woke up later, and the Acorn was gone.<end>
@@ -1558,7 +1558,7 @@ Don't lie to me. <end>
 The Faceless... <end>
 
 =>q252
-Безликие...<end>
+Безликие... <end>
 
 =>a253_original
 I ran into a Faceless patrol near Core City, armed to their wicked masks. The Acorn was the only thing they took from me. As if they...<end>
@@ -1588,7 +1588,7 @@ A... lover of mine robbed me. Some $(#girl/guy) called $(#Janice/Ben) whom I met
 A lover drugged you... <end>
 
 =>q257
-Любовни$(#ца/к) накача$(#ла/л) тебя...<end>
+Любовни$(#ца/к) накача$(#ла/л) тебя... <end>
 
 =>a258_original
 You can choose to believe me or not, but I was intercepted by Ironheads just south of Core City. Usually I can handle a few mooks, but this time there was too many of them. They took most of my stuff and Acorn as well.<end>
@@ -1600,7 +1600,7 @@ You can choose to believe me or not, but I was intercepted by Ironheads just sou
 Ironheads... <end>
 
 =>q259
-Железноголовые...<end>
+Железноголовые... <end>
 
 =>a260_original
 I had it, but I gave it to someone.<end>
@@ -1693,7 +1693,7 @@ I'll stand. Speak.<end>
 Suit yourself. <end>
 
 =>q274
-Как хочешь.<end>
+Как хочешь. <end>
 
 =>a275_original
 What is this about?<end>
@@ -1711,7 +1711,7 @@ What's your problem, man? I told you I'm not $(context.player.Name).<end>
 Listen: <end>
 
 =>q277
-Послушай:<end>
+Послушай: <end>
 
 =>a278_original
 I'm out of here.<end>
@@ -1818,4 +1818,3 @@ Don't try my patience, $(context.player.Name).<end>
 
 =>q294
 Не испытывай моё терпение, $(context.player.Name).<end>
-

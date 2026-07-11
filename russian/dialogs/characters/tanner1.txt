@@ -50,19 +50,19 @@ Alright, I'll head over there now.<end>
 ::.:: We've decided against helping the Black Eels. <end>
 
 =>q9
-::.:: Мы решили отказать в помощи Чёрным угрям.<end>
+::.:: Мы решили отказать в помощи Чёрным угрям. <end>
 
 =>q10_original
 We're already stretched thin with all the earthquake reparations going on. <end>
 
 =>q10
-Наши силы и так на пределе со всем этим восстановлением после землетрясения.<end>
+Наши силы и так на пределе со всем этим восстановлением после землетрясения. <end>
 
 =>q11_original
 Perhaps if circumstances were different... ::He strokes his beard, appearing to be deep in thought.:: <end>
 
 =>q11
-Возможно, если бы обстоятельства были иными... ::Он поглаживает свою бороду, глубоко задумавшись.::<end>
+Возможно, если бы обстоятельства были иными... ::Он поглаживает свою бороду, глубоко задумавшись.:: <end>
 
 =>q12_original
 No, there's little we can accomplish at this point. You should forget about this and carry on with your other tasks.<end>
@@ -74,7 +74,7 @@ No, there's little we can accomplish at this point. You should forget about this
 With what is going on at Core City right now, we feel it would be unwise to stretch ourselves thin. <end>
 
 =>q13
-С тем, что происходит в Кор-Сити сейчас, мы думаем, что будет неразумно распылять наши силы.<end>
+С тем, что происходит в Кор-Сити сейчас, мы думаем, что будет неразумно распылять наши силы. <end>
 
 =>q14_original
 $(context.player.Name). I'd like to hear your explanation as to what happened at the bar.<end>
@@ -98,7 +98,7 @@ I killed Ethan.<end>
 Tell me exactly what happened. <end>
 
 =>q17
-Расскажите подробней, что произошло.<end>
+Расскажите подробней, что произошло. <end>
 
 =>q18_original
 <end>
@@ -138,7 +138,7 @@ Perfectly.<end>
 Good. <end>
 
 =>q23
-Хорошо.<end>
+Хорошо. <end>
 
 =>q24_original
 Unless there was something else you needed, you are free to go.<end>
@@ -180,7 +180,7 @@ I don't know much about it myself, but from my understanding it's a highly valua
 It certainly would. <end>
 
 =>q30
-Обязательно.<end>
+Обязательно. <end>
 
 =>q31_original
 I've had the opportunity to study this technology at one time. I was fortunate enough to obtain information, but the hardware itself has proven impossible to find. 
@@ -230,7 +230,7 @@ I know it needs the coded signal, but I don't have it.<end>
 That's a problem. The quantum near-field locks <end>
 
 =>q37
-Это проблема. Квантовое поле блокирует<end>
+Это проблема. Квантовое поле блокирует <end>
 
 =>q38_original
 can only be opened with an appropriate coded signal. They've never been beaten as far as I'm aware.
@@ -252,7 +252,7 @@ Here. ::Give it to him.::<end>
 Here is something for your efforts. The earthquake repairs have left us on a restricted budget. I'll make sure you're compensated for your contribution in other ways. <end>
 
 =>q40
-Вот кое-что за ваши усилия. Из-за восстановительных работ после землетрясения у нас ограниченный бюджет. Я позабочусь о том, чтобы вы получили компенсацию за свой вклад другими способами.<end>
+Вот кое-что за ваши усилия. Из-за восстановительных работ после землетрясения у нас ограниченный бюджет. Я позабочусь о том, чтобы вы получили компенсацию за свой вклад другими способами. <end>
 
 =>q41_original
 ::After counting and handing you a hefty sum of SGS credits, he takes the Acorn. His large hands diminish its perceived size, yet his scrutiny increases its importance.:: 
@@ -326,7 +326,7 @@ Each ACoNR unit contains a spherical supercomputer built into it - and powering 
 That is correct. There are more than one. <end>
 
 =>q51
-Верно. Их больше чем один.<end>
+Верно. Их больше чем один. <end>
 
 =>q52_original
 While they are all designed identically, each one has a different goal: An ACoNR unit is intended to be deployed somewhere, anywhere, so that they may construct a so-called *megaproject* - a project of great scale and complexity. That could be a machine, a construction, a city - it depends, but it's never simple, for it would be profligate. One might not be able to tell what the ACoNR is constructing even at later stages, let alone before it's been activated, like in the case of the one you've brought me. 
@@ -376,7 +376,7 @@ Hold up, hold up: Each Acorn?<end>
 There are more. <end>
 
 =>q58
-Есть и другие.<end>
+Есть и другие. <end>
 
 =>a59_original
 This is not the only one?<end>
@@ -388,7 +388,7 @@ This is not the only one?<end>
 No. <end>
 
 =>q60
-Нет.<end>
+Нет. <end>
 
 =>q61_original
 <end>
@@ -496,7 +496,7 @@ It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
 ::He retracts his hands.:: Understandable. <end>
 
 =>q78
-::Он убирает руки.:: Вполне понятно.<end>
+::Он убирает руки.:: Вполне понятно. <end>
 
 =>q79_original
 <end>
@@ -580,7 +580,7 @@ No. I don't know how.<end>
 ACoNR has what's called a quantum near-field lock. The lock <end>
 
 =>q92
-АКоНР, что называется квантовым замком ближнего поля. Замок<end>
+АКоНР, что называется квантовым замком ближнего поля. Замок <end>
 
 =>a93_original
 I haven't found a way to open it yet. I thought someone else would know more.<end>
@@ -616,7 +616,7 @@ No. I just heard about it and wondered if you knew something that could help me.
 As I said, I've studied it. But with regards to finding the hardware, I can offer some help: <end>
 
 =>q98
-Как я уже говорил, я изучал его. Но что касается поиска оборудования, я могу предложить некоторую помощь:<end>
+Как я уже говорил, я изучал его. Но что касается поиска оборудования, я могу предложить некоторую помощь: <end>
 
 =>a99_original
 I learned about it during a trip to the Black Sea.<end>
@@ -646,7 +646,7 @@ All I know is that it's somehow connected to certain high-tech machines capable 
 Surface? Interesting. <end>
 
 =>q103
-Насчёт поверхности... интересно?<end>
+Насчёт поверхности... интересно? <end>
 
 =>a104_original
 It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
@@ -658,7 +658,7 @@ It seems to be a device capable of manufacturing highly advanced things, like ob
 ::He nods.:: The information I have suggests the same. <end>
 
 =>q105
-::Он кивает.:: Моя информация на ту же тему.<end>
+::Он кивает.:: Моя информация на ту же тему. <end>
 
 =>a106_original
 It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
@@ -682,7 +682,7 @@ Never mind. There was something else I wanted to ask you.<end>
 Wait, $(context.player.Name). I know about ACoNR. <end>
 
 =>q109
-Погоди-ка, $(context.player.Name). Я знаю кое-что о АКоНР.<end>
+Погоди-ка, $(context.player.Name). Я знаю кое-что о АКоНР. <end>
 
 =>a110_original
 I have the Acorn. ::Show him the Acorn.::<end>
@@ -736,7 +736,7 @@ Why won't you help him, he just wants to find out what happened to his brother?<
 It is not a matter of us not wanting to help him. We've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insistence. No visible traces of injury, external or internal. <end>
 
 =>q118
-Дело не в нашем нежелании ему помочь. Мы сделали всё, что могли. Патрик умер во сне, Паскуаль осмотрел его после смерти и ещё раз после этого, по настоянию Ленокса. Никаких видимых следов повреждений, внешних или внутренних.<end>
+Дело не в нашем нежелании ему помочь. Мы сделали всё, что могли. Патрик умер во сне, Паскуаль осмотрел его после смерти и ещё раз после этого, по настоянию Ленокса. Никаких видимых следов повреждений, внешних или внутренних. <end>
 
 =>q119_original
 The body is still being kept on ice, even after a month or so as he refuses to bury him. These things happen, he might have gotten in contact with something toxic and, unfortunately, he passed on. I'm afraid Lenox is just looking for someone to blame for his loss so he could relieve his pain in a certain way.<end>
@@ -754,7 +754,7 @@ I just want to help the man out. He's down at the bar right now, not too far off
 As do I, but we've done all we could. Patrick died in his sleep, Pasquale examined him after death and again after that, on Lenox' insisting. No visible traces of injury, external or internal. <end>
 
 =>q121
-Как и я, но мы сделали всё, что могли. Патрик умер во сне, Паскуаль осмотрел его после смерти и ещё раз после этого, по настоянию Ленокса. Никаких видимых следов повреждений, внешних или внутренних.<end>
+Как и я, но мы сделали всё, что могли. Патрик умер во сне, Паскуаль осмотрел его после смерти и ещё раз после этого, по настоянию Ленокса. Никаких видимых следов повреждений, внешних или внутренних. <end>
 
 =>a122_original
 I found that Armadillo drill whatsitcalled. ::Give him the circuit board.::<end>
@@ -836,7 +836,7 @@ Excellent. So what's next on the agenda?<end>
 There are a few more jobs waiting for you actually. <end>
 
 =>q134
-Для вас и правда есть ещё несколько заданий.<end>
+Для вас и правда есть ещё несколько заданий. <end>
 
 =>q135_original
 Bret needs someone to do a hopper round up. He'll instruct you on what exactly you need to do and how to do it. Go speak to him on the agronomy level.<end>
@@ -914,7 +914,7 @@ I'm done with Gorsky's task. What's next?<end>
 Harold informed me that the minibot you requested is ready, and that you should see him when you have the chance. But other than that, <end>
 
 =>q147
-Гарольд сообщил мне, что минибот, о котором вы просили, уже готов и что вам стоит заглянуть к нему при возможности. Но в остальном,<end>
+Гарольд сообщил мне, что минибот, о котором вы просили, уже готов и что вам стоит заглянуть к нему при возможности. Но в остальном, <end>
 
 =>q148_original
 there's not much to do around the station at the moment. Not until the tunnel is clear.
@@ -936,7 +936,7 @@ The station has an old Armadillo mobile drill. It used to serve us well for many
 Harold tried to fix it a couple of times, but it was no use. He reckons that the only solution is to replace it. <end>
 
 =>q150
-Гарольд пытался починить его пару раз, но всё безуспешно. Он считает, что единственный выход -- заменить его.<end>
+Гарольд пытался починить его пару раз, но всё безуспешно. Он считает, что единственный выход -- заменить его. <end>
 
 =>a151_original
 So I guess you want me to find the replacement circuit board?<end>
@@ -1036,13 +1036,13 @@ Yeah, I've been there.<end>
 Good. Here, I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it. <end>
 
 =>q166
-Хорошо. Вот двести пятьдесят харонов. Если вы принесёте мне этот контроллер, и он будет в рабочем состоянии, можете оставить деньги себе. Я не буду спрашивать, как вы его достали.<end>
+Хорошо. Вот двести пятьдесят харонов. Если вы принесёте мне этот контроллер, и он будет в рабочем состоянии, можете оставить деньги себе. Я не буду спрашивать, как вы его достали. <end>
 
 =>q167_original
 Actually, <end>
 
 =>q167
-Вообще-то,<end>
+Вообще-то, <end>
 
 =>a168_original
 About that drill thingamagingy...<end>
@@ -1054,7 +1054,7 @@ About that drill thingamagingy...<end>
 Armadillo class drill rotor circuit board? <end>
 
 =>q169
-Контроллера ротора для бура класса Броненосец?<end>
+Контроллера ротора для бура класса Броненосец? <end>
 
 =>a170_original
 Gorsky died in Core City.<end>
@@ -1130,7 +1130,7 @@ But be careful: It goes without saying that getting between the Faceless and the
 Make this task your priority and keep me informed on the progress. <end>
 
 =>q181
-Сделайте эту задачу приоритетной и докладывайте о прогрессе.<end>
+Сделайте эту задачу приоритетной и докладывайте о прогрессе. <end>
 
 =>q182_original
 Here's your payment for a job well done. ::He hands you 500 SGS credits.::<end>
@@ -1298,7 +1298,7 @@ No, they didn't have it on them.<end>
 Keep looking for it then. <end>
 
 =>q209
-Тогда продолжайте искать.<end>
+Тогда продолжайте искать. <end>
 
 =>a210_original
 About the Acorn...<end>
@@ -1865,7 +1865,7 @@ Work? Already?<end>
 I'm afraid so. Under normal circumstances, I would give you some time to get acclimated to the station, but, as I said, multiple unexpected events took place and we need all able hands at the deck. <end>
 
 =>q302
-Я боюсь, что так. В обычных обстоятельствах я бы дал вам время освоиться на станции, но, как я уже сказал, произошёл ряд непредвиденных событий, и я вынужден свистать всех наверх.<end>
+Я боюсь, что так. В обычных обстоятельствах я бы дал вам время освоиться на станции, но, как я уже сказал, произошёл ряд непредвиденных событий, и я вынужден свистать всех наверх. <end>
 
 =>a303_original
 I have yet to get to know other Southgaters, but I have a good feeling I'll fit in with the rest of the crowd pretty well.<end>
