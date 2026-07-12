@@ -640,25 +640,25 @@ Underrail holds many secrets, but nothing's too secret for me.<end>
 All I know is that it's somehow connected to certain high-tech machines capable of traversing great distances, even reaching the Surface. It could benefit the station greatly.<end>
 
 =>a102
-Всё, что я знаю, это то, что он каким-то образом связан с некоторыми высокотехнологичными машинами, способными преодолевать большие расстояния, и даже выходить на поверхность. Это принесло бы большую пользу станции.<end>
+Всё, что я знаю, это то, что он имеет отношение к каким-то высокотехнологичным машинам, способным преодолевать большие расстояния и даже выходить на Поверхность. Он мог бы принести большую пользу станции.<end>
 
 =>q103_original
 Surface? Interesting. <end>
 
 =>q103
-Насчёт поверхности... интересно? <end>
+Поверхность? Интересно... <end>
 
 =>a104_original
 It seems to be a device capable of manufacturing highly advanced things, like objects and machinery. It could benefit the station greatly.<end>
 
 =>a104
-Кажется, это устройство, способное производить высокотехнологичные предметы, такие как устройства и машины. Оно может принести большую пользу станции.<end>
+Кажется, это устройство, способное производить высокотехнологичные вещи, такие как устройства и машины. Оно может принести большую пользу станции.<end>
 
 =>q105_original
 ::He nods.:: The information I have suggests the same. <end>
 
 =>q105
-::Он кивает.:: Моя информация на ту же тему. <end>
+::Он кивает.:: У меня схожая информация. <end>
 
 =>a106_original
 It's a device capable of utilizing materials from its surroundings in order to construct complex objects and machinery. It could benefit the station greatly.<end>
@@ -676,13 +676,13 @@ It's a supercomputer capable of controlling nanobots that can use materials from
 Never mind. There was something else I wanted to ask you.<end>
 
 =>a108
-Забудь. Я хотел$(#/а) поговорить ещё кое о чём.<end>
+Забудьте. Я хотел$(#/а) поговорить ещё кое о чём.<end>
 
 =>q109_original
 Wait, $(context.player.Name). I know about ACoNR. <end>
 
 =>q109
-Погоди-ка, $(context.player.Name). Я знаю кое-что о АКоНР. <end>
+Подождите, $(context.player.Name). Я знаю кое-что о АКоНР. <end>
 
 =>a110_original
 I have the Acorn. ::Show him the Acorn.::<end>
@@ -700,7 +700,7 @@ There's a showdown of gangs about to happen in the Junkyard and the Black Eels w
 ::Tanner listens to you calmly. After you're finished he runs his hand once over his beard before responding.:: I wasn't aware that the tensions have escalated that far. This is quite a serious matter.<end>
 
 =>q112
-::Таннер слушает вас спокойно. После того, как вы заканчиваете, он задумчиво поглаживает бороду.:: Я не знал, что ситуация настолько обострилась. Это довольно серьёзное дело.<end>
+::Таннер спокойно выслушивает вас. После того, как вы заканчиваете, он задумчиво поглаживает бороду.:: Я не знал, что ситуация настолько обострилась. Это довольно серьёзное дело.<end>
 
 =>q113_original
 We'll need to assemble the council for this. Follow me.<end>
@@ -724,7 +724,7 @@ I wanted to ask you a couple of questions about Patrick Pierce.<end>
 ::He stares at you for a moment before responding.:: Lenox is back again, I reckon?<end>
 
 =>q116
-::Он смотрит на вас мгновение, прежде чем ответить.:: Ленокс вернулся, я так полагаю?<end>
+::Он смотрит на вас мгновение, прежде чем ответить: :: Ленокс вернулся, я так полагаю?<end>
 
 =>a117_original
 Why won't you help him, he just wants to find out what happened to his brother?<end>
@@ -914,7 +914,7 @@ I'm done with Gorsky's task. What's next?<end>
 Harold informed me that the minibot you requested is ready, and that you should see him when you have the chance. But other than that, <end>
 
 =>q147
-Гарольд сообщил мне, что минибот, о котором вы просили, уже готов и что вам стоит заглянуть к нему при возможности. Но в остальном, <end>
+Гарольд сообщил мне, что минибот, о котором вы просили, уже готов, и что вам стоит заглянуть к нему при возможности. Но в остальном, <end>
 
 =>q148_original
 there's not much to do around the station at the moment. Not until the tunnel is clear.
@@ -922,9 +922,9 @@ there's not much to do around the station at the moment. Not until the tunnel is
 However, there's a way you could speed that up, besides helping with the actual digging yourself.<end>
 
 =>q148
-сейчас на станции осталось не так уж много дел. По крайней мере пока тоннель не расчистят.
+сейчас на станции осталось не так уж много дел. По крайней мере, пока тоннель не расчистят.
 
-Однако, вы могли бы помочь ускорить расчистку, не участвуя непосредственно в земельных работах.<end>
+Однако вы могли бы помочь ускорить расчистку, не участвуя непосредственно в земельных работах.<end>
 
 =>q149_original
 The station has an old Armadillo mobile drill. It used to serve us well for many years but it's out of commission now. There's something wrong with its rotor circuit board.<end>
@@ -968,9 +968,9 @@ It's a town just across the Chancer's Bay, built around, and from, an old junkya
 But most importantly, Junkyard is the main trading hub for the southern region. There is plenty to be found there: weapons, equipment, materials, spare parts... and hopefully the circuit board we need.<end>
 
 =>q155
-Город находится сразу за заливом Аферистов, возведённый в районе, и за Старой свалкой. Это опасное место, которым управляют две соперничающие банды, Утильщики и Чёрные угри. 
+Это поселение на том берегу Залива аферистов, возведённое на старой свалке и в её окрестностях. Это опасное место, которым управляют две соперничающие банды -- Утильщики и Чёрные угри. 
 
-Но самое главное, свалка является главным торговым центром для Южного региона. Там много всего: оружие, оборудование, материалы, запасные части... и, надеюсь, есть нужный нам контроллер.<end>
+Но самое главное, Свалка является главным торговым центром южного региона. Там найти много всего: оружие, оборудование, материалы, запасные части... и, надеюсь, есть нужный нам контроллер.<end>
 
 =>a156_original
 How do I get there?<end>
@@ -982,7 +982,7 @@ How do I get there?<end>
 Essie or Jonas can give you instructions on how to get there. Alternatively, you can take a ferry there but that will cost you.<end>
 
 =>q157
-Эсси или Джонас могут дать вам инструкции о том, как туда добраться. Кроме того, вы можете воспользоваться паромом, но это дорого обойдётся.<end>
+Эсси или Джонас могут рассказать вам, как туда добраться. Кроме того, вы можете воспользоваться паромом, но это не бесплатно.<end>
 
 =>q158_original
 I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it.<end>
@@ -1000,7 +1000,7 @@ But if you can't find it, I want the money back.<end>
 Deal. I'll be back with the circuit board or with your money.<end>
 
 =>a160
-Договорились. Я вернусь с контроллером или с вашими деньгами.<end>
+Договорились. Я вернусь с контроллером или вашими деньгами.<end>
 
 =>q161_original
 ::He nods and hands you the money.:: Good luck.<end>
@@ -1030,7 +1030,7 @@ Alright, fair enough. Let me know if you decide to have a go at it.<end>
 Yeah, I've been there.<end>
 
 =>a165
-Да, я был$(#/а) там.<end>
+Да, я бывал$(#/а) там.<end>
 
 =>q166_original
 Good. Here, I'll give you two hundred fifty charons. If you bring me back that circuit board and it's in working condition, you can keep all the money. I won't ask how you got it. <end>
@@ -1072,7 +1072,7 @@ Gorsky died in Core City.<end>
 We were trying to take a position north of Core City. The place there used to belong Gorsky's former gang, but it was later overtaken by another gang. We secured the location, but Gorsky didn't make it.<end>
 
 =>a172
-Мы пытались занять позицию к северу от Кор-Сити. Это место раньше принадлежало старой банде Горского, но позже его захватила другая банда. Мы выбили их, но Горский не выжил.<end>
+Мы пытались захватить базу к северу от Кор-Сити. Это место раньше принадлежало старой банде Горского, но позже его захватила другая банда. Мы выбили их, но Горский не выжил.<end>
 
 =>q173_original
 That is a very unfortunate outcome of that event. It saddens me to hear what you've told me, as we've known each other for many years and have made this station what it is now, but the negative effect this will have on our station far outweighs my personal feelings. I will speak to the council on this matter.<end>
@@ -1102,7 +1102,7 @@ I've dealt with Rail Crossing's problem. ::Explain how Faceless invaded them.::<
 I have a reason to believe it's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters gang from Core City.<end>
 
 =>a177
-У меня есть основания полагать, что это некое электронное устройство, которое сейчас в руках некоего Корнелла и его банды Кислотных охотников из Кор-Сити.<end>
+У меня есть основания полагать, что причина в одном электронном устройстве, которое сейчас в руках некоего Корнелла и его банды Кислотных охотников из Кор-Сити.<end>
 
 =>q178_original
 ::He nods slowly.:: We must find this item and discover what it is.<end>
@@ -1118,7 +1118,7 @@ You must go to Core City and look for this "Acid Hunters" band and their leader 
 =>q179
 ::Его голос слегка понижается, и в нём появляется властная нотка.::
 
-Вы должны отправиться в Кор-Сити и отыскать эту банду «Кислотных охотников» и их главаря Корнелла. Заберите у него устройство, если оно всё ещё у него, или хотя бы попытайтесь выяснить, что это такое и где он его взял.<end>
+Вы должны отправиться в Кор-Сити и отыскать эту банду «Кислотных охотников» и их главаря Корнелла. Заберите устройство, если оно всё ещё у него, или хотя бы попытайтесь выяснить, что это такое и где он его взял.<end>
 
 =>q180_original
 But be careful: It goes without saying that getting between the Faceless and their quarry is dangerous, but, if this item is so important, chances are other powerful factions will be looking for it.<end>
@@ -1202,7 +1202,7 @@ No.<end>
 It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
 
 =>q193
-Мне кажется, они ищут что-то. Если удастся выяснить что это, дайте мне знать.<end>
+Мне кажется, они ищут что-то. Если удастся выяснить, что это, дайте мне знать.<end>
 
 =>a194_original
 I've encountered some Faceless near Foundry. It seems they are looking for some item they lost.<end>
@@ -1232,13 +1232,13 @@ Not yet, I'm afraid.<end>
 It seems to me they are looking for something. If you manage to find out what, do let me know.<end>
 
 =>q198
-Мне кажется, они ищут что-то. Если удастся выяснить что это, дайте мне знать.<end>
+Мне кажется, они ищут что-то. Если удастся выяснить, что это, дайте мне знать.<end>
 
 =>a199_original
 I found out what the Faceless are looking for. It's some sort of an electronic device that's currently in the hands of Cornell and the Acid Hunters. ::Tell him what you learned.::<end>
 
 =>a199
-Я узнал$(#/а), что ищут безликие. Это некое электронное устройство, которое сейчас в руках некоего Корнелла и его банды Кислотных охотников. ::Рассказать ему, что вы узнали.::<end>
+Я узнал$(#/а), что ищут безликие. Это какое-то электронное устройство, которое сейчас в руках некоего Корнелла и его банды Кислотных охотников. ::Рассказать ему, что вы узнали.::<end>
 
 =>a200_original
 I've found Cornell and the Acid Hunters.<end>
@@ -1298,7 +1298,7 @@ No, they didn't have it on them.<end>
 Keep looking for it then. <end>
 
 =>q209
-Тогда продолжайте искать. <end>
+Тогда продолжайте поиски. <end>
 
 =>a210_original
 About the Acorn...<end>
@@ -1424,13 +1424,13 @@ We are not necessarily against the idea of unification, but at this point it wou
 Also, many of our members came from different organizations that were, at various points, in one conflict or another with the Protectorate. Allowing Protectorate laws, and more importantly troops, jurisdiction over our territory may bring harm to our citizens. We cannot have that.<end>
 
 =>q230
-Также, многие наши граждане пришли сюда из разных организаций, которые в своё время могли находиться в конфликте или не разделении взглядов с Протекторатом. Введение разрешения законам Протектората, и, что ещё более важно, их войскам иметь юрисдикцию на нашей территории может принести вред нашим гражданам. Мы не можем этого допустить.<end>
+Также, многие наши граждане пришли сюда из разных организаций, которые в своё время могли находиться в конфликте с Протекторатом. Если позволить законам Протектората, и, что ещё более важно, их войскам иметь юрисдикцию на нашей территории, это может нанести вред нашим гражданам. Мы не можем этого допустить.<end>
 
 =>q231_original
 Perhaps at a different point, after the Protectorate and the United Stations are adequately reformed and a broad amnesty agreement is put in place regarding previous conflict... Perhaps then the time of unification will come.<end>
 
 =>q231
-Возможно, в другое время, после того, как Протекторат и Объединённые Станции будут реформированы надлежащим образом, и будет достигнуто всеобъемлющее соглашение об амнистии относительно старых конфликтов... Возможно, тогда придёт и время объединения.<end>
+Возможно, в другое время, после того, как Протекторат и Объединённые Станции будут реформированы надлежащим образом и будет достигнуто всеобъемлющее соглашение об амнистии относительно старых конфликтов... Возможно, тогда придёт и время объединения.<end>
 
 =>a232_original
 What can you tell me about Core City?<end>
@@ -1490,7 +1490,7 @@ I'm not sure. You could always try going to their gates in Upper Underrail and a
 But from what I hear, they are not accepting new members easily. I advise you to tread carefully there. They are probably looking for certain characteristics in their candidates. You just have to find out what those are.<end>
 
 =>q241
-Но насколько я слышал, они не принимают новых членов просто так. Советую действовать осторожно. Они, вероятно, ищут определённые качества в своих кандидатах. Вам просто надо выяснить, какие именно.<end>
+Но насколько я слышал, они не принимают новых членов просто так. Советую действовать осторожно. Они, вероятно, ищут определённые качества в своих кандидатах. Вам придётся выяснить, какие именно.<end>
 
 =>q242_original
 They will most certainly expect you to believe or be accepting of whatever silly doctrine they hold dear.<end>
@@ -1532,7 +1532,7 @@ DEBUG: Играть сцену Вторжение Безликих<end>
 Yes. I apologize if my actions have caused distress to my fellow Southgaters.<end>
 
 =>a248
-Да. Я прошу прощения, если мои действия причинили страдания моим собратьям саут-гейтцам.<end>
+Да. Я прошу прощения, если мои действия причинили беспокойство другим саут-гейтцам.<end>
 
 =>a249_original
 ::Nod.::<end>
@@ -1550,25 +1550,25 @@ Yes. I apologize if my actions have caused distress to my fellow Southgaters.<en
 I discovered he's been using psionics to make himself appear young and confronted him about it.<end>
 
 =>a251
-Я обнаружил$(#/а), что он использует псионику, чтобы казаться молодым, и начал$(#/а) конфликт с ним на счёт этого.<end>
+Я обнаружил$(#/а), что он использует псионику, чтобы выглядеть молодым, и так ему и сказал$(#/а).<end>
 
 =>q252_original
 You haven't done anything wrong. On the contrary, you've exposed a fraud, and I haven't brought you here to punish you. The event did, however, cause unrest among the people. The next time you have any suspicions regarding any person or event in the station, bring it either to Gorsky, me, or to whomever is available.<end>
 
 =>q252
-В этом нет ничего плохого. Напротив, вы разоблачили обманщика, и я позвал вас сюда не ради наказания. Однако это событие взволновало людей. В следующий раз, когда у вас возникнут какие-либо подозрения относительно какого-либо человека или события на станции, то сообщайте о них либо Горскому, либо мне, либо тому, кто будет доступен.<end>
+Вы поступили правильно. Вы разоблачили обманщика, и я позвал вас сюда не для наказания. Однако это событие взволновало людей. В следующий раз, когда у вас возникнут какие-либо подозрения относительно какого-либо человека или события на станции, то сообщайте о них либо Горскому, либо мне, либо тому, кто будет доступен.<end>
 
 =>a253_original
 I discovered he's been using psionics to make himself appear young and wanted to expose him.<end>
 
 =>a253
-Я обнаружил$(#/а), что он использует псионику, чтобы казаться молодым, и хотел$(#/а) разоблачить его.<end>
+Я обнаружил$(#/а), что он использует псионику, чтобы выглядеть молодым, и хотел$(#/а) разоблачить его.<end>
 
 =>a254_original
 I suppose I accidentally managed to reveal him to be a fraud, as he was using psionics to make himself appear young.<end>
 
 =>a254
-Полагаю, мне случайно удалось разоблачить его как обманщика, поскольку он воздействовал на людей псионикой, представляя себя молодым.<end>
+Полагаю, мне случайно удалось разоблачить его обман, поскольку он использовал псионику, чтобы выглядеть молодым.<end>
 
 =>a255_original
 Things got out of hand.<end>
@@ -1616,7 +1616,7 @@ I did nothing wrong.<end>
 ::The man behind the desk is Hadrian Tanner, the councilor who admitted you into South Gate Station. Even during your first encounter with him, he struck you as an unusual-looking individual: Setting aside his impressive stature, one finds it difficult not to notice how his thick, bushy hair and beard envelop most of his head; that, in addition to his opaque glasses covering his eyes - which you've never noticed him without - means that you can see very little of his face and its expression. His somewhat dirty scavenger outfit, which he wore earlier as well, clashes with the clean finely furnished office, suggesting that Tanner probably does most of his work in the field.::<end>
 
 =>q262
-::Мужчина за столом -- Адриан Таннер, советник, который принял вас на станцию Саут-Гейт. Уже во время вашей первой встречи он поразил вас своей необычной внешностью: даже не считая его внушительного роста, сложно не обратить внимание на его густые волосы и бороду, скрывающую большую часть лица, и вы ни разу не видели его без непрозрачных очков, закрывающих глаза. Всё это в совокупности означает, что вы можете видеть очень малую часть его лица и не можете различить его выражения. Его немного запачканная одежда мусорщика, которую он также носил и ранее, не сочетается с чистым, хорошо обставленным кабинетом, так что похоже, что большую часть времени Таннер работает за пределами станции.::<end>
+::Мужчина за столом -- Адриан Таннер, советник, который принял вас на станцию Саут-Гейт. Уже во время вашей первой встречи он поразил вас своей необычной внешностью: помимо его внушительного роста, внимание сразу привлекают его густая борода и волосы, скрывающие большую часть лица, и вы ни разу не видели его без очков, закрывающих глаза. Всё это означает, что вам не удаётся подробно разглядеть его лицо и различить его выражение. Его обычная и немного запачканная одежда мусорщика не сочетается с чистым, хорошо обставленным кабинетом, так что похоже, что большую часть времени Таннер работает за пределами станции.::<end>
 
 =>q263_original
 ::As soon as he finishes typing, he raises his head and reaches out to shake your hand. His big hand, tucked into dark-brown gloves, makes yours seem like that of a child in comparison, and you especially feel his large fingers to be twice as thick as yours. 
@@ -1626,7 +1626,7 @@ His deep voice feels distant and calming when he addresses you.::<end>
 =>q263
 ::Закончив печатать, он поднимает голову и протягивает вам руку. По сравнению с его большой ладонью, затянутой тёмно-коричневой перчаткой, ваша кажется детской, особенно вкупе с его большущими пальцами, которые толще ваших раза в два.
 
-Его низкий голос звучит далёким и успокаивающим.::<end>
+Его низкий голос звучит отстранённо и успокаивающе: ::<end>
 
 =>q264_original
 Congratulations once again, $(context.player.Name), and welcome to our small community. You scored very well on our tests; no small feat that. I'm sure you'll turn out to be a valuable and respected citizen. But more importantly, I hope you'll find peace and kinship here, which are so hard to come by in the chaos surrounding us.<end>
@@ -1792,7 +1792,7 @@ Protectorate is my main concern. Though I do not expect any military action from
 Also farther to the north and to the west of our station there are organized bandit groups. We are not able to track their movements well, so we should not discard the possibility that they might start operating through the tunnels.<end>
 
 =>q290
-Кроме того, дальше на север и на запад от нашей станции есть организованные бандитские группировки. Мы не в состоянии постоянно отслеживать их перемещения, поэтому мы не должны отбрасывать возможность того, что они могут развернуть деятельность в этих пещерах.<end>
+Кроме того, дальше на север и на запад от нашей станции есть организованные бандитские группировки. Мы не в состоянии постоянно отслеживать их перемещения, поэтому нельзя отбрасывать возможность того, что они могут развернуть деятельность в этих пещерах.<end>
 
 =>a291_original
 It could come in handy. Now, field work?<end>
