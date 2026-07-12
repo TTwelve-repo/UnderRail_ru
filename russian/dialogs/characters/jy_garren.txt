@@ -24,7 +24,7 @@ Abram is dead. This was his last job.<end>
 Good work, Corporal. Your work here is done. I apologize for paying you in charons, but that is what I have with me at the moment.<end>
 
 =>q4
-Хорошая работа, капрал. Ваша работа здесь закончена. Прошу прощения за то, что плачу харонами, но это всё, что у меня с собой.<end>
+Хорошая работа, капрал. Ваша работа здесь закончена. Прошу прощения за то, что плачу харонами, но это всё, что у меня есть с собой.<end>
 
 =>q5_original
 Send our regards to Colonel Cathcart when you get back to Fort Apogee. ::He salutes you.::<end>
@@ -84,7 +84,7 @@ Good. I'll keep an eye on him. <end>
 You've done well to come to us with this info. Thank you. If you find out more about this person's actions or motivations let me know immediately.<end>
 
 =>q14
-Вы хорошо поступили, придя к нам с этой информацией. Спасибо. Если вы узнаете больше о действиях или мотивах этого человека, немедленно сообщите мне.<end>
+Вы правильно поступили, придя к нам с этой информацией. Спасибо. Если вы узнаете больше о действиях или мотивах этого человека, немедленно сообщите мне.<end>
 
 =>a15_original
 He wanted to know about its defenses. How many guards are inside and there are dogs or turrets. That sort of stuff.<end>
@@ -108,7 +108,7 @@ I told him what I saw.<end>
 You do understand that this effectively makes you an enemy spy. I could terminate you now, but I'm going to let you go if you agree to report anything you might find out about this Abram person's motivations or intentions.<end>
 
 =>q18
-Вы же понимаете, что это фактически превращает вас во вражеского шпиона. Я мог бы ликвидировать вас сейчас же, но, я готов отпустить вас, если вы согласны впредь сообщать мне всё, что вам станет известно о мотивах и намерениях этого человека, Абрама.<end>
+Вы же понимаете, что это фактически превращает вас во вражеского шпиона? Я мог бы ликвидировать вас сейчас же, но я готов отпустить вас, если вы согласны впредь сообщать мне всё, что вам станет известно о мотивах и намерениях этого Абрама.<end>
 
 =>a19_original
 Agreed.<end>
@@ -150,7 +150,7 @@ I fed him as much wrong info as I could.<end>
 I prefer you had told him nothing, but I guess that is the next best thing. I'll keep an eye on this guy.<end>
 
 =>q25
-Я бы предпочёл, чтобы вы ничего ему не говорили, но думаю, это тоже хорошо. Я присмотрю за этим парнем.<end>
+Я бы предпочёл, чтобы вы ничего ему не говорили, но, думаю, это тоже хорошо. Я присмотрю за этим парнем.<end>
 
 =>a26_original
 Abram asked me to infiltrate some kind of cybernetic burrower spawn into Embassy's ventilation system.<end>
@@ -222,7 +222,7 @@ What the hell do you mean no can do?<end>
 I'm not giving it to you. It's probably worth something on the market.<end>
 
 =>a37
-Я не отдам её вам. За неё, наверняка, можно выручить кое-что на рынке.<end>
+Я не отдам её вам. За неё наверняка можно выручить кое-что на рынке.<end>
 
 =>a38_original
 I was just kidding, here you go. ::Give the spawn to him.::<end>
@@ -306,7 +306,7 @@ What is the Protectorate?<end>
 We are the most powerful military organization in Underrail, and our primary objective is preservation of humanity as a whole and protection of the civilized world.<end>
 
 =>q51
-Мы самая мощная военная организация в Подземке, и наша главная цель -- сохранение человечества, в целом, и защита цивилизованного мира.<end>
+Мы самая мощная военная организация в Подземке, и наша главная цель -- сохранение человечества в целом и защита цивилизованного мира.<end>
 
 =>q52_original
 Our jurisdiction extends to the whole of United Stations, all Biocorp facilities and outposts regardless of their location and all vital Underrail infrastructure.<end>
@@ -324,7 +324,7 @@ What are the United Stations?<end>
 It's a confederacy of stations some ways to the north of here. It's the future of the Underrail and we hope to integrate all the station states and other... communities into it. Someday even this place might be part of it.<end>
 
 =>q54
-Это конфедерация станций далеко к северу отсюда. Это будущее Подземки, и мы надеемся объединить все станции-государства и другие... сообщества под одним флагом. Однажды даже это место может стать членом.<end>
+Это конфедерация станций далеко к северу отсюда. Это будущее Подземки, и мы надеемся объединить все станции-государства и другие... сообщества под одним флагом. Однажды даже это место может стать их частью.<end>
 
 =>a55_original
 Can I see the ambassador?<end>
@@ -426,7 +426,7 @@ You don't have any jurisdiction over this place, right?<end>
 The Junkyard is not a part of the Protectorate, no. But be advised that the embassy is sovereign territory of the Protectorate and that I'm allowed and required to act to prevent and/or counteract any action that might endanger it or its staff regardless of jurisdictional boundaries.<end>
 
 =>q71
-Нет, Свалка не является частью Протектората. Но имейте в виду, что посольство является суверенной территорией Протектората, и что я имею право и обязан действовать в целях предотвращения и/или противодействия любым действиям, которые могут представлять опасность для посольства или его персонала, независимо от границ юрисдикции.<end>
+Да, Свалка не является частью Протектората. Но имейте в виду, что посольство это суверенная территория Протектората, и что я имею право и обязан действовать в целях предотвращения и/или противодействия любым действиям, которые могут представлять опасность для посольства или его персонала, независимо от границ юрисдикции.<end>
 
 =>a72_original
 May I enter the embassy?<end>
