@@ -8,7 +8,7 @@
 ::, his calm and distant voice not carrying the gravity of his words.:: We've decided to assist the Black Eels. Roman is heading over there right now to discuss battle plans with Silas, after, of course, they accept our terms. He also expects you to be a part of this attack when it takes place.<end>
 
 =>q2
-::, его тихий и спокойный голос не отражает весомости его слов.:: Мы решили помочь Чёрным угрям. Роман уже направляется туда, чтобы обсудить с Сайласом план сражения, если, конечно, они примут наши условия. Он также ожидает, что вы примете участие в операции.<end>
+::, его тихий и спокойный голос не отражает весомости его слов: :: Мы решили помочь Чёрным угрям. Роман уже направляется туда, чтобы обсудить с Сайласом план сражения, если, конечно, они примут наши условия. Он также ожидает, что вы примете участие в операции.<end>
 
 =>a3_original
 What do we get out of this?<end>
@@ -26,7 +26,7 @@ A couple of things. Most notably we get to establish an embassy there which will
 We are granted some military presence at the docks and the Old Junkyard gate, which we can use to deter any potential Protectorate action there. But at the same time, this might bring us closer to a military conflict with them.<end>
 
 =>q5
-Нам будет предоставлено право на некоторое военное присутствие в доках и у ворот на Старую Свалку, которое мы можем использовать для сдерживания возможных действий Протектората. С другой стороны, это может приблизить нас к военному конфликту с ними.<end>
+Нам будет предоставлено право на некоторое военное присутствие в доках и у ворот на Старую Свалку, которое мы сможем использовать для сдерживания возможных действий Протектората. С другой стороны, это может приблизить нас к военному конфликту с ними.<end>
 
 =>q6_original
 Interesting times lie ahead for SGS.<end>
@@ -50,13 +50,13 @@ Alright, I'll head over there now.<end>
 ::.:: We've decided against helping the Black Eels. <end>
 
 =>q9
-::.:: Мы решили отказать в помощи Чёрным угрям. <end>
+::: :: Мы решили отказать в помощи Чёрным угрям. <end>
 
 =>q10_original
 We're already stretched thin with all the earthquake reparations going on. <end>
 
 =>q10
-Наши силы и так на пределе со всем этим восстановлением после землетрясения. <end>
+Наши ресурсы и так на пределе со всем этим восстановлением после землетрясения. <end>
 
 =>q11_original
 Perhaps if circumstances were different... ::He strokes his beard, appearing to be deep in thought.:: <end>
@@ -74,7 +74,7 @@ No, there's little we can accomplish at this point. You should forget about this
 With what is going on at Core City right now, we feel it would be unwise to stretch ourselves thin. <end>
 
 =>q13
-С тем, что происходит в Кор-Сити сейчас, мы думаем, что будет неразумно распылять наши силы. <end>
+Учитывая, что происходит в Кор-Сити сейчас, мы думаем, что будет неразумно распылять наши силы. <end>
 
 =>q14_original
 $(context.player.Name). I'd like to hear your explanation as to what happened at the bar.<end>
@@ -110,13 +110,13 @@ Tell me exactly what happened. <end>
 I discovered he's been using psionics to make himself appear young and confronted him about it. He got mad and attacked me.<end>
 
 =>a19
-Я обнаружил$(#/а), что он использует псионику, чтобы казаться молодым, и начал$(#/а) конфликт с ним на счёт этого. Он разозлился и напал на меня.<end>
+Я обнаружил$(#/а), что он использует псионику, чтобы выглядеть молодым, и так ему и сказал$(#/а). Он разозлился и напал на меня.<end>
 
 =>q20_original
 Everyone in the cafeteria saw what happened, and your version of the event matches theirs. Considering you acted in self-defense, you will not be punished. However, you did provoke Lanford, and the end result is obvious.<end>
 
 =>q20
-Все в столовой видели, что произошло, и ваша версия событий совпадает с их. Учитывая, что вы действовали в целях самообороны, вы не будете наказаны. Однако вы спровоцировали Лэнфорда, и конечный результат очевиден.<end>
+Все в столовой видели, что произошло, и ваша версия событий подтверждает это. Учитывая, что вы действовали в целях самообороны, вы не будете наказаны. Однако вы спровоцировали Лэнфорда, и конечный результат очевиден.<end>
 
 =>q21_original
 We don't want trouble in this station, and safety of all our residents and visitors is one of the major reasons why we are a respectable station. If you jeopardize that, you will find yourself no longer to be a part of this community.
@@ -124,9 +124,9 @@ We don't want trouble in this station, and safety of all our residents and visit
 I hope I am well understood.<end>
 
 =>q21
-Нам не нужны проблемы на этой станции, одна из главных причин, почему мы считаемся респектабельной станцией - это безопасность всех наших жителей и гостей. Если вы поставите это под угрозу, вы перестанете быть частью этого сообщества.
+Нам не нужны проблемы на этой станции; одна из главных причин, почему мы считаемся респектабельной станцией -- безопасность всех наших жителей и гостей. Если вы поставите это под угрозу, вы перестанете быть частью этого сообщества.
 
-Надеюсь, я внятно объяснил.<end>
+Надеюсь, вы меня поняли.<end>
 
 =>a22_original
 Perfectly.<end>
@@ -162,7 +162,7 @@ Have you ever heard of the Acorn, a.k.a ACoNR?<end>
 ACoNR? Why do you ask me this?<end>
 
 =>q27
-АКоНР? Почему вы спрашиваете меня о нём?<end>
+АКоНР? Почему вы спрашиваете?<end>
 
 =>q28_original
 <end>
@@ -174,13 +174,13 @@ ACoNR? Why do you ask me this?<end>
 I don't know much about it myself, but from my understanding it's a highly valuable piece of technology that could benefit the station greatly.<end>
 
 =>a29
-Я и сам$(#/а) мало что знаю об этом, но, насколько я понимаю, это очень ценная технология которая может хорошо послужить нашему делу.<end>
+Я и сам$(#/а) мало что знаю о нём, но, насколько я понимаю, это очень ценная технология, которая может хорошо послужить нашей станции.<end>
 
 =>q30_original
 It certainly would. <end>
 
 =>q30
-Обязательно. <end>
+Несомненно. <end>
 
 =>q31_original
 I've had the opportunity to study this technology at one time. I was fortunate enough to obtain information, but the hardware itself has proven impossible to find. 
@@ -202,7 +202,7 @@ Let's say I've done some digging around.<end>
 Mhm. Do you have it?<end>
 
 =>q33
-Угу... Он у вас с собой?<end>
+Хм... Он у вас с собой?<end>
 
 =>a34_original
 Yes. Right here. ::Show him the Acorn.::<end>
@@ -216,7 +216,7 @@ Yes. Right here. ::Show him the Acorn.::<end>
 Has it been opened?<end>
 
 =>q35
-::Его ответ последовал незамедлительно и был произнесён с явным удовлетворением.:: Вот он. АКоНР. 
+::Его ответ следует незамедлительно и с явным удовлетворением: :: Это он. АКоНР. 
 
 Его уже открывали?<end>
 
@@ -224,13 +224,13 @@ Has it been opened?<end>
 I know it needs the coded signal, but I don't have it.<end>
 
 =>a36
-Ему нужен кодированный сигнал, но я не знаю какой.<end>
+Ему нужен кодированный сигнал, но у меня его нет.<end>
 
 =>q37_original
 That's a problem. The quantum near-field locks <end>
 
 =>q37
-Это проблема. Квантовое поле блокирует <end>
+Это проблема. Квантовые замки ближнего поля <end>
 
 =>q38_original
 can only be opened with an appropriate coded signal. They've never been beaten as far as I'm aware.
@@ -238,7 +238,7 @@ can only be opened with an appropriate coded signal. They've never been beaten a
 But, even as is, ACoNR is still of immense value to this station. ::He reaches for the Acorn.::<end>
 
 =>q38
-можно открыть только с помощью кодированного сигнала. Насколько мне известно, их никогда не взламывали.
+можно открыть только с помощью соответствующего кодированного сигнала. Насколько мне известно, их никогда не взламывали.
 
 Но даже такой АКоНР всё ещё имеет огромную ценность для станции. ::Он тянется к Жёлудю.::<end>
 
@@ -246,13 +246,13 @@ But, even as is, ACoNR is still of immense value to this station. ::He reaches f
 Here. ::Give it to him.::<end>
 
 =>a39
-Вот. ::Отдать его.::<end>
+Возьмите. ::Отдать его.::<end>
 
 =>q40_original
 Here is something for your efforts. The earthquake repairs have left us on a restricted budget. I'll make sure you're compensated for your contribution in other ways. <end>
 
 =>q40
-Вот кое-что за ваши усилия. Из-за восстановительных работ после землетрясения у нас ограниченный бюджет. Я позабочусь о том, чтобы вы получили компенсацию за свой вклад другими способами. <end>
+Вот кое-что за ваши усилия. Из-за восстановительных работ после землетрясения, у нас ограниченный бюджет. Я позабочусь о том, чтобы вы получили компенсацию за свой вклад другими способами. <end>
 
 =>q41_original
 ::After counting and handing you a hefty sum of SGS credits, he takes the Acorn. His large hands diminish its perceived size, yet his scrutiny increases its importance.:: 
@@ -260,7 +260,7 @@ Here is something for your efforts. The earthquake repairs have left us on a res
 I will send this to Engineering. We'll begin studying it as soon as possible.<end>
 
 =>q41
-::После подсчёта и вручения вам изрядной суммы кредитов ССГ он забирает Жёлудь. В его больших руках объект казался меньше, но от его изучающего взгляда значимость объекта значительно повышалась.:: 
+::После подсчёта и вручения вам изрядной суммы кредитов ССГ, он забирает Жёлудь. В его больших руках тот теперь кажется меньше, но уделяемое внимание подчеркивает его значимость.:: 
 
 Я отправлю его в инженерный отдел, и мы как можно скорее начнём его исследование.<end>
 
@@ -270,9 +270,9 @@ I will send this to Engineering. We'll begin studying it as soon as possible.<en
 Believe me when I say that this event is going to be remembered.<end>
 
 =>q42
-::Он пожимает вашу намного меньшую ладонь.:: Вы оказали неоценимую услугу для станции, $(context.player.Name). 
+::Он пожимает вашу руку своей, намного большей.:: Вы оказали неоценимую услугу для станции, $(context.player.Name). 
 
-Поверьте мне на слово, это событие надолго останется в памяти людей.<end>
+Поверьте мне, это событие надолго останется в памяти людей.<end>
 
 =>a43_original
 I'd like to know more about the Acorn.<end>
@@ -302,13 +302,13 @@ What does the Acorn do exactly?<end>
 In the simplest of terms, ACoNR is a completely autonomous device capable of constructing highly complex objects and machinery. You will understand better once I elaborate further.<end>
 
 =>q47
-Говоря простым языком, АКоНР - это полностью автономное устройство, способное создавать очень сложные объекты и машины. Вам станет понятней, если я дам более подробное объяснение.<end>
+Говоря простым языком, АКоНР -- это полностью автономное устройство, способное создавать очень сложные объекты и машины. Вам станет понятней, если я дам более подробное объяснение.<end>
 
 =>q48_original
 Each ACoNR unit contains a spherical supercomputer built into it - and powering its AI - with billions of nanobots under its control and the ability to produce more if needed. It also has a high-capacity power supply, but over the course of the unit's operation, that supply will run out; I will explain it further on.<end>
 
 =>q48
-Каждый АКоНР содержит встроенный в него сферический суперкомпьютер обеспечивающий работу ИИ с находящимися под его контролем миллиардами наноботов способными увеличить производство при необходимости. В него также встроен мощный источник питания, но в процессе работы устройства этот источник будет исчерпан; об этом чуть позже.<end>
+Каждый АКоНР содержит встроенный в него сферический суперкомпьютер, обеспечивающий работу ИИ с находящимися под его контролем миллиардами наноботов, и способен произвести еще при необходимости. В него также встроен мощный источник питания, но в процессе работы устройства этот источник будет исчерпан; об этом чуть позже.<end>
 
 =>q49_original
 <end>
@@ -320,7 +320,7 @@ Each ACoNR unit contains a spherical supercomputer built into it - and powering 
 ::[Intelligence]:: The fact that you called the Acorn "a unit" made me suspicious, but you've confirmed that there is more than one Acorn.<end>
 
 =>a50
-::[Интеллект]:: Ваши слова об "одном устройстве" вызвали у меня подозрения, и вы подтвердили, что есть больше, чем один Жёлудь.<end>
+::[Интеллект]:: Вы сказали «каждый», значит вам известно, что существует более чем один Жёлудь?<end>
 
 =>q51_original
 That is correct. There are more than one. <end>
@@ -334,9 +334,9 @@ While they are all designed identically, each one has a different goal: An ACoNR
 But what is certain is that each unit comes with a blueprint which it follows in order to finish the megaproject.<end>
 
 =>q52
-Хотя все они выглядят одинаково, у каждого из них своя задача. Устройство АКоНР предназначено для развёртывания где-нибудь, в любом месте, объекта большого масштаба и сложности, так называемый *мегапроект*. Это может быть машина, сооружение, город, смотря по обстоятельствам, но это не так просто, потому что требует значительных затрат. Никто точно не сможет сказать, что АКоНР построит даже на более поздних стадиях, не говоря уже о том, чтобы активировать его, как и с тем устройством, который вы мне принесли. 
+Хотя все они устроены одинаково, у каждого своя задача: АКоНР предназначен для создания *мегапроекта* большого масштаба и сложности. Это может быть машина, сооружение -- что угодно, но не какая-нибудь мелочь, иначе это было бы расточительно. Не всегда можно понять, что строит АКоНР, тем более, если он еще не активирован, как тот, что вы принемли мне.
 
-Но несомненно одно, каждое устройство поставляется со своей программой, которой оно следует до завершения мегапроекта.<end>
+Но известно, что каждое устройство поставляется со своей программой, которой оно следует с целью мегапроекта.<end>
 
 =>q53_original
 Therefore, when activated, and with the blueprint loaded, the AI begins scanning the environment it is in. Its proficient nanobots are capable of exploiting whatever the AI requires, gathering the resources and establishing power sources, as the megaprojects take a long time to complete, and the unit's internal power supply will rarely be able to endure. 
@@ -344,33 +344,33 @@ Therefore, when activated, and with the blueprint loaded, the AI begins scanning
 Setting up defenses is crucial as well.<end>
 
 =>q53
-Поэтому при активации и загрузке программы, ИИ начинает сканирование окружающей среды, в которой он находится. Его умелые нанороботы способны использовать всё, что требуется ИИ, сбор ресурсов и установку источников питания, поскольку на постройку мегапроектов требуется много времени, а внутренний источник питания не всегда способен выдержать такую нагрузку.
+Поэтому при активации и загрузке программы, ИИ начинает сканирование окружающей среды. Его умелые наноботы способны использовать всё, что требуется ИИ, для сбора ресурсов и нахождения источников питания, поскольку на постройку мегапроектов требуется много времени, а внутренний источник питания вряд ли выдержать такую нагрузку.
 
-Формированию защиты также отведено большое значение.<end>
+Обеспечению защиты также отведено большое значение.<end>
 
 =>q54_original
 But the nanobots are fundamentally of limited capability and need to make way for larger and more advanced machinery when the time for it comes. They are there to establish further production - either de novo or by taking over machines and facilities already in existence - and to act as the unit's means of interacting with the world around itself, a role they fulfill till the very end.<end>
 
 =>q54
-Но наноботы обладают ограниченными возможностями и когда придёт время должны будут уступить место для более крупных и продвинутых машин. Они нужны для налаживания дальнейшего производства - либо новых, либо уже известных машин и оборудования - и действовать в качестве средства взаимодействия устройства с окружающим миром - роль, которую они выполняют до самого конца.<end>
+Но наноботы обладают ограниченными возможностями, и, когда придёт время, должны будут уступить место для более крупных и продвинутых машин. Они нужны для налаживания дальнейшего производства либо новых, либо уже известных машин и оборудования, и являются средстввом взаимодействия устройства с окружающим миром -- роль, которую они выполняют до самого конца.<end>
 
 =>q55_original
 Every unit has a prime directive - to finish the megaproject. How it achieves that is up to the AI, and the AI may, if it chooses so based on the availability of materials, restrictions of the environment and many other factors, modify the blueprint and construct something that fulfills the purpose but wasn't necessarily specified by the original blueprint.<end>
 
 =>q55
-У каждого устройства есть главная задача - закончить мегапроект. Как это достигается, зависит от ИИ, и ИИ может изменить проект, если на основе доступности материалов, особых требований окружающей среды и многих других факторов, посчитает нужным построить нечто, что выполняет цель, но не указано в исходном проекте.<end>
+У каждого устройства есть главная задача -- закончить мегапроект. Как это достигается, зависит от ИИ, и ИИ может изменить проект, если на основе доступности материалов, особых требований окружающей среды и многих других факторов, посчитает нужным построить нечто, что выполняет цель, но не указано в исходном проекте.<end>
 
 =>q56_original
 And within all of these things lies the value of the technology of the ACoNR: It adapts and grows in any environment like a living organism. It then fulfils its purpose - and self-terminates.<end>
 
 =>q56
-Именно в этом и заключается ценность технологии АКоНР-а: она адаптируется и развивается в любой среде, подобно живому организму. А когда выполняет свою задачу - самоуничтожается.<end>
+Именно в этом и заключается ценность технологии АКоНР-а: он адаптируется и развивается в любой среде, подобно живому организму. А когда выполняет свою задачу -- самоуничтожается.<end>
 
 =>a57_original
 Hold up, hold up: Each Acorn?<end>
 
 =>a57
-Стоп, стоп: Каждый АКоНР?<end>
+Стоп, стоп -- «каждый» АКоНР?<end>
 
 =>q58_original
 There are more. <end>
@@ -382,7 +382,7 @@ There are more. <end>
 This is not the only one?<end>
 
 =>a59
-Есть не только один?<end>
+Этот не единственный?<end>
 
 =>q60_original
 No. <end>
@@ -406,13 +406,13 @@ Can you describe how it works?<end>
 Did NFT make them? They seem far too advanced when compared to the rest of the technology they have.<end>
 
 =>a63
-Неужели их создала ТНГ? Они кажутся слишком продвинутыми по сравнению с остальной технологией, которая у них имеется.<end>
+Неужели их создала ТНГ? Они кажутся слишком продвинутыми по сравнению с остальной их технологией.<end>
 
 =>q64_original
 Everything I know about them suggests that they manufactured ACoNR units. That doesn't exclude the fact that they may have obtained the technology from some other supercorporation, even if I have no information that can support it.<end>
 
 =>q64
-Я лишь знаю, что они изготовили устройства АКоНР. Это не исключает возможности, что они могли получить технологию от другой суперкорпорации, даже если у меня и нет такой информации.<end>
+Я лишь знаю, что они изготовили устройства АКоНР. Это не исключает возможности, что они могли получить технологию от другой суперкорпорации, хотя у меня и нет такой информации.<end>
 
 =>q65_original
 But the origin of the technology is the least important thing. The technology itself is.<end>
@@ -430,25 +430,25 @@ Where could the other ones be?<end>
 It is likely that other supercorporations had them, at least according to various sources. New Frontier Technologies produced ACoNR units not only for themselves, but were apparently commissioned by others to do so.<end>
 
 =>q67
-Вполне вероятно, что они имелись и у других суперкорпораций, по крайней мере, согласно различным источникам. Технологии Новых Горизонтов производили устройства АКоНР не только для себя, но и, по-видимому, по заказу других.<end>
+Вполне вероятно, что они имелись и у других суперкорпораций, -- по крайней мере, согласно различным источникам. Технологии новых горизонтов производили устройства АКоНР не только для себя, но и, по-видимому, на заказ.<end>
 
 =>q68_original
 As you've experienced yourself, the units are extremely difficult to acquire, let alone their corresponding coded signals, which we still do not have. Several sources suggest that Biocorp had at least one unit, but nothing useful beyond that.<end>
 
 =>q68
-Как вы убедились, эти устройства чрезвычайно трудно заполучить, не говоря уже об их кодированных сигналах, которых у нас до сих пор нет. Есть некоторые сведения, что Биокорп располагала, по крайней мере, одним устройством, но больше ничего.<end>
+Как вы сами убедились, такое устройство чрезвычайно трудно заполучить, не говоря уже о кодированном сигнале, которого у нас до сих пор нет. Есть некоторые сведения, что Биокорп располагала по крайней мере одним устройством, но больше ничего.<end>
 
 =>a69_original
 What's going to happen with the Acorn now?<end>
 
 =>a69
-Что будет дальше с жёлудем?<end>
+Что будет с Жёлудем дальше?<end>
 
 =>q70_original
 We can't activate it without the coded signal, so the next step would be to attempt to find the corresponding one. In the meantime, we can study it.<end>
 
 =>q70
-Мы не сможем активировать его без кодированного сигнала, поэтому следующим шагом будет попытка найти этот код. А пока же, мы можем заняться его изучением.<end>
+Мы не сможем активировать его без кодированного сигнала, поэтому следующим шагом следует попытаться найти этот код. А пока же, мы можем заняться его изучением.<end>
 
 =>a71_original
 What would happen if you tried forcing it open?<end>
@@ -466,7 +466,7 @@ ACoNRs are designed in such a way as to destroy themselves in the event that any
 So all we can do now is observe it.<end>
 
 =>q73
-Так значит всё, что мы можем сейчас сделать, это осуществлять наблюдение за ним.<end>
+Значит, всё, что мы можем сейчас сделать -- наблюдать.<end>
 
 =>a74_original
 Let's talk about something else.<end>
@@ -490,7 +490,7 @@ I wanted to talk to you about something else now.<end>
 It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
 
 =>a77
-Было приложено немало усилий, чтобы заполучить его. Я бы предпоч$(#ёл/ла), чтобы мне сначала заплатили.<end>
+Потребовалось немало усилий, чтобы заполучить его. Я бы предпоч$(#ёл/ла), чтобы мне сначала заплатили.<end>
 
 =>q78_original
 ::He retracts his hands.:: Understandable. <end>
@@ -520,7 +520,7 @@ It took a lot of effort for me to get this. I'd prefer if I got paid first.<end>
 It is too much. The earthquake repairs have left us on a restricted budget. You will have to settle for less now, but I'll make sure you're compensated for your contribution in other ways.<end>
 
 =>q82
-Это чересчур. Из-за восстановительных работ после землетрясения у нас ограниченный бюджет. Теперь вам придётся довольствоваться меньшим, но я позабочусь о том, чтобы вы получили компенсацию за свой вклад другими способами.<end>
+Это чересчур. Из-за восстановительных работ после землетрясения у нас ограниченный бюджет. Пока вам придётся довольствоваться меньшим, но я позабочусь о том, чтобы вы получили компенсацию за свой вклад другими способами.<end>
 
 =>a83_original
 ::[Mercantile]:: Fifteen thousand credits.<end>
@@ -580,13 +580,13 @@ No. I don't know how.<end>
 ACoNR has what's called a quantum near-field lock. The lock <end>
 
 =>q92
-АКоНР, что называется квантовым замком ближнего поля. Замок <end>
+АКоНР, имеет нечто, называемое квантовым замком ближнего поля. Замок <end>
 
 =>a93_original
 I haven't found a way to open it yet. I thought someone else would know more.<end>
 
 =>a93
-Я не знаю способа, как его открыть. Мне казалось, что кто-то другой может знать больше.<end>
+Я не знаю способа, как его открыть. Я надеял$(#ся/ась), что кто-нибудь ещё знает.<end>
 
 =>a94_original
 Not yet, but I'm working on obtaining it.<end>
@@ -598,13 +598,13 @@ Not yet, but I'm working on obtaining it.<end>
 I've never seen one in person, but I know a single unit consists of a medium-sized container with ACoNR printed on it. If you find it, I want you to bring it to me, to South Gate Station. Once I have it in my hands, I will share everything I know about it with you.<end>
 
 =>q95
-Я никогда не видел его лично, но знаю, что это устройство выглядит как контейнер среднего размера с надписью АКоНР на нём. Если вы найдёте его, я хочу, чтобы вы принесли его мне, на станцию Саут-Гейт. Как только он окажется у меня в руках, я расскажу вам всё, что знаю о нём.<end>
+Мне не довелось видеть такое устройство, но я знаю, что это контейнер среднего размера с надписью «АКоНР». Если вы найдёте его, я хочу, чтобы вы принесли его мне на станцию Саут-Гейт. Как только он окажется у меня в руках, я расскажу вам всё, что знаю о нём.<end>
 
 =>q96_original
 This is important, $(context.player.Name). The technology of the ACoNR has been completely lost. If South Gate Station were to have it, and could use it, it would easily have a technological advantage over everyone in South Underrail.<end>
 
 =>q96
-Это очень важно, $(context.player.Name). Технология АКоНР-а была утрачена. Если станция Саут-Гейт добудет её и сможет использовать, она легко заполучит технологическое преимущество над всей южной Подземкой.<end>
+Это очень важно, $(context.player.Name). Технология АКоНР-а была утрачена. Если станция Саут-Гейт добудет её и сможет использовать, она легко заполучит технологическое преимущество над всей Южной Подземкой.<end>
 
 =>a97_original
 No. I just heard about it and wondered if you knew something that could help me.<end>
@@ -616,19 +616,19 @@ No. I just heard about it and wondered if you knew something that could help me.
 As I said, I've studied it. But with regards to finding the hardware, I can offer some help: <end>
 
 =>q98
-Как я уже говорил, я изучал его. Но что касается поиска оборудования, я могу предложить некоторую помощь: <end>
+Как я уже говорил, я изучал этот вопрос. Что касается поиска оборудования, я могу предложить некоторую помощь: <end>
 
 =>a99_original
 I learned about it during a trip to the Black Sea.<end>
 
 =>a99
-Я узнал$(#/а) об этом во время поездки на Чёрное море.<end>
+Я узнал$(#/а) о нём во время пребывания на Чёрном море.<end>
 
 =>a100_original
 I learned about it during an expedition to the Black Sea.<end>
 
 =>a100
-Я узнал$(#/а) об этом во время экспедиции на Чёрное море.<end>
+Я узнал$(#/а) о нём во время экспедиции на Чёрное море.<end>
 
 =>a101_original
 Underrail holds many secrets, but nothing's too secret for me.<end>
