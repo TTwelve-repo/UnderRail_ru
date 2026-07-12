@@ -22,7 +22,7 @@ Ya did us a massive favor, $(#jack/lady). Wouldn't have done it without ya. Cons
 =>q3
 А теперь, что касается *тебя*... ::Он вручает вам 700 стигийских монет.:: Вот. Твоя доля с добычи.
 
-Ты оказал$(#/а) нам большую услугу, $(#парень/девушка). Без тебя ничего бы не вышло. Считай нас союзниками и имей в виду, что отныне мы прикрываем тебя на улицах Свалки.<end>
+Ты оказал$(#/а) нам большую услугу, $(#парень/девушка). Без тебя ничего бы не вышло. Считай нас союзниками и имей в виду, что отныне мы прикроем тебя на улицах Свалки.<end>
 
 =>q4_original
 <end>
@@ -166,13 +166,13 @@ I'll give ya one charon for five SGS credits. Sounds good? <end>
 ::[Mercantile]:: You have to be joking. Are you trying to chase me out of your store? Should I take my business to the Scrappers?<end>
 
 =>a27
-::[Торговля]:: Ты, должно быть, шутишь. Пытаешься выгнать меня из своего магазина? Мне что, вести дела с Утильщиками?<end>
+::[Торговля]:: Ты, должно быть, шутишь. Хочешь выгнать меня из своего магазина? Мне что, вести дела с Утильщиками?<end>
 
 =>q28_original
 Alright, alright. Tell you what. <end>
 
 =>q28
-Ладно, ладно. Скажу тебе вот что. <end>
+Ладно, ладно. Раз уж на то пошло... <end>
 
 =>q29_original
 Go right ahead. I doubt they'll give you a better deal.<end>
@@ -184,13 +184,13 @@ Go right ahead. I doubt they'll give you a better deal.<end>
 ::[Mercantile]:: You have to be joking. Are you trying to chase me out of your store? Should I take my business to someone else?<end>
 
 =>a30
-::[Торговля]:: Ты, должно быть, шутишь. Пытаешься выгнать меня из своего магазина?Может быть, мне пойти поискать предложение получше?<end>
+::[Торговля]:: Ты, должно быть, шутишь. Хочешь выгнать меня из своего магазина? Может быть, мне пойти поискать предложение получше?<end>
 
 =>q31_original
 Go right ahead. I doubt anyone'll give you a better deal.<end>
 
 =>q31
-Ну, не буду тебя задерживать. Сомневаюсь, что кто-то предложат более выгодную сделку.<end>
+Ну, не буду тебя задерживать. Сомневаюсь, что кто-то предложит более выгодную сделку.<end>
 
 =>a32_original
 No way, that's not even close to a fair deal.<end>
@@ -238,7 +238,7 @@ No. I've got lots of junk, but I ain't got any Armadillo parts. Doubt any mercha
 Maybe ya can find those at the Old Junkyard, can't be sure.<end>
 
 =>q39
-Возможно, ты сможешь найти такой на Старой Свалке, но я не уверен.<end>
+Возможно, такой найдется на Старой Свалке, но я не уверен.<end>
 
 =>a40_original
 Heard of a guy named Chester Royce?<end>
@@ -316,13 +316,13 @@ Tell me about Old Junkyard.<end>
 "Old Junkyard", "Depot A". It's the original junkyard this town was built next to from the scrap our predecessors found there. It's a restricted area now, though, on account of some accident with a mutagen tank that happened a long time ago.<end>
 
 =>q52
-Старая Свалка, «Склад А». Это та самая свалка, рядом с которой был построен наш город -- из лома, который нашли там наши предшественники. Сейчас это закрытая зона по причине какой-то давней аварии с мутагенами.<end>
+Старая Свалка, Склад А. Это та самая свалка, рядом с которой был построен наш город -- из металлолома, который нашли там наши предшественники. Сейчас это закрытая зона по причине какой-то давней аварии с мутагенами.<end>
 
 =>q53_original
 It's a crazy zone now: rabid dogs, mutants, flipped-out auto-turrets...<end>
 
 =>q53
-Теперь это сумасшедшее место. Бешеные псы, мутанты, съехавшие с катушек автотурели...<end>
+Теперь это сумасшедшее место: бешеные псы, мутанты, съехавшие с катушек автотурели...<end>
 
 =>q54_original
 There's still lots of valuable junk there, though, <end>
@@ -334,7 +334,7 @@ There's still lots of valuable junk there, though, <end>
 and thanks to yer help, the gates leadin' to it are now under our control.<end>
 
 =>q55
-а благодаря твоей помощи, вход ведущий туда, теперь находится под нашим контролем.<end>
+а, благодаря твоей помощи, вход ведущий туда, теперь находится под нашим контролем.<end>
 
 =>q56_original
 and ya got Scrappers still doin' raids there. And they ain't lettin' many other folks get in. 
@@ -350,13 +350,13 @@ That's the problem, ya see - those bastards control the gate. It's in their frea
 I'm sure there's another way in.<end>
 
 =>a57
-Я уверен$(#/а), что есть другой путь туда.<end>
+Я уверен$(#/а), что есть и другой способ попасть туда.<end>
 
 =>q58_original
 ::He lowers his voice as he looks about.:: <end>
 
 =>q58
-::Оглянувшись по сторонам, он понижает голос.:: <end>
+::Оглянувшись по сторонам, он понижает голос: ::<end>
 
 =>q59_original
 Now, I didn't say that. <end>
@@ -368,7 +368,7 @@ Now, I didn't say that. <end>
 Ya know what they say - where there's will there's a way.<end>
 
 =>q60
-Знаешь, как говорится - было бы желание, а возможность найдётся.<end>
+Знаешь, как говорится -- было бы желание, а возможность найдётся.<end>
 
 =>q61_original
 If ya wanna learn more, the Black Eels might be able to help ya.<end>
@@ -440,13 +440,13 @@ Silas told me you've got the explosives ready.<end>
 Yep, here ya go. Don't blow yerself up.<end>
 
 =>q72
-Ага, вот она. Не подорвись.<end>
+Ага, вот она. Смотри, не подорвись.<end>
 
 =>a73_original
 I won't.<end>
 
 =>a73
-Нет.<end>
+Не подорвусь.<end>
 
 =>a74_original
 Who do you take me for? I'm off.<end>
