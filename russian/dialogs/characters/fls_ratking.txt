@@ -2,7 +2,7 @@
 These guys are *really* taking their sweet-ass time. A buncha yobs.<end>
 
 =>q1
-У этих ребят действительно есть привычка бездельничать. Шайка хулиганов.<end>
+Эти ребята умеют бездельничать. Шайка хулиганов.<end>
 
 =>q2_original
 Please let me have some rest.<end>
@@ -22,9 +22,9 @@ Leave me be. I wanna get some rest.<end>
 You again? What do you want now? You ain't gonna bring more people here, right? A senior like me can't get any rest with all these inconsiderate yobs racketing about.<end>
 
 =>q4
-::Ваше появление встречает сердитая физиономия.::
+::Ваше появление встречает сердитая физиономия: ::
 
-Опять? Что тебе ещё нужно? Ты же не собираешься привести сюда ещё людей, верно? Невозможно пожилому человеку отдохнуть от всех этих бесцеремонных паршивцев, которые постоянно шумят вокруг.<end>
+Опять? Что тебе ещё нужно? Надеюсь, ты не собираешься привести сюда ещё людей? Невозможно пожилому человеку отдохнуть от всех этих бесцеремонных паршивцев, которые постоянно шумят.<end>
 
 =>a5_original
 If you don't like it, leave.<end>
@@ -36,7 +36,7 @@ If you don't like it, leave.<end>
 ::He sneers.:: This was my home before you people came here. It was mine. Mine! Damn you!<end>
 
 =>q6
-::Он усмехается.:: Тут был мой дом ещё до того, как вы объявились. Он был мой. Мой! Будь ты проклят!<end>
+::Он усмехается.:: Тут был мой дом ещё до того, как вы объявились. Он был мой. Мой! Будь вы прокляты!<end>
 
 =>q7_original
 <end>
@@ -48,7 +48,7 @@ If you don't like it, leave.<end>
 ::[Persuade]:: Old man, I could've driven you out. I could've even killed you, and no one would care. But I let you stay here under the conditions both *you* and I agreed upon. Is this how you thank me? Really? Considering you live with a pair of rathounds, I think you've forgotten how to interact with people.<end>
 
 =>a8
-::[Убеждение]:: Старик, я мог$(#/ла) бы выгнать тебя отсюда. Мог$(#/ла) бы даже убить, и никто не стал бы переживать. Но я позволил$(#/а) тебе остаться на условиях, о которых мы с тобой договорились. И как ты меня благодаришь, а? Учитывая, что ты живёшь в обнимку с парой крысоволков, наверное ты просто забыл, как разговаривать людьми.<end>
+::[Убеждение]:: Старик, я мог$(#/ла) бы выгнать тебя отсюда. Мог$(#/ла) бы даже убить, и никто не стал бы переживать. Но я позволил$(#/а) тебе остаться на условиях, о которых мы с тобой договорились. И как ты меня благодаришь, а? Учитывая, что ты живёшь в обнимку с парой крысоволков, наверное ты просто забыл, как разговаривать людьми?<end>
 
 =>q9_original
 ::Your words almost instantly banish his resentful grimace, turn away his splenetic stare and pacify it until it contains nothing more than wonder, and maybe even a faint trace of genuine guilt.::
@@ -56,7 +56,7 @@ If you don't like it, leave.<end>
 You... I don't know what to say to you, how to reply to this.<end>
 
 =>q9
-::Ваши слова почти мгновенно сгоняют с его лица обиженную гримасу, прогоняют желчный взгляд и успокаивают его. Теперь в нём нет ничего кроме удивления, и, возможно, некоторого следа вины.::
+::Ваши слова почти мгновенно сгоняют с его лица обиженную гримасу, прогоняют желчный взгляд и успокаивают его. Теперь на нём нет ничего кроме удивления, и, возможно, некоторого следа вины.::
 
 Ты... я не знаю, что сказать, как тебе ответить.<end>
 
@@ -90,7 +90,7 @@ Why you, you leave my children out of this, you... you...! You know nothing abou
 =>q13
 ::Его презрительная усмешка перерастает в яростную гримасу.::
 
-Ах ты... не вмешивай сюда моих детей, ты... ты!.. Ты ничего про меня не знаешь, слышишь?! Ты ничего не знаешь!<end>
+Ах, ты... не вмешивай сюда моих детей, ты... ты!.. Ты ничего про меня не знаешь, слышишь?! Ты ничего не знаешь!<end>
 
 =>q14_original
 ::He waves you away.:: Leave. I'm tired. I don't wanna talk anymore.<end>
@@ -258,7 +258,7 @@ I guess we'll have to do this the hard way. ::Attack!::<end>
 ::[Intimidate]:: Your threats are pointless. Even if you kill me, more will come, and they will be armed to the teeth. You won't stand a chance.<end>
 
 =>a39
-::[Запугивание]:: Твои угрозы бессмысленны. Даже если ты убьёшь меня, за мной придут другие и они будут вооружены до зубов. У тебя не будет шансов.<end>
+::[Запугивание]:: Твои угрозы бессмысленны. Даже если ты убьёшь меня, за мной придут другие, и они будут вооружены до зубов. У тебя не будет шансов.<end>
 
 =>q40_original
 ::He seems hesitant.:: What do you want with this place anyway? Look at it - it's ruined, it ain't got nothing.<end>
@@ -288,7 +288,7 @@ Well, why would I have to leave? I wouldn't get in your way.<end>
 Hmm, okay, you can stay for now. But don't try to interfere with our operations.<end>
 
 =>a44
-Хм, хорошо, ты можешь остаться пока. Но не пытайся вмешиваться в наши дела.<end>
+Хм, хорошо, ты можешь пока остаться. Но не пытайся вмешиваться в наши дела.<end>
 
 =>q45_original
 ::He nods.::<end>
@@ -394,7 +394,7 @@ And take my stuff? ::He levels his crossbow at you.:: Get out!<end>
 You'll need more than a crossbow to scare me off, you ugly rat.<end>
 
 =>a61
-Тебе потребуется что-то побольше чем арбалет, чтобы напугать меня, мерзкая крыса.<end>
+Тебе потребуется что-то побольше, чем арбалет, чтобы напугать меня, мерзкая крыса.<end>
 
 =>a62_original
 Alright, alright, I'm leaving.<end>
