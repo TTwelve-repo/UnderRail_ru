@@ -974,7 +974,7 @@ Never mind, then. There was something else I wanted to ask you.<end>
 ::His eyes tell you he wants to stay on the topic, and then he expands his question.:: What do you know about the Acorn?<end>
 
 =>q157
-::Его взгляд говорит вам, что он хочет развить эту тему, а затем он задаёт вопрос: :: Что вы знаете о Жёлуде?<end>
+::Его взгляд говорит вам, что он хочет развить эту тему, а затем он задаёт вопрос: ::Что вы знаете о Жёлуде?<end>
 
 =>a158_original
 I have the Acorn. ::Show him the Acorn.::<end>
@@ -1192,7 +1192,7 @@ Are you blind, Ezra?<end>
 What is it exactly that you do here?<end>
 
 =>a192
-А чем именно вы здесь занимаетесь?<end>
+Чем вы здесь занимаетесь?<end>
 
 =>q193_original
 Me specifically, the cyber department or the engineering sector?<end>
@@ -1228,7 +1228,7 @@ I also oversee all operations of the engineering sector.<end>
 And what do you do specifically?<end>
 
 =>a198
-И чем именно вы занимаетесь?<end>
+И чем занимаетесь именно вы?<end>
 
 =>a199_original
 How about the cyber department?<end>
@@ -1888,10 +1888,10 @@ $(context.player.Name).<end>
 ::As he turns around to face you, you immediately notice there is something off with this man. His face is pale and hairless. He is missing one of his eyes and instead wires protrude from his eye socket, traveling over the side of his face and disappearing down the back of his neck. The other eye is almost colorless with the pupil so contracted that you question whether he can even see at all.::<end>
 
 =>q304
-::Когда он поворачивается к вам лицом, вы сразу же замечаете, что с этим мужчиной что-то не так. Его лицо бледное, и на голове нет волос. У него отсутствует один глаз, а вместо него из глазницы торчат провода, тянущиеся к затылку. Второй глаз настолько бесцветный, что вы гадаете, может ли он вообще видеть.::<end>
+::Когда он поворачивается к вам, вы сразу же замечаете, что с этим мужчиной что-то не так. Его лицо бледное, и на голове нет волос. У него отсутствует один глаз, а вместо него из глазницы торчат провода, тянущиеся к затылку. Второй глаз настолько бесцветный, что вы гадаете, может ли он вообще видеть.::<end>
 
 =>q305_original
 ::He speaks with a calm and even voice.:: Hello, $(context.player.Name). I am Ezra. I act as the head network administrator and chief of the entire engineering sector.<end>
 
 =>q305
-::Он говорит спокойным и монотонным голосом: :: Здравствуйте, $(context.player.Name). Меня зовут Эзра. Я занимаю должность главного системного администратора и начальника инженерного отдела.<end>
+::Он говорит спокойным и монотонным голосом: ::Здравствуйте, $(context.player.Name). Меня зовут Эзра. Я занимаю должность главного системного администратора и начальника инженерного отдела.<end>

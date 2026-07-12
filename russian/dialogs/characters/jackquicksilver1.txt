@@ -697,13 +697,13 @@ No, actually, I'm new here.<end>
 Name's Jack Quicksilver.<end>
 
 =>q113
-Меня называют Скользкий Джек.<end>
+Меня называют Скользкий Джек. <end>
 
 =>q114_original
 Who're you?<end>
 
 =>q114
-А вы кто?<end>
+Кто вы?<end>
 
 =>a115_original
 My name is $(context.player.Name).<end>

@@ -328,7 +328,7 @@ Jennifer Royce. Her brother, <end>
 Identity is still unknown. Probably some scavenger, but $(tempcontext.wasteWater_pronoun1) had very few items on $(tempcontext.wasteWater_pronoun2) when $(tempcontext.wasteWater_pronoun1) was found.<end>
 
 =>q54
-Личность пока не установлена, скорее всего это кто-то из местных мусорщиков. Вещей тоже практически не было.<end>
+Личность пока не установлена, скорее всего это кто-то из местных мусорщиков. Вещей на теле тоже практически не было.<end>
 
 =>q55_original
 her <end>
@@ -666,7 +666,7 @@ Inside this gap lie psionics, but due to the brain's nature and complexity, thos
 =>q109
 Кроме того, Роше отмечает, что структуры головного мозга, в которых происходит иннервация, позволяющая осуществлять псионическую активность, никогда не изучались так глубоко. Несмотря на то, что мы много знаем о том, как работает мозг в целом, существует большой разрыв между познаниями в исследованиях, выполняемыми психологами и неврологами, и подробных исследованиях, выполняемыми нейробиологами, изучающими нейроны и рецепторы.
 
-Внутри этого промежутка лежит суть псионики, но из-за природы и сложности мозга те, кто хочет изучить её, должны начать с любого из этих направлений и медленно приближаться к заветной середине.<end>
+Внутри этого промежутка лежит суть псионики, но, из-за самой природы и сложности мозга, те, кто хочет изучить её, должны начать с любого из этих направлений и медленно приближаться к заветной середине.<end>
 
 =>q110_original
 So you see, it's a bit of a mystery. We know much more about how to make it work than how it actually works.<end>
@@ -722,7 +722,7 @@ There are ways to perform this innervation by deep, extended meditation, but thi
 Therefore, the choice is yours.<end>
 
 =>q118
-::Он опускает руку в карман и извлекает на свет большую красную пилюлю.:: Этот препарат быстро позаботится об ингибиторе, но есть один побочный эффект, о котором я считаю своим долгом упомянуть: большинство пациентов испытывают немедленное и значительное ослабление своей иммунной системы, и когда я говорю большинство, я имею в виду всех. Попросту говоря, это негативно скажется на вашем здоровье.
+::Он опускает руку в карман и извлекает на свет большую красную пилюлю.:: Этот препарат быстро позаботится об ингибиторе, но есть один побочный эффект, о котором я считаю своим долгом упомянуть: большинство пациентов испытывают немедленное и значительное ослабление своей иммунной системы, и когда я говорю «большинство», я имею в виду всех. Попросту говоря, это негативно скажется на вашем здоровье.
 
 Так что, выбор за вами.<end>
 
@@ -982,7 +982,7 @@ Just use them wisely and you should be alright. Or you could simply purchase mor
 Well, since apparently I'm not all that gifted and will need a lot of training, I was sort of expecting some extra motivation. Besides, dangerous work awaits me after I'm done here with you.<end>
 
 =>a159
-Ну, поскольку я не так$(#ой уж одарённый/ая уж одарённая), и мне придётся много тренироваться, мне бы, так сказать, пригодилась бы дополнительная мотивация. Кроме того, после того, как я от вас уйду, меня ждёт опасная работа.<end>
+Ну, поскольку я не так$(#ой уж одарённый/ая уж одарённая), и мне придётся много тренироваться, мне бы, так сказать, пригодилась дополнительная мотивация. Кроме того, после того, как я от вас уйду, меня ждёт опасная работа.<end>
 
 =>q160_original
 <end>
@@ -1244,7 +1244,7 @@ Just like muscles recover from fatigue with the help of the body's glycogen rese
 ::He speaks after a short pause.:: It's you, $(context.player.Name). Are you here about Ethan?<end>
 
 =>q200
-::Он говорит после непродолжительной паузы: :: $(context.player.Name). Вы здесь из-за Итана?<end>
+::Он говорит после непродолжительной паузы: ::$(context.player.Name). Вы здесь из-за Итана?<end>
 
 =>a201_original
 Yes. I wanted to see if you've examined his remains.<end>
@@ -1356,7 +1356,7 @@ The what...?<end>
 Allow me to explain what psionic potential really is: It's a relatively rare inheritable, complex genetic trait that triggers development of certain, otherwise latent components in the brain.<end>
 
 =>q218
-Для начала позвольте мне рассказать немного о пси-потенциале. Это относительно редкий наследуемый сложный генетический признак, который провоцирует развитие определённых, в ином случае латентных областей мозга.<end>
+Для начала, позвольте мне рассказать немного о пси-потенциале. Это относительно редкий сложный наследуемый генетический признак, который провоцирует развитие определённых, в ином случае латентных областей мозга.<end>
 
 =>q219_original
 It allows a person to perform some subtle psionic invocations, such as influencing the minds of others, as well as some not so subtle ones - such as causing radical temperature changes and telekinetic manipulations.<end>

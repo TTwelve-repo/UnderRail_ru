@@ -8,7 +8,7 @@
 ::, his calm and distant voice not carrying the gravity of his words.:: We've decided to assist the Black Eels. Roman is heading over there right now to discuss battle plans with Silas, after, of course, they accept our terms. He also expects you to be a part of this attack when it takes place.<end>
 
 =>q2
-::, его тихий и спокойный голос не отражает весомости его слов: :: Мы решили помочь Чёрным угрям. Роман уже направляется туда, чтобы обсудить с Сайласом план сражения, если, конечно, они примут наши условия. Он также ожидает, что вы примете участие в операции.<end>
+::, его тихий и спокойный голос не отражает весомости его слов: ::Мы решили помочь Чёрным угрям. Роман уже направляется туда, чтобы обсудить с Сайласом план сражения, если, конечно, они примут наши условия. Он также ожидает, что вы примете участие в операции.<end>
 
 =>a3_original
 What do we get out of this?<end>
@@ -50,7 +50,7 @@ Alright, I'll head over there now.<end>
 ::.:: We've decided against helping the Black Eels. <end>
 
 =>q9
-::: :: Мы решили отказать в помощи Чёрным угрям. <end>
+::: ::Мы решили отказать в помощи Чёрным угрям. <end>
 
 =>q10_original
 We're already stretched thin with all the earthquake reparations going on. <end>
@@ -216,7 +216,7 @@ Yes. Right here. ::Show him the Acorn.::<end>
 Has it been opened?<end>
 
 =>q35
-::Его ответ следует незамедлительно и с явным удовлетворением: :: Это он. АКоНР. 
+::Его ответ следует незамедлительно и с явным удовлетворением: ::Это он. АКоНР. 
 
 Его уже открывали?<end>
 
@@ -724,7 +724,7 @@ I wanted to ask you a couple of questions about Patrick Pierce.<end>
 ::He stares at you for a moment before responding.:: Lenox is back again, I reckon?<end>
 
 =>q116
-::Он смотрит на вас мгновение, прежде чем ответить: :: Ленокс вернулся, я так полагаю?<end>
+::Он смотрит на вас мгновение, прежде чем ответить: ::Ленокс вернулся, я так полагаю?<end>
 
 =>a117_original
 Why won't you help him, he just wants to find out what happened to his brother?<end>
@@ -1626,7 +1626,7 @@ His deep voice feels distant and calming when he addresses you.::<end>
 =>q263
 ::Закончив печатать, он поднимает голову и протягивает вам руку. По сравнению с его большой ладонью, затянутой тёмно-коричневой перчаткой, ваша кажется детской, особенно вкупе с его большущими пальцами, которые толще ваших раза в два.
 
-Его низкий голос звучит отстранённо и успокаивающе: ::<end>
+Его низкий голос звучит отстранённо и успокаивающе.::<end>
 
 =>q264_original
 Congratulations once again, $(context.player.Name), and welcome to our small community. You scored very well on our tests; no small feat that. I'm sure you'll turn out to be a valuable and respected citizen. But more importantly, I hope you'll find peace and kinship here, which are so hard to come by in the chaos surrounding us.<end>

@@ -330,4 +330,4 @@ Don't you "yeah, yeah" me, you idiot. <end>
 ::He greets you with a nod.:: $(context.player.Name).<end>
 
 =>q53
-::Он приветствует вас кивком: :: $(context.player.Name).<end>
+::Он приветствует вас кивком: ::$(context.player.Name).<end>
