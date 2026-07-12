@@ -4,7 +4,7 @@
 Feelin' pain? I can fix you.<end>
 
 =>q1
-::Костюм этого врача покрыт засохшей кровью и другими грязными пятнами, а запах соответствует его внешнему виду. Когда вы приближаетесь, он медленно поворачивается, осматривая ваше тело в поисках ран своими дикими глазами, которые, кажется, готовы выскочить из орбит. Вопреки взгляду, его голос тихий и серьёзный.::
+::Костюм этого врача покрыт засохшей кровью и другими грязными пятнами, а запах соответствует его внешнему виду. Когда вы приближаетесь, он медленно поворачивается, осматривая ваше тело в поисках повреждений своими дикими глазами, которые, кажется, готовы выскочить из орбит. Вопреки взгляду, его голос тихий и серьёзный.::
 
 Вам больно? Я могу подправить вас.<end>
 
@@ -48,13 +48,13 @@ Here you go. ::Give him 1500 stygian coins.::<end>
 ::First his eyes take the money, then his hands.:: Don't wave it around so much. Poor folks' eyes see everythin'. Applies to food too, and everything precious.<end>
 
 =>q8
-::Его глаза берут деньги прежде чем его руки.:: Не размахивайте ими так сильно. Глаза бедняков видят всё. Касается и еды тоже, и всего ценного.<end>
+::Его глаза берут деньги раньше чем его руки.:: Не размахивайте ими так сильно. Глаза бедняков видят всё. Касается и еды тоже, и всего ценного.<end>
 
 =>a9_original
 I'll see to it that some men from Core City Housing Corporation come and get the bench for me, okay?<end>
 
 =>a9
-Я закажу, чтобы люди из Жилищной корпорации Кор-Сити приехали и забрали верстак, хорошо?<end>
+Я закажу, чтобы люди из Жилищной корпорации Кор-Сити приехали и забрали стол, хорошо?<end>
 
 =>q10_original
 ::His wild eyes nod for him.::<end>
@@ -108,7 +108,7 @@ You did? Great. So, how about we lower that price to, say, one thousand two hund
 Whoever can kill Carnifex is... hardcore. Ha... Ha... I'll part with the bench for one grand.<end>
 
 =>q18
-Тот, кто может убить Карнифекса... крутой. Ха... Ха... Я расстанусь с верстаком за одну тысячу.<end>
+$(#Тот/Та), кто может убить Карнифекса... хардкор$(#ен/на). Ха... Ха... Я расстанусь с верстаком за одну тысячу.<end>
 
 =>a19_original
 I won't complain.<end>
@@ -240,7 +240,7 @@ Never said that. I also benefited from their "generosity." But what I said is tr
 The United Stations are helpin' the Junkyarders in need. They're giving out food and clothes. Food...<end>
 
 =>q40
-Объединённые Станции помогали жителям Свалки. Они раздавали еду и одежду. Еду...<end>
+Объединённые Станции помогают жителям Свалки. Они раздают еду и одежду. Еду...<end>
 
 =>q41_original
 That certainly bought their affection. Quite cheap, though, but them folks got next to nothin', so it makes sense.<end>
@@ -258,7 +258,7 @@ You don't like the United Stations?<end>
 Never said that. I also benefit from their "generosity." But what I said is true, them guys ain't stupid. They ain't. Ha...<end>
 
 =>q43
-Никогда этого не говорил. Я тоже извлекаю выгоду из их «щедрости». Но то, что я сказал, -- правда; эти парни не дураки. Нет. Ха...<end>
+Никогда этого не говорил. Я тоже извлекаю выгоду из их «щедрости». Но то, что я сказал, -- правда, эти парни не дураки. Нет. Ха...<end>
 
 =>a44_original
 I'm hurting. Can you stitch me back up, doc?<end>
@@ -306,7 +306,7 @@ Lie still for the injection, you big baby.<end>
 ::You look away as he administers the injection. His wild eyes stare at you as he waits for the anesthetic to deaden your limbs. Then, he begins fixing you.::<end>
 
 =>a51
-::Вы отводите взгляд, когда он делает укол. Он не спускает с вас безумного взгляда, ожидая, пока анестетик обездвижит ваши конечности. Затем он начинает править вас.::<end>
+::Вы отводите глаза, когда он делает укол. Он не спускает с вас безумного взгляда, ожидая, пока анестетик обездвижит ваши конечности. Затем он начинает править вас.::<end>
 
 =>a52_original
 Actually, I'll pass. It's just a flesh wound anyway.<end>
@@ -432,7 +432,7 @@ Who's Eddy?<end>
 Eddy... Eddy... The Scrapper boss. You know, them guys guardin' the Old Junkyard gate.<end>
 
 =>q72
-Эдди... Эдди... Босс Утильщиков. Вы знаете, ребят, которые охраняют ворота на Старую Свалку.<end>
+Эдди... Эдди... Босс Утильщиков. Вы знаете, -- ребят, которые охраняют ворота на Старую Свалку.<end>
 
 =>q73_original
 Eddy...<end>
