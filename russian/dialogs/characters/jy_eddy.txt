@@ -8,7 +8,7 @@ Ok, here's what you got to do. Go to the slums, past the camping area into a bac
 Look for a guy named Elwood and get his keycard off him. I have no idea how you'd do it, though. Avoid fighting him if you can, and if you absolutely must kill him for it, make sure no one sees you.<end>
 
 =>q2
-Найди парня по имени Элвуд и забери у него ключ-карту. Я понятия не имею, как тебе это сделать. Избегай драки, если сможешь, но если тебе придётся его убить, то убедись, что тебя никто не увидит.<end>
+Найди парня по имени Элвуд и забери у него ключ-карту. Я понятия не имею, как тебе это сделать. Избегай драки, если сможешь, но если тебе придётся его убить, то убедись, что тебя никто не заметит.<end>
 
 =>q3_original
 If other Scrappers see you attacking him, the whole deal is off and I'll have nothing to do with you, understand?<end>
@@ -48,7 +48,7 @@ What do you want? Can't you see I'm busy? ::He says and puts down his copper mug
 =>q8
 ::Вы видите невысокого нервного мужчину с растрёпанными волосами и в испачканных очках, которые он время от времени поправляет только для того, чтобы через пару секунд понять, что он не в восторге от их нового расположения.::
 
-Чего ты хочешь? Разве не видишь, я занят? ::Говорит он ставя свою медную кружку.::<end>
+Чего ты хочешь? Разве не видишь, я занят? ::Он отставляет свою медную кружку.::<end>
 
 =>q9_original
 <end>
@@ -78,7 +78,7 @@ You mentioned you had more work for me.<end>
 Yeah, I wanted you to look for that secret entrance to Old Junkyard, but you've already taken care of that.<end>
 
 =>q13
-Да, я хотел, чтобы ты наш$(#ёл/ла) этот тайный ход на Старую Свалку, но ты с этим уже разобрал$(#ся/ась).<end>
+Да, я хотел, чтобы ты наш$(#ёл/ла) тот тайный ход на Старую Свалку, но ты с этим уже разобрал$(#ся/ась).<end>
 
 =>q14_original
 Yeah, since you're heading into the Old Junkyard anyway, there's something you could help me with.<end>
@@ -148,7 +148,7 @@ Oh, yeah, here's your money.<end>
 You did well to come to me with this info. Nothing expresses gratitude like money, if you ask me. Here, take this.<end>
 
 =>q24
-Ты правильно сделал$(#/а), что приш$(#ёл/ла) ко мне с этой информацией. Как по мне, ничто не выражает благодарность лучше чем деньги. Вот, возьми.<end>
+Ты правильно сделал$(#/а), что приш$(#ёл/ла) ко мне с этой информацией. Как по мне, ничто не выражает благодарность лучше, чем деньги. Вот, возьми.<end>
 
 =>a25_original
 The Black Eels are going to try to take you guys down. They've got a secret entrance that goes from the lower levels, through the caves and into the slums.<end>
@@ -178,7 +178,7 @@ What you're looking for there anyway?<end>
 Some drill parts.<end>
 
 =>a29
-Запчасти для буровой установки.<end>
+Запчасти для бура.<end>
 
 =>q30_original
 Hmm... We don't usually allow outsiders in there, but I guess I might be able to let you slip by. That is, if you're willing to do me a favor first.<end>
@@ -250,7 +250,7 @@ Now there you are wrong. It damn sure is my business. Both depots belong to the 
 Alright, I'm looking for some rare drill parts.<end>
 
 =>a41
-Ладно, я ищу редкие запчасти для буровой установки.<end>
+Ладно, я ищу редкие запчасти для бура.<end>
 
 =>a42_original
 Just forget it.<end>
@@ -334,13 +334,13 @@ What'd you think I needed the key for, genius? Now listen...<end>
 I need you to find something that resembles a disk. It's dark green and rough on the surface, and it's made of something that's not quite stone and not quite metal.<end>
 
 =>q55
-Мне нужно, чтобы ты наш$(#ёл/ла) такую штуку в форме диска. Он тёмно-зелёного цвета с шероховатой поверхностью. Сделанный из чего-то, что не совсем камень и не совсем металл.<end>
+Мне нужно, чтобы ты наш$(#ёл/ла) такую штуку в форме диска. Он тёмно-зелёного цвета, с шероховатой поверхностью. Сделанный из чего-то, что не совсем камень и не совсем металл.<end>
 
 =>q56_original
 It's kinda hard to describe, but you'll know when you find it, trust me.<end>
 
 =>q56
-Его довольно трудно описать, но ты узнаешь его когда найдёшь, поверь мне.<end>
+Его довольно трудно описать, но ты узнаешь его, когда найдёшь, поверь мне.<end>
 
 =>q57_original
 <end>
@@ -358,7 +358,7 @@ This disk? ::Give him the mysterious disk.::<end>
 ::He stares at you in surprise.:: Already? <end>
 
 =>q59
-::Он уставился на вас с удивлением.:: Уже? <end>
+::Он таращится на вас с удивлением.:: Уже? <end>
 
 =>q60_original
 Ha-ha, I knew you could pull it off! Good job. I'll let the guards know you're allowed to pass into the ol' Depot A.
@@ -374,7 +374,7 @@ Just go through the back door over there in the HQ and turn right.<end>
 I could use someone like you for another job. If you're up for it, come and see me later.<end>
 
 =>q61
-Мне бы пригодился человек вроде тебя для ещё одного дела. Если тебе интересно, зайди ко мне позже.<end>
+Мне бы пригодился человек вроде тебя для ещё одного дела. Если тебе интересно, зайди ко мне снова.<end>
 
 =>a62_original
 Alright. I'll find you your disk.<end>
@@ -398,13 +398,13 @@ Good hunting.<end>
 Oh, and just one more thing. From what I've gathered Elwood used to be pretty good with mines, so watch your step in there.<end>
 
 =>q65
-А, и ещё кое-что. Насколько я слышал, Элвуд хорошо умел обращаться с минами, так что смотри куда ступаешь.<end>
+А, и ещё кое-что. Насколько я слышал, Элвуд хорошо умел обращаться с минами, так что смотри, куда ступаешь.<end>
 
 =>q66_original
 Oh, and just one more thing. From what I've gathered Elwood is pretty good with mines, so watch your step in there.<end>
 
 =>q66
-А, и ещё кое-что. Насколько я слышал, Элвуд хорошо умеет обращаться с минами, так что смотри куда ступаешь.<end>
+А, и ещё кое-что. Насколько я слышал, Элвуд хорошо умеет обращаться с минами, так что смотри, куда ступаешь.<end>
 
 =>a67_original
 Fine, but after this I get access to the Depot A, right?<end>
@@ -506,7 +506,7 @@ Yeah, he has a shop in the Lower Underrail near SGS.<end>
 What the hell is he doing up there? Never mind that. If you get his head for me, I'll pay you 1000 charons.<end>
 
 =>q83
-Какого хрена он там делает? Неважно. Если принесёшь мне его голову, я заплачу тебе 1000 харонов.<end>
+Какого хрена он там делает? Хотя, неважно. Если принесёшь мне его голову, я заплачу тебе 1000 харонов.<end>
 
 =>a84_original
 Nope.<end>
