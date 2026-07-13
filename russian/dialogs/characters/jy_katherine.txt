@@ -2,13 +2,13 @@
 Alright, I fixed the necklace as best as I could. Receiver should still work, but you'll only be able to pinpoint the location at short distances.<end>
 
 =>q1
-Ладно, я починила ожерелье, насколько смогла. Приёмник должен всё ещё работать, но ты сможешь определить местоположение только на небольшой дистанции.<end>
+Ладно, я починила ожерелье, насколько смогла. Приёмник должен работать, но ты сможешь определить местоположение только на небольшой дистанции.<end>
 
 =>q2_original
 No luck with the emitter component, but perhaps that's for the best. You don't know who might be, heh, holdin' the other receiver, if you dig.<end>
 
 =>q2
-Не повезло с компонентой-излучателем, но, возможно, это и к лучшему. Как знать, кто может владеть вторым приёмником.<end>
+Ничего не удалось сделать с компонентой-излучателем, но, возможно, это и к лучшему. Как знать, кто может владеть вторым приёмником.<end>
 
 =>q3_original
 ::A young, slender, tall redhead stands before you. She addresses you with a rather thick accent.::
@@ -16,7 +16,7 @@ No luck with the emitter component, but perhaps that's for the best. You don't k
 I see you ain't from around here, $(#slick/sis). I'm Katherine, and I run this little shop. You here lookin' for some electronics, maybe?<end>
 
 =>q3
-::Перед вами стоит молодая, стройная, высокая рыжеволосая девушка. Она обращается к вам с довольно сильным акцентом.::
+::Перед вами стоит молодая, стройная, высокая рыжеволосая девушка. Она обращается к вам с довольно сильным акцентом: ::
 
 Вижу, ты не местн$(#ый/ая), $(#красавчик/сестрёнка). Я Кэтрин, и это мой маленький магазин. Ты ищешь какую-нибудь электронику, быть может?<end>
 
@@ -30,13 +30,13 @@ I see you ain't from around here, $(#slick/sis). I'm Katherine, and I run this l
 Show me what you have. ::Barter.::<end>
 
 =>a5
-Покажите мне, что у вас есть. ::Обмен.::<end>
+Покажи мне, что у тебя есть. ::Обмен.::<end>
 
 =>a6_original
 Hey, Katherine, do you know what this is? ::Show her the damaged necklace.::<end>
 
 =>a6
-Эй, Кэтрин, вы знаете, что это? ::Показать ей повреждённое ожерелье.::<end>
+Скажи, Кэтрин, ты знаешь, что это такое? ::Показать ей повреждённое ожерелье.::<end>
 
 =>q7_original
 Lemme see. ::She inspects the necklace.::<end>
@@ -48,7 +48,7 @@ Lemme see. ::She inspects the necklace.::<end>
 Hmmmm... I've... yeah, I've seen these before. It's one of them tracker-emitter necklaces. Folks that wanted to make sure not to lose each other in Underrail - like scavengers, for example - used to make these.<end>
 
 =>q8
-Я видела такие прежде. Это ожерелье -- трекер-излучатель. Раньше такие делали люди, которые хотели гарантию, что не потеряют друг друга в Подземке -- например мусорщики.<end>
+Хм-м-м... Я... да, я видела такие прежде. Это ожерелье -- трекер-излучатель. Раньше такие делали люди, которые хотели гарантию, что не потеряют друг друга в Подземке -- например мусорщики.<end>
 
 =>q9_original
 This one seems to be one part of a pair. It's basically both a receiver and an emitter so either necklace of the pair can be used to track the other one.<end>
@@ -60,7 +60,7 @@ This one seems to be one part of a pair. It's basically both a receiver and an e
 ::She pauses, taking a look at the necklace again.:: Not any more, obviously, since the thing is broken.<end>
 
 =>q10
-::Она делает паузу, снова взглянув на ожерелье.:: Уже видимо нет, так как вещь сломана.<end>
+::Она недолго рассматривает ожерелье.:: Уже, видимо, нет, так как вещь сломана.<end>
 
 =>a11_original
 Can you repair it?<end>
@@ -72,7 +72,7 @@ Can you repair it?<end>
 The receiver... possibly. But I doubt it's gonna be workin' as well as it used to. I mean... that's the way things are. Emitter is way beyond repair, though. All in all, the fixin' would cost you fifteen charons. Interested?<end>
 
 =>q12
-Приёмник... возможно. Но я сомневаюсь, что он будет работать так же хорошо, как раньше. Я имею в виду... так уж получилось. Но излучатель уже не восстановить. В общем, починка будет стоить тебе пятнадцать харонов. Интересует?<end>
+Приёмник... возможно. Но я сомневаюсь, что он будет работать так же хорошо, как раньше. Тут уж ничего не поделаешь. Но излучатель уже не восстановить. В общем, починка будет стоить тебе пятнадцать харонов. Интересует?<end>
 
 =>a13_original
 Sure, here's fifteen. ::Give her 15 stygian coins::<end>
@@ -96,7 +96,7 @@ Alright, lemme see what I can do.<end>
 Perhaps later.<end>
 
 =>a16
-Возможно позже.<end>
+Возможно, позже.<end>
 
 =>q17_original
 Fine with me. I'm gonna be here if you change your mind.<end>
@@ -114,7 +114,7 @@ Alright, thanks for the info.<end>
 So, can you repair this damaged necklace?<end>
 
 =>a19
-Так ты можешь восстановить это повреждённое ожерелье?<end>
+Так, ты можешь восстановить это повреждённое ожерелье?<end>
 
 =>a20_original
 Merchants here only accept stygian coins? How do I get some of those?<end>
@@ -126,13 +126,13 @@ Merchants here only accept stygian coins? How do I get some of those?<end>
 Yeah, look for a Black Eel by the name of Colton. Colton. He can set you up for some charons if you provide him other currencies.<end>
 
 =>q21
-Ищи Чёрного угря по имени Колтон. Он может снабдить тебя харонами, в обмен на другую валюту.<end>
+Ищи Чёрного угря по имени Колтон. Он может снабдить тебя харонами в обмен на другую валюту.<end>
 
 =>a22_original
 Would you happen to by any chance have an Armadillo class drill rotor circuit board?<end>
 
 =>a22
-Скажите, у вас случайно нет контроллера бурового ротора класса Броненосец?<end>
+Скажи, я не могу здесь купить контроллер бурового ротора класса Броненосец?<end>
 
 =>q23_original
 No drill parts, sorry. Ain't got anythin' of the kind.<end>
@@ -172,7 +172,7 @@ What's so bad about Depot A?<end>
 Rabid mutated dogs for starters, that much I know myself. Granted, I've never been too far in, but those who *have* and returned in one piece claim there are also rogue turrets, mine fields and even mutated folks in there. All sorts of freakin' dangerous stuff.<end>
 
 =>q28
-Бешеные мутировавшие собаки для начала, это я точно гарантирую. Конечно, я никогда не заходила далеко, но те кто ходил *и* возвращался целыми, рассказывали также о взбесившихся турелях, минных полях и даже о мутировавших людях. О всяких долбанутых опасных штуках.<end>
+Бешеные мутировавшие собаки, для начала -- это я точно гарантирую. Конечно, я никогда не заходила далеко, но те кто ходил *и* возвращался целыми, рассказывали также о взбесившихся турелях, минных полях и даже о мутировавших людях. О всяких долбанутых опасных штуках.<end>
 
 =>q29_original
 If you really want to check it out for yourself, you gonna have to convince Scrappers to let you in, 'cause the entrance to Depot A is, well, it is from within their base.<end>
@@ -184,7 +184,7 @@ If you really want to check it out for yourself, you gonna have to convince Scra
 Before I leave, there was something else I wanted to ask you.<end>
 
 =>a30
-Перед уходом я хотел$(#/а) спросить кое о чём ещё.<end>
+Перед уходом, я хотел$(#/а) спросить кое о чём ещё.<end>
 
 =>q31_original
 Shoot.<end>
@@ -202,7 +202,7 @@ I see. Appreciate the info. I'll be on my way now.<end>
 Thanks for the tips. Gotta run now.<end>
 
 =>a33
-Спасибо за советы. Надо бежать.<end>
+Спасибо за подсказку. Надо бежать.<end>
 
 =>a34_original
 Thanks. I feel I'm going to need it.<end>
@@ -232,7 +232,7 @@ And it ain't that bad, $(#slick/sis), seriously. There ain't any really comforta
 So how's life in the slums?<end>
 
 =>a38
-Ну и как жизнь в трущобах?<end>
+Ну, и как жизнь в трущобах?<end>
 
 =>q39_original
 For me, it's alright. I make enough coin from tradin' with the local customers and folks from the outside. Yeah, it's alright.<end>
@@ -256,13 +256,13 @@ I mean, it's bad enough they gotta keep an eye out for their neighbors that migh
 The Protectorate promises to bring the Union laws and protection, but so far nothin' has changed. Nothin'. Lotsa hobos just take to the caves instead, spelunkin' around, and maybe they right in doing so. Heck, they might not find more safety, but at least there's more food to be found out there.<end>
 
 =>q42
-Протекторат обещает принести законы Союза и защиту, но до сих пор ничего не изменилось. Многие бродяги просто бегут в пещеры вместо этого, и, возможно, они правы. Там не менее опасно чем здесь, но по крайней мере больше пищи.<end>
+Протекторат обещает принести законы Союза и защиту, но до сих пор ничего не изменилось. Многие бродяги просто бегут в пещеры, и, возможно, они правы. Там не менее опасно, чем здесь, но по крайней мере больше пищи.<end>
 
 =>a43_original
 I'm looking for a guy named Blaine. Seen him around?<end>
 
 =>a43
-Я ищу парня по имени Блэйн. Не знаете такого?<end>
+Я ищу парня по имени Блэйн. Не знаешь такого?<end>
 
 =>q44_original
 Mmm... maybe, *maybe*. What's it worth to you?<end>
@@ -322,13 +322,13 @@ Got some charons here I'm looking to spend. What's you price?<end>
 Gimme a hundred of those and I'll tell you where to find him.<end>
 
 =>q53
-Дай мне сотню, и я скажу где его найти.<end>
+Дай мне сотню, и я скажу, где его найти.<end>
 
 =>a54_original
 Fine, here you go. ::Give her 100 stygian coins.::<end>
 
 =>a54
-Хорошо, вот, держите. ::Дать ей 100 стигийских монет.::<end>
+Хорошо, вот, держи. ::Дать ей 100 стигийских монет.::<end>
 
 =>q55_original
 Look for him in the Lower Underrail, near SGS. He got his shop of sorts in the under-passage there. Not everyone can get in, though. You gonna have to ring the intercom two times quickly, once long and then two times quickly again. Dig that? Two quick, one long, two quick and you in.<end>
