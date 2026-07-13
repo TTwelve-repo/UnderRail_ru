@@ -884,7 +884,7 @@ Got it, Mr. Ford. I'm $(context.player.Name).<end>
 Geezer Ford. Why do they call you that?<end>
 
 =>a142
-Старикан Форд. Почему вас так называют?<end>
+«Старикан Форд» -- почему вас так называют?<end>
 
 =>q143_original
 Hey! *Mr. Ford*. Your ears are workin' worse than mine, $(#son/woman).<end>
@@ -926,7 +926,7 @@ Stupid old jerk.<end>
 Let's talk then.<end>
 
 =>a149
-Ну, давай поговорим.<end>
+Ну, давайте поговорим.<end>
 
 =>q150_original
 Yeah.<end>
