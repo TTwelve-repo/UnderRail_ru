@@ -4,7 +4,7 @@
 Hold't right thar, $(#jack/sister). This alley 'ere is belong to us. You wanna pass through, you gotta pay a one-time fee. Mhm.<end>
 
 =>q1
-::Хорошо сложенный мужчина встаёт у вас на пути, скрестив руки на груди и расставив ноги. Одновременно он обращается к вам тихим, скрипучим голосом.::
+::Хорошо сложенный мужчина встаёт у вас на пути, скрестив руки на груди и расставив ноги. Одновременно он обращается к вам тихим, скрипучим голосом: ::
 
 Стой где стоишь, $(#парень/сестра). Эта улица принадлежит нам. Ты хочешь пройти -- заплати разовый сбор. Ага.<end>
 
@@ -60,7 +60,7 @@ So what's the fee?<end>
 For a pretty girl like you... ::It takes a few seconds before his stare travels all over your body.:: make it five charons. Mhm.<end>
 
 =>q10
-Для такой симпатичной девушки, как ты... ::Несколько секунд проходит, пока его взгляд путешествует по вашей фигуре.:: это будет пять харонов. Ага.<end>
+Для такой симпатичной девушки, как ты... ::Несколько секунд проходит, пока его взгляд путешествует по вашей фигуре.:: Сбор будет пять харонов. Ага.<end>
 
 =>q11_original
 It's five charons.<end>
@@ -78,7 +78,7 @@ It's five charons.<end>
 Yeah, right you did. Then how come you didn't know what the fee were, eh? Don't play no games with me, punk.<end>
 
 =>q13
-Да, ну конечно. Тогда почему ты не знаешь какой был сбор, а? Не играй со мной, сопля$(#к/чка).<end>
+Да, ну конечно. Тогда почему ты не знаешь, какой был сбор, а? Не играй со мной, сопля$(#к/чка).<end>
 
 =>q14_original
 I don't think so. I would've remembered your mug.<end>
@@ -102,7 +102,7 @@ Ha, nice try, but that ain't the fee. No, no. It's five charons. Now get your as
 Well you have bad memory then, because I paid your five charons already.<end>
 
 =>a17
-Ну значит у тебя плохая память, потому что я уже заплатил$(#/а) тебе пять харонов.<end>
+Ну, значит, у тебя плохая память, потому что я уже заплатил$(#/а) тебе пять харонов.<end>
 
 =>q18_original
 Hmm, yeah, I think I is rememberin' you, now that I thinks about it. Yeah. Pass.<end>
@@ -144,7 +144,7 @@ I'm on official business from South Gate Station. I don't need to pay any fees.<
 You is gonna pay like everyone else, southgater. Besides, what's a couple shinies for you SGS folk?<end>
 
 =>q24
-Ты будешь платить, как и все остальные, саутгейтец. Кроме того, -- что значит пара блестяшек для человека с ССГ?<end>
+Ты будешь платить, как и все остальные. Кроме того, что значит пара блестяшек для человека с ССГ?<end>
 
 =>a25_original
 ::[Intimidate]:: I'm not paying you anything, you mangy street rat. Now step aside before I turn your brain into graffiti.<end>
