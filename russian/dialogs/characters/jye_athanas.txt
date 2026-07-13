@@ -4,7 +4,7 @@
 Welcome to the United Stations embassy, $(#Mister/Miss) $(context.player.Name). We've been expecting you.<end>
 
 =>q1
-::Вы входите в кабинет и видите невысокого, худого мужчину, который уже поднялся из-за стола, чтобы приветствовать вас. Опрятно одетый, аккуратно выбритый, с гладким лицом без шрамов и ровными белыми зубами: этот мужчина -- северянин. Он вежливо приветствует вас.::
+::Вы входите в кабинет и видите невысокого, худого мужчину, который уже поднялся из-за стола, чтобы приветствовать вас. Опрятно одетый, аккуратно выбритый, с гладким лицом без шрамов и ровными белыми зубами, этот мужчина -- северянин. Он вежливо приветствует вас: ::
 
 Добро пожаловать в посольство Объединённых станций, мис$(#тер/с) $(context.player.Name). Мы ждали вас.<end>
 
@@ -48,13 +48,13 @@ You want to offer me a job?<end>
 Offer might not be the right word; it's better to say, refer to you to someone who can. You see, it is my belief that you can be a powerful ally to the Underrail Protectorate and the United Stations. From how I understood Miss Hale, you've proven yourself quite, quite resourceful to SGS. And while I had no reason to doubt her, only after the recent events have I realized exactly how correct she was.<end>
 
 =>q8
-«Предложить» может быть не совсем правильное слово -- лучше сказать, направить к тому, кто может сделать такое предложение. Видите ли, я считаю, что вы можете стать ценным союзником для Протектората Подземки и Объединённых Станций. Если я правильно понял мисс Хэйл, вы уже показали свою предприимчивость на ССГ. И хотя у меня нет причин сомневаться в её словах, только в свете текущих событий я осознал, насколько она была права.<end>
+«Предложить» может быть не совсем правильное слово -- лучше сказать, направить к тому, кто может сделать такое предложение. Видите ли, я считаю, что вы можете стать ценным союзником для Протектората Подземки и Объединённых Станций. Если я правильно понял мисс Хэйл, вы уже показали свою предприимчивость на ССГ. И, хотя у меня нет причин сомневаться в её словах, только в свете текущих событий я осознал, насколько она была права.<end>
 
 =>q9_original
 I've talked to some people and we have agreed that it would be beneficial for us all, United Stations, as well as you and South Gate Station, if you were to join the Protectorate ranks. Not as a common footsoldier, no. You are more valuable than that. Rather, as someone who will perform more important tasks.<end>
 
 =>q9
-Я говорил с людьми, и мы согласились, что это будет выгодно для нас всех: для Объединённых Станций, для вас и для станции Саут-Гейт, если вы вступите в ряды Протектората. Не в качестве обычного солдата, нет. Вы слишком ценны для этого. Скорее, как кто-то, кто будет выполнять более важные задачи.<end>
+Я поговорил с людьми, и мы согласились, что это будет выгодно для нас всех: для Объединённых Станций, для вас и для станции Саут-Гейт, если вы вступите в ряды Протектората. Не в качестве обычного солдата, нет. Вы слишком ценны для этого. Скорее, как кто-то, кто будет выполнять более важные задачи.<end>
 
 =>a10_original
 What sort of tasks we talking about, exactly?<end>
@@ -68,7 +68,7 @@ Your primary role will mostly be a military-oriented one, meaning you will be a 
 But, more on that later; I best leave something for the consul. ::He smiles.::<end>
 
 =>q11
-Ваша основная роль будет носить, в основном, военное назначение, а именно -- вы будете принимать участие в операциях Протектората Подземки. Допустим... пропал ещё один поезд! Разве вы не самый подходящий человек для этой работы? ::Он смеётся.:: Но серьёзно, это ещё не всё: вы станете представителем станции Саут-Гейт. До сих пор, наше сотрудничество носило, к сожалению, весьма ограниченный характер, несмотря на заслуживающую уважения целеустремлённость мисс Хэйл; с вашей помощью мы могли бы поднять его на новый уровень.
+Ваша основная роль будет носить, в основном, военное назначение, а именно -- вы будете принимать участие в операциях Протектората Подземки. Допустим... пропал ещё один поезд! Разве вы не самый подходящий человек для этой работы? ::Он смеётся.:: Но, серьёзно, это ещё не всё -- вы станете представителем станции Саут-Гейт. До сих пор, наше сотрудничество носило, к сожалению, весьма ограниченный характер, несмотря на заслуживающую уважения целеустремлённость мисс Хэйл; с вашей помощью мы могли бы поднять его на новый уровень.
 
 Но об этом позже, надо же что-то оставить и консулу. ::Он улыбается.::<end>
 
@@ -92,7 +92,7 @@ But, on a grand scale, you will be helping us protect our citizens and take part
 The choice is yours. If you are interested in becoming a part of the Protectorate, reach out to Consul Oliver in Fort Apogee, Upper Underrail. I had already contacted the consul and explained to him the whole situation, so he is expecting your arrival, $(context.player.Name).<end>
 
 =>q14
-Выбор за вами. Если вы заинтересованы в том, чтобы стать частью Протектората, найдите консула Оливера в форте Апогей, в Верхней Подземке. Я уже связался с консулом и объяснил ему ситуацию. Он ждёт вашего прибытия, $(context.player.Name).<end>
+Выбор за вами. Если вы заинтересованы в том, чтобы стать частью Протектората, найдите консула Оливера в форте Апогей в Верхней Подземке. Я уже связался с консулом и объяснил ему ситуацию. Он ждёт вашего прибытия, $(context.player.Name).<end>
 
 =>a15_original
 I'll think about it.<end>
@@ -128,7 +128,7 @@ I'm all ears, Ambassador.<end>
 $(context.player.Name), you have great potential. You see, it is my belief that you can be a powerful ally to the Underrail Protectorate and the United Stations. From how I understood Miss Hale, you've proven yourself quite, quite resourceful to SGS. And while I had no reason to doubt her, only after the recent events have I realized exactly how correct she was.<end>
 
 =>q20
-$(context.player.Name), у вас большой потенциал. Видите ли, я считаю, что вы можете стать ценным союзником для Протектората Подземки и Объединённых Станций. Если я правильно понял мисс Хэйл, вы уже показали свою предприимчивость на ССГ. И хотя у меня нет причин сомневаться в её словах, только в свете текущих событий я осознал, насколько она была права.<end>
+$(context.player.Name), у вас большой потенциал. Видите ли, я считаю, что вы можете стать ценным союзником для Протектората Подземки и Объединённых Станций. Если я правильно понял мисс Хэйл, вы уже показали свою предприимчивость на ССГ. И, хотя у меня нет причин сомневаться в её словах, только в свете текущих событий я осознал, насколько она была права.<end>
 
 =>a21_original
 Free Drones? But I thought they were just ordinary bandits.<end>
@@ -162,7 +162,7 @@ I'm glad you chose the right side, $(context.player.Name), and that is why I hav
 What is Fort Apogee and how do I get there?<end>
 
 =>a25
-Что такое форт Апогей и как туда добраться?<end>
+Что такое форт Апогей, и как туда добраться?<end>
 
 =>q26_original
 Fort Apogee is the core of all Protectorate operations in the South. It was constructed - let me think - about five... four-five years ago in Upper Underrail, as a forward operations base in South Underrail. Sadly, the turbulent nature of Core City's leaders proved... troubling, to put it mildly, since going through the city itself is basically the only viable way to move between Upper and Lower Underrail.
@@ -170,7 +170,7 @@ Fort Apogee is the core of all Protectorate operations in the South. It was cons
 I guess no one anticipated such problems with the Oligarchy. Nevertheless, we manage somehow.<end>
 
 =>q26
-Форт Апогей является базой всех операций Протектората на Юге. Он был построен, дайте подумать... пять... четыре-пять лет назад в Верхней Подземке, как передовая военная база в Южной Подземке. К сожалению, неспокойная природа лидеров Кор-Сити вызвала... трудности, мягко говоря, с тех пор, как проходящий через город путь оказался по сути единственным способом перемещения между Верхней и Нижней Подземкой.
+Форт Апогей является базой всех операций Протектората на Юге. Он был построен, дайте подумать... пять... четыре-пять лет назад в Верхней Подземке, как передовая военная база в Южной Подземке. К сожалению, неспокойная природа лидеров Кор-Сити вызвала... трудности, мягко говоря, с тех пор, как проходящий через город путь оказался, по сути, единственным способом перемещения между Верхней и Нижней Подземкой.
 
 Думаю, никто не ожидал таких проблем с олигархами. Но мы справляемся.<end>
 
@@ -238,7 +238,7 @@ What can you tell me about the Free Drones?<end>
 They're nothing but a group of violent anarchists. Sure, they cause some trouble to the Protectorate, but so do the Ironheads, Lunatics or other unwanted groups. They claim we're the bad guys, and they openly rebel against all of us, both the Protectorate and the United Stations. Us, who help stations survive these harsh conditions and protect their citizens against raiders and bandits!?<end>
 
 =>q37
-Они не что иное, как группа распоясавшихся анархистов. Конечно, они создают проблемы для Протектората, так же как и Железноголовые, психотики и другие нежелательные группировки. Они утверждают, что мы «плохие парни», и что они открыто восстают против нас -- как Протектората так и Объединённых Станций. Нас, кто помогает станциям выжить в этих суровых условиях и защитить своих граждан от рейдеров и бандитов?!<end>
+Они ни что иное, как группа распоясавшихся анархистов. Конечно, они создают проблемы для Протектората, так же как и Железноголовые, психотики и другие нежелательные группировки. Они утверждают, что мы «плохие парни», и что они открыто восстают против нас -- как Протектората так и Объединённых Станций. Нас, кто помогает станциям выжить в этих суровых условиях и защитить своих граждан от рейдеров и бандитов?!<end>
 
 =>q38_original
 Sad, misguided people... but they are becoming a threat, and I'm afraid diplomacy can't help much there. Protectorate will have to apply harsher measures.<end>
@@ -334,7 +334,7 @@ It's out of order at the moment because of the earthquake, but we're working on 
 It was damaged recently by the earthquake, but it's fixed now and safe to use.<end>
 
 =>q53
-Недавно он был выведен из строя в результате землетрясения, но сейчас он уже отремонтирован и пользоваться им безопасно.<end>
+Недавно он был выведен из строя в результате землетрясения, но сейчас он уже отремонтирован, и пользоваться им безопасно.<end>
 
 =>a54_original
 Who do you suspect has hacked the Junkyard network?<end>
@@ -382,7 +382,7 @@ That's the metro base right above us. We use an elevator here in the embassy to 
 In fact, that's how we got to Junkyard in the first place - via railroad. Only later did we establish a waterways route after acquiring Port Zenith in Core City as well as reaching a mutually acceptable agreement with the Black Eels.<end>
 
 =>q61
-Фактически, именно так мы впервые и попали на Свалку - по железной дороге. Только позже, после приобретения порта Зенит в Кор-Сити и достижения взаимосоглашения с Чёрными угрями, мы создали водный маршрут.<end>
+Фактически, именно так мы впервые и попали на Свалку -- по железной дороге. Только позже, после приобретения порта Зенит в Кор-Сити и достижения взаимосоглашения с Чёрными угрями, мы создали водный маршрут.<end>
 
 =>a62_original
 Can you tell me a bit about the United Stations?<end>
@@ -442,7 +442,7 @@ What are your thoughts on the Faceless invasion?<end>
 The Protectorate is investigating the matter as we speak, but until I get some word from them I cannot provide an official statement.<end>
 
 =>q71
-Протекторат уже занимается этой проблемой, пока мы разговариваем, но пока я не получу от них известий, я не могу сделать официальное заявление.<end>
+Протекторат уже занимается этой проблемой в текущий момент, но, пока я не получу от них известий, я не могу сделать официальное заявление.<end>
 
 =>a72_original
 I have to go now.<end>
