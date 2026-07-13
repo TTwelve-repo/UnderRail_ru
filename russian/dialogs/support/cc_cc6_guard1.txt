@@ -8,7 +8,7 @@
 Take care, enforcer. There are muties across the bridge.<end>
 
 =>q2
-Береги себя, боец. За мостом мутанты.<end>
+Острожнее, боец. За мостом мутанты.<end>
 
 =>q3_original
 ::The guard motions you to stop before speaking in a rigid, official tone of voice.::
@@ -16,7 +16,7 @@ Take care, enforcer. There are muties across the bridge.<end>
 Excuse me, $(#sir/ma'am), but I must advise you to stay on this side of the bridge. It is unsafe to go across, and, as you can see, Praetorian Security enforcers have been posted here to make sure nothing unwanted gets in the city.<end>
 
 =>q3
-::Стражник останавливает вас взмахом руки и произносит сухим официальным тоном.::
+::Стражник останавливает вас взмахом руки и произносит сухим официальным тоном: ::
 
 Извините, $(#сэр/мэм), но я не советую вам переходить на ту сторону моста. Там небезопасно, и, как видите, Преторианская служба безопасности выставила стражу, чтобы ничто нежелательное не смогло пробраться в город.<end>
 
@@ -30,7 +30,7 @@ I'm one of you guys.<end>
 Oh, didn't recognize you. Must be new. There are muties across the bridge, so take care if you've been sent there.<end>
 
 =>q5
-Что-то не узнаю вас. Должно быть новеньк$(#ий/ая)? За мостом мутанты, так что осторожнее там.<end>
+Что-то я не узнал вас. Должно быть, новеньк$(#ий/ая)? За мостом мутанты, так что осторожнее там.<end>
 
 =>a6_original
 Why are you still here? The Faceless are gone. Are the muties that much of a treat to the city?<end>
@@ -72,7 +72,7 @@ Will do.<end>
 Oh, didn't recognize you. Must be new. There's muties across the bridge, but we're more afraid of the Faceless. Take extreme care if you've been sent there.<end>
 
 =>q12
-Что-то не узнаю вас. Должно быть новеньк$(#ий/ая)? За мостом мутанты, но мы больше боимся безликих. Соблюдайте крайнюю осторожность, если у вас там дело.<end>
+Что-то я не узнал вас. Должно быть новеньк$(#ий/ая)? За мостом мутанты, но мы больше опасаемся безликих. Соблюдайте крайнюю осторожность, если у вас там дело.<end>
 
 =>a13_original
 You can't stop the Invictus; no one can stop the Invictus.<end>
@@ -84,7 +84,7 @@ You can't stop the Invictus; no one can stop the Invictus.<end>
 ::He takes a better look at you.:: Hmmm... you do look a bit like $(#him/her). ::After a second, however, he shakes his head and continues speaking.:: In any case, I gave you a warning; do with it as you please. Have a nice day, $(#sir/ma'am). <end>
 
 =>q14
-::Он присматривается к вам.:: Хм-м... а и правда, похож$(#/а). ::Через секунду, однако, он качает головой и продолжает.:: В любом случае, моё дело -- предупредить; делайте что хотите. Всего хорошего, $(#сэр/мэм). <end>
+::Он присматривается к вам.:: Хм-м... а и правда, похож$(#/а). ::Через секунду, однако, он качает головой и продолжает: ::В любом случае, моё дело -- предупредить; делайте что хотите. Всего хорошего, $(#сэр/мэм). <end>
 
 =>a15_original
 I'll think about it.<end>

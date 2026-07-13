@@ -2,13 +2,13 @@
 ::He mumbles something, but you can't make out what that is.::<end>
 
 =>q1
-::Он что-то бормочет, но вам не разобрать, что.::<end>
+::Он что-то бормочет, но вам не разобрать, что именно.::<end>
 
 =>q2_original
 ::The obviously drunk man blocks your passage by planting himself on the narrow bridge, swaying from left to right and threatening to fall to his demise at any given moment. As you take a step closer to him, the overwhelming reek forces you to reconsider and take a step back in fear of losing consciousness and going down yourself.::<end>
 
 =>q2
-::Сильно пьяный мужчина преграждает вам путь, стоя на узком мосту, покачиваясь слева направо, чудом не падая во тьму рядом с ним. Когда вы подходите ближе, удушающий запах перегара заставляет вас отшатнуться и сделать шаг назад, чтобы на всякий случай не упасть с моста.::<end>
+::Сильно пьяный мужчина преграждает вам путь, стоя на узком мосту, покачиваясь слева направо, чудом не падая во тьму внизу. Когда вы подходите ближе, удушающий запах перегара заставляет вас отшатнуться и сделать шаг назад, чтобы на всякий случай не упасть с моста.::<end>
 
 =>q3_original
 <end>
@@ -29,6 +29,7 @@ Would you be so kind to let me pass?<end>
 
 =>q5
 ::Он открывает рот, чтобы что-то сказать, и вонь заставляет вас отступить ещё на несколько шагов.::
+
 <end>
 
 =>q6_original
@@ -41,7 +42,7 @@ Would you be so kind to let me pass?<end>
 Don't tell me whatta d-d-do, ya Oligarchy-workin' pipe-succablurrrrghaugh...<end>
 
 =>q7
-Не говори мне, что д-д-делать, ты, олигархов-работник $(#бочко-оббтирррааатттель/трубо-трёёёёпппка)...<end>
+Не говори мне, что д-д-делать, ты, олигархов-работник $(#бочко-обтир-р-ра-а-ат-тель/трубо-трё-ё-ё-ёп-пка)...<end>
 
 =>q8_original
 ::His reply ends with some incomprehensible muttering.::<end>
@@ -61,15 +62,15 @@ Y-k-ya move, ya stinkin' rrrrathound! Aerrghoblaghondh...
 *D-drop off*.<end>
 
 =>q10
-Пшёл вон, вонючий к-к-крысоволк! Ааааэблаахах...
+Пшёл вон, вонючий к-к-крысоволк! Аа-а-аэбла-ахах...
 
-*Д-драпай*!<end>
+*П-пров-вались*!<end>
 
 =>q11_original
 I ain't m-movin'. Ya can't make me! Ya blurhgbahgh...<end>
 
 =>q11
-Я никуда не п-пойду. Не пойду с тобой! Ты блыыэээбх!<end>
+Я никуда не п-пойду. Не пойду с тобой! Ты блы-ыэ-э-эбх!<end>
 
 =>q12_original
 Do ya know who I am? I am? Am I? Zone out! Ya laraghatbghugh! 
@@ -95,13 +96,13 @@ Damn ya'll tootas... mootas!<end>
 Lemme tell ya a thin' 'ere, p-pipeworker. 'Ere. Look! ::He points to his eyes.::This's m-my bridge, lis'n, lis'n, *lis'n*: Ain't movin' aaaaaanywhere - I'm *not*, damn it!<end>
 
 =>q14
-Я тебе одну вещь скажу, т-трубочист$(#/ка). Вот. Смотри! ::Он указывает на свои глаза.:: Это м-мой мост, слушай, слушай, *слушай*: *никуда* я не пойду, $(#чёрт/чертовка)!<end>
+Я тебе одну вещь скажу, т-трубочист$(#/ка). Вот. Смотри! ::Он указывает на свои глаза.:: Это м-мой мост, слушай, слушай, *слушай*: *никуда* я не пойду!<end>
 
 =>q15_original
 G... go back to Junkyard, *Sh*tinkyard or wherever ya c-came from, ya zoonargh-blagharbeghast...<end>
 
 =>q15
-Возвращайся на сваю Свалку, *Шм*алку, или откуда ты там, ты зонаблахакахас!<end>
+Выэ... возвращайся на сваю Свалку, *Шм*алку, или откуда ты там, ты зонаблахакахас!<end>
 
 =>a16_original
 Could you move? I'm trying to get to the other side.<end>
@@ -149,7 +150,7 @@ Move before the Invictus, worm!<end>
 ::He's surprisingly silent for the first few seconds of his plummet, as if he hasn't yet processed what is happening to him. Soon, however, you hear a faint scream echoing from the darkness that swallows him whole.::<end>
 
 =>q23
-::Первые несколько секунд своего падения он на удивление молчалив, как будто ещё не осознал, что с ним происходит. Вскоре, вы слышите слабый крик, эхом раздающийся из темноты, которая поглощает его целиком.::<end>
+::Первые несколько секунд своего падения он на удивление молчалив, как будто ещё не осознал, что с ним происходит. Вскоре вы слышите слабый крик, эхом раздающийся из темноты, которая поглощает его целиком.::<end>
 
 =>a24_original
 ::End Dialog.::<end>

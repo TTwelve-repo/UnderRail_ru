@@ -10,7 +10,7 @@ Excuse me, $(#sir/ma'am), but I'm going to have to ask you to leave.<end>
 Greetings, $(#sir/ma'am), and welcome to Coretech. How may I help you?<end>
 
 =>q2
-::Молодая женщина встречает вас жемчужной улыбкой и вежливо приветствует.::
+::Молодая женщина встречает вас жемчужной улыбкой и вежливо приветствует: ::
 
 Здравствуйте, $(#сэр/мэм), и добро пожаловать в КорТех. Чем я могу вам помочь?<end>
 
@@ -42,7 +42,7 @@ Most certainly, $(#sir/ma'am). Coretech is the top technology research and appli
 I'm afraid not. As I said, we are in need of someone who is an expert in geophysics, not electronics. But we might have something else available. <end>
 
 =>q7
-Боюсь, нет. Как я уже сказала, нам нужен эксперт по геофизике, а не электронике. Но, у нас может найтись что-нибудь ещё. <end>
+Боюсь, нет. Как я уже сказала, нам нужен эксперт по геофизике, а не электронике. Но у нас может найтись что-нибудь ещё. <end>
 
 =>q8_original
 
@@ -50,6 +50,8 @@ I'm afraid not. As I said, we are in need of someone who is an expert in geophys
 Could you please tell me your full name?<end>
 
 =>q8
+
+
 Не могли бы вы назвать мне ваше полное имя?<end>
 
 =>a9_original
@@ -68,7 +70,7 @@ Allow me to do a quick check on you. ::She starts typing something on the keyboa
 ::Soon, she shakes her head and continues.:: It seems that you have already been hired by a different employer. I'm afraid we cannot offer you a job due to our company policy. Still, thank you for applying.<end>
 
 =>q11
-::Вскоре она качает головой и произносит.:: Похоже, что вы уже наняты другим работодателем. Боюсь, что политика компании не позволяет мне предложить вам работу. Так или иначе, благодарю вас за проявленный интерес.<end>
+::Вскоре она качает головой и произносит: ::Похоже, что вы уже наняты другим работодателем. Боюсь, что политика компании не позволяет мне предложить вам работу. Так или иначе, благодарим вас за проявленный интерес.<end>
 
 =>a12_original
 Thank you for your time.<end>
@@ -80,7 +82,7 @@ Thank you for your time.<end>
 Yeah, well, who cares about your stupid company anyway. Goodbye!<end>
 
 =>a13
-Кому нужна ваша дурацкая компания. До свидания!<end>
+Да кому нужна ваша дурацкая компания. До свидания!<end>
 
 =>q14_original
 Hmm, I see. You seem to be in luck, $(#sir/ma'am). We do have a position available. Please, if you'd like, talk to Mister Joseph Harlan. He's in the office right next to this one, down the hallway, first door to the left. 
@@ -172,7 +174,7 @@ Ehm... We don't have an open position for that. But we might have something else
 =>q27
 ::Она делает небольшую паузу.:: 
 
-Эм... У нас нет подобной вакансии. Но, у нас может найтись что-нибудь ещё. $(context.player.Name) -- ваше полное имя, да? <end>
+Эм... У нас нет подобной вакансии. Но у нас может найтись что-нибудь ещё. $(context.player.Name) -- ваше полное имя, да? <end>
 
 =>a28_original
 ::[Mechanics]:: I suppose you aren't looking for a mechanical engineer or anything similar?<end>
@@ -184,7 +186,7 @@ Ehm... We don't have an open position for that. But we might have something else
 I'm afraid not. Not at the moment, at least. But we might have something else available. <end>
 
 =>q29
-Боюсь, нет. По крайней мере, не на данный момент. Но, у нас может найтись что-нибудь ещё. <end>
+Боюсь, нет. По крайней мере, не на данный момент. Но у нас может найтись что-нибудь ещё. <end>
 
 =>a30_original
 ::[Biology]:: You don't work with living creatures much, do you?<end>
@@ -196,7 +198,7 @@ I'm afraid not. Not at the moment, at least. But we might have something else av
 If by that you mean: "Do we have an open position for a biologist?", then the answer is no, I'm afraid. But we might have something else available. <end>
 
 =>q31
-Если вы хотите спросить: "Нет ли у нас открытой вакансии биолога?" То я боюсь, что нет. Но, у нас может найтись что-нибудь ещё. <end>
+Если вы хотите спросить, нет ли у нас открытой вакансии биолога, то я боюсь, что нет. Но у нас может найтись что-нибудь ещё. <end>
 
 =>a32_original
 ::[Hacking]:: Need someone who's good with computers?<end>
@@ -208,7 +210,7 @@ If by that you mean: "Do we have an open position for a biologist?", then the an
 Yes, qualifications. Is there any other kind of work I could do here?<end>
 
 =>a33
-Да, квалификация. Есть ли ещё какая-нибудь работа, которую я мог бы здесь выполнить?<end>
+Да, квалификация... Есть ли ещё какая-нибудь работа, которую я мог$(#/ла) бы здесь делать?<end>
 
 =>q34_original
 Well, we might have something available. <end>
