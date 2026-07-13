@@ -4,7 +4,7 @@
 That's far enough, $(#boy/girl). I don't know how you managed to make it this far, but I suggest you start backtracking immediately before I put some lead between your eyes.<end>
 
 =>q1
-::Мужчина говорит, наставив на вас револьвер.::
+::Мужчина говорит, наставив на вас револьвер: ::
  
 Стой там, $(#парень/девушка). Я не знаю, как ты сюда забрал$(#ся/ась), но советую возвращаться, пока я не влепил тебе пулю между глаз.<end>
 
@@ -24,7 +24,7 @@ And just what the heck are you doing here?<end>
 I was just scavenging. I didn't expect to find any non-mutants here.<end>
 
 =>a4
-Я всего лишь ищу что-нибудь ценное в грудах мусора. Я не ожидал$(#/а) найти здесь никого кроме мутантов.<end>
+Я всего лишь ищу что-нибудь ценное в грудах мусора. Я не ожидал$(#/а) найти здесь никого, кроме мутантов.<end>
 
 =>q5_original
 Go scavenge outside. Everything in this house belongs to yours truly, and I aim to keep it that way.<end>
@@ -126,7 +126,7 @@ One was bald and pale and wearing a breathing mask. He had wires coming out of h
 But that didn't matter. We traded with everyone, including Biocorp weirdos. So I sold them some petrol, mindshrooms and some other stuff, and they traded me... a pack of fusion cells.<end>
 
 =>q21
-Но это не имело значения. Мы торговали со всеми, в том числе и с чудаками из Биокорп. Так что я продал им немного бензина, мозгляков и другого хлама, а они дали мне... упаковку ядерных батареек.<end>
+Но это не имело значения. Мы торговали со всеми, в том числе и с чудаками из Биокорп. Так что, я продал им немного бензина, мозгляков и другого хлама, а они дали мне... упаковку ядерных батареек.<end>
 
 =>q22_original
 I remember checking every cell to be real and full. Sometimes, people will be stupid enough to try to scam me.
@@ -184,7 +184,7 @@ I was dashing around like in a dream... or a nightmare rather. I didn't know wha
 ::After he composes himself, he continues.:: They were mutagen containers.<end>
 
 =>q30
-::Немного успокоившись, он продолжает.:: Это были контейнеры с мутагеном.<end>
+::Немного успокоившись, он продолжает: ::Это были контейнеры с мутагеном.<end>
 
 =>a31_original
 So how come the mutagen affected everyone except you?<end>
