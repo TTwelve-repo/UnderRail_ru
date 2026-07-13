@@ -44,7 +44,7 @@ Hey, buddy, go dig through someone else's dumpster, okay?<end>
 Hey zoner, get the hell away from my house! Your stench is eroding my wall.<end>
 
 =>a8
-Эй ты, зонер, пошёл прочь от моего дома! Твоя вонь разъедает мои стены.<end>
+Эй ты, зонер, пошёл прочь от моего дома! Твоя вонь разъедает мне стену.<end>
 
 =>a9_original
 ::Leave him alone.::<end>
@@ -77,6 +77,7 @@ Found anything interesting in there?<end>
 
 =>q13
 ::Он вытаскивает из мусора пустую бутылку и старую тряпку и прячет их в складках плаща. После этого он отходит от мусорного бака.::
+
 <end>
 
 =>q14_original
@@ -107,13 +108,13 @@ Stop! I'm not done speaking to you!<end>
 That's it: On the ground, you're under arrest!<end>
 
 =>a18
-Ну всё: на землю, вы арестованы!<end>
+Ну всё... На землю, вы арестованы!<end>
 
 =>q19_original
 ::As soon as he hears, "Get down!", he ::<end>
 
 =>q19
-::Только услышав "На землю!", он ::<end>
+::Только услышав «На землю!», он ::<end>
 
 =>q20_original
 ::flings a bottle straight in your face and ::<end>
@@ -211,7 +212,7 @@ Why do you have to be so stubborn and keep returning to this dumpster?<end>
 Having this old fart dig through your dumpster is an *inconvenience* for YOU, but it's a *necessity* for ME. It ain't right. It ain't.<end>
 
 =>q35
-::Он показательно нахмуривается, обращаясь к вам.:: Посмотрите на меня, $(#молодой человек/девушка), просто посмотрите на меня. По вашему, я занимаюсь этим ради удовольствия, а? Мой дом -- непросыхающая дыра в стене, спать там тесно и холодно. Я копаюсь в отбросах толстых крыс вроде вас в поисках чего-нибудь, что я могу продать, съесть или одеть. Это не смешно. Это совершенно не смешно, $(#молодой человек/девушка)! 
+::Он показательно нахмуривается, обращаясь к вам: ::Посмотрите на меня, $(#молодой человек/девушка), просто посмотрите на меня. По вашему, я занимаюсь этим ради удовольствия, а? Мой дом -- непросыхающая дыра в стене, спать там тесно и холодно. Я копаюсь в отбросах толстых крыс вроде вас в поисках чего-нибудь, что я могу продать, съесть или одеть. Это не смешно. Это совершенно не смешно, $(#молодой человек/девушка)! 
 
 Для ВАС копающийся в мусоре старый пердун это *неудобство*, но для МЕНЯ это *необходимость*. Так не честно.<end>
 
@@ -237,7 +238,7 @@ You again!? I thought I told your sorry ass to get away from here?<end>
 So we're going to repeat the whole process again, right?<end>
 
 =>a39
-И вот опять всё по новой, да?<end>
+И вот, опять всё по новой, да?<end>
 
 =>a40_original
 What the hell, man!?<end>
@@ -267,7 +268,7 @@ What the hell, man!?<end>
 ::[Intimidate]:: I'm a Praetorian Security enforcer, and if I catch you one more time you're gonna rot in the darkest, coldest, most cockroach-infested cell we got!<end>
 
 =>a44
-::[Запугивание]:: Я боец Преторианской службы безопасности, и если я поймаю тебя ещё раз, то ты будешь гнить в самой тёмной, холодной и кишащей тараканами камере, которая у нас только есть!<end>
+::[Запугивание]:: Я боец Преторианской службы безопасности, и если я поймаю тебя ещё раз, то ты будешь гнить в самой тёмной, холодной и кишащей тараканами камере, какая у нас только есть!<end>
 
 =>a45_original
 Look, if I give you some money will you go away?<end>
@@ -279,7 +280,7 @@ Look, if I give you some money will you go away?<end>
 ::He silently stares at you. You notice a certain glare in his eyes that wasn't there before.::<end>
 
 =>q46
-::Он молча смотрит на вас. В его глазах появился странный блеск, которого не было раньше.::<end>
+::Он молча смотрит на вас. В его глазах заметен странный блеск, которого не было раньше.::<end>
 
 =>a47_original
 I'll give you a charon if you promise never to come here again.<end>
@@ -293,7 +294,7 @@ I'll give you a charon if you promise never to come here again.<end>
 Yeah, $(#man/woman), I'm gone for good.<end>
 
 =>q48
-::Он, кажется, несколько разочарован, но всё же принимает деньги, вырвав их из ваших рук, как голодный человек кусок хлеба. Его слова звучат не очень убедительно.::
+::Он, кажется, несколько разочарован, но всё же принимает деньги, вырвав их из ваших рук, как голодный человек кусок хлеба. Его слова звучат не очень убедительно: ::
 
 Хорошо, $(#молодой человек/девушка), я ухожу навсегда.<end>
 
@@ -309,7 +310,7 @@ I'll give you ten charons if you promise never to come here again.<end>
 Thanks, $(#man/woman), I ain't gonna bother you no more. Bye.<end>
 
 =>q50
-::Он, кажется, доволен предложением и принимает деньги, вырвав их из ваших рук, как голодный человек кусок хлеба. Он искренне благодарит вас.::
+::Он, кажется, доволен предложением и принимает деньги, вырвав их из ваших рук, как голодный человек кусок хлеба. Он искренне благодарит вас: ::
 
 Спасибо, $(#молодой человек/девушка), я не буду вас больше беспокоить. Прощайте.<end>
 

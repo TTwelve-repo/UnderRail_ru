@@ -44,19 +44,19 @@ Who would that be?<end>
 The identity of this person is not know to me, $(#sir/miss). My duty here is to ensure that order is preserved. ::He nods at you.::<end>
 
 =>q8
-Личность этого человека мне неизвестна, $(#сэр/мисс). Моя обязанность - поддерживать порядок. ::Он кивает вам.::<end>
+Личность этого человека мне неизвестна, $(#сэр/мисс). Моя обязанность -- поддерживать порядок. ::Он кивает вам.::<end>
 
 =>a9_original
 Of what crime was this person accused?<end>
 
 =>a9
-В каком преступлении обвиняли этого человека?<end>
+В каком преступлении обвиняют этого человека?<end>
 
 =>q10_original
 This man is a threat to the entirety of Core City. He was involved in numerous power outage sabotages as well as countless spying activities. On top of that, we have reasons to believe that he's the forger we've been looking for responsible for creation of copious amounts of counterfeit metro tickets.<end>
 
 =>q10
-Этот человек представляет угрозу для всего Кор-сити. Он был вовлечён в многочисленные саботажи с отключением электроэнергии, а также в бесчисленную шпионскую деятельность. Вдобавок ко всему, у нас есть основания полагать, что он является тем фальсификатором, которого мы искали, ответственным за создание большого количества поддельных билетов на метро.<end>
+Этот человек представляет угрозу для всего Кор-Сити. Он был вовлечён в многочисленные акты саботажа с отключением электроэнергии, а также в шпионскую деятельность. Вдобавок ко всему, у нас есть основания полагать, что он является фальсификатором, разыскиваемым за создание большого количества поддельных билетов метро.<end>
 
 =>a11_original
 Can I see this man?<end>
@@ -68,19 +68,19 @@ Can I see this man?<end>
 ::He nods at you.:: Yes, but stay alert. Keep a close look at his every move. There's no telling what he could do to you.<end>
 
 =>q12
-::Он кивает вам.:: Да, но будь начеку. Внимательно следи за каждым его движением. Невозможно предугадать, что он может сделать с тобой.<end>
+::Он кивает вам.:: Да, но будьте начеку. Внимательно следите за каждым его движением. Невозможно предугадать, что он может сделать с вами.<end>
 
 =>a13_original
 I was instructed by the HQ to take over the guard duty. You did your job well, enforcer. <end>
 
 =>a13
-Я получил$(#/а) указание из штаба взять на себя караульную службу. Ты хорошо справился со своей задачей, боец. <end>
+Мне приказано сменить вас на посту. Вы хорошо справились со своей задачей, боец. <end>
 
 =>q14_original
 ::He lowers his weapon and shakes his head, side to side.:: Finally, some rest. Going back to the base, then. Good luck, $(#sir/miss). Order through strength. ::He takes his leave.::<end>
 
 =>q14
-::Он опускает оружие озираясь по сторонам.:: Наконец-то немного отдыха. Тогда вернёмся на базу. Удачи, $(#сэр/мисс). Порядок через силу. ::Он уходит.::<end>
+::Он опускает оружие и разминает шею.:: Наконец-то немного отдыха. Я возвращаюсь на базу. Удачи, $(#сэр/мисс). Порядок через силу. ::Он уходит.::<end>
 
 =>a15_original
 Order through strength.<end>
@@ -98,13 +98,13 @@ Order through strength.<end>
 I'll be taking over the custody of this man. ::Show him your rank within the organization.::<end>
 
 =>a17
-Я беру на себя опеку над этим человеком. ::Объяснить ему своё положение в организации.::<end>
+Я забираю этого человека. ::Объяснить ему своё положение в организации.::<end>
 
 =>q18_original
 ::He salutes you.:: Order through strength. ::For a moment he stands awkwardly waiting for you approval, but then decides to leave on his own.::<end>
 
 =>q18
-::Он приветствует вас.:: Порядок через силу. ::Некоторое время он неловко переминается с ноги на ногу, ожидая вашего одобрения, но не получив его уходит.::<end>
+::Он козыряет.:: Порядок через силу. ::Некоторое время он неловко переминается с ноги на ногу, ожидая вашего приказа, но, не получив его, уходит.::<end>
 
 =>a19_original
 Thank you. Order through strength. ::Leave.::<end>
@@ -116,7 +116,7 @@ Thank you. Order through strength. ::Leave.::<end>
 ::Salute him and leave.::<end>
 
 =>a20
-::Козырнуть ему и уйти.::<end>
+::Козырнуть и уйти.::<end>
 
 =>a21_original
 What do you mean, exactly?<end>
@@ -152,13 +152,13 @@ Order through strength.<end>
 Business as usual.<end>
 
 =>q26
-Обычное дело.<end>
+Всё как обычно.<end>
 
 =>q27_original
 Keeping a lookout.<end>
 
 =>q27
-Ведётся наблюдение.<end>
+Веду наблюдение.<end>
 
 =>q28_original
 <end>
@@ -176,7 +176,7 @@ The patient's room is off limits.<end>
 There's a situation inside, stay clear.<end>
 
 =>q30
-Там внутри по ситуации,соблюдай дистанцию.<end>
+У нас там ситуация внутри, соблюдайте дистанцию.<end>
 
 =>q31_original
 Keep safe distance away from medical room.<end>
