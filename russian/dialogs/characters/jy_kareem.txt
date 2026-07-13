@@ -26,7 +26,7 @@ This can buy you a couple of eel sandwiches.<end>
 Let's see what I can spend this money on... ::Barter.::<end>
 
 =>a5
-Дай-ка взгляну, на что тут можно потратить деньги... ::Обмен.::<end>
+Дай-ка, взгляну, на что тут можно потратить деньги... ::Обмен.::<end>
 
 =>a6_original
 There was something I wanted to ask you.<end>
@@ -124,9 +124,9 @@ First the Hathor merchants, then Protectorate ships - the pirates seem stronger 
 Things are horrible.<end>
 
 =>q21
-Сперва торговцы Хатора, затем корабли Протектората - пираты стали сильнее, чем когда-либо. Люди напуганы, а некоторые даже продали паромы и перевели свои дела на сушу.
+Сперва торговцы Хатора, затем корабли Протектората -- пираты стали сильнее, чем когда-либо. Люди напуганы, а некоторые даже продали паромы и перевели свои дела на сушу.
 
-Творятся ужасные вещи.<end>
+Дела идут ужасно.<end>
 
 =>q22_original
 <end>
@@ -144,37 +144,37 @@ Things are horrible.<end>
 A bunch of people came from down south: injured, disoriented - and stinking worse than Core City docks. Claimed they'd been held hostage by this psionic thought controller freak, but apparently some scavenger $(#guy/woman) came in and wasted the derailed son of a rat.<end>
 
 =>q24
-Куча людей прибыла с юга: раненые, растерянные и... вонючие, хуже, чем в доках Кор-Сити. Говорят, что они были заложниками этого псионического придурка, но приш$(#ёл/ла) как$(#ой-то/ая-то) $(#парень/девушка) и прихлопнул$(#/а) безумного сына крысы.<end>
+Куча людей прибыла с юга: раненые, растерянные и... вонючие хуже, чем доки Кор-Сити. Говорят, что они были заложниками какого-то псионического придурка, но приш$(#ёл/ла) как$(#ой-то/ая-то) мусорщи$(#к/ца) и прихлопнул$(#/а) поехавшего крысина сына.<end>
 
 =>q25_original
 Another mutie was seen shambling around south of here. How the hell are they slipping through all the way from Old Junkyard?<end>
 
 =>q25
-Ещё один мутант был замечен к югу отсюда. Как они, чёрт возьми, проходят незамеченные со Старой свалки?<end>
+Ещё одного мутанта видели к югу отсюда. Как они пролазят незамеченными со Старой свалки?<end>
 
 =>q26_original
 Another charred corpse was found south of here. The poor guy had some freaky symbols burned into his flesh.<end>
 
 =>q26
-Ещё один обгоревший труп был найден к югу отсюда. У бедняги на теле выжгли какие-то странные символы.<end>
+Ещё один обгоревший труп нашли к югу отсюда. У бедняги на теле были выжжены какие-то странные символы.<end>
 
 =>q27_original
 There was another bot sighting south of here, and another scavenger bit a whole load of bullets. Might be someone's bot, but they can also go rogue...<end>
 
 =>q27
-Тут, к югу отсюда, ещё одного бота видели, а какого-то мусорщика нашпиговали целой кучей пуль. Может тот самый бот, но они могли быть и от какого-нибудь мерзавца...<end>
+Тут, к югу отсюда, ещё одного бота видели, а какого-то мусорщика нашпиговали пулями. Может, это чей-то бот, но они иногда сбегают...<end>
 
 =>q28_original
 Another electrocuted guy was found south of here. He was still alive, spasming out and rambling, but he died not too long after.<end>
 
 =>q28
-Тут, на юге, одного парня током убило. Он ещё был жив, когда его нашли, дёргался и бессвязно бормотал что-то, но вскоре умер.<end>
+Тут, к югу отсюда, одного парня током убило. Он ещё был жив, когда его нашли, дёргался и бессвязно бормотал что-то, но вскоре умер.<end>
 
 =>q29_original
 Another scavenger was found torn apart south of here. It's either rathounds, or maybe a pack of rabid dogs on the loose.<end>
 
 =>q29
-Также, одного мусорщика нашли растерзанным к югу отсюда. Это или крысоволки, или может стая бешеных собак.<end>
+Ещё одного мусорщика нашли растерзанным к югу отсюда. Это или крысоволки, или, может, стая бешеных собак.<end>
 
 =>q30_original
 Another derailed girl was found roaming south of here, half-naked. Didn't know who she was or what happened to her. She's lucky she was found by some decent folks, otherwise... <end>
@@ -186,7 +186,7 @@ Another derailed girl was found roaming south of here, half-naked. Didn't know w
 If the pirates can raid The Rig, they can raid anything. What's next? Camp Hathor? Junkyard? No one knows, but everyone's scared crapless.<end>
 
 =>q31
-Если пиратам удался налёт на Буровую, они могут нагрянуть куда угодно. Что будет дальше? Лагерь Хатор? Свалка? Никто не знает, но все напуганы до усрачки.<end>
+Если пиратам удался налёт на Буровую, они могут нагрянуть куда угодно. Кто следующий? Лагерь Хатор? Свалка? Никто не знает, но все напуганы до усрачки.<end>
 
 =>q32_original
 Some lone rat caused <end>
@@ -210,7 +210,7 @@ a bloodbath on The Rig, slaughtering every Black Eel there<end>
 Some say this person was in fact a Scrapper, others point to pirates and various other factions - or just good ol' derailment; everyone's got their theory.<end>
 
 =>q35
-Некоторые говорят, что на самом деле это был один из Утильщиков, другие указывают на пиратов и другие всевозможные группировки - или просто на старое доброе безумие; у каждого своя теория на это счёт.<end>
+Некоторые говорят, что на самом деле это был один из Утильщиков, кто-то винит на пиратов и другие всевозможные группировки или просто на старое доброе безумие -- у каждого своя теория на это счёт.<end>
 
 =>q36_original
 Whatever the case may be, a lot of damage has been done to the Black Eels, that's for sure, and folks are worried about where that might lead to.<end>
@@ -282,7 +282,7 @@ Faceless retreated and unblocked the North Tunnel.<end>
 A lot of people are trying to take the credit for it, but I think they're all lying. Faceless probably got whatever they were after and left.<end>
 
 =>q47
-Много кто пытается присвоить себе эту заслугу, но я думаю, что они все врут. Безликие, вероятно, получили то что хотели и ушли.<end>
+Много кто пытается присвоить себе эту заслугу, но я думаю, что все они врут. Безликие, вероятно, получили то, что хотели, и ушли.<end>
 
 =>q48_original
 No one except the Protectorate even comes close to being their match in the military sense, and I'm not just talking about firepower here.<end>
@@ -294,7 +294,7 @@ No one except the Protectorate even comes close to being their match in the mili
 Faceless have blockaded the tunnel leading to the North Underrail near Core City. Everyone is wondering why and those who know are not telling.<end>
 
 =>q49
-Безликие блокировали туннель возле Кор-Сити, ведущий в Северную Подземку. Никто не знает зачем, а те кто знает, не говорят.<end>
+Безликие блокировали туннель возле Кор-Сити, ведущий в Северную Подземку. Никто не знает зачем, а те, кто знает, не говорят.<end>
 
 =>q50_original
 Some also attacked Rail Crossing.<end>
@@ -318,7 +318,7 @@ Someone killed Elwood while he was in the Casino. Doesn't surprise me. He owed a
 I heard that Kimi badmouthed her Black Eel patrons. Bad idea.<end>
 
 =>q53
-Похоже, что Кими наговорила лишнего о своих покровителях из Чёрных угрей. Плохая идея.<end>
+Похоже, что Кими говорила лишнего о своих покровителях из Чёрных угрей. Плохая идея.<end>
 
 =>q54_original
 Newest freak sighting: Two-headed mutants in Old Junkyard. Make of that what you will.<end>
@@ -336,7 +336,7 @@ Junkyard. <end>
 The main thing you got to know is that there are two major gangs here - Scrappers, who control the depot and all the junk that's being scavenged from the Old Junkyard, and Black Eels, who control the docks and the shipment of said junk.<end>
 
 =>q56
-Главное, что тебе нужно знать, здесь есть две крупных банды: Утильщики, которые контролируют склад и всё барахло, которое находят на Старой Свалке, и Чёрные угри, которые контролируют пристань и вывоз вышеупомянутого барахла.<end>
+Главное, что тебе нужно знать -- здесь есть две крупных банды: Утильщики, которые контролируют склад и всё барахло, которое находят на Старой Свалке, и Чёрные угри, которые контролируют пристань и вывоз вышеупомянутого барахла.<end>
 
 =>q57_original
 Everyone who lives here has to pay protection money to one of those gangs. The more shinies you have in your pocket, the more you have to pay.<end>
@@ -390,19 +390,19 @@ That's him.<end>
 Does he come alone?<end>
 
 =>a65
-Он пришёл один?<end>
+Он всегда один?<end>
 
 =>q66_original
 Now that you've mentioned it, he did always come with another person - <end>
 
 =>q66
-Раз уж мы заговорили об этом, то он всегда приходил не один - <end>
+Если подумать, он всегда приходил не один, <end>
 
 =>q67_original
 except when he came in a day or so ago. He <end>
 
 =>q67
-за исключением его визита день или два назад. Он <end>
+если не считать визита день или два назад. Он <end>
 
 =>q68_original
 asked me if someone was looking for him, someone called... eh... J-J-J...<end>
@@ -426,7 +426,7 @@ Yeah. Joshua. <end>
 That's the one. This is the first time I see him since. <end>
 
 =>q71
-Точно. Я впервые увидел его с тех пор. <end>
+Точно. Я впервые вижу его с тех пор. <end>
 
 =>q72_original
 <end>
@@ -468,7 +468,7 @@ Thanks. I'll go talk to him.<end>
 He asked me that, then he left. Didn't hang out for long. Think he went south afterwards. Can't be sure. Haven't seen him since.<end>
 
 =>q78
-Он позадавал вопросы и ушёл. Пробыл здесь совсем не долго и направился на юг, кажется. С тех пор я его больше не видел.<end>
+Он спросил это и ушёл. Пробыл здесь совсем не долго и направился на юг, кажется. С тех пор я его больше не видел.<end>
 
 =>a79_original
 Let me know if he shows up.<end>
@@ -482,7 +482,7 @@ I ain't your secretary, $(#jack/sis).
 Now... how about a drink?<end>
 
 =>q80
-Я не твой секретарь, $(#парень/девушка).
+Я тебе не секретарь, $(#парень/девушка).
 
 Как насчёт выпить?<end>
 
@@ -508,7 +508,7 @@ Yeah. Jennifer. <end>
 except for now and the last time he was here, a day or so ago. Back then he <end>
 
 =>q84
-за исключением этого раза и прошлого день или два назад. Тогда он <end>
+за исключением сегодня и прошлого визита день или два назад. Тогда он <end>
 
 =>q85_original
 Yeah. He stops by occasionally. Bald guy. Scavenger. Kinda tall. Why?<end>
@@ -520,7 +520,7 @@ Yeah. He stops by occasionally. Bald guy. Scavenger. Kinda tall. Why?<end>
 Do you know where I can find him? And did he come alone or with someone?<end>
 
 =>a86
-Ты знаешь, где я могу его найти? Он пришёл один или с кем-то?<end>
+Ты знаешь, где я могу его найти? Он приходил один или с кем-то?<end>
 
 =>a87_original
 ::Give him ten stygian coins.::<end>
@@ -580,7 +580,7 @@ Go on.<end>
 ::He rubs an invisible coin between his thumb and index finger.::<end>
 
 =>q96
-::Он потирает невидимую монету своими указательным и большим пальцами.::<end>
+::Он потирает невидимую монету между указательным и большим пальцами.::<end>
 
 =>q97_original
 It's on the tip of my tongue...<end>
@@ -598,13 +598,13 @@ My memory... ain't what it used to be.<end>
 Well?<end>
 
 =>a99
-И?<end>
+И?..<end>
 
 =>a100_original
 Maybe not.<end>
 
 =>a100
-Может и нет.<end>
+Может, и нет.<end>
 
 =>q101_original
 ::He shrugs.:: Anything else I can help you with?<end>
@@ -700,7 +700,7 @@ Can you tell me a bit about Junkyard?<end>
 What's the Old Junkyard?<end>
 
 =>a116
-Что это за Старая Свалка?<end>
+Что это за «Старая Свалка»?<end>
 
 =>q117_original
 <end>
@@ -742,7 +742,7 @@ Good. <end>
 I'm running a bit short on blue eels. If you could go out and catch me some, I'll pay well for them. What do you say?<end>
 
 =>q123
-Я зарабатываю на синих угрях. Если бы вы могли пойти и поймать их - я заплатил бы. Что скажешь?<end>
+У меня заканчиваются синие угри. Если ты сходишь и наловишь, я бы купил их. Что скажешь?<end>
 
 =>a124_original
 Sure. Where do I find them and how many do you need?<end>
@@ -754,19 +754,19 @@ Sure. Where do I find them and how many do you need?<end>
 Five will do, but I only want the blue ones. You can find them in the waters to the west. Just exit the Junkyard and turn right immediately. Follow the tunnels to the west and turn right again when you have to.<end>
 
 =>q125
-Пяти будет достаточно, но мне нужны только синие. Вы можете найти их в водоёмах на западе. Просто выходите со Свалки и сразу поворачиваете направо. Идите по туннелям на запад, потом ещё раз поверните направо.<end>
+Штук пяти пока хватит, но мне нужны только синие. Они водятся в водоёмах на западе. Просто выходишь со Свалки и сразу поворачиваешь направо. Иди по туннелям на запад, потом ещё раз поверни направо.<end>
 
 =>q126_original
 There're plenty of eels to catch there. But be careful, siphoners are also known to swim there.<end>
 
 =>q126
-Там действительно можно наловить много угрей. Но будьте осторожны, брызгуны тоже довольно часто плавают там.<end>
+Там можно наловить много угрей. Но будь осторожней, там часто встречаются брызгуны.<end>
 
 =>a127_original
 Alright. I'll be back with your eels.<end>
 
 =>a127
-Ладно. Я вернусь с вашими угрями.<end>
+Ладно. Я вернусь с угрями.<end>
 
 =>q128_original
 Good luck.<end>
@@ -784,19 +784,19 @@ What the heck are siphoners?<end>
 Oh, just big nasty amphibians that ambush those who come too close to their waters and feed on the blood of their victims.<end>
 
 =>q130
-А, всего лишь большие противные амфибии, что устраивают засады на тех, кто подойдёт слишком близко к их водам и питаются кровью своих жертв.<end>
+А, это большие противные амфибии, которые сидят в засаде под водой и питаются кровью своих жертв.<end>
 
 =>a131_original
 Oh, alright. For a moment I was worried this might be dangerous. Off I go.<end>
 
 =>a131
-Ох, тогда ладно. На мгновение я подумал, что это может быть опасно. Я пошёл.<end>
+А, тогда ладно. Я уж думал$(#/а), что это что-то опасное. Я пошёл.<end>
 
 =>a132_original
 Forget it then, I don't do blood donations.<end>
 
 =>a132
-Тогда забудь об этом, я не буду донором крови.<end>
+Тогда забудь, я не буду донором крови.<end>
 
 =>q133_original
 ::He sighs.:: Never mind then.<end>
@@ -820,7 +820,7 @@ Not much of a fisherman, sorry.<end>
 Never mind then.<end>
 
 =>q136
-Ладно, забудьте.<end>
+Ладно, забыли.<end>
 
 =>a137_original
 Nope.<end>
@@ -832,7 +832,7 @@ Nope.<end>
 Forget it then.<end>
 
 =>q138
-Тогда забудь об этом.<end>
+Тогда забудь.<end>
 
 =>a139_original
 No, but tell me anyway.<end>
@@ -844,19 +844,19 @@ No, but tell me anyway.<end>
 Tell me about that fishing thing you need done.<end>
 
 =>a140
-Расскажите, что там вы хотели насчёт рыбалки?<end>
+Расскажи, что ты там хотел насчёт рыбалки?<end>
 
 =>a141_original
 Got your eels right here.<end>
 
 =>a141
-У меня есть угри.<end>
+Я прин$(#ёс/есла) угрей.<end>
 
 =>q142_original
 Great. I'll pay you a hundred charons for five. Sounds good?<end>
 
 =>q142
-Отлично. Я заплачу вам сотню харонов за пятерых. Хорошо?<end>
+Отлично. Я заплачу сотню харонов за пятерых. Идёт?<end>
 
 =>a143_original
 Agreed. ::Give him five blue eels.::<end>
@@ -874,7 +874,7 @@ Pleasure doing business with you.<end>
 ::[Mercantile]:: Make it 150 and you've got a deal.<end>
 
 =>a145
-::[Торговля]:: Пусть будет 150, и по рукам.<end>
+::[Торговля]:: Давай 150, и по рукам.<end>
 
 =>q146_original
 Fine, but not a charon more.<end>
@@ -886,7 +886,7 @@ Fine, but not a charon more.<end>
 Forget it! Hundred charons, take it or leave it.<end>
 
 =>q147
-Сто харонов, соглашайтесь или нет.<end>
+Сто харонов, соглашайся или нет.<end>
 
 =>a148_original
 I'll take it.<end>
@@ -898,25 +898,25 @@ I'll take it.<end>
 Good, you know it makes sense. <end>
 
 =>q149
-Хорошо, вы знаете, в этом есть смысл. <end>
+Хорошо, у тебя есть голова на плечах. <end>
 
 =>a150_original
 No eels for you then!<end>
 
 =>a150
-Тогда никаких вам угрей!<end>
+Тогда никаких тебе угрей!<end>
 
 =>q151_original
 Suit yourself! You only wasted your own time.<end>
 
 =>q151
-Поступайте как знаете! Вы только зря потратили собственное время.<end>
+Поступай, как знаешь! Ты только зря потратил$(#/а) собственное время.<end>
 
 =>a152_original
 I'll have to think about it.<end>
 
 =>a152
-Мне нужно подумать об этом.<end>
+Мне нужно подумать.<end>
 
 =>q153_original
 ::He rolls his eyes.:: Don't injure yourself.<end>
@@ -934,13 +934,13 @@ For a simple barkeep, you sure know a lot.<end>
 For a simple patron, you sure ask a lot.<end>
 
 =>q155
-Для простого посетителя ты явно спрашиваешь слишком много.<end>
+Для простого посетителя, ты явно задаёшь много вопросов.<end>
 
 =>a156_original
 Suddenly I'm not hungry anymore.<end>
 
 =>a156
-Внезапно я больше не голод$(#ен/на).<end>
+Внезапно, я больше не голод$(#ен/на).<end>
 
 =>q157_original
 You'll be back.<end>
@@ -994,7 +994,7 @@ I'd start saving now, if I were you.<end>
 Hey, heard what happened? <end>
 
 =>q165
-Эй, слыхал, что произошло? <end>
+Эй, слыхал$(#/а), что произошло? <end>
 
 =>q166_original
 What can I get you, $(#jack/lady)?<end>
@@ -1006,4 +1006,4 @@ What can I get you, $(#jack/lady)?<end>
 ::A large man with a scruffy bush of a beard stands at the counter, smelling of foul food and booze. He speaks in a deep, rumbling voice and you can't quite tell if he's in a bad mood or just bored.::<end>
 
 =>q167
-::Крупный мужчина с неряшливой бородой стоит у прилавка, от него пахнет выпивкой и протухшей едой. Он говорит глубоким, грохочущим голосом, и вы не можете точно сказать, он сейчас не в духе или просто скучает.::<end>
+::Крупный мужчина с неряшливой бородой стоит у прилавка, от которого пахнет выпивкой и протухшей едой. Он говорит низким, рокочущим голосом, и вы не можете точно сказать, он сейчас не в духе или просто скучает.::<end>
