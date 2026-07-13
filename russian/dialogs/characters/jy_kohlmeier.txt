@@ -62,7 +62,7 @@ Yeah, I found it, and it turns out it's a pretty good knife so I'm keeping it.<e
 What? You greedy bastard! I hope you fall over and stab yourself!<end>
 
 =>q11
-Что? Жадн$(#ый/ая) $(#ублюдок/тварь)! Чтоб ты им подавил$(#ся/ась)!<end>
+Что? Жадн$(#ый/ая) $(#ублюдок/тварь)! Чтоб ты на него упал$(#/а)!<end>
 
 =>a12_original
 I'll be careful, don't worry. Bye, old fart.<end>
@@ -128,13 +128,13 @@ Older, I'd say.<end>
 ::He laughs.:: Old. There's no use in trying to kid ourselves. I mean, us old folks. We're old, and we're gonna be gone soon. Old-er, that's the word those who don't wanna accept the way life works, with all it's ups... and downs.<end>
 
 =>q22
-::Он смеётся.:: Старике. Нет смысла обманывать себя. Я имею в виду нас, стариков. Мы старые, и нам осталось недолго. Пожилой -- это слово для тех, кто не хочет принимать как устроена жизнь, со всеми её взлётами... и падениями.<end>
+::Он смеётся.:: Старике. Нет смысла обманывать себя. Я имею в виду нас, стариков. Мы старые, и нам осталось недолго. Пожилой -- это слово для тех, кто не хочет принимать, как устроена жизнь, со всеми её взлётами... и падениями.<end>
 
 =>a23_original
 I see. So, are you going to tell me something about yourself. You told me about the house, so why not go back in past some more.<end>
 
 =>a23
-Понимаю. Так, вы расскажете мне что-нибудь о себе? Вы уже рассказали мне о доме, так почему бы не вернуться ещё дальше в прошлое.<end>
+Понимаю. Так, вы расскажете мне что-нибудь о себе? Вы уже рассказали мне о доме, так почему бы не вернуться ещё дальше в прошлое?<end>
 
 =>q24_original
 Well... my life was one that had *quite* a few ups and downs. I'd rather not go into too many details, but I had a great wife, a good job, decent kids and a life I wouldn't complain about. First I lost my wife, then I lost my job, then my kids left... then I started complaining about life. ::He smiles.::<end>
@@ -152,7 +152,7 @@ What happened?<end>
 I... said I wouldn't wanna get into too many details. Some of the things were my fault, some were bad luck. In the end, I ended up in Junkyard. And then after that, in an even worse part of Junkyard. I guess ground's next. ::He laughs.:: Well, to be honest, at least these United Stations bozos were helping us up until South Railroad Outpost was attacked.<end>
 
 =>q26
-Я... сказал, что не хочу вдаваться в подробности. В чём-то я сам виноват, что-то было просто невезением. В конце концов я оказался на Свалке. А потом в её худшей части. Похоже, что дальше только в землю. ::Он смеётся.:: Ну, если быть честным, по крайней мере, эти типы из Объединённых Станций помогали нам, пока на Форпост южной железной дороги не напали.<end>
+Я... сказал, что не хочу вдаваться в подробности. В чём-то я сам виноват, что-то было просто невезением. В конце концов я оказался на Свалке, а потом в её худшей части. Похоже, что дальше только в землю. ::Он смеётся.:: Ну, если быть честным, по крайней мере, эти типы из Объединённых Станций помогали нам, пока на Форпост южной железной дороги не напали.<end>
 
 =>a27_original
 Have the United Stations been treating you well?<end>
@@ -164,13 +164,13 @@ Have the United Stations been treating you well?<end>
 Yes. Yes, indeed they have. I was in the same... boat as a lot of the folks in Junkyard when we first heard them... eh, Northerners were gonna construct an embassy here. But, I have a different opinion now. They've been good to us folks here. They give us food and old clothes we can wear, and we're a bit safer here. Although, once you get past Vince and his pack you're back in dangerous territory.<end>
 
 =>q28
-Да. Да, действительно. Я был настроен так же... как и многие люди на Свалке, когда мы впервые о них услышали... фу, северяне собираются основать здесь посольство? Но теперь у меня другое мнение. Они были добры к людям здесь. Они дают нам еду и старую одежду, которую мы можем носить, и здесь немного безопаснее. Хотя, как только минуешь Винса и его стаю, ты опять на опасной территории.<end>
+Да. Да, действительно. Я был настроен так же... как и многие люди на Свалке, когда мы впервые о них услышали... фу, северяне собираются основать здесь посольство? Но теперь у меня другое мнение. Они были добры к людям здесь. Они дают нам еду и старую одежду, и здесь немного безопаснее. Хотя, как только минуешь Винса и его стаю, ты опять на опасной территории.<end>
 
 =>q29_original
 Although, no one left the embassy ever since the South Railroad Outpost was attacked. But I'm sure Protectorate will take care of the Drones sometime soon. They *can't* hold it, you know. Then I think things'll normalize a bit.<end>
 
 =>q29
-Хотя никто не выходил из посольства с тех пор, как на Форпост южной железной дороги было совершено нападение. Но я уверен, что Протекторат разберётся с Шершнями достаточно скоро. Им не удержать форпост. Потом, я думаю, всё понемногу устаканится.<end>
+Хотя, никто не выходил из посольства с тех пор, как на Форпост южной железной дороги было совершено нападение. Но я уверен, что Протекторат разберётся с Шершнями достаточно скоро. Им не удержать форпост. Потом, я думаю, всё понемногу устаканится.<end>
 
 =>a30_original
 I see. I gotta go. See you later.<end>
@@ -182,13 +182,13 @@ I see. I gotta go. See you later.<end>
 Life's tough. I'll be going now, old timer.<end>
 
 =>a31
-Жизнь жестокая. Мне пора, дедушка.<end>
+Жизнь жестока. Мне пора, дедушка.<end>
 
 =>q32_original
 Oh, well. That's Junkyard.<end>
 
 =>q32
-Что ж. Это Свалка.<end>
+Что ж, это Свалка.<end>
 
 =>a33_original
 Where does the knife fit in?<end>
@@ -200,7 +200,7 @@ Where does the knife fit in?<end>
 Somewhere in between. Just having it helped me get through... some of the downs in my life. That's all you need to know.<end>
 
 =>q34
-Он был со мной. Просто он помог мне пережить... некоторые из падений в моей жизни. Это всё, что вам нужно знать.<end>
+Он всегда был со мной. Просто он помог мне пережить... некоторые из падений в моей жизни. Это всё, что вам нужно знать.<end>
 
 =>a35_original
 Look, can I help you out somehow? Do you need any food?<end>
@@ -224,7 +224,7 @@ I'm sorry to hear that. Can I help you somehow? Do you need any food?<end>
 I... said I wouldn't wanna get into too many details. Some of the things were my fault, some were bad luck. In the end, I ended up in Junkyard. And then after that, in an even worse part of Junkyard. I guess ground's next. ::He laughs.:: Well, to be honest, at least these United Stations bozos are helping us out a bit. <end>
 
 =>q38
-Я... сказал, что не хочу вдаваться в подробности. В чём-то я сам виноват, что-то было просто невезением. В конце концов я оказался на Свалке. А потом в её худшей части. Похоже, что дальше только в землю. ::Он смеётся.:: Ну, если быть честным, по крайней мере, эти типы из Объединённых Станций помогают нам немного. <end>
+Я... сказал, что не хочу вдаваться в подробности. В чём-то я сам виноват, что-то было просто невезением. В конце концов я оказался на Свалке, а потом в её худшей части. Похоже, что дальше только в землю. ::Он смеётся.:: Ну, если быть честным, по крайней мере, эти типы из Объединённых Станций помогают нам немного. <end>
 
 =>a39_original
 I get what you're saying, but I gotta go. See you around, old timer.<end>
@@ -236,7 +236,7 @@ I get what you're saying, but I gotta go. See you around, old timer.<end>
 Just wanted to hear your story. You told me about the house, so why not go back in past some more.<end>
 
 =>a40
-Просто хотелось услышать вашу историю. Вы уже рассказали мне о доме, так почему бы не вернуться ещё дальше в прошлое.<end>
+Просто хотелось услышать вашу историю. Вы уже рассказали мне о доме, так почему бы не вернуться ещё дальше в прошлое?<end>
 
 =>a41_original
 Hmmm, good question. I guess I'll leave you be then. So long, old timer.<end>
@@ -282,7 +282,7 @@ What did you have in mind, old timer?<end>
 I lived in a comfy house on the east side. Oh, yeah. But, one day I couldn't pay protection money to the Eels anymore so they kicked me out. Heartless bastards. However, I'm not gonna waste your time with my... sob story, no.<end>
 
 =>q47
-Я жил в уютном доме на восточной стороне. О, да. Но в один прекрасный день я не смог заплатить Угрям за защиту, так что они меня выперли. Бессердечные ублюдки. Впрочем, не буду тратить ваше время своим... нытьём, нет.<end>
+Я жил в уютном доме на восточной стороне, о, да. Но в один прекрасный день я не смог заплатить Угрям за защиту, так что они меня выперли. Бессердечные ублюдки. Впрочем, не буду тратить ваше время своим... нытьём, нет.<end>
 
 =>q48_original
 The important... bit is that I know a secret way back into my old home. And I also know that its current occupant has quite a bit of coins lying around there.<end>
@@ -300,7 +300,7 @@ So you'll tell me how to get in there in exchange for a cut of the profits?<end>
 What? Do you think I'm thick? I have no way of making you give me any of that money after the job is done.<end>
 
 =>q50
-Что? Вы думаете, я тупой? Я же не смогу заставить вас поделиться, после того как дело будет сделано.<end>
+Что? Вы думаете, я дурак? Я же не смогу заставить вас поделиться после того, как дело будет сделано.<end>
 
 =>q51_original
 The only thing I want is for you to get my lucky knife. It's gotta be lying around somewhere in there. The knife won't be of much use to... *you* since it's not a particularly good knife for combat, but it's of sentimental value to me. Do you dig?<end>
@@ -390,7 +390,7 @@ Maybe some other time.<end>
 ::He nods.:: I ain't going nowhere, if you change your mind.<end>
 
 =>q65
-::Он кивает.:: На случай если вы передумаете, я всегда здесь.<end>
+::Он кивает.:: На случай, если вы передумаете, я всегда здесь.<end>
 
 =>a66_original
 Got it. Bye, old timer.<end>
