@@ -62,7 +62,7 @@ $(context.player.Name).<end>
 One word of warning, though: Your movement is restricted only to the first floor. Unless specified otherwise, getting caught anywhere else in the manor will have serious consequences. Enjoy your stay.<end>
 
 =>q10
-::Он стучит пару раз по прибору, прежде чем ответить.:: Вы есть в списке, а значит вы можете войти. Добро пожаловать в резиденцию Таллоски.
+::Он стучит пару раз по прибору, прежде чем ответить: ::Вы есть в списке, а значит вы можете войти. Добро пожаловать в резиденцию Таллоски.
 
 Позвольте однако предупредить: вам разрешается доступ только на первый этаж. Нарушение режима будет иметь для вас серьёзные последствия. Приятного дня.<end>
 
@@ -72,7 +72,7 @@ One word of warning, though: Your movement is restricted only to the first floor
 I'm sorry, but I don't see your name on the list, which means I can't allow you to enter. Not on the list - not getting in.<end>
 
 =>q11
-::Он стучит пару раз по прибору, прежде чем ответить.::
+::Он стучит пару раз по прибору, прежде чем ответить: ::
 
 К сожалению, вашего имени нет в списке, а значит я не могу позволить вам войти. Кого нет в списке -- те не могут войти.<end>
 
