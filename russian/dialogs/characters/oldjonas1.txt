@@ -74,7 +74,7 @@ That's alright, Jonas. You can just have it.<end>
 From now on you're gettin' only the best deals for whatever item I scavenge.<end>
 
 =>q12
-::Он улыбается.:: Спасибо, $(#юноша/девушка). С этими часами связано множество воспоминаний.
+::Он улыбается.:: Спасибо, $(#юноша/девочка). С этими часами связано множество воспоминаний.
 
 Отныне для тебя только лучшие цены на любой товар, что я нарою.<end>
 
@@ -88,7 +88,7 @@ Now, there was something I wanted to ask you.<end>
 Sure, youngster.<end>
 
 =>q14
-Конечно, $(#юноша/девушка).<end>
+Конечно, $(#юноша/девочка).<end>
 
 =>a15_original
 See you later, old geezer.<end>
@@ -464,7 +464,7 @@ Is it really true that you descended to the bottom of Deep Caverns?<end>
 ::He laughs.:: Listen, youngster, there's not a place in this accursed underworld these old legs haven't visited. I've descended as low as one can go and I even took a peek into the dreaded mutagen tanks and...<end>
 
 =>q76
-::Он смеётся.:: Послушай, $(#юноша/девушка), нет таких мест в этом проклятом подземном мире, которые не посещали эти старые ноги. Я спускался так глубоко, как только можно, и даже заглянул в ужасные резервуары мутагена, и...<end>
+::Он смеётся.:: Послушай, $(#юноша/девочка), нет таких мест в этом проклятом подземном мире, которые не посещали эти старые ноги. Я спускался так глубоко, как только можно, и даже заглянул в ужасные резервуары мутагена, и...<end>
 
 =>q77_original
 Well, it's somewhat of a long story. You sure you wanna hear it?<end>
@@ -680,7 +680,7 @@ You promised to tell me about your descent into the Deep Caverns.<end>
 Look, youngster, I don't want to know anythin' about any giant mutated eldritch piles of flesh. If that's what I saw down there as well, I'm glad I can't remember it.<end>
 
 =>q112
-Слушай, $(#юноша/девушка), я не хочу ничего знать о всяких гигантских мутировавших жутких грудах плоти. Если это и есть то, что я тоже видел там, значит я рад, что не могу этого вспомнить.<end>
+Слушай, $(#юноша/девочка), я не хочу ничего знать о всяких гигантских мутировавших жутких грудах плоти. Если это и есть то, что я тоже видел там, значит я рад, что не могу этого вспомнить.<end>
 
 =>a113_original
 You can't remember it?<end>
@@ -765,7 +765,7 @@ Can you tell me a bit about creatures that inhabit these tunnels?<end>
 Well, there's cave hoppers, mole crickets, rathounds, psi beetles... and rarely shadow crawlers. What critter are you interested in?<end>
 
 =>q126
-Ну, здесь встречаются пещерники, медведки, крысоволки, пси-жуки... и изредка призрачные краулеры. Какая тварь тебя интересует?<end>
+Ну, здесь встречаются пещерники, медведки, крысоволки, пси-жуки... и, изредка, призрачные краулеры. Какая тварь тебя интересует?<end>
 
 =>q127_original
 <end>
@@ -1051,7 +1051,7 @@ Never mind. Let's talk about something else.<end>
 Alright, youngster.<end>
 
 =>q173
-Хорошо, $(#юноша/девушка).<end>
+Хорошо, $(#юноша/девочка).<end>
 
 =>a174_original
 I got more questions about the tunnels for you.<end>
@@ -1267,13 +1267,13 @@ What is it?<end>
 Take a seat, youngster, have yourself a drink. You don't need to be rushin' about all the time.<end>
 
 =>q209
-Присядь, $(#юноша/девушка), возьми себе выпить. Не нужно спешить всё время.<end>
+Присядь, $(#юноша/девочка), возьми себе выпить. Не нужно спешить всё время.<end>
 
 =>q210_original
 Back again? What can Old Jonas do for you, youngster?<end>
 
 =>q210
-Вернул$(#ся/ась)? Что может старый Джонас сделать для тебя, $(#юноша/девушка)?<end>
+Вернул$(#ся/ась)? Что может старый Джонас сделать для тебя, $(#юноша/девочка)?<end>
 
 =>q211_original
 ::An old man wearing an old coat, old pants and old boots introduces himself with an amiable smile.::

@@ -252,9 +252,9 @@ A sigh of relief precedes his words.::
 Aaaaah, you're not a psi bug. Thank goodness. I almost had a heart attack...<end>
 
 =>q42
-::Испуганный молодой человек выпрыгивает из тёмного угла и начинает рубить воздух перед собой. Его рубашка и брюки испачканы кровью, и вы видите, что его бедро перетянуто куском ткани, пониже которого зияет большая рана. Мгновение спустя, он отводит нож и смотрит на вас, выпучив глаза.
+::Испуганный молодой человек выпрыгивает из тёмного угла и начинает рубить воздух перед собой. Его рубашка и брюки испачканы кровью, а бедро перетянуто куском ткани, пониже которого зияет большая рана. Мгновение спустя, он отводит нож и смотрит на вас, выпучив глаза.
 
-Вздох облегчения предваряет его слова.::
+Вздох облегчения предваряет его слова: ::
 
 А-а-а, ты не пси-жук. Какое облегчение. Я чуть не умер от сердечного приступа...<end>
 
@@ -334,7 +334,7 @@ Don't take too long. I'll wait here.<end>
 You are a bigger hopper than the ones you were sent to catch, but I'll see what I can do.<end>
 
 =>a55
-Ты ещё больший пещерник, чем те зверушки, которых тебя послали ловить, но я посмотрю что можно сделать.<end>
+Ты ещё больший пещерник, чем те зверушки, которых тебя послали ловить, но я посмотрю, что можно сделать.<end>
 
 =>q56_original
 Hopper? That was uncalled for. I'm frickin' wounded, $(#man/woman)! ::He grabs his leg.:: Aaah... I'll wait here.<end>
@@ -352,7 +352,7 @@ I won't disturb you. Goodbye.<end>
 What!? No, no, no - don't leave me here! Are you derailed!? You from SGS?<end>
 
 =>q58
-Что?! Нет, нет, нет, не бросай меня здесь! Ты поехал$(#/а)?! Ты с ССГ?<end>
+Что?! Нет, нет, нет, не бросай меня здесь! Ты поехавш$(#ий/ая)?! Ты с ССГ?<end>
 
 =>a59_original
 Yes I am. $(context.player.Name)'s the name. Are you Newton? Big Bret sent me out to look for you. You've been out of SGS for a while now.<end>
