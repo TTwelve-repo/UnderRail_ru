@@ -10,7 +10,7 @@ I knew it! Get out of here before I put a bullet through your skull!<end>
 The Faceless - they are attacking again! Cull! Fire! FIRE!<end>
 
 =>q2
-::Заметив движение, один из рясофоров хватается за оружие и кричит на остальных стражников.::
+::Заметив движение, один из рясофоров хватается за оружие и кричит на остальных стражников: ::
 
 Безликие -- они снова атакуют! Выполоть! Огонь! Огонь!<end>
 
@@ -20,7 +20,7 @@ The Faceless - they are attacking again! Cull! Fire! FIRE!<end>
 Hold it, brother - that could be one of our own!<end>
 
 =>q3
-::Прежде чем он успевает разрядить своё оружие в вашем направлении, один из других рясофоров, несколько повыше, останавливает его.::
+::Прежде чем он успевает разрядить своё оружие в вашем направлении, один из других рясофоров, несколько повыше, останавливает его: ::
 
 Постой, брат, это может быть один из наших!<end>
 
@@ -30,7 +30,7 @@ Hold it, brother - that could be one of our own!<end>
 You there, identify yourself!<end>
 
 =>q4
-::Нервный рясофор медленно опускает оружие, а его товарищ обращается к вам.::
+::Нервный рясофор медленно опускает оружие, а его товарищ обращается к вам: ::
 
 Эй, там, назовите себя!<end>
 
@@ -70,7 +70,7 @@ Yes, they have made it safely. Come closer - but slowly. We can't take any chanc
 I am a Tchortist, brothers, just like you. I come from the Institute.<end>
 
 =>a9
-Я тоже чортист, братья, прямо как вы. Я приш$(#ёл/ла) из Института.<end>
+Я тоже чортист, братья, как и вы. Я приш$(#ёл/ла) из Института.<end>
 
 =>q10_original
 ::The two of them look at each other.:: 
@@ -132,7 +132,7 @@ But I need food, medicine and supplies.<end>
 We can't help you. Now - I repeat - leave or we *will* open fire.<end>
 
 =>q18
-Мы не можем помочь вам. Теперь я повторяю: уходите, или мы открываем огонь.<end>
+Мы не можем помочь вам. Теперь, я повторяю: уходите, или мы открываем огонь.<end>
 
 =>a19_original
 Fine, I understand. I will be leaving now.<end>
@@ -178,7 +178,7 @@ That's good enough! ::As you come to a full stop, all eyes fall on you in an act
 $(#He/She) matches the description. Well, that is a relief! You may enter Cytosine Outpost, $(#brother/sister). Tchort is Evolution.<end>
 
 =>q25
-Он$(#/а) соответствует описанию. Какое облегчение! Добро пожаловать в аванпост Цитозин, $(#брат/сестра). Чорт -- это эволюция.<end>
+Он$(#/а) соответствует описанию. Какое облегчение! Добро пожаловать на аванпост Цитозин, $(#брат/сестра). Чорт -- это эволюция.<end>
 
 =>a26_original
 I would like to talk with whoever is in charge here.<end>
@@ -256,7 +256,7 @@ Tchort is evolution.<end>
 ::The edgy rassophore shouts.:: Did you hear that? $(#He/She) repeated it! $(#He/She) doesn't know the greeting! CULL the Faceless infiltrator! CULL!<end>
 
 =>q38
-::Нервный рясофор вскрикивает.:: Вы слышали? Он$(#/а) просто повторяет за нами! Он$(#/а) не знает приветствие! Выполоть безликого шпиона! ВЫПОЛОТЬ!!!<end>
+::Нервный рясофор вскрикивает: :: Вы слышали? Он$(#/а) просто повторяет за нами! Он$(#/а) не знает приветствие! Выполоть безликого шпиона! ВЫПОЛОТЬ!!!<end>
 
 =>a39_original
 Evolution is Tchort.<end>
@@ -268,7 +268,7 @@ Evolution is Tchort.<end>
 Good! Now, if you ca--<end>
 
 =>q40
-Хорошо! Теперь, не могли...<end>
+Хорошо! Теперь, не могли бы...<end>
 
 =>q41_original
 I'm not convinced! The inbreds surely know our greetings, brother! Let's ask $(#him/her) something that ONLY a Tchortist would know, something that will surely prove $(#he/she) is one of us!<end>
@@ -280,7 +280,7 @@ I'm not convinced! The inbreds surely know our greetings, brother! Let's ask $(#
 ::The taller rassophore ponders for a moment before asking you the question.:: What was the last name of the Biocorp Armed Forces captain who escorted Eidein to Deep Caverns during their expedition? Only those who have read the Original Report can possibly know the answer.<end>
 
 =>q42
-::Тот, что повыше, задумывается на мгновение, прежде чем задать вам вопрос.:: Как была фамилия капитана Вооружённых сил Биокорп, который сопровождал Эйдейна во время экспедиции в Глубокие пещеры? Только те, кто читал Первичный Отчёт, могут знать ответ.<end>
+::Тот, что повыше, задумывается на мгновение, прежде чем задать вам вопрос: ::Как была фамилия капитана Вооружённых сил Биокорп, который сопровождал Эйдейна во время экспедиции в Глубокие пещеры? Только те, кто читал Первичный отчёт, могут знать ответ.<end>
 
 =>a43_original
 Brandon.<end>
@@ -292,7 +292,7 @@ Brandon.<end>
 See, brother!? $(#He/She) doesn't know - $(#he/she) never read the Original Report! CULL THE FACELESS INFILTRATOR!<end>
 
 =>q44
-Видишь, брат?! Он$(#/а) не знает, он$(#/а) никогда не читал$(#/а) Первичного Отчёта! ВЫПОЛОТЬ ШПИОНА БЕЗЛИКИХ!<end>
+Видишь, брат?! Он$(#/а) не знает, он$(#/а) никогда не читал$(#/а) Первичного отчёта! ВЫПОЛОТЬ ШПИОНА БЕЗЛИКИХ!<end>
 
 =>a45_original
 Bradock.<end>
@@ -392,7 +392,7 @@ Nine.<end>
 Nine? Wha--<end>
 
 =>q60
-Девять? Какого...<end>
+Девять? Какого?..<end>
 
 =>q61_original
 Where is your robe, $(#brother/sister)?<end>
@@ -404,7 +404,7 @@ Where is your robe, $(#brother/sister)?<end>
 ::[Persuade]:: Only an idiot would wear a Tchortist robe in Faceless infested caves; I don't want to get culled on sight. Besides, their attack on the Institute was sudden and I didn't have the time to grab my robe.<end>
 
 =>a62
-::[Убеждение] ::Надо быть идиотом, чтобы носить мантию чортиста в этих кишащих безликими пещерах; не хочу, чтобы меня выпололи. Да и напали они на Институт так внезапно, что времени не было бы одеть мантию.<end>
+::[Убеждение] ::Надо быть идиотом, чтобы носить мантию чортиста в этих кишащих безликими пещерах -- не хочу, чтобы меня выпололи. Да и напали они на Институт так внезапно, что времени не было бы одеть мантию.<end>
 
 =>q63_original
 That makes sense... Tchort is evolution, $(#brother/sister).<end>
