@@ -8,7 +8,7 @@ The area is secured. Awaiting reinforcements.<end>
 The Cans were waiting for us. But that didn't help them one bit.<end>
 
 =>q2
-Банки ждали нас. Но это им не помогло.<end>
+Банки ждали нас,но это им не помогло.<end>
 
 =>a3_original
 Continue with the attack!<end>
@@ -62,7 +62,7 @@ Commence the attack.<end>
 All right boys, you heard $(context.player.Name). Death to Protectorate!<end>
 
 =>q11
-Ну ладно, парни, вы слышали, что сказал$(#/а) $(context.player.Name). Смерть Протекторату!<end>
+Ну, ладно, парни, вы слышали, что сказал$(#/а) $(context.player.Name). Смерть Протекторату!<end>
 
 =>a12_original
 Death to Protectorate!<end>
@@ -148,7 +148,7 @@ We're not going anywhere unless you say so.<end>
 Good to see you, $(#brother/sister). Everyone is here, and we're ready to show those filthy Cans the painful side of life.<end>
 
 =>q25
-::Мужчина обращается к вам на удивление ровным и приятным голосом, учитывая кажущуюся нервозность отряда.::
+::Мужчина обращается к вам на удивление спокойным и уверенным голосом, учитывая кажущуюся нервозность отряда.::
 
 Рад видеть тебя, $(#брат/сестра). Все здесь, и мы готовы показать этим грязным банкам болезненную сторону жизни.<end>
 
