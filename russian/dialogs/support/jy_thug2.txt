@@ -8,7 +8,7 @@
 You a Northern $(#boy/girl)?<end>
 
 =>q2
-Ты с севера, $(#парень/цыпочка)?<end>
+Ты с Севера, $(#парень/цыпочка)?<end>
 
 =>q3_original
 Wanna see my tattoo?<end>
@@ -26,13 +26,13 @@ Ahh, nothin' like the smell of burnin' junk in the mornin'.<end>
 Hey, heard about <end>
 
 =>q5
-Эй, слыхал о <end>
+Эй, слыхал$(#/а) о <end>
 
 =>q6_original
 that psionic guy who's been torturin' them folks?<end>
 
 =>q6
-том псионике, который мучил тех людей?<end>
+том псионике, который мучил людей?<end>
 
 =>q7_original
 what's been happenin' on the road between Mushroom Cove and Junkyard?<end>

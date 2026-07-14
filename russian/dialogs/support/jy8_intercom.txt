@@ -10,7 +10,7 @@
 I haven't seen you before, stranger. Came to do some gamblin'?<end>
 
 =>q2
-::Вы звоните, и хриплый голос отвечает.::
+::Вы звоните, и хриплый голос отвечает: ::
 
 Я не видел тебя прежде, незнаком$(#ец/ка). Приш$(#ёл/ла) испытать удачу?<end>
 
@@ -36,7 +36,7 @@ Sure, sure, but all new members must pay twenty charons admittance fee first.<en
 Alright, fair enough. ::Slip the charons through the designated crack in the door.::<end>
 
 =>a6
-Взнос так взнос. ::Высыпать хароны в специальный лоток в двери.::<end>
+Взнос, так взнос. ::Высыпать хароны в специальный лоток в двери.::<end>
 
 =>q7_original
 Welcome aboard.<end>

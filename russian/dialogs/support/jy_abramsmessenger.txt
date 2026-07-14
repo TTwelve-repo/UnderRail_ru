@@ -44,7 +44,7 @@ Would a few charons make you more talkative?<end>
 Who is "he"? Did the man who wants to speak to me send you himself, or was someone else in charge of that?<end>
 
 =>a8
-Кто «он»? Тебя прислал тот же человек, кто хотел поговорить со мной или это был кто-то другой?<end>
+Кто «он»? Тебя прислал тот же человек, кто хотел поговорить со мной, или это был кто-то другой?<end>
 
 =>q9_original
 No, it's... someone else. I... I already told you too much. Too much. These people have eyes everywhere. Just... ::He nervously looks around.:: Goodbye.<end>
@@ -74,7 +74,7 @@ Right... See you around, *jack*.<end>
 I guess I'll have to go and talk to this person.<end>
 
 =>a13
-Значит придётся пойти и поговорить с этим человеком.<end>
+Значит, придётся пойти и поговорить с этим человеком.<end>
 
 =>q14_original
 No prob, $(#jack/sister).<end>

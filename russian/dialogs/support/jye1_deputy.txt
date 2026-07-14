@@ -8,7 +8,7 @@ I'm busy. Very busy.<end>
 I'm sorry, but I searched the ambassador's office as thoroughly as I could, and I still haven't managed to find your <end>
 
 =>q2
-Сожалею, но я обыскал кабинет посла так тщательно, как это возможно, но так и не смог найти ваш <end>
+Сожалею, но я обыскал кабинет посла так тщательно, как это возможно, но так и не смог найти ваш<end>
 
 =>q3_original
 red pen. <end>
@@ -40,7 +40,7 @@ Could you please go and search the ambassador's office just one more time? It's 
 Okay, okay. Okay... But this is the last time. Please wait here.<end>
 
 =>q7
-::Несколько секунд он неуверенно смотрит на вас.::
+::Несколько секунд он смотрит на вас с неуверенностью.::
 
 Хорошо, хорошо. Хорошо... Но это в последний раз. Пожалуйста, ждите здесь.<end>
 
@@ -48,7 +48,7 @@ Okay, okay. Okay... But this is the last time. Please wait here.<end>
 Thank you again. I'll be right here.<end>
 
 =>a8
-Ещё раз спасибо. Я подожду здесь.<end>
+Ещё раз, спасибо. Я подожду здесь.<end>
 
 =>a9_original
 ::Nod.::<end>
@@ -60,7 +60,7 @@ Thank you again. I'll be right here.<end>
 Oh, well... Thank you for your help anyway. Goodbye.<end>
 
 =>a10
-Ну что ж... Всё равно, спасибо вам за помощь. До свидания.<end>
+Ну, что ж... Всё равно, спасибо вам за помощь. До свидания.<end>
 
 =>q11_original
 Yes. Goodbye.<end>
@@ -72,7 +72,7 @@ Yes. Goodbye.<end>
 ::Bow down your head and depressedly wave the deputy goodbye.::<end>
 
 =>a12
-::Склонив голову и в отчаянии помахать заместителю на прощание.::<end>
+::Понурить голову и в отчаянии помахать заместителю на прощание.::<end>
 
 =>a13_original
 Thanks for nothing, moron. Goodbye!<end>
@@ -84,7 +84,7 @@ Thanks for nothing, moron. Goodbye!<end>
 ::He frowns but doesn't say a word to you.::<end>
 
 =>q14
-::Он хмурится но ничего не говорит.::<end>
+::Он хмурится, но ничего не говорит.::<end>
 
 =>q15_original
 <end>
@@ -96,7 +96,7 @@ Thanks for nothing, moron. Goodbye!<end>
 Either you lost it somewhere else, Corporal, or... I don't know. This is all I can do to help you; you may return tomorrow to check whether the janitor has found it.<end>
 
 =>q16
-Вы или не там ищете, капрал, или... я не знаю. Это всё, что я могу для вас сделать; зайдите завтра, может быть, уборщица найдёт.<end>
+Вы или не там ищете, капрал, или... я не знаю. Это всё, что я могу для вас сделать; зайдите завтра, может быть, уборщик найдёт.<end>
 
 =>q17_original
 <end>
@@ -120,13 +120,13 @@ Goodbye.<end>
 I understand. I'll check in tomorrow then. Thank you for your help. Bye.<end>
 
 =>a20
-Я понимаю. В таком случае я зайду завтра. Спасибо вам за помощь. Пока.<end>
+Я понимаю. В таком случае, я зайду завтра. Спасибо вам за помощь. Пока.<end>
 
 =>q21_original
 Either you lost it somewhere else or... I don't know. This is all I can do to help you; you may return tomorrow to check whether the janitor has found it.<end>
 
 =>q21
-Вы или не там ищете, или... я не знаю. Это всё, что я могу для вас сделать; зайдите завтра, может быть, уборщица найдёт.<end>
+Вы или не там ищете, или... я не знаю. Это всё, что я могу для вас сделать; зайдите завтра, может быть, уборщик найдёт.<end>
 
 =>q22_original
 earring. <end>
@@ -156,19 +156,19 @@ lens. <end>
 tooth. <end>
 
 =>q26
-зуб. <end>
+ зуб. <end>
 
 =>q27_original
 I am sorry, but I wasn't able to find your... ehm... <end>
 
 =>q27
-Простите, но я не могу найти... эм... ваш <end>
+Простите, но я не могу найти... эм... ваш<end>
 
 =>q28_original
 marble. <end>
 
 =>q28
-шарик. <end>
+ шарик. <end>
 
 =>q29_original
 I'm still searching.<end>
@@ -182,7 +182,7 @@ I'm still searching.<end>
 Go right in. The ambassador is ready to meet you.<end>
 
 =>q30
-::Молодой заместитель вежливо обращается к вам.::
+::Молодой заместитель вежливо обращается к вам: ::
 
 Проходите, пожалуйста. Посол ждёт вас.<end>
 
@@ -284,7 +284,7 @@ Not really. Goodbye.<end>
 So you won't help me?<end>
 
 =>a46
-Значит вы мне не поможете?<end>
+Значит, вы мне не поможете?<end>
 
 =>q47_original
 Sorry. Can I help you with anything else?<end>
@@ -304,7 +304,7 @@ I... don't have a clue what you're talking about, but I'm sorry - I can't help y
 Is there anything else...?<end>
 
 =>q49
-Я... понятия не имею, о чём вы говорите, но мне очень жаль - я не могу вам помочь. 
+Я... понятия не имею, о чём вы говорите, но мне очень жаль -- я не могу вам помочь. 
 
 Что-нибудь ещё?..<end>
 
@@ -324,7 +324,7 @@ And... this item is?<end>
 A red pen. It belonged to my late mother. I carry it with me all the time.<end>
 
 =>a52
-Красная ручка. Она досталась мне от матери. Я всегда ношу её с собой.<end>
+Красную ручку. Она досталась мне от матери. Я всегда ношу её с собой.<end>
 
 =>q53_original
 <end>
@@ -342,19 +342,19 @@ A black marble. Had it with me since I was a kid. It means a lot to me.<end>
 A small, titanium-white ball earring. Must've fallen off somehow.<end>
 
 =>a55
-Маленькая белая титановая серёжка. Должно быть, вывалилась как-то.<end>
+Маленькую белую титановую серёжку. Должно быть, вывалилась как-то.<end>
 
 =>a56_original
 A gold coin with a large-nosed man on it. Ancient history.<end>
 
 =>a56
-Золотая монета с таким носатым мужиком. Очень старая.<end>
+Золотую монету с таким носатым мужиком. Очень старую.<end>
 
 =>a57_original
 A contact lens. Can't see properly without the bugger.<end>
 
 =>a57
-Контактная линза. Ни хрена без неё не вижу.<end>
+Контактную линзу. Ни хрена без неё не вижу.<end>
 
 =>a58_original
 My lucky tooth. Not entirely white, but still brings nothing but pure luck to me.<end>
@@ -366,7 +366,7 @@ My lucky tooth. Not entirely white, but still brings nothing but pure luck to me
 Nothing, actually. Carry on.<end>
 
 =>a59
-На самом деле, нет. Не обращайте внимания.<end>
+На самом деле, ничего. Не обращайте внимания.<end>
 
 =>q60_original
 Yes. Well... goodbye then.<end>

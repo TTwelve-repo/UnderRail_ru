@@ -32,7 +32,7 @@ What are these corpses doing here?<end>
 These are the mutants from Depot A area. I'm researching their mutations.<end>
 
 =>q6
-Это мутанты из Склада А. Я исследую их мутации.<end>
+Это мутанты со Склада А. Я исследую их мутации.<end>
 
 =>a7_original
 What happened to these people?<end>
@@ -100,7 +100,9 @@ Don't forget to get rid of that corpse. There should be some body bags in one of
 And *suit up*! Should be common sense...<end>
 
 =>q17
-И *переодеться*! Для здравого смысла...<end>
+
+
+И *переоденьтесь*! Почему я должен вас учить?..<end>
 
 =>q18_original
 Wait a minute... You're not one of the guards. You shouldn't be in here. I'm calling security!<end>
@@ -118,7 +120,7 @@ Wait a minute... You're not one of the guards. You shouldn't be in here. I'm cal
 ::With evident distress in his voice, he responds.:: What... what do you want to know?<end>
 
 =>q20
-::С явным огорчением в голосе он отвечает.:: Что... что вы хотите знать?<end>
+::С дрожью в голосе, он отвечает: :: Что... что вы хотите знать?<end>
 
 =>a21_original
 ::Attack!::<end>
@@ -130,13 +132,13 @@ Wait a minute... You're not one of the guards. You shouldn't be in here. I'm cal
 ::[Intimidate]:: I'll be asking questions here, doc. And you better answer them if you want to live.<end>
 
 =>a22
-::[Запугивание]:: Здесь я задаю вопросы, док. И лучше ответить на них, если хотите жить.<end>
+::[Запугивание]:: Здесь я задаю вопросы, док. И лучше отвечайте, если хотите жить.<end>
 
 =>q23_original
 ::Your threat startles him, and it takes a further moment for him to respond.:: What... what do you want to know?<end>
 
 =>q23
-::Ваша угроза застала его врасплох, ему требуется ещё мгновение, чтобы ответить.:: Что... что вам надо?<end>
+::Ваша угроза застала его врасплох, ему требуется ещё мгновение, чтобы ответить: :: Что... что вам надо?<end>
 
 =>a24_original
 Actually, I'm here to kill you. ::Attack!::<end>
