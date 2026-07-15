@@ -56,7 +56,7 @@ It's my father's ring, but it's been worn by my-- ::He pauses.::
 brother<end>
 
 =>q8
-моего покойного брата<end>
+у моего покойного брата<end>
 
 =>q9_original
 . I *must* have it. ::He appears even larger now. The casted shadows must be playing tricks on your eyes.::<end>
@@ -68,7 +68,7 @@ brother<end>
 I killed a madman who's done twisted things to your sibling...<end>
 
 =>a10
-Я убил$(#/а) безумца, что сотворил такое...<end>
+Я убил$(#/а) безумца, который сделал это...<end>
 
 =>q11_original
 ::He remains silent.::<end>
@@ -104,7 +104,7 @@ I ask for nothing. Here's the ring. ::Give him the gold ring.::<end>
 ::Leave.::<end>
 
 =>a16
-::Уйти::<end>
+::Уйти.::<end>
 
 =>q17_original
 Thank you for this.<end>
@@ -194,7 +194,7 @@ Yet you got separated, it seems.<end>
 We got separated amidst all of that, you see... and $(tempcontext.siblingName)... I don't know what happened.<end>
 
 =>q28
-::Он кивает. Ему требуется немного времени, чтобы ответить.:: Мы хотели исследовать развалины к югу отсюда, но там оказалось полно могильщиков. На обратном пути мы наткнулись на лагерь бандитов, они нас заметили и стали преследовать, крысово потомство. 
+::Он кивает. Ему требуется немного времени, чтобы ответить: ::Мы хотели исследовать развалины к югу отсюда, но там оказалось полно могильщиков. На обратном пути мы наткнулись на лагерь бандитов, они нас заметили и погнались за нами, -- крысово потомство. 
 
 И во время этой беготни мы разделились... и $(tempcontext.siblingName)... Я не знаю, что случилось.<end>
 
@@ -500,7 +500,7 @@ And you will, for the right price.<end>
 sister<end>
 
 =>q74
-моей покойной сестры<end>
+у моей покойной сестры<end>
 
 =>a75_original
 That's not important. What is is how much are you willing to pay for it?<end>
@@ -532,7 +532,7 @@ Hey, man.<end>
 Leave me alone.<end>
 
 =>q79
-::Из-под респиратора звучит холодный ответ.::
+::Из-под респиратора звучит холодный ответ: ::
 
 Оставьте меня в покое.<end>
 
