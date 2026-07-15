@@ -50,7 +50,7 @@ I was just passing through, I'll be going now.<end>
 I'm gonna ask you one last time: Who are you?<end>
 
 =>q9
-Спрашиваю в последний раз: Кто ты?<end>
+Спрашиваю в последний раз: кто ты?<end>
 
 =>a10_original
 They call me Adahn.<end>
@@ -74,7 +74,7 @@ And what are you doing here?<end>
 I was just scavenging. Didn't know this place was taken.<end>
 
 =>a13
-Я просто мародёрствую. Не знал$(#/а), что это место уже занято.<end>
+Я просто мусорничаю. Не знал$(#/а), что это место уже занято.<end>
 
 =>q14_original
 And how did you get down here? You can only open the hatch with the key...<end>
@@ -164,7 +164,7 @@ Okay, he's dead. But I didn't kill him. The sentry bots got him first.<end>
 Liar! <end>
 
 =>q28
-Лжец! <end>
+Врёшь! <end>
 
 =>q29_original
 Even if you're telling the truth, tell me why we shouldn't kill you right here, right now?<end>
@@ -212,13 +212,13 @@ Not on your life. ::Attack!::<end>
 Ain't good enough, $(#jack/sister)...<end>
 
 =>q36
-Не очень-то хорошо, $(#парень/сестрёнка)...<end>
+Так не пойдёт, $(#парень/сестрёнка)...<end>
 
 =>a37_original
 ::[Intimidate]:: Because you know I'd kill you both.<end>
 
 =>a37
-::[Запугивание]:: Потому что я уложу вас обоих.<end>
+::[Запугивание]:: Потому что я уложу вас обоих, и ты это знаешь.<end>
 
 =>q38_original
 ::He glances at his comrade with the crossbow.:: <end>
