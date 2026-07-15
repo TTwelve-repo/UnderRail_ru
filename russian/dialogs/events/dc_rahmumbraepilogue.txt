@@ -10,7 +10,7 @@
 Tchort is no more, and the Cube has been returned to the Faceless.<end>
 
 =>q2
-::Знакомый силуэт материализуется перед вами. Вы вздрагиваете, но, как показал опыт вашей предыдущей встречи, его появление, пусть неожиданное и резкое, не несёт опасности. Вновь, исходящий из ниоткуда голос обращается к вам.::
+::Знакомый силуэт материализуется перед вами. Вы вздрагиваете, но, как показал опыт вашей предыдущей встречи, его появление, пусть неожиданное и резкое, не несёт опасности. Вновь, исходящий из ниоткуда голос обращается к вам: ::
 
 Чорта больше нет, и Куб был возвращён безликим.<end>
 
@@ -18,7 +18,7 @@ Tchort is no more, and the Cube has been returned to the Faceless.<end>
 I was wondering when you'd show up again.<end>
 
 =>a3
-А я всё гадал$(#/а), когда же ты появишься снова.<end>
+А я всё гадал$(#/а), когда же ты снова появишься?<end>
 
 =>q4_original
 Other events await my, or I should say our participation. That is why I am here.<end>
@@ -50,15 +50,15 @@ As he calls himself.<end>
 Tanner must die, and few but myself can make sure that occurs. I am a powerful being, and so is he. We are the same kin, yet he conceals it better; the reasons should be obvious.<end>
 
 =>q8
-::Прежде чем очевидный вопрос срывается с ваших губ, вы слышите ответ.::
+::Прежде чем очевидный вопрос срывается с ваших губ, вы слышите ответ: ::
 
-Таннер должен быть убит, и мало кто кроме меня способен это выполнить. Я могущественное существо, и он тоже. Я и он одной расы, но он скрывает это лучше; его мотивы должны быть очевидны.<end>
+Таннер должен быть убит, и мало кто кроме меня способен это выполнить. Я могущественное существо, и он тоже. Я и он одного рода, но он скрывает это лучше; его мотивы должны быть очевидны.<end>
 
 =>a9_original
 ::[Intelligence]:: I reckon you've been after him for a long time. He must've done something severe to deserve such an assassin. Betray your kind, perhaps?<end>
 
 =>a9
-::[Интеллект]:: Полагаю, ты гонишься за ним уже долгое время. Что-то он такое сделал, чтобы заслужить подобное внимание. Он предал свою расу?<end>
+::[Интеллект]:: Полагаю, ты гонишься за ним уже долгое время. Что-то он такое сделал, чтобы заслужить подобное внимание. Он предал свой народ?<end>
 
 =>q10_original
 His crime is severe, that I will say, but nothing more.<end>
