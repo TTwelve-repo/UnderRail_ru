@@ -4,7 +4,7 @@
 Good to see you again, $(context.player.Name). What brings you back to Rail Crossing?<end>
 
 =>q1
-::Капитан Эрве приветствует вас в своём кабинете с улыбкой на лице.::
+::Капитан Эрве приветствует вас в своём кабинете с улыбкой на лице: ::
 
 Рад видеть вас снова, $(context.player.Name). Что вновь привело вас на Переезд?<end>
 
@@ -18,13 +18,13 @@ Good to see you again, $(context.player.Name). What brings you back to Rail Cros
 I wanted to talk to you about a certain debt I have at the bar here.<end>
 
 =>a3
-Я хотел$(#/а) поговорить с вами насчёт одного моего барного долга.<end>
+Я хотел$(#/а) поговорить с вами насчёт одного моего долга в баре.<end>
 
 =>q4_original
 Yes, I've already heard about it. So what's the problem? Why do you refuse to pay?<end>
 
 =>q4
-Да, я уже имел удовольствие об этом услышать. Так в чём дело? Почему вы не хотите платить?<end>
+Да, я уже имел удовольствие об этом слышать. Так, в чём дело? Почему вы не хотите платить?<end>
 
 =>a5_original
 I have no money at the moment.<end>
@@ -100,13 +100,13 @@ I see the supplies have finally arrived.<end>
 Yes! And not a moment too soon. I've been receiving more and more reports of Ironhead activity near Rail Crossing. It even seems that several different clans are converging on this location. These Ironheads, they are like packs of rathounds: They've sensed blood in the air and are moving in for the kill.<end>
 
 =>q16
-Да! Лучше поздно, чем никогда. Я получаю всё больше и больше сообщений об активности Железноголовых рядом с Переездом. Кажется, несколько разных кланов сходятся в этом месте. Эти Железноголовые, они словно стаи крысоволков: почуяв запах крови, они набрасываются на жертву.<end>
+Да! Лучше поздно, чем никогда. Я получаю всё больше и больше сообщений об активности Железноголовых рядом с Переездом. Кажется, несколько разных кланов сходятся поблизости. Эти Железноголовые, они словно стаи крысоволков -- почуяв запах крови, они набрасываются на жертву.<end>
 
 =>q17_original
 We are still short on men, but at least we have some serious firepower in our hands. I hope that will be enough.<end>
 
 =>q17
-У нас всё ещё мало людей, но хотя бы в наших руках серьёзная огневая мощь. Надеюсь, этого будет достаточно.<end>
+У нас всё ещё мало людей, но по крайней мере в наших руках серьёзная огневая мощь. Надеюсь, этого будет достаточно.<end>
 
 =>a18_original
 I talked to Major Clifton again about the supplies.<end>
@@ -184,7 +184,7 @@ I was afraid of that. But where is it now, and what about the cargo?<end>
 I took care of the hijackers. It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. The supplies look mostly untouched.<end>
 
 =>a30
-Я позаботил$(#ся/ась) о похитителях. Он к югу от Переезда; там есть поворот на запад в пещеру и что-то вроде склада. Груз выглядел нетронутым.<end>
+Я позаботил$(#ся/ась) о похитителях. Он к югу от Переезда -- там есть поворот на запад в пещеру и что-то вроде склада. Груз выглядел нетронутым.<end>
 
 =>q31_original
 Great! In that case, contact the Protectorate again and have them take care of it. It's best that way. Don't think the Protectorate would appreciate us taking the train without their knowledge<end>
@@ -262,7 +262,7 @@ I informed Major Clifton at South Railroad Outpost. The Protectorate went there 
 Excellent! ::For the first time, a smile finally appears on the captain's face.:: I'm just glad all this is coming to an end. You've done it again, $(context.player.Name). You are one incredibly capable individual. Thank you very much! I promised a reward, and here it is. ::He gives you 400 charons.::<end>
 
 =>q43
-Отлично! ::Впервые улыбка появляется на лице капитана.:: Я рад, что всё это подходит к концу. Вы снова нам помогли, $(context.player.Name). Вы невероятно способный человек. Спасибо большое! Я обещал вам награду, вот она. ::Он отдаёт вам 400 харонов.::<end>
+Отлично! ::Впервые улыбка появляется на лице капитана.:: Я рад, что всё это подходит к концу. Вы снова нам помогли, $(context.player.Name). Вы невероятно способный человек. Спасибо большое! Я обещал вам награду, вот она. ::Он даёт вам 400 харонов.::<end>
 
 =>q44_original
 <end>
@@ -282,7 +282,7 @@ Oh, did the major tell you anything about when the supplies will arrive?<end>
 Wait. I have one more favor to ask of you...<end>
 
 =>q46
-::Улыбка длится не долго, вскоре сомнения заставляют её исчезнуть. Беспокойство появляется на его лице, и когда вы уже собирались уходить, он вас останавливает.::
+::Улыбка длится не долго, вскоре сомнения заставляют её исчезнуть, и беспокойство появляется на его лице. Когда вы уже собираетесь уходить, он останавливает вас: ::
 
 Подождите. Я должен просить вас ещё об одном одолжении...<end>
 
@@ -330,7 +330,7 @@ Thank you, I'll be waiting.<end>
 You think highly of me, perhaps too much. I don't think I can "speed up" anything.<end>
 
 =>a53
-Вы преувеличиваете мои возможности. Не думаю, что я могу «ускорить» что-либо.<end>
+Вы преувеличиваете мои возможности. Не думаю, что я смогу «ускорить» что-либо.<end>
 
 =>q54_original
 I understand. Even one simple information would suffice.<end>
@@ -342,13 +342,13 @@ I understand. Even one simple information would suffice.<end>
 It's south of Rail Crossing; there is a turn west into a cave and to what appears to be some warehouse. I came here for reinforcements.<end>
 
 =>a55
-Он к югу от Переезда; там есть поворот на запад в пещеру и что-то вроде склада. Я приш$(#ёл/ла) сюда за подкреплением.<end>
+Он к югу от Переезда -- там есть поворот на запад в пещеру и что-то вроде склада. Я приш$(#ёл/ла) сюда за подкреплением.<end>
 
 =>q56_original
 Great, go to South Railroad Outpost about that. If they said it's their investigation, then they should deal with the hijackers. And they are far better equipped for it anyway.<end>
 
 =>q56
-Отлично, обратитесь с этим на Форпост южной железной дороги. Если они сказали что это их расследование, тогда пусть они и разбираются с похитителями. И они всё равно гораздо лучше оснащены для этого.<end>
+Отлично, обратитесь с этим на Форпост южной железной дороги. Если они сказали, что это их расследование, тогда пусть они и разбираются с похитителями. И они всё равно гораздо лучше оснащены для этого.<end>
 
 =>q57_original
 We don't have the men to deal with the hijackers, but I'm sure the Protectorate wouldn't mind giving us a hand. It's their train after all. Go to South Railroad Outpost and tell them what you told me. They are far better equipped for dealing with the hijackers anyway.<end>
@@ -378,7 +378,7 @@ Yes. I think all this was an act against Protectorate, rather than against Rail 
 Indeed, it makes perfect sense. I don't know much about them, but I know they're all about fighting the Protectorate. They came from the North several years ago, just after Protectorate started building Fort Apogee in Upper Underrail.<end>
 
 =>q61
-В самом деле, всё сходится. Я не много знаю о них, но я знаю, что они всегда сражаются против Протектората. Они пришли с Севера несколько лет назад, сразу после того как Протекторат начал строить форт Апогей в Верхней Подземке.<end>
+В самом деле, всё сходится. Мне мало что известно о них, но я знаю, что они всегда сражаются против Протектората. Они пришли с Севера несколько лет назад, сразу после того как Протекторат начал строить форт Апогей в Верхней Подземке.<end>
 
 =>q62_original
 All that aside, where is the train now, and what about the cargo?<end>
@@ -396,7 +396,7 @@ I'm sure, but I don't know their exact motives.<end>
 I don't know much about the Free Drones, but what I know is they're all about fighting the Protectorate. They came from the North several years ago, just after Protectorate started building Fort Apogee in Upper Underrail.<end>
 
 =>q64
-Я не много знаю о Вольных шершнях, но я знаю, что они всегда сражаются против Протектората. Они пришли с Севера несколько лет назад, сразу после того как Протекторат начал строить форт Апогей в Верхней Подземке.<end>
+Мне мало что известно о Вольных шершнях, но я знаю, что они всегда сражаются против Протектората. Они пришли с Севера несколько лет назад, сразу после того как Протекторат начал строить форт Апогей в Верхней Подземке.<end>
 
 =>a65_original
 Even though the Faceless are gone, you seem troubled. Are there any other problems?<end>
@@ -408,7 +408,7 @@ Even though the Faceless are gone, you seem troubled. Are there any other proble
 I am relieved, believe me, more than it shows. But so many troubles befell Rail Crossing recently, and that is the reason why I'm not exactly jumping with joy. We basically trade one misfortune for another.<end>
 
 =>q66
-Это огромное облегчение, поверьте мне. Но слишком много проблем обрушилось на Переезд в последнее время, так что у меня нет причин прыгать от радости. Мы просто меняем одно несчастье на другое.<end>
+Это огромное облегчение, поверьте мне. Но слишком много бед обрушилось на Переезд в последнее время, так что у меня нет причин прыгать от радости. Мы просто меняем одно несчастье на другое.<end>
 
 =>a67_original
 Is it something I can help you with? You know you can trust me.<end>
@@ -432,7 +432,7 @@ Recently we've had problems with an increasing number of attacks on Rail Crossin
 Look, I don't know how you feel about the Protectorate, but what I did I did out of necessity. Rail Crossing is a small station - easy pickings - and we need a way to protect ourselves. To do that, we need weapons, ammo, medical supplies.... everything, pretty much. And those things you can't go around and pick like, like mushrooms.<end>
 
 =>q70
-Слушайте, я не знаю, как вы относитесь к Протекторату, но то что я сделал, я сделал из необходимости. Переезд -- маленькая станция и мы должны защитить себя. И для этого нам нужно оружие, патроны, медикаменты... довольно много всего. И этих вещей нельзя просто пойти и набрать как грибов.<end>
+Слушайте, я не знаю, как вы относитесь к Протекторату, но то, что я сделал, я сделал из необходимости. Переезд -- маленькая станция, и мы должны защитить себя. И для этого нам нужно оружие, патроны, медикаменты... довольно много всего. И этих вещей нельзя просто пойти и набрать как грибов.<end>
 
 =>q71_original
 <end>
@@ -452,7 +452,7 @@ The only thing I had been told was that a train loaded with supplies was due to 
 I do not know what is happening: Maybe it never departed, maybe something happened along the way, maybe... I just don't know.<end>
 
 =>q73
-Мне только сказали, что поезд, гружёный припасами, должен был приехать несколько дней назад, как я уже говорил. Насколько я знаю, поезд должен был отправиться с Форпоста южной железной дороги, который является небольшой базой Протектората к югу отсюда. Как я сказал, поезд не прибыл, и я не слышал ни слова от Протектората обо всей этой ситуации. Я не знаю, что происходит. Может быть, он никогда и не выезжал, может, что-то случилось по пути. Я не знаю.<end>
+Мне только сказали, что поезд, гружёный припасами, должен был прибыть несколько дней назад, как я уже говорил. Насколько я знаю, поезд должен был отправиться с Форпоста южной железной дороги, который является небольшой базой Протектората к югу отсюда. Как я сказал, поезд не прибыл, и я не слышал ни слова от Протектората обо всей этой ситуации. Я не знаю, что происходит. Может быть, он никогда и не выезжал; может, что-то случилось по пути. Я не знаю.<end>
 
 =>a74_original
 I will help you. We'll find out what happened.<end>
@@ -466,7 +466,7 @@ Great, great! Thank you! You will be rewarded for your assistance, I promise, ju
 I'll be here, in the office. Take care.<end>
 
 =>q75
-Отлично, отлично! Вы будете вознаграждены за помощь, я обещаю, только узнайте что случилось с поездом. Лучший способ добраться до Форпоста -- по рельсам на юг -- тем же путём должен был идти поезд, чтобы попасть сюда. Возвращайтесь ко мне, если узнаете что-нибудь важное, и, пожалуйста, поспешите -- на кону жизни людей.
+Отлично, отлично! Вы будете вознаграждены за помощь, я обещаю, только узнайте, что случилось с поездом. Лучший способ добраться до Форпоста -- по рельсам на юг -- тем же путём должен был идти поезд, чтобы попасть сюда. Возвращайтесь ко мне, если узнаете что-нибудь важное, и, пожалуйста, поспешите -- на кону жизни людей.
 
 Я буду здесь, в кабинете.<end>
 
@@ -534,7 +534,7 @@ I've informed the Protectorate of the missing train's location. They'll take car
 Excellent! ::For the first time, a smile finally appears on the captain's face.:: I'm just glad all this is coming to an end. You've done it again, $(context.player.Name). You are one incredibly capable individual. Thank you very much! I promised a reward, and here it is. ::He gives you 400 charons.::<end>
 
 =>q86
-Отлично! ::Впервые улыбка появляется на лице капитана.:: Я рад, что всё это подходит к концу. Вы снова нам помогли, $(context.player.Name). Вы невероятно способный человек. Спасибо большое! Я обещал вам награду, вот она. ::Он отдаёт вам 400 харонов.::<end>
+Отлично! ::Впервые улыбка появляется на лице капитана.:: Я рад, что всё это подходит к концу. Вы снова нам помогли, $(context.player.Name). Вы невероятно способный человек. Спасибо большое! Я обещал вам награду, вот она. ::Он даёт вам 400 харонов.::<end>
 
 =>q87_original
 You found it? Wow, you've been busy... What happened to it?<end>
@@ -552,7 +552,7 @@ The train was hijacked by some gang.<end>
 I was afraid of that, but I'm relieved the train has been found. I'm just glad all this is coming to an end. You've done it again $(context.player.Name), you seem to be an incredibly capable individual. Thank you very much! I promised a reward, so here it is. ::He gives you 400 charons.::<end>
 
 =>q89
-Я боялся этого, но я рад что поезд нашёлся. Я рад, что всё это подходит к концу. Вы снова нам помогли, $(context.player.Name). Вы невероятно способный человек. Спасибо большое! Я обещал вам награду, вот она. ::Он отдаёт вам 400 харонов.::<end>
+Я боялся этого, но я рад что поезд нашёлся. Я рад, что всё это подходит к концу. Вы снова нам помогли, $(context.player.Name). Вы невероятно способный человек. Спасибо большое! Я обещал вам награду, вот она. ::Он даёт вам 400 харонов.::<end>
 
 =>a90_original
 The Free Drones hijacked the train.<end>
@@ -576,13 +576,13 @@ They are fighting against the Protectorate, claiming that they're oppressors.<en
 Indeed, it makes perfect sense. The only thing I know about them is that they are an anarchist group from North Underrail and that they are fighting the Protectorate. They oppose the Union and, even though their numbers in South Underrail are low at the moment, I fear they will grow large enough to become a serious threat.<end>
 
 =>q93
-В самом деле, всё сходится. Единственное, что я знаю, это то что они анархисты из Северной Подземки и что они воюют с Протекторатом. Они выступают против Союза, и, хотя их численность в Южной Подземке сейчас невелика, но, боюсь, они могут со временем разрастись и стать серьёзной угрозой.<end>
+В самом деле, всё сходится. Единственное, что я знаю, это то, что они анархисты из Северной Подземки и что они воюют с Протекторатом. Они выступают против Союза, и, хотя их численность в Южной Подземке сейчас невелика, но, боюсь, они могут со временем разрастись и стать серьёзной угрозой.<end>
 
 =>q94_original
 All in all, I'm relieved the train has been found. You've done it again $(context.player.Name), you seem to be an incredibly capable individual. Thank you very much! I promised a reward, so here it is. ::He gives you 400 charons.::<end>
 
 =>q94
-В конце концов, я рад что поезд нашёлся. Вы снова нам помогли, $(context.player.Name). Вы невероятно способный человек. Спасибо большое! Я обещал вам награду, вот она. ::Он отдаёт вам 400 харонов.::<end>
+В конце концов, я рад что поезд нашёлся. Вы снова нам помогли, $(context.player.Name). Вы невероятно способный человек. Спасибо большое! Я обещал вам награду, вот она. ::Он даёт вам 400 харонов.::<end>
 
 =>a95_original
 I'm sure, but I don't know their exact motives.<end>
@@ -594,7 +594,7 @@ I'm sure, but I don't know their exact motives.<end>
 The only thing I know about them is that they are an anarchist group from North Underrail and that they are fighting the Protectorate. They oppose the Union and, even though their numbers in South Underrail are low at the moment, I fear they will grow large enough to become a serious threat.<end>
 
 =>q96
-Единственное, что я знаю, это то что они анархисты из Северной Подземки и что они воюют с Протекторатом. Они выступают против Союза, и, хотя их численность в Южной Подземке сейчас невелика, но, боюсь, они могут со временем разрастись и стать серьёзной угрозой.<end>
+Единственное, что я знаю, это то, что они анархисты из Северной Подземки и что они воюют с Протекторатом. Они выступают против Союза, и, хотя их численность в Южной Подземке сейчас невелика, но, боюсь, они могут со временем разрастись и стать серьёзной угрозой.<end>
 
 =>a97_original
 I've informed the Protectorate of the missing train's location. Their soldiers have managed to recover it and it's on its way back to the outpost.<end>
@@ -612,13 +612,13 @@ I've talked to Major Clifton in South Railroad Outpost.<end>
 Great, what did he say?<end>
 
 =>q99
-Здорово, что он сказал?<end>
+Отлично, что он сказал?<end>
 
 =>a100_original
 The train left the outpost as planned, but they aren't sure what happened to it.<end>
 
 =>a100
-Поезд отправился с форпоста, как и планировалось, но они не знают что с ним случилось.<end>
+Поезд отправился с форпоста, как и планировалось, но они не знают, что с ним случилось.<end>
 
 =>q101_original
 It is what I feared. Someone must've intercepted the train. We need to keep searching. Who knows how long it'll take for the Protectorate to get to the bottom of this.<end>
@@ -630,13 +630,13 @@ It is what I feared. Someone must've intercepted the train. We need to keep sear
 What if they're lying? Maybe they are trying to trick you somehow.<end>
 
 =>a102
-А что если они врут? Может быть, они пытаются как-то вас обмануть.<end>
+А что, если они врут? Может быть, они пытаются как-то вас обмануть.<end>
 
 =>q103_original
 I do not think so. ::He pauses.:: But even if it is true, there is nothing we can do about it other than try to find out what happened to the train. And hope, basically.<end>
 
 =>q103
-Я так не думаю. ::Он замолкает.:: Но даже если это так, мы ничего не можем с этим поделать, кроме как попытаться выяснить что случилось с поездом. И надеяться.<end>
+Я так не думаю. ::Он замолкает.:: Но даже если это так, мы ничего не можем с этим поделать, кроме как попытаться выяснить, что случилось с поездом. И надеяться.<end>
 
 =>a104_original
 I'm on the case.<end>
@@ -690,13 +690,13 @@ I've decided to help you with the missing train.<end>
 Do you know anything about the Free Drones?<end>
 
 =>a112
-Что ты знаешь о Вольных шершнях?<end>
+Что вы знаете о Вольных шершнях?<end>
 
 =>q113_original
 The only thing I know about them is that they are an anarchist group from North Underrail and that they are fighting the Protectorate. They oppose the Union and, even though their numbers in South Underrail are low at the moment, I fear they will grow large enough to become a serious threat.<end>
 
 =>q113
-Единственное, что я знаю, это то что они анархисты из Северной Подземки и что они воюют с Протекторатом. Они выступают против Союза, и, хотя их численность в Южной Подземке сейчас невелика, но, боюсь, они могут со временем разрастись и стать серьёзной угрозой.<end>
+Единственное, что я знаю, это то, что они анархисты из Северной Подземки и что они воюют с Протекторатом. Они выступают против Союза, и, хотя их численность в Южной Подземке сейчас невелика, но, боюсь, они могут со временем разрастись и стать серьёзной угрозой.<end>
 
 =>q114_original
 That is all I know.<end>
@@ -810,7 +810,7 @@ As I said. Storming the shop is not an option anymore, so you'll have to figure 
 We humans should stand together against this Faceless offensive. If your station falls today, my station could be next.<end>
 
 =>a132
-Мы, люди, должны объединиться против этой агрессии безликих. Если ваша станция падёт сегодня, моя станция может быть следующей.<end>
+Мы, люди должны объединиться против этой агрессии безликих. Если ваша станция падёт сегодня, моя станция может быть следующей.<end>
 
 =>q133_original
 ::He gives you a suspicious look.:: I guess that makes sense.<end>
@@ -828,7 +828,7 @@ I'd expect to be paid, of course.<end>
 That I can understand. If you can somehow make the Faceless leave or take them all out I'll pay you three hundred charons. If you can get Buzzer out of there alive, assuming he still is, I'll throw in extra one hundred charons. Sound good?<end>
 
 =>q135
-Это я могу понять. Если вы сможете как-то прогнать безликих или уничтожите их всех, я заплачу вам триста харонов. Если у вас получится спасти Баззера, если он ещё жив, разумеется, я добавлю ещё сто харонов. Так пойдёт?<end>
+Это я могу понять. Если вы сможете как-то прогнать безликих или уничтожите их всех, я заплачу вам триста харонов. Если у вас получится спасти Баззера, -- если он ещё жив, разумеется, -- я добавлю ещё сто харонов. Так пойдёт?<end>
 
 =>q136_original
 <end>
@@ -864,7 +864,7 @@ Hmm... fair enough. Chances are you'll just get killed and I won't have to pay y
 Forget it, $(#boy/girl). It's three hundred and one hundred. Take it or leave it.<end>
 
 =>q141
-Забудь, $(#приятель/подруга). Триста и сто. Соглашайтесь или уходите.<end>
+Не пойдёт, $(#приятель/подруга). Триста и сто. Соглашайтесь или уходите.<end>
 
 =>a142_original
 I'll take it.<end>
@@ -912,7 +912,7 @@ Let me lay down my offer again: You get three hundred charons if you get rid of 
 I'm just wondering why you're interested in helping us so much...<end>
 
 =>q149
-Мне просто интересно, почему вы так рвётесь нам помочь...<end>
+Мне просто интересно, почему вы так рвётесь нам помочь?..<end>
 
 =>a150_original
 Where is Buzzer's shop exactly?<end>
@@ -944,7 +944,7 @@ Also, they had at least two plasma walkers patrolling the depot so be careful if
 Myles has some ideas how to disable those when we discussed a possibility of a second attack. You should ask him about what he had in mind. He lives on the north side of the station.<end>
 
 =>q154
-Ещё я видел, как минимум, двух плазменных роботов, патрулирующих депо, так что будьте осторожны, если полезете туда.
+Ещё я видел как минимум двух плазменных роботов, патрулирующих депо, так что будьте осторожны, если полезете туда.
 
 У Майлза была идея как отключить их, когда мы обсуждали возможность второго штурма. Вам стоит расспросить его об этом. Он живёт в северной части поселения.<end>
 
@@ -970,7 +970,7 @@ I got rid of the Faceless for you.<end>
 Yeah, I saw some of them retreating. I don't know what you did, but well done. <end>
 
 =>q158
-Да, я видел как они отступают. Я не знаю, как вы это сделали, но вы молодец. <end>
+Да, я видел, как они отступают. Я не знаю, как вы это сделали, но вы молодец. <end>
 
 =>q159_original
 You did us a great favor and we won't forget this.<end>
@@ -1006,7 +1006,7 @@ You didn't save Buzzer, though, so no bonus money for you.<end>
 And since you saved Buzzer in the process, here's your bonus as well - two hundred charons.<end>
 
 =>q164
-И поскольку вы спасли Баззера, вот ваша премия -- двести харонов.<end>
+И, поскольку вы спасли Баззера, вот ваша премия -- двести харонов.<end>
 
 =>a165_original
 Pleasure doing business with you.<end>
@@ -1024,7 +1024,7 @@ Indeed...<end>
 And since you saved Buzzer in the process, here's your bonus as well - one hundred charons.<end>
 
 =>q167
-И поскольку вы спасли Баззера, вот ваша премия -- сто харонов.<end>
+И, поскольку вы спасли Баззера, вот ваша премия -- сто харонов.<end>
 
 =>q168_original
 Here's the four hundred charons I promised you. <end>
@@ -1048,7 +1048,7 @@ I'm looking for Terry and Lora Baker, merchants from SGS. Have you seen them rec
 They come here regularly to trade, usually with Buzzer, but I haven't seen them recently, no.<end>
 
 =>q171
-Они регулярно приезжают сюда торговать, как правило с Баззером, но я не видел их в последнее время, нет.<end>
+Они регулярно приезжают сюда торговать -- как правило, с Баззером, но я не видел их в последнее время, нет.<end>
 
 =>a172_original
 Buzzer died before I had the chance to talk to him about the Faceless attack, leaving me with some unanswered questions.<end>
@@ -1108,13 +1108,13 @@ I understand. I'm going to go and ask around a bit.<end>
 How can you be so sure?<end>
 
 =>q181
-Как ты можешь быть так уверен?<end>
+Как вы можете быть так уверены?<end>
 
 =>a182_original
 I am not, but you said something yourself - he deals in strange electronics. I think the most plausible explanation is that someone brought this device to his store; it likely didn't exchange hands, as the Faceless would've found it by now.<end>
 
 =>a182
-Нет, но вы же сами сказали -- он торгует странной электроникой. Думаю, что самое разумное объяснение в том, что кто-то принёс это устройство в его магазин; вероятно, сделка не состоялась, иначе бы безликие уже нашли его.<end>
+Я не уверен$(#/а), но вы же сами сказали -- он торгует странной электроникой. Думаю, что самое разумное объяснение в том, что кто-то принёс это устройство в его магазин; вероятно, сделка не состоялась, иначе бы безликие уже нашли его.<end>
 
 =>q183_original
 You could ask around, but Buzzer had a lot of customers, and a lot of them were weird folks. ::He shrugs.:: My mind is preoccupied with other things now, however, so you're on your own in this.<end>
@@ -1132,13 +1132,13 @@ Nothing useful, unfortunately.<end>
 ::He shrugs.:: Sorry, my mind is preoccupied with other things now, so I can't help you much, but it seems to me like the only thing you've got left is to ask around the station. Lots of weird folks come to Buzzer's shop, so perhaps someone saw something you could find useful.<end>
 
 =>q185
-::Он пожимает плечами.:: Извините, у меня сейчас полно других забот, так что тут я вам не помощник. Думаю, вам стоит поспрашивать на станции. У Баззера бывает много странных клиентов, так что может, кто-нибудь видел что-нибудь полезное.<end>
+::Он пожимает плечами.:: Извините, у меня сейчас полно других забот, так что тут я вам не помощник. Думаю, вам стоит поспрашивать на станции. У Баззера бывает много странных клиентов, так что, может, кто-нибудь видел что-нибудь полезное.<end>
 
 =>q186_original
 Buzzer was known to trade in strange electronics - maybe he got hold of something they wanted. Did you search the shop or learn something from the Faceless themselves?<end>
 
 =>q186
-Баззер был известен тем, что торговал редкой электроникой, может быть, он раздобыл что-то, что им было нужно. Вы осмотрели магазин или узнали что-нибудь от самих безликих?<end>
+Баззер был известен тем, что торговал редкой электроникой, -- может быть, он раздобыл что-то, что им было нужно. Вы осмотрели магазин или узнали что-нибудь от самих безликих?<end>
 
 =>a187_original
 Catch you later.<end>
