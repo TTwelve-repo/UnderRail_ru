@@ -14,7 +14,7 @@
 ::The metal hand grips your forehead and your thoughts begin to swirl in your brain. It's like someone put your mind on fast-forward, except that the thoughts are not moving in sequence, but instead your brain is jumping from one to another, seemingly randomly. They switch so fast you can barely make out what they are.::<end>
 
 =>q3
-::Металлическая рука хватает вас за лоб, и ваши мысли начинают кружиться в мозгу. Как будто кто-то поставил ваш разум на быструю перемотку, только мысли движутся не в логичной последовательности, а вместо этого ваш мозг прыгает от одной к другой, казалось бы, случайным образом. Они сменяются так быстро, что едва можно различить о чём они.::<end>
+::Металлическая рука хватает вас за лоб, и ваши мысли начинают кружиться в мозгу. Как будто кто-то поставил ваш разум на быструю перемотку, только мысли движутся не в логичной последовательности, а вместо этого ваш мозг прыгает от одной к другой, казалось бы, случайным образом. Они сменяются так быстро, что едва можно различить, о чём они.::<end>
 
 =>q4_original
 ::[Thought Control] Thanks to your training, you manage to compose yourself somewhat. The Faceless seem to be searching your memory for an item of great importance, but you cannot tell what it is. You feel the urgency of his quest.::<end>
@@ -44,7 +44,7 @@ Thank you for cooperating, $(context.player.Name). We will be leaving now.<end>
  But before we leave, I'm afraid we must deal with our unwilling host.<end>
 
 =>q8
- Но прежде чем мы уйдём, я боюсь, мы должны покончить с нашим невольным хозяином.<end>
+ Но прежде чем мы уйдём, я боюсь, мы должны покончить с хозяином этого дома.<end>
 
 =>q9_original
 <end>
@@ -101,7 +101,7 @@ This is not acceptable.<end>
 Это неприемлемо.<end>
 
 =>a18_original
-Look...<end>
+Послушай...<end>
 
 =>a18
 И ещё...<end>
@@ -140,7 +140,7 @@ Then you must die as well. <end>
 ::As his voice retreats from your mind, you can feel a rush of hostile thoughts.::<end>
 
 =>q24
-::Его голос покидает вашу голову, и вы можете почувствовать наплыв враждебных мыслей.::<end>
+::Его голос покидает вашу голову, и вы чувствуете наплыв враждебных мыслей.::<end>
 
 =>a25_original
 ::Fight!::<end>
@@ -212,13 +212,13 @@ I understand. ::Let them wrap up their business and be on their way.::<end>
 ::As the voice gets louder, it starts making sense.:: Sss.. sub-sub-sub...Ssssubmit...<end>
 
 =>q36
-::Голос становится громче и постепенно слова обретают смысл.:: П-п-п... под-под-под... П-подчинись...<end>
+::Голос становится громче, и постепенно слова обретают смысл: ::П-п-п... под-под-под... П-подчинись...<end>
 
 =>a37_original
 ::Allow his excursion into your mind to continue.::<end>
 
 =>a37
-::Позволить ему продолжить свою экскурсию в ваш разум.::<end>
+::Позволить ему продолжить свой экскурс в ваш разум.::<end>
 
 =>q38_original
 ...Submit... to the questioning...<end>
