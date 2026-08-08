@@ -8,7 +8,7 @@ We've checked 5K of the north tunnel, commander. All is clear. There are no new 
 ::Continue::<end>
 
 =>a2
-::Продолжить::<end>
+::Продолжить.::<end>
 
 =>q3_original
 Got hit by a couple of aftershocks, but they weren't anything serious.<end>
@@ -44,10 +44,10 @@ Wait... this is not an aftershock...<end>
 ::Continue::<end>
 
 =>a8
-::Продолжить::<end>
+::Продолжить.::<end>
 
 =>a9_original
 ::Skip cutscene::<end>
 
 =>a9
-::Пропустить сцену::<end>
+::Пропустить сцену.::<end>

@@ -86,7 +86,7 @@ Very well. <end>
 Go get some rest, $(context.player.Name). Come and see me later and I'll let you know what we decided.<end>
 
 =>q15
-Идите отдыхать, $(context.player.Name). Потом зайдёте ко мне, и я скажу вам, что мы решили.<end>
+Идите отдыхать, $(context.player.Name). Потом зайдите ко мне, и я скажу вам, что мы решили.<end>
 
 =>a16_original
 ::Leave.::<end>

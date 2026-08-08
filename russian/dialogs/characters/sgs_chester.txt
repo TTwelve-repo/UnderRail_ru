@@ -10,7 +10,7 @@ So long.<end>
 There's a small dirty spade leaned against the shack wall.::<end>
 
 =>q2
-::Несмотря на то, что в глазах этого мужчины заметен отблеск некогда живого пламени, живыми их никак не назовёшь -- их взгляд пуст и направлен на нетронутую бутылку холодного самогона; он ещё даже не опускал респиратор.
+::Несмотря на то, что в глазах этого мужчины мерцают отблески пламени, живыми их никак не назовёшь -- их взгляд пуст и направлен на нетронутую бутылку холодного самогона; он ещё даже не опускал респиратор.
 
 К стене хибары прислонена маленькая грязная лопата.::<end>
 
@@ -178,7 +178,7 @@ Life of a scavenger, it is full of risk and danger every step of the way. And...
 ::He takes a sip of his brew.:: But that's all we could ever do.<end>
 
 =>q26
-Жизнь мусорщика, она полна риска и опасностей на каждом шагу. И... хм.
+Жизнь мусорщика -- она полна риска и опасностей на каждом шагу. И... гм...
 
 ::Он делает глоток из бутылки.:: Но это всё, что мы умели делать.<end>
 
@@ -208,7 +208,7 @@ He <end>
 had a... ::He smiles.:: a great sense of direction in the caves... ::And then his stare drops.:: but for some reason it failed then and there. ::He pauses.:: After I waited for, I don't know, half an hour at our rendezvous point, I came back. The bandits... they were nowhere to be seen, and neither was $(tempcontext.siblingName).<end>
 
 =>q30
-было... ::Он улыбается.:: отличное чувство направления... ::Он опускает глаза.:: но по какой-то причине оно не сработало. ::Он делает паузу.:: Прождав, наверно, с полчаса в нашем обусловленном месте, я вернулся. Бандиты... их нигде не было, как не было и $(tempcontext.siblingName).<end>
+было... ::Он улыбается.:: отличное чувство направления... ::Он опускает глаза.:: но по какой-то причине оно его подвело. ::Он делает паузу.:: Прождав, наверно, с полчаса в нашем обусловленном месте, я вернулся. Бандиты... их нигде не было, как не было и $(tempcontext.siblingName).<end>
 
 =>a31_original
 There was this water treatment plant nearby...<end>
@@ -360,7 +360,7 @@ Niiiiice. Here you go. ::Give him the gold ring.::<end>
 Hundred fifty it is.<end>
 
 =>a52
-Тогда сто пятьдесят.<end>
+Значит, сто пятьдесят.<end>
 
 =>q53_original
 ::He counts one hundred fifty charons.:: <end>
