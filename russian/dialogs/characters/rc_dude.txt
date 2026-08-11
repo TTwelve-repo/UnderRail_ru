@@ -3402,7 +3402,7 @@ I've opened the locker.<end>
 Mushroom brew. Freaking mushroom brew. Twenty bottles! Why is it in a warehouse full of traps? And mushroom brew? How did you *really* know about all this?<end>
 
 =>a542
-Грибной самогон. Долбаный грибной самогон. Двадцать бутылок! Почему он был на складе, полном ловушек? И грибной самогон? Как ты *действительно* узнал обо всём этом?<end>
+Грибной самогон. Долбаный грибной самогон. Двадцать бутылок! Почему он был на складе, полном ловушек? И -- грибной самогон? Как ты *действительно* узнал обо всём этом?<end>
 
 =>q543_original
 Visions man, visions. I don't know about the mines though... I didn't put them there, if that's what you're implying. Um, can I have the brew now?<end>
@@ -3420,25 +3420,25 @@ Oh well, just take it. ::Give him the brew.::<end>
 Thank you very much, man. Now, if you'd excuse me, I have to test the quality of this beauty. Te-he.<end>
 
 =>q545
-Спасибо большое, $(#приятель/подруга). Теперь, если ты не против, мне нужно проверить качество этой красоты. Хе-хе.<end>
+Спасибо большое, $(#приятель/подруга). Теперь, если ты не против, мне нужно проверить эту красоту на качество. Хе-хе.<end>
 
 =>q546_original
 ::He does not get the chance to taste the nectar, however: ::<end>
 
 =>q546
-::Однако, ему не дано отведать нектара: ::<end>
+::Однако ему не дано отведать нектара. ::<end>
 
 =>q547_original
 ::In an instant he becomes voiceless, his joyful eyes turn vacant, and his smile collapses into utter slack-jawedness; he then slumps forward with his hair dropping over and concealing his face, thus marking the beginning of another session - another vision. Fortunately, this time around his words reach you with more clarity than previously.::<end>
 
 =>q547
-::В одно мгновение он лишается дара речи, его радостный взгляд становится пустым, а улыбка превращается в отвисшую челюсть; после чего он резко склоняется вперёд, и его волосы закрывают лицо, что знаменует начало нового сеанса - нового видения. К счастью, на этот раз его слова доходят до вас с большей ясностью, чем прежде.::<end>
+::В одно мгновение он лишается дара речи, его радостный взгляд стекленеет, а место улыбки занимает отвисшая челюсть; он тяжело падает на стол, и его волосы закрывают лицо, знаменуя начало нового приступа -- нового видения. К счастью, на этот раз его слова звучат с большей ясностью, чем прежде.::<end>
 
 =>q548_original
 Homes... we must find... Caves... we must reach... like, seriously... A lot of walking... Ingredients... $(#he/she) must fetch... ::He giggles.:: Journey... journey... ::He shrugs.:: Journey.<end>
 
 =>q548
-Дома... мы должны найти... Пещеры... мы должны добраться... типа, серьёзно... Это много ходьбы... ингредиенты... должны заполучить... ::Он хихикает:: Путешествие... путешествие... ::Он пожимает плечами:: Путешествие.<end>
+Дома... мы должны найти... Пещеры... мы должны добраться... типа, серьёзно... Это много ходьбы... ингредиенты... должны заполучить... ::Он хихикает.:: Путешествие... путешествие... ::Он пожимает плечами.:: Путешествие.<end>
 
 =>q549_original
 ::He lifts his head. Life settles back into his desolate eyes and a smile reconstructs itself out of a drooling mess. His eyes focus, and so do his thoughts. But...::
@@ -3448,11 +3448,11 @@ But first we must drink, man.
 ::It's as though a spark has ignited his gaze, the life in him, and he snaps out of it: Only now does he appear to be fully himself again. He gawks at you, confused as a hopper in front of a distorted mirror...::<end>
 
 =>q549
-::Он поднимает голову. В его опустошённые глаза возвращается жизнь, а место слюнявой гримасы занимает улыбка. Его взгляд фокусируется, как и его разум. Но...::
+::Он поднимает голову. В его пустых глазах загорается жизнь, а на место слюнявой гримасы возвращается улыбка. Его взгляд фокусируется, как и его разум, но...::
 
-Но сперва мы должны выпить, $(#брат/сестра).
+Но сперва нам надо выпить, $(#брат/сестра).
 
-::Это, подобно искре, разжигает его взгляд, саму жизнь в нём, и заставляет очнуться: только теперь он, кажется, полностью пришёл в себя. Он таращится на вас, сбитый с толку, как пещерник перед кривым зеркалом...::<end>
+::Будто какая-то искра зажгла его взгляд, саму жизнь в нём, и заставила очнуться -- только теперь он, кажется, полностью пришёл в себя. Он таращится на вас, сбитый с толку, как пещерник перед кривым зеркалом...::<end>
 
 =>q550_original
 ::...and smiles.::
@@ -3474,7 +3474,7 @@ Cheers!<end>
 Hold on a second there, Dude. I put my life on the line for this; I expect a compensation.<end>
 
 =>a552
-Подожди-ка, Чувак. Я рисковал$(#/а) своей жизнью ради него; я ожидаю вознаграждение.<end>
+Подожди-ка, Чувак. Я рисковал$(#/а) своей жизнью ради него, и я ожидаю вознаграждение.<end>
 
 =>q553_original
 Listen, I got nothing for you. I'm broke. Life is hard, man, life is hard. Now, em, can I have the brew, please?<end>
