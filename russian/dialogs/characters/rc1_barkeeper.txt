@@ -24,7 +24,7 @@ Well... ::He half-smiles.:: Is there anything you want? You're paying for everyt
 =>q4
 С тобой у меня проблем нет. Но Чуваку скажу, что в следующий раз я ему подсыплю крысиной отравы. Сечёшь?
 
-Ладно... ::Он криво улыбается.:: Тебе чего-нибудь надо? Только платить будешь сразу же!<end>
+Ладно... ::Он криво улыбается.:: Тебе чего-нибудь надо? Только никаких кредитов!<end>
 
 =>q5_original
 <end>
@@ -82,7 +82,7 @@ Heard any rumors lately?<end>
 Not really. Haven't had much in the way of visitors since the Faceless showed their... butts. Ugly butts, to be exact.<end>
 
 =>q13
-На самом деле, нет. У меня было не так уж много посетителей с тех пор как безликие притащили свои... рыла. Уродливые рыла, позволю себе заметить.<end>
+На самом деле, нет. У меня было не так уж много посетителей с тех пор, как безликие притащили свои... рыла. Уродливые рыла, позволю себе заметить.<end>
 
 =>q14_original
 The most recent rumor I've got is the one about Ginger cheating on his wife. He was found castrated in a stream north of the Rail Crossing train station. You know, near the Hanging Rat. He wasn't a bad guy, no, but boy did he have trouble keeping his pants on.<end>
@@ -102,7 +102,7 @@ All kinds of people visit Buzzer's shop. And this bar. That's the South for ya, 
 I remember...<end>
 
 =>q16
-Разные люди посещают магазин Баззера. Как и этот бар. Это Юг, $(#дружище/подруга). ::Он наклоняется через стойку по направлению к вам, но, на самом деле, на вас не смотрит -- он о чём-то размышляет.:: Хм-м-м... ::Он немного наклоняет голову назад, направляя отсутствующий взгляд в потолок. Затем он обращается к вам.::
+Всякие разные люди посещают магазин Баззера, как и этот бар. Это Юг, $(#дружище/подруга). ::Он наклоняется к вам через стойку, но на самом деле на вас не смотрит -- он о чём-то размышляет.:: Хм-м-м... ::Он немного наклоняет голову назад, направляя отсутствующий взгляд в потолок.::
 
 Я помню...<end>
 
@@ -110,7 +110,7 @@ I remember...<end>
 There was this group of people, scavenger type, who came to the bar. I saw them enter Buzzer's shop before that, just by pure chance. Can't... remember exactly when all this happened, but it was before the Faceless attack. Anyways, they were arguing about something, loudly, which kinda drew my attention, and I remember I overheard Buzzer's name being mentioned a few times. Wait, wait... even Myles was mentioned once, I think, but it was met with some kind of head-shaking, from what I recall.<end>
 
 =>q17
-Были тут такие типы, мусорщики, заходили в бар. Я видел, как они до этого заходили в магазин Баззера, -- по чистой случайности. Не помню точно, когда это было, но точно до всей этой истории с безликими. Так вот, они о чём-то спорили -- громко так, что и привлекло моё внимание, и я помню, что они называли имя Баззера. Подождите... кажется, был упомянут даже Майлз, следом последовало не одобряющее покачивание головой, как я понял.<end>
+Были тут такие типы, мусорщики, заходили в бар. Я видел, как они до этого заходили в магазин Баззера, -- по чистой случайности. Не помню, когда именно это было, но точно до всей этой истории с безликими. Так вот, они о чём-то спорили -- громко так, что и привлекло моё внимание, и я помню, что они называли имя Баззера. Подождите... кажется, был упомянут даже Майлз, после чего последовало неодобряющее покачивание головой, насколько я помню.<end>
 
 =>a18_original
 That sounds interesting. Anything else you know? What did they look like? Where did they go afterwards?<end>
@@ -124,7 +124,7 @@ Can't tell you anything specific about their appearance. They looked like scaven
 I... think one of them had a green mohawk. Yeah.<end>
 
 =>q19
-Ничего конкретного про их внешний вид сказать не могу. Как по мне, то они выглядели как мусорщики. У них был с собой какой-то хлам, тяжёлые сумки, но кроме этого я ничего не приметил. Кажется, их было трое... может, четверо. Вроде бы среди них была женщина. Возможно.
+Ничего конкретного про их внешний вид сказать не могу. Как по мне, то они выглядели как мусорщики. У них был с собой какой-то хлам, тяжёлые сумки, но кроме этого я ничего не приметил. Кажется, их было трое... может, четверо. Вроде бы, среди них была женщина. Возможно.
 
 Да... кажется, у одного из них был зелёный ирокез.<end>
 
@@ -132,7 +132,7 @@ I... think one of them had a green mohawk. Yeah.<end>
 They paid me after they were done with their drinks, and I heard one of them talk about going to Foundry, just as they were leaving the bar. Said they knew someone there. And that's all I remember about them.<end>
 
 =>q20
-Они выпили и расплатились, и, когда они выходили из бара, я расслышал, как кто-то из них говорил насчёт пойти на Литейную. Он сказал, что знает кого-то там. Вот и всё, что я про них помню.<end>
+Они выпили и расплатились, и когда они выходили из бара, я расслышал, как кто-то из них говорил насчёт пойти на Литейную. Он сказал, что знает кого-то там. Вот и всё, что я про них помню.<end>
 
 =>a21_original
 I see... Appreciate the info. I'd like to ask you something else now.<end>
@@ -210,7 +210,7 @@ They have the numbers, and the time has come for us all to be converted. And yea
 Or... maybe it's about something else. I don't know, friend, I really don't. This whole world has become derailed.<end>
 
 =>q33
-А может... дело в чём-то другом. Я не знаю, $(#друг/подруга), правда, -- не знаю. Весь этот мир теперь поехавший.<end>
+А может... дело в чём-то другом. Я не знаю, $(#друг/подруга), правда -- не знаю. Весь этот мир теперь поехавший.<end>
 
 =>a34_original
 Yeah. How about we change the subject?<end>
@@ -222,7 +222,7 @@ Yeah. How about we change the subject?<end>
 I hear ya, friend. Hey, wanna drink while you're at it?<end>
 
 =>q35
-Понял, $(#друг/подргуа). Эй, не хочешь заодно и выпить?<end>
+Понял, $(#друг/подруга). Эй, не хочешь заодно и выпить?<end>
 
 =>a36_original
 Nope.<end>
@@ -264,7 +264,7 @@ Here you go. ::Give him 260 stygian coins.::<end>
 ::He counts the money and looks back at you after confirming that the amount is correct.:: It's good. <end>
 
 =>q42
-::Он пересчитывает деньги, и снова смотрит на вас, убедившись, что сумма правильная.:: Хорошо. <end>
+::Он пересчитывает деньги и снова смотрит на вас, убедившись, что сумма правильная.:: Хорошо. <end>
 
 =>a43_original
 Here you go. ::Give him 170 stygian coins.::<end>
@@ -288,7 +288,7 @@ I'll... do the dishes.<end>
 ::He nods.:: Right then. Gloves, detergent and sponge, everything's in the cupboard below the sink. Wire scrubber's in there too. Now get to work.<end>
 
 =>q46
-::Он кивает.:: Ну ладно. Перчатки, моющее средство и губка в шкафчике под мойкой. Ёршик там же. Приступай.<end>
+::Он кивает.:: Ну ладно. Перчатки, моющее средство и губка в шкафчике под мойкой. Ёршик там же. Можешь приступать.<end>
 
 =>a47_original
 ::Start washing the dishes...::<end>
@@ -300,7 +300,7 @@ I'll... do the dishes.<end>
 You do know I am an SGS citizen? You don't want the relations between our two stations to deteriorate by having the militia arrest me, do you?<end>
 
 =>a48
-Ты знаешь, что я граждан$(#ин/ка) ССГ? Ты же не хочешь, чтобы из-за того, что меня арестуют, испортились отношения между нашими станциями?<end>
+Вы знаете, что я граждан$(#ин/ка) ССГ? Вы же не хотите, чтобы из-за того, что меня арестуют, испортились отношения между нашими станциями?<end>
 
 =>q49_original
 ::His eyes pierce you for a couple of seconds, but then he grabs himself a shot glass and fills it with something strong. His response comes after the sound of an empty glass hitting the counter.::
@@ -308,21 +308,21 @@ You do know I am an SGS citizen? You don't want the relations between our two st
 Maybe what you say is true. I wouldn't want to be the one who causes a scandal like that, yeah. But I'm not letting this slide. No one in this station will want to have anything to do with you until you pay me - until you pay me, ya dig! And I'll make sure of it.<end>
 
 =>q49
-::Его глаза сверлят тебя пару секунд, но потом он хватает рюмку и наполняет её чем-то крепким. Он отвечает после того, как пустой стакан ударяется о стойку.::
+::Его глаза сверлят вас пару секунд, но потом он хватает рюмку и наполняет её чем-то крепким. Он отвечает, опустошив стакан и ударив им о стойку: ::
 
-Может, ты говоришь правду. Я бы не хотел быть тем, кто вызывает такой скандал, да. Но я не позволю этому расползтись. Никто на этой станции не захочет иметь с тобой ничего общего, пока ты не заплатишь мне - пока ты не заплатишь мне, ты понимаешь! Уж я позабочусь об этом. <end>
+Может, ты говоришь правду. Я бы не хотел быть тем, кто вызвал такой скандал, да. Но я этого так не оставлю. Никто на этой станции не захочет иметь с тобой ничего общего, пока ты не заплатишь мне -- пока ты не заплатишь мне, сечёшь?! Уж я позабочусь об этом. <end>
 
 =>q50_original
 Yeah, you can take it up with Captain Herve if you want. Or just, you know, just pay the damn bill. Or do the dishes.<end>
 
 =>q50
-Валяй, иди к какпитану Эрве, если хочешь. Или просто, знаешь, оплати проклятый счёт. Или хоть посуду помой.<end>
+Валяй, иди к капитану Эрве, если хочешь. Или просто, знаешь, оплати проклятый счёт. Или хоть посуду помой.<end>
 
 =>a51_original
 Guess I'll be seeing Captain Herve then.<end>
 
 =>a51
-Похоже, что мне тогда придётся поговорить в капитаном Эрве.<end>
+Похоже, что мне придётся поговорить в капитаном Эрве.<end>
 
 =>q52_original
 <end>
@@ -406,7 +406,7 @@ You! <end>
 You owe me money. ::He pulls out a notebook, flips a page and starts reading.:: You and Dude had <end>
 
 =>q65
-За тобой должок. ::Он достаёт блокнот, переворачивает страницу и начинает читать.:: Вы с Чуваком <end>
+За тобой должок. ::Он достаёт блокнот, переворачивает страницу и начинает читать: ::Вы с Чуваком <end>
 
 =>q66_original
 twenty bottles of brew plus six bags of hardcore chips - and paid for none of it! <end>
@@ -418,7 +418,7 @@ twenty bottles of brew plus six bags of hardcore chips - and paid for none of it
 ::Your eyes veer toward the stained menu on the counter: mushroom brew - ten charons; core chips - seven charons; hardcore chips - ten charons.::<end>
 
 =>q67
-::Ваш взгляд блуждает к заляпанному меню на стойке: грибной самогон - десять харонов; кор-чипсы - семь харонов; хардкорные чипсы - десять харонов.::<end>
+::Ваш взгляд блуждает к заляпанному меню на стойке: грибной самогон -- десять харонов; кор-чипсы -- семь харонов; хардкорные чипсы -- десять харонов.::<end>
 
 =>q68_original
 That's two hundred sixty charons you owe me. <end>
@@ -430,7 +430,7 @@ That's two hundred sixty charons you owe me. <end>
 You two snuck out when I wasn't looking, but now... now's the time to pay up. ::He closes the notebook and leans on the counter.::<end>
 
 =>q69
-Вы вдвоём слиняли, как только я отвернулся, но теперь... теперь пришло время расплачиваться. ::Он закрывает блокнот и опирается на стойку.::<end>
+Вы вдвоём слиняли, как только я отвернулся, но теперь... теперь пришло время расплачиваться. ::Он захлопывает блокнот и опирается на стойку.::<end>
 
 =>q70_original
 <end>
@@ -442,7 +442,7 @@ You two snuck out when I wasn't looking, but now... now's the time to pay up. ::
 ::[Persuade]:: But I did pay you, don't you remember? I placed the money on the counter and told you, "Yo, here are your coins." And I even tipped you, man.<end>
 
 =>a71
-::[Убеждение]:: Но я же заплатил$(#/а), ты что, не помнишь? Я положил$(#/а) деньги на стойку и сказал$(#/а): «Йоу, вот монеты.» Блин, я даже чаевые тебе оставил$(#/а).<end>
+::[Убеждение]:: Но я же заплатил$(#/а), ты что, не помнишь? Я положил$(#/а) деньги на стойку и сказал$(#/а): «Йоу, вот монеты». Блин, я даже чаевые тебе оставил$(#/а).<end>
 
 =>q72_original
 Make up your mind, you filthy liar. First you said Dude was supposed to pay and now you say that it was *you* who paid the bill. Lying bastard.<end>
@@ -460,13 +460,13 @@ Liar! Unless I'm going derailed, there was no money on this counter. You bastard
 Then someone took it while you weren't looking. It's not our fault some retard installed your sink like that so you can't see what's happening in this place.<end>
 
 =>a74
-Значит кто-то взял их, пока ты не видел. Не наша вина, что какой-то придурок повесил твою раковину так, что ты не видишь что происходит вокруг.<end>
+Значит, кто-то взял их, пока ты не видел. Не наша вина, что какой-то придурок повесил твою раковину так, что ты не видишь, что происходит вокруг.<end>
 
 =>q75_original
 Look, the freaking plumbi-- But... but I'd have heard you if you actually called me, dammit.<end>
 
 =>q75
-Слушай, этот долбаный водопровод... Но... но я бы услышал тебя, если бы ты и впрямь меня позвал$(#/а), чёрт побери.<end>
+Слушай, этот долбаный водопров... Но... но я бы услышал тебя, если бы ты и впрямь меня позвал$(#/а), не юли.<end>
 
 =>a76_original
 Maybe you didn't hear me because the tap was running. I don't know, and it's not my problem. All I know is that I had placed the money on the counter and told you it was there before we left.<end>
@@ -478,19 +478,19 @@ Maybe you didn't hear me because the tap was running. I don't know, and it's not
 You... You... ::He pauses, eyeing you suspiciously.::<end>
 
 =>q77
-Ты... Э-э... ::Он смотрит на вас с подозрением.::<end>
+Ты... Ты... ::Он смотрит на вас с подозрением.::<end>
 
 =>q78_original
 Dammit, maybe someone did take it. But... ::He pauses again, his argument cut short by his own conflicting thoughts. After a few pensive moments he shakes his head.:: Alright. *Alright*. Guess I'm gonna have to let you off the hook. But anything you order from now on - you're paying straight away, you dig? On the spot.<end>
 
 =>q78
-Проклятье, возможно, их и правда кто-то забрал. Но... ::Он снова замолкает, его рассуждения прерываются противоречивыми мыслями. После недолгих раздумий он качает головой.:: Ладно. *Ладно*. Полагаю, на этот раз ты соскочил$(#/а). Но отныне всё, что ты закажешь - оплатишь сразу же, врубаешься? На месте.<end>
+Проклятье, возможно, их и правда кто-то забрал. Но... ::Он снова замолкает, его рассуждения прерываются противоречивыми мыслями. После недолгих раздумий он качает головой.:: Ладно. *Ладно*. Полагаю, на этот раз ты соскочил$(#/а). Но отныне всё, что ты закажешь -- оплатишь сразу же, врубаешься? На месте.<end>
 
 =>q79_original
 ::He stares at you for a while longer before calming down.:: So what's it gonna be then?<end>
 
 =>q79
-::Прежде чем успокоиться, он разглядывает вас ещё какое-то время.:: Так что дальше?<end>
+::Прежде чем успокоиться, он разглядывает вас ещё какое-то время.:: Так, что дальше?<end>
 
 =>q80_original
 You liar. You filthy liar! I ain't falling for that crap of yours. ::He leans forward.:: You're starting to get on my nerves, punk, so you better pay the hell up, or else...<end>
@@ -598,7 +598,7 @@ I've got no money, man.<end>
 Then you're going to work off your debt by washing the dishes. Or else... or else I'm gonna get the militia in here!<end>
 
 =>q97
-Тогда ты отработаешь долг мытьём посуды. Иначе... иначе я позову ополченцев!<end>
+Тогда ты отработаешь долг мытьём посуды. Иначе... иначе я позову ополчение!<end>
 
 =>a98_original
 I'm. Not. Paying.<end>
@@ -664,7 +664,7 @@ You betcha it is! <end>
 Hey - HEY! Hold it right there! <end>
 
 =>q108
-Эй! ЭЙ! А ну постой! <end>
+Эй! ЭЙ! А ну, постой! <end>
 
 =>q109_original
 Back again?<end>
@@ -678,7 +678,7 @@ Back again?<end>
 Ay, welcome to Rail Crossing's finest - and only - bar.<end>
 
 =>q110
-::Вас приветствует мужчина, страдающий косоглазием.::
+::Вас приветствует мужчина, страдающий косоглазием: ::
 
 Эй, добро пожаловать в лучший и единственный бар на Переезде.<end>
 
@@ -740,4 +740,4 @@ Anything else I can get you?<end>
 Back again for some of that tasty mushroom brew, friend?<end>
 
 =>q120
-Вернулись ради бутылочки вкусного грибного самогона, друг?<end>
+Вернулись ради бутылочки вкусного грибного самогона, $(#друг/подруга)?<end>
