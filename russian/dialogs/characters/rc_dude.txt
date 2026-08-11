@@ -2808,7 +2808,7 @@ Do you have a last name or something?<end>
 As far as I can remember - nope! Just Dude. And that's fine with me, man.<end>
 
 =>q445
-Насколько я помню - нет! Просто Чувак. И меня это вполне устраивает, $(#приятель/подруга).<end>
+Насколько я помню -- нет! Просто Чувак. И меня это вполне устраивает, $(#приятель/подруга).<end>
 
 =>a446_original
 I'm ready. ::Drink with Dude.::<end>
@@ -3048,13 +3048,13 @@ What the hell was that? Tell me what you saw?<end>
 The vision, Dude, what you saw in the vision.<end>
 
 =>a483
-Видение, Чувак, что ты видел в видении.<end>
+Видение, Чувак, -- что ты видел в видении?<end>
 
 =>q484_original
 Oh yeah, the vision. Well, I saw *you*, actually, and you were... you were going to the east. East of Rail Crossing. Then you, like, came upon a set of double doors, and behind those doors there was a *nasty* bot!<end>
 
 =>q484
-Ах да, видение. Ну, я видел *тебя*, представь себе, и ты... ты направлял$(#ся/ась) на восток. На восток от Переезда. Затем ты, типа, наткнул$(#ся/ась) на двойные двери, и за этими дверями был мерзкий робот!<end>
+Ах, да, видение. Ну, я видел *тебя*, представь себе, и ты... ты направлял$(#ся/ась) на восток. На восток от Переезда. Затем ты, типа, наткнул$(#ся/ась) на двойные двери, и за этими дверями был мерзкий робот!<end>
 
 =>a485_original
 You saw me?<end>
@@ -3102,7 +3102,7 @@ Hm. That was incredibly helpful.<end>
 You're welcome. Now, once you went past the mines you entered a small room to the right. There you found a locker. I... I saw you getting something very important from it, and that's where the vision suddenly ended.<end>
 
 =>q492
-Всегда пожалуйста. Ну вот, после того как ты преодолел$(#/а) минное поле, ты вош$(#ёл/ла) в небольшую комнату справа. Там ты наш$(#ёл/ла) шкафчик. Я... Я видел, что ты достал$(#/а) что-то очень важное из него, после этого видение внезапно оборвалось.<end>
+Всегда пожалуйста. Ну вот, после того, как ты преодолел$(#/а) минное поле, ты вош$(#ёл/ла) в небольшую комнату справа. Там ты наш$(#ёл/ла) шкафчик. Я... Я видел, что ты достал$(#/а) что-то очень важное из него, после этого видение внезапно оборвалось.<end>
 
 =>a493_original
 What did I pick up?<end>
@@ -3348,7 +3348,7 @@ What do you do around here?<end>
 Well, I mostly drink mushroom brew, but I also have visions and communicate with higher beings. While we're at it... ::He turns toward the barkeeper and yells.:: Barkeeper! Another one!<end>
 
 =>q533
-Ну, я, главным образом, пью грибной самогон, но ещё у меня бывают видения, и я общаюсь с высшими существами. Кстати говоря... ::Он поворачивается к бармену и кричит.:: Бармен! Ещё один!<end>
+Ну, я, главным образом, пью грибной самогон, но ещё у меня бывают видения, и я общаюсь с высшими существами. Кстати говоря... ::Он поворачивается к бармену и кричит: ::Бармен! Ещё один!<end>
 
 =>q534_original
 You see, man, it's not easy having these powers. Nah... it's tough. The immense knowledge makes my head hurt, makes me tired, and also makes my mouth dry for some reason.<end>
@@ -3366,13 +3366,13 @@ Maybe it's just the brew?<end>
 ::He answers you with a drunken delay.:: It's not the damn brew! It's the powers, man. I could tell you so many interesting things - beyond your imagination. Whoooo... hold on... I'm having a vision right now.<end>
 
 =>q536
-::Он отвечает вам с пьяной задержкой.:: Да не от самогона это! Это мой дар, $(#приятель/подруга). Я мог бы рассказать тебе столько интересного, ты даже представить себе не можешь. У-оу-у-у... погоди... у меня начинается видение прямо сейчас.<end>
+::Он отвечает вам с пьяной задержкой: ::Да не от самогона это! Это мой дар, $(#приятель/подруга). Я мог бы рассказать тебе столько интересного, ты даже представить себе не можешь. У-оу-у-у... погоди... у меня начинается видение прямо сейчас.<end>
 
 =>q537_original
 ::Dude quickly takes another sip of mushroom brew, after which he lowers his head and begins mumbling. After a minute of his incomprehensible ramblings, he slowly raises his head and looks back at you.::<end>
 
 =>q537
-::Чувак делает ещё один быстрый глоток самогона, затем опускает голову и начинает что-то бессвязно бормотать. Минуту спустя он медленно поднимает голову и смотрит на вас.::<end>
+::Чувак делает ещё один быстрый глоток самогона, затем опускает голову и начинает что-то бессвязно бормотать. Минуту спустя, он медленно поднимает голову и смотрит на вас.::<end>
 
 =>q538_original
 How's it going, man?<end>
@@ -3384,7 +3384,7 @@ How's it going, man?<end>
 I've changed my mind, I'll go see what's in that locker.<end>
 
 =>a539
-Я передумал$(#/а), я схожу посмотрю что там в шкафчике.<end>
+Я передумал$(#/а), я схожу посмотрю, что там в шкафчике.<end>
 
 =>a540_original
 I've opened the locker.<end>
@@ -3674,7 +3674,7 @@ All in all, respect their territory. Don't mess with them, and they won't mess w
 Rathounds are very easy to tame, actually. I should know, I had one as a pet a couple of years ago. Its name was Shoe Devourer.<end>
 
 =>q584
-Крысоволки очень легко приручаются, представь себе. Уж я-то знаю, у меня жил один в качестве домашнего любимца пару лет назад. Его звали Пожиратель Обуви.<end>
+Крысоволки очень легко приручаются, представь себе. Уж я-то знаю, у меня жил один в качестве домашнего любимца пару лет назад. Его звали Пожиратель обуви.<end>
 
 =>a585_original
 That's a strange name...<end>
@@ -3686,7 +3686,7 @@ That's a strange name...<end>
 ::He continues without even paying attention to what you said.:: I know, it's not a very strange name at all.<end>
 
 =>q586
-::Он продолжает, даже не обращая внимания на то, что вы сказали.:: Я знаю, это не слишком странное имя.<end>
+::Он продолжает, даже не обращая внимания на то, что вы сказали.:: Я знаю, это вовсе не слишком странное имя.<end>
 
 =>q587_original
 Anywho, many people have tamed rathounds. Some even say there is a rathound king or something, living in some distant caves. I don't believe that, though. I'd know about it, man - I'm the Dude. Visions, man, vision. Cheers!<end>
@@ -3722,7 +3722,7 @@ That's a stupid name...<end>
 Shadow crawlers. Now those things are dangerous. Like, totally dangerous. They mostly hunt alone, stalking their prey from the shadows. As a matter of indisputable fact, they are *the* shadows - the crawling shadows, as that's what they are - but our brain interprets them as these giant, ugly bugs because, like, getting attacked by an actual shadow is just too damn freaky. And hence we get shadow crawlers instead - 'cause our brain, like, pansies out, man.<end>
 
 =>q592
-Теневые краулеры. Нынче эти твари опасны. Типа, невероятно опасны. В основном они охотятся в одиночку, выслеживая добычу из тени. Бесспорный факт, что это и есть *тени* - ползучие тени - но наш мозг воспринимает их как огромных безобразных насекомых, ведь, типа, быть атакованным самой тенью - это уж слишком дико. Вот почему вместо этого мы видим теневых краулеров - потому что наш мозг, типа, ссыкло недоделанное, $(#приятель/подруга).<end>
+Теневые краулеры. Вот это опасные твари. Типа, невероятно опасные. В основном они охотятся в одиночку, выслеживая добычу из тени. Бесспорный факт в том, что они и есть *тени* -- ползучие тени, -- но наш мозг воспринимает их как огромных безобразных насекомых, ведь, типа, быть атакованным самой натуральной тенью это уж слишком дико. Вот почему вместо этого мы видим теневых краулеров -- потому что наш мозг, типа, ссыкло, $(#приятель/подруга).<end>
 
 =>q593_original
 The brain is a strange construct. I should know, I got one. Cheers!<end>
@@ -3734,7 +3734,7 @@ The brain is a strange construct. I should know, I got one. Cheers!<end>
 Actually, wait. There's more: You see, the darker the shadows are, like, the uglier the bugs become to us, to our eyes. There's your proof right there, man, right there! In "normal" shadows we see shadow crawlers; then, as it gets darker we start seeing death stalkers; and if a dude ventures into a truly dark place, that's where the black crawlers await. ::He nods.:: I'm serious.<end>
 
 =>q594
-Погоди, дальше больше: видишь ли, чем темнее тени, тем эти твари уродливее для нас, для наших глаз. Вот тебе и доказательство, $(#брат/сестра), вот же оно! В "обычных" тенях мы видим призрачных краулеров; когда становится темнее - смертоносных сталкеров; а если отважиться забраться в какое-нибудь по-настоящему тёмное место, там будут поджидать чёрные краулеры. ::Он кивает.:: Я серьёзно.<end>
+Погоди, дальше больше: видишь ли, чем темнее тени, тем эти твари уродливее для нас, для наших глаз. Вот тебе и доказательство, $(#брат/сестра), вот же оно! В «обычных» тенях мы видим призрачных краулеров; когда становится темнее -- смертоносных сталкеров; а если отважиться забраться в какое-нибудь по-настоящему тёмное место, там будут поджидать чёрные краулеры. ::Он кивает.:: Я серьёзно.<end>
 
 =>q595_original
 These are all just shadows, man. Different kinds of shadows. That's why if you think there's a crawling shadow out there to get you, like, cast some light at them or throw a flare. Shadows hate light, man. It really cramps their style.
@@ -3768,7 +3768,7 @@ Oh man, was I lost! And thirsty. Luckily, I had some more brew with me, so I que
 What do you mean, "forgot what happened"? You told me the story - you obviously remember it.<end>
 
 =>a599
-Что значит, «забыл что произошло»? Ты рассказал мне историю, а значит ты всё помнишь.<end>
+Что значит, «забыл, что произошло»? Ты рассказал мне историю, а значит ты всё помнишь.<end>
 
 =>q600_original
 ::You notice Dude straining to comprehend what was just said.::<end>
@@ -3804,7 +3804,7 @@ I don't live in a cave, by the way. Not anymore.<end>
 You know, it's a dangerous world we live in. ::He sips some more brew.:: I've dealt with dangerous animals, bandits, poisoned mushroom brews and what not, but do you know what scares me the most?<end>
 
 =>q605
-Знаешь, мы живём в опасном мире. ::Он делает ещё глоток самогона.:: Я имел дело с опасными животными, бандитами, ядовитым грибным пойлом и много чем ещё, но, знаешь, что пугает меня больше всего?<end>
+Знаешь, мы живём в опасном мире. ::Он делает ещё глоток самогона.:: Я имел дело с опасными животными, бандитами, ядовитым грибным пойлом и много чем ещё, но знаешь, что пугает меня больше всего?<end>
 
 =>a606_original
 What?<end>
@@ -3828,7 +3828,7 @@ Maybe it's the brew?<end>
 Maybe it's shut the hell up and, like, mind your own damn business.<end>
 
 =>q609
-Может, заткнёшься и, типа, не будешь лезть не в своё дело?<end>
+А может, ты заткнёшься и, типа, не будешь лезть не в своё дело?<end>
 
 =>q610_original
 I used to be an adventurer like you, but then I took a bolt in the knee.<end>
@@ -3936,7 +3936,7 @@ Oh, and don't touch them. Cheers, man.<end>
 ::He leans toward you and whispers.:: Ever heard of psychoturners? I thought not. Those creatures are really, really funky. They use their low frequency psi field to absorb any material they find. Then, like, they can turn into anything, using what they absorbed. It's derailed, I'm telling you.<end>
 
 =>q627
-::Он наклоняется к вам и шепчет.:: Никогда не слышал$(#/а) про психоперевертышей? Я так и думал. Эти существа вообще, совсем обалденные. Они используют своё низкочастотное пси-поле, чтобы поглощать любые материалы, которые найдут. После этого они, типа, могут превратиться во что угодно, используя то, что они поглотили. Рехнуться можно, скажу я тебе.<end>
+::Он наклоняется к вам и шепчет: ::Никогда не слышал$(#/а) про психоперевертышей? Я так и думал. Эти существа вообще, совсем обалденные. Они используют своё низкочастотное пси-поле, чтобы поглощать любые материалы, которые найдут. После этого они, типа, могут превратиться во что угодно, используя то, что они поглотили. Рехнуться можно, скажу я тебе.<end>
 
 =>q628_original
 One of my pals saw one turn into a giant rubber train after it absorbed a balloon that looked like a train. You know, like one of Underrail Express. It flew all over the cave and then disappeared. Then the strangest thing happened several days later, man: My friend was hit by a train after he had passed out drunk on the rails, just near Rail Crossing. Do you see the connection now?<end>
@@ -3966,7 +3966,7 @@ Excluding, like, our recent trip, of course. <end>
 It used to be a nice place, man. It wasn't the safest place, but it had its charm. Like, the main square had a cool little bar I used to go to and order dark depths - best cocktail ever. I forgot the name of the place, but it rocked! Oh, and the Biocorp headquarters building... As I stood before it I felt so awe-inspired by its size, beauty and, just - supremacy; the image, like, got burned into my memory for eternity. Oh, the memories...<end>
 
 =>q632
-Это было хорошее место, $(#приятель/подруга). Не самое безопасное, но в нём была своя изюминка. Так, на главной площади был клёвый маленький бар, в котором я часто заказывал тёмный омут -- лучший в мире коктейль. Я забыл название места, но оно было потрясным! Ох, и здание штаб-квартиры Биокорп... когда я стоял перед ним и чувствовал только вдохновение и трепет, это сохранилось навечно в моей памяти. Ах, воспоминания...<end>
+Когда-то это было хорошее место, $(#приятель/подруга). Не самое безопасное, но в нём была своя изюминка. Так, на главной площади был клёвый маленький бар, в котором я часто заказывал тёмный омут -- лучший в мире коктейль. Я забыл название места, но оно было потрясным! Ох, и здание штаб-квартиры Биокорп... когда я стоял перед ним и чувствовал только вдохновение и трепет, это сохранилось навечно в моей памяти. Ах, воспоминания...<end>
 
 =>q633_original
 And then the three headed monster attacked!<end>
@@ -4056,7 +4056,7 @@ One doesn't expect an answer to a rhetorical question.<end>
 ::He takes some time to think about what you said and to drink some more brew.:: Well, technically, man, like... ::He forms a weird shape with his hands which fails to really remind you of anything.:: That! Anyway...<end>
 
 =>q647
-::Чувак, не торопясь обдумывает то, что вы сказали, и выпивает ещё немного самогона.:: Ну, технически, $(#приятель/подруга), типа... ::Он строит руками странную фигуру, которая ни о чём вам не говорит.:: Вот! В общем...<end>
+::Чувак не торопясь обдумывает то, что вы сказали, и выпивает ещё немного самогона.:: Ну, технически, $(#приятель/подруга), типа... ::Он строит руками странную фигуру, которая ни о чём вам не говорит.:: Вот! В общем...<end>
 
 =>q648_original
 The Hanging Rat's the best bar in Underrail! But - there's a catch: It's very difficult to find, and that's because it's, like, located so far away from any station. But there is a trick that helps me get there.<end>
@@ -4068,7 +4068,7 @@ The Hanging Rat's the best bar in Underrail! But - there's a catch: It's very di
 And it's simple, man: I just gotta drink some brew, and when my sight gets blurry enough, I let visions lead me to my destination. Once the visions end - I find myself at the Hanging Rat, talking to Rob, the barkeeper. He's a nice man, very kind and thoughtful. I hope we meet there sometimes. Trust me: Best. Bar. Ever! Cheers, man!<end>
 
 =>q649
-Всё просто, $(#приятель/подруга): мне всего лишь нужно выпить немного самогона, и, когда моё зрение достаточно расплывается, я позволяю видениям направить меня к моему предназначению. Как только видения заканчиваются, я оказываюсь в Висящей крысе, разговаривая Робом, барменом. Он хороший парень, очень добрый и заботливый. Надеюсь, мы встретимся там когда-нибудь. Поверь мне. Самый. Лучший. Бар! Твоё здоровье, $(#приятель/подруга)!<end>
+Всё просто, $(#приятель/подруга): мне всего лишь нужно выпить немного самогона, и когда моё зрение достаточно расплывается, я позволяю видениям направить меня к моему предназначению. Как только видения заканчиваются, я оказываюсь в Висящей крысе, разговаривая Робом, барменом. Он хороший парень, очень добрый и заботливый. Надеюсь, мы встретимся там когда-нибудь. Поверь мне. Самый. Лучший. Бар! Твоё здоровье, $(#приятель/подруга)!<end>
 
 =>a650_original
 Hardcore City Bar?<end>
@@ -4204,7 +4204,7 @@ I mean, alongside, like, rathounds, flesh-eating bacteria, sobriety, lasers and 
 It doesn't come from *this* space, the space around us... ::He looks down.:: but from *Other Space*.<end>
 
 =>q670
-В смысле, наравне, типа, с крысоволками, плотоядными бактериями, трезвостью, лазерами и тому подобным. Но космическая пыль... ::Он несколько раз кивает.:: Космическая пыль - это тебе не шутки, $(#приятель/подруга).
+В смысле, наравне, типа, с крысоволками, плотоядными бактериями, трезвостью, лазерами и тому подобным. Но космическая пыль... ::Он несколько раз кивает.:: Космическая пыль -- это тебе не шутки, $(#приятель/подруга).
 
 Она исходит не из *этого* пространства, что окружает нас... ::Он опускает взгляд.:: но из *Другого пространства*.<end>
 
@@ -4212,7 +4212,7 @@ It doesn't come from *this* space, the space around us... ::He looks down.:: but
 What space?<end>
 
 =>a671
-Какое пространство?<end>
+Другое пространство?<end>
 
 =>q672_original
 Other Space, man.<end>
@@ -4232,9 +4232,9 @@ It radiates shadows, man, and if you inhale the dust these shadows will flood yo
 What remains of you is, like...<end>
 
 =>q674
-Она излучает тени, $(#брат/сестра), и если вдохнёшь пыли, эти тени заполнят твой разум и осквернят идеи, мешавшие им существовать. И, типа, кучу всего другого, что у тебя там есть - они могут исказить всё!
+Она излучает тени, $(#брат/сестра), и если вдохнёшь этой пыли, то тени заполнят твой разум и осквернят идеи, пробудившие их к существованию. И, типа, кучу всего другого, что у тебя там есть -- они могут исказить всё!
 
-То, что от тебя, типа, останется...<end>
+И от тебя останется, типа...<end>
 
 =>q675_original
 ::He leans toward you while wiping his nose.:: Never inhale space dust. If you see its darkening aura - run! Run!
@@ -4242,7 +4242,7 @@ What remains of you is, like...<end>
 Cheers, man. <end>
 
 =>q675
-::Он наклоняется к вам, вытирая нос.:: Никогда не вдыхай космическую пыль. Если видишь её темнеющую ауру - беги! Беги!
+::Он наклоняется к вам, вытирая нос.:: Никогда не вдыхай космическую пыль. Если видишь её темнеющую ауру -- беги! Беги!
 
 Будем, $(#брат/сестра). <end>
 
@@ -6950,7 +6950,7 @@ Ah, mushroom brew! I could just, like, sit here and enjoy this exquisite drink -
 Anyway... <end>
 
 =>q1087
-::Вы видите мужчину с полупустой бутылкой грибного самогона. Каждый новый глоток вызывает у него широкую улыбку -- выражение его лица становится безмятежным, как будто он утоляет жажду самой чистой и холодной родниковой водой. Помимо этого, с каждым глотком ему становится всё труднее сфокусировать глаза на виляющей бутылке, чтобы он мог продолжить процесс. Он сидит так целую минуту, не замечая, что вы стоите рядом с ним. Только когда он допивает последние капли, его глаза наконец замечают вас через прозрачное дно стакана.::
+::Вы видите мужчину с полупустой бутылкой грибного самогона. Каждый новый глоток вызывает у него широкую улыбку -- выражение его лица становится безмятежным, как будто он утоляет жажду самой чистой и прохладной родниковой водой. Помимо этого, с каждым глотком ему становится всё труднее сфокусировать глаза на виляющей бутылке, чтобы он мог продолжить процесс. Он сидит так целую минуту, не замечая, что вы стоите рядом с ним. Только когда он допивает последние капли, его глаза наконец замечают вас через прозрачное дно стакана.::
 
 Ах, грибной самогон! Я мог бы просто сидеть здесь и наслаждаться этим изысканным напитком целый день. ::Он указывает на бармена.:: Он говорит, что я... я выпил слишком много! ::Смеётся.:: Нет, блин. ещё... нет.
 
