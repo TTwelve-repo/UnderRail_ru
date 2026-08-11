@@ -20,19 +20,19 @@ You have fun now...<end>
 Alright - it's done! ::He hands you the refurbished weapon.:: Hope you're happy.<end>
 
 =>q4
-Хорошо - готово! ::Он вручает вам отреставрированное оружие.:: Надеюсь, вы довольны.<end>
+Дело сделано! ::Он вручает вам отреставрированное оружие.:: Надеюсь, вы останетесь довольны.<end>
 
 =>q5_original
 That was a lot of work, had to go over all the internal parts, then find the right chemicals to treat them - and don't get me started on the external bits. ::He shakes his head but still maintains a smile.::<end>
 
 =>q5
-Было много работы, нужно было пройтись по всем внутренним частям, затем найти нужные химикаты для их обработки - и лучше не будем поднимать тему внешних деталей. ::Он качает головой, но продолжает улыбаться.::<end>
+Было много работы, нужно было пройтись по всем внутренним частям, затем найти нужные химикаты для их обработки -- и лучше даже не будем поднимать тему внешних деталей. ::Он качает головой, но продолжает улыбаться.::<end>
 
 =>q6_original
 Was a lot of fun. If you ever find another chunk of history like this - bring it in.<end>
 
 =>q6
-Было очень весело. Если вы когда-нибудь найдёте ещё такую часть истории - несите.<end>
+Было очень интересно. Если вы когда-нибудь найдёте ещё одну такую часть истории -- несите.<end>
 
 =>q7_original
 <end>
@@ -44,7 +44,7 @@ Was a lot of fun. If you ever find another chunk of history like this - bring it
 Let me see what you have to trade. ::Barter.::<end>
 
 =>a8
-Показывайте что у вас есть на продажу. ::Обмен.::<end>
+Показывайте, что у вас есть на продажу. ::Обмен.::<end>
 
 =>a9_original
 Did you ever work on old world firearms before?<end>
@@ -58,7 +58,7 @@ Old world? Yeah, I've worked on a couple during my lifetime. ::His face brighten
 ...*wood*.<end>
 
 =>q10
-Старый мир? Да, я работал над парой изделий за свою жизнь. ::Его лицо светлеет, когда он продолжает.:: Знаете, что мне больше всего нравится в некоторых из них, так это материал, из которого они сделаны, а именно...
+Старого мира? Да, мне довелось работать над парой изделий за свою жизнь. ::Его лицо светлеет.:: Знаете, что мне больше всего нравится в некоторых из них, так это материал, из которого они сделаны, а именно...
 
 ...*дерево*.<end>
 
@@ -78,13 +78,13 @@ Wood.<end>
 It's this... hard fibrous material. You don't see that in any of the Biocorp's weapons, no.<end>
 
 =>q13
-Это... твёрдый волокнистый материал. Вы не увидите этого ни в одном оружии БиоКорп, нет.<end>
+Это такой... твёрдый волокнистый материал. Вы не найдете его ни в одном оружии БиоКорп, нет.<end>
 
 =>a14_original
 ::Show him AKX.:: You mean like here?<end>
 
 =>a14
-::Показать ему АКМ.:: Вы имеете в виду это?<end>
+::Показать ему АКМ.:: Вы имеете в виду как здесь?<end>
 
 =>q15_original
 Would you... ::He smiles.:: Would you look at that beauty. Yes, that's wood. Isn't it great?<end>
@@ -96,19 +96,19 @@ Would you... ::He smiles.:: Would you look at that beauty. Yes, that's wood. Isn
 ::After looking at it for some more, he continues.:: <end>
 
 =>q16
-::Посмотрев ещё немного, он продолжает.:: <end>
+::Посмотрев ещё немного, он продолжает: ::<end>
 
 =>q17_original
 Of all the things that exist in this wretched world, this *wood* is something I can find little information about. I only learned its name from some ancient schematic I had.<end>
 
 =>q17
-Из всех вещей, существующих в этом жалком мире, это *дерево* - то, о чём я могу найти мало информации. Я узнал его название только из какой-то древней схемы, которая у меня была.<end>
+Из всех вещей, существующих в этом жалком мире, это *дерево* -- то, о чём я могу найти мало информации. Я узнал его название только из какого-то древнего чертежа.<end>
 
 =>q18_original
 All in all, old world weapons, wooden or not, working with those is a whole lot different than fixing yokel guns. <end>
 
 =>q18
-В общем, оружие старого мира, деревянное или нет, работа с ним сильно отличается от починки современного двуствольного оружия. <end>
+В общем, оружие старого мира, деревянное или нет, -- работа с ним сильно отличается от починки пушек современных болванов. <end>
 
 =>q19_original
 <end>
@@ -134,7 +134,8 @@ So, can you take a look at this? ::Give him Dragunov.::<end>
 <end>
 
 =>q22
-::Внимательно осмотрев оружие, он кивает и обращается к вам.::
+::Внимательно осмотрев оружие, он кивает и обращается к вам: ::
+
 <end>
 
 =>q23_original
@@ -145,13 +146,13 @@ Add to that a high resolution digital scope and you'll end up with one powerful 
 =>q23
 Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов. Мне также понадобится хорошая рама Лидер для некоторых запасных частей. ::[Качество 110]::
 
-Добавьте к этому цифровой прицел высокого разрешения, и вы получите одну мощную винтовку.<end>
+Добавьте к этому цифровой прицел высокого разрешения, и вы получите весьма мощную винтовку.<end>
 
 =>a24_original
 Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins and all the necessary components.::<end>
 
 =>a24
-Вот пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
+Вот, пожалуйста. ::Дать ему $(tempcontext.RefurbishmentPrice) стигийских монет и все необходимые компоненты.::<end>
 
 =>q25_original
 ::He takes everything, including the weapon.:: Alright, time to get started. <end>
@@ -169,7 +170,7 @@ I'm... excited, to be honest.<end>
 Should go smoother with the technical manuals you brought me, so I don't think it'll take too long. <end>
 
 =>q27
-С техническими руководствами, что вы мне принесли, должно пройти более гладко, так что не думаю, что это займёт слишком много времени. <end>
+С техническими руководствами, что вы мне принесли, дело пойдет более гладко, так что не думаю, что это займёт слишком много времени. <end>
 
 =>q28_original
 Anything else you need before I start?<end>
@@ -199,13 +200,13 @@ Can we negotiate the price?<end>
 Negotiate the price? Do you know how much work this is gonna take? I'm working with something fairly new. I know, I know - *old*, but new to me. My time is worth that much.<end>
 
 =>q32
-Договориться о цене? Ты хоть представляешь, сколько времени займёт эта работа? Я имею дело с чем-то довольно новым. Знаю, знаю - *старым*, но для меня-то это новое. Именно столько стоит моё время.<end>
+Договориться о цене? Вы хоть представляете, сколько здесь работы? Я имею дело с чем-то новым. Знаю, знаю - *старым*, но для меня-то это новое. Именно столько стоит моё время.<end>
 
 =>a33_original
 You could've just said no.<end>
 
 =>a33
-Ты мог бы просто сказать нет.<end>
+Вы могли бы просто сказать нет.<end>
 
 =>q34_original
 *No*.<end>
@@ -223,13 +224,13 @@ But... ::He pauses briefly.:: *If* you can save me time and effort, then I suppo
 ::[Mechanics]:: Sure, I'm ready. Just wheel in a chair for me.<end>
 
 =>a36
-::[Механика]:: Конечно, я готов$(#/а). Просто подкати мне кресло<end>
+::[Механика]:: Конечно, я готов$(#/а). Просто подкати мне кресло.<end>
 
 =>q37_original
 ::He waves your idea away.:: No, no. I work with no one. <end>
 
 =>q37
-::Он отмахивается от вашей идеи.:: Нет, нет. Я ни с кем не работаю. <end>
+::Он отмахивается от вас.:: Нет, нет. Я ни с кем не работаю. <end>
 
 =>q38_original
 What I meant was, if you can find me some, say, schematics, erm - technical manuals or anything of the such it'd help me a lot. It doesn't even have to be for *this* weapon specifically, as a lot of these old world weapons - just like contemporary ones - share parts and design paradigms between them.
@@ -237,7 +238,7 @@ What I meant was, if you can find me some, say, schematics, erm - technical manu
 That'd save me some time, and it'd save you some coins.<end>
 
 =>q38
-Я имел в виду, что если вы сможете найти, скажем, схемы, технические руководства или что-то подобное, то это мне очень поможет. Даже не обязательно специально для *этого* оружия, так как оружие старого мира - так же, как и современное - имеют общие детали и парадигмы дизайна.
+Я имею в виду, что если вы сможете найти, скажем, схемы, технические руководства или что-то подобное, то это мне очень поможет. Даже не обязательно специально для *этого* оружия, так как оружие старого мира - так же, как и современное - имеют общие детали и парадигмы дизайна.
 
 Это сэкономило бы мне время, а вам немного монет.<end>
 
