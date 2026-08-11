@@ -238,7 +238,7 @@ What I meant was, if you can find me some, say, schematics, erm - technical manu
 That'd save me some time, and it'd save you some coins.<end>
 
 =>q38
-Я имею в виду, что если вы сможете найти, скажем, схемы, технические руководства или что-то подобное, то мне это очень поможет. Даже не обязательно специально для *этого* оружия, так как оружие старого мира - так же, как и современное - имеет общие детали и парадигмы дизайна.
+Я имею в виду, что если вы сможете найти, скажем, схемы, технические руководства или что-то подобное, то мне это очень поможет. Даже не обязательно специально для *этого* оружия, так как оружие старого мира -- так же, как и современное -- имеет общие детали и парадигмы дизайна.
 
 Это сэкономило бы мне время, а вам немного монет.<end>
 
@@ -264,7 +264,7 @@ That'd save me some time, and it'd save you some coins.<end>
 You better believe it.<end>
 
 =>a42
-А ты посмотри.<end>
+А вы посмотрите.<end>
 
 =>q43_original
 Yeah...<end>
@@ -288,7 +288,7 @@ Not only is this gonna help me plenty, it's gonna be a riveting read as well.<en
 Think that should cover pretty much any firearm I bring to you.<end>
 
 =>a46
-Думаю, ты здесь найдешь практически любое оружие, которое я тебе принесу.<end>
+Думаю, здесь вы найдете практически любое оружие, которое я вам принесу.<end>
 
 =>a47_original
 I found these technical manuals for contemporary and historical pistols and submachine guns.<end>
@@ -390,7 +390,7 @@ Here you go. ::Give him $(tempcontext.RefurbishmentPrice) and all the necessary 
 I have another weapon I wanted to show you...<end>
 
 =>a61
-У меня есть ещё одно оружие, которое я хочу тебе показать...<end>
+У меня есть ещё одно оружие, которое я хочу вам показать...<end>
 
 =>q62_original
 Alright.<end>
@@ -534,7 +534,7 @@ Say yes and I'll turn this beauty into a true beast.<end>
 =>q81
 Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов.
 
-Скажи да, и я превращу эту красавицу в настоящего зверя.<end>
+Скажите да, и я превращу эту красавицу в настоящего зверя.<end>
 
 =>a82_original
 Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
@@ -1709,7 +1709,7 @@ Say yes and I'll turn this into an even more rocking grenade launcher.<end>
 =>q242
 Я сделаю это за $(tempcontext.RefurbishmentPrice) харонов.
 
-Скажи да, и я превращу его в ещё более мощный гранатомёт.<end>
+Скажите да, и я превращу его в ещё более мощный гранатомёт.<end>
 
 =>a243_original
 Here you go. ::Give him $(tempcontext.RefurbishmentPrice) stygian coins.::<end>
@@ -1965,7 +1965,7 @@ Go on.<end>
 All in all, <end>
 
 =>q278
-В общем и целом, <end>
+Такая вот история. <end>
 
 =>q279_original
 I really didn't have the heart to cut the rifle apart and see how the wood looks on the inside. But what I saw in the only other wooden firearm was that its wood was made with a different color and fiber size. It had its protective coating damaged, and I could feel the wood beneath. It had a very nice, smooth, smooth feel to it.<end>
@@ -2038,13 +2038,14 @@ So, show me what you had there again.<end>
 
 =>q289
 
-Итак, покажите мне, ещё раз, что там у вас было.<end>
+
+Итак, покажите мне ещё раз, что там у вас было?<end>
 
 =>q290_original
 If you got any, I'm all up for it.<end>
 
 =>q290
-Если у вас есть, я полностью за.<end>
+Если у вас оно есть, я с радостью займусь им.<end>
 
 =>a291_original
 ::Show him Tommy Gun.:: You mean like here?<end>
@@ -2212,7 +2213,7 @@ South of Rail Crossing there's an abandoned warehouse. Follow the eastern platfo
 The strange thing about that place is that there was this room in there, and in the center of it was some sort of a pedestal. On top of it, something resembling an energy cell was attached. Bunch of power cables were connected to the pedestal like it was constantly charging the device with power, ya know.<end>
 
 =>q318
-Самым странным в этом месте была комната, в центре которой находилось нечто вроде пьедестала. Сверху на нём было закреплено что-то похожее на энергетическую ячейку. Пучок силовых кабелей был подключён к пьедесталу, как если бы для постоянной зарядки устройства, понимаете?<end>
+Самым странным в этом месте была комната, в центре которой находилось нечто вроде пьедестала. Сверху на нём было закреплено что-то, похожее на энергетическую ячейку. Пучок силовых кабелей был подключён к пьедесталу, как если бы для постоянной зарядки устройства, понимаете?<end>
 
 =>q319_original
 I couldn't tell exactly what it was back then, though it did seem familiar. Later I remembered seeing one of those things, the device that was on the top of the pedestal. <end>

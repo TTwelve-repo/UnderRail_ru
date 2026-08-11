@@ -50,7 +50,7 @@ I hope you have a very good explanation for this.<end>
 Please - listen. I only needed the painkillers, you see, I... I have an addiction. I got shot several months ago by some lousy Ironhead. Doctor Boudreau treated me back then, and I got addicted to those freaking painkillers. I needed them, man, I couldn't do without them, and I knew she wouldn't give them to me anymore. You have to understand me, man.<end>
 
 =>q9
-Пожалуйста, послушайте. Мне нужны были только болеутоляющие -- видите ли, я... у меня зависимость. Меня ранил несколько месяцев назад какой-то паршивый железноголовый. Доктор Будро вылечила меня тогда, но я подсел на эти проклятые болеутоляющие. Я нуждался в них, $(#друг/подруга), я не мог обойтись без них, и я знал, что она не даст мне больше. Вы должны меня понять, $(#друг/подруга).<end>
+Пожалуйста, послушайте. Мне нужны были только болеутоляющие -- видите ли, я... у меня зависимость. Меня ранил несколько месяцев назад какой-то паршивый железноголовый. Доктор Будро вылечила меня тогда, но я подсел на эти проклятые болеутоляющие. Я нуждался в них, $(#друг/подруга), я не мог обойтись без них, и я знал, что она не даст мне больше. Вы должны меня понять, $(#друг/").<end>
 
 =>q10_original
 No one knows about this, 'kay. I stole a bunch of other stuff from the storage so it wouldn't seem like the thief came just for the painkillers. Reduce the chances of someone suspecting me. I feel bad about doing it - but I had to. Please understand.<end>
@@ -70,15 +70,13 @@ Look, what you did is horrible, there's no denying it. What is the doc gonna tre
 You can't do this forever you know. You need help.<end>
 
 =>a12
-Послушайте, то, что вы сделали, это ужасно -- это невозможно отрицать. Чем док будет лечить людей -- камнями? Но, может быть, мы сможем что-нибудь придумать, -- док кажется мне здравомыслящим человеком.
-
-Вы не можете заниматься этим вечно. Вам нужна помощь.<end>
+Послушайте, то, что вы сделали, -- ужасно, это невозможно отрицать. Чем док будет лечить людей -- камнями? Но, может быть, мы сможем что-нибудь придумать, -- док кажется мне здравомыслящим человеком. Вы не можете заниматься этим вечно. Вам нужна помощь.<end>
 
 =>q13_original
 ::Jared listens to your words with a bowed head. He replies with a delay.:: Man. I guess you are right, I *can't* do this forever. Let's go talk to her.<end>
 
 =>q13
-::Джаред слушает ваши слова, понурив голову. Он отвечает не сразу: ::$(#Друг/Подруга). Я думаю, вы правы, я *не могу* заниматься этим всю жизнь. Пойдём поговорим с ней.<end>
+::Джаред слушает ваши слова, понурив голову. Он отвечает не сразу: ::Блин... Я думаю, вы правы, я *не могу* заниматься этим всю жизнь. Пойдём поговорим с ней.<end>
 
 =>a14_original
 ::End Dialog.::<end>
