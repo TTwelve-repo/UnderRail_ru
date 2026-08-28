@@ -194,7 +194,7 @@ I don't know how to say this, or... ::He sighs.:: $(context.player.Name), my son
 =>q31
 ::Он делает паузу -- видно, что что-то беспокоит его.:: 
 
-Я не знаю, как это сказать, или... ::Он вздыхает.:: $(context.player.Name), мой сын был убит.<end>
+Я не знаю, как это сказать или... ::Он вздыхает.:: $(context.player.Name), мой сын был убит.<end>
 
 =>a32_original
 Your son?<end>

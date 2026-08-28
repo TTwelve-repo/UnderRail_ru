@@ -774,7 +774,7 @@ I'll leave you for now. Farewell.<end>
 Who dares disturb the Rathound King? Tell me your name, or I'll have my rathounds tear you apart. Speak!<end>
 
 =>q125
-Кто смеет беспокоить Короля крысоволков? Назови своё имя, или я велю моим крысоволкам разорвать тебя на куски. Говори!<end>
+Кто смеет беспокоить Короля крысоволков? Назови своё имя или я велю моим крысоволкам разорвать тебя на куски. Говори!<end>
 
 =>a126_original
 It's $(context.player.Name).<end>
