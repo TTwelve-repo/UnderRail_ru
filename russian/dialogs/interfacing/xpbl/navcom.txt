@@ -1459,7 +1459,7 @@ As the name says, it is a massive horticulture center... ::Explain to him what y
 By the caverns, that is un-believable, $(context.npc_xpbl_oldfield_playerName). The vegetation, the insects, the pesticide... amazing, truly amazing. <end>
 
 =>q239
-::Вам настолько хорошо удаётся передать угрюмую атмосферу центра садоводства, что профессор добрых полминуты остаётся безмолвным после того, как вы заканчиваете свой рассказ. Он говорит после этой паузы.::
+::Вам настолько хорошо удаётся передать угрюмую атмосферу центра садоводства, что профессор добрых полминуты остаётся безмолвным после того как вы заканчиваете свой рассказ. Он говорит после этой паузы.::
 
 Клянусь Подземкой, это невероятно, $(context.npc_xpbl_oldfield_playerName). Растительность, насекомые, пестициды... поразительно, поистине поразительно. <end>
 
@@ -1627,7 +1627,7 @@ I'm listening. Over.<end>
 Well, after managing to pass that damned bioscan, I... ::Explain to him what you discovered.::<end>
 
 =>a266
-Итак, после того, как мне удалось пройти этот проклятый биоскан, я... ::Рассказать ему, что вы обнаружили.::<end>
+Итак, после того как мне удалось пройти этот проклятый биоскан, я... ::Рассказать ему, что вы обнаружили.::<end>
 
 =>q267_original
 ::You report all your findings while the professor, as always, listens with great attentiveness.::

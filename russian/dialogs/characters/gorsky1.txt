@@ -880,7 +880,7 @@ A bunch of zoners gathered in the shack the tunneler fell into to throw a party 
 After you clear the location, you must find a way to get the tunneler operational again. Look around the city and see if anyone's got the expertise, but be discreet about it.<end>
 
 =>q142
-После того, как ты зачистишь место, найди способ починить проходчик. Поищи в городе -- может, у кого-то уже есть опыт, но постарайся не шуметь.<end>
+После того как ты зачистишь место, найди способ починить проходчик. Поищи в городе -- может, у кого-то уже есть опыт, но постарайся не шуметь.<end>
 
 =>q143_original
 You up for this?<end>
@@ -1240,7 +1240,7 @@ Really!?<end>
 Of course he didn't die, you imbecile! You can't meet and talk to a man thirteen years after he died, can you? Never mind, I'll continue.<end>
 
 =>q200
-Конечно он не умер, $(#болван/дура)! Нельзя же встретиться и поговорить с человеком через тринадцать лет после того, как он умер, -- как ты думаешь? Короче, я рассказываю.<end>
+Конечно он не умер, $(#болван/дура)! Нельзя же встретиться и поговорить с человеком через тринадцать лет после того как он умер, -- как ты думаешь? Короче, я рассказываю.<end>
 
 =>a201_original
 Please do.<end>
@@ -1440,7 +1440,7 @@ I'm afraid he died fighting in Foundry. He helped me fight a giant beast.<end>
 ::Silence.:: It was a long time since we saw each other. Bloody bastard... Fighting beasts you say? Sounds just like him. At least he didn't die the boring way.<end>
 
 =>q230
-::Он молчит.:: Сто лет прошло с тех пор, как мы в последний раз виделись. Долбаный ублюдок... Победить зверя, говоришь? Звучит похоже на него. По крайней мере, он умер не от скуки.<end>
+::Он молчит.:: Сто лет прошло с тех пор как мы в последний раз виделись. Долбаный ублюдок... Победить зверя, говоришь? Звучит похоже на него. По крайней мере, он умер не от скуки.<end>
 
 =>a231_original
 Somewhere on the road.<end>
@@ -1500,7 +1500,7 @@ You use the console to set the target distance, right. Then you start a session.
 When you've had enough, end the session.<end>
 
 =>q239
-Значит, с консоли можно установить расстояние до цели. Затем ты начинаешь сессию. Во время сессии будут автоматически отслеживаться твои попадания и промахи. Так что, можно видеть свои успехи, пока стреляешь.
+Значит, с консоли можно установить расстояние до цели. Затем ты начинаешь сессию. Во время сессии будут автоматически отслеживаться твои попадания и промахи. Так что можно видеть свои успехи, пока стреляешь.
 
 Когда тебе уже хватит, закончи сессию.<end>
 
@@ -1716,7 +1716,7 @@ What do you want?<end>
 Listen, $(context.player.Name), don't you start thinking you're some kind of tough $(#guy/girl) after flicking a couple of switches in some bloody old outposts. Just to let you know.<end>
 
 =>q274
-Слушай, $(context.player.Name), не думай что ты так$(#ой/ая) крут$(#ой/ая) после того, как щёлкнул$(#/а) несколько переключателей на паре старых форпостов. Просто даю тебе знать.<end>
+Слушай, $(context.player.Name), не думай что ты так$(#ой/ая) крут$(#ой/ая) после того как щёлкнул$(#/а) несколько переключателей на паре старых форпостов. Просто даю тебе знать.<end>
 
 =>q275_original
 Yeah?<end>

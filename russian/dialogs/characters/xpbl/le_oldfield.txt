@@ -425,7 +425,7 @@ I have a report to make about Crimson Meadow, a massive horticulture center... :
 By the caverns, that is *un*believable, $(context.npc_xpbl_oldfield_playerName). The vegetation, the insects, the pesticide... amazing, truly amazing. <end>
 
 =>q64
-::Вам настолько хорошо удаётся передать угрюмую атмосферу центра садоводства, что профессор добрых полминуты остаётся безмолвным после того, как вы заканчиваете свой рассказ. Он говорит после этой паузы.::
+::Вам настолько хорошо удаётся передать угрюмую атмосферу центра садоводства, что профессор добрых полминуты остаётся безмолвным после того как вы заканчиваете свой рассказ. Он говорит после этой паузы.::
 
 Клянусь Подземкой, это *невероятно*, $(context.npc_xpbl_oldfield_playerName). Растительность, насекомые, пестициды... поразительно, поистине поразительно. <end>
 
@@ -569,7 +569,7 @@ After being here for this long there's nothing I find hard to believe anymore, $
 I have a report to make about Joint Security Headquarters. Now, after managing to pass that damned bioscan, I... ::Explain to him what you discovered.::<end>
 
 =>a87
-Я хочу доложить о Едином Центре Безопасности. После того, как мне удалось миновать этот чёртов биоскан, я... ::Рассказываете о том, что вы обнаружили.::<end>
+Я хочу доложить о Едином Центре Безопасности. После того как мне удалось миновать этот долбаный биоскан, я... ::Рассказываете о том, что вы обнаружили.::<end>
 
 =>q88_original
 ::You report all your findings while the professor, as always, listens with great attentiveness.::
@@ -1197,7 +1197,7 @@ However, the most interesting <end>
 - especially since you discovered one - <end>
 
 =>q185
-- особенно после того, как вы обнаружили одну - <end>
+- особенно после того как вы обнаружили одну - <end>
 
 =>q186_original
 are their submersibles. Yes. Most of their facilities are almost entirely under water, which leads to a logical conclusion that NFT needed something that could perform underwater construction and maintenance. What they had was a whole range of so-called *subassemblers* and *sublifters*. They would lower all of the needed materials with these spherical cargo pods, in documents referred to as *subspheres*, and from them the sublifters - submarines equipped with heavy-duty robotic arms - moved materials which subassemblers, well, assembled and used.
@@ -3408,7 +3408,7 @@ You now know what your primary goal is. Keep your eyes peeled... but I'm sure th
 =>q512
 Надеюсь, вы понимаете, почему это должно храниться в строжайшей тайне. Если кто-то из местных фракций узнает, что здесь находится, у них появится мотивация для конкуренции с нами. Мы здесь чужие, мы отрезаны и находимся в уязвимом положении. Мы, к примеру, никогда бы не смогли противостоять олигархам Кор-Сити.
 
-Теперь вы знаете, какова ваша главная цель. Так что, будьте начеку... хотя, я уверен, что вы и так это знаете.<end>
+Теперь вы знаете, какова ваша главная цель. Так что будьте начеку... хотя, я уверен, что вы и так это знаете.<end>
 
 =>q513_original
 Regarding your actual missions...<end>
@@ -4856,7 +4856,7 @@ What was this place called? It must've had a name in NFT's time.<end>
 We don't know, unfortunately. No records exist that could tell us that. The name we academics use is the Black Sea Project, but that is just how we've designated it. We hope that will change soon, though, after we have learned more about this place and what had happened here.<end>
 
 =>q740
-К сожалению, мы не знаем. Нет никаких записей, где бы упоминалось об этом. Мы, академики, в своём кругу, называем - черноморским проектом, и именно так мы его и обозначили. Мы надеемся, что это скоро изменится, после того, как мы узнаем больше об этом месте и о том, что здесь произошло.<end>
+К сожалению, мы не знаем. Нет никаких записей, где бы упоминалось об этом. Мы, академики, в своём кругу, называем - черноморским проектом, и именно так мы его и обозначили. Мы надеемся, что это скоро изменится, после того как мы узнаем больше об этом месте и о том, что здесь произошло.<end>
 
 =>a741_original
 You mentioned something about Biocorp military. Are they responsible for all of this?<end>
@@ -4888,7 +4888,7 @@ The exact reasons for this brutal, merciless act are still under debate, but the
 So far we've established what NFT was, what their vision was and that the Black Sea is one of the locations, if not the only, where they attempted to realize it. What follows is their demise at the hands of Biocorp military might after which things become rather dark, unclear.<end>
 
 =>q745
-::Он делает глоток воды из пластикового стаканчика, который стоял на столе с тех пор, как вы вошли.::
+::Он делает глоток воды из пластикового стаканчика, который стоял на столе с тех пор как вы вошли.::
 
 К данному моменту мы имеем представление, что такое ТНГ, каковы были их замыслы и что Чёрное море является одним из мест, если не единственным, где они попытались их реализовать. Далее следует их гибель от рук военной мощи Биокорп, после чего всё становится довольно смутным, неясным.<end>
 
@@ -4896,7 +4896,7 @@ So far we've established what NFT was, what their vision was and that the Black 
 Our mission here is to unearth history. To piece together the events that had led to NFT inhabiting this place following the Descent, to learn what happened during their reign and what their technological achievements were, what they'd discovered. Not only that, but also what happened in subsequent years, after they had... ceased to be. Biocorp slowly abandoned the Black Sea after making sure their enemies would not rise again, but we don't know why. They never exploited any of the NFT achievements here nor expanded into the area themselves. Why? This place has been shunned ever since, and there has to be a reason.<end>
 
 =>q746
-Наша задача узнать их историю. Собрать воедино все факты, из-за которых ТНГ обосновались в этом месте после спуска под землю, выяснить, что происходило во времена их господства и какими технологическими достижениями они обладали. Но не только это, а также о том, что было в последующие годы, после того, как их... не стало. Убедившись, что с их врагами покончено, Биокорп постепенно покинула Чёрное море, но мы не знаем, почему. Они никогда не использовали ни одно из достижений ТНГ и сами не расширялись в этом районе. Почему? С тех пор это место избегают, и на то должна быть причина.<end>
+Наша задача узнать их историю. Собрать воедино все факты, из-за которых ТНГ обосновались в этом месте после спуска под землю, выяснить, что происходило во времена их господства и какими технологическими достижениями они обладали. Но не только это, а также о том, что было в последующие годы, после того как их... не стало. Убедившись, что с их врагами покончено, Биокорп постепенно покинула Чёрное море, но мы не знаем, почему. Они никогда не использовали ни одно из достижений ТНГ и сами не расширялись в этом районе. Почему? С тех пор это место избегают, и на то должна быть причина.<end>
 
 =>q747_original
 There are many questions that await answers, and we hope the expedition will bring us just that - answers. Your ultimate mission, $(context.npc_xpbl_oldfield_playerName), no matter the recovery or escort job you might've been sent on, is to bring us history, technology, art - have you seen the enthralling sculptures that still guard their long-dead creators? The lighthouses, proud and beautiful, guiding even those who they were not built to guide? They produced so much, and it would be a shame not to preserve such marvels. And their technology - born out of the super-steel will to tame the untameable - their technology could illuminate this dark world for us like we've never imagined.<end>
@@ -4982,7 +4982,7 @@ There. That is all I had for you. Do you have any further questions?<end>
 =>q759
 Я уже сказал вам, что знал, с остальным к шефу Бриггсу. Он в своей палатке; я передал данные, которые мне прислал Сигер... ::Он заглядывает в свой компьютер.:: Да, да, передал.
 
-Так что, это всё, что у меня было для вас. У вас есть ещё вопросы?<end>
+Так что это всё, что у меня было для вас. У вас есть ещё вопросы?<end>
 
 =>a760_original
 I had a few questions for you.<end>
@@ -5238,7 +5238,7 @@ Professor, it appears that Ladelman had been correct all along: I had him ask ar
 Goodness me, Richard, who are we dealing with? These people must've settled here after Biocorp withdrew all its military from the Black Sea. But when, and why? They do not appear to have adopted any of the NFT technology, so why come here?<end>
 
 =>q801
-Боже мой, Ричард, да кто же они? Эти люди, должно быть, поселились здесь после того, как Биокорп вывела свою армию из Чёрного моря. Но когда, и почему? Они, похоже, не приняли на вооружение ни одну из технологий ТНГ, так почему же они пришли сюда?<end>
+Боже мой, Ричард, да кто же они? Эти люди, должно быть, поселились здесь после того как Биокорп вывела свою армию из Чёрного моря. Но когда, и почему? Они, похоже, не приняли на вооружение ни одну из технологий ТНГ, так почему же они пришли сюда?<end>
 
 =>a802_original
 Biocorp military? NFT?<end>

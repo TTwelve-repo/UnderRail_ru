@@ -228,7 +228,7 @@ So all in all, as far as I'm concerned, $(context.player.Name), we're done here.
 =>q36
 ::Он продолжает с места, на котором остановился: ::
 
-Прошу прощения. В целом, насколько я могу судить, $(context.player.Name), мы здесь закончили. Мне нужно кое-что доделать, так что, если только ты не хочешь ещё раз пройти испытательный полигон, у тебя нет причин оставаться здесь.<end>
+Прошу прощения. В целом, насколько я могу судить, $(context.player.Name), мы здесь закончили. Мне нужно кое-что доделать, так что если только ты не хочешь ещё раз пройти испытательный полигон, у тебя нет причин оставаться здесь.<end>
 
 =>a37_original
 As a matter of fact, I'd like to give it one more try. I never had access to a range like this before, so why not make the most of it while I'm here. ::[Start the tutorial]::<end>

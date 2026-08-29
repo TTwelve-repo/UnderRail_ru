@@ -88,7 +88,7 @@ Well, Corporal, I want you to go find them and negotiate their return. The offen
 You're an outsider, dear Corporal, or you were when the sergeant's squad went renegade, so it is my belief that they should feel less threatened by you - if you play your cards right. You were in no way connected to any of the recent goings-on in Fort Apogee, you couldn't have been, so the more neutral they perceive you to be, the better.<end>
 
 =>q14
-Вы человек со стороны, капрал -- ну, или были, когда отряд сержанта дезертировал, так что, я думаю, они не воспримут вас как угрозу, если вы разыграете свои карты правильно. Вы никак не связаны ни с какими недавними событиями в форте Апогей -- это просто невозможно, -- так что, чем более нейтрально они вас воспримут, тем лучше.<end>
+Вы человек со стороны, капрал -- ну, или были, когда отряд сержанта дезертировал, так что, я думаю, они не воспримут вас как угрозу, если вы разыграете свои карты правильно. Вы никак не связаны ни с какими недавними событиями в форте Апогей -- это просто невозможно, -- так что чем более нейтрально они вас воспримут, тем лучше.<end>
 
 =>a15_original
 What will happen to them if I convince them to come back?<end>
@@ -562,7 +562,7 @@ You are right, $(context.player.Name). It is not. We are separated from the lowe
 Shall we get down to business? The ambassador informed me that he told you about why you're here, or, better yet, what you will be doing here if you chose to join the Protectorate. Since you've made such a long journey here I have no doubts you'll soon become one of us, so to speak. However, you'll decide that upon discussing it with the colonel.<end>
 
 =>q87
-Перейдём к делу? Я уже знаю от посла, что он рассказал вам, зачем вы здесь или, точнее, чем вы будете заниматься, если примете решение присоединиться к Протекторату. Раз уж вы проделали такое долгое путешествие сюда, у меня нет сомнений в том, что скоро вы станете одн$(#им/ой) из нас, так сказать. Впрочем, решать вам, после того, как обсудите это с полковником.<end>
+Перейдём к делу? Я уже знаю от посла, что он рассказал вам, зачем вы здесь или, точнее, чем вы будете заниматься, если примете решение присоединиться к Протекторату. Раз уж вы проделали такое долгое путешествие сюда, у меня нет сомнений в том, что скоро вы станете одн$(#им/ой) из нас, так сказать. Впрочем, решать вам, после того как обсудите это с полковником.<end>
 
 =>q88_original
 Now, do you have any additional questions before we move onto the next phase? Did you understand everything so far?<end>

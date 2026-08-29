@@ -58,13 +58,13 @@ South Underrail hasn't been this turbulent ever since the break-up of Biocorp: E
 After you left, the council discussed you and your recent, first-hand experiences throughout South Underrail. We feel what you know would be of great use to our station. That is why we offer you this position, and it is something upon which we all agreed.<end>
 
 =>q9
-После того, как вы ушли, в совете обсуждали вас и ваши недавние похождения по Южной Подземке. Мы считаем, что вы очень пригодились бы нашей станции. Именно поэтому мы предлагаем вам эту должность, на чём мы сошлись единогласно.<end>
+После того как вы ушли, в совете обсуждали вас и ваши недавние похождения по Южной Подземке. Мы считаем, что вы очень пригодились бы нашей станции. Именно поэтому мы предлагаем вам эту должность, на чём мы сошлись единогласно.<end>
 
 =>q10_original
 You don't have to answer right away; think about this. You will most likely take over some of Tanner's duties, some of the ones you could manage. At first, then... well, we'll get into the details and specifics after you give me a positive answer.<end>
 
 =>q10
-Вам не обязательно отвечать сразу, подумайте об этом. Вы, скорее всего, примете на себя часть обязанностей Таннера, с которыми сможете управиться. Это для начала, потом... ну, углубимся в детали и конкретику после того, как вы дадите положительный ответ.<end>
+Вам не обязательно отвечать сразу, подумайте об этом. Вы, скорее всего, примете на себя часть обязанностей Таннера, с которыми сможете управиться. Это для начала, потом... ну, углубимся в детали и конкретику после того как вы дадите положительный ответ.<end>
 
 =>q11_original
 Do you want to become a councilor, $(context.player.Name)?<end>
@@ -798,7 +798,7 @@ $(context.player.Name), I am so glad you are alive. After we heard Protectorate 
 =>q129
 ::Едва вы входите в комнату, взгляд Веры становится прикован к вам. Тем не менее, вы понимаете, что обеспокоена она не только из-за вашего длительного отсутствия.::
 
-$(context.player.Name), я так рада, что вы живы. После того, как мы услышали, что Протекторат выступил против Института Чорта, и долго не имея весточки от вас, мы стали очень беспокоиться.<end>
+$(context.player.Name), я так рада, что вы живы. После того как мы услышали, что Протекторат выступил против Института Чорта, и долго не имея весточки от вас, мы стали очень беспокоиться.<end>
 
 =>a130_original
 Thank you for your concern, but I am fine.<end>

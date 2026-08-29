@@ -26,7 +26,7 @@ Yes. Who... are you?<end>
 I come from South Gate Station. I arrived there after you had left, so we hadn't had the chance to meet. I'm $(context.player.Name).<end>
 
 =>a5
-Я со станции Саут-Гейт. Я прибыл$(#/а) туда уже после того, как вы уехали, так что у нас не было шанса познакомиться. Меня зовут $(context.player.Name).<end>
+Я со станции Саут-Гейт. Я прибыл$(#/а) туда уже после того как вы уехали, так что у нас не было шанса познакомиться. Меня зовут $(context.player.Name).<end>
 
 =>q6_original
 ::She is silent as her eye inspects you, sluggishly moving down and up again. A quick tremble of her lips could have been an attempt at a smile, but the motion never proceeds farther than that.::
@@ -693,7 +693,7 @@ It's... Lora... Baker. South Gate... Station.<end>
 I come from South Gate Station. I arrived there after you had left, so we haven't had the chance to meet. I'm $(context.player.Name).<end>
 
 =>a110
-Я со станции Саут-Гейт. Я прибыл$(#/а) туда уже после того, как вы уехали, так что у нас не было шанса познакомиться. Меня зовут $(context.player.Name).<end>
+Я со станции Саут-Гейт. Я прибыл$(#/а) туда уже после того как вы уехали, так что у нас не было шанса познакомиться. Меня зовут $(context.player.Name).<end>
 
 =>q111_original
 ::She is silent as her eye inspects you, sluggishly moving down and up again. A quick tremble of her lips could have been an attempt at a smile, but the motion never proceeds farther than that.::
@@ -731,7 +731,7 @@ Terry... I though it was all over. Now, even if I die I'll know that... he made 
 Lora, I come from South Gate Station. I arrived there after you had left, so we haven't had the chance to meet. I'm $(context.player.Name).<end>
 
 =>a115
-Лора, я со станции Саут-Гейт. Я прибыл$(#/а) туда уже после того, как вы уехали, так что у нас не было шанса познакомиться. Меня зовут $(context.player.Name).<end>
+Лора, я со станции Саут-Гейт. Я прибыл$(#/а) туда уже после того как вы уехали, так что у нас не было шанса познакомиться. Меня зовут $(context.player.Name).<end>
 
 =>a116_original
 I know. But if you knew what they'd do to you next, you'd wish they had left you for dead.<end>

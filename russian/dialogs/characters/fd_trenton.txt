@@ -132,7 +132,7 @@ Since you came here, we've lost a critical hideout in Junkyard; we've lost many 
 =>q22
 Ровно шесть месяцев назад мы с Элвином и Марселлой разработали план, который позволит полностью парализовать технику Протектората в Южной Подземке.
 
-С тех пор, как приш$(#ёл/ла) ты, мы потеряли важнейшее убежище на Свалке; мы потеряли много хороших мужчин и женщин, и в первую очередь -- друзей; мы абсолютно уверены, что предатель затесался в наши ряды. С тех пор, как приш$(#ёл/ла) ты...<end>
+С тех пор как приш$(#ёл/ла) ты, мы потеряли важнейшее убежище на Свалке; мы потеряли много хороших мужчин и женщин, и в первую очередь -- друзей; мы абсолютно уверены, что предатель затесался в наши ряды. С тех пор как приш$(#ёл/ла) ты...<end>
 
 =>q23_original
 But don't worry, I have full faith in your loyalty. You couldn't have possibly known about all these things, about our plans, and after all, we've had our own doubts for some time before your arrival. Because of all this, the less people know about what we're about to do - the better.
@@ -274,7 +274,7 @@ I guess I should see Becket about the explosives?<end>
 That is correct. He will give you five C4 charges and a detonator. Once you have placed all the explosives, get to a safe distance and detonate. Protectorate will be in chaos after this, leaving us with enough room to assault South Railroad Outpost.<end>
 
 =>q43
-Да. Он даст тебе пять зарядов С-4 и детонатор. После того, как ты разместишь всю взрывчатку, отходи на безопасное расстояние и взрывай. Протекторат погрузится в хаос, предоставив нам возможность для штурма Форпоста южной железной дороги.<end>
+Да. Он даст тебе пять зарядов С-4 и детонатор. После того как ты разместишь всю взрывчатку, отходи на безопасное расстояние и взрывай. Протекторат погрузится в хаос, предоставив нам возможность для штурма Форпоста южной железной дороги.<end>
 
 =>q44_original
 I wish you all the best, $(context.player.Name). Don't forget to talk to Becket.<end>
@@ -794,7 +794,7 @@ What happens now?<end>
 ::He calls one of his fighters, mentioning to him the sum you and him had agreed to. After the said fighter leaves, Trenton answers your question.:: <end>
 
 =>q129
-::Он вызывает одного из своих бойцов и называет оговорённую сумму. После того, как этот боец уходит, Трентон отвечает на ваш вопрос.:: <end>
+::Он вызывает одного из своих бойцов и называет оговорённую сумму. После того как этот боец уходит, Трентон отвечает на ваш вопрос.:: <end>
 
 =>q130_original
 We'll send it North as soon as we can; we got some tech experts there who can take a look at it. It's all in their hands now.<end>
@@ -1280,7 +1280,7 @@ What if she's the spy?<end>
 It is quite possible, even though I hope she's not. I mean, we've had incidents where Protectorate expected us happen even after she disappeared. We searched for bugs and other concealed equipment, but found nothing.<end>
 
 =>q209
-Вполне возможно, хотя надеюсь, что нет. Были инциденты, когда Протекторат знал о наших планах даже после того, как она исчезла. Мы искали жучки и следящую аппаратуру, но ничего не нашли.<end>
+Вполне возможно, хотя надеюсь, что нет. Были инциденты, когда Протекторат знал о наших планах даже после того как она исчезла. Мы искали жучки и следящую аппаратуру, но ничего не нашли.<end>
 
 =>q210_original
 I hope she hasn't betrayed us. Traitors are punished by death, and if we ever find her, we're going to have a long talk...<end>
@@ -1298,7 +1298,7 @@ Maybe she ran away?<end>
 She is not a coward, that I can be certain of. Either something happened to her, or she's not on our side anymore. Yes, perhaps *she* is the spy. It would be logical. On the other hand, we've had incidents where Protectorate expected us happen even after she disappeared. We searched for bugs and other hidden equipment, but found nothing.<end>
 
 =>q212
-Она не из трусливых, в этом я могу быть уверен. Или что-то с ней случилось, или она больше не на нашей стороне. Да, возможно *она* и есть шпион. Это было бы логично. С другой стороны, были инциденты, когда Протекторат знал о наших планах даже после того, как она исчезла. Мы искали жучки и следящую аппаратуру, но ничего не нашли.<end>
+Она не из трусливых, в этом я могу быть уверен. Или что-то с ней случилось, или она больше не на нашей стороне. Да, возможно *она* и есть шпион. Это было бы логично. С другой стороны, были инциденты, когда Протекторат знал о наших планах даже после того как она исчезла. Мы искали жучки и следящую аппаратуру, но ничего не нашли.<end>
 
 =>a213_original
 I'd like to ask you another question.<end>

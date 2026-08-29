@@ -888,7 +888,7 @@ Is this a joke, $(context.player.Name)? Return to me only if you have something 
 I've been experiencing this aching sensation in my head ever since I came to this place. Why is that so?<end>
 
 =>a145
-Я испытываю щемящее ощущение в голове с тех пор, как я здесь. Откуда оно?<end>
+Я испытываю щемящее ощущение в голове с тех пор как я здесь. Откуда оно?<end>
 
 =>q146_original
 I see. I presume you haven't been prepared for your descent, so I understand why you've been feeling these sensations. It takes some time for Tchort to probe the minds of those who wander into its domain, and the process might feel uncomfortable for the untrained Tchortists such as yourself. However, for *others* - those whom Tchort perceives as threats, or as simply unwanted - for those the effects would be much more severe.<end>
@@ -1538,7 +1538,7 @@ I know you have done a lot since you arrived here, but I would like to make myse
 =>q248
 ::Ему требуется пара секунд, чтобы успокоиться.:: 
 
-Я знаю, вы многое сделали с тех пор, как попали к нам, но хочу ясно выразиться, $(context.player.Name), а вы лучше слушайте внимательно: мне нужно, чтобы все в Цитозине были готовы и в строю, насколько это возможно, а вы уничтожаете все мои усилия. Однако, именно потому, что мне нужны *все* люди, вы не будете наказаны прямо сейчас. Если вы снова выкинете что-нибудь подобное... что же...<end>
+Я знаю, вы многое сделали с тех пор как попали к нам, но хочу ясно выразиться, $(context.player.Name), а вы лучше слушайте внимательно: мне нужно, чтобы все в Цитозине были готовы и в строю, насколько это возможно, а вы уничтожаете все мои усилия. Однако, именно потому, что мне нужны *все* люди, вы не будете наказаны прямо сейчас. Если вы снова выкинете что-нибудь подобное... что же...<end>
 
 =>q249_original
 Am I clear enough, $(context.player.Name)?<end>
