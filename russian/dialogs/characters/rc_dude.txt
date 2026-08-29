@@ -5185,7 +5185,7 @@ H-here you go. ::Give him the keycard.::<end>
 I remember this... It's one of the old cards I had had on me since forever. Hey, I even remember programming it to work with this lock. I've done a lot of ad hoc stuff during my lifetime. Like, like the time I found myself in a burrower nest with only a lighter and a loaf of rootbread. Man... A dude's gotta think fast in those kinds of situations.<end>
 
 =>q816
-Я вспоминаю её... это одна из старых карточек, которые лежали у меня с незапамятных времён. Эй, я даже помню, как запрограммировал её на работу с этим замком. Я сделал кучу необычных штуковин за свою жизнь. Например, как в тот раз, когда я очутился в гнезде могильщиков с одной лишь зажигалкой и буханкой чёрствого хлеба. Блин... Чувак должен быстро соображать в подобных ситуациях.<end>
+Я помню её... это одна из старых карточек, которые лежали у меня с незапамятных времён. Эй, я даже помню, как запрограммировал её на работу с этим замком. За свою жизнь мне часто приходилось импровизировать. Например, как в тот раз, когда я очутился в гнезде могильщиков с одной лишь зажигалкой и буханкой чёрствого хлеба. Блин... Чувак должен быстро соображать в подобных ситуациях.<end>
 
 =>a817_original
 C-an you o-open the door now, Dude?<end>
@@ -5649,7 +5649,7 @@ Alright. I guess I shouldn't have underestimated you. You're, like, one totally 
 Yeah, that's why...<end>
 
 =>q889
-::Как только Чувак захлопывает дверь, рычание, хрюканье, визг и оглушительный стук начинают давить на ваши барабанные перепонки - как будто головной боли от выпитого было не недостаточно. Твари, разъярённые своей несчастной судьбой и вашим похмельем, пытаются выломать дверь; но пока она держится. Тем временем, Чувак смотрит сквозь вас отсутствующим взглядом и медленно кивает.::
+::Как только Чувак захлопывает дверь, рычание, хрюканье, визг и оглушительный грохот начинают давить на ваши барабанные перепонки, как будто головной боли от выпитого было не недостаточно. Твари, разъярённые своей несчастной судьбой, пытаются выломать дверь, но пока она держится. Тем временем, Чувак смотрит сквозь вас отсутствующим взглядом и медленно кивает: ::
 
 Ага, вот почему...<end>
 
@@ -5659,9 +5659,9 @@ Yeah, that's why...<end>
 An earthquake woke me up. Then I heard the mutants. ::He pauses.:: Then I ran away. In my pajamas. No, wait - I was naked. Oh...<end>
 
 =>q890
-::Его тихий голос почти тонет в звуках чудовищного гнева, доносящегося с другой стороны.::
+::Его тихий голос почти тонет в звуках чудовищного гнева, доносящихся с другой стороны.::
 
-Меня разбудило землетрясение. Затем я услышал мутантов. ::Он замолкает.:: И тогда я сбежал. В одной пижаме. Нет, погоди - я был голый. Ох...<end>
+Меня разбудило землетрясение. Затем я услышал мутантов. ::Он замолкает.:: И тогда я сбежал. В одной пижаме. Нет, погоди -- я был голый. Ох...<end>
 
 =>q891_original
 <end>
@@ -5995,7 +5995,7 @@ Well, go and find it then.<end>
 Damn it... I need a keycard. I think I... I think I even saw that in the vision. Yeah, yeah. Damn it, why do I have to lock everything and not bring the keys with me?<end>
 
 =>q943
-Проклятье... Мне нужна ключ-карта. Кажется... кажется, я даже видел это в видении. Да, точно. Будь оно проклято, ну почему я обязательно всё запираю и не беру с собой ключи?<end>
+Да блин... Мне нужна ключ-карта. Кажется... кажется, я даже видел это в видении. Да, точно. Будь оно проклято, ну почему я всегда всё запираю и не беру с собой ключи?<end>
 
 =>a944_original
 M-maybe it's the brew's fault?<end>
@@ -6019,7 +6019,7 @@ Man, like, really? I'm not even going to comment on that. Wow.<end>
 If you can't find the keycard... I'll let you try it then. Otherwise, yeah - no. I don't remember whether it was in this home or somewhere else that I made a hacking-proof system which zaps you if you try fiddling with it, so I'd rather not risk your life just yet. We need the keycard, man.<end>
 
 =>q947
-Если не сможешь найти ключ-карту... я дам тебе попробовать. Иначе, ну... нет. Не помню, в этом ли доме или в каком-то другом, но я собрал защищённую от взлома систему, которая поджарит тебя, если попытаешься в ней ковыряться, так что я предпочёл бы пока не рисковать твоей жизнью. Нам нужна ключ-карта, $(#брат/сестра).<end>
+Если не сможешь найти ключ-карту... я дам тебе попробовать. Иначе, ну... нет. Не помню, в этом ли доме или в каком-то другом, но я собрал защищённую от взлома систему, которая поджарит тебя, если попытаешься в ней поковыряться, так что я предпочёл бы пока не рисковать твоей жизнью. Нам нужна ключ-карта, $(#брат/сестра).<end>
 
 =>q948_original
 <end>
@@ -6031,13 +6031,13 @@ If you can't find the keycard... I'll let you try it then. Otherwise, yeah - no.
 The keyc-card's gotta be a-round here sssssomewhere.<end>
 
 =>a949
-Ключ-карта должна быть где-то з-з-здесь.<end>
+Карта должна быть где-то з-з-здесь.<end>
 
 =>q950_original
 Well, take a look around. I'm gonna stand here and figure out how to process all these memories from the past. It's hard work, man, hard work.<end>
 
 =>q950
-Ладно, пойди осмотрись. А я постою здесь и попробую разобраться со всеми этими воспоминаниями из прошлого. Это непросто, $(#брат/сестра), очень непросто.<end>
+Вот и осмотрись. А я постою здесь и попробую разобраться со всеми этими воспоминаниями из прошлого. Это непросто, $(#брат/сестра), очень непросто.<end>
 
 =>a951_original
 W-here do we get the k-keycard?<end>
@@ -6053,7 +6053,7 @@ So many memories are just, like, flooding in now. Man... *man*...<end>
 =>q952
 Знаешь, нам очень повезло, что я упал и ударился головой о бетонную плиту, иначе я никогда бы не вспомнил о существовании этого места. Никогда.
 
-Столько воспоминаний нахлынуло, типа, прямо сейчас. Блин... *блин*...<end>
+Столько воспоминаний, типа, нахлынуло прямо сейчас. Блин... *блин*...<end>
 
 =>a953_original
 W-why did you r-relocate so often?<end>
@@ -6071,7 +6071,7 @@ Ah, there are many reasons: <end>
 People wanting to kill me, robotic ghosts following me around, nightmarish creatures appearing in my house, it being too damn noisy; the usual stuff, man. I can't remember why I left this place in particular, though. Must've been the bandits throwing grenades down at me or something, 'cause I remember... I remember one time waking up to a grenade blast. Yeah.<end>
 
 =>q955
-Люди, желающие меня убить, роботизированные призраки, следующие за мной по пятам, существа из ночных кошмаров, возникающие в моём доме, всё это чертовски шумно; в общем, обычная ерунда, $(#брат/сестра). Если подумать, я даже не помню, почему именно покинул это место. Должно быть, бандиты забросали меня гранатами или вроде того, потому что я вспоминаю... вспоминаю, как однажды проснулся от взрыва гранаты. Ага.<end>
+люди, желающие меня убить, робопризраки, следующие за мной по пятам, существа из ночных кошмаров, возникающие в моём доме, да и просто шумовое загрязнение -- в общем, обычная ерунда, $(#брат/сестра). Если подумать, я даже не помню, почему именно покинул это место. Должно быть, бандиты забросали меня гранатами или вроде того, потому что я помню... помню, как однажды проснулся от взрыва гранаты. Ага.<end>
 
 =>q956_original
 Anyway, let's go in. I can't wait to see my old place again.<end>
@@ -6101,13 +6101,13 @@ Okay now. Follow me.<end>
 ::[Drunkenness]:: Got some more b-brew inside?<end>
 
 =>a960
-::[Опьянение]:: В-внутри есть ещё с-са-могон?<end>
+::[Опьянение]:: Там есть ещё с-са-могон?<end>
 
 =>q961_original
 I always keep brew stashes around, so... maybe. It's been a while, man.<end>
 
 =>q961
-Я всегда делаю заначки с самогоном, так что... возможно. Прошло много времени, $(#брат/сестра).<end>
+Я всегда делаю заначки с самогоном, так что... возможно. Я здесь давно не был, $(#брат/сестра).<end>
 
 =>a962_original
 D-do y-you have a bathroom inside? I gotta do a thing.<end>
@@ -6125,7 +6125,7 @@ Uh... We'll figure s-something out, man. Hold it in for now.<end>
 C-can't wait to see what moved in after you left.<end>
 
 =>a964
-Не т-терпится узнать, что произошло после твоего у-ухода.<end>
+Не т-терпится узнать, здесь кто поселился после твоего у-ухода.<end>
 
 =>q965_original
 Don't jinx it, man. Didn't you learn anything I taught you? Never jinx. Never.<end>
@@ -6143,7 +6143,7 @@ So, you u-used to live here too?<end>
 Used too... There are many reasons why I leave my homes: <end>
 
 =>q967
-Есть много причин, почему я покидаю свои дома: <end>
+Когда-то. Есть много причин, почему я покидаю свои дома: <end>
 
 =>q968_original
 You ready, man?<end>
@@ -6161,7 +6161,7 @@ Let's go, D-Dude. I'm r-eady.<end>
 Okay. Now, uh... how exactly did we get inside this place?<end>
 
 =>q970
-Отлично. А теперь, эм... как именно мы сюда попали?<end>
+Отлично. Только, эм... как именно мы сюда попали?<end>
 
 =>a971_original
 ::Follow Dude.::<end>
@@ -6179,7 +6179,7 @@ J-ust one more thing.<end>
 Come on, man. You'll sober up. That's never good.<end>
 
 =>q973
-Давай, $(#брат/сестра). Ты же протрезвеешь. А это никуда не годится.<end>
+Давай быстрее, $(#брат/сестра). Ты же протрезвеешь. А это никуда не годится.<end>
 
 =>q974_original
 And?<end>
@@ -6205,15 +6205,15 @@ An unsaturated psio-- ::He snaps his fingers.:: That's it!<end>
 But even if you're properly prepared, fragments of your mind - memories and emotions - might still stay behind, and you won't be able to get them back. These fragments will be lost forever... I think.<end>
 
 =>q977
-::Его взгляд становится отстранённым.:: Блин, теперь я вспомнил. Чтобы войти в разлом реальности, необходимо, чтобы разум не только воспринимал его, но и мог безопасно по нему путешествовать. *Только* если разум знает, какая реальность кроется за разломом, он сможет её достичь. В противном случае тело пройдёт свободно, а сознание останется позади. Тебя просто разделит: твоё сознание угаснет без мозга, поддерживающего его существование, в то время как твоё бессознательное тело продолжит скитаться по миру, пока не истлеет. В конце концов, они снова сольются, типа, в небытии.
+::Его взгляд становится отстранённым.:: Блин, теперь я вспомнил. Чтобы войти в разлом реальности, необходимо, чтобы разум не только воспринимал его, но и мог безопасно по нему путешествовать. *Только* если разум знает, какая реальность кроется за разломом, он сможет её достичь. В противном случае тело пройдёт свободно, а сознание останется позади. Тебя просто разделит: твоё сознание угаснет без мозга, в то время как твоё бессознательное тело продолжит скитаться по миру, пока не истлеет. В конце концов они снова сольются, типа, в небытии.
 
-Но даже если должным образом подготовиться, фрагменты твоего разума - воспоминания и эмоции - всё равно могут остаться за разломом, и тебе их уже не вернуть. Полагаю... эти фрагменты будут безвозвратно утрачены.<end>
+Но даже если должным образом подготовиться, фрагменты твоего разума -- воспоминания и эмоции -- всё равно могут остаться за разломом, и тебе их уже не вернуть. Полагаю... эти фрагменты будут безвозвратно утрачены.<end>
 
 =>q978_original
 Man, my head hurts from all this remembering. But, what is important is that the unsaturated psionic catalyst is a component - an *ingredient*, yes - necessary in preparing the mind for rift-walking. Yeah, rift-walking - that's the term. The brew lets you see, the catalyst lets you enter...<end>
 
 =>q978
-Блин, башка просто раскалывается из-за всех этих воспоминаний. Но главное то, что ненасыщенный псионический катализатор - это компонент - *ингредиент*, ага - необходимый для подготовки разума к хождению по разломам. Ну конечно, хождение по разломам - вот как это называется! Самогон позволяет увидеть, катализатор позволяет войти...<end>
+Блин, башка просто раскалывается из-за всех этих воспоминаний. Но главное то, что ненасыщенный псионический катализатор это компонент -- *ингредиент*, ага, -- необходимый для подготовки разума к хождению по разломам. Ну конечно, хождение по разломам -- вот как это называется! Самогон позволяет увидеть, катализатор позволяет войти...<end>
 
 =>q979_original
 <end>
@@ -6231,7 +6231,7 @@ Man, my head hurts from all this remembering. But, what is important is that the
 Whoa. Maybe, maybe. Knowing how I do things... Man, you're really getting to know me. I like that. It's like this... bond-like thing. We're bonding.<end>
 
 =>q981
-Ого! Может быть, может быть. Знать, как я поступаю... Блин, ты действительно начинаешь меня узнавать. Мне это нравится. Это что-то типа связи... Мы сближаемся.<end>
+Ого! Может быть, может быть. Зная меня.. Блин, ты действительно начинаешь меня понимать. Мне это нравится. Это что-то типа связи... Мы связываемся.<end>
 
 =>a982_original
 H-how do you k-now all t-these things? And have you b-been r-rift-walking yourself before?<end>
@@ -6243,7 +6243,7 @@ H-how do you k-now all t-these things? And have you b-been r-rift-walking yourse
 I'm the Dude, I know things. My head is like this bony bowl of cerebrospinal stew with a large nervous dumpling in the middle. Yet I am rarely nervous. You know what I mean, man? And can't you see I've been working on this for... for who knows how many years. I *must've* rift-walked too. Like, yeah.<end>
 
 =>q983
-Я же Чувак, я знаю всякое. Моя голова - что-то типа костной чаши со спинномозговым рагу и здоровенным пельменем нервов посередине. Но я вообще не нервничаю. Понимаешь, о чём я, $(#брат/сестра)? Разве не заметно, что я занимаюсь этим уже... уже хрен знает сколько лет. И уж *наверное* по разломам я тоже ходил. Похоже на то.<end>
+Я же Чувак, я знаю всякое. Моя голова, типа, как костяная тарелка со спинномозговым рагу и здоровенным пельменем нервов посередине. Хотя я вообще не нервничаю. Понимаешь, о чём я, $(#брат/сестра)? Разве не заметно, что я занимаюсь этим уже... уже хрен знает сколько лет. И уж *наверное* по разломам я тоже ходил. Типа, логично.<end>
 
 =>q984_original
 Trust me. And the visions. Always trust the visions.<end>
@@ -6255,7 +6255,7 @@ Trust me. And the visions. Always trust the visions.<end>
 I dig, I d-d-ig. Sssso, are we d-done here?<end>
 
 =>a985
-Кажись, я в-в-врубаюсь. Ну-у-у-у, так, что, здесь мы з-закончили?<end>
+Кажись, я в-врубаюсь. Ну-у-у, так, что, здесь мы з-закончили?<end>
 
 =>q986_original
 Yeah, man. Just make sure you bring the catalyst with you. We're gonna need it.
@@ -6361,7 +6361,7 @@ So either look for the key or try picking the lock or something.<end>
 I'll t-t-t... t-t-t... Damn it! *Try*.<end>
 
 =>a1000
-Я п-п-поп... Проклятье! *Попробую*.<end>
+Я п-п-поп... Блин! *Попробую*.<end>
 
 =>a1001_original
 I a-lready found it in a floor c-crack. Nice crack it w-was!<end>

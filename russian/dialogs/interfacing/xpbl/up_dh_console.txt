@@ -6,7 +6,7 @@ Below the display, the console contains a few simple buttons labeled on, off, re
 =>q1
 ::Перед вами покрытый пылью терминал, на экране которого странная мешанина из символов. А именно, вы видите строчки букв и цифр, расположенных, с виду, в полном беспорядке. Вы вполне уверены, что это не последствия интоксикации, а действительно результат какой-то неисправности.
 
-Ниже дисплея на терминале расположены несколько обычных кнопок, подписанных: «Вкл», «Выкл», «Сброс», «Пуск», «Стоп», и, судя по толстому слою пыли, долгие годы к ним никто не прикасался.::<end>
+Ниже дисплея на терминале расположены несколько обычных кнопок, подписанных: «Вкл», «Выкл», «Сброс», «Пуск», «Стоп», и судя по толстому слою пыли, долгие годы к ним никто не прикасался.::<end>
 
 =>q2_original
 ::Dude gives you an impatient look.::<end>
@@ -40,6 +40,8 @@ Below the display, the console contains a few simple buttons labeled on, off, re
 mgIsTdbvWyJfhTYcsPEA::<end>
 
 =>q6
+
+
 ::POlk182 zZz190 Okl145
 
 mgIsTdbvWyJfhTYcsPEA::<end>
@@ -54,7 +56,7 @@ mgIsTdbvWyJfhTYcsPEA::<end>
 ::The pipes passing through the walls begin to rattle violently, stabilizing after a couple of seconds. And then you hear the frigid hissing of the gas filling the room across.::<end>
 
 =>q8
-::Проходящие вдоль стен трубы начинают сильно дребезжать, но через пару секунд стабилизируются. Затем вы слышите, как газ с безразличным шипением заполняет комнату за стеной.::<end>
+::Проходящие вдоль стен трубы начинают яростно дребезжать, но через пару секунд стабилизируются. Затем вы слышите, как газ с безразличным шипением заполняет комнату за стеной.::<end>
 
 =>a9_original
 ::Deactivate::<end>
@@ -86,7 +88,9 @@ mgIsTdbvWyJfhTYcsPEA::<end>
 ::[Intelligence] Your keen mind is quick to extract a pattern upon looking at the screen: Each and every line has a number or numbers right at the start of it, in the middle and at its very end. If all of the double numbers are actually singular two-digit numbers, that would mean that each line has three numbers in it, an occurrence that, you find, cannot be ignored.::<end>
 
 =>q13
-::[Интеллект] Ваш острый ум быстро находит на экране закономерность: в каждой строке имеется одна или несколько цифр в её начале, в середине и в конце. Если считать, что все группы из двух цифр это двузначные числа, то это значит, что в каждой строке имеется три числа, -- явление, которое, как вам кажется, неслучайно.::<end>
+
+
+::[Интеллект] Ваш пытливый ум быстро находит на экране закономерность: в каждой строке имеется одна или несколько цифр в её начале, в середине и в конце. Если считать, что все группы из двух цифр это двузначные числа, то это значит, что в каждой строке имеется три числа, -- явление, которое, как вам кажется, не случайно.::<end>
 
 =>q14_original
 <end>
