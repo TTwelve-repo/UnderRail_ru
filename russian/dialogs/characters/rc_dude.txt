@@ -5191,7 +5191,7 @@ I remember this... It's one of the old cards I had had on me since forever. Hey,
 C-an you o-open the door now, Dude?<end>
 
 =>a817
-Теперь то т-ты м-можешь открыть д-дверь, Чувак?<end>
+Теперь-то т-ты м-можешь открыть д-дверь, Чувак?<end>
 
 =>q818_original
 Yeah, right. The journey continues...<end>
@@ -5245,7 +5245,7 @@ I'm ready.<end>
 Great! Now, get ready to boost me up so that I can reach those ladders. Then I'll give you a hand. And no - I won't drop you again, man. I promise.<end>
 
 =>q826
-Здорово! А теперь приготовься поднять меня, чтобы я смог дотянуться до лестницы. Потом я подам тебе руку. И нет, $(#брат/сестра) - я не уроню тебя снова. Обещаю.<end>
+Здорово! Подсади-ка меня, чтобы я мог дотянуться до лестницы. Потом я подам тебе руку. И нет, $(#брат/сестра) -- я не уроню тебя снова. Обещаю.<end>
 
 =>a827_original
 ::Follow Dude.::<end>
@@ -5275,7 +5275,7 @@ Found anything?<end>
 I found some morphine, a lab c-coat and - for some s-s-strange reason - a groin guard in that locker over th-ere.<end>
 
 =>a831
-Я наш$(#ёл/ла) в ш-шкафчике немного морфина, лабораторный х-халат и - к моему удив-в-влению - защ-щиту для паха.<end>
+Я наш$(#ёл/ла) в ш-шкафчике немного морфина, лабораторный х-халат и -- к моему удив-в-влению -- защ-щиту для паха.<end>
 
 =>q832_original
 Hey, man, I know you're not a man, so I never expect you to understand, but a dude's got to keep his man-boulders safe at all times. <end>
@@ -5287,13 +5287,13 @@ Hey, man, I know you're not a man, so I never expect you to understand, but a du
 In this terrible world a rathound could bite them off, a Lurker could chop them off, and a train could run you over - and that includes your sensitives. It's testicular genocide waiting to happen, man, and you gotta be prepared for it. So wherever I go I make sure I got protection.<end>
 
 =>q833
-В этом ужасном мире их может отгрызть крысоволк, их может отрубить затаившийся скрытень, да и поезд может тебя переехать - включая и твою чувствительную парочку. Этот геноцид яичек только, блин, и ждёт своего часа, и к нему надо быть готовым. Поэтому, куда бы я ни пошёл, я должен быть уверен, что у меня есть защита.<end>
+В этом ужасном мире их может отгрызть крысоволк, их может отрубить затаившийся скрытень, да и поезд может тебя переехать -- включая и твою чувствительную парочку. Этот геноцид яичек только, блин, и ждёт своего часа, и к нему надо быть готовым. Поэтому куда бы я ни пошёл, я должен быть уверен, что у меня есть защита.<end>
 
 =>q834_original
 Now, what else did you say was in that locker?<end>
 
 =>q834
-Так, что ты говоришь было в том шкафчике?<end>
+Так, что, ты говоришь, было в том шкафчике?<end>
 
 =>a835_original
 Morphine and a lab c-coat.<end>
@@ -5311,7 +5311,7 @@ Morphine and a lab c-coat.<end>
 ::Again, as in his house in Core City, Dude's gaze turns distant.:: Once you prepare the mind, you can enter a rift. The mind is safe... but then your body is the one at risk while you're walking through the guts of the Universe, trying to, like, reach the exit rift. Um, that's the scientific name for it - exit rift. Anyways, untold horrors await those who enter: Abrasive winds will tear your flesh away, toxic fumes will incinerate your lungs, and blinding darkness will *totally* mess up your eyes. Powerful radiation will bombard your very cells, malforming them into these, like... tumor-manufacturing organic machines.<end>
 
 =>q837
-::И снова, как и в его доме в Кор-Сити, взгляд Чувака становится отстранённым.:: Как только подготовишь разум, сможешь войти в разлом. Разум в безопасности. Но ведь именно тело подвергается риску, пока идёшь по нутру вселенной, стараясь, типа, добраться до выходного разлома. Гм, это такой научный термин. Выходной разлом. В любом случае, тех, кто туда ступает, ждут непередаваемые ужасы: яростные ветра, разрывающие плоть, ядовитые испарения, сжигающие лёгкие, и слепящая тьма, *полностью* разрушающая зрение. Мощное излучение будет бомбардировать клетки организма, преображая их, типа... в органические машины, производящие опухоли.<end>
+::И снова, как и в его доме в Кор-Сити, взгляд Чувака становится отстранённым.:: Как только подготовишь разум, сможешь войти в разлом. Разум в безопасности... но ведь и тело подвергается риску, пока идёшь по нутру вселенной, стараясь, типа, добраться до выходного разлома. Гм, это такой научный термин -- выходной разлом. В любом случае, тех, кто туда ступает, ждут непередаваемые ужасы: яростные ветра, разрывающие плоть, ядовитые испарения, сжигающие лёгкие, и слепящая тьма, *полностью* разрушающая зрение. Мощное излучение будет бомбардировать клетки организма, преображая их, типа... в органические машины для производства опухолей.<end>
 
 =>q838_original
 But it's not just that, there are living things there too, hiding in the shadows. You'll be walking this, like, dark, desolate landscape. It surrounds you from all sides, man, 'cause the sky and the ground are one and the same. The air is, like, alive, and out of it claws, teeth, blades, tentacles, and sometimes even wings take shape. Those will cut you, bite you, pierce you, whack you, flap at you and do *all* kinds of deadly unpleasantries. And you will hear nothing but demonic shrieking and the sound of your flesh being torn apart. If you are not prepared, your body will be destroyed. 
@@ -5319,7 +5319,7 @@ But it's not just that, there are living things there too, hiding in the shadows
 That's not good, man.<end>
 
 =>q838
-Но и это ещё не всё, там есть нечто живое, скрывающееся в тени. Ты будешь ходить по этой, скажем так, тёмной, пустынной местности. Она окружит тебя со всех, блин, сторон, потому что небо и земля - там одно целое. Воздух там, словно живой, из него появляются руки, когти, зубы, лезвия, а иногда и крылья. Они будут резать, кусать, колоть, бить тебя и устраивать прочие смертельные неприятности. И ты не услышишь ничего, кроме дьявольского вопля и звука разрываемой на части собственной плоти. И если ты не подготовишься, твоё тело будет уничтожено.
+Но и это ещё не всё, там есть нечто живое, скрывающееся в тени. Ты будешь ходить по этой, скажем так, тёмной, пустынной местности. Она окружит тебя со всех, блин, сторон, потому что небо и земля там одно целое. Воздух там словно живой, из него появляются руки, когти, зубы, лезвия, а иногда и крылья. Они будут резать, кусать, колоть, бить и шлёпать тебя и устраивать прочие смертельные неприятности. И ты не услышишь ничего, кроме дьявольского вопля и звука разрываемой на части собственной плоти. И если ты не подготовишься, твоё тело будет уничтожено.
 
 А это хреново, $(#брат/сестра).<end>
 
@@ -5327,7 +5327,7 @@ That's not good, man.<end>
 But there is a way to avoid that too: morphine. It relieves the pain, and if you don't feel pain it means the body is not getting hurt. Yeah, yeah. It's logical. And it feels like pulling a decayed tooth after anesthetizing yourself with lotsa brew. You feel something moving in your jaw, cracking and all that - but no pain. You know all that? It's the same once you enter a rift: You feel all these things around you, pushing and nudging, but there is no pain, so you're not getting hurt. Of course, the difference is you don't end up missing a tooth there. Or, like, skin and flesh and bones.<end>
 
 =>q839
-Но есть способ избежать этого, и это - морфин. Он облегчает боль, а если не чувствуешь боли, значит с твоим телом всё в порядке. Да, да. Это логично. Ощущения такие, словно ты вырываешь себе гнилой зуб, используя в качестве анестезии крепкий самогон. Ты чувствуешь движение во рту, треск, кровь и всё такое, но боли нет. Ты знал$(#/а) это? То же самое происходит, когда входишь в разлом: ты чувствуешь вокруг себя всю эту хрень, прикосновения и толчки, но боли нет, так что ты не пострадаешь. Разумеется, разница в том, что в разломе ты не потеряешь ни одного зуба или, типа, кожу, плоть и кости.<end>
+Но есть способ избежать этого -- морфин. Он облегчает боль, а если не чувствуешь боли, значит с твоим телом всё в порядке. Да, да. Это логично. Ощущения такие, словно ты вырываешь себе гнилой зуб под анестезией из крепкого самогона. Ты чувствуешь движение во рту, треск, кровь и всё такое, но боли нет. Ты знал$(#/а) это? То же самое происходит, когда входишь в разлом: ты чувствуешь вокруг себя всю эту хрень, прикосновения и толчки, но боли нет, так что ты не пострадаешь. Разумеется, разница в том, что в разломе ты не потеряешь ни одного зуба или, типа, кожу, плоть и кости.<end>
 
 =>a840_original
 That is... f-fascinating.<end>
@@ -5339,7 +5339,7 @@ That is... f-fascinating.<end>
 ::He largely ignores your words.:: The brew lets you see, the catalyst lets you enter, the morphine lets you survive... There's one more, man. It's at the tip of my tongue. I can't...<end>
 
 =>q841
-::Он полностью игнорирует ваши слова.:: Самогон позволяет увидеть, катализатор - войти, морфин - выжить... Должно быть ещё одно, $(#брат/сестра). На языке вертится. Не могу...<end>
+::Он полностью игнорирует ваши слова.:: Самогон позволяет увидеть, катализатор -- войти, морфин -- выжить... Должно быть ещё что-то, $(#брат/сестра). На языке вертится. Не могу...<end>
 
 =>q842_original
 ::He takes an empty bottle and hits himself in the head. And again. After a further pause, he continues.:: Nothing. Well, it worked the last time I tried. 
@@ -5347,7 +5347,7 @@ That is... f-fascinating.<end>
 Uh... ::He rubs his head.::<end>
 
 =>q842
-::Он берёт пустую бутылку и бьёт себя ею по голове. И ещё раз. После небольшой паузы он продолжает.:: Ничего. Ну, в прошлый раз это сработало.
+::Он берёт пустую бутылку и бьёт себя ею по голове. Затем ещё раз. После небольшой паузы он продолжает: ::Нет, ничего. Хотя в прошлый раз это сработало.
 
 Ух... ::Он потирает голову.::<end>
 
@@ -5373,7 +5373,7 @@ Dude, what the h-hell? Are you even listening to m-me?<end>
 Yeah, man, sorry, but we gotta figure this all out. We've done a lot, yet we're still in the "homes" phase of the journey. According to the vision, that is, and if the vision shows it, it must be true.<end>
 
 =>q846
-Да, $(#брат/сестра), извини, но нам нужно во всём разобраться. Мы многое уже сделали, но пока ещё находимся в фазе путешествия "дома". Это согласуется с видением, то есть, если видение показывает это, то так оно и должно быть.<end>
+Да, $(#брат/сестра), извини, но нам нужно во всём разобраться. Мы многое уже сделали, но пока ещё находимся в «домовой» фазе путешествия. Так это было в видении, и если видение показывает это, то так оно и должно быть.<end>
 
 =>q847_original
 But we're getting closer and closer to the end, man. I'll give you all the answers once we get to the final home, I promise.
@@ -5383,9 +5383,9 @@ We gotta rush now, as the brew is slowly evaporating from us, and we still need 
 Oh, and don't forget to bring that morphine with you.<end>
 
 =>q847
-Однако, мы всё ближе и ближе к концу, $(#брат/сестра). Обещаю, я дам тебе все ответы, как только мы доберёмся до последнего дома.
+Однако мы всё ближе и ближе к финалу, $(#брат/сестра). Обещаю, я дам тебе все ответы, как только мы доберёмся до последнего дома.
 
-А сейчас нам нужно поторопиться, потому что самогон постепенно выветривается из нас, а он нам по-прежнему нужен. Это, типа, хуже всего на свете - лишиться чего-то, когда ты в этом больше всего нуждаешься. Понимаешь, о чём я?
+А сейчас нам нужно поторопиться, потому что самогон постепенно выветривается из нас, а он нам по-прежнему нужен. Это, типа, хуже всего на свете -- лишиться чего-то, когда ты в этом больше всего нуждаешься. Понимаешь, о чём я?
 
 Да, и не забудь захватить с собой морфин.<end>
 
@@ -5415,7 +5415,7 @@ I'm g-getting t-ired of going around Underrail, Dude.<end>
 You'll get your damn brew, man. Now's not the time to be an insensitive brew hoarder. We gotta figure this all out. We've done a lot, yet we're still in the "homes" phase of the journey. According to the vision, that is, and if the vision shows it, it must be true.<end>
 
 =>q851
-Да блин, получишь ты свой самогон. Сейчас не время быть равнодушным жмотом. Нам нужно во всём разобраться. Мы многое уже сделали, но пока ещё находимся в фазе путешествия "дома". Это согласуется с видением, то есть, если видение показывает это, то так оно и должно быть.<end>
+Да блин, получишь ты свой самогон. Сейчас не время быть равнодушным жмотом. Нам нужно во всём разобраться. Мы многое уже сделали, но пока ещё находимся в «домовой» фазе путешествия. Так это было в видении, и если видение показывает это, то так оно и должно быть.<end>
 
 =>a852_original
 Now that we have some b-breathing room, I'd like to ask you a f-few questions about what we went t-t-through.<end>
@@ -5475,7 +5475,7 @@ My lab! Man... I haven't seen it in years. ::He turns toward the destroyed wall.
 ::He turns back to you.:: Take a look around, man. See what you can find.<end>
 
 =>q861
-::Он поворачивается к вам.:: Оглянись вокруг, $(#брат/сестра). Посмотри, что сможешь найти.<end>
+::Он поворачивается к вам.:: Поищи тут, $(#брат/сестра). Посмотри, что сможешь найти.<end>
 
 =>a862_original
 I already check-ked the l-lab. I found some morphine, a lab c-coat and - for some s-s-strange reason - a groin guard in that locker over th-ere.<end>
@@ -5487,13 +5487,13 @@ I already check-ked the l-lab. I found some morphine, a lab c-coat and - for som
 Why d-don't you take a look around? Why me? T-this is your lab.<end>
 
 =>a863
-П-почему бы тебе не осмотреться? Почему именно я? Это же тв-воя лаборатория.<end>
+П-почему бы тебе сомому не осмотреться? Почему именно я? Это же тв-воя лаборатория.<end>
 
 =>q864_original
 Weren't you listening? In the vision I saw that *you* have to fetch the ingredients. Remember? If I touch the ingredients before you do, the world could, like, implode. I know it, I've seen it. In a vision, but I've seen it. You gotta get 'em, man.<end>
 
 =>q864
-Ты вообще меня слушаешь? В видении, что я видел, ингредиенты приносишь *ты*. Вспоминаешь? Если я коснусь ингредиентов раньше тебя, мир может, типа, сколлапсировать. Я знаю это, я видел такое. В видении, но всё же видел. Раздобыть их придётся тебе, $(#брат/сестра).<end>
+Ты вообще меня слушаешь? В видении я видел, что ингредиенты приносишь *ты*. Вспоминаешь? Если я коснусь ингредиентов раньше тебя, мир может, типа, сколлапсировать. Я знаю это, я видел такое. В видении, но всё же видел. Раздобыть их придётся тебе, $(#брат/сестра).<end>
 
 =>a865_original
 Fine.<end>
@@ -5535,7 +5535,7 @@ W-what does that console do? Can you r-remember?<end>
 Nah, man. It ain't working properly, man, that I remember. ::He observes it for a few seconds before continuing.:: Yeah, yeah. I think a bunch of zappers - zap spiders, coil spiders' tiny cousins - got inside and messed up the electronics. Mini-buggers of annoyance and doom. Now the letters are all jumbled up because of it. I may have even figured out how to use it despite the problem, but... I don't know anymore.<end>
 
 =>q871
-Не, $(#брат/сестра). Насколько я помню, она, блин, работает кое-как. ::Он рассматривает её пару секунд, прежде чем продолжить.:: Ну да. Думаю, кучка молниевиков - крошечных собратьев электропауков - забрались внутрь и попортили электронику. Ушлёпки мелкие только и делают, что досаждают и губят всё подряд. Из-за них теперь все буквы перемешаны. Возможно, я даже допёр, как ей пользоваться, несмотря на эту проблему, но... теперь мне это неизвестно.<end>
+Не, $(#брат/сестра). Насколько я помню, она, блин, работает кое-как. ::Он рассматривает её пару секунд, прежде чем продолжить.:: Ну да. Кажется, кучка молниевиков -- крошечных собратьев электропауков -- однажды забрались внутрь и попортили электронику. Ушлёпки мелкие только и делают, что досаждают и губят всё подряд. Из-за них теперь все буквы перемешаны. Возможно, я даже допёр, как ей пользоваться, несмотря на эту проблему, но... я теперь не знаю.<end>
 
 =>q872_original
 Now go and take, like, care of those mutants, man.<end>
@@ -5547,7 +5547,7 @@ Now go and take, like, care of those mutants, man.<end>
 Told you already. I don't remember. All I know is that everything was, like, jumbled up and all. Maybe I figured it out back in the day, but I don't remember anymore.<end>
 
 =>q873
-Я же тебе говорил. Я не помню. Единственное, что я знаю, всё, типа, перемешалось и всё такое. Возможно, прежде я и разобрался в этом, но теперь ничего не помню.<end>
+Я же тебе говорил. Я не помню. Я знаю только, что всё, типа, перемешалось и типа того. Возможно, прежде я и разбирался в этом, но теперь ничего не помню.<end>
 
 =>a874_original
 The m-mutants have been take-n c-care of.<end>
@@ -5575,7 +5575,7 @@ Now let's go - we gotta check the lab.<end>
 I already check-ked the l-lab. A few cryo chambers and a l-locker was all I saw, and inside the locker I found some morphine, a lab c-coat and - for some s-s-strange reason - a groin guard.<end>
 
 =>a877
-Я уже пров-верил$(#/а) лабораторию. Несколько криокамер и шкафчик - вот и всё, что там было, но в ш-шкафчике я наш$(#ёл/ла) немного морфина, лабораторный х-халат и - к моему удив-в-влению - защ-щиту для паха.<end>
+Я уже пров-верил$(#/а) лабораторию. Несколько криокамер и шкафчик -- вот и всё, что там было, но в ш-шкафчике я наш$(#ёл/ла) немного морфина, лабораторный х-халат и -- к моему удив-в-влению -- защ-щиту для паха.<end>
 
 =>a878_original
 L-lead the way.<end>
@@ -5587,7 +5587,7 @@ L-lead the way.<end>
 Y-you better let me do it alone, ssss-ince the area could still be d-dangerous.<end>
 
 =>a879
-Л-лучше п-позволь мне сделать это в-в одиночку, т-там всё ещё может быть оп-пасно.<end>
+Л-лучше п-позволь мне сделать это само$(#му/й), т-там всё ещё может быть оп-пасно.<end>
 
 =>q880_original
 Okay, man, if you say so. I'll wait here then.<end>
@@ -5605,13 +5605,13 @@ N-not yet, Dude. I just wanted to m-make sure you're good.<end>
 I'll be great once you stop hoarding brew and not telling me about it. But I'm good, thank you.<end>
 
 =>q882
-Я буду в порядке, как только ты перестанешь прятать самогон и не говорить мне об этом. Но я в порядке, спасибо.<end>
+Я буду в порядке, как только ты перестанешь втихую прятать от меня самогон. Но я в порядке, спасибо.<end>
 
 =>q883_original
 Just close the door when you go back there, okay?<end>
 
 =>q883
-Просто закрой дверь, когда снова туда пойдёшь, лады?<end>
+Только закрой дверь, когда снова туда пойдёшь, лады?<end>
 
 =>a884_original
 Okay. See you in a m-moment.<end>
@@ -5635,13 +5635,13 @@ You're alive, man! And the mutants?<end>
 They are n-not.<end>
 
 =>a887
-А они - н-нет.<end>
+А они -- н-нет.<end>
 
 =>q888_original
 Alright. I guess I shouldn't have underestimated you. You're, like, one totally tough $(#guy/gal). Now let's go - we gotta check the lab.<end>
 
 =>q888
-Хорошо. Полагаю, мне не следовало тебя недооценивать. Ты, типа, стопроцентно крут$(#/а). А теперь пойдём - мы должны проверить лабораторию.<end>
+Отлично. Полагаю, мне не следовало тебя недооценивать. Ты, типа, стопроцентно крут$(#/а). А теперь пойдём, надо взглянуть лабораторию.<end>
 
 =>q889_original
 ::As soon as Dude closes the door, growling, grunting, shrieking and thunderous pounding violates your eardrums - as if the pounding in your head from all the brew wasn't enough. The creatures, distorted by their unfortunate fate and your intoxication combined are trying to break down the door; it holds, for now. Meanwhile, Dude is blankly staring through you, slowly nodding.::
@@ -5685,13 +5685,13 @@ Yeah, you sure tried, man. But I'm guessing we had to meet them one way or the o
 T-time to kick ass and chew bubble gum. And I'm too d-drunk to k-kick ass. Yeah, there's gotta be another w-way to deal with those m-mutants.<end>
 
 =>a894
-В-время надрать задницы и пожевать жвачки. А я слишком пьян$(#/а), чтоб н-надирать задницы. Мда, должен быть другой с-способ разобраться с этими м-мутантами.<end>
+В-время драть задницы и жевать жвачку. А я слишком пьян$(#/а), чтоб н-надирать задницы. М-да, должен быть другой с-способ разобраться с этими м-мутантами.<end>
 
 =>q895_original
 Well, there's this console here, but it ain't working properly, man. ::He observes it for a few seconds before continuing.:: Yeah, yeah. I think a bunch of zappers - zap spiders, coil spiders' tiny cousins - got inside and messed up the electronics. Mini-buggers of annoyance and doom. Now the characters are all jumbled up because of it. I may have even figured out how to use it despite the problem, but... I don't know anymore.<end>
 
 =>q895
-Ну, здесь есть консоль, но она, блин, работает кое-как. ::Он рассматривает её пару секунд, прежде чем продолжить.:: Ну да. Думаю, кучка молниевиков - крошечных собратьев электропауков - забрались внутрь и попортили электронику. Ушлёпки мелкие только и делают, что досаждают и губят всё подряд. Из-за них теперь все буквы перемешаны. Возможно, я даже допёр, как ей пользоваться, несмотря на эту проблему, но... теперь мне это неизвестно.<end>
+Ну, здесь есть консоль, но она, блин, работает кое-как. ::Он рассматривает её пару секунд.:: Ну, да. Кажется, кучка молниевиков -- крошечных собратьев электропауков -- однажды забрались внутрь и попортили электронику. Ушлёпки мелкие только и делают, что досаждают и губят всё подряд. Из-за них теперь все буквы перемешаны. Возможно, я даже допёр, как ей пользоваться, несмотря на эту проблему, но... я теперь не знаю.<end>
 
 =>a896_original
 W-what does the console do? Can you r-remember?<end>
@@ -5719,13 +5719,13 @@ Now that I think about it, it might not be safe to stand here. I think I'll, lik
 =>q899
 ::Непрерывное рычание доносится сквозь трещины в стене. И оно становится всё громче и громче.::
 
-Теперь, когда я задумался об этом, мне кажется, что стоять здесь небезопасно. Пожалуй, я лучше подожду, типа, снаружи.<end>
+Знаешь, если подумать, мне кажется, что стоять здесь небезопасно. Пожалуй, я лучше подожду, типа, снаружи.<end>
 
 =>a900_original
 But you said they c-can't break through the door? T-that it was made by the higher b-beings themselves?<end>
 
 =>a900
-Но, уверен ли ты, что они не с-смогут вломиться через дверь? Ч-Что она сделана самими высшими?<end>
+Но ты же сказал, что они не с-смогут пробиться через дверь? Ч-что она сделана высшими существами собственноручно?<end>
 
 =>q901_original
 Well... I was wrong once in the past. Would hate to be wrong again at the wrong time.<end>
@@ -5743,7 +5743,7 @@ Fine. Now, h-how about you give me the k-keycard to the l-lab?<end>
 Oh, yeah. Just don't do anything stupid like open the door before you've figured out a way to take care of the mutants. Don't wanna see you dead - in a vision or otherwise.<end>
 
 =>q903
-Ах, да. Только не глупи, не стоит открывать дверь, пока не придумаешь, как расправиться с мутантами. Не хочу увидеть тебя мёртв$(#ым/ой) - ни в видении, ни как-то ещё.<end>
+Ах, да. Только не глупи, не стоит открывать дверь, пока не придумаешь, как расправиться с мутантами. Не хочу увидеть тебя мёртв$(#ым/ой) -- ни в видении, ни как-то ещё.<end>
 
 =>q904_original
 Here you go, man. ::He hands you the keycard.:: Good luck.<end>
@@ -5767,7 +5767,7 @@ Oh, and D-Dude... Hold my b-brew. ::Give him one mushroom brew.::<end>
 Did you raid my fridge, or did you hide brew from me? ::He takes the brew.:: Either burns worse than boiling crawler venom mixed with battery acid, man. You just don't do that to a man.<end>
 
 =>q907
-Ты что, грабанул$(#/а) мой холодильник или прятал$(#/а) его от меня? ::Он берёт самогон.:: И то и другое обжигает больнее, чем кипящий яд краулера вперемешку с кислотой, $(#брат/сестра). Так просто не поступают.<end>
+Ты что, грабанул$(#/а) мой холодильник или прятал$(#/а) его от меня? ::Он берёт самогон.:: И то и другое обжигает больнее, чем кипящий яд краулера вперемешку с аккумуляторной кислотой, $(#брат/сестра). Так не поступают.<end>
 
 =>q908_original
 But I might forgive you your brew hoarding sins if you get rid of those mutants. ::He raises your brew.:: Cheers!<end>
@@ -5795,7 +5795,7 @@ Hey, stop pulling my leg - I already gave it to you, man. Like, man, this is not
 H-how about you give me the k-keycard to the l-lab?<end>
 
 =>a911
-К-Как насчёт того, чтобы ты дал мне ключ-карту к л-лаборатории?<end>
+М-может, отдашь мне ключ-карту к л-лаборатории?<end>
 
 =>a912_original
 L-let me at them, D-Dude. I'll s-show them who's bossssss.<end>
@@ -5807,7 +5807,7 @@ L-let me at them, D-Dude. I'll s-show them who's bossssss.<end>
 Under the influence, man? Brew's good for a lot of things, but fighting ain't one of them. You nearly gouged your eye out on that rusty bar in the Core, and now you wanna fight mutants?<end>
 
 =>q913
-Под мухой, $(#брат/сестра)? Самогон хорош для многих вещей, но бой - не одна из них. Ты чуть глаз себе не выколол$(#/а) о тот ржавый штырь в Кор-Сити, а теперь хочешь драться с мутантами?<end>
+Вот так, под мухой, $(#брат/сестра)? Самогон хорош для многих вещей, но бой -- не одна из них. Ты чуть глаз себе не выколол$(#/а) о тот ржавый штырь в Кор, а теперь хочешь драться с мутантами?<end>
 
 =>q914_original
 ::The mutants continue pounding at the door.::
@@ -5817,19 +5817,19 @@ See? They're pissed off more than us, and whoever is more pissed off is more lik
 =>q914
 ::Мутанты продолжают ломиться в дверь.::
 
-Видишь? Они разозлились сильнее, чем мы, а тот, кто разозлился сильнее, скорее выиграет бой. И, типа, их больше, да ещё с когтями и кислотой в пузе. <end>
+Слышишь? Они разозлились сильнее чем мы, а тот, кто злее, скорее выиграет бой, поверь. И их, типа, больше, да ещё с когтями и кислотой в пузе. <end>
 
 =>q915_original
 I mean, I, like, respect your dedication, but let's try and find a different way to overcome this. You with me, man?<end>
 
 =>q915
-Я имею в виду, я уважаю твою самоотверженность, но давай попробуем найти другой способ преодолеть это. Ты со мной, $(#брат/сестра)?<end>
+Я хочу сказать, я уважаю твою самоотверженность, но давай попробуем найти другой способ преодолеть это. Ты со мной, $(#брат/сестра)?<end>
 
 =>a916_original
 To h-hell with that - I wanna kill m-utants! N-now go and h-ide; I already took the keycard.<end>
 
 =>a916
-П-пошло оно - я хочу прикончить м-мутнатов! Т-Теперь иди и с-спрячься; я уже взял$(#/а) ключ-карту.<end>
+П-пошло оно, я хочу прикончить м-мутнантов! Т-Теперь иди и с-спрячься; я уже взял$(#/а) ключ-карту.<end>
 
 =>q917_original
 That ain't cool, man! It ain't cool to steal from people, okay? But if you're able to, like, take my keycard without me noticing it, then I hope you're also able to kick ass. I'll wait outside.<end>
@@ -5841,7 +5841,7 @@ That ain't cool, man! It ain't cool to steal from people, okay? But if you're ab
 To h-hell with that - I wanna kill m-utants! G-give me the keycard and h-ide.<end>
 
 =>a918
-П-пошло оно - я хочу прикончить м-мутантов! Д-дай мне ключ-карту и спрячься.<end>
+П-пошло оно, я хочу прикончить м-мутантов! Д-дай мне ключ-карту и спрячься.<end>
 
 =>q919_original
 ::He shrugs.:: Man, I hope you know what you're doing. Okay, man, I'll wait outside until you're done kicking ass; or they're done kicking yours. But I hope it is you who, like, kicks ass, man. You know what I mean? 
@@ -5849,7 +5849,7 @@ To h-hell with that - I wanna kill m-utants! G-give me the keycard and h-ide.<en
 I'll get going.<end>
 
 =>q919
-::Он пожимает плечами.:: Блин, надеюсь, ты знаешь, что делаешь. Ладно, $(#брат/сестра), я подожду снаружи, пока ты не закончишь надирать задницы. Или задницы не закончат надирать тебя. Но я надеюсь, что надерёшь, типа, ты. Понимаешь?
+::Он пожимает плечами.:: Блин, надеюсь, ты знаешь, что делаешь. Ладно, $(#брат/сестра), я подожду снаружи, пока ты не закончишь надирать задницы. Или задницы не закончат надирать тебя. Но я надеюсь, что надирать будешь, типа, ты. Понимаешь?
 
 Короче, я пошёл.<end>
 
@@ -5869,13 +5869,13 @@ And h-here the journey ends...<end>
 NO! What the...? It does not end here, man. The vision must be respected: You back out - an awful fate awaits you. Trust me.<end>
 
 =>q922
-Нет! Что за?.. Это ещё не конец, $(#брат/сестра). Нужно уважать это видение. Отступишь - и тебя постигнет ужасная участь. Поверь мне.<end>
+Нет! Какого?.. Это ещё не конец, $(#брат/сестра). Нужно серьёзно относиться к видению. Отступишь, и тебя постигнет ужасная участь. Поверь мне.<end>
 
 =>q923_original
 We gotta get inside my lab, but first we gotta, like, get rid of the mutants.<end>
 
 =>q923
-Нам нужно попасть в мою лабораторию, но сначала, нам, типа, надо избавиться от мутантов. <end>
+Нам нужно попасть в мою лабораторию, но сначала нам надо, типа, избавиться от мутантов. <end>
 
 =>a924_original
 Did you perhaps see me k-kill all those mutants in your v-vision?<end>
@@ -5887,7 +5887,7 @@ Did you perhaps see me k-kill all those mutants in your v-vision?<end>
 No. Or else I would've known there were mutants here, man. Think, like, think.<end>
 
 =>q925
-Нет. Иначе я бы, блин, знал, что здесь будут мутанты. Думай, типа, думай.<end>
+Нет. Иначе бы я, блин, знал, что здесь будут мутанты. Думай, типа, думай.<end>
 
 =>q926_original
 But we gotta get rid of them in any case.<end>
@@ -5905,13 +5905,13 @@ C-an they break the door d-down?<end>
 Did you ever actually see anyone break down these doors, huh, man? They made them tough, sturdy - impenetrable.<end>
 
 =>q928
-Неужели ты действительно видел$(#/а), как кто-то взламывал такие двери, а? Они сделали их тяжёлыми, крепкими - непробиваемыми.<end>
+Ты хоть раз видел$(#/а), как кто-нибудь выламывал такие двери, а? Их специально сделали тяжёлыми, крепкими -- непробиваемыми.<end>
 
 =>a929_original
 W-who?<end>
 
 =>a929
-К-кто?<end>
+К-кто сделал?<end>
 
 =>q930_original
 The Pondering Creators, man. The higher beings from Beyond. The ones who, like, made everything. I even saw them in a vision once: They, like, have minds capable of perceiving and manipulating all realities, and they use them to just, like, think worlds into existence. Sometimes sloppily if they've had one too many cosmic brews or were just too damn stupid on that particular day, but they still managed to come up with all this awesome stuff around us. But that's a story for another time.<end>
@@ -5923,7 +5923,7 @@ The Pondering Creators, man. The higher beings from Beyond. The ones who, like, 
 In any case, I wouldn't worry about the mutants busting the door, but we still gotta go through them, man. Our journey must continue. Remember the vision, man.<end>
 
 =>q931
-Впрочем, я бы не стал беспокоиться о том, что мутанты выбьют дверь, однако нам, блин, всё равно придётся пройти через них. Наше путешествие должно продолжаться. Вспомни видение, $(#друг/подруга).<end>
+Короче, я бы не стал беспокоиться о том, что мутанты выбьют дверь, однако нам, блин, всё равно придётся с ними что-то делать. Наше путешествие должно продолжаться. Вспомни видение, $(#друг/подруга).<end>
 
 =>a932_original
 Biocorp?<end>
