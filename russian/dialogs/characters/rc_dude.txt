@@ -2031,7 +2031,7 @@ Awesome, man! Let us begin.<end>
 ::Start making the Juice with Dude.::<end>
 
 =>a323
-::Приступить к приготовлению Сока с Чуваком..::<end>
+::Приступить к приготовлению Сока.::<end>
 
 =>a324_original
 I found some chemicals in your desk: taurine, some napalm C and gyromitrin. Any one of those the last ingredient we need?<end>
@@ -2121,19 +2121,19 @@ What's with you and battery acid?<end>
 I don't know, man. It's that old geezer. For some reason I can't stop thinking about him after I mentioned him. It's, like, horrible. I'm not using batteries for a while.<end>
 
 =>q338
-Не знаю, $(#брат/сестра). Всё дело в том старом чудике. Почему-то не могу выкинуть его из головы после того, как упомянул. Это, типа, ужасно. В последнее время я даже батарейками не пользуюсь.<end>
+Не знаю, $(#брат/сестра). Всё дело в том старом чудике. Почему-то не могу выкинуть его из головы после того, как упомянул. Это, типа, ужасно. Теперь я даже батарейками не пользуюсь.<end>
 
 =>a339_original
 Anyway, did you keep some notes on how to make the Juice?<end>
 
 =>a339
-Ладно, ты сохранил какие-нибудь записи о том, как сделать Cок?<end>
+Ладно, ты сохранил какие-нибудь записи о том, как делать Cок?<end>
 
 =>q340_original
 You're asking me that after all we've been through? Like, what the hell, man? I don't know, man. Maybe I did, maybe I didn't. Did you check around the lab or in a super concealed crack in a wall no one could ever find?<end>
 
 =>q340
-Ты спрашиваешь меня об этом после всего, что мы пережили? Типа, какого чёрта, $(#брат/сестра)? Я, блин, не знаю. Может да, а может и нет. Ты проверил$(#/а) в лаборатории или в суперскрытой трещине в стене, которую никому не удалось найти?<end>
+Ты спрашиваешь меня об этом после всего, что мы пережили? Ты меня, типа, разочаровываешь, $(#брат/сестра). Я, блин, не знаю. Может да, а может и нет. Ты проверил$(#/а) в лаборатории или в суперскрытой трещине в стене, которую никому не удалось найти?<end>
 
 =>a341_original
 I found a stack of them in the lab. Most of them look like long-winded scribblings to me, except for one which says not to overcharge the cats.<end>
@@ -2145,7 +2145,7 @@ I found a stack of them in the lab. Most of them look like long-winded scribblin
 And that's damn good advice! Not as good as, like, not to drink battery acid, but damn good nonetheless. As for the long-winded scribblings, I'll check them out, man, but I doubt that it's there. Recipes, now those I usually write simply and concisely. Like, for example: seventeen milligrams of unsaturated psionic catalyst, fifty-five milligrams of morphine, one milligram of gyromitrin, three hundred milliliters of mushroom brew.<end>
 
 =>q342
-А это весьма неплохой совет! Не такой хороший, как, например, не пить аккумуляторную кислоту, но весьма неплохой. Что же касается скучной писанины, то я проверю её, $(#брат/сестра), но сомневаюсь, что оно там. Рецепты, которые я обычно пишу, просты и лаконичны. Типа, как пример: семнадцать миллиграмм ненасыщенного пси-катализатора, пятьдесят пять миллиграмм морфина, один миллиграмм гиромитрина, триста миллилитров грибного самогона.<end>
+И это весьма неплохой совет! Не такой хороший, как, например, не пить аккумуляторную кислоту, но тоже весьма неплохой. Что же касается пространной писанины, то я на неё взгляну, $(#брат/сестра), но сомневаюсь, что оно там. Рецепты, которые я обычно пишу, просты и лаконичны. Типа, как пример: семнадцать миллиграмм ненасыщенного пси-катализатора, пятьдесят пять миллиграмм морфина, один миллиграмм гиромитрина, триста миллилитров грибного самогона.<end>
 
 =>q343_original
 You take the catalyst and... ::He pauses, and you see him turn distant again. He scratches his head a few times, then his jaw, then he nods and says a few hm's, before finally - and at this point quite predictably - snapping his fingers and flashing a smile.::
@@ -2153,8 +2153,9 @@ You take the catalyst and... ::He pauses, and you see him turn distant again. He
 I got it, man! I know how to make the Juice. I just remembered the whole recipe. Oh, I'm good. I'm good.<end>
 
 =>q343
-Берёшь катализатор и... ::Он запинаетсят, и вы видите, как он вновь становится отстранённым. Он несколько раз чешет затылок, затем челюсть, потом кивает и говорит несколько раз "хм", и наконец - совершенно предсказуемо - щёлкает пальцами и широко улыбается.::
-Я понял, $(#брат/сестра)! Я знаю, как сделать Сок! Я просто вспомнил весь рецепт. Ох, как я хорош. Да я красава.<end>
+Берёшь катализатор и... ::Он запинается и вновь становится отстранённым. Он почесывает затылок, затем челюсть, потом кивает и говорит несколько раз «хм», и наконец -- совершенно предсказуемо -- щёлкает пальцами и широко улыбается.::
+
+Я вспомнил, $(#брат/сестра)! Я знаю, как сделать Сок! Я только что вспомнил весь рецепт. Ох, как я хорош. Да я красава.<end>
 
 =>q344_original
 Okay, listen now: We got recipe for the Juice, and we got all the ingredients. But - and that's one big but - but what comes next could be, like, *anything*. The vision got pretty blurry at this point. I know we gotta rift-walk, but I don't know where that's gonna take us. So if you wanna take a break and, and, and stock up - or have a cold brew, do it now. Come see me when you're ready, man. 
@@ -2162,7 +2163,7 @@ Okay, listen now: We got recipe for the Juice, and we got all the ingredients. B
 I'll, like, be in the lab.<end>
 
 =>q344
-Хорошо, теперь послушай: у нас есть рецепт сока и у нас есть ингредиенты. Но... и это большое НО, дальше может произойти, всё что угодно. С этого момента видение становится довольно размытым. Я знаю, что нам нужно идти в разлом, но я не знаю, куда он нас приведёт. Поэтому, если хочешь передохнуть и запастись холодным самогоном, сделай это сейчас. Приходи ко мне, когда будешь готов, друг.<end>
+Хорошо, теперь слушай: у нас есть рецепт сока и у нас есть все ингредиенты. Но -- и это большое «но», -- НО дальше может произойти, типа, всё что угодно. С этого момента видение было довольно размытым. Я знаю, что нам нужно идти в разлом, но я не знаю, куда он нас приведёт. Поэтому, если хочешь передохнуть и, и, и пополнить припасы или выпить холодного самогона, делай это сейчас. Приходи ко мне, когда будешь готов$(#, брат/а, сестра).<end>
 
 =>a345_original
 ::[Intelligence]:: When are you going to give me that brew back?<end>
@@ -2174,7 +2175,7 @@ I'll, like, be in the lab.<end>
 Here's your damn brew! Is that all you think about? We're gonna be using brew to make the Juice anyway, but here, take it. <end>
 
 =>q346
-Вот твой чёртов самогон! Это всё, о чём ты можешь думать? Нам всё равно придётся использовать его, чтобы сделать Сок, но вот, бери. <end>
+Вот твой вонючий самогон! Это всё, о чём ты можешь думать? Нам всё равно придётся использовать его, чтобы сделать Сок, но вот, бери. <end>
 
 =>q347_original
 ::He gives you a bottle of mushroom brew.:: There. Happy, man?<end>
@@ -2288,13 +2289,13 @@ I found nothing so far.<end>
 How about you check my home one more time? This is important, man. Check the lab, and look for cracks in the walls. I'll be here.<end>
 
 =>q365
-Почему бы тебе ещё раз не проверить мой дом? Это важно, $(#брат/сестра). Проверь лабораторию и загляни в каждую трещину в стенах. Я буду здесь.<end>
+Почему бы тебе ещё раз не проверить мой дом? Это важно, $(#брат/сестра). Проверь лабораторию и загляни в каждую трещину в стене. Я буду здесь.<end>
 
 =>a366_original
 How about I *crack* open your skull and see if anything falls out? I'm just trying to help you remember things, Dude.<end>
 
 =>a366
-А что, если я сделаю *трещину* в твоей черепушке и посмотрю, не выпадет ли что-нибудь? Я всего лишь пытаюсь помочь тебе кое-что вспомнить, Чувак.<end>
+А что, если я сделаю *трещину* в твоей черепушке и посмотрю, не выпадет ли что-нибудь? Я всего лишь пытаюсь помочь тебе что-нибудь вспомнить, Чувак.<end>
 
 =>q367_original
 I'm sorry, I'm sorry, man. Didn't mean to, like, sound like that, man. 
@@ -2310,13 +2311,13 @@ Listen... there's no need to get angry. We're dealing with important things now,
 Nothing. I'll go take another look.<end>
 
 =>a368
-Ничего. Пойду ещё раз взгляну.<end>
+Пока ничего. Пойду ещё раз взгляну.<end>
 
 =>q369_original
 Yeah, man. Check the lab, man, and look for cracks in the walls. I'll be here.<end>
 
 =>q369
-Ага, $(#брат/сестра). Проверь лабораторию и загляни, типа, в каждую трещину в стенах. Я буду здесь.<end>
+Ага, $(#брат/сестра). Проверь лабораторию и загляни, типа, в каждую трещину в стене. Я буду здесь.<end>
 
 =>a370_original
 No. I'll go take another look, but first I wanted to ask you something else.<end>
@@ -2328,13 +2329,13 @@ No. I'll go take another look, but first I wanted to ask you something else.<end
 Did you keep some notes on how to make the Juice?<end>
 
 =>a371
-Ты сохранил какие-нибудь записи о том, как сделать Сок?<end>
+Ты сохранил какие-нибудь записи о том, как делать Сок?<end>
 
 =>a372_original
 I found a stack of notes in the lab. Most of them look like long-winded scribblings to me, except for one which says not to overcharge the cats.<end>
 
 =>a372
-В лаборатории я наш$(#ёл/ла) кучу записей. Большинство из них, на мой взгляд, скучная писанина, за исключением одной, в которой сказано не перегружать кошек.<end>
+В лаборатории я наш$(#ёл/ла) кипу записей. В основном в них какая-то пространная писанина, за исключением одной, в которой сказано не перегружать кошек.<end>
 
 =>a373_original
 How about you answer a couple of questions about all we've been through?<end>
@@ -4717,7 +4718,7 @@ There you go, man. Now, when you drink this, know that it could make you a bit s
 =>q744
 ::Он вручает вам бутылку Сока.::
 
-Держи, $(#брат/сестра). Только знай, что его употребление может вызвать у тебя небольшую тошноту или частично отключить конечности - но только пока не привыкнешь к нему. *Может*, но не обязательно.<end>
+Держи, $(#брат/сестра). Только знай, что его употребление может вызвать у тебя небольшую тошноту или частично отключить конечности, но это только с непривычки. *Может*, но не обязательно.<end>
 
 =>q745_original
 Okay, I'll go first.
@@ -4727,11 +4728,11 @@ Okay, I'll go first.
 Yuck... it's warm. But my eyes... they're open again, man.<end>
 
 =>q745
-Ладно. Я начну.
+Ладно. Я первый.
 
-::Он прижимает бутылку к своим губам и заливает сок в рот. Пару глотков, и бутылка пуста.::
+::Он прижимает бутылку к губам и заливает Сок в рот. Несколько глотков, и бутылка пуста.::
 
-Фу... тёплый. Но мои глаза... они, блин, открылись.<end>
+Фу... тёплый. Но мои глаза... они, блин, вновь открылись.<end>
 
 =>q746_original
 ::Naturally, you observe him for any side effects, but they are absent; it is as though he drank a normal, run-of-the-mill bottle of mushroom brew. Now, just as you stare at him inquisitively, so does he stare at you blankly.::
@@ -4739,7 +4740,7 @@ Yuck... it's warm. But my eyes... they're open again, man.<end>
 What?<end>
 
 =>q746
-::Естественно, вы осматриваете его на предмет каких-либо побочных эффектов, но они отсутствуют; всё выглядит так, будто он выпил бутылку самого обыного грибного самогона. Пока вы с любопытством его разглядываете, он безучастно наблюдает за вами.::
+::Естественно, вы осматриваете его на предмет каких-либо побочных эффектов, но они отсутствуют; всё выглядит так, будто он выпил бутылку самого обыного грибного самогона. Пока вы с любопытством его разглядываете, он наблюдает за вами безучастно.::
 
 Что?<end>
 
@@ -4759,7 +4760,7 @@ No sickness or paralysis?<end>
 I didn't say *I* could get, like, sick or paralyzed - *you* could get sick or paralyzed. My body can take any alcohol-based liquid - or solid matter, actually - and it won't hurt me one bit. You, man, on the other hand... you gotta be careful.<end>
 
 =>q749
-Я не говорил, что именно меня может затошнить или парализовать - это *тебя* может затошнить или парализовать. Моё тело способно принять любую жидкость на основе алкоголя или даже твёрдое вещество - и это мне ни капельки не повредит. Но тебе, $(#приятель/подруга)... тебе нужно быть осторожнее.<end>
+Я не говорил, что именно меня может затошнить или парализовать -- это *тебя* может затошнить или парализовать. Мой организм способен выдержать любую спиртосодержащую жидкость или даже твёрдое вещество, и это мне ни капельки не повредит. Но тебе, $(#приятель/подруга)... тебе нужно быть осторожнее.<end>
 
 =>a750_original
 I guess now's my turn to take the Juice.<end>
@@ -4773,9 +4774,9 @@ Yeah. After that we're gonna be looking for a rift. I think there's one right he
 So get that in your system and let's start searching. You'll know a rift when you see it.<end>
 
 =>q751
-Да. После этого мы займёмся поисками разлома. Думаю, один из них прямо здесь, в моём доме, однако, самогон вроде как перестал действовать, так что я не уверен. Но мне кажется, я видел этот, ну, типа, разлом, $(#брат/сестра).
+Да. После этого мы займёмся поисками разлома. Думаю, один из них прямо здесь, в моём доме, однако самогон вроде как перестал действовать, так что я не уверен. Но мне кажется, я видел этот, ну, типа, разлом, $(#брат/сестра).
 
-Так что заливайся Соком и приступай к поискам. Ты узнаешь разлом сразу, как только увидишь.<end>
+Так что заливайся Соком и приступим к поискам. Ты узнаешь разлом сразу, как только увидишь.<end>
 
 =>a752_original
 How long does the effect last?<end>
@@ -4791,7 +4792,7 @@ We'll see. It's not like you can just instantly and inexplicably know how long s
 =>q753
 ::Он пожимает плечами.:: 
 
-Посмотрим. Нельзя так просто узнать, как долго это продлится. Всё сугубо индивидуально. А теперь давай уже найдём этот разлом.<end>
+Посмотрим. Нельзя так просто узнать, как долго это продлится. Всё сугубо индивидуально, $(#брат/сестра). А теперь давай уже найдём этот разлом.<end>
 
 =>a754_original
 Okay, Dude.<end>
