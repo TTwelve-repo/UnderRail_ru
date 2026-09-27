@@ -252,7 +252,7 @@ Okay, man. It's not like we're in a rush or anything.<end>
 Back then you recited that recipe with a lot of confidence. Do you think you remembered it wrong, or did you just mix it wrong?<end>
 
 =>a38
-Раньше ты цитировал этот рецепт с большой уверенностью. Считаешь, ты неправильно его запомнил или просто не правильно смешал?<end>
+Ты очень уверенно процитировал тогда этот рецепт. Думаешь, ты неправильно его запомнил или просто неправильно смешал?<end>
 
 =>q39_original
 I don't know, man. Everything seemed right when I made it, felt right when I drank it.<end>
@@ -282,13 +282,13 @@ But it didn't work. ::He shrugs.:: I don't know why.<end>
 Do you know where we are?<end>
 
 =>a43
-Ты знаешь где мы?<end>
+Ты знаешь, где мы?<end>
 
 =>q44_original
 It looks like a military base or something like that. ::He takes a look at one of the stacked crates next to him.:: These look like weapon crates, man. I've never seen these markings, and the letters... ::He reads the label with some effort.:: Satro... grom... What? What language is this, man?<end>
 
 =>q44
-Это похоже на военную базу или что-то типа того. ::Он смотрит на один из ящиков, сложенных рядом с ним.:: А это похоже на ящики с оружием, $(#брат/сестра). Я никогда не видел такой маркировки и букв... ::Он с трудом читает наклейку.:: Сатро... гром... Что? На каком это, блин, языке?<end>
+Похоже на военную базу или что-то типа того. ::Он смотрит на один из ящиков, составленных рядом.:: А это похоже на ящики с оружием, $(#брат/сестра). Я никогда не видел такой маркировки и букв... ::Он с трудом читает наклейку: ::Сатро... гром... Что? На каком это, блин, языке?<end>
 
 =>q45_original
 Whatever. All I know is we're toast if they find us here.<end>
@@ -306,7 +306,7 @@ There's no reason to panic. How about we make more Juice and use that to get out
 Oh, no. Nah. I ain't making the Juice again until I figure out what I've done wrong. Especially now that I don't have my measuring cups, there's a greater chance that I'm gonna make, well, perhaps an even worse mistake. We gotta get out of here, but I'd still rather die here than risk it in the In-between. You remember all the stuff I talked about, right?<end>
 
 =>q47
-О, нет. Не-а. Я не стану снова готовить Сок, пока не не пойму, что я сделал не так. Особенно сейчас, когда у меня нет моих мерных стаканов и есть высокая вероятность, что я допущу, возможно, куда более страшную ошибку. Мы должны выбраться отсюда, но я лучше сдохну здесь, чем рискну в промежутке. Ты ведь помнишь, о чём я рассказывал, да?<end>
+О, нет. Не-а. Я не стану снова готовить Сок, пока не пойму, что я сделал не так. Особенно сейчас, когда у меня нет моих мерных стаканов и есть высокая вероятность, что я допущу, возможно, куда более страшную ошибку. Мы должны выбраться отсюда, но я лучше сдохну здесь, чем рискну в Промежутке. Ты ведь помнишь, о чём я рассказывал, да?<end>
 
 =>q48_original
 <end>
@@ -338,7 +338,7 @@ I... I don't, like... Wait, wait! I gotta think. I gotta think... ::He closes hi
 Now, you might consider what I'm about to say, like, you know, a little strange. Odd. Weird. Outrageous.<end>
 
 =>q52
-::После пары минут потирания висков, ровного дыхания и напевания простой успокаивающей мелодии, он открывает глаза и смотрит на вас.::
+::После пары минут потирания висков, ровного дыхания и напевания простой успокаивающей мелодии он открывает глаза и смотрит на вас.::
 
 Итак, возможно, ты сочтёшь то, что я собираюсь сказать, типа, ну знаешь, немного странным. Необычным. Диким. Возмутительным.<end>
 
@@ -346,7 +346,7 @@ Now, you might consider what I'm about to say, like, you know, a little strange.
 The things I hear from you have stopped sounding strange a long time ago; what's strange is that we've actually reached that point.<end>
 
 =>a53
-То, что я от тебя слышу, уже давно перестало казаться странным; странно то, что мы действительно зашли так далеко.<end>
+То, что я от тебя слышу, уже давно перестало мне казаться странным; странно то, что мы действительно до этого дошли.<end>
 
 =>q54_original
 ::He gives you a slight smile.::
@@ -368,13 +368,13 @@ Your words mean a lot, man. They really do.<end>
 Oil?<end>
 
 =>a56
-Масло?<end>
+Масла?<end>
 
 =>q57_original
 Now that I've thought about what happened, I don't think we actually "ran" out of Juice. I think it's still in our systems, but that it for some reason stopped affecting us enough to, like, allow us to rift-walk safely. It's... not running well. Therefore, we need a way to get it moving around somehow. And what is the best way to jumpstart the latent Juice?<end>
 
 =>q57
-Теперь, поразмыслив о произошедшем, я не думаю, что у нас действительно "закончился" Сок. Думаю, он всё ещё в наших организмах, но по какой-то причине перестал действовать в достаточной мере, чтобы позволить нам безопасно ходить по разломам. Он... работает медленно. Поэтому нам нужен способ как-то заставить его шевелиться. И каков же наилучший способ разогнать этот спящий Сок?<end>
+Теперь, поразмыслив о произошедшем, я не думаю, что у нас действительно «закончился» Сок. Думаю, он всё ещё в наших организмах, но по какой-то причине перестал действовать в достаточной мере, чтобы, типа, позволить нам безопасно ходить по разломам. Он... работает медленно. Поэтому нам нужен способ как-то заставить его шевелиться. И каков же наилучший способ разогнать этот спящий Сок?<end>
 
 =>a58_original
 Drink some more Juice?<end>
@@ -398,13 +398,13 @@ We need to lube it up. So that it can circulate properly. We need mineral oil.<e
 ::[Chemistry]:: You do know mineral oil is petroleum distillate? And that depending on how much it has been treated it can be carcinogenic?<end>
 
 =>a61
-::[Химия]:: Ты знаешь, что минеральное масло - это нефтяной дистиллят? И что не зависимо от того, как сильно оно было очищено, оно может быть канцерогенным?<end>
+::[Химия]:: Ты знаешь, что минеральное масло это нефтяной дистиллят? И что в зависимости от того, как сильно оно было очищено, оно может быть канцерогенным?<end>
 
 =>q62_original
 Yeah, but so is gyromitrin. Cancerous. And you haven't, like, gotten cancer yet, did ya? The Juice will protect you, man. Trust me.<end>
 
 =>q62
-Да, как и гиромитрин. Канцерогенный. Тебе же не хочется, типа, заработать себе рак, не так ли? Сок защитит тебя, $(#брат/сестра). Доверься мне.<end>
+Да, как и гиромитрин. Канцерогенный. Но ты же, типа, ещё не заработал$(#/а) себе рак, не так ли? Сок защитит тебя, $(#брат/сестра). Доверься мне.<end>
 
 =>a63_original
 ::[Biology]:: Isn't mineral oil used to treat constipation?<end>
@@ -428,7 +428,7 @@ But mineral oils do not get absorbed by the large intestine. How is it going to 
 Look, man, it doesn't have to get into the bloodstream. It... it just works, okay. I just led you through a hole in the Universe and you're busting my chops about mineral oil? Man, like, man.<end>
 
 =>q66
-Слушай, $(#брат/сестра), ему не обязательно попадать в кровоток. Оно... просто работает, ясно. Я только что провёл тебя через дыру во вселенной, а ты напрягаешься из-за минерального масла? Блин, типа, бли-и-ин.<end>
+Слушай, $(#брат/сестра), ему не обязательно попадать в кровоток. Оно... просто работает, ясно? Я только что провёл тебя через дыру во вселенной, а ты напрягаешься из-за минерального масла? Блин, типа, бли-и-ин.<end>
 
 =>a67_original
 Fine. What kind of mineral oil do we need?<end>
@@ -442,7 +442,7 @@ Whatever kind of mineral oil you find you bring to me, okay. Once I see it, I'll
 Remember, man, there's no vision to fall back to anymore. We're alone. So keep your eyes peeled, your mind clear and your bowels tight. ::He nods.:: Good luck. Go and get that mineral oil. I'll be here, hiding.<end>
 
 =>q68
-Неси мне любое минеральное масло, какое найдёшь, лады. Когда я его увижу, то разберусь, сработает оно или убьёт нас.
+Неси мне любое минеральное масло, какое найдёшь, лады? Когда я его увижу, то разберусь, сработает оно или убьёт нас.
 
 Помни, $(#брат/сестра), больше нет видения, на которое можно было бы опереться. Мы одни. Так что держи ухо востро, голову ясной, а кишку на замке. ::Он кивает.:: Удачи. Пойди и достань это минеральное масло. А я буду здесь... прятаться.<end>
 
@@ -516,13 +516,13 @@ How do you know mineral oil is going to help us?<end>
 I had, like, this bottle of mineral oil laxative I used to use when, you know, things got rough. And things just happened to have been very rough while I was working on the Juice, man. And, well, like, you know, that's how you make science, man. By accident. And eating a lot of dry food for prolonged periods of time.<end>
 
 =>q80
-У меня была, типа, бутылочка слабительного минерального масла, которым я обычно пользовался, когда, ну знаешь, дела шли туго. И так уж вышло, что, когда я работал над Соком, дела шли очень туго, $(#брат/сестра). И, ну знаешь, типа, вот так и рождается наука. По воле случая. И питания изрядным количеством сухой пищи в течение длительного времени.<end>
+У меня была, типа, бутылочка слабительного минерального масла, которым я обычно пользовался, когда, ну знаешь, дела шли туго. И так уж вышло, что когда я работал над Соком, дела шли очень туго, $(#брат/сестра). И, ну, знаешь, типа, вот так, блин, и рождается наука. По воле случая. И питания изрядным количеством сухой пищи в течение длительного времени.<end>
 
 =>q81_original
 By the way, that popped in my head after we entered my cave home. I took a look at the ol' toilet and... memories happened.<end>
 
 =>q81
-Кстати, это пришло мне в голову после того как мы посетили мой дом в пещере. Я взглянул на старый туалет, и... воспоминания пробудились.<end>
+Кстати, это пришло мне в голову после того, как мы посетили мой дом в пещере. Я взглянул на старый туалет, и... воспоминания пробудились.<end>
 
 =>a82_original
 What kind of mineral oil do I need again?<end>
@@ -600,7 +600,7 @@ Not yet.<end>
 ::Nauseated, you step out of the wavering rift as it closes behind you. You try your hardest to remember and make sense of your journey through the In-between, what you felt and saw, but it is simply incomprehensible; you just have this feeling that a lot of time has passed. Regardless, you are uninjured, untouched - whole, and that is all that matters right now. However, there was one thing you remember clearly, and that is that someone yanked your arm and pulled you into reality. Dude, who now stands before you, stares at you with dread in his eyes.::<end>
 
 =>q94
-::Испытывая тошноту, вы выходите из зыбкого разлома, который закрывается сразу за вами. Вы пытаетесь вспомнить и понять, на что было похоже ваше путешествие в Промежутке, что вы чувствовали и видели, но это просто непостижимо; у вас осталось лишь ощущение, что прошло уже много времени. Как бы там ни было, вы целы и невредимы, а это единственное, что сейчас имеет значение. Но всё же одно вы помните отчётливо: кто-то дёргает вас за руку и вытаскивает обратно в реальность. Чувак, стоящий сейчас перед вами, уставился на вас глазами, полными ужаса.::<end>
+::Испытывая тошноту, вы выходите из колеблющегося разлома, который закрывается сразу за вами. Вы пытаетесь вспомнить и понять, на что было похоже ваше путешествие в Промежутке, что вы чувствовали и видели, но это просто непостижимо; у вас осталось лишь ощущение, что прошло уже много времени. Как бы там ни было, вы целы и невредимы, а это единственное, что сейчас имеет значение. Но всё же одно вы помните отчётливо: кто-то дёрнул вас за руку и вытащил обратно в реальность. Чувак, стоящий сейчас перед вами, смотрит на вас глазами, полными ужаса.::<end>
 
 =>a95_original
 What's the matter, Dude? Did we run out of Juice?<end>
@@ -614,7 +614,7 @@ What's the matter, Dude? Did we run out of Juice?<end>
 Aaaah, I've made a terrible mistake. Terrible! It's not supposed to be like this, man.<end>
 
 =>q96
-::Он вообще не реагирует на ваши слова. Его взгляд, полный ужаса, прикован к полу, и он хватается за голову.::
+::Он вообще не реагирует на ваши слова. Его напуганный взгляд прикован к полу, и он хватается за голову.::
 
 А-а-а, я допустил ужасную ошибку. Ужасную! Всё должно быть не так, $(#брат/сестра).<end>
 
@@ -634,25 +634,25 @@ Man, man... man! ::He looks you dead in the eye.:: I can't calm down. I'm so, li
 I instantly felt something was wrong as soon as I stepped into the rift. There is this... feeling that we have strayed from the vision. All of this is, like, wrong right now - we're not supposed to be here. Don't you get it? This is not a part of the vision anymore - it's the unforeseen reality! <end>
 
 =>q99
-Я сразу почувствовал неладное, как только шагнул в разлом. Такое... ощущение, что мы отклонились от видения. Всё, типа, как-то не правильно - нас не должно быть здесь и сейчас. Разве ты не понимаешь? Это больше не часть видения - это непредвиденная реальность! <end>
+Я сразу почувствовал неладное, как только шагнул в разлом. Такое... ощущение, что мы отклонились от видения. Всё, типа, как-то не правильно -- нас не должно быть здесь и сейчас. Разве ты не понимаешь? Это больше не часть видения, -- это непредвиденная реальность! <end>
 
 =>q100_original
 Everything is wrong, everything. I made the Juice wrong, and the place we're in - we're not supposed to be here!<end>
 
 =>q100
-Всё это неправильно, всё неправильно. Я сделал Cок неправильно, а место, в котором мы находимся - нас не должно быть здесь!<end>
+Всё это неправильно, всё неправильно. Я сделал Cок неправильно, а место, в котором мы находимся, -- нас не должно быть здесь!<end>
 
 =>q101_original
 I felt it when we were in the In-between: stomach sickness, thirst, headache. It was like a bunch of construction workers were using jackhammers as pogo sticks on the top of my head. Ow... The Juice was running out, man. I had to pull us out of there. Or else... oh, I don't even wanna think of that. I just saw that shimmering light and... here we are.<end>
 
 =>q101
-Я почувствовал это, когда мы были в промежутке: желудок скрутило, жажда, головная боль; как будто кучка строителей работала отбойными молотками на моей макушке! Сок был на исходе, $(#брат/сестра)! Мне пришлось вытащить нас оттуда. Иначе... о, я даже думать об этом не хочу. Я просто увидел этот мерцающий свет и... вот мы и здесь.<end>
+Я почувствовал это, когда мы были в Промежутке: жажда, головная боль, желудок скрутило; как будто бригада строителей работала отбойными молотками на моей макушке! Ох... Сок был на исходе, $(#брат/сестра)! Мне пришлось вытащить нас оттуда. Иначе... о, я даже думать об этом не хочу. Я увидел такой мерцающий свет, и... вот мы и здесь.<end>
 
 =>a102_original
 Maybe all this was foretold in the vision.<end>
 
 =>a102
-Возможно всё это было предсказано в видении.<end>
+Возможно, всё это было предсказано в видении?<end>
 
 =>q103_original
 No, man, this has nothing to do with the vision. I'd know it otherwise, because things, like... I'd know it, okay.
@@ -660,7 +660,7 @@ No, man, this has nothing to do with the vision. I'd know it otherwise, because 
 We're screwed, man, and we gotta get out of here, now. This is not a part of the vision, man.<end>
 
 =>q103
-Не блин, это не имеет ничего общего с видением. Иначе, я знал бы, потому что такие вещи... В общем, я знал бы, ясно.
+Не, блин, это не имеет ничего общего с видением. Иначе я знал бы, потому что такие вещи, типа... В общем, я знал бы, ясно?
 
 Мы влипли, $(#дружище/подруга), нам нужно убираться отсюда, и как можно скорее. Это не часть видения.<end>
 
@@ -674,7 +674,7 @@ What are you talking about, Dude? Isn't this what you saw in the vision?<end>
 Man, man... man! Don't you see I'm, like, freaking out right now? <end>
 
 =>q105
-Блин, блин... блин! Разве не видишь, я сейчас, типа, с катушек слечу? <end>
+Блин, блин... блин! Разве не видишь, -- я сейчас, типа, с катушек слечу? <end>
 
 =>a106_original
 I knew you were going to mess something up sooner or later.<end>
@@ -1894,7 +1894,7 @@ We're not the only rift walkers, man, you know! There are nasty beings - beings,
 Besides, I, like, I mean, I may have... once or twice... like... done something... like... bad...<end>
 
 =>q301
-Знаешь, $(#приятель/подруга), мы ведь не единственные путешественники по разломам! Там есть ужасные существа - ужасные, $(#брат/сестра) - из реальностей, которых мы даже *понять* не сможем, и для них, типа, прогулка по промежутку так же банальна, как поездка на поезде.
+Знаешь, $(#приятель/подруга), мы ведь не единственные путешественники по разломам! Там есть ужасные существа - ужасные, $(#брат/сестра) - из реальностей, которых мы даже *понять* не сможем, и для них, типа, прогулка по Промежутку так же банальна, как поездка на поезде.
 
 Кроме того, я, типа, ну, я, может... раз или два... типа... сделал нечто... типа... плохое...<end>
 
@@ -2061,7 +2061,7 @@ Once you reach an exit rift, you will not be able to pass. It's the surface tens
 That is why you need gyromitrin: It is toxic, and it hurts what is living - it will hurt the living air. But it won't hurt you, because you don't feel pain. The damage done to the living air will create a temporary vacuum, but that doesn't suffocate you or anything like that, like in our reality. In the... the... the In-between, yeah, that's the name. The In-between. In there, vacuum is freedom - from the living air. There is no tension anymore, so you can walk through the exit rift and reach your destination.<end>
 
 =>q328
-Вот почему тебе нужен гиромитрин: он токсичен, а значит вредит всему живому -- вредит живому воздуху. Но он не повредит тебе, потому что ты не будешь чувствовать боли. Вред, нанесённый живому воздуху, создаст временный вакуум, но от этого ты не задохнёшься или типа того, как в нашей реальности. В... том... этом... промежутке -- конечно, вот как он называется. Промежуток. В нём вакуум -- это свобода от живого воздуха! В вакууме пропадает натяжение, так что ты сможешь пройти через выходной разлом и добраться до места назначения.<end>
+Вот почему тебе нужен гиромитрин: он токсичен, а значит вредит всему живому -- вредит живому воздуху. Но он не повредит тебе, потому что ты не будешь чувствовать боли. Вред, нанесённый живому воздуху, создаст временный вакуум, но от этого ты не задохнёшься или типа того, как в нашей реальности. В... том... этом... «Промежутке» -- конечно, вот как он называется. «Промежуток». В нём вакуум -- это свобода от живого воздуха! В вакууме пропадает натяжение, так что ты сможешь пройти через выходной разлом и добраться до места назначения.<end>
 
 =>q329_original
 The brew lets you see, the catalyst lets you enter, the morphine lets you survive - the gyromitrin lets you escape. That's everything we need. We're gonna be doing some rift-walking.<end>
@@ -2109,7 +2109,7 @@ Yeah, that's how it's called. The Juice. You mix all these things up and you get
 Now, *how* to, like, mix the ingredients is the real issue now. You add too much morphine, you faint in the In-between dimension. You add too little brew, you can't see the exit rift. You add too much catalyst - your mind moves faster than your body does. You add battery acid, you die!<end>
 
 =>q336
-А вот *как*, типа, смешивать ингредиенты -- это уже реальный головняк. Добавишь слишком много морфина -- отрубишься в измерении промежутка. Добавишь слишком мало самогона -- и не увидишь выходного разлома. Переборщишь с катализатором -- твой разум будет двигаться быстрее, чем тело. А добавишь аккумуляторной кислоты -- умрёшь!<end>
+А вот *как*, типа, смешивать ингредиенты -- это уже реальный головняк. Добавишь слишком много морфина -- отрубишься в измерении Промежутка. Добавишь слишком мало самогона -- и не увидишь выходного разлома. Переборщишь с катализатором -- твой разум будет двигаться быстрее, чем тело. А добавишь аккумуляторной кислоты -- умрёшь!<end>
 
 =>a337_original
 What's with you and battery acid?<end>
@@ -2465,7 +2465,7 @@ Yeah, yeah. You focus on the rift, and you let the Juice flow. Then... things pr
 You're also in trouble if you see yourself in the In-between.<end>
 
 =>q393
-А ещё у тебя проблемы, если в промежутке ты увидишь себя.<end>
+А ещё у тебя проблемы, если в Промежутке ты увидишь себя.<end>
 
 =>a394_original
 What do you mean?<end>
@@ -4393,7 +4393,7 @@ Then it hit me: I did everything right. The Juice is okay. It is okay. It felt a
 The point is... the effect wore off much quicker because we were together in the In-between. That's why all these problems occured.<end>
 
 =>q697
-Дело в том... что эффект закончился гораздо быстрее, потому что мы вместе были в промежутке. Из-за этого и возникли проблемы.<end>
+Дело в том... что эффект закончился гораздо быстрее, потому что мы вместе были в Промежутке. Из-за этого и возникли проблемы.<end>
 
 =>a698_original
 So in the end, the rest of "our" journey - according to your vision - was in fact my journey and mine alone?<end>
@@ -4718,7 +4718,7 @@ There you go, man. Now, when you drink this, know that it could make you a bit s
 =>q744
 ::Он вручает вам бутылку Сока.::
 
-Держи, $(#брат/сестра). Только знай, что его употребление может вызвать у тебя небольшую тошноту или частично отключить конечности, но это только с непривычки. *Может*, но не обязательно.<end>
+Держи, $(#брат/сестра). Только знай, что его употребление может вызвать у тебя небольшую тошноту или частично отключить конечности, но это только с непривычки. *Может*, но не должно.<end>
 
 =>q745_original
 Okay, I'll go first.
@@ -4760,7 +4760,7 @@ No sickness or paralysis?<end>
 I didn't say *I* could get, like, sick or paralyzed - *you* could get sick or paralyzed. My body can take any alcohol-based liquid - or solid matter, actually - and it won't hurt me one bit. You, man, on the other hand... you gotta be careful.<end>
 
 =>q749
-Я не говорил, что именно меня может затошнить или парализовать -- это *тебя* может затошнить или парализовать. Мой организм способен выдержать любую спиртосодержащую жидкость или даже твёрдое вещество, и это мне ни капельки не повредит. Но тебе, $(#приятель/подруга)... тебе нужно быть осторожнее.<end>
+Я и не говорил, что меня может затошнить или парализовать -- это *тебя* может затошнить или парализовать. Мой организм способен выдержать любую спиртосодержащую жидкость или даже твёрдое вещество, и это мне ни капельки не повредит. Но тебе, $(#приятель/подруга)... тебе нужно быть осторожнее.<end>
 
 =>a750_original
 I guess now's my turn to take the Juice.<end>
@@ -6386,7 +6386,7 @@ G-got it! ::Show him the key.::<end>
 Keep on searching, man.<end>
 
 =>q1004
-Продолжай поиски, $(#приятель/подруга).<end>
+Давай искать, $(#приятель/подруга).<end>
 
 =>q1005_original
 She's... she dead! That was totally avoidable, man, seriously. 
