@@ -98,7 +98,7 @@ Alright! Gimme, gimme, gimme. ::He takes a close look at the label.:: I, like, d
 What do they put in this thing, man? It... ::As he brings the oil closer to his objecting nose his pupils turn more and more dilated. He glances at where the rift is supposed to be, and his smile confirms that it is still there.::<end>
 
 =>q16
-::и пытается уловить запах. Но, судя по сморщенному носу, запах ему не понравился.::
+::и пытается уловить запах. Но судя по сморщенному носу, запах ему не нравится.::
 
 Что они, блин, туда добавляют? Это... ::Чем ближе он подносит масло к носу, тем сильнее расширяются его зрачки. Он смотрит в направлении, где должен находиться разлом, и его улыбка подтверждает, что он таки там есть.::<end>
 
@@ -126,7 +126,7 @@ No, man. <end>
 Hrrrrrrrrr... drink... man. Just... a little... is all it takes... ::He coughs.::<end>
 
 =>q20
-::С отвращением в глазах он вливает немного этого пойла прямо в горло, стараясь, чтобы оно как можно меньше попадало на язык. Его губы заворачиваются внутрь, веки закрываются, а ноздри расширяются так сильно, что вы можете почти полностью видеть его носоглотку. Затем протягивает бутылку вам.::
+::С отвращением в глазах он вливает немного смазки прямо в горло, стараясь, чтобы она как можно меньше попадала на язык. Его губы заворачиваются внутрь, веки закрываются, а ноздри расширяются так сильно, что вы почти можете видеть его носоглотку. Затем он протягивает бутылку вам.::
 
 Хр-р-р... пей... $(#брат/сестра). Совсем... немного и... достаточно... ::Он кашляет.::<end>
 
@@ -570,7 +570,7 @@ Focus, man, focus! We gotta, like, get outta here. ::He nervously peeks toward t
 That's all I need. I'm going to find that mineral oil.<end>
 
 =>a89
-Этого достаточно, я найду это минеральное масло.<end>
+Этого достаточно, я найду тебе минеральное масло.<end>
 
 =>a90_original
 I'll keep my eyes open, Dude. See ya.<end>
@@ -728,7 +728,7 @@ Didn't you figure out how the Universe works by now, man? I had a vision. Saw yo
 It's Quinton, damn it. But I'm glad. Visions can be quite convenient, I have to admit.<end>
 
 =>a114
-Его зовут Куинтон, чёрт побери. Но я рад$(#/а). Стоит признать, видения могут быть довольно полезными.<end>
+Его, блин, зовут Куинтон. Но я рад$(#/а). Стоит признать, видения могут быть довольно полезными.<end>
 
 =>q115_original
 Yeah, man. But never while you're on the toilet. It's like... no, man, no.<end>
@@ -1624,7 +1624,7 @@ No, man, it's not that... you know, like... It's not about the brew, man. And, a
 Ah, here's the damn recipe. ::He gives you the Juice recipe.:: Here.<end>
 
 =>q259
-Ах, вот этот чёртов рецепт. ::Он даёт вам рецепт Сока.:: Возьми.<end>
+А, на вот этот рецепт. ::Он даёт вам рецепт Сока.:: Возьми.<end>
 
 =>a260_original
 Because despite watching you mix it I'd rather not try to replicate it from memory and end up poisoning myself... or worse.<end>
@@ -1636,7 +1636,7 @@ Because despite watching you mix it I'd rather not try to replicate it from memo
 Just give me the damned recipe.<end>
 
 =>a261
-Просто дай мне этот чёртов рецепт.<end>
+Просто дай мне уже этот рецепт.<end>
 
 =>q262_original
 Look, man, I don't like your tone. I don't.
@@ -1722,7 +1722,7 @@ I had to scrub those filthy dishes for hours to work it off.<end>
 Damn. I had to do that a lo-- couple of times in the past. Well, dishes, quad bikes - some old lady's back once. I've scrubbed a lot of things. The best advice I can give you is not to waste the hot water, 'cause when you run out of it you're in big trouble. Everything, and I mean, like, everything gets more difficult when the water gets cold and your fingertips are all, like, wrinkled, man. And yeah, over time all that detergent will make your skin, like, crack, especially around your knuckles. It stings, man. So use gloves.<end>
 
 =>q274
-Чёрт. В прошлом мне приходилось заниматься этим куч... пару раз. Ну, посуда, квадроциклы - однажды, даже спина какой-то старушки. Я много чего передраил. Лучший совет, который я могу тебе дать, это не тратить горячую воду впустую, потому что, когда она заканчивается, у тебя начинаются большие проблемы. Всё, и я имею в виду, типа, вообще всё серьёзно осложняется, когда вода становится холодной, а подушечки пальцев становятся морщинистыми, как, типа, у дряхлого старикана. И да, со временем от всех этих моющих средств твоя кожа, типа, трескается, особенно вокруг костяшек. А это пипец как щипит, $(#брат/сестра). Так что пользуйся перчатками.<end>
+Блин. В прошлом мне приходилось заниматься этим куч... пару раз. Ну, посуда, квадроциклы - однажды, даже спина какой-то старушки. Я много чего передраил. Лучший совет, который я могу тебе дать, это не тратить горячую воду впустую, потому что, когда она заканчивается, у тебя начинаются большие проблемы. Всё, и я имею в виду, типа, вообще всё серьёзно осложняется, когда вода становится холодной, а подушечки пальцев становятся морщинистыми, как, типа, у дряхлого старикана. И да, со временем от всех этих моющих средств твоя кожа, типа, трескается, особенно вокруг костяшек. А это пипец как щипит, $(#брат/сестра). Так что пользуйся перчатками.<end>
 
 =>a275_original
 Shouldn't the best advice be to pay for your drinks and food?<end>
@@ -2383,7 +2383,7 @@ Sounds like, "Which came first: The hopper or the egg?"<end>
 Well, the hopper *obviously*, since eggs can't really come to you 'cause they can't, like, roll on their own; not hopper eggs - no way! And even if they could, the adult hoppers are still pretty damn fast.<end>
 
 =>q380
-*Очевидно* же, что пещерник, ведь яйца-то не могут сами к тебе прийти, поскольку они не могут, ну, типа, катиться сами по себе; уж точно не яйца пещерников! А даже если бы и могли, взрослые пещерники всё равно чертовски быстрые.<end>
+*Очевидно* же, что пещерник, ведь яйца-то не могут сами к тебе прийти, поскольку они не могут, ну, типа, катиться сами по себе; уж точно не яйца пещерников! А даже если бы и могли, взрослые пещерники всё равно офигенно быстрые.<end>
 
 =>q381_original
 But the symbols, they're linked, man. <end>
@@ -4305,7 +4305,7 @@ This deal rocks, man. I got everything I needed from that Quentin guy.<end>
 ::Tired, and a bit sick to the stomach, you stand by the fire with Dude. The flames did not stop dancing in your absence; it is as though they were waiting for your return in order to lull you into tranquility with their undulating warmth. However, the sounds of gastroenteric insurrection coming from Dude's volatile bowels easily dispel your recuperative peace.::<end>
 
 =>q685
-::Изнемогая и испытывая лёгкую тошноту, вы стоите с Чуваком у костра. Пламя не прекращало свой танец в ваше отсутствие; оно как будто ждало вашего возвращения, чтобы убаюкать вас волнами своего тепла. Однако, звуки пищеварительного бунта, исходящие из бурлящего живота Чувака, без труда развеивают ваш душевный покой.::<end>
+::Изнемогая и испытывая лёгкую тошноту, вы стоите с Чуваком у костра. Пламя не прекращало свой танец в ваше отсутствие; оно как будто ждало вашего возвращения, чтобы убаюкать вас волнами своего тепла. Однако звуки пищеварительного бунта, исходящие из бурлящего живота Чувака, без труда развеивают ваш душевный покой.::<end>
 
 =>a686_original
 Is the mineral oil at it again?<end>
@@ -4329,7 +4329,7 @@ Yeah, man. I thought I got it all out after, like, the third time, but... guess 
 I've been thinking, man...<end>
 
 =>q688
-::Наступает долгая пауза, во время которой его кишечник продолжает бушевать. Он нарушает молчание словами, произнесёнными тихим, мрачным голосом.::
+::Наступает долгая пауза, во время которой его кишечник продолжает бушевать. Он нарушает молчание словами, произнесёнными тихим, мрачным голосом: ::
 
 Я тут подумал, $(#брат/сестра)...<end>
 
@@ -4345,15 +4345,15 @@ In all that chaos, I haven't had the time to figure out why I messed up so badly
 And it has never, *ever* failed me so long as I recognized what I saw in it and abided by it. So how did I, like, create such a disaster this time?<end>
 
 =>q690
-Во всём этом хаосе, у меня не было времени, чтобы выяснить, как же я сумел так облажаться. В смысле, до того момента, как мы начали ходить по разломам, всё шло гладко, как и должно было. Как и всегда. Видения неизменно указывали мне верный путь.
+Во всём этом хаосе у меня не было времени, чтобы выяснить, как же я сумел так облажаться. В смысле, до того момента, как мы вошли в разлом, всё шло гладко, как и должно было. Как и всегда. Видения неизменно указывали мне верный путь.
 
-И никогда, *никогда* не подводили меня, пока я считался с тем, что в них видел, и следовал им. Так как же я учинил такую катастрофу на этот раз?<end>
+И никогда, *никогда* не подводили меня, пока я считался с тем, что в них видел, и следовал им. Так, как же я учинил такую катастрофу на этот раз?<end>
 
 =>q691_original
 Well, I thought about it, man, and now I think I know the reason: I did not respect the vision.<end>
 
 =>q691
-Что ж, я подумал об этом, $(#брат/сестра), и теперь мне кажется, что я знаю причину: я не уважал видение.<end>
+И вот, я подумал об этом, $(#брат/сестра), и теперь мне кажется, что я знаю причину: я не уважал видение.<end>
 
 =>a692_original
 ::[Intelligence]:: I remember you told me how the vision showed only me walking the rifts. Could it be that you weren't supposed to come with me at all?<end>
@@ -4367,7 +4367,7 @@ Well, I thought about it, man, and now I think I know the reason: I did not resp
 Yeah, yeah. That's the thing. Good stuff you got inside that skull of yours. ::He smiles.::<end>
 
 =>q693
-::Он кивает в подтверждение, и кажется, приятно удивлён проявлением вашего ума.::
+::Он кивает в подтверждение и, кажется, приятно удивлён вашей сообразительностью.::
 
 Да, да. В том-то и дело. Отличная у тебя штуковина внутри черепа. ::Он улыбается.::<end>
 
@@ -4375,19 +4375,19 @@ Yeah, yeah. That's the thing. Good stuff you got inside that skull of yours. ::H
 I was so damn stupid, man! I've never done anything against the vision, but I always felt things were going to fall apart if I did. So I never, like, did it, I mean... Never mind. And I felt it as we were rift-walking, and I knew everything from that point onward was, like, uncharted territory. Anything could happen.<end>
 
 =>q694
-Как же я тупанул, $(#брат/сестра)! Я никогда ничего не делал наперекор виденям, но всегда чувствовал, что всё рухнет, если так поступлю. Так что я никогда этого не делал, в смысле... Неважно. И я ощутил это, когда мы ступили в разлом, я знал, что начиная с того момента всё было, типа, неизведанной территорией. Могло случиться всё, что угодно.<end>
+Как же я тупанул, $(#брат/сестра)! Я никогда ничего не делал наперекор видениям, но всегда чувствовал, что всё рухнет, если так поступлю. Так что я никогда, типа, этого не делал, в смысле... Неважно. И я ощутил это, когда мы ступили в разлом, я знал, что начиная с того момента всё было, типа, неизведанной территорией. Могло случиться всё что угодно.<end>
 
 =>q695_original
 But that brings me to another question: Why did I mess up the recipe? If it was you who was supposed to do all the rift-walking, then how could I have done that step wrong? You need me to rift-walk, right. I am the Juice supplier. The Juice Dude, man.<end>
 
 =>q695
-Но это навело меня на вопрос: Почему я напортачил с рецептом? Если это тебе предстояло пройти по разломам, то как я мог ошибиться в этом шаге? Я же нужен тебе для того, чтобы пройти через разлом. Я - поставщик Сока. Сочный, блин, Чувак.<end>
+Но это навело меня на вопрос: почему я напортачил с рецептом? Если это тебе предстояло пройти по разломам, то как я мог ошибиться в этом шаге? Я же нужен тебе для того, чтобы пройти через разлом. Я -- поставщик Сока. Сочный, блин, Чувак.<end>
 
 =>q696_original
 Then it hit me: I did everything right. The Juice is okay. It is okay. It felt and seemed right because it *was* right. But there was another variable which I never, like, had the chance to test. Both of us went inside the rift at the same time, man. What if two people attract much more living air trying to kill them than what would each one of us individually attract? What if our minds are interacting with each other in some unknown way when we're there? Maybe the attunement gets messed up? Or maybe it's something else entirely.<end>
 
 =>q696
-И тут меня осенило: я всё сделал правильно. С Соком всё в порядке. Он ощущался и казался правильным, потому что он и *был* правильным. Но была ещё одна переменная, которую мне ни разу не довелось проверить. Мы вошли в разлом одновременно, $(#брат/сестра). Что, если два человека притягивают гораздо больше живого воздуха, стремящегося убить их, чем каждый из нас в отдельности? Что, если наши сознания взаимодействуют друг с другом каким-то неведомым образом, когда мы находимся там? Возможно, взаимно нарушаются настройки? Или, может быть, это нечто совершенно иное.<end>
+И тут меня осенило: я всё сделал правильно. С Соком всё в порядке. В полном. Он ощущался и казался правильным, потому что он и *был* правильным. Но была ещё одна переменная, которую мне, типа, ни разу не довелось проверить. Мы вошли в разлом одновременно, $(#брат/сестра). Что, если два человека притягивают гораздо больше живого воздуха, стремящегося убить их, чем каждый из нас в отдельности? Что, если наши сознания взаимодействуют друг с другом каким-то неведомым образом, когда мы находимся там? Возможно, нарушается настройка? Или, может быть, это нечто совершенно иное?<end>
 
 =>q697_original
 The point is... the effect wore off much quicker because we were together in the In-between. That's why all these problems occured.<end>
@@ -4399,7 +4399,7 @@ The point is... the effect wore off much quicker because we were together in the
 So in the end, the rest of "our" journey - according to your vision - was in fact my journey and mine alone?<end>
 
 =>a698
-Значит, остальная часть "нашего" путешествия - согласно твоему видению - на самом деле была моим и только моим путешествием?<end>
+Значит, остальная часть «нашего» путешествия -- согласно твоему видению -- на самом деле была моим и только моим путешествием?<end>
 
 =>q699_original
 Seems so, man. You and I are done - unless I get another vision.
@@ -4407,9 +4407,9 @@ Seems so, man. You and I are done - unless I get another vision.
 ::The two of you instinctively pause in anticipation of the aforementioned...::<end>
 
 =>q699
-Похоже на то, $(#брат/сестра). Мы с тобой закончили - если только у меня не будет другого видения.
+Похоже на то, $(#брат/сестра). Но теперь всё кончено, -- если только у меня не будет другого видения.
 
-::Вы вдвоём инстинктивно замираете в ожидании этого...::<end>
+::Вы вдвоём инстинктивно замираете в ожидании...::<end>
 
 =>q700_original
 ::Nothing happens.::
@@ -4419,29 +4419,29 @@ Well, when I say done, I didn't mean, like, completely done, like totally. I cou
 Except Juice ingredients. Damn it! We're not done at all.<end>
 
 =>q700
-::Ничего не происходит.::
+::...но ничего не происходит.::
 
-Ну, когда я сказал "закончили", я не имел в виду, типа, "совсем закончили". Я по-прежнему могу приготовить для тебя Сок, и мы можем, типа, поболтать и всё такое. Под "закончили" я подразумеваю путешествия и сбор для меня всякой фигни.
+Ну, когда я сказал «всё кончено», я, типа, не имел в виду, что нам, типа, пора прощаться. Я по-прежнему могу приготовить для тебя Сок, и мы можем, типа, поболтать и всё такое. Но я подразумеваю, что мы закончили с путешествиями и сбором для меня всякой фигни.
 
-За исключением ингредиентов для Сока. Чёрт возьми! Мы ещё как не закончили.<end>
+За исключением ингредиентов для Сока. Вот, блин! Мы ещё как не закончили.<end>
 
 =>a701_original
 I don't mind it, Dude. If nothing else, we've got a reason to hang out. Have a brew together. Or ten.<end>
 
 =>a701
-Я не против, Чувак. Во всяком случае, у нас есть причины потусоваться. Выпить по бутылочке самогона. А может, и по десять.<end>
+Я не против, Чувак. Как минимум, у нас будет причина потусоваться. Выпить по бутылочке самогона. А может, и по десять.<end>
 
 =>q702_original
 ::He laughs.:: Well, yeah, that sounds okay to me too.<end>
 
 =>q702
-::Он смеётся.:: Ну, да, как по мне, звучит неплохо.<end>
+::Он смеётся.:: Ну, да, -- как по мне, звучит неплохо.<end>
 
 =>a703_original
 Damn it indeed.<end>
 
 =>a703
-Конечно, чёрт побери.<end>
+Конечно, не закончили.<end>
 
 =>q704_original
 I'm going to need to get some more brew, man. And, like, a fridge or something.<end>
@@ -4471,7 +4471,7 @@ What do you mean?<end>
 I wasn't supposed to come with you, man. That's why it all went wrong. Remember when I told you that I only saw images of you rift-walking? Vision was a bit fuzzy, but what was clear was that I wasn't with you, man.<end>
 
 =>q708
-Я не должен был идти с тобой, $(#брат/сестра). Вот почему всё пошло наперекосяк. Помнишь, я говорил тебе, что видел только твой образ идущий по разломам? Видение было немного нечётким, но было ясно, что меня с тобой не было.<end>
+Я не должен был идти с тобой, $(#брат/сестра). Вот почему всё пошло наперекосяк. Помнишь, я говорил тебе, что видел только твой образ, идущий по разломам? Видение было немного нечётким, но было ясно, что меня с тобой не было.<end>
 
 =>a709_original
 I'm getting really confused here.<end>
@@ -5680,7 +5680,7 @@ T-told you they were wait-t-ting. T-t-the mutants.<end>
 Yeah, you sure tried, man. But I'm guessing we had to meet them one way or the other. Damn mutants.<end>
 
 =>q893
-Да, конечно, ты пытал$(#ся, приятель/ась, подруга). Но я полагаю, так или иначе, мы должны были с ними столкнуться. Чёртовы мутанты.<end>
+Да, конечно, ты пытал$(#ся, приятель/ась, подруга). Но я полагаю, так или иначе, мы должны были с ними столкнуться. Дурацкие мутанты.<end>
 
 =>a894_original
 T-time to kick ass and chew bubble gum. And I'm too d-drunk to k-kick ass. Yeah, there's gotta be another w-way to deal with those m-mutants.<end>
