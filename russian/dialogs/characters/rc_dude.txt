@@ -112,7 +112,7 @@ I see it, man. This is what we need.<end>
 So smelling it is enough?<end>
 
 =>a18
-Значит, достаточно просто понюхать его?<end>
+Значит, достаточно просто понюхать?<end>
 
 =>q19_original
 No, man. <end>
@@ -126,7 +126,7 @@ No, man. <end>
 Hrrrrrrrrr... drink... man. Just... a little... is all it takes... ::He coughs.::<end>
 
 =>q20
-::С отвращением в глазах он вливает немного смазки прямо в горло, стараясь, чтобы она как можно меньше попадала на язык. Его губы заворачиваются внутрь, веки закрываются, а ноздри расширяются так сильно, что вы почти можете видеть его носоглотку. Затем он протягивает бутылку вам.::
+::С отвращением в глазах он вливает немного жидкости прямо в горло, стараясь, чтобы она как можно меньше попадала на язык. Его губы заворачиваются внутрь, веки закрываются, а ноздри расширяются так сильно, что вы почти можете видеть его носоглотку. Затем он предлагает выпить вам: ::
 
 Хр-р-р... пей... $(#брат/сестра). Совсем... немного и... достаточно... ::Он кашляет.::<end>
 
@@ -146,7 +146,7 @@ Hrrrrrrrrr... drink... man. Just... a little... is all it takes... ::He coughs.:
 Do we need to drink it?<end>
 
 =>a23
-Нужно ли нам его пить?<end>
+Нужно ли нам это пить?<end>
 
 =>q24_original
 ::He stares at the five-liter canister.:: Uhhh... <end>
@@ -164,7 +164,7 @@ Yeah. <end>
 Just do what needs to be done and let's get out of here already.<end>
 
 =>a26
-Просто делай то, что нужно, и давай уже выбираться отсюда.<end>
+Просто делай, что придётся, и давай уже выбираться отсюда.<end>
 
 =>a27_original
 Will this work? ::Show him the hydraulic fluid canister you've been hauling from the Deep Caverns.:: Says it's mineral oil-based.<end>
@@ -178,9 +178,9 @@ Will this work? ::Show him the hydraulic fluid canister you've been hauling from
 Hmmm... Don't see any skulls or, like, crossed bones. Hold it still!<end>
 
 =>q28
-:: Он внимательно смотрит на этикетку. ::
+::Он внимательно разглядывает этикетку.::
 
-Хмм... Не вижу ни черепов, ни, типа, скрещённых костей. Подержи-ка!<end>
+Хм-м... Не вижу ни черепов, ни, типа, скрещённых костей. Подержи-ка!<end>
 
 =>q29_original
 ::He unscrews the cap ::<end>
@@ -202,7 +202,7 @@ It, like, also says: "Highly toxic - do not ingest." And there's the little skul
 =>q31
 ::Он внимательно рассматривает этикетку.::
 
-Тут, типа, сказано: "Высокотоксичен - не принимать внутрь." А вот и маленький череп с костями, $(#приятель/подруга).<end>
+Тут, типа, ещё написано: «Высокотоксично -- не принимать внутрь!» А вот и маленький череп с костями, $(#приятель/подруга).<end>
 
 =>q32_original
 ::Despite the warning he opens the lube and takes a whiff.:: Hmmm...
@@ -212,7 +212,7 @@ It, like, also says: "Highly toxic - do not ingest." And there's the little skul
 ...and maybe it's, like, for the best.<end>
 
 =>q32
-::Несмотря на предупреждение, он открывает смазку и нюхает.:: Хммм...
+::Несмотря на предупреждение, он открывает смазку и нюхает.:: Хм-м-м...
 
 ::Он смотрит туда, где должен быть разлом.:: Не-а. Не сработало, $(#брат/сестра), не сработало...
 
@@ -222,7 +222,7 @@ It, like, also says: "Highly toxic - do not ingest." And there's the little skul
 But good thinking, man! Maybe these guys got a mineral oil-based one, yeah. They, like, gotta have gun lubes lying around.<end>
 
 =>q33
-А ведь хорошая мысль, $(#приятель/подруга)! Вероятно, у этих ребят есть что-нибудь на основе минерального масла. У них же по идее оружейная смазка, типа, должна валяться повсюду.<end>
+Но мысль хорошая, $(#приятель/подруга)! Вероятно, у этих ребят есть что-нибудь на основе минерального масла. У них же, по идее, оружейная смазка, типа, должна валяться повсюду.<end>
 
 =>a34_original
 Like this one? ::Show him the gun lubricant you found in the storage.::<end>
@@ -404,7 +404,7 @@ We need to lube it up. So that it can circulate properly. We need mineral oil.<e
 Yeah, but so is gyromitrin. Cancerous. And you haven't, like, gotten cancer yet, did ya? The Juice will protect you, man. Trust me.<end>
 
 =>q62
-Да, как и гиромитрин. Канцерогенный. Но ты же, типа, ещё не заработал$(#/а) себе рак, не так ли? Сок защитит тебя, $(#брат/сестра). Доверься мне.<end>
+Да, как и гиромитрин -- зловредным. Но ты же, типа, ещё не заработал$(#/а) себе рак, не так ли? Сок защитит тебя, $(#брат/сестра). Доверься мне.<end>
 
 =>a63_original
 ::[Biology]:: Isn't mineral oil used to treat constipation?<end>
@@ -704,19 +704,19 @@ Where are we?<end>
 Hey, man. I got your Juice ready.<end>
 
 =>q110
-Эй, $(#брат/сестра). Я приготовил тебе Сок.<end>
+Привет, $(#брат/сестра). Я приготовил тебе Сок.<end>
 
 =>q111_original
 That Quentin guy was really friendly and helpful. He knows how hard it is being the Dude... or did he say "making the brew"? Meh, both work.<end>
 
 =>q111
-Этот Квентин был очень дружелюбен и обходителен. Он знает, как трудно быть Чуваком... или он сказал "варить самогон"? Пофиг, и то и другое верно.<end>
+Этот Квентин был очень дружелюбен и обходителен. Он знает, как трудно быть Чуваком... или он сказал «варить самогон»? Пофиг, и то и другое верно.<end>
 
 =>a112_original
 Quinton - not Quentin. And... how, what - when?<end>
 
 =>a112
-Куинтон - не Квентин. И... как, когда?<end>
+Куинтон, а не Квентин. И... что, как, когда?<end>
 
 =>q113_original
 Didn't you figure out how the Universe works by now, man? I had a vision. Saw you, like, making a deal with Quentin and knew what I had to do. I got everything ready, man. We got a good supply of Juice, man!<end>
@@ -728,7 +728,7 @@ Didn't you figure out how the Universe works by now, man? I had a vision. Saw yo
 It's Quinton, damn it. But I'm glad. Visions can be quite convenient, I have to admit.<end>
 
 =>a114
-Его, блин, зовут Куинтон. Но я рад$(#/а). Стоит признать, видения могут быть довольно полезными.<end>
+Я говорю, его зовут Куинтон. Но я рад$(#/а). Стоит признать, видения могут быть довольно полезными.<end>
 
 =>q115_original
 Yeah, man. But never while you're on the toilet. It's like... no, man, no.<end>
@@ -786,13 +786,13 @@ Whoa, man... I... Whoa, I know this from somewhere. <end>
 It's - *A Connor*!<end>
 
 =>q123
-Это - *А Коннор*!<end>
+Это -- *А-Коннор*!<end>
 
 =>a124_original
 A... Connor?<end>
 
 =>a124
-Э... Коннор?<end>
+А... Коннор?<end>
 
 =>q125_original
 Wait... <end>
@@ -810,13 +810,13 @@ It's all coming back to me... ::He stops to think, his eyes turning more and mor
 Man, I... see this image before my eyes... of this, like, round thing in an open metal case... case just like that one. This sphere... it's, like, glowing in the dark.<end>
 
 =>q127
-Блин, я... видел образ этой, типа, округлой штуковины в открытом металлическом кейсе... точно таком же, как этот. Эта сфера... она, типа, светилась в темноте.<end>
+Блин, я... видел образ... такой, типа, округлой штуковины в открытом металлическом кейсе... точно таком же, как этот. Эта сфера... она, типа, светилась в темноте.<end>
 
 =>a128_original
 Can you describe it?<end>
 
 =>a128
-Не мог бы ты описать его?<end>
+Не мог бы ты описать поподробнее?<end>
 
 =>q129_original
 It was... awesome, man. It was... an *Awesome Computer of Notable Roundness*.<end>
@@ -846,7 +846,7 @@ I don't think that's what ACoNR is supposed to stand for.<end>
 No, man, it stands for A Connor because it was made by a Connor, but it's an Awesome Computer of Notable Roundness because it's an awesome computer of notable roundness.<end>
 
 =>q133
-Нет, $(#приятель/подруга), это означает А Коннор, потому что он был создан Коннором, но также и Ахренительный Компьютер округлости Небольшого Радиуса, потому что это ахренительный компьютер округлости небольшого радиуса.<end>
+Нет, $(#приятель/подруга), это означает А-Коннор, потому что он был создан Коннором, но также и Ахренительный Компьютер округлости Небольшого Радиуса, потому что это ахренительный компьютер округлости небольшого радиуса.<end>
 
 =>q134_original
 <end>
@@ -870,31 +870,31 @@ I threw it in the trash, that's what I did. I warned you, man!<end>
 I've yet to, um... like, throw the trash out, though. The barrels near the entrance. You know, if you ain't got anything better to do, like... <end>
 
 =>q137
-Впрочем, я ещё, эм... типа, не выбросил мусор. Бочки возле входа. Знаешь, если тебе больше нечем заняться, типа... <end>
+Впрочем, я ещё, эм... типа, не выносил мусор. Бочки возле входа. Знаешь, если тебе больше нечем заняться, типа... <end>
 
 =>a138_original
 Who's Connor anyway?<end>
 
 =>a138
-А кто такой этот Коннор?<end>
+Что ещё за Коннор?<end>
 
 =>q139_original
 The guy who, like, made A Connor. Pay attention, man - I mean, really!<end>
 
 =>q139
-Парень, который, типа, сделал А Коннор. И обрати внимание, $(#брат/сестра) - я говорю серьёзно!<end>
+Парень, который, типа, сделал А-Коннор. Не щёлкай клювом, $(#брат/сестра) -- я говорю серьёзно!<end>
 
 =>a140_original
 I meant what do you know about the guy - if he is a guy - besides him or her making the Acorn.<end>
 
 =>a140
-Я о том, что тебе известно об этом парне - если он действительно парень - кроме того, что он сделал Жёлудь.<end>
+Я о том, что тебе известно об этом парне -- если это вообще парень -- кроме того, что он сделал Жёлудь.<end>
 
 =>q141_original
 Whoa... You're right, man! Connor's also, like, a last name! Maybe he's not a he - maybe it's an it!<end>
 
 =>q141
-Ого... А ты прав$(#, приятель/а, подруга)! Коннор же, типа, фамилия! Возможно, он и не он - возможно, это оно!<end>
+Ого... А ты прав$(#, приятель/а, подруга)! Коннор же, типа, фамилия! Возможно, он и не он -- возможно, это оно!<end>
 
 =>a142_original
 Or maybe she's a she.<end>
@@ -906,19 +906,19 @@ Or maybe she's a she.<end>
 Nnnnnah, man. I'm all for "it" now.<end>
 
 =>q143
-Не-е-е, $(#приятель/подруга). Теперь я полностью за "оно".<end>
+Не-е-е, $(#приятель/подруга). Теперь я полностью за «оно».<end>
 
 =>a144_original
 "It" like a child?<end>
 
 =>a144
-"Оно" как дитя?<end>
+«Оно» как дитя?<end>
 
 =>q145_original
 "It" like something... else, man. Something non-man. <end>
 
 =>q145
-"Оно" как нечто иное, $(#приятель/подруга). Нечто нечеловеческое. <end>
+«Оно» как нечто иное, $(#приятель/подруга). Нечто нечеловеческое. <end>
 
 =>q146_original
 
@@ -926,7 +926,9 @@ Nnnnnah, man. I'm all for "it" now.<end>
 Unman. Inman... ::He shrugs.:: I'm just speculating.<end>
 
 =>q146
-Бесчеловеческое. Недочеловеческое... ::Он пожимает плечами.:: Я просто размышляю.<end>
+
+
+Бесчеловеческое. Внечеловеческое... ::Он пожимает плечами.:: Я просто размышляю.<end>
 
 =>a147_original
 Never mind the gender. Tell me what else you know about Connor.<end>
@@ -938,13 +940,13 @@ Never mind the gender. Tell me what else you know about Connor.<end>
 I really don't know anything about Connor, who or what or when he is other than that he made A Connor, Awesome Computer of Notable Roundness. That's... the information I got in my mind, and you already know how that thing works. ::He takes a gulp of brew.::<end>
 
 =>q148
-По правде говоря, я ничего не знаю о Конноре, кроме того, что он сделал А Коннор, Ахренительный Компьютер округлости Небольшого Радиуса. Эта... информация посетила мой разум, и ты уже знаешь, как это работает. ::Он делает большой глоток самогона.::<end>
+По правде говоря, я ничего не знаю о Конноре кроме того, что он или оно сделал А-Коннор, Ахренительный Компьютер округлости Небольшого Радиуса. Эта... информация посетила мой разум, и ты уже знаешь, как это работает. ::Он делает большой глоток самогона.::<end>
 
 =>a149_original
 "It" like something that isn't human?<end>
 
 =>a149
-"Оно" как нечто такое, что не является человеком?<end>
+«Оно» как нечто такое, что не является человеком?<end>
 
 =>q150_original
 ::He nods.:: Yeah, man. Something non-man.<end>
@@ -980,7 +982,7 @@ But yeah, a sphere's the best at enduring high pressure and stress, not so much 
 =>q154
 Так вот, он округлый, потому что, типа...
 
-Видишь ли, сфера - это идеальная форма, у неё нет слабых мест; знаешь, как говорится: бар так же хорош, как и его самый пьяный посетитель... или что-то типа того.
+Видишь ли, сфера -- это идеальная форма, у неё нет слабых мест; знаешь, как говорится: бар так же хорош, как и его самый пьяный посетитель... или что-то типа того.
 
 Но да, сфера очень стрессоустойчива и, поскольку она выполнена из прочного материала, то прекрасно переносит высокое давление, причём не столько внешнее, сколько внутреннее из-за того, что компьютер, типа, напряжённо обдумывает, что ему нужно сделать.<end>
 
@@ -988,7 +990,7 @@ But yeah, a sphere's the best at enduring high pressure and stress, not so much 
 I know I get under a lot of stress when I think a lot, so much so I think I'm gonna explode. If I was a sphere I'd never explode, man. You'd be able to put me anywhere and know I'd be, like, nonexplosive to the max. Yeah.<end>
 
 =>q155
-Я знаю, что испытываю сильный стресс, когда много думаю, настолько сильный, что мне кажется, я вот-вот взорвусь. Если бы я был сферой, то никогда бы не взорвался, $(#приятель/подруга). Меня можно было бы поместить куда угодно и знать, что я, типа, максимально невзрывоопасен. Ага.<end>
+Я знаю, что испытываю сильный стресс, когда много думаю, -- настолько сильный, что мне кажется, я вот-вот взорвусь. Если бы я был сферой, то никогда бы не взорвался, $(#приятель/подруга). Меня можно было бы поместить куда угодно и знать, что я, типа, максимально невзрывоопасен. Ага.<end>
 
 =>a156_original
 ::Say nothing.::<end>
@@ -1006,19 +1008,19 @@ Anyway, things of notable roundness tend to, like, roll around when you don't wa
 What the hell are you talking about?<end>
 
 =>a158
-Что ты несёшь?<end>
+О чём ты вообще говоришь?<end>
 
 =>q159_original
 Stress, man. Keep up.<end>
 
 =>q159
-Стресс, чувак. Держись.<end>
+О стрессе, $(#приятель/подруга). Слушай внимательно.<end>
 
 =>a160_original
 I don't know, Dude. I've been around a lot of round people, and some of them tended to be... ehem, quite "explosive."<end>
 
 =>a160
-Ну не знаю, Чувак. Я встречал$(#/а) немало круглых людей, и некоторые из них были... кхм, довольно "взрывными".<end>
+Ну не знаю, Чувак. Я встречал$(#/а) немало округлых людей, и некоторые из них были... кхм, довольно «взрывоопасны».<end>
 
 =>q161_original
 Man...<end>
@@ -1036,7 +1038,7 @@ Would you hold on to it for me?<end>
 Are you derailed, man!? I'm not keeping anything like that here. Someone's, like, after it for sure, and I don't wanna get woken up by a bunch of stealthed, shielded, *sober* cyber-assassins after you're gone.<end>
 
 =>q163
-Ты с рельсов сош$(#ёл, приятель/ла, подруга)?! Я не собираюсь держать здесь ничего подобного. Кто-то, типа, наверняка за ним охотится, и я не горю желанием, быть разбуженным шайкой скрытных, резвых, *трезвых* кибер-убийц после твоего ухода.<end>
+Ты с рельсов сош$(#ёл, приятель/ла, подруга)?! Я не собираюсь держать здесь ничего подобного. Кто-то, типа, наверняка за ним охотится, и я не горю желанием быть разбуженным шайкой скрытных, резвых, *трезвых* кибер-убийц после твоего ухода.<end>
 
 =>q164_original
 <end>
@@ -1054,7 +1056,7 @@ And <end>
 don't you dare, like, stash it somewhere in my cave! I see A Connor lying about - Imma throw it out, man, no matter how awesome or of notable roundness it is.<end>
 
 =>q166
-не вздумай, типа, спрятать его где-нибудь в моей пещере! Увижу валяющийся где-нибудь А Коннор - выкину его нахрен, $(#приятель/подруга), каким бы он ни был потрясающим.<end>
+не вздумай, типа, спрятать его где-нибудь в моей пещере! Увижу валяющийся где-нибудь А-Коннор -- выкину его нахрен, $(#приятель/подруга), каким бы он ни был потрясающим.<end>
 
 =>q167_original
 <end>
@@ -1096,13 +1098,13 @@ Sure, man. But <end>
 You mean *A-C-O-N-R*, pronounced "Acorn."<end>
 
 =>a173
-Ты хочешь сказать, *А-К-О-Н-Р* или "Жёлудь".<end>
+Ты хочешь сказать, *А-К-О-Н-Р* или «Жёлудь».<end>
 
 =>a174_original
 A-C-O-N-R... A Connor... A-CONR... A Connor... Hmmm...<end>
 
 =>a174
-А-К-О-Н-Р... А Коннор... А-КОНР... А Коннор... Хм-м-м...<end>
+А-К-О-Н-Р... А-Коннор... А-КОНР... А-Коннор... Хм-м-м...<end>
 
 =>a175_original
 Tell me everything you know about Connor.<end>
@@ -1114,7 +1116,7 @@ Tell me everything you know about Connor.<end>
 *A* Connor, man. But wait... <end>
 
 =>q176
-*А* Коннор, $(#брат/сестра). Но погоди... <end>
+*А*-Коннор, $(#брат/сестра). Но погоди... <end>
 
 =>a177_original
 ::Sigh.::<end>
@@ -1132,7 +1134,7 @@ Can you make me some Juice?<end>
 Sure, man. I'll need two brews, one measure of unsaturated psionic catalyst, one of morphine and one of gyromitrin. Remember, the extra brew's for me.<end>
 
 =>q179
-Конечно. Мне потребуется две бутылки самогона, один ненасыщенный пси-катализатор, а ещё морфин и гиромитрин. И помни, лишний самогон - мой.<end>
+Конечно. Мне потребуются две бутылки самогона, один ненасыщенный пси-катализатор, а ещё морфин и гиромитрин. И помни, лишний самогон -- мой.<end>
 
 =>q180_original
 <end>
@@ -1302,7 +1304,7 @@ Four red dream mushrooms. Got the ampules as well.<end>
 Nothing. Let's talk about Juice.<end>
 
 =>a206
-Ничего. Давай поговорим о Соке.<end>
+Забей. Давай поговорим о Соке.<end>
 
 =>q207_original
 Yeah, sure.<end>
@@ -1368,7 +1370,7 @@ I do know how to extract brew from a bottle, though, heh.<end>
 Well... ::He chuckles.:: you ain't retarded.<end>
 
 =>q217
-Ну... ::Он посмеивается.:: ты не отстал$(#ый/ая).<end>
+Ну... ::Он посмеивается.:: а ты не дура$(#к/).<end>
 
 =>a218_original
 Can you extract those chemicals for me?<end>
@@ -1416,25 +1418,25 @@ If possible.<end>
 You know it, man.<end>
 
 =>q225
-Ты знаешь это, $(#брат/сестра).<end>
+Ты сечёшь, $(#брат/сестра).<end>
 
 =>a226_original
 This is far too time-consuming. There has to be a better way to get these ingredients.<end>
 
 =>a226
-Это требует слишком много времени. Должен быть способ попроще раздобыть эти ингредиенты.<end>
+Это слишком муторно. Должен быть способ попроще раздобыть эти ингредиенты.<end>
 
 =>q227_original
 I'm not gonna go pick them, man. I'm far too busy to be doing something as dull and mundane as going about and, like, picking mushrooms.<end>
 
 =>q227
-Я, блин, не пойду их собирать. У меня и так полно работы, чтобы заниматься чем-то таким тривиальным, как, типа, собирание грибов.<end>
+Ну я, блин, не пойду их собирать. У меня и так полно работы, чтобы заниматься чем-то таким тривиальным, как, типа, собирание грибов.<end>
 
 =>a228_original
 Then how can you expect *me* to do it?<end>
 
 =>a228
-Тогда как ты можешь ожидать, что *я* это сделаю?<end>
+Тогда как ты можешь ожидать, что *я* буду это делать?<end>
 
 =>q229_original
 It's your destiny, man.<end>
@@ -1540,13 +1542,13 @@ I've changed my mind.<end>
 ::His jaw drops.:: Changed your mind? How, man, how!? Who... who am I talking to right now?<end>
 
 =>q245
-::У него отвисает челюсть.:: Передумал$(#/а)? Как, блин, как?! Да... с кем я сейчас вообще разговариваю?<end>
+::У него отвисает челюсть.:: Передумал$(#/а)? Как, блин, очень сильно?! Ты... приляг, если хочешь.<end>
 
 =>a246_original
 Not literally, Dude. I did not change my mind *literally*. It's an expression.<end>
 
 =>a246
-Не буквально, Чувак. Я не передумал *буквально*. Это выражение такое. <end>
+Не буквально, Чувак. У меня ничего не болит от того, что я *слишком много думал$(#/а)*. Я передумал$(#/а) делать Сок.<end>
 
 =>q247_original
 Well, like, you know... I know. I, like... How's it going, man?<end>
@@ -1594,7 +1596,7 @@ I can't always come here when I need the Juice, Dude. Are you aware how far away
 Yeah, man, but you can use the rifts to get here. Yeah! Just pop the Juice and you're good to rift-walk!<end>
 
 =>q254
-Да, $(#приятель/подруга), но ты можешь использовать разломы, чтобы попасть сюда. Да! Просто жахни Сока и хорошей прогулки по разломам!<end>
+Да, $(#приятель/подруга), но ты можешь использовать разломы, чтобы попасть сюда. Да! Просто жахни Сока, и -- хорошей прогулки по разломам!<end>
 
 =>a255_original
 What if it's an emergency and I'm out of Juice?<end>
@@ -1606,7 +1608,7 @@ What if it's an emergency and I'm out of Juice?<end>
 Well, plan ahead. How do you do anything in this world if you don't plan ahead?<end>
 
 =>q256
-Хорошо, перспективное планирование. Ведь без чёткого плана действий ничего не сделать, не так ли?<end>
+Ну, планируй на перспективу. Как ты вообще выживаешь без чёткого плана действий?<end>
 
 =>a257_original
 Are you worried I'm not going to bring you brew anymore if you give me the recipe?<end>
@@ -1618,13 +1620,13 @@ Are you worried I'm not going to bring you brew anymore if you give me the recip
 No, man, it's not that... you know, like... It's not about the brew, man. And, and...<end>
 
 =>q258
-Нет, блин, дело не в этом... понимаешь, типа... дело не в самогоне, $(#брат/сестра). И, и ...<end>
+Нет, блин, дело не в этом... понимаешь, типа... дело не в самогоне, $(#брат/сестра). И, и...<end>
 
 =>q259_original
 Ah, here's the damn recipe. ::He gives you the Juice recipe.:: Here.<end>
 
 =>q259
-А, на вот этот рецепт. ::Он даёт вам рецепт Сока.:: Возьми.<end>
+А! На тебе твой рецепт. ::Он даёт вам рецепт Сока.:: Возьми.<end>
 
 =>a260_original
 Because despite watching you mix it I'd rather not try to replicate it from memory and end up poisoning myself... or worse.<end>
@@ -1646,7 +1648,7 @@ But why would you want to make the Juice on your own? I can make it for you.<end
 =>q262
 Слушай, $(#приятель/подруга), мне не нравится такой тон. Не нравится.
 
-Зачем тебе делать Сок самостоятельно? Я могу его для тебя делать.<end>
+Зачем тебе делать Сок самостоятельно? Я могу его делать для тебя.<end>
 
 =>a263_original
 Dude, we didn't pay our bill at the Rail Crossing bar.<end>
@@ -1658,7 +1660,7 @@ Dude, we didn't pay our bill at the Rail Crossing bar.<end>
 Oh, yeah, man... oh, yeah. Well... ::He shrugs.:: it happens even to, like, the best of us.<end>
 
 =>q264
-О, да, $(#брат/сестра)... о, да. Что ж... ::Он пожимает плечами.:: такое случается даже, типа, с лучшими из нас.<end>
+О, да, $(#брат/сестра)... о, да. Что ж... ::Он пожимает плечами.:: Такое случается даже, типа, с лучшими из нас.<end>
 
 =>a265_original
 Don't worry, I sorted it out.<end>
@@ -1694,7 +1696,7 @@ What?<end>
 Well, we left without paying. And I tried... finding some other ways not to pay.<end>
 
 =>a270
-Ну, мы ушли, не заплатив. И я пытал$(#ся/ась)... найти некоторые другие способы, как не платить.<end>
+Ну, мы ушли, не заплатив. И я пытал$(#ся/ась)... изыскать какие-нибудь другие способы, чтобы не платить.<end>
 
 =>q271_original
 Banned from Rail Crossing... Crap. ::He pauses.:: It's okay, man, I mean, it's okay. It's all my fault. But we don't need that place anyway. <end>
@@ -1708,33 +1710,33 @@ It's cool. We aren't gonna cry over some lousy bar when the Universe is our, lik
 Never mind. Forget it - it's gonna be cool, yeah.<end>
 
 =>q272
-Всё круто. Мы не будем плакать из-за какого-то паршивого бара, когда вся вселенная принадлежит нам... Как там говорится, $(#приятель/подруга)?
+Всё круто. Мы не будем плакать из-за какого-то паршивого бара, когда вся Вселенная принадлежит нам... Как там говорится, $(#приятель/подруга)?
 
-Неважно. Забей на это - всё будет круто, ага.<end>
+Неважно. Забей на это, всё будет круто, ага.<end>
 
 =>a273_original
 I had to scrub those filthy dishes for hours to work it off.<end>
 
 =>a273
-Мне пришлось часами мыть грязную посуду чтобы отработать.<end>
+Мне пришлось часами мыть грязную посуду, чтобы отработать.<end>
 
 =>q274_original
 Damn. I had to do that a lo-- couple of times in the past. Well, dishes, quad bikes - some old lady's back once. I've scrubbed a lot of things. The best advice I can give you is not to waste the hot water, 'cause when you run out of it you're in big trouble. Everything, and I mean, like, everything gets more difficult when the water gets cold and your fingertips are all, like, wrinkled, man. And yeah, over time all that detergent will make your skin, like, crack, especially around your knuckles. It stings, man. So use gloves.<end>
 
 =>q274
-Блин. В прошлом мне приходилось заниматься этим куч... пару раз. Ну, посуда, квадроциклы - однажды, даже спина какой-то старушки. Я много чего передраил. Лучший совет, который я могу тебе дать, это не тратить горячую воду впустую, потому что, когда она заканчивается, у тебя начинаются большие проблемы. Всё, и я имею в виду, типа, вообще всё серьёзно осложняется, когда вода становится холодной, а подушечки пальцев становятся морщинистыми, как, типа, у дряхлого старикана. И да, со временем от всех этих моющих средств твоя кожа, типа, трескается, особенно вокруг костяшек. А это пипец как щипит, $(#брат/сестра). Так что пользуйся перчатками.<end>
+Блин. В прошлом мне приходилось заниматься этим куч... пару раз. Ну, посуду, квадроциклы -- однажды, даже спину какой-то старушке. Я много чего передраил. Лучший совет, который я могу тебе дать, это не тратить горячую воду впустую, потому что когда она заканчивается, у тебя начинаются большие проблемы. Всё, и я имею в виду, типа, вообще всё серьёзно осложняется, когда вода становится холодной, а подушечки пальцев становятся морщинистыми, как, типа, у дряхлого старикана. И да, со временем от всех этих моющих средств твоя кожа, типа, трескается, особенно вокруг костяшек. А это пипец как щипит, $(#брат/сестра). Так что пользуйся перчатками.<end>
 
 =>a275_original
 Shouldn't the best advice be to pay for your drinks and food?<end>
 
 =>a275
-Разве платить за выпивку и еду - не лучший совет?<end>
+Разве платить за выпивку и еду -- не лучший совет?<end>
 
 =>q276_original
 Ah - that's when you have the coin. When you got zilch - don't waste hot water, use gloves. Got it?<end>
 
 =>q276
-Ага - когда у тебя есть монеты. А когда у тебя хрен собачий - не трать горячую воду и пользуйся перчатками. Ясно?<end>
+Ага, когда у тебя есть монеты. А когда у тебя хрен собачий -- не трать горячую воду и пользуйся перчатками. Ясно?<end>
 
 =>a277_original
 I sorted it out. Now I'm here to get your half.<end>
@@ -1746,7 +1748,7 @@ I sorted it out. Now I'm here to get your half.<end>
 My half?<end>
 
 =>q278
-Моя половина?<end>
+Мою половину?<end>
 
 =>a279_original
 Yes. I paid for one half, you pay for the other.<end>
@@ -1788,7 +1790,7 @@ I found a rug on The Rig with a weaving identical to the symbols found underneat
 The Rig rug, eh? You know, man, rugs are powerful things: Not only do they, like, tie rooms together, but they also keep your feet warm; some can fly, and sometimes they're super awesome when you just wanna, like, roll something into it and carry it with you. Wish I still had a rug. I lost... the only one I ever had.<end>
 
 =>q285
-Ковёр на Буровой, да? Знаешь, $(#брат/сестра), ковры - это мощно: они не только, типа, связывают вместе комнаты, но и согревают ноги; некоторые могут летать, а иногда они прямо-таки шикарны, когда нужно, типа, завернуть в них что-нибудь и взять с собой. Жаль, что у меня нет ковра. Я потерял... единственный, который у меня был.<end>
+Ковёр на Буровой, да? Знаешь, $(#брат/сестра), ковры -- это мощно: они не только, типа, задают стиль всей комнате, но и согревают ноги; некоторые могут летать, а иногда они прямо-таки шикарны, когда нужно, типа, завернуть в них что-нибудь и взять с собой. Жаль, что у меня нет ковра. Я потерял... единственный, который у меня был.<end>
 
 =>a286_original
 That rug on The Rig might just be yours, Dude.<end>
@@ -1846,7 +1848,7 @@ Yes!<end>
 You sure?<end>
 
 =>q294
-Ты уверен?<end>
+Ты уверен$(#/а)?<end>
 
 =>q295_original
 <end>
@@ -1858,13 +1860,13 @@ You sure?<end>
 Positive.<end>
 
 =>a296
-Да.<end>
+Абсолютно.<end>
 
 =>q297_original
 Hmmm...<end>
 
 =>q297
-Хм-м...<end>
+Хм-м-м...<end>
 
 =>q298_original
 This Rig rug... It could be my rug. Could be... But it could also be, like, a fake rug - a trap. A trap made specifically to lure me into... 
@@ -1872,7 +1874,7 @@ This Rig rug... It could be my rug. Could be... But it could also be, like, a fa
 ...uh, a trap.<end>
 
 =>q298
-Этот ковёр на Буровой... он может быть моим. Может быть... Однако, это может быть и фальшивый, типа, ковёр - ловушка. Ловушка, приготовленная специально для того, чтобы заманить меня...
+Этот ковёр на Буровой... он может быть моим. Может быть... Однако это может быть и фальшивый, типа, ковёр -- ловушка. Ловушка, приготовленная специально для того, чтобы заманить меня...
 
 ...эм, в ловушку.<end>
 
@@ -1894,7 +1896,7 @@ We're not the only rift walkers, man, you know! There are nasty beings - beings,
 Besides, I, like, I mean, I may have... once or twice... like... done something... like... bad...<end>
 
 =>q301
-Знаешь, $(#приятель/подруга), мы ведь не единственные путешественники по разломам! Там есть ужасные существа - ужасные, $(#брат/сестра) - из реальностей, которых мы даже *понять* не сможем, и для них, типа, прогулка по Промежутку так же банальна, как поездка на поезде.
+Знаешь, $(#приятель/подруга), мы ведь не единственные путешественники по разломам! Там есть ужасные существа -- ужасные, $(#брат/сестра) -- из реальностей, которых мы даже *понять* не сможем, и для них, типа, прогулка по Промежутку так же банальна, как поездка на поезде.
 
 Кроме того, я, типа, ну, я, может... раз или два... типа... сделал нечто... типа... плохое...<end>
 
@@ -1902,7 +1904,7 @@ Besides, I, like, I mean, I may have... once or twice... like... done something.
 Look, you forget about the Rig rug, man, and I'll... I'll take care of it when the time's right, okay? I want my rug. I just gotta, like, think. ::He scratches his head then takes a stress-relieving sip of brew.::<end>
 
 =>q302
-Слушай, забудь ты об этом ковре на Буровой, $(#приятель/подруга), я позабочусь о нём, когда придёт время, лады? Я хочу свой ковёр. Мне просто нужно подумать. ::Он чешет в затылке, а затем делает успокаивающий глоток самогона.::<end>
+Слушай, забудь ты об этом ковре на Буровой, $(#приятель/подруга), -- я позабочусь о нём, когда придёт время, лады? Я хочу вернуть свой ковёр. Мне только нужно, типа, подумать. ::Он чешет в затылке, а затем делает успокаивающий глоток самогона.::<end>
 
 =>a303_original
 Is someone after you?<end>
@@ -1914,7 +1916,7 @@ Is someone after you?<end>
 Don't be silly, Dude. It's just a magic rug that may or may not be a vessel for rift-walking.<end>
 
 =>a304
-Не говори глупостей, Чувак. Это просто волшебный ковёр, благодаря которому, похоже, можно ходить по разломам.<end>
+Не говори глупостей, Чувак. Это просто волшебный ковёр, благодаря которому, может быть, можно ходить по разломам.<end>
 
 =>a305_original
 I'm not really sure.<end>
@@ -1941,6 +1943,7 @@ It is, man.
 
 =>q308
 Так и есть, $(#брат/сестра).
+
 <end>
 
 =>a309_original
@@ -1983,7 +1986,7 @@ Mhm.<end>
 It's your bloody rug.<end>
 
 =>a315
-Этот проклятый ковёр - твой.<end>
+Этот проклятый ковёр -- твой.<end>
 
 =>q316_original
 Mine wasn't bloody, man. But did it have white weaving? Blood could've been splattered on later.<end>
@@ -2377,25 +2380,25 @@ Actually, I think, the symbols create the rifts... Or was it that the, uh, rifts
 Sounds like, "Which came first: The hopper or the egg?"<end>
 
 =>a379
-Звучит как: "Что было первым: яйцо или пещерник?"<end>
+Навроде как «что появилось первым: яйцо или пещерник?»<end>
 
 =>q380_original
 Well, the hopper *obviously*, since eggs can't really come to you 'cause they can't, like, roll on their own; not hopper eggs - no way! And even if they could, the adult hoppers are still pretty damn fast.<end>
 
 =>q380
-*Очевидно* же, что пещерник, ведь яйца-то не могут сами к тебе прийти, поскольку они не могут, ну, типа, катиться сами по себе; уж точно не яйца пещерников! А даже если бы и могли, взрослые пещерники всё равно офигенно быстрые.<end>
+Ну, *очевидно* же, что пещерник, ведь яйца-то не могут сами к тебе явиться, поскольку они не могут, ну, типа, катиться сами по себе -- уж точно не яйца пещерников! А даже если бы и могли, взрослые пещерники офигеть какие быстрые, они бы их всё равно обогнали.<end>
 
 =>q381_original
 But the symbols, they're linked, man. <end>
 
 =>q381
-Но символы, они связаны, $(#брат/сестра). <end>
+Но символы -- они связаны, $(#брат/сестра). <end>
 
 =>q382_original
 They're *tied* together. Like a good rug that really, like, ties the room together, you know. You get rid of that - and the room, like, gets *untied*, man. And that totally sucks, man.<end>
 
 =>q382
-Они *связаны* друг с другом. Как хороший ковёр, задающий стиль всей комнате, понимаешь? Избавишься от него - и комната, типа, *пустеет*, $(#брат/сестра). А это, блин, полный отстой.<end>
+Они *связаны* друг с другом. Как хороший ковёр, задающий стиль всей комнате, понимаешь? Избавишься от него, и комната, типа, *распадается*, $(#брат/сестра). А это, блин, полный отстой.<end>
 
 =>a383_original
 You truly have a knack for making things confusing.<end>
@@ -2441,7 +2444,7 @@ I got a few more things to remember.<end>
 So, say I'm all juiced up and approaching a rift. What do I do?<end>
 
 =>a389
-Итак, скажем я под воздействием Сока и подхожу к разлому. Что мне делать?<end>
+Итак, скажем, я под воздействием Сока и подхожу к разлому. Что мне делать?<end>
 
 =>q390_original
 You gotta get... attuned to it.<end>
@@ -2553,7 +2556,7 @@ What do you remember about your Core City home?<end>
 I remember... loneliness. Which is odd since there were, like, all these people living there. People like me... but different, like... from another era. And that's kind of scary, man, how being surrounded by so much life can make you feel so... dead. And I thought it was gonna get better... I think.<end>
 
 =>q407
-Я помню... одиночество. Что странно, ведь там жило, типа, столько людей. Таких, как я... но не совсем, словно... они из другой эпохи. И это немного пугает, $(#брат/сестра), как, будучи окружённым таким количеством жизни, ты можешь чувствовать себя таким... мёртвым. А я-то думал, что всё изменится к лучшему... мне так казалось.<end>
+Я помню... одиночество. Что странно, ведь там жило, типа, столько людей. Таких как я... но не совсем, словно... они из другой эпохи. И это немного пугает, $(#брат/сестра), -- как, будучи окружённым таким количеством жизни, ты можешь чувствовать себя таким... мёртвым. А я-то думал, что всё изменится к лучшему... мне так казалось.<end>
 
 =>q408_original
 'Cause... yes, everything was *almost* right, but at the same time so far off from *right*. I had a safe place to live... but I felt in my bones that danger was always near. I had room to do my work in... but never enough. Always needed more space for... science stuff.<end>
@@ -2629,7 +2632,7 @@ What do you remember about your cave home?<end>
 I remember... revelation - progress. And freakin' cold. The place was damp and moldy even back then, and the cats were being rowdy all the time, but I made some incredible progress here. Yup. I think... a vision brought me here. Must've been, yeah, 'cause this cave, like, sucks hard, man. It's horrible - and so remote! And the worst thing is... I think... some people had already lived here when I came. I wasn't the one who built all this. No, no, I just hauled some equipment here, enough brew and a few cats and... started working.<end>
 
 =>q419
-Я помню... откровение -- прогресс. И дьявольский холод. Даже тогда здесь была сырость и плесень, и кошки постоянно буянили, но я добился здесь невероятного прогресса. Ага. Думаю... меня привело сюда видение. Да, наверняка, потому что эта пещера, типа, жуткий отстой, $(#брат/сестра). Она ужасная и такая отдалённая! А хуже всего то, что... мне кажется... здесь уже жили какие-то люди, когда я пришёл. Не я всё это построил. Нет, нет, я просто притащил сюда кое-какое оборудование, достаточно самогона, пару кошек и... начал работать.<end>
+Я помню... откровение -- прогресс. И дьявольский холод. Даже тогда здесь была сырость и плесень, и кошки постоянно буянили, но я добился здесь невероятного прогресса. Ага. Думаю... меня привело сюда видение. Да, наверняка, потому что эта пещера, типа, жуткий отстой, $(#брат/сестра). Она ужасная и такая отдалённая! А хуже всего то, что... мне кажется... здесь уже жили какие-то люди, когда я пришёл. Не я построил всё это. Нет, нет, я просто притащил сюда кое-какое оборудование, достаточно самогона, пару кошек и... начал работать.<end>
 
 =>q420_original
 Then the cats started working. Meow, meow - pew, pew. Tssss. My hair is on fire, no. Run. Dropped my brew. Almost died picking it up. Run. Ah, crawler.<end>
@@ -2687,13 +2690,13 @@ About the Acorn...<end>
 Mmm? What about it, man?<end>
 
 =>q428
-Мм? Что такое, $(#приятель/подруга)?<end>
+М-м? Что такое, $(#приятель/подруга)?<end>
 
 =>a429_original
 Hey, Dude, are you familiar with the name... John Dyson?<end>
 
 =>a429
-Эй, Чувак, ты знаком с человеком по имени... Джон Дайсон?<end>
+Эй, Чувак, тебе знакомо имя... Джон Дайсон?<end>
 
 =>q430_original
 ::Dude remains silent, staring at an empty brew bottle in his hand.::<end>
@@ -2711,7 +2714,7 @@ Doctor John Dyson, a Biocorp scientist, head of psionic research and development
 ::Still silent.::<end>
 
 =>q432
-::Хранит молчание::<end>
+::Он хранит молчание.::<end>
 
 =>a433_original
 Dude?<end>
@@ -2723,7 +2726,7 @@ Dude?<end>
 ::He lets his head drop even further, almost pressing it onto his empty bottle as his unwashed hair falls over his face like a veil. An instant passes, a tear falls, and quiet sobbing reaches your ear. More tears follow, gathering at the bottom of the bottle and merging into one whole. His sobbing gets louder and louder, until he raises his head and reveals a dewed beard and droopy, trembling lips.::<end>
 
 =>q434
-::Он склоняет голову ещё ниже, почти касаясь ею пустой бутылки, а его немытые волосы укрывают лицо, как вуаль. Спустя мгновение падает слеза, и вашего слуха достигает тихое рыдание. За ним следует ещё больше слез, сливающихся на дне бутылки в единое целое. Рыдание становится всё громче и громче, пока он не поднимает голову и не открывает отвисшие, дрожащие губы в намокшей бороде.::<end>
+::Он склоняет голову ещё ниже, почти касаясь ею пустой бутылки, а его немытые волосы укрывают лицо как вуаль. Спустя мгновение он роняет слезу, и вашего слуха достигает тихое рыдание. За ним следует поток слёз, которые начинают собираться на дне бутылки. Рыдание становится всё громче и громче, пока он не поднимает голову, являя вам отвисшие, дрожащие губы и намокшую бороду.::<end>
 
 =>q435_original
 ::He wants to speak, and you give him all the time he needs.
@@ -2731,7 +2734,7 @@ Dude?<end>
 A few moments later he wipes his tears, and then...::<end>
 
 =>q435
-::Он хочет выговориться, и вы даёте ему столько времени, сколько необходимо.
+::Он хочет что-то сказать, и терпеливо ждёте.
 
 Через пару мгновений он вытирает слёзы, а затем...::<end>
 
@@ -2769,7 +2772,7 @@ Yeah, it's kind of rude, um... man...
 Cheers!<end>
 
 =>q439
-Нет. Я Чувак, $(#брат/сестра). Тебе нужно, типа, запоминать имена других людей. ::Он берёт очередную бутылку, открывает её и улыбается.::
+Нет. Я Чувак, $(#брат/сестра). Тебе следует, типа, запоминать имена других людей. ::Он берёт очередную бутылку, открывает её и улыбается.::
 
 Ага, это типа невежливо, эм-м... $(#брат/сестра).
 
@@ -3549,7 +3552,7 @@ Six? Can you tell me about them?<end>
 The first and second are twins - two women. Bald. Young, and uglier than a stoneshine hangover. Yeah. The third and fourth are also twins - two guys. Identical. Also young and ugly. The last two are also twins - guys too. Ugly. Don't know whether young or ancient.<end>
 
 =>q564
-::Он закрывает глаза и делает глубокий вдох -- как бы, медитируя. Он говорит, не меняя позы.::
+::Он закрывает глаза и делает глубокий вдох, как бы медитируя. Он говорит, не меняя позы: ::
 
 Первые двое -- близнецы, две женщины. Лысые. Молодые и страшнее похмелья с минеральной бормотухи. Да. Третий и четвёртый -- тоже близнецы, два парня. Идентичные. Тоже молодые и уродливые. Последние двое -- тоже близнецы, и тоже парни. Уроды. Не знаю, молодые или древние.<end>
 
@@ -3581,7 +3584,7 @@ And why did those people go to Buzzer's shop?<end>
 ::He laughs.:: I'm joking. No, they went there to purchase some electronic stuff. Why else would they go to Buzzer's, man? Think with your, like... ::He grabs his head.:: noggin.<end>
 
 =>q569
-::Он смеётся.:: Я шучу. Нет, они ходили туда покупать электронику. Зачем ещё кому-то ходить в магазин Баззера, $(#приятель/подруга)? Думай своей, типа... ::Он хватается за голову.:: башкой.<end>
+::Он смеётся.:: Я шучу. Нет, они ходили туда покупать электронику. Зачем ещё кому-то ходить в магазин Баззера, $(#приятель/подруга)? Думай своей, типа... ::Он хватается за голову.:: ...башкой.<end>
 
 =>q570_original
 I mentioned them to you 'cause I haven't seen more than two pairs of twins since that twin party from several years ago. I was, like, the only one without a twin then. Yeah. ::He makes a long pause, after which he lifts his bottle.:: Cheers, man.<end>
@@ -4299,7 +4302,7 @@ These visions of yours are convenient for sure.<end>
 This deal rocks, man. I got everything I needed from that Quentin guy.<end>
 
 =>q684
-Это шикарная сделка, $(#брат/сестра). Я получил всё, что мне было нужно от этого Квентина.<end>
+Это шикарная сделка, $(#брат/сестра). Я получил от этого Квентина всё, что мне было нужно.<end>
 
 =>q685_original
 ::Tired, and a bit sick to the stomach, you stand by the fire with Dude. The flames did not stop dancing in your absence; it is as though they were waiting for your return in order to lull you into tranquility with their undulating warmth. However, the sounds of gastroenteric insurrection coming from Dude's volatile bowels easily dispel your recuperative peace.::<end>
@@ -4477,7 +4480,7 @@ I wasn't supposed to come with you, man. That's why it all went wrong. Remember 
 I'm getting really confused here.<end>
 
 =>a709
-Тут я совсем запутал$(#ся/ась).<end>
+Ты меня совсем запутал.<end>
 
 =>a710_original
 You're not gonna die, Dude.<end>
@@ -4495,7 +4498,7 @@ No, it's not that. <end>
 Oh, no.<end>
 
 =>a712
-О, нет.<end>
+Этого ещё не хватало.<end>
 
 =>q713_original
 ::He looks at you rather seriously but does not rebuke your comment.:: <end>
@@ -4531,8 +4534,9 @@ Now, let's try again, and this time stay *focused* on what you gotta do: Interac
 <end>
 
 =>q717
-Так, давай попробуем ещё раз, и теперь*сосредоточься* на том, что  нужно сделать. Нужно. Взаимодействовать. С. *Разломом*.
- <end>
+Так, давай попробуем ещё раз, и теперь *сосредоточься* на том, что нужно сделать. Нужно. Взаимодействовать. С. *Разломом*.
+
+<end>
 
 =>q718_original
 Don't worry, you're safe as long as you got the Juice in your system.<end>
@@ -4564,7 +4568,7 @@ You ran out!?<end>
 
 Ты... он...
 
-Ты сбежал$(#/а)?!<end>
+Закончился?!<end>
 
 =>a722_original
 It stopped doing... whatever it does. I'm gonna need another one.<end>
@@ -4578,7 +4582,7 @@ See, this is... ::He pauses, shaking his head in disbelief.:: This is why we got
 Me!<end>
 
 =>q723
-Понимаешь, поэтому... ::Он замолкает, отрицательно покачав головой.:: Поэтому мы должны оставаться сосредоточенными, $(#брат/сестра). Бывают ситуации, когда, типа, необходимо что-то сделать, и если несосредоточенные люди несосредоточенно что-то делают, всё идёт наперекосяк, и кому-то приходится с этим разбираться!
+Вот видишь, поэтому... ::Он замолкает, отрицательно покачав головой.:: Поэтому мы должны оставаться сосредоточенными, $(#брат/сестра). Бывают ситуации, когда, типа, необходимо что-то сделать, и если несосредоточенные люди несосредоточенно что-то делают, всё идёт наперекосяк, и кому-то приходится с этим разбираться!
 
 Мне!<end>
 
@@ -4614,13 +4618,13 @@ I got everything you need. ::Give him the ingredients.::<end>
 Alright. Alright, let's do this. Come with me - and this time you *are* wiping my forehead!<end>
 
 =>q728
-Хорошо. Хорошо, давай сделаем это. Пойдём, *будешь* мне пот со лба вытирать!<end>
+Хорошо. Хорошо, давай сделаем это. Пойдём, и на этот раз ты *будешь* мне пот со лба вытирать!<end>
 
 =>a729_original
 ::Follow Dude.::<end>
 
 =>a729
-::Следуй за чуваком.::<end>
+::Следовать за чуваком.::<end>
 
 =>a730_original
 What are the ingredients again?<end>
@@ -5080,7 +5084,7 @@ See? There is still brew within you, man.<end>
 I gotta hand it to you, Dude, you live in the oddest of places.<end>
 
 =>a799
-Надо отдать тебе должное, Чувак, ты живёшь в странных местах.<end>
+Надо отдать тебе должное, Чувак, ты живёшь в очень странных местах.<end>
 
 =>q800_original
 Well, a dude's got to live somewhere, and all the good places have been taken either by people with lots of guns, or creatures with lots of teeth... or psi abilities. Besides, seclusion allows for peace and quiet - but you never want to be too remote. How else are you gonna acquire stuff, eh?<end>
@@ -6180,7 +6184,7 @@ J-ust one more thing.<end>
 Come on, man. You'll sober up. That's never good.<end>
 
 =>q973
-Давай быстрее, $(#брат/сестра). Ты же протрезвеешь. А это никуда не годится.<end>
+Давай быстрее, $(#брат/сестра). Ты же протрезвеешь, а это никуда не годится.<end>
 
 =>q974_original
 And?<end>
@@ -6728,7 +6732,7 @@ I'll take that as a positive answer.<end>
 Dude looks at you, then at the angry man, then at you again.::<end>
 
 =>q1056
-::Ваша пьяная безмятежность бесцеремонно нарушена жарким спором. Снова тот мужик. Да чтоб ему провалиться! Покажи-ка ему, Чувак, покажи ему. Однако спустя лишь минуту - или целую вечность - споров, мужчина бьёт кулаком по столу, заставляя Чувака замолчать, подобно маленькому ребёнку, которого отчитывает отец.
+::Ваша пьяная безмятежность бесцеремонно нарушена жарким спором. Снова тот мужик. Да чтоб ему провалиться! Покажи-ка ему, Чувак, покажи ему. Однако спустя лишь минуту -- или целую вечность -- споров, мужчина бьёт кулаком по столу, заставляя Чувака замолчать подобно маленькому ребёнку, которого отчитывает отец.
 
 Чувак смотрит на вас, затем на разгневанного мужчину, потом снова на вас.::<end>
 
@@ -6740,7 +6744,7 @@ You do, however, manage to make out the gist of it...::
 You okay, man?<end>
 
 =>q1057
-::Он обращается к вам, но его речь - сплошная каша: всё перемешано, невнятно... сумбурно, *криво* сформулировано, бессвязно... бессмысленно и сбивает с толку - блин, да он ужрался!
+::Он обращается к вам, но его речь -- сплошная каша: всё перемешано, невнятно... сумбурно, *криво* сформулировано, бессвязно... бессмысленно и сбивает с толку -- блин, да он ужрался!
 
 Впрочем, вам всё же удаётся уловить самую суть...::
 
@@ -6866,13 +6870,13 @@ What's t-hat guy's's probl-em...s?<end>
 Did I tell... you about t-hat one time I got d-runk with Invipal... ugh... Princigator G-eorge?<end>
 
 =>a1076
-Я рассказывал... тебе о т-о-ом, как я однажды на-апился с Инвипа... тьфу... Принцигатором Джо-орджем?<end>
+Я рассказывал$(#/а)... тебе о т-о-ом, как я однажды на-апил$(#ся/ась) с рукопа... тьфу... науко-води-телем Джо-орджем?<end>
 
 =>a1077_original
 I am t-t-the bloody Invictus!<end>
 
 =>a1077
-Я к-кровожадный инвиктус!<end>
+Я, б-блин, инвиктус!<end>
 
 =>q1078_original
 ::This guy appears out of thin air: His lips move, producing sound; everything he's saying is slurred; words fuse into a very long one; you still nod. 
@@ -6886,7 +6890,7 @@ The man leaves.::<end>
 =>q1078
 ::Этот парень появляется из ниоткуда. Его губы шевелятся, издавая звуки, но речь его невнятна -- все слова сливаются в одно очень длинное слово; вы просто киваете.
 
-Он кажется вам знакомым, наверное.
+Он кажется вам знакомым... наверное.
 
 Но погодите -- он разговаривает с Чуваком! Чувак отвечает на каком-то незнакомом языке.
 
