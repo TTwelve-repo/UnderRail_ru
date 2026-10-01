@@ -4,7 +4,7 @@
 What are you having, $(#pal/gal)? We got a couple of strong brews here: dark, light, rocky and pansy; that one's for girly men and northerners. ::He laughs and coughs at the same time.::<end>
 
 =>q1
-::Заметив ваше приближение, бармен достаёт большую кружку и ставит её на стойку. Мгновение спустя он отворачивается в сторону и несколько раз резко кашляет, затем у него уходит ещё пара секунд на то чтобы отдышаться. Вытерев глаза, он обращается к вам голосом -- столь же неприятным, как его кашель.::
+::Заметив ваше приближение, бармен достаёт большую кружку и ставит её на стойку. Мгновение спустя, он отворачивается в сторону и несколько раз резко кашляет, затем у него уходит ещё пара секунд на то, чтобы отдышаться. Вытерев глаза, он обращается к вам голосом столь же неприятным, как его кашель.::
 
 Чего налить, $(#приятель/девушка)? У нас есть несколько крепких напитков на выбор: тёмное, светлое, каменистое и фиалка -- это для сопляков и северян. ::Он умудряется смеяться и кашлять одновременно.::<end>
 
@@ -18,7 +18,7 @@ What are you having, $(#pal/gal)? We got a couple of strong brews here: dark, li
 Let me see what you've got. ::Barter.::<end>
 
 =>a3
-Покажите что у вас есть. ::Обмен.::<end>
+Покажите, что у вас есть. ::Обмен.::<end>
 
 =>a4_original
 What can you tell me about this place?<end>
@@ -60,7 +60,7 @@ Consequently, the mining operation was halted because the creatures were very ag
 Some guardsmen were killed even, and what's even worse, I was told a couple of those rockies slipped in the residential area somehow, since a couple of folks have gone missing. ::He coughs.::<end>
 
 =>q10
-Погибло даже несколько Стражей, и мне сказали, что несколько этих камнюков как-то просочились в жилой район, потому что несколько человек пропали без вести. ::Он кашляет.::<end>
+Погибло даже несколько Стражей, и мне сказали, что парочка этих камнюков как-то просочились в жилой район, потому что несколько человек пропали без вести. ::Он кашляет.::<end>
 
 =>a11_original
 Who's the derailed preacher that's talking about the world's end and stuff?<end>
@@ -72,7 +72,7 @@ Who's the derailed preacher that's talking about the world's end and stuff?<end>
 Oh, just ignore the raving lunatic. Not Lunatic, but lunatic, thankfully. He came to Foundry some time ago, and that's all he does. He might be annoying, but he hasn't hurt anyone. At least, so far.<end>
 
 =>q12
-А, не обращайте внимания, это наш местный психованный. Не психотик, а просто псих, к счастью. Он обосновался на Литейной некоторое время назад и с тех пор только этим и занят. Некоторых он раздражает, но вреда от него нет. По крайней мере, пока не было.<end>
+А, не обращайте внимания, это наш местный психованый. Не психотик, а просто псих, к счастью. Он обосновался на Литейной некоторое время назад и с тех пор только этим и занят. Некоторых он раздражает, но вреда от него нет. По крайней мере, пока не было.<end>
 
 =>q13_original
 Just ignore him.<end>
@@ -108,7 +108,7 @@ How do you feel now that the mine has been reopened?<end>
 Golden. ::He coughs, laughing.:: We're alive. Interestingly, people spent more money on alcohol while the mine was closed. Partially because they spent more time here, but also 'cause they were worried about the future.<end>
 
 =>q18
-Блистательно. ::Он кашляет и смеётся.:: Мы всё ещё живы. Интересно, что люди тратили больше денег на алкоголь, когда шахта была закрыта. Отчасти, потому что у них было больше свободного времени, а ещё, потому что они беспокоились о будущем.<end>
+Чистое золото. ::Он кашляет и смеётся.:: Мы всё ещё живы. Интересно, что люди тратили больше денег на алкоголь, когда шахта была закрыта. Отчасти потому что у них было больше свободного времени, а ещё потому что они беспокоились о будущем.<end>
 
 =>q19_original
 So, the mine being operational again kinda hurts my business, now that I think about it. ::He trails off a bit, but coughing snaps him out of it.::<end>
@@ -126,19 +126,19 @@ Do you remember anyone coming to you with any strange items? I cannot describe t
 Hmmm... I'm not exactly sure if this is relevant, but... ::He coughs.:: some strange people did come to my bar, I don't know... recently. We get all sort of people in here, but those folks somehow stood out from all the typical trash. You could tell they were up to no good: It's the little signs, the way they look at people, behave, speak. You dig. And one of them had this metal box he was clinging onto like he kept his brain inside. ::He coughs.:: Brains or not, there was something important in that box.<end>
 
 =>q21
-Хм-м-м... я не совсем уверен, относится ли это к делу, но... ::Он кашляет.:: какие-то странные люди заходили в мой бар, ну не знаю... не очень давно. Конкретный шлак. Мне тут всяких довелось повидать, но эти действительно выделялись. Один из них всё время держал в руках какую-то металлическую коробку, да так, будто внутри были его собственные мозги. ::Он кашляет.:: Мозги или нет, в этом ящике было что-то важное.<end>
+Хм-м-м... я не совсем уверен, относится ли это к делу, но... ::Он кашляет.:: ...какие-то странные люди заходили в мой бар, ну не знаю... не очень давно. Конкретный шлак. Мне тут всяких довелось повидать, но эти действительно выделялись. Один из них всё время держал в руках какую-то металлическую коробку, да так, будто внутри были его собственные мозги. ::Он кашляет.:: Мозги или нет, но в этом ящике было что-то важное.<end>
 
 =>a22_original
 Do you know who they were?<end>
 
 =>a22
-Вы знаете, кто это был?<end>
+Вы знаете, кто это были?<end>
 
 =>q23_original
 I don't really know, but what really surprised me was the fact that Hugo, one of the locals and a frequent customer, knew those people. Yeah. Yeah. And the group became pretty relaxed when Hugo showed up. They had a couple of drinks together, laughed - you dig - seemed like they really knew each other for a long time.<end>
 
 =>q23
-Я их не знаю, но меня удивил тот факт, что Хьюго, один из местных и моих постоянных клиентов, хорошо знал этих людей. Да, да. Они пропустили по паре кружек, смеялись, сечёшь, как будто они были старыми знакомыми.<end>
+Я их не знаю, но меня удивил тот факт, что Хьюго, один из местных и моих постоянных клиентов, хорошо знал этих людей. Да, да. Они пропустили по паре кружек, смеялись, -- сечёшь, как будто они были старыми знакомыми.<end>
 
 =>q24_original
 They even left the bar together - again, laughing and all that. ::He coughs.:: Now, Hugo's a good man. He's made a few mistakes in his life, we all do, but he's a good man. So why he'd be hanging out with such lowlifes is beyond me.<end>
@@ -168,7 +168,7 @@ Do you know where they left afterwards?<end>
 Nope, sorry. But what really surprised me was the fact that Hugo, one of the locals and a frequent customer, knew those people. Yeah. Yeah. And the group became pretty relaxed when Hugo showed up. They had a couple of drinks together, laughed - you dig - seemed like they really knew each other for a long time.<end>
 
 =>q28
-Нет, к сожалению. Но меня удивил тот факт, что Хьюго, один из местных и моих постоянных клиентов, хорошо знал этих людей. Да, да. Они пропустили по паре кружек, смеялись, сечёшь, как будто они были старыми знакомыми.<end>
+Нет, к сожалению. Но меня удивил тот факт, что Хьюго, один из местных и моих постоянных клиентов, хорошо знал этих людей. Да, да. Они пропустили по паре кружек, смеялись, -- сечёшь, как будто они были старыми знакомыми.<end>
 
 =>a29_original
 I'm looking for merchants. Can you point me to any stores?<end>
@@ -228,7 +228,7 @@ Heard any good rumors?<end>
 The folks around here have been turning more and more temperamental as of late. Some blame the foul air, others the water. Whatever the case, get a respirator and drink only brew - that'll do ya good. ::He laughs, coughing.::<end>
 
 =>q38
-Люди здесь в последнее время какие-то нервные. Некоторые винят плохой воздух, другие воду. Советую одеть респиратор и пить только спиртное -- это полезно. ::Он смеётся и кашляет.::<end>
+Люди здесь в последнее время какие-то нервные. Некоторые винят плохой воздух, другие воду. Советую носить респиратор и пить только спиртное -- это полезно. ::Он смеётся и кашляет.::<end>
 
 =>q39_original
 Nicolas and Olivia had another fight, I heard. From my house I mean. Damn, $(#pal/gal), it was like the ceiling was breaking and roaring. ::He coughs.::<end>
@@ -240,7 +240,7 @@ Nicolas and Olivia had another fight, I heard. From my house I mean. Damn, $(#pa
 ::He coughs violently, needing a few moments to recuperate.:: Sorry, what was the question?<end>
 
 =>q40
-::Он закашливается и ему требуется несколько мгновений, чтобы отдышаться.:: Извините, что вы сказали?<end>
+::Он закашливается, и ему требуется несколько мгновений, чтобы отдышаться.:: Извините, что вы сказали?<end>
 
 =>q41_original
 Ironheads engaged another Foundry Guard patrol just east of here. ::He coughs.:: They won't dare strike us here, barrenheads. ::He laughs.::<end>
@@ -258,7 +258,7 @@ I just heard Balor has been killed. Eat that, Ironheads!<end>
 The mine was closed 'cause the miners dug into some cavern and released some creatures. Apparently, the Foundry Guard's been having some trouble clearing them out. ::He coughs.::<end>
 
 =>q43
-Шахту закрыли, потому что шахтёры откопали какую-то пещеру и оттуда полезли твари. Похоже что Страже Литейной не удаётся их вычистить. ::Он кашляет.::<end>
+Шахту закрыли, потому что шахтёры откопали какую-то пещеру и оттуда полезли твари. Похоже, что Страже Литейной не удаётся их вычистить. ::Он кашляет.::<end>
 
 =>q44_original
 Chief Ingram's wife, Evelyn has been murdering people in her husband's bunker for who knows how long now. Bloody hell...<end>
