@@ -4,7 +4,7 @@
 Hello, I'm Doctor Stevenson. How may I help you?<end>
 
 =>q1
-::Вы видите человека с невыразительным лицом, одетого в докторский халат. Этот халат был, наверное, когда-то свежим и белоснежным, но годы и постоянное использование взяли своё. Его владелец, под стать халату, также выглядит как кто-то, кто был раньше молод и полон духа, но сейчас съёжился под тяготами жизни, медленно ведя свою личную войну, один бой за другим. Он смотрит на вас усталыми, поблекшими глазами и говорит монотонным голосом.::
+::Вы видите человека с невыразительным лицом, одетого в докторский халат. Этот халат был, наверное, когда-то свежим и белоснежным, но годы и постоянное использование взяли своё. Его владелец, под стать халату, также выглядит как кто-то, кто был раньше молод и полон духа, но сейчас съёжился под тяготами жизни, медленно ведя свою личную войну, один бой за другим. Он смотрит на вас усталыми, поблекшими глазами и говорит монотонным голосом: ::
 
 Здравствуйте, я доктор Стивенсон. Чем я могу вам помочь?<end>
 
@@ -42,7 +42,7 @@ I'm okay, I was just joking.<end>
 ::He answers with a sour face.:: Yes. Anything else?<end>
 
 =>q7
-::Он отвечает с кислой миной.:: Да. Что-нибудь ещё?<end>
+::Он отвечает с кислой миной: ::Да. Что-нибудь ещё?<end>
 
 =>a8_original
 What can you tell me about Foundry?<end>
@@ -76,7 +76,7 @@ But no, I just face death. Each and every day.<end>
 So, enjoy your stay, traveler, and take care.<end>
 
 =>q12
-Что же, приятного вам дня, путешественник, и берегите себя.<end>
+Так что, добро пожаловать, путешественни$(#к/ца), и берегите себя.<end>
 
 =>a13_original
 On second thought, maybe not.<end>
@@ -124,7 +124,7 @@ So, how's it going?<end>
 So, the usual.<end>
 
 =>q20
-Так что всё как обычно.<end>
+Так что, всё как обычно.<end>
 
 =>a21_original
 Can you tell me anything about the mine creatures?<end>
@@ -136,7 +136,7 @@ Can you tell me anything about the mine creatures?<end>
 The only thing those things did was just increased the body count. People were dying already in Foundry, and in far greater numbers than is usually revealed. It's just that now even more lives are lost, and in a slightly different fashion. Getting pierced, clawed, torn to pieces, half-eaten as opposed to getting crushed by mine falls, incinerated, suffocated and such. Some manage to survive a few of these things and now have to live as cripples.<end>
 
 =>q22
-Единственное, что они сделали -- это увеличили количество жертв. Люди и так умирали на Литейной, и в гораздо больших количествах, чем обычно рассказывают. Просто теперь мы теряем ещё больше жизней, и по иным причинам. Проколотые, истерзанные, порванные на куски, полусъеденные вместо раздавленных камнями, сгоревших, задохнувшихся и так далее. Некоторые выжили и теперь станут калеками.<end>
+Единственное, что они сделали, это увеличили количество жертв. Люди и так умирали на Литейной, и в гораздо больших количествах, чем обычно рассказывают. Просто теперь мы теряем больше жизней и по иным причинам. Проколотые, истерзанные, порванные на куски, полусъеденные вместо раздавленных камнями, сгоревших, задохнувшихся и так далее. Некоторые выжили и теперь станут калеками.<end>
 
 =>q23_original
 That's all I know about the creatures. They kill.<end>
@@ -148,19 +148,19 @@ That's all I know about the creatures. They kill.<end>
 Is there something wrong with that crazy man outside?<end>
 
 =>a24
-Что не так с этим сумасшедшим на улице?<end>
+Что не так с тем сумасшедшим на улице?<end>
 
 =>q25_original
 The man suffers from some serious brain damage, most likely caused by polluted air or food. Could also be caused by certain types of head trauma. I don't know, never had the opportunity to give him an examination.<end>
 
 =>q25
-Этот мужчина страдает от какого-то серьёзного повреждения головного мозга, наиболее вероятно, вызванного загрязнённым воздухом или пищей. Возможна также травма головы. Я не знаю, не было возможности осмотреть его.<end>
+Этот мужчина страдает от какого-то серьёзного повреждения головного мозга, наиболее вероятно вызванного загрязнённым воздухом или пищей. Возможна также травма головы. Я не знаю, не было возможности осмотреть его.<end>
 
 =>q26_original
 Not important anyway. I have better things to do.<end>
 
 =>q26
-Это и неважно. У меня есть другие дела.<end>
+Но это и неважно. У меня есть другие дела.<end>
 
 =>a27_original
 I don't need anything. Goodbye.<end>
