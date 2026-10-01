@@ -6,9 +6,9 @@ He speaks to you without removing his smile.::
 Well, hello stranger. How's it going, huh? I know what you're thinking: "Why did I come to this barren station? The air is horribly polluted, people are dirty, boring and there's absolutely no fun to be had here." Don't break your pick, valued customer - there is more to Foundry than what initially meets the eye.<end>
 
 =>q1
-::Этот мужчина, одетый в опрятный комбинезон, приветствует вас широкой и искренней улыбкой. Он высокий и широкоплечий, с большими, сильными руками, торчащими из-под закатанных рукавов, при этом его голова выглядит непропорционально маленькой, будто сделанная на заказ запчасть, которая работает как надо, но не совсем подходит по виду. 
+::Этот мужчина, одетый в опрятный комбинезон, приветствует вас широкой и искренней улыбкой. Он высокий и широкоплечий, с большими и сильными руками, торчащими из-под закатанных рукавов, при этом его голова выглядит непропорционально маленькой, будто сделанная на заказ запчасть, которая работает как надо, но не совсем подходит по виду. 
 
-Он говорит, не прекращая улыбаться.::
+Он говорит, не прекращая улыбаться: ::
 
 Ну, здравствуйте, незнаком$(#ец/ка). Как дела, а? Я знаю, о чём вы думаете: «Зачем я приехал$(#/а) на эту безрудную станцию? Воздух ужасный, люди грязные, тоска и абсолютно нечем заняться». Не ломай кирку, драгоценный клиент, Литейная -- это больше чем кажется на первый взгляд.<end>
 
@@ -22,7 +22,7 @@ I'd--<end>
 I feel it, oh, valued customer. I feel what you want to tell me so desperately. Don't say it. Shush! I know, you're searching for something special, for something that will make your day - your week - your *life*! You've found it. I'm not joking. Do you know what it is, valued customer? Do you know what I have here? What I'm willing to offer to you, for almost nothing?<end>
 
 =>q3
-Я знаю, дорогой клиент. Я чувствую, что вы хотите сказать мне, так отчаянно. Молчите. Ш-ш-ш! Я знаю, вы ищете что-то особенное, то, что наполнит радостью ваш день, неделю, вашу *жизнь*! Вы это нашли. Я не шучу. Вы знаете, что это такое, уважаемый клиент? Вы знаете, что у меня здесь? Что я готов предложить вам, почти даром?<end>
+Я знаю, дорогой клиент. Я чувствую, что вы хотите сказать мне так отчаянно. Молчите. Ш-ш-ш! Я знаю, вы ищете что-то особенное -- то, что наполнит радостью ваш день, неделю, вашу *жизнь*! Вы это нашли. Я не шучу. Вы знаете, что это такое, уважаемый клиент? Вы знаете, что у меня здесь? Что я готов предложить вам почти даром?<end>
 
 =>q4_original
 You're thinking I'm pulling your leg, aren't you? If so - then you're wrong. This is an offer you can't resist and you know it. I have something you desire and you know what it is. So tell me. Tell me!<end>
@@ -52,7 +52,7 @@ What?<end>
 I, Bryan Honest, run the largest and only store in Foundry which specializes in mechanical components. You can find anything here, and I mean *any-thing.* Don't forget - they don't call me Honest for no reason. ::He laughs.::<end>
 
 =>q8
-Я, Брайан Честный -- владелец крупнейшего и единственного в Литейной магазина, специализирующегося на продаже механических компонентов. Вы можете найти здесь всё, что угодно, и я не шучу. Не забывайте -- меня зовут Честным не просто так. ::Он смеётся.::<end>
+Я, Брайан Честный -- владелец крупнейшего и единственного в Литейной магазина, специализирующегося на продаже механических компонентов. Вы можете найти здесь всё, что угодно, и я не шучу. Не забывайте -- меня зовут честным не просто так. ::Он смеётся.::<end>
 
 =>q9_original
 <end>
@@ -94,7 +94,7 @@ Do you know anything about creatures from the mine?<end>
 Not much, just that after those things showed up and interrupted mining, so many people came to my store to purchase mechanical components of all kinds. And they felt golden. How is all that connected, you ask?<end>
 
 =>q15
-Немного, только то, что после того как они вылезли и прервали добычу, многие люди приходили в мой магазин, чтобы купить механические компоненты всех видов. И они вышли отсюда очень довольными. Как это связано, спросите вы?<end>
+Немногое -- только то, что после того, как они вылезли и прервали добычу, многие люди приходили в мой магазин, чтобы купить механические компоненты всех видов. И они вышли отсюда очень довольными. Как это связано, спросите вы?<end>
 
 =>q16_original
 They were suddenly exposed to something they hate, so they had to find comfort in something they love. And that was my store.<end>
@@ -124,13 +124,13 @@ I am ready to accept your purchase; I am Bryan Honest.<end>
 Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
 
 =>a20
-Вы помните, не приносили ли вам какие-нибудь странные предметы? Я не могу дать вам описание, но это что-то, что вы, несомненно, запомнили бы.<end>
+Вы не помните, не приносили ли вам какие-нибудь странные предметы? Я не могу дать вам описание, но это что-то, что вы, несомненно, запомнили бы.<end>
 
 =>q21_original
 As a matter of fact, yes. Just now a person - a boss - came in here possessing the most striking thing I've ever seen in my whole life. As soon as $(#he/she) spoke, I knew I was going to witness something so beautiful, something so special that I'll remember it for the rest of my life.<end>
 
 =>q21
-Собственно говоря, да. Буквально только что, настоящий босс, невероятн$(#ый/ая) $(#человек/девушка) приш$(#ёл/ла) сюда и прин$(#ёс/есла) самое поразительное, что я видел за всю мою жизнь. Как только он$(#/а) заговорил$(#/а), я уже знал, что вот-вот стану свидетелем чего-то настолько прекрасного, чего-то настолько особенного, что я запомню это на всю оставшуюся жизнь.<end>
+Собственно говоря, да. Буквально только что настоящий босс, невероятн$(#ый/ая) $(#человек/девушка) приш$(#ёл/ла) сюда и прин$(#ёс/есла) самое поразительное, что я видел за всю мою жизнь. Как только он$(#/а) заговорил$(#/а), я уже знал, что вот-вот стану свидетелем чего-то настолько прекрасного, чего-то настолько особенного, что я запомню это на всю оставшуюся жизнь.<end>
 
 =>a22_original
 Please continue.<end>
@@ -142,7 +142,7 @@ Please continue.<end>
 The $(#man/woman) who brought that beauty into my store was you, valued customer. You revealed to me the most striking thing in the world: Your true shopper's heart! It brings... it brings a tear of joy to my eye. I won't delay it anymore - I'll show you what I have to offer. ::He whispers.:: Just say the words.<end>
 
 =>q23
-$(#Мужчина/Женщина), котор$(#ый/ая) прин$(#ёс/есла) эту красоту в мой магазин -- это вы, уважаемый клиент. Вы открыли для меня самое поразительное в мире: Ваше сердце истинного покупателя! У меня... у меня просто слёзы радости наворачиваются на глаза. Я не буду больше откладывать, я покажу вам, что я могу предложить. ::Он шепчет.:: Просто скажите слово.<end>
+$(#Мужчина/Женщина), котор$(#ый/ая) прин$(#ёс/есла) эту красоту в мой магазин -- это вы, уважаемый клиент. Вы открыли для меня самое поразительное в мире -- ваше сердце истинного покупателя! У меня... у меня просто слёзы радости наворачиваются на глаза. Я не буду больше откладывать, я покажу вам, что я могу предложить. ::Он шепчет.:: Просто скажите слово.<end>
 
 =>a24_original
 I should have known! Forget about it. I'm gone.<end>
@@ -160,13 +160,13 @@ Don't forget about my store. You'll regret it, valued customer.<end>
 You're not the sanest man around here, are you?<end>
 
 =>a26
-Вы не самый разумный человек в округе, не так ли?<end>
+Вы не самый нормальный человек в округе, не так ли?<end>
 
 =>q27_original
 What's not sane about me are my low prices. You do have a point about that, but don't worry, the quality is there. Feel it.<end>
 
 =>q27
-Конечно, только посмотрите на мои безумно низкие цены. Вы абсолютно правы насчёт этого, но не волнуйтесь, качество им не соответствует. Почувствуйте его.<end>
+Конечно, только посмотрите на мои безумно низкие цены! Вы абсолютно правы насчёт этого, но не волнуйтесь, качество им не соответствует. Почувствуйте его.<end>
 
 =>a28_original
 Get to the point, what was it and who brought it?<end>
@@ -220,7 +220,7 @@ A teleportation device?<end>
 A toy soldier with a high-caliber rotary machine gun in one hand, flamethrower in the other and a baby hopper painted on his helmet?<end>
 
 =>a36
-Игрушечный солдатик с крупнокалиберным роторным пулемётом в одной руке, огнемётом в другой и с детским пещерником на шлеме?<end>
+Игрушечный солдатик с крупнокалиберным роторным пулемётом в одной руке, огнемётом в другой и с маленьким пещерником на шлеме?<end>
 
 =>a37_original
 A fashion doll with flowing red hair, a glamorous pink dress and a heart which can't be broken?<end>
@@ -244,7 +244,7 @@ A railgun that can shoot through walls?<end>
 A garbage bin? Mine's busted.<end>
 
 =>a40
-Мусорное ведро? Моё разбито.<end>
+Мусорное ведро? Моё сломалось.<end>
 
 =>a41_original
 You see--<end>
@@ -292,4 +292,4 @@ I might not offer guns or ammo, food or drinks, but I offer the finest mechanica
 Feel the quality; feel the need to buy.<end>
 
 =>q48
-Почувствуйте качество; почувствуйте необходимость купить.<end>
+Почувствуйте качество -- почувствуйте необходимость купить.<end>
