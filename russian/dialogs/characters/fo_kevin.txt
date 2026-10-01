@@ -4,7 +4,7 @@
 Good day, $(#sir/ma'am). I'm Overseer Kevin Grey of the Foundry Guard. Do you need assistance?<end>
 
 =>q1
-::Мужчина откашливается, прежде чем начать говорить.::
+::Мужчина откашливается, прежде чем заговорить: ::
 
 Добрый день, $(#сэр/мадам). Я Кевин Грей, смотритель Литейной. Вам нужна моя помощь?<end>
 
@@ -36,7 +36,7 @@ I... don't know what you're talking about. Perhaps you should see one of the loc
 Alright, alright. You heard correctly, I can get you military grade weapons and ammunition - but just so we're clear: Not a single word about this to anyone. Understand? Yes?<end>
 
 =>q6
-Ладно, ладно. Вы слышали верно, я могу вам достать боевое оружие и боеприпасы, но, просто для ясности: никому ни слова об этом. Понятно?<end>
+Ладно, ладно. Вы слышали верно, я могу достать вам боевое оружие и боеприпасы, но, просто для ясности: никому ни слова об этом. Понятно?<end>
 
 =>a7_original
 Show me what you've got. ::Barter.::<end>
@@ -84,7 +84,7 @@ Like what?<end>
 ::[Mercantile]:: I'm a serious buyer, Kevin, and I think you haven't realized that just yet. Why I say that? Well, I still haven't really seen any of the really high-grade stuff someone such as yourself should be offering.<end>
 
 =>a14
-::[Торговля]:: Я серьёзный покупатель, Кевин, и я думаю, вы ещё этого не осознали. Почему я так говорю? Ну, я до сих пор не видел$(#/а) ни одной из действительно классных вещей, которые такой человек навроде вас должен быть способен мне предложить.<end>
+::[Торговля]:: Я серьёзный покупатель, Кевин, и я думаю, вы ещё этого не осознали. Почему я так говорю? Ну, я до сих пор не видел$(#/а) ни одной из действительно классных вещей, которые человек навроде вас должен быть способен мне предложить.<end>
 
 =>q15_original
 <end>
@@ -144,7 +144,7 @@ What does an overseer do?<end>
 Oversees the Foundry guards. I think it's pretty self-explanatory.<end>
 
 =>q24
-Курирует Стражей Литейной. Я думаю, это достаточно очевидно.<end>
+Курирует стражей Литейной. Я думаю, это достаточно очевидно.<end>
 
 =>q25_original
 Any more questions?<end>
@@ -162,7 +162,7 @@ Do you remember anyone coming to you with any strange items? Anything really str
 Really striking? That's very vague. No... I don't remember anything like that. Sorry, it's not like I have a lot of people coming here.<end>
 
 =>q27
-Прямо таки, поразительного? Как-то расплывчато. Нет... я не помню ничего подобного. Мне очень жаль, но у меня не так уж много посетителей.<end>
+Прямо таки поразительного? Как-то расплывчато. Нет... я не помню ничего подобного. Мне очень жаль, но у меня не так уж много посетителей.<end>
 
 =>q28_original
 Maybe you should ask around; news of unusual things spread pretty fast throughout Foundry, as is the case with any station.<end>
@@ -180,7 +180,7 @@ What can you tell me about Foundry?<end>
 Foundry is undeniably the safest station in South Underrail. It is utterly unbreachable and, let me tell you straight away, it's rivaling even Underrail Protectorate's Fort Apogee. All that due to a strong position and the indisputable valor of the Foundry Guard, who exist to serve and protect all within the station walls. If you find yourself in any trouble, or need help otherwise, simply find one of the guards and they will gladly assist you.<end>
 
 =>q30
-Литейная -- это, несомненно, самая безопасная станция в Южной Подземке. Она совершенно неприступна, и, извините за прямоту, могла бы составить конкуренцию форту Апогей Протектората Подземки. Всё это благодаря отличной подготовке и несомненной доблести Стражи Литейной, которая существует, чтобы служить и защищать людей в пределах периметра станции. Если вы попадёте в какие-нибудь неприятности или вам будет нужна другая помощь, просто найдите одного из Стражей, и он с удовольствием поможет вам.<end>
+Литейная -- это, несомненно, самая безопасная станция в Южной Подземке. Она совершенно неприступна, и, извините за прямоту, могла бы составить конкуренцию форту Апогей Протектората Подземки. Всё это благодаря отличной подготовке и несомненной доблести Стражи Литейной, которая существует, чтобы служить и защищать людей в пределах периметра станции. Если вы попадёте в какие-нибудь неприятности или вам будет нужна другая помощь, просто найдите одного из стражей, и он с удовольствием поможет вам.<end>
 
 =>q31_original
 Although, maybe you can take care of yourself just fine.<end>
@@ -216,7 +216,7 @@ You came here to hear me congratulate you on a job well done? To thank you for h
 On the other hand - you have guts, I can give you that. But don't let it go to your head, understand?<end>
 
 =>q36
-С другой стороны, я признаю, храбрости вам не занимать. Просто не зазнавайтесь, хорошо?<end>
+С другой стороны, я признаю, храбрости вам не занимать. Только не зазнавайтесь, хорошо?<end>
 
 =>a37_original
 Do you know anything about the mine creatures?<end>
@@ -228,7 +228,7 @@ Do you know anything about the mine creatures?<end>
 Ah... you learned about that quickly. Well, few people have seen those things in person. What happened was, some miners tunneled into a cavern and ran into these odd rocky creatures. Those things were incredibly aggressive and the mining operation had to be halted, rightfully so. Some miners were - sadly - killed, and because of that we're on high alert right now. We even suspect that the creatures are somehow... uh... never mind.<end>
 
 =>q38
-Ах... вы уже узнали об этом. Ну, мало кто видел этих тварей лично. Случилось так: шахтёры прорыли туннель в пещеру и наткнулись на этих странных каменных существ. Эти штуки были невероятно агрессивными, и горные работы пришлось приостановить -- и правильно. Несколько шахтёров, к несчастью, погибли, и из-за этого мы находимся в состоянии повышенной готовности. Мы даже подозреваем, что эти существа каким-то образом... э-э... неважно.<end>
+Ах... вы уже слышали об этом. Ну, мало кто видел этих тварей лично. Случилось так: шахтёры прорыли туннель в пещеру и наткнулись на таких странных каменных существ. Эти штуки были невероятно агрессивными, и горные работы пришлось приостановить -- и правильно. Несколько шахтёров, к несчастью, погибли, и из-за этого мы находимся в состоянии повышенной готовности. Мы даже подозреваем, что эти существа каким-то образом... э-э... неважно.<end>
 
 =>q39_original
 The officials are currently discussing the situation and planning the next move. We'll see what they'll come up with. In the mean time, you take care and keep away from the mine. Understand?<end>
@@ -246,7 +246,7 @@ Why didn't someone already arrest that derailed robed dude?<end>
 You mean the Tchort guy? I'd rather shoot him, but that would be against the law. As for not arresting him, I suppose someone higher up the chain grew fond of the guy, I don't know. Besides, he never caused any major disturbance, he's only annoying the marbles out of everyone.<end>
 
 =>q41
-Вы имеете в виду этого чувака с его Чортом? Я предпочёл бы пристрелить его, но это было бы против закона. А что до ареста, может, кто-то выше по цепочке полюбил парня, я не знаю. Кроме того, он никогда не вызывал неприятностей, только действует на нервы прохожим.<end>
+Вы имеете в виду того чувака с его Чортом? Я предпочёл бы пристрелить его, но это было бы против закона. А что до ареста, -- может, кто-то выше по цепочке полюбил парня, я не знаю. Кроме того, он не причиняет неприятностей, только действует на нервы прохожим.<end>
 
 =>q42_original
 And he never gets tired! Unbelievable...<end>
@@ -264,7 +264,7 @@ I have to go. See you later.<end>
 Hey - just in time. Check out the new stuff I just got.<end>
 
 =>q44
-Привет, вы как раз вовремя. Посмотрите нам мой новый товар.<end>
+Привет, вы как раз вовремя. Посмотрите на мой новый товар.<end>
 
 =>a45_original
 Maybe later. I came here for other reasons.<end>
