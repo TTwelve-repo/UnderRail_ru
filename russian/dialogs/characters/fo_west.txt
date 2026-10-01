@@ -6,11 +6,11 @@ Your thoughts are interrupted when he notices you.::
 Oh, welcome to my electronics store, friend. Name's George West. You ought to say something 'cause I... ::He coughs.:: I can't help you if I don't know you're here. ::He smiles.::<end>
 
 =>q1
-::Вы видите худощавого мужчину, припаивающего несколько деталей на плату цвета меди. Он не сразу замечает вас, что даёт вам пару минут, чтобы понаблюдать за ним: тёмные волосы с седыми прядями, морщинистое лицо, а руки уверенно движутся только тогда, когда паяльник касается платы. Едва уловимые признаки подсказывают вам, что человек моложе чем выглядит, но вы не можете понять откуда у вас такое ощущение.
+::Вы видите худощавого мужчину, припаивающего несколько деталей на плату цвета меди. Он не сразу замечает вас, что даёт вам пару минут, чтобы понаблюдать за ним: тёмные волосы с седыми прядями, морщинистое лицо, а руки уверенно движутся только тогда, когда паяльник касается платы. Едва уловимые признаки подсказывают вам, что этот человек моложе, чем выглядит, но вы не можете понять, откуда у вас такое ощущение.
 
-Ваши размышления прерываются, когда человек замечает вас.::
+Ваши размышления прерываются, когда мужчина замечает вас.::
 
-О, добро пожаловать в мой магазин электроники, друг. Меня зовут Джордж Уэст. Скажите уже зачем вы здесь, потому что я... ::Он кашляет.:: Я не могу вам помочь, если не знаю, чего вам надо. ::Он улыбается.::<end>
+О, добро пожаловать в мой магазин электроники, $(#друг/подруга). Меня зовут Джордж Уэст. Скажите уже, зачем вы здесь, потому что я... ::Он кашляет.:: Я не могу вам помочь, если не знаю, чего вам надо. ::Он улыбается.::<end>
 
 =>q2_original
 <end>
@@ -40,7 +40,7 @@ If it's an electrical problem then yes, I can help you. Where do you need me, ex
 It's a large furnace near the mine entrance. One a man named Bernard seems very fond of.<end>
 
 =>a6
-Это большая печь рядом с входом в шахту. Одному человеку по имени Бернард, кажется, она очень нравится.<end>
+Это большая печь рядом со входом в шахту. Одному человеку по имени Бернард, кажется, она очень нравится.<end>
 
 =>q7_original
 Hmm.<end>
@@ -58,7 +58,7 @@ Hmm?<end>
 Well, he's not exactly the sanest man around here. But as long as I'm being paid, I don't have a problem with it. And I've already worked with that same furnace. Unless it's something very drastic, I can handle it.<end>
 
 =>q9
-Ну, он точно не самый разумный человек в округе. Но раз уж мне платят, с этим не будет проблем. И я уже работал с этой печью. Если это только не что-то очень серьёзное, я справлюсь.<end>
+Ну, он точно не самый разумный человек в округе. Но раз уж мне платят, с этим не будет проблем. К тому же, я уже работал с этой печью. Если только это не что-то очень серьёзное, я справлюсь.<end>
 
 =>a10_original
 Bernard mentioned he thinks the problem lies with the electrode power regulation system.<end>
@@ -120,7 +120,7 @@ Right, catch you later.<end>
 I must've gone derailed to accept this, but I'm going to say okay, four hundred charons is fine. It's better than nothing. We have a deal.<end>
 
 =>q19
-::Его лицевые мышцы танцуют, отражая процесс размышления и формулирования мыслей и слов. Наконец он произносит.::
+::Его лицо меняет выражения, отражая мыслительный процесс, полный сомнений. Наконец он принимает решение: ::
 
 Я, наверное, совсем свихнулся, если соглашаюсь на это, но я скажу, ладно, четыреста -- нормально. Это лучше чем ничего. Мы заключили сделку.<end>
 
@@ -146,7 +146,7 @@ I need to think about it.<end>
 I'm not going anywhere, friend. ::He coughs.:: Unless this coughing... uh... bah... ::He begins coughing again.::<end>
 
 =>q23
-Я никуда не денусь, друг. ::Он кашляет.:: Если только этот кашель... ух... ба... ::Он начинает кашлять снова.::<end>
+Я никуда не денусь, $(#друг/подруга). ::Он кашляет.:: Если только этот кашель... ух... тьфу... ::Он начинает кашлять снова.::<end>
 
 =>a24_original
 Money is not the issue, as long as you get the job done.<end>
@@ -158,7 +158,7 @@ Money is not the issue, as long as you get the job done.<end>
 That's good to hear. I'm asking for five hundred charons. I don't think anyone sane would do it for less.<end>
 
 =>q25
-Приятно слышать. Я прошу пятьсот харонов. Я не думаю, что какой здравомыслящий человек сделает это за меньшие деньги..<end>
+Приятно слышать. Я прошу пятьсот харонов. Я не думаю, что какой здравомыслящий человек сделает это за меньшие деньги.<end>
 
 =>a26_original
 Is there a problem?<end>
@@ -176,7 +176,7 @@ About that furnace...<end>
 Five hundred charons to get the furnace fixed. I can go there right away. ::He coughs.::<end>
 
 =>q28
-Пятьсот монет за ремонт печи. Я могу пойти туда прямо сейчас. ::Он кашляет.::<end>
+Пятьсот монет за ремонт печи. Я могу приступить немедленно. ::Он кашляет.::<end>
 
 =>a29_original
 About that workbench...<end>
@@ -200,7 +200,7 @@ I'll buy it for one thousand two hundred. ::Give him 1200 stygian coins.::<end>
 ::He coughs.:: Good. I'd help you carry it out of the store, but my back's a bit friable. Old age, what can I say.<end>
 
 =>q32
-::Он кашляет.:: Хорошо. Я помогу вам вынести его из магазина, но моя спина немного слаба. Старость, что тут скажешь.<end>
+::Он кашляет.:: Хорошо. Я бы помог вам вынести его из магазина, но моя спина немного слаба. Старость, что тут скажешь.<end>
 
 =>a33_original
 I'm not carrying it either. I'll see to it that Core City Housing Corporation guys deliver it to my house.<end>
@@ -224,7 +224,7 @@ I'm not carrying it either. I'll see to it that Core City Housing Corporation gu
 ::He pauses, but soon replies.:: Deal, friend. Eight hundred.<end>
 
 =>q36
-::Он задумывается, но вскоре отвечает.:: По рукам, друг. Восемь сотен.<end>
+::Он задумывается, но вскоре отвечает: ::По рукам, $(#друг/подруга). Восемь сотен.<end>
 
 =>a37_original
 Here you go. ::Give him 800 stygian coins.::<end>
@@ -254,7 +254,7 @@ I'm interested in buying that electronic workbench with all the integrated equip
 This one? I'm using that... ::He coughs.:: I need it.<end>
 
 =>q41
-Этот? Я использую его для работы... ::Он кашляет.:: Он мне нужен.<end>
+Этого? Я использую его для работы... ::Он кашляет.:: Он мне нужен.<end>
 
 =>a42_original
 Everything can be bought, you just have to name the price.<end>
@@ -268,7 +268,7 @@ Everything can be bought, you just have to name the price.<end>
 There are a lot of expensive tools in that thing. ::He coughs.:: If I were to sell it, it would have to be for... no less than one thousand two hundred charons. Yes, that's what I'm asking for it.<end>
 
 =>q43
-::Его взгляд сосредоточен на верстаке, пока он обдумывает ваши слова. С каждой секундой вы становитесь всё более и более уверены, что он действительно собирается назвать цену.::
+::Его взгляд гуляет по верстаку, пока он обдумывает ваши слова. С каждой секундой вы становитесь всё более и более уверены, что он действительно собирается назвать цену.::
 
 Много дорогих устройств на этой штуке. ::Он кашляет.:: Если я продам его, это обойдётся вам... не менее чем в одну тысячу двести харонов. Да, вот сколько я прошу за него.<end>
 
@@ -282,7 +282,7 @@ Do you know where I can find one like that?<end>
 I don't. I know I'm not helpful but... ::He shrugs.:: I can't help you there, friend.<end>
 
 =>q45
-Нет. Я знаю, что бесполезен, но... ::Он пожимает плечами.:: Я не смогу помочь вам, друг.<end>
+Нет. Я знаю, что бесполезен, но... ::Он пожимает плечами.:: Я не смогу помочь вам, $(#друг/подруга).<end>
 
 =>a46_original
 Never mind then. I'll look for another one.<end>
@@ -294,7 +294,7 @@ Never mind then. I'll look for another one.<end>
 Good luck with that, friend.<end>
 
 =>q47
-Удачи вам, друг.<end>
+Удачи вам, $(#друг/подруга).<end>
 
 =>a48_original
 What can you tell me about this place?<end>
@@ -318,7 +318,7 @@ Okay. Now give me the other side of the truth.<end>
 ::He lets out his breath in a long sigh.:: The air pollution... it is really bad, friend. ::He coughs.:: See what I mean? My nose, throat and lungs are slowly being eroded by the foulness of the air, just like nearly everyone else's. I pity those working *in* the mine, or those sweating in the metalworks, and I'm thankful I'm not in their boots.<end>
 
 =>q51
-::Он тяжело выдыхает.:: Загрязнение воздуха... оно и правда очень серьёзное, друг. ::Он кашляет.:: Видите, что я имею в виду? Мой нос, горло и лёгкие постепенно разрушаются из-за загрязнения воздуха -- так же, как и у всех остальных. Ещё хуже тем, кто работает в шахте или тем, кто потеет в плавильне, и я благодарен судьбе, что не нахожусь на их месте.<end>
+::Он тяжело выдыхает.:: Загрязнение воздуха... оно и правда очень серьёзное, $(#друг/подруга). ::Он кашляет.:: Видите, что я имею в виду? Мой нос, горло и лёгкие постепенно разрушаются из-за загрязнения воздуха -- так же, как и у всех остальных. Ещё хуже тем, кто работает в шахте или тем, кто потеет в плавильне, и я благодарен судьбе, что не нахожусь на их месте.<end>
 
 =>q52_original
 But, I get to have my own store without anyone racketeering me, which used to be the case before I moved here. So, this... this is my life now. Whether I made the right choice or not, I suppose the future will tell me that.
@@ -328,13 +328,13 @@ Any more questions, friend?<end>
 =>q52
 Зато у меня собственная мастерская, и не надо бояться рэкетиров, как это было раньше, до моего переезда сюда. Так что это... теперь моя жизнь. Сделал ли я правильный выбор или нет -- я думаю, будущее покажет.
 
-Есть ещё вопросы, друг?<end>
+Есть ещё вопросы, $(#друг/подруга)?<end>
 
 =>a53_original
 Good enough for me. I'd like to ask you something else.<end>
 
 =>a53
-Для меня достаточно. Я бы хотел спросить ещё кое-что.<end>
+Этого мне достаточно. Я бы хотел$(#/а) спросить ещё кое-что.<end>
 
 =>a54_original
 Do you remember anyone coming to you with any strange items? I cannot describe the item, but it's something you would definitely remember.<end>
@@ -352,7 +352,7 @@ Mmm, someone did come here with a... distinctive item. A group of people, to be 
 ::He coughs.:: Anyway, those people came here and one of them, looked like their leader, produced a sturdy metal box. He was holding it tighter than a miner who had found a lump of gold. Despite not liking having them in my store, I was interested in what was inside the box. And, when he opened it, I saw something I'd never seen before.<end>
 
 =>q56
-::Он кашляет.:: Ну вот, эти люди пришли сюда, и один из них, похоже, их лидер, достал прочную металлическую коробку. Он держал её крепче чем шахтёр, который нашёл золотой самородок. Хотя мне и не нравилось, что они находятся в моём магазине, мне было интересно, что в коробке. И когда он открыл её, я увидел то, чего я никогда раньше не видел.<end>
+::Он кашляет.:: Ну вот, эти люди пришли сюда, и один из них -- похоже, их лидер -- достал прочную металлическую коробку. Он держал её крепче чем шахтёр, который нашёл золотой самородок. Хотя мне и не нравилось, что они находятся в моём магазине, мне было интересно, что в коробке. И когда он открыл её, я увидел то, чего я никогда раньше не видел.<end>
 
 =>a57_original
 What was in the box?<end>
@@ -364,7 +364,7 @@ What was in the box?<end>
 It's difficult to describe. ::He coughs.:: I don't know, imagine a twenty-sided polyhedron engraved with some alien-looking markings. It appeared to be some kind of an electronic device, with strange slots - sockets in it. But as a whole, it resembled nothing I'd ever seen. I don't know what it does, and I think those people knew even less. Still, the man wanted to sell it to me for lots of charons.<end>
 
 =>q58
-Его сложно описать. ::Он кашляет.:: Ну не знаю, представьте себе двадцатисторонний многогранник с символами, выгравированными как будто пришельцами. Мне он показался каким-то электронным устройством со странными гнёздам и разъёмами. Но в целом, я ничего подобного не видел раньше. Я без понятия, что он делает, но, кажется, те люди не знали о нём вообще ничего. Однако тот мужчина хотел продать его мне за много харонов.<end>
+Его сложно описать. ::Он кашляет.:: Ну не знаю, представьте себе двадцатисторонний многогранник с символами, выгравированными как будто пришельцами. Мне он показался каким-то электронным устройством со странными гнёздам и разъёмами. Но в целом, я ничего подобного не видел раньше. Я без понятия, что он делает, но кажется, те люди не знали о нём вообще ничего. Однако тот мужчина хотел продать его мне за много харонов.<end>
 
 =>q59_original
 First of all, I didn't have the money he wanted, and second, I didn't know what I was buying. ::He coughs.:: It's just bad business.<end>
@@ -382,7 +382,7 @@ Do you know who they were and where they are now?<end>
 No idea. The guy with the box was the only one who talked to me, the others just stood there silent. After I told them I didn't want to buy it, they just left. I thought about calling the guards at one point, but decided not to. What do I know, as long as they don't make a mess, it doesn't concern me.<end>
 
 =>q61
-Без понятия. Парень с коробкой был единственным, кто разговаривал со мной, остальные просто стояли молчком. После того как я сказал им, что не буду покупать, они просто ушли. Я подумывал вызвать стражу, но решил не делать этого. Они же не начали беспредельничать, значит меня это не касается.<end>
+Без понятия. Парень с коробкой был единственным, кто разговаривал со мной, остальные просто стояли молчком. После того, как я сказал им, что не буду покупать, они просто ушли. Я подумывал вызвать стражу, но решил не делать этого. Они же не начали беспредельничать, значит меня это не касается.<end>
 
 =>q62_original
 Mmm, someone did come here with a... distinctive item. A group of people, to be exact, and... Wait... why would I tell you anything? What's going on here?<end>
@@ -394,7 +394,7 @@ Mmm, someone did come here with a... distinctive item. A group of people, to be 
 ::[Persuade]:: Those men are very dangerous, and if you care about people's lives, you will tell me everything you know about the people that came into your store. It's an extremely important matter.<end>
 
 =>a63
-::[Убеждение]:: Эти люди очень опасны, и если вам не наплевать на человеческие жизни, расскажите мне всё, что знаете об этих людях, которые пришли в ваш магазин. Это чрезвычайно важно.<end>
+::[Убеждение]:: Эти люди очень опасны, и если вам не наплевать на человеческие жизни, расскажите мне всё, что знаете о них. Это чрезвычайно важно.<end>
 
 =>q64_original
 I... Fine, I'll talk. You are right, though - they really made me uncomfortable. They had this hungry look in their eyes, like starving rathounds eyeing their prey.<end>
@@ -436,7 +436,7 @@ Nothing, it doesn't concern me. Every problem we've had so far in Foundry was qu
 As long as there isn't one in my store, I don't care. But that's just my opinion, friend.<end>
 
 =>q70
-Пока ни один из них не забрался в мой магазин -- мне плевать. Но это только моё мнение, друг.<end>
+Пока ни один из них не забрался в мой магазин -- мне плевать. Но это только моё мнение, $(#друг/подруга).<end>
 
 =>a71_original
 How do you feel now that the mine has been reopened?<end>
@@ -466,10 +466,10 @@ Goodbye.<end>
 Goodbye, friend.<end>
 
 =>q75
-Прощайте, друг.<end>
+Прощайте, $(#друг/подруга).<end>
 
 =>q76_original
 Welcome back, friend.<end>
 
 =>q76
-С возвращением, друг.<end>
+С возвращением, $(#друг/подруга).<end>
