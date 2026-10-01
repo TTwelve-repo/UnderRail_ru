@@ -4,7 +4,7 @@
 Why, hello there. I haven't seen you around here before. I'm Kirk Messer, the local butcher, as you can probably see. ::He laughs.:: What do you need?<end>
 
 =>q1
-::Вы видите полноватого мужчину средних лет, занятого разделкой свиной туши. Вы наблюдаете за его движениями и замечаете, что каждый удар и надрез он выполняет с лёгкостью и точностью, указывающими на многолетний опыт. Несколько мгновений спустя, мужчина откладывает свой нож в сторону и вытирает руки. После этого он оборачивается к вам с лёгкой улыбкой и начинает говорить баритоном необыкновенной теплоты с оттенком хрипоты.::
+::Вы видите полноватого мужчину средних лет, занятого разделкой свиной туши. Вы наблюдаете за его движениями и замечаете, что каждый удар и надрез он выполняет с лёгкостью и точностью, указывающими на многолетний опыт. Несколько мгновений спустя, мужчина откладывает свой нож в сторону и вытирает руки. После этого он оборачивается к вам с лёгкой улыбкой и говорит необыкновенно тёплым баритоном с оттенком хрипоты: ::
 
 Ну, здравствуйте. Я вас раньше здесь не видел. Я Кирк Мессер, местный мясник, как вы, вероятно, заметили. ::Он смеётся.:: Что вам нужно?<end>
 
@@ -42,13 +42,13 @@ Yet, so many people live here despite all that.<end>
 Well, you lose on one front but win on several others: The iron mine brings in a lot of money to Foundry, and people like money. ::He laughs.:: Yeah. Also, the Foundry Guard keeps us safe from the Ironheads, and we've never had any of the raider jackasses penetrate the outer perimeter. Since I moved here, I literally forgot what it's like to live in fear of raiders.<end>
 
 =>q7
-Ну, вы теряете на одном фронте, но приобретаете на нескольких других: железная шахта приносит Литейной много денег, а люди любят деньги. ::Он смеётся.:: Да. Также, Стража Литейной охраняет нас от Железноголовых, и у нас никогда никакие рейдерские ослы не проникали за внешний периметр. С тех пор как я переехал сюда, я буквально забыл, каково это -- жить в страхе перед рейдерами.<end>
+Ну, вы теряете на одном фронте, но приобретаете на нескольких других: железная шахта приносит Литейной много денег, а люди любят деньги. ::Он смеётся.:: Да. Также, Стража Литейной охраняет нас от Железноголовых, и у нас никогда никакие рейдерские ослы не проникали за внешний периметр. С тех пор, как я переехал сюда, я буквально забыл, каково это -- жить в страхе перед рейдерами.<end>
 
 =>q8_original
 And despite the fact that the crime rate has gone up in the last few months, I still feel perfectly safe.<end>
 
 =>q8
-И, несмотря на то, что уровень преступности вырос в последние несколько месяцев, я по-прежнему чувствую себя в полной безопасности.<end>
+И несмотря на то, что уровень преступности вырос в последние несколько месяцев, я по-прежнему чувствую себя в полной безопасности.<end>
 
 =>a9_original
 I'll keep that in mind. Let me ask you something else.<end>
@@ -78,7 +78,7 @@ Let's put it this way... ::He cuts a piece of meat on the cutting table and show
 Mhm, good stuff! See? I'm eating it raw - that's how confident I am in its quality. So, yeah, I think that should be enough proof. Purchase your meat here and you're golden!<end>
 
 =>q13
-М-м-м, вкуснятина! Видите? Я ем его сырым -- вот как я уверен в его качестве. Так что да, я считаю, что этого достаточно для доказательства. Приобретайте мясо здесь и будете в золоте!<end>
+М-м-м, вкуснятина! Видите? Я ем его сырым -- вот как я уверен в его качестве. Так что да, я считаю, что этого достаточно для доказательства. Приобретайте мясо здесь, и будете в золоте!<end>
 
 =>a14_original
 How do you feel now that the mine is reopened?<end>
@@ -108,7 +108,7 @@ Do those bums from the slums cause you any problems?<end>
 Yeah... I'd not talk about it. ::He continues cutting the meat on the table.::<end>
 
 =>q18
-Да... я не хочу об этом говорить. ::Он продолжает резать мясо.::<end>
+Хм... я не хочу об этом говорить. ::Он продолжает резать мясо.::<end>
 
 =>q19_original
 Let's talk about something else.<end>
@@ -150,7 +150,7 @@ How do you feel about those mine creatures that have been troubling Foundry late
 Well, I don't like 'em, I think that should be obvious. Yeah. They've killed miners and Foundry guardsmen and are responsible for the - temporary - closing of the mine... But, if we put all that aside for a moment, I often wonder what they taste like. You know, uh, if their meat is edible... and tastes at least somewhat good... I could become the only one who can offer that unique meat - in whole South Underrail! Get your rocky steaks at Messer's. Yeah.<end>
 
 =>q25
-Ну, мне они не нравятся, я думаю, что это должно быть очевидно. Да. Они убивали шахтёров и стражей Литейной и несут ответственность за *временное* закрытие шахты... Но если забыть об этом всем на мгновение, я часто задумываюсь, какие они на вкус. Вы знаете, э-э, если их мясо съедобно... и на вкус хотя бы ничего... я мог стать единственным поставщиком этого уникального мяса во всей Южной Подземке! Покупайте каменные стейки у Мессера. Да.<end>
+Ну, мне они не нравятся, я думаю, что это должно быть очевидно. Да. Они убивали шахтёров и стражей Литейной и несут ответственность за *временное* закрытие шахты... Но если забыть об этом всём на мгновение, я часто задумываюсь, какие они на вкус. Вы знаете, э-э, если их мясо съедобно... и на вкус хотя бы ничего... я мог стать единственным поставщиком этого уникального мяса во всей Южной Подземке! Покупайте каменные стейки у Мессера. Да.<end>
 
 =>q26_original
 ::Messer drifts off for a moment, obviously thinking about his hypothetical future. He becomes aware of what he is doing, though, and looks at you again.::
