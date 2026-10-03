@@ -12,7 +12,7 @@ Apparently, Olivia is in prison because she was plotting my murder. Yes. Someone
 =>q2
 ::Вы подходите к Николасу и видите, что он не в духе.::
 
-Итак, Оливия в тюрьме, потому что она планировала моё убийство. Да. Мне только что сказали. И это сразу после того как вы и я заключили сделку, разве не удивительное совпадение?<end>
+Итак, Оливия в тюрьме, потому что она планировала моё убийство. Да. Мне только что сказали. И это сразу после того, как вы и я заключили сделку, разве не удивительное совпадение?<end>
 
 =>a3_original
 I don't know what you're talking about.<end>
@@ -114,7 +114,7 @@ Yes, that's correct. I'm not a violent man. Never was. But that woman... that *w
 I got a plan, and I want you to listen to me carefully. There is a certain way you must kill her or else the deal is off and you won't get any money.<end>
 
 =>q18
-Да, это так. Я не жестокий человек и никогда таким не стану. Но эта женщина... эта *женщина*.
+Да, это так. Я не жестокий человек и никогда им не был. Но эта женщина... эта *женщина*.
 
 У меня есть план, и я хочу, чтобы вы выслушали меня внимательно. Нужно убить её определённым способом, иначе сделка отменяется, и вы не получите деньги.<end>
 
@@ -200,7 +200,7 @@ Where can I find her?<end>
 She works as a chemist near the explosives warehouse; in fact, she is the one that mixes up the TNT miners use.<end>
 
 =>q32
-Она работает химиком на складе взрывчатки; это она смешивает тротил для шахтёров.<end>
+Она работает химиком на складе взрывчатки, это она смешивает тротил для шахтёров.<end>
 
 =>q33_original
 The warehouse is near the mine entrance, can't miss it.<end>
@@ -224,13 +224,13 @@ You have to make her death look like a work-related accident. Exactly how you do
 Remember: *Work*-*related* *accident.* Or else you get nothing.<end>
 
 =>q36
-Помните: *несчастный* *случай* на *производстве*. Иначе вы ничего не получите.<end>
+Помните: *несчастный случай на производстве*. Иначе вы ничего не получите.<end>
 
 =>a37_original
 There's something else you're not telling me. Why is it so important to make it look like a work accident when you can have her killed in so many different ways and not get caught?<end>
 
 =>a37
-Вы что-то не договариваете. Почему так важно, чтобы всё выглядело как несчастный случай на работе, когда можно её убить всякими разными способами и не попасться?<end>
+Вы что-то не договариваете. Почему так важно, чтобы всё выглядело как несчастный случай, когда можно её убить всякими разными способами и не попасться?<end>
 
 =>q38_original
 That's none of your business. Just do what I told you.<end>
@@ -266,7 +266,7 @@ And while I'm getting rid of that witch, I might as well earn some money. And pa
 You don't scare me! I repeat, it's none of your business. You just do your part and you'll get your money.<end>
 
 =>q43
-Ты меня не пугай! Повторяю, это не ваше дело. Просто выполняете свою часть сделки, и получаете деньги.<end>
+Не надо меня пугать! Повторяю, это не ваше дело. Просто выполняете свою часть сделки, и получаете деньги.<end>
 
 =>q44_original
 Got it?<end>
@@ -374,7 +374,7 @@ It's $(context.player.Name).<end>
 So, you, there you go. ::hic:: I feel nothing but pure hate for that muck-woman. ::He seems lost in thought, but after a couple of moments he starts talking again.:: It is unbearable. So much I even plan on killing her! ::As soon as he utters those words, his eyes instantly become clear and focused, as if he has sobered up in an instant. Tiny drops of sweat start rolling down his face, slowly growing larger and larger.::<end>
 
 =>q61
-Ну и вот, такие дела. ::Он икает.:: Я не чувствую ничего, кроме ненависти к этой шлачной бабе. ::Он, кажется, размышляет о чём-то, но через мгновение он продолжает.:: Это невыносимо. Настолько, что я даже собираюсь убить её! ::Как только он произносит эти слова, его глаза мгновенно становятся ясными и сосредоточенными, как будто он протрезвел в мгновение ока. Крошечные капли пота скатываясь по его лицу, увеличиваются в размере и падают вниз.::<end>
+Ну и вот, такие дела. ::Он икает.:: Я не чувствую ничего, кроме ненависти к этой шлачной бабе. ::Он, кажется, размышляет о чём-то, но через мгновение он продолжает.:: Это невыносимо. Настолько, что я даже собираюсь убить её! ::Как только он произносит эти слова, его глаза мгновенно становятся ясными и сосредоточенными, как будто он протрезвел в мгновение ока. Крошечные капли пота скатываются по его лицу, увеличиваются в размере и падают вниз.::<end>
 
 =>a62_original
 Why didn't you say so right away. I can take care of her for you. For a price, of course.<end>
@@ -579,7 +579,7 @@ No.<end>
 Well, you should knock you know! It's very rude to... pfffft... enter someone's house like that. ::hic:: I should just throw you out. ::He grabs his head with both arms.:: Ooh, my head hurts when I get angry! Oooh... Go back outside and knock if you want me to let you in. ::hic::<end>
 
 =>q93
-Ну, так надо стучать, знаете ли! Это крайне невежливо... пф-ф-ф-ф... входить в чужой дом вот так. ::Икает.:: Стоило бы просто вышвырнуть вас отсюда. ::Он хватается за голову обеими руками.:: Ох, у меня болит голова когда я злюсь! О-о-о... Выйдите на улицу и постучите, если хотите, чтобы я вас впустил. ::Икает.::<end>
+Ну, так надо стучать, знаете ли! Это крайне невежливо... пф-ф-ф-ф... входить в чужой дом вот так. ::Икает.:: Стоило бы просто вышвырнуть вас отсюда. ::Он хватается за голову обеими руками.:: Ох, у меня болит голова, когда я злюсь! О-о-о... Выйдите на улицу и постучите, если хотите, чтобы я вас впустил. ::Икает.::<end>
 
 =>q94_original
 Did you knock now, huh?<end>
