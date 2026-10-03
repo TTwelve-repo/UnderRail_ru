@@ -10,9 +10,9 @@
 The semi-drugged, nauseating state you're in only enhances her transformation from beauty into beast, making the experience even more surreal: Her kind eyes have now become flaming furnaces emitting enough heat to turn your skin to liquid; her charming smile - a scrap metal shredder grinning at your impending doom, and her soft, full hair - strands of molten metal erupting from the tip of her head and flowing down her face.::<end>
 
 =>q2
-::Вы приходите в себя в спальне Эвелин, чувствуя сильную головную боль и головокружение после всего лишь двух коктейлей, которые были не такими уж крепкими, не говоря уже о том, что их было явно недостаточно чтобы потерять сознание. По мере того как тёмный занавес медленно поднимается с ваших глаз, перед вами предстаёт леденящая кровь картина: Эвелин стоит перед вами, направив большой нож прямо на вас.
+::Вы приходите в себя в спальне Эвелин, чувствуя сильную головную боль и головокружение после всего лишь двух коктейлей, которые были не такими уж крепкими, не говоря уже о том, что их было явно недостаточно, чтобы потерять сознание. По мере того как тёмный занавес медленно поднимается с ваших глаз, перед вами предстаёт леденящая кровь картина: Эвелин стоит перед вами, направив большой нож прямо на вас.
 
-Ужасное состояние наркотического опьянения, в котором вы находитесь, только усиливает эффект её превращения из красавицы в чудовище, делая происходящее ещё более нереальным. Её добрые глаза превратились в пылающие печи, испускающие достаточно жара, чтобы расплавить вашу кожу. Её очаровательная улыбка -- измельчитель металла, ухмыляющийся вашей надвигающийся гибели, а её мягкие, пышные волосы -- струи расплавленного металла, извергающиеся из головы и стекающие на лицо.::<end>
+Ужасное состояние наркотического опьянения, в котором вы находитесь, только усиливает эффект её превращения из красавицы в чудовище, делая происходящее ещё более нереальным. Её добрые глаза превратились в пылающие печи, испускающие достаточно жара, чтобы расплавить вашу кожу. Её очаровательная улыбка -- измельчитель металла, ухмыляющийся вашей надвигающийся гибели, а её мягкие, пышные волосы -- струи расплавленной стали, извергающиеся из головы и стекающие на лицо.::<end>
 
 =>q3_original
 ::Only as you recoil do you realize you have been undressed almost completely, which further exacerbates your position. After she watches you flounder about for a few moments, she finally decides to speak.::
@@ -20,9 +20,9 @@ The semi-drugged, nauseating state you're in only enhances her transformation fr
 Oh, my sweet $(context.player.Name), how naive can you get. Now that I have you in my grasp, we're going to have so much fun! Well, at least I will - duh! ::After finishing her last sentence, she clenches her knife and moves toward you.::<end>
 
 =>q3
-::Отшатнувшись, вы понимаете, что раздеты почти полностью, что ещё более усугубляет ваше положение. Понаблюдав некоторое время за вашими метаниями, она наконец решает заговорить.::
+::Отшатнувшись, вы понимаете, что раздеты почти полностью, что ещё более усугубляет ваше положение. Понаблюдав некоторое время за вашими метаниями, она наконец решает заговорить: ::
 
-Ох, мой маленький $(context.player.Name), насколько же ты наивен. Теперь, когда ты в моих руках, нас ждёт море веселья! Ну, по крайней мере, меня! ::Закончив говорить, она сжимает нож и движется к вам.::<end>
+Ох, мой маленький $(context.player.Name), насколько же ты наивен. Теперь, когда ты в моих руках, нас ждёт море веселья! Ну, по крайней мере, меня! ::Закончив говорить, она сжимает нож и надвигается на вас.::<end>
 
 =>a4_original
 ::End Dialog.::<end>
@@ -38,9 +38,9 @@ She is the first one to speak.::
 Good day. May I help you somehow?<end>
 
 =>q5
-::Молодая привлекательная женщина, кажется, одна в этом тихом доме. Даже на первый взгляд очевидно, что эта женщина сверкает ярко как алмаз в ведре угля по сравнению с другими женщинами, которых вы видели на Литейной до сих пор. Её красивое утончённое лицо и стройная соблазнительная фигура образуют поразительный образ, который слегка портит крошечный изъян -- лёгкая припухлость и тёмные круги вокруг её усталых зелёных глаз. 
+::Молодая привлекательная женщина, кажется, одна в этом тихом доме. Даже на первый взгляд очевидно, что она сверкает ярко как алмаз в ведре угля по сравнению с другими женщинами, которых вы видели на Литейной до сих пор. Её красивое утончённое лицо и стройная соблазнительная фигура образуют поразительный образ, который слегка портит крошечный изъян -- лёгкая припухлость и тёмные круги вокруг её усталых зелёных глаз. 
 
-Она говорит первой.::
+Она говорит первой: ::
 
 Добрый день. Чем я могу вам помочь?<end>
 
@@ -96,25 +96,25 @@ I was really shocked when he died. All was well until one day he suddenly fell, 
 Losing a man I loved like that left a hole in my heart I don't think I'll ever be able to fill again. I don't know... who knows, maybe it's time for me to move on. I *am* young and still have so much to live for...<end>
 
 =>q14
-Утрата любимого оставила пустоту в моём сердце, и вряд ли я когда-нибудь смогу заполнить её снова. Я не знаю... может, для меня настало время двигаться дальше. Я молода и мне всё ещё есть зачем жить...<end>
+Утрата любимого оставила пустоту в моём сердце, и вряд ли я когда-нибудь смогу заполнить её снова. Я не знаю... может, для меня настало время двигаться дальше. Я молода, и мне всё ещё есть зачем жить...<end>
 
 =>q15_original
 ::She sighs.:: It's... complicated. Maybe that's enough about that subject.<end>
 
 =>q15
-::Она вздыхает.:: Всё... непросто. Может, хватит об этом.<end>
+::Она вздыхает.:: Всё... непросто. Думаю, хватит об этом.<end>
 
 =>a16_original
 I'm sorry. Maybe we should change the subject.<end>
 
 =>a16
-Простите. Думаю, нам стоит сменить тему.<end>
+Простите. Возможно, нам стоит сменить тему.<end>
 
 =>q17_original
 Don't feel sorry. While it is... difficult for me to speak about it, sometimes it's good to speak about these things. And you seem like a good listener. Anyway...<end>
 
 =>q17
-Не чувствуйте себя виноватым. Хотя... мне трудно говорить об этом, иногда бывает полезно выговориться. И вы, кажется, хороший слушатель. Так или иначе...<end>
+Вам не за что извиняться. Хотя... мне трудно говорить об этом, иногда бывает полезно выговориться. И вы, кажется, умеете слушать. Так или иначе...<end>
 
 =>q18_original
 Excuse me? I just met you and I'm not comfortable talking about private things with strangers.<end>
@@ -172,7 +172,7 @@ Sorry, but I'm going to have to say no.<end>
 ::All seductiveness instantly evaporates from her face, leaving behind only an expression of disappointment.:: Well, in that case, *I* am the one that should be sorry. Maybe it really was a misunderstanding. A woman like me can get lonely in a boring place like this, you know. I apologize for... this.<end>
 
 =>q26
-::Вся обольстительность мгновенно испаряется с её лица, оставив лишь разочарование.:: Ну, в таком случае, это я должна извиниться. Может быть, это действительно было недоразумение. Такая женщина, как я может почувствовать себя одиноко в таком тоскливом месте как это, знаете ли. Простите меня за... это.<end>
+::Вся обольстительность мгновенно испаряется с её лица, оставив лишь разочарование.:: Ну, в таком случае, это я должна извиниться. Может быть, это действительно было недоразумение. Женщина в моём положении может чувствовать себя одиноко в таком тоскливом месте, знаете ли. Простите меня за... это.<end>
 
 =>q27_original
 Anyway, is there anything else you wanted or are we done?<end>
@@ -190,7 +190,7 @@ How do you feel now that the mine has been reopened?<end>
 Well, well, if it isn't the "boss" himself. The mayor and the chief want most of the glory for themselves, but *I* know who did all the hard work. It takes one brave, strong, capable man to do what you did. If you ever find a break from doing heroic deeds, you could perhaps find some time tell me all about your endeavors.<end>
 
 =>q29
-Так-так-так, неужели это «босс» собственной персоной. Мэр и шеф хотят забрать всю славу себе, но *я-то* знаю, кто сделал всю тяжёлую работу. Только храбрый, сильный и умелый мужчина мог сделать то, что сделали вы. Если вы когда-нибудь захотите отдохнуть от героических свершений, может быть, уделите мне минуту и расскажете о своих подвигах.<end>
+Так-так-так, неужели это «босс» собственной персоной. Мэр и шеф хотят забрать всю славу себе, но *я-то* знаю, кто сделал всю тяжёлую работу. Только храбрый, сильный и умелый мужчина мог сделать то, что сделали вы. Если вы когда-нибудь захотите отдохнуть от героических свершений, может быть, уделите мне минуту и расскажете о своих подвигах?<end>
 
 =>q30_original
 I'd really love to hear it.<end>
@@ -220,7 +220,7 @@ What can you tell me about Foundry?<end>
 About Foundry? Foundry is well known throughout Underrail for its rich mine, and because we're the largest exporter of iron in the region. That allows us to afford a strong defense, which we need if we are to defend ourselves from raiders. Unfortunately, Foundry is also the most polluted station in the region... and life expectancy isn't the best either. <end>
 
 =>q34
-О Литейной? Литейная хорошо известна во всей Подземке своей богатой шахтой, а также потому что мы крупнейший экспортёр железа в регионе. Это позволяет нам содержать сильную охрану, которая защищает нас от рейдеров. К сожалению, Литейная также наиболее загрязнённая станция в регионе... и продолжительность жизни здесь не самая лучшая. <end>
+Про Литейную? Литейная хорошо известна во всей Подземке своей богатой шахтой, а также потому что мы крупнейший экспортёр железа в регионе. Это позволяет нам содержать сильную охрану, которая защищает нас от рейдеров. К сожалению, Литейная также наиболее загрязнённая станция в регионе... и продолжительность жизни здесь не самая лучшая. <end>
 
 =>q35_original
 To tell you the truth, I don't care much about this place. I'd leave it if I could.<end>
@@ -250,7 +250,7 @@ What was I thinking! I'd like to have a drink with you - if the offer still stan
 ::She crosses her arms and takes a good look at you before speaking:: Do you really expect me to offer you a drink again, after what you did to me earlier?<end>
 
 =>q39
-::Она скрещивает руки на груди и бросает на вас долгий взгляд, прежде чем ответить:: Вы действительно ждёте что я ещё раз предложу вам выпить, после того как вы поступили со мной раньше?<end>
+::Она скрещивает руки на груди и бросает на вас долгий взгляд, прежде чем ответить: ::Вы действительно ждёте, что я ещё раз предложу вам выпить, после того, как вы поступили со мной раньше?<end>
 
 =>a40_original
 Yes.<end>
@@ -264,7 +264,8 @@ Yes.<end>
 I think today is your lucky day, $(context.player.Name). Usually I would not give anyone a second chance after doing what you did, but there's just something... special about you...<end>
 
 =>q41
-::Она задумывается на несколько секунд, поочерёдно смотря то на вас, то в сторону. Наконец она говорит.::
+::Она задумывается на несколько секунд, поочерёдно смотря то на вас, то в сторону. Наконец она говорит: ::
+
 Похоже, сегодня ваш счастливый день, $(context.player.Name). Обычно я не даю второй шанс, тем более после такого, но... есть в вас что-то особенное...<end>
 
 =>a42_original
@@ -289,31 +290,31 @@ Do you know anything about creatures from the mine?<end>
 Not much, I've mostly heard people say those things look like they're made of rocks or something, but that's all I know. Luckily, I never had a chance to meet one in person and learn whether that description is true.<end>
 
 =>q45
-Немного, я слышала, как люди говорят, что эти твари выглядят так, будто сделаны из камня или чего-то похожего, но это всё что я знаю. К счастью, мне не представилась возможность встретить их и узнать, насколько верно это описание.<end>
+Кое-что. Я слышала, что эти твари выглядят так, будто сделаны из камня или чего-то похожего, но это всё, что я знаю. К счастью, мне не представилась возможность встретить их и узнать, насколько верно это описание.<end>
 
 =>q46_original
 And I hope I never meet one. You know, I'm sure the Foundry Guard situation will be resolved quickly, and the mine will be operational again.<end>
 
 =>q46
-И надеюсь, никогда не встречу. Уверена, что Стража Литейной быстро справится с ситуацией, и шахта вновь продолжит работу.<end>
+И надеюсь, я никогда их не встречу. Уверена, что Стража Литейной быстро справится с ситуацией, и шахта вновь продолжит работу.<end>
 
 =>a47_original
 Are you bothered by those people from the slums? I mean, you live right next to them.<end>
 
 =>a47
-Вас не беспокоят те люди из трущоб? Я имею в виду, вы живёте прямо рядом с ними.<end>
+Вас не беспокоят те люди из трущоб? Я имею в виду, вы же живёте прямо рядом с ними.<end>
 
 =>q48_original
 Hmmm, they rarely even come out, and when they do, they don't bother me at all. Now, Messer on the other hand, our local butcher, is having some... difficulties with those people, as far as he tells me. I think you can figure out why a bunch of underfed bums would bother a butcher who's got a pen full of pigs in the back.<end>
 
 =>q48
-Хм-м, они редко выходят оттуда, и даже когда это случается, они совсем не докучают мне. Вот, Мессер, наш местный мясник, наоборот, испытывает некоторые... трудности с этими людьми, как он говорит. Думаю, вы можете догадаться, почему шайка голодных бродяг будет беспокоить мясника, у которого есть полный загон свиней.<end>
+Хм-м, они редко выходят оттуда, и даже когда это случается, они совсем не докучают мне. Вот Мессер, наш местный мясник, наоборот испытывает некоторые... трудности с этими людьми, как он говорит. Думаю, вы можете догадаться, почему шайка голодных бродяг будет беспокоить мясника, у которого есть полный загон свиней.<end>
 
 =>q49_original
 And he is such a lovely man, Messer, and probably the only person I like talking to around here. <end>
 
 =>q49
-И он такой прекрасный человек -- Мессер, и, наверное, единственный здесь, с кем мне нравится общаться. <end>
+И он такой прекрасный человек -- Мессер, и наверное, единственный здесь, с кем мне нравится общаться. <end>
 
 =>q50_original
 You seem pretty nice too. ::She smiles.::<end>
@@ -349,13 +350,13 @@ Nice to meet you. I'm Evelyn. What do you need?<end>
 Hello, I'm $(context.player.Name). I came here to talk to you, if you don't mind.<end>
 
 =>a55
-Привет, я $(context.player.Name). Я хотел$(#/а) бы поговорить с вами, если вы не против.<end>
+Здравствуйте, я $(context.player.Name). Я хотел$(#/а) бы поговорить с вами, если вы не против.<end>
 
 =>q56_original
 Hello. I was just thinking about you, $(context.player.Name).<end>
 
 =>q56
-Привет! Я как раз думала о вас, $(context.player.Name).<end>
+Здравствуйте! Я как раз думала о вас, $(context.player.Name).<end>
 
 =>q57_original
 What is it?<end>
