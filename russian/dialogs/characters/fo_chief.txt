@@ -8,7 +8,7 @@
 You're back. Upon conducting an investigation, we discovered that the rifle you gave me was indeed used to kill Bolivar Daud, based on the caliber, angle of shot, etc. We have no evidence that could prove that Todor fired the gun, as there were no fingerprints on the rifle, nor any other clues. We also have no way to link the gun to Micas either.<end>
 
 =>q2
-Вы вернулись. В ходе расследования, мы установили, основываясь на калибре, угле выстрела и т. д., что винтовка, которую вы дали мне, действительно была использована для убийства Боливара Дауда. У нас нет доказательств того, что стрелял Тодор, на винтовке не было отпечатков пальцев и каких-либо других улик. Мы также не смогли связать оружие с Микасом.<end>
+Вы вернулись. В ходе расследования мы установили, основываясь на калибре, угле выстрела и т. д., что винтовка, которую вы дали мне, действительно была использована для убийства Боливара Дауда. У нас нет доказательств того, что стрелял Тодор, на винтовке не было отпечатков пальцев и каких-либо других улик. Мы также не смогли связать оружие с Микасом.<end>
 
 =>q3_original
 Still, due to the lack of evidence, as well as your involvement in the case, Todor Sallywatch is now a free man.<end>
@@ -86,7 +86,7 @@ They were on a patrol and their tunneler broke down. They'll leave as soon as th
 Broke down? I hope you didn't believe that, $(context.player.Name). This worries me to a degree, but then again, they weren't hostile to you. I'll instruct my men to be on their guard in any case. You did your work well. Here's your reward. ::He hands you 100 stygian coins.::<end>
 
 =>q15
-Сломался? Я надеюсь, вы сами не поверили в это, $(context.player.Name). Это меня беспокоит меня, но, с другой стороны, они не были враждебно настроены к вам. Я поручу своим людям быть настороже. Вы хорошо справились. Вот ваша награда. ::Он даёт вам 100 стигийских монет.::<end>
+Сломался? Я надеюсь, вы сами в это не поверили, $(context.player.Name)? Это меня беспокоит меня, но с другой стороны, они не были враждебно настроены к вам. Я поручу своим людям быть настороже. Вы хорошо справились. Вот ваша награда. ::Он даёт вам 100 стигийских монет.::<end>
 
 =>a16_original
 They are planning a massive invasion on Foundry. This group is on a reconnaissance mission to test Foundry's defenses!<end>
@@ -260,7 +260,7 @@ Some, like, dude or chick who ain't Todor shot Bolivar with this rifle. In the h
 ::The chief stares at you, evidently irritated by your response.:: I would like you to be serious now. Give me a proper explanation or stop bothering me.<end>
 
 =>q44
-::Шеф смотрит на вас, очевидно, раздражённый вашим ответом.:: Прошу вас, будьте серьёзны. Объясните всё как следует или прекратите действовать мне на нервы.<end>
+::Шеф смотрит на вас, очевидно раздражённый вашим ответом.:: Прошу вас, будьте серьёзны. Объясните всё как следует или прекратите действовать мне на нервы.<end>
 
 =>a45_original
 I need to do some more investigating.<end>
@@ -316,7 +316,7 @@ I think I've proven to you that I can be trusted. I want to help with the Daud m
 That is correct, $(context.player.Name). I see you are interested in this case and I will not say no to a helping hand. I still have to get to this case, the reason for this being is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
 
 =>q52
-Это так, $(context.player.Name). Я вижу, что вы заинтересованы в этом деле и я не стану отталкивать руку помощи. Я отложил это дело пока что, потому что мы ещё не нашли орудие убийства. Если вам удастся найти его или любые другие улики, дело сдвинется, и мы сможем скорее освободить его.<end>
+Это так, $(context.player.Name). Я вижу, что вы заинтересованы в этом деле, и я не стану отталкивать руку помощи. Я отложил это дело пока что, потому что мы ещё не нашли орудие убийства. Если вам удастся найти его или любые другие улики, дело сдвинется, и мы сможем скорее освободить его.<end>
 
 =>a53_original
 I already have what I believe is the murder weapon.<end>
@@ -364,7 +364,7 @@ Let's hear it.<end>
 Very good. You are, I presume, familiar with the Ironheads, one of the largest gangs in Lower Underrail. Well, one of their clans is causing a lot of trouble to Foundry and the whole region. These scum - and that is what they are - are being led by a man who calls himself Balor, a man known for two things: his immense physical strength and a sinister red cybernetic eye. And unfortunately for us, I suppose his successful leadership can be added to that list.<end>
 
 =>q60
-Отлично. Вы, я полагаю, знаете о Железноголовых -- одной из крупнейших банд в Нижней Подземке. Так вот, один из их кланов доставляет много проблем для Литейной и всего региона. Этими подонками, именно подонками, руководит некто, называющий себя Бэйлор -- человек, известным двумя вещами: своей огромной физической силой и зловещим красным кибернетическим глазом. И, к сожалению для нас, я полагаю, успешное лидерство может быть добавлено в этот список.<end>
+Отлично. Вы, я полагаю, слышали о Железноголовых -- одной из крупнейших банд в Нижней Подземке? Так вот, один из их кланов доставляет много проблем для Литейной и всего региона. Этими подонками -- именно подонками -- руководит некто, называющий себя Бэйлор -- человек, известным двумя вещами: своей огромной физической силой и зловещим красным кибернетическим глазом. И к сожалению для нас, я полагаю, успешное лидерство может быть добавлено в этот список.<end>
 
 =>q61_original
 We - Foundry - have placed a bounty on his head for *one* *thousand* charons. If you can bring me his eye as proof, the money's all yours.<end>
@@ -406,7 +406,7 @@ Very good. Best of luck. And remember - bring me his eye as proof.<end>
 ::He smiles briefly.:: Pure gold. I see you ran into him already, and I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for everyone but them. ::He hands you 1000 stygian coins.::<end>
 
 =>q67
-::Он коротко улыбается.:: Чистое золото. Вижу, вы уже успели с ним столкнуться, и я очень рад, что вы сумели справиться с такой сложной задачей. Теперь, когда он мёртв, мы подождём и посмотрим, что будет с Железноголовыми. Я ожидаю благоприятного исхода, благоприятного для нас. ::Он даёт вам 1000 стигийских монет.::<end>
+::Он коротко улыбается.:: Чистое золото. Вижу, вы уже успели с ним столкнуться, и я очень рад, что вы сумели справиться с такой сложной задачей. Теперь, когда он мёртв, мы подождём и посмотрим, что будет с Железноголовыми. Я ожидаю благоприятного исхода -- благоприятного для нас. ::Он даёт вам 1000 стигийских монет.::<end>
 
 =>q68_original
 You earned this. Well done.<end>
@@ -424,7 +424,7 @@ What else can you tell me about this Balor guy and where I can find him?<end>
 Not much is known about Balor. Some say that he is over two meters tall, some that he can snap a rathound's spine in two with *one* hand, and some even reported him flinging broken-off stalagmites at his enemies. A boss, to use a colloquial expression. Of course, some of these claims are outrageous, but one seems consistent: He is more often than not described as wielding a sledgehammer so heavy only he is able to lift it. As one story goes, he even offered one disarmed train guard the chance to use the hammer against him, but the fellow might as well have been trying to raise a boulder.<end>
 
 =>q70
-Не так много известно о Бэйлоре. Некоторые говорят, что он за два метра ростом, некоторые, что он может переломить крысоволка пополам одной рукой, а некоторые даже утверждают, что он бросается во врагов отломанными сталагмитами. Настоящий босс, так сказать. Конечно, многие из этих утверждений являются выдумками, но одно похоже на правду: почти все свидетели утверждают, что он орудует кувалдой, такой тяжёлой, что только он способен поднять её. Говорят, он даже предложил однажды захваченному охраннику поезда шанс использовать эту кувалду против него, но парень с тем же успехом мог бы пытаться поднять валун.<end>
+Не так много известно о Бэйлоре. Некоторые говорят, что он за два метра ростом, некоторые -- что он может переломить крысоволка пополам одной рукой, а некоторые даже утверждают, что он бросается во врагов отломанными сталагмитами. Настоящий босс, так сказать. Конечно, многие из этих утверждений являются выдумками, но одно похоже на правду: почти все свидетели утверждают, что он орудует кувалдой такой тяжёлой, что только он способен поднять её. Говорят, Бэйлор даже предложил однажды захваченному охраннику поезда шанс использовать эту кувалду против него, но парень с тем же успехом мог бы пытаться поднять валун.<end>
 
 =>q71_original
 As for where to find him, his clan is situated in Warehouse Block Beta, south of Foundry. The Ironhead activity in that area is quite heavy, and all of the recent attacks came from that direction. If Balor is really there, he has some of the best security in South Underrail.<end>
@@ -472,7 +472,7 @@ I have his eye right here. ::Give him the eye.::<end>
 ::He smiles briefly.:: Pure gold. I am more than glad to see you have managed to accomplish such a difficult task. Now that he is dead, we need only wait and see what happens with the Ironheads. I am expecting a favorable outcome, favorable for us. ::He hands you 1000 stygian coins.::<end>
 
 =>q78
-::Он коротко улыбается.:: Чистое золото. Я очень рад видеть, что вы сумели справиться с такой сложной задачей. Теперь, когда он мёртв, мы подождём и посмотрим, что будет с Железноголовыми. Я ожидаю благоприятного исхода, благоприятного для нас. ::Он даёт вам 1000 стигийских монет.::<end>
+::Он коротко улыбается.:: Чистое золото. Я очень рад видеть, что вы сумели справиться с такой сложной задачей. Теперь, когда он мёртв, мы подождём и посмотрим, что будет с Железноголовыми. Я ожидаю благоприятного исхода -- благоприятного для нас. ::Он даёт вам 1000 стигийских монет.::<end>
 
 =>a79_original
 What can you tell me about these Ironheads?<end>
@@ -484,7 +484,7 @@ What can you tell me about these Ironheads?<end>
 They are the best organized gang in Lower Underrail. While technically composed of multiple different clans, their cooperation and common interests clearly make them a part of a bigger whole. They have been increasingly more difficult to repel in the recent years: Previously, they were but a nuisance, not much different than other lowlifes roaming the metro. But steadily, they have grown in size and power. They are intercepting travelers and merchants near stations, attacking heavily-protected convoys and have, in general, grown more bold and - dare I say - more cunning.<end>
 
 =>q80
-Они -- самая организованная банда в Нижней Подземке. Хотя, по сути, они состоят из многочисленных разных кланов, сотрудничество и общие интересы, очевидно, делают их частью большего целого. В последние годы нам всё труднее давать им отпор: раньше они были только помехой, не сильно отличались от остальных подонков, населяющих по метро. Но постепенно они выросли в размере и силе. Они перехватывают путников и торговцев возле станций, нападают на хорошо охраняемые конвои и вообще стали сильнее и, осмелюсь сказать, умнее.<end>
+Они -- самая организованная банда в Нижней Подземке. Хотя, по сути, они состоят из многочисленных разных кланов, сотрудничество и общие интересы, очевидно, делают их частью большего целого. В последние годы нам всё труднее давать им отпор: раньше они были только помехой, не сильно отличались от остальных подонков, населяющих метро. Но постепенно они выросли в размере и силе. Они перехватывают путников и торговцев возле станций, нападают на хорошо охраняемые конвои и вообще стали сильнее и, осмелюсь сказать, умнее.<end>
 
 =>q81_original
 We have more than enough firepower for them to even think about attacking the station itself, but the areas near Foundry, those are difficult to protect effectively.<end>
@@ -604,13 +604,13 @@ You can try, but I am certain that will not acomplish anything.<end>
 Well, thanks a lot!<end>
 
 =>a100
-Хорошо, спасибо большое!<end>
+Что ж, спасибо большое!<end>
 
 =>q101_original
 ::He stares at you, and responds after a few seconds.:: That is the current situation. We're not discussing this any further.<end>
 
 =>q101
-::Он смотрит на вас и отвечает через несколько секунд.:: Такова текущая ситуация. Это не обсуждается.<end>
+::Он смотрит на вас и отвечает не сразу: ::Такова текущая ситуация. Это не обсуждается.<end>
 
 =>a102_original
 I recently found out that the Institute of Tchort commisions Foundry to make metal figurines for them.<end>
@@ -640,7 +640,7 @@ What do you know about this Institute?<end>
 ::He thinks for a second, then replies.:: I really couldn't tell you anything meaningful. I've only heard of the name and that is all I know.<end>
 
 =>q106
-::Он задумывается на секунду, затем отвечает.:: Я действительно не могу сказать вам ничего полезного. Я слышал только имя и это всё, что я знаю.<end>
+::Он задумывается на секунду.:: Я действительно не могу сказать вам ничего полезного. Я слышал только имя и это всё, что я знаю.<end>
 
 =>a107_original
 What do you know about the mine creatures?<end>
@@ -682,7 +682,7 @@ Not that we have that many crime investigations in Foundry - as this is a safe s
 I'd like to talk about Evelyn Ingram.<end>
 
 =>a113
-Я бы хотел$(#/а) бы поговорить об Эвелин Ингрэм.<end>
+Я хотел$(#/а) бы поговорить об Эвелин Ингрэм.<end>
 
 =>q114_original
 ::He pauses for a moment.:: Yes? What about her?<end>
@@ -702,7 +702,7 @@ I've found evidence that she's a murderer. Take a look at this. ::Give him the f
 This is serious. We've had some people gone missing lately but most of these disappearances were attributed to creatures from the mine. I'll send a few men to her home at once. Is there anything else I need to know?<end>
 
 =>q116
-::Шеф тщательно изучает файлы. Вам приходится немного подождать, но вскоре он обращается к вам.:: 
+::Шеф тщательно изучает файлы. Вам приходится немного подождать, но вскоре он обращается к вам: :: 
 
 Это серьёзно. В последнее время у нас пропало несколько человек, но это приписывали тварям из шахты. Я немедленно отправлю людей к ней домой. Что-нибудь ещё, что мне нужно знать?<end>
 
@@ -710,7 +710,7 @@ This is serious. We've had some people gone missing lately but most of these dis
 She's dead. I had to kill her in self defence.<end>
 
 =>a117
-Она мертва. Мне пришлось убить её в целях самообороны.<end>
+Она мертва. Мне пришлось убить её в порядке самообороны.<end>
 
 =>q118_original
 I'll send some men to see what's going on. You wait here with me.<end>
@@ -770,7 +770,7 @@ You do know we're talking about Evelyn Ingram, wife of the previous chief of the
 I'm serious. I had to kill her in self defence!<end>
 
 =>a127
-Это правда. Мне пришлось убить её в целях самообороны!<end>
+Это правда. Мне пришлось убить её в порядке самообороны!<end>
 
 =>q128_original
 I see. I'll send a few men to her home at once. You wait here with me.<end>
@@ -812,7 +812,7 @@ Can you tell me something about Foundry?<end>
 I suppose I can. Foundry is a proud mining community that, thanks to a mine rich in different metals - predominantly iron - has a strong strategic position in Lower Underrail. It might seem like I'm boasting, but the Foundry Guard is above any station force you'll see. We have trained and well-equipped men, ready to swiftly deal with any and all threats. <end>
 
 =>q134
-Почему бы и нет. Литейная -- это гордая шахтёрская станция, занимающая сильную стратегическую позицию в Нижней Подземке, благодаря шахте, богатой разными металлами -- преимущественно, железом. Может показаться, что я хвастаюсь, но Стража Литейной -- это лучшая вооружённая сила среди всех станций. Наши люди превосходно обучены и экипированы и готовы справиться с любыми угрозами. <end>
+Почему бы и нет. Литейная -- это гордая шахтёрская станция, занимающая сильную стратегическую позицию в Нижней Подземке, благодаря шахте, богатой разными металлами -- преимущественно железом. Может показаться, что я хвастаюсь, но Стража Литейной -- это лучшая вооружённая сила среди всех станций. Наши люди превосходно обучены и экипированы и готовы справиться с любыми угрозами. <end>
 
 =>q135_original
 Unfortunately, the only thing the Foundry Guard cannot combat is the foul air, but that is an issue we are working on mitigating.<end>
