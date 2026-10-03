@@ -22,7 +22,7 @@ Feels real quiet without Gorsky.<end>
 A dumb, reckless, derailed man, but a man none the less.<end>
 
 =>q4
-::Он качает головой.:: Это отстой. Полный отстой. Я думал, мы вернулись. Что мы снова будем заниматься своими делами, будем... будем командой. Горский, ну ты и сволочь. По крайней мере, ты дрался как мужик.
+::Он качает головой.:: Это отстой. Полный отстой. Я думал, мы вернулись. Что мы снова будем себе хозяева, будем... будем командой. Горский, ну ты и сволочь. По крайней мере, ты дрался как мужик.
 
 Тупой, безрассудный, поехавший, но всё же мужик.<end>
 
@@ -42,7 +42,7 @@ Well, ain't life full or surprises.<end>
 At least that Sneaky girl is alive so I have someone to decipher this new Core City lingo. Damn it, things are so different now. I'm gonna need some time to adjust to things. <end>
 
 =>q7
-По крайней мере, Змейка жива, а значит, у меня есть человек, способный перевести этот сленг Кор-Сити. Проклятье, нынче всё совсем по-другому. Мне нужно какое-то время, чтобы привыкнуть. <end>
+По крайней мере, Змейка жива, а значит, у меня есть человек, способный перевести этот новый сленг Кор-Сити. Проклятье, нынче всё совсем по-другому. Мне нужно какое-то время, чтобы привыкнуть. <end>
 
 =>a8_original
 So, how does a reunion with Gorsky feel?<end>
@@ -54,19 +54,19 @@ So, how does a reunion with Gorsky feel?<end>
 I haven't seen that bastard in years. We can't stop talking. Babbling away like a pair of old hags. Hell yeah, it feels good to kill those damn Crawlers again... and do it together with mister death machine.<end>
 
 =>q9
-Я не видел этого засранца несколько лет. Мы не можем наговориться. Болтаем, как две старухи. Здорово было снова пострелять этих драных краулеров... плечом к плечу с мистером машиной смерти.<end>
+Я не видел этого засранца несколько лет. Мы не можем наговориться. Болтаем, как две старухи. Здорово было снова пострелять этих драных Краулеров... плечом к плечу с мистером машиной смерти.<end>
 
 =>q10_original
 I feel bad about that Sneaky girl dying, though. Hell, she fought bravely.<end>
 
 =>q10
-Я переживаю, что эту девочку, Змейку, убили. Блин, она храбро сражалась.<end>
+Я переживаю, что эту девочку, Змейку, убили. Да, она храбро сражалась.<end>
 
 =>q11_original
 With Sneaky and her Zone Rats still beside us, we're going to... How do they say it now? Dominate! I like the sound of that, even though I have some trouble deciphering the new Core City lingo. Whatever happened to phrases like "to cook it black" or "grind munching"? Oh, well, things are bound to change.<end>
 
 =>q11
-Мы со Змейкой и её Крысами Зоны собираемся... как это сейчас называется? Доминировать! Я ещё не знаю всех этих новых городских словечек, но мне нравится как это звучит. Куда делось «жарить по-чёрному» или «жевать гравий»? Ну что ж, всё меняется.<end>
+Мы со Змейкой и её Крысами Зоны будем... как это сейчас называется? Доминировать! Я ещё не знаю всех этих новых городских словечек, но мне нравится как это звучит. Куда делось «жарить по-чёрному» или «жевать гравий»? Ну что ж, всё меняется.<end>
 
 =>a12_original
 How does it feel to be back in Core City?<end>
@@ -138,13 +138,13 @@ It's time to annihilate those prickly bastards.<end>
 Listen, $(#man/girl), remember when you asked me to tell you something about Foundry? Well, I just remembered something interesting: if you need some military grade weapons, go find a guy called Kevin. He's one of the guard overseers who earns his "bonus" by illegally selling guns. Whoops! It's not a secret anymore! Well damn, better go and bug him about it. You'll find him close to the bar, near the south entrance.<end>
 
 =>q23
-Слушай, помнишь, как ты просил$(#/а) меня рассказать о Литейной? Так вот, я только что вспомнил кое-что интересное: если тебе нужно боевое оружие, найди парня по имени Кевин. Он один из старших Стражей и зарабатывает себе «надбавку», продавая оружие налево. Упс! Больше это не секрет! Теперь можешь идти и приставать к нему. Найдёшь его недалеко от бара, возле южного входа.<end>
+Слушай, помнишь, как ты просил$(#/а) меня рассказать о Литейной? Так вот, я только что вспомнил кое-что интересное: если тебе нужно боевое оружие, найди парня по имени Кевин. Он один из старших стражей и зарабатывает себе «надбавку», продавая оружие налево. Упс! Больше это не секрет! Теперь можешь идти и приставать к нему. Найдёшь его недалеко от бара, возле южного входа.<end>
 
 =>q24_original
 ::He mumbles to himself.:: Stupid jerk, telling me I can't shoot barrels in the residential area...<end>
 
 =>q24
-::Он что-то бормочет про себя.:: Тупой придурок, будет ещё указывать, где мне стрелять по бочкам...<end>
+::Он бормочет про себя: ::Тупой придурок, будет ещё указывать, где мне стрелять по бочкам...<end>
 
 =>q25_original
 <end>
@@ -162,7 +162,7 @@ You seem pretty laid back in comparison to the other guards.<end>
 ::He chuckles.:: You got me there! It might surprise you, but being a guard in Foundry is a very, *very* boring job. You gotta stand around all day, breathe this damn polluted air, and worst of all - you have to be nice to people! It sucks. I just wanna shoot things, it's that simple. The outer perimeter patrols at least get to fight something, but in here... absolutely nothing interesting happens.<end>
 
 =>q27
-::Он хихикает.:: Это ты точно подметил$(#/а)! Хочешь верь, хочешь нет, но у Стражи Литейной очень, *очень* скучная работа. Стоишь тут весь день, дышишь этим сраным вонючим воздухом, и, хуже всего -- никому нельзя даже в морду дать! Полный отстой. Было бы во что пострелять хотя бы. Патрули внешнего периметра, по крайней мере, с кем-то иногда дерутся, а здесь... не происходит абсолютно ничего интересного.<end>
+::Он хихикает.:: Это ты точно подметил$(#/а)! Хочешь верь, хочешь нет, но у Стражи Литейной очень, *очень* скучная работа. Стоишь тут весь день, дышишь этим сраным вонючим воздухом, и хуже всего -- никому нельзя даже в морду дать! Полный отстой. Было бы во что пострелять хотя бы. Патрули внешнего периметра, по крайней мере, с кем-то иногда дерутся, а здесь... не происходит абсолютно ничего интересного.<end>
 
 =>a28_original
 What about all those creatures that attacked the miners?<end>
@@ -198,7 +198,7 @@ What do you mean by a "large beast"?<end>
 You see, everybody's heard of the smaller creatures, the ones that look kinda like spiky rocks with four legs and an ugly snout. Well, those things got a bigger, badder brother that's so heavily armored it makes our guns feel like toys. The damn thing is completely impervious to bullets! Now everyone and their mother is wetting their pants. And the higher-up's are taking their sweet time in discussing what to do next. Hoppers!<end>
 
 =>q33
-Дело такое: все слышали про небольших гадов, которые выглядят вроде как шипастые камни с четырьмя ногами и уродливым рылом. И у них есть старший злобный брат, который так хорошо бронирован, что ему наши пули как об стенку. Эта хреновина полностью неуязвима для пуль! Теперь все намочили штанишки... а боссы никуда не торопятся, обсуждают, что делать дальше. Пещерники!<end>
+Дело такое: все слышали про небольших гадов, которые выглядят вроде как шипастые камни с четырьмя ногами и уродливым рылом. Так вот, у них есть злобный старший брат, который так хорошо бронирован, что ему наши пули как об стенку. Эта хреновина полностью неуязвима для пуль! Теперь все намочили штанишки... а боссы никуда не торопятся, обсуждают, что делать дальше. Пещерники!<end>
 
 =>q34_original
 Back in my day, my pals and me would take on *anything*! Men, beast or both - we had the freakin' guts. You know - don't think, just jump in the fight. But these guys in Foundry - hoppers. Hoppers, I tell ya!<end>
@@ -222,7 +222,7 @@ Yeah, I've heard a few things about that beast. Can you tell me more about it?<e
 ::He looks around then leans closer.:: You see, we're not allowed to talk about all this stuff publicly, but since I don't really care about the rules *and* 'cause I'm freakin' bored as hell, here goes...<end>
 
 =>q37
-::Он осматривается по сторонам, затем наклоняется ближе.:: Но никто не знает про этот маленький забавный факт. Видишь ли, вообще-то, нам нельзя говорить о таких вещах, но я срал на правила я умираю от скуки и пусть всё катится в ад...<end>
+::Он осматривается по сторонам, затем наклоняется ближе.:: Но никто не знает про этот маленький забавный факт. Видишь ли, вообще-то, нам нельзя говорить о таких вещах, но я срал на правила, я умираю от скуки, и пусть всё катится в ад...<end>
 
 =>a38_original
 I've already spoken to the mayor and know everything about the Beast already.<end>
@@ -246,7 +246,7 @@ I saw that creature with my very own eyes.<end>
 You went in there while the whole Foundry Guard is wetting their pants at the very mention of it? Wow! Let me say that again: Wow! So, is it really like a bigger, "slightly" more invulnerable version of the smaller ones?<end>
 
 =>q41
-Ты ходил$(#/а) туда, в то время как вся Стража Литейной пачкает штаны при одном только упоминании о нём? Ого! Позволь мне ещё повторить: Ого! Ну так, что, это действительно более крупная, «слегка» более неуязвимая версия тех, что помельче?<end>
+Ты ходил$(#/а) туда, в то время как вся Стража Литейной пачкает штаны при одном только упоминании о нём? Ого! Позволь мне ещё повторить: Ого! Ну так что, это действительно более крупная, «слегка» более неуязвимая версия тех, что помельче?<end>
 
 =>a42_original
 Pretty much.<end>
@@ -282,7 +282,7 @@ No one called you to fight the mine creatures?<end>
 Actually - no! Can you *freakin'* believe it? <end>
 
 =>q47
-Представь себе, нет! Можешь поверить в такую херню? <end>
+Представь себе, нет! Можешь в такое поверить? <end>
 
 =>a48_original
 How do you feel now that the mine has been reopened?<end>
@@ -446,7 +446,7 @@ You really hate Foundry, don't you?<end>
 You can tell? Thought it was... *subtle*. ::He laughs.:: It just got damn boring here, you know. Plain and simple. But this - this is gonna rock!<end>
 
 =>q73
-А что, заметно? Я-то думал, что... *не палюсь*. ::Он смеётся.:: Знаешь, здесь стало чертовски скучно. Вот и всё. Но скоро... скоро начнётся рок-н-ролл!<end>
+А что, заметно? Я-то думал, что... *не палюсь*. ::Он смеётся.:: Знаешь, здесь стало скучно как в могиле. Вот и всё. Но скоро... скоро начнётся рок-н-ролл!<end>
 
 =>a74_original
 Do I look like I'm kidding?<end>
@@ -464,7 +464,7 @@ Well, it definitely beats listening to that jerk, Marshall, babbling about how *
 You mentioned some pals of yours...<end>
 
 =>a76
-Ты говорил о каких-то приятелях.<end>
+Ты упомянул каких-то старых приятелей?<end>
 
 =>q77_original
 Yeah, well, back in the day I used to be a part of some bandit gang from Core City. Hey, life was tough: A man's gotta make a living somehow, and if that includes relieving people of excess charons... then, well... Anyway, we were all very young and fearless; we had the guts to fight anything and anyone. Unfortunately, many of us got killed because we had more guts than brains, but I miss that mentality. It was fun.<end>
@@ -476,13 +476,13 @@ Yeah, well, back in the day I used to be a part of some bandit gang from Core Ci
 Well, you seem to have done better than the others.<end>
 
 =>a78
-Похоже на то, что у тебя дела были получше, чем у других.<end>
+Похоже на то, что у тебя дела шли получше, чем у других.<end>
 
 =>q79_original
 Yeah, but if it wasn't for my best friend I'd probably be decomposing in some ditch by now. Him and I... me... I, we used to be so close, like... erm... eyeballs. Bad comparison, sorry. The point is: We were very close, and we got into so much trouble together. Thankfully, we always pulled through.<end>
 
 =>q79
-Да, но если бы не мой лучший друг, я бы, вероятно, догнивал бы сейчас в какой-нибудь канаве. Он и я... мы... были очень близки, как... э-э... как глаза. Неудачное сравнение, извини. Суть в том, что мы были очень близки, и мы вместе через многое прошли. К счастью, нам всегда удавалось выкарабкаться.<end>
+Да, но если бы не мой лучший друг, я, вероятно, догнивал бы сейчас в какой-нибудь канаве. Он и я... мы... были очень близки, как... э-э... как глаза. Неудачное сравнение, извини. Суть в том, что мы были очень близки, и мы вместе через многое прошли. К счастью, нам всегда удавалось выкарабкаться.<end>
 
 =>a80_original
 Who is this man?<end>
@@ -518,13 +518,13 @@ From what you told me I'd say he hasn't changed one bit.<end>
 ::He laughs.:: I'm so glad that man hasn't changed, he used to be a beast. You know what, when you see him again, tell him Dan Forte said hi.<end>
 
 =>q85
-::Он смеётся.:: Я так рад, что он не изменился, он раньше был зверюга. Знаешь, что, когда увидишь его снова, скажи ему, что Дэн Форте передавал привет.<end>
+::Он смеётся.:: Я так рад, что он не изменился, он раньше был зверюга. Знаешь что -- когда увидишь его снова, скажи ему, что Дэн Форте передавал привет.<end>
 
 =>q86_original
 He'll recognize the name right away, unless his memory went to hell after all these years. But, nah, even if it did he wouldn't forget his old pal.<end>
 
 =>q86
-Он узнает имя сразу, если только после всех этих лет ему память не отшибло. Да не, даже так, он не забыл бы своего старого приятеля.<end>
+Он узнает имя сразу, если только после всех этих лет ему память не отшибло. Да нет, даже так он не забыл бы своего старого приятеля.<end>
 
 =>a87_original
 I know him as a soft and gentle fella.<end>
@@ -576,7 +576,7 @@ That sounds pretty reckless.<end>
 In a way, yeah. But in our world you never had much time to think about these things. Also, it was really fun. Now that I think of it, if it wasn't for my best friend I'd probably be decomposing in some ditch by now. Him and me, we used to be so close, like... erm... eyeballs. Bad comparison, sorry. The point is: We were very close, and we got into so much trouble together. Thankfully, we always pulled through.<end>
 
 =>q94
-В некотором смысле, да. Но в то время нам некогда было задумываться о таких вещах. Ещё было очень весело. Если подумать, если бы не мой лучший друг, я бы, вероятно, догнивал бы сейчас в какой-нибудь канаве. Он и я... мы... были очень близки, как... э-э... как глаза. Неудачное сравнение, извини. Суть в том, что мы были очень близки, и мы вместе через много прошли. К счастью, нам всегда удавалось выкарабкаться.<end>
+В некотором смысле, да. Но в то время нам некогда было задумываться о таких вещах. А ещё было очень весело. Если подумать, если бы не мой лучший друг, я, вероятно, догнивал бы сейчас в какой-нибудь канаве. Он и я... мы... были очень близки, как... э-э... как глаза. Неудачное сравнение, извини. Суть в том, что мы были очень близки, и мы вместе через много прошли. К счастью, нам всегда удавалось выкарабкаться.<end>
 
 =>a95_original
 Can you tell me an interesting story about you and Gorsky?<end>
@@ -612,7 +612,7 @@ As I already mentioned, Gorsky and I used to be a part of the same gang. Life wa
  First shots were instantly fired, and the very first one ended up blowing our point man's brain to smithereens, poor guy. All of us got behind cover, exchanged fire with them for a while and soon - only Gorsky and I remained breathing from our group.<end>
 
 =>q100
- Мгновенно раздались выстрелы, и нашему первому сразу вышибли мозги, бедняге. Мы все попрыгали в укрытие и начали с ними перестреливаться, и скоро остались только мы с Горским из всей группы.<end>
+Мгновенно раздались выстрелы, и нашему первому сразу вышибли мозги, бедняге. Мы все попрыгали в укрытие и начали с ними перестреливаться, и скоро остались только мы с Горским из всей группы.<end>
 
 =>q101_original
 Bullets were flying all over the place, grenades exploded around us - it was pure chaos. A dozen of those damn Crawlers were still alive, and they were slowly approaching our position. They started to surround us, and to make things worse - we were running low on ammo. That's when Gorsky got mad. Oh, you should have seen that angry face. ::He laughs.:: He took his last grenade, threw it in their general direction, and then charged them.
@@ -620,7 +620,7 @@ Bullets were flying all over the place, grenades exploded around us - it was pur
 They couldn't believe what they were witnessing. He had this maniacal grin that would scare a Lurker into becoming a fungivore, and started mowing down our enemies.<end>
 
 =>q101
-Пули летали повсюду, гранаты взрывались вокруг нас -- это был чистый хаос. Оставалась ещё дюжина этих проклятых Краулеров, которые постепенно приближались к нашим позициям. Они начали окружать нас и, плюс ко всему, у нас заканчивались патроны. Вот тогда Горский разозлился. Ох, видел$(#/а) бы ты его лицо. ::Смеётся.:: Он взял последнюю гранату, бросил её в их сторону, и сам побежал в атаку.
+Пули летали повсюду, гранаты взрывались вокруг нас -- это был чистый хаос. Оставалась ещё дюжина этих проклятых Краулеров, которые постепенно приближались к нашим позициям. Они начали окружать нас, и плюс ко всему, у нас заканчивались патроны. Вот тогда Горский разозлился. Ох, видел$(#/а) бы ты его лицо. ::Смеётся.:: Он взял последнюю гранату, бросил её в их сторону, и сам побежал в атаку.
 
 Краулеры не могли поверить своим глазам. Горский как маньяк, от вида которого скрытень стал бы грибоедом, начал выкашивать наших врагов.<end>
 
@@ -630,13 +630,13 @@ Of course, I just couldn't let him have *all* the damn fun. I stormed them too, 
 That guy ended up being the only son of the Crawlers' leader, and his death would later cause us a lot of trouble. But that's a whole different story...<end>
 
 =>q102
-Конечно, я не мог ему позволить веселиться одному. Я тоже выскочил, и вместе мы начали истреблять *всё*, что движется. Я заорал и выпустил весь магазин в этих несчастных придурков. Просто тра-та-та-та-та! Ну, короче, скоро у Горского кончились патроны, но это его не остановило. Он их бил, резал, орал, пока не нашёл последнего жалкого чувака, который прятался в укрытии. Выбил ему зубы прикладом, патронов-то не было, а потом перерезал ему горло ножом.Потом выяснилось, что этот чувак был единственным сыном главаря краулеров, и из-за его смерти у нас впоследствии были крупные неприятности. Но это уже совсем другая история...<end>
+Конечно, я не мог ему позволить веселиться одному. Я тоже выскочил, и вместе мы начали истреблять *всё*, что движется. Я заорал и выпустил весь магазин в этих несчастных придурков. Просто тра-та-та-та-та! Ну, короче, скоро у Горского кончились патроны, но это его не остановило. Он их бил, резал, орал, пока не нашёл последнего жалкого чувака, который прятался в укрытии. Выбил ему зубы прикладом -- патронов-то не было, -- а потом перерезал ему горло ножом. Потом выяснилось, что этот чувак был единственным сыном главаря Краулеров, и из-за его смерти у нас впоследствии были крупные неприятности. Но это уже совсем другая история...<end>
 
 =>q103_original
 All in all, soon after I fired my last shot, I heard the last Crawler release his dying groan. After a moment, once we realized that it was indeed all over, Gorsky approached me, still breathing heavily, all covered in blood. Then he said - I remember it clearly - he said, "We need to bring more bloody bullets next time." ::You barely make out the last part of the sentence due to him bursting out in laughter.:: Oh, man. It was all so crazy; to this day I have no idea how we survived against such slim odds. Well, just the two of us at least.<end>
 
 =>q103
-Короче говоря, когда я выстрелил последний патрон и услышал последний вздох последнего краулера, мы вдруг поняли, что всё уже кончено. Горский подходит ко мне, всё ещё тяжело дыша, весь в крови. И говорит -- я это ясно помню -- он говорит: «В следующий раз надо взять до хрена больше патронов». ::Вы с трудом понимаете последнюю часть фразы, потому что его разбирает хохот.:: Ох, блин. Это было какое-то безумие; и посейчас я не знаю, как мы выстояли против такой толпы. Ну, двое из нас.<end>
+Короче говоря, когда я выстрелил последний патрон и услышал последний вздох последнего Краулера, мы вдруг поняли, что всё уже кончено. Горский подходит ко мне, всё ещё тяжело дыша, весь в крови. И говорит -- я это ясно помню, -- он говорит: «В следующий раз надо взять до хрена больше патронов». ::Вы с трудом понимаете последнюю часть фразы, потому что его разбирает хохот.:: Ох, блин. Это было какое-то безумие; и посейчас я не знаю, как мы выстояли против такой толпы. Ну, двое из нас.<end>
 
 =>a104_original
 Actually, I helped Gorsky fight the Black Crawlers in Core City.<end>
@@ -726,7 +726,7 @@ Look, friend, you better ask someone else to be your tour guide. My job is far t
 As you can probably see - I'm bored.<end>
 
 =>q118
-Как видишь, скучаю.<end>
+Как видишь, я тут помираю со скуки.<end>
 
 =>a119_original
 Where did you get that plasma sentry?<end>
@@ -744,7 +744,7 @@ The Foundry Guard recently recovered a couple of them from an old Biocorp facili
 Pitty it got destroyed. But, I think no one found out it was me who stole-- erm, I mean borrowed it.<end>
 
 =>q121
-Жаль, конечно, что его раздолбали. Но, я думаю, никто не знает, что это я его украл... то есть, одолжил.<end>
+Жаль, конечно, что его раздолбали. Но я думаю, никто не знает, что это я его украл... то есть одолжил.<end>
 
 =>q122_original
 I returned it just in time. No one even noticed it was gone. I'm good - damn good. Don't you agree? ::He laughs.::<end>
@@ -770,7 +770,7 @@ Hello there, friend.<end>
 Hey, $(#man/girl), how's it going?<end>
 
 =>q125
-::Вы видите мужчину, опирающегося на ржавое ограждение. Судя по его форме, это один из стражей Литейной, но в отличие от других, его «бдительные» глаза скорее оценивают проходящих мимо женщин, чем пытаются обнаружить признаки противоправного поведения. Заметив ваше приближение, он выпрямляется, оказавшись ростом выше среднего, и поднимает свою винтовку, которая была также прислонена к ограждению. Он приветствует вас дружелюбно, пусть и несколько фамильярно.::
+::Вы видите мужчину, опирающегося на ржавое ограждение. Судя по его форме, это один из стражей Литейной, но в отличие от других, его «бдительные» глаза скорее оценивают проходящих мимо женщин, чем пытаются обнаружить признаки противоправного поведения. Заметив ваше приближение, он выпрямляется, оказавшись ростом выше среднего, и поднимает свою винтовку, которая была также прислонена к ограждению. Он приветствует вас дружелюбно, пусть и несколько фамильярно: ::
 
 Привет, как дела?<end>
 
