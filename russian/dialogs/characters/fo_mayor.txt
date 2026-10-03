@@ -14,13 +14,13 @@ Ah, $(context.player.Name), good to see you. I have to apologize, but I'm busy a
 ::The mayor removes his respirator, clears his throat and begins his speech.:: Beloved citizens of Foundry, today we have gathered here to celebrate a great victory! As you all know by now, we've been troubled by vile creatures that terrorized us all, especially you - the working people! The backbone of Foundry! <end>
 
 =>q3
-::Мэр снимает респиратор, откашливается и начинает свою речь.:: Дорогие граждане Литейной, сегодня мы собрались здесь, чтобы отпраздновать великую победу! Как вы все уже знаете, в последнее время мы были очень обеспокоены нашествием мерзких тварей, которые особенно терроризировали вас, рабочие люди! Основу Литейной! <end>
+::Мэр снимает респиратор, откашливается и начинает свою речь: ::Дорогие граждане Литейной, сегодня мы собрались здесь, чтобы отпраздновать великую победу! Как вы все уже знаете, в последнее время мы были очень обеспокоены нашествием мерзких тварей, которые особенно терроризировали вас, рабочие люди! Основу Литейной! <end>
 
 =>q4_original
 We couldn't let it continue! We couldn't let you suffer any longer! We couldn't let those monsters tear down what you've made with your own hands! So the Foundry Guard took action and protected you! Let's hear one big round of applause for our beloved Chief Banner!<end>
 
 =>q4
-Мы не могли позволить этому продолжаться! Мы не могли оставить вас страдать! Мы не могли позволить этим монстрам снести то, что вы построили своими руками! Итак, Стража Литейной предприняла действия, чтобы защитить вас! Прошу, аплодисменты нашему любимому Шефу Баннеру!<end>
+Мы не могли позволить этому продолжаться! Мы не могли оставить вас страдать! Мы не могли разрешить этим монстрам снести то, что вы построили своими руками! Итак, Стража Литейной предприняла действия, чтобы защитить вас! Прошу, аплодисменты нашему любимому Шефу Баннеру!<end>
 
 =>q5_original
 ::The crowd cheers.::<end>
@@ -188,7 +188,7 @@ I apologize for disturbing you, but I need to ask you a couple of questions. Are
 Thus, the chief politely nods after having been introduced.::<end>
 
 =>q31
-::Шеф совершенно не похож на мэра, он и выше ростом и шире в плечах, с военной осанкой и взглядом человека, привыкшего командовать, что вы почувствовали сразу, войдя в комнату. Он выглядит намного спокойнее мэра, который по сравнению с ним просто сыплет искрами.
+::Шеф совершенно не похож на мэра, он и выше ростом, и шире в плечах, с военной осанкой и взглядом человека, привыкшего командовать, что вы почувствовали сразу, войдя в комнату. Он выглядит намного спокойнее мэра, который по сравнению с ним просто сыпет искрами.
 
 Шеф кивает вам в знак приветствия.::<end>
 
@@ -238,7 +238,7 @@ Yes? Got any useful information?<end>
 I've learned more about the Beast and how to defeat it.<end>
 
 =>a39
-Я узнал$(#/а) больше о Звере и том, как его победить.<end>
+Я узнал$(#/а) больше о Звере и о том, как его победить.<end>
 
 =>q40_original
 Oh? I'm all ears.<end>
@@ -262,7 +262,7 @@ Heat? Oh, I know what you're trying to say! You want to lure the creature inside
 What about the large smelting furnace near the mine? I was thinking of perhaps using it to kill the Beast.<end>
 
 =>a43
-Как насчёт большой плавильной печи возле входа в шахту? Может быть я смогу использовать её, чтобы убить Зверя.<end>
+Как насчёт большой плавильной печи возле входа в шахту? Может быть, я смогу использовать её, чтобы убить Зверя.<end>
 
 =>q44_original
 That piece of junk? Please, that thing's been causing us more harm than good lately. It's been drawing power like a train-load of coil spiders, and even caused a blackout in half of Foundry. Just recently it completely broke down, and we won't bother fixing it for now, if ever.<end>
@@ -286,7 +286,7 @@ Luring the Beast into Foundry would be a high-risk operation. The creature could
 Yes. Yes. That is what I was about to say. *And*, even if you can somehow lure it in, none of the working furnaces can produce temperatures of that magnitude, besides the smaller ones we use for melting chromium, but those are simply too small.<end>
 
 =>q47
-Да. Да. Именно это я хотел сказать. *И*, даже если вы каким-то образом заманите его, ни одна из работающих печей не может произвести температуру такой величины, кроме малых, которые мы используем для выплавки хрома, но эти просто слишком малы.<end>
+Да. Да. Именно это я хотел сказать. *И даже* если вы каким-то образом заманите его, ни одна из работающих печей не может произвести температуру такой величины, кроме малых, которые мы используем для выплавки хрома, но эти просто слишком малы.<end>
 
 =>q48_original
 ::The mayor takes a deep breath and regains his calm.:: Look, I'm, we are really thankful for your help. Really. But the plan you're proposing is just too risky; we need another way.<end>
@@ -304,7 +304,7 @@ Yes. Yes. That is what I was about to say. *And*, even if you can somehow lure i
 I was thinking of perhaps using that large smelting furnace near the mine to kill the Beast. I even have a way to lure it there.<end>
 
 =>a50
-Я подумываю использовать эту большую плавильную печь возле шахты, чтобы убить Зверя. Я даже знаю способ, как заманить его туда.<end>
+Я подумываю использовать ту большую плавильную печь возле шахты, чтобы убить Зверя. Я даже знаю способ, как заманить его туда.<end>
 
 =>a51_original
 And I even have a way to lure it there.<end>
@@ -394,7 +394,7 @@ Is there anything *important* you wanted to talk to me about?<end>
 What about the large smelting furnace near the mine? I was thinking of perhaps using it to kill the Beast.<end>
 
 =>a65
-Как насчёт большой плавильной печи возле входа в шахту? Может быть я смогу использовать её, чтобы убить Зверя.<end>
+Как насчёт большой плавильной печи возле входа в шахту? Может быть, я смогу использовать её, чтобы убить Зверя.<end>
 
 =>q66_original
 That piece of junk? Please, that thing's been causing us more harm than good lately. It's been drawing power like a train-load of coil spiders, and even caused a blackout in half of Foundry. Just recently it completely broke down, and we won't bother fixing it for now, if ever.<end>
@@ -418,25 +418,25 @@ I heard you have problems with some mine creatures. Is there anything I can do t
 Yes... Chief told me you are someone who can be trusted. As far as I understood, you were of great assistance in some important matters. Well and good. If you really are so keen on helping us, $(context.player.Name), then why not give you a chance. You do have... energy.<end>
 
 =>q69
-Шеф говорит, что вам можно доверять. С его слов мне известно, что вы оказали неоценимую помощь в отношении некоторых важных вопросов. Ну и хорошо. Если вы действительно так желаете помочь нам, $(context.player.Name), то почему бы не дать вам шанс. Энтузиазма вам не занимать.<end>
+Да... Шеф говорит, что вам можно доверять. С его слов мне известно, что вы оказали неоценимую помощь в отношении некоторых важных вопросов. Ну и хорошо. Если вы действительно так желаете помочь нам, $(context.player.Name), то почему бы не дать вам шанс. Энтузиазма вам не занимать.<end>
 
 =>q70_original
 Alright: As you know, unless you've been living in the most remote cave known... unknown to humanity, Foundry is the largest exporter of iron in Lower Underrail. What's even better is that our mine is rich not just with iron, but aluminum, titanium and, as of recently - chromium. We discovered large amounts of it several months ago, in the form of chromite ore.<end>
 
 =>q70
-Хорошо, как вы знаете, если только вы не живёте в самых отдалённых пещерах, известных... неизвестных человечеству, Литейная является крупнейшим экспортёром железа в Нижней Подземке. Более того, наша шахта богата не только железом, но и алюминием, титаном и, с недавнего времени, хромом. Несколько месяцев назад, мы обнаружили большие залежи хромитовых руд.<end>
+Хорошо, как вы знаете, если только вы не живёте в самых отдалённых пещерах, известных... неизвестных человечеству, Литейная является крупнейшим экспортёром железа в Нижней Подземке. Более того, наша шахта богата не только железом, но и алюминием, титаном и, с недавнего времени, хромом. Несколько месяцев назад мы обнаружили большие залежи хромитовых руд.<end>
 
 =>q71_original
 Needless to say, as soon as we discovered it, our miners began following the chromite veins. And so, a few weeks ago they mined into a new cavern - and encountered the very creatures you mentioned.<end>
 
 =>q71
-Разумеется, как только мы их обнаружили, наши шахтёры начали разработку хромитовых жил. Несколько недель назад, они открыли вход в пещеру, где и встретили тех самых созданий, которых вы упомянули.<end>
+Разумеется, как только мы их обнаружили, наши шахтёры начали разработку хромитовых жил. Несколько недель назад они открыли вход в пещеру, где и встретили тех самых созданий, которых вы упомянули.<end>
 
 =>q72_original
 What they saw there was unlike anything we have ever seen or even heard of before. These beings had shells made of rock, with metallic blades protruding from their backs. Yes, you heard me right. Shells made of *rock*. The creatures were aggressive and we had to bring in the Foundry Guard to deal with them. Now, those creatures, while resilient, were still no match for our brave troops. The true problem revealed itself when the guards encountered... the Beast.<end>
 
 =>q72
-Никто на Литейной прежде не видел и даже ничего не слышал о таких существах. Они имеют раковины из камня, с металлическими лезвиями, торчащими из спины. Да, вы не ослышались. Раковины из *камня*. Существа оказались агрессивны, и мы были вынуждены направить Стражу Литейной для борьбы с ними. Сами эти существа, несмотря на свою живучесть, оказались не ровня нашим солдатам. Истинная проблема проявилась, когда стражи обнаружили Зверя...<end>
+Никто на Литейной прежде не видел и даже ничего не слышал о таких существах. Они имеют раковины из камня с металлическими лезвиями, торчащими из спины. Да, вы не ослышались. Раковины из *камня*. Существа оказались агрессивны, и мы были вынуждены направить Стражу Литейной для борьбы с ними. Сами эти существа, несмотря на свою живучесть, оказались не ровня нашим солдатам. Истинная проблема проявилась, когда стражи обнаружили Зверя...<end>
 
 =>a73_original
 The Beast?<end>
@@ -526,7 +526,9 @@ Nearly. You might also want to speak to Marcos Banti. He is our mining superviso
 I believe we've gone through everything.<end>
 
 =>q86
-Почти. Вы также можете поговорить с Маркосом Банти. Он начальник шахты, и вы найдёте его у входа в шахту. Он уже сказал нам, что он против плана обрушить часть шахты взрывчаткой, но поговорите с ним ещё раз. Возможно, вы сможете выработать какое-то решение проблемы. Кажется, это всё.<end>
+Почти. Вы также можете поговорить с Маркосом Банти. Он начальник шахты, и вы найдёте его у входа в шахту. Он уже сказал нам, что он против плана обрушить часть шахты взрывчаткой, но поговорите с ним ещё раз. Возможно, вы сможете выработать какое-то решение проблемы.
+
+Кажется, это всё.<end>
 
 =>q87_original
 <end>
@@ -564,7 +566,9 @@ There's just one more thing: You might also want to speak to Marcos Banti. He is
 I believe we've went through everything.<end>
 
 =>q92
-Ещё одно: вы также можете поговорить с Маркосом Банти. Он начальник шахты, и вы найдёте его у входа в шахту. Он уже сказал нам, что он против плана обрушить часть шахты взрывчаткой, но поговорите с ним ещё раз. Возможно, вы сможете выработать какое-то решение проблемы. Кажется, это всё.<end>
+Ещё одно: вы также можете поговорить с Маркосом Банти. Он начальник шахты, и вы найдёте его у входа в шахту. Он уже сказал нам, что он против плана обрушить часть шахты взрывчаткой, но поговорите с ним ещё раз. Возможно, вы сможете выработать какое-то решение проблемы.
+
+Кажется, это всё.<end>
 
 =>q93_original
 Even though all entrances to the mine are heavily guarded, some people have still gone missing.<end>
@@ -726,7 +730,7 @@ I'm sorry, but if you really want to gain my trust, you're going to have to do m
 ::After carefully listening to you, he responds in an unexpectedly calm manner.:: If you really are so keen on helping us, $(context.player.Name), then why not give you a chance. You do have... energy.<end>
 
 =>q119
-::Он внимательно слушает ваши слова. Его ответ звучит неожиданно спокойно.:: Если вы действительно так желаете помочь нам, $(context.player.Name), то почему бы не дать вам шанс. Энтузиазма вам не занимать.<end>
+::Он внимательно слушает ваши слова. Его ответ звучит неожиданно спокойно: ::Если вы действительно так желаете помочь нам, $(context.player.Name), то почему бы не дать вам шанс. Энтузиазма вам не занимать.<end>
 
 =>q120_original
 ::He laughs.:: Not convinced. You really think you can deal with our problems. You? One $(#man/woman)?<end>
