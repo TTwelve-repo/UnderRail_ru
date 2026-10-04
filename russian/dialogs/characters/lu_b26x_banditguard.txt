@@ -46,7 +46,7 @@ You should have listened!<end>
 Beat it, punk!<end>
 
 =>q8
-::Мужчина наставляет на вас оружие. За этим следует резкое предупреждение, слегка приглушённое из-за одетого на нём противогаза.::
+::Мужчина наставляет на вас оружие. За этим следует резкое предупреждение, слегка приглушённое из-за одетого на нём противогаза: ::
 
 Пош$(#ёл/ла) отсюда, засран$(#ец/ка)!<end>
 
@@ -90,7 +90,7 @@ Talk to my boss? You *want* to talk to my boss? Well if you really *want* it... 
 ::He stares at you for a second before continuing.:: Look, he-he, I was only kidding about the lead thing. I see you have some, er, important business with the boss, so Imma let you through. But I can see you, so watch what you're doing. Dig?<end>
 
 =>q15
-::Он смотрит на вас пару мгновений.:: Слушай, хе-хе, я просто пошутил насчёт дырок. Я вижу, что у тебя есть какое-то, э-э, важное дело к боссу, так что я позволю тебе пройти. Но я слежу за тобой, так что подумай перед тем, как что-то сделать. Сечёшь?<end>
+::Он смотрит на вас пару мгновений.:: Слушай, хе-хе, я просто пошутил насчёт дырок. Я вижу, что у тебя есть какое-то, э-э, важное дело к боссу, так что я позволю тебе пройти. Но я слежу за тобой, так что думай перед тем, как что-то выкинуть. Сечёшь?<end>
 
 =>q16_original
 <end>
@@ -120,7 +120,7 @@ You think you can threaten me!? Eat lead, punk!<end>
 Yeah? Yeah... Now that I think about it - Imma... Imma let you through. But so you know: I've got my eyes on you - so watch what you're doing. Dig?<end>
 
 =>q20
-Да? Да... Если подумать... Ладно, ладно я дам тебе пройти. Только, чтобы ты знал$(#/а), я слежу за тобой, так что подумай перед тем, как что-то сделать. Сечёшь?<end>
+Да? Да... Если подумать... Ладно, ладно я дам тебе пройти. Только, чтобы ты знал$(#/а), я слежу за тобой, так что думай перед тем, как что-то выкинуть. Сечёшь?<end>
 
 =>q21_original
 Shut your tick hole and beat it, you lying scum! Heard what I said? Beat it!<end>

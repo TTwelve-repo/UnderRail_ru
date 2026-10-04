@@ -28,7 +28,7 @@ I have one thousand charons. Will you let him go if I give them to you? ::Give h
 Now get lost, both of you. Come on, you heard me - move it!<end>
 
 =>q5
-::Он берёт деньги с металлической ухмылкой на лице.:: Оу, мы в золоте! О, да. Вот это сделка. Хотел бы я чтобы мои друзья были такими же щедрыми как у Хьюго. ::Он смеётся.:: Но мне не на что жаловаться. Не на что.
+::Он берёт деньги с металлической ухмылкой на лице.:: Оу, мы в золоте! О, да. Вот это сделка. Хотел бы я, чтобы мои друзья были такими же щедрыми, как у Хьюго. ::Он смеётся.:: Но мне не на что жаловаться. Не на что.
 
 А теперь валите отсюда, вы оба. Давай, ты меня слышал, шевели ногами!<end>
 
@@ -48,7 +48,7 @@ I don't have that much money on me, but I can get it for you.<end>
 ::The man strokes his beard, thinking about what you've said. He soon responds.:: Deal. But be quick or Hugo get's it. And don't attempt any funky business, you got that? Now move it.<end>
 
 =>q8
-::Он поглаживает подбородок, обдумывая ваши слова.:: Идёт. Но поторопись, иначе Хьюго получит своё. И не пытайся меня надуть, ты понял$(#/а)? Теперь проваливай.<end>
+::Он поглаживает бороду, обдумывая ваши слова.:: Идёт. Но поторопись, иначе Хьюго получит своё. И не пытайся меня надуть, ты понял$(#/а)? Теперь проваливай.<end>
 
 =>a9_original
 You'll get your money.<end>
@@ -114,13 +114,13 @@ I'm looking for an unusual item and was wondering if you perhaps had it at some 
 What kind of a question is that? Even if I had something of the kind, I wouldn't tell *you* about it.<end>
 
 =>q19
-Это что за вопрос? Даже если бы у меня было нечто подобное, *тебе* я бы точно не сказал.<end>
+Это что за вопрос? Даже если бы у меня было нечто подобное, *тебе* бы я точно не сказал.<end>
 
 =>q20_original
 "It's something really striking," $(#he/she) says. Unbelievable.<end>
 
 =>q20
-Вы только е$(#го/ё) послушайте. Невероятно.<end>
+Вы только е$(#го/ё) послушайте: «нечто совершенно поразительное». Невероятно.<end>
 
 =>a21_original
 Not yet, but I'll get it.<end>
@@ -146,7 +146,7 @@ I'm getting really tired of you, prepare to die! ::Attack!::<end>
 Who the *hell* are you and what are you doing here?<end>
 
 =>q24
-::Этот мужчина встречает вас с суровым выражением лица. Его челюсть выглядит достаточно мощной, чтобы перекусить металлический прут как конфету. Несколько удивлённый вашим присутствием, он перехватывает своё оружие, глядя в сторону человека, позволившего вам пройти. После этого он бросает на вас оценивающий взгляд и говорит нетерпеливым, тяжёлым голосом, обнажив верхние зубы, почти все сделанные из какого-то серебристого металла, что только укрепляет ваше первое впечатление.::
+::Этот мужчина встречает вас с суровым выражением лица. Его челюсть выглядит достаточно мощной, чтобы перекусить металлический прут как конфету. Несколько удивлённый вашим присутствием, он перехватывает своё оружие, глядя в сторону человека, позволившего вам пройти. После этого он бросает на вас оценивающий взгляд и говорит нетерпеливым, тяжёлым голосом, обнажив верхние зубы, почти все сделанные из какого-то серебристого металла, что только укрепляет ваше первое впечатление: ::
  
 Ты ещё кто так$(#ой/ая), и что ты здесь делаешь?<end>
 
@@ -184,7 +184,7 @@ I am aware that Hugo is in debt.<end>
 Oh, you are? That's interesting. And do you know how much this worm owes me?<end>
 
 =>q30
-Ах вот как? Интересно. А знаешь ли ты, сколько этот червяк должен мне?<end>
+Ах, вот как? Интересно. А знаешь ли ты, сколько этот червяк должен мне?<end>
 
 =>q31_original
 One freakin' thousand freakin' charons!<end>
@@ -244,7 +244,7 @@ What kind of a question is that? Even if I had something of the kind, I wouldn't
 "It's something really striking," $(#he/she) says. Unbelievable.<end>
 
 =>q40
-Вы только е$(#го/ё) послушайте. Невероятно.<end>
+Вы только е$(#го/ё) послушайте: «нечто совершенно поразительное». Невероятно.<end>
 
 =>a41_original
 I'm going to leave.<end>
@@ -298,7 +298,7 @@ You know what? I better leave you to your business. Bye.<end>
 Just who do you think you are? You can't just stroll around my camp like it belongs to you. Tell me who you are and why you're here? Spill it.<end>
 
 =>q49
-Что ты о себе думаешь? Что ты можешь просто так завалиться в мой лагерь как к себе домой? Говори, кто ты и зачем ты здесь? Выкладывай.<end>
+Что ты о себе думаешь? Что ты можешь просто так завалиться в мой лагерь, как к себе домой? Говори, кто ты и зачем ты здесь? Выкладывай.<end>
 
 =>a50_original
 I'm not even going to bother talking. ::Attack!::<end>
