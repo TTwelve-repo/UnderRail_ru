@@ -20,7 +20,7 @@ What's the hold up, $(context.player.Name)?<end>
 Can't wait to see the Beast take a hot swim!<end>
 
 =>q4
-Не могу дождаться момента, когда увижу как Зверь принимает горячую ванну!<end>
+Не могу дождаться, когда увижу, как Зверь принимает горячую ванну!<end>
 
 =>q5_original
 The Beast ends today!<end>
@@ -40,7 +40,7 @@ Gun - check. Ammo - check. Shield - check!<end>
 Your inspection comes to a halt when the guard utters a simple word...::<end>
 
 =>q7
-::Этот высокий страж встречает вас молча. Вам иногда бывает трудно отличить стражей Литейной одного от другого из-за их униформы, но этот выделяется как гриб-мозгляк в темноте. Его повреждённый щит несёт отметину от безжалостной атаки, на какую способно только дикое, свирепое существо. Большие царапины, вмятины и полоса засохшей крови покрывают щит, как будто холст безумного художника, а его край носит многочисленные следы от укусов, нанесённых яростным движением мощных челюстей.
+::Этот высокий страж встречает вас молча. Вам иногда бывает трудно отличить стражей Литейной одного от другого из-за их униформы, но этот выделяется как гриб-мозгляк в темноте. Его повреждённый щит несёт отметину от безжалостной атаки, на какую способно только дикое, свирепое существо. Большие царапины, вмятины и полоса засохшей крови покрывают щит, будто холст безумного художника, а его край носит многочисленные следы от укусов, нанесённых яростным движением мощных челюстей.
 
 Страж отвлекает вас от разглядывания, произнеся единственное слово...::<end>
 
@@ -66,7 +66,7 @@ Can you tell me anything about the mine creatures?<end>
 First, it's very unsafe to be in this area and you should leave. Second, I can't speak about it; it's classified.<end>
 
 =>q11
-Во-первых, здесь очень небезопасно находиться, и вам лучше уйти. Во-вторых, я не могу говорить об этом; это секретная информация. Простите.<end>
+Во-первых, здесь очень небезопасно находиться, и вам лучше уйти. Во-вторых, я не могу говорить об этом, это секретная информация. Простите.<end>
 
 =>a12_original
 It's all right, Chief Banner sent me here to talk to you about the current situation.<end>
@@ -96,7 +96,7 @@ Pleased to meet you, $(context.player.Name). Now, listen up...<end>
 ::His voice undergoes a few subtle changes, becoming drier and somewhat distant.:: After our miners first encountered the bladelings, a group of us was sent inside the mine to deal with the creatures. While the reports implied they were "unusual" in appearance, only when we encountered them did we realize how strange these creatures actually were: Sure, they had four legs, two eyes, mouth - the usual, but their shells were made of hardened rock, fused with their bodies, with metallic blades protruding from their backs. It was an unreal sight!<end>
 
 =>q16
-::Его голос неуловимо меняется, становится суше и как-то отстраненнее.:: После того как наши шахтёры впервые столкнулись с меченосцами, наша группа была направлена вглубь шахты, чтобы расправиться с тварями. Хотя в приказе было сказано, что они «необычно» выглядели, только когда мы увидели их, мы поняли, какие странные эти существа на самом деле. Конечно, у них было четыре ноги, два глаза, рот, как у всех нормальных животных, но их раковины были сделаны из твёрдого камня, сросшегося с их телами, с металлическими лезвиями, торчащими из спины! Это было поразительное зрелище!<end>
+::Его голос неуловимо меняется, становится суше и как-то отстраненнее.:: После того, как наши шахтёры впервые столкнулись с меченосцами, наша группа была направлена вглубь шахты, чтобы расправиться с тварями. Хотя в приказе было сказано, что они «необычно» выглядели, только когда мы увидели их, мы поняли, какие странные эти существа на самом деле. Конечно, у них было четыре ноги, два глаза, рот, как у всех нормальных животных, но их раковины, сросшиеся с телами, были сделаны из твёрдого камня с металлическими лезвиями, торчащими из спины! Это было поразительное зрелище!<end>
 
 =>q17_original
 <end>
@@ -120,7 +120,7 @@ Alp, one of the guardsmen, gave them that name. We were clearing the mine togeth
 The name bladeling kinda stuck.<end>
 
 =>q20
-Название «меченосец» прижилось.<end>
+Название «меченосцы» прижилось.<end>
 
 =>a21_original
 Can you tell me about your encounter with the Beast?<end>
@@ -135,13 +135,14 @@ It, on the other hand, had no trouble doing damage to us. By... by pure luck I w
 
 =>q22
 Да, Зверь... эта тварь несёт ответственность за гибель девяти стражей... девяти моих дорогих друзей. Он похож на меченосцев, но гораздо крупнее, с более длинными лезвиями на спине и гораздо более толстым панцирем. Признаться, панцирь у него такой толстый, что ничего из нашего арсенала не смогло его пробить. Огонь, пули, взрывчатка... Зверю всё побоку.
-Ему же, с другой стороны, не составило усилий нанести ущерб нам. По... по чистой случайности я оказался единственным, кому удалось унести свою голову на плечах. Этот щит... он служит мне напоминанием.<end>
+
+Ему же, с другой стороны, не составило усилий нанести ущерб нам. Я... по чистой случайности я оказался единственным, кому удалось унести свою голову на плечах. Этот щит... он служит мне напоминанием.<end>
 
 =>a23_original
 I faced the Beast too. But I'm wondering if it's the only of its size? Are there more... Beasts?<end>
 
 =>a23
-Я тоже столкнул$(#ся/ась) со Зверем. Но мне интересно, это единственный экземпляр такого размера? Или есть ещё... такие же как этот?<end>
+Я тоже столкнул$(#ся/ась) со Зверем. Но мне интересно, это единственный экземпляр такого размера? Или есть ещё... такие же, как этот?<end>
 
 =>q24_original
 Then you have witnessed the battleground. It's good you didn't become a part of that bloody scenery. And... I can only imagine what that thing did to the bodies after I had fled. ::He pauses briefly before continuing.:: But, that Beast is the only one I saw. You must've noticed the numerous scars it had on its body, and it looked - at least to me - to be very old. Ancient. 
@@ -149,7 +150,7 @@ Then you have witnessed the battleground. It's good you didn't become a part of 
 The Beast... If there are more of them... of that size... well, we're in a lot of muck.<end>
 
 =>q24
-Значит вы видели поле битвы. Хорошо, что вы не стали частью этого кровавого пейзажа. И... я могу только представить, что оно сделало с телами после того как я бежал. ::Он делает короткую паузу, прежде чем продолжить.:: Но этот Зверь -- я видел только одного такого. Вы, наверное, заметили многочисленные шрамы на его теле, он выглядел, по-моему, очень старым. Древним.
+Значит, вы видели поле битвы. Хорошо, что вы не стали частью этого кровавого пейзажа. И... я могу только представить, что оно сделало с телами после того, как я бежал. ::Он делает короткую паузу.:: Но этот Зверь -- я видел только одного такого. Вы, наверное, заметили многочисленные шрамы на его теле, он выглядел, по-моему, очень старым. Древним.
 
 Зверь... Если их там ещё больше... такого размера... тогда мы по уши в шлаке.<end>
 
@@ -163,7 +164,7 @@ Whatever the case may be - I *will* hunt down that creature and end its existenc
 Do you think it's the only one, or could there be more?<end>
 
 =>a26
-Вы думаете, там он только один или может быть больше?<end>
+Вы думаете, там он только один или их может быть больше?<end>
 
 =>q27_original
 So far we've only seen one, luckily. It was in one of the dormant caves deeper past the mine. It appeared to be very old with, as I've said, much thicker shell than the smaller ones; also, it was riddled with scars. It was tough, like a boulder rolling toward you. If there are more like that... well, we're in a lot of muck.<end>
@@ -187,7 +188,7 @@ It's very brave of you to be at the first line of defense after what happened to
 Look, I've worked with those men for years. We've fought Ironheads, raiders and whatnot. Not for a second was I in any doubt that my back wasn't safe whenever chaos ensued, and I know they felt the same. It is a special connection and trust burned into you by the hot branding iron of combat! Seeing them die there saddens me... and infuriates me. If I could strangle the Beast with my own hands and shove this shield down its throat I'd do it in a heartbeat. I'm here because I'm waiting for it to come to me.<end>
 
 =>q30
-Слушайте, я работал с этими людьми в течение многих лет. Мы сражались с Железноголовыми, рейдерами и ещё много чем. Ни на секунду у меня не было сомнений в том, что моя спина прикрыта в самом пекле, и я знаю, что они чувствовали то же самое. Это особая связь и доверие, закалённое в горячем бою! Я видел, как они умирают, и это наполняет меня грустью... и яростью. Если бы я мог задушить Зверя собственными руками и забить этот щит ему в глотку -- я бы сделал это, не раздумывая. Я здесь потому, что я жду, когда он придёт за мной.<end>
+Слушайте, я работал с этими людьми в течение многих лет. Мы сражались с Железноголовыми, рейдерами и ещё много чем. Ни на секунду у меня не было сомнений в том, что моя спина прикрыта в самом пекле, и я знаю, что они чувствовали то же самое. Это особая связь и доверие, закалённое в горячем бою! Я видел, как они умирают, и это наполняет меня грустью... и яростью. Если бы я мог задушить Зверя собственными руками и забить этот щит ему в глотку -- я бы сделал это, не раздумывая. Я здесь потому что я жду, когда он придёт за мной.<end>
 
 =>a31_original
 I don't think you can kill it alone.<end>
@@ -223,7 +224,7 @@ Do you know anything about the worms in the mine?<end>
 I remember those things. They had strange heads shaped like drills. But, they weren't aggressive, so we usually paid no attention to them; we had bigger problems to deal with.<end>
 
 =>q36
-Я видел эти штуковины. У них странные головы в форме сверла. Но они не были агрессивны, так что мы обычно не обращали на них внимания; у нас были более серьёзные проблемы.<end>
+Я видел эти штуковины. У них странные головы в форме сверла. Но они не были агрессивны, так что мы обычно не обращали на них внимания -- у нас были более серьёзные проблемы.<end>
 
 =>q37_original
 Some of the guys did shoot them or step on a few that hadn't had the time to find a hiding place. In any case, they were no threat to us at the time.<end>
@@ -235,7 +236,7 @@ Some of the guys did shoot them or step on a few that hadn't had the time to fin
 Sapke it is. I'm $(context.player.Name).<end>
 
 =>a38
-Ну, значит Сапки. Меня зовут $(context.player.Name).<end>
+Ну значит, Сапке. Меня зовут $(context.player.Name).<end>
 
 =>a39_original
 Fair enough. I'll leave you to your duty.<end>
@@ -259,7 +260,7 @@ I'd like to ask you something about the creatures again.<end>
 Go ahead.<end>
 
 =>q42
-Расскажи.<end>
+Продолжайте.<end>
 
 =>a43_original
 Would you like to help me kill the Beast?<end>
@@ -271,7 +272,7 @@ Would you like to help me kill the Beast?<end>
 ::His words fly out of his mouth without delay.:: The question is completely redundant. Yes, I will help you kill the Beast. I'm guessing someone came up with a decent plan to kill it, right?<end>
 
 =>q44
-::Он не даёт вам закончить.:: Вопрос совершенно излишний. Да, я помогу вам убить Зверя. Я полагаю, кто-то наконец придумал как убить его, верно?<end>
+::Он не даёт вам договорить.:: Вопрос совершенно излишний. Да, я помогу вам убить Зверя. Я полагаю, кто-то наконец придумал как убить его, верно?<end>
 
 =>a45_original
 We're gonna use the large smelting furnace to kill it.<end>
@@ -355,13 +356,13 @@ They just don't understand...<end>
 While I'm glad the Beast is dead, I don't feel right. I should have killed the Beast. Yes, I should have been there to take the life away from that monster, just like it took from the people that were so close to me. I should have been there to see its dying eyes twitch in pain before they finally close.<end>
 
 =>q58
-Хотя я и рад, что Зверь мёртв, я себя неважно чувствую. Я должен был убить Зверя. Да, я должен был быть там и отобрать жизнь у этого чудовища, как он отнял её у людей, которые были мне дороги. Я должен был быть там, чтобы увидеть как его умирающий глаз дёргается от боли и закрывается.<end>
+Хотя я и рад, что Зверь мёртв, я себя неважно чувствую. Я должен был убить Зверя. Да, я должен был быть там и отобрать жизнь у этого чудовища, как он отнял её у людей, которые были мне дороги. Я должен был быть там, чтобы увидеть, как его умирающий глаз дёргается от боли и закрывается.<end>
 
 =>q59_original
 Now... I feel like I ran away as my friends were dying. Like some petty quaker. Damn it...<end>
 
 =>q59
-Теперь... я чувствую себя, как будто что я убежал, когда мои друзья умирали. Как какой-то жалкий трясун. Блин...<end>
+Теперь... я чувствую себя, как будто я убежал, когда мои друзья умирали. Как какой-то жалкий трясун. Блин...<end>
 
 =>a60_original
 What happened to your shield?<end>
@@ -391,4 +392,4 @@ Goodbye.<end>
 Greetings, $(context.player.Name).<end>
 
 =>q64
-Привет, $(context.player.Name).<end>
+Приветствую, $(context.player.Name).<end>
