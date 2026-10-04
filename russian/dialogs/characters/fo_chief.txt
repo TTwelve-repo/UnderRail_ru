@@ -8,7 +8,7 @@
 You're back. Upon conducting an investigation, we discovered that the rifle you gave me was indeed used to kill Bolivar Daud, based on the caliber, angle of shot, etc. We have no evidence that could prove that Todor fired the gun, as there were no fingerprints on the rifle, nor any other clues. We also have no way to link the gun to Micas either.<end>
 
 =>q2
-Вы вернулись. В ходе расследования мы установили, основываясь на калибре, угле выстрела и т. д., что винтовка, которую вы дали мне, действительно была использована для убийства Боливара Дауда. У нас нет доказательств того, что стрелял Тодор, на винтовке не было отпечатков пальцев и каких-либо других улик. Мы также не смогли связать оружие с Микасом.<end>
+Вы вернулись. В ходе расследования мы установили, основываясь на калибре, угле выстрела и т.д., что винтовка, которую вы дали мне, действительно была использована для убийства Боливара Дауда. У нас нет доказательств того, что стрелял Тодор, на винтовке не было отпечатков пальцев и каких-либо других улик. Мы также не смогли связать оружие с Микасом.<end>
 
 =>q3_original
 Still, due to the lack of evidence, as well as your involvement in the case, Todor Sallywatch is now a free man.<end>
@@ -182,7 +182,7 @@ I need to talk to you about a prisoner called Todor Sallywatch.<end>
 Todor... Todor Sallywatch... Isn't that the man who killed Bolivar Daud? Accused of killing. Due to Judge Taylor's passing, I will be dealing with all criminal cases. So, what was it you wanted to talk about?<end>
 
 =>q31
-Тодор... Тодор Саллиуотч... это не тот ли, который убил Боливара Дауда? Обвиняемый в убийстве. После смерти судьи Тейлора, я буду рассматривать все уголовные дела. Так о чём вы хотели поговорить?<end>
+Тодор... Тодор Саллиуотч... это не тот ли, который убил Боливара Дауда? Обвиняемый в убийстве. После смерти судьи Тейлора, я буду рассматривать все уголовные дела. Так, о чём вы хотели поговорить?<end>
 
 =>q32_original
 <end>
@@ -280,7 +280,7 @@ $(context.player.Name), you've already proven trustworthy, and I thank you for a
 The reason I haven't begun is that we are still missing the murder weapon. If you manage to find it alongside any other clues, we can quickly process the case and release him.<end>
 
 =>q47
-$(context.player.Name), вы уже доказали свою надёжность, и я благодарю вас за всю оказанную нам помощь. Но у меня сейчас столько работы, что я ещё даже не приступил к этому делу, а большинство наших следователей заняты другими делами.
+$(context.player.Name), вы уже доказали свою надёжность, и я благодарю вас за всю оказанную нам помощь. Но у меня сейчас столько работы, что я ещё даже не приступил к разбирательству, а большинство наших следователей заняты другими делами.
 
 Причина, по которой я ещё не начинал, в том, что мы ещё не нашли орудие убийства. Если вам удастся найти его или любые другие улики, дело сдвинется, и мы сможем скорее освободить его.<end>
 
@@ -296,7 +296,7 @@ I haven't even gotten to this case yet, with all the work I have at the moment, 
 Despite this, you are a stranger to us, and I have no reason to trust you. I can't have just about anyone be an investigator.<end>
 
 =>q49
-У меня сейчас столько работы, что я ещё даже не приступил к этому делу, а большинство наших следователей заняты другими делами.
+У меня сейчас столько работы, что я ещё даже не приступил к разбирательству, а большинство наших следователей заняты другими делами.
 
 Поймите, что вы для нас чужак, и у меня нет оснований доверять вам. Я не могу позволить вести следствие кому попало.<end>
 
