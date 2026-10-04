@@ -134,7 +134,7 @@ All right, let's get the hell out of here!<end>
 Everard is worried about you talking. You know what I mean.<end>
 
 =>a23
-Эверард беспокоится, что ты заговоришь. Я думаю ты понимаешь, что я имею в виду.<end>
+Эверард беспокоится, что ты заговоришь. Я думаю, ты понимаешь, что я имею в виду.<end>
 
 =>q24_original
 ::Todor's face becomes dead serious.::
@@ -144,7 +144,7 @@ I haven't spoken about... about the cell. They asked me all sorts of questions, 
 =>q24
 ::Лицо Тодора становится серьёзным.::
 
-Я не рассказал про... про ячейку. Они задавали мне всякие вопросы, но, клянусь, я им ничего не сказал.<end>
+Я не рассказал про... про ячейку. Они задавали мне всякие вопросы, но клянусь, я им ничего не сказал.<end>
 
 =>q25_original
 Everard knows me, come on!<end>
@@ -212,7 +212,7 @@ I guess Everard told you everything, but here goes: Hell, some time ago Everard 
 You should have seen it - his head split in half! ::He smiles.:: Large-caliber rounds make gruesome wounds.<end>
 
 =>q35
-Я думаю, Эверард уже рассказал вам всё, но ладно: некоторое время назад Эверард велел мне следить за этим парнем -- Боливаром Даудом. Он был какой-то торговец, который путешествовал по Южной Подземке. Я должен был не спускать с него глаз, и, получив зелёный свет, убить его. Всё шло как по маслу, и, когда пришло время убить, я застрелил его из своей снайперской винтовки. 
+Я думаю, Эверард уже рассказал вам всё, но ладно: некоторое время назад Эверард велел мне следить за этим парнем -- Боливаром Даудом. Он был какой-то торговец, который путешествовал по Южной Подземке. Я должен был не спускать с него глаз, и получив зелёный свет, убить его. Всё шло как по маслу, и когда пришло время убить, я застрелил его из своей снайперской винтовки. 
 
 Ты бы видел$(#/а) -- его голова раскололась пополам! ::Он улыбается.:: Пули большого калибра причиняют страшные раны.<end>
 
@@ -226,7 +226,7 @@ Then - people panicked. They dispersed in all directions. I left the rifle on th
 What do you mean by "receiving the green light"?<end>
 
 =>a37
-Это как «получишь зелёный свет»?<end>
+Это как «получив зелёный свет»?<end>
 
 =>q38_original
 Damn it, I don't know if I should say it but.... Bolivar was supposed to meet with another trader, an arms merchant working for some people in Core City. Oliver Micas is his name. Hell, the guy's been selling guns to everyone from small gangs to Ironheads, and I heard he even traded with Lurkers. The Foundry Guard doesn't know any of this, by the way.<end>
@@ -334,7 +334,7 @@ Please... leave me.<end>
 ::Give him a vial of blinding poison.:: First it causes blindness, then death. It won't hurt too much.<end>
 
 =>a55
-::Дать ему пузырёк с ядом слепитель.:: Сначала он вызывает слепоту, потом смерть. Это не сделает больно.<end>
+::Дать ему пузырёк со слепящим ядом.:: Сначала он вызывает слепоту, потом смерть. Слишком больно не будет.<end>
 
 =>q56_original
 No! Get away from me! Tell Everard he can go kiss my rear! I'm better off here than with those backstabbing bastards.<end>
@@ -346,7 +346,7 @@ No! Get away from me! Tell Everard he can go kiss my rear! I'm better off here t
 Get... get out of here! GUARDS! GUARDS!<end>
 
 =>q57
-Иди... иди отсюда! Стража! Стража!<end>
+Иди... иди отсюда! СТРАЖА! СТРАЖА!<end>
 
 =>q58_original
 I'm calling the guards - we're done here.<end>
@@ -370,7 +370,7 @@ Well, it's a risk he's not willing to take. Goodbye Todor. ::Attack.::<end>
 Your cell is unlocked and all the guards in the prison are dead. You're free to go.<end>
 
 =>a61
-Твоя камера открыта и все стражи в тюрьме мертвы. Ты свободен.<end>
+Твоя камера открыта, и все стражи в тюрьме мертвы. Ты свободен.<end>
 
 =>q62_original
 What the hell? You... you killed everyone? You're insane!<end>
@@ -382,13 +382,13 @@ What the hell? You... you killed everyone? You're insane!<end>
 You're welcome. So, are you leaving?<end>
 
 =>a63
-Пожалуйста. Так что - ты уходишь?<end>
+Пожалуйста. Так, что -- ты уходишь?<end>
 
 =>q64_original
 Of course I'm leaving! I'm not sticking around and finding out what's gonna happen next!<end>
 
 =>q64
-Конечно, я ухожу! Я не собираюсь торчать здесь, чтобы узнать что будет дальше!<end>
+Конечно, я ухожу! Я не собираюсь торчать здесь, чтобы узнать, что будет дальше!<end>
 
 =>a65_original
 ::Let him leave.::<end>
@@ -418,13 +418,13 @@ I'm not insane. I'm the Invictus.<end>
 What are you talking about? Look, whatever! I'm outta here!<end>
 
 =>q69
-Что? Слушай, неважно! Я убираюсь отсюда!<end>
+Что ты несёшь? Слушай, неважно! Я убираюсь отсюда!<end>
 
 =>a70_original
 Your cell is unlocked and all the guards in the prison are dead. You're free to go.<end>
 
 =>a70
-Твоя камера открыта и все стражи в тюрьме мертвы. Ты свободен.<end>
+Твоя камера открыта, и все стражи в тюрьме мертвы. Ты свободен.<end>
 
 =>a71_original
 I've unlocked the cell for you, get out!<end>
@@ -454,7 +454,7 @@ I've unlocked the cell for you, get out!<end>
 Are you insane? The prison is in on high alert and you want me to walk out like it's nothing? No way! You better think of something better.<end>
 
 =>q75
-Ты с ума сош$(#ёл/ла)? Тюрьма в повышенной готовности и ты хочешь, чтобы я просто вышел как ни в чём не бывало? Ни за что! Придумай что-нибудь получше.<end>
+Ты с ума сош$(#ёл/ла)? Тюрьма в повышенной готовности, и ты хочешь, чтобы я просто вышел как ни в чём не бывало? Ни за что! Придумай что-нибудь получше.<end>
 
 =>q76_original
 And think fast!<end>
@@ -474,7 +474,7 @@ I'll get back to you.<end>
 Who the hell are you and how'd you get in here?<end>
 
 =>q78
-::Мужчина -- должно быть, Тодор -- выглядит удивлённым, увидев вас. Он спешно оглядывается в поисках стражей, а затем говорит вам.::
+::Мужчина -- должно быть, Тодор -- выглядит удивлённым, увидев вас. Он спешно оглядывается в поисках стражей, а затем говорит вам: ::
 
 Кто ты и как ты сюда попал$(#/а)?<end>
 
@@ -526,9 +526,9 @@ Well, this is a bit nicer than the cell I'm "staying" in. Heh.<end>
 So... you're the one who wanted to talk to me. I don't remember ever seeing you before.<end>
 
 =>q86
-::Вас проводят в небольшую комнату, и страж запирает за вами дверь. Вы ждёте минуту или две, поглядывая в электрический глаз камеры, скользящий по комнате. Наконец вы слышите приближающиеся шаги. Дверь открывается, и страж заводит внутрь мужчину -- видимо, Тодора. Страж запирает другую дверь за его спиной, оставляя вас двоих разглядывать друг друга. Тодор говорит первым.::
+::Вас проводят в небольшую комнату, и страж запирает за вами дверь. Вы ждёте минуту или две, поглядывая в электрический глаз камеры, скользящий по комнате. Наконец вы слышите приближающиеся шаги. Дверь открывается, и страж заводит внутрь мужчину -- видимо, Тодора. Страж запирает другую дверь за его спиной, оставляя вас двоих разглядывать друг друга. Тодор начинает разговор: ::
 
-Так... это ты хотел со мной поговорить. Я не припоминаю, чтобы видел тебя раньше.<end>
+Так... это ты хотел$(#/а) со мной поговорить. Я не припоминаю, чтобы видел тебя раньше.<end>
 
 =>q87_original
 <end>
