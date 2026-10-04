@@ -82,7 +82,7 @@ Cousin?<end>
 Huh? Well, I guess that makes some sense. Yes. Okay, all is well. What was that you asked me, again?<end>
 
 =>q13
-Да? Ну что же, в этом есть некоторый смысл. Да. Ладно, хорошо. Так что вы хотели узнать?<end>
+Да? Ну что же, в этом есть некоторый смысл. Да. Ладно, хорошо. Так, что вы хотели узнать?<end>
 
 =>q14_original
 I don't fall for that. I'm sorry, but I can't give this sort of information to just about everyone.<end>
@@ -94,7 +94,7 @@ I don't fall for that. I'm sorry, but I can't give this sort of information to j
 Oh, come on! After all I've done for Foundry, you distrust me? Maybe I should have stayed out of the mine business and see how you fare without my help.<end>
 
 =>a15
-Ой, да ладно! После всего что я сделал$(#/а) для Литейной, вы не доверяете мне? Может быть, мне следовало не лезть в шахту и посмотреть, как бы вы справитесь без моей помощи.<end>
+Ой, да ладно! После всего, что я сделал$(#/а) для Литейной, вы не доверяете мне? Может быть, мне следовало не лезть в шахту и посмотреть, как бы вы справитесь без моей помощи.<end>
 
 =>q16_original
 ::Your response instigates a long pause.:: Um, I'm sorry. I don't know what came over me, $(#amigo/chica). It seemed...
@@ -122,13 +122,13 @@ If you say so.<end>
 You don't trust me, after all I've done for Foundry?<end>
 
 =>a19
-Вы не верите мне, после всего, что я сделал$(#/а) для Литейной?<end>
+Вы не верите мне после всего, что я сделал$(#/а) для Литейной?<end>
 
 =>q20_original
 I'm sorry, I didn't mean it like that. Forget I said anything. What was it you asked me about him, again?<end>
 
 =>q20
-Простите, я не это имела в виду. Забудьте, что я сказала. Так что вы хотели узнать?<end>
+Простите, я не это имела в виду. Забудьте, что я сказала. Так, что вы хотели узнать?<end>
 
 =>a21_original
 Actually, we're just friends.<end>
@@ -182,7 +182,7 @@ He is accused of murdering a traveling merchant called Bolivar Daud. His case is
 Or, if something important and urgent comes up, the current chief - Chief Banner in this case - can decide the fate of the accused. That is all according to Foundry law.<end>
 
 =>q29
-Или, если всплывает что-то важное и срочное, нынешний шеф -- Шеф Баннер, в данном случае -- может решить судьбу обвиняемого. Таков закон Литейной.<end>
+Или, если всплывёт что-то важное и срочное, нынешний шеф -- Шеф Баннер, в данном случае -- может решить судьбу обвиняемого. Таков закон Литейной.<end>
 
 =>a30_original
 I'd like to see him.<end>
@@ -246,7 +246,7 @@ Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The
 =>q39
 С другой стороны, если вы зададите этот вопрос шахтёрам, они расскажут вам про травмы и смерть в шахте и об опасностях работы там, особенно сейчас, когда случилось нашествие каких-то крайне агрессивных тварей. Такова жизнь на Литейной с их точки зрения. 
 
-Ох, это, должно быть, прозвучало угнетающе. ::Она улыбается.:: Есть и положительные стороны: горнодобывающий бизнес приносит много денег и товаров, и Литейная является одним из самых безопасных мест для жизни во всей Южной Подземке, благодаря Страже Литейной. Так что есть и много позитива.<end>
+Ох, это, должно быть, прозвучало угнетающе. ::Она улыбается.:: Есть и положительные стороны: горнодобывающий бизнес приносит много денег и товаров, и Литейная является одним из самых безопасных мест для жизни во всей Южной Подземке, благодаря Страже Литейной. Так что, есть и много позитива.<end>
 
 =>q40_original
 On the other hand, if you ask the miners the same question, they'll tell you about injury and death in the mine and dangers of working there. That's life in Foundry from their perspective. 
@@ -256,7 +256,7 @@ Hell, that sounded depressing. ::She smiles.:: There are positive sides too: The
 =>q40
 С другой стороны, если вы зададите этот вопрос шахтёрам, они расскажут вам про травмы и смерть в шахте и об опасностях работы там. Такова жизнь на Литейной с их точки зрения. 
 
-Ох, это, должно быть, прозвучало угнетающе. ::Она улыбается.:: Есть и положительные стороны: горнодобывающий бизнес приносит много денег и товаров, и Литейная является одним из самых безопасных мест для жизни во всей Южной Подземке, благодаря Страже Литейной. Так что есть и много позитива.<end>
+Ох, это, должно быть, прозвучало угнетающе. ::Она улыбается.:: Есть и положительные стороны: горнодобывающий бизнес приносит много денег и товаров, и Литейная является одним из самых безопасных мест для жизни во всей Южной Подземке, благодаря Страже Литейной. Так что, есть и много позитива.<end>
 
 =>a41_original
 I see you like growing flowers.<end>
@@ -328,13 +328,13 @@ Do you know anything about those mine creatures?<end>
 Uh, well, the Foundry Guard is on high alert right now because of those things. Apparently, miners came in contact with some unknown species of violent creatures, and for safety reasons the mine has been temporarily closed.<end>
 
 =>q52
-Э-э, ну, Стража Литейной сейчас приведена в состояние повышенной готовности из-за них. Рассказывают, что шахтёры наткнулись на каких-то неизвестных и очень агрессивных созданий, и, из соображений безопасности, шахта была временно закрыта.<end>
+Э-э, ну, Стража Литейной сейчас приведена в состояние повышенной готовности из-за них. Рассказывают, что шахтёры наткнулись на каких-то неизвестных и очень агрессивных созданий, и из соображений безопасности, шахта была временно закрыта.<end>
 
 =>q53_original
 My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and even though we now know some of them were performed by Evelyn Ingram, still... some creatures might be finding their way in. Eyes open, got it? <end>
 
 =>q53
-Мой вам совет, $(#амиго/чика): не приближайтесь к шахте и старайтесь находиться вблизи вооружённого персонала, пока ситуация не разрешится. Имеются сообщения о жестоких убийствах в жилом районе, и, хотя теперь мы знаем, что часть из них были совершены Эвелин Ингрэм, всё же... несколько тварей могли пробраться внутрь. Будьте начеку, понимаете? <end>
+Мой вам совет, $(#амиго/чика): не приближайтесь к шахте и старайтесь находиться вблизи вооружённого персонала, пока ситуация не разрешится. Имеются сообщения о жестоких убийствах в жилом районе, и хотя теперь мы знаем, что часть из них были совершены Эвелин Ингрэм, всё же... несколько тварей могли пробраться внутрь. Будьте начеку, понимаете? <end>
 
 =>q54_original
 My advice to you, $(#amigo/chica), would be to avoid going near the mine and to generally stay close to armed personnel until the situation has been resolved. There have been reports of violent killings in the residential area, and the creatures could be responsible. Eyes open, got it? <end>
@@ -364,7 +364,7 @@ We still have to deal with the pollution and an increase in violent crimes, thou
 Tell me about the prison.<end>
 
 =>a58
-Расскажите мне об тюрьме?<end>
+Расскажите мне о тюрьме.<end>
 
 =>q59_original
 This prison is so secure no one's ever managed to escape from here. No one even tried, everyone knows how any such attempts will end. Well, there was a riot several years ago, unsuccessful, of course, but other than that, nothing.<end>
@@ -396,7 +396,7 @@ All is well, we never have problems with prisoners outside of the prison. They k
 =>q62
 Конечно, расскажу, $(#амиго/чика). Все заключённые обязаны выполнять общественно полезную работу. Поскольку Литейная -- это горнодобывающая станция, все, кто физически пригоден, отправляются в шахту. Это как обычная работа, только платят меньше... на самом деле, не платят вовсе. Для тех, кто не способен работать в шахте, мы находим что-то другое. Всё зависит от их навыков, физической формы и других факторов.
 
-Всё налажено, и у нас ни разу не возникло проблем с заключёнными за пределами тюрьмы. Они знают, что всё равно не смогут перехитрить и сбежать от Стражи Литейной, так никто даже не пытается.<end>
+Всё налажено, и у нас ни разу не возникло проблем с заключёнными за пределами тюрьмы. Они знают, что всё равно не смогут схитрить и сбежать от Стражи Литейной, так никто даже не пытается.<end>
 
 =>a63_original
 I wanted to ask you something else.<end>
@@ -408,13 +408,13 @@ I wanted to ask you something else.<end>
 You are free to ask.<end>
 
 =>q64
-Вы можете спрашивать.<end>
+Можете спрашивать.<end>
 
 =>a65_original
 ::[Persuade]:: I need full access to your surveillance room. I was sent here by Chief Banner himself.<end>
 
 =>a65
-::[Убеждение]:: Мне нужен доступ к вашей комнате видеонаблюдения. Меня прислал шеф Баннер.<end>
+::[Убеждение]:: Мне нужен доступ к вашей комнате видеонаблюдения. Меня прислал Шеф Баннер.<end>
 
 =>q66_original
 ::Her reply is preceded by a puzzled look.:: Excuse me? I was never informed of this. Care to explain?<end>
@@ -510,7 +510,7 @@ You're very lucky this is a civilized station; if you had said that somewhere el
 We're done here. Get out of my office or else you'll get yourself into real trouble.<end>
 
 =>q80
-Вам очень повезло, что здесь цивилизованная станция; если бы вы сказали такое где-то ещё, то скорее всего, получили бы пулю в свой пустой череп. 
+Вам очень повезло, что здесь цивилизованная станция; если бы вы сказали такое где-то ещё, то скорее всего получили бы пулю в свой пустой череп. 
 
 Этот разговор окончен. Убирайтесь из моего кабинета, иначе я обещаю вам крупные неприятности.<end>
 
