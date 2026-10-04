@@ -2,7 +2,7 @@
 ::The quadrupedal Faceless steps forward. His weapon is aimed at you, yet he seems reluctant to immediately open fire, instead opting for an emotionless stare.::<end>
 
 =>q1
-::Заметив вас, четырёхногий безликий делает шаг вперёд. Его оружие направлено на вас, но он не торопится открывать огонь, ограничиваясь невыразительным взглядом.::<end>
+::Заметив вас, четырёхногий безликий делает шаг вперёд. Его оружие направлено на вас, но он не торопится открывать огонь, ограничиваясь ничего не выражающим взглядом.::<end>
 
 =>a2_original
 ::Give him time to see what his intentions are.::<end>
@@ -14,7 +14,7 @@
 ::He silently holds you at gun point, and for a while nothing happens; nothing but the subtle exchange of glances between his weapons-at-the-ready companions, done in such a curiously responsive manner as if an aspect of some kind of unspoken conversation.::<end>
 
 =>q3
-::Он молча держит вас на прицеле, и некоторое время ничего не происходит; ничего, кроме едва уловимого обмена взглядами между его готовыми к стрельбе товарищами, выполненными в такой любопытной отзывчивой манере, как будто это какой-то негласный разговор.::<end>
+::Он молча держит вас на прицеле, и некоторое время ничего не происходит; ничего кроме едва уловимого обмена взглядами между его готовыми к стрельбе товарищами, выполненяемыми в такой манере, как будто это какой-то негласный разговор.::<end>
 
 =>q4_original
 ::He then reaches for something on the inside of the chin of his mask, and soon after that you can hear a crude synthesized voice.:: 
@@ -22,7 +22,7 @@
 Identify yourself.<end>
 
 =>q4
-::Затем он поднимает руку к своей маске и нажимает что-то на внутренней её стороне, и после этого вы слышите неприятный синтетический голос.:: 
+::Затем он поднимает руку к своей маске и нажимает что-то на внутренней её стороне, и после этого вы слышите неприятный синтетический голос: :: 
 
 Назови себя.<end>
 
@@ -48,7 +48,7 @@ The leaders of Foundry want to know why you are here.<end>
 ::He pauses briefly, as if unsure how to proceed.:: Something of value has been stolen from us. We believe it might have found its way to their community.<end>
 
 =>q8
-::Он делает короткую паузу, как будто не зная, как поступить.:: У нас был украден ценный предмет. Мы считаем, что он может находиться в их городе.<end>
+::Он мешкает, будто не зная, как ответить.:: У нас был украден ценный предмет. Мы считаем, что он может находиться в их городе.<end>
 
 =>q9_original
 If you can help us locate the missing item, we will be on our way.<end>
@@ -78,7 +78,7 @@ Is this what you're after? ::Show him the Acorn.::<end>
 Um, I still haven't found the way to do so.<end>
 
 =>a13
-Хм, я пока не наш$(#ёл/ла) способа сделать это.<end>
+Эм-м, я пока не наш$(#ёл/ла) способа сделать это.<end>
 
 =>q14_original
 ::His raspy response comes after a tense delay.:: 
@@ -86,7 +86,7 @@ Um, I still haven't found the way to do so.<end>
 This is not what we're after.<end>
 
 =>q14
-::Его хриплый ответ приходит после напряжённой паузы.::
+::Его хриплый ответ приходит после напряжённой паузы: ::
 
 Это не то, что нам нужно.<end>
 
@@ -100,19 +100,19 @@ Can you describe what was stolen, then?<end>
 We may not tell you this, but the item is very distinct. People who came in contact with it will certainly remember it.<end>
 
 =>q16
-Мы не можем сказать тебе этого, но этот предмет очень необычно выглядит. Люди, которые контактировали с ним, обязательно запомнили бы его.<end>
+Мы не можем сказать тебе этого, но предмет очень необычно выглядит. Люди, которые контактировали с ним, обязательно запомнили бы его.<end>
 
 =>q17_original
 Inquire with the local merchants; the thief who stole it might have attempted to sell it to them.<end>
 
 =>q17
-Поспрашивай у местных торговцев; вор, который украл его, мог попытаться продать его им.<end>
+Узнай у местных торговцев; вор, который украл его, мог попытаться продать его им.<end>
 
 =>a18_original
 The Tchortists recently stole a peculiar item from one of Coretech's research facilities. It looked like a bluish-gray polyhedron with unusual symbols on its faces. Is that the thing you're looking for?<end>
 
 =>a18
-Чортисты недавно выкрали один любопытный предмет из исследовательского учреждения КорТех. Он выглядел как голубовато-серый многогранник с необычными символами на гранях. Это та вещь, которую вы ищете?<end>
+Чортисты недавно выкрали один любопытный предмет из исследовательского учреждения КорТех. Он выглядел как голубовато-серый многогранник, покрытый необычными символами. Это та вещь, которую вы ищете?<end>
 
 =>q19_original
 ::He answers after an uncomfortably long pause.:: 
@@ -120,7 +120,7 @@ The Tchortists recently stole a peculiar item from one of Coretech's research fa
 Providing you're telling the truth, we have no reason to remain here.<end>
 
 =>q19
-::Он отвечает после неловко затянувшейся паузы.::
+::Он отвечает после неловко затянувшейся паузы: ::
 
 Если ты говоришь правду, то у нас нет причин оставаться здесь.<end>
 
@@ -140,7 +140,7 @@ What will you do now?<end>
 The matter is very simple: We will retrieve this item. Those who would stop us from doing so will be dealt with.<end>
 
 =>q22
-Вопрос очень простой: мы вернём предмет. Те, кто будет препятствовать нам, будут нейтрализованы.<end>
+Вопрос очень простой: мы вернём предмет. Те, кто будет препятствовать нам, будут устранены.<end>
 
 =>q23_original
 Our business here is done.<end>
@@ -176,13 +176,13 @@ Good luck to you.<end>
 In that case, I've learned that something rather unusual used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
 
 =>a28
-Предмета, который вы ищете, вероятнее всего, больше нет на Литейной. Он находился в руках человека по имени Корнелл, главаря банды Кислотных охотников. Теперь же, он его утратил. Я знаю лишь то, что вам не имеет смысла искать его на Литейной.<end>
+В таком случае, мне известно о необычном предмете, который находился в руках человека по имени Корнелл, главаря банды Кислотных охотников из Кор-Сити. Теперь же, он его утратил. Я знаю лишь то, что вам не имеет смысла искать его на Литейной.<end>
 
 =>a29_original
 In that case, the item you seek has to be in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
 
 =>a29
-Предмета, который вы ищете, больше нет на Литейной. Он находится в руках человека по имени Корнелл, главаря банды Кислотных охотников. Сейчас крайне маловероятно, что этот предмет находится где-нибудь вблизи Литейной.<end>
+В таком случае, предмет, который вы ищете, находится в руках человека по имени Корнелл. Он главарь банды Кислотных охотников, и их обычно можно найти в Кор-Сити. Сейчас крайне маловероятно, что этот предмет находится где-нибудь вблизи Литейной.<end>
 
 =>a30_original
 I'll get back to looking, then.<end>
@@ -200,7 +200,7 @@ Sorry, I cannot do this.<end>
 Very well. Leave us then.<end>
 
 =>q32
-Хорошо. Теперь уходи.<end>
+Понятно. Тогда уходи.<end>
 
 =>a33_original
 It can't be opened.<end>
@@ -212,19 +212,19 @@ It can't be opened.<end>
 Is it the thing you're after or not?<end>
 
 =>a34
-Это то, что вы ищете или нет?<end>
+Это то, что вы ищете, или нет?<end>
 
 =>a35_original
 If it's that Cube you're looking for, it used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
 
 =>a35
-Предмета, который вы ищете, вероятнее всего, больше нет на Литейной. Он находился в руках человека по имени Корнелл, главаря банды Кислотных охотников. Теперь же, он его утратил. Я знаю лишь то, что вам не имеет смысла искать его на Литейной.<end>
+Если вы ищете Куб, то он находился в руках человека по имени Корнелл, главаря банды Кислотных охотников из Кор-Сити. Теперь же, он его утратил. Я знаю лишь то, что вам не имеет смысла искать его на Литейной.<end>
 
 =>a36_original
 If it's that Cube you're looking for, I can tell you now that this item is in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
 
 =>a36
-Если вы ищете этот куб, я могу вам сказать, что он находится в руках человека по имени Корнелл. Он главарь банды Кислотных охотников, которая обычно околачивается в Кор-Сити. Сейчас крайне маловероятно, что этот предмет находится где-нибудь вблизи Литейной.<end>
+Если вы ищете Куб, я могу сказать вам, что он находится в руках человека по имени Корнелл. Он главарь банды Кислотных охотников, и их обычно можно найти в Кор-Сити. Сейчас крайне маловероятно, что этот предмет находится где-нибудь вблизи Литейной.<end>
 
 =>a37_original
 Alright, I'll see what I can do. What was stolen exactly?<end>
@@ -250,7 +250,9 @@ I wanted to talk to you about the item you're looking for.<end>
 How do you know about this?<end>
 
 =>q40
-::Он отвечает после короткой паузы.:: Откуда тебе об этом известно?<end>
+::Он отвечает после короткой паузы: ::
+
+Откуда тебе об этом известно?<end>
 
 =>a41_original
 A traveling merchant you recently interrogated - the one with the two bodyguards you killed - he wrote about what happened on his mobile computer. He too is not among the living anymore, but his logs offered enough information for me to seek you out.<end>
@@ -262,7 +264,7 @@ A traveling merchant you recently interrogated - the one with the two bodyguards
 What you say did occur. ::He pauses briefly, as if unsure how to proceed.:: Something of value has been stolen from us. We believe it might have found its way to the community nearby.<end>
 
 =>q42
-Произошло так, как ты сказал$(#/а). ::Он колеблется, не зная как продолжить.:: У нас был украден предмет, имеющий большое значение. Мы считаем, что он мог попасть в их город.<end>
+Произошло так, как ты сказал$(#/а). ::Он колеблется.:: У нас был украден предмет, имеющий большое значение. Мы считаем, что он мог попасть в близлежащий город.<end>
 
 =>q43_original
 If you can help us locate the missing item, we will be on our way.<end>
@@ -274,13 +276,13 @@ If you can help us locate the missing item, we will be on our way.<end>
 The item you seek used to be in the possession of a man called Cornell, the leader of the Acid Hunters, a gang from Core City. However, he does not have it anymore. All I know is that Foundry is not the place to be searching for the item.<end>
 
 =>a44
-Предмета, который вы ищете, вероятнее всего, больше нет на Литейной. Он находился в руках человека по имени Корнелл, главаря банды Кислотных охотников. Теперь же, он его утратил. Я знаю лишь то, что вам не имеет смысла искать его на Литейной.<end>
+Предмет, который вы ищете, находился в руках человека по имени Корнелл, главаря банды Кислотных охотников из Кор-Сити. Теперь же, он его утратил. Я знаю лишь то, что вам не имеет смысла искать его на Литейной.<end>
 
 =>a45_original
 The item you seek is in the possession of a man called Cornell. He's the leader of the Acid Hunters gang which usually hangs out in Core City. At this point, it's highly unlikely that the item is anywhere near Foundry.<end>
 
 =>a45
-Предмета, который вы ищете, больше нет на Литейной. Он находится в руках человека по имени Корнелл, главаря банды Кислотных охотников. Сейчас крайне маловероятно, что этот предмет находится где-нибудь вблизи Литейной.<end>
+Предмет, который вы ищете, находится в руках человека по имени Корнелл. Он главарь банды Кислотных охотников, и их обычно можно найти в Кор-Сити. Сейчас крайне маловероятно, что этот предмет находится где-нибудь вблизи Литейной.<end>
 
 =>a46_original
 I'll see what I can do. Can you describe the thing that was stolen from you exactly?<end>
@@ -328,7 +330,7 @@ And I will tell you again this is no business of yours.<end>
 My name is $(context.player.Name) and I'm a vagrant scavenger.<end>
 
 =>a53
-Меня зовут $(context.player.Name) и я просто бродяга и мусорщик.<end>
+Меня зовут $(context.player.Name), и я просто бродяга и мусорщи$(#к/ца).<end>
 
 =>a54_original
 This is no concern of yours.<end>
@@ -346,7 +348,7 @@ This is no concern of yours.<end>
 ::The synthesized voice greets you.:: Did you locate the item?<end>
 
 =>q56
-::Синтетический голос приветствует вас.:: Ты обнаружил$(#/а) предмет?<end>
+::Синтетический голос приветствует вас: ::Ты обнаружил$(#/а) предмет?<end>
 
 =>a57_original
 Is this what you're after? ::Show him the Acorn.::<end>
