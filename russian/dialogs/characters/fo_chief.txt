@@ -86,7 +86,7 @@ They were on a patrol and their tunneler broke down. They'll leave as soon as th
 Broke down? I hope you didn't believe that, $(context.player.Name). This worries me to a degree, but then again, they weren't hostile to you. I'll instruct my men to be on their guard in any case. You did your work well. Here's your reward. ::He hands you 100 stygian coins.::<end>
 
 =>q15
-Сломался? Я надеюсь, вы сами в это не поверили, $(context.player.Name)? Это меня беспокоит меня, но с другой стороны, они не были враждебно настроены к вам. Я поручу своим людям быть настороже. Вы хорошо справились. Вот ваша награда. ::Он даёт вам 100 стигийских монет.::<end>
+Сломался? Я надеюсь, вы сами в это не поверили, $(context.player.Name)? Это меня беспокоит, но с другой стороны, они не были враждебно настроены к вам. Я поручу своим людям быть настороже. Вы хорошо справились. Вот ваша награда. ::Он даёт вам 100 стигийских монет.::<end>
 
 =>a16_original
 They are planning a massive invasion on Foundry. This group is on a reconnaissance mission to test Foundry's defenses!<end>
