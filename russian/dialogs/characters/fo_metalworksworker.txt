@@ -10,7 +10,7 @@ Leave me alone already!<end>
 Huh? What do you want?<end>
 
 =>q2
-::Этот мужчина сосредоточен на своей работе, пока вы не прерываете его, похлопав по плечу. Явно раздражённый, он оборачивается и обращается к вам грубым голосом.::
+::Этот мужчина сосредоточен на своей работе, пока вы не прерываете его, похлопав по плечу. Явно раздражённый, он оборачивается и обращается к вам грубым голосом: ::
 
 А? Вам чего?<end>
 
@@ -60,7 +60,7 @@ I don't care if you fought the Beast, you can't act like you're the boss around 
 They let anyone around here these days. Jeez!<end>
 
 =>q10
-Теперь сюда пускают кого попало. Господи!<end>
+Теперь сюда пускают кого попало. Просто отлично!<end>
 
 =>a11_original
 Please accept my sincerest condolences.<end>
@@ -88,7 +88,7 @@ No one told you yet?<end>
 Told me what? I don't... ::The rest of the sentence ends up getting swallowed and never leaves the mouth. Shortly after the abrupt pause you can clearly see how the thoughts he is having mold his expression into that of blood-curdling horror.:: Is this about my son? Is it? Please don't tell me my little boy... No, please no! NO!<end>
 
 =>q14
-Не сказали что? Я не... ::Он проглатывает конец предложения. Вскоре после этой внезапной паузы вы ясно видите, как его лицо искажает леденящий кровь ужас.:: Это насчёт моего сына? Да? Пожалуйста, не говорите что мой маленький мальчик... нет, пожалуйста, нет! Нет!<end>
+Не сказали чего? Я не... ::Он проглатывает конец предложения. Вскоре после этой внезапной паузы вы ясно видите, как его лицо искажает леденящий кровь ужас.:: Это насчёт моего сына? Да? Пожалуйста, не говорите что мой маленький мальчик... нет, пожалуйста, нет! Нет!<end>
 
 =>a15_original
 I'm very sorry.<end>
@@ -166,13 +166,13 @@ What can you tell me about Foundry?<end>
 Can't you see I'm working? Go and ask someone else about Foundry. I'm sure there'll be someone willing to chat with you.<end>
 
 =>q27
-Разве вы не видите, я работаю? Идите и попросите кого-нибудь другого рассказать о Литейной. Я уверен, масса народа с радостью пообщается с вами.<end>
+Разве вы не видите, что я работаю? Идите и попросите кого-нибудь другого рассказать о Литейной. Я уверен, масса народа с радостью пообщается с вами.<end>
 
 =>q28_original
 Jeez, $(#man/woman).<end>
 
 =>q28
-Господи, $(#мужчина/женщина).<end>
+Ну вы даёте, $(#мужчина/женщина).<end>
 
 =>a29_original
 I'll be going now.<end>
