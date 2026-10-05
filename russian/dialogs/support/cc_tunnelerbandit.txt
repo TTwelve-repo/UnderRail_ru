@@ -6,7 +6,7 @@ Yo pipeworker, this here ain't a place for the likes of *you*! Drop off out of h
 =>q1
 ::Этот вооружённый накачанный мужчина приветствует вас обратным кивком, после чего издаёт отвратительный звук горлом и сплёвывает чем-то желтовато-коричневым. Секунду спустя, он снова сплёвывает в ту же точку и обращается к вам громким голосом, столь же грубым, как и его манеры: ::
 
-Йоу, трубочист, здесь *таких* не любят! Проваливай или попадёшь в суповую бочку!<end>
+Йоу, трубочист$(#/ка), здесь *таких* не любят! Проваливай или попадёшь в суповую бочку!<end>
 
 =>q2_original
 <end>
@@ -18,13 +18,13 @@ Yo pipeworker, this here ain't a place for the likes of *you*! Drop off out of h
 I'm interested in that tunneler over there, and you're in the way.<end>
 
 =>a3
-Меня интересует вон тот проходчик, и вы загораживаете мне дорогу.<end>
+Меня интересует вон тот проходчик, а вы загораживаете мне дорогу.<end>
 
 =>q4_original
 Be interested all you want, this here tunna belong to us. Drop off now, pipeworker.<end>
 
 =>q4
-Интересуйся чем хошь, но этот вон прохоччик наш. Провались, трубочист.<end>
+Интересуйся чем хошь, но этот вон прохоччик наш. Провались, трубочист$(#/ка).<end>
 
 =>q5_original
 You still here?<end>
@@ -166,7 +166,7 @@ Make way!<end>
 You stupid pipeworker - drop off! You almost make me laugh, but my face were hurt by bullet so I can't laugh.<end>
 
 =>q25
-Ты, тупой трубочист, провались! Я бы поржал, но у меня пуля в лице и я не могу ржать.<end>
+Ты, туп$(#ой/ая) трубочист$(#/ка), провались! Я бы поржал, но у меня пуля в лице и я не могу ржать.<end>
 
 =>q26_original
 You is stupid! I can laugh! ::He laughs.:: You fell for it!<end>
