@@ -10,7 +10,7 @@ Corporal?<end>
 This is a restricted area. Get lost, $(#pal/woman).<end>
 
 =>q2
-::Охранник бросает на вас взгляд, прежде чем заговорить.:: 
+::Охранник бросает на вас взгляд, прежде чем сообщить: :: 
 
 Запретная зона. Проваливай.<end>
 
@@ -24,7 +24,7 @@ I'm here on official business. Captain Herve from Rail Crossing sent me here to 
 Ehm... Regarding that, you'll want to see Major Clifton. Just go straight down past the large crane and you'll see his office. Can't miss it.<end>
 
 =>q4
-А... по этому вопросу вам надо к майору Клифтону. Идите прямо мимо большого крана и вы увидите его офис. Мимо не пройдёте.<end>
+А... по этому вопросу вам надо к майору Клифтону. Идите прямо мимо большого крана, и вы увидите его офис. Мимо не пройдёте.<end>
 
 =>a5_original
 Thank you very much.<end>
