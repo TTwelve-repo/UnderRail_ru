@@ -40,7 +40,7 @@ Hold it right there, citizen. You are about to enter Underrail Protectorate terr
 =>q6
 ::Охранник жестом останавливает вас.::
 
-Подождите, граждан$(#ин/ка). Вы входите на территорию, контролируемую Протекторатом Подземки. Допуск ограничен. Назовите цель вашего визита.<end>
+Подождите, граждан$(#ин/ка). Вы входите на территорию, контролируемую Протекторатом Подземки. Доступ ограничен. Назовите цель вашего визита.<end>
 
 =>q7_original
 <end>
@@ -58,7 +58,7 @@ My name is $(context.player.Name) and I was sent here by Ambassador Athanas in o
 ::The guard visually inspects you before replying.:: I would need to confirm that. $(context.player.Name) - is that what you said?<end>
 
 =>q9
-::Охранник внимательно вас осматривает, прежде чем ответить.:: Я обязан проверить ваши слова. $(context.player.Name) -- я правильно расслышал?<end>
+::Охранник внимательно вас осматривает, прежде чем ответить: ::Я обязан проверить ваши слова. $(context.player.Name) -- я правильно расслышал?<end>
 
 =>a10_original
 Correct.<end>
