@@ -16,7 +16,7 @@
 Welcome to Epione Lab, $(#sir/ma'am).<end>
 
 =>q3
-::Солдат стоит по стойке смирно и приветствует вас.::
+::Солдат встаёт по стойке смирно и приветствует вас: ::
 
 Добро пожаловать в лабораторию Эпиона, $(#сэр/мэм).<end>
 
@@ -166,7 +166,7 @@ He can often be found near the elevator in the northern section of the building;
 Thank you, soldier. I will go find him.<end>
 
 =>a27
-Спасибо, солдат. Я пойду к нему.<end>
+Спасибо, солдат. Я найду его.<end>
 
 =>q28_original
 $(#Sir/Ma'am)! ::Salutes.::<end>
@@ -218,7 +218,7 @@ This is a restricted area, citizen. I'm going to have to order you to leave imme
 I um... was sent here from the high command to inspect this... facility... thing...<end>
 
 =>a35
-Я, э-э... меня прислали из штаба осмотреть этот... объект... типа...<end>
+Я, э-э... меня прислали из штаба осмотреть этот... типа... объект...<end>
 
 =>q36_original
 ::The guard points his weapon at you, looking you straight in the eyes.:: 
