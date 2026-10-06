@@ -10,7 +10,7 @@ Cull the Faceless!<end>
 Stop, $(#brother/sister). This is the Institute's West Wing. I would highly recommend turning around and going back unless, of course, you have a death wish.<end>
 
 =>q2
-::Двое рясофоров, судя по всему, охраняют вход в этот мрачный коридор. Затхлый воздух приносит запах плесени из темноты; несколько горящих химических вспышек не в силах прогнать всепоглощающую тьму, притаившуюся в глубине коридора. Женщина-рясофор останавливает вас и, вполне ожидаемо, начинает разговор с предупреждения.::
+::Двое рясофоров, судя по всему, охраняют вход в этот мрачный коридор. Затхлый воздух приносит запах плесени из темноты; несколько горящих химических вспышек не в силах прогнать всепоглощающую тьму, притаившуюся в глубине коридора. Женщина-рясофор останавливает вас и, вполне ожидаемо, начинает разговор с предупреждения: ::
 
 Остановитесь, $(#брат/сестра). Это западное крыло Института. Я настоятельно советую вам развернуться и двинуться обратно, если, конечно, вам дорога жизнь.<end>
 
@@ -72,7 +72,7 @@ Still, orders are orders.<end>
 Truth be told, with all the strange things happening... I mean - stranger than usual, I personally think it's better to have rassophores here until the situation is cleared, plus I'm sure Eidein and His Excellency, Harmost Stavros know best.<end>
 
 =>q12
-По правде говоря, учитывая все странные вещи, которые происходят... я имею в виду, более странные чем обычно -- я лично считаю, что лучше поставить здесь рясофоров до выяснения ситуации, плюс, Эйдейн и Его Превосходительство гармост Ставрос знают лучше.<end>
+По правде говоря, учитывая все странные вещи, которые происходят... я имею в виду, более странные чем обычно -- я лично считаю, что лучше поставить здесь рясофоров до выяснения ситуации, плюс Эйдейн и Его Превосходительство гармост Ставрос знают лучше.<end>
 
 =>q13_original
 You like being here, is that what you're trying to say?<end>
@@ -224,9 +224,9 @@ So far the only creeps we've seen are coil spiders and shadow crawlers, but who 
 Still, we never had any major issues or breaches at this check point, which is apex. <end>
 
 =>q37
-Пока мы только видели электропауков и призрачных краулеров, но кто знает что там ещё есть. Они иногда подползают сюда, обычно поодиночке, но их легко выловить.
+Пока мы только видели электропауков и призрачных краулеров, но кто знает что там ещё есть. Они иногда выползают сюда, обычно поодиночке, но их легко выполоть.
 
-Тем не менее, у нас никогда не было серьёзных проблем или нарушений на этом контрольном пункте, который находится на вершине. <end>
+Тем не менее, у нас никогда не было серьёзных проблем или нарушений на этой заставе, что само по себе верховно. <end>
 
 =>q38_original
 You know, I just remembered one more thing: Sometimes we hear very strange sounds coming from the darkness. It's... strange, like nothing I've heard before. It doesn't sound like an animal or anything similar, I don't know.<end>
@@ -256,7 +256,7 @@ I would describe it as electrical-sounding, $(#brother/sister). Something like a
 Electrical?<end>
 
 =>a42
-Электрически?<end>
+Электрически?..<end>
 
 =>q43_original
 Yeah, I too think that is the best description. Electrical.<end>
@@ -268,7 +268,7 @@ Yeah, I too think that is the best description. Electrical.<end>
 Magnificent Tchort, the more I think about it the scarier it gets, so let's stop here. Guarding this hallway is already spooky enough.<end>
 
 =>q44
-Чорт великолепный, чем больше я думаю об этом, тем страшнее становится, так что давайте остановимся на этом. Стоять тут и так достаточно жутко.<end>
+Чорт великолепный, чем больше я думаю об этом, тем страшнее становится, так что давайте тут и остановимся. Стоять здесь и так достаточно жутко.<end>
 
 =>a45_original
 I see... Let me ask you something else.<end>
@@ -280,13 +280,13 @@ I see... Let me ask you something else.<end>
 Duty calls me from the darker end of the hallway, sister.<end>
 
 =>a46
-Долг зовёт меня из тёмного коридора, сестра.<end>
+Долг зовёт меня в темноту коридора, сестра.<end>
 
 =>q47_original
 Then may Tchort guide you back to us.<end>
 
 =>q47
-Тогда пусть Чорт направит тебя обратно к нам.<end>
+Тогда пусть Чорт направит вас обратно к нам.<end>
 
 =>a48_original
 I'll go where it's safe. Goodbye, sister.<end>

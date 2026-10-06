@@ -32,7 +32,7 @@ Tchort is evolution.<end>
 ::Stares at you.:: What is this armor you're wearing?<end>
 
 =>q6
-::Пристально смотрит на вас.:: Что это за броня на тебе?<end>
+::Пристально смотрит на вас.:: Что это за броня на вас?<end>
 
 =>q7_original
 If the Faceless come bothering us here... we will squash them like bugs.<end>
@@ -62,7 +62,7 @@ All Faceless should be culled.<end>
 We have superior genetics. Proven.<end>
 
 =>q11
-У нас лучшие генетики. Проверено.<end>
+У нас лучшие гены. Проверено.<end>
 
 =>q12_original
 $(#Brother/Sister)?<end>

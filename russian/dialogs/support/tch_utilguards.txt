@@ -16,7 +16,7 @@ Just follow sister Therese, $(context.player.Name).<end>
 Halt, $(#brother/sister), you have entered a restricted area. I will have to ask you to leave.<end>
 
 =>q3
-::Охранник жестом останавливает вас и говорит твёрдым голосом.::
+::Охранник жестом останавливает вас и говорит твёрдым голосом: ::
 
 Стойте, $(#брат/сестра), вы входите в запретную зону. Я должен попросить вас удалиться.<end>
 
