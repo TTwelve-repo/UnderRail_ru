@@ -10,7 +10,7 @@
 My name is Boyd, Edgard's deputy. We haven't had the chance to talk before.<end>
 
 =>q2
-::Перед вами худощавый молодой человек. Он снимает респиратор, чтобы говорить с вами, показывая чисто выбритое красивое лицо. Его руки, с другой стороны, почти полностью покрыты хаотичным узором из нанесённых татуировок, за исключением нескольких мест, где кожа изуродована горячим железным клеймом. Если присмотреться, каждая отдельная татуировка -- некий знак, представляющий какую-нибудь банду. Мужчина прекрасно видит, во что упёрлись ваши глаза, но попросту никак не реагирует на это. Он вежливо обращается к вам.::
+::Перед вами худощавый молодой человек. Он снимает респиратор, чтобы говорить с вами, показывая чисто выбритое красивое лицо. Его руки, с другой стороны, почти полностью покрыты хаотичным узором из нанесённых татуировок, за исключением нескольких мест, где кожа изуродована горячим железным клеймом. Если присмотреться, каждая отдельная татуировка -- некий знак, представляющий какую-нибудь банду. Мужчина прекрасно видит, во что упёрлись ваши глаза, но попросту никак не реагирует на это. Он вежливо обращается к вам: ::
 
 Здравствуйте, $(context.player.Name). Я Бойд, заместитель Эдгара. Нам прежде не представилась возможность познакомиться.<end>
 
@@ -18,7 +18,7 @@ My name is Boyd, Edgard's deputy. We haven't had the chance to talk before.<end>
 I'd like to speak to you about the... um, recent events, $(context.player.Name). Edgar has been killed, as you already know, so it is now up to me to tell you a few things I feel should be said. You've proven that you have, in your mind, in your heart, the things we value the most - courage and strength. You're a part of Camp Hathor now as much as I am, and Edgar unfortunately was. So, when you have some free time, talk to me. I have something to teach you.<end>
 
 =>q3
-Я бы хотел поговорить с вами о... э-э, последних событиях, $(context.player.Name). Эдгар погиб, как вы уже знаете, так что теперь я должен буду сказать вам несколько вещей, которые, думаю, необходимо сказать. Вы доказали, что в вашем сердце есть вещи, которые мы ценим больше всего -- мужество и сила. Вы -- такая же часть лагеря Хатор, как и я, и как Эдгар, к сожалению, был. Поэтому, когда у вас будет немного свободного времени, поговорите со мной. Мне есть чему научить вас.<end>
+Я бы хотел поговорить с вами о... э-э, последних событиях, $(context.player.Name). Эдгар погиб, как вы уже знаете, так что теперь я должен буду сказать вам несколько вещей, которые, думаю, необходимо сказать. Вы доказали, что в вашем сердце есть то, что мы ценим больше всего -- мужество и сила. Вы -- такая же часть лагеря Хатор, как и я, и как Эдгар, к сожалению, был. Поэтому, когда у вас будет немного свободного времени, поговорите со мной. Мне есть чему научить вас.<end>
 
 =>q4_original
 <end>
@@ -38,9 +38,9 @@ Yeah. I wanted to teach you some... hm, hunting methods and techniques developed
 So you know, this might... take a while.<end>
 
 =>q6
-Да. Я хотел показать вам некоторые... хм, охотничьи приёмы и методы, разработанные охотниками из лагеря Хатор. Меня учили этим вещам, когда я пришёл сюда, и я подумал, что было бы справедливо научить им вас. Вы так многое сделали для нас, уверен, Эдгар поступил бы точно так же, как и я. Да.
+Да. Я хотел показать вам некоторые... хм, охотничьи приёмы и методы, разработанные охотниками из лагеря Хатор. Меня учили этим вещам, когда я пришёл сюда, и я подумал, что было бы справедливо научить им вас. Вы так многое сделали для нас, -- уверен, Эдгар поступил бы точно так же. Да.
 
-Так что знаете... это может занять некоторое время.<end>
+Так что, знаете... это может занять некоторое время.<end>
 
 =>a7_original
 Time is not a issue, Boyd. I'm ready to learn.<end>
@@ -52,7 +52,7 @@ Time is not a issue, Boyd. I'm ready to learn.<end>
 Dominating! Let's get started... <end>
 
 =>q8
-Хардкор! Давай начнём... <end>
+Хардкор! Давайте начнём... <end>
 
 =>a9_original
 ::Let him teach you.::<end>
@@ -118,7 +118,7 @@ What can you tell me about Camp Hathor?<end>
 There's not much to say. We're a small but proud hunting community; basically, miners turned hunters after the Hathor mine was closed, if you will. Not much happens here, 'cept for the earthquake and 'cept for that recent burrower problem, but you would know how they got zoned out in the end. ::He laughs.:: That's pretty much it.<end>
 
 =>q19
-Тут немногое можно сказать. Мы -- маленькое, но гордое охотничье сообщество; в основном -- шахтёры, ставшие охотниками, когда шахта Хатор была закрыта. Тут редко что происходит, разве что землетрясение, да недавние проблемы с могильщиками, но вы знаете, как всё закончилось. ::Он смеётся.:: Вот, в общем-то, и всё.<end>
+Тут не многое можно сказать. Мы -- маленькое, но гордое охотничье сообщество; в основном -- шахтёры, ставшие охотниками, когда шахта Хатор была закрыта. Тут редко что происходит, разве что землетрясение, да недавние проблемы с могильщиками, но вы знаете, как всё закончилось. ::Он смеётся.:: Вот, в общем-то, и всё.<end>
 
 =>q20_original
 And now that we are free of the Rathound King, things are even more mundane around here.<end>
@@ -154,7 +154,7 @@ What's your opinion on this whole situation with the Rathound King?<end>
 I could hardly believe it when I heard it. We made truce with that pipeworker? The man who killed so many of us? Even children from what I've heard in the past. I think of the guy less than I think of the mud on my boots, and I think he's got some cheap trick up his sleeve. But if Edgar says otherwise...<end>
 
 =>q25
-Я едва мог поверить, когда услышал это. Мы заключили перемирие с трубочистом? Человеком, который убил столько наших? Даже детей, как я слышал. Я думаю об этом парне хуже чем о грязи на своих ботинках, и, наверняка, у него какой-нибудь дешёвый трюк в рукаве припрятан. Но если Эдгар говорит иначе...<end>
+Я едва мог поверить, когда услышал. Мы заключили перемирие с этим трубочистом? Человеком, который убил столько наших? Даже детей, как я слышал. Он хуже грязи на моих ботинках, и наверняка у него какой-нибудь дешёвый трюк в рукаве припрятан. Но если Эдгар говорит иначе...<end>
 
 =>q26_original
 I don't know. It is what it is. We'll see.<end>
@@ -166,7 +166,7 @@ I don't know. It is what it is. We'll see.<end>
 It's a bittersweet victory. The Rathound King has been zoned out, sure, but he took Edgar with him too. I, as his deputy, I am in charge of this place from now on, at least until we choose a new leader. So if you need anything important, talk directly to me. These are troubling times now, with Edgar's death and everything, but we'll manage somehow.<end>
 
 =>q27
-Это победа со слезами на глазах. Король крысоволков отправился в зону, конечно, но и Эдгар с ним. Я, как его заместитель, отныне отвечаю за это место, по крайней мере пока мы не выберем нового лидера. Так что если вам нужно что-то важное, говорите непосредственно со мной. Настали тревожные времена, смерть Эдгара и всё остальное, но мы как-нибудь справимся.<end>
+Это победа со слезами на глазах. Король крысоволков отправился в зону, конечно, но и Эдгар с ним. Я, как его заместитель, отныне отвечаю за это место, по крайней мере пока мы не выберем нового лидера. Так что, если вам нужно что-то важное, говорите непосредственно со мной. Настали тревожные времена, смерть Эдгара и всё остальное, но мы как-нибудь справимся.<end>
 
 =>q28_original
 Edgar was a not only a good leader, but an exceptional man as well. He meant a lot to us all, and especially to me. He welcomed me here despite who I was before and... I found home here. I'll miss him, dammit.<end>
@@ -196,7 +196,7 @@ How does it feel like being Edgar's deputy?<end>
 Dominating, I'd say. Edgar's a great leader and an even greater man, and helping someone like that run this community is a hard but very, very fulfilling job. I'm not saying this just because he's standing in the same room and can probably hear us, I really mean it. ::He laughs.:: I like it here.<end>
 
 =>q32
-Хардкор, я бы сказал. Эдгар -- великий лидер и замечательный человек, помогать ему управлять сообществом -- трудная, но очень, очень интересная работа. Я говорю это не только потому, что он стоит в этой же комнате и, наверняка, может слышать нас, я действительно так думаю. ::Он смеётся.:: Мне здесь нравится.<end>
+Хардкорно, я бы сказал. Эдгар -- великий лидер и замечательный человек, помогать ему управлять сообществом -- трудная, но очень, очень интересная работа. Я говорю это не только потому что он стоит в этой же комнате и наверняка может слышать нас, я действительно так думаю. ::Он смеётся.:: Мне здесь нравится.<end>
 
 =>q33_original
 I haven't found a reason to complain... yet! :: He laughs.::<end>
@@ -226,7 +226,7 @@ Why are you guys fighting?<end>
 It all started a couple of years ago. Camp Hathor had a different leader back then, and he opposed Rathound King's attempts at claiming *our* lands for himself. I don't know the details as I moved to Camp Hathor just a year ago, but that's what I was told when I got here.<end>
 
 =>q37
-Всё началось пару лет назад. Лагерем Хатор управлял другой лидер, также противостоявший попыткам Короля крысоволков отобрать *наши* земли. Я не знаю подробностей, я переехал в Лагерь Хатор всего год назад, но так мне сказали, когда я попал сюда.<end>
+Всё началось пару лет назад. Лагерем Хатор управлял другой лидер, также противостоявший попыткам Короля крысоволков отобрать *наши* земли. Я не знаю подробностей, я приехал всего год назад, но так мне сказали, когда я попал сюда.<end>
 
 =>q38_original
 Be careful if you run into him. He's an animal who often sets traps for our hunters or outright attacks them. He's smart, a smart savage, I give him that, and he's not someone you can afford to underestimate. Unless you wanna get zoned out.<end>
@@ -244,7 +244,7 @@ You don't know where he's hiding? You need to work on your tracking skills...<en
 I'm sad to admit this, but he's that good. And we've had quite some time to find him. <end>
 
 =>q40
-Мне грустно признавать это, но он правда хорош. А у нас было довольно много времени, чтобы найти его. <end>
+Мне грустно признавать это, но он правда хорош. А мы давно пытаемся найти его. <end>
 
 =>a41_original
 I wanted to ask you something else...<end>
@@ -282,7 +282,7 @@ Sorry, I'm busy.<end>
 Hello, $(context.player.Name). I'm Boyd, Edgar's deputy. I gotta thank you for dealing with those burrowers. Dominating work for which we owe you big time. Now, tell me what do you need?<end>
 
 =>q46
-::Перед вами худощавый молодой человек. Он снимает респиратор, чтобы говорить с вами, показывая чисто выбритое красивое лицо. Его руки, с другой стороны, почти полностью покрыты хаотичным узором из нанесённых татуировок, за исключением нескольких мест, где кожа изуродована горячим железным клеймом. Если присмотреться, каждая отдельная татуировка -- некий знак, представляющий какую-нибудь банду. Мужчина прекрасно видит, во что упёрлись ваши глаза, но попросту никак не реагирует на это. Он вежливо обращается к вам.::
+::Перед вами худощавый молодой человек. Он снимает респиратор, чтобы говорить с вами, показывая чисто выбритое красивое лицо. Его руки, с другой стороны, почти полностью покрыты хаотичным узором из нанесённых татуировок, за исключением нескольких мест, где кожа изуродована горячим железным клеймом. Если присмотреться, каждая отдельная татуировка -- некий знак, представляющий какую-нибудь банду. Мужчина прекрасно видит, во что упёрлись ваши глаза, но попросту никак не реагирует на это. Он вежливо обращается к вам: ::
 
 Здравствуйте, $(context.player.Name). Я Бойд, заместитель Эдгара. Я должен поблагодарить вас за уничтожение этих могильщиков. Доминирующая работа, за которую мы у вас в долгу. А теперь скажите мне, чем я могу вам помочь?<end>
 

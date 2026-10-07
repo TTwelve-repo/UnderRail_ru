@@ -74,7 +74,7 @@ Here you go. ::Give him the helmet.::<end>
 We gotta build a separate shack for this one - a museum. Lights and... and all that stuff, hm.<end>
 
 =>q12
-::Когда он берёт старый шлем из ваших рук, его лицо сияет, отражая радость идущую глубоко изнутри. Вам кажется, что он вот-вот заплачет, но, возможно, это было бы слишком.::
+::Когда он берёт старый шлем из ваших рук, его лицо сияет, отражая радость идущую глубоко изнутри. Вам кажется, что он вот-вот заплачет, но возможно, это было бы слишком.::
 
 Мы должны построить отдельный шалаш для него -- музей. С огнями и... и всё такое.<end>
 
@@ -118,7 +118,7 @@ You know, I'm really interested in purchasing that tailoring bench over there.<e
 ::He gives you a surprised look, as if unsure whether he understood you well.:: This one? This? I need that for me business. It ain't for sale.<end>
 
 =>q19
-::Он делает удивлённый вид, будто не понял вас.:: Этот? Вот он? Он мне нужен, для бизнеса. Он не на продажу.<end>
+::Он делает удивлённый вид, будто не понял вас.:: Этот? Вот он? Он мне нужен для работы. Он не на продажу.<end>
 
 =>a20_original
 Can't we make some deal? I haven't seen another one anywhere else and I need one.<end>
@@ -132,7 +132,7 @@ Can't we make some deal? I haven't seen another one anywhere else and I need one
 No, I'm sorry. I mean, I made this one meself and... No. No, sorry.<end>
 
 =>q21
-::Его взгляд прыгает между вами и станком. Затем он потирает подбородок, почёсывает голову и теребит ухо. После этого необычного ритуала, он отвечает.::
+::Его взгляд прыгает между вами и станком. Затем он потирает подбородок, почёсывает голову и теребит ухо. После этого необычного ритуала, он отвечает: ::
 
 Извините, нет. Я просто делал его под себя и... нет. Нет, простите.<end>
 
@@ -140,7 +140,7 @@ No, I'm sorry. I mean, I made this one meself and... No. No, sorry.<end>
 I'm willing to pay good money.<end>
 
 =>a22
-Я плачу хорошие деньги.<end>
+Я заплачу хорошие деньги.<end>
 
 =>q23_original
 ::He repeats the previous ritual, but a response comes a bit more quickly.::
@@ -148,7 +148,7 @@ I'm willing to pay good money.<end>
 Okay, listen here: This *cannot* go under one thousand charons. If you want it so bad, that's the price. Otherwise, it'd hurt me business, $(#mate/miss).<end>
 
 =>q23
-::Он повторяет предыдущий ритуал, но ответ выдаёт немного быстрее.::
+::Он повторяет предыдущий ритуал, но ответ выдаёт немного быстрее: ::
 
 Ладно, слушайте сюда: он *не может* стоить меньше тысячи харонов. Если он вам так нужен -- вот цена. Всё-таки, он нужен мне для дела, $(#друг/мисс).<end>
 
@@ -192,7 +192,7 @@ Yeah, I dig. No problems with me.<end>
 ::[Mercantile]:: One thousand is a bit too much. I think seven hundred is a fairer price. And it's not like you're running your business in Core City where life is a lot more expensive.<end>
 
 =>a30
-::[Торговля]:: Тысяча -- это многовато. Я думаю, семьсот -- более справедливая цена. Не то, чтобы вы вели дела в Кор-Сити, где жизнь намного дороже.<end>
+::[Торговля]:: Тысяча -- это многовато. Я думаю, семьсот -- более справедливая цена. Не то чтобы вы вели дела в Кор-Сити, где жизнь намного дороже.<end>
 
 =>q31_original
 Well, hm, it's true that this ain't Core City, I mean, yeah, but... ::He pauses to think.:: Okay, okay, okay. It's yours for seven hundred.<end>
@@ -270,7 +270,7 @@ I was expecting to learn something new.<end>
 ::He shrugs.:: There ain't nothin' fancy about the way I do it, I'm afraid. I got a couple of tricks of mine, of course, but again, nothin' much fancy.<end>
 
 =>q43
-::Он пожимает плечами.:: Боюсь, нет никаких секретов в том, как я это делаю. Есть у меня пара своих приёмов, конечно, но, опять же, ничего особенного.<end>
+::Он пожимает плечами.:: Боюсь, нет никаких секретов в том, как я это делаю. Есть у меня пара своих приёмов, конечно, но опять же, ничего особенного.<end>
 
 =>a44_original
 Good to know. I had other questions.<end>
@@ -336,7 +336,7 @@ What can you tell me about Camp Hathor?<end>
 Ah, yes... Many, many years ago, an expedition came from the west, led by a man called Isaac Hathor. You know, later known as Hathor the Coalbringer. As they were makin' their way here, they ran into deadly beasts of different kinds: burrowers, crawlers, even Tunnelers, hm. And as they bravely fought their way through, they found this place, and with that - they discovered the richest coal deposits they'd ever seen! So, Camp Hathor was constructed, constructed by his holy hands, black from all the coal...<end>
 
 =>q54
-Ах, да... Много, много лет назад, с запада пришла экспедиция, вёл её человек по имени Исаак Хатор. Ну, знаешь, позже прославившийся как Хатор Угледобытчик. По дороге сюда они встретили разных тварей: могильщиков, краулеров и даже Проходчиков, хм. Храбро пробившись сквозь них, они нашли это место с богатейшими залежами угля, каких ещё никто никогда не видел! Так появился Лагерь Хатор, построенный его святыми руками, чёрными от угля...<end>
+Ах, да... Много, много лет назад с запада пришла экспедиция, вёл её человек по имени Исаак Хатор. Ну, знаешь, позже прославившийся как Хатор Угледобытчик. По дороге сюда они встретили разных тварей: могильщиков, краулеров и даже Проходчиков, хм. Храбро пробившись сквозь них, они нашли это место с богатейшими залежами угля, каких ещё никто никогда не видел! Так появился Лагерь Хатор, построенный его святыми руками, чёрными от угля...<end>
 
 =>a55_original
 ::What have I gotten myself into? He won't stop talking. I'll take a short standing nap.::<end>
@@ -366,7 +366,7 @@ I've noticed that you and the other two merchants here are named Fred, Fredd and
 Folks often ask us that. It's just a coincidence, nothing else. It can be amusin' though at certain times. For example, Fred, who's the regular jokester, sometimes intentionally tells people that we're brothers or whatever he thinks of at that particular time. And some people believe it, so he keeps on pullin' their leg and it leads to a lot of funny situations.<end>
 
 =>q59
-Нас часто спрашивают. Это просто совпадение, ничего больше. Хотя, иногда бывает весело. Например, Фред -- большой шутник; бывает, намеренно говорит людям, что мы -- братья или ещё что-нибудь придумает. И некоторые верят этому, а он нарочно правду не говорит, это приводит к множеству забавных ситуаций.<end>
+Нас часто спрашивают. Это просто совпадение, ничего больше. Хотя, иногда бывает весело. Например, Фред -- большой шутник; бывает, намеренно говорит людям, что мы братья или ещё что-нибудь придумает. И некоторые верят этому, а он нарочно правду не говорит, это приводит к множеству забавных ситуаций.<end>
 
 =>q60_original
 All in all, would you like to buy somethin'?<end>
@@ -390,7 +390,7 @@ What? We made truce with the Rathound King? I mean, he used to be our worst enem
 I don't dig. Why would Edgar...? It's a trap. It's fishy. Yeah.<end>
 
 =>q63
-Я не понимаю. Зачем Эдгару... Это ловушка. Это приманка. Ага.<end>
+Я не понимаю. Зачем Эдгару... Это ловушка. Это приманка. Наверняка.<end>
 
 =>q64_original
 It's a one for one trade - a great man for a great beast. We'll sleep easier 'cause the Rathound King is dead, but on the other hand, we'll lose some sleep over Edgar's death.<end>
@@ -402,7 +402,7 @@ It's a one for one trade - a great man for a great beast. We'll sleep easier 'ca
 If that means this beautiful place keeps on existin', then that's our destiny, I suppose, $(#mate/miss).<end>
 
 =>q65
-Если это значит, что это красивое место продолжит существование, то это наша судьба, наверное, $(#друг/мисс).<end>
+Если это значит, что наш прекрасный лагерь продолжит существование, то это наша судьба, наверное, $(#друг/мисс).<end>
 
 =>q66_original
 Yeah! He's gone! Yeah!<end>
@@ -476,7 +476,7 @@ What? What? I mean... What? Are you derailed...? I...<end>
 It's history. ::He sighs.:: I accept. I accept. Here's the coin. It's all I've got.<end>
 
 =>q77
-::Вы замечаете, как он медленно сникает. Вскоре он подтверждает наблюдения.::
+::Вы замечаете, как он постепенно смиряется с мыслью. Вскоре он подтверждает ваши наблюдения: ::
 
 Это история. ::Вздыхает.:: Я принимаю ваше предложение. Я согласен. Вот монеты. Это всё, что у меня есть.<end>
 
@@ -502,13 +502,13 @@ I can't give you that much coin. Please, can't we make some decent deal?<end>
 ::[Persuade]:: I'll trade it for your workbench.<end>
 
 =>a81
-::[Убеждение]:: Обменяю его на ваш станок.<end>
+::[Убеждение]:: Обменяю его на ваш верстак.<end>
 
 =>q82_original
 ::He gives you a surprised look, as if unsure whether he understood you well.:: This one? This? I need that for me business. I ain't givin' that for the helmet. Are you derailed?<end>
 
 =>q82
-::Он делает удивлённый вид, будто не понял вас.:: Этот? Вот он? Он мне нужен, для бизнеса. Я не отдам его за шлем. Вы в своём уме?<end>
+::Он делает удивлённый вид, будто не понял вас.:: Этот? Вот этот? Он мне нужен для работы. Я не отдам его за шлем. Вы в своём уме?<end>
 
 =>a83_original
 Then you don't want the helmet that much.<end>
@@ -520,7 +520,7 @@ Then you don't want the helmet that much.<end>
 I want it but... a workbench? This is valueble to me, $(#mate/miss). Come on.<end>
 
 =>q84
-Он мне нужен, но... станок? Он мне тоже нужен, $(#друг/мисс). Ну же.<end>
+Он мне нужен, но... верстак? Он мне тоже нужен, $(#друг/мисс). Ну же.<end>
 
 =>a85_original
 ::Remain silent.::<end>
@@ -534,7 +534,7 @@ I want it but... a workbench? This is valueble to me, $(#mate/miss). Come on.<en
 It's history. ::He sighs.:: I accept. I accept. Take it. Take it. Just, take it.<end>
 
 =>q86
-::Вы замечаете, как он медленно сникает. Вскоре он подтверждает ваши наблюдения.::
+::Вы замечаете, как он постепенно смиряется с мыслью. Вскоре он подтверждает ваши наблюдения: ::
 
 Это история. ::Он вздыхает.:: Я принимаю ваше предложение. Я согласен. Я согласен. Берите. Берите. Просто забирайте его.<end>
 
@@ -554,7 +554,7 @@ Whatever. Can I have the helmet now?<end>
 ::He gives you a surprised look, as if unsure whether he understood you well.:: This one? This? I need that for me business. I ain't givin' that for the helmet. Are you derailed? Please, can't we make some decent deal?<end>
 
 =>q89
-::Он делает удивлённый вид, будто не понял вас.:: Этот? Вот он? Он мне нужен, для бизнеса. Я не отдам его за шлем. Вы в своём уме? Может, сделаете более разумное предложение?<end>
+::Он делает удивлённый вид, будто не понял вас.:: Этот? Вот этот? Он мне нужен для работы. Я не отдам его за шлем. Вы в своём уме? Может, сделаете более разумное предложение?<end>
 
 =>a90_original
 I changed my mind.<end>
@@ -644,7 +644,7 @@ Where are goin'? $(#Mate/Miss)?<end>
 ::You snap out of your vertical slumber to hear Fredd yelling.:: And so, Jezebel told him: "These people need you, Isaac!" But Isaac knew somethin' she ain't, I mean didn't. He knew the secret of the mine, he knew about the hidden knowledge one could unlock just by touchin' the mysterious crystals. They summoned him, and so he went into the darkness, never to be seen again...<end>
 
 =>q104
-::Вы спите стоя, пока вас не будят крики Фредда.:: И тогда, Иезавель сказала ему: «Эти люди нуждаются в тебе, Исаак!» Но Исаак знал то, чего не знала она. Он знал тайну шахты, знал о скрытых знаниях, которые можно получить, просто дотронувшись до таинственных кристаллов. Они звали его, и потому он ушёл в темноту, чтобы никогда не вернуться...<end>
+::Вы спите стоя, пока вас не будят крики Фредда: ::И тогда Иезавель сказала ему: «Эти люди нуждаются в тебе, Исаак»! Но Исаак знал то, чего не знала она. Он знал тайну шахты, знал о скрытых знаниях, которые можно получить, просто дотронувшись до таинственных кристаллов. Они звали его, и потому он ушёл в темноту, чтобы никогда не вернуться...<end>
 
 =>a105_original
 Is it over yet? I have to go somewhere else, and do some stuff.<end>

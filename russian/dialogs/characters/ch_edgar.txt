@@ -14,7 +14,7 @@ It was difficult, but we got him.<end>
 We sure did. There's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King, and thus made our lives a lot easier. First, take this. ::He hands you 300 charons.::<end>
 
 =>q3
-Действительно, это так. Мне осталось сделать только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.::<end>
+Действительно, это так. Осталось только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.::<end>
 
 =>q4_original
 This is not your only reward, of course. You are one of us now. Come see me when you have the time and I'll teach you a few things that a *hunter* like you might find useful. Not many get the opportunity.<end>
@@ -44,7 +44,7 @@ Meh, piece of cake. I could have killed him without anyone's help.<end>
 I'm amazed how you make everything look so easy. There's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King as well, therefore making our lives much easier. First, take this. ::Hands you 300 charons.::<end>
 
 =>q8
-Ваша невозмутимость никогда не перестанет удивлять меня. Мне осталось сделать только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.::<end>
+Меня никогда не перестанет удивлять, как легко у вас всё выходит. Осталось только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.::<end>
 
 =>q9_original
 Finally we stand face to face! Time to fix our vermin problem once and for all.<end>
@@ -56,7 +56,7 @@ Finally we stand face to face! Time to fix our vermin problem once and for all.<
 ::The Rathound King looks at you with a condescending smirk on his face.:: I see you have betrayed me, little one. Pity, you amused me for a while. But not anymore. ::He then turns toward Edgar.:: You dare threaten me in my lair!? Worst mistake of your life, because you'll now feel the wrath of the Rathound King. Both of you!<end>
 
 =>q10
-::Король крысоволков смотрит на вас со снисходительной ухмылкой на лице.:: Я вижу, ты предал$(#/а) меня, щенок. Жаль, я даже находил тебя забавн$(#ым/ой). Больше -- нет. ::Затем он обращается к Эдгару.:: Ты смеешь угрожать мне в моём логове?! Самая большая ошибка в твоей жизни, сейчас вы познаете гнев Короля крысоволков. Все вы!<end>
+::Король крысоволков смотрит на вас со снисходительной ухмылкой на лице.:: Я вижу, ты предал$(#/а) меня, $(#щенок/блоха). Жаль, я даже находил тебя забавн$(#ым/ой). Больше -- нет. ::Затем он обращается к Эдгару: ::Ты смеешь угрожать мне в моём логове?! Самая большая ошибка в твоей жизни, сейчас вы познаете гнев Короля крысоволков. Все вы!<end>
 
 =>q11_original
 Let's end this already. I ain't got anything more to say to you, beast.<end>
@@ -76,7 +76,7 @@ Let's end this already. I ain't got anything more to say to you, beast.<end>
 Greetings, traveler. Edgar Garnham's the name, and I'm the leader of Camp Hathor. We're in a bit of an emergency, so state your business quickly.<end>
 
 =>q13
-::Сидящий за столом мужчина кивает, увидев вас. Похоже, что вы застали его за чисткой пистолета, так что он собирает его несколькими быстрыми движениями и кладёт его в стол, прежде чем уделяет внимание вам. Он встаёт и скрещивает руки на груди, что заставляет его казаться больше, хотя даже и без этого ширина его плеч производит впечатление. Бросив на вас взгляд, он начинает разговор.::
+::Сидящий за столом мужчина кивает, увидев вас. Похоже, что вы застали его за чисткой пистолета, так что он собирает его несколькими быстрыми движениями и кладёт в стол, прежде чем уделяет внимание вам. Он встаёт и скрещивает руки на груди, что заставляет его казаться больше, хотя даже и без этого ширина его плеч производит впечатление. Бросив на вас взгляд, он начинает разговор: ::
 
 Приветствую вас, $(#путник/путница). Моё имя Эдгар Гарнхем, и я лидер лагеря Хатор. У нас сейчас непростая ситуация, поэтому выкладывайте, что вам надо, да побыстрее.<end>
 
@@ -108,7 +108,7 @@ I met him.<end>
 What? You met him? Where? How?<end>
 
 =>q18
-Что? Вы встретились с ним? Где? Как?<end>
+Что? Вы встречали его? Где? Как?<end>
 
 =>a19_original
 I managed to get into his lair, south of here. I went past some caves filled with rathounds, then found an abandoned building that turned out to be the entrance to his lair. Then I killed him. ::Show him the Rathound King's head.::<end>
@@ -120,7 +120,7 @@ I managed to get into his lair, south of here. I went past some caves filled wit
 Amazing! $(context.player.Name), there's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King as well, therefore making our lives much easier. First, take this. ::He hands you 300 charons.:: <end>
 
 =>q20
-Потрясающе! $(context.player.Name), мне осталось сделать только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.:: <end>
+Потрясающе! $(context.player.Name), осталось только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.:: <end>
 
 =>a21_original
 I found his lair south of here. I went past some caves filled with rathounds, then found an abandoned building that turned out to be the entrance to his lair. It was heavily trapped, but I managed to get inside and got to talk to him.<end>
@@ -144,7 +144,7 @@ I actually managed to convince him to negotiate a truce with Camp Hathor.<end>
 You did what!? Without talking to me about it? You really have guts, you know that? ::He pauses, continuing after several moments.:: Wait, but what do you mean, "you managed to convince him to negotiate a truce"? How...? I suspect it ain't nothing but one of his tricks.<end>
 
 =>q24
-Вы -- что?! Не поговорив со мной об этом? В дерзости вам не откажешь, известно ли вам это? ::Он замолкает, прежде чем продолжить через несколько мгновений.:: Подождите, но как это вы «убедили его заключить перемирие»? Как?.. Я подозреваю, что это не что иное, как очередная его уловка.<end>
+Вы -- что?! Не поговорив со мной об этом? В дерзости вам не откажешь, известно ли вам это? ::Он замолкает на несколько мгновений.:: Подождите, но как это вы «убедили его заключить перемирие»? Как?.. Я подозреваю, что это ни что иное, как очередная его уловка.<end>
 
 =>a25_original
 ::[Persuade]:: Yes, he agreed that I do all the talking, because he doesn't trust you guys enough to meet with him. He just said that he wants you to leave him alone. No trespassing on his land south of Camp Hathor, and the south part of hunting grounds is also his, and his alone. He said that if you can agree on that, he won't harm or disturb you in any way ever again.<end>
@@ -156,7 +156,7 @@ You did what!? Without talking to me about it? You really have guts, you know th
 ::Edgar was carefully listening to your every word. You could see different emotions ripple across his face, yet the one that stuck after you finished relaying Rathound King's demands is a neutral one. It takes him a minute or so, but he soon responds.::<end>
 
 =>q26
-::Эдгар внимательно слушает каждое ваше слово. Различные эмоции пересекают его лицо, но после того как вы закончили перечислять требования Короля крысоволков, оно остаётся невыразительным. Проходит минута или около того, прежде чем он отвечает.::<end>
+::Эдгар внимательно слушает каждое ваше слово. Различные эмоции пересекают его лицо, но после того, как вы закончили перечислять требования Короля крысоволков, оно остаётся невыразительным. Проходит минута или около того, прежде чем он даёт ответ.::<end>
 
 =>q27_original
 You know what? I'm willing to trust him, but only because I trust you. You've proven yourself, and if you say this isn't a trick, then I suppose I can give you my official statement. We accept the truce; south part of hunting grounds belongs to him, no one from Camp Hathor will trespass on his land. 
@@ -184,7 +184,7 @@ Report back to me when you're done. I hope I am not making a mistake.<end>
 I don't trust any of that, it must be a trick. I can't accept his proposal, because I know it is only there to make us lower our guard. And you, he is manipulating you. Do not fall for his tricks.<end>
 
 =>q30
-Я не верю ни единому слову, это должна быть уловка. Я не могу принять его предложение, потому что я знаю, что это только для того, чтобы заставить нас ослабить нашу бдительность. А вы, он манипулирует вами. Не поддавайтесь на его уловки.<end>
+Я не верю ни единому слову, это должна быть уловка. Я не могу принять его предложение, потому что я знаю, что всё это только для того, чтобы заставить нас ослабить нашу бдительность. А вы, -- он манипулирует вами. Не поддавайтесь на его уловки.<end>
 
 =>q31_original
 Is there anything else you have for me?<end>
@@ -224,7 +224,7 @@ Yes. There's also a dangerous maze beyond that, but I remember the way.<end>
 Ah... In that case, listen: If you could lead me and some of my men to his lair, we could take him by surprise and finally kill him. You will, of course, be rewarded for helping us get rid of him. What do you say?<end>
 
 =>q36
-Ах... В таком случае, послушайте: если бы вы смогли провести меня и несколько моих людей в его логово, мы могли бы захватить его врасплох и наконец убить его. Вы, конечно же, будете вознаграждены за помощь в избавлении от него. Что скажете?<end>
+Ах... В таком случае, послушайте: если бы вы смогли провести меня и несколько моих людей в его логово, мы могли бы захватить его врасплох и наконец убить его. Вы, конечно же, будете вознаграждены за помощь в его устранении. Что скажете?<end>
 
 =>a37_original
 Yup, I can get us in undetected. We should go immediately.<end>
@@ -236,7 +236,7 @@ Yup, I can get us in undetected. We should go immediately.<end>
 If you can do that, that could prove to be the best option. Let's get my men and we'll get going. ::Edgar starts to walk toward the exit, but stops after two steps.:: You know, if something... happens to me there, talk to Boyd. I'll have everything arranged for you, just in case. You'll see when we get back.<end>
 
 =>q38
-Если вы это можете, тогда это будет лучшим вариантом. Я соберу людей, и мы выдвигаемся. ::Эдгар делает пару шагов в сторону выхода, но останавливается.:: Вы знаете, если что-то... случится со мной там, поговорите с Бойдом. Я распоряжусь насчёт вашей награды, на всякий случай. Увидите, когда мы вернёмся.<end>
+Если вы сможете, тогда это будет лучшим вариантом. Я соберу людей, и мы выдвигаемся. ::Эдгар делает пару шагов в сторону выхода, но останавливается.:: Вы знаете, если что-то... случится со мной там, поговорите с Бойдом. Я распоряжусь насчёт вашей награды, на всякий случай. Увидите, когда мы вернёмся.<end>
 
 =>a39_original
 ::Go to the Rathound King's lair with Edgar and his men.::<end>
@@ -254,7 +254,7 @@ I'll take care of it. Alone.<end>
 If you say so. I'll be waiting here in that case. You proved your worth once, let's see If you'll be able to do it again. Good luck, $(context.player.Name)!<end>
 
 =>q41
-Как вы скажете. В таком случае, я буду ждать вас здесь. Вы уже однажды показали, на что способны, давайте посмотрим, сможете ли вы сделать это снова. Удачи, $(context.player.Name)!<end>
+Как скажете. В таком случае, я буду ждать вас здесь. Вы уже однажды показали, на что способны, давайте посмотрим, сможете ли вы сделать это снова. Удачи, $(context.player.Name)!<end>
 
 =>q42_original
 <end>
@@ -274,7 +274,7 @@ We'll kill him ourselves, then. I'll take some men and we'll go there. This has 
 Wish us luck, $(context.player.Name).<end>
 
 =>q44
-В таком случае мы убьём его сами. Я возьму несколько человек, и мы отправимся в путь. Этому пора положить конец. Вы получите своё вознаграждение, когда мы вернёмся; информация, которую вы подарили нам, бесценна. 
+В таком случае, мы убьём его сами. Я возьму несколько человек, и мы отправимся в путь. Этому пора положить конец. Вы получите своё вознаграждение, когда мы вернёмся; информация, которую вы сообщили нам, бесценна. 
 
 Пожелайте нам удачи, $(context.player.Name).<end>
 
@@ -318,13 +318,13 @@ Of course he is. I have a proposal for you: You mentioned that the entrance to h
 He's not that bad, but he's not someone I'd hang out with.<end>
 
 =>a51
-Он не то чтобы плохой, но не тот, с кем я бы стал$(#/а) тусоваться.<end>
+Он не то чтобы злодей, но не тот, с кем я бы стал$(#/а) тусоваться.<end>
 
 =>q52_original
 Hang out with? Did a stalactite drop on your head!? He's treacherous, he's savage - he's dangerous. Listen, I have a proposal for you: You mentioned that the entrance to his lair heavily trapped?<end>
 
 =>q52
-Тусоваться? Вам сталактит на голову не падал в последнее время? Он коварен, он дикарь, он опасен. Слушайте, у меня есть к вам предложение: вы упомянули, что вход в его логово усеян ловушками?<end>
+Тусоваться? Вам сталактит на голову не падал в последнее время? Он дикарь, он коварен и опасен. Слушайте, у меня есть к вам предложение: вы упомянули, что вход в его логово усеян ловушками?<end>
 
 =>a53_original
 Who is he actually?<end>
@@ -336,7 +336,7 @@ Who is he actually?<end>
 The self proclaimed Rathound King is a savage man that lives with his filthy rathounds. He appears to have absolute control over them, as they behave much like a small army. It is almost unreal. I don't know where he resides or how he manages to control these rathounds, but one thing is certain: He's one very dangerous individual.<end>
 
 =>q54
-Самопровозглашённый Король крысоволков -- это дикарь, который живёт со своими погаными крысоволками. Похоже, что он имеет абсолютную власть над ними, так как они ведут себя подобно маленькой армии. В это почти невозможно поверить. Я не знаю, где он живёт или как ему удаётся контролировать этих крысоволков, но одно можно сказать точно: он очень опасен.<end>
+Самопровозглашённый Король крысоволков -- это дикарь, который живёт со своими грязными крысоволками. Похоже, что он имеет абсолютную власть над ними, так как они ведут себя подобно маленькой армии. В это почти невозможно поверить. Я не знаю, где он живёт или как ему удаётся контролировать этих крысоволков, но одно можно сказать точно: он очень опасен.<end>
 
 =>q55_original
 If you run into him by any chance, you better run for your life, because he ain't gonna show you mercy and I think no man or woman can defeat him alone. He's intelligent, and he's as large as a boulder. He's the master of setting deadly traps and covering his tracks so well that, for most of us, he might as well be floating through these caves. And I'm not even going to mention the deadly poisons he uses with his weapons...
@@ -344,7 +344,7 @@ If you run into him by any chance, you better run for your life, because he ain'
 He's killed many of our own, and I don't think he's bound to stop.<end>
 
 =>q55
-Если вы случайно наткнётесь на него, лучше спасайтесь бегством, потому что он вас не пощадит, и я не думаю, что одному человеку по силам одолеть его. Он умён, он здоров как валун. Он мастер смертельных ловушек и заметает следы так хорошо, что для многих из наших охотников он будто летает через эти пещеры. И я даже не говорю о смертельных ядах, которые он использует...
+Если вы случайно наткнётесь на него, лучше спасайтесь бегством, потому что он вас не пощадит, и я не думаю, что одному человеку по силам одолеть его. Он умён, он здоров как валун. Он мастер смертельных ловушек и заметает следы так хорошо, что для многих из наших охотников он будто ходит по воздуху. И я даже не говорю о смертельных ядах, которые он использует...
 
 Он уже убил много наших, и не похоже, что он собирается останавливаться.<end>
 
@@ -358,7 +358,7 @@ But why are you guys fighting?<end>
 It all started four years ago, even though it seems like a century. Back then, late Gideon Sud was the leader of Camp Hathor. One day he came before us all and told us that someone calling himself "Rathound King" was invading our hunting grounds. At one point Gideon said he had even managed to speak to this man, but it turned out he wasn't nothing but a filthy savage who had no interest in discussing anything with anyone. <end>
 
 =>q57
-Всё началось четыре года назад, хотя кажется, что целый век. Тогда, ныне покойный Гидеон Сад был лидером лагеря Хатор. Однажды он собрал нас всех и сказал нам, что кто-то, называющий себя «Королём крысоволков», посягает на наши охотничьи угодья. Когда-то Гидеон даже сказал, что ему удалось поговорить с этим человеком, но оказалось, что он был просто грязным дикарём, который совершенно не желал обсуждать что-либо с кем-либо. <end>
+Всё началось четыре года назад, хотя кажется, что целый век. Тогда, ныне покойный Гидеон Сад был лидером лагеря Хатор. Однажды он собрал нас всех и сказал нам, что кто-то, называющий себя «Королём крысоволков», посягает на наши охотничьи угодья. Однажды Гидеон даже сказал, что ему удалось поговорить с этим человеком, но оказалось, что он был просто грязным дикарём, который совершенно не желал обсуждать что-либо с кем-либо. <end>
 
 =>q58_original
 The man claimed these lands belonged to him, and wouldn't accept anyone telling him otherwise. His stubborn attitude and Gideon's refusal to give in to this man's demands marked the start of our conflict. Since then, he's been attacking our hunters, either directly or by trapping the hunting grounds, and on a few occasions has even sent packs of rathounds to invade our camp. All in all, he's caused a lot of trouble and lot of death around here. But we'll get rid of him, eventually. We will get rid of him.<end>
@@ -376,19 +376,19 @@ What if I can take him down?<end>
 In that case, I'll say one thing: Good luck with that! You need to find him first; so far, we've had no luck in tracking him down. Even if you *do* somehow manage to find him, know that he's most likely surrounded by his rathounds. Even if he's alone, he's dangerous enough.<end>
 
 =>q60
-На это я могу сказать только одно: удачи, она вам понадобится! Сперва вам надо будет его найти; до сих пор нам не удалось его выследить. Даже если вам каким-то образом удастся его найти, знайте что он, скорее всего, окружён своими крысоволками. Даже если один, он достаточно опасен.<end>
+На это я могу сказать только одно: удачи, она вам понадобится! Сперва вам надо будет его найти -- до сих пор нам не удавалось его выследить. Даже если вам каким-то образом это удастся, знайте, что он, скорее всего, окружён своими крысоволками. Даже в одиночку он очень опасен.<end>
 
 =>a61_original
 I can do it.<end>
 
 =>a61
-Я могу это сделать.<end>
+Я справлюсь.<end>
 
 =>q62_original
 I sure hope so. You proved your worth once, let's see If you'll be able to do it again. I wanna see his severed head as proof and then... In any case, good luck.<end>
 
 =>q62
-Я очень надеюсь, что это так. Вы уже однажды показали, на что способны, давайте посмотрим, сможете ли вы сделать это снова. Я хочу увидеть его отрубленную голову в качестве доказательства, и тогда... в любом случае, удачи.<end>
+Я очень надеюсь, что это так. Вы уже однажды показали, на что способны, давайте посмотрим, сможете ли вы сделать это снова. Я хочу увидеть его отрубленную голову в качестве доказательства, и тогда... в общем, удачи.<end>
 
 =>a63_original
 I've changed my mind. Can I ask you something else?<end>
@@ -424,7 +424,7 @@ That's horrible. No wonder you've got so many armed guards around here.<end>
 It is horrible. That savage is like cancer, taking lives while we watch it without being able to do anything. But we'll get rid of him one day, mark my words. We will get rid of him.<end>
 
 =>q68
-Это ужасно. Этот дикарь как рак забирает жизни, пока мы смотрим, будучи не в состоянии что-либо сделать. Но придёт время, и мы избавимся от него, запомните мои слова. Мы избавимся от него.<end>
+Положение ужасное. Этот дикарь как чума забирает жизни, пока мы смотрим, будучи не в состоянии что-либо сделать. Но придёт время, и мы избавимся от него, запомните мои слова. Мы избавимся от него.<end>
 
 =>a69_original
 Actually, I'm not interested right now. I've got something else to do. See ya.<end>
@@ -466,13 +466,13 @@ That lying bastard. And to think that we almost made a truce with him.<end>
 You did excellent. There's only one thing left for me to do: You did so much for us, helped us get rid of the bugs and the Rathound King as well, therefore making our lives much easier. First, take this. ::Hands you 300 charons.:: <end>
 
 =>q75
-Вы отлично справились. Мне осталось сделать только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.:: <end>
+Вы отлично справились. Осталось только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.:: <end>
 
 =>a76_original
 And they didn't.<end>
 
 =>a76
-Так и было.<end>
+Так и вышло.<end>
 
 =>q77_original
 Excellent. It must've been a difficult fight.<end>
@@ -508,7 +508,7 @@ It was a difficult battle, but I managed to kill him. I found him in his lair, s
 He was hiding in his lair, south of Camp Hathor. I went past some caves filled with rathounds, then found an abandoned building that turned out to be the entrance to his lair. Once I got past the traps, it was a fairly easy battle.<end>
 
 =>a82
-Он скрывался в своём логове к югу от лагеря Хатор. Я прош$(#ёл/ла) через какие-то пещеры, кишащие крысоволками, затем наш$(#ёл/ла) заброшенное здание, в котором оказался вход в его логово. После того как я прош$(#ёл/ла) через его ловушки, победить его было несложно.<end>
+Он скрывался в своём логове к югу от лагеря Хатор. Я прош$(#ёл/ла) через какие-то пещеры, кишащие крысоволками, затем наш$(#ёл/ла) заброшенное здание, в котором оказался вход в его логово. После того, как я прош$(#ёл/ла) через его ловушки, победить его было несложно.<end>
 
 =>a83_original
 You wanted to teach me how to be a better hunter.<end>
@@ -544,9 +544,9 @@ Excellent. I feel relieved. We need to be careful still, of course, but somehow 
 This is not your only reward of course. You are one of us now. Come see me when you have the time and I'll teach you a few things that a *hunter* like you might find useful. Not many get this here fine opportunity.<end>
 
 =>q87
-Отлично. Это огромное облегчение. Разумеется, мы должны быть по-прежнему осторожны, но мне почему-то кажется, что это может сработать. Теперь, $(context.player.Name), мне осталось сделать только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.::
+Отлично. Это огромное облегчение. Разумеется, мы должны быть по-прежнему осторожны, но мне почему-то кажется, что это может сработать. Теперь, $(context.player.Name), осталось только одно: вы так много сделали для нас, помогли нам избавиться от жуков и Короля крысоволков, а следовательно, сделали нашу жизнь куда проще. Во-первых, примите это. ::Он протягивает вам 300 харонов.::
 
-Разумеется, это не единственная ваша награда. Теперь вы од$(#ин/на) из нас. Навестите меня, когда у вас будет время, и я научу вас нескольким трюкам, которые *охотни$(#к/ца)* вроде вас наш$(#ёл/ла) бы полезными. Здесь немногим выпадает такая возможность.<end>
+Разумеется, это не единственная ваша награда. Теперь вы од$(#ин/на) из нас. Навестите меня, когда у вас будет время, и я научу вас нескольким трюкам, которые *охотни$(#к/ца)* вроде вас наш$(#ёл/ла) бы полезными. Здесь не многим выпадает такая возможность.<end>
 
 =>q88_original
 <end>
@@ -564,13 +564,13 @@ Big Bret from SGS told me to come here and see what's happening with you guys. H
 Ah, good old Bret. This earthquake caused nothing more than a bit of panic and a problem or two, one of which is with our communication equipment. We'll get that fixed in no time. <end>
 
 =>q90
-Ах, старый добрый Брет. Это землетрясение вызвало не более чем небольшую панику и одну или две проблемы, одна из которых связана с нашим коммуникационным оборудованием. Мы это быстро исправим. <end>
+Ах, старый добрый Брет. Само землетрясение вызвало не более чем небольшую панику и пару проблем, одна из которых связана с нашим коммуникационным оборудованием. Мы это быстро исправим. <end>
 
 =>q91_original
 Everything else is running as usual; we're hunting and exporting meat at the same capacity, and now that the bugs are gone, we've got but a few things to worry about.<end>
 
 =>q91
-Все остальное работает как обычно; мы охотимся и экспортируем мясо в тех же объёмах, и теперь, когда жуки ушли, у нас есть только несколько вещей, о которых нужно беспокоиться.<end>
+Все остальное работает как обычно; мы охотимся и экспортируем мясо в тех же объёмах, и теперь, когда жуки ушли, у нас не много проблем, о которых нужно позаботиться.<end>
 
 =>q92_original
 Tell that to Bret and that we send our sincerest greetings.<end>
