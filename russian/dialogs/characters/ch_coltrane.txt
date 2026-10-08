@@ -6,7 +6,7 @@ Greetings, $(#laddie/lassie), I be Cap'n Coltrane, 'n' I got lots of interestin'
 =>q1
 ::Вы подходите к подтянутому капитану, который занят погрузкой каких-то коробок на паром. Похоже, это его собственное судно. Он вытирает пот со лба тыльной стороной ладони и улыбается, уже вытирая ту же самую руку о заднюю сторону штанов. Затем он обращается к вам хриплым баритоном: ::
 
-Приветствую, $(#малец/милаха), я капитан Колтрейн, яр-р. Куда путь буш даёшь? Я могу поведать много интересных историй тем, кто идёт со мной; капитан Колтрейн, ага, я видел вещи, в которые никто не поверит.<end>
+Приветствую, $(#малец/милаха), я капитан Колтрейн, яр-р. Куда путь буш даёшь? Я могу поведать много интересных историй тем, кто идёт со мной; капитан Колтрейн, так точно, я повидал такое, что никто не поверит.<end>
 
 =>q2_original
 <end>
@@ -36,7 +36,7 @@ Yarr, that's gunna cost ye *fourty* coins. 'Tis th' Grim Jetters, they be everyw
 Here you go. ::Give him 40 stygian coins.::<end>
 
 =>a6
-Вот, держи. ::Дать ему 40 стигийских монет.::<end>
+Вот, держите. ::Дать ему 40 стигийских монет.::<end>
 
 =>q7_original
 <end>
@@ -240,7 +240,7 @@ Aye! It'll cost ye *sixty* coins. 'Tis th' Grim Jetters, they be everywhere now.
 Here you go. ::Give him 60 stygian coins.::<end>
 
 =>a40
-Вот, держи. ::Дать ему 60 стигийских монет.::<end>
+Вот, держите. ::Дать ему 60 стигийских монет.::<end>
 
 =>q41_original
 Aye! It'll cost ye thirty coins.<end>
@@ -252,7 +252,7 @@ Aye! It'll cost ye thirty coins.<end>
 Here you go. ::Give him 30 stygian coins.::<end>
 
 =>a42
-Вот, держи. ::Дать ему 30 стигийских монет.::<end>
+Вот, держите. ::Дать ему 30 стигийских монет.::<end>
 
 =>a43_original
 I need to get to Forsaken Island.<end>
@@ -330,49 +330,49 @@ And?<end>
 Comforting.<end>
 
 =>a55
-Утешительно.<end>
+Утешительно слышать.<end>
 
 =>q56_original
 Even if 'e hadn't, 'e'd never have overcome the strong currents surroundin' the island, aye. It'd have thrashed 'im around like a three-sheets-to-the-wind landlubber would thrash a cutlass while fightin' off a colony of sea bats. Aye.<end>
 
 =>q56
-Даже если бы не слопали, он никогда не смог бы преодолеть сильные течения, окружающие остров. Он бы его поколотил, как сухопутная крыса с тремя простынями на ветру колотит абордажной саблей, отбиваясь от колонии морских летучих мышей. Ага.<end>
+И даже если бы не слопали, он никогда не смог бы преодолеть сильные течения, окружающие остров. Его бы бросало о камни, как сухопутную крысу после кружки рома, абордажной саблей отмахивающуюся от стаи морских летучих мышей. Так точно.<end>
 
 =>a57_original
 Let us change the subject.<end>
 
 =>a57
-Давай сменим тему.<end>
+Лучше сменим тему.<end>
 
 =>q58_original
 Aye?<end>
 
 =>q58
-Ага?<end>
+Так точно?<end>
 
 =>a59_original
 I have something more important to do right now. See ya.<end>
 
 =>a59
-Сейчас у меня есть, кое-что более важное. До встречи.<end>
+Сейчас у меня есть более важные дела. До встречи.<end>
 
 =>q60_original
 Aye. Farewell, $(#laddie/lassie).<end>
 
 =>q60
-Ага. Прощай, $(#паренёк/девчушка).<end>
+Так точно. Попутного ветра, $(#паренёк/девчушка).<end>
 
 =>a61_original
 I see. I'd like to go somewhere else, please.<end>
 
 =>a61
-Понятно. Тогда мне нужно в другое место.<end>
+Ясно. Тогда мне нужно в другое место.<end>
 
 =>q62_original
 Aye?<end>
 
 =>q62
-Ага?<end>
+Так точно?<end>
 
 =>a63_original
 Whatever. If you won't take me I'll find someone else.<end>
@@ -384,31 +384,31 @@ Whatever. If you won't take me I'll find someone else.<end>
 ::He laughs out loud.:: Good luck, matey.<end>
 
 =>q64
-::Он громко смеётся.:: Удачи, друже.<end>
+::Он громко смеётся.:: Удачи, дружище.<end>
 
 =>a65_original
 Do you know anything about the Black Sea?<end>
 
 =>a65
-Ты знаешь что-нибудь о Чёрном море?<end>
+Вам что-нибудь известно о Чёрном море?<end>
 
 =>q66_original
 Aye, th' Hell's Gut. It be north of here 'n' east of Dreadpool. It be a place of danger 'n' mystery, aye. Pirates - bloodthirsty, filthy 'n' deadly - be livin' thar. I've never sailed thar, nor have I been near it, for it's not only pirates who should be feared... but other things.<end>
 
 =>q66
-Ага, Адский котёл. Это на север отсюда и к востоку от озера Страха. Это место опасности и тайн. Там обитают кровожадные, грязные и смертельно опасные пираты. Я никогда не ходил дотуда, даже близко не был, потому что следует страшиться не только пиратов... но и кое-чего другого.<end>
+Так точно, Адский котёл. Это на север отсюда и к востоку от озера Страха. Воды, полные опасностей и тайн. Там обитают кровожадные, грязные и смертельно опасные пираты. Я никогда не ходил туда, даже близко не был, потому что следует страшиться не только пиратов... но и кое-чего другого.<end>
 
 =>a67_original
 What other things?<end>
 
 =>a67
-Что ещё?<end>
+Чего другого?<end>
 
 =>q68_original
 Thar be creatures that rarely venture into our waters. Water serpents so large 'n' toxic they could easily capsize yer ferry, or sink it by meltin' 'er with their acid spit. It happened to old salt Cap'n Bebop, the jazz o' th' South Underrail waters, 'cause 'e got too near th' Hell's Gut. Aye. Some say it be pirate chemical weapons, but us ferrymen know better.<end>
 
 =>q68
-Эти существа редко заходят в наши воды. Водяные змеи настолько велики и токсичны, что могут запросто опрокинуть паром или потопить его, расплавив борта плевками кислоты. Это случилось со старым капитаном Бибопом, виртуозом вод южной Подземки, потому что он слишком близко подошёл к Адскому котлу. Так-то вот... Некоторые заявляют, что это пиратское химическое оружие, но нам-то, паромщикам, лучше знать.<end>
+Морских тварей, что редко заходят в наши воды. Водяных змей, таких больших и ядовитых, что могут запросто опрокинуть паром или продырявить борт плевком кислоты. Так и было со старым капитаном Бибопом, виртуозом вод Южной Подземки, когда он слишком близко подошёл к Адскому котлу. Так точно. Пусть говорят, что это химическое оружие пиратов, но нам-то, паромщикам, лучше знать.<end>
 
 =>q69_original
 Thar be other things as well: giant crabs, giant bats that suck yer blood 'n'... bright-blue spirits, like orbs o' light, that sometimes haunt those who be sailin' near th' Black Sea, aye. 'N' those who come *too* near, th' Glowing Canine can make 'em go derailed. 
@@ -416,15 +416,15 @@ Thar be other things as well: giant crabs, giant bats that suck yer blood 'n'...
 That's why th' pirates are hidin' thar, for no sane man would be lookin' for 'em in...<end>
 
 =>q69
-Там будут и другие вещи: гигантские крабы, гигантские летучие мыши, которые сосут вашу кровь... ярко-синие духи, как шары света, которые иногда преследуют тех, кто плывёт рядом с Чёрным морем, да. А те, кто подходит слишком близко к Светящимся клыкам могут заставить их сойти с рельсов.
+И это не всё: гигантские крабы, гигантские летучие мыши-кровососы... яркие синие духи, как шары света, которые иногда преследуют тех, кто окажется рядом с Чёрным морем, так точно. А тех, кто подходит слишком близко, Светящийся клык может свести с ума.
 
-Вот почему пираты прячутся, потому что ни один здравомыслящий человек не будет искать их в...<end>
+Вот почему пираты там прячутся, потому что ни один здравомыслящий человек не будет искать их в...<end>
 
 =>q70_original
 The Hell's Gut. Yarr.<end>
 
 =>q70
-Адском котле. Яр-р.<end>
+...Адском котле. Яр-р.<end>
 
 =>a71_original
 How do I sail to...<end>
@@ -436,7 +436,7 @@ How do I sail to...<end>
 Aye?<end>
 
 =>q72
-Ага?<end>
+Так точно?<end>
 
 =>q73_original
 <end>
@@ -454,25 +454,25 @@ Core City?<end>
 Th' speediest way to reach it would be to sail north thru th' Dreadpool, aye, then west till th' Rig, then north from thar.<end>
 
 =>q75
-Быстрее всего до него добраться - это идти на север через озеро Страха, затем на запад до Буровой, а оттуда опять на север.<end>
+Быстрее всего до него добраться, если идти на север через озеро Страха, так точно, затем на запад до Буровой, а оттуда опять на север.<end>
 
 =>q76_original
 But th' pirates be infestin' th' Dreadpool, so I'd instead suggest ye head south then west thru th' Meatway, then head north till ye smell th' nauseatin' reek of Core City's port.<end>
 
 =>q76
-Но на озере Страха полно пиратов, так что я бы посоветовал те идти на юг, потом на запад через Мясной путь, а потом на север, пока не почувствуешь тошнотворный запах порта Кор-Сити.<end>
+Но на озере Страха полно пиратов, так что я бы посоветовал те идти на юг, потом на запад через Мясной путь, а потом на север, пока не почувствуешь тошнотворную вонь порта Кор-Сити.<end>
 
 =>q77_original
 south then west thru th' Meatway, then head north past SGS 'n' Junkyard until ye can smell th' nauseatin' reek of Core City's port.<end>
 
 =>q77
-на юг, затем на запад через Мясной путь, затем направляйся на север мимо ССГ и Свалки, пока не почувствуешь тошнотворный запах порта Кор-Сити.<end>
+на юг, затем на запад через Мясной путь, затем на север мимо ССГ и Свалки, пока не почувствуешь тошнотворную вонь порта Кор-Сити.<end>
 
 =>q78_original
 Alternatively, ye could go <end>
 
 =>q78
-Кроме того, ты мог$(#/а) бы пойти <end>
+Кроме того, ты мог$(#/ла) бы пойти <end>
 
 =>a79_original
 South Gate Station?<end>
@@ -508,13 +508,13 @@ Junkyard?<end>
 Never mind.<end>
 
 =>a84
-Неважно.<end>
+Не берите в голову.<end>
 
 =>q85_original
 I won't, yarr!<end>
 
 =>q85
-Ага, яр-р!<end>
+Не буду, яр-р!<end>
 
 =>a86_original
 I'd like to ask you something else.<end>
@@ -526,79 +526,79 @@ I'd like to ask you something else.<end>
 Aye.<end>
 
 =>q87
-Ага.<end>
+Так точно.<end>
 
 =>a88_original
 You talk... differently.<end>
 
 =>a88
-Ты можешь говорить... иначе.<end>
+Вы говорите... как-то странно.<end>
 
 =>q89_original
 Yarr, I don't dig what ye be meanin', $(#laddie/lassie)?<end>
 
 =>q89
-Яр-р, я не втыкаю о чём ты, $(#паренёк/девчушка)?<end>
+Яр-р, я не секу о чём ты, $(#паренёк/девчушка)?<end>
 
 =>a90_original
 That. "Yarr", "ye be" and all that. Where are you from?<end>
 
 =>a90
-Это. "Яр-р", "буш" и всё такое. Откуда ты?<end>
+Вот это: «яр-р», «буш» и всё такое. Откуда вы?<end>
 
 =>q91_original
 Oh, 'tis just th' way I talk. Aye. ::He laughs.:: I be from afar, sailed 'ere from the shiverin', salty southern waters where slick iridescent eels 'n' giant black urchins be livin'. Thar, all th' folks be talkin' like 'tis. Me lake-dog of a father, rest 'is salty soul, 'e be speakin' in such thick accent not even mother or us, 'is sons, could understand a word o' what 'e was utterin'.<end>
 
 =>q91
-О, я просто так разговариваю. Ага. ::Он смеётся.:: Я приплыл сюда издалека, из наводящих дрожь южных солёных вод, где обитают скользкие переливающиеся угри и гигантские чёрные морские ежи. Там все так тарабарят. Мы - просоленные озёрные волки, говорим с таким сильным акцентом, что даже родная мать нас, сыновей, не может понять о чём мы плетём.<end>
+О, я говорю как обычно. Так точно. ::Он смеётся.:: Я прибыл издалека, из бурных южных солёных вод, где обитают скользкие переливающиеся всеми цветами угри и гигантские чёрные морские ежи. Там все так тарабарят. Мой озёрный волк папаня, упокой его просоленную душу, говорил так, что даже родная мать его сыновей не могла понять, о чём он там плетёт.<end>
 
 =>a92_original
 And what is this place called?<end>
 
 =>a92
-Как называется это место?<end>
+И как называется это место?<end>
 
 =>q93_original
 Jade Harbor. It be way down south, far away from where ye 'n' I be right now. It be a place o' joy, mystery, adventure, 'n' spooky things. I could tell ye stories that'll shiver yer timbers right outta yer trousers. I could tell ye one or two - or three if th' right opportunity be, th' next time ye happen to hop into me ferry, aye.<end>
 
 =>q93
-Нефритовая бухта. Это далеко на юг от того места, где мы сейчас находимся. Это место веселья, тайн, приключений и жутких вещей. Я мог бы рассказать истории, которые заставят тя трястись от страха. Я мог бы рассказать одну или две - или три, при удобной возможности, в следующий раз, когда те случится пойти на моём пароме, ага.<end>
+Нефритовая бухта. Она далеко на юг от того, где мы сейчас находимся. Это место веселья, тайн, приключений и жутких легенд. Я мог бы поведать истории, которые заставят тя трястись от страха. Я мог бы рассказать одну или две -- или три, как будет время, в следующий раз, когда те случится пойти на моём пароме, так точно.<end>
 
 =>a94_original
 Can you tell me one now?<end>
 
 =>a94
-Вы можете рассказать мне про это сейчас?<end>
+Можете рассказать что-нибудь сейчас?<end>
 
 =>q95_original
 No. I got things to do. Got boxes to load in. Engine to check, aye. But if ye will hop into me ferry, then that be a different story. ::He laughs.:: Then we'll have th' time.<end>
 
 =>q95
-Нет. У меня есть дела. Надо погрузить ящики, проверить двигатель, ага. Но если ты запрыгнешь ко мне на паром, это будет совсем другое дело. ::Он смеётся.:: Тогда у нас будет время.<end>
+Нет. У меня есть дела. Надо погрузить ящики, проверить двигатель, так точно. Но если ты поднимешься на борт, это будет совсем другое дело. ::Он смеётся.:: Тогда у нас будет время.<end>
 
 =>a96_original
 ::[Intelligence][Persuade]:: I don't think that's how you naturally speak at all. I think it's all some kind of an act to draw customers in. Am I right?<end>
 
 =>a96
-::[Интеллект][Убеждение]:: Я не думаю, почему ты так вообще говоришь. Я думаю, что это всего лишь для привлечения клиентов. Правильно?<end>
+::[Интеллект][Убеждение]:: Я сомневаюсь, что вы всегда так говорите. Думаю, это лишь для привлечения клиентов. Угадал(#/а)?<end>
 
 =>q97_original
 Blimey! I already explained it to ye: I shout like 'tis 'cause that's th' way folks be talkin' in Jade Harbor. Now, if ye don't believe th' words from me mouth, well, thar's nothin' else I can do to sink yer opinion, matey. I be tellin' ye th' truth. <end>
 
 =>q97
-Чтоб мне провалиться! Я уже объяснял те: я говорю так, потому что так говорят люди в Нефритовой бухте. Если ты не веришь мои словам, что ж, я больше ничего не могу сделать, чтобы потопить твоё мнение. Честно говорю. <end>
+Разрази меня гром! Я уже сказал те: я говорю так, как говорят в Нефритовой бухте. Если ты не веришь мои словам, что ж, я ничего не могу сделать, чтобы потопить твоё мнение. Правду говорю. <end>
 
 =>q98_original
 Th' truth 'n'... 'n' nothin' but th' truth. Aye.<end>
 
 =>q98
-Правда, ничего кроме правды. Ага.<end>
+Правду, и... и ничего кроме правды. Так точно.<end>
 
 =>a99_original
 Come on, I won't tell anyone. Besides, I could... send some people your way. Recommend you.<end>
 
 =>a99
-Пойдём, я никому не скажу. Кроме того, я мог бы... отправить людей по-твоей рекомендации.<end>
+Ну же, я вас не выдам. Кроме того, я мог$(#/ла) бы... рассказать о вас, порекомендовать ваши услуги.<end>
 
 =>q100_original
 ::He remains silent.::<end>
@@ -610,7 +610,7 @@ Come on, I won't tell anyone. Besides, I could... send some people your way. Rec
 Come on now.<end>
 
 =>a101
-Давай же.<end>
+Ну же.<end>
 
 =>q102_original
 ::The man furtively checks whether anybody else is too close to the two of you. He leans closer and whispers in a voice that has now sunk a few semitones lower, that no longer rasps the ear or bears the weight of theatrics.::
@@ -618,39 +618,39 @@ Come on now.<end>
 Look, $(#man/sister), you're crampin' my style. Yes, you got it, I get more customers if I do the act and tell them all the funny stories, okay? People like that kind of stuff. Do you know how hard it is to compete with the big fish like Cap'n Svana or Rastko, hmm? A man's gotta stand out somehow, especially if my ferry ain't as fast or spacious as theirs.<end>
 
 =>q102
-::Мужчина украдкой проверяет, нет ли кого-нибудь ещё рядом с вами. Он наклоняется ближе и шепчет голосом в котором не остаётся ни капли пафоса и театральности.::
+::Мужчина украдкой проверяет, нет ли кого-нибудь ещё поблизости. Он наклоняется ближе и шепчет голосом, в котором не осталось ни капли пафоса и театральности.::
 
-Слушай, $(#брат/сестра), тебя смущает мой стиль. Смекаешь, у меня буд больше клиентов, если я буд травить смешные байки, хорошо? Людям нравятся такие вещи. Знаешь, как трудно конкурировать с такими акулами, как капитан Свана или Растко, хм? Нужно как-то выделяться, особенно если мой паром не такой быстрый и большой, как у них.<end>
+Слушай, $(#брат/сестра), ты меня палишь. Смекаешь, у меня же будет больше клиентов, если я буду травить смешные байки, ясно? Людям такое нравится. Знаешь, как трудно конкурировать с такими акулами, как капитан Свана или Растко, м-м? Нужно как-то выделяться, особенно если у тебя паром не такой быстрый и большой, как у них.<end>
 
 =>q103_original
 I ain't doin' anything bad, okay. There's nothin' wrong with it if the people enjoy it.<end>
 
 =>q103
-Я не сделал ничего плохого. Нет ничего плохого в том, если люди наслаждаются этим.<end>
+Я не делаю ничего плохого. Людям нравится.<end>
 
 =>a104_original
 But where did you learn to talk like that?<end>
 
 =>a104
-Но откуда ты научился так говорить?<end>
+Но где вы научились так говорить?<end>
 
 =>q105_original
 My granddad used to tell me these old world stories about pirates. ::He nods.:: Back then, you see, the word pirate used to mean "sea merchant." Yeah. And, well, these wealthy and noble pirates would trade with various ships, or other pirates, right there on the sea, and their lives were full of adventure and drama and fightin' with sea beasts and giant pentapuses with eight tentacles. The word pirate nowadays means something completely different - ain't got a clue how that came to be - but I liked those stories. So after startin' my business and havin' people avoid me like the plague... I started doin' this thing.<end>
 
 =>q105
-Мой дедушка рассказывал мне истории старого мира о пиратах. ::Он кивает.:: Тогда, видишь ли, слово "пират" означало "морской торговец"." Да. И эти богатые и благородные пираты торговали с различными кораблями или другими пиратами, прямо там, в море, и их жизнь будет полна приключений и драм, и сражений с морскими зверями и гигантскими пентапусами с восемью щупальцами. Слово "пират" в наши дни означает что-то совершенно другое - понятия не имею, как это произошло, но мне понравились эти истории. Так что после того как я начал свой бизнес, а люди избегали меня, как чумы... Тогда я применил эту затею.<end>
+Мой дедушка рассказывал мне истории старого мира о пиратах. ::Он кивает.:: Тогда, видишь ли, слово «пират» означало «морской торговец». Да. И эти богатые и благородные пираты торговали с различными кораблями или другими пиратами прямо там, в море, и их жизнь была полна захватывающих приключений и сражений с морскими тварями и гигантскими пятиногами с восемью щупальцами. Слово «пират» в наши дни означает что-то совершенно другое -- понятия не имею, как такое произошло -- но мне нравились эти истории. Так что, после того как я начал свой бизнес, а клиенты избегали меня как чумы... Тогда мне пришла эта идея.<end>
 
 =>q106_original
 The Core City tourists loved it, I remember - loved it. Then other folks started diggin' it, and yeah, I've been doin' it ever since. It secured me my fair share of customers. I make up most of the stories now, but I still use the ones I remembered. The way I speak, that's pretty much how granddad delivered it, how he impersonated those old world pirates. Hell, I don't even know what words like "timber" mean, but I suppose I don't even need to. No one asked me what it meant. Ever.<end>
 
 =>q106
-Я помню, что туристам из Кор-Сити это нравилось. Тогда другие люди начали интересоваться, и да, я делаю это с тех пор. Это обеспечило мне мою долю клиентов. Сейчас я сочиняю большинство историй, но я всё ещё использую, которые я запомнил. Как я говорю, это в значительной степени то, как дедушка это делал, как он выдавал себя за тех пиратов старого мира. Тысяча чертей, я даже не знаю, что означают слово «лес», но, полагаю, мне даже не нужно знать. Никто никогда не спрашивал меня, что это значит.<end>
+Туристам из Кор-Сити это зашло, им это очень нравилось. Потом и другие начали интересоваться, и да, так оно и пошло. Это обеспечило мне клиентскую базу. Сейчас я сочиняю много историй, но я всё ещё рассказываю и те, которые запомнил. Я говорю так, как это делал дедушка, как он показывал тех пиратов старого мира. Я, блин, даже не знаю, что такое нефрит, но мне даже не нужно знать. Никто никогда не спрашивал меня, что это значит.<end>
 
 =>q107_original
 Now please, I got kids to feed, so... ::He clears his throat.:: ...don't ye be crampin' me privateerin', $(#laddie/lassie), as they used to shout. Yarr, scurvy dogs o' th' sea.<end>
 
 =>q107
-Теперь, пожалуйста, мне надо детей кормить, так что... ::Он откашливается.:: Не стесняйтесь меня, частника, $(#паренёк/девчушка), как они обычно кричали. Яр-р, собачья цинга на море.<end>
+А теперь, пожалуйста, мне надо детей кормить, так что... ::Он откашливается.:: ...не суши мои портки на рее, $(#паренёк/девчушка), как говаривали, яр-р, плешивые морские волки.<end>
 
 =>a108_original
 I'm waiting.<end>
@@ -680,19 +680,19 @@ So?<end>
 So, are ye sailin' somewhere or not?<end>
 
 =>q112
-Итак, плывём куда, нет?<end>
+Итак, идём куда, нет?<end>
 
 =>a113_original
 Speaking of boat rides...<end>
 
 =>a113
-Говорить о поездках на лодке...<end>
+Кстати, о катании на лодке...<end>
 
 =>a114_original
 I have to go. Godspeed, matey!<end>
 
 =>a114
-Мне нужно идти. Счастливого пути, приятель!<end>
+Мне нужно идти. Семь футов под килем, капитан!<end>
 
 =>a115_original
 Bye.<end>
