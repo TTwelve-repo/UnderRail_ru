@@ -2,7 +2,7 @@
 Lukewarm? Nah.<end>
 
 =>q1
-Тепло? Нет.<end>
+Теплая водичка? Нет.<end>
 
 =>q2_original
 Dried off...<end>
@@ -14,13 +14,13 @@ Dried off...<end>
 A tiny water splash would do better than that!<end>
 
 =>q3
-Это не больше чем мелкие брызги воды!<end>
+Лучше просто побрызгайся!<end>
 
 =>q4_original
 A water sprinkler causes more pain than that!<end>
 
 =>q4
-Брызги воды более ощутимы, чем это!<end>
+Брызги воды неприятней, чем это!<end>
 
 =>q5_original
 Try harder, little fishy!<end>
@@ -80,19 +80,19 @@ I'll drown you for that!<end>
 I'll make you talk with the fishes for that!<end>
 
 =>q14
-За это ты будешь говорить с рыбами!<end>
+За это ты ответишь перед рыбами!<end>
 
 =>q15_original
 It's as if... I'm drowning!<end>
 
 =>q15
-Это было, как будто... Я тонул!<end>
+Я как будто... тону!<end>
 
 =>q16_original
 Dammit! That hurts!<end>
 
 =>q16
-Твою мать! Больно!<end>
+Блин! Больно!<end>
 
 =>q17_original
 Argh! I ain't drowning today!<end>
@@ -140,7 +140,7 @@ Argh! That's gonna leave a big scar...<end>
 I almost fell off! Ugh!<end>
 
 =>q24
-Я чуть не упал! Уф!<end>
+Чуть не в воду! Ах!<end>
 
 =>q25_original
 Water... I need some water.<end>
@@ -158,7 +158,7 @@ The pain is unbearable... Ugh!<end>
 ::Gasps for air.:: You almost... sank us all...<end>
 
 =>q27
-::Хватает ртом воздух.:: Ты почти... утопил$(#/а) нас...<end>
+::Хватает ртом воздух.:: Ты почти... нас на дно...<end>
 
 =>q28_original
 Ugh... I think that broke something...<end>
@@ -170,7 +170,7 @@ Ugh... I think that broke something...<end>
 Damn it. As if anglerfish struck me...<end>
 
 =>q29
-Чёрт возьми. Как будто меня ударил удильщик...<end>
+Проклятье. Как будто меня ударил удильщик...<end>
 
 =>q30_original
 Argh! I'm bleeding!<end>
@@ -182,13 +182,13 @@ Argh! I'm bleeding!<end>
 Arrgh, As if an eel had bitten me!<end>
 
 =>q31
-У-ё, как будто меня укусил угорь!<end>
+У-уй, как будто меня укусил угорь!<end>
 
 =>q32_original
 Ugh... That went deep...<end>
 
 =>q32
-Уф... Глубоко вошло...<end>
+Уф... Глубокая рана...<end>
 
 =>q33_original
 AAAAAAH! It burns!<end>
@@ -302,7 +302,7 @@ My head... Arrgh!<end>
 My brain is being crushed! Ugggh!<end>
 
 =>q51
-У меня взрыв мозга! Уфф!<end>
+У меня взрыв мозга! Уф-ф!<end>
 
 =>q52_original
 ::Grabs head.:: AAAARRGH! Stop it!<end>
@@ -524,13 +524,13 @@ I can't move!<end>
 Stranded.<end>
 
 =>q88
-::Пытается выбраться.::<end>
+На мели.<end>
 
 =>q89_original
 I'll drink from all of your SKULLS!<end>
 
 =>q89
-Я буду пить из всех ваших черепов!<end>
+Я буду пить из ваших черепов!<end>
 
 =>q90_original
 I'll DROWN YOU ALL!<end>
@@ -650,7 +650,7 @@ Ugh, it won't stop bleeding!<end>
 You'll get drenched in your own blood, fool!<end>
 
 =>q109
-Ты промокнешь в собственной крови, дура$(#к/)!<end>
+Ты промокнешь в собственной крови, глупец!<end>
 
 =>q110_original
 Flood takes you!<end>
@@ -668,7 +668,7 @@ Go under, scum!<end>
 Did you say goodbye to yo momma!? ::Laughs.::<end>
 
 =>q112
-Даже не попрощаешься с мамочкой! ::Смеётся.::<end>
+Даже не попрощаешься с мамочкой?! ::Смеётся.::<end>
 
 =>q113_original
 I'll drown you!<end>
@@ -698,7 +698,7 @@ I'll suffocate you!<end>
 You'll regret the day you embarked the docks!<end>
 
 =>q117
-Ты ещё пожалеешь о том дне, когда отправил$(#ся/ась) в доки!<end>
+Ты ещё захочешь вернуться в доки!<end>
 
 =>q118_original
 Don't worry, the fishes await you...<end>
@@ -710,7 +710,7 @@ Don't worry, the fishes await you...<end>
 Trouble sitting up? ::Laughs.::<end>
 
 =>q119
-Проблема с задом? ::Смеётся.::<end>
+Не удержаться на плаву? ::Смеётся.::<end>
 
 =>q120_original
 ::Laughs.:: Just sink already...<end>
@@ -740,7 +740,7 @@ Oh, looks like someone's about to... DROWN! ::Laughs.::<end>
 Walk the plank.<end>
 
 =>q124
-Иди по доске!<end>
+Иди по рее.<end>
 
 =>q125_original
 Land-lover!<end>
@@ -788,7 +788,7 @@ Cold-blooded murder! ::Laughs.::<end>
 Immolation!<end>
 
 =>q132
-Самосожжение!<end>
+Жертва огню!<end>
 
 =>q133_original
 Burn, baby!<end>
@@ -836,7 +836,7 @@ A fried fish. ::Laughs.::<end>
 Where do you think you're going?<end>
 
 =>q140
-Куда это ты собрался?<end>
+Куда это ты?<end>
 
 =>q141_original
 You're not going anywhere!<end>
@@ -908,7 +908,7 @@ You don't look well... ::Laughs.::<end>
 Bleed! Bleed you bastard!<end>
 
 =>q152
-Истекай кровью! Истекай кровью, $(#ублюдок/тварь)!<end>
+Истекай! Истекай кровью, тварь!<end>
 
 =>q153_original
 Let it flow!<end>
@@ -950,7 +950,7 @@ I'm one with the waters!<end>
 Don't drown while using that, fool.<end>
 
 =>q159
-Не утони там, дура$(#к/).<end>
+Не утони там, глупец.<end>
 
 =>q160_original
 Learn to swim...<end>
@@ -986,7 +986,7 @@ I feel so much better...<end>
 All patched up.<end>
 
 =>q165
-А-а-а-ах, так гораздо лучше...<end>
+Так гораздо лучше.<end>
 
 =>q166_original
 I glide the waves again!<end>
@@ -1016,7 +1016,7 @@ I ride the waves once more...<end>
 Aaah, I needed this...<end>
 
 =>q170
-А-а-а-ах, то, что надо...<end>
+А-а-а-ах, то что надо...<end>
 
 =>q171_original
 Yeah... that's better...<end>
@@ -1088,7 +1088,7 @@ I don't wanna sink!<end>
 The fishes... await me.<end>
 
 =>q182
-Рыба... жди меня.<end>
+Рыбы... ждут меня.<end>
 
 =>q183_original
 N-- No...<end>
@@ -1142,13 +1142,13 @@ Burn, burn!<end>
 Fishes will feast on you!<end>
 
 =>q191
-Рыбы будут пировать на тобой!<end>
+Ты пойдёшь на корм рыбам!<end>
 
 =>q192_original
 I'll use you as a fish bait!<end>
 
 =>q192
-Я использую тебя как приманку для рыбы!<end>
+Я использую тебя как приманку!<end>
 
 =>q193_original
 Let's see if you can stay afloat.<end>
@@ -1172,7 +1172,7 @@ Yeah, bring it on!<end>
 Sink!<end>
 
 =>q196
-Ракушка!<end>
+Тони!<end>
 
 =>q197_original
 To the bottom you go!<end>
@@ -1268,7 +1268,7 @@ Let's put a bloody smile on that face!<end>
 Feel the cold steel!<end>
 
 =>q212
-Чувствуешь как сталь проходит сквозь тебя?!<end>
+Чувствуешь холодную сталь?<end>
 
 =>q213_original
 Let's play surgery!<end>
@@ -1334,7 +1334,7 @@ Say hi to the fishes below!<end>
 Taste the tide of bullets!<end>
 
 =>q223
-Вкуси поток пуль!<end>
+Утони в потоке пуль!<end>
 
 =>q224_original
 To the bottom you go!<end>
@@ -1346,7 +1346,7 @@ To the bottom you go!<end>
 Eeeeeeeyaaaaah!<end>
 
 =>q225
-Да, мать твою, да!<end>
+Да, получай, да!<end>
 
 =>q226_original
 Can you feel the energy?<end>
@@ -1400,7 +1400,7 @@ Let's melt something!<end>
 I'll turn you into red swill!<end>
 
 =>q234
-От тебя останется только мокрое пятно!<end>
+От тебя останется только красное пятно!<end>
 
 =>q235_original
 Does it burn?<end>
@@ -1448,7 +1448,7 @@ Boom!<end>
 Here, hold this for me!<end>
 
 =>q242
-На, подержи это для меня!<end>
+На, подержи это!<end>
 
 =>q243_original
 Fire in the hole!<end>
@@ -1472,7 +1472,7 @@ Burn in hell!<end>
 Immolation!<end>
 
 =>q246
-Самосожжение!<end>
+Жертва огню!<end>
 
 =>q247_original
 How about a napalm shower!?<end>
@@ -1490,7 +1490,7 @@ Lights out!<end>
 HA! Unplugged and ready to sink!<end>
 
 =>q249
-ХА! Вырублен$(#/а) и готов$(#/а) к погружению!<end>
+ХА! Готовьсь к погружению!<end>
 
 =>q250_original
 Let's turn the engines off!<end>
@@ -1502,7 +1502,7 @@ Let's turn the engines off!<end>
 This one will anchor you to the bottom!<end>
 
 =>q251
-Этот якорь отправит тебя на дно!<end>
+Это отправит тебя на дно!<end>
 
 =>q252_original
 Eel sting! Coming up...<end>
@@ -1604,7 +1604,7 @@ Oh yeah! Dodge that!<end>
 Pain incoming!<end>
 
 =>q268
-Проникающая боль!<end>
+Боль приближается!<end>
 
 =>q269_original
 Feel the blow!<end>
@@ -1634,7 +1634,7 @@ Bzzt! Bzzt!<end>
 Taste the power!<end>
 
 =>q273
-Отведай силы!<end>
+Отведай электросилы!<end>
 
 =>q274_original
 You ordered an electrical burn?<end>
@@ -1730,7 +1730,7 @@ Freeze!<end>
 I hope you're wearing something warm.<end>
 
 =>q289
-Надеюсь, тебе тепло.<end>
+Тебе надо было одеться потеплее.<end>
 
 =>q290_original
 You are gonna be so cool. ::Laughs.::<end>
@@ -1832,7 +1832,7 @@ Time to power off...<end>
 You piece of junk!<end>
 
 =>q306
-Никчёмное животное!<end>
+Кусок хлама!<end>
 
 =>q307_original
 No one will be able to fix ya after I'm done with you!<end>
@@ -1862,13 +1862,13 @@ Stinkin' creature! Drop dead!<end>
 Enemies spotted. Man the posts.<end>
 
 =>q311
-Враги замечены. Человек на посту.<end>
+Замечен неприятель. Свистать всех наверх.<end>
 
 =>q312_original
 SoS.<end>
 
 =>q312
-СоС.<end>
+СОС.<end>
 
 =>q313_original
 We got company, send backup.<end>
@@ -1880,13 +1880,13 @@ We got company, send backup.<end>
 Crewmembers! Aid me!<end>
 
 =>q314
-Компаньон! Помоги мне!<end>
+Команда! На помощь!<end>
 
 =>q315_original
 The raiding party is here. Stand fast.<end>
 
 =>q315
-Рейдеры уже здесь. Стойте крепко.<end>
+Рейдеры уже здесь. Стойте насмерть.<end>
 
 =>q316_original
 I'll not drown this day!<end>
@@ -1898,7 +1898,7 @@ I'll not drown this day!<end>
 Was that a wave?<end>
 
 =>q317
-Это волна?<end>
+Это волны?<end>
 
 =>q318_original
 Water doesn't make that kind of noise...<end>
@@ -1922,7 +1922,7 @@ Seizing the moment...<end>
 Open wide!<end>
 
 =>q321
-Открой!<end>
+Откройся шире!<end>
 
 =>q322_original
 Stab, stab, stab!<end>
@@ -1934,7 +1934,7 @@ Stab, stab, stab!<end>
 This is going right through you!<end>
 
 =>q323
-Прямо насквозь тебя!<end>
+Прямо насквозь!<end>
 
 =>q324_original
 I'm gonna chop you into pieces!<end>
@@ -1958,7 +1958,7 @@ Limbs are overrated anyway. ::Laughs.::<end>
 Scatter you like a fish school!<end>
 
 =>q327
-Разбросаю вас, как рыбный косяк!<end>
+Разметаю, как рыбный косяк!<end>
 
 =>q328_original
 Your carcass will feed the fish below!<end>

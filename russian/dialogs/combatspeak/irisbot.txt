@@ -62,7 +62,7 @@ Mocking warning; intruder: Unit under attack by the use of primitive weapons.<en
 Mocking advice; intruder: Aggressor, perhaps you should upgrade your weaponry before we proceed with the combat.<end>
 
 =>q11
-Ироничный совет; нарушитель: Агрессор, вам следует модернизировать своё оружие, прежде вступать в бой.<end>
+Ироничный совет; нарушитель: Агрессор, вам рекомендуется модернизировать своё оружие, прежде вступать в бой.<end>
 
 =>q12_original
 Warning: The hull has sustained critical damage.<end>
@@ -104,7 +104,7 @@ Threat; intruder: You will be terminated promptly.<end>
 Assertion; intruder: Organic life stands no chance against the superior mechanical form of existence.<end>
 
 =>q18
-Утверждение; нарушитель: Органическая жизнь не имеет шансов против высшей механической формы существования.<end>
+Информационное сообщение; нарушитель: Органическая жизнь не имеет шансов против высшей механической формы существования.<end>
 
 =>q19_original
 Demoralizing statement; intruder: You are not the first intruder that was dealt with.<end>
@@ -116,31 +116,31 @@ Demoralizing statement; intruder: You are not the first intruder that was dealt 
 Demoralizing statement; intruder: You have no chance of destroying me.<end>
 
 =>q20
-Деморализующее сообщение; нарушитель: У вас нет шансов против меня.<end>
+Деморализующее сообщение; нарушитель: У вас нет шансов уничтожить меня.<end>
 
 =>q21_original
 Threat; intruder: You will feel pain.<end>
 
 =>q21
-Угроза; нарушитель: Приготовьтесь к боли.<end>
+Угроза; нарушитель: Приготовьтесь почувствовать боль.<end>
 
 =>q22_original
 Observation; intruder: You are almost dead.<end>
 
 =>q22
-Наблюдение; нарушитель: Приготовьтесь к смерти.<end>
+Информационное сообщение; нарушитель: Ваши жизненные функции прекращаются.<end>
 
 =>q23_original
 Taunt; intruder: Do you now realize that organic life is obsolete?<end>
 
 =>q23
-Провокация; нарушитель: Теперь вы понимаете, что органическая жизнь устарела?<end>
+Провокация; нарушитель: Вам известно, что органическая жизнь устарела?<end>
 
 =>q24_original
 Taunt; intruder: Do not worry. I have requested a cleaning unit to dispose of your body.<end>
 
 =>q24
-Провокация; нарушитель: Не беспокойтесь: я уже вызвал модуль уборки для утилизации вашего тела.<end>
+Провокация; нарушитель: Не беспокойтесь. Я уже вызвал модуль уборки для утилизации вашего тела.<end>
 
 =>q25_original
 Taunt; intruder: Your combat capabilities are inferior to mine.<end>
@@ -164,13 +164,13 @@ Threat; intruder: You will be frozen to death.<end>
 Threat; intruder: You will be burnt to death.<end>
 
 =>q28
-Угроза; нарушитель: Вы сгорите насмерть.<end>
+Угроза; нарушитель: Вы будете сожжены.<end>
 
 =>q29_original
 Taunt; intruder: It appears you have overheated.<end>
 
 =>q29
-Провокация; нарушитель: Похоже, у вас перегрев.<end>
+Провокация; нарушитель: Я наблюдаю у вас перегрев.<end>
 
 =>q30_original
 Taunt; intruder: You should adjust your air conditioning.<end>
@@ -200,19 +200,19 @@ Taunt; intruder: Your susceptibility to toxins proves your inferiority, organic 
 Taunt; intruder: You are leaking fluids, human.<end>
 
 =>q34
-Провокация; нарушитель: У вас протечка, человек.<end>
+Провокация; нарушитель: Вы теряете жидкости, человек.<end>
 
 =>q35_original
 Taunt; intruder: You should have your hydraulics repaired. Shouldn't take longer than a few months for you to be operational again.<end>
 
 =>q35
-Провокация; нарушитель: Вам нужно отремонтировать свою гидравлику. Всего несколько месяцев -- и ваша функциональность восстановится.<end>
+Провокация; нарушитель: Вам следует отремонтировать свою гидравлику. Всего несколько месяцев, и ваша функциональность восстановится.<end>
 
 =>q36_original
 Taunt; intruder: Your targeting system is poor.<end>
 
 =>q36
-Провокация; нарушитель: Ваш целеуказатель ужасен.<end>
+Провокация; нарушитель: Ваша система наведения не соответствует стандарту.<end>
 
 =>q37_original
 Taunt; intruder: If you were a robot, your combat system would not pass the basic test.<end>
@@ -224,7 +224,7 @@ Taunt; intruder: If you were a robot, your combat system would not pass the basi
 Taunt; intruder: Be careful not to damage yourself, human. Do not worry about me.<end>
 
 =>q38
-Провокация; нарушитель: Не волнуйтесь за меня, человек, лучше постарайтесь не навредить себе.<end>
+Провокация; нарушитель: Не волнуйтесь за меня, человек, постарайтесь не навредить себе.<end>
 
 =>q39_original
 Warning: System has sustained critical damage...<end>
@@ -236,7 +236,7 @@ Warning: System has sustained critical damage...<end>
 Warning: Shutdown imminent...<end>
 
 =>q40
-Внимание: Отключение неизбежно...<end>
+Внимание: Отключение систем...<end>
 
 =>q41_original
 Statement: Elimination protocol activated.<end>
@@ -272,4 +272,4 @@ Taunt; intruder: Catch.<end>
 Statement: Noise detected.<end>
 
 =>q46
-Сообщение: Обнаружен шум.<end>
+Сообщение: Зарегистрирован источник шума.<end>

@@ -2,7 +2,7 @@
 What was *that*?<end>
 
 =>q1
-Что это было?<end>
+Что *это* было?<end>
 
 =>q2_original
 Weak...<end>
@@ -44,7 +44,7 @@ It's gonna take more than that...<end>
 Shields up!<end>
 
 =>q8
-Включить щиты!<end>
+Поднять щиты!<end>
 
 =>q9_original
 Not gonna work!<end>
@@ -92,7 +92,7 @@ Ugh!<end>
 Dammit! That hurts!<end>
 
 =>q16
-Твою мать! Больно!<end>
+Ай, ай! Больно!<end>
 
 =>q17_original
 Stop it!<end>
@@ -194,7 +194,7 @@ That thing is bloody sharp!<end>
 Ugh... That went deep...<end>
 
 =>q33
-Уф... Глубоко вошло...<end>
+Уф... Глубокая рана...<end>
 
 =>q34_original
 AAAAAAH! It burns!<end>
@@ -254,7 +254,7 @@ Mmm... hmhmh...<end>
 I feel... the... cold... in... my... bones...<end>
 
 =>q43
-Я чувствую... холод... в... моих... костях...<end>
+Я чувствую... холод... в костях...<end>
 
 =>q44_original
 Oh, I feel so numb...<end>
@@ -278,7 +278,7 @@ I can't feel my limbs...<end>
 Sleepy... so sleepy...<end>
 
 =>q47
-Сонливо... так сонливо...<end>
+Сон... сладкий сон...<end>
 
 =>q48_original
 I can't see! Aaaarghhh!<end>
@@ -452,7 +452,7 @@ I can't take much more of this... no... more...<end>
 Come on... I can do... this... I can make it...<end>
 
 =>q76
-Ну же... я смогу... это... я смогу...<end>
+Ну же... я смогу... я смогу...<end>
 
 =>q77_original
 Stop, drop, roll... STOP, DROP, ROLL!<end>
@@ -674,7 +674,7 @@ Die, scum!<end>
 Did you say goodbye to yo momma!? ::Laughs.::<end>
 
 =>q113
-Даже не попрощаешься с мамочкой! ::Смеётся.::<end>
+Даже не попрощаешься с мамочкой?! ::Смеётся.::<end>
 
 =>q114_original
 I'll destroy you!<end>
@@ -686,7 +686,7 @@ I'll destroy you!<end>
 You will not survive!<end>
 
 =>q115
-Ты не выживешь!<end>
+Тебе не выжить!<end>
 
 =>q116_original
 I almost feel sorry for you. Almost...<end>
@@ -752,7 +752,7 @@ Resistance is futile...<end>
 Bastard!<end>
 
 =>q126
-$(#Ублюдок/Тварь)!<end>
+Тварь!<end>
 
 =>q127_original
 Feeling cool? ::Laughs.::<end>
@@ -914,7 +914,7 @@ You don't look well... ::Laughs.::<end>
 Bleed! Bleed you bastard!<end>
 
 =>q153
-Истекай кровью! Истекай кровью, $(#ублюдок/тварь)!<end>
+Истекай! Истекай кровью, тварь!<end>
 
 =>q154_original
 Let it flow!<end>
@@ -1016,13 +1016,13 @@ Oh, yes... I'm back in action!<end>
 This feels good...<end>
 
 =>q170
-Это очень приятно...<end>
+Так приятно...<end>
 
 =>q171_original
 Aaah, I needed this...<end>
 
 =>q171
-А-а-а-ах, то, что надо...<end>
+А-а-а-ах, то что надо...<end>
 
 =>q172_original
 Yeah... that's better...<end>
@@ -1046,7 +1046,7 @@ Much better!<end>
 Whoo, let's get it on!<end>
 
 =>q175
-У-у-у, давай начнём!<end>
+У-у-у, давай начинать!<end>
 
 =>q176_original
 Oh, yeah!<end>
@@ -1274,7 +1274,7 @@ Let's put a bloody smile on that face!<end>
 Feel the cold steel!<end>
 
 =>q213
-Чувствуешь как сталь проходит сквозь тебя?!<end>
+Чувствуешь, как сталь проходит сквозь тебя?!<end>
 
 =>q214_original
 Let's play surgery!<end>
@@ -1352,7 +1352,7 @@ Dodge this!<end>
 Eeeeeeeyaaaaah!<end>
 
 =>q226
-Да, мать твою, да!<end>
+Да, получай, да!<end>
 
 =>q227_original
 Can you feel the energy?<end>
@@ -1454,7 +1454,7 @@ Boom!<end>
 Here, hold this for me!<end>
 
 =>q243
-На, подержи это для меня!<end>
+На, подержи это!<end>
 
 =>q244_original
 Fire in the hole!<end>
@@ -1490,7 +1490,7 @@ How about a napalm shower!?<end>
 Lights out!<end>
 
 =>q249
-Отбой!<end>
+Гаси свет!<end>
 
 =>q250_original
 HA! You're powerless!<end>
@@ -1580,7 +1580,7 @@ I'll turn your brain to mush!<end>
 Mind fry!<end>
 
 =>q264
-Умственное жаркое!<end>
+Жареные мозги!<end>
 
 =>q265_original
 I'm gonna mind-slap you!<end>
@@ -1640,7 +1640,7 @@ Bzzt! Bzzt!<end>
 Taste the power!<end>
 
 =>q274
-Отведай силы!<end>
+Отведай электросилы!<end>
 
 =>q275_original
 You ordered an electrical burn?<end>
@@ -1736,7 +1736,7 @@ Freeze!<end>
 I hope you're wearing something warm.<end>
 
 =>q290
-Надеюсь, тебе тепло.<end>
+Надо было тебе одеваться теплее.<end>
 
 =>q291_original
 You are gonna be so cool. ::Laughs.::<end>
@@ -1838,7 +1838,7 @@ Time to power off...<end>
 You piece of junk!<end>
 
 =>q307
-Никчёмное животное!<end>
+Кусок хлама!<end>
 
 =>q308_original
 No one will be able to fix ya after I'm done with you!<end>
@@ -1934,7 +1934,7 @@ Seizing the moment...<end>
 Open wide!<end>
 
 =>q323
-Открой!<end>
+Откройся шире!<end>
 
 =>q324_original
 Stab, stab, stab!<end>
