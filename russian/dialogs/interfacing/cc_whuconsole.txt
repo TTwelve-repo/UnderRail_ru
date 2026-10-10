@@ -46,7 +46,7 @@ All security systems are online.::<end>
 ::All security systems are online. Please select one of the options.::<end>
 
 =>q7
-::Все системы безопасности активны. Пожалуйста, выберите одну из опций.::<end>
+::Все системы безопасности активны. Пожалуйста, выберите действие.::<end>
 
 =>a8_original
 ::Initiate emergency security system shutdown.::<end>
@@ -112,7 +112,7 @@ Unlocking office doors... 1 error::<end>
 ::The screen and keyboard are bashed in, and the console is unusable.::<end>
 
 =>q16
-::Экран и клавиатура этой консоли полностью разбиты, что делает её непригодной для использования.::<end>
+::Экран и клавиатура этой консоли полностью разбиты, что делает её непригодной к использованию.::<end>
 
 =>a17_original
 ::Leave it alone.::<end>

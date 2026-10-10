@@ -2,19 +2,19 @@
 ::You look into the opening, ::<end>
 
 =>q1
-::Вы смотрите в отверстие, ::<end>
+::Вы смотрите в отверстие, но ::<end>
 
 =>q2_original
 ::but not even your flashlight ::<end>
 
 =>q2
-::но даже с помощью осветительной вспышки ::<end>
+::даже в свете фонаря ::<end>
 
 =>q3_original
 ::can help you see through the impenetrable blackness. ::<end>
 
 =>q3
-::не видите ничего, кроме темноты. ::<end>
+::не видите ничего, кроме непроглядной темноты. ::<end>
 
 =>q4_original
 ::It appears that this chute only goes down; the extreme steepness is likely to prevent you from being able to go back up the same way.::<end>
@@ -38,16 +38,16 @@
 ::but not even your headlamp ::<end>
 
 =>q7
-::но даже с помощью налобного фонаря ::<end>
+::даже в свете налобного фонаря ::<end>
 
 =>q8_original
 ::but not even your night vision ::<end>
 
 =>q8
-::но даже с помощью ночного видения ::<end>
+::даже с помощью ночного видения ::<end>
 
 =>q9_original
 ::but see only blackness. ::<end>
 
 =>q9
-::но не видите ничего, кроме темноты. ::<end>
+::не видите ничего, кроме темноты. ::<end>

@@ -2,7 +2,7 @@
 ::You are pretty certain this man died recently as the corpse hasn't started decomposing yet.::<end>
 
 =>q1
-::Вы уверены, что человек умер недавно, так как труп ещё не начал разлагаться.::<end>
+::Вы полагаете, что этот человек умер недавно, так как труп ещё не начал разлагаться.::<end>
 
 =>a2_original
 ::Try to determine the cause of death.::<end>
@@ -32,13 +32,13 @@
 ::You search the corpse and find a couple items in its possession.::<end>
 
 =>q6
-::Вы обыскали труп и нашли несколько вещей.::<end>
+::Вы обыскиваете труп и находите несколько вещей.::<end>
 
 =>a7_original
 ::Push it back into the lake.::<end>
 
 =>a7
-::Выбросить в озеро.::<end>
+::Столкнуть его в озеро.::<end>
 
 =>q8_original
 ::The body quickly sinks into the dark waters. You know the undercurrents will take if far downstream in no time.::<end>
