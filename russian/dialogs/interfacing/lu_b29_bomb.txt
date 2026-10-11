@@ -20,13 +20,13 @@
 ::Gently...::<end>
 
 =>a4
-::Аккуратнее...::<end>
+::Осторожно...::<end>
 
 =>q5_original
 ::You've successfully opened one side of the case. Inside you see a small electrical board that's connected to what appears to be the detonator via three wires; the detonator is inserted directly into the explosive. On the board itself you notice a lit red LED, four small switches, and a small battery. You still hear the bomb ticking.::<end>
 
 =>q5
-::Вы успешно открываете одну из стенок корпуса. Внутри вы видите небольшую электрическую плату, подключённую к похожему на детонатор устройству тремя проводами. Сам детонатор непосредственно вставлен во взрывчатку. На самой плате видны горящий красный светодиод, четыре маленьких переключателя и небольшая батарея. Вы по-прежнему слышите тиканье бомбы.::<end>
+::Вы успешно открываете одну из стенок корпуса. Внутри вы видите небольшую электрическую плату, подключённую к похожему на детонатор устройству тремя проводами. Сам детонатор вставлен непосредственно во взрывчатку. На плате видны горящий красный светодиод, четыре маленьких переключателя и небольшая батарея. Вы по-прежнему слышите тиканье бомбы.::<end>
 
 =>q6_original
 <end>
@@ -98,7 +98,7 @@
 ::You see a small electrical board that's connected to what appears to be the detonator via three wires; the detonator is inserted directly into the explosive. On the board itself you notice a lit red LED, four small switches, and a small battery. You still hear the bomb ticking.::<end>
 
 =>q17
-::Вы видите небольшую электрическую плату, подключённую к похожему на детонатор устройству тремя проводами. Сам детонатор непосредственно вставлен во взрывчатку. На самой плате видны горящий красный светодиод, четыре маленьких переключателя и небольшая батарея. Вы по-прежнему слышите тиканье бомбы.::<end>
+::Вы видите небольшую электрическую плату, подключённую к похожему на детонатор устройству тремя проводами. Сам детонатор вставлен непосредственно во взрывчатку. На плате видны горящий красный светодиод, четыре маленьких переключателя и небольшая батарея. Вы по-прежнему слышите тиканье бомбы.::<end>
 
 =>a18_original
 ::Inspect the wires.::<end>
@@ -140,7 +140,7 @@
 ::As you cut the black wire, the ticking stops. It appears that the explosive is no longer active.::<end>
 
 =>q24
-::Как только вы разрезаете чёрный провод, тиканье прекращается. Похоже, что бомба больше не активна.::<end>
+::Как только вы перерезаете чёрный провод, тиканье прекращается. Похоже, что бомба больше не активна.::<end>
 
 =>a25_original
 ::Step away from the explosive.::<end>
