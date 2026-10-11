@@ -5,8 +5,10 @@ Please select one of the following options:
 ::<end>
 
 =>q1
-Внимание: все автоматические турели отключены!
-Пожалуйста, выберите одну из следующих опций:<end>
+::Внимание: все автоматические турели отключены!
+
+Пожалуйста, выберите действие:
+::<end>
 
 =>q2_original
 <end>
@@ -24,7 +26,7 @@ Please select one of the following options:
 ::Select one of the following options: ::<end>
 
 =>q4
-::Пожалуйста, выберите одну из следующих опций::<end>
+::Пожалуйста, выберите действие: ::<end>
 
 =>a5_original
 ::Toggle outer checkpoint gate::<end>
@@ -36,7 +38,7 @@ Please select one of the following options:
 ::Check Auto-turret status::<end>
 
 =>a6
-::Проверить статус автоматических турелей::<end>
+::Проверить состояние автоматических турелей::<end>
 
 =>q7_original
 ::Warning: Unresponsive auto-turrets detected! Please contact FMR service as soon as possible.::<end>
@@ -136,4 +138,6 @@ Please select one of the following options:
 
 =>q22
 ::Все системы безопасности включены
-Пожалуйста, выберите одну из следующих опций::<end>
+
+Пожалуйста, выберите действие:
+::<end>

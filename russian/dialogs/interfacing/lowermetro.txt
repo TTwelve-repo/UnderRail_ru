@@ -60,7 +60,7 @@ Where would you like to go?::<end>
 ::This ticket is valid for a single journey to any destination. ::<end>
 
 =>q10
-::Этот билет действителен на одну поездку в любой пункт назначения ::<end>
+::Этот билет действителен на одну поездку в любой пункт назначения. ::<end>
 
 =>q11_original
 ::North Underrail is inaccessible until the railroad has been completely secured.
@@ -158,7 +158,7 @@ Where would you like to go?::<end>
 ::The ticket scanner flashes red and beeps forebodingly - the ticket didn't pass the check. ::<end>
 
 =>q25
-::Сканер билетов мигает красным и предчувственно пищит - билет не прошёл проверку. ::<end>
+::Сканер билетов мигает красным и зловеще пищит -- билет не прошёл проверку. ::<end>
 
 =>a26_original
 ::Rail Crossing::<end>

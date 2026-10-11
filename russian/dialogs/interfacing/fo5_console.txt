@@ -13,6 +13,7 @@ Conveyor belt: $(context.loc_fo5_conveyorStatus)::<end>
 ::Super steel melting program loaded. Controls overriden.::<end>
 
 =>q2
+
 ::Программа выплавки сверхстали загружена. Управление перенаправлено.::<end>
 
 =>q3_original
@@ -20,6 +21,7 @@ Conveyor belt: $(context.loc_fo5_conveyorStatus)::<end>
 ::Furnace cooling down.::<end>
 
 =>q3
+
 ::Печь охлаждается.::<end>
 
 =>q4_original
