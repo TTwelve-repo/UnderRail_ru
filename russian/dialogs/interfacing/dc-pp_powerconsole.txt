@@ -81,11 +81,14 @@ Heat recovery steam generator (HRSG) status: on
 ::<end>
 
 =>q5
-::Состояние газовой турбины 1: вкл
-Состояние газовой турбины 2: вкл
+::Состояние газовой турбины 1: активно
+Состояние газовой турбины 2: активно
+
 Предупреждение! Необходимо техническое обслуживание или замена турбины!
-Статус паровой турбины: вкл
-Статус Паровой Генератор Рекуперации Тепла (ПГРТ): вкл::<end>
+
+Состояние паровой турбины: активно
+Состояние парового генератора рекуперации тепла (ПГРТ): активно::
+<end>
 
 =>q6_original
 ::HRSG supplementary burners: on
@@ -93,7 +96,7 @@ Heat recovery steam generator (HRSG) status: on
 Mode of operation: combined cycle (Manual config)::<end>
 
 =>q6
-::Дополнительные горелки ПГРТ: вкл.
+::Дополнительные горелки ПГРТ: вкл
 
 Режим работы: комбинированный цикл (Ручная настройка)::<end>
 
@@ -109,9 +112,9 @@ Mode of operation: combined cycle (Manual config)::<end>
 Mode of operation: combined cycle (Auto config)::<end>
 
 =>q8
-::Дополнительные горелки ПГРТ: выкл.
+::Дополнительные горелки ПГРТ: выкл
 
-Режим работы: комбинированный цикл (Авто настройка)::<end>
+Режим работы: комбинированный цикл (Авто-настройка)::<end>
 
 =>a9_original
 ::[Electronics] Manually configure the combined-cycle system::<end>
@@ -128,7 +131,10 @@ Engaging and configuring HRSG supplementary burners... Done.
 
 =>q10
 ::Оптимизация топливовоздушной смеси газовой турбины... Готово.
-Включение и настройка дополнительных горелок ПГРТ... Готово.<end>
+
+Включение и настройка дополнительных горелок ПГРТ... Готово.
+
+<end>
 
 =>q11_original
 ::Verifying steam turbine status... Done.
@@ -142,7 +148,7 @@ Manual configuration successful. Total net power gain: 51%::<end>
 
 Оптимизация работы сверхконденсатора... Готово.
 
-Ручная настройка прошла успешно. Общий полезный прирост мощности: 51%::<end>
+Ручная настройка прошла успешно. Общий прирост полезной мощности: 51%::<end>
 
 =>q12_original
 ::Warning! Steam pressure reaching unacceptable levels!
@@ -229,6 +235,7 @@ Procedure completed with 1 error(s)::<end>
 
 =>q20
 ::Питание подано успешно!::
+
 <end>
 
 =>a21_original
@@ -244,6 +251,7 @@ Procedure completed with 1 error(s)::<end>
 
 =>q22
 ::Питание отключено успешно!::
+
 <end>
 
 =>a23_original
