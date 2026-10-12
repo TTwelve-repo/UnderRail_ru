@@ -26,7 +26,7 @@ Hey, the elevator is working! Lovely! You did it, $(context.player.Name)! Come u
 ::You hear Vivian's worried voice over the speaker.:: $(context.player.Name)! $(context.player.Name)! Can you hear me? Are you okay? <end>
 
 =>q5
-::Вы слышите встревоженный голос Вивиан в динамике.:: $(context.player.Name)! $(context.player.Name)! Вы меня слышите? Вы в порядке? <end>
+::Вы слышите встревоженный голос Вивиан в динамике: ::$(context.player.Name)! $(context.player.Name)! Вы меня слышите? Вы в порядке? <end>
 
 =>a6_original
 I'm fine, but I can't seem to get back up. What is this place?<end>
@@ -40,9 +40,9 @@ Drats! The stupid elevator is not working! I can't do anything to make it operat
 Aha, got it! According to what I'm reading, below me is some Biocorp research facility. Who knows what they've got there, so be careful. Also, I've just opened the map of the area, and I can see the whole layout. Wait, I think I can also remotely unlock some doors, maybe that'll be useful at some point. Tell me, where are you now?<end>
 
 =>q7
-Проклятье! Дурацкий лифт не работает! Я ничего не могу сделать отсюда, чтобы заставить его заработать. Посмотрим... в этой комнате есть консоль, дайте мне взглянуть. Одну... минуточку...
+Проклятье! Дурацкий лифт не работает! Я ничего не могу сделать отсюда, чтобы починить его. Посмотрим... в этой комнате есть консоль, дайте мне взглянуть. Одну... минуточку...
 
-Ага, ясно! Тут написано, что внизу находится исследовательский центр Биокорп. Кто знает, что у них там было, так что будьте осторожны. Ещё я нашла план здания и вижу, где что находится. Подождите, я думаю, что смогу удалённо разблокировать некоторые двери, вам это может пригодиться. Скажите мне, где вы сейчас находитесь?<end>
+Ага, ясно! Тут написано, что внизу находится какой-то исследовательский объект Биокорп. Кто знает, что у них там было, так что будьте осторожны. Ещё я нашла план здания и вижу, где что находится. Подождите, я думаю, что смогу удалённо разблокировать некоторые двери, вам это может пригодиться. Скажите мне, где вы сейчас находитесь?<end>
 
 =>q8_original
 <end>
@@ -60,7 +60,7 @@ How can I get the elevator working?<end>
 I have no idea, but there is a "generator room" just by the elevator, judging from what I can see here.<end>
 
 =>q10
-Понятия не имею, но, судя по всему, рядом с лифтом есть «Генераторная».<end>
+Понятия не имею, но судя по всему, рядом с лифтом есть «Генераторная».<end>
 
 =>q11_original
 Maybe you should check it out.<end>
