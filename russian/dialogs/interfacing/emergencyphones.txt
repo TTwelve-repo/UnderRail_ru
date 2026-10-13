@@ -16,15 +16,15 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::The relative proximity of the railroads, and the phone station's overall design, undoubtedly point to its purpose; they are to be used in situations which involve undesired circumstances when it comes to the functionality of railroad traffic.:: <end>
 
 =>q3
-::Не нужно быть зорким, чтобы заметить, что этот телефон экстренный связи выглядит довольно устаревшим, как с точки зрения технологии, так и с точки зрения текущего состояния.::
+::Нетрудно заметить, что этот телефон экстренной связи выглядит довольно старым, как с точки зрения его конструкции, так и текущего состояния.::
 
-::Относительная близость железных дорог и общая конструкция телефонных узлов, несомненно, указывают на их назначение; их следует использовать в ситуациях, связанных с непредвиденными обстоятельствами, когда речь идёт о функциональности железнодорожного движения.:: <end>
+::Близость к железной дороге и общая конструкция телефонной станции несомненно указывают на её назначение: её следует использовать в случае возникновения непредвиденных обстоятельств, связанных с функциональностью железнодорожного движения.:: <end>
 
 =>q4_original
 ::Typically, these phones feature an interface which has six distinct buttons, each with a unique icon on them. The phone uses a coil cord, and the headphone itself has no additional features other than a speaker and a receiver. Lastly, an exposed digital display port lies right beneath a small metal door, both located under said buttons. The connector's pins are bulky but few in number. :: <end>
 
 =>q4
-::Как правило, эти телефоны имеют интерфейс с шестью отдельными кнопками, каждая из которых имеет уникальный значок. В телефоне используется спиральный шнур, а сами наушники не имеют никаких дополнительных функций, кроме динамика и приёмника. Наконец, открытый порт цифрового дисплея находится прямо под небольшой металлической дверцей, оба расположены под указанными кнопками. Контакты разъёма громоздкие, но их мало.:: <end>
+::Как правило, эти телефоны имеют панель с шестью кнопками, на каждой из которых есть специальный значок. Трубка подключена спиральным шнуром и не несёт никаких дополнительных функций, помимо динамика и микрофона. Наконец, под кнопками находится небольшая металлическая дверца, а ещё ниже открытый разъём цифрового дисплея. Контакты разъёма толстые и немногочисленные. :: <end>
 
 =>q5_original
 <end>
@@ -38,7 +38,7 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::You can make a call.::<end>
 
 =>q6
-::Нет ничего, что указывало бы на текущую функциональность этого телефона.::
+::С виду невозможно понять, работает ли вообще этот телефон.::
 
 ::Вы можете позвонить.::<end>
 
@@ -90,15 +90,15 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::The metal doors on the left side rumble as you can hear wheels turning. Something is coming outside.::<end>
 
 =>q14
-::"Бзззт на ззззтт-ау."::
+::"Бз-з-зт уже в з-з-з-ути."::
 
-:: Металлические двери с левой стороны грохочут, слышно, как вращаются колёса. Что-то происходит снаружи.::<end>
+::Металлические двери с левой стороны грохочут, слышен шум колёс. Что-то приближается.::<end>
 
 =>a15_original
 ::Back away.::<end>
 
 =>a15
-::Отступить.::<end>
+::Отойти.::<end>
 
 =>a16_original
 ::Press the button with a red exclamation mark icon.::<end>
@@ -122,7 +122,7 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::There's some loot inside.::<end>
 
 =>q19
-::Внутри есть добыча.::<end>
+::Внутри что-то есть.::<end>
 
 =>a20_original
 ::Take the items inside and leave.::<end>
@@ -160,7 +160,8 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 <end>
 
 =>q25
-::Оранжевая коробка светится.::
+::Лампочки на оранжевой коробке загораются.::
+
 <end>
 
 =>q26_original
@@ -173,7 +174,7 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::The buttons glow in red color. This is the initial sequence to solve.::<end>
 
 =>q27
-::Кнопки светятся красным цветом. Это начальная последовательность для решения.::<end>
+::Кнопки светятся красным цветом. Это начальная последовательность.::<end>
 
 =>q28_original
 <end>
@@ -187,7 +188,9 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::[Perception] If the sounds could be quantified, whereby the sounds are numbers in no particular order in regards to the buttons on the phone's interface, the sequence would read: $(loc_up_emergencyPhoneHideoutOneCurrentSequenceString). ::<end>
 
 =>q29
-::[Восприятие] Если бы звуки можно было определить количественно, при этом звуки представляли бы собой числа в произвольном порядке относительно кнопок на интерфейсе телефона, последовательность выглядела бы так: $(loc_up_emergencyPhoneHideoutOneCurrentSequenceString). ::<end>
+
+
+::[Восприятие] Если бы звуки можно было представить числами в произвольном порядке относительно кнопок на панели телефона, последовательность выглядела бы так: $(loc_up_emergencyPhoneHideoutOneCurrentSequenceString). ::<end>
 
 =>q30_original
 <end>
@@ -241,7 +244,7 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::Try out the buttons on the phone itself, without disconnecting the orange box.::<end>
 
 =>a38
-::Попробовать кнопки на самом телефоне, не отключая оранжевую коробку.::<end>
+::Понажимать кнопки на самом телефоне, не отключая оранжевую коробку.::<end>
 
 =>q39_original
 ::Select a button.::<end>
@@ -261,7 +264,8 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 <end>
 
 =>q41
-::Кнопка не воспроизводит звук. Возможно, существует помеха между телефоном и оранжевой коробкой.::
+::При нажатии на кнопку, не слышно звука. Возможно, оранжевая коробка создаёт какие-то помехи.::
+
 <end>
 
 =>a42_original
@@ -328,43 +332,43 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::The buttons now glow in green color. Previously inserted sequence was successful.::<end>
 
 =>q52
-::Кнопки теперь светятся зелёным цветом. Ранее выставленная последовательность была успешной.::<end>
+::Кнопки теперь светятся зелёным цветом. Введённая ранее последовательность была правильной.::<end>
 
 =>q53_original
 ::The buttons now glow in blue color. This must be the final sequence to solve.::<end>
 
 =>q53
-::Кнопки теперь светятся синим цветом. Это должна быть последняя последовательность для решения.::<end>
+::Кнопки теперь светятся синим цветом. Это должна быть заключительная последовательность.::<end>
 
 =>q54_original
 ::The lights on the orange box starts to flicker, its colors begin to rapidly shift from one to another before eventually turning off. After that, the phone begins to ring; someone's calling.::<end>
 
 =>q54
-:: Огоньки на оранжевой коробке начинают мерцать, его цвета начинают быстро переходить от одного к другому, прежде чем в конце концов погаснуть. После этого телефон начинает звонить; кто-то звонит.::<end>
+::Огоньки на оранжевой коробке начинают мерцать разными цветами, прежде чем в конце концов погаснуть. После этого телефон начинает звонить; кто-то вызывает вас.::<end>
 
 =>a55_original
 ::Pick up the phone.::<end>
 
 =>a55
-::Поднять телефон.::<end>
+::Поднять трубку.::<end>
 
 =>q56_original
 ::The air is silent.::<end>
 
 =>q56
-::Ветер стихает.::<end>
+::На линии тишина.::<end>
 
 =>a57_original
 Hello?<end>
 
 =>a57
-Привет?<end>
+Алло?<end>
 
 =>q58_original
 ::A digitalized voice speaks up: "Biocorp Metro Service offers the most reliable and safe transportation services. To learn more, press the red cross button.:: <end>
 
 =>q58
-:: Цифровой голос говорит: «Метрополитен Биокорп предлагает самые надёжные и безопасные транспортные услуги. Чтобы узнать больше, нажмите кнопку с красным крестиком.:: <end>
+::Звучит цифровой голос: «Метрополитен Биокорп предлагает самые надёжные и безопасные транспортные услуги. Чтобы узнать больше, нажмите кнопку с красным крестиком.:: <end>
 
 =>a59_original
 Phreak, is that you?<end>
@@ -390,15 +394,15 @@ Phreak, is that you?<end>
 ::The call suddenly ends.::<end>
 
 =>q62
-::Голос робота говорит: "В Биокорпе это было сделано, в Городе это было почти не сделано. Второй шанс был дан... и теперь он не будет потрачен впустую... рельсы здесь не заканчиваются, они идут далеко и широко, с телефонами прямо рядом с ними. Куда бы он ни пошёл, заблудившийся таракан будет следовать за ним, вместе и в благодати, и в горе."::
+::Механический голос произносит: «В Биокорпе сделано, в Городе почти разделано. Второй шанс был дан... и теперь не будет потерян... Рельсы здесь не кончаются, они идут вдоль и поперёк, и телефоны вместе с ними. Куда бы он ни пошёл, заблудший таракан последует, в горе и в радости».::
 
-::Вызов внезапно обрывается.::<end>
+::Звонок внезапно обрывается.::<end>
 
 =>a63_original
 Who's this?<end>
 
 =>a63
-Кто это?<end>
+Кто говорит?<end>
 
 =>q64_original
 ::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off.
@@ -406,9 +410,9 @@ Who's this?<end>
 In the same time, on your right, in the nearby store, you can hear some noise coming out of the shelves; they're moving around.::<end>
 
 =>q64
-::Кнопки на оранжевой коробке светятся тусклым белым цветом. Этот цвет медленно исчезает, прежде чем устройство выключается.
+::Кнопки на оранжевой коробке светятся тусклым белым светом. Свет медленно гаснет, и устройство выключается.
 
-В то же время справа от вас, в ближайшем магазине, вы слышите какой-то шум, исходящий от полок; они двигаются.::<end>
+В то же время, вы слышите какой-то шум справа, в ближайшем магазине -- полки приходят в движение.::<end>
 
 =>a65_original
 ::Disconnect the orange box and leave.::<end>
@@ -420,7 +424,7 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off.::<end>
 
 =>q66
-:: Кнопки на оранжевой коробке светятся тусклым белым цветом. Этот цвет медленно гаснет, прежде чем устройство выключается.::<end>
+::Кнопки на оранжевой коробке светятся тусклым белым светом. Свет медленно гаснет, и устройство выключается..::<end>
 
 =>a67_original
 ::Disconnect the orange box and leave.::<end>
@@ -432,7 +436,7 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off. As soon as it does, the nearby metal doors unlock.::<end>
 
 =>q68
-: Кнопки на оранжевой коробке светятся тусклым белым цветом. Этот цвет медленно гаснет, прежде чем устройство выключается. Как только это произойдёт, близлежащие металлические двери откроются.::<end>
+::Кнопки на оранжевой коробке светятся тусклым белым светом. Свет медленно гаснет, и устройство выключается. В тот же момент, открывается близлежащая металлическая дверь.::<end>
 
 =>q69_original
 ::The orange box signalizes that it's working.::
@@ -440,7 +444,8 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 <end>
 
 =>q69
-::Оранжевый коробка сигнализирует о том, что она работает.::
+::Оранжевая коробка сигнализирует, что она работает.::
+
 <end>
 
 =>q70_original
@@ -467,7 +472,9 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::[Perception] If the sounds could be quantified, whereby the sounds are numbers in no particular order in regards to the buttons on the phone's interface, the sequence would read: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString). ::<end>
 
 =>q73
-::[Восприятие] Если бы звуки можно было определить количественно, при этом звуки представляли бы собой числа в произвольном порядке относительно кнопок на интерфейсе телефона, последовательность выглядела бы так: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString).::<end>
+
+
+::[Восприятие] Если бы звуки можно было представить числами в произвольном порядке относительно кнопок на панели телефона, последовательность выглядела бы так: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString). ::<end>
 
 =>q74_original
 <end>
@@ -521,7 +528,7 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::Test out the buttons on the phone itself, without disconnecting the orange box.::<end>
 
 =>a82
-::Протестировать кнопки на самом телефоне, не отключая оранжевую коробку.::<end>
+::Понажимать кнопки на самом телефоне, не отключая оранжевую коробку.::<end>
 
 =>q83_original
 ::Select a button.::<end>
@@ -547,7 +554,8 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 <end>
 
 =>q86
-::Кнопка не воспроизводит звук. Возможно, существует помеха между телефоном и оранжевой коробкой.::
+::При нажатии на кнопку, не слышно звука. Возможно, оранжевая коробка создаёт какие-то помехи.::
+
 <end>
 
 =>a87_original
@@ -608,7 +616,7 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::The buttons on the orange box glow in dim white color. This color slowly fades out, before the device turns off. A moment later, the nearby metal doors unlock.::<end>
 
 =>q96
-::Кнопки на оранжевой коробке светятся тусклым белым цветом. Этот цвет медленно гаснет, прежде чем устройство выключится. Мгновение спустя соседние металлические двери открываются.::<end>
+::Кнопки на оранжевой коробке светятся тусклым белым светом. Свет медленно гаснет, и устройство выключается. Мгновение спустя, соседние металлические двери открываются.::<end>
 
 =>q97_original
 ::The orange box slowly powers up, indicated by ever increasing intensity of the white light coming out of its buttons. The device has been successfully connected.::
@@ -616,7 +624,8 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 <end>
 
 =>q97
-::Оранжевая коробка медленно включается, о чём свидетельствует всё более интенсивный белый свет, исходящий от её кнопок. Устройство успешно подключено.::
+::Оранжевая коробка медленно включается, о чём свидетельствует набирающий интенсивность белый свет, исходящий от её кнопок. Устройство успешно подключено.::
+
 <end>
 
 =>q98_original
@@ -643,7 +652,9 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::[Perception] If the sounds could be quantified, whereby the sounds are numbers in no particular order in regards to the buttons on the phone's interface, the sequence would read: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString). ::<end>
 
 =>q101
-::[Восприятие] Если бы звуки можно было определить количественно, при этом звуки представляли бы собой числа в произвольном порядке относительно кнопок на интерфейсе телефона, последовательность выглядела бы так: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString).::<end>
+
+
+::[Восприятие]  Если бы звуки можно было представить числами в произвольном порядке относительно кнопок на панели телефона, последовательность выглядела бы так: $(loc_up_emergencyPhoneHideoutTwoCurrentSequenceString). ::<end>
 
 =>q102_original
 <end>
@@ -697,7 +708,7 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::Try out the buttons on the phone itself, without disconnecting the orange box.::<end>
 
 =>a110
-::Попробовать кнопки на самом телефоне, не отключая оранжевую коробку.::<end>
+::Понажимать кнопки на самом телефоне, не отключая оранжевую коробку.::<end>
 
 =>q111_original
 ::Select a button.::<end>
@@ -735,7 +746,8 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 <end>
 
 =>q116
-::Кнопка не воспроизводит звук. Возможно, существует помеха между телефоном и оранжевой коробкой.::
+::При нажатии на кнопку, не слышно звука. Возможно, оранжевая коробка создаёт какие-то помехи.::
+
 <end>
 
 =>a117_original
@@ -790,7 +802,7 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::The buttons on the orange box glow in dim white color. This lasts for a few seconds before the the device turns off.::<end>
 
 =>q125
-::Кнопки на оранжевой коробке светятся тусклым белым цветом. Это длится несколько секунд, прежде чем устройство выключится.::<end>
+::Кнопки на оранжевой коробке светятся тусклым белым цветом. Через несколько секунд, устройство выключается.::<end>
 
 =>q126_original
 ::The connection is not the most responsive, indicated by the slow reaction of the orange box. A minute goes by before the device eventually turns on.::
@@ -798,14 +810,15 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 <end>
 
 =>q126
-::Соединение не самое быстрое, на что указывает медленная реакция оранжевой коробки. Проходит минута, прежде чем устройство наконец включается.::
+::Соединение не самое хорошее, на что указывает медленная реакция оранжевой коробки. Проходит минута, прежде чем устройство наконец включается.::
+
 <end>
 
 =>q127_original
 ::The orange box doesn't react at all. It seems like it has no effect on this phone.::<end>
 
 =>q127
-::Оранжевая коробка никак не реагирует. Похоже, на этот телефон она никак не влияет.::<end>
+::Оранжевая коробка не подаёт признаков жизни. Похоже, на этом телефоне она не работает.::<end>
 
 =>q128_original
 ::There's nothing that indicates the current functionality of this phone.::
@@ -813,7 +826,7 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::You can make a call.::<end>
 
 =>q128
-::Нет ничего, что указывало бы на текущую функциональность этого телефона.::
+::С виду невозможно понять, работает ли вообще этот телефон.::
 
 ::Вы можете позвонить.::<end>
 
@@ -833,7 +846,7 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 ::Cancel the call.::<end>
 
 =>a131
-::Отменить звонок.::<end>
+::Отменить вызов.::<end>
 
 =>a132_original
 ::Press the button with a red rathound icon.::<end>
@@ -871,9 +884,9 @@ In the same time, on your right, in the nearby store, you can hear some noise co
 "Biocorp Metro Services offer the most reliable and safest transportation services. To ensure that promise, in rare circumstances and or events that would tamper with the experience of our passengers, Bio--bzzt... services provide additional solutions to expunge any and every problem." ::<end>
 
 =>q137
-::Роботизированный предварительно записанный голос говорит:
+::Механический голос зачитывает предварительно записанное сообщение:
 
-«Метрополитен Биокорп предлагает самые надёжные и безопасные транспортные услуги. Чтобы гарантировать выполнение обещаний, в редких случаях и/или событиях, которые могут исказить опыт наших пассажиров, Био-бззт... услуги предоставляют дополнительные решения для устранения любой проблемы." ::<end>
+«Метрополитен Биокорп предлагает самые надёжные и безопасные транспортные услуги. Чтобы гарантировать качество, в редких случаях обстоятельств и/или происшествий, которые могут нарушить комфорт наших пассажиров, Метропополи-бззт... Биокорп предоставляет дополнительные решения для устранения любой проблемы». ::<end>
 
 =>a138_original
 ::Keep listening.::<end>
@@ -889,11 +902,11 @@ Press the button with a red rathound symbol to invoke a call for situations wher
 Press the button with a green shield symbol for situations where human interference is in any way tarnishing the experience of your traveling experience."::<end>
 
 =>q139
-::"Нажать кнопку со значком красного крестика, чтобы вызвать вызов для оказания медицинской помощи пассажирам, находящимся в опасности.
+::«Нажмите кнопку со значком красного крестика для вызова медицинской помощи пассажирам, находящимся в опасности.
 
-Нажать кнопку со значком красного крысоволка, чтобы вызвать вызов в ситуациях, когда дикая природа мешает прохождению ближайших поездов.
+Нажмите кнопку со значком красного крысоволка для вызова помощи в ситуациях, когда дикая природа мешает прохождению поездов.
 
-Нажать кнопку со значком зелёного щита в ситуациях, когда вмешательство человека каким-либо образом омрачает ваши впечатления от путешествия.::<end>
+Нажмите кнопку со значком зелёного щита в ситуациях, когда вмешательство человека каким-либо образом омрачает ваши впечатления от путешествия».::<end>
 
 =>a140_original
 ::Keep listening.::<end>
@@ -911,7 +924,7 @@ Press the button with a green shield symbol for situations where human interfere
 ::Make a new call.::<end>
 
 =>a142
-::Сделать новый звонок.::<end>
+::Позвонить снова.::<end>
 
 =>a143_original
 ::Open the metal compartment.::<end>
@@ -923,7 +936,7 @@ Press the button with a green shield symbol for situations where human interfere
 ::There's some loot inside.::<end>
 
 =>q144
-::Внутри есть добыча.::<end>
+::Внутри что-то есть.::<end>
 
 =>a145_original
 ::Take the items inside and leave.::<end>
@@ -949,7 +962,7 @@ Press the button with a green shield symbol for situations where human interfere
 ::You can make a call.::<end>
 
 =>q148
-::У этого телефона осталось только три функциональных кнопки, остальные повреждены и не могут использоваться.::
+::У этого телефона осталось только три кнопки, остальные слишком повреждены.::
 
 ::Вы можете позвонить.::<end>
 
@@ -965,9 +978,9 @@ Press the button with a green shield symbol for situations where human interfere
 "Bio--bzzt... services dedicated security unit is on the way. Estimated time of arrival - unknown." ::<end>
 
 =>q150
-::Роботизированный предварительно записанный голос говорит:
+::Механический голос зачитывает предварительно записанное сообщение:
 
-"Био-бззт... специальный отряд службы безопасности уже в пути. Расчётное время прибытия - неизвестно." ::<end>
+«Специальный отряд службы безопасности Метро-бззт... Биокопр уже в пути. Расчётное время прибытия -- неизвестно.» ::<end>
 
 =>a151_original
 ::Cancel the call.::<end>
@@ -987,9 +1000,9 @@ Press the button with a green shield symbol for situations where human interfere
 "No Bio--bzzt... services dedicated hazard prevention units are available. Try contacting local authorities for assistance." ::<end>
 
 =>q153
-::Роботизированный предварительно записанный голос говорит:
+::Механический голос зачитывает предварительно записанное сообщение:
 
-«Био-бззт... службы, специализирующиеся на предотвращении опасностей, не доступны. Попробуйте обратиться за помощью к местным властям».::<end>
+«Специальная служба предотвращения опасностей Метрополитена Био-бззт... в данный момент не доступна. Обратитесь за помощью к местным властям».::<end>
 
 =>a154_original
 ::Press the button with a blue question mark icon.::<end>
@@ -1003,9 +1016,9 @@ Press the button with a green shield symbol for situations where human interfere
 "Bio--bzzt... services offer the most reliable and safest transportation services. To ensure that promise, in rare circumstances and or events that would tamper with the experience of our passengers, Bio--bzzt... services provide additional solutions to expunge any and every probl--bzzt." ::<end>
 
 =>q155
-::Роботизированный предварительно записанный голос говорит:
+::Механический голос зачитывает предварительно записанное сообщение:
 
-"Био-бззт... услуги предлагают самые надёжные и безопасные транспортные услуги. Чтобы гарантировать выполнение обещания, в редких случаях и/или событиях, которые могут повлиять на опыт наших пассажиров, услуги Био-бззт... предоставляют дополнительные решения. чтобы устранить любые проблемы».::<end>
+«Метрополитен Био-бззт... предлагает самые надёжные и безопасные транспортные услуги. Чтобы гарантировать качество, в редких случаях обстоятельств и/или происшествий, которые могут нарушить комфорт наших пассажиров, Метрополитен Био-бззт... предоставляет дополнительные решения для устранения любой пробле-бззт». ::<end>
 
 =>a156_original
 ::Keep listening.::<end>
@@ -1021,11 +1034,11 @@ Press the button with a red rathound symbol to invoke a call for situations wher
 Press the button with a green shield symbol for situations where human interference is in any way tarnishing the experience of your traveling experience."::<end>
 
 =>q157
-::"Нажать кнопку со значком красного крестика, чтобы вызвать вызов для оказания медицинской помощи пассажирам, находящимся в опасности.
+::«Нажмите кнопку со значком красного крестика для вызова медицинской помощи пассажирам, находящимся в опасности.
 
-Нажать кнопку со значком красного крысоволка, чтобы вызвать вызов в ситуациях, когда дикая природа мешает прохождению ближайших поездов.
+Нажмите кнопку со значком красного крысоволка для вызова помощи в ситуациях, когда дикая природа мешает прохождению поездов.
 
-Нажать кнопку со значком зелёного щита в ситуациях, когда вмешательство человека каким-либо образом омрачает ваши впечатления от путешествия.::<end>
+Нажмите кнопку со значком зелёного щита в ситуациях, когда вмешательство человека каким-либо образом омрачает ваши впечатления от путешествия».::<end>
 
 =>a158_original
 ::Keep listening.::<end>
@@ -1041,11 +1054,11 @@ Press the button with a red exclamation mark for situations where a hazardous ev
 Press the button with a blue question mark for more information."::<end>
 
 =>q159
-::"Нажать кнопку со значком жёлтого гаечного ключа, чтобы вызвать местную группу механизированной поддержки, которая поможет решить механическую проблему в поезде или на железной дороге.
+::«Нажмите кнопку со значком жёлтого гаечного ключа для вызова местной группы технической поддержки для решения технических проблем в поезде или на железной дороге.
 
-Нажать кнопку со значком красного восклицательного знака в ситуациях, когда опасное событие сделало движение поезда потенциально опасным для здоровья пассажиров.
+Нажмите кнопку со значком красного восклицательного знака в ситуациях, когда опасное происшествие сделало прохождение поезда потенциально небезопасным для здоровья пассажиров.
 
-Нажать кнопку со значком синего вопросительного знака для получения дополнительной информации."::<end>
+Нажмите кнопку со значком синего вопросительного знака для получения дополнительной информации».::<end>
 
 =>a160_original
 ::Open the metal compartment.::<end>
@@ -1057,19 +1070,19 @@ Press the button with a blue question mark for more information."::<end>
 ::The doors are locked.::<end>
 
 =>q161
-::Двери заперты.::<end>
+::Дверца заперта.::<end>
 
 =>a162_original
 ::[Lockpicking] Try to unlock the door.::<end>
 
 =>a162
-::[Взлом] Попробовать открыть дверь.::<end>
+::[Взлом] Попытаться открыть дверцу.::<end>
 
 =>q163_original
 ::You have managed to unlock the doors. There are some items inside.::<end>
 
 =>q163
-::Вам удалось открыть двери. Внутри есть кое-какие предметы.::<end>
+::Вам удаётся открыть дверцу. Внутри есть кое-какие предметы.::<end>
 
 =>a164_original
 ::Take the items inside and leave.::<end>
@@ -1081,13 +1094,13 @@ Press the button with a blue question mark for more information."::<end>
 ::Your lockpicking skills are not up to the task.::<end>
 
 =>q165
-::Ваши навыки взлома замков не справляются с этой задачей.::<end>
+::Вашего навыка взлома замков недостаточно.::<end>
 
 =>a166_original
 ::Make a call instead.::<end>
 
 =>a166
-::Ответить на звонок.::<end>
+::Позвонить.::<end>
 
 =>q167_original
 ::There's nothing inside.::<end>
@@ -1121,7 +1134,7 @@ No calls can be made.::<end>
 ::There's some loot inside.::<end>
 
 =>q171
-::Внутри есть добыча.::<end>
+::Внутри что-то есть.::<end>
 
 =>a172_original
 ::Take the items inside and leave.::<end>
@@ -1147,7 +1160,8 @@ No calls can be made.::<end>
 <end>
 
 =>q175
-::Этот телефон значительно повреждён. Металлическая дверца отсека отсутствует, а его внутренности пусты.::
+::Этот телефон сильно повреждён. Металлическая дверца отсека отсутствует, а внутри пусто.::
+
 <end>
 
 =>q176_original
@@ -1156,7 +1170,8 @@ No calls can be made.::<end>
 <end>
 
 =>q176
-::Его электроника открыта и может быть взломана.::
+::Его электронные потроха вывалились наружу.::
+
 <end>
 
 =>q177_original
@@ -1169,7 +1184,7 @@ No calls can be made.::<end>
 ::[Hacking or Electronics] Attempt to fix the phone.::<end>
 
 =>a178
-::[Хакерство или Электроника] Попытка починить телефон.::<end>
+::[Хакерство или Электроника] Попытаться починить телефон.::<end>
 
 =>q179_original
 ::At first, it's quite obvious that someone has deliberately made changes to the way the this phone operates. Some curious yet strange upgrades have been made to a portion of the transistors used to handle transmission. However none of these additions seem to function as the wiring inside is in total ruin.
@@ -1177,9 +1192,9 @@ No calls can be made.::<end>
 Utilizing relatively basic knowledge of electronics, you manage to reconnect all severed wires back to normal. After that, you locate the power switch inside and, for a good measures sake, decide to restart the entire device. A few seconds go by, and now, the phone is active once more.::<end>
 
 =>q179
-::Во-первых, совершенно очевидно, что кто-то преднамеренно внёс изменения в работу этого телефона. Некоторые любопытные, но странные обновления были сделаны в части транзисторов, используемых для управления передачей. Однако ни одно из этих дополнений, кажется, не работает, так как проводка внутри полностью разрушена.
+::Во-первых, совершенно очевидно, что кто-то намеренно внёс изменения в конструкцию этого телефона. Транзисторная плата, используемая для передачи данных, подверглась странным и любопытным модификациям. Однако ничто из этого сейчас не работает, так как проводка внутри полностью выгорела.
 
-Используя относительно базовые знания в области электроники, вам удаётся снова соединить все разорванные провода в нормальное состояние. После этого вы находите внутри выключатель питания и решаете перезагрузить всё устройство. Проходит несколько секунд, и вот, телефон снова активен.::<end>
+Используя базовые познания в области электроники, вам удаётся подключить все разорванные провода на место. Нашарив внутри выключатель питания, вы решаете на всякий случай перезагрузить устройство. Через несколько секунд, телефон снова готов к работе.::<end>
 
 =>a180_original
 ::Use the phone.::<end>
@@ -1193,7 +1208,8 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 <end>
 
 =>q181
-::Провода внутри перерезаны по-разному. Вам совершенно ясно, где раньше начинались провода, но вы не можете разобрать, где они заканчивались. Вы решаете, пока что оставить телефон как есть.::
+::Провода внутри хаотически перерезаны. Хотя вам совершенно ясно, где они раньше начинались, вы не можете разобрать, куда они ведут. Вы решаете пока что оставить телефон как есть.::
+
 <end>
 
 =>a182_original
@@ -1206,7 +1222,7 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 ::The call lingers for a moment before it cancels on its own.::<end>
 
 =>q183
-::Вызов на мгновение задерживается, прежде чем отменяется сам по себе.::<end>
+::Вызов висит мгновение, затем обрывается.::<end>
 
 =>a184_original
 ::Call again.::<end>
@@ -1218,13 +1234,13 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 ::This time the silence lasts considerably longer. Suddenly, two distinct yet heavily muffled male voices start talking one to another, but it's impossible to discern much from their conversation. Your attempts to talk to them are futile as it seems you can only listen in on their conversation. By the tone of their voice, it's clear that one party is dissatisfied with the other. Yelling ensues and you can hear the last sentence which sounded like: "I'm done crunching for you, derailed maggots!". The other guy tries to respond: "Aww, Ph-reakyyy, don't leave us hanging. It'll just take--" the call suddenly ends.::<end>
 
 =>q185
-::На этот раз тишина длится значительно дольше. Внезапно два отчётливых, но сильно приглушённых мужских голоса начинают переговариваться друг с другом, но из их разговора невозможно что-либо разобрать. Ваши попытки поговорить с ними тщетны, так как кажется, что вы можете только подслушивать их разговор. По тону их голоса, понятно, что одна сторона недовольна другой. За этим следует крик, и вы можете услышать последнее предложение, которое звучало так: «Я закончил хрустеть для вас, сошедшие с рельсов личинки!». Другой парень пытается ответить: «Ой, Ф-риик-к, не бросай нас. Это просто займёт…» Звонок внезапно обрывается.::<end>
+::На этот раз молчание длится значительно дольше. Внезапно вы слышите разговор двух приглушённых, но вполне различимых мужских голосов, но понять что-либо невозможно. Ваши попытки заговорить с ними тщетны, так что вы можете только подслушивать их разговор. По тону голосов понятно, что одна сторона недовольна другой. Разговор переходит в крик, и вам удаётся разобрать последнее предложение, что-то вроде: «Я не буду больше хрустеть на вас, поехавшие придурки!». Другой голос пытается ответить: «Ну, Фри-ики, не бросай нас. Надо всего лишь...» -- и звонок обрывается.::<end>
 
 =>a186_original
 ::Make a new call.::<end>
 
 =>a186
-::Сделать новый звонок.::<end>
+::Позвонить снова.::<end>
 
 =>q187_original
 ::There's no response.::<end>
@@ -1236,7 +1252,7 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 ::Cancel the call.::<end>
 
 =>a188
-::Отменить звонок.::<end>
+::Отменить вызов.::<end>
 
 =>a189_original
 ::Press the button with a yellow wrench icon.::<end>
@@ -1250,9 +1266,9 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 "Support is on the way. Please stand by."::<end>
 
 =>q190
-::Роботизированный голос говорит:
+::Механический голос произносит:
 
-"Поддержка уже в пути. Пожалуйста, подождите."::<end>
+«Техническая поддержка уже в пути. Пожалуйста, подождите».::<end>
 
 =>q191_original
 ::There's no response.::<end>
@@ -1278,7 +1294,7 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 ::You can make a call.::<end>
 
 =>q194
-::Нет ничего, что указывало бы на текущую функциональность этого телефона.::
+::С виду невозможно понять, работает ли вообще этот телефон.::
 
 ::Вы можете позвонить.::<end>
 
@@ -1310,7 +1326,7 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 ::After a short silence, somebody picks up.::<end>
 
 =>q199
-::После короткого молчания кто-то берёт трубку.::<end>
+::После короткого молчания, кто-то берёт трубку.::<end>
 
 =>q200_original
 :: The first sound you hear is one that would leave your ears bleeding had it lasted longer than a few seconds. The noise clanks mercilessly, producing piercing sounds, some robotic and the others of raw metal, making it seem as if the headphone is being dragged along a rough surface. Suddenly a sharp - *thunk* sound, stops this madness. An old voice shouts:
@@ -1320,17 +1336,17 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 The call has ended.::<end>
 
 =>q200
-::Первый звук, который вы слышите, это тот, от которого у вас пошла бы кровь из ушей, если бы он длился дольше нескольких секунд. Шум беспощадно лязгает, издавая пронзительные звуки, то роботизированные, то сырого металла, отчего кажется, что наушники тащат по шероховатой поверхности. Внезапно резкий звук *дзынь* останавливает это безумие. Старческий голос кричит:
+::Первый звук, который вы слышите, вызвал бы у вас ушное кровотечение, если бы он длился дольше нескольких секунд. Раздаётся беспощадный пронзительный лязг, то механический, то металлический, как будто микрофон тащат по неровной поверхности. Внезапный резкий стук останавливает это безумие. Стариковский голос кричит:
 
-"Никакого хруста не происходит, хватит мне тут жужжать!"
+«Никакого хруста не происходит, хватит мне тут жужжать»!
 
-Вызов завершён.::<end>
+Звонок обрывается.::<end>
 
 =>a201_original
 ::Make a new call.::<end>
 
 =>a201
-::Сделать новый звонок.::<end>
+::Позвонить снова.::<end>
 
 =>q202_original
 ::There's no response.::<end>
@@ -1386,7 +1402,7 @@ The call has ended.::<end>
 ::You can make a call.::<end>
 
 =>q210
-::У этого телефона остались только две функциональные кнопки, остальные вырваны.::
+::У этого телефона остались только две кнопки, остальные выломаны.::
 
 ::Вы можете позвонить.::<end>
 
@@ -1400,7 +1416,7 @@ The call has ended.::<end>
 ::The absence of sound.::<end>
 
 =>q212
-::Отсутствие звука.::<end>
+::Ни звука.::<end>
 
 =>a213_original
 ::Make a call.::<end>
@@ -1430,19 +1446,19 @@ The call has ended.::<end>
 ::The doors are locked.::<end>
 
 =>q217
-::Двери заперты.::<end>
+::Дверца заперта.::<end>
 
 =>a218_original
 ::[Lockpicking] Try to unlock the door.::<end>
 
 =>a218
-::[Взлом] Попробовать открыть дверь.::<end>
+::[Взлом] Попытаться открыть дверцу.::<end>
 
 =>q219_original
 ::You have managed to unlock the doors. There are some items inside.::<end>
 
 =>q219
-::Вам удалось открыть двери. Внутри есть кое-какие предметы.::<end>
+::Вам удаётся открыть дверцу. Внутри есть кое-какие предметы.::<end>
 
 =>a220_original
 ::Take the items inside and leave.::<end>
@@ -1454,13 +1470,13 @@ The call has ended.::<end>
 ::Your lockpicking skills are not up to the task.::<end>
 
 =>q221
-::Ваши навыки взлома замков не справляются с этой задачей.::<end>
+::Вашего навыка взлома замков недостаточно.::<end>
 
 =>a222_original
 ::Make a call instead.::<end>
 
 =>a222
-::Ответить на звонок.::<end>
+::Позвонить.::<end>
 
 =>q223_original
 ::There's nothing inside.::<end>
@@ -1474,7 +1490,7 @@ The call has ended.::<end>
 ::You can make a call.::<end>
 
 =>q224
-::В этом телефоне осталось только три функциональных кнопки, остальные вырваны.::
+::В этом телефоне осталось только три кнопки, остальные выломаны.::
 
 ::Вы можете позвонить.::<end>
 
@@ -1518,19 +1534,19 @@ The call has ended.::<end>
 ::The doors are locked.::<end>
 
 =>q231
-::Двери заперты.::<end>
+::Дверца заперта.::<end>
 
 =>a232_original
 ::[Lockpicking] Try to unlock the door.::<end>
 
 =>a232
-::[Взлом] Попробовать открыть дверь.::<end>
+::[Взлом] Попытаться открыть дверцу.::<end>
 
 =>q233_original
 ::You have managed to unlock the doors. There are some items inside.::<end>
 
 =>q233
-::Вам удалось открыть двери. Внутри есть кое-какие предметы.::<end>
+::Вам удаётся открыть дверцу. Внутри есть кое-какие предметы.::<end>
 
 =>a234_original
 ::Take the items inside and leave.::<end>
@@ -1542,13 +1558,13 @@ The call has ended.::<end>
 ::Your lockpicking skills are not up to the task.::<end>
 
 =>q235
-::Ваши навыки взлома замков не справляются с этой задачей.::<end>
+::Вашего навыка взлома замков недостаточно.::<end>
 
 =>a236_original
 ::Make a call instead.::<end>
 
 =>a236
-::Ответить на звонок.::<end>
+::Позвонить.::<end>
 
 =>q237_original
 ::There's nothing inside.::<end>
@@ -1562,7 +1578,7 @@ The call has ended.::<end>
 ::You can make a call.::<end>
 
 =>q238
-::Кнопки закрашены в чёрный цвет.::
+::Кнопки закрашены чёрным.::
 
 ::Вы можете позвонить.::<end>
 
@@ -1596,15 +1612,15 @@ The call has ended.::<end>
 Bzzzt - mechanical support unavailable. Contact the personnel inside the room ahead of you.::<end>
 
 =>q243
-::Роботизированный предварительно записанный голос говорит:
+::Механический голос зачитывает предварительно записанное сообщение:
 
-Бзззт - механическая поддержка недоступна. Свяжитесь с персоналом в комнате впереди вас.::<end>
+Бз-з-зт... техническая поддержка недоступна. Обратитесь к персоналу в комнате напротив.::<end>
 
 =>a244_original
 ::Make a new call.::<end>
 
 =>a244
-::Сделать новый звонок.::<end>
+::Позвонить снова.::<end>
 
 =>a245_original
 ::Press the third button.::<end>
@@ -1624,9 +1640,9 @@ Bzzzt - mechanical support unavailable. Contact the personnel inside the room ah
 Bzzz zzzt - Dispatching dedicated support unit. Please stand by.::<end>
 
 =>q247
-::Роботизированный предварительно записанный голос говорит:
+::Механический голос зачитывает предварительно записанное сообщение:
 
-Бззз зззт - Отправка специального подразделения поддержки. Подождите, пожалуйста.::<end>
+Бз-з-з... з-з-зт... Специальный вспомогательный модуль в пути. Пожалуйста, подождите.::<end>
 
 =>a248_original
 ::Press the fifth button.::<end>
@@ -1646,9 +1662,9 @@ Bzzz zzzt - Dispatching dedicated support unit. Please stand by.::<end>
 Animal proximity detected, extermination unit on route.::<end>
 
 =>q250
-::Роботизированный предварительно записанный голос говорит:
+::Механический голос зачитывает предварительно записанное сообщение:
 
-Обнаружено приближение животных, отряд уничтожения на маршруте.::<end>
+Обнаружено присутствие животных, санитарный модуль в пути.::<end>
 
 =>a251_original
 ::Open the metal compartment.::<end>
@@ -1666,31 +1682,31 @@ Animal proximity detected, extermination unit on route.::<end>
 ::Make a call instead.::<end>
 
 =>a253
-::Ответить на звонок.::<end>
+::Позвонить.::<end>
 
 =>q254_original
 ::The box's metal cover is severely bent, most likely after being struck by a sledgehammer.::<end>
 
 =>q254
-::Металлическая крышка ящика сильно погнута, скорее всего, после удара кувалдой.::<end>
+::Металлическая крышка корпуса сильно погнута, скорее всего, после удара кувалдой.::<end>
 
 =>q255_original
  ::Although it's in terrible shape, with sufficient knowledge and the right tools, it can still be salvaged.::<end>
 
 =>q255
- ::Несмотря на то, что он в ужасном состоянии, при наличии достаточных знаний и правильных инструментов его всё же можно спасти.::<end>
+ ::Несмотря на то, что он в ужасном состоянии, при наличии знаний и инструментов, его всё же можно починить.::<end>
 
 =>a256_original
 ::[Hacking or Electronics] Attempt to fix the phone.::<end>
 
 =>a256
-::[Хакерство или Электроника] Попытка починить телефон.::<end>
+::[Хакерство или Электроника] Попытаться починить телефон.::<end>
 
 =>q257_original
 ::The problem at hand is a difficult one. Raw force has obliterated most of the components essential for all of the calls to work. There is however, a relatively intact section of the phone linked to one of the buttons. It is there where you find room for modifications and after some tinkering, you manage to make it work. The button itself is missing but a call can be made by stimulating the right electrical signal.::<end>
 
 =>q257
-::Рассматриваемая проблема является сложной. Грубая сила уничтожила большинство компонентов, необходимых для всех призывов к работе. Однако есть относительно неповреждённая часть телефона, связанная с одной из кнопок. Именно там находится место для модификаций, и после некоторой возни вам удаётся заставить его работать. Сама кнопка отсутствует, но можно позвонить, подав правильный электрический сигнал.::<end>
+::Перед вами непростая задача. Сильный удар разнёс вдребезги большинство необходимых компонентов. Однако уцелела небольшая часть, соединённая с одной из кнопок. Именно там можно ещё что-то сделать, и после некоторой возни вам удаётся заставить телефон работать. Сама кнопка отсутствует, но можно позвонить, подав правильный электрический сигнал.::<end>
 
 =>a258_original
 ::Use the phone.::<end>
@@ -1702,7 +1718,7 @@ Animal proximity detected, extermination unit on route.::<end>
 ::The inside of the box resemble a crime scene. Furious pummeling has left little to work with; it was shown no mercy. The knowledge and skill required to fix this device exceed your own.::<end>
 
 =>q259
-::Внутренности коробки напоминают место преступления, где никому не было пощады. Яростные избиения оставили мало пригодного для работы. Знания и навыки, необходимые для ремонта этого устройства, превосходят ваши собственные.::<end>
+::Внутренности корпуса напоминают место преступления, где никому не было пощады. Яростные удары оставили мало пригодного для работы. У вас не хватит знаний и навыков для ремонта этого устройства.::<end>
 
 =>a260_original
 ::Leave.::<end>
@@ -1726,19 +1742,19 @@ Animal proximity detected, extermination unit on route.::<end>
 ::Trigger the signal for a call.::<end>
 
 =>a263
-::Включить сигнал вызова.::<end>
+::Подать сигнал вызова.::<end>
 
 =>q264_original
 ::The metal doors behind you click. For a little while, the call hangs open before it gets canceled.::<end>
 
 =>q264
-::Металлические двери позади вас щёлкают. Некоторое время вызов зависает, прежде чем его отменяют.::<end>
+::Со стороны металлических дверей позади вас раздаётся щёлчок. Вызов висит некоторое время, затем сбрасывается.::<end>
 
 =>a265_original
 ::Back away.::<end>
 
 =>a265
-::Отступить.::<end>
+::Отойти.::<end>
 
 =>q266_original
 ::There's nothing that indicates the current functionality of this phone.::
@@ -1746,7 +1762,7 @@ Animal proximity detected, extermination unit on route.::<end>
 ::You can make a call.::<end>
 
 =>q266
-::Нет ничего, что указывало бы на текущую функциональность этого телефона.::
+::С виду невозможно понять, работает ли вообще этот телефон.::
 
 ::Вы можете позвонить.::<end>
 
@@ -1774,7 +1790,7 @@ Animal proximity detected, extermination unit on route.::<end>
 ::You can make a call.::<end>
 
 =>q270
-::Нет ничего, что указывало бы на текущую функциональность этого телефона.::
+::С виду невозможно понять, работает ли вообще этот телефон.::
 
 ::Вы можете позвонить.::<end>
 
@@ -1836,7 +1852,7 @@ Animal proximity detected, extermination unit on route.::<end>
 ::This phone is completely out of commission.::<end>
 
 =>q280
-::Этот телефон полностью вышел из строя.::<end>
+::Этот телефон не подлежит ремонту.::<end>
 
 =>a281_original
 ::Leave.::<end>
