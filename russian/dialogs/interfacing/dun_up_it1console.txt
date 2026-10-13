@@ -8,10 +8,10 @@ Stabilization systems offline, full automatic maintenance disabled. Applied most
 ::<end>
 
 =>q1
-::BCE-HX - B_...-^rp C Eletrncccz_
+::БКЕ-ХК - Б_...-^рп C Электрнкккз_
 Версия прошивки: 0.997::
 
-::Время с момента последнего ручного восстановления: 4444---
+::Время с момента последней ручной декомпрессии: 4444---
 
 Системы стабилизации отключены, полное автоматическое обслуживание отключено. Применена последняя стабильная конфигурация потока. Отсутствуют данные с датчиков.
 ::<end>
@@ -48,7 +48,7 @@ A loading bar is displayed, but it's not filling up at all. Red exclamation poin
 Most recent readings: All levels critical, insufficient core pressure, divert power immediately. Engage asynchronous pressure stabilization.::<end>
 
 =>q5
-:: Датчики вне сети. 
+::Датчики не отвечают. 
 
 Последние показания: все уровни критические, давление в ядре недостаточное, немедленно отключите питание. Включите асинхронную стабилизацию давления.::<end>
 
@@ -62,13 +62,13 @@ Most recent readings: All levels critical, insufficient core pressure, divert po
 ::Pressure-flow control::<end>
 
 =>a7
-::Контроль управления/потока::<end>
+::Управление давлением::<end>
 
 =>a8_original
 ::Acess to H__ towwr::<end>
 
 =>a8
-::Доступ к H__ towwr::<end>
+::Доступ к С__ бшнне::<end>
 
 =>q9_original
 ::It takes a while for the program to respond. Whenever you would try to hover over another option, the display doesn't respond.  
@@ -78,7 +78,7 @@ Suddenly the screen goes blank, periodically flashing previously seen informatio
 =>q9
 ::Для отклика программы требуется некоторое время. Всякий раз, когда вы пытаетесь навести курсор на другой параметр, дисплей не реагирует.  
 
-Внезапно экран темнеет, периодически показывая ранее просмотренную информацию. Раздаются три бессвязных звуковых сигнала, за которыми следует отдалённый, громкий механический шум запуска огромного двигателя. Слышно, как вращаются шестерёнки, а стены начинают дрожать. Изображение на мониторе восстанавливается...::<end>
+Внезапно экран темнеет, периодически показывая ранее просмотренную информацию. Раздаются три бессвязных звуковых сигнала, за которыми следует отдалённый, громкий механический шум запуска огромного двигателя. Слышно, как вращаются шестерёнки, а стены начинают дрожать. Изображение на мониторе восстанавливается.::<end>
 
 =>q10_original
 ::Access granted.
@@ -94,4 +94,4 @@ Be advised, cold depressurization commencing. ::<end>
 ::Leave.::<end>
 
 =>a11
-::Уйти::<end>
+::Уйти.::<end>

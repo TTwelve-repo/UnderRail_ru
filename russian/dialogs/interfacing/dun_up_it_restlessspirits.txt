@@ -2,7 +2,7 @@
 ::The reflective surface of the ice shows a distorted reflection of yours. Hopeless, drained, ready to give up and sleep forever and ever... ::<end>
 
 =>q1
-:: Гладкая поверхность льда показывает ваше искажённое отражение. Безнадежное, истощённое, готовое сдаться и спать вечно... ::<end>
+::В гладкой поверхности льда вы видите своё собственное искажённое отражение. Потерявшее надежду, истощённое, готовое сдаться и погрузиться в вечный сон... ::<end>
 
 =>q2_original
 <end>
@@ -14,31 +14,31 @@
 What the...?<end>
 
 =>a3
-Что за...?<end>
+Что за?..<end>
 
 =>a4_original
 No!<end>
 
 =>a4
-Нет.<end>
+Нет!<end>
 
 =>a5_original
 This is... too much...<end>
 
 =>a5
-Это... уже слишком...<end>
+Это... для меня слишком...<end>
 
 =>a6_original
 ::Give in.::<end>
 
 =>a6
-::Сдаться::<end>
+::Сдаться.::<end>
 
 =>a7_original
 ::Leave.::<end>
 
 =>a7
-::Уйти::<end>
+::Уйти.::<end>
 
 =>q8_original
 <end>
@@ -62,7 +62,7 @@ This is... too much...<end>
 Fresh aiiirrr... Showww the waaayyy... whhheeereee... wheereee...<end>
 
 =>q11
-Све-е-е-ежий во-о-оздух... Покажи-и-и-и пу-у-у-у-уть... где-е-е-е... где-е-е-е...<end>
+Све-е-ежий во-о-оздух... Покажи-и-и пу-у-уть... где-е-е... где-е-е...<end>
 
 =>q12_original
 <end>
@@ -86,13 +86,13 @@ Up to the north.<end>
 Go south.<end>
 
 =>a15
-В южном направлении.<end>
+Иди на юг.<end>
 
 =>a16_original
 West, go there.<end>
 
 =>a16
-Запад, нужно туда.<end>
+Запад, иди туда.<end>
 
 =>a17_original
 ::Leave.::<end>
@@ -122,7 +122,7 @@ West, go there.<end>
 The weeeight... of clooothes... it's cooold, reeemmmoooveee it aaalll....<end>
 
 =>q21
-Тя-яжё-ё-ё-ё-ёлая... оде-е-е-ежда... Холо-о-о-одно, сня-я-я-ять её-ё-ё-ё-ё-ё...<end>
+Тя-яже-е-есть... оде-е-е-ежды... холо-о-о-одно, сня-я-я-ять...<end>
 
 =>q22_original
 
@@ -130,6 +130,8 @@ The weeeight... of clooothes... it's cooold, reeemmmoooveee it aaalll....<end>
 ::[Doctor] Although the cold clothes may cause an impression that they are further negatively affecting the victims of hypothermia, in critical situations, only the wet clothes should be removed, while the rest should stay on as they are still providing a minuscule cover. ::<end>
 
 =>q22
+
+
 ::[Доктор] Хотя холодная одежда может создать впечатление, что она ещё хуже влияет на жертв переохлаждения, в критических ситуациях следует снимать только мокрую одежду, а остальную оставлять, поскольку она всё ещё обеспечивает какое-никакое прикрытие. ::<end>
 
 =>q23_original
@@ -196,7 +198,7 @@ The weeeight... of clooothes... it's cooold, reeemmmoooveee it aaalll....<end>
 Sooo coold... bring heeeaaat... give away heeeeaaat...<end>
 
 =>q33
-Та-а-а-ак хо-о-о-олодно... тепла-а-а-а... да-а-айте тепла-а-а-а-а-а...<end>
+Та-а-ак хо-о-о-олодно... тепла-а-а... да-а-ай тепла-а-а-а...<end>
 
 =>q34_original
 
@@ -204,6 +206,8 @@ Sooo coold... bring heeeaaat... give away heeeeaaat...<end>
 ::[Doctor] Hypothermia causes a huge strain on the heart as the body needs to maintain temperature. As such, the process of applying outside heat should be done so carefully near the heart and then gradually expanded outwards. Areas around the chest, armpits, neck and groin would be the best places to start working on. ::<end>
 
 =>q34
+
+
 ::[Доктор] Переохлаждение вызывает огромную нагрузку на сердце, поскольку организму необходимо поддерживать температуру. Поэтому процесс получения внешнего тепла следует проводить осторожно вблизи сердца, а затем постепенно распространять его по телу. Области вокруг груди, подмышки, шея и пах будут лучшими местами, откуда можно начать. ::<end>
 
 =>q35_original
@@ -222,7 +226,7 @@ Sooo coold... bring heeeaaat... give away heeeeaaat...<end>
 ::Heat up neck, chest and groin parts.::<end>
 
 =>a37
-::Разогреть шею, грудь и паховую часть.::<end>
+::Разогреть шею, грудь и паховую область.::<end>
 
 =>a38_original
 ::Heat up feet and arms.::<end>
@@ -270,7 +274,7 @@ Sooo coold... bring heeeaaat... give away heeeeaaat...<end>
 Looong were the daaays of strooong drinks... satiateee desireee... queeench the thirst... <end>
 
 =>q45
-Да-а-а-авно-о-о-о без кре-е-е-епких напи-и-и-итков... насыща-а-ающих жела-а-а-ание... утоля-я-я-яющих жа-а-а-ажду... <end>
+Та-а-к давно-о-о без кре-е-е-епких напи-и-и-итков... насы-ы-ыть жела-а-а-ание... утоли-и-и жа-а-а-ажду... <end>
 
 =>q46_original
 
@@ -278,7 +282,9 @@ Looong were the daaays of strooong drinks... satiateee desireee... queeench the 
 ::[Doctor] Any sudden change of temperature may cause fatal consequences to the rhythm of heart. The goal in cold environments should be to maintain stable heart rate with as least deviations as possible. Therefore, controlled intake of warm drinks, preferably water, is the best approach.::<end>
 
 =>q46
-::[Доктор] Любое резкое изменение температуры может привести к фатальным последствиям для сердечного ритма. Целью в холодных условиях должно быть поддержание стабильного сердечного ритма с как можно меньшими отклонениями. Поэтому контролируемый приём тёплых напитков, предпочтительно воды, является наилучшим подходом.::<end>
+
+
+::[Доктор] Любое резкое изменение температуры может привести к фатальным последствиям для сердечного ритма. Целью в холодных условиях должно быть поддержание стабильного сердечного ритма с как можно меньшими отклонениями. Поэтому осторожный приём тёплых напитков, предпочтительно воды, является наилучшим подходом.::<end>
 
 =>q47_original
 <end>
@@ -338,7 +344,7 @@ Looong were the daaays of strooong drinks... satiateee desireee... queeench the 
 Feeet frozen... mooove them... move aaawaaay from cooold...<end>
 
 =>q56
-Но-о-о-оги мё-ё-ё-ёрзнут... передви-и-и-инуть их... уйти-и-и-и пода-а-а-альше от хо-о-о-олода...<end>
+Но-о-оги мё-ёрзнут... передви-и-и-инь их... пода-а-а-альше от хо-о-олода...<end>
 
 =>q57_original
 
@@ -346,6 +352,8 @@ Feeet frozen... mooove them... move aaawaaay from cooold...<end>
 ::[Doctor] When human tissue is exposed to cold, its characteristics change, weakening it in the process. Rapid movement of affected body parts may cause fatal injuries. If need arises to move a victim away from the source of cold, it should be done so slowly. ::<end>
 
 =>q57
+
+
 ::[Доктор] Когда ткани человека подвергаются воздействию холода, их характеристики меняются, ослабляя их при этом. Быстрое перемещение пострадавших частей тела может привести к смертельным травмам. Если возникла необходимость переместить пострадавшего от источника холода, делать это следует медленно. ::<end>
 
 =>q58_original
@@ -364,13 +372,13 @@ Feeet frozen... mooove them... move aaawaaay from cooold...<end>
 ::Move it away slowly.::<end>
 
 =>a60
-::Медленно двигать в сторону выхода.::<end>
+::Отодвинуть медленно.::<end>
 
 =>a61_original
 ::Quickly move it away.::<end>
 
 =>a61
-::Быстро двигать в сторону выхода.::<end>
+::Отодвинуть быстро.::<end>
 
 =>a62_original
 ::Lift and hold the feet in the air.::<end>
@@ -406,7 +414,7 @@ Feeet frozen... mooove them... move aaawaaay from cooold...<end>
 Sighttt is faaading... but the cold... is preventing the slumberrr... the eternal dreeeam.<end>
 
 =>q67
-Зре-е-е-ение ме-е-е-еркнет... но хо-о-о-о-олод... меша-а-а-ает дремо-о-о-оте... ве-е-е-е-ечному сну.<end>
+Зре-е-ение ме-е-еркнет... но хо-о-олод... меша-а-ает дремо-о-оте... ве-е-е-ечному сну.<end>
 
 =>q68_original
 
@@ -414,6 +422,8 @@ Sighttt is faaading... but the cold... is preventing the slumberrr... the eterna
 ::[Doctor] Victims affected by frostbite may show signs of desperation as the body slowly starts to give in. Falling to sleep in critical situations is therefore something that should be avoided at all costs. In addition, maintaining vertical body position may further help with blood flow, helping to warm up the victim.::<end>
 
 =>q68
+
+
 ::[Доктор] Пострадавшие от обморожения могут проявлять признаки отчаяния, так как тело постепенно начинает сдаваться. Поэтому в критических ситуациях следует избегать засыпания любой ценой. Кроме того, сохранение вертикального положения тела может способствовать притоку крови, помогая согреть пострадавшего.::<end>
 
 =>q69_original
