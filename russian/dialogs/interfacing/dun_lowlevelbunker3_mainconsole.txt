@@ -6,7 +6,7 @@ Firmware version - 2.05::<end>
 =>q1
 ::Центр испытаний ИИ - Главная консоль
 Биокорп Кор Электроникс
-Версия прошивки - 2.05::<end>
+Версия прошивки: 2.05::<end>
 
 =>q2_original
 <end>
@@ -72,7 +72,7 @@ Firmware version - 2.05::<end>
 ::Testing formation *Rapid* currently active.::<end>
 
 =>q12
-::Тестирование формирования *Стремительность* в данный момент активно.::<end>
+::В данный момент производится тестирование формирования *Стремительность*.::<end>
 
 =>a13_original
 ::Recall active formation::<end>
@@ -140,7 +140,7 @@ Firmware version - 2.05::<end>
 ::Testing formation *Steady* currently active.::<end>
 
 =>q23
-::Тестирование формирования *Стойкость* в данный момент активно.::<end>
+::В данный момент производится тестирование формирования *Стойкость*.::<end>
 
 =>a24_original
 ::Recall active formation::<end>
@@ -206,7 +206,7 @@ Firmware version - 2.05::<end>
 ::Testing formation *Flash* currently active.::<end>
 
 =>q34
-::Тестирование формирования *Вспышка* в данный момент активно.::<end>
+::В данный момент производится тестирование формирования *Вспышка*.::<end>
 
 =>a35_original
 ::Recall active formation::<end>
@@ -272,7 +272,7 @@ Firmware version - 2.05::<end>
 ::Testing formation *Blaze* currently active.::<end>
 
 =>q45
-::Тестирование формирования *Пламя* в данный момент активно.::<end>
+::В данный момент производится тестирование формирования *Пламя*.::<end>
 
 =>a46_original
 ::Recall active formation::<end>
@@ -296,13 +296,13 @@ Firmware version - 2.05::<end>
 ::Toggle path blocker obstacle section: Southwest::<end>
 
 =>a49
-::Переключить блокировку пути в секции препятствий: юго-запад.::<end>
+::Переключить блокировку пути: юго-запад.::<end>
 
 =>a50_original
 ::Toggle path blocker obstacle section: Northwest::<end>
 
 =>a50
-::Переключить блокировку пути в секции препятствий: северо-запад.::<end>
+::Переключить блокировку пути: северо-запад.::<end>
 
 =>a51_original
 ::Toggle obstacle: gas::<end>
@@ -347,7 +347,8 @@ All personel stay out of the testing area.::
 
 Турели активированы.
 
-Персоналу запрещается входить в зону проведения испытаний.::<end>
+Персоналу запрещается входить в зону проведения испытаний.::
+<end>
 
 =>q57_original
 ::Unknown error.::<end>
