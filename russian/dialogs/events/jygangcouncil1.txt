@@ -38,7 +38,7 @@ That may be true, but that still doesn't change the fact that Protectorate's ult
 Hear me out, please: If we intervene and help some lowlifes kill each other, think of the message we could be sending to the United Stations. Just as you said right now about them conquering their way toward us, they might too feel threatened by our movements; they could see us as being conquerors. And then what?<end>
 
 =>q7
-Выслушайте меня, пожалуйста: если мы вмешаемся и поможем каким-то подонкам убивать друг друга, -- подумайте, какое сообщение мы этим отправим Объединённым Станциям? Вот, вы говорите, они захватывают территории всё ближе к нам, но так же и они могут почувствовать угрозу с нашей стороны -- нас могут счесть агрессором. И что тогда?<end>
+Выслушайте меня, пожалуйста: если мы вмешаемся и поможем каким-то подонкам убивать друг друга, -- подумайте, какое сообщение мы этим отправим Объединённым Станциям? Вот вы говорите, они захватывают территории всё ближе к нам, но так же и они могут почувствовать угрозу с нашей стороны -- нас могут счесть агрессором. И что тогда?<end>
 
 =>q8_original
 Excuse me, Vera, but I never uttered the word "conquering." I am merely expressing my concerns. You know I care only for what is best for this station and its residents. Underrail Protectorate is a powerful force and shouldn't be taken lightly.<end>
@@ -212,7 +212,7 @@ I don't know. I don't think I have enough information to make up my mind.<end>
 ...And that is basically the situation as $(context.player.Name) explained it. What do you think would be the right course of action?<end>
 
 =>q36
-...Вот в, общем-то, и вся ситуация, которую нам описал$(#/а) $(context.player.Name). Как вы считаете, каким был бы правильный курс действий?<end>
+...Вот, в общем-то, и вся ситуация, которую нам описал$(#/а) $(context.player.Name). Как вы считаете, каким был бы правильный курс действий?<end>
 
 =>q37_original
 I know for one you'll be more than glad to jump at this opportunity, Gorsky.<end>
@@ -296,7 +296,7 @@ Not that they'd have me anyways. They'd put a bullet in my head. And Ezra's too 
 ::Tanner holds both of his hands up to ease the tension before turning to you.:: What do you think, $(context.player.Name)?<end>
 
 =>q50
-::Таннер поднимает руки, призывая к спокойствию, затем обращается к вам: ::Как вы считаете, $(context.player.Name)?<end>
+::Таннер поднимает руки, призывая к спокойствию, затем обращается к вам: ::А как вы считаете, $(context.player.Name)?<end>
 
 =>q51_original
 <end>
@@ -314,7 +314,7 @@ Not that they'd have me anyways. They'd put a bullet in my head. And Ezra's too 
 Cowardice. You think you will stay their hand by being passive? The Protectorate does not allow strong stations like ours to exist, be it outside of their domain or within.<end>
 
 =>q53
-Это трусость. Думаете, вам удастся их сдержать, оставаясь пассивным? Протекторат не позволяет существовать сильным станциям, как наша, будь то внутри или вне его границ.<end>
+Это трусость. Думаете, вам удастся их сдержать, оставаясь пассивными? Протекторат не позволяет существовать сильным станциям, как наша, будь то внутри или вне его границ.<end>
 
 =>q54_original
 As I said - some of us would get the bullet and some of you would be transferred to other places until what remains here would be nice and... governable.<end>

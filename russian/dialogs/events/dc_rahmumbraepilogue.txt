@@ -10,7 +10,7 @@
 Tchort is no more, and the Cube has been returned to the Faceless.<end>
 
 =>q2
-::Знакомый силуэт материализуется перед вами. Вы вздрагиваете, но, как показал опыт вашей предыдущей встречи, его появление, пусть неожиданное и резкое, не несёт опасности. Вновь, исходящий из ниоткуда голос обращается к вам: ::
+::Знакомый силуэт материализуется перед вами. Вы вздрагиваете, но как показал опыт вашей предыдущей встречи, его появление, пусть неожиданное и резкое, не несёт опасности. Вновь, исходящий из ниоткуда голос обращается к вам: ::
 
 Чорта больше нет, и Куб был возвращён безликим.<end>
 
@@ -58,7 +58,7 @@ Tanner must die, and few but myself can make sure that occurs. I am a powerful b
 ::[Intelligence]:: I reckon you've been after him for a long time. He must've done something severe to deserve such an assassin. Betray your kind, perhaps?<end>
 
 =>a9
-::[Интеллект]:: Полагаю, ты гонишься за ним уже долгое время. Что-то он такое сделал, чтобы заслужить подобное внимание. Он предал свой народ?<end>
+::[Интеллект]:: Полагаю, ты гонишься за ним уже долгое время. Должно быть, он совершил что-то серьёзное, чтобы заслужить подобное внимание. Он предал свой народ?<end>
 
 =>q10_original
 His crime is severe, that I will say, but nothing more.<end>
@@ -76,7 +76,7 @@ So, you need me to get to him?<end>
 No. Tanner is no longer in South Gate Station. He knows I am after him and if I am correct, he should be on his way to North Underrail.<end>
 
 =>q12
-Нет. Таннера больше нет на станции Саут-Гейт. Он знает, что я преследую его, и, если я не ошибаюсь, отправится в Северную Подземку.<end>
+Нет. Таннера больше нет на станции Саут-Гейт. Он знает, что я преследую его, и если я не ошибаюсь, отправится в Северную Подземку.<end>
 
 =>q13_original
 Our events are connected; yours, Tanner's, mine. I do not know why, but I do know that such is the case. As I saw you being an essential participant in the destruction of Tchort, perhaps you are also an actor of similar importance in Tanner's. Or even in other events. It is an option I would be foolish to disregard.<end>
@@ -88,7 +88,7 @@ Our events are connected; yours, Tanner's, mine. I do not know why, but I do kno
 After our conversation comes to an end, I will travel to North Underrail, after him. I would recommend you do so too. All the destruction that emerged from events we have witnessed is the consequence of his actions, in one way or the other. And his actions are unlikely to deviate from the norm.<end>
 
 =>q14
-После нашего разговора я отправляюсь по его следу в Северную Подземку. Я советую тебе поступить так же. Все разрушения, ставшие результатом событий, свидетелями которых были мы -- это так или иначе результат его действий. Такие действия для него -- норма, и я не предвижу отклонений.<end>
+После нашего разговора я отправляюсь по его следу в Северную Подземку. Я рекомендую тебе поступить так же. Все разрушения, ставшие результатом событий, свидетелями которых были мы -- это так или иначе результат его действий. Такие действия для него -- норма, и я не предвижу отклонений.<end>
 
 =>q15_original
 If you want to prevent similar events from occurring, then North Underrail should be your next destination. You will be able to find me in a place called Hexagon; ask for Six.<end>
@@ -144,7 +144,7 @@ I see I don't have any choice. Take it. ::Give him the Cube.::<end>
 Lesser $(#men/women) would have never been given this choice after such insolence. Consider yourself lucky. It was foolish of you to even think you could escape with the artifact.<end>
 
 =>q23
-::Он берёт куб, не касаясь его; он просто протягивает свою руку.::
+::Он берёт куб, не касаясь его; он просто протягивает свою руку ближе, и тот сам перемещается к нему.::
 
 Менее значимому человеку не был бы предоставлен этот выбор после такой наглости. Считай, что тебе повезло. Глупо было бы даже думать, что ты смог$(#/ла) бы сбежать с артефактом.<end>
 
@@ -236,13 +236,13 @@ No.<end>
 Why?<end>
 
 =>a38
-Зачем?<end>
+Почему?<end>
 
 =>q39_original
 It would be meaningless for me to do so. Deception is not what I want. <end>
 
 =>q39
-Мне не было бы смысла поступить так. Обман не является моей целью. <end>
+Мне не было бы смысла поступать так. Обман не является моей целью. <end>
 
 =>a40_original
 What can you tell me about Tanner?<end>
@@ -446,7 +446,7 @@ Do not be foolish. You are doing yourself more damage than good. Give me the art
 He is a dangerous individual and if you are right, he better be stopped. I will go to North Underrail.<end>
 
 =>a73
-Он опасен, и, если ты прав, его надо остановить. Я поеду в Северную Подземку.<end>
+Он опасен, и если ты прав, его надо остановить. Я поеду в Северную Подземку.<end>
 
 =>q74_original
 Good. The Faceless blockade is no more, so the railroad should be unobstructed.<end>
@@ -586,7 +586,7 @@ No. Other events await my, or our participation. That is why I am here.<end>
 Tchort is no more.<end>
 
 =>q96
-::Знакомый силуэт материализуется перед вами. В тот же момент вам вспоминается его просьба вернуть Куб безликим и тот факт, что вы сделали прямо противоположное. Он говорит без единого движения.::
+::Знакомый силуэт материализуется перед вами. В тот же момент вам вспоминается его просьба вернуть Куб безликим и тот факт, что вы сделали прямо противоположное. Он говорит без единого движения: ::
 
 Чорта больше нет.<end>
 
@@ -614,7 +614,7 @@ You did. Other events await my... our participation. That is why I am here.<end>
 Tchort has been destroyed. The artifact is back in the hands of the Faceless, despite your foolishness.<end>
 
 =>q100
-::Вновь, исходящий из ниоткуда голос обращается к вам.::
+::Вновь, исходящий из ниоткуда голос обращается к вам: ::
 
 Чорт уничтожен. Артефакт вернулся в руки безликих, несмотря на твою глупость.<end>
 
@@ -800,7 +800,7 @@ Foolishness, if you will. There are reasons why you will not be punished.<end>
 ::His face is completely covered and he appears to wear some sort of a metal mask with four protruding lenses, and there's another extension on his very forehead that looks like a short gun barrel. Instead of hair, rigid wires protrude from the back of his head.::<end>
 
 =>q130
-::Его лицо полностью закрыто какой-то металлической маской с четырьмя выпуклыми линзами и ещё одним выступом на лбу, напоминающим ствол пистолета. Вместо волос жёсткие провода торчат сзади его головы.::<end>
+::Его лицо полностью закрыто какой-то металлической маской с четырьмя выпуклыми линзами и ещё одним выступом на лбу, напоминающим ствол пистолета. Вместо волос, жёсткие провода торчат сзади его головы.::<end>
 
 =>q131_original
 ::As he speaks, his deep rumbling voice feels somehow displaced, as if not coming out from his mouth.::
@@ -808,9 +808,9 @@ Foolishness, if you will. There are reasons why you will not be punished.<end>
 We meet.<end>
 
 =>q131
-::Когда он говорит, его глубокий рокочущий голос кажется исходящим из ниоткуда.::
+::Когда он говорит, его низкий рокочущий голос кажется исходящим из ниоткуда: ::
 
-Мы встречаемся.<end>
+Мы встретились.<end>
 
 =>a132_original
 Where the hell did you come from?<end>

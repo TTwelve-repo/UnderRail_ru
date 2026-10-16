@@ -24,7 +24,7 @@ His monologue then ends, and the battle begins.::<end>
 HA! You truly amaze me, $(context.player.Name): You captured Sarine!<end>
 
 =>q4
-ХА! Ты меня удивляешь, $(context.player.Name) -- Ты поймал$(#/а) Сарину!<end>
+ХА! Ты меня удивляешь, $(context.player.Name) -- ты поймал$(#/а) Сарину!<end>
 
 =>q5_original
 ::He looks at her with pride.:: Welcome to my lair, woman. You--<end>
@@ -38,7 +38,7 @@ You ugly, *repulsive*, *pathetic* excuse for a human being! I'll rip your heart 
 ARGH! ::She kicks her cell's door with all her might but to no effect.::<end>
 
 =>q6
-Ты уродливое,*отвратительное*, *жалкое* подобие человека! Я вырву твоё сердце, если ты только подумаешь прикоснуться ко мне своими грязными пальцами!
+Ты уродливое, *отвратительное, жалкое* подобие человека! Я вырву твоё сердце, если ты только подумаешь прикоснуться ко мне своими грязными пальцами!
 
 А-А-А! ::Она пинает запертую дверь в попытке выбить её, но та не поддаётся.::<end>
 
@@ -46,7 +46,7 @@ ARGH! ::She kicks her cell's door with all her might but to no effect.::<end>
 You will *learn* to love it here, woman, and you will stay in that very cell until you come to your senses. Your beloved Beck is without you, and I hope he dies from sorrow like a spineless worm that he is. The Sud family lineage will end - while mine will flourish, just as it should be!<end>
 
 =>q7
-Ты *научишься* любить это место, женщина, и ты будешь сидеть в клетке, пока не поумнеешь. Твой любимый Бек потерял тебя, и я надеюсь, что он умрёт от тоски, -- бесхребетный червяк. Род Сада прервётся, а мой будет процветать, как и должно быть!<end>
+Ты *научишься* любить это место, женщина, и ты будешь сидеть в клетке, пока не поумнеешь. Твой любимый Бек потерял тебя, и я надеюсь, что он сдохнет от тоски, -- бесхребетный червяк. Род Сада прервётся, а мой будет процветать, как и должно быть!<end>
 
 =>q8_original
 ::The Rathound King turns to you with a pleased grin on his face.:: As for you, you've done me a great service. You deserve this. ::He hands you a curious suit of leather armor.:: 
@@ -54,7 +54,7 @@ You will *learn* to love it here, woman, and you will stay in that very cell unt
 Welcome to the pack!<end>
 
 =>q8
-::Король крысоволков обращается к вам с довольной ухмылкой на лице.:: Что касается тебя, ты хорошо послужил$(#/а) мне. Вот твоя награда. ::Он вручает вам необычный кожаный доспех.::
+::Король крысоволков обращается к вам с довольной ухмылкой на лице: ::Что касается тебя, ты хорошо послужил$(#/а) мне. Вот твоя награда. ::Он вручает вам необычный кожаный доспех.::
 
 Добро пожаловать в стаю!<end>
 
@@ -70,7 +70,7 @@ $(context.player.Name), thank you. First you bring me the woman I desired, then 
 What a glorious day to be... the Rathound King. ::He laughs.::<end>
 
 =>q10
-$(context.player.Name), я благодарен тебе. Сначала ты приводишь мне женщину, которую я желаю, теперь ты -- по незнанию, но всё же -- приводишь ко мне сына моего злейшего врага, чтобы я мог его зарезать как свинью. Дурак! ХА!
+$(context.player.Name), я благодарен тебе. Сначала ты приводишь мне женщину, которую я желаю, теперь ты -- по незнанию, но всё же -- приводишь ко мне сына моего злейшего врага, чтобы я мог его зарезать как свинью. Этот дурак! ХА!
 
 Какой славный день... для Короля крысоволков. ::Он смеётся.::<end>
 
@@ -192,7 +192,7 @@ They agreed to your terms.<end>
 That sounds good, but with Sarine's kidnapping, the truce is impossible now. Things turned out differently than I had originally anticipated.<end>
 
 =>q30
-Звучит неплохо, но после похищения Сарины перемирие невозможно. Дела приняли иной оборот, нежели я ожидал.<end>
+Это хорошо, но теперь, после похищения Сарины, перемирие не продержится долго. Дела приняли иной оборот, нежели я ожидал.<end>
 
 =>q31_original
 The negotiations are now meaningless, and a man must adapt to the new situation.<end>
