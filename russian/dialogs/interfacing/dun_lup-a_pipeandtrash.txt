@@ -28,7 +28,7 @@
 After regaining your senses, you find yourself lying in some sludge.::<end>
 
 =>q5
-::Невзирая на то, что вас обволакивает густая грязь, ваша воля к жизни прорывает вам путь. Вы теряете чувство пространства и времени, ведь ваша единственная цель - продолжать двигаться вперёд. По прошествии, казалось бы, вечности, вы делаете последний рывок. Это изнуряющее усилие выжимает из вас последние остатки сил, и вы теряете сознание.
+::Невзирая на то, что вас обволакивает густая грязь, ваша воля к жизни прорывает вам путь. Вы теряете чувство пространства и времени, ведь ваша единственная цель -- продолжать двигаться вперёд. По прошествии, казалось бы, вечности, вы делаете последний рывок. Это изнуряющее усилие выжимает из вас последние остатки сил, и вы теряете сознание.
 
 Очнувшись, вы обнаруживаете, что валяетесь в какой-то грязи.::<end>
 
@@ -54,7 +54,7 @@ After regaining your senses, you find yourself lying in some sludge.::<end>
 ::[Constitution] Your guts are strong, as you manage to withstand all the disgusting smell coming your way. However, the further you go the filth becomes stronger and the waste becomes denser. Suddenly, the ooze entangles you.::<end>
 
 =>q9
-::[Телосложение] У вас крепкое нутро, и вам удаётся выдержать эту отвратительную вонь. Однако, чем дальше вы пробираетесь, тем плотнее становятся отходы. И неожиданно вас опутывает слизь.::<end>
+::[Телосложение] У вас крепкое нутро, и вам удаётся выдержать эту отвратительную вонь. Однако чем дальше вы пробираетесь, тем плотнее становятся отходы. Неожиданно, вас опутывает слизь.::<end>
 
 =>a10_original
 ::[Constitution] Muscle through.::<end>
@@ -68,9 +68,9 @@ After regaining your senses, you find yourself lying in some sludge.::<end>
 ::The fatigue causes you to slam down onto the floor.::<end>
 
 =>q11
-::Ваше тело сильно, и верно вам служит. Вы продираетесь сквозь грязь и добираетесь до участка трубы с большим отверстием на дне. Увидев выход, вы испытываете всплеск адреналина и прыгаете в дыру.
+::Ваше тело сильно и верно вам служит. Вы продираетесь сквозь грязь и добираетесь до участка трубы с большим отверстием на дне. Увидев выход, вы испытываете всплеск адреналина и прыгаете в дыру.
 
-От переутомления вы падаете на землю.::<end>
+От переутомления вы камнем падаете на землю.::<end>
 
 =>a12_original
 ::Stand up.::<end>
@@ -89,7 +89,7 @@ After regaining your senses, you find yourself lying in some sludge.::<end>
 <end>
 
 =>q14
-::По мере вашего медленно движения вперёд, вы начинаете задыхаться. Ваши чувства притупляются, и вы больше не способны воспринимать окружение. Единственное, что вы чувствуете - это биение сердца, изо всех сил старающегося компенсировать недостаток кислорода. Пока вы жадно хватаете ртом воздух, вам кажется, что проходит целая вечность. И в конце концов вы теряете сознание. ::<end>
+::По мере вашего медленно движения вперёд, вы начинаете задыхаться. Ваши чувства притупляются, и вы больше не способны воспринимать окружение. Единственное, что вы чувствуете -- это биение сердца, изо всех сил старающегося компенсировать недостаток кислорода. Пока вы жадно хватаете ртом воздух, вам кажется, что проходит целая вечность. В конце концов вы теряете сознание. ::<end>
 
 =>a15_original
 ::Die.::<end>
@@ -137,7 +137,7 @@ After regaining your senses, you find yourself lying in some sludge.::<end>
 ::You stand before a giant pile of trash. The sound of contaminated droplets coming down from the nearby mindshroom and its green light make the trash seem somewhat alive. ::<end>
 
 =>q22
-::Перед вами гигантская куча мусора. Звук загрязнённых капель, падающих с растущего рядом мозгляка, и его свечение словно оживляют эту кучу. ::<end>
+::Перед вами гигантская куча мусора. Свечение растущего рядом мозгляка и звуки падающих с него токсичных капель словно оживляют эту кучу. ::<end>
 
 =>a23_original
 ::Dig through the trash. ::<end>
@@ -173,25 +173,25 @@ Check out the rest of the trash.<end>
 ::Leave.::<end>
 
 =>a28
-::Уйти::<end>
+::Уйти.::<end>
 
 =>q29_original
 ::You start searching through the trash going from one end to another. The filthy mud acts like a glue, making it quite hard to pick up objects which are closer to the ground. After a while, the dirt and stench eventually make you stop... ::<end>
 
 =>q29
-::Вы приступаете к поискам в мусоре, переходя от одного края к другому. Из-за мерзкой грязи, подобной клею, довольно трудно доставать предметы, лежащие ближе к земле. Спустя какое-то время грязь и вонища всё-таки вынуждают вас остановиться... ::<end>
+::Вы приступаете к поискам в мусоре, передвигаясь от одного края к другому. Из-за мерзкой грязи, подобной клею, довольно трудно доставать предметы, лежащие ближе к земле. Спустя какое-то время, грязь и вонища всё-таки вынуждают вас остановиться... ::<end>
 
 =>a30_original
 ::Keep searching.::<end>
 
 =>a30
-::Продолжить искать::<end>
+::Продолжить искать.::<end>
 
 =>q31_original
 ::This time you start by searching the corners in full detail. You spend considerable amount of time picking out items one by one, but again, none of them seem to useful. ::<end>
 
 =>q31
-::Теперь вы начинаете обыскивать углы более тщательно. Вы тратите немало времени, перебирая предметы один за другим, однако, вновь ни один из них не несёт для вас никакой ценности. ::<end>
+::На этот раз вы решаете более тщательно обыскать углы. На перебор предметов одного за другим уходит немало времени, однако вновь ни один из них не несёт для вас никакой ценности. ::<end>
 
 =>a32_original
 ::Try again.::<end>
@@ -203,7 +203,7 @@ Check out the rest of the trash.<end>
 ::Your approach changes this time as you start organizing the trash by throwing away the useless stuff to the side. As you dig through, you start reaching for the smallest things. However after a while, all this extra work makes you tired. Glancing over what's left you figure that there is about three times as much more trash left to go through.::<end>
 
 =>q33
-::На этот раз вы меняете свой подход, и начинаете упорядочивать мусор, отбрасывая ненужное в сторону. Пока вы копаететь, то начинаете вытаскивать самые мелкие вещи. Однако, вскоре этот дополнительный труд вас утомляет. Окинув взглядом оставшийся мусор, вы прикидываете, что его осталось раза в три больше, чем вы перебрали.::<end>
+::На этот раз вы меняете свой подход и начинаете упорядочивать мусор, отбрасывая ненужное в сторону. Эта тактика позволяет вам вытаскивать самые мелкие вещи. Однако вскоре дополнительный труд вас утомляет. Окинув взглядом оставшийся мусор, вы прикидываете, что его осталось раза в три больше, чем вы перебрали.::<end>
 
 =>a34_original
 ::Continue digging.::<end>
@@ -215,7 +215,7 @@ Check out the rest of the trash.<end>
 ::You are becoming better at this, as you start to sort out trash much faster. As you dig deeper, it would seem for a moment, that the trash pile has no end. Fatigue kicks in as you start to confuse which pile of trash you have already visited. Your fingers are becoming numb and you take a small break to rest. ::<end>
 
 =>q35
-::Вы приноровились и начинаете гораздо быстрее разбирать мусор. По мере того, как вы зарываетесь всё глубже, начинает казаться, что куче не будет конца. Вас одолевает усталость, от чего вы забываете, какую кучу мусора уже осмотрели. Ваши пальцы немеют, и вы берёте небольшой перерыв, чтобы передохнуть. ::<end>
+::Вы приноровились и начинаете гораздо быстрее сортировать мусор. По мере того, как вы зарываетесь всё глубже, начинает казаться, что куче не будет конца. Вас одолевает усталость, от чего вы забываете, какую кучу мусора уже осмотрели. Ваши пальцы немеют, и вы берёте небольшой перерыв, чтобы передохнуть. ::<end>
 
 =>a36_original
 ::Don't give up.::<end>
@@ -227,7 +227,7 @@ Check out the rest of the trash.<end>
 ::Desparation clouds your mind, as you go through even more filthy trash. At this point, you don't even mind the smell from it. Your numbing hands start to turn into efficient shovels as you bulldoze through the junk. The pain becomes too much at this point as there is about a quarter of initial pile remaining. ::<end>
 
 =>q37
-::Отчаяние затмевает ваш разум, когда вы пробираетесь через ещё более мерзкий мусор. Но теперь вы даже не обращаете внимания на источаемый им запах. Ваши онемевшие руки становятся эффективными лопатами, пока вы перекапываете мусор. В момент, когда боль становится невыносимой, остаётся около четверти первоначальной кучи. ::<end>
+::Отчаяние затмевает ваш разум, когда вы пробираетесь через всё более мерзкий мусор. На этой стадии вы уже не обращаете внимания на источаемый им запах. Ваши онемевшие руки становятся эффективными лопатами для перекапывания мусорв. Боль становится невыносимой, а от первоначальной кучи остаётся ещё около четверти. ::<end>
 
 =>a38_original
 ::Keep... going...::<end>
@@ -239,7 +239,7 @@ Check out the rest of the trash.<end>
 ::At this point you become one with the trash. You berserk through what's left out of it. After what's been over a hundred items you've inspected, all but nothing was left to be searched through. Your body quivers in pain as your filth ridden hands start to bleed out from many tiny scars you've received in the process. ::<end>
 
 =>q39
-::С этого момента вы становитесь одним целым с мусором. Вы в бешенстве перебираете то, что от него осталось. После осмотра свыше сотни предметов, вам больше нечего обыскивать. Ваше тело трясётся от боли, а ваши грязные руки кровоточат от массы крошечных порезов, полученных в процессе. ::<end>
+::Вы становитесь одним целым с мусором. Вы в бешенстве перекарываете то, что от него осталось. После осмотра свыше сотни предметов, вам осталось почти нечего обыскивать. Ваше тело трясётся от боли, а ваши грязные руки кровоточат от массы крошечных порезов, полученных в процессе. ::<end>
 
 =>a40_original
 ::The ground. Dig through the filth on the ground.::<end>
@@ -251,7 +251,7 @@ Check out the rest of the trash.<end>
 ::Your numb hands serve you well in this task as you start lifting small chunks of ground which was initally below the trash. Digging efforts bring you closer to the floor sunk in oozing mud, but it doesn't stop your momentum one bit. All that is left are some filth covered rocks.::<end>
 
 =>q41
-::Ваши онемевшие руки отлично справляются с этой задачей, и вы начинаете поднимать небольшие комья земли, которые изначально находились под мусором. Старательно копая, вы приближаетесь ко дну, погружённому в вязкую грязь, но это ничуть не сбавляет ваши обороты. И всё, что остаётся - это покрытые грязью камни.::<end>
+::Ваши онемевшие руки отлично справляются с этой задачей, и вы начинаете поднимать небольшие комья земли, которые изначально находились под мусором. Старательно копая, вы приближаетесь ко дну, погружённому в вязкую грязь, но это ничуть не сбавляет ваши обороты. И всё, что остаётся, это покрытые грязью камни.::<end>
 
 =>a42_original
 ::The rocks!::<end>
@@ -263,4 +263,4 @@ Check out the rest of the trash.<end>
 ::As the rocks are the last thing standing in your way, you suddenly gain encouragement to do the final job. You leap onto work as you start lifting them up, relentlessly. Underneath each rock, you find some additional heavily corroded trash. At last, in a tiny damaged lockbox, you find a wallet. It is in unusually decent condition, considering all the previous items you've seen just before it. Inside the wallet you find a lockpick.::<end>
 
 =>q43
-::Так как камни - это последнее, что стоит на вашем пути, внезапно вы обретаете стимул завершить начатое. Вы погружаетесь в работу, и начинаете неумолимо их поднимать. Под каждым камнем обнаруживается ещё какой-нибудь изрядно проржавевший мусор. И вот, наконец, в небольшом повреждённом ящичке вы находите бумажник. Он, на удивление, в приличном состоянии, принимая во внимание всё, что вы видели до сих пор. Внутри бумажника вы обнаруживаете отмычку.::<end>
+::Так как камни -- последнее, что стоит на вашем пути, внезапно вы обретаете стимул завершить начатое. Вы погружаетесь в работу и начинаете неутомимо их поднимать. Под каждым камнем обнаруживается ещё какой-нибудь изрядно проржавевший мусор. И вот наконец, в небольшом повреждённом ящичке вы находите бумажник. Он на удивление в приличном состоянии, в сравнении со всем, что вы видели до сих пор. Внутри бумажника вы обнаруживаете отмычку.::<end>
