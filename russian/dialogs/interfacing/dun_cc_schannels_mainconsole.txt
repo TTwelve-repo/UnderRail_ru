@@ -4,9 +4,9 @@
 The display on the console showcases two green graphs, one on each monitor, with several large red circles, seemingly placed at random all throughout the scheme. These dots most likely represent the positions of the crane's many lifting arms available at your disposal. Some sections at both monitors are starting to fade out, the others outright not showing up. In the top right corner of the left screen you can see what seems to be a power bar, and it's showing a number: *21*. In between the two large monitors is a third one which shows two large rectangles on it. However, the diminished visuals there leave you with no useful information other than the fact that they are pulsating in orange color.::<end>
 
 =>q1
-::Свет от дисплея падает на решётки под вашими ногами, и это заставляет вас посмотреть вниз. Вы видите, что кабина, где вы сейчас стоите, находится на вершине большого механизма с бесчисленными шестернями и длинными трубами, идущими к верху двигателя. Нижнюю часть этого огромного мотора, управляющего хитроумным подвесным краном снаружи, нельзя увидеть с того места, откуда вы смотрите.
+::Свет от дисплея падает на решётки под вашими ногами, и это заставляет вас посмотреть вниз. Вы видите, что кабина, где вы сейчас стоите, находится на вершине большого механизма с бесчисленными шестернями и длинными трубами, идущими к верхней части двигателя. Нижнюю часть этого огромного мотора, управляющего хитроумным подвесным краном снаружи, нельзя увидеть с того места, откуда вы смотрите.
 
-На пульте управления отображаются две зелёных схемы, по одной на каждом мониторе, с несколькими большими красными кругами, расположение которых кажется хаотичным. Эти точки, скорее всего, показывают положение множества подъёмных стрел крана, которые доступны вам. Некоторые части на обоих мониторах выцвели, другие просто ничего не отображают. В правом верхнем углу левого экрана вы можете видеть, кажется, индикатор питания, он показывает число: *21*. Между двумя большими мониторами находится третий, на котором отображаются два больших прямоугольника. Однако эти слабые визуальные эффекты не дают вам никакой полезной информации, кроме того факта, что они пульсируют оранжевым цветом.::<end>
+На пульте управления отображаются две зелёных схемы, по одной на каждом мониторе, с несколькими большими красными кругами, расположение которых кажется хаотичным. Эти точки, скорее всего, показывают положение множества подъёмных стрел крана, которые доступны вам. Некоторые сегменты на обоих мониторах выцвели, другие просто ничего не отображают. В правом верхнем углу левого экрана вы можете видеть, кажется, индикатор питания, он показывает число: *21*. Между двумя большими мониторами находится третий, на котором отображаются два больших прямоугольника. Однако изображение настолько блеклое, что не даёт вам никакой полезной информации, кроме того факта, что они пульсируют оранжевым цветом.::<end>
 
 =>q2_original
 ::With a few swipes, you clean the accumulated dust from the keyboard. The letters on them are still preserved and it doesn't take you long to figure the controls out.::
@@ -16,9 +16,9 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q2
-::Несколькими взмахами вы стряхиваете скопившуюся пыль с клавиатуры. Буквы на ней всё ещё сохранились, и вам не потребуется много времени, чтобы разобраться с управлением.::
+::Несколькими взмахами вы стряхиваете скопившуюся пыль с клавиатуры. Буквы на ней всё ещё сохранились, и вам не требуется много времени, чтобы разобраться с управлением.::
 
-::Эта точка даёт вам очень хороший обзор. Наклоняясь туда-сюда, вы можете увидеть любую часть этого места. За двойными дверями, в которые вы вошли, находится широкая пустая площадка, где можно опустить всё, что подымите с помощью крана.::
+::Эта точка даёт вам очень хороший обзор. Наклоняясь туда-сюда, вы можете увидеть любую часть этого помещения. Сразу за двойными дверями, в которые вы вошли, находится широкая пустая площадка, где можно разместить всё, что вы подымете с помощью крана.::
 <end>
 
 =>q3_original
@@ -47,7 +47,7 @@ The display on the console showcases two green graphs, one on each monitor, with
 ::Use the crane to: ::<end>
 
 =>q6
-::Использовать кран для: ::<end>
+::Использовать кран, чтобы: ::<end>
 
 =>a7_original
 ::Bring over the western floating barrel.::<end>
@@ -62,6 +62,7 @@ The display on the console showcases two green graphs, one on each monitor, with
 
 =>q8
 ::С помощью крана вам удаётся поднять бочку и перенести её к кабине. ::
+
 <end>
 
 =>a9_original
@@ -77,6 +78,7 @@ The display on the console showcases two green graphs, one on each monitor, with
 
 =>q10
 ::С помощью крана вам удаётся поднять ящик и перенести его к кабине. ::
+
 <end>
 
 =>a11_original
@@ -95,7 +97,7 @@ The display on the console showcases two green graphs, one on each monitor, with
 ::Use the crane to: ::<end>
 
 =>q13
-::Использовать кран для: ::<end>
+::Использовать кран, чтобы: ::<end>
 
 =>a14_original
 ::Bring over the western floating barrel.::<end>
@@ -110,6 +112,7 @@ The display on the console showcases two green graphs, one on each monitor, with
 
 =>q15
 ::С помощью крана вам удаётся поднять бочку и перенести её к кабине. ::
+
 <end>
 
 =>a16_original
@@ -125,13 +128,14 @@ The display on the console showcases two green graphs, one on each monitor, with
 
 =>q17
 ::С помощью крана вам удаётся поднять ящик и перенести его к кабине. ::
+
 <end>
 
 =>a18_original
 ::Clear the obstacle next to most southern point of the section.::<end>
 
 =>a18
-::Убрать завал на самой южной точке отсека.::<end>
+::Расчистить завал на самой южной точке помещения.::<end>
 
 =>q19_original
 ::Using the crane you manage to clear the obstacle. ::
@@ -139,20 +143,21 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q19
-::С помощью крана вам удалось расчистить завал. ::
+::С помощью крана вам удаётся расчистить завал. ::
+
 <end>
 
 =>a20_original
 ::Middle channel. ::<end>
 
 =>a20
-::Средний канал.::<end>
+::Средний канал. ::<end>
 
 =>q21_original
 ::Use the crane to: ::<end>
 
 =>q21
-::Использовать кран для: ::<end>
+::Использовать кран, чтобы: ::<end>
 
 =>a22_original
 ::Bring over the northen floating box.::<end>
@@ -167,6 +172,7 @@ The display on the console showcases two green graphs, one on each monitor, with
 
 =>q23
 ::С помощью крана вам удаётся поднять ящик и перенести его к кабине. ::
+
 <end>
 
 =>a24_original
@@ -182,6 +188,7 @@ The display on the console showcases two green graphs, one on each monitor, with
 
 =>q25
 ::С помощью крана вам удаётся поднять бочку и перенести её к кабине. ::
+
 <end>
 
 =>a26_original
@@ -194,13 +201,13 @@ The display on the console showcases two green graphs, one on each monitor, with
 ::Use the crane to: ::<end>
 
 =>q27
-::Использовать кран для: ::<end>
+::Использовать кран, чтобы: ::<end>
 
 =>a28_original
 ::Clear the obstacle next to the north sewage pool.::<end>
 
 =>a28
-::Убрать завал рядом с северным сточным бассейном.::<end>
+::Расчистить завал рядом с северным сточным бассейном.::<end>
 
 =>q29_original
 ::Using the crane you manage to clear the obstacle. ::
@@ -208,14 +215,15 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q29
-::С помощью крана вам удалось расчистить завал. ::
+::С помощью крана вам удаётся расчистить завал. ::
+
 <end>
 
 =>a30_original
 ::Clear the obstacle next to the south sewage pool.::<end>
 
 =>a30
-::Убрать завал рядом с южным сточным бассейном.::<end>
+::Расчистить завал рядом с южным сточным бассейном.::<end>
 
 =>q31_original
 ::Using the crane you manage to clear the obstacle. ::
@@ -223,7 +231,8 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q31
-::С помощью крана вам удалось расчистить завал. ::
+::С помощью крана вам удаётся расчистить завал. ::
+
 <end>
 
 =>a32_original
@@ -238,7 +247,8 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q33
-::С помощью крана вам удалось расчистить завал. ::
+::С помощью крана вам удаётся расчистить завал. ::
+
 <end>
 
 =>a34_original
@@ -251,7 +261,7 @@ The display on the console showcases two green graphs, one on each monitor, with
 ::Use the crane to: ::<end>
 
 =>q35
-::Использовать кран для: ::<end>
+::Использовать кран, чтобы: ::<end>
 
 =>a36_original
 ::Clear the trash which is covering the northen sewage pool and bring the box closer to you.::<end>
@@ -265,7 +275,8 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q37
-::С помощью крана вам удалось расчистить завал и перенести ящик ближе к кабине. ::
+::С помощью крана вам удаётся расчистить завал и перенести ящик ближе к кабине. ::
+
 <end>
 
 =>a38_original
@@ -280,7 +291,8 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q39
-::С помощью крана вам удалось убрать мусор. ::
+::С помощью крана вам удаётся убрать мусор. ::
+
 <end>
 
 =>a40_original
@@ -295,7 +307,8 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q41
-::С помощью крана вам удалось убрать мусор. ::
+::С помощью крана вам удаётся убрать мусор. ::
+
 <end>
 
 =>a42_original
@@ -310,14 +323,15 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q43
-::С помощью крана вам удалось убрать ящики. ::
+::С помощью крана вам удаётся убрать ящики. ::
+
 <end>
 
 =>a44_original
 ::Clear the trash in the south, which is south from the sewage pool.::<end>
 
 =>a44
-::Убрать ящики на юге, к югу от сточного бассейна.::<end>
+::Убрать мусор на юге, к югу от сточного бассейна.::<end>
 
 =>q45_original
 ::Using the crane you manage to clear the obstacle. ::
@@ -325,7 +339,8 @@ The display on the console showcases two green graphs, one on each monitor, with
 <end>
 
 =>q45
-::С помощью крана вам удалось расчистить завал. ::
+::С помощью крана вам удаётся расчистить завал. ::
+
 <end>
 
 =>a46_original
@@ -341,6 +356,7 @@ The display on the console showcases two green graphs, one on each monitor, with
 
 =>q47
 ::С помощью крана вам удаётся поднять ящик и перенести его к кабине. ::
+
 <end>
 
 =>a48_original
@@ -365,4 +381,4 @@ The display on the console showcases two green graphs, one on each monitor, with
 ::Most of the display has been turned off. Little what was left can be barely seen as it's mostly faded out. All of the controls have become unresponsive. All three monitors share a common message: Power Critical!::<end>
 
 =>q51
-::Большая часть изображений отключилась. То немногое, что осталось, еле видно, так как едва горит. Управление не отвечает. На всех трёх мониторах одно сообщение: "Критический уровень питания!"::<end>
+::Большая часть индикаторов отключилась. То немногое, что осталось, еле видно, так как едва горит. Управление не отвечает. На всех трёх мониторах одно сообщение: «Критический уровень питания!»::<end>
