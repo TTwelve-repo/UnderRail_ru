@@ -296,13 +296,13 @@ Firmware version - 2.05::<end>
 ::Toggle path blocker obstacle section: Southwest::<end>
 
 =>a49
-::Переключить блокировку пути: юго-запад.::<end>
+::Переключить блокировку пути: юго-запад::<end>
 
 =>a50_original
 ::Toggle path blocker obstacle section: Northwest::<end>
 
 =>a50
-::Переключить блокировку пути: северо-запад.::<end>
+::Переключить блокировку пути: северо-запад::<end>
 
 =>a51_original
 ::Toggle obstacle: gas::<end>
@@ -314,19 +314,19 @@ Firmware version - 2.05::<end>
 Applying combined gas obstacles to the western sections.<end>
 
 =>q52
-Введение комбинированных газовых препятствий в западных секциях.<end>
+::Введение комбинированных газовых препятствий в западных секциях.::<end>
 
 =>a53_original
 ::Toggle obstacle: gas.::<end>
 
 =>a53
-::Переключить препятствие: газ.::<end>
+::Переключить препятствие: газ::<end>
 
 =>q54_original
 Retracting gas into the dedicated ventilation system.<end>
 
 =>q54
-Вывод газа через специализированную вентиляционную систему.<end>
+::Вывод газа через специализированную вентиляционную систему.::<end>
 
 =>a55_original
 ::Toggle combat simulation with static defense::<end>
