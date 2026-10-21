@@ -8,7 +8,7 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::Leave.::<end>
 
 =>a2
-::Уйти::<end>
+::Уйти.::<end>
 
 =>q3_original
 ::It doesn't take a keen eye to notice that this emergency phone seems to be quite old, considering its technological composition as well as its current condition.::
@@ -64,7 +64,7 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::Leave.::<end>
 
 =>a10
-::Уйти::<end>
+::Уйти.::<end>
 
 =>a11_original
 ::Press the button with a red rathound icon.::<end>
@@ -90,7 +90,7 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::The metal doors on the left side rumble as you can hear wheels turning. Something is coming outside.::<end>
 
 =>q14
-::"Бз-з-зт уже в з-з-з-ути."::
+::«Бз-з-зт уже в з-з-зути».::
 
 ::Металлические двери с левой стороны грохочут, слышен шум колёс. Что-то приближается.::<end>
 
@@ -146,7 +146,7 @@ Ring, ring? Nuuu? Uhhhhh.<end>
 ::Leave.::<end>
 
 =>a23
-::Уйти::<end>
+::Уйти.::<end>
 
 =>a24_original
 ::Plug in the orange box.::<end>
@@ -980,7 +980,7 @@ Press the button with a green shield symbol for situations where human interfere
 =>q150
 ::Механический голос зачитывает предварительно записанное сообщение:
 
-«Специальный отряд службы безопасности Метро-бззт... Биокопр уже в пути. Расчётное время прибытия -- неизвестно.» ::<end>
+«Специальный отряд службы безопасности Метро-бззт... Биокопр уже в пути. Расчётное время прибытия -- неизвестно». ::<end>
 
 =>a151_original
 ::Cancel the call.::<end>
@@ -1120,9 +1120,9 @@ Press the button with a blue question mark for more information."::<end>
 No calls can be made.::<end>
 
 =>q169
-::Кто-то испортил этот телефон... или что-то.
+::Кто-то раздолбал этот телефон... или что-то.
 
-Звонки невозможны.::<end>
+Позвонить невозможно.::<end>
 
 =>a170_original
 ::Open the metal compartment.::<end>
@@ -1152,7 +1152,7 @@ No calls can be made.::<end>
 ::Leave.::<end>
 
 =>a174
-::Уйти::<end>
+::Уйти.::<end>
 
 =>q175_original
 ::This phone is considerably damaged. The metal compartment door is missing and its insides are empty.::
@@ -1234,7 +1234,7 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 ::This time the silence lasts considerably longer. Suddenly, two distinct yet heavily muffled male voices start talking one to another, but it's impossible to discern much from their conversation. Your attempts to talk to them are futile as it seems you can only listen in on their conversation. By the tone of their voice, it's clear that one party is dissatisfied with the other. Yelling ensues and you can hear the last sentence which sounded like: "I'm done crunching for you, derailed maggots!". The other guy tries to respond: "Aww, Ph-reakyyy, don't leave us hanging. It'll just take--" the call suddenly ends.::<end>
 
 =>q185
-::На этот раз молчание длится значительно дольше. Внезапно вы слышите разговор двух приглушённых, но вполне различимых мужских голосов, но понять что-либо невозможно. Ваши попытки заговорить с ними тщетны, так что вы можете только подслушивать их разговор. По тону голосов понятно, что одна сторона недовольна другой. Разговор переходит в крик, и вам удаётся разобрать последнее предложение, что-то вроде: «Я не буду больше хрустеть на вас, поехавшие придурки!». Другой голос пытается ответить: «Ну, Фри-ики, не бросай нас. Надо всего лишь...» -- и звонок обрывается.::<end>
+::На этот раз молчание длится значительно дольше. Внезапно вы слышите разговор двух приглушённых, но вполне различимых мужских голосов, но понять что-либо невозможно. Ваши попытки заговорить с ними тщетны, так что вы можете только подслушивать их разговор. По тону голосов понятно, что одна сторона недовольна другой. Разговор переходит в крик, и вам удаётся разобрать последнее предложение, что-то вроде: «Я не буду больше хрустеть на вас, поехавшие придурки!» Другой голос пытается ответить: «Ну, Фри-ики, не бросай нас. Надо всего лишь...» -- и звонок обрывается.::<end>
 
 =>a186_original
 ::Make a new call.::<end>
@@ -1326,7 +1326,7 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 ::After a short silence, somebody picks up.::<end>
 
 =>q199
-::После короткого молчания, кто-то берёт трубку.::<end>
+::После короткого молчания, кто-то снимает трубку.::<end>
 
 =>q200_original
 :: The first sound you hear is one that would leave your ears bleeding had it lasted longer than a few seconds. The noise clanks mercilessly, producing piercing sounds, some robotic and the others of raw metal, making it seem as if the headphone is being dragged along a rough surface. Suddenly a sharp - *thunk* sound, stops this madness. An old voice shouts:
@@ -1336,9 +1336,9 @@ Utilizing relatively basic knowledge of electronics, you manage to reconnect all
 The call has ended.::<end>
 
 =>q200
-::Первый звук, который вы слышите, вызвал бы у вас ушное кровотечение, если бы он длился дольше нескольких секунд. Раздаётся беспощадный пронзительный лязг, то механический, то металлический, как будто микрофон тащат по неровной поверхности. Внезапный резкий стук останавливает это безумие. Стариковский голос кричит:
+:: Первый звук, который вы слышите, вызвал бы у вас ушное кровотечение, если бы он длился дольше нескольких секунд. Раздаётся беспощадный пронзительный лязг, то механический, то металлический, как будто микрофон тащат по неровной поверхности. Внезапный резкий стук останавливает это безумие. Стариковский голос кричит:
 
-«Никакого хруста не происходит, хватит мне тут жужжать»!
+«Никакого хруста не происходит, хватит мне тут жужжать!»
 
 Звонок обрывается.::<end>
 
@@ -1490,7 +1490,7 @@ The call has ended.::<end>
 ::You can make a call.::<end>
 
 =>q224
-::В этом телефоне осталось только три кнопки, остальные выломаны.::
+::На этом телефоне осталось только три кнопки, остальные выломаны.::
 
 ::Вы можете позвонить.::<end>
 
@@ -1614,7 +1614,7 @@ Bzzzt - mechanical support unavailable. Contact the personnel inside the room ah
 =>q243
 ::Механический голос зачитывает предварительно записанное сообщение:
 
-Бз-з-зт... техническая поддержка недоступна. Обратитесь к персоналу в комнате напротив.::<end>
+Бз-з-зт... техническая поддержка недоступна. Обратитесь к персоналу в комнате рядом с вами.::<end>
 
 =>a244_original
 ::Make a new call.::<end>
@@ -1642,7 +1642,7 @@ Bzzz zzzt - Dispatching dedicated support unit. Please stand by.::<end>
 =>q247
 ::Механический голос зачитывает предварительно записанное сообщение:
 
-Бз-з-з... з-з-зт... Специальный вспомогательный модуль в пути. Пожалуйста, подождите.::<end>
+Бз-з-з... з-з-зт... Специальная вспомогательная бригада в пути. Пожалуйста, подождите.::<end>
 
 =>a248_original
 ::Press the fifth button.::<end>
@@ -1664,7 +1664,7 @@ Animal proximity detected, extermination unit on route.::<end>
 =>q250
 ::Механический голос зачитывает предварительно записанное сообщение:
 
-Обнаружено присутствие животных, санитарный модуль в пути.::<end>
+Обнаружено присутствие животных, санитарная бригада в пути.::<end>
 
 =>a251_original
 ::Open the metal compartment.::<end>
@@ -1688,13 +1688,13 @@ Animal proximity detected, extermination unit on route.::<end>
 ::The box's metal cover is severely bent, most likely after being struck by a sledgehammer.::<end>
 
 =>q254
-::Металлическая крышка корпуса сильно погнута, скорее всего, после удара кувалдой.::<end>
+::Металлическая крышка корпуса сильно погнута, скорее всего после удара кувалдой.::<end>
 
 =>q255_original
  ::Although it's in terrible shape, with sufficient knowledge and the right tools, it can still be salvaged.::<end>
 
 =>q255
- ::Несмотря на то, что он в ужасном состоянии, при наличии знаний и инструментов, его всё же можно починить.::<end>
+ ::Несмотря на то, что телефон в ужасном состоянии, его всё же можно починить при наличии знаний и инструментов.::<end>
 
 =>a256_original
 ::[Hacking or Electronics] Attempt to fix the phone.::<end>
@@ -1724,13 +1724,13 @@ Animal proximity detected, extermination unit on route.::<end>
 ::Leave.::<end>
 
 =>a260
-::Уйти::<end>
+::Уйти.::<end>
 
 =>a261_original
 ::Leave.::<end>
 
 =>a261
-::Уйти::<end>
+::Уйти.::<end>
 
 =>q262_original
  ::You can try to make a call.::<end>
@@ -1846,7 +1846,7 @@ Animal proximity detected, extermination unit on route.::<end>
 ::Leave.::<end>
 
 =>a279
-::Уйти::<end>
+::Уйти.::<end>
 
 =>q280_original
 ::This phone is completely out of commission.::<end>
@@ -1858,4 +1858,4 @@ Animal proximity detected, extermination unit on route.::<end>
 ::Leave.::<end>
 
 =>a281
-::Уйти::<end>
+::Уйти.::<end>

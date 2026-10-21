@@ -8,7 +8,7 @@ Alright, move along...<end>
 Whatcha you looking at, punk? Don't try anything funny or... ::He makes a gun gesture with his finger and aims at your head.:: BLAM!<end>
 
 =>q2
-Чё уставил$(#ся, придурок/ась, соплячка)? Ничего даже не пытайся, или... ::Он складывает пальцы пистолетом и указывает вам в лицо.:: БУМ!<end>
+Чё уставил$(#ся, придурок/ась, соплячка)? Ничего даже не пытайся или... ::Он складывает пальцы пистолетом и указывает вам в лицо.:: БУМ!<end>
 
 =>q3_original
 Um.. um... $(#jack/sister), just... go. You can pass...<end>
@@ -26,7 +26,7 @@ Um.. um... $(#jack/sister), just... go. You can pass...<end>
 Hey, you! Maggots like you can't pass through without paying $(context.npc_lu_bandit1_toll) charons!<end>
 
 =>q5
-Эй, ты! Чудилы вроде тебя должны платить $(context.npc_lu_bandit1_toll) харонов за проход!<end>
+Эй, ты! Для чудилы вроде тебя проход $(context.npc_lu_bandit1_toll) харонов!<end>
 
 =>q6_original
 <end>
@@ -38,7 +38,7 @@ Hey, you! Maggots like you can't pass through without paying $(context.npc_lu_ba
 Just take it and leave me alone. ::Give him 20 charons.::<end>
 
 =>a7
-Просто возьми, и оставь меня в покое. ::Дать ему 20 харонов.::<end>
+Возьми и оставь меня в покое. ::Дать ему 20 харонов.::<end>
 
 =>q8_original
 ::He grins.:: Thank you very much, kind $(#sir/ma'am). Now get movin'!<end>
@@ -56,19 +56,19 @@ Here's 5 charons. ::Give him 5 charons::<end>
 Alright, what are you waiting for? Hop along little hopper, hop!<end>
 
 =>q10
-Отлично, чего ты ещё ждёшь? Прыгай, мелкий пещерник, прыгай!<end>
+Отлично, чего ты ещё ждёшь? Прыгай, прыгай, маленький пещерник!<end>
 
 =>a11_original
 Just take it and leave me alone. ::Give him 30 charons.::<end>
 
 =>a11
-Просто возьми, и оставь меня в покое. ::Дать ему 30 харонов.::<end>
+Возьми и оставь меня в покое. ::Дать ему 30 харонов.::<end>
 
 =>a12_original
 You wont get even one charon out from me!<end>
 
 =>a12
-Ты не получишь от меня ни харона больше!<end>
+Ты не получишь от меня ни харона!<end>
 
 =>q13_original
 We'll see about that! Maggot! ::He readies his weapon.::<end>
@@ -86,19 +86,19 @@ We'll see about that! Maggot! ::He readies his weapon.::<end>
 ::[Intimidate]:: Let me pass or I'm gonna rip your arms and legs off! Did you hear me, "maggot"!?<end>
 
 =>a15
-::[Запугивание]:: Дай пройти, или я оторву тебе руки и ноги! Ты меня слышал, «чудила»?!<end>
+::[Запугивание]:: Дай пройти или я оторву тебе руки и ноги! Ты меня слышал, «чудила»?!<end>
 
 =>q16_original
 Um... calm down, take what you need, okay? We were just messing around.<end>
 
 =>q16
-Эм... успокойся, возьми всё, что тебе нужно, ладно? Мы просто беседовали.<end>
+Эм... успокойся, возьми всё, что хочешь, ладно? Мы просто пошутили.<end>
 
 =>q17_original
 Um... We were just joking. Little fun never hurt anyone, right? You are, um, free to pass.<end>
 
 =>q17
-Эм... мы просто пошутили. Немного смеха никому не повредит, верно? Ты, эм, можешь пройти.<end>
+Эм... мы просто пошутили. Немного юмора никому не повредит, верно? Ты, эм, можешь пройти.<end>
 
 =>q18_original
 Hey! Who do you think you are!? I'll teach you a little lesson, maggot!<end>
@@ -116,19 +116,19 @@ Hey! Who do you think you are!? I'll teach you a little lesson, maggot!<end>
 ::[Persuade]:: Look sweetie, I just want to pass.<end>
 
 =>a20
-::[Убеждение]:: Слушай, сладкий, я просто хочу пройти.<end>
+::[Убеждение]:: Ну пропусти меня просто так, сладенький.<end>
 
 =>q21_original
 Ooooh! Alright, sweetcakes, I'll let you through, but only because you asked nicely! ::He winks.::<end>
 
 =>q21
-О-о-о! Ладно, красав$(#чик/ица), я тебя пропущу, но только потому, что ты вежливо попросил$(#/а)! ::Он подмигивает.::<end>
+О-о-о! Ладно, красав$(#чик/ица), я тебя пропущу, но только потому что ты вежливо попросил$(#/а)! ::Он подмигивает.::<end>
 
 =>q22_original
 I'm sure you do... Look, how about you give me... hmmm, five charons? Five charons and I'll let you pass.<end>
 
 =>q22
-Я вижу, что хочешь... Слушай, давай так: ты дашь мне... хм-м-м, пять харонов? Пять харонов -- и я позволю тебе пройти.<end>
+Я бы тебя пропустил... Слушай, давай так: ты заплатишь... м-м-м, пять харонов. Пять харонов, и я позволю тебе пройти.<end>
 
 =>a23_original
 Ok, I'll pay. ::Give him 5 charons.::<end>
@@ -140,13 +140,13 @@ Ok, I'll pay. ::Give him 5 charons.::<end>
 Sounds good, but I'll just have to come back later.<end>
 
 =>a24
-Звучит неплохо, но придётся мне вернуться позже.<end>
+Хорошо, но я принесу их в другой раз.<end>
 
 =>q25_original
 Sorry, $(context.npc_lu_bandit1_toll) charons. Even for you, sweetheart.<end>
 
 =>q25
-Прости, $(context.npc_lu_bandit1_toll) харонов. Даже для тебя, красав$(#чик/ица).<end>
+Прости, но плата $(context.npc_lu_bandit1_toll) харонов. Даже для тебя, красав$(#чик/ица).<end>
 
 =>a26_original
 Looks like I need to find another way around.<end>
@@ -158,7 +158,7 @@ Looks like I need to find another way around.<end>
 Back again? Are you ready to pay those $(context.npc_lu_bandit1_toll) charons now? Hmm?<end>
 
 =>q27
-Опять вернул$(#ся/ась)? готов$(#/а) заплатить $(context.npc_lu_bandit1_toll) харонов теперь? Хм-м?<end>
+Опять вернул$(#ся/ась)? Прин$(#ёс/есла) $(context.npc_lu_bandit1_toll) харонов? М-м-м?<end>
 
 =>q28_original
 <end>
@@ -170,4 +170,4 @@ Back again? Are you ready to pay those $(context.npc_lu_bandit1_toll) charons no
 You again? It's $(context.npc_lu_bandit1_toll) charons now!<end>
 
 =>q29
-Ты опять? Давай $(context.npc_lu_bandit1_toll) харонов, быстро!<end>
+Ты опять? Теперь проход $(context.npc_lu_bandit1_toll) харонов!<end>
