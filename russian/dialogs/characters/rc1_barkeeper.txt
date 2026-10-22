@@ -22,7 +22,7 @@ We're good, you and I. But tell Dude I'll pour him some rat poison the next time
 Well... ::He half-smiles.:: Is there anything you want? You're paying for everything on the spot though!<end>
 
 =>q4
-С тобой у меня проблем нет. Но Чуваку скажу, что в следующий раз я ему подсыплю крысиной отравы. Сечёшь?
+С тобой у меня проблем нет. Но Чуваку скажи, что в следующий раз я ему подсыплю крысиной отравы. Сечёшь?
 
 Ладно... ::Он криво улыбается.:: Тебе чего-нибудь надо? Только никаких кредитов!<end>
 
@@ -484,7 +484,7 @@ You... You... ::He pauses, eyeing you suspiciously.::<end>
 Dammit, maybe someone did take it. But... ::He pauses again, his argument cut short by his own conflicting thoughts. After a few pensive moments he shakes his head.:: Alright. *Alright*. Guess I'm gonna have to let you off the hook. But anything you order from now on - you're paying straight away, you dig? On the spot.<end>
 
 =>q78
-Проклятье, возможно, их и правда кто-то забрал. Но... ::Он снова замолкает, его рассуждения прерываются противоречивыми мыслями. После недолгих раздумий он качает головой.:: Ладно. *Ладно*. Полагаю, на этот раз ты соскочил$(#/а). Но отныне всё, что ты закажешь -- оплатишь сразу же, врубаешься? На месте.<end>
+Проклятье, возможно, их и правда кто-то забрал. Но... ::Он снова замолкает, его рассуждения прерываются противоречивыми мыслями. После недолгих раздумий, он качает головой.:: Ладно. *Ладно*. Полагаю, на этот раз ты соскочил$(#/а). Но отныне всё, что ты закажешь -- оплатишь сразу же, врубаешься? На месте.<end>
 
 =>q79_original
 ::He stares at you for a while longer before calming down.:: So what's it gonna be then?<end>
@@ -538,7 +538,7 @@ Oh... I thought he was asking whether *I* was okay, not whether I was okay with 
 Well, he didn't. But you are here now and I ain't gonna let you get away again, you dig?<end>
 
 =>q87
-Ну так он не заплатил. А ты теперь здесь, и просто так я тебе уйти больше не дам, сечёшь?<end>
+Ну так, он не заплатил. А ты теперь здесь, и просто так я тебе уйти больше не дам, сечёшь?<end>
 
 =>a88_original
 Can you put it on Dude's tab or something? You said he's a regular.<end>
@@ -550,7 +550,7 @@ Can you put it on Dude's tab or something? You said he's a regular.<end>
 He's a very *infrequent* regular. He's a regular when he's around. His tendency to disappear and forget about his tab is the reason he no longer has one.<end>
 
 =>q89
-Он очень *непостоянный* постоянный клиент. Он постоянный, когда он здесь. И из-за его склонности пропадать и забывать про свой счёт у него больше нет счёта.<end>
+Он очень *непостоянный* постоянный клиент. Он постоянный, когда он здесь. И из-за его склонности пропадать и забывать про свой счёт, у него больше нет счёта.<end>
 
 =>a90_original
 So that is how you repay me for helping your station?<end>
