@@ -4,7 +4,7 @@
 You! Yes, you! You look like someone who's got food! No, no, don't deny it. I knew it from the moment I saw you. You. have. *food*!<end>
 
 =>q1
-::Мужчина замечает вас издалека, поднимает указательный палец и направляет его прямо на вас. Его длинные ноги быстро сокращают расстояние между вами, и по мере его приближения вам приходится всё выше и выше поднимать голову. Пожалуй, вам понадобится стремянка, чтобы поговорить с ним, не напрягая шеи. В то время как его пальто, кажется, в приличном состоянии -- исключая несколько пулевых отверстий и разноцветные заплатки -- его сапоги, пожалуй, не протянут долго, а пояс болтается слишком свободно. Он останавливается перед вами -- его палец по-прежнему направлен вниз, на ваш нос -- и говорит.::
+::Мужчина замечает вас издалека, поднимает указательный палец и направляет его прямо на вас. Его длинные ноги быстро сокращают расстояние между вами, и по мере его приближения вам приходится всё выше и выше поднимать голову. Пожалуй, вам понадобится стремянка, чтобы поговорить с ним, не напрягая шеи. В то время как его пальто, кажется, в приличном состоянии -- исключая несколько пулевых отверстий и разноцветные заплатки -- его сапоги, пожалуй, не протянут долго, а пояс болтается слишком свободно. Он останавливается перед вами -- его палец по-прежнему направлен вниз, на ваш нос -- и говорит: ::
 
 Ты! Да, ты! Ты похож$(#/а) на того, у кого есть еда! Нет, нет, не отрицай. Едва увидев тебя, я понял. У тебя. Есть. *Еда*!<end>
 
@@ -36,7 +36,7 @@ Can you?<end>
 Hey, that's what I'm talking about! But first, let me properly introduce myself: I'm Jon the Beautiful. Am I not? Eh? *Eh*?<end>
 
 =>q6
-Эй, вот это я понимаю Но, во-первых, позволь мне представиться: я Красавчик Джон. Разве не так? А? А?<end>
+Эй, вот это я понимаю! Но во-первых, позволь мне представиться: я Красавчик Джон. Разве не красавчик? А? А?<end>
 
 =>q7_original
 Now that we're done with that, listen here: I've been living in Core City for quite some time now and have learned many of its secrets. Even some of the most hardcore ones! And... I happen to be hungry all the time. Understand, pal? I can tell you interesting and one-hundred-percent useful things in exchange for... what?<end>
@@ -60,7 +60,7 @@ You get it! That's what I'm talking about, pal! You're not as dumb as you loo-- 
 You can find me near the back entrance to the Hardcore City Bar. That's where I usually hang out. If you don't know where that is, find me first and then I'll explain it. So, bring that delicious food of yours and then we'll discuss things further, pal.<end>
 
 =>q10
-Ты найдёшь меня возле чёрного входа в бар Хардкор-Сити. Вот где я обычно тусуюсь. Если ты не знаешь где это, сначала найди меня, а потом я объясню. Так что приноси мне вкусную еду, и тогда мы обсудим остальное, $(#приятель/подруга).<end>
+ты найдёшь меня возле чёрного входа в бар Хардкор-Сити. Вот где я обычно тусуюсь. Если ты не знаешь где это, найди меня, и я объясню. Так что, приноси мне вкусную еду, и тогда мы обсудим остальное, $(#приятель/подруга).<end>
 
 =>a11_original
 Alright, I'll find you if I need something.<end>
@@ -100,19 +100,19 @@ I almost forgot: <end>
 There's a man waiting for you in Dominating bar, up in the residential area. Name's Aran. Dressed in a black and red cloak, wears a mask, has a sword. Can't miss him.<end>
 
 =>q16
-В доминирующем баре, в жилом районе, вас ждёт мужчина. Зовут Аран. Одет в чёрно-красный плащ, носит маску, меч. Не пропустишь.<end>
+В Доминирующем баре, в жилом районе, тебя ждёт мужчина. Зовут Аран. Одет в чёрно-красный плащ, носит маску, меч. Ни с кем не перепутаешь.<end>
 
 =>a17_original
 Did he say what it's about?<end>
 
 =>a17
-Он сказал, зачем?<end>
+Он сказал, что ему надо?<end>
 
 =>q18_original
 No. He only said that I tell you - which I'm doing right now - that it's something important and that you should see him as soon as possible - which means *now*. <end>
 
 =>q18
-Нет. Он сказал только, что это что-то важное, и что ты долж$(#ен/на) встретиться с ним как можно скорее, что означает - *прямо сейчас*. <end>
+Нет. Он сказал только, чтобы я сказал тебе, -- что я и делаю, -- что это что-то важное, и что ты долж$(#ен/на) встретиться с ним как можно скорее, что означает -- *прямо сейчас*. <end>
 
 =>q19_original
 <end>
@@ -124,37 +124,37 @@ No. He only said that I tell you - which I'm doing right now - that it's somethi
 Didn't know you also worked as a messenger.<end>
 
 =>a20
-Не знал, что ты тоже работаешь курьером.<end>
+Не знал$(#/а), что ты ещё и посыльным работаешь.<end>
 
 =>q21_original
 I don't, not anymore. Used to do it way back before every zoner and their pet rat started doing it. Brought the prices down into the gutter.<end>
 
 =>q21
-Нет, больше нет. Так делали ещё до того, как каждый зонер и его домашняя крыса начали это делать. Сбросил цены ниже плинтуса.<end>
+Не, давно уже не работаю. Но было дело, ещё до того, как каждый зонер и его домашняя крыса начали этим заниматься. Оплату сбили ниже плинтуса.<end>
 
 =>q22_original
 But this... this I couldn't refuse.<end>
 
 =>q22
-Но от этого ... от этого я не мог отказаться.<end>
+Но на этот раз... я не мог отказаться.<end>
 
 =>a23_original
 Where is this Dominating bar exactly?<end>
 
 =>a23
-Где точно находится Доминирующий бар?<end>
+Где именно находится Доминирующий бар?<end>
 
 =>q24_original
 Take the elevator to the upper floor then head east. All the way past the Praetorian Security headquarters.<end>
 
 =>q24
-Поднимитесь на лифте на верхний этаж и идите на восток. Мимо штаба Преторианской Безопасности.<end>
+Поднимите на лифте на верхний этаж и иди на восток. Мимо штаба преторианцев и дальше.<end>
 
 =>q25_original
 It's a small bar in the southeastern corner. Small, cozy place. A bit empty, though.<end>
 
 =>q25
-Это маленький бар в юго-восточном районе. Маленькое, уютное местечко. Правда, немного пустоватое. <end>
+Это маленький бар в юго-восточном углу района. Небольшое, уютное местечко. Пустовато там, правда.<end>
 
 =>a26_original
 What do you know about him?<end>
@@ -166,19 +166,19 @@ What do you know about him?<end>
 A few things. But it's gonna cost you, pal. <end>
 
 =>q27
-Пару вещей. Но это влетит тебе в копейку, приятель. <end>
+Кое-что. Но это не бесплатно, $(#приятель/подруга). <end>
 
 =>a28_original
 What do you need?<end>
 
 =>a28
-Что тебе нужно?<end>
+Что ты хочешь?<end>
 
 =>q29_original
 My inner being's yearning for some bacon... and cheese. ::He pats his belly.:: Between two slices of rootbread.<end>
 
 =>q29
-Моё внутреннее существо жаждет немного бекона ... и сыра. ::Он похлопывает себя по животу.:: Между двумя ломтиками хлеба.<end>
+Моё внутреннее существо жаждет бекона... с сыром. ::Он похлопывает себя по животу.:: Между ломтиками хлеба.<end>
 
 =>a30_original
 Here you go.<end>
@@ -190,13 +190,13 @@ Here you go.<end>
 Mmmm, yeah. What is life without bacon? Now, pal...<end>
 
 =>q31
-Ммм, да. Что такое жизнь без бекона? Сейчас, приятель...<end>
+М-м-м, да. Что за жизнь без бекона? Так вот, $(#приятель/подруга)...<end>
 
 =>q32_original
 This guy came here somewhere around the time the Black Sea expedition boats came back for resupply. Around that time. He approached me and inquired about *everything* that's been going on in Core City in the past few weeks, and I mean everything, pal, especially about the expedition. I got so much canned food out of it I'm good for-- *Anyway*...<end>
 
 =>q32
-Этот парень приехал сюда где-то в то время, когда лодки Черноморской экспедиции возвращались для пополнения запасов. Примерно в это время. Он подошёл ко мне и расспросил обо всём, что происходило в Кор-Сити за последние несколько недель, и я имею в виду всё, приятель, особенно об экспедиции. Я получил столько консервов от него, что я хорош для ... *Во всяком случае * ...<end>
+Этот парень объявился где-то в то же время, когда лодки черноморской экспедиции вернулись для пополнения запасов. Примерно в то же время. Он подошёл ко мне и расспросил обо *всём*, что происходило в Кор-Сити за последние несколько недель, вообще обо всём, $(#приятель/подруга), особенно об экспедиции. Мне теперь консервов хватит... *Короче*...<end>
 
 =>q33_original
 He's looking for something, and that something's most likely related to the expedition, yeah. I don't know what it is exactly, <end>
@@ -208,25 +208,25 @@ He's looking for something, and that something's most likely related to the expe
 but whatever it is, it's gotta be the reason he's after *you*. When your name came up, pal, he got really interested. <end>
 
 =>q34
-но что бы это ни было, это должно быть причина, по которой он преследует *тебя*. Когда всплыло твоё имя, приятель, он очень заинтересовался. <end>
+но что бы это ни было, по этой причине он ищет *тебя*. Когда всплыло твоё имя, $(#приятель/подруга), он очень заинтересовался. <end>
 
 =>q35_original
 ::He nods while pulling a piece of bacon out of the sandwich and eating it with delight.::<end>
 
 =>q35
-::Он кивает, вытаскивая кусок бекона из бутерброда и с удовольствием ест его.::<end>
+::Он кивает, вытаскивая кусок бекона из бутерброда, и с удовольствием ест его.::<end>
 
 =>a36_original
 Tell me about the man himself.<end>
 
 =>a36
-Расскажите мне о нём самом.<end>
+Какой он из себя?<end>
 
 =>q37_original
 He's the kind of a man that's not too pleased about hauling food to me. But we, eh... struck a deal in the end. The man means business and knows how to do business.<end>
 
 =>q37
-Он из тех людей, которым не слишком нравится таскать мне еду. Но мы, э-э... в конце концов заключили сделку. Этот человек настроен серьёзно и знает, как вести дела.<end>
+Он из тех, кому не слишком нравится таскать мне еду. Но мы, э-э... в конце концов договорились. Этот человек настроен серьёзно и умеет договариваться.<end>
 
 =>q38_original
 But he's Hexagonian, that I can bet this sandwich on. It's the way he dresses, the equipment he's got, the attitude. Hexagonian.
@@ -236,7 +236,7 @@ Who he's working for... that's a more difficult question. There are plenty of fa
 =>q38
 Но он из Шестигранника, могу поспорить на этот сэндвич. Всё дело в его одежде, в снаряжении и в его поведении. Из Шестигранника.
 
-На кого он работает... это более сложный вопрос. В Шестиграннике много фракций, большинство из которых себя не афишируют. Он также мог быть одиноким стрелком или точнее... одиноким клинком. Но он хорошо экипирован, и его игрушки не дёшевы, так-то вот.<end>
+На кого он работает... это более сложный вопрос. В Шестиграннике много фракций, большинство из которых себя не афишируют. Он также может быть вольным стрелком или точнее... мечником. Но он хорошо экипирован, и его игрушки не из дешёвых, так что вот.<end>
 
 =>q39_original
 Aaaand... that's all I got for you.
@@ -244,9 +244,9 @@ Aaaand... that's all I got for you.
 ::He takes a bite out of the sandwich.:: Mmm, hot damn, pal! This dominates. And the cheese, oh boy...<end>
 
 =>q39
-И-и-и... это всё, что у меня есть для тебя.
+И-и-и... это всё, что мне известно.
 
-::Он откусывает кусочек от бутерброда.:: М-м-м, чёрт возьми, приятель! Это рулит. И сыр, О парень...<end>
+::Он откусывает кусочек от бутерброда.:: М-м-м, вкуснятина, $(#приятель/подруга)! Хардкор. А этот сыр, ох ты...<end>
 
 =>q40_original
 <end>
@@ -300,7 +300,7 @@ Here you go. ::Give him one eel sandwich.::<end>
 Come here, baby! No, not you - I was talking to the sandwich. Sometimes the digestion is better if you talk to your food. Anyway, about Joe: Just head north of here and you should see a guard to the right, on a platform. There's, like, this small metal shack there.<end>
 
 =>q48
-Иди сюда, детка! Нет, не ты, я разговаривал с бутербродом. Иногда пищеварение лучше, если поговоришь с едой. Короче, про Джо: просто иди на север отсюда, и ты увидишь охранника справа, на платформе. Там, типа, такая маленькая металлическая будка.<end>
+Иди сюда, детка! Да не ты, я разговаривал с бутербродом. Иногда пищеварение лучше, если поговоришь с едой. Короче, про Джо: просто иди на север отсюда, и справа ты увидишь охранника на платформе. Там, типа, такая небольшая металлическая будка.<end>
 
 =>q49_original
 The guard is one of De Pacino's men. You figure out the rest, pal. ::He laughs.:: Nasty buggers. Also, I heard they do business with Coretech. Dirty business. There's some free info. ::He bites into the sandwich, and soon after an expression of bliss appears on his face.:: Oh, this one's good!<end>
@@ -357,6 +357,7 @@ Hey pal, I'm just messing with you, don't be silly.
 
 =>q57
 Эй, $(#приятель/подруга), я подкалываю тебя, не глупи.
+
 <end>
 
 =>q58_original
@@ -369,7 +370,7 @@ The two guys are brothers. <end>
 To find them, go east, and east, and *east* and there you'll find a small community of foreigners who say "bre" a lot.<end>
 
 =>q59
-Чтобы найти их, иди на восток, потом на восток, потом ещё на *восток*, и там ты найдёшь небольшую общину иностранцев, которые часто говорят «бре».<end>
+Чтобы найти их, иди на восток, потом на восток, потом на *восток*, и там ты найдёшь небольшую общину иностранцев, которые часто говорят «бре».<end>
 
 =>q60_original
 At the *east* side of that area you'll find Slavomir's - humble - home. But, be careful, 'cause you'll be in the Drop Zone. Zoners and stuff, you know? Nasty people. Heard of that, them? No? Yes? Meh... ::He bites into the meat.::<end>
@@ -417,13 +418,13 @@ Here you go. ::Give him one cave hopper steak.::<end>
 That's what I'm talking about! Come to me! So, you want to know more about Daniel? Okay, pal, listen up: I've been keeping my eye on him for a while. Whenever someone comes along and claims he's got something that's "the best" - which is that Hercules drug in this case - you gotta know something crooked is going on.<end>
 
 =>q67
-Вот об этом я и говорю! Иди ко мне! Итак, ты хочешь знать больше о Даниэле? Ладно, $(#приятель/подруга), слушай сюда: я приглядываю за ним уже какое-то время. Всякий раз, когда кто-то приходит и рассказывает, что он нашёл нечто «наилучшее», как этот его Геракл, ты понимаешь что тут что-то нечисто.<end>
+Вот об этом я и говорю! Иди ко мне! Итак, ты хочешь знать больше о Даниэле? Ладно, $(#приятель/подруга), слушай сюда: я приглядываю за ним уже какое-то время. Всякий раз, когда кто-то приходит и рассказывает, что он нашёл нечто «наилучшее», типа как этот его Геракл, сразу понятно, что тут что-то нечисто.<end>
 
 =>q68_original
 First, Daniel is a pathological liar. He lies about his past, how he lost his eye - everything. Just ask around, you'll notice he told different stories to different people. Second, even more important than the first, is about the Hercules drug. I've seen some local scavengers buy it, go do some spelunking, scavenging, whatever - and none of them ever returned to Core City.<end>
 
 =>q68
-Во-первых, Даниэль патологический лжец. Он лжёт о своём прошлом, как он потерял глаз -- обо всём. Просто поспрашивай, ты заметишь, что он всем рассказывал разные истории. Во-вторых, что важнее чем во-первых, Геракл. Я видел, как некоторые местные мусорщики покупали его, уходили заниматься своей спелеологией, археологией -- неважно; ни один из них не вернулся в Кор-Сити.<end>
+Во-первых, Даниэль патологический лжец. Он лжёт о своём прошлом, как он потерял глаз -- обо всём. Просто поспрашивай местных, ты заметишь, что он всем рассказывал разные истории. Во-вторых, что важнее чем во-первых, Геракл. Я видел, как некоторые местные мусорщики покупали его, уходили заниматься своей спелеологией, археологией -- неважно; -- ни один из них не вернулся в Кор-Сити.<end>
 
 =>q69_original
 Now, you're not asking this for no reason, of course. If you want to learn what it does exactly, I suggest you get a sample of that stuff and test it. Simple. By the way, thanks for the food, pal.
@@ -457,7 +458,7 @@ Here you go. ::Give him one mushroom brew.::<end>
 ::He starts drinking it.:: Pal, this brew ain't so bad after all. I've had much better, of course. But it's good. Listen, this Raul went into the sewers and never came back. I've seen him go there - Jon Vision, my eyes see everything.<end>
 
 =>q73
-::Он начинает её пить.:: $(#Приятель/Подруга), эта содовая не так уж и плоха. Конечно, я пробовал и получше. Но эта хороша. Слушай, этот Рауль пошёл в канализацию и больше не вернулся. Я видел, как он шёл туда -- Джоновидение, мои глаза видят всё.<end>
+::Он начинает пить.:: $(#Приятель/Подруга), эта бутылка не так уж и плоха. Конечно, я пробовал и получше. Но эта хороша. Слушай, этот Рауль пошёл в канализацию и больше не вернулся. Я видел, как он шёл туда -- Джоновидение, мои глаза видят всё.<end>
 
 =>q74_original
 Pal, you might be looking for a dead man. The sewers are a dangerous place... full of unexpected surprises. Good luck finding him.<end>
@@ -493,7 +494,7 @@ Do you know anything about a gang composed of one guy and three women?<end>
 Do I? ::He laughs.:: Gimme a Junkyard surprise and find out!<end>
 
 =>q79
-Знаю ли я? ::Он смеётся.:: Угости меня Сюрпризом со Свалки и узнаешь!<end>
+Знаю ли я? ::Он смеётся.:: Угости меня сюрпризом со Свалки и выяснишь!<end>
 
 =>a80_original
 Here you go. ::Give him one Junkyard Surprise.::<end>
@@ -511,13 +512,13 @@ Listen pal, I've seen that gang. The man's name is Duff, and he's one hardcore d
 So go now, ask Duff while I eat this. Oh yeah, Junkyard surprise is my favorite kind of surprise. Or any other edible surprise. Or just edible. If it's edible - it's good. Now go to Duff.<end>
 
 =>q82
-А теперь иди спроси Даффа, пока я ем. О да, сюрприз со Свалки -- мой любимый из сюрпризов. Или любой другой съедобный сюрприз. Или просто съедобный. Если это съедобно -- это хорошо. А теперь иди к Даффу.<end>
+А теперь иди спроси Даффа, пока я ем. О да, сюрприз со Свалки -- мой любимый из сюрпризов. Или любой другой съедобный сюрприз. Или что угодно съедобное. Если это съедобно -- это хорошо. А теперь иди к Даффу.<end>
 
 =>a83_original
 Do you know who was behind the recent Coretech warehouse attacks?<end>
 
 =>a83
-Ты знаешь, кто стоял за недавними атаками на склады КорТеха?<end>
+Ты знаешь, кто стоял за недавними атаками на склады КорТех?<end>
 
 =>q84_original
 Hey pal, you know me. I'll have a cave hopper steak and you'll get your information.<end>
@@ -541,7 +542,7 @@ Interesting question you're asking... ::He bites into the steak.:: Good steak. I
 Why JKK? I have this feeling in my gut... but maybe it's just hunger. But in all seriousness, Coretech keeps all sorts of things in that warehouse, from what I've heard, and I think they got a hold of something really big, or at least big enough for JKK to try and relieve Coretech of it. What that is... don't know. That's as far as I can tell you until I learn more, pal.<end>
 
 =>q87
-Почему КБР? Есть у меня такое чувство... возможно это просто голод. Но, на полном серьёзе, КорТех хранит всевозможные вещи на том складе -- из того, что я слышал; и я думаю, что у них есть нечто действительно ценное или, по крайней мере, достаточно ценное, чтобы КБР попыталась забрать это у КорТех. Что это такое... не знаю. Это всё, что я могу сказать тебе, пока не узнаю больше, $(#приятель/подруга).<end>
+Почему КБР? Есть у меня такое чувство... возможно, это просто голод. Но на полном серьёзе, КорТех хранит всевозможные вещи на том складе -- из того, что я слышал; и я думаю, что у них есть нечто действительно ценное или, по крайней мере, достаточно ценное, чтобы КБР попыталась забрать это у КорТех. Что это такое... не знаю. Это всё, что я могу сказать тебе, пока не узнаю больше, $(#приятель/подруга).<end>
 
 =>a88_original
 Tell me all you know about Aegis Incorporated.<end>
@@ -583,7 +584,7 @@ Here you go. ::Give him one cave hopper steak.::<end>
 Okay, pal. By now you've probably figured out that they're a private security company from North Underrail, yadda, yadda... so let's skip that. What's *more* interesting is how the company came to be: Aegis Incorporated was founded by two guys: One is a Protectorate veteran, the other a wealthy businessman from Dis.<end>
 
 =>q94
-Ладно, $(#приятель/подруга). Ты уже, наверное, узнал$(#/а), что они -- частная охранная компания из Северной Подземки и всякая такая чушь... так что это мы опустим. *Гораздо* интереснее то, откуда эта компания взялась -- Эгиду Инкорпорейтед основали два парня: один из них -- ветеран Протектората, а другой -- состоятельный бизнесмен из Дис.<end>
+Ладно, $(#приятель/подруга). Ты уже, наверное, знаешь, что они частная охранная компания из Северной Подземки и всякая такая чушь... так что это мы опустим. *Гораздо* интереснее то, откуда эта компания взялась -- Эгиду Инкорпорейтед основали двое: ветеран Протектората и состоятельный бизнесмен из Дис.<end>
 
 =>q95_original
 The first guy, Richard Briggs, is the guy actually running the show. He's one hardcore guy. Was involved in the Battle of Dis fifteen years ago, where his arm was blown to pieces, forcing him to spend a few years in recovery. Apparently, even though he got a cybernetic replacement the nerve damage had been so...dominating the docs couldn't just patch him up and let him go. 
@@ -605,13 +606,13 @@ The second guy, a businessman called Francis "Big Frank" White, his job's to pro
 Yes... Well now, how did these two start Aegis Incorporated?<end>
 
 =>a97
-Да... Ну, и как эти двое основали Эгиду Инкорпорейтед?<end>
+Да... Ну и как эти двое основали Эгиду Инкорпорейтед?<end>
 
 =>q98_original
 The Free Drones started it, basically. Briggs saw the need to protect folks from the newly-emerging anarchist threat in places where Protectorate couldn't keep them safe, like when they're traveling South and back or stuff like that. He wasn't fit to fight, Briggs, but he was fit to lead. So he hooked up with Big Frank, pitched the idea and they started the company. Briggs then contacted his old mates and formed a crew of battle-hardened soldiers who could use extra cash.<end>
 
 =>q98
-А началось всё из-за Вольных шершней, попросту говоря. Бриггс увидел, что есть спрос на защиту от надвигающейся анархистской угрозы там, где Протекторат её обеспечить не мог, например, для тех, кто путешествовал на юг и обратно и всё такое. Сам Бриггс уже в вояки не годился, но он мог руководить. Так что он подкатил к Большому Фрэнку, подал ему эту идею, и они основали компанию. Потом Бриггс позвал своих боевых товарищей и создал команду ветеранов, которым не помешал бы хороший заработок.<end>
+А началось всё из-за Вольных шершней, попросту говоря. Бриггс увидел, что есть спрос на защиту от надвигающейся анархистской угрозы там, где Протекторат её обеспечить не мог, например для тех, кто путешествовал на Юг и обратно и всё такое. Сам Бриггс уже в вояки не годился, но он мог руководить. Так что он подкатил к Большому Фрэнку, подал ему эту идею, и они основали компанию. Потом Бриггс позвал своих боевых товарищей и создал команду ветеранов, которым не помешал бы хороший заработок.<end>
 
 =>q99_original
 The rest is history, pal. The rest is history.<end>
@@ -637,9 +638,9 @@ Hey pal, I can dig something out for you - don't you worry a thing. Jon's your m
 ::He observes you with anticipation. After a few moments, he smiles and speaks.:: Fine, if you're not gonna offer anything, I'll have to ask for it myself. Since this requires quite a bit of work, I'll have... hmmm... *my* special.<end>
 
 =>q102
-Опять? Эй, $(#приятель/подруга), я могу раскопать что-нибудь для тебя, не волнуйся. Джон -- тот кто тебе нужен! Ты мне не веришь? Да брось, $(#приятель/подруга)...
+Эй, $(#приятель/подруга), я могу раскопать что-нибудь для тебя, не волнуйся. Джон -- тот кто тебе нужен! Ты мне не веришь? Да брось, $(#приятель/подруга)...
 
-::Он нетерпеливо смотрит на вас. Через несколько мгновений он улыбается и говорит.:: Ладно, если тебе нечего предложить, мне придётся выбрать самому. Будет непросто, так что я хочу... хм-м-м... *моё* особое.<end>
+::Он нетерпеливо смотрит на вас. Через несколько мгновений, он улыбается и говорит: ::Ладно, если тебе нечего предложить, мне придётся выбрать самому. Будет непросто, так что я хочу... хм-м-м... *моё* особое.<end>
 
 =>a103_original
 Your special what?<end>
@@ -653,7 +654,7 @@ You're joking, right? You don't know what my special is? Hey, pal, you disappoin
 Look, just go to Moe's and tell him you want "Jon's special." Got it? Bring it to me, pal, and by the time you're back, I'll prepare everything you need about... <end>
 
 =>q104
-Ты смеёшься? Ты не знаешь, что такое моё особое? Эй, $(#приятель/подруга), ты разочаровываешь меня, ну же. Как вышло, что ты не знаешь, про моё особое?! Это... как будто ты только недавно встретил$(#/а) меня, $(#приятель/подруга)...
+Ты смеёшься? Ты не знаешь, что такое моё особое? Эй, $(#приятель/подруга), ты разочаровываешь меня, ну же. Как вышло, что ты не знаешь про моё особое?! Это... как будто ты только недавно встретил$(#/а) меня, $(#приятель/подруга)...
 
 Слушай, просто иди к Mo и скажи ему, что ты хочешь «особое блюдо Джона». Запомнил$(#/а)? Принеси его мне, $(#приятель/подруга), и к тому времени, как ты вернёшься, я подготовлю всё, что тебе понадобится про... <end>
 
@@ -673,13 +674,13 @@ Patrick Pierce.<end>
 That's what I'm talking about. ::He raises his chin and speaks in a pseudo-divine voice.:: Now go, mortal, seek Moe and acquire Jon's special. If the god - me - is pleased, then you will gain the knowledge that you seek so vigorously. Go now. Gee!<end>
 
 =>q107
-Вот об этом я и говорю. ::Он задирает подбородок и говорит псевдобожественным голосом.:: Теперь иди, смертн$(#ый/ая), найди Mo и закажи у него особое блюда Джона. Если бог -- я -- будет доволен, ты обретёшь знание, что ты ищешь так настойчиво. А теперь иди. Кыш!<end>
+Вот об этом я и говорю. ::Он задирает подбородок и повелевает: ::Теперь иди, смертн$(#ый/ая), найди Mo и закажи у него особое блюда Джона. Если бог -- я -- будет доволен, ты обретёшь знание, что ты ищешь так настойчиво. А теперь иди. Кыш!<end>
 
 =>a108_original
 I'm going, I'm going...<end>
 
 =>a108
-Я иду, иду...<end>
+Иду, иду...<end>
 
 =>a109_original
 You are one odd fellow... See you later.<end>
@@ -715,7 +716,7 @@ Old hacker.<end>
 Metro emergency phone person.<end>
 
 =>a114
-Человек с телефоном экстренной связи метро.<end>
+Человек из телефона экстренной связи.<end>
 
 =>a115_original
 What the hell are you talking about?<end>
@@ -735,7 +736,7 @@ Yeah pal, some guy came here exactly several months ago. Asked about the same ma
 So, about my special...<end>
 
 =>q117
-Да, $(#приятель/подруга), какой-то парень приходил сюда как раз несколько месяцев назад. Спрашивал о том же человеке. Высокий, чёрный, длинные волосы. Я знаю, $(#приятель/подруга), есть много людей, которые так выглядят, я знаю.
+Да, $(#приятель/подруга), какой-то парень приходил сюда ровно несколько месяцев назад. Спрашивал о том же человеке. Высокий, чёрный, длинные волосы. Я знаю, $(#приятель/подруга), есть много людей, которые так выглядят, я знаю.
 
 Так вот, о моём особом...<end>
 
@@ -745,7 +746,7 @@ Sure, pal - but this calls for a special. No, no, wait - *my special.* That's ri
 It's gonna take me some time to dig something out, so come back later.<end>
 
 =>q118
-Конечно, $(#приятель/подруга), но для этого нужно что-то особенное. Нет, нет, подожди - *моё особое*. Правильно - *моё особое*
+Конечно, $(#приятель/подруга), но для этого нужно что-то особенное. Нет, нет, подожди -- *моё особое*. Ты меня слышал$(#/а) -- *моё особое*
 
 Мне потребуется некоторое время, чтобы кое-что откопать, так что приходи позже.<end>
 
@@ -753,13 +754,13 @@ It's gonna take me some time to dig something out, so come back later.<end>
 ...with my special.<end>
 
 =>q119
-...моё особое.<end>
+...с моим особым.<end>
 
 =>a120_original
 Fine. I'll be back.<end>
 
 =>a120
-Понятно. Я ещё вернусь.<end>
+Ладно. Я ещё вернусь.<end>
 
 =>a121_original
 ::Nod and leave.::<end>
@@ -789,7 +790,7 @@ Here you go. ::Give him one rathound barbecue.::<end>
 Nice. Listen, these Tchortists are a weird bunch. Sure, they know their cooking and stuff, but let's face it, they are weird. They got something from Coretech, that's what I heard, something important.<end>
 
 =>q125
-Отлично. Слушай, эти чортисты довольно странные. Да, они знают толк в готовке и в остальном, но давай посмотрим правде в глаза -- они странные. Они утащили нечто из КорТех -- вот что я слышал -- что-то важное.<end>
+Отлично. Слушай, эти чортисты довольно странные. Да, они знают толк в готовке и в остальном, но давай посмотрим правде в глаза -- они странные. Они утащили нечто из КорТех, -- вот что я слышал, -- что-то важное.<end>
 
 =>q126_original
 They have... what's it called... Oh, Church of Tchort in Upper Underrail. I think that's where they have gone to. Listen pal, they are more dangerous than they seem.<end>
@@ -845,7 +846,7 @@ Thallo, Thallo... That sounds kinda like, like Talloski. Yeah, like the Talloski
 Erm... that information costed one bottle of root soda, which I'd like to have now.<end>
 
 =>q134
-Талло, Талло... Это звучит как... как Таллоски. Да, как фамилия Таллоски, ты же знаешь, те, что живут рядом со штаб-квартирой ПСБ.
+Талло, Талло... Звучит как... как Таллоски. Да, как фамилия Таллоски, ты же знаешь, -- те, что живут рядом со штаб-квартирой ПСБ.
 
 Эм-м... эта информация стоила тебе одну бутылку корневой содовой, которую я хотел бы теперь получить.<end>
 
@@ -859,19 +860,19 @@ Sure, here you go.<end>
 That's what I'm talking about, pal. You're the best. Actually, I'm the best, but you can be second best. You know it! ::Drinks the whole bottle in one go.::<end>
 
 =>q136
-Вот об этом я и говорю, $(#приятель/подруга). Ты лучше всех. На самом деле, я самый лучший, но ты можешь быть втор$(#ым/ой). Ты это знаешь! ::Выпивает всю бутылку в один присест.::<end>
+Вот об этом я и говорю, $(#приятель/подруга). Ты лучше всех. На самом деле, я самый лучший, но ты можешь быть втор$(#ым/ой). Так и знай! ::Он выпивает бутылку залпом.::<end>
 
 =>a137_original
 Eh, I don't have one on me, sorry. I'll bring one later.<end>
 
 =>a137
-Эх, у меня нет ни одного с собой, к сожалению. Я принесу позже.<end>
+Эх, у меня ничего нет с собой, к сожалению. Я принесу позже.<end>
 
 =>q138_original
 Don't forget about it, hey... Jon needs some brew, it goes well with mushroom stew! Get it? It rhymes. And I like food, so... I know you get it, you're not *that* stupid.<end>
 
 =>q138
-Не забывай об этом, эй... Джону нужно немного самогона, он хорошо сочетается с грибами и мясом! Слышишь? Рифмуется. И я люблю еду, так что... я знаю, что ты понял$(#/а), ты же не *настолько* туп$(#ой/ая).<end>
+Только не забудь об этом, эй... Джону нужен самогон грибной, чтобы запить гуляш мясной! Слышишь? Рифмуется. И я люблю еду, так что... я знаю, что ты понял$(#/а), ты же не *настолько* туп$(#ой/ая).<end>
 
 =>a139_original
 Do the names *Mit Draper* or *Phreak* ring a bell to you?<end>
@@ -895,13 +896,13 @@ Does the name *Phreak* ring a bell to you?<end>
 I've met an old man, a hacker of sorts, deep below Core City. Know anything about him?<end>
 
 =>a142
-Я встретил старика, вроде хакера, глубоко под Кор-Сити. Знаешь что-нибудь о нём?<end>
+Я встретил$(#/а) старика, какого-то хакера, глубоко под Кор-Сити. Знаешь что-нибудь о нём?<end>
 
 =>a143_original
 Do you know anything about a person that uses metro emergency phones to conduct his business?<end>
 
 =>a143
-Знаешь ли ты что-нибудь о человеке, который использует телефоны экстренной связи метро для ведения своего бизнеса?<end>
+Знаешь ли ты что-нибудь о человеке, который разговаривает через телефоны экстренной связи метро?<end>
 
 =>a144_original
 Aran. Tell me what you know about him.<end>
@@ -919,7 +920,7 @@ Know anything about a zoner that runs a boutique just north of here?<end>
 My blood sugar's kinda low, pal. An under pie can fix that.<end>
 
 =>q146
-У меня немного понижен сахар в крови, $(#приятель/подруга). Пирог мог бы это исправить.<end>
+У меня немного понижен сахар в крови, $(#приятель/подруга). Подпирог мог бы это исправить.<end>
 
 =>a147_original
 Here you go.<end>
@@ -931,7 +932,7 @@ Here you go.<end>
 ::He smells it, then takes a bite.:: No one makesh 'em like mommy, but thish one... mmm... this one! ::He nods.::<end>
 
 =>q148
-::Он нюхает, потом откусывает.:: Никто не делает их так, как мама, но этот... м-м-м... этот! ::Он кивает.::<end>
+::Он нюхает, потом надкусывает.:: Никто не делает их так, как мама, но этот... м-м-м... этот! ::Он кивает.::<end>
 
 =>q149_original
 So - *Rag*, the boutique owner. I went there a couple of times, and lemme tell you, that guy's one churlish pipeworker. Not to me, no - 'cause him and I, we're pals like... like you and I, or him and I, you know; but to other customers, to them he can be a real son of a rat. Un-pro-*fessional.* 
@@ -939,7 +940,7 @@ So - *Rag*, the boutique owner. I went there a couple of times, and lemme tell y
 And his wares ain't much to type home about, although considering it's the Drop Zone...<end>
 
 =>q149
-Итак, *Тряп*, владелец бутика. Я заходил туда пару раз, и, скажу я вам, этот парень - тот ещё хам. Но не для меня, нет - потому что мы с ним приятели, как... как ты и я, так и он для меня, понимаешь; но для других клиентов, для них он может быть настоящим крысиным сыном. Не-про-*фессионально*.
+Итак, *Тряп*, владелец бутика. Я заходил туда пару раз, и, скажу я тебе, этот парень -- то ещё трубочистское хамло. Но не для меня -- нет, -- потому что мы с ним приятели, как... как ты и я или как я и он, ну, ты знаешь; но для других клиентов -- для них он может быть настоящим крысиным сыном. Не-про-*фессионально*.
 
 И его товары не очень-то радуют, хотя, учитывая, что это Зона провала...<end>
 
@@ -947,7 +948,7 @@ And his wares ain't much to type home about, although considering it's the Drop 
 He, however, he's also got other wares - he's got *hardware*. For whatever reason he's been stockpiling weapons: pistols, rifles, machine guns - you name it. No one knows why, and few care, but that's a big building by zoner standards, and it ain't all boutique.<end>
 
 =>q150
-Но него есть и другие товары - это *тяжёлое оборудование*. По какой-то причине он собирает оружие: пистолеты, винтовки, пулемёты - всё в этом виде. Никто не знает, зачем, и мало кого это волнует, но это большое по зонерским меркам здание, и это ни какой-нибудь из всех бутиков.<end>
+Но него есть и другие товары -- *тяжёлое оборудование*. По какой-то причине, он складирует оружие: пистолеты, винтовки, пулемёты -- всё в этом виде. Никто не знает, зачем, и мало кого это волнует, но это большое по зонерским меркам здание, и бутик занимает только часть его.<end>
 
 =>q151_original
 Personally, I'd steer clear of him. I think the guy's holding some kind of grudge against someone - or everyone. Maybe it's 'cause everyone calls him Rag. He hates that. 
@@ -955,9 +956,9 @@ Personally, I'd steer clear of him. I think the guy's holding some kind of grudg
 ::He takes the last bite of the pie.:: Hish name'sh... Gale.<end>
 
 =>q151
-Лично я бы держался от него подальше. Мне кажется, что он держит какую-то обиду на кого-то - или на всех. Может быть, потому, что все называют его Тряпом. Он это ненавидит.
+Лично я бы держался от него подальше. Мне кажется, что он затаил какую-то обиду на кого-то -- или вообще на всех. Может быть, это потому что все называют его Тряпом. Он это ненавидит.
 
-::Он откусывает последний кусок пирога.:: Хиш нямш... Ледянит.<end>
+::Он прожёвывает последний кусок пирога.:: Ево жавут... Гейл.<end>
 
 =>a152_original
 Would you happen to know anything about a group of people wearing blast suits and packing huge amounts of explosives?<end>
@@ -973,7 +974,7 @@ Ah, the hell. I want hardcore chips.<end>
 =>q153
 Это хардкорный вопрос, $(#приятель/подруга). А хардкорные вопросы требуют хардкорных ответов. А хардкорные, э-э-э, ответы...
 
-Ах, чёрт возьми. Мне захотелось хардкорных чипсов.<end>
+А, пошло оно. Хочу хардкорных чипсов.<end>
 
 =>a154_original
 Here you go.<end>
@@ -987,15 +988,15 @@ That's what I'm saying - some heat. ::He opens the bag and plucks a greasy root 
 Mmmmmm... thatsh the shtuff... <end>
 
 =>q155
-Вот что я хочу сказать. ::Он открывает пакет и вытаскивает самую жирную хренову чипсину.::
+То что надо -- огонь. ::Он открывает пакет и вытаскивает блестящую от жира чипсину.::
 
-М-м-м... вот это штукенция... <end>
+М-м-м... вкушночищща... <end>
 
 =>q156_original
 ::He licks his fingers, starts talking - while continuing to eat.:: <end>
 
 =>q156
-::Он облизывает пальцы, и начинает говорить, продолжая есть.:: <end>
+::Он облизывает пальцы и начинает говорить, не переставая жевать.:: <end>
 
 =>q157_original
 From what I heard that was no ordinary earthquake, as you yourself said - it was an explosion. Yeah. Deep down under the city someone was trying to destroy one of the city's structural support columns. There are a bunch of those down there, massive, massive columns, keeping key sections of the city in place, and apparently this one was *just* below the Arena.
@@ -1003,9 +1004,9 @@ From what I heard that was no ordinary earthquake, as you yourself said - it was
 ::He takes a handful of chips.::<end>
 
 =>q157
-Из того, что я слышал, это было не обычное землетрясение, как ты сам$(#/а) сказал$(#/а) - это был взрыв. Да. Глубоко под городом кто-то пытался разрушить одну из опорных колонн города. Там, внизу, есть уйма таких огромных, массивных колонн, удерживающих основные районы города, и, по-видимому, та была *прямо* под Ареной.
+Из того, что я слышал, это было не обычное землетрясение, как ты сам$(#/а) и сказал$(#/а) -- это был взрыв. Да. Глубоко под городом кто-то пытался разрушить одну из опорных колонн города. Там, внизу, есть уйма таких огромных, массивных колонн, удерживающих основные районы города, и похоже, эта была *прямо* под Ареной.
 
-::Он берёт горсть чипсов и отправляет в рот.::<end>
+::Он загребает горсть чипсов.::<end>
 
 =>a158_original
 Are the Faceless behind this?<end>
@@ -1017,25 +1018,25 @@ Are the Faceless behind this?<end>
 Mmmm, no, no. They'd probably go for the other ones if they wanted to.<end>
 
 =>q159
-М-м-м, нет, нет. Они, вероятно, пошли бы за другими, если бы захотели.<end>
+М-м-м, нет, нет. Они, вероятно, подорвали бы другие колонны, если бы захотели.<end>
 
 =>a160_original
 Who would do such a thing then?<end>
 
 =>a160
-Кто бы мог тогда сделать такое?<end>
+Кто тогда бы мог сделать такое?<end>
 
 =>q161_original
 Well, there are suspects... <end>
 
 =>q161
-Что ж, есть подозреваемые... <end>
+Что ж, есть кое-какие подозреваемые... <end>
 
 =>q162_original
 Ever heard of The Masters?<end>
 
 =>q162
-Когда-нибудь слышал о Мастерах?<end>
+Когда-нибудь слышал$(#/а) о Мастерах?<end>
 
 =>a163_original
 ::[Intelligence]:: Arena... Masters... Master Exploder?<end>
@@ -1047,7 +1048,7 @@ Ever heard of The Masters?<end>
 Well done, pal. Well done. I'm impressed. Here, have one. ::He offers you the still fairly full bag of hardcore chips.::<end>
 
 =>q164
-Молодчина. Отлично сработано. Я впечатлён. Вот, возьми один. ::Он протягивает вам всё ещё довольно полный пакет хардкорных чипсов.::<end>
+Молодчина. Соображаешь. Я впечатлён. Вот, возьми один. ::Он протягивает вам всё ещё довольно полный пакет хардкорных чипсов.::<end>
 
 =>a165_original
 ::Take one.::<end>
@@ -1065,13 +1066,13 @@ That's what I'm talking about! <end>
 Anyway, before going solo, <end>
 
 =>q167
-Перед тем, как отправиться в одиночку, <end>
+Перед тем, как выступать соло, <end>
 
 =>q168_original
 Master Exploder used to be the teamleader of *The Masters*. Some time ago, the Arena had this team vs. team gladiator tournament called the *DomiNation*. That was some good carnage, I gotta say, and The Masters were one of the most hardcore teams competing. <end>
 
 =>q168
-Мастер-Детонатор раньше был лидер команды *Мастера*. Некоторое время назад на Арене проходил турнир команда против команды гладиаторов под названием "ДомиНация". Вот это была бойня, надо сказать, и Мастера были одной из самых хардкорных команд среди соревнующихся. <end>
+Мастер-Детонатор раньше был лидером команды *Мастера*. Некоторое время назад на Арене проходил турнир команд гладиаторов под названием *ДомиНация*. Вот это была бойня, надо сказать, и Мастера были одной из самых хардкорных команд среди участников. <end>
 
 =>a169_original
 Tell me more about them.<end>
@@ -1085,27 +1086,27 @@ Well, their schtick was that they were composed of "masters" of various, eh, you
 But when Master Exploder joined, he kinda took over and gave them a unifying theme - it all became focused on... the *boom*! They started wearing these, these bulky blast suits, started using various explosive devices and weapon attachments, and yeah, yeah, had this routine at the start of each match where Master Exploder would fire up his explosive belt and discharge fireworks *all* over the place.<end>
 
 =>q170
-Ну, их фишка заключалась в том, что они состояли из различных "мастеров", ну, ты понимаешь о чём я: там был Мастер-Крушитель черепов, Мастер-Лазер бластер, Мастер-Взрыв мозга!
+Ну, их фишка заключалась в том, что они состояли из различных «мастеров», ну, ты понимаешь о чём я: там был Мастер-Крушитель черепов, Мастер-Лазер-Бластер, Мастер-Взрыв мозга!
 
-Но когда Мастер-Детонатор присоединился, он как бы взял на себя инициативу и дал им объединяющую тему - всё это стало сосредоточено на... этот *ба-бах*! Они стали носить эти громоздкие взрывоустойчивые скафандры, начали использовать различные взрывные устройства и приспособления для оружия, и да, да, в начале каждого матча у них был такой обычай, когда Мастер-Детонатор запускал свой пояс со взрывчаткой и посылал фейерверки *повсюду*.<end>
+Но когда Мастер-Детонатор присоединился, он как бы стал главным и дал им объединяющую тему, -- и эта тема была... *ба-бах*! Они стали носить такие громоздкие взрывоустойчивые скафандры, начали использовать всякие взрывные устройства и приспособления для оружия, и да, да, в начале каждого матча, Мастер-Детонатор запускал свой пояс со взрывчаткой и посылал фейерверки *повсюду*.<end>
 
 =>q171_original
 Was pretty hardcore... until some pipeworking spectator got her hand zoned out; then they banned it. Some sources say they even used that belt for initiation, in a sense that they strapped newcoming masters with grenades so they'd get used to being... *exploded*, I guess. ::He pulls out a few more chips.::<end>
 
 =>q171
-Был реальный хардкор... пока какой-то трубочистке из зрителей не оторвало руку и им не запретили эту фишку. Некоторые источники говорят, что они даже использовали пояс для инициации, ну в смысле, они обвязывали новых мастеров гранатами, чтобы они привыкали к таким... *взрывам*, наверное. ::Он вытаскивает ещё несколько чипсов.::<end>
+Был реальный хардкор... пока какой-то трубочистке на трибуне не оторвало руку и им не запретили эту фишку. Некоторые источники говорят, что они даже использовали пояс для посвящения, ну в смысле, они обвязывали новых мастеров гранатами, чтобы те привыкали... *взрываться*, наверное. ::Он вытаскивает ещё чипсов.::<end>
 
 =>a172_original
 So what happened to The Masters?<end>
 
 =>a172
-Так что же случилось с Мастерами?<end>
+Так, что же случилось с Мастерами?<end>
 
 =>q173_original
 ::He crunches on a hardcore chip.:: Mmm, so, after winning the DomiNation, The Masters had a truly dominating fallout with the Arena management; they split soon after, with only Master Exploder continuing his career as a solo gladiator. The rest, they held protests outside the Arena about, I don't know, the brutality of the sport, how the gladiators were really treated, blah, blah, that kinda crap. They did a three-sixty... No, wait - one-eighty degree turn, going from relentless killers to senseless ramblers in no time.<end>
 
 =>q173
-::Он хрустит хардкорным чипсом.:: Мм, итак, после победы в "ДомиНации" у Мастеров были действительно жёсткие отношения с руководством Арены, вскоре после этого команда распалась, и только Мастер-Детонатор продолжил свою карьеру в качестве гладиатора-одиночки. Остальные после Арены организовывали протесты о... я не знаю, жестокости спорта, плохом обращении с гладиаторами, бла-бла-бла, и тому подобное дерьмо. Этот поворот на триста шестьдесят... нет, подожди... на сто восемьдесят градусов, в два счёта превратил их из безжалостных убийц в придурочных бродяг.<end>
+::Он хрустит хардкорным чипсом.:: М-м, ну, после победы в «ДомиНации», у Мастеров состоялся последний доминирующий раунд с руководством Арены. Что-то они там не поделили, и вскоре после этого команда распалась, только Мастер-Детонатор продолжил свою гладиаторскую карьеру. Остальные организовывали протесты напротив Арены на тему... я не знаю, жестокости спорта, плохом обращении с гладиаторами, бла-бла-бла, и тому подобное дерьмо. Вот такой поворот на триста шестьдесят... нет, подожди... на сто восемьдесят градусов в два счёта превратил их из безжалостных убийц в никчёмных болтунов.<end>
 
 =>q174_original
 So, the Praetorians beat them up and threw them in the slammer. After they got out, they pretty much... yeah, disappeared. The last one got out fairly recently too, eh... 
@@ -1113,9 +1114,9 @@ So, the Praetorians beat them up and threw them in the slammer. After they got o
 ...Skull Smasher's the one, I think.<end>
 
 =>q174
-Итак, преторианцы избили их и бросили в тюрьму. После того как они ушли, они в действительности... да, исчезли. Последний тоже ушёл совсем недавно, да... 
+И тогда преторианцы избили их и бросили в тюрьму. После того как их выпустили, они просто... ну да, исчезли. Последний вышел совсем недавно, э-э... 
 
-...Крушитель черепов - да, тот самый.<end>
+...Крушитель черепов -- да, он самый.<end>
 
 =>a175_original
 I can see the connection now. That's all I needed to know, Jon.<end>
@@ -1131,11 +1132,11 @@ Oooooh, nice chips, nice chips.
 ::He sighs.:: I need water.<end>
 
 =>q176
-Без проблем, $(#приятель/продруга). ::Он скомкал пустой пакет и бросил его в огонь.::
+Без проблем, $(#приятель/продруга). ::Он комкает пустой пакет и бросает его в огонь.::
 
 О-о-о, хороши были чипсы, хороши.
 
-::Он вздыхает.:: Мне нужно выпить.<end>
+::Он вздыхает.:: Мне нужна вода.<end>
 
 =>a177_original
 Interesting... That's all I need to know, Jon.<end>
@@ -1153,19 +1154,19 @@ The blast suits...<end>
 Yeah, all of them. <end>
 
 =>q179
-Да, все они. <end>
+Да, у каждого. <end>
 
 =>a180_original
 Skip to the important bits.<end>
 
 =>a180
-Перейдём к самым важным моментам.<end>
+Давай без лирики.<end>
 
 =>q181_original
 Alright, alright. <end>
 
 =>q181
-Хорошо, хорошо. <end>
+Ладно, ладно. <end>
 
 =>a182_original
 ::Take a handful.::<end>
@@ -1179,7 +1180,7 @@ Alright, alright. <end>
 Uh... <end>
 
 =>q183
-::Он с недовольством заглядывает в пакет, затем также с недовольством бросает взгляд на вас, затем снова смотрит в пакет.::
+::Он с недовольством заглядывает в пакет, затем также с недовольством бросает взгляд на вас, затем снова в пакет.::
 
 Э... <end>
 
@@ -1187,7 +1188,7 @@ Uh... <end>
 Nah, I'm stuffed.<end>
 
 =>a184
-Нет, я сыт$(#/а) ими по горло.<end>
+Не, я сыт$(#/а) ими по горло.<end>
 
 =>q185_original
 Suit yourself. <end>
@@ -1199,7 +1200,7 @@ Suit yourself. <end>
 ::[Intelligence]:: Masters... Anything to do with Master Exploder?<end>
 
 =>a186
-::[Интеллект]:: Мастера... Что-нибудь связанное с Мастером-Детонатором?<end>
+::[Интеллект]:: Мастера... Это как-то связано с Мастером-Детонатором?<end>
 
 =>a187_original
 No.<end>
@@ -1211,7 +1212,7 @@ No.<end>
 You've heard of the Master Exploder, the gladiator, Arena? C'mon, pal, don't disappoint me now!<end>
 
 =>q188
-Ты слышал$(#/а) о Мастер-Детонаторе, гладиаторе Арены? Ну же, $(#приятель/подруга), не разочаровывай меня!<end>
+Ты же знаешь Мастера-Детонатора, гладиатора Арены? Ну же, $(#приятель/подруга), не разочаровывай меня!<end>
 
 =>a189_original
 Of course I know him. I killed him in the Arena.<end>
@@ -1225,7 +1226,7 @@ Of course I know him. I killed him in the Arena.<end>
 That's what I'm talking about! <end>
 
 =>q190
-::Всё, что вам удаётся сказать, это "конечно", прежде чем он перебивает вас.:: 
+::Вам удаётся сказать только «конечно», прежде чем он перебивает вас.:: 
 
 Вот о чём я говорю! <end>
 
@@ -1233,19 +1234,19 @@ That's what I'm talking about! <end>
 Well, before going solo, <end>
 
 =>q191
-Ну, прежде чем отправиться в одиночку, <end>
+Ну, прежде чем выступать соло, <end>
 
 =>a192_original
 Doesn't ring a bell.<end>
 
 =>a192
-Нет, это мне ни о чём не говорит.<end>
+Нет, не знаю такого.<end>
 
 =>q193_original
 Pal... ::He shakes his head while chewing loudly on a couple of chips.::<end>
 
 =>q193
-$(#Приятель/Продруга)... ::Он качает головой, громко пережёвывая пару чипсов.::<end>
+$(#Приятель/Продруга)... ::Он качает головой, громко хрустя чипсами.::<end>
 
 =>a194_original
 Nope.<end>
@@ -1263,7 +1264,7 @@ Nope.<end>
 Who would do such a thing?<end>
 
 =>a196
-Кто бы мог такое сделать?<end>
+Кто мог такое сделать?<end>
 
 =>a197_original
 Do you know anything about the recent quake that shook the entire city? It it didn't feel... natural.<end>
@@ -1293,7 +1294,7 @@ I need some general information about Core City.<end>
 General, you say? Well, you know... I like you - not *too* much, pal, but I like you enough, so I can share some minor info for free. But if you want something really valuable, then you gotta gimme food!<end>
 
 =>q201
-Общие, говоришь? Ну, ты знаешь... ты мне нравишься. Не *слишком* сильно, $(#приятель/подруга), но достаточно, чтобы я поделился с тобой какой-нибудь незначительной информацией. Но если тебе надо что-то действительно ценное, тогда придётся дать мне еды!<end>
+Общие, говоришь? Ну, ты знаешь... ты мне нравишься. Не *слишком* сильно, $(#приятель/подруга), но достаточно, чтобы я поделился с тобой какой-нибудь незначительной информацией. А вот если тебе понадобится что-то действительно ценное, тогда придётся дать мне еды!<end>
 
 =>q202_original
 <end>
@@ -1311,7 +1312,7 @@ What can you tell me about Drop Zone?<end>
 Look to the east. No, look. That's how you get to the zone. It's full of zoners who can "zone you out." So, the zone's zoners often zone other zoners out because, well, they're zoners.<end>
 
 =>q204
-Смотри на восток. Нет, смотри же. Вот как попасть в Зону. Там полно зонеров, которые могут «отправить тебя в зону». Так, в зоне зонеры часто отправляют в зону зонеров, потому что, ну, это же зонеры.<end>
+Смотри на восток. Нет, смотри же. Вот как попасть в Зону. Там полно зонеров, которые могут «отправить тебя в зону». Так, в зоне зонеры часто отправляют зонеров в зону, потому что, ну, это же зонеры.<end>
 
 =>q205_original
 Okay, okay, I'll be serious. It's the slum of Core City. Poor people, muggers, poor muggers, the sick... All there. It's very dangerous so take good care if you gotta pay it a visit. Now, if you smell something good, it's probably barrel soup. Some soups are good, some can kill you, pal. So far I was lucky...<end>
@@ -1329,13 +1330,13 @@ What can you tell me about the Arena?<end>
 Everyone says it's hardcore entertainment, and I agree. Listen pal, don't be silly, asking me something like that. Don't you see the people that come here to witness the bloodbath, the carnage.<end>
 
 =>q207
-Все говорят, что это хардкорное развлечение, и я согласен. Послушай, $(#приятель/подруга), не задавай мне дурацкие вопросы. Разве ты не видишь людей, которые приезжают сюда, чтобы смотреть кровавую бойню, эту резню.<end>
+Все говорят, что это хардкорное развлечение, и я согласен. Послушай, $(#приятель/подруга), не задавай мне дурацкие вопросы. Разве ты не видишь всех людей, которые приезжают сюда, чтобы смотреть кровавую бойню, эту резню.<end>
 
 =>q208_original
 Do yourself a favor, go there and buy one ticket. One ticket! See one match. I recommend Kanshou and Bakuya, twin brothers. They dominate!<end>
 
 =>q208
-Сделай себе одолжение, сходи и купи один билет. Один билет! Посмотри один матч. Рекомендую Каншо и Бакуя, братьев-близнецов. Они доминируют!<end>
+Сделай себе одолжение, сходи и купи билет. Один билет! Посмотри один матч. Рекомендую Каншо и Бакуя, братьев-близнецов. Они доминируют!<end>
 
 =>a209_original
 What can you tell me about the Gauntlet?<end>
@@ -1353,7 +1354,7 @@ I like it. Someone looked at the Arena and went: "Hey, this dominates, but we ne
 It's derailed, so many people become monster food it's... Hey... food... ::His stomach growls.::<end>
 
 =>q211
-Можно поехать, как подумаешь сколько людей стало едой для монстров... эй... едой... ::Его живот урчит.::<end>
+Можно поехать, как подумаешь, сколько людей стало едой для монстров... эй... едой... ::Его живот урчит.::<end>
 
 =>a212_original
 What can you tell me about the Oligarchy?<end>
@@ -1371,7 +1372,7 @@ Listen pal, listen, listen. When you ask Corecitians - I know it's not a word - 
 It's not obvious either, but you can spot certain things. Well, not you pal - I can spot it. I have Jon Vision. Anyway, it's like... When one Oligarch notices that either of the other two Oligarchs has an advantage in something, he tries to even the field in some way. Things like that. It's the little things, you know.<end>
 
 =>q214
-Это не каждому очевидно, но ты можешь заметить определённые вещи. Ну, не ты, $(#приятель/подруга), -- я могу заметить, у меня есть Джоновидение. Так вот, например... когда один олигарх замечает, что другой олигарх имеет превосходство в чём-то, то он пытается выровнять положение любым способом. Вот такие вот мелочи. Всё дело в мелочах.<end>
+Такое не каждому очевидно, но ты можешь заметить определённые вещи. Ну, не ты, $(#приятель/подруга), -- я могу заметить, у меня есть Джоновидение. Так вот, например... когда один олигарх замечает, что другой олигарх имеет превосходство в чём-то, то он пытается выровнять положение любым способом. Вот такие вот мелочи. Всё дело в мелочах.<end>
 
 =>a215_original
 What can you tell me about Coretech?<end>
@@ -1425,7 +1426,7 @@ They keep us safe. ::He laughs.:: Good joke, I know, I'm funny. But seriously, l
 Or maybe I'm wrong, maybe they just don't *like* zoners... In that case, they're doing a good job. Hmmm... Confused...<end>
 
 =>q223
-Или может быть я ошибаюсь, может им просто не *нравятся* зонеры... в таком случае, они хорошо работают. Хм-м-м... Запутался...<end>
+Или может быть, я ошибаюсь, может им просто не *нравятся* зонеры... в таком случае, они хорошо работают. Хм-м-м... Я запутался...<end>
 
 =>a224_original
 What can you tell me about Tchortists?<end>
@@ -1437,7 +1438,7 @@ What can you tell me about Tchortists?<end>
 I've been watching them for some time now pal. They're funny. You can tell a lot about someone by looking at what they eat. And these guys don't eat meat. At least I never saw 'em.<end>
 
 =>q225
-Я наблюдал за ними в последнее время, $(#приятель/подруга). С ними не всё просто. Можно многое рассказать о человеке, по тому, что он ест. И эти ребята не едят мясо. По крайней мере, я ни разу не видел.<end>
+Я наблюдал за ними в последнее время, $(#приятель/подруга). С ними не всё просто. Можно многое рассказать о человеке по тому, что он ест. И эти ребята не едят мясо. По крайней мере, я ни разу не видел.<end>
 
 =>q226_original
 They are peaceful, sure. They seem smart, well educated. Sure. They got their thing going. That's all nice. But they don't eat meat. They *don't* eat meat. How can you not eat meat? If I stopped eating meat, I'd be dead in a day. I like my meat...
@@ -1445,7 +1446,7 @@ They are peaceful, sure. They seem smart, well educated. Sure. They got their th
 Don't trust them!<end>
 
 =>q226
-Они миролюбивы -- это правда. Они, вроде, не дураки. Согласен. У них есть своё дело. Это хорошо. Но они не едят мясо. Они *вообще* не едят мясо. Как можно не есть мясо? Если я перестану есть мясо, я умру в тот же день. Я люблю мясо...
+Они миролюбивы -- это правда. Они, вроде, не дураки -- согласен. У них есть своё дело. Это хорошо. Но они не едят мясо. Они *вообще* не едят мясо. Как можно не есть мясо? Если я перестану есть мясо, я умру в тот же день. Я люблю мясо...
 
 Не доверяй им!<end>
 
@@ -1477,7 +1478,7 @@ Let's discuss something else.<end>
 Food? Is it food? Hey, pal... *Food?*<end>
 
 =>q231
-Еда? Где еда? Эй, $(#приятель/подруга)... *Еда?*<end>
+Еду? Это про еду? Эй, $(#приятель/подруга)... *Еда?*<end>
 
 =>a232_original
 Tell me about Phreak. ::Give him Jon's Special.::<end>
@@ -1495,9 +1496,9 @@ Better listen carefully, 'cause I *will* be eating and talking at the same time.
 =>q233
 Моя еда! Давай, давай, давай сюда!
 
-::Он нюхает это, затем делает первый укус.:: М-м-м, эшо хавдкоу... ::Глотает.:
+::Он нюхает, затем делает первый укус.:: М-м-м, эшо хавкоу... ::Глотает.:
 
-Лучше слушай внимательно, потому что я *буду* есть и говорить одновременно. <end>
+Лучше слушай внимательно, потому что я буду есть и говорить *одновременно*. <end>
 
 =>q234_original
 So, Mit Draper, also known as Phreak, also known as <end>
@@ -1513,7 +1514,7 @@ Scalp, Gridfix and Transfix.
 =>q235
 Скальп, Гридфикс и Трансфикс.
 
-::Второй раз кусает.:: Но Фвик... ::Глотает.:: М-м-м, сейчас он больше известен как Фрик.<end>
+::Он снова кусает.:: Но Фвик... ::Глотает.:: М-м-м, сейчас он больше известен как Фрик.<end>
 
 =>a236_original
 Tell me everything you know about him.<end>
@@ -1525,7 +1526,7 @@ Tell me everything you know about him.<end>
 ::Third bite.:: He came fvom... ::Swallows.:: ...North Underrail years ago and started doing some shady, crafty stuff. Stuff like hacking, forging Underrail Express tickets, selling makeshift devices and sensitive information... He uses the metro emegency system as a proxy for his business, and apparently he's dominated it to such a degree he's pretty much made it his own.<end>
 
 =>q237
-::Третий раз кусает.:: Он прифёл из... ::Глотает.:: ...Северной Подземки много лет назад и начал заниматься теневыми, хитроумными делами. Такими вещами, как хакерство, подделка билетов на Подземку Экспресс, продажа самодельных устройств и секретной информации... Он использует систему перевозки метро в качестве дополнения для своего бизнеса, и, очевидно, он доминирует в ней до такой степени, что практически сделал её своей собственностью.<end>
+::Он третий раз кусает.:: Он пвиехал ис... ::Глотает.:: ...Северной Подземки много лет назад и начал заниматься тёмными, хитроумными делишками. Такими вещами, как хакерство, подделка билетов на Подземку Экспресс, продажа самодельных устройств и секретной информации... Он заключает сделки через систему аварийных телефонов метро, и похоже, задоминировал её до такой степени, что практически сделал её своей собственностью.<end>
 
 =>a238_original
 Where can I find him?<end>
@@ -1539,7 +1540,7 @@ Where can I find him?<end>
 But tummy still complains...<end>
 
 =>q239
-::Четвёртый и последний укус.:: Давай! Ешься? Уже?
+::Он приканчивает блюдо.:: Вот, блин! И всё? Уже?
 
 Но животик всё ещё жалуется...<end>
 
@@ -1553,7 +1554,7 @@ But tummy still complains...<end>
 Anyway, it was probably the safer place for him to be - or so he thought. <end>
 
 =>q241
-В любом случае, это было более безопасное место для него - или он так думал. <end>
+В любом случае, там было для него наиболее безопасное место -- или так он думал. <end>
 
 =>q242_original
 Turns out the Oligarchy got to him. 'Cause of all the stuff he's been doing a fair amount of incensed folks and, ehem, *organizations* wanna zone him out - or at least beat him into a pulp. 
@@ -1561,9 +1562,9 @@ Turns out the Oligarchy got to him. 'Cause of all the stuff he's been doing a fa
 Whether it's better that the oligarchs got to him before someone else... that's a hardcore question, pal. Real hardcore.<end>
 
 =>q242
-Оказывается, Олигархи добрались до него. Из-за всего того, что он делает, многие возмущённые люди и, кхм, *организации* хотят вывести его из игры - или, по крайней мере, избить до полусмерти.
+Оказывается, олигархи его нашли. Из-за всех его делишек, он разозлил достаточно людей и, кхм, *организаций*, которым охота отправить его в зону или, по крайней мере, избить до полусмерти.
 
-Лучше ли было то, что олигархи добрались до него раньше других... это сложный вопрос, $(#приятель/подруга). По-настоящему хардкор.<end>
+Лучше ли было то, что олигархи добрались до него раньше других... это хардкорный вопрос, $(#приятель/подруга). По-настоящему хардкорный.<end>
 
 =>q243_original
 That's really all I could find out. The guy's as sly as a... 
@@ -1571,9 +1572,9 @@ That's really all I could find out. The guy's as sly as a...
 ...very sly guy.<end>
 
 =>q243
-Это действительно всё, что я смог выяснить. Этот парень хитрый...
+И это всё, что я смог выяснить. Этот парень хитрый как...
 
-...очень хитрый.<end>
+...очень хитрый парень.<end>
 
 =>q244_original
 ::His stomach growls.:: 
@@ -1589,7 +1590,7 @@ The never-ending story.<end>
 I'd like to ask you something else before I leave.<end>
 
 =>a245
-Я бы хотел задать тебе ещё вопрос, прежде чем уйду.<end>
+Я бы хотел$(#/а) задать тебе ещё вопрос, прежде чем уйду.<end>
 
 =>q246_original
 Mmm?<end>
@@ -1619,13 +1620,13 @@ Thanks for the information. See you later, Jon.<end>
 Anyway, believe it or not, it's probably the safest place for him to be right now. <end>
 
 =>q250
-В любом случае, хотите верьте, хотите нет, но это, вероятно, самое безопасное место для него сейчас. <end>
+В любом случае, хочешь верь, хочешь нет, но это, вероятно, самое безопасное место для него сейчас. <end>
 
 =>q251_original
 Trust me - 'cause of all the stuff he's been doing a fair amount of incensed folks and, ehem, *organizations* wanna zone him out - or at least beat him into a pulp. Sucks hardcore either way.<end>
 
 =>q251
-Поверь мне - из-за всего того, что он делает, довольно много возмущённых людей и, кхм, *организаций* хотят вывести его из игры - или, по крайней мере, избить до полусмерти. В любом случае, отстойный хардкор.<end>
+Поверь мне, из-за всех его делишек, он разозлил достаточно людей и, кхм, *организаций*, которым охота отправить его в зону или, по крайней мере, избить до полусмерти. Так или иначе, хардкорный отстой.<end>
 
 =>q252_original
 <end>
@@ -1637,7 +1638,7 @@ Trust me - 'cause of all the stuff he's been doing a fair amount of incensed fol
 By the way, you remember asking me about the Acid Hunters earlier? Well, he and them have apparently been involved in some forged metro ticket business in the past. Don't know much about their connection beyond that, but my tummy thinks you should be informed.<end>
 
 =>q253
-Кстати, помнишь, ты спрашивал меня о Кислотных охотниках? Так вот, он и они, очевидно, были замешаны в каком-то бизнесе с поддельными билетами на метро в прошлом. Я не знаю многого об их связях, но мой живот считает, что вы должны быть в курсе.<end>
+Кстати, помнишь, ты спрашивал$(#/а) меня о Кислотных охотниках? Так вот, у них с ним, судя по всему, был какой-то бизнес на тему поддельных билетов метро. Больше не знаю, как ещё они могут быть связаны, но мой живот считает, что стоило тебе сообщить.<end>
 
 =>q254_original
 But - and listen to this, pal - certain clues point to him hiding somewhere beneath Core City. 
@@ -1645,7 +1646,7 @@ But - and listen to this, pal - certain clues point to him hiding somewhere bene
 Wanna hear more?<end>
 
 =>q254
-Но - и слушай сюда, $(#приятель/подруга) - некоторые подсказки указывают на то, что он скрывается где-то под Кор-Сити.
+Но -- и слушай сюда, $(#приятель/подруга) -- кое-что указывает на то, что он скрывается где-то под Кор-Сити.
 
 Хочешь услышать больше?<end>
 
@@ -1661,9 +1662,9 @@ That's what I'm talking about. There's an entrance to the city's utility section
 Then... you're on your own, pal. You're on your own.<end>
 
 =>q256
-Это то, о чём я говорю. Там есть вход в городскую секцию рабочего персонала, которая может привести тебя к нему. *Может*, если он действительно там. Ты найдёшь его на этом уровне. Просто пройди на юг мимо магазина Халима, а затем поверни на запад. Там ты найдёшь два бетонных столба. На одном из них есть лестница, ведущая вниз.
+Вот о чём я говорю. Есть вход в городскую служебную секцию, который может привести тебя к нему. *Может*, если он действительно там. Ты найдёшь его на этом уровне. Иди на юг мимо магазина Халима, а затем поверни на запад. Там ты увидишь два бетонных столба. На одном из них есть лестница, ведущая вниз.
 
-Там... ты сам$(#/а) по себе, $(#приятель/подруга). Ты сам$(#/а) по себе.<end>
+А дальше... там ты сам$(#/а) по себе, $(#приятель/подруга). Сам$(#/а) по себе.<end>
 
 =>a257_original
 ::Nod.::<end>
@@ -1681,13 +1682,13 @@ Then... you're on your own, pal. You're on your own.<end>
 Anyway... he's hard to track down. <end>
 
 =>q259
-В любом случае... его трудно выследить <end>
+В любом случае... его трудно выследить. <end>
 
 =>a260_original
 Why is he in Core City?<end>
 
 =>a260
-Почему он находится в Кор-Сити?<end>
+Почему он в Кор-Сити?<end>
 
 =>a261_original
 Hurry it up, Jon.<end>
@@ -1702,13 +1703,14 @@ Hey, I can only eat so fast, pal!
 
 =>q262
 Эй, я не могу есть так быстро, $(#приятель/подруга)!
+
 <end>
 
 =>a263_original
 ::Wait for him to go on.::<end>
 
 =>a263
-::Ждать, что он скажет.::<end>
+::Ждать, пока он прожуёт.::<end>
 
 =>q264_original
 So, Phreak, also known as <end>
@@ -1732,31 +1734,31 @@ Tell me about that old hacker. ::Give him Jon's Special.::<end>
 Tell me about the emergency phone person. ::Give him Jon's Special.::<end>
 
 =>a267
-Расскажи мне о человеке с телефоном экстренной связи. ::Дать ему особое блюдо Джона.::<end>
+Расскажи мне о человеке из телефона экстренной связи. ::Дать ему особое блюдо Джона.::<end>
 
 =>a268_original
 Here's your special. Now, I want information on Patrick Pierce.<end>
 
 =>a268
-Вот то, что ты хотел. Теперь мне нужна информация о Патрике Пирсе.<end>
+Вот твоё особое. Теперь мне нужна информация о Патрике Пирсе.<end>
 
 =>q269_original
 My food! Gimme, gimme, gimme! ::He then smells it.:: That's what I'm talking about! Damn, this is *good*! Pal, you did excellent! While you were gone, I got the information you needed. So, listen up carefully, 'cause I *will* be eating and talking at the same time.<end>
 
 =>q269
-Моя еда! Давай, давай, давай сюда! ::Он нюхает это.:: Вот это я понимаю! *Отличная* жратва! $(#Приятель/Подруга), хорошая работа! Пока тебя не было, я нашёл нужную тебе информацию. Итак, слушай внимательно, потому что я буду есть и говорить *одновременно*.<end>
+Моя еда! Давай, давай, давай сюда! ::Он нюхает.:: Вот это я понимаю! *Отличная* жратва! $(#Приятель/Подруга), хорошая работа! Пока тебя не было, я нашёл нужную тебе информацию. Итак, слушай внимательно, потому что я буду есть и говорить *одновременно*.<end>
 
 =>q270_original
 ::First bite.:: Youv fvend... ::Swallows.:: Your friend - Patrick - was indeed working for Praetorian Security. He came aboard... hmmm, almost fifteen years ago, back when it was still pretty bad in Core City. Riots, gangs, violence. Yeah, pal, Patrick was fighting rioters until he got hurt badly and had to leave for good.<end>
 
 =>q270
-::Первый укус.:: Туй дург... ::проглотив.:: Твой друг Патрик действительно работал на Преторианскую службу безопасности. Он устроился к ним... хм, почти пятнадцать лет назад, когда в Кор-Сити всё было довольно плохо. Бунты, банды, насилие. Да, $(#приятель/подруга), Патрик сражался против бунтовщиков, был сильно ранен, и ему пришлось уехать.<end>
+::Первый укус.:: Туй дург... ::Он глотает.:: Твой друг Патрик действительно работал на Преторианскую службу безопасности. Он устроился к ним... хм, почти пятнадцать лет назад, когда в Кор-Сити всё было довольно плохо. Бунты, банды, насилие. Да, $(#приятель/подруга), Патрик сражался против бунтовщиков, был сильно ранен, и ему пришлось уехать.<end>
 
 =>q271_original
 ::Second bite.:: Heve comeths the best pavth... ::Swallows.:: Patrick was involved with something quite interesting during his time in Praetorian Security. Operation Banishment!<end>
 
 =>q271
-::Второй укус.:: А вот шт само ынтрес... ::проглотив.:: Патрик был связан с кое-чем весьма интересным во время работы в Преторианской службе безопасности. С операцией Изгнание!<end>
+::Второй укус.:: А вот шт само ынтрес... ::Он глотает.:: Патрик был связан с кое-чем весьма интересным во время работы в Преторианской службе безопасности. С операцией Изгнание!<end>
 
 =>a272_original
 What is that?<end>
@@ -1768,7 +1770,7 @@ What is that?<end>
 ::Third bite.:: Opohvation Baneshment... ::Swallows.:: Operation Banishment was a clean up of all the remaining Spectres - Biocorp's elite operatives - who were still loyal to the overthrown, anti-Protectorate Biocorp directors. Patrick turned out to be quite a hero: He got a promotion for killing several of these deadly Spectres, but he was injured soon after that, so he didn't have the time to enjoy it.<end>
 
 =>q273
-::Третий укус.:: Опевация Ивганиэ... ::Глотает.:: Операция Изгнание должна была ликвидировать всех оставшихся Призраков -- элитных оперативников Биокорп, кто остался лоялен свергнутым директорам корпорации, которые выступали против Протектората. Патрик оказался настоящим героем: он получил повышение за убийство нескольких из этих смертоносных Призраков, но он был серьёзно ранен вскоре после этого, так что не успел насладиться плодами трудов своих.<end>
+::Третий укус.:: Опевация Ивганиэ... ::Он глотает.:: Операция Изгнание должна была ликвидировать всех оставшихся Призраков -- элитных оперативников Биокорп, кто остался лоялен свергнутым директорам корпорации, которые выступали против Протектората. Патрик оказался настоящим героем: он получил повышение за убийство нескольких из этих смертоносных Призраков, но был серьёзно ранен вскоре после этого, так что не успел насладиться плодами трудов своих.<end>
 
 =>q274_original
 ::Fourth and final bite.:: What? Where's the food? I ate it all? But me still hungry... tummy burning not... yet... gone...<end>
@@ -1798,7 +1800,7 @@ What about the Spectres? Do you know more about them?<end>
 Hmmm, not really. Just what I told you. Former Biocorp special forces unit, deadly, all killed by Praetorian Security. Officially, at least.<end>
 
 =>q278
-Хм-м-м, не многое. Только то, что я уже сказал. Бывшее силы специального назначения Биокорп, мертвы, все убиты Преторианской службой безопасности. Официально, по крайней мере.<end>
+Хм-м-м, не многое. Только то, что я уже сказал. Бывшее силы специального назначения Биокорп, мертвы, перебиты Преторианской службой безопасности. Официально, по крайней мере.<end>
 
 =>q279_original
 Most of the information on Spectres was probably destroyed a long time ago. I don't know, pal, if you search hard enough, maybe you'll find some hardcore dope who's interested in all that stuff and knows more about it than I do, however unlikely that someone knows anything more than me.
@@ -1828,7 +1830,7 @@ Why Jon the "Beautiful"?<end>
 Just look at me - am I not?<end>
 
 =>q282
-::Его до того нейтральное выражение лица расплывается в улыбке. Он выпячивает грудь, вытягивает длинные руки, затем указывает пальцами на себя. После этого он произносит пронзительным, почти детским голосом.::
+::Его до того нейтральное выражение лица расплывается в улыбке. Он выпячивает грудь, вытягивает длинные руки, затем указывает пальцами на себя. После этого он произносит пронзительным, почти детским голосом: ::
 
 Посмотри на меня -- разве не красавчик?<end>
 
@@ -1840,7 +1842,7 @@ Aha - you are speechless! That's what I'm talking about. Jon's still got it! Yea
 =>q283
 ::Одной пикосекундой позже...:: 
 
-Ага, у тебя нет слов! Вот об этом я и говорю. Джон, ты всё ещё на коне! О, да.<end>
+Ага, у тебя нет слов! Вот об этом я и говорю. Джон, а ты хорош! О, да.<end>
 
 =>a284_original
 How do you feel now that the Faceless have retreated?<end>
@@ -1858,7 +1860,7 @@ Here's how it went, pal. The Faceless came here, we're gonna take this place, no
 The mere sight of me scared them away. ::He pauses.:: I mean, I look scary. I mean, 'cause I look hardcore. That's what I'm talking about, pal.<end>
 
 =>q286
-Один мой вид отпугнул их. ::Он замолкает.:: В смысле, я выгляжу устрашающе. В смысле, потому что я выгляжу хардкорно. Вот о чём я говорю, $(#приятель/подруга).<end>
+Один мой вид отпугнул их. ::Он замолкает.:: В смысле, я страшно выгляжу. В смысле, потому что я выгляжу хардкорно. Вот о чём я говорю, $(#приятель/подруга).<end>
 
 =>a287_original
 How do you feel about the Faceless invasion?<end>
@@ -1894,7 +1896,7 @@ My tummy hurts... Need burger...<end>
 Here you go. ::Give him one burrower burger.::<end>
 
 =>a292
-Вот, держи. ::Дать ему один бургер с могильщиком.::<end>
+Вот, держи. ::Дать ему бургер с могильщиком.::<end>
 
 =>q293_original
 Yummy! Anyway, listen to this, pal: I've heard about these Acid Hunters. Don't know much about them other than that they're a group of scavengers who like wielding chemical weapons - exclusively - which sort of sets them apart from other schmucks - but only in that regard. Now, I also know that they are currently back in Core City, hiding.<end>
@@ -1906,13 +1908,13 @@ Yummy! Anyway, listen to this, pal: I've heard about these Acid Hunters. Don't k
 Why? That I don't know, <end>
 
 =>q294
-Почему? Этого я не знаю, <end>
+Почему? -- этого я не знаю, <end>
 
 =>q295_original
 but, and check this out: You remember asking me about Phreak earlier? Well, he and them have apparently been involved in some forged metro ticket business in the past. Is it relevant? I don't know. <end>
 
 =>q295
-но, и зацени это: Помнишь, ты спрашивал$(#/а) меня о Фрике? Так вот, он и они, очевидно, были замешаны в каком-то бизнесе с поддельными билетами на метро в прошлом. Это имеет отношение к делу? Я не знаю. <end>
+но зацени вот что: помнишь, ты спрашивал$(#/а) меня о Фрике? Так вот, у них с ним, судя по всему, был какой-то бизнес на тему поддельных билетов метро. Имеет ли отношение к делу? Я не знаю. <end>
 
 =>q296_original
 And I know pretty much everything - I'm Jon the Beautiful! Anyway, if you want to find them, you're in for some hard work. Hard*core* work.<end>
@@ -1924,7 +1926,7 @@ And I know pretty much everything - I'm Jon the Beautiful! Anyway, if you want t
 but they must be holed up somewhere real hardcore because even I don't know where they are. <end>
 
 =>q297
-но они должны скрываться где-то в очень хардкорном месте, потому что даже я не знаю где они. <end>
+но они должны скрываться где-то в очень хардкорном месте, потому что даже я не знаю, где они. <end>
 
 =>a298_original
 I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
@@ -1954,7 +1956,7 @@ I'm gonna munch on this thing like a stalactite is dangling over my head! Anyway
 Actually, to be more precise, they wanted to take the train at first, but the earthquake messed up their plans. That's what I'm telling you, pal. The trains had stopped 'cause a few sections of the tracks were blocked, so they spent some more time around the city in the meantime. Then, when the trains became operational again, they left.<end>
 
 =>q302
-На самом деле, если быть более точным, они вначале хотели сесть на поезд, но землетрясение нарушило их планы. Вот что я хочу сказать тебе, $(#приятель/подруга). Поезда остановились, потому что несколько участков путей оказались перекрыты, так что они провели ещё какое-то время в городе. Потом, когда поезда снова начали ходить, они уехали.<end>
+На самом деле, если быть более точным, они вначале хотели сесть на поезд, но землетрясение нарушило их планы. Вот, что я хочу сказать тебе, $(#приятель/подруга). Поезда остановились, потому что несколько участков путей оказались перекрыты, так что они провели ещё какое-то время в городе. Потом, когда поезда снова начали ходить, они уехали.<end>
 
 =>a303_original
 Do you know where they've gone to?<end>
@@ -1966,7 +1968,7 @@ Do you know where they've gone to?<end>
 Do I, pal? Do I? Come on, you're underestimating me. A little fly told me the train was headed for Rail Crossing. But whether your friends made it there or not, that is outside of my... jurisdiction. That's all I got for ya, pal. ::He nods a few times in affirmation, looking at you with his eyebrows raised. Then, he changes his focus to the eel sandwich sitting lonely in his hands before biting into it ferociously. Once again, he looks at you and nods in affirmation.::<end>
 
 =>q304
-Знаю ли я, $(#приятель/подруга)? Знаю ли? Ну же, ты меня недооцениваешь. Маленькая мушка рассказала мне, что поезд направлялся на Переезд. Но добрались туда твои друзья или нет, находится за пределами моей... юрисдикции. Это всё, что у меня есть для тебя, $(#приятель/подруга). ::Он несколько раз кивает в подтверждение, смотрит на вас подняв брови. Потом он переключает внимание на сэндвич с угрём, одиноко лежащий в его руке, прежде чем вгрызться в него яростно. В очередной раз он смотрит на вас и кивает в подтверждение.::<end>
+Знаю ли я, $(#приятель/подруга)? Знаю ли? Ну же, ты меня недооцениваешь. Маленькая мушка рассказала мне, что поезд направлялся на Переезд. Но добрались туда твои друзья или нет, находится за пределами моей... юрисдикции. Это всё, что у меня есть для тебя, $(#приятель/подруга). ::Он несколько раз кивает в подтверждение и смотрит на вас, подняв брови. Потом он переключает внимание на сэндвич с угрём, одиноко лежащий в его руке, прежде чем вгрызться в него яростно. В очередной раз он смотрит на вас и кивает в подтверждение.::<end>
 
 =>a305_original
 I talked to Sneaky about your relationship.<end>
@@ -1978,7 +1980,7 @@ I talked to Sneaky about your relationship.<end>
 So... she told you everything, huh, pal? Good. That is nice. Good.<end>
 
 =>q306
-Так... она всё тебе рассказала, да, $(#приятель/подруга)? Хорошо. Это ничего. Хорошо.<end>
+Так... она всё тебе рассказала, да, $(#приятель/подруга)? Хорошо. Это ничего. Это хорошо.<end>
 
 =>a307_original
 I didn't mean to offend you or anything like that.<end>
@@ -1990,7 +1992,7 @@ I didn't mean to offend you or anything like that.<end>
 No, I'm not offended. I mean you asked Sneaky about our relationship and she told you she left me, right? It's okay, pal, it's okay. Nothing to worry about. Nothing at all.<end>
 
 =>q308
-Нет, я не обижаюсь. Я хочу сказать, ты спросил$(#/а) Змейку про наши отношения и она сказала, что бросила меня, верно? Всё в порядке, $(#приятель/подруга), всё в порядке. Беспокоиться не о чем. Всё отлично.<end>
+Нет, я не обижаюсь. Я хочу сказать, ты спросил$(#/а) Змейку про наши отношения, и она сказала, что бросила меня, верно? Всё в порядке, $(#приятель/подруга), всё в порядке. Беспокоиться не о чем. Всё отлично.<end>
 
 =>a309_original
 Are you sure you're okay?<end>
@@ -2026,7 +2028,7 @@ Fine, I see you're not okay with this. I'll leave you alone.<end>
 I don't know what you're talking about, I'm feeling great! Listen pal, it's cool. We're cool. I mean, you just unstitched a wound in my heart by mentioning her, but that's okay. Please, if you want to hurt me some more, here, put a knife right through here. ::He points to his heart.:: That's where my broken heart is.<end>
 
 =>q314
-Я не знаю о чём ты говоришь, я чувствую себя отлично! Слушай, $(#приятель/подруга), всё в порядке. Никаких проблем. То есть, конечно, упомянув её, ты насыпал$(#/а) соли на рану в моём сердце, но это ничего. Пожалуйста, если ты хочешь сделать мне ещё больнее -- вот, вонзи нож прямо сюда. ::Он указывает на своё сердце.:: Вот где моё разбитое сердце.<end>
+Я не знаю, о чём ты говоришь, я чувствую себя отлично! Слушай, $(#приятель/подруга), всё в порядке. Никаких проблем. То есть, конечно, упомянув её, ты насыпал$(#/а) соли на рану в моём сердце, но это ничего. Пожалуйста, если ты хочешь сделать мне ещё больнее -- вот, вонзи нож прямо сюда. ::Он указывает на своё сердце.:: Вот где моё разбитое сердце.<end>
 
 =>a315_original
 If you're gonna be like that, than we better talk about something else.<end>
@@ -2062,7 +2064,7 @@ Time for me to go, pal. <end>
 Remember - back entrance to the Hardcore City Bar. I'll be there.<end>
 
 =>q320
-Запомни, задний вход в Хардкор-Сити бар. Я буду там.<end>
+Запомни, задний вход в бар Хардкор-Сити. Я буду там.<end>
 
 =>a321_original
 ::End Dialog.::<end>
@@ -2092,13 +2094,13 @@ Sure, pal.<end>
 Do I owe you anything?<end>
 
 =>a325
-Я тебе что-нибудь должен?<end>
+Я тебе что-нибудь долж$(#ен/на)?<end>
 
 =>q326_original
 Nah, I'm fed. ::Pats his belly.::<end>
 
 =>q326
-Нет, я сыт. ::Похлопывает себя по животу.::<end>
+Нет, я сыт. ::Он похлопывает себя по животу.::<end>
 
 =>q327_original
 For now...<end>
@@ -2200,7 +2202,7 @@ A punch in the stomach?<end>
 ::He pauses for a short moment.:: I'm not saying I'm not getting those from time to time, but that's not what I want, no, no. I'm talking about food! Food! ::He points his index finger at his open mouth.:: Stuff you eat. ::He then rubs his belly.:: Mmmm, tummy happy. Okay, now that you hopefully get it, here's the deal: <end>
 
 =>q343
-::Он замолкает на короткое время.:: Конечно я получаю их время от времени, но это не то, что я хочу -- нет, нет. Я говорю о еде! Еда! ::Он показывает указательным пальцем на свой раскрытый рот.:: Всё, что можно съесть. ::Затем он потирает живот.:: М-м-м-м, животик счастлив. Ладно, теперь, когда, надеюсь, до тебя дошло, -- вот в чём дело: <end>
+::Он замолкает на короткое время.:: Конечно, я получаю их время от времени, но это не то, что я хочу -- нет, нет. Я говорю о еде! Еда! ::Он показывает указательным пальцем на свой раскрытый рот.:: Всё, что можно съесть. ::Затем он потирает живот.:: М-м-м-м, животик счастлив. Ладно, теперь, когда, надеюсь, до тебя дошло, -- вот в чём дело: <end>
 
 =>a344_original
 I'm listening...<end>
@@ -2218,7 +2220,7 @@ I don't need your help.<end>
 Just because you say you don't need help doesn't mean I'm gonna stop talking, no, no. That never happened! But, before I continue, let me introduce myself properly: I'm Jon the Beautiful. Am I not? Eh? *Eh*?<end>
 
 =>q346
-То, что ты говоришь, что не нуждаешься в помощи, не означает, что я перестану говорить -- нет, нет. Я ничего не слышал! Но прежде чем я продолжу, позволь мне представиться: я Красавчик Джон. Разве не так? А? А?<end>
+То, что ты говоришь, что не нуждаешься в помощи, не означает, что я перестану говорить -- нет, нет. Я ничего не слышал! Но прежде чем я продолжу, позволь мне представиться: я Красавчик Джон. Разве не красавчик? А? А?<end>
 
 =>a347_original
 What is your problem, man?<end>
@@ -2230,13 +2232,13 @@ What is your problem, man?<end>
 What is my problem? What is *your* problem? Hey, pal, where are your manners? An absolutely, perfectly normal and beautiful person approaches you, and you behave like *that*? I'm... I'm disappointed.<end>
 
 =>q348
-В чём моя проблема? В чём *твоя* проблема? Эй, $(#приятель/подруга), где твои манеры? Абсолютно, совершенно нормальный и красивый человек подходит к тебе, а ты ведёшь себя как *ребёнок*? Я... я разочарован.<end>
+В чём моя проблема? В чём *твоя* проблема? Эй, $(#приятель/подруга), где твои манеры? Абсолютно, совершенно нормальный и красивый человек подходит к тебе, а ты ведёшь себя вот *так*? Я... я разочарован.<end>
 
 =>a349_original
 All right, sorry. Can I actually help you somehow?<end>
 
 =>a349
-Ладно, извините. Правда, могу ли я как-то помочь?<end>
+Ладно, прошу прощения. Но могу ли я действительно чем-то помочь?<end>
 
 =>q350_original
 That's what I'm saying! Hey, pal, let's not lie to each other, the real question here is, can I help *you*?<end>
@@ -2266,7 +2268,7 @@ If I give you food, will you go away?<end>
 This is not about the food, pal. I mean it is, but it isn't. Or, it is, but not in a way you think it is. Listen, pal, let's start this again with a simple question: Can I help *you*?<end>
 
 =>q354
-Дело не в еде, $(#приятель/подруга). В смысле, в ней, но не только. Или в ней, но не так, как ты думаешь. Слушай, $(#приятель/подруга), давай начнём с простого вопроса: могу ли я помочь *тебе*?<end>
+Дело не в еде, $(#приятель/подруга). В смысле, в ней, но не только. Или конечно в ней, но не так, как ты думаешь. Слушай, $(#приятель/подруга), давай начнём с простого вопроса: могу ли я помочь *тебе*?<end>
 
 =>a355_original
 I'll hurt you if you don't leave me alone.<end>
@@ -2308,7 +2310,7 @@ You want me to leave you alone? Me? Hey, pal, a perfectly normal, beautiful pers
 Hey, pal, I knew you'd find me. <end>
 
 =>q361
-Эй, $(#приятель/подруга), я знал, ты найдёшь меня. <end>
+Привет, $(#приятель/подруга), я знал, ты найдёшь меня. <end>
 
 =>q362_original
 And just at the right time: <end>
@@ -2332,7 +2334,7 @@ For you, always. What've you got for me?<end>
 ::Let him continue.::<end>
 
 =>a365
-::Ждать пока он продолжит.::<end>
+::Ждать, пока он продолжит.::<end>
 
 =>a366_original
 Why ask me if I got a minute when you're going to use it up anyway?<end>
@@ -2362,7 +2364,7 @@ I don't have a minute.<end>
 It's important. Real important.<end>
 
 =>q370
-Это важно. Очень важно<end>
+Это важно. Очень важно.<end>
 
 =>a371_original
 Alright, go on.<end>
@@ -2392,13 +2394,13 @@ No.<end>
 Don't care. Leave me alone.<end>
 
 =>a375
-Не волнует. Оставь меня в покое.<end>
+Меня не волнует. Оставь меня в покое.<end>
 
 =>a376_original
 Sorry, I'm busy.<end>
 
 =>a376
-Извини, я занят.<end>
+Извини, я занят$(#/а).<end>
 
 =>a377_original
 No!<end>
@@ -2410,4 +2412,4 @@ No!<end>
 ::He looks around, then whispers.:: Hey, pal - got food ready?<end>
 
 =>q378
-::Он смотрит по сторонам, затем шепчет.:: Эй, $(#приятель/подруга), есть еда?<end>
+::Он смотрит по сторонам, затем шепчет: ::Эй, $(#приятель/подруга), есть еда?<end>

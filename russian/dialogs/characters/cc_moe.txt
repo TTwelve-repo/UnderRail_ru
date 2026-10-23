@@ -2,7 +2,7 @@
 I'm out of celebration burgers, just so you know, friend. They were so delicious I sold them out in mere hours. Maybe if we get invaded again I'll make some more. ::He laughs.::<end>
 
 =>q1
-Праздничные бургеры кончились, $(#друг/подруга). Они были настолько вкусны, что я продал их всего лишь за несколько часов. Может быть, если вторжение повторится, я наделаю побольше. ::Он смеётся.::<end>
+Праздничные бургеры кончились, $(#друг/подруга). Они были настолько вкусны, что я распродал их за пару часов. Может быть, если вторжение повторится, я наделаю побольше. ::Он смеётся.::<end>
 
 =>q2_original
 <end>
@@ -14,7 +14,7 @@ I'm out of celebration burgers, just so you know, friend. They were so delicious
 I wanna try something... ::Barter.::<end>
 
 =>a3
-Я хочу попробовать что-нибудь. ::Обмен.::<end>
+Я хочу попробовать что-нибудь... ::Обмен.::<end>
 
 =>a4_original
 Can I ask for some directions?<end>
@@ -38,25 +38,25 @@ I don't see why not.<end>
 Who runs this place?<end>
 
 =>a7
-Кто управляет этим местом?<end>
+Кто заправляет этим местом?<end>
 
 =>q8_original
 Core City is run by the Oligarchs; Two of them used to work for Biocorp before it got zoned out, while the third one is a businessman from afar. They own nearly everything in Core City. Well, you could say they don't exactly *own* Drop Zone, which is sort of... how should I say...<end>
 
 =>q8
-Кор-Сити находится в ведении олигархов; двое из них раньше работали на Биокорп, пока её не отправили в зону, а третий -- бизнесмен издалека. Им принадлежит почти всё в этом городе. Ну, можно сказать, за исключением Зоны провала, которая, в своём роде... как бы это сказать...<end>
+Кор-Сити находится в ведении олигархов; двое из них раньше работали на Биокорп, пока её не отправили в зону, а третий -- бизнесмен издалека. Им принадлежит почти всё в этом городе. Ну, можно сказать, за исключением Зоны провала, которую, в своём роде... как бы это сказать...<end>
 
 =>q9_original
 Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless wanted to go there. ::He laughs.::<end>
 
 =>q9
-Игнорируется не только олигархами, но и почти всеми остальными. Я думаю, даже безликие не слишком хотели туда попасть. ::Он смеётся.::<end>
+Стараются не замечать не только олигархи, но и почти все остальные. Я думаю, даже безликие не слишком хотели туда попасть. ::Он смеётся.::<end>
 
 =>q10_original
 Ignored not just by the Oligarchs, but by pretty much everyone else. I don't think even the Faceless would wanna go there. ::He laughs.::<end>
 
 =>q10
-Игнорируется не только олигархами, но и почти всеми остальными. Я думаю, даже безликим не слишком хочется туда соваться. ::Он смеётся.::<end>
+Стараются не замечать не только олигархи, но и почти все остальные. Я думаю, даже безликим не слишком хочется туда соваться. ::Он смеётся.::<end>
 
 =>a11_original
 Where can I find some merchants?<end>
@@ -74,7 +74,7 @@ Take the main elevator and go to the level above this one.<end>
 You'll find lots of merchants there, and if you get tired, just visit the Hardcore City Bar. It's the best place in Core City to have some hardcore fun! Other than the Arena, of course, which is also nearby, just west of the bar.<end>
 
 =>q13
-Вы найдёте там много торговцев, -- а если устанете, просто зайдите в бар Хардкор-Сити. Это лучшее место в городе, чтобы хардкорно повеселиться! Ну и Арена, конечно, -- она также находится неподалёку, чуть западнее бара.<end>
+Вы найдёте там много торговцев, а если устанете, просто зайдите в бар Хардкор-Сити. Это лучшее место в городе, чтобы хардкорно повеселиться! Ну и Арена, конечно, -- она также находится неподалёку, чуть западнее бара.<end>
 
 =>a14_original
 Is there a doctor around here?<end>
@@ -98,13 +98,13 @@ Now, listen, she might seem... strange, even scary at times, but she's the best 
 Should I avoid anything or anyone?<end>
 
 =>a17
-Кого или чего следует избегать?<end>
+Кого или чего здесь следует избегать?<end>
 
 =>q18_original
 Avoid Drop Zone. Lowlifes, gangsters and who knows what else lives there. Sewers too are a no-no, but why anyone would go there in the first place is beyond me. ::He laughs.::<end>
 
 =>q18
-Избегайте Зоны провала. Подонки, бандиты и кто знает, что ещё там живёт. В канализации тоже очень опасно, но зачем туда вообще ходить. ::Он смеётся.::<end>
+Избегайте Зоны провала. Подонки, бандиты и кто знает, что ещё там живёт. В канализации тоже очень опасно, но зачем туда вообще ходить? ::Он смеётся.::<end>
 
 =>q19_original
 Last but not least, have you seen those robed guys? They call themselves Tchortists, and I don't exactly buy into their fairy-tales. I'd avoid them if I were you.<end>
@@ -116,7 +116,7 @@ Last but not least, have you seen those robed guys? They call themselves Tchorti
 I'm looking for some work.<end>
 
 =>a20
-Я ищу кое-какую работу.<end>
+Я ищу какую-нибудь работу.<end>
 
 =>q21_original
 Work, you say? I'm not offering any jobs here at my stall, if that's what you're asking. ::He laughs.:: But no, seriously, maybe JKK, Coretech or Praetorian Security are looking for someone.<end>
@@ -176,7 +176,7 @@ What can you tell me about the Arena?<end>
 Hey, you have to go and experience the bloodbath *live.* I mean, you can watch it on JKK's ArenaNow, but it's just not the same.<end>
 
 =>q30
-Эй, вы должны пойти и испытать кровавую баню *живьём*. То есть, вы можете, конечно, посмотреть Арену Сегодня, но это не одно и то же.<end>
+Эй, вы должны пойти и испытать кровавую баню *живьём.* То есть, вы можете, конечно, посмотреть Арену Сегодня, но это не одно и то же.<end>
 
 =>q31_original
 Take my advice, buy a ticket and enjoy the carnage. Folks from all over Underrail come here just for the Arena.<end>
@@ -208,9 +208,9 @@ Jon's special requires some *expensive* ingredients. He likes it made that way, 
 He never hesitated sending someone to buy it for him, so the price is not the issue, apparently.<end>
 
 =>q35
-Особое блюдо Джона требует *дорогих* ингредиентов, чтобы вы знали. Он его любит не только для лучшего вкуса - но и для "лучшей композиции разговора", как он сам выразился.
+Особое блюдо Джона требует *дорогих* ингредиентов. Оно приготавливается так не только для лучшего вкуса, но и для «лучшей композиции беседы», как он сам выражается.
 
-И никогда не стеснялся послать за ним кого-нибудь, так что цена не проблема, видимо.<end>
+И он постоянно кого-нибудь за ним присылает, так что, видимо, цена не проблема.<end>
 
 =>a36_original
 Can I get a discount?<end>
@@ -224,7 +224,7 @@ I'm afraid not. The ingredients themselves are what makes it so expensive, *espe
 The price is two hundred charons, and not a charon less.<end>
 
 =>q37
-Боюсь, что нет. Ингредиенты сами по себе делают его таким дорогим, особенно специи. Так что цена -- двести харонов, и ни хароном меньше.<end>
+Боюсь, что нет. Ингредиенты сами по себе делают его таким дорогим, особенно специи. Так что, цена -- двести харонов, и ни хароном меньше.<end>
 
 =>a38_original
 Here are the coins. ::Give him 200 charons.::<end>
@@ -244,7 +244,7 @@ Hardcore! Please wait while I prepare the dish. It won't take too long.<end>
 And finally, the dish is ready.::<end>
 
 =>q40
-::Мо готовит особое блюдо куда дольше, чем говорил поначалу. Но всё равно вы никогда не видели, чтобы кто-нибудь готовил с таким количеством разных и экзотических специй. Разные виды мяса, некоторые с вертикальной шашлычницы, другие с гриля, с добавлением пяти видов грибов, кореньев и, конечно, *специй*. Запах настолько силён, что можно вполне наесться, даже не касаясь еды.
+::Мо готовит особое блюдо куда дольше, чем говорил поначалу. Но всё равно вы никогда не видели, чтобы кто-нибудь готовил с таким количеством разных и экзотических специй. Всевозможные виды мяса, некоторые с вертикальной шашлычницы, другие с гриля, с добавлением пяти видов грибов, кореньев и, конечно, *специй*. Запах настолько силён, что можно вполне наесться, даже не касаясь еды.
 
 Наконец блюдо готово.::<end>
 
@@ -258,13 +258,13 @@ Here you go. Tell Jon I said hi.<end>
 Can I get some more Jon's specials?<end>
 
 =>a42
-Можно мне ещё особое блюдо Джона?<end>
+Можно мне ещё особого блюда Джона?<end>
 
 =>q43_original
 Of course! But I can only make so many at a time. It's the spices, you know - they're really hard to come by<end>
 
 =>q43
-Ну разумеется! Но я могу сделать только столько за раз. Дело в специях - их очень трудно достать<end>
+Ну разумеется! Но я могу приготовить за раз не больше этого. Дело в специях -- их очень трудно достать<end>
 
 =>q44_original
 . <end>
@@ -276,25 +276,25 @@ Of course! But I can only make so many at a time. It's the spices, you know - th
 But as long as you got the charons...<end>
 
 =>q45
-Но пока у вас есть хароны...<end>
+Но если у вас есть хароны...<end>
 
 =>a46_original
 ::Shake your coin pouch.:: Them I got, Moe. ::Barter.::<end>
 
 =>a46
-::Вытряхнуть свой мешочек для монет.:: Они у меня есть, Мо. ::Обмен.::<end>
+::Потрясти кошельком.:: Они у меня есть, Мо. ::Обмен.::<end>
 
 =>a47_original
 Understood. Now, the specials... ::Barter.::<end>
 
 =>a47
-Понятно. Теперь особое... ::Обмен...::<end>
+Понятно. Так вот, особое... ::Обмен.::<end>
 
 =>q48_original
 , especially now. <end>
 
 =>q48
-, теперь особое. <end>
+, тем более сейчас. <end>
 
 =>a49_original
 I will. Goodbye, Moe.<end>
@@ -358,7 +358,7 @@ I value my life, and if you value yours, don't ever try barrel soup. Not even a 
 =>q58
 Нет! Я... НЕТ! С чего вы взяли... нет!
 
-Я ценю свою жизнь, и если вам дорога ваша, даже не пробуйте суп из бочки. Даже глотка.<end>
+Я ценю свою жизнь, и если вам дорога ваша, то не пробуйте суп из бочки. Даже глотка.<end>
 
 =>a59_original
 Okay... I had some other questions.<end>
@@ -394,7 +394,7 @@ There's not much to say about that derailed woman. She used to have a stall just
 I had more customers, naturally - because my food doesn't taste like it was soaked in siphoner fat, but that crooked-teeth nightmare started acting all derailed! She yelled at me for somehow "stealing" her customers. I mean, what? She didn't pass the opportunity to kick my stall a couple of times!<end>
 
 =>q64
-У меня было больше клиентов -- естественно, потому что моя еда не воняет, будто её вымачивали в тухлом жире -- но эта кривозубая страшила совсем поехала! Она наорала на меня за то, что я «ворую» её клиентов. Что за? Она не пропускала возможности пнуть мой ларёк пару раз!<end>
+У меня было больше клиентов -- естественно, потому что моя еда не воняет, будто её вымачивали в тухлом жире, -- но эта кривозубая страшила совсем поехала! Она наорала на меня за то, что я «ворую» её клиентов. Что за?.. Она не пропускала возможности пнуть мой ларёк пару раз!<end>
 
 =>q65_original
 The Praetorian Security enforcers got her out of here soon after that. All hardcore. So she had to move to the Upper Underrail station from what have I heard. Meh, I don't care anyway. Good riddance!<end>
@@ -430,13 +430,13 @@ Everyone likes eating at Moe's!<end>
 The Arena can satisfy your hunger for blood, but I can satisfy your hunger. ::He pauses.:: What'll it be?<end>
 
 =>q70
-Арена может удовлетворить жажду крови, а я могу утолить голод. ::Он замолкает.:: Что желаете?<end>
+Арена может удовлетворить жажду крови, а я могу утолить голод. ::Он ждёт.:: Что подать?<end>
 
 =>q71_original
 Something sure smells good. Well look at that - it's Moe's food! Want some?<end>
 
 =>q71
-Что же пахнет так вкуснО? Смотрите -- это кухня Мо! Отведаете?<end>
+Что же пахнет так вкуснó? Смотрите -- это кухня Мо! Отведаете?<end>
 
 =>q72_original
 Let's face it: People need to eat, otherwise they die, right? So what are you waiting for?<end>
@@ -448,7 +448,7 @@ Let's face it: People need to eat, otherwise they die, right? So what are you wa
 An old traveler once came to my stall and tasted some of my food. He's not traveling around anymore.<end>
 
 =>q73
-Старый странник однажды пришёл ко мне и отведал мою еду. Он больше никуда не странствует.<end>
+Старый странник однажды пришёл ко мне и отведал мою еду. Он решил больше не странствовать.<end>
 
 =>q74_original
 Only zoners eat disgusting barrel soup. Real men and women eat at Moe's!<end>

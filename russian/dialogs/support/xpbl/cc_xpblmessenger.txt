@@ -2,19 +2,19 @@
 'Scuse me, ya int'rested in some work?<end>
 
 =>q1
-Извини, тебя интересует кое-какая работа?<end>
+Извиняюсь, интересует работёнка?<end>
 
 =>a2_original
 Always. Go on.<end>
 
 =>a2
-Всегда. Продолжай.<end>
+Всегда. Я слушаю.<end>
 
 =>q3_original
 Ah, great. <end>
 
 =>q3
-Ах, чудесно. <end>
+А, чудесно. <end>
 
 =>q4_original
 A security company from North Underrail's hirin' folks fer an expedition to the Black Sea. They're lookin' fer laborers, technicians 'n' most importantly skilled fighters - y'know, they need some extra security over there. 
@@ -22,9 +22,9 @@ A security company from North Underrail's hirin' folks fer an expedition to the 
 Whatever field o' work yer int'rested in, ya gotta be one *tough* pipeworker, 'cause the work's real hardcore - but so's the money, heeee. ::He flashes a toothless grin.::<end>
 
 =>q4
-Охранная компания из Северной Подземки нанимает людей для экспедиции в Чёрное море. Они ищут рабочих, техников и, самое главное, опытных бойцов - понимаешь, им там нужна дополнительная охрана.
+Охранная компания из Северной Подземки нанимает народ для экспедиции на Чёрное море. Им надо рабочих, техников и, главное, опытных бойцов -- ну, знаешь, чтобы всё охранять.
 
-Какая бы сфера деятельности тебя ни интересовала, тебе нужно быть *крутым* трубочистом, потому что работа реально хардкорная - но и деньги тоже, хееее. ::Он сверкает беззубой улыбкой.::<end>
+Но в любой сфере деятельности нужно быть *крутым* трубочистом, потому что работа реально хардкорная, -- но и деньги тоже, хе-е-е. ::Он беззубо скалится.::<end>
 
 =>q5_original
 You'll find 'em over at the eastern docks if yer int'rested. <end>
@@ -36,7 +36,7 @@ You'll find 'em over at the eastern docks if yer int'rested. <end>
 Just go east along this platform. Can't miss 'em.<end>
 
 =>q6
-Просто иди на восток вдоль этой платформы. Не пропустишь.<end>
+Просто иди на восток отсюда. Не пропустишь.<end>
 
 =>q7_original
 <end>
@@ -54,7 +54,7 @@ Who are these people and what is the expedition about?<end>
 Don't know exactly what they lookin' fer over there. I was just told to direct folks to the docks. ::He shrugs.:: Frankly, I reckon they gotta be diggin' for some old world crap to show off in a museum in Dis. Who cares, long as the pay's good.<end>
 
 =>q9
-Я точно не знаю, что они там ищут. Мне только что сказали, чтоб я направлял народ в доки. ::Он пожимает плечами.:: Честно говоря, я думаю, что они раскапывают какое-то дерьмо старого мира, чтобы выставить его в музее Дис. Да какая разница, главное, чтоб платили хорошо.<end>
+Я точно не знаю, чего они там ищут. Мне только сказали, чтоб я отправлял народ в доки. ::Он пожимает плечами.:: Честно говоря, я думаю, что они раскапывают какое-то дерьмо старого мира, чтобы выставить его в музее Дис. Да какая разница, главное чтоб платили хорошо.<end>
 
 =>q10_original
 As for the company, it's called *Aegis Incorporated*, 'n' it's from the North. Security contractors - serious business. These guys're packin' a lotta heat, 'n' they look mighty hardcore in 'em full-body armor suits. Oh, yes, siree. 
@@ -62,15 +62,15 @@ As for the company, it's called *Aegis Incorporated*, 'n' it's from the North. S
 Makes ya... wanna join them straight away, right? Right?<end>
 
 =>q10
-Что касается компании, её название - *Эгида Инкорпорейтед*, и она с севера. Охранные подрядчики - серьёзный бизнес. Эти парни упакованы по полной программе, и в своих бронекостюмах выглядят очень хардкорно. О, да-а-а.
+Что до компании, её называют *Эгида Инкорпорейтед* и она с Севера. Охранные подрядчики, серьёзный бизнес. Эти парни упакованы по полной программе, очень хардкорно смотрятся в своих бронекостюмах. О, да-а-а, сэр.
 
-Вызывает... желание присоединиться к ним прямо сейчас, не так ли?<end>
+Прямо хочется... присоединиться, да? Да?<end>
 
 =>a11_original
 What can you tell me about the Black Sea?<end>
 
 =>a11
-Что ты можешь рассказать мне о Чёрном море?<end>
+Можешь рассказать о Чёрном море?<end>
 
 =>q12_original
 Dammit, $(#man/woman), ya ain't from around, are ya? Never heard of the dreaded Black Sea - the Hell's Gut? Spooky legends? Pirates? Y'know, them folks int'rceptin' vessels, zonin' out, kidnappin' plunderin', then takin' their loot to waters few are willin' to chase 'em to? 
@@ -78,15 +78,15 @@ Dammit, $(#man/woman), ya ain't from around, are ya? Never heard of the dreaded 
 Don't ring a bell?<end>
 
 =>q12
-Проклятье, $(#мужик/женщина), ты ведь не здешн$(#ий/яя), не так ли? Никогда не слышал$(#/а) об ужасном Чёрном море - Адском котле? Жутких легендах? Пиратах? Ну, знаешь, те ребята, что захватывают суда, отправляют в зону, похищают, грабят, а потом увозят свою добычу в воды, где мало кто захочет их преследовать?
+Проклятье, $(#мужик/женщина), ты ведь не здешн$(#ий/яя), не так ли? Никогда не слышал$(#/а) об ужасном Чёрном море -- Адском котле? Жутких легендах? Пиратах? Ну знаешь, те ребята, что захватывают суда, отправляют в зону, похищают, грабят, а потом увозят добычу в воды, куда мало кто за ними потащится?
 
-Ничего не напоминает?<end>
+Не слыхал$(#/а)?<end>
 
 =>q13_original
 Then, well, maybe this sort of work ain't fer ya, kiddo. Just sayin'.<end>
 
 =>q13
-Тогда, возможно, эта работа и не для тебя, малыш. Просто говорю.<end>
+Тогда, возможно, эта работа и не для тебя, малыш. Без обид.<end>
 
 =>a14_original
 When you say *hardcore* money, how hardcore do you mean?<end>
@@ -98,7 +98,7 @@ When you say *hardcore* money, how hardcore do you mean?<end>
 I wasn't told *exactly* how hardcore it is, ya dig, but by our Southern standards it's gotta be pretty hardcore. I reckon, if the job's only fer the toughest, right, then the toughest ain't gonna do it cheap. Right, heee?<end>
 
 =>q15
-Мне не сказали *конкретно*, насколько они хардкорные, врубаешься, но по нашим Южным стандартам они должны быть весьма хардкорными. Полагаю, раз эта работа только для самых крутых, то и самые крутые не станут делать её дёшево. Верно, хеее?<end>
+Мне не сказали *конкретно*, насколько они хардкорные, врубаешься, но по нашим южным стандартам, они должны быть весьма хардкорными. Полагаю, раз эта работа только для самых крутых, то и самые крутые не станут делать её задёшево. Верно, хе-е-е?<end>
 
 =>q16_original
 I'd apply myself, but the ol' legs ain't what they used to be. Nah, they ain't. Rusty pipes they've become, eh.<end>
@@ -134,7 +134,7 @@ Got it. I'll check them out.<end>
 Hey, got a coin or two? ::He puts his hand out.:: Eh?<end>
 
 =>q21
-Эй, есть монетка или две? ::Он протягивает руку.:: А?<end>
+Эй, найдётся пара монет? ::Он протягивает руку.:: А?<end>
 
 =>a22_original
 Sure. ::Give him a stygian coin.::<end>
@@ -176,7 +176,7 @@ Here's a tenner. ::Give him 10 stygian coins.::<end>
 Heee! ::He flashes a toothless grin.:: *Cheers*! <end>
 
 =>q28
-Хе-е-е! ::Он улыбается беззубой улыбкой.:: *Будь здоров$(#/а)*! <end>
+Хе-е-е! ::Он беззубо скалится.:: *Будь здоров$(#/а)!* <end>
 
 =>a29_original
 Sorry.<end>
@@ -224,19 +224,19 @@ Alright then. <end>
 Down the main elevator, then east along the platform. Can't miss 'em.<end>
 
 =>q36
-Вниз на центральном лифте, затем на восток вдоль платформы. Не пропустишь.<end>
+Вниз на центральном лифте, затем на восток вдоль пристани. Не пропустишь.<end>
 
 =>a37_original
 Sure. What's this about?<end>
 
 =>a37
-Конечно. Так, в чём дело?<end>
+Конечно. В чём дело?<end>
 
 =>a38_original
 Not really, but do go ahead.<end>
 
 =>a38
-Не очень, но всё же продолжай.<end>
+Не очень, но рассказывай.<end>
 
 =>q39_original
 Hey, I'll be brief. <end>
@@ -260,7 +260,7 @@ It's good money! *Real* good money.<end>
 On the other hand... I could hear you out. Proceed.<end>
 
 =>a42
-А с другой стороны... я могу тебя выслушать. Продолжай.<end>
+С другой стороны... можно и послушать. Говори.<end>
 
 =>a43_original
 ::Ignore him and leave.::<end>
@@ -272,22 +272,22 @@ On the other hand... I could hear you out. Proceed.<end>
 Hey! Go to the east'rn dock if you're int'rested, 'n'-- Oh, drop off.<end>
 
 =>q44
-Эй! Иди в Восточный док, если тебе интересно, и... ох, да провались ты.<end>
+Эй! Иди в восточный док, если тебе интересно, и... ох, да провались ты.<end>
 
 =>a45_original
 Is this about that expedition to the Black Sea? I already know.<end>
 
 =>a45
-Это касается той экспедиции в Чёрное море? Я уже знаю.<end>
+Это касается той экспедиции на Чёрное море? Я уже знаю.<end>
 
 =>q46_original
 Oh, oh, alright then. <end>
 
 =>q46
-Ну, тогда ладно. <end>
+А, ну тогда ладно. <end>
 
 =>q47_original
 'Scuse me, y-- Oh, it's yer face again. ::Looks away.::<end>
 
 =>q47
-Извини, те... А, это снова ты. ::Отводит взгляд.::<end>
+Извиняюсь, те... А, это снова ты. ::Теряет интерес.::<end>
