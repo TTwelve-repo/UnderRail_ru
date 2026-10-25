@@ -4,9 +4,9 @@
 Greetings, gunslinger. Need guns to exterminate your enemies? Need explosives to demolish anything that stands in your way? Need bullets to fuel your murderous urges, or perhaps you need armor to protect your weak flesh from harm? If your answer is "yes" to any of these questions...<end>
 
 =>q1
-::Вы видите мужчину, который чистит автомат. Он размером со скалу и облачён в металлическую броню. Мужчина осматривает патронник, но как только вы входите в помещение, тут же переводит взгляд на вас. Он опускает автомат, одновременно запирая затвор, прежде чем отставить его в сторону и поприветствовать вас угрюмым взглядом и соответствующим голосом.::
+::Вы видите облачённого в металлическую броню здоровяка, который чистит автомат. Мужчина осматривает патронник, но как только вы входите в помещение, тут же переводит взгляд на вас. Он опускает автомат, одновременно запирая затвор, прежде чем отставить его в сторону и поприветствовать вас угрюмым взглядом и соответствующим голосом: ::
 
-Приветствую, стрелок. Нужно оружие, чтобы уничтожить твоих врагов? Нужна взрывчатка, чтобы снести всё, что встанет на твоём пути? Нужны пули, чтобы питать твою жажду убивать или, возможно, тебе нужна броня, чтобы защитить твою слабую плоть? Если твой ответ -- «да», на любой из этих вопросов...<end>
+Приветствую, стрелок. Нужно оружие, чтобы уничтожить твоих врагов? Нужна взрывчатка, чтобы снести всё, что встанет на твоём пути? Нужны пули, чтобы питать твою жажду убивать или, возможно, тебе нужна броня, чтобы защитить твою слабую плоть? Если твой ответ -- «да» на любой из этих вопросов...<end>
 
 =>q2_original
 Then you've come to the right place! Welcome to Oskar's Armory.<end>
@@ -36,7 +36,7 @@ I need some information on a former Praetorian Security officer called Patrick P
 I used to be a Praetorian enforcer, $(#man/sister), and I was hardcore. Yeah! Never met the guy you mentioned, though.<end>
 
 =>q6
-Я был Преторианским Бойцом $(#мужик/сестрёнка), и это был хардкор. Да! Но я не знаю парня, о котором ты говоришь.<end>
+Я был Преторианским бойцом $(#мужик/сестрёнка), и это был хардкор. Да! Но я не знаю парня, о котором ты говоришь.<end>
 
 =>q7_original
 Maybe he left before I joined, or joined after I left. Meh...<end>
@@ -60,7 +60,7 @@ Hardcore! You know about the Spectres?<end>
 *You* know about the Spectres?<end>
 
 =>a10
-А *ты* знаешь про Призраков?<end>
+*Ты* знаешь про Призраков?<end>
 
 =>q11_original
 Why would I know about them? I'm hardcore, they were hardcore... We have so much in common.<end>
@@ -84,7 +84,7 @@ Can I see the file? Do you still have it?<end>
 ::He hesitates for a second before speaking.:: Well... I suppose sharing their hardcoreness with more people is... okay, I suppose. For a price.<end>
 
 =>q14
-::Он секунду колеблется, прежде чем ответить.:: Ну... думаю, что поделиться хардкорностью с другими... это можно. Не бесплатно.<end>
+::Он секунду колеблется.:: Ну... думаю, что поделиться хардкорностью с другими... это можно. Не бесплатно.<end>
 
 =>a15_original
 I'm your trusty customer. How about you let me take a peek for free, eh?<end>
@@ -96,7 +96,7 @@ I'm your trusty customer. How about you let me take a peek for free, eh?<end>
 Hey, $(#man/sister), this is some hardcore stuff, I can't just show it to anyone. I mean, I can't show it to anyone for *free.* But for fifty... no, this should be worth one hundred charons... for that I can let you take a peek. A hardcore peek!<end>
 
 =>q16
-Эй, $(#мужик/сестра), это хардкорная информация, я не могу просто показывать её всем. То есть, я не могу показывать её всем *забесплатно*. Но за пятьдесят... нет, это должно стоить сто харонов... за столько я могу позволить тебе взглянуть. Хардкорно взглянуть!<end>
+Эй, $(#мужик/сестра), это хардкорная информация, я не могу просто показывать её всем. То есть, я не могу показывать её всем *забесплатно.* Но за пятьдесят... нет, это должно стоить сто харонов... за столько я могу позволить тебе взглянуть. Хардкорно взглянуть!<end>
 
 =>a17_original
 I'm willing to pay whatever is necessary.<end>
@@ -144,13 +144,13 @@ I'd like to view the document on Spectres.<end>
 ::He takes the stygian coins.:: Hardcore, let me find the document, and it's yours to view. You're not leaving the store with it, though!<end>
 
 =>q24
-::Он берёт монеты.:: Хардкор, дай мне только найти документ и смотри сколько влезет. Не вздумай только уйти с ним!<end>
+::Он берёт монеты.:: Хардкор, дай мне только найти документ и читай сколько влезет. Не вздумай только уйти с ним!<end>
 
 =>q25_original
 ::It takes him a brief moment to search for the document and then hands it to you. He carefully watches you while you read it.::<end>
 
 =>q25
-::Ему требуется мгновение, чтобы найти документ, затем он протягивает его вам. Он внимательно наблюдает за вами, пока вы читаете.::<end>
+::Ему требуется мгновение, чтобы найти документ, затем он протягивает его вам. Он не сводит с вас взгляда, пока вы читаете.::<end>
 
 =>q26_original
 ::This file contains all known information on Biocorp's special operations force - Spectre
@@ -171,7 +171,7 @@ Known members list:
 =>q26
 ::Данный документ содержит все известные сведения об отряде специального назначения Биокорп - Призрак
 Полное название: Призрак
-Подразделение: Охрана Биокорп
+Подразделение: Служба безопасности Биокорп
 Знаки отличия: см. изображение ниже
 
 Известные члены:
@@ -206,7 +206,7 @@ Known information:
 
 - До захвата Биокорп, они приняли участие приблизительно в 245 операциях, 156 из них были убийства. Они были (печально) известны методом устранения своих жертв -- уколом через ноздрю в мозг, что оставляло очень мало заметных следов того, как цель была убита.
 
-- Все известные Призраки были убиты во время операции Изгнание, проведённой Преторианской службой безопасности. Хотя некоторые тела так и не были найдены, после операции не обнаружено никакой активности Призраков.::<end>
+- Все известные Призраки были уничтожены в ходе операции Изгнание, проведённой Преторианской службой безопасности. Хотя некоторые тела так и не были найдены, после операции не было обнаружено никакой активности Призраков.::<end>
 
 =>q28_original
 ::The last page contains the picture of the Spectre insignia, which matches the one you took from Mordre.::<end>
@@ -218,13 +218,13 @@ Known information:
 Thank you, this is enough for now. ::Give him the document.::<end>
 
 =>a29
-Спасибо, пока что этого достаточно. ::Отдать ему документ.::<end>
+Спасибо, пока что этого достаточно. ::Вернуть ему документ.::<end>
 
 =>q30_original
 Aren't they hardcore? Damn, that technique of theirs... Dominating, just dominating.<end>
 
 =>q30
-Разве они не хардкор? Блин, эта их техника... доминирует, просто доминирует.<end>
+Разве они не хардкорные? Блин, эта их техника... доминирует, просто доминирует.<end>
 
 =>q31_original
 ::The last page contains the picture of the Spectre insignia, which matches the one you took from Mordre.::<end>
@@ -242,7 +242,7 @@ Aren't they hardcore? Damn, that technique of theirs... Dominating, just dominat
 ::[Persuade]:: How about you pretend I gave you the money, and I'll pretend you didn't tell me about stealing important documents from Praetorian Security.<end>
 
 =>a33
-::[Убеждение]:: Давай ты сделаешь вид, что я дал$(#/а) тебе денег, а я сделаю вид, что ты не говорил мне, что украл важные документы Преторианской службы безопасности.<end>
+::[Убеждение]:: Давай ты сделаешь вид, что я дал$(#/а) тебе денег, а я сделаю вид, что ты не говорил мне, как украл важный документ Преторианской службы безопасности.<end>
 
 =>q34_original
 I'm not sure if you... hmmm... I don't feel like risking it. Fine, I'll let you see the document. But you're not leaving the store with it, though!<end>
@@ -260,7 +260,7 @@ I don't think we're gonna do it like that, $(#man/sister). I am offering a servi
 ::[Intimidate]:: Listen, Oskar, I'll drag you all the way to Praetorian Security headquarters and tell them what you got here. Or... let me see the document.<end>
 
 =>a36
-::[Запугивание]:: Послушай, Оскар, я могу оттащить тебя за ногу до самой штаб-квартиры Преторианской службы безопасности и сказать им, что у тебя тут есть. Или... позволь мне взглянуть на документы.<end>
+::[Запугивание]:: Послушай, Оскар, я могу оттащить тебя за ногу до самой штаб-квартиры Преторианской службы безопасности и сказать им, что у тебя тут есть. Или... позволь мне взглянуть на документ.<end>
 
 =>q37_original
 You seem serious, hardcore serious...<end>
@@ -284,7 +284,7 @@ I'll think about it.<end>
 Meanwhile, how about making a purchase?<end>
 
 =>q40
-Между тем как насчёт покупки?<end>
+Между тем, как насчёт покупки?<end>
 
 =>a41_original
 I'd like to view the document on Spectres again.<end>
@@ -356,13 +356,13 @@ What can you tell me about the Gauntlet?<end>
 Listen to this brilliant idea: You get a runner - some hardcore runner - and you - it could be a guy or a girl - and you let him go through these challenging rooms. But here's what's so hardcore about it. There are two other runners, and whoever finishes first, pulls the lever and fries the other two. ::He laughs.::<end>
 
 =>q52
-Слушай, какая гениальная идея: ты берёшь бегуна, такого хардкорного бегуна, и ты запускаешь его -- это может быть парень или девушка -- запускаешь через все эти комнаты с препятствиями. Но вот что в этом хардкор. Есть два других бегуна, и кто финиширует первым, тянет рычаг и зажаривает двух других. ::Он смеётся.::<end>
+Слушай, какая гениальная идея: ты берёшь бегуна, такого хардкорного бегуна, и ты запускаешь его -- это может быть парень или девушка -- запускаешь через все эти комнаты с препятствиями. Но вот что в этом хардкор: есть два других бегуна, и кто финиширует первым, тянет рычаг и зажаривает двух других. ::Он смеётся.::<end>
 
 =>q53_original
 So brutal! And the rooms are filled with traps and deadly creatures. Hardcore stuff. And they get more difficult, *and* you don't know what's gonna come next. JKK broadcasts it every week; they have a dedicated channel for that.<end>
 
 =>q53
-Такая жестокость! А комнаты наполнены смертоносными ловушками и тварями. Полный хардкор. И они становятся всё более трудными, *и* ты никогда не знаешь, что будет дальше. КБР транслирует его каждую неделю, у них есть специальный канал для этого.<end>
+Брутально! А комнаты наполнены смертоносными ловушками и тварями. Полный хардкор. И они становятся всё более трудными, *и* ты никогда не знаешь, что будет дальше. КБР транслирует его каждую неделю, у них есть специальный канал для этого.<end>
 
 =>a54_original
 What can you tell me about the Oligarchy?<end>
@@ -398,7 +398,7 @@ Listen, $(#man/sister), Coretech built the whole system that makes the Gauntlet 
 And the weapons they make! Man... They've got the stuff to blow up everything from Camp Hathor to Fort Apogee and Foundry! So brutal, yet so hardcore!<end>
 
 =>q59
-А какое оружие они делают! Блин, да у них хватит оружия, чтобы взорвать всё от лагеря Хатор до Форта Апогей и Литейки! Так жестоко, но так хардкорно!<end>
+А какое оружие они делают! Блин, да у них хватит оружия, чтобы взорвать всё от лагеря Хатор до Форта Апогей и Литейки! Очень брутально, но так хардкорно!<end>
 
 =>a60_original
 What can you tell me about JKK?<end>
@@ -410,13 +410,13 @@ What can you tell me about JKK?<end>
 If it wasn't for them, people all over the Underrail wouldn't be able to watch the Arena broadcasts, which would be retarded, let's face it. ArenaNow brings Arena to the people unfortunate enough to not being able to watch it live.<end>
 
 =>q61
-Если бы не они, люди по всей Подземке не смогли бы смотреть трансляции Арены, что была бы полная тупость, давай взглянем правде в глаза. Арена Сегодня приносит Арену несчастным, которым не довелось увидеть её вживую.<end>
+Если бы не они, люди по всей Подземке не смогли бы смотреть трансляции Арены, что была бы полная тупость, давай взглянем правде в глаза. «Арена Сегодня» приносит Арену несчастным, которым не довелось увидеть её вживую.<end>
 
 =>q62_original
 You grab some burgers, or barrel soup if you're from Drop Zone, and watch people murder each other's faces off. Dominating.<end>
 
 =>q62
-Берёшь бургеров или бочку супа, если ты из Зоны провала, и смотришь, как люди убивают друг друга в лицо. Хардкор.<end>
+Берёшь бургеров (или бочку супа, если ты из Зоны провала) и смотришь, как люди убивают друг друга в лицо. Хардкор.<end>
 
 =>a63_original
 What can you tell me about Praetorian Security?<end>
@@ -434,7 +434,7 @@ They are the largest armed force in Core City. Archibald Knight, chief, used to 
 No one's as hardcore; Protectorate's got nothing on them. Nothing! The end.<end>
 
 =>q65
-Никто настолько не хардкорен; Протекторат им неровня. Никто! Конец.<end>
+Никто настолько не хардкорен. Протекторат им не ровня. Никто! Конец.<end>
 
 =>a66_original
 What can you tell me about Hardcore City Bar?<end>
@@ -446,7 +446,7 @@ What can you tell me about Hardcore City Bar?<end>
 Oh yeah, its hardcore. Yeah. I mean, I'm hardcore, I dominate, and need a hardcore place to go to. And I feel right at home every time I'm there. Some wimpy northerner, for example, will feel tiny, tiny - minuscule in that place, 'cause he's a wimp.<end>
 
 =>q67
-О да, это хардкор. Да. Видишь ли, я хардкорный, я доминирую, и мне нужно хардкорное место, куда можно пойти. И там я всякий раз чувствую себя как дома. Какой-нибудь хилый северянин, например, будет чувствовать себя крошечным-крошечным, мизерным в таком месте, потому что он слабак.<end>
+О да, хардкорный бар. Да. Видишь ли, я хардкорный, я доминирую, и мне нужно хардкорное место, куда можно пойти. И там я всякий раз чувствую себя как дома. Какой-нибудь хилый северянин, например, будет чувствовать себя крошечным-крошечным, мизерным в таком месте, потому что он слабак.<end>
 
 =>q68_original
 Well, anyway, the booze is hardcore, the crowd is hardcore, and even the chairs are hardcore. Trust me, I tried breaking a couple.<end>
@@ -470,7 +470,7 @@ Well, first of all, they are not hardcore. They preach some evolution-knowledge-
 And second... they are not brutal. Even some grandma from... from Drop Zone is more brutal. Yeah.<end>
 
 =>q71
-И второе... они не жёсткие. Даже любая бабушка из... из Зоны провала будет пожёстче. Да.<end>
+И второе... они не брутальные. Даже любая бабушка из... из Зоны провала будет побрутальнее. Да.<end>
 
 =>a72_original
 Let's discuss something else.<end>
@@ -512,7 +512,7 @@ Can you tell me something about a man called Al Fabet?<end>
 ::Oskar's face rearranges itself into a less mean expression.:: Please don't ask me that again.<end>
 
 =>q78
-::Оскар меняет выражение лица на чуть более доброжелательное.:: Пожалуйста, больше не спрашивай меня об этом.<end>
+::Оскар меняет выражение лица на чуть менее каменное.:: Пожалуйста, больше не спрашивай меня об этом.<end>
 
 =>q79_original
 I'd rather not talk about that... thing.<end>
@@ -536,7 +536,7 @@ To get dominated, that's why, and if they get anywhere near me, I'm gonna be the
 Anyway, the Faceless. If they get in here, they are gonna get some Oskarnation. Get it? It's Oskar and domination. Oskarnation. Wait, that sounds like a nation of Oskars... ::He turns his head aside and ponders away.::<end>
 
 =>q82
-Так вот, безликие. Если они попадут сюда, их ждёт Оскарнация. Понимаешь? Это когда Оскар доминирует. Оскарнация. Погоди, это звучит как нация Оскаров... ::Он поворачивает голову в сторону и размышляет.::<end>
+Так вот, про безликих: если они попадут сюда, их ждёт Оскарнация. Понимаешь? Это когда Оскар доминирует. Оскарнация. Погоди, это звучит как нация Оскаров... ::Он склоняет голову набок и размышляет.::<end>
 
 =>a83_original
 I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
@@ -572,7 +572,7 @@ You mean Cornell's gang? I know them, yeah. They're pretty hardcore, especially 
 Now, let me think... These folks come to my store occasionally to purchase explosives, grenades... that sort of stuff, but they haven't paid me a visit in quite a while. I *have* seen them at the docks a couple of times recently, though, so if you wanna go looking for them that might not be such a bad place to start, $(#man/sister). There you go.<end>
 
 =>q88
-Так, дай подумать... Эти ребята иногда заходят в мой магазин купить взрывчатки, гранат... подобного товара, но в последнее время что-то их не видно. Хотя, я их пару раз замечал в доках недавно, так что если ты их ищешь, то можешь начать оттуда, $(#мужик/сестрёнка). Вот, пожалуйста.<end>
+Так, дай подумать... Эти ребята иногда заходят в мой магазин купить взрывчатки, гранат... подобного товара, но в последнее время что-то их не видно. Хотя, я их пару раз замечал в доках недавно, так что если ты их ищешь, то можешь начать оттуда, $(#мужик/сестра). Вот, пожалуйста.<end>
 
 =>a89_original
 Do you know anything about a merchant named Daniel Arda?<end>
@@ -584,7 +584,7 @@ Do you know anything about a merchant named Daniel Arda?<end>
 Yeah, I've known that guy for a while. He's a small time traveling merchant who visits Core City from time to time. Never thought much of him, but the last time he was here he had some hardcore stuff to offer. <end>
 
 =>q90
-Да, я знаю этого парня некоторое время. Он мелкий странствующий торговец, который посещает Кор-Сити время от времени. Никогда не обращал на него внимания, но в последний раз он продавал хардкорные вещи. <end>
+Да, я знаю этого парня уже довольно давно. Он мелкий странствующий торговец, который посещает Кор-Сити время от времени. Никогда не обращал на него внимания, но в последний раз он продавал хардкорные вещи. <end>
 
 =>q91_original
 He got some Hercules drug, like, he told me it enhances your combat performance. That sounded hardcore, so we agreed that the next time he arrives, he'll bring a bunch of it. Hell, if that thing's any good, it could earn me some good coin, yeah.<end>
