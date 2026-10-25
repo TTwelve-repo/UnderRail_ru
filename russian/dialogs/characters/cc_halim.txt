@@ -4,9 +4,9 @@
 I welcome you to my store, traveler. Halim is my name, and I am at your service.<end>
 
 =>q1
-::Худое тело, большая голова. Это две первые вещи, которые бросаются в глаза при взгляде на этого человека. Его стареющая кожа прикрыта простой, скромной одеждой, выделяется только металлический резной браслет на правой руке. Скромно улыбнувшись, он говорит высоким расслабленным голосом.::
+::Худое тело, большая голова. Это две первые вещи, которые бросаются в глаза при взгляде на этого немолодого человека. Он одет просто и скромно, выделяется только металлический резной браслет на правой руке. Вежливо улыбнувшись, он говорит высоким, расслабленным голосом: ::
 
-Приветствую вас в моём магазине, путешественник. Халим -- моё имя, и я к вашим услугам.<end>
+Приветствую вас в моём магазине, путешественни$(#к/ца). Халим -- моё имя, и я к вашим услугам.<end>
 
 =>q2_original
 <end>
@@ -30,7 +30,7 @@ You do sell some powerful weapons for someone who seems to dislike violence.<end
 Yes. Guns are instruments of murder, but the world is a dangerous place, and whoever denies that will likely die because of it. I sell a small number of them and I hope they will be used for self-defense, even though they are likely not.<end>
 
 =>q5
-Да. Оружие -- это инструмент для убийства, но мир -- опасное место, и тот, кто это отрицает, скорее всего погибнет. Я продаю немного, надеюсь только, что оно будет использовано для обороны, хотя это и маловероятно.<end>
+Да. Оружие -- это инструмент для убийства, но мир -- опасное место, и тот, кто это отрицает, скорее всего погибнет. Я продаю немного, надеюсь только, что оно будет использовано для самозащиты, хотя это и маловероятно.<end>
 
 =>a6_original
 Yes, but energy weapons? You can't convince me you sell those for self-defense.<end>
@@ -90,7 +90,7 @@ I never heard of them, and judging by the name, I'm glad I haven't.<end>
 My interest in such things, as well as knowledge, is minimal. You should ask someone else about these things.<end>
 
 =>q15
-Мой интерес к таким вещам, как и знание, очень ограничен. Лучше спросите кого-нибудь другого.<end>
+Мой интерес к таким вещам, как и знание о них, очень ограничены. Лучше спросите кого-нибудь другого.<end>
 
 =>a16_original
 I'd like to ask you some questions about the city.<end>
@@ -238,13 +238,13 @@ But, it could be worse. Core City is well protected against outside threats, tha
 And despite my disproval of Oligarchy, I think Praetorian Security will protect us from Tunnelers. For their sake, the Oligarchs' and their servants'; not ours, of course.<end>
 
 =>q39
-И, несмотря на моё недоверие к олигархии, я думаю, что Преторианская служба безопасности защитит нас от Проходчиков. Конечно же, они это сделают ради самих себя, олигархов и их слуг, но не ради нас.<end>
+И несмотря на моё недоверие к олигархии, я думаю, что Преторианская служба безопасности защитит нас от Проходчиков. Конечно же, они это сделают ради самих себя, олигархов и их слуг, но не ради нас.<end>
 
 =>q40_original
 But, I have to say they held their ground against Tunnelers well. They protected their estamblishment.<end>
 
 =>q40
-Но должен сказать, что они удерживают свои позиции против Проходчиков. Они защищают свой дом.<end>
+Но должен сказать, что они удерживают свои позиции против Проходчиков. Они защищают свою власть.<end>
 
 =>a41_original
 What can you tell me about Tchortists?<end>
@@ -256,7 +256,7 @@ What can you tell me about Tchortists?<end>
 Tchortists are men and women of peace, knowledge, harmony. They come here to preach, not to kill. They bring us medication and teachings of science and rationality. In Core City, where everyone is obsessed with violence, Tchortists might be those who turn their heads toward other things.<end>
 
 =>q42
-Чортисты -- это мужчины и женщины мира, знаний, гармонии. Они приходят сюда, чтобы проповедовать, а не убивать. Они приносят нам лекарства и учение науки и разума. В Кор-Сити, где все помешаны на насилии, чортисты, возможно -- единственные, кто обращает взор совсем на другие вещи.<end>
+Чортисты -- это мужчины и женщины мира, знаний, гармонии. Они приходят сюда, чтобы проповедовать, а не убивать. Они приносят нам лекарства и учение науки и разума. В Кор-Сити, где все помешаны на насилии, чортисты, возможно, -- единственные, кто обращает взор совсем на другие вещи.<end>
 
 =>q43_original
 In fact, I... Never mind. I just hope their intentions are as true as their words. <end>
@@ -304,13 +304,13 @@ The Talloski family are well respected in Core City. I have personally met Vlatk
 Through years of hard work, they built a mansion on the level above. Lowlifes of Core City envy them for their riches, so stories about them being involved in dirty business circulate the city. But I believe there's nothing shady about them; everything they own is a product of hard work.<end>
 
 =>q50
-После многих лет упорной работы они построили особняк уровнем выше. Неимущие всего города завидуют их богатству, отчего постоянно ходят слухи об их вовлеченности в грязные дела. Но я думаю, что в них нет ничего подозрительного; всё, чем они владеют -- результат тяжёлого труда.<end>
+После многих лет упорной работы, они построили особняк уровнем выше. Неимущие всего города завидуют их богатству, отчего постоянно ходят слухи об их вовлеченности в грязные дела. Но я думаю, что в них нет ничего подозрительного; всё, чем они владеют -- результат тяжёлого труда.<end>
 
 =>q51_original
 And a bit of luck.<end>
 
 =>q51
-И немного удачи.<end>
+И толики удачи.<end>
 
 =>a52_original
 Can you tell me something about a man called Al Fabet?<end>
@@ -358,7 +358,7 @@ Yes. It was made in Foundry years ago. They have furnaces there that can melt ch
 Actually, I think it was about the time they were making the two snake statues for Praetorian Security headquarters. Yes, I remember she told me she saw them there, unfinished.<end>
 
 =>q59
-На самом деле, я думаю, что это было в то время, когда они делали две змеиные статуи для штаб-квартиры Преторианской службы безопасности. Да, я помню, что она сказала, что видела их ещё незаконченными.<end>
+На самом деле, я думаю, что это было в то время, когда они делали две змеиные статуи для штаб-квартиры Преторианской службы безопасности. Да, я помню, как она сказала, что видела их ещё незаконченными.<end>
 
 =>a60_original
 Cool. Can I ask you something else.<end>
@@ -412,7 +412,7 @@ I'm looking for Terry and Lora Baker. They are merchants from South Gate Station
 My memory is clear. Terry and Lora Baker. Southgaters, harmonious people. They often visit my store. Whenever they are in Core City, that is. ::He smiles.:: They were here around the time the big earthquake struck. They bought some components, then they left. If memory serves me well, among other things they needed two TriEnergy 1400w power supply units. I did not have those at the time.<end>
 
 =>q68
-Хорошо помню. Терри и Лора Бейкеры. Саутгейтцы, гармоничные люди. Они часто посещают мой магазин. Всякий раз, когда они приезжают в Кор-Сити, конечно же. ::Он улыбается.:: Они были здесь примерно в то же время, когда произошло большое землетрясение. Купили некоторые компоненты, затем ушли. Если память мне не изменяет, среди прочего они искали два блока питания Трай-Энерджи на 1400 ватт. В то время у меня их не было.<end>
+Хорошо помню. Терри и Лора Бейкеры. Саутгейтцы, гармоничные люди. Они часто посещают мой магазин, -- всякий раз, когда они приезжают в Кор-Сити, конечно же. ::Он улыбается.:: Они были здесь примерно в то же время, когда произошло большое землетрясение. Купили некоторые компоненты, затем ушли. Если память мне не изменяет, среди прочего они искали два блока питания Трай-Энерджи на 1400 ватт. В то время у меня их не было.<end>
 
 =>q69_original
 That is all the helpful information I can tell you. Still, as they were merchants, it was very likely that they visited other stores in Core City. Maybe someone else has answers you need.<end>
@@ -454,7 +454,7 @@ I do. He travels a lot around South Underrail. When he returns to Core City, he 
 My opinion of him? I dislike him. He seems dishonest and greedy. Recently he started selling some strange substance, but I know very little of it. For that reason, I'd rather not comment on what he has been doing.<end>
 
 =>q75
-Что я думаю о нём? Я его не люблю. Он кажется мне лживым и жадным. Недавно он начал продавать какую-то странную субстанцию, но об этом я знаю мало. По этой причине мне лучше не стоит комментировать то, что он делает.<end>
+Что я думаю о нём? Я его не люблю. Он кажется мне лживым и жадным. Недавно он начал продавать какую-то странную субстанцию, но об этом я знаю мало. По этой причине, мне лучше не стоит комментировать то, что он делает.<end>
 
 =>a76_original
 See you around. Bye.<end>
