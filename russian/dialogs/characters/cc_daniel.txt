@@ -10,7 +10,7 @@ Didn't I tell you to leave me alone?<end>
 Hello, how's it going? Good, you say? I'm happy to hear that! I honestly am. Name's Daniel Arda, and it's a pleasure to meet you, friend! Do you know that I know why you've come to see me? ::He smiles.::<end>
 
 =>q2
-::Мужчина, к которому вы подошли, на первый взгляд ничем не примечателен: среднего роста, средней комплекции, со средним количеством грязи на одежде. Однако, завидев вас, он медленно опускает полупустую бутылку, а затем снимает очки, демонстрируя зияющую дыру на месте левого глаза, и ждёт вашей реакции. Ничего не дождавшись и усмехнувшись, он вновь надевает очки и заводит разговор.:: 
+::Мужчина, к которому вы подошли, на первый взгляд ничем не примечателен: среднего роста, средней комплекции, со средним количеством грязи на одежде. Однако завидев вас, он медленно опускает полупустую бутылку, а затем снимает очки, демонстрируя зияющую дыру на месте левого глаза, и ждёт вашей реакции. Ничего не дождавшись и усмехнувшись, он вновь надевает очки и заводит разговор: :: 
 
 Здравствуйте, как ваши дела? Хорошо, говорите? Рад это слышать! Честно, рад. Меня зовут Даниэль Арда, рад познакомиться, $(#друг/подруга). А вы знаете, что я в курсе, зачем вы подошли ко мне? ::Он улыбается.::<end>
 
@@ -42,7 +42,7 @@ May I try this Hercules drug?<end>
 I was starting to get worried you weren't gonna make a purchase! ::He laughs.:: I sell them for, say, six hundred charons a piece. But, since this is your first purchase, eh, I'll go down to five hundred. I think that's fair.<end>
 
 =>q7
-Я уже было начал беспокоиться, что вы не станете покупать! ::Он смеётся.:: Я продаю по, скажем, шестьсот харонов за дозу. Но поскольку вы новый покупатель, э-э, я сброшу до пятисот. Так будет честно.<end>
+Я уже было начал беспокоиться, что вы не станете покупать! ::Он смеётся.:: Я продаю по, скажем, шестьсот харонов за дозу. Но поскольку вы новый покупатель, так и быть, я сброшу до пятисот. Так будет честно.<end>
 
 =>a8_original
 It's a deal.<end>
@@ -72,13 +72,13 @@ And here you go, take this. ::He gives you one dose of Hercules.:: Just inject i
 If you want more, you'll have to wait a while. I've only got a few remaining, and I even seemed to have lost one! But I'll be back with a bigger shipment next time. The business is gonna flourish, friend!<end>
 
 =>q12
-Если вы хотите ещё, вам придётся подождать. У меня мало осталось, и кажется, я даже один потерял! Но в следующий раз я вернусь с большей партией. Бизнес будет процветать, $(#друг/подруга)!<end>
+Если хотите ещё, вам придётся подождать. У меня мало осталось, и кажется, я даже один потерял! Но в следующий раз я вернусь с большей партией. Бизнес будет процветать, $(#друг/подруга)!<end>
 
 =>q13_original
 If you want more, you'll have to wait a while. I've only got a few remaining, but I'll be back with a bigger shipment next time. The business is gonna flourish, friend!<end>
 
 =>q13
-Если вы хотите ещё, вам придётся подождать. У меня мало осталось, но в следующий раз я вернусь с большей партией. Бизнес будет процветать, $(#друг/подруга)!<end>
+Если хотите ещё, вам придётся подождать. У меня мало осталось, но в следующий раз я вернусь с большей партией. Бизнес будет процветать, $(#друг/подруга)!<end>
 
 =>a14_original
 ::[Mercantile]:: Curses! I shouldn't have spent so much money on booze! I only have like... four hundred charons.<end>
@@ -90,7 +90,7 @@ If you want more, you'll have to wait a while. I've only got a few remaining, bu
 ::He ponders for a moment, then laughs..:: Okay, okay! Four hundred charons it is - but this time only! And don't tell anyone I sold it to you this cheap.<end>
 
 =>q15
-::Он задумывается на мгновение, затем смеётся...:: Хорошо, хорошо! Четыреста харонов, но только на этот раз. И не говорите никому, что я продал так дёшево.<end>
+::Он задумывается на мгновение, затем смеётся.:: Хорошо, хорошо! Четыреста харонов, но только на этот раз. И не говорите никому, что я продал так дёшево.<end>
 
 =>a16_original
 ::Give him 400 charons.::<end>
@@ -126,13 +126,13 @@ That is a lot of money. Are the ingredients really *that* expensive?<end>
 Listen friend, let me tell you one simple thing: When it comes to the price of a certain product, everyone always thinks it's all about the price of the materials used. But what about the money spent on developing the product? On research? On equipment necessary to create the product, on testing the product, on getting the product to the buyers? Need I go on...? <end>
 
 =>q21
-Послушайте, $(#друг/подруга). Позволь мне сказать одну простую вещь: когда мы говорим о цене продукта, то все всегда думают только о затраченных материалах. Но что насчёт денег, потраченных на разработку продукта? На исследования? На оборудование для производства, тестирования, на доставку покупателю? Мне продолжать?.. <end>
+Послушайте, $(#друг/подруга). Позволь мне сказать одну простую вещь: когда мы говорим о цене продукта, то все всегда думают только о затраченных материалах. Но что насчёт денег, потраченных на разработку? На исследования? На оборудование для производства, тестирования, на доставку покупателю? Мне продолжать?.. <end>
 
 =>q22_original
 It costs a lot, my friend, and that's why the price is this high.<end>
 
 =>q22
-Это дорого стоит, мо$(#й/я) $(#друг/подруга), поэтому и цена столь высока.<end>
+Всё это дорого стоит, мо$(#й/я) $(#друг/подруга), поэтому и цена столь высока.<end>
 
 =>a23_original
 Can I get more Hercules?<end>
@@ -168,7 +168,7 @@ When you say Hercules, what do you mean exactly?<end>
 As people around here often say - you're gonna dominate! I've had many satisfied customers so far, and not a single complaint! What more proof do you want, eh?<end>
 
 =>q28
-Как говорят местные -- вы будете доминировать! У меня уже много довольных клиентов, и ни единой жалобы! Какие ещё доказательства вам нужны, а?<end>
+Как говорят местные -- вы будете доминировать! У меня уже много довольных клиентов -- и ни единой жалобы! Какие ещё доказательства вам нужны, а?<end>
 
 =>a29_original
 What can you tell me about yourself?<end>
@@ -180,7 +180,7 @@ What can you tell me about yourself?<end>
 I don't know... I was born to a very poor, poor family. I had nine brothers and sisters - nine - with me being the oldest one. Unfortunately, a natural gas leak and an unfortunate spark reduced that number significantly. My dad and I were the only to survive because we weren't in the shack at the time but fishing for food. ::He sighs.:: Dad didn't make it much longer either; one day he just took the rope and ended his life. Left me devastated.<end>
 
 =>q30
-Даже не знаю... Я родился в бедной, очень бедной семье. У меня было девять братьев и сестёр -- девять -- и я был среди них старший. К несчастью, утечка газа и случайная искра значительно сократили наши ряды. Выжили только мы с отцом, потому что мы тогда были не в лачуге, а на рыбалке. ::Он вздыхает.:: Папаня тоже долго не протянул; однажды он просто взял верёвку и покончил с собой. Я был безутешен.<end>
+Даже не знаю... Я родился в бедной, очень бедной семье. У меня было девять братьев и сестёр -- девять, -- и я был среди них старший. К несчастью, утечка газа и случайная искра значительно сократили наши ряды. Выжили только мы с отцом, потому что мы тогда были не в лачуге, а на рыбалке. ::Он вздыхает.:: Папаня тоже долго не протянул -- однажды он просто взял верёвку и покончил с собой. Я был безутешен.<end>
 
 =>a31_original
 I'm very sorry to hear that.<end>
@@ -198,7 +198,7 @@ I'm very sorry to hear that.<end>
 Yet, I somehow managed to make it in life. Bit by bit, coin by coin, one slowly climbs up. Now - just look at me - I'm a fairly successful merchant who's about to become even more successful. Cheers! ::He takes a gulp of root soda.::<end>
 
 =>q33
-Тем не менее, моя жизнь наладилась. Постепенно, монета к монете, я медленно карабкался наверх. Теперь посмотрите на меня -- я довольно успешный торговец, и собираюсь стать ещё более успешным. Ваше здоровье! ::Он делает глоток корневой содовой.::<end>
+Тем не менее, моя жизнь наладилась. Постепенно, монета к монете, я медленно карабкался наверх. Теперь посмотрите на меня -- я довольно успешный торговец и собираюсь стать ещё успешнее. Ваше здоровье! ::Он делает глоток корневой содовой.::<end>
 
 =>a34_original
 You sure had an unlucky childhood.<end>
@@ -216,13 +216,13 @@ May I ask you how you lost that eye?<end>
 Ah, friend, what I'm about to tell you was a really painful experience for me. I remember it like it was a year ago, because it was about a year ago. ::He laughs.:: I was doing some trading around Junkyard - horrible place for honest merchants like me. Criminals are eyeballing you everywhere you go, want to steal your possessions. Horrible.<end>
 
 =>q36
-О, $(#друг/подруга), то, что я вам сейчас расскажу, было для меня очень болезненным опытом. Я помню, как будто это случилось всего год назад, потому что это случилось около года назад. ::Он смеётся.:: Я тогда торговал на Свалке -- ужасное место для честных купцов вроде меня. Преступники не сводят с тебя глаз, куда ни пойди, хотят украсть все твои пожитки. Просто ужас.<end>
+О, $(#друг/подруга), то, что я вам сейчас расскажу, было для меня очень болезненным опытом. Я помню, как будто это случилось всего год назад, потому что это случилось около года назад. ::Он смеётся.:: Я тогда торговал на Свалке -- ужасное место для честных купцов вроде меня. Преступники не сводят с тебя глаз, куда ни пойди, норовят украсть все твои пожитки. Просто ужас.<end>
 
 =>q37_original
 I was stupid, to be honest: I knew what was it like there, yet I failed to prepare myself. And soon, what do ya know - two strapping young lads were pointing their guns at my head and asking for my hard-earned money. So I gave it to them - I had no choice. But they wanted more, the sadistic punks! They started throwing rocks at me! And that's when one rock - sharp little bugger - hit me straight in the eye and... ::He points to his missing eye.:: You know.<end>
 
 =>q37
-Я сглупил, сказать по правде: я знал, каково будет там, но не смог подготовиться. И вот, представьте себе -- два рослых молодых человека уже направляют на меня оружие и просят меня передать им все мои заработанные честным трудом деньги. Я отдал им всё, у меня не было выбора. Но им было мало, жестоким подонкам! Они стали кидать в меня камни! И тогда один камень -- острый, как бритва -- угодил мне прямо в глаз, и... ::Он указывает на шрам.:: И вот.<end>
+Я сглупил, сказать по правде: я знал, каково будет там, но не смог подготовиться. И вот, представьте себе -- два рослых молодых человека уже направляют на меня оружие и просят меня передать им все мои заработанные честным трудом деньги. Я отдал им всё, у меня не было выбора. Но им было мало, жестоким подонкам! Они стали кидать в меня камни! И тогда один камень -- острый как бритва -- угодил мне прямо в глаз, и... ::Он указывает на шрам.:: И вот.<end>
 
 =>q38_original
 As I fell to the ground, screaming in pain, they approached me and kicked me a few times, but that's minor compared to this. Punks! And on that day, I said to myself I'll find something, some way to make a man stronger so that he can resist lowlifes and punks such as those two! 
@@ -244,7 +244,7 @@ What can you tell me about Core City?<end>
 Ah, friend, every time I visit Core City, I have this little routine I often do: First I relax here at the Hardcore City Bar, chat with that sweet Harriette over there, ya know what I'm talking about, yeah; then I go check out who's fighting in the Arena. Relax. After that it's business time: I do some trading here, some trading there, then back to the bar. Relax. <end>
 
 =>q40
-О, $(#друг/подруга), каждый раз, приезжая в Кор-Сити, я действую по плану: сперва я отдыхаю здесь, в баре Хардкор-Сити, болтаю с милашкой Гарриетт, ну знаете о чём я, да; потом я иду посмотреть, кто дерётся на Арене. Отдыхаю. Потом время заняться делом: я торгую здесь, торгую там, потом -- обратно в бар. Отдыхаю. <end>
+О, $(#друг/подруга), каждый раз, приезжая в Кор-Сити, я действую по плану: сперва я отдыхаю здесь, в баре Хардкор-Сити, болтаю с милашкой Гарриетт, ну знаете о чём я, да? Потом я иду посмотреть, кто дерётся на Арене. Отдыхаю. Потом время заняться делом: я торгую здесь, торгую там, потом -- обратно в бар. Отдыхаю. <end>
 
 =>q41_original
 Being a traveling merchant is hard work. ::He laughs.:: Seriously, I like it here, much better than Junkyard or dumps like that. Foundry is nice too. A bit boring and polluted - but nice.<end>
@@ -274,7 +274,7 @@ I had a sample of Hercules tested and it turns out it's an extremely dangerous s
 ::He interruption comes with a snarl.:: Listen to me, you moron! I will not tolerate any of this. Get lost! Out of my sight! I'm not speaking to you any more.<end>
 
 =>q45
-::Он перебивает вас ворчанием.:: Послушай меня, $(#кретин/идиотка)! Мне надоело терпеть это! Свали! Долой с глаз! Разговор окончен.<end>
+::Он перебивает вас и скалится: ::Послушай меня, $(#кретин/идиотка)! Мне надоело терпеть это! Свали! Долой с глаз! Разговор окончен.<end>
 
 =>a46_original
 I feel like I'm dying because of that junk you sold me! What the hell is this thing!<end>
@@ -338,25 +338,25 @@ What? I don't understand, but... What did you just say to me?<end>
 ::After a few seconds, his frown disappears.:: Hmm, I... I suppose you're right! You got me good. ::He laughs.:: And I almost fell for it! ::He continues laughing.:: But, you seem to already know about Hercules, eh? Interested in making a purchase?<end>
 
 =>q55
-::Через пару секунд он перестаёт хмуриться.:: Хм-м, я... вы пошутили! Очень смешно. ::Он смеётся.:: А я почти попался! ::Он продолжает смеяться.:: Но, я так посмотрю, вы уже знаете о Геракле, да? Не желаете приобрести?<end>
+::Он быстро перестаёт хмуриться.:: Хм-м, я... вы пошутили! Очень смешно. ::Он смеётся.:: А я почти попался! ::Он продолжает смеяться.:: Но, я так посмотрю, вы уже знаете о Геракле, да? Не желаете приобрести?<end>
 
 =>q56_original
 ::His frown deepens into a scowl, and his voice turns more raspy, even growly.:: Stop it! You've said enough, and I've got nothing more to say to you. Get lost!<end>
 
 =>q56
-::Он ещё больше мрачнеет, и его голос становится резким, даже рычащим.:: Хватит! Я всё слышал, и мне нечего вам больше сказать. Проваливайте!<end>
+::Он ещё больше мрачнеет, и его голос становится резким, даже рычащим: ::Хватит! Я всё слышал, и мне нечего вам больше сказать. Проваливайте!<end>
 
 =>a57_original
 Let me repeat that for you: You know I'm here to investigate the Hercules drug? And then I asked how could you know such a thing.<end>
 
 =>a57
-Давайте я повторю: вы знаете, что я здесь затем, чтобы вывести вас на чистую воду? А потом я спросил$(#/а), откуда вам это известно.<end>
+Давайте я повторю: вы знаете, что я здесь затем, чтобы вывести вас на чистую воду? А потом я ещё спросил$(#/а), -- откуда вам это известно?<end>
 
 =>q58_original
 ::His frown deepens into a scowl, and his voice turns more raspy, even growly.:: Get lost, you punk! I have nothing to say to you! Nothing!<end>
 
 =>q58
-::Он ещё больше мрачнеет, и его голос становится резким, даже рычащим.:: Отвали, $(#придурок/дура). Мне нечего тебе больше сказать. Нечего!<end>
+::Он ещё больше мрачнеет, и его голос становится резким, даже рычащим: ::Отвали, $(#придурок/дура). Мне нечего тебе больше сказать. Нечего!<end>
 
 =>a59_original
 Whoops! Forget about it, I'm just messing around.<end>
