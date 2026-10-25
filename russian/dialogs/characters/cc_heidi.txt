@@ -2,7 +2,7 @@
 ::As you move closer to the woman who appears to be in her late thirties or early forties, you notice she is holding a scalpel in front of her face, studying it with great concentration. She turns it around and observes it from every angle, occasionally touching the blade with her thin fingers and smiling. You wait quietly, but you get no acknowledgement; it appears that this object mesmerizes her so much that she is unaware of you even being there.::<end>
 
 =>q1
-::Приближаясь к этой женщине, которой, по-видимому, около сорока лет, вы замечаете, что она вертит скальпель перед глазами, внимательно осматривая его. Она поворачивает его вокруг оси и изучает со всех сторон, изредка касаясь лезвия тонкими пальцами и улыбаясь. Вы спокойно ждёте, но не получаете ни капли внимания; кажется, что она настолько заворожена своим занятием, что даже не замечает вашего присутствия.::<end>
+::Этой женщине на вид около сорока лет. Приближаясь к ней, вы замечаете, что она вертит перед глазами скальпель. Женщина поворачивает его вокруг оси и внимательно осматривает со всех сторон, изредка касаясь лезвия тонкими пальцами и улыбаясь. Вы спокойно ждёте, но не получаете ни капли внимания; кажется, что она настолько заворожена своим занятием, что даже не замечает вашего присутствия.::<end>
 
 =>a2_original
 Excuse me, um, are you a doctor?<end>
@@ -14,7 +14,7 @@ Excuse me, um, are you a doctor?<end>
 ::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: Why, yes I am! I have a coat, that makes me a doctor, doesn't it? Does it not!? ::Cackles.:: My name is Doctor Gratz. Now, allow me to diagnose your illness straight away. That's why you're here, right? Right!? Hm...<end>
 
 =>q3
-::Она отвлекается от своего важного занятия и поворачивается к вам. Выражение её лица смягчается, она улыбается. Вскоре она отвечает звучным высоким голосом.:: Конечно же да! На мне же халат, а значит я врач, правда? Разве нет?! ::Она хихикает.:: Меня зовут доктор Гратц. Теперь, позвольте мне поставить вам диагноз. Вы ведь за этим здесь, верно? Верно?! Хм...<end>
+::Она отвлекается от своего важного занятия и поворачивается к вам. Выражение её лица смягчается, она улыбается и отвечает вам звучным высоким голосом: ::Конечно же да! На мне же халат, а значит я врач, правда? Разве нет?! ::Она хихикает.:: Меня зовут доктор Гратц. Теперь, позвольте мне поставить вам диагноз. Вы ведь за этим здесь, верно? Верно?! Хм...<end>
 
 =>q4_original
 <end>
@@ -56,7 +56,7 @@ Here you go, doc. ::Give her 10 stygian coins.::<end>
 Good. Now I want you to be a brave little $(#boy/girl). ::She cackles.::<end>
 
 =>q10
-Хорошо. Теперь я хочу, чтобы вы проявили мужество, $(#малыш/детка). ::Она хихикает.::<end>
+Хорошо. А теперь, будьте смел$(#ым маленьким мальчиком/ой маленькой девочкой). ::Она хихикает.::<end>
 
 =>a11_original
 ::Let her heal you.::<end>
@@ -104,7 +104,7 @@ Do you have anything to trade? ::Barter.::<end>
 What happened to the man staying here for treatment?<end>
 
 =>a18
-Что случилось с человеком, который остался здесь на лечение?<end>
+Что случилось с человеком, который находился здесь на лечении?<end>
 
 =>q19_original
 I'm not allowed to say anything about that criminal.<end>
@@ -116,7 +116,7 @@ I'm not allowed to say anything about that criminal.<end>
 But when he recovers, he's going back to the slammer! ::She cackles.::<end>
 
 =>q20
-Но когда он выздоровеет, он вернётся в тюрьму! ::Она смеётся.::<end>
+Но когда он выздоровеет, то отправится назад в тюрьму! ::Она смеётся.::<end>
 
 =>a21_original
 This might sound like an odd thing to ask, but do you by any chance remember... if you ever performed surgery on me?<end>
@@ -142,7 +142,7 @@ No, no, I don't remember.<end>
 Memories are a fleeting thing, though...<end>
 
 =>q23
-Хотя воспоминания - вещь мимолетная...<end>
+Хотя, воспоминания -- вещь мимолетная...<end>
 
 =>a24_original
 I'm looking for some information on Spectres, a former Biocorp special forces unit. Do you know anything about them?<end>
@@ -214,13 +214,13 @@ Hercules, the drug that is being sold by that merchant, Daniel Arda.<end>
 Oh, that! Still, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
 
 =>q35
-Ах, вот как! Всё-таки, я думаю, вам нелегко будет найти кого-нибудь, кто сделает вам тест. Нет, нет!<end>
+Ах, вот как! Всё-таки, я думаю, вам нелегко будет найти кого-нибудь, кто сделает вам тест. Нет-нет!<end>
 
 =>q36_original
 You are welcome to try, but we don't have any labs open to the public in Core City. Which is unfortunate... Unfortunate! ::She cackles.::<end>
 
 =>q36
-Вы можете попробовать, но у нас в Кор-Сити нет никаких лабораторий, открытых для общественности. Что прискорбно... Прискорбно! ::Она хихикает.::<end>
+Вы можете поискать, но у нас в Кор-Сити нет никаких лабораторий, открытых для общественности. Что прискорбно... Прискорбно! ::Она хихикает.::<end>
 
 =>a37_original
 It's not important.<end>
@@ -232,7 +232,7 @@ It's not important.<end>
 No? Well, in any case, I don't think you'll have much luck finding someone willing to do tests for you. No, no!<end>
 
 =>q38
-Нет? Всё-таки, я думаю, вам нелегко будет найти кого-нибудь, кто сделает вам тест. Нет, нет!<end>
+Нет? Ну в любом случае, вам нелегко будет найти кого-нибудь, кто сделает вам тест. Нет-нет!<end>
 
 =>a39_original
 Sorry for the bother. See you around.<end>
@@ -244,7 +244,7 @@ Sorry for the bother. See you around.<end>
 ::She cackles.:: Bye!<end>
 
 =>q40
-::Она хихикает.:: До свидания!<end>
+::Она хихикает.:: Пока!<end>
 
 =>a41_original
 I'd like to ask you some questions about the city.<end>
@@ -256,7 +256,7 @@ I'd like to ask you some questions about the city.<end>
 Ask away. Away! ::She cackles.::<end>
 
 =>q42
-Спрашивай. Валяй! ::Она хихикает.::<end>
+Спрашивайте. Вперёд! ::Она хихикает.::<end>
 
 =>q43_original
 <end>
@@ -306,7 +306,7 @@ Now, now... I know what you might be saying: What's the point of learning how to
 That is why I have to be vigilant. This is the new age of medicine. New age! ::She cackles.::<end>
 
 =>q50
-Ну, ну... Я знаю, что вы скажете: какой смысл учиться лечить такие травмы, если проигравшие даже не переживают матч?! Но помните, помните -- псионики не только на Арене. Психотики -- они распространяются подобно чуме, и, смею сказать, их двинутые разумы могут придумать невообразимые и ужасные способы навредить своим жертвам. Да!
+Ну, ну... Я знаю, что вы скажете: какой смысл учиться лечить такие травмы, если проигравшие даже не переживают матч?! Но помните, помните -- псионики не только на Арене. Психотики -- они распространяются подобно чуме, и смею сказать, их двинутые разумы могут придумать невообразимые и ужасные способы навредить своим жертвам. Да!
 
 Вот почему я должна быть бдительна. Это новый виток медицины. Новая эра! ::Она хихикает.::<end>
 
@@ -338,13 +338,13 @@ What can you tell me about the Oligarchy?<end>
 No matter what you hear about them... I don't know what you heard about them... But, whatever you hear about them, know one thing: Without them, Core City would have been deserted years ago, with only perhaps gangs remaining!<end>
 
 =>q55
-Неважно, что вы знаете о них... Я не знаю, что вы слышали о них... Но что бы вы о них не слышали, знайте одно: без них Кор-Сити обезлюдел бы много лет назад - остались бы, может, только банды!<end>
+Неважно, что вы знаете о них... Я не знаю, что вы слышали о них... Но что бы вы о них не слышали, знайте одно: без них Кор-Сити обезлюдел бы много лет назад, -- остались бы, может, только банды!<end>
 
 =>q56_original
 Arena brings in the coin! Coretech employs great minds, Praetorian Security... Praetorian Security disciplines, and JKK makes sure it all runs as it should! ::She cackles.::<end>
 
 =>q56
-Арена приносит доход! В КорТех трудятся великие умы; преторианцы... Преторианцы поддерживают порядок, а КБР делает так, чтобы всё работало как надо! ::Она хихикает.::<end>
+Арена приносит доход! В КорТех трудятся великие умы; преторианцы... преторианцы поддерживают порядок, а КБР делает так, чтобы всё работало как надо! ::Она хихикает.::<end>
 
 =>a57_original
 What can you tell me about Coretech?<end>
@@ -392,13 +392,13 @@ What can you tell me about Praetorian Security?<end>
 My husband used to be one of the enforcers for them. Years ago. He was brave.<end>
 
 =>q64
-Мой муж был одним из их бойцов. Много лет назад. Он был храбрым воином.<end>
+Мой муж был одним из их бойцов. Много лет назад. Он был храбрым.<end>
 
 =>q65_original
 He... He was brave.<end>
 
 =>q65
-Он... Он *был* храбрым воином.<end>
+Он... Он был храбрым.<end>
 
 =>a66_original
 What can you tell me about Hardcore City Bar?<end>
@@ -428,7 +428,7 @@ What can you tell me about Tchortists?<end>
 Scientists, not cultists! That's what I always say. They think, not just follow - but they do it in a unique way!<end>
 
 =>q70
-Учёные, не сектанты! Вот что я всегда говорю. Они думают, а не просто верят -- но делают это по-своему!<end>
+Учёные, не сектанты! Вот что я всегда говорю. Они думают, а не просто верят, -- но делают это по-своему!<end>
 
 =>q71_original
 I like them, but hey... some people don't. I need to work on that last rhyme. ::She cackles.::<end>
@@ -500,7 +500,7 @@ The Faceless are invading?<end>
 ::She cackles.:: I'm fooling around! Around! The Faceless - there is more to them than meets the eye. What exactly? I don't know. But, do you see *me* worried about the invasion? No. Nope. My intuition tells me that the blockade will be gone soon, allowing the Arena to be the center of Core City bloodshed once more.<end>
 
 =>q82
-::Она хихикает.:: Да я дурака валяю! С безликими не всё так просто, как кажется на первый взгляд. Что именно? Я не знаю. Но, по-вашему, *меня* хоть чуточку беспокоит вторжение? Нет. Нисколечко. Моя интуиция подсказывает, что блокаду скоро снимут, и Арена вновь станет центром кровопролития в Кор-Сити.<end>
+::Она хихикает.:: Да я дурака валяю! С безликими не всё так просто, как кажется на первый взгляд. Что именно? Я не знаю. Но по-вашему, *меня* хоть чуточку беспокоит вторжение? Нет. Нисколечко. Моя интуиция подсказывает, что блокаду скоро снимут, и Арена вновь станет центром кровопролития в Кор-Сити.<end>
 
 =>a83_original
 I'm looking for Terry and Lora Baker. They are merchants from South Gate Station. Have you seen them perhaps?<end>
@@ -530,7 +530,7 @@ I'm looking for the Acid Hunters.<end>
 Who?<end>
 
 =>q87
-Кто?<end>
+Кого?<end>
 
 =>a88_original
 The Acid Hunters, a band of scavengers..<end>
@@ -572,7 +572,7 @@ Let me think... Hmmmm... Hmmmmmm!<end>
 I do know of this man! I do! A traveling merchant, if I remember correctly. He rarely comes to me, but last time he was in Core City, he walked through those doors! ::She cackles.:: He had a little surprise for me, he said. Yes, he did! Hercules, as he called it, a combat drug that increases one's effectiveness in, you guessed it - combat. That's what he tried to sell to me.<end>
 
 =>q94
-Я знаю этого человека! Правда! Бродячий торговец, если я правильно помню. Он редко приходит ко мне, но когда он в последний раз был в Кор-Сити, то приходил! ::Она хихикает.:: У него, по его же словам, был небольшой сюрприз для меня. И ведь не соврал! Геракл, как он его назвал, боевой препарат, который повышает эффективность, как вы уже догадались -- боевую. Вот что он пытался продать мне.<end>
+Я знаю этого человека! Правда! Бродячий торговец, если я правильно помню. Он редко приходит ко мне, но когда он в последний раз был в Кор-Сити, то приходил! ::Она хихикает.:: У него, по его же словам, был небольшой сюрприз для меня. И ведь не соврал! Геракл, как он его назвал, боевой препарат, который повышает эффективность -- как вы уже догадались, -- боевую. Вот что он пытался продать мне.<end>
 
 =>q95_original
 ::She cackles.:: It seemed interesting at first, it did, but he failed to show me any concrete evidence which prove its effects. So I showed him the door! Yes, I did!<end>
@@ -752,7 +752,7 @@ I'd like to talk to a doctor.<end>
 ::She snaps out of her focused state and turns to you. Her expression turns neutral, then she smiles. Soon after, she give you a response, carried by a rich, high-pitched voice.:: I am a doctor, really, don't let my coat fool you! ::She cackles.:: I'm Doctor Gratz, and it is pleasure to meet you! You know what? I'll even diagnose your illness straight away, my dear patient! I will! Let's see...<end>
 
 =>q124
-::Она отвлекается от своего важного занятия и поворачивается к вам. Выражение её лица смягчается, она улыбается. Вскоре она отвечает звучным высоким голосом.:: Я врач, действительно, не обращайте внимания на мой халат! ::Она хихикает.:: Я доктор Гратц, приятно познакомиться! Знаете, что? Я даже готова сразу вас диагностировать, мой дорогой пациент! Давайте! Посмотрим...<end>
+::Она отвлекается от своего важного занятия и поворачивается к вам. Выражение её лица смягчается, она улыбается и отвечает вам звучным высоким голосом: ::Я врач, это правда -- не обращайте внимания на мой халат! ::Она хихикает.:: Я доктор Гратц, приятно познакомиться! Знаете, что? Я даже готова сразу вас диагностировать, $(#мой дорогой пациент/моя дорогая пациентка)! Давайте! Посмотрим...<end>
 
 =>a125_original
 ::Leave.::<end>
