@@ -312,7 +312,7 @@ The guard is one of De Pacino's men. You figure out the rest, pal. ::He laughs.:
 I don't have that. I'll be back when I do.<end>
 
 =>a50
-У меня нет сейчас. Я вернусь, как только добуду.<end>
+У меня такого нет. Я вернусь, как только добуду.<end>
 
 =>q51_original
 Yeah, pal. Now, got any other questions before I leave?<end>
@@ -424,7 +424,7 @@ That's what I'm talking about! Come to me! So, you want to know more about Danie
 First, Daniel is a pathological liar. He lies about his past, how he lost his eye - everything. Just ask around, you'll notice he told different stories to different people. Second, even more important than the first, is about the Hercules drug. I've seen some local scavengers buy it, go do some spelunking, scavenging, whatever - and none of them ever returned to Core City.<end>
 
 =>q68
-Во-первых, Даниэль патологический лжец. Он лжёт о своём прошлом, как он потерял глаз -- обо всём. Просто поспрашивай местных, ты заметишь, что он всем рассказывал разные истории. Во-вторых, что важнее чем во-первых, Геракл. Я видел, как некоторые местные мусорщики покупали его, уходили заниматься своей спелеологией, археологией -- неважно; -- ни один из них не вернулся в Кор-Сити.<end>
+Во-первых, Даниэль патологический лжец. Он лжёт о своём прошлом, как он потерял глаз -- обо всём. Просто поспрашивай местных, и ты заметишь, что он всем рассказывал разные истории. Во-вторых, что важнее чем во-первых, -- Геракл. Я видел, как некоторые местные мусорщики покупали его, уходили заниматься своей спелеологией, археологией -- неважно; -- ни один из них не вернулся в Кор-Сити.<end>
 
 =>q69_original
 Now, you're not asking this for no reason, of course. If you want to learn what it does exactly, I suggest you get a sample of that stuff and test it. Simple. By the way, thanks for the food, pal.
@@ -592,7 +592,7 @@ The first guy, Richard Briggs, is the guy actually running the show. He's one ha
 That meant he had a lot of time to observe what was happening around him and think.<end>
 
 =>q95
-Первый -- Ричард Бриггс, тот, кто на самом деле всем там заправляет. Крутой мужик. Пятнадцать лет назад участвовал в битве за Дис, где ему руку на кусочки разорвало, и он потом несколько лет лечился. Говорят, что хотя он и обзавёлся кибернетическим протезом, повреждения нервов были настолько... сильные, что доктора не могли его быстро вылечить и выписать.
+Первый -- Ричард Бриггс, тот, кто на самом деле всем там заправляет. Крутой мужик. Пятнадцать лет назад участвовал в битве за Дис, где ему руку на кусочки разорвало, и он потом несколько лет лечился. Говорят, что хотя он и обзавёлся кибернетическим протезом, повреждения нервов были настолько... хардкорные, что доктора не могли его просто вылечить и выписать.
 
 Это значит, что у него была уйма свободного времени, чтобы посмотреть, что происходит вокруг, и поразмышлять.<end>
 
@@ -668,7 +668,7 @@ Look, just go to Moe's and tell him you want "Jon's special." Got it? Bring it t
 Patrick Pierce.<end>
 
 =>a106
-Патрик Пирс.<end>
+Патрика Пирса.<end>
 
 =>q107_original
 That's what I'm talking about. ::He raises his chin and speaks in a pseudo-divine voice.:: Now go, mortal, seek Moe and acquire Jon's special. If the god - me - is pleased, then you will gain the knowledge that you seek so vigorously. Go now. Gee!<end>
@@ -698,25 +698,25 @@ You are one odd fellow... See you later.<end>
 Mit Draper.<end>
 
 =>a111
-Мит Дрейпер.<end>
+Мита Дрейпера.<end>
 
 =>a112_original
 Phreak.<end>
 
 =>a112
-Фрик.<end>
+Фрика.<end>
 
 =>a113_original
 Old hacker.<end>
 
 =>a113
-Старый хакер.<end>
+Старого хакера.<end>
 
 =>a114_original
 Metro emergency phone person.<end>
 
 =>a114
-Человек из телефона экстренной связи.<end>
+Человека из телефона экстренной связи.<end>
 
 =>a115_original
 What the hell are you talking about?<end>
@@ -738,7 +738,7 @@ So, about my special...<end>
 =>q117
 Да, $(#приятель/подруга), какой-то парень приходил сюда ровно несколько месяцев назад. Спрашивал о том же человеке. Высокий, чёрный, длинные волосы. Я знаю, $(#приятель/подруга), есть много людей, которые так выглядят, я знаю.
 
-Так вот, о моём особом...<end>
+Так вот, про моё особое...<end>
 
 =>q118_original
 Sure, pal - but this calls for a special. No, no, wait - *my special.* That's right - *my special.*
@@ -746,7 +746,7 @@ Sure, pal - but this calls for a special. No, no, wait - *my special.* That's ri
 It's gonna take me some time to dig something out, so come back later.<end>
 
 =>q118
-Конечно, $(#приятель/подруга), но для этого нужно что-то особенное. Нет, нет, подожди -- *моё особое*. Ты меня слышал$(#/а) -- *моё особое*
+Конечно, $(#приятель/подруга), но для этого нужно что-то особенное. Нет, нет, подожди -- *моё особое.* Ты меня слышал$(#/а) -- *моё особое.*
 
 Мне потребуется некоторое время, чтобы кое-что откопать, так что приходи позже.<end>
 
@@ -1390,7 +1390,7 @@ Coretech is boring. They make all that high tech stuff, I mean, pal... Pal! They
 I'd press that button till the machine died. Then I'd buy another one!<end>
 
 =>q217
-Я бы нажимал кнопку, пока машина не сломалась. Потом я купил бы ещё одну!<end>
+Я бы нажимал кнопку, пока машина бы не сломалась. Потом я купил бы ещё одну!<end>
 
 =>a218_original
 What can you tell me about JKK?<end>
@@ -1402,7 +1402,7 @@ What can you tell me about JKK?<end>
 I'm conflicted. I love watching ArenaNow and the Gauntlet on those street trims; I bet on my favourite gladiators, I like all that they offer. But damn, their security sometimes gives me a hard time, pal. Look, they can be such hardcore pipeworkers when they really aim their sights at it.<end>
 
 =>q219
-У меня смешанные чувства. Я люблю смотреть Арену Сегодня и Смертельный забег на их тримах; я делаю ставки на любимых гладиаторов, мне нравится всё это. Но, блин, временами их охрана сильно усложняет мне жизнь, $(#приятель/подруга). Слушай, они бывают хардкорными трубочистами, когда действительно попадёшь им на прицел.<end>
+У меня смешанные чувства. Я люблю смотреть «Арену Сегодня» и «Смертельный забег» на их тримах; я делаю ставки на любимых гладиаторов, мне нравится всё это. Но, блин, временами их охрана сильно усложняет мне жизнь, $(#приятель/подруга). Слушай, они бывают хардкорными трубочистами, когда действительно попадёшь им на прицел.<end>
 
 =>q220_original
 That's one thing I don't like, but the other is that they do a lot of sneaky undercover operations. Dirty stuff, pal, things that'll make the hair on your back bristle. Jon knows everything, and is very beautiful. They know that, and that's why they're giving me a hard time.<end>
@@ -1420,7 +1420,7 @@ What can you tell me about Praetorian Security?<end>
 They keep us safe. ::He laughs.:: Good joke, I know, I'm funny. But seriously, listen pal, they've got those enforcers of theirs all over the city, but look at the poor Drop Zone. No one. Who cares. They don't.<end>
 
 =>q222
-Они обеспечивают нашу безопасность. ::Он смеётся.:: Хорошая шутка, я знаю, я забавный. А если серьёзно, слушай, $(#приятель/подруга), у них эти мордовороты по всему городу, но посмотри на бедную Зону провала. Никого. Кого она волнует? Точно не их.<end>
+Они обеспечивают нашу безопасность. ::Он смеётся.:: Хорошая шутка, я знаю, я забавный. А если серьёзно, слушай, $(#приятель/подруга), у них эти мордовороты по всему городу, но посмотри на бедную Зону провала -- там ни одного. Кого она волнует? Точно не их.<end>
 
 =>q223_original
 Or maybe I'm wrong, maybe they just don't *like* zoners... In that case, they're doing a good job. Hmmm... Confused...<end>
@@ -1956,7 +1956,7 @@ I'm gonna munch on this thing like a stalactite is dangling over my head! Anyway
 Actually, to be more precise, they wanted to take the train at first, but the earthquake messed up their plans. That's what I'm telling you, pal. The trains had stopped 'cause a few sections of the tracks were blocked, so they spent some more time around the city in the meantime. Then, when the trains became operational again, they left.<end>
 
 =>q302
-На самом деле, если быть более точным, они вначале хотели сесть на поезд, но землетрясение нарушило их планы. Вот, что я хочу сказать тебе, $(#приятель/подруга). Поезда остановились, потому что несколько участков путей оказались перекрыты, так что они провели ещё какое-то время в городе. Потом, когда поезда снова начали ходить, они уехали.<end>
+На самом деле, если быть более точным, они вначале хотели сесть на поезд, но землетрясение нарушило их планы. Так тебе и говорю, $(#приятель/подруга). Поезда остановились, потому что несколько участков путей оказались перекрыты, так что они провели ещё какое-то время в городе. Потом, когда поезда снова начали ходить, они уехали.<end>
 
 =>a303_original
 Do you know where they've gone to?<end>
@@ -2310,7 +2310,7 @@ You want me to leave you alone? Me? Hey, pal, a perfectly normal, beautiful pers
 Hey, pal, I knew you'd find me. <end>
 
 =>q361
-Привет, $(#приятель/подруга), я знал, ты найдёшь меня. <end>
+Привет, $(#приятель/подруга), я знал, что ты найдёшь меня. <end>
 
 =>q362_original
 And just at the right time: <end>
