@@ -5,7 +5,7 @@ You need something, $(#bud/sugar)?
 <end>
 
 =>q1
-::Вы подходите к невысокому, коренастому мужчине, уставившемуся в столик перед собой. Столик заставлен многочисленными бокалами, из которых только один полон. Когда он поднимает его, вам в глаза бросается большая угольно-чёрная татуировка на его правой руке. Вы рассматриваете рисунок: он изображает сложной формы трещину в земле, которая начинается от локтя и движется вниз по руке, с крошечными ломаными трещинками, расходящимися от центра во все стороны. Приглядевшись, вы понимаете, что в центре татуировки -- большой шрам, который изящно спрятан с её помощью. Ваш любопытный взгляд наталкивается на его -- безразличный, и он выражает раздражение парой слов.::
+::Вы подходите к невысокому, коренастому мужчине, уставившемуся в столик перед собой. Столик заставлен многочисленными бокалами, из которых только один полон. Когда он поднимает его, вам в глаза бросается большая угольно-чёрная татуировка на его правой руке. Вы рассматриваете рисунок: он изображает сложной формы трещину в земле, которая начинается от локтя и движется вниз по руке, с крошечными ломаными трещинками, расходящимися от центра во все стороны. Приглядевшись, вы понимаете, что в центре татуировки -- большой шрам, который изящно спрятан с её помощью. Ваш любопытный взгляд наталкивается на его -- безразличный, и он выражает раздражение парой слов: ::
 
 Тебе нужно что-то, $(#приятель/конфетка)?<end>
 
@@ -49,7 +49,7 @@ Questions, questions... a man gets tired of those after a while, especially if t
 Is that a yes or a no?<end>
 
 =>a8
-Это -- «да» или «нет»?<end>
+Это «да» или «нет»?<end>
 
 =>q9_original
 ::He inspects you for a few seconds too long.:: I'll bite - ask your questions. Now whether you'll get an answer, that's a whole different matter. ::He returns to his drink.::<end>
@@ -85,13 +85,13 @@ You seem somewhat familiar.<end>
 ::He answers without looking at you.:: From where?<end>
 
 =>q14
-::Он отвечает, не глядя на вас.:: Где?<end>
+::Он отвечает, не глядя на вас: ::Где?<end>
 
 =>a15_original
 Gene told me you are an Underrail Express train operator. Maybe I've seen you before.<end>
 
 =>a15
-Джин сказал мне, что вы водите один из поездов Подземки Экспресс. Может быть, я видел$(#/а) вас раньше.<end>
+Джин сказал мне, что вы водите поезд Подземки Экспресс. Может быть, я видел$(#/а) вас раньше.<end>
 
 =>q16_original
 ::He downs the remainder of his drink in a single gulp, then follows it by contorting his face and holding the expression for a few seconds. When he opens his eyes again he raises his hand and signals the bartender to bring him another drink.::
@@ -101,7 +101,7 @@ Yeah, you were told right. I operate one of the trains circling the Lower Underr
 =>q16
 ::Он допивает стакан одним глотком, затем кривит лицо и удерживает это выражение несколько секунд. Только открыв глаза снова, он поднимает руку и подаёт сигнал бармену принести ему ещё выпить.::
 
-Да, вам сказали правильно. Я вожу один из поездов, курсирующих по нижней Подземке.<end>
+Да, вам сказали правильно. Я вожу один из поездов, курсирующих по Нижней Подземке.<end>
 
 =>q17_original
 What's it to ya, $(#bud/sugar)? You got a better job to offer, perhaps?<end>
@@ -125,7 +125,7 @@ Well, $(#bud/sugar), so do you. Now, what did you say about me being familiar?<e
 Gene told me you are one of Underrail Express train operators.<end>
 
 =>a20
-Джин рассказал мне, что вы работаете машинистом на одном из поездов Подземки Экспресс.<end>
+Джин рассказал мне, что вы работаете машинистом поезда Подземки Экспресс.<end>
 
 =>a21_original
 Forget about it. I had other questions for you.<end>
@@ -149,7 +149,7 @@ Never mind. Let me ask you something else.<end>
 I was wondering if you remember any merchants from SGS ever taking the train you operated. Terry and Lora Baker, husband and wife.<end>
 
 =>a24
-Вы, случайно, не помните, не брали ли вы на поезд купцов со станции Саут-Гейт? Терри и Лора Бейкеры, муж и жена.<end>
+Вы, случайно, не помните, не брали ли вы на поезд торговцев со станции Саут-Гейт? Терри и Лора Бейкеры, муж и жена.<end>
 
 =>q25_original
 ::Your question seems to have struck a chord with him, since he puts down his drink and turns to you.::
@@ -157,7 +157,7 @@ I was wondering if you remember any merchants from SGS ever taking the train you
 Husband and wife from SGS? South Gate Station?<end>
 
 =>q25
-::Ваш вопрос, похоже, заинтересовал его, он ставит стакан и поворачивается к вам.::
+::Ваш вопрос, похоже, вызывает его интерес. Он отставляет стакан и поворачивается к вам.::
 
 Муж и жена с ССГ? Станции Саут-Гейт?<end>
 
@@ -165,7 +165,7 @@ Husband and wife from SGS? South Gate Station?<end>
 *Yes*! Do you know anything about them?<end>
 
 =>a26
-ДА! Вы что-нибудь про них знаете?<end>
+*Да!* Вы что-нибудь про них знаете?<end>
 
 =>q27_original
 ::He makes a long pause, takes full shot of whatever he is having and contorts his face again. This time it took him a bit longer to recuperate, but when he's done he turns to you once more.::
@@ -173,7 +173,7 @@ Husband and wife from SGS? South Gate Station?<end>
 Aight, listen $(#bud/sugar) - I think I know about those people. ::He signals the bartender for another drink.::<end>
 
 =>q27
-::Он делает длинную паузу, выпивает свой стакан залпом и снова кривится. На этот раз ему требуется немного больше времени, но, в конце концов, он обращается к вам.::
+::Он делает длинную паузу, выпивает свой стакан залпом и снова кривится. На этот раз ему требуется немного больше времени, но в конце концов он обращается к вам: ::
 
 Лады, слушай, $(#приятель/конфетка), кажется я их видел. ::Он жестом заказывает ещё выпить.::<end>
 
@@ -235,7 +235,7 @@ Gangsters like any other gangsters - filthy, dumb and packing major firepower. :
 You just told me you don't care about people and forget everyone, yet you remembered Terry and Lora. How come?<end>
 
 =>a37
-Вы только что сказали мне, что вам на всех плевать, и вы никого не запоминаете, но вы вспомнили Терри и Лору. Почему так?<end>
+Вы только что сказали мне, что вам на всех плевать и вы никого не запоминаете, но вы вспомнили Терри и Лору. Почему так?<end>
 
 =>q38_original
 ::He pauses to think, then takes a solid gulp of his drink.::
@@ -257,7 +257,7 @@ Is that all you know?<end>
 ::He finishes his drink.:: That is all. Hope that's what you wanted, $(#bud/sister), and to give you some advice while we're here: Forget about your friends - they are probably rotting somewhere in the caves right now. I've seen a lot of that stuff and... just forget about them.<end>
 
 =>q40
-::Он допивает стакан.:: Это всё. Надеюсь, это тебе поможет, $(#приятель/сестра). Могу заодно дать совет: забудь о них, они, наверное, гниют где-то в пещерах. Я такого много видел, и... просто забудьте про них.<end>
+::Он допивает стакан.:: Это всё. Надеюсь, это вам поможет, $(#приятель/сестра). Могу заодно дать совет: забудьте о них, они, наверное, гниют где-то в пещерах. Я такого много видел, и... просто забудьте про них.<end>
 
 =>a41_original
 Go on...<end>
@@ -289,15 +289,15 @@ It won't help. I've talked to people before. It doesn't help.<end>
 I tried to protect him. I failed. I squeezed the lives out of those rats as hard as I could, but for my boy... it was too late. The grin on the man's face while he was killing my... my boy still haunts me. I see it even now. It's like he...<end>
 
 =>q45
-::Подумав, он продолжает.:: Его звали Тимоти. Его мать умерла при родах, так что кроме меня у него никого не было. Однажды, много лет назад какие-то... проклятые отмороженные ублюдки, какие-то подонки ворвались в наш дом. У нас не было ничего ценного, и я им так и сказал. Но они... они пришли не грабить, они хотели крови. Психи. Сволочи!
+::Подумав, он продолжает: ::Его звали Тимоти. Его мать умерла при родах, так что кроме меня у него никого не было. Однажды, много лет назад какие-то... проклятые отмороженные ублюдки, какие-то подонки ворвались в наш дом. У нас не было ничего ценного, я им так и сказал. Но они... они пришли не грабить, они хотели крови. Психи. Сволочи!
 
-Я пытался его защитить. Мне это не удалось. Я выдавил жизнь из этих крыс, так сильно, как только мог, но для моего мальчика... было уже слишком поздно. Ухмылка на его лице, когда он убивал моего... моего мальчика -- она до сих пор мне снится. Я вижу её даже сейчас. Как будто он...<end>
+Я пытался его защитить. Мне это не удалось. Я выдавил жизнь из этих крыс, но для моего мальчика... было уже слишком поздно. Ухмылка на его лице, когда он убивал моего... моего мальчика -- она до сих пор мне снится. Я вижу её даже сейчас. Как будто он...<end>
 
 =>q46_original
 ::He makes a lenghty pause before continuing.:: This scar, one of them slashed my arm with a knife. And the tattoo... I did that myself. My life was torn apart so I... well... ::He abruptly stops talking and finishes his drink.::<end>
 
 =>q46
-::Он делает длинную паузу, прежде чем продолжить.:: Этот шрам -- один из них порезал мне руку ножом. А татуировка... я сделал её потом. Моя жизнь была разорвана на части, так что я... ну... ::Он резко замолкает и допивает стакан.::<end>
+::Он делает длинную паузу.:: Этот шрам -- один из них порезал мне руку ножом. А татуировка... я сделал её потом. Моя жизнь была разорвана на части, так что я... ну... ::Он резко замолкает и допивает стакан.::<end>
 
 =>a47_original
 I'm very sorry about your boy. Things like that shouldn't happen.<end>
@@ -311,7 +311,7 @@ I'm very sorry about your boy. Things like that shouldn't happen.<end>
 Whatever you were gonna say - I don't care. It's meaningless. All this was meaningless. Now you can politely DROP OFF! And if you ask me about my son, scar, tattoo or... or anything like that again, I'm gonna smash your freakin' windpipe. You dig that, $(#bud/sugar)?<end>
 
 =>q48
-::Прежде чем вы успеваете озвучить свои мысли, Гордж сердито перебивает вас.::
+::Прежде чем вы успеваете озвучить свои мысли, Гордж сердито перебивает вас: ::
 
 Что бы вы там ни собирались сказать -- я не хочу это слышать. Это бессмысленно. Всё это бессмысленно. Теперь, не могли бы вы, пожалуйста, ПРОВАЛИТЬСЯ! И если вы спросите меня о моём сыне, шраме, татуировке или... или ещё о чём-нибудь подобном снова, я заткну твой долбаный свисток. Сечёшь, $(#приятель/конфетка)?<end>
 
@@ -321,7 +321,7 @@ Whatever you were gonna say - I don't care. It's meaningless. All this was meani
 Get it? Aight?<end>
 
 =>q49
-::Он просит бармена принести ещё выпить, потом поворачивается к вам::
+::Он просит бармена принести ещё выпить, потом поворачивается к вам.::
 
 Понятно? Лады?<end>
 
@@ -329,13 +329,13 @@ Get it? Aight?<end>
 I understand it is a terrible loss, and it saddens me to hear stories like this. But, you have to be strong. Help others - help yourself! Don't drown your life in liquor.<end>
 
 =>a50
-Это ужасная потеря, и мне грустно слышать такую историю. Но вы должны быть сильным. Помогайте другим и поможете себе! Не топите свою жизнь в стакане.<end>
+Это ужасная потеря, и мне грустно слышать такую историю. Но вы должны быть сильным. Помогайте другим, и поможете себе! Не топите свою жизнь в стакане.<end>
 
 =>a51_original
 So you get yourself wasted every chance you get? Is that the man your son would've wanted you to become?<end>
 
 =>a51
-Так что вы напиваетесь при всякой возможности? Ваш сын хотел бы увидеть вас таким?<end>
+Так что, вы напиваетесь при всякой возможности? Ваш сын хотел бы увидеть вас таким?<end>
 
 =>a52_original
 Your son died, yet you are still alive. Maybe you were more concerned whether you were going to survive, not little Tim.<end>
@@ -367,7 +367,7 @@ What can you tell me about your tattooed scar?<end>
 The scar is from an accident. The tattoo is from a tattoo shop.<end>
 
 =>q56
-::Он разглядывает шрам в течение нескольких секунд, делая глоток из своего стакана.::
+::Он разглядывает шрам, делая глоток из стакана.::
 
 Шрам из-за аварии. Татуировку я сделал в салоне.<end>
 
@@ -429,7 +429,7 @@ That's good enough for me. I had other things to ask you.<end>
 Where were the Bakers captured, again?<end>
 
 =>a66
-Скажите ещё раз, где Бейкеры попали в плен?<end>
+Скажите ещё раз, где схватили Бейкеров?<end>
 
 =>q67_original
 Rail Crossing train station. The gangsters took them to the caves north.<end>
@@ -455,7 +455,7 @@ I heard you got that tattoo while defending your brother from bandits.<end>
 Who told you that?<end>
 
 =>q70
-::Он собирается сделать ещё один глоток, но ваши слова бьют его, словно поезд, на котором он работает. Он ставит стакан на стол и поворачивается к вам.::
+::Он собирается сделать ещё глоток, но ваши слова бьют его, словно поезд, на котором он работает. Он ставит стакан на стол и поворачивается к вам.::
 
 Кто вам это сказал?<end>
 
@@ -491,7 +491,7 @@ I'm very sorry to hear that.<end>
 I gain nothing out of you being sorry, so spare me.<end>
 
 =>q75
-Что мне до вашей жалости, так что избавьте меня.<end>
+Мне нет дела до вашей жалости, так что избавьте меня.<end>
 
 =>a76_original
 Can you tell me more about what happened?<end>
