@@ -12,9 +12,9 @@ Then, he speaks through his mask.::
 Excuse me, $(#sir/ma'am), but how would you like to buy these wonderful animal organs and leather? Or these chrome-plated quad handles? I, a well-known scavenger that goes by the name Al Fabet, have so many unique and exciting trinkets to sell and only need a buyer.<end>
 
 =>q2
-::Мужчина, стоящий перед вами, выглядит как ходячая Свалка. Большой рюкзак, из которого торчат металлические трубы, удилища и стволы оружия; залатанные карманы, полные вилок, отвёрток и выгоревших вспышек; грязные сумки из кожи крысоволка свисают с его пояса, натягивая его так, будто они наполнены свинцовыми шарами для боулинга. Все эти вещи вместе, должно быть, весят в два раза больше его самого, и это заставляет вас остановится в восхищении прочностью его ног и спины.
+::Мужчина, стоящий перед вами, выглядит как ходячая Свалка: большой рюкзак, из которого торчат металлические трубы, удилища и стволы оружия; залатанные карманы, полные вилок, отвёрток и выгоревших вспышек; грязные сумки из кожи крысоволка свисают с его пояса, натягивая его так, будто они наполнены свинцовыми шарами для боулинга. Все эти вещи вместе, должно быть, весят в два раза больше его самого, и это заставляет вас остановится в восхищении прочностью его ног и спины.
 
-Он говорит, не снимая противогаза.::
+Он говорит, не снимая противогаза: ::
 
 Извините, $(#сэр/мэм), не желаете ли вы купить эти замечательные органы и шкуры животных? Или этот хромированный руль квадроцикла? Я, всем известный мусорщик по имени Аль Фабет, предлагаю на продажу много уникальных и увлекательных безделиц, и мне нужен только покупатель.<end>
 
@@ -40,7 +40,7 @@ Why do you even carry all that junk with you?<end>
 It's not junk if I can sell it! Don't be such a zoner. I loot everything I can, then I go to a station, sell all of it and earn some coins, then go back to pick up things I couldn't carry with me. Then back to selling, yeah. But the stupid merchants won't buy my jun-- I mean loot. Loot!<end>
 
 =>q6
-Это не барахло, если я могу продать его! Не ведите себя как зонер какой-то. Я собираю всё, что смогу, потом возвращаюсь на станцию, продаю всё это и зарабатываю несколько монет, а затем возвращаюсь, чтобы забрать то, что я не смог унести раньше. Потом снова продаю, да. Но тупые торговцы не покупают моё бара... то есть, добычу. Добычу!<end>
+Это не барахло, если я могу продать его! Не ведите себя как зонер$(# какой/ша какая)-то. Я собираю всё, что смогу, потом возвращаюсь на станцию, продаю всё это и зарабатываю несколько монет, а затем возвращаюсь, чтобы забрать то, что я не смог унести раньше. Потом снова продаю, да. Но тупые торговцы не покупают моё бара... то есть, добычу. Добычу!<end>
 
 =>q7_original
 <end>
@@ -64,7 +64,7 @@ It adds up, trust me. Bullet by bullet, heart by heart, battery by battery, yeah
 ::Al Fabet notices a screw on the ground and bends over - with some effort - to pick it up.:: Well, look at this treasure!<end>
 
 =>q10
-::Аль Фабет замечает на земле винт и наклоняется -- с некоторым усилием -- чтобы его подобрать.:: Ну, посмотрите на это сокровище!<end>
+::Аль Фабет замечает на земле винт и наклоняется -- с некоторым усилием, -- чтобы его подобрать.:: Ну посмотрите на это сокровище!<end>
 
 =>q11_original
 Ah, damn it, I dropped my screw! Can you see it anywhere?<end>
@@ -82,7 +82,7 @@ Why don't you just drop all unnecessary things and just carry what's most valuab
 Are you derailed? Why would I drop perfectly good organs when someone *will* eventually buy them? Yeah, I pick up valuable stuff - I pick up everything! And I sell everything. At least I try to, but the stupid merchants have this, like, limit on what and how much they'll buy! Who came up with that?<end>
 
 =>q13
-Вы совсем поехали? Зачем мне выбрасывать отличные органы, ведь кто-нибудь в конце концов купит их? Да, я собираю ценные вещи -- я собираю всё! И я продаю всё. По крайней мере, я пытаюсь, но у глупых торговцев есть это, типа, ограничение на то, что и сколько они купят! Кто это придумал?<end>
+Вы совсем поехавш$(#ий/ая)? Зачем мне выбрасывать отличные органы, ведь кто-нибудь в конце концов купит их? Да, я собираю ценные вещи -- я собираю всё! И я продаю всё. По крайней мере, я пытаюсь, но у глупых торговцев есть это, типа, ограничение на то, что и сколько они купят! Кто это придумал?<end>
 
 =>q14_original
 I just want to maximize my loot selling potential. Although, my back is now going, "Well, kinda." Yeah, I wish weight didn't exist.<end>
@@ -128,7 +128,7 @@ Can we discuss something else?<end>
 Maybe we can discuss a trade!<end>
 
 =>q20
-Может быть мы можем обсудить сделку!<end>
+Может быть, мы можем обсудить сделку?!<end>
 
 =>a21_original
 What can you tell me about Core City?<end>
@@ -158,13 +158,13 @@ What can you tell me about the Arena?<end>
 Never went to see a match in my life. I heard, listen to this, I heard that up until recently they didn't allow participants to loot the folks they zoned out. What? Seriously - what? Only now did they remember to do that, in these difficult times, when honest men depend on looting to survive?<end>
 
 =>q25
-Я никогда не ходил смотреть матч. Говорят -- послушайте -- говорят, что до недавнего времени они не позволяли участникам обчищать тех, кого они убивают. Что за?.. Они это серьёзно? Только сейчас они вспомнили об этом, в эти трудные времена, когда честные люди зависят от мародёрства, чтобы выжить?<end>
+Я никогда не ходил смотреть на матчи. Говорят -- послушайте -- говорят, что до недавнего времени они не позволяли участникам обчищать тех, кого они убивают. Что за?.. Они это серьёзно? Только сейчас они вспомнили об этом, в эти трудные времена, когда честные люди прибегают к мародёрству, чтобы выжить?<end>
 
 =>q26_original
 C'mon! Just... c'mon! Who comes up with this stuff?<end>
 
 =>q26
-Ну что за дела! Просто... какого! Кто придумывает всё это?<end>
+Ну что за дела! Просто... какого?! Кто придумывает это всё?<end>
 
 =>a27_original
 Why do you carry a human brain with you?<end>
@@ -176,7 +176,7 @@ Why do you carry a human brain with you?<end>
 Well, that's a cool lootin' tale: I was going through some backwater caves when I found this dead guy. Bald, ugly as siphoner's ass. A giant rock fell on his head and split it right open, yeah. You could see the brain, it was exposed and all. But, it was in good condition and, after I took his stuff, I decided to grab the brain too. I reckon, he won't need it anymore, and perhaps I'll find someone who'll buy it. It stinks a bit, but hell, life stinks in general.<end>
 
 =>q28
-А, это крутая история: я пробирался через какие-то дальние пещеры и нашёл этого мёртвого парня. Лысого и уродливого, как задница брызгуна. Огромный камень упал ему прямо на башку и расколол её аккурат пополам, ага. Было видно его мозги. Ну, они были в хорошем состоянии, и после того как я собрал его шмотки, я решил захватить и мозги тоже. Я решил, что ему они всё равно больше не понадобятся, а я, может, найду того, кто купит. Воняло немного, но что делать, жизнь и так воняет.<end>
+А, это интересная история: я пробирался через какие-то дальние пещеры и нашёл этого мёртвого парня. Лысого и уродливого, как задница брызгуна. Огромный камень упал ему прямо на башку и расколол её аккурат пополам, ага. Было видно его мозги. Ну, они были в хорошем состоянии, и после того как я собрал его шмотки, я решил захватить и мозги тоже. Я решил, что ему они всё равно больше не понадобятся, а я, может, найду того, кто купит. Воняло немного, но что делать, жизнь и так воняет.<end>
 
 =>q29_original
 It's what I always say: Never miss a chance when it presents itself so conveniently!<end>
@@ -212,7 +212,7 @@ Of what? C'mon, stop teasing me. Of what?<end>
 Loot. As far as the eye can see.<end>
 
 =>a34
-Барахло. Насколько может видеть глаз.<end>
+Барахла. Насколько может видеть глаз.<end>
 
 =>q35_original
 ::His eyes almost pop out of the mask the moment you deliver the magic word. Awe overwhelms him and his voice fills with excitement.::
@@ -220,7 +220,7 @@ Loot. As far as the eye can see.<end>
 How do I get there?<end>
 
 =>q35
-::Его глаза чуть не выскакивают из-под маски, как только вы произносите волшебное слово. Трепет переполняет его, и его голос наполняется азартом.::
+::Его глаза чуть не выскакивают из-под маски, как только вы произносите волшебное слово. Трепет переполняет его, и его голос наполняется азартом: ::
 
 Как мне туда добраться?<end>
 
@@ -248,7 +248,7 @@ I can't thank you enough for this. No one in my life was this good to me. Thank 
 I gotta go.<end>
 
 =>q39
-У меня не хватит для вас слов благодарности. Никто в моей жизни не был так добр ко мне. Спасибо. Спасибо. Когда я вернусь, я куплю вам... что-нибудь. Но это будет что-то очень хорошее, ага. 
+Я не нахожу для вас слов благодарности. Никто в моей жизни не был так добр ко мне. Спасибо. Спасибо. Когда я вернусь, я куплю вам... что-нибудь. Но это будет что-то очень хорошее, ага. 
 
 Мне надо идти.<end>
 
@@ -322,7 +322,7 @@ I gotta go. Goodbye.<end>
 Oh come on! I just want to get rid of all this stuff!<end>
 
 =>q51
-Да ладно! Мне просто надо избавиться от всего этого хлама!<end>
+Ну куда вы?! Мне просто надо избавиться от всего этого хлама!<end>
 
 =>q52_original
 <end>
@@ -346,7 +346,7 @@ No one wants to buy my stuff. C'mon people, what's wrong with you all!?<end>
 This is so stupid! Why would merchants refuse to buy my stuff? What the hell!?<end>
 
 =>q55
-Это какая-то глупость! Почему торговцы отказываются покупать мой хлам? Какого хрена?!<end>
+Это какой-то бред! Почему торговцы отказываются покупать мой хлам? Какого хрена?!<end>
 
 =>q56_original
 I must sell everything. My back will have to endure.<end>
