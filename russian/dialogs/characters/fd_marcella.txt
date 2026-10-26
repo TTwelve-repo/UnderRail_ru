@@ -80,7 +80,7 @@ Marcella? What is the meaning of this - where have you been?<end>
 Where have I been? I have nearly been killed by this treacherous *rat* here! I--<end>
 
 =>q14
-Где я была? Меня чуть было не убил этот вероломный *крыс*! Я...<end>
+Где я была? Меня чуть было не убил этот вероломный *крыс!* Я...<end>
 
 =>q15_original
 Corben, don't listen to her. She must have betrayed us! She disappeared without a trace for two months, for crying out loud! Two months! She's trying to turn you against me! She fooled kiddo, I see, but don't let her fool you!<end>
@@ -112,7 +112,7 @@ Not a single word, Bate. You disgust me. A bloody traitor you are. Surrender all
 Go to hell, all of you! I... I did it because I had to... I had to... Damn it! I'm sorry, but I'm not going anywhere...<end>
 
 =>q19
-::Бэйт пристальным взглядом медленно окидывает каждого человека в комнате. Его недобрый взгляд постепенно гаснет, он делает глубокий вдох и начинает быстро говорить дрожащим голосом.::
+::Бэйт пристально всматривается в каждого человека в комнате. Его недобрый взгляд постепенно гаснет, он делает глубокий вдох и начинает быстро говорить дрожащим голосом: ::
 
 Идите в ад, все вы! Я... я сделал это, потому что у меня не было выбора... не было выбора... Пошло оно! Простите, но я никуда не пойду...<end>
 
@@ -126,7 +126,7 @@ Go to hell, all of you! I... I did it because I had to... I had to... Damn it! I
 ::This untidy woman quietly observes you as you come closer to her. Her eyes are big and vividly blue, with a hint of orange-gold around the pupil. A very rare sight. Even though she doesn't utter a single word, her sad and lost look speaks for her, telling you that she needs help.::<end>
 
 =>q21
-::Эта неопрятная женщина безмолвно наблюдает, как вы приближаетесь. Её глаза большие и ярко-голубые, с оранжево-золотистым ореолом вокруг зрачков. Очень редкое зрелище. Хотя она не произносит ни единого слова, её печальный и потерянный взгляд лучше слов говорит вам, что она нуждается в помощи.::<end>
+::Эта неопрятно одетая женщина безмолвно наблюдает, как вы приближаетесь. Её глаза большие и ярко-голубые, с оранжево-золотистым ореолом вокруг зрачков. Очень редкое зрелище. Хотя она не произносит ни единого слова, её печальный и потерянный взгляд лучше слов говорит вам, что она нуждается в помощи.::<end>
 
 =>a22_original
 Excuse me, are you okay?<end>
@@ -178,7 +178,7 @@ How about I introduce myself first. I'm $(context.player.Name). Who are you?<end
 I don't know... I can't seem to remember.<end>
 
 =>q28
-::Её зрачки расширяются и взгляд уходит вправо. Очевидно, что она действительно пытается вспомнить, но не может. Она разочарованно отвечает.::
+::Её зрачки расширяются и взгляд уходит вправо. Очевидно, что она действительно пытается вспомнить, но не может. Она разочарованно отвечает: ::
 
 Я не знаю... Не могу вспомнить.<end>
 
@@ -254,7 +254,7 @@ How would you like to come with me? I know doctors that can help you.<end>
 No! I don't want to go anywhere! I'm safe here.<end>
 
 =>q38
-::Её полные ужаса глаза отвечают вам прежде чем уста.::
+::Её глаза наполняются ужасом.::
 
 Нет! Я не хочу никуда идти! Я здесь в безопасности.<end>
 
@@ -292,7 +292,7 @@ As you wish. Tell me, did you have any possessions with you when you woke up?<en
 Just a weapon... a crossbow and some bolts.<end>
 
 =>q43
-::Она сразу же отвечает, глядя вам прямо в глаза.::
+::Она сразу же отвечает, глядя вам прямо в глаза: ::
 
 Только оружие... арбалет и несколько болтов.<end>
 
@@ -374,7 +374,7 @@ Marcella?<end>
 Why would you say that?<end>
 
 =>q54
-::Сперва она будто задумывается, но отвечает вам всё равно с отсутствующим взглядом.::
+::Сперва она будто задумывается, но отвечает вам всё равно с отсутствующим взглядом: ::
 
 Почему вы это сказали?<end>
 
@@ -390,7 +390,7 @@ Because I think that's your name.<end>
 Why? Tell me more...<end>
 
 =>q56
-::Она медленно опускает глаза, но снова смотрит на вас, после короткой паузы.::
+::Она медленно опускает глаза, но снова смотрит на вас после короткой паузы.::
 
 Почему? Расскажите мне всё...<end>
 
@@ -564,7 +564,7 @@ Whatcha talkin' about, this ain't a dump! Yer both ugly... and stupid!<end>
 ::Wait for her to leave.::<end>
 
 =>a80
-::Подождать пока она уйдёт.::<end>
+::Подождать, пока она уйдёт.::<end>
 
 =>a81_original
 What do you mean?<end>
@@ -612,7 +612,7 @@ You look okay to me.<end>
 That made my day. Really. What do you want from me?<end>
 
 =>q87
-::Она отвечает, не меняя выражения лица.::
+::Она отвечает, не меняя выражения лица: ::
 
 Вы сделали мой день. Правда. Что вам от меня надо?<end>
 
