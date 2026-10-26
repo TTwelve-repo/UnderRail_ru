@@ -4,7 +4,7 @@
 Heya. Ya must be new around here, cause I ain't seen yer ugly face before. I'm Rob. I'll call ya $(#Ugly Joe/Ugly Jane) from now on. Whaddya want?<end>
 
 =>q1
-::Вы застаёте бармена, когда он вытирает стакан кухонным полотенцем, которое, как ни странно, идеально соответствует цвету его волос; является ли это преднамеренным или нет, вы не уверены. Он невысокий и жилистый мужчина, покрытый татуировками; его пальцы усеяны кольцами, большинство из них выглядят серебряными, но есть и несколько золотого цвета. Отставив блестящий стакан и отложив полотенце в сторону, он обращается к вам.::
+::Вы застаёте бармена, когда он вытирает стакан кухонным полотенцем, которое, как ни странно, идеально соответствует цвету его волос; является ли это преднамеренным или нет, вы не уверены. Он невысокий и жилистый мужчина, покрытый татуировками; его пальцы усеяны кольцами, большинство из них выглядят серебряными, но есть и несколько золотого цвета. Отставив блестящий стакан и отложив полотенце в сторону, он обращается к вам: ::
 
 Хэй-я. Ты, должно быть, здесь впервые, потому что я бы запомнил такое кривое рыло. Я Роб, и отныне я буду звать тебя $(#Джо-урод/Хрюша Джейн). Чего тебе налить?<end>
 
@@ -18,7 +18,7 @@ Heya. Ya must be new around here, cause I ain't seen yer ugly face before. I'm R
 Show me what you have in stock. ::Barter.::<end>
 
 =>a3
-Покажи мне, что у тебя в ассортименте. ::Обмен.::<end>
+Покажи мне, что в ассортименте. ::Обмен.::<end>
 
 =>a4_original
 You don't seem to have a problem with me killing one of your patrons.<end>
@@ -50,7 +50,9 @@ Now, I've seen lotsa things here, lotsa, but a guy turnin' old just like that...
 ...now that's somethin'. That's somethin'...<end>
 
 =>q8
-Скажу тебе, я тут всякого повидал, но чтобы парень просто взял и так постарел... ::Он щёлкает пальцами.:: Это что-то новенькое. Это что-то новенькое...<end>
+Скажу тебе, я тут всякого повидал, но чтобы парень просто взял и так постарел... ::Он щёлкает пальцами.::
+
+Это что-то новенькое. Это что-то новенькое...<end>
 
 =>q9_original
 ::He chuckles.:: The things I've seen here... This is nothin'.<end>
@@ -98,7 +100,7 @@ Why didn't you name it "Ugly Rob"? That seems appropriate.<end>
 I was thinkin' about it, but now that I've seen yer ugly mug, I might change it to $(#Ugly Joe/Ugly Jane) Bar or, or The Smartass Uglo-Sapiens Bar.<end>
 
 =>q16
-Я уже думал об этом, но теперь, когда я увидел твоё отвратительное рыло, я мог бы изменить название на «Бар у $(#Джо-урода/Хрюши Джейн)» или «Хитрожопый Свино-сапиенс».<end>
+Я уже думал об этом, но теперь, когда я увидел твоё отвратительное рыло, я мог бы изменить название на «Бар у $(#Джо-урода/Хрюши Джейн)» или «Хитрожопый Свино-Сапиенс».<end>
 
 =>q17_original
 I actually like the last one, Bwahaha!<end>
@@ -244,7 +246,7 @@ That's not a ba--
 Wait? Ya serious?<end>
 
 =>q36
-Это не...
+Неплохая...
 
 Погоди, ты серьёзно?<end>
 
@@ -300,7 +302,7 @@ Are you this nice to all your patrons?<end>
 I try to treat y'all equally and respectfully... sometimes. But damn it, $(#Ugly Joe/Ugly Jane), ya got the nastiest mug of all the folks that walked through this place, and I've seen some who looked like they cleaned their face with rusty barbed wire.<end>
 
 =>q45
-Стараюсь относиться к вам всем одинаково и с уважением... обычно. Но, блин, $(#Джо-урод/Хрюша Джейн), у тебя самая уродливая харя, какую я видел из всех людей, которые когда-либо сюда заходили, а я видел таких, кто выглядел так, будто они моют лицо ржавой колючей проволокой.<end>
+Стараюсь относиться к вам всем одинаково и с уважением... обычно. Но блин, $(#Джо-урод/Хрюша Джейн), у тебя самая уродливая харя, какую я видел из всех людей, которые когда-либо сюда заходили, а я видел таких, кто выглядел так, будто они моют лицо ржавой колючей проволокой.<end>
 
 =>a46_original
 You're not worried about losing customers with your rudeness?<end>
@@ -378,7 +380,7 @@ Congratulations! Out of one hundred women in this dump, you pointed to the right
 Do you know anything about a man called Ethan Lanford?<end>
 
 =>a58
-Ты знаешь что-нибудь про человека по имени Итан Ланфорд?<end>
+Ты знаешь что-нибудь про человека по имени Итан Лэнфорд?<end>
 
 =>a59_original
 Where does that elevator outside go to?<end>
@@ -390,7 +392,7 @@ Where does that elevator outside go to?<end>
 It runs straight down to Deep Caverns, apparently. Hasn't been operational in decades, though, so if ya wanna go down ya should just jump. Might rearrange that face of yers into somethin' better-looking.<end>
 
 =>q60
-Очевидно он проходит прямо вниз в Глубокие пещеры. Он не работает уже несколько десятилетий, так что если хочешь вниз, то просто прыгай. Может, даже станешь выглядеть получше.<end>
+Очевидно, он проходит прямо вниз в Глубокие пещеры. Он не работает уже несколько десятилетий, так что если хочешь вниз, то просто прыгай. Может, даже станешь выглядеть получше.<end>
 
 =>q61_original
 No, but seriously, the fence is unstable. We already lost Mad Killian cause of it.
