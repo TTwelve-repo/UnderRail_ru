@@ -4,7 +4,7 @@
 $(context.player.Name). I am Phyllis, and I perform repairs on all oculites, or if you prefer a different term, I offer "medical attention."<end>
 
 =>q1
-::Женщина поворачивается к вам медленно и спокойно. Она смотрит на вас безэмоциональными глазами, встречает бесстрастным выражением и говорит монотонным голосом.::
+::Женщина поворачивается к вам медленно и спокойно. Она смотрит на вас безэмоциональными глазами, встречает бесстрастным выражением лица и говорит монотонным голосом: ::
 
 $(context.player.Name). Я Филлис, я ремонтирую всех окулитов или, если вы предпочитаете другой термин, я «оказываю медицинскую помощь».<end>
 
@@ -108,7 +108,7 @@ You are not the first person to tell me that. Let me explain to you why I use su
 I understand that we, humans, have this belief that we are somehow special, somehow unique, that we somehow possess a certain property, perhaps... a soul if you will. Some would say that we were created by a higher power even. Whatever the specific case, it comes down to our lack of understanding, or better yet, our lack of knowledge about humans or other living creatures, that makes us think so.<end>
 
 =>q18
-Я понимаю, что мы, люди иногда верим, что мы какие-то особенные, уникальные, что мы обладаем неким свойством, так сказать... душой если хотите. Кто-то скажет даже, что мы созданы какой-то высшей силой. Независимо от конкретного случая, всё сводится к нашей неосведомлённости, точнее, недостатку знаний о людях или других живых существах, и это заставляет нас думать так.<end>
+Я понимаю, что мы, люди, иногда верим, что мы какие-то особенные, уникальные, что мы обладаем неким свойством, так сказать... душой если хотите. Кто-то скажет даже, что мы созданы какой-то высшей силой. Независимо от конкретного случая, всё сводится к нашей неосведомлённости, точнее недостатку знаний о людях или других живых существах, и это заставляет нас думать так.<end>
 
 =>q19_original
 From my perspective, the reality is different. When I look at a living body, I see muscles that contract to pull the tendons that bend the arm; I see a heart, a simple pump, the most easily replaced organ, doing just that - pumping fluid. I see that same fluid containing red blood cells, which in turn contain hemoglobin, which contains iron molecules that bind with the oxygen, which is latter carried to the cells to fuel them with that very oxygen - fuel.<end>
@@ -219,7 +219,7 @@ How and why did you join Oculus?<end>
 Everyone in Oculus was carefully evaluated for a prolonged time before finally being approached with the offer to join Oculus. Such was my case, yet, unlike most oculites here, I did not seek Oculus... Oculus sought me.<end>
 
 =>q35
-Всех в Окулусе тщательно оценивали в течение длительного времени, прежде чем наконец предложить им вступить в Окулус. Так было и со мной, но, в отличие от большинства Окулитов, я не искала Окулус... Окулус нашёл меня.<end>
+Всех в Окулусе тщательно оценивали в течение длительного времени, прежде чем наконец предложить им вступить в Окулус. Так было и со мной, но в отличие от большинства Окулитов, я не искала Окулус... Окулус нашёл меня.<end>
 
 =>a36_original
 Can you explain?<end>
@@ -277,13 +277,13 @@ What does he do around here, exactly?<end>
 He is one of the clients. Azif informed us that he is allowed to move freely around Oculus, and that he is not to be disturbed. I have not seen him in some time, though, but he might return at any moment.<end>
 
 =>q44
-Он один из клиентов. Азиф сказал нам, что ему разрешено свободно передвигаться Окулусу, и что его нельзя беспокоить. Правда, я не видела его уже некоторое время, но он может вернуться в любой момент.<end>
+Он один из клиентов. Азиф сказал нам, что ему разрешено свободно передвигаться по Окулусу, и что его нельзя беспокоить. Правда, я не видела его уже некоторое время, но он может вернуться в любой момент.<end>
 
 =>q45_original
 He is one of the clients. Azif told us that he can move freely around Oculus, and that he is not to be disturbed. That is all I can tell you about him.<end>
 
 =>q45
-Он один из клиентов. Азиф сказал нам, что ему разрешено свободно передвигаться Окулусу, и что его нельзя беспокоить. Вот всё, что я о нём знаю.<end>
+Он один из клиентов. Азиф сказал нам, что ему разрешено свободно передвигаться по Окулусу, и что его нельзя беспокоить. Вот всё, что я о нём знаю.<end>
 
 =>a46_original
 Interesting, but I have other questions.<end>
@@ -295,7 +295,7 @@ Interesting, but I have other questions.<end>
 I am sure you do.<end>
 
 =>q47
-Я в это мне сомневаюсь.<end>
+Я в этом не сомневаюсь.<end>
 
 =>a48_original
 What can you tell me about those robed oculites? <end>
@@ -307,7 +307,7 @@ What can you tell me about those robed oculites? <end>
 Khazum Morakht? We call them Whisperers, but that is the proper name of the clan they belong to. They came from North Underrail, as far as I understood. I could be wrong, though. You will find them throughout Oculus, standing in silence and almost completely motionless.<end>
 
 =>q49
-Хазум Морахт? Мы называем их Шепчущими, но такое правильное имя клана, к которому они принадлежат. Они пришли из Северной Подземки, насколько я знаю. Могу ошибаться. Найти их можно по всему Окулусу, они всегда стоят молча и почти полностью неподвижны.<end>
+Хазум Морахт? Мы называем их Шепчущими, но таково правильное имя клана, к которому они принадлежат. Они пришли из Северной Подземки, насколько я знаю. Могу ошибаться. Найти их можно по всему Окулусу, они всегда стоят молча и почти полностью неподвижны.<end>
 
 =>q50_original
 Their task is to guard Oculus, but frankly, they have not seen much action, and you can presume why. At least not since I arrived here.
@@ -315,7 +315,7 @@ Their task is to guard Oculus, but frankly, they have not seen much action, and 
 You will get used to their presence soon.<end>
 
 =>q50
-Их задача -- охранять Окулус, но, честно говоря, у них немного работы, несложно догадаться почему. По крайней мере так оно было с тех пор как я прибыла сюда.
+Их задача -- охранять Окулус, но честно говоря, у них не много работы, несложно догадаться почему. По крайней мере так оно было с тех пор, как я прибыла сюда.
 
 Вы скоро привыкнете к их присутствию.<end>
 
@@ -371,7 +371,7 @@ It... is going well. Thank you for asking.<end>
 ::She also remains silent, probably waiting for you to say something.::<end>
 
 =>q59
-::Она тоже молчит, наверное, ждёт, что вы скажете.::<end>
+::Она тоже молчит, -- наверное, ждёт, что вы скажете.::<end>
 
 =>a60_original
 ::Remain silent.::<end>

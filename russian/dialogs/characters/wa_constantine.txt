@@ -4,7 +4,7 @@
 Take that!<end>
 
 =>q1
-::Приближаясь к Константину, вы вдруг услышали незнакомый трещащий звук снаружи, быстро прервавшийся. Хотя он был, конечно, не оглушительный, но достаточно громкий, чтобы привлечь ваше внимание. Чуть позже доносится ещё один звук -- мёртвого тела, скатывающегося по стене пещеры, после чего снова становится тихо. Константин только посмеивается.::
+::Приближаясь к Константину, вы вдруг слышите внезапный треск снаружи, который быстро прерывается. Хотя и не оглушительный, он достаточно громкий, чтобы привлечь ваше внимание. Чуть позже доносится ещё один звук -- мёртвого тела, скатывающегося по стене пещеры, после чего снова становится тихо. Константин только посмеивается: ::
 
 Готов!<end>
 
@@ -98,13 +98,13 @@ So, how does it feel working in the lowest level of Oculus? Isn't it a bit... cr
 Of course it's cramped, do you really think I haven't noticed!? I can't even move a foot without bumping into something! All these bloody boxes, I wish I could just kick them all into the abyss! Arggh!<end>
 
 =>q15
-Конечно тут тесно, думаете, я не заметил?! Я не могу даже пошевелить ногой, не натыкаясь на что-нибудь! Все эти долбаные коробки, хотел бы я просто выбросить их в пропасть! А-а-ар!<end>
+Конечно, тут тесно, думаете, я не заметил?! Я не могу даже пошевелить ногой, не натыкаясь на что-нибудь! Все эти долбаные коробки, хотел бы я просто выбросить их в пропасть! А-а-ар!<end>
 
 =>q16_original
 ::Clears throat.:: I apologize, you shouldn't have witnessed that. I agree, the area is a bit... hmm, lacking in terms of space, and in addition, being in the lowest part of Oculus, I... hear things trying to get in.<end>
 
 =>q16
-::Откашливается.:: Я прошу прощения, вы ничем не заслужили подобное зрелище. Согласен, здесь немного... хм, не хватает пространства, и кроме того, потому что мы в самой низкой части Окулуса, я... слышу, как разное пытается попасть внутрь.<end>
+::Он откашливается.:: Я прошу прощения, вы ничем не заслужили подобное зрелище. Согласен, здесь немного... хм, не хватает пространства, и кроме того, потому что мы в самой низкой части Окулуса, я... слышу, как разное пытается попасть внутрь.<end>
 
 =>a17_original
 What things?<end>
@@ -116,13 +116,13 @@ What things?<end>
 Well, crawlers, for instance, I can hear them climbing the walls. A faint sound at the bottom of the Oculus slowly comes closer... and becomes louder. Then it stops... You forget about the creature, but it's still there, maybe it can hear there's something inside, something alive... something that can be... consumed.<end>
 
 =>q18
-Ну, краулеры например; я слышу, как они взбираются по стенам. Слабый звук внизу Окулуса, медленно приближающийся... всё отчётливей. Потом он затихает... Вы забываете про существо, но оно всё ещё там; может быть, оно слышит что-то живое внутри... что-то... съедобное.<end>
+Ну, краулеры например -- я слышу, как они взбираются по стенам. Слабый звук внизу Окулуса, медленно приближающийся... всё отчётливей. Потом он затихает... Вы забываете про существо, но оно всё ещё там; может быть, оно слышит что-то живое внутри... что-то... съедобное.<end>
 
 =>q19_original
 But then the EDS fries the bugs! ::He laughs.:: They scream as their smoking carcasses fall into the darkness! I hate them, I hate them so much, as well as those bloody Lunatics!<end>
 
 =>q19
-А потом ЭСО поджаривает жуков! ::Смеётся.:: Они визжат, а их дымящиеся тушки падают во тьму! Я ненавижу их, я ненавижу их так же, как этих проклятых психотиков!<end>
+А потом ЭСО поджаривает жуков! ::Он смеётся.:: Они визжат, а их дымящиеся тушки падают во тьму! Я ненавижу их, я ненавижу их так же, как этих проклятых психотиков!<end>
 
 =>a20_original
 If you hear strange things, then maybe it's time to lay off the brew.<end>
@@ -156,13 +156,13 @@ What is EDS?<end>
 Electric Defense System. Not the official name, though, the original one is only known to... to whomever built Oculus.<end>
 
 =>q24
-Электрическая Система Обороны. Неофициальное название, настоящее известно... тому, кто построил Окулус.<end>
+Электрическая система обороны. Неофициальное название, настоящее известно... тому, кто построил Окулус.<end>
 
 =>q25_original
 I have no idea how it works, but in essence, it sends a surge of electricity through anything it deems dangerous, frying it. And it's smart, the system knows what should and what shouldn't be killed. It can be, well, distracting at times... hearing burning Lunatics scream and tumble into the abyss. But again, it also brings a smile to my face.<end>
 
 =>q25
-Я понятия не имею, как она работает, но, в сущности, она посылает электрический разряд через всё, что сочтёт опасным, поджаривает его. И это умная система, она знает, что должно и что не должно быть убито. Иногда отвлекает, знаете ли... звуки горящих психотиков, которые кричат и падают в пропасть. Но, опять же, мне такое только в радость.<end>
+Я понятия не имею, как она работает, но в сущности, она посылает электрический разряд через всё, что сочтёт опасным, поджаривает его. И это умная система, она знает, что должно и что не должно быть убито. Иногда отвлекает, знаете ли... звуки горящих психотиков, которые кричат и падают в пропасть. Но опять же, мне такое только в радость.<end>
 
 =>q26_original
 'Cause I hate those bastards!<end>
@@ -180,7 +180,7 @@ You mentioned Lunatics, who are they?<end>
 You don't know who Lunatics are? Stick around and you might find out. Well, you'll hear them trying to climb the Oculus, for they reside very close to the bottom of it. Unlike crawlers, Lunatics always come in groups.<end>
 
 =>q28
-Вы не знаете, кто такие психотики? Погуляйте вокруг, и может быть узнаете. Ну, услышите, как они пытаются подняться на Окулус, потому они живут очень близко от его основания. В отличие от краулеров, психотики всегда приходят группами.<end>
+Вы не знаете, кто такие психотики? Погуляйте вокруг, и может быть узнаете. Ну, услышите, как они пытаются подняться на Окулус, потому живут очень близко от его основания. В отличие от краулеров, психотики всегда приходят группами.<end>
 
 =>a29_original
 Do they bother you often?<end>
@@ -192,7 +192,7 @@ Do they bother you often?<end>
 Do they? Do they? They bloody do! It's like I was cursed by this, this orb of annoyance that flies around my head and causes all sorts of, of infuriating things to happen!<end>
 
 =>q30
-Они? Меня? Да, ещё как! Я будто проклят этим, этим долбаным шаром, что летает вокруг моей головы и притягивает всякие раздражающие вещи!<end>
+Они? Меня? Да ещё как! Я будто проклят этим... этим долбаным шаром, что летает вокруг моей головы и притягивает всякие раздражающие вещи!<end>
 
 =>q31_original
 "WHAAAAAAAAAAAA! We'll get inside, even though there is a pile of burned corpses below the Oculus." 
@@ -200,13 +200,15 @@ Do they? Do they? They bloody do! It's like I was cursed by this, this orb of an
 They just... have to give it another go! And another, and another...<end>
 
 =>q31
-У-У-У-У-У-У-У! Мы попадаем внутрь, хоть там и куча обгоревших трупов, но нет, мы попробуем ещё раз! И ещё и ещё...<end>
+«А-А-А-А-А-А-А-А! Мы проберёмся внутрь, хоть там под Окулусом и куча обгоревших трупов».
+
+Им просто... не терпится попробовать ещё раз! И ещё, и ещё...<end>
 
 =>q32_original
 Khm... I apologize. These things really bother me sometimes and I might... overreact at times.<end>
 
 =>q32
-Хм... прошу прощения. Эти вещи действительно беспокоят меня, и иногда я могу перегнуть палку... иногда.<end>
+Хм... прошу прощения. Всё это очень меня напрягает, и иногда я могу... перегнуть палку.<end>
 
 =>a33_original
 You still didn't tell me who these Lunatics actually are.<end>
@@ -218,7 +220,7 @@ You still didn't tell me who these Lunatics actually are.<end>
 Lunatics are... hmmm, think of Ironheads and Lurkers. A bandit gang that is similar in size, but composing mostly of psionics. Powerful psionics, while we're at it, but the trade-off is that they are insane and unpredictable.<end>
 
 =>q34
-Психотики... хм-м-м, они вроде Железноголовых или скрытней. Банда схожего размера, но эта, в основном состоит из псиоников. Мощных псиоников, позволю себе заметить, но при этом безумных и непредсказуемых.<end>
+Психотики... хм-м-м, они вроде Железноголовых или скрытней. Банда схожего размера, но эта в основном состоит из псиоников. Мощных псиоников, позволю себе заметить, но при этом безумных и непредсказуемых.<end>
 
 =>q35_original
 That is why the morons try to jump all over the bloody Oculus and disturb us! What a bunch of thick-headed cretins! Arrrgh!<end>
@@ -248,7 +250,7 @@ Did they ever make it in?<end>
 Never. The EDS is there to prevent any unwanted entity from entering the Oculus. Lunatics are unwanted, therefore, they end up as ashes scattered all over the cave floor.<end>
 
 =>q39
-Никогда. ЭСО не пропустит нежелательных лиц в Окулус. Психотики являются нежелательными, поэтому они становятся пеплом, устилающим пол пещеры.<end>
+Ни разу. ЭСО не пропустит нежелательных лиц в Окулус. Психотики являются нежелательными, поэтому они становятся пеплом, устилающим пол пещеры.<end>
 
 =>q40_original
 Personally, I've grown sick of those bloody idiots. It warms my heart to hear them die.<end>
@@ -296,7 +298,7 @@ In any case, the cyborg is not the most... approachable type, so to say, so keep
 Still, you might try asking Azif about him, but I wouldn't put my charons on getting an answer.<end>
 
 =>q47
-Всё равно, попробуйте спросить о нём у Азифа, но я и ломаного харона не поставлю, что получите ответ.<end>
+Ну, можете попробовать спросить о нём у Азифа, но я и ломаного харона не поставлю, что вы получите ответ.<end>
 
 =>q48_original
 In any case, I suggest you do not bother the cyborg, no matter how intriguing he might appear. He's not the most... approachable type, so to say. No one knows where he comes from or what he's truly capable of; we only know he's a client and that's all we need to.<end>
@@ -418,7 +420,7 @@ Catch you later.<end>
 And who do my eyes see? A newcomer. Welcome, $(context.player.Name), to a place that doesn't exist... to most people. I'm Constantine, the Oculus quartermaster.<end>
 
 =>q67
-::Перед вами высокий мужчина со слегка раздражённым выражением на лице. Несмотря на это, его тембр голоса весьма приветлив и не показывает, что ваше присутствие ему мешает.::
+::Перед вами высокий мужчина со слегка раздражённым выражением на лице. Несмотря на это, его тембр голоса весьма приветлив и не показывает, что ваше присутствие ему неприятно.::
 
 Кто тут у нас? Новичок. Добро пожаловать, $(context.player.Name), в место, которого не существует... для большинства людей. Я Константин, квартирмейстер Окулуса.<end>
 
@@ -450,4 +452,4 @@ I'm listening.<end>
 What do you need, $(context.player.Name)?<end>
 
 =>q72
-Что вам нужно, $(context.player.Name).<end>
+Что вам нужно, $(context.player.Name)?<end>
