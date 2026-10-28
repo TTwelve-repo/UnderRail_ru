@@ -2,7 +2,7 @@
 ::He mutters to himself.:: Now where did I put those keys...<end>
 
 =>q1
-::Он бормочет себе под нос.:: Куда же я положил эти ключи...<end>
+::Он бормочет себе под нос: ::Куда же я положил эти ключи...<end>
 
 =>q2_original
 If something happens... we never spoke, got it?<end>
@@ -38,7 +38,7 @@ Could you let me in the utility room? I dropped my key into the vents and I need
 What? Absolutely not. I can't just let anyone crawl through the vents willy-nilly.<end>
 
 =>q7
-Что? Это абсолютно невозможно. Я не могу позволить всяким лазить в вентиляционные отверстия.<end>
+Что? Это абсолютно невозможно. Я не могу позволить кому угодно лазить в вентиляционные отверстия.<end>
 
 =>q8_original
 <end>
@@ -56,7 +56,7 @@ How about if I make it worth your while?<end>
 Are you trying to bribe me, $(#boy/girl)?<end>
 
 =>q10
-Ты пытаешься подкупить меня, $(#мальчишка/девчонка)?<end>
+Ты пытаешься подкупить меня, $(#мальчик/девочка)?<end>
 
 =>a11_original
 Yes.<end>
@@ -86,7 +86,7 @@ Well, that's too bad then. I could use some extra money.<end>
 ::[Mercantile]:: I'll give you fifty charons.<end>
 
 =>a15
-::[Торговля]:: Я дам 50 харонов.<end>
+::[Торговля]:: Я дам вам 50 харонов.<end>
 
 =>q16_original
 <end>
@@ -116,7 +116,7 @@ Go fish.<end>
 ::[Mercantile]:: I'll give you one hundred charons.<end>
 
 =>a20
-::[Торговля]:: Я дам 100 харонов.<end>
+::[Торговля]:: Я дам вам 100 харонов.<end>
 
 =>q21_original
 <end>
@@ -128,7 +128,7 @@ Go fish.<end>
 ::[Mercantile]:: I'll give you two hundred charons.<end>
 
 =>a22
-::[Торговля]:: Я дам 200 харонов.<end>
+::[Торговля]:: Я дам вам 200 харонов.<end>
 
 =>q23_original
 <end>
@@ -206,7 +206,7 @@ I'm looking for the Acid Hunters. I was told that they have been seen near the d
 No idea, $(#boy/girl). Don't know who they are, don't know where they are.<end>
 
 =>q35
-Без понятия, $(#чувак/чувиха). Не знаю, кто они и не знаю, где они.<end>
+Без понятия, $(#мальчик/девочка). Не знаю, кто они, и не знаю, где они.<end>
 
 =>q36_original
 Off you go now.<end>
@@ -226,7 +226,7 @@ Never mind.<end>
 What do you want?<end>
 
 =>q38
-::Мужчина обращается к вам с раздражением в голосе.::
+::Мужчина обращается к вам с раздражением в голосе: ::
 
 Чего тебе?<end>
 

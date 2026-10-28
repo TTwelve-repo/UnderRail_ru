@@ -48,7 +48,7 @@ Wait, I am one of you guys. Corporal $(context.player.Name). Stationed at Fort A
 Shut up and put your hands in the air, zoner!<end>
 
 =>q8
-Заткнись и подними руки вверх, зонер!<end>
+Заткнись и подними руки вверх, зонер$(#/ша)!<end>
 
 =>a9_original
 ::Resist arrest.::<end>
@@ -114,7 +114,7 @@ It's short for Kate.<end>
 You're one dumb zoner, aren't you? You're coming with me. ::He aims his weapon at you.::<end>
 
 =>q19
-Ещё один тупой зонер, да? Ты идёшь со мной. ::Он наставляет на вас оружие.::<end>
+Ещё $(#один тупой зонер/одна тупая зонерша), да? Ты идёшь со мной. ::Он наставляет на вас оружие.::<end>
 
 =>a20_original
 I think I got the wrong building. Excuse me.<end>
@@ -144,7 +144,7 @@ And since when are you a marine?<end>
 ::[Persuade]:: I had a bad day, man, just let me go inside before the commander notices.<end>
 
 =>a24
-::[Убеждение]:: У меня был тяжёлый день, мужик, просто пропусти меня, пока командир не видит.<end>
+::[Убеждение]:: У меня был тяжёлый день, мужик, просто пропусти меня, пока командир не заметил.<end>
 
 =>q25_original
 Oh, he noticed already. He ordered that you report to him immediately. ::He speaks into his comm device and after a few moments the doors unlock.::<end>
@@ -162,7 +162,7 @@ Good luck, man.<end>
 ::He looks at you suspiciously.:: You are not Bob. You're coming with me! ::He aims his weapon at you.::<end>
 
 =>q27
-::Он смотрит на вас подозрительно.:: Ты не Боб. Ты идёшь со мной! ::Он наставляет на вас оружие.::<end>
+::Он смотрит на вас с подозрением.:: Ты не Боб. Ты идёшь со мной! ::Он наставляет на вас оружие.::<end>
 
 =>a28_original
 This... is temporary. I left my armor inside.<end>
@@ -210,7 +210,7 @@ Can't quite put my finger on it. You're just looking a bit...<end>
 ...pale today.<end>
 
 =>q35
-...бледный сегодня.<end>
+...бледный.<end>
 
 =>q36_original
 ::He aims his weapon at you.:: Alright, buster, the jig is up.<end>
@@ -252,7 +252,7 @@ Yeah? On whose orders?<end>
 Colonel Cathcart himself sent me here to perform an inspection.<end>
 
 =>a42
-Полковник Каткарт сам направил меня сюда для выполнения проверки.<end>
+Полковник Каткарт лично направил меня сюда для выполнения проверки.<end>
 
 =>q43_original
 Well, I wasn't informed anyone by that name was supposed to arrive. So I can't let you in. Orders.<end>
@@ -282,7 +282,7 @@ May I speak to your commanding officer?<end>
 To Captain Wilkins?<end>
 
 =>q47
-Капитаном Уилкинсом?<end>
+С капитаном Уилкинсом?<end>
 
 =>a48_original
 Yes.<end>
