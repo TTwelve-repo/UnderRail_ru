@@ -4,7 +4,7 @@
 Leave.<end>
 
 =>q1
-::Безликий тянется к чему-то на внутренней стороне своей маски, что-то поворачивает и говорит вам искажённым синтезированным голосом.::
+::Безликий тянется к чему-то на внутренней стороне своей маски, что-то там поворачивает и говорит вам искажённым синтезированным голосом: ::
 
 Уходи.<end>
 
@@ -24,7 +24,7 @@ What is going on here?<end>
 Leave... or suffer the consequences.<end>
 
 =>q4
-Уходите... или испытайте последствия.<end>
+Уходи... или испытаешь последствия.<end>
 
 =>a5_original
 No one tells me what to do, freak! ::Attack!::<end>
@@ -36,7 +36,7 @@ No one tells me what to do, freak! ::Attack!::<end>
 I'm leaving, I'm leaving!<end>
 
 =>a6
-Я ухожу, я ухожу!<end>
+Я ухожу, ухожу!<end>
 
 =>q7_original
 You will not get another warning...
@@ -58,7 +58,7 @@ Mind if I ask you a few questions?<end>
 That is one awesome-looking machine there.<end>
 
 =>a9
-Это потрясающая машина.<end>
+Какая у вас потрясающая машина.<end>
 
 =>a10_original
 Why are you doing all of this?<end>
@@ -70,7 +70,7 @@ Why are you doing all of this?<end>
 Wait, I'm your ally!<end>
 
 =>a11
-Подождите, я ваш союзник!<end>
+Подождите, я ваш$(# союзник/а союзница)!<end>
 
 =>a12_original
 What if I don't want to leave?<end>
