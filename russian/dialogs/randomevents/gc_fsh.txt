@@ -2,7 +2,7 @@
 ::The man backs away slowly as soon as you approach him.::<end>
 
 =>q1
-::Человек медленно отступает, как только вы приближаетесь к нему.::<end>
+::Мужчина медленно отступает, как только вы подходите ближе.::<end>
 
 =>q2_original
 <end>
@@ -20,13 +20,13 @@ Faster, old man!<end>
 ::Grin viciously.:: Good, good...<end>
 
 =>a4
-::С злобной ухмылкой.:: Хорошо, хорошо...<end>
+::Злобно ухмыльнуться.:: Хорошо, хорошо...<end>
 
 =>a5_original
 ::Say nothing.::<end>
 
 =>a5
-::Промолчать.::<end>
+::Молчать.::<end>
 
 =>a6_original
 ::Attack!::<end>
@@ -38,7 +38,7 @@ Faster, old man!<end>
 ::The man greets you with a piercing, adamant stare.::<end>
 
 =>q7
-::Человек приветствует вас пронзительным, непреклонным взглядом.::<end>
+::Мужчина встречает вас пронизывающим, непреклонным взглядом.::<end>
 
 =>q8_original
 <end>
@@ -50,25 +50,25 @@ Faster, old man!<end>
 ::[Intimidate]:: Didn't you hear me? Beat it or I'll shove that rod of yours where light don't shine.<end>
 
 =>a9
-::[Запугивание]:: Ты меня не слышал? Проваливай или я засуну тебе твою удочку туда, где не светит свет.<end>
+::[Запугивание]:: Ты меня не слышал? Проваливай или я засуну тебе твою удочку в задницу.<end>
 
 =>q10_original
 ::It is not your words that scare him, rather it is what he sees in your eyes. He nods, backing away slowly and leaving these grounds to you, just as you requested.::<end>
 
 =>q10
-Его испугали не ваши слова, а ваш взгляд. Он с пониманием кивает, медленно отступая и оставляя эти угодья вам, как вы и просили.::<end>
+::Его испугали не ваши слова, а ваш взгляд. Он с пониманием кивает, медленно отступая и оставляя эти угодья вам, как вы и хотели.::<end>
 
 =>q11_original
 ::Your threats seem to be as effective as a crossbowman shooting wet noodles. His stare is piercing and adamant, while you have to figure out your next step.::<end>
 
 =>q11
-::Ваши угрозы, похоже, имели такой же эффект, как арбалет, стреляющий в мокрую лапшу. Его взгляд остаётся пронзительным и непреклонным пока вы обдумываете свой следующий шаг.::<end>
+::Ваши угрозы, похоже, имели такой же эффект, как арбалет, стреляющий мокрой лапшой. Его взгляд остаётся пронизывающим и непреклонным, пока вы обдумываете свой следующий шаг.::<end>
 
 =>a12_original
 If I see you one more time... You better watch it. ::Leave.::<end>
 
 =>a12
-Если увижу тебя ещё раз... Смотри тогда у меня... ::Уйти::<end>
+Если увижу тебя ещё раз... Смотри тогда у меня. ::Уйти::<end>
 
 =>a13_original
 ::Attack!::<end>
@@ -80,7 +80,7 @@ If I see you one more time... You better watch it. ::Leave.::<end>
 ::The man raises his right hand slightly above his head and greets you with an open palm; he is silent, however. Even though his appearance suggests him to be a fisherman, you notice a crossbow strapped to his shoulder, next to his fishing rod, and an occupied knife sheath attached to his belt, next to his colorful baits.::<end>
 
 =>q14
-::Мужчина молча поднимает правую руку чуть выше головы в приветственном жесте. Несмотря на внешность, указывающую, что перед вами простой рыбак, вы примечаете на его плече арбалет, лежащую рядом с ним удочку, а на поясе нож, по соседству с разноцветными приманками.::<end>
+::Мужчина молча поднимает правую руку над головой в приветственном жесте. Несмотря на внешность, указывающую, что перед вами простой рыбак, вы замечаете на его плече рядом с удочкой арбалет, а на поясе нож, по соседству с разноцветными приманками.::<end>
 
 =>a15_original
 ::Greet him back.::<end>
@@ -98,7 +98,7 @@ If I see you one more time... You better watch it. ::Leave.::<end>
 ::He calmly rotates slightly to the left and points to a mesh fish bag hanging by the back side of his belt, then he grasps it and moves it forward to show you its piscine content; he is deliberate with his motions as to not give a wrong impression. You then notice him rubbing some invisible coins between his fingers and thumb, then points at the fish again before waiting for your response.::<end>
 
 =>q17
-::Спокойно поворачиваясь немного налево он и указывает на сетчатый мешок с рыбой, висящий на его поясе, он берёт его и протягивает вперёд, чтобы показать вам его рыбное содержимое; при этом он крайне осторожен в своих движениях, дабы не создать неправильное впечатление. Рыбак делает характерный жест, потирая невидимые монеты между большим и указательным пальцем, после показывает на рыбу, не дожидаясь вашего ответа.::<end>
+::Он неспеша поворачивается немного налево и указывает на сетчатый мешок с рыбой, висящий на поясе, затем снимет его и протягивает вперёд, чтобы показать вам его содержимое; при этом он нарочито осторожен в своих движениях, дабы не создать неправильное впечатление. Рыбак делает характерный жест, потирая невидимые монеты между большим и указательным пальцем, после чего показывает на рыбу, дожидаясь вашего ответа.::<end>
 
 =>q18_original
 <end>
@@ -134,13 +134,13 @@ Sorry to hear that.<end>
 ::He hesitates for a moment before opening his mouth and showing you that he is missing his tongue. It appears to have been cleanly cut off in line with his wisdom teeth. His moves his hand as to outline several bulbous shapes where his tongue used to be, before severing it with his index finger with a single, clean slice.::<end>
 
 =>q23
-::Он колеблется на мгновение, прежде чем открыть рот и показать вам, что ему не хватает языка. Похоже, он был чисто отрезан сразу за зубами мудрости. Он двигает рукой обводя несколько округлых форм там, где раньше был его язык, прежде чем отрезать его указательным пальцем одним быстрым движением.::<end>
+::Он колеблется мгновение, прежде чем раскрыть рот и показать вам, что там нет языка. Похоже, что тот был отрезан начисто сразу за зубами мудрости. Он очерчивает рукой несколько округлых форм там, где раньше был его язык, прежде чем отрезать его одним быстрым движением указательного пальца.::<end>
 
 =>q24_original
 ::He shrugs his shoulders. "Couldn't be helped," his sad, dismissive gesture and shrug seem to imply, "but it could've been worse." his serious gaze continues. He then shrugs one more time.::<end>
 
 =>q24
-::Он пожимает плечами. - "Ничего не поделаешь" - его печальный, пренебрежительный жест и пожатие плечами, казалось, подразумевали что могло быть и хуже. Его взгляд остаётся серьёзным. Затем он пожимает плечами ещё раз.::<end>
+::Он пожимает плечами. «Ничего не поделаешь» -- подразумевает его печальный, пренебрежительный жест, -- «могло быть и хуже». Его взгляд остаётся серьёзным. Затем он вновь пожимает плечами.::<end>
 
 =>a25_original
 Why not?<end>
@@ -158,31 +158,31 @@ Did someone do that to you or...?<end>
 Do you know a guy called Geezer Ford?<end>
 
 =>a27
-Ты знаешь парня по имени Гизер Форд?<end>
+Ты знаешь человека, которого называют старикан Форд?<end>
 
 =>q28_original
 ::He nods. "Oh, yes," his eyes state more accurately.::<end>
 
 =>q28
-::Он кивает. "О, да", читается в его глазах.::<end>
+::Он кивает. «О, да», -- читается в его взгляде.::<end>
 
 =>a29_original
 What can you t-- What do you know about him?<end>
 
 =>a29
-Что ты можешь ... Что ты знаешь о нём?<end>
+Что ты можешь о нём... Что ты знаешь о нём?<end>
 
 =>q30_original
 ::He half-smiles and proceeds to babble for a few seconds with the help of his right hand, then pretends to reel in some fish before returning to what now strikes you more as boasting, as you see the speaking hand rise up and down as though to accent certain parts of the speech currently taking place in the fisherman's head.::<end>
 
 =>q30
-::Он полуулыбается и несколько секунд бормочет что-то с помощью правой руки, затем делает вид, что наматывает какую-то рыбу, прежде чем вернуться к тому, что сейчас кажется вам большим хвастовством, поскольку вы видите, как говорящая рука поднимается вверх и вниз, как будто акцентируя определённые части речи, звучащей в голове рыбака.::<end>
+::Он слегка улыбается и изображает правой ладонью хлопающий рот, затем делает вид, что выуживает рыбу, прежде чем снова изобразить рот, на этот раз явно бахвалящийся, судя по тому, как он поднимает и опускает руку в такт воображаемому монологу.::<end>
 
 =>q31_original
 Hmpf! ::His expression matches the contempt of the sound he's just produced.::<end>
 
 =>q31
-Хм-м! ::Его выражение лица соответствует презрению к звуку, который он только что издал.::<end>
+Пф-ф! ::Он издаёт этот звук с презрительным выражением лица.::<end>
 
 =>a32_original
 Where are you from?<end>
@@ -194,7 +194,7 @@ Where are you from?<end>
 ::He just shakes his head. "I don't want to speak about that," his eyes convey firmly.::<end>
 
 =>q33
-::Он качает головой. "Я не хочу говорить об этом", читается в его твёрдом взгляде.::<end>
+::Он качает головой. «Я не хочу говорить об этом», -- читается в его взгляде.::<end>
 
 =>a34_original
 Do you ever shoot fish with that crossbow?<end>
@@ -206,13 +206,13 @@ Do you ever shoot fish with that crossbow?<end>
 ::He nods but raises his index finger. "Small fish...", as the distance between his hands shows, those he does not shoot with a crossbow. Then his hands move away from each other until they are about two thirds of a meter apart, and to this he nods confidently. He then takes an imaginary crossbow and aims it at the water, waiting one second before shooting an undetectable bolt and pulling on an imperceptible thread, even simulating the effort of hauling a heavy but ultimately nonexistent fish.::<end>
 
 =>q35
-::Он кивает, поднимая указательный палец. "Мелкая рыбёшка...", он руками изображает её размер, "на такую не охотятся с арбалетом". Затем он разводит руки на расстояние, примерно, две трети метра, и кивает утвердительно. Затем берёт воображаемый арбалет и направляет его на воду и, выждав секунду, выстреливает невидимым болтом, после чего начинает тянуть из воды неведомую добычу, старательно имитируя усилия по вытаскиванию тяжёлой, но воображаемой им рыбы.::<end>
+::Он кивает, поднимая указательный палец. «Мелкую рыбёшку...», -- он руками изображает её размер, -- «на такую не охотятся с арбалетом». Затем он разводит руки на расстояние примерно две трети метра и кивает утвердительно. Он берёт воображаемый арбалет, направляет его на воду и, выждав секунду, выстреливает невидимым болтом, после чего начинает тянуть из воды незримую леску, старательно изображая усилия по вытаскиванию тяжёлой, пусть и воображаемой рыбы.::<end>
 
 =>q36_original
 ::"But only if the water is clear," his gaze reveals with the help of two of his outstretched fingers.::<end>
 
 =>q36
-::«Но только если вода чистая», его взгляд указывает на два вытянутых пальца.::<end>
+::«Но только если вода прозрачная», -- поясняют его взгляд и пара вытянутых пальцев.::<end>
 
 =>a37_original
 Can you teach me something about fishing?<end>
@@ -224,7 +224,7 @@ Can you teach me something about fishing?<end>
 ::He shakes his head a few times, maintaining tight lips while the rest of his face is fairly relaxed.::<end>
 
 =>q38
-::Он качает головой несколько раз, сжав губы, пока остальная часть его лица расслаблена.::<end>
+::Он качает головой, поджав губы.::<end>
 
 =>a39_original
 Why not?<end>
@@ -272,13 +272,13 @@ Do you know any good fishing spots?<end>
 ::"Many, many...", his smile seems to imply. His gaze wanders off momentarily, as if pulled by a random thought, and then he conjures up a sprawling city with a few quick gestures. He holds his nose in repulsion, while his other hand's fore and middle fingers keep slogging through some imagined noxious environment.::<end>
 
 =>q46
-::"Полным полно...", - кажется, подразумевает его улыбка. Его взгляд блуждает, словно привлечённый случайной мыслью, а затем он несколькими быстрыми жестами представляет себе раскинувшийся город. Он зажимает нос в отвращении, в то время как передний и средний пальцы его другой руки продолжают пробираться через какую-то воображаемую вредную среду.::<end>
+::«Полным полно...», -- кажется, подразумевает его улыбка. Его взгляд блуждает, словно в погоне за случайной мыслью, а затем он несколькими быстрыми жестами рисует раскинувшийся город. Он зажимает нос в отвращении, в то время как указательный и средний пальцы его другой руки тяжелой походкой пробираются через воображаемые нечистоты.::<end>
 
 =>q47_original
 ::The fingers come to a halt, and he raises his forefinger: "Now there I found a rare fish...", but as he then follows up with a disgusted face and simulated stomach pains, it doesn't appear to be the most palatable one. As far as his palate is concerned, at least.::<end>
 
 =>q47
-::Пальцы останавливаются, и он поднимает указательный палец: Говоря тем самым вот я нашёл редкую рыбу... Но, поскольку он затем делает отвратительное лицо и имитирует боли в желудке, это, похоже, не самая приятная рыба. По крайней мере, по его вкусовым ощущениям::<end>
+::Пальцы останавливаются, и он поднимает вверх указательный: «Вот где я нашёл редкую рыбу...» Но на вкус она была не очень, если судить по отвращению на его лице и рукам, ухватившимся за живот -- по крайней мере, на его вкус.::<end>
 
 =>a48_original
 So long.<end>
@@ -302,13 +302,13 @@ Greetings.<end>
 How's the fishing?<end>
 
 =>a51
-Как рыбалка?<end>
+Как клюёт?<end>
 
 =>q52_original
 ::"So-so," his expression seems to say. ::<end>
 
 =>q52
-::"Так-так", читается у него на лице.::<end>
+::«Так себе», -- читается у него на лице.::<end>
 
 =>a53_original
 This is my turf, man. I suggest you beat it.<end>
@@ -320,13 +320,13 @@ This is my turf, man. I suggest you beat it.<end>
 ::He shakes his head, frowning, while subtly lowering the shoulder to which his crossbow is strapped; his opposite hand seems ready for action as well.::<end>
 
 =>q54
-::Он качает головой, нахмурившись, опустив плечо, к которому привязан его арбалет; его противоположная рука также готова к действию.::<end>
+::Он качает головой, нахмурившись и чуть опустив плечо, на котором висит арбалет; его другая рука также готова к действию.::<end>
 
 =>a55_original
 I'm sorry, I'm sorry. I thought you were someone else.<end>
 
 =>a55
-Прости, прости меня. Я принял тебя за другого человека.<end>
+Простите, извините. Я обознал$(#ся/ась).<end>
 
 =>q56_original
 ::He watches you silently.::<end>
@@ -338,13 +338,13 @@ I'm sorry, I'm sorry. I thought you were someone else.<end>
 Um, greetings, sir.<end>
 
 =>a57
-Эм, приветствую сэр.<end>
+Эм, приветствую, сэр.<end>
 
 =>q58_original
 ::He is quiet for a moment longer but relaxes soon enough. ::<end>
 
 =>q58
-::Он молчит ещё некоторое время, но довольно скоро расслабляется.::<end>
+::Он напряжённо молчит ещё некоторое время, но довольно скоро немного расслабляется.::<end>
 
 =>a59_original
 Greetings.<end>
@@ -356,19 +356,19 @@ Greetings.<end>
 So... how's the fishing?<end>
 
 =>a60
-Так... как рыбалка?<end>
+Ну и... как клюёт?<end>
 
 =>a61_original
 You have been warned, man.<end>
 
 =>a61
-Я тебя предупредил, мужик.<end>
+Я тебя предупредил$(#/а), мужик.<end>
 
 =>q62_original
 ::His adamant stare persists until you realize it is you who has to decide what happens next.::<end>
 
 =>q62
-::Он сохраняет твёрдость взгляда до тех пор, пока до вас не доходит, что именно вы должны решить, что произойдёт дальше.::<end>
+::Он сохраняет твёрдость взгляда, пока до вас не доходит, что он ждёт ваших дальнейших действий.::<end>
 
 =>a63_original
 ::Leave him be.::<end>
@@ -380,4 +380,4 @@ You have been warned, man.<end>
 ::He greets you with a wave. "Fish?", his expression speaks as he points at his net of aquatic goodies.::<end>
 
 =>q64
-::Он приветливо машет вам. "Рыбки?", выразительно указывая на свои садки с дарами моря.::<end>
+::Он приветливо машет вам. «Нужна рыба?», -- вопрошает его взгляд, а рука указывает на сетку с дарами моря.::<end>
