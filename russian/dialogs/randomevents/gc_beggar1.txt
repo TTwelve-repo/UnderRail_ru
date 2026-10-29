@@ -4,7 +4,7 @@
 Ah... Do you have a coin, sir or ma'am? I... I am but a frail old man who cannot work no more. Please be kind. One coin, that's all I'm asking.<end>
 
 =>q1
-::Несчастный дедуля смотрит на вас затуманенными глазами, но, скорее, по привычке, а не потому что он действительно может вас хорошо видеть.:: 
+::Одинокий дедуля смотрит на вас затуманенными глазами, но скорее, по привычке, а не потому что он действительно может вас нормально видеть.:: 
 
 Ах... у вас не будет монеты, сэр или мэм? Я... я всего лишь дряхлый старик, который не может больше работать. Пожалуйста, будьте добры. Одну монету, это всё, что я прошу.<end>
 
@@ -36,7 +36,7 @@ Here's five. ::Give him five stygian coins.::<end>
 You can't get anything with one coin. Take this. ::Give him ten stygian coins.::<end>
 
 =>a6
-Ты ничего не купишь на одну монету. Возьми вот. ::Дать ему десять стигийских монет.::<end>
+Вы ничего не купите на одну монету. Возьмите вот. ::Дать ему десять стигийских монет.::<end>
 
 =>q7_original
 Oh, thank you - thank you! There are still kind people in Underrail after all. May good fortune always be with you!<end>
@@ -48,13 +48,13 @@ Oh, thank you - thank you! There are still kind people in Underrail after all. M
 Go and get something good to eat. ::Give him twenty stygian coins.::<end>
 
 =>a8
-Сходи, купи чего-нибудь вкусного поесть. ::Дать ему двадцать стигийских монет.::<end>
+Сходите, купите хорошей еды. ::Дать ему двадцать стигийских монет.::<end>
 
 =>a9_original
 How about this? ::Give him fifty stygian coins.::<end>
 
 =>a9
-Как насчёт этого? ::Дать ему пятьдесят стигийских монет.::<end>
+Может, лучше так? ::Дать ему пятьдесят стигийских монет.::<end>
 
 =>q10_original
 ::Visibly astonished by your generosity, the man feels the pile of coins in his hands for a few moments before expressing his gratitude.::
@@ -64,7 +64,7 @@ My! I've never met a human being more kind and good and, and... I don't know how
 =>q10
 ::Явно поражённый вашей щедростью, он несколько мгновений ощупывает монеты в своих руках, прежде чем выразить свою благодарность.:: 
 
-Непостижимо! Я никогда не встречал человека более доброго и хорошего и, и... я не знаю, как я могу вас отблагодарить за... ::Его мутные глаза проливают одинокую слезу, которая стекает по морщинистому лицу и падает на кучку монет в его руках.:: Пусть... пусть жизнь будет так же добра к вам, как вы были ко мне! Спасибо. Спасибо!<end>
+Непостижимо! Я никогда не встречал человека более доброго, и щедрого и, и... я не знаю, как я могу вас отблагодарить за... ::Одинокая слеза скатывается по морщинистой щеке и падает на горсть монет в его руках.:: Пусть... пусть жизнь будет так же добра к вам, как вы были ко мне! Спасибо. Спасибо!<end>
 
 =>a11_original
 I'll give you one... hundred coins. ::Give him one hundred stygian coins.::<end>
@@ -76,7 +76,7 @@ I'll give you one... hundred coins. ::Give him one hundred stygian coins.::<end>
 Sorry, got nothing.<end>
 
 =>a12
-Извини, ничего нет.<end>
+Извини, я на мели.<end>
 
 =>q13_original
 That is okay. May good fortune be with you in any case, $(#sir/ma'am).<end>
@@ -88,7 +88,7 @@ That is okay. May good fortune be with you in any case, $(#sir/ma'am).<end>
 You'll be dead soon anyway, so why waste perfectly good money on your deteriorating ass?<end>
 
 =>a14
-В любом случае ты скоро умрёшь, так зачем тратить деньги на твою старую задницу?<end>
+Ты всё равно скоро помрёшь, так зачем тратить деньги на твою старую задницу?<end>
 
 =>q15_original
 ::His face contorts in disgust, and his pale hands squeeze into two bony fists.::
@@ -98,7 +98,7 @@ How can you say that, you monster? Have you no heart, no heart at all? If I was 
 =>q15
 ::Его лицо искажается в презрении, а бледные руки сжимаются в два костлявых кулака.::
 
-Как ты можешь такое говорить, чудовище? У тебя нет сердца, совсем нет сердца? Если бы я был моложе... тьфу... я бы показал тебе! $(#Жестокий, бессердечный ублюдок/Жестокая, бессердечная стерва)!<end>
+Как ты можешь такое говорить, чудовище? У тебя нет сердца, совсем нет сердца? Будь я помоложе... тьфу... я бы показал тебе! $(#Жестокий, бессердечный ублюдок/Жестокая, бессердечная стерва)!<end>
 
 =>a16_original
 If you were younger, you'd be working instead of begging for money.<end>
@@ -116,25 +116,25 @@ $(#Ублюдок, бессердечный ублюдок/Стерва, бес�
 Keep on barking, old fart. Keep on barking.<end>
 
 =>a18
-Продолжай лаять, старый пердун. Лай себе.<end>
+Полай мне ещё, старый пердун. Гав-гав.<end>
 
 =>a19_original
 I'm gone. I'm not wasting a moment more on you.<end>
 
 =>a19
-Я ухожу. Больше не буду тратить на тебя время.<end>
+Я ухожу. У меня нет на тебя времени.<end>
 
 =>a20_original
 ::Leave without saying anything.::<end>
 
 =>a20
-::Промолчать и уйти.::<end>
+::Уйти, не говоря ни слова.::<end>
 
 =>q21_original
 Oh. Goodbye.<end>
 
 =>q21
-Ох. До свидания. <end>
+Ох. До свидания.<end>
 
 =>q22_original
 Burn in hell.<end>
