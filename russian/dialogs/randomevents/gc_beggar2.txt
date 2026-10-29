@@ -6,17 +6,17 @@ Got any spare change? A coin or two?
 ::The small, malnourished dog stares at you, reaffirming its master's plead.::<end>
 
 =>q1
-::Худая молодая женщина говорит вам тихим голосом, почти шёпотом.:: 
+::Худая молодая женщина обращается к вам тихим голосом, почти шёпотом: :: 
 
 Есть какая-нибудь мелочь? Монета или две?
 
-::Маленькая тощая собачка смотрит на вас, подкрепляя просьбу своей хозяйки.::<end>
+::Маленькая тощая собачонка смотрит на вас, подкрепляя просьбу своей хозяйки.::<end>
 
 =>a2_original
 Take this. ::Give her one stygian coin.::<end>
 
 =>a2
-Возьмите. ::Дать ей одну стигийскую монету.::<end>
+Возьмите. ::Дать ей стигийскую монету.::<end>
 
 =>q3_original
 ::She smiles at you.:: Thanks. Every coin means a lot. Bless you.<end>
@@ -46,7 +46,7 @@ Here's ten coins for you. ::Give her ten stygian coins.::<end>
 ::She smiles at you.:: That's a lot more than what I usually get. Look, Kirby, we're gonna eat something nice today.<end>
 
 =>q7
-::Она улыбается вам.:: Это намного больше, чем я получаю обычно. Смотри, Кирби, сегодня мы поедим что-нибудь вкусное.<end>
+::Она улыбается вам.:: Это намного больше, чем подают обычно. Смотри, Кирби, сегодня мы поедим что-нибудь вкусненькое.<end>
 
 =>q8_original
 ::It wiggles its tail happily.:: Woof!<end>
@@ -64,7 +64,7 @@ Thanks again. Bless you.<end>
 A coin or two isn't gonna feed both of you. Take this. ::Give her twenty stygian coins.::<end>
 
 =>a10
-Пара монет не прокормят вас двоих. Возьмите это. ::Дать ей двадцать стигийских монет.::<end>
+Пара монет не прокормят вас двоих. Возьмите. ::Дать ей двадцать стигийских монет.::<end>
 
 =>a11_original
 Here's fifty charons. For you and the pooch. ::Give her fifty stygian coins.::<end>
@@ -118,7 +118,7 @@ How about you *earn* those few coins, eh, honey? You know, the good ol' way.<end
 Shame on you. Leave me alone.<end>
 
 =>q18
-::Шокированная вашим предложением, женщина отводит от вас глаза. Её собака отвечает вам, начиная рычать.::
+::Шокированная вашим предложением, женщина отводит глаза. Её собака отвечает тоже, начиная рычать.::
 
 Как вам не стыдно. Оставьте меня в покое.<end>
 
@@ -138,7 +138,7 @@ Hey, an offer is an offer. Think about it.<end>
 Grrrrrrrrrrrr! Woof! GRRRRRR!<end>
 
 =>q21
-Гр-р-р-р-р-р-р-р-р! Гав! Р-Р-Р-Р-Р-Р-Р!<end>
+Гр-р-р-р-р-р-р! Гав! Р-Р-Р-Р-Р-Р!<end>
 
 =>a22_original
 Come on, this most certainly isn't the first time someone mentioned this to you?<end>
@@ -156,7 +156,7 @@ Come on, this most certainly isn't the first time someone mentioned this to you?
 There's a way for you to earn money; I can get you some customers if you need help with that. But ditch that smelly mutt first.<end>
 
 =>a24
-У тебя есть способ заработать денег; я мог$(#/ла) бы помочь тебе найти клиентов, если тебе нужна помощь. Но сначала избавься от этой вонючей дворняги.<end>
+Ты можешь заработать денег; я мог$(#/ла) бы помочь тебе найти клиентов, если тебе нужна помощь. Только сначала избавься от этой вонючей дворняги.<end>
 
 =>q25_original
 ::She ignores you completely.::<end>
@@ -174,4 +174,4 @@ Bless you.<end>
 My hands are cold...<end>
 
 =>q27
-Мои руки замёрзли...<end>
+Руки замёрзли...<end>
