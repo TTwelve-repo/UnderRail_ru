@@ -2,7 +2,7 @@
 You're back.<end>
 
 =>q1
-Вы вернулись.<end>
+Вернул$(#ся/ась).<end>
 
 =>q2_original
 <end>
@@ -34,9 +34,9 @@ Can't you tell?<end>
 I told you whatcha need to do, my dear. What more do you want from me?<end>
 
 =>q6
-:: Она откровенно смеётся над вами.::
+::Она откровенно смеётся над вами.::
 
-Я сказала тебе, что делать, мо$(#й/я) дорог$(#ой/ая). Что ты ещё хочешь от меня?<end>
+Я сказала тебе, что делать, моё золотце. Что ещё ты хочешь от меня?<end>
 
 =>a7_original
 I want to know for sure.<end>
@@ -64,7 +64,7 @@ Now what?<end>
 That is entirely... up to you.<end>
 
 =>q10
-Это полностью ... зависит от тебя.<end>
+Это полностью... зависит от тебя.<end>
 
 =>q11_original
 <end>
@@ -82,13 +82,13 @@ That is entirely... up to you.<end>
 Good eyes you got there. ::She raises her hand, and indeed, the head and heart lines are one.::<end>
 
 =>q13
-А у тебя зоркий глаз. ::Она поднимает руку, и действительно, линии ума и сердца соединяются в единое целое.::<end>
+А у тебя зоркий глаз. ::Она поднимает ладонь, и действительно, линии ума и сердца соединяются воедино.::<end>
 
 =>a14_original
 Is that connected to your gift?<end>
 
 =>a14
-Это связано с твоим даром?<end>
+Это как-то связано с твоим даром?<end>
 
 =>q15_original
 And you've been payin' attention.
@@ -100,21 +100,21 @@ It marked my lifestyle, my purpose, and... my solitarity.<end>
 =>q15
 Внимательности тебе не занимать.
 
-Да... отчасти, отчасти. У меня она только на левой руке. ::Она закрывает ладонь, рассматривая её. Затем она снова открывает её.::
+Да... отчасти, отчасти. У меня она только на левой руке. ::Она закрывает ладонь, рассматривая её. Затем она снова раскрывает её.::
 
-На ней отмечен мой образ жизни, моя цель и... моё одиночество.<end>
+В ней мой образ жизни, моя цель и... моё одиночество.<end>
 
 =>a16_original
 I'd like you to read my palm.<end>
 
 =>a16
-Я хочу, чтобы ты прочитала по моей ладони.<end>
+Я хочу, чтобы ты прочитала мои линии.<end>
 
 =>q17_original
 Certainly, my dear, certainly! For a humble fee of twenty charons I could tell you so much about yourself and what awaits ya.<end>
 
 =>q17
-Конечно, мо$(#й/я) дорог$(#ой/ая), конечно! За скромную плату в двадцать харонов я могла бы так много рассказать о тебе и твоём будущем.<end>
+Конечно, золото моё, конечно! За скромную плату в двадцать харонов я расскажу, что было и что будет.<end>
 
 =>q18_original
 <end>
@@ -132,7 +132,7 @@ Here you go. ::Give her twenty Stygian coins.::<end>
 ::She collects the money with one hand while gently holding yours with her other one. Then ::<end>
 
 =>q20
-::Она берёт деньги одной рукой, а другой осторожно держит вашу руку. Тогда ::<end>
+::Она берёт деньги одной рукой, а другой осторожно держит вашу. Затем ::<end>
 
 =>q21_original
 ::she carefully inspects your hand.::
@@ -140,7 +140,8 @@ Here you go. ::Give her twenty Stygian coins.::<end>
 <end>
 
 =>q21
-::она внимательно осматривает вашу руку.::
+::она внимательно разглядывает вашу руку.::
+
 <end>
 
 =>q22_original
@@ -153,7 +154,7 @@ Ah, yes, yes... <end>
 Such nice, nimble fingers.<end>
 
 =>q23
-Такие милые, шустрые пальцы.<end>
+Такие красивые, ловкие пальцы.<end>
 
 =>q24_original
 <end>
@@ -175,7 +176,7 @@ The lines, they can show me everythin' 'bout you: your emotions, your wits - you
 =>q26
 ::Она начинает водить пальцем по линиям на вашей ладони.::
 
-Линии, они могут показать мне всё о тебе: твои эмоции, твой ум - твоё здоровье! Но... давай рассматривать по одной линии за раз.<end>
+Линии всё про тебя знают: твои эмоции, твой ум, твоё здоровье! Но... давай по порядку.<end>
 
 =>q27_original
 ::Her finger traces a line going straight across the palm, from the edge underneath the index finger to the outer edge on the other side.::
@@ -183,15 +184,15 @@ The lines, they can show me everythin' 'bout you: your emotions, your wits - you
 This is the head line - it reflects your mind. It tells me <end>
 
 =>q27
-::Её палец проходит по линии, идущей прямо через ладонь, от края под указательным пальцем до внешнего края с другой стороны.::
+::Она проводит пальцем по линии, пересекающей ладонь от указательного пальца до мизинца.::
 
-Это линия головы - она отражает твоё сознание. Она говорит мне <end>
+Это линия головы -- она отражает твоё сознание. Она говорит мне, что <end>
 
 =>q28_original
 you're an intelligent $(#man/woman) capable of solvin' great problems and of a *vorrracious* appetite for knowledge. <end>
 
 =>q28
-Ты умн$(#ый/ая) $(#мужик/баба), способн$(#ый/ая) решать серьёзные проблемы и обладающ$(#ий/ая) *огромной* тягой к знаниям. <end>
+ты умн$(#ый/ая) $(#мужик/баба), способн$(#ый/ая) решать серьёзные проблемы и обладающ$(#ий/ая) *огромной* тягой к знаниям. <end>
 
 =>q29_original
 Certain people got their head and heart lines fused into what us palmists call the *simian crease*. These people have special gifts, and can sometimes be of a *very* intense nature. 
@@ -199,7 +200,7 @@ Certain people got their head and heart lines fused into what us palmists call t
 You ain't got it, but take note of folks who do...<end>
 
 =>q29
-У некоторых людей линии головы и сердца сливаются в то, что мы, хироманты, называем *обезьянья складка*. Эти люди обладают особыми дарами и иногда обладают *очень* сильным характером.
+У некоторых людей линии головы и сердца сливаются в то, что мы, хироманты, называем *обезьяньей складкой.* Эти люди особенно одарены и иногда обладают *очень* сильным характером.
 
 У тебя такой нет, но обрати внимание на тех, у кого она есть...<end>
 
@@ -209,15 +210,15 @@ You ain't got it, but take note of folks who do...<end>
 The heart line - a pure insight into person's emotions and love. <end>
 
 =>q30
-::Затем она проводит по слегка вогнутой линии, чуть выше линии головы, проходящей под пальцами.::
+::Затем она проводит по слегка изогнутой линии, чуть выше линии головы, проходящей под пальцами.::
 
-Линия сердца - чистое понимание эмоций и любви человека. <end>
+Линия сердца -- рассказывает о эмоциях и любви. <end>
 
 =>q31_original
 You're a very emotional $(#man/woman), my dear. Willful and assertive, and you use it to great effect in your life.<end>
 
 =>q31
-Ты очень эмоциональн$(#ый/ая) $(#мужик/баба), мо$(#й/я) дорог$(#ой/ая). Своевольность и напористость, и ты используешь их с большим эффектом в своей жизни.<end>
+Ты очень эмоциональн$(#ый/ая) $(#мужик/баба), золото моё. Упрямство и напористость очень помогают тебе в жизни.<end>
 
 =>q32_original
 ::She looks at the line some more, shaking her head.::
@@ -227,7 +228,7 @@ I don't see... yes, I'm sad to say it, but I don't see much happiness in love.<e
 =>q32
 ::Она ещё немного смотрит на линию, качая головой.::
 
-Я не вижу... да, мне грустно это признавать, но я не вижу большого счастья в любви.<end>
+Я не вижу... да, очень грустно, но я не вижу большого счастья в любви.<end>
 
 =>a33_original
 I'll never find the right woman?<end>
@@ -241,9 +242,9 @@ You might find someone, but whether you're gonna be happy, truly happy... that's
 But do not despair, for there may still be *the one* somewhere.<end>
 
 =>q34
-Ты можешь найти кого-нибудь, но будешь ли ты счастлив$(#/а), по-настоящему счастлив$(#/а)... тяжело сказать. Каждый раз, когда ты встречаешь кого-то... случается что-то несчастливое.
+Ты можешь найти кого-нибудь, но будешь ли ты счастлив$(#/а), по-настоящему счастлив$(#/а)... тяжело сказать. Каждый раз, когда ты встречаешь кого-то... тебе не везёт.
 
-Но не отчаивайся, ведь где-то ещё может найтись *$(#та самая/тот самый)*.<end>
+Но не отчаивайся, ведь где-то ещё может найтись *$(#та самая/тот самый).*<end>
 
 =>a35_original
 Tell me more. What's the next line?<end>
@@ -257,15 +258,15 @@ Tell me more. What's the next line?<end>
 The life line - that one'll tell me 'bout your vitality...<end>
 
 =>q36
-Затем она проводит по линии, начинающейся чуть выше большого пальца и идущей по дуге к запястью:
+::Затем она проводит по линии, начинающейся чуть выше большого пальца и идущей по дуге к запястью:
 
-Линия жизни - она расскажет мне о твоей жизненной силе...<end>
+Линия жизни -- она расскажет о здоровье...<end>
 
 =>q37_original
 Excellent! You're as fit as a fiddle, my dear. A long life is ahead of you. <end>
 
 =>q37
-Отлично! Ты в хорошей форме, мо$(#й/я) дорог$(#ой/ая). Впереди долгая жизнь. <end>
+Отлично! Ты в хорошей форме, золото моё. У тебя впереди долгая жизнь. <end>
 
 =>q38_original
 And you're mighty strong as well. <end>
@@ -285,9 +286,9 @@ And you're mighty strong as well. <end>
 And lastly - the fate line. This one's very special. It shows your life path, choices and consequences, successes and obstacles - and even an insight into events far outside of one's control.<end>
 
 =>q40
-::Она проводит по линии, проходящей прямо через середину вашей ладони, начиная от запястья и заканчивая под средним пальцем.::
+::Она проводит по линии, проходящей через середину вашей ладони, начинаясь от запястья и заканчиваясь под средним пальцем.::
 
-И последнее - линия судьбы. Эта линия особенная. Она показывает твой жизненный путь, выбор и последствия, успехи и препятствия - и даже понимание событий, находящихся далеко за пределами контроля человека.<end>
+И наконец -- линия судьбы. Эта линия особенная. Она показывает твой жизненный путь, решения и их последствия, успехи и препятствия -- и даже расскажет о вещах, над которыми мы не властны.<end>
 
 =>q41_original
 I see you... searchin'. It's somethin' you'll be able to understand and overcome. Yet... what comes after is a monumental event that'll affect the entire Underrail.
@@ -295,7 +296,7 @@ I see you... searchin'. It's somethin' you'll be able to understand and overcome
 Hmmm, I can't tell if these two events are linked or not.<end>
 
 =>q41
-Я вижу, что ты... в поиске. В поиске чего-то, что ты сможешь понять и преодолеть. И всё же... то, что произойдёт потом, - грандиозное событие, которое повлияет на всю Подземку.
+Я вижу, что ты... в поиске. В поиске чего-то, что ты сможешь понять и преодолеть. И всё же... то, что произойдёт потом, -- грандиозное событие, которое повлияет на всю Подземку.
 
 Хм-м-м, не могу сказать, связаны эти два события или нет.<end>
 
@@ -303,7 +304,7 @@ Hmmm, I can't tell if these two events are linked or not.<end>
 That is all I can tell you, my dear.<end>
 
 =>q42
-Это всё, что я могу сказать тебе, мо$(#й/я) дорог$(#ой/ая).<end>
+Это всё, что я могу сказать тебе, золото моё.<end>
 
 =>q43_original
 <end>
@@ -315,19 +316,19 @@ That is all I can tell you, my dear.<end>
 ::[Persuade]:: I'm in absolute awe. You got everything right! I had no idea palm reading is so potent.<end>
 
 =>a44
-::[Убеждение]:: Я в полном восторге. Ты всё сделала правильно! Я и не подозревал$(#/а), что чтение по ладони - настолько сильнодействующее средство.<end>
+::[Убеждение]:: Я в полном восторге. Ты всё сказала правильно! Я и не подозревал$(#/а), что можно столько всего прочитать по ладони.<end>
 
 =>q45_original
 Of course, my dear. I'm delighted to hear you're so pleased. <end>
 
 =>q45
-Конечно мо$(#й/я) дорог$(#ой/ая). Рада слышать, что ты так довол$(#ен/ьна). <end>
+Конечно, золото моё. Рада слышать, что ты так довол$(#ен/ьна). <end>
 
 =>q46_original
 I've told you much about yourself, about your fortune. <end>
 
 =>q46
-Я много рассказала о тебе, о твоей удаче. <end>
+Я много рассказала о тебе, о твоей судьбе. <end>
 
 =>q47_original
 May it follow you wherever you go.<end>
@@ -347,14 +348,15 @@ There is somethin' else I could show you...<end>
 <end>
 
 =>q49
-::Её рука движется к поясу, делая несколько более длинный путь, касаясь обнажённого живота. Затем она осторожно поднимает что-то, похожее на высушенную заднюю лапку пещерника. Вы видите другие ноги, лапы, когти, все они так же хорошо сохранились и превратились в подвески. Её рука элегантно проводит по всем ним.::
+::Её рука опускается к поясу, совершая несколько замысловатый путь и касаясь обнажённого живота. Она осторожно снимает с пояса, по-видимому, высушенную заднюю лапку пещерника. Вы так же видите другие ноги, лапы, когти -- все таким же образом засушенные и превращённые в какие-то брелки. Её рука элегантным движением предлагает взглянуть на них.::
+
 <end>
 
 =>q50_original
 Any one of these will bring you good fortune, my dear, but some more than the others. Different charms work for different people. <end>
 
 =>q50
-Любой из них принесёт тебе удачу, мо$(#й/я) дорог$(#ой/ая), но одни принесут больше, чем другие. На разных людей амулеты действуют по-разному. <end>
+Любой из них принесёт тебе удачу, золото моё, но одни больше, чем другие. На разных людей мои талисманы действуют по-разному. <end>
 
 =>q51_original
 Since I've read your palm, <end>
@@ -366,7 +368,7 @@ Since I've read your palm, <end>
 I'd like to make a recommendation: <end>
 
 =>q52
-Хотелось бы кое-что тебе порекомендовать: <end>
+Я могу кое-что тебе порекомендовать: <end>
 
 =>q53_original
 <end>
@@ -378,13 +380,13 @@ I'd like to make a recommendation: <end>
 The burrower tarsus. Perfect for someone of such vigor.<end>
 
 =>q54
-Лапа могильщика. Идеальна для человека с твоим рвением.<end>
+Лапа могильщика. То что надо для такого сильного человека.<end>
 
 =>q55_original
 You may, of course, choose any one you like.<end>
 
 =>q55
-Ты, конечно, можешь выбрать любой понравившийся.<end>
+Ты, конечно же, можешь выбрать любой понравившийся.<end>
 
 =>q56_original
 <end>
@@ -396,7 +398,7 @@ You may, of course, choose any one you like.<end>
 About lucky charms in general...<end>
 
 =>a57
-Об амулетах в целом...<end>
+Насчёт талисманов...<end>
 
 =>q58_original
 Yes?<end>
@@ -414,13 +416,13 @@ Yes?<end>
 What are they, actually?<end>
 
 =>a60
-Кто они такие?<end>
+Что они такое?<end>
 
 =>q61_original
 They are the limbs of animals that have been possessed.<end>
 
 =>q61
-Это конечности одержимых животных.<end>
+Это лапы одержимых животных.<end>
 
 =>a62_original
 By what?<end>
@@ -438,7 +440,7 @@ By the souls of dead psionics. <end>
 That is what gives these items their power to affect the fortune of their wearers.<end>
 
 =>q64
-Именно это придаёт этим предметам силу влиять на судьбу их обладателей.<end>
+Именно это даёт им силу влиять на судьбы их обладателей.<end>
 
 =>a65_original
 So, these psionic souls...?<end>
@@ -450,7 +452,7 @@ So, these psionic souls...?<end>
 Yes, yes - the souls.<end>
 
 =>q66
-Да, да... души.<end>
+Да, да -- души.<end>
 
 =>q67_original
 <end>
@@ -462,7 +464,7 @@ Yes, yes - the souls.<end>
 What are they actually?<end>
 
 =>a68
-Кто они такие?<end>
+Что они такое?<end>
 
 =>q69_original
 They are... they're essential energies of dead or dyin' psionic beings, my dear, their disembodied personalities, their thoughts and emotions. They, you see, they exist in our world, but are outside of what's visible - to most people! 
@@ -470,9 +472,9 @@ They are... they're essential energies of dead or dyin' psionic beings, my dear,
 Only the gifted ones can sense 'em in their true form, but despite that, they affect our world more than you may believe.<end>
 
 =>q69
-Это... это эфирные энергии умерших или погибших псионических существ, мо$(#й/я) дорог$(#ой/ая), их развоплощённые личности, их мысли и эмоции. Они, видите ли, существуют в нашем мире, но находятся за пределами видимого - для большинства людей!
+Это... эфирные энергии умерших или умирающих псионических существ, золото моё, их развоплощённые личности, их мысли и эмоции. Они, видите ли, существуют в нашем мире, но находятся за пределами видимого - для большинства людей!
 
-Только одарённые могут почувствовать их в их истинной форме, но, несмотря на это, они влияют на наш мир больше, чем ты думаешь.<end>
+Только одарённые могут почувствовать их в их истинной форме, но несмотря на это, они влияют на наш мир больше, чем ты думаешь.<end>
 
 =>q70_original
 <end>
@@ -484,19 +486,19 @@ Only the gifted ones can sense 'em in their true form, but despite that, they af
 ::[Persuade]:: Oh, I believe. How can I not after everything you've told me?<end>
 
 =>a71
-::[Убеждение]:: О, я верю. А как мне не верить после всего, что ты мне рассказала?<end>
+::[Убеждение]:: О, я верю. А как не верить после всего, что ты мне рассказала?<end>
 
 =>q72_original
 Yes, I'm delighted to hear it, my dear.<end>
 
 =>q72
-Да, рада это слышать, мо$(#й/я) дорог$(#ой/ая).<end>
+Да, рада это слышать, золото моё.<end>
 
 =>q73_original
 ::She continues.:: <end>
 
 =>q73
-::Она продолжает...:: <end>
+::Она продолжает.:: <end>
 
 =>q74_original
 These souls... they don't remain 'ere 'cause it's what they desire. Oh, no. They affect our world 'cause they gotta! You see, my dear, all souls want to move on after disembodiment, to move on to the world beyond.
@@ -504,7 +506,7 @@ These souls... they don't remain 'ere 'cause it's what they desire. Oh, no. They
 *But!* If a life has been taken violently, unjustly, if a soul is released before its time, then it will turn restless! Sometimes, even if someone died a natural death, there could still be things the soul yearns for - unfinished business of some kind, revenge - love.<end>
 
 =>q74
-Эти души... они остаются здесь не потому, что так им хочется. О, нет. Они влияют на наш мир, потому что должны! Видишь ли, мо$(#й/я) дорог$(#ой/ая), все души хотят двигаться дальше после развоплощения, двигаться в мир иной.
+Эти души... они остаются здесь не потому, что так им хочется. О, нет. Они влияют на наш мир, потому что должны! Видишь ли, золото моё, все души хотят двигаться дальше после развоплощения, двигаться в мир иной.
 
 *Но!* если жизнь была отнята насильственно, несправедливо, если душу отпустили раньше времени, то она становится беспокойной! Иногда, даже если кто-то умер естественной смертью, душа всё ещё может к чему-то стремиться - какое-то незаконченное дело, месть, любовь.<end>
 
@@ -626,7 +628,7 @@ What... happened?<end>
 You're cursed, my dear.<end>
 
 =>q90
-Ты проклят$(#/а), мо$(#й/я) дорог$(#ой/ая).<end>
+Ты проклят$(#/а), золото моё.<end>
 
 =>q91_original
 Now begone! I ain't wastin' any more time on *you*.<end>
@@ -758,7 +760,7 @@ Uggghhhh... <end>
 ::Her amber eyes flare up.:: You better watch your tongue, my dear. I don't take insults lightly.<end>
 
 =>q112
-::Её янтарные глаза вспыхивают.:: Следи за своим языком, мо$(#й/я) дорог$(#ой/ая). Я серьёзно отношусь к оскорблениям.<end>
+::Её янтарные глаза вспыхивают.:: Следи за своим языком, золото моё. Я серьёзно отношусь к оскорблениям.<end>
 
 =>a113_original
 Sorry. Do proceed.<end>
@@ -779,7 +781,7 @@ Sorry. Do proceed.<end>
 There's a way, my dear, there's *many* a way.<end>
 
 =>q115
-Есть способ, мо$(#й/я) дорог$(#ой/ая), есть *множество* способов.<end>
+Есть способ, золото моё, есть *множество* способов.<end>
 
 =>q116_original
 ::She opens her palm and gently traces its natural lines with her other hand's fingers.::
@@ -815,7 +817,7 @@ Whether you believe it or not, that *is* your fortune, my dear. And if you'd try
 <end>
 
 =>q120
-Веришь ты или нет, но *это* твоя удача, мо$(#й/я) дорог$(#ой/ая). А если бы ты хоть немного поверил$(#/а)...
+Веришь ты или нет, но *это* твоя удача, золото моё. А если бы ты хоть немного поверил$(#/а)...
 <end>
 
 =>a121_original
@@ -998,7 +1000,7 @@ So much energy here. So much interference! This location may be excellent for hu
 =>q145
 ::Она открывает глаза.::
 
-Здесь так много энергии. Так много помех! Это место может быть превосходным для охоты, действительно, мо$(#й/я) дорог$(#ой/ая), многие души тянутся к этому месту... но мой разум слишком чувствителен для этого, слишком чувствителен.<end>
+Здесь так много энергии. Так много помех! Это место может быть превосходным для охоты, действительно, золото моё, многие души тянутся к этому месту... но мой разум слишком чувствителен для этого, слишком чувствителен.<end>
 
 =>q146_original
 <end>
@@ -1028,7 +1030,7 @@ Few souls linger near waters, as they trap 'em and drag 'em down. Runnin' water 
 I sense hardly a soul... but it's no wonder - we're near deep waters, my dear.<end>
 
 =>q149
-Я почти ни одной души не чувствую... но это неудивительно - мы рядом с глубокими водами, мо$(#й/я) дорог$(#ой/ая).<end>
+Я почти ни одной души не чувствую... но это неудивительно - мы рядом с глубокими водами, золото моё.<end>
 
 =>q150_original
 ::She opens her eyes.::
@@ -1060,7 +1062,7 @@ Why do waters drag them down?<end>
 It's simple, my dear: Water is life. All livin' things are made up of water. The souls sense it, they sense water. In their desire to return back to life one more time, they may be drawn to these large bodies of water and become trapped - especially by runnin' water - and get lost in their depths.<end>
 
 =>q153
-Всё просто, мо$(#й/я) дорог$(#ой/ая): вода - это жизнь. Всё живое состоит из воды. Души чувствуют это, они чувствуют воду. В своём желании вернуться к жизни ещё раз они стремятся к этим большим водоёмам, что заставляет их попасть в ловушку -- особенно в бегущую воду -- и потеряться в её глубинах.<end>
+Всё просто, золото моё: вода - это жизнь. Всё живое состоит из воды. Души чувствуют это, они чувствуют воду. В своём желании вернуться к жизни ещё раз они стремятся к этим большим водоёмам, что заставляет их попасть в ловушку -- особенно в бегущую воду -- и потеряться в её глубинах.<end>
 
 =>q154_original
 Them sailors, they know these things. People dismiss their stories... but they know. For these trapped souls, they can never get out, never, unless the water brings 'em to a different place, or if the water is removed. So they accumulate...
@@ -1082,7 +1084,7 @@ Why don't they like open spaces?<end>
 The souls are deprived of their bodies. They ain't got eyes or ears, my dear, no senses to guide 'em. All they got are their urges, their intuitions, their will.These are the things that guide 'em, these things alone.<end>
 
 =>q156
-Души лишены своих тел. У них нет глаз и ушей, мо$(#й/я) дорог$(#ой/ая), нет органов чувств, которые могли бы направлять их. Всё, что у них есть, это их побуждения, их интуиция, их воля. Именно эти вещи направляют их, только они.<end>
+Души лишены своих тел. У них нет глаз и ушей, золото моё, нет органов чувств, которые могли бы направлять их. Всё, что у них есть, это их побуждения, их интуиция, их воля. Именно эти вещи направляют их, только они.<end>
 
 =>q157_original
 When the space 'round 'em's too big, they get confused - they drift in circles and become lost. So they like clingin' onto things, and movin' 'round confined spaces - and that's where they find life.<end>
@@ -1122,7 +1124,7 @@ But the conditions gotta be just right.<end>
 I'm delighted to hear it, my dear. Listen on, and it'll make even more sense.<end>
 
 =>q162
-Рада это слышать, мо$(#й/я) дорог$(#ой/ая). Прислушайся, и в этом будет куда больше смысла.<end>
+Рада это слышать, золото моё. Прислушайся, и в этом будет куда больше смысла.<end>
 
 =>q163_original
 ::She continues.:: <end>
@@ -1200,7 +1202,7 @@ But I can't speak more 'bout it, my dear. That's not somethin' I ever wanna be i
 Just know that it's possible, and fear it if you ever encounter it.<end>
 
 =>q173
-Но я не могу больше говорить об этом, мо$(#й/я) дорог$(#ой/ая). Я не хочу в это влезать. ::Она качает головой.::
+Но я не могу больше говорить об этом, золото моё. Я не хочу в это влезать. ::Она качает головой.::
 
 Просто знай, что это возможно, и бойся, если когда-нибудь придётся с этим столкнуться.<end>
 
@@ -1226,7 +1228,7 @@ Let me ask you something else.<end>
 Certainly, my dear.<end>
 
 =>q177
-Конечно, мо$(#й/я) дорог$(#ой/ая).<end>
+Конечно, золото моё.<end>
 
 =>a178_original
 I had a few more questions about the charms themselves.<end>
@@ -1330,7 +1332,7 @@ And were life undemandin', I'd rather carry only one, my dear.<end>
 =>q193
 Ты мог$(#/ла) заметить, что я ношу их далеко друг от друга. *Это* неспроста.
 
-И если бы жизнь была нетребовательна, я бы предпочла носить только один, $(#мой дорогой/моя дорогая).<end>
+И если бы жизнь была нетребовательна, я бы предпочла носить только один, золото моё.<end>
 
 =>a194_original
 The hopper foot.<end>
@@ -1410,7 +1412,7 @@ I'd like to think some more.<end>
 Yes, yes. Take your time, my dear. Choosin' a lucky charm is no simple matter.<end>
 
 =>q205
-Да, да. Не торопись, мо$(#й/я) дорог$(#ой/ая). Выбрать амулеты на удачу - дело непростое.<end>
+Да, да. Не торопись, золото моё. Выбрать амулеты на удачу - дело непростое.<end>
 
 =>a206_original
 The psi beetle claw.<end>
@@ -1560,7 +1562,7 @@ It can be yours for seventy charons.<end>
 =>q225
 ::Она осторожно достаёт и показывает вам кошачью лапку.::
 
-Белые кошки - символ зла, приносящий несчастье и смерть. Но амулеты из их лап, мо$(#й/я) дорог$(#ой/ая), приносят как раз обратное.
+Белые кошки - символ зла, приносящий несчастье и смерть. Но амулеты из их лап, золото моё, приносят как раз обратное.
 
 Она может стать твоей за семьдесят харонов.<end>
 
@@ -1818,7 +1820,7 @@ I want to discuss something else.<end>
 Yes, my dear?<end>
 
 =>q261
-Да, мо$(#й/я) дорог$(#ой/ая)?<end>
+Да, золото моё?<end>
 
 =>q262_original
 The death stalker claw. Perfect for someone who's light on $(#his/her) feet.<end>
@@ -1884,7 +1886,7 @@ Maybe later. I'd like to figure it out myself.<end>
 Certainly, my dear.<end>
 
 =>q272
-Конечно, мо$(#й/я) дорог$(#ой/ая).<end>
+Конечно, золото моё.<end>
 
 =>q273_original
 <end>
@@ -1970,7 +1972,7 @@ Your future is not set, my dear; your choices are important, most likely more im
 =>q285
 Твоё будущее... оно неопределённо. Я вижу так много ветвей, так много извилистых путей, словно колония летучих мышей, летящих во всех направлениях.
 
-Твоё будущее не определено, мо$(#й/я) дорог$(#ой/ая); твой выбор важен, скорее всего, более важен, чем когда-либо в твоей жизни до сих пор.<end>
+Твоё будущее не определено, золото моё; твой выбор важен, скорее всего, более важен, чем когда-либо в твоей жизни до сих пор.<end>
 
 =>q286_original
 And quite nimble as well. <end>
@@ -1982,7 +1984,7 @@ And quite nimble as well. <end>
 Not good, my dear, not good. You need to take real good care of your health, or else you'll perish too early. <end>
 
 =>q287
-Нехорошо, мо$(#й/я) дорог$(#ой/ая), нехорошо. Тебе нужно очень хорошо заботиться о своём здоровье, иначе ты погибнешь слишком рано. <end>
+Нехорошо, золото моё, нехорошо. Тебе нужно очень хорошо заботиться о своём здоровье, иначе ты погибнешь слишком рано. <end>
 
 =>q288_original
 But you are mighty strong, though. Use that to your advantage. <end>
@@ -2006,7 +2008,7 @@ But you are quite nimble, though. <end>
 Your health's lookin' good, my dear. You got yourself a good chance for a long life. <end>
 
 =>q291
-Твоё здоровье в порядке, мо$(#й/я) дорог$(#ой/ая). У тебя есть все шансы на долгую жизнь. <end>
+Твоё здоровье в порядке, золото моё. У тебя есть все шансы на долгую жизнь. <end>
 
 =>a292_original
 I just knew it.<end>
@@ -2042,7 +2044,7 @@ What does that mean?<end>
 Your emotions... don't keep 'em suppressed, my dear, don't. Be cautious of pain which can tear you up from inside, or people that might lead you astray or hurt you.<end>
 
 =>q297
-Твои эмоции ... не подавляй их, мо$(#й/я) дорог$(#ой/ая), не надо. Будь осторожней с болью, которая может разорвать тебя изнутри, или с людьми, которые могут сбить тебя с пути или причинить боль.<end>
+Твои эмоции ... не подавляй их, золото моё, не надо. Будь осторожней с болью, которая может разорвать тебя изнутри, или с людьми, которые могут сбить тебя с пути или причинить боль.<end>
 
 =>q298_original
 The line tells me you're an emotionally stable $(#man/woman). Your heart cannot be broken so easily, but there are limits to whatcha can endure still, and you must heed 'em.<end>
@@ -2191,7 +2193,7 @@ Where can I find you the next time I need something?<end>
 Wherever fortune brings us together, my dear.<end>
 
 =>q321
-Куда бы ни свела нас судьба, мо$(#й/я) дорог$(#ой/ая).<end>
+Куда бы ни свела нас судьба, золото моё.<end>
 
 =>q322_original
 We'll find each other, dontcha worry.<end>
@@ -2209,7 +2211,7 @@ I gotta go.<end>
 Until we meet again, my dear.<end>
 
 =>q324
-До встречи, мо$(#й/я) дорог$(#ой/ая).<end>
+До встречи, золото моё.<end>
 
 =>q325_original
 So quickly? You must've done somethin' wrong - or you're tellin' untruths!<end>
@@ -2275,7 +2277,7 @@ If you do everythin' right, my dear, the curse will be lifted.<end>
 =>q333
 Обойди вокруг монеты ещё два раза, сначала *против часовой* стрелки, затем *по часовой* стрелке, как в прошлый раз, только наоборот. Затем можешь снова надеть одежду и взять монету.
 
-Если всё сделаешь правильно, мо$(#й/я) дорог$(#ой/ая), проклятие будет снято.<end>
+Если всё сделаешь правильно, золото моё, проклятие будет снято.<end>
 
 =>q334_original
 <end>
@@ -2600,7 +2602,7 @@ All I need is a single coin.<end>
 No. Sweet-talkin's not gonna cut it, my dear. I'm gonna need more proof than that.<end>
 
 =>q383
-Нет. Сладкоречием тут не обойдёшься, мо$(#й/я) дорог$(#ой/ая). Такое доказательство не годится.<end>
+Нет. Сладкоречием тут не обойдёшься, золото моё. Такое доказательство не годится.<end>
 
 =>a384_original
 How can I prove it to you? What do you want me to do?<end>
@@ -2641,7 +2643,7 @@ Oh! So now you are a believer? I think we're makin' some progress 'ere, my dear.
 But no... psionic souls ain't involved - they do not affect fortune.<end>
 
 =>q389
-О! Давно ли вы записались в верующие? Да мы здесь делаем успехи, мо$(#й/я) дорог$(#ой/ая).
+О! Давно ли вы записались в верующие? Да мы здесь делаем успехи, золото моё.
 
 Но нет... псионические души здесь ни при чём - они не влияют на судьбу.<end>
 
@@ -2845,22 +2847,22 @@ Hold your hoppers, dear. Hear me out: <end>
 You're back.<end>
 
 =>q421
-Вы вернулись.<end>
+Ты вернул$(#ся/ась).<end>
 
 =>q422_original
 Hello, my dear.<end>
 
 =>q422
-Привет, мо$(#й/я) дорог$(#ой/ая).<end>
+Здравствуй, золото моё.<end>
 
 =>q423_original
 We meet again, my dear.<end>
 
 =>q423
-Мы снова встретились, мо$(#й/я) дорог$(#ой/ая).<end>
+Мы снова встретились, золото моё.<end>
 
 =>q424_original
 Back for more, my dear?<end>
 
 =>q424
-Ты за мной, мо$(#й/я) дорог$(#ой/ая)?<end>
+Ты вернул$(#ся/ась), золото моё?<end>

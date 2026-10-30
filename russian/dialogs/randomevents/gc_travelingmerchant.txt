@@ -4,7 +4,8 @@
 <end>
 
 =>q1
-::Этот пожилой обитатель Подземки быстро опознаёт в вас потенциального покупателя, лишь бросив на вас внимательный взгляд острых глаз. Похоже, что он -- бродячий торговец, а тяжёлый груз за его спиной, должно быть, его товары.::
+::Этот пожилой обитатель Подземки быстро распознаёт в вас потенциального покупателя, лишь бросив на вас внимательный взгляд острых глаз. Похоже, он бродячий торговец, а тяжёлый груз за его спиной -- должно быть, его товары.::
+
 <end>
 
 =>q2_original
@@ -23,7 +24,7 @@ Greetings, youngster. <end>
 Need some weapons and gear? <end>
 
 =>q4
-Нужно оружие или снаряжение? <end>
+Ищете оружие или снаряжение? <end>
 
 =>q5_original
 Got a few things a $(#guy/gal) like you might find interestin'. Wanna take a look, eh, wanna?<end>
@@ -55,33 +56,33 @@ Meh. Not too bad, but lately I've been startin' to feel my age. It takes some ef
 But a man's gotta do what a man's gotta do if he wants to earn some half-decent coin, I tell ya what.<end>
 
 =>q9
-Ох. Не так уж плохо, но в последнее время я начинаю чувствовать свой возраст. Таскаю свои старые кости с места на место, продаю вещички и по мере того, как годы идут -- расстояние кажется всё больше и больше. Ох.
+Ох. Не так уж плохо, но в последнее время я начинаю чувствовать свой возраст. Таскаю свои старые кости с места на место, продаю вещички, но по мере того как годы проходят... расстояния кажутся всё больше и больше. Ох.
 
-Но мужик должен делать то, что должен делать мужик, если он хочет заработать немного монет, могу я сказать.<end>
+Но мужик должен делать то, что должен делать мужик, если он хочет заработать немного монет, скажу я вам.<end>
 
 =>a10_original
 Are beasts and bandits giving you trouble?<end>
 
 =>a10
-Животные и бандиты доставляют вам неприятности?<end>
+Животные и бандиты не доставляют вам неприятностей?<end>
 
 =>q11_original
 Please. I'm a vet'ran, youngster - a true vet'ran. Been roamin' Underrail since before ya got the courage to crawl outta yer mother's tummy, he-he. I got quite a few tricks up my sleeve, don't ya worry - don't ya worry.<end>
 
 =>q11
-Попрошу. Я ветеран, $(#юноша/юная леди) -- настоящий ветеран. Я бродил по Подземке ещё с тех пор кода ты пешком под стол ходил$(#/а), хе-хе. Не переживай, у меня есть пару тузов в рукаве.<end>
+Прошу вас. Я ветеран, $(#юноша/юная леди) -- настоящий ветеран. Я бродил по Подземке ещё с тех пор, когда ты пешком под стол ходил$(#/а), хе-хе. Не переживай, у меня есть пара тузов в рукаве.<end>
 
 =>q12_original
 Instead, ya better worry about them coins ya got on you, 'cause I got some fine stuff to trade. Eh? Wanna?<end>
 
 =>q12
-Вместо этого лучше побеспокойся о тех монетах, которые у тебя с собой, потому что у меня есть кое-какие хорошие вещи на обмен. А? Желаешь?<end>
+Вместо этого лучше подумай о монетах, которые у тебя с собой, потому что у меня найдутся хорошие вещи на обмен. А? Посмотришь?<end>
 
 =>a13_original
 Are pirates giving you trouble?<end>
 
 =>a13
-Пираты создают проблемы?<end>
+Пираты не создают вам проблем?<end>
 
 =>a14_original
 So, how's marine life treating you?<end>
@@ -99,13 +100,13 @@ Is the pig for sale too?<end>
 Oh, no, no. That's mah friend! This little fella's been helpin' me move merchandise fer years and years.<end>
 
 =>q16
-О, нет, нет. Это мой друг! Этот маленький приятель мне много лет помогал перевозить товары.<end>
+О, нет, нет. Это мой друг! Этот малыш мне много лет помогает перевозить товары.<end>
 
 =>q17_original
 Ain't that right, Snorty, ain't that right?<end>
 
 =>q17
-Не так ли, Фырки, не так ли?<end>
+Не так ли, Фырки, правду я говорю?<end>
 
 =>q18_original
 Snort!<end>
@@ -119,7 +120,7 @@ He-he-he. Look at it! Them pigs are the smartest animals out there, lemme tell y
 Smarter than dogs - 'n' even some people!<end>
 
 =>q19
-Хе-хе-хе. Посмотри на это! Я тебе скажу, свиньи -- самые умные животные.
+Хе-хе-хе. Только посмотри на него! Я тебе скажу, свиньи -- самые умные животные.
 
 Умнее собак -- и даже некоторых людей!<end>
 
@@ -169,7 +170,7 @@ Need some food? <end>
 Need some *explosives*? <end>
 
 =>q27
-Нужны *взрывчатые вещества*? <end>
+Нужна *взрывчатка?* <end>
 
 =>q28_original
 Got a varied assortment of things a $(#guy/gal) like you might find interestin'. Wanna take a look?<end>
