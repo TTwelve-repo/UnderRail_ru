@@ -26,7 +26,7 @@
 ::[Mechanics] Since the bot did go around you when you stood in its path, you suspect that its sensors are working at least somewhat well, so you turn your attention to the servo-pneumatic system which controls the bot's motion. After spending some time inspecting various components, you find that a few of the pneumatic valves aren't working as they should, thus causing the servomotors to run asynchronously and hinder the bot's movement.::<end>
 
 =>q5
-::[Механика] Поскольку робот всё-таки обошёл вас, когда вы встали у него на пути, вы решаете, что его сенсоры, по крайней мере, в удовлетворительном состоянии, так что вы обращаете внимание на сервопневматическую систему, которая управляет его движением. Проведя некоторое время за осмотром компонентов, вы обнаруживаете, что некоторые из пневматических клапанов неисправны, что вызывает рассинхронизацию сервоприводов и приводит к нарушению движения робота.::<end>
+::[Механика] Поскольку робот всё-таки обошёл вас, когда вы встали у него на пути, вы решаете, что по крайней мере его сенсоры в удовлетворительном состоянии, так что вы обращаете внимание на сервопневматическую систему, которая управляет его движением. Проведя некоторое время за осмотром компонентов, вы обнаруживаете, что некоторые из пневматических клапанов неисправны, что вызывает рассинхронизацию сервоприводов и приводит к нарушению движения робота.::<end>
 
 =>q6_original
 <end>
@@ -44,13 +44,13 @@
 ::You take a look around the interior in hopes you will spot something else of interest, but you find nothing.::<end>
 
 =>q8
-::Вы осматриваете внутренности в надежде найти ещё что-нибудь интересное, но ничего не находите.::<end>
+::Вы осматриваете внутренности в надежде заметить ещё что-нибудь интересное, но ничего не находите.::<end>
 
 =>q9_original
 ::You stare at the complex machinery, mostly focusing on what appears to be some kind of servomechanism, but since you know so little about it you aren't able to find a cause for this bot's strange walking pattern.::<end>
 
 =>q9
-::Вы разглядываете сложную машину, обращая особенное внимание на ту её часть, которая, похоже, представляет собой какой-то сервомеханизм, но, поскольку вы слишком мало о нём знаете, вам не удаётся найти причину странного поведения робота.::<end>
+::Вы разглядываете сложную машину, обращая особенное внимание на ту её часть, которая, похоже, представляет собой какой-то сервомеханизм, но поскольку вы слишком мало о нём знаете, вам не удаётся найти причину странного поведения робота.::<end>
 
 =>a10_original
 ::[Mechanics] Repair the faulty pneumatic valves.::<end>
@@ -92,7 +92,7 @@
 ::As you try to remove the modulator a spark and a puff of smoke appear before your eyes. The matching smell reaches your nose quickly, and you lift your head up and observe the now-useless modulator. You thought removing all the cables would be enough to safely remove the component, but the result conclusively disproved your hastily-conceived hypothesis, it seems.::<end>
 
 =>q16
-::Когда вы пытаетесь извлечь модулятор, проскакивает искра и облачко дыма поднимается перед вашими глазами. Вы также чувствуете характерный запах и поднимаете голову, чтобы осмотреть теперь бесполезный модулятор. Вы думали, что достаточно отключить все кабели, чтобы его можно было извлечь безопасно, но похоже, что практика показала, насколько сильно вы ошибались.::<end>
+::Когда вы пытаетесь извлечь модулятор, проскакивает искра, и облачко дыма поднимается перед вашими глазами. Вы также чувствуете характерный запах горелой электроники и поднимаете голову, чтобы осмотреть теперь бесполезный модулятор. Вы думали, что достаточно отключить все кабели, чтобы его можно было извлечь безопасно, но похоже, что практика показала, насколько сильно вы ошибались.::<end>
 
 =>a17_original
 ::Close the panel and let the bot go.::<end>
@@ -146,13 +146,13 @@ You grab it by its two hind legs: The same as previously, with the added benefit
 ::Mildly frustrated, you release your hold and grab the bot's upper half from behind and topple it toward you. On its back it lies now, its legs aimed forward and walking on nothing but air, and this is the position which is most suitable for you to examine its cybernetic insides.::<end>
 
 =>q23
-::С некоторым раздражением вы отпускаете робота, хватаете его за верхнюю заднюю часть и опрокидываете на себя. Теперь он лежит на спине, его ноги направлены вперёд и перебирают воздух. Такое положение лучше всего подходит, чтобы осмотреть его кибернетические внутренности.::<end>
+::С некоторым раздражением, вы отпускаете робота, хватаете его за верхнюю заднюю часть и опрокидываете на себя. Теперь он лежит на спине, его ноги направлены вперёд и перебирают воздух. Такое положение лучше всего подходит, чтобы осмотреть его кибернетические внутренности.::<end>
 
 =>q24_original
 ::You sit on the bot so it doesn't spring back onto its pointy feet, situating your rear somewhat uncomfortably between the two laser guns and onto a flat metal plate. From here, you are staring at a panel that seems secured by a few rusty screws; being this close you also notice how the exterior has been eaten away by corrosion so much that you could probably make all the screws fall out with one well-aimed kick.::<end>
 
 =>q24
-::Вы усаживаете робота так, чтобы он не вскочил снова на свои заострённые ноги, несколько неудобно садитесь сами между двумя лазерными пушками на плоскую металлическую пластину. Отсюда вам хороша видна панель, которая закреплена, судя по всему, несколькими ржавыми винтами. С такого близкого расстояния вы также замечаете, что его внутренности настолько проржавели, что вы, вероятно, смогли бы вышибить все винты одним хорошим пинком.::<end>
+::Вы укладываете робота так, чтобы он не вскочил снова на свои заострённые ноги, и несколько неудобно садитесь сами между двумя лазерными пушками на плоскую металлическую пластину. Отсюда вам хороша видна панель, которая закреплена, судя по всему, несколькими ржавыми винтами. С такого близкого расстояния вы также замечаете, что его внутренности настолько проржавели, что вы, вероятно, смогли бы вышибить все винты одним хорошим пинком.::<end>
 
 =>a25_original
 ::Open the panel.::<end>
