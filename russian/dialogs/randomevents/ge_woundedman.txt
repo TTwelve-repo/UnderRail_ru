@@ -4,9 +4,9 @@
 Stranger... thank you! I owe my life to you. If it weren't for you, I'd be a rotting corpse now and, and... Thank you, thank you! How can I repay you, friend?<end>
 
 =>q1
-::Его раны обработаны и боль угасает. Мужчина теперь говорит намного бодрее.::
+::Его раны обработаны и боль угасает. Мужчина теперь говорит намного бодрее: ::
 
-Незнаком$(#ец/ка)... спасибо вам! Я обязан вам жизнью. Если бы ни вы, я бы уже был гниющим трупом, и, и... Спасибо, спасибо вам! Как я могу отблагодарить вас?<end>
+Незнаком$(#ец/ка)... спасибо вам! Я обязан вам жизнью. Если бы не вы, я бы уже был гниющим трупом, и, и... Спасибо, спасибо вам! Как я могу отблагодарить вас?<end>
 
 =>a2_original
 Saving someone's life is its own reward.<end>
@@ -18,7 +18,7 @@ Saving someone's life is its own reward.<end>
 Hold on a second, friend. <end>
 
 =>q3
-Один момент, друг. <end>
+Один момент, $(#друг/подруга). <end>
 
 =>q4_original
 Here's sixty charons. That is all the money I have. ::He hands you 60 Stygian Coins.:: Thank you so much!<end>
@@ -60,7 +60,7 @@ I'd rather that my name remains unknown.<end>
 Well... friend, thank you. Thank you again. Good luck to you too.<end>
 
 =>q10
-Что же... друг, спасибо. Спасибо ещё раз. Удачи и вам тоже.<end>
+Ну тогда... $(#друг/подруга), спасибо. Спасибо ещё раз. Удачи и вам тоже.<end>
 
 =>a11_original
 ::Wave goodbye and leave without a word.::<end>
@@ -84,7 +84,7 @@ Thank you again. Good luck to you too.<end>
 Nice. See ya.<end>
 
 =>a14
-Отлично. Пока.<end>
+Неплохо. Пока.<end>
 
 =>q15_original
 ::He searches through his pockets.:: I... I had some money but... ::He continues searching.:: Damn it! I must have lost it somehow.<end>
@@ -138,7 +138,7 @@ I am... dying...<end>
 =>q22
 Пожалуйста... помогите...
 
-::Мужчина, который произносит эти слова, протягивает к вам окровавленную руку с растопыренными пальцами. Вы видите многочисленные раны на его теле, открытые и кровоточащие, каждая из которых вносит свой вклад в лужу крови под его ногами. Но самую серьёзную рану вам не видно, её он крепко зажимает другой дрожащей рукой. Он вновь умоляет вас затихающим голосом.::
+::Мужчина, который произносит эти слова, протягивает к вам окровавленную руку с растопыренными пальцами. Вы видите многочисленные раны на его теле, открытые и кровоточащие, каждая из которых вносит свой вклад в лужу крови под его ногами. Но самую серьёзную рану вам не видно, её он крепко зажимает другой дрожащей рукой. Он вновь умоляет вас слабеющим голосом: ::
 
 Я... умираю...<end>
 
@@ -182,7 +182,7 @@ Thank you...<end>
 It's too late for you, friend. ::Attack!::<end>
 
 =>a29
-Для тебя всё кончено, друг! ::Напасть!::<end>
+Конец тебе, приятель. ::Напасть!::<end>
 
 =>a30_original
 There is nothing I can do to help you, friend. Goodbye.<end>
@@ -206,7 +206,7 @@ Please! Don't leave me to... die here.<end>
 Why do... ::The man never gets the chance to finish his sentence, as his body drops lifeless next to the man whom he killed - the man who killed him.::<end>
 
 =>q33
-Почему... ::Мужчине не удаётся закончить фразу, его безжизненное тело падает рядом с человеком, которого он убил -- человеком, который убил его.::<end>
+Почему... ::Мужчине не удаётся закончить фразу, и его безжизненное тело падает рядом с человеком, которого он убил -- человеком, который убил его.::<end>
 
 =>a34_original
 ::End Dialog.::<end>
