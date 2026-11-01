@@ -1,4 +1,46 @@
-﻿::Coral's Corpse
+﻿::Cuttlesnail Corpse
+Туша улитицы
+
+::The Crumpa's Corpse
+Ворчливый труп
+
+::The Wanderer's Corpse
+Бродячий труп
+
+::The Smeller's Corpse
+Чуткий труп
+
+::The Bountiful's Corpse
+Щедрый труп
+
+::The Settler's Corpse
+Местный труп
+
+::Zoner's Corpse
+Труп зонера
+
+::The Careless's Corpse
+Беззаботный труп
+
+::The Fancy's Corpse
+Чудаческий труп
+
+::The Host's Corpse
+Гостеприимный труп
+
+::The Benevolent's Corpse
+Великодушный труп
+
+::The Sleepy's Corpse
+Сонный труп
+
+::A Pipeworker's Corpse
+Трубочистский труп
+
+::Rick the Rat's Corpse
+Труп Рика Крысы
+
+::Coral's Corpse
 Труп Корал
 
 ::Protectorate Biohazard Needler's Corpse
@@ -397,6 +439,18 @@
 ::Death Stalker Corpse
 Останки смертоносного сталкера
 
+::Lootbag (empty)
+Рюкзак с добычей (пусто)
+
+::Stuck Box (empty)
+Застрявший ящик (пусто)
+
+::Dead Mutie (empty)
+Труп мутанта (пусто)
+
+::Toxic Barrel (empty)
+Бочка с токсичными отходами (пусто)
+
 ::Dead Scientist (empty)
 Тело учёного (пусто)
 
@@ -448,29 +502,65 @@
 ::Climb over (Agility 9)
 Перелезть (Подвижность 9)
 
+::Climb into (Agility 6)
+Залезть (Подвижность 6)
+
 ::Climb over the fence (Agility 7)
 Перелезть через забор (Подвижность 7)
 
 ::Jump down (Agility 1)
 Спрыгнуть вниз (Подвижность 1)
 
+::Jump down (Agility 6)
+Спрыгнуть вниз (Подвижность 6)
+
 ::Jump over (Agility 7)
 Перепрыгнуть (Подвижность 7)
+
+::Jump over (Agility 8)
+Перепрыгнуть (Подвижность 8)
+
+::Jump over (Agility 10)
+Перепрыгнуть (Подвижность 10)
 
 ::Leap across (Agility 8)
 Перепрыгнуть (Подвижность 8)
 
+::Lift up (Strength 12)
+Поднять (Сила 12)
+
+::Lift up (Strength 10)
+Поднять (Сила 10)
+
+::Loot box (Dexterity 6)
+Обыскать ящик (Ловкость 6)
+
+::Loot box (Dexterity 8)
+Обыскать ящик (Ловкость 8)
+
+::Loot box (Dexterity 10)
+Обыскать ящик (Ловкость 10)
+
+::Loot corpse (Dexterity 10)
+Обыскать труп (Ловкость 10)
+
 ::Leap across and descend the ladder (Agility 10)
 Перепрыгнуть и спуститься по лестнице (Подвижность 10)
+
+::Push down (Strength 10)
+Столкнуть (Сила 10)
+
+::Reach down (Dexterity 7)
+Дотянуться вниз (Ловкость 7)
+
+::Squeeze Through (Agility 8)
+Протиснуться (Ловкость 8)
 
 ::Wardrobe (empty)
 Шкаф (пусто)
 
 ::Cash Register (empty)
 Кассовый аппарат (пусто)
-
-::Reach down (Dexterity 7)
-Дотянуться вниз (Ловкость 7)
 
 ::Crate (empty)
 Большой ящик (пусто)
@@ -561,6 +651,39 @@
 
 ::Dumpster (empty)
 Мусорный контейнер (пусто)
+
+::The Careless
+Беззаботный
+
+::The Fancy
+Чудак
+
+::The Host
+Гостеприимный
+
+::The Benevolent
+Великодушный
+
+::The Sleepy
+Сонный
+
+::A Pipeworker
+Трубочист
+
+::The Crumpa
+Ворчливый
+
+::The Wanderer
+Бродячий
+
+::The Smeller
+Чуткий
+
+::The Bountiful
+Щедрый
+
+::The Settler
+Местный
 
 ::The Crowd
 Толпа
@@ -1805,7 +1928,7 @@ cуперстимулятор
 Соединительные кабели
 
 ::Console
-Консоль
+Пульт
 
 ::Console pad
 Кнопочная консоль
@@ -3959,7 +4082,7 @@ cуперстимулятор
 Блокировка подъёмника
 
 ::Lift up
-Подняться
+Поднять
 
 ::Light Machine Gun
 Пулемёт
@@ -4052,10 +4175,10 @@ cуперстимулятор
 Потёртая панель
 
 ::Loot box
-Ящик с добычей
+Обыскать ящик
 
 ::Loot corpse
-Добыча мертвеца
+Обыскать труп
 
 ::Loot Locker
 Шкафчик для разного
@@ -5384,7 +5507,7 @@ cуперстимулятор
 Убрать обломки в сторону
 
 ::Push down
-Потянуть
+Столкнуть
 
 ::Push Rock
 Толкнуть камень
