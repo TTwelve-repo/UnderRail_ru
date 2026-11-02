@@ -8,7 +8,7 @@
 Wasn't that fun, sister?<end>
 
 =>q2
-Разве это не весело, сестра?<end>
+Разве не весело было, сестра?<end>
 
 =>a3_original
 Very much so!<end>
@@ -20,7 +20,7 @@ Very much so!<end>
 Glad you enjoyed it!<end>
 
 =>q4
-Мы рады, что вам понравилось!<end>
+Мы рады, что тебе понравилось!<end>
 
 =>q5_original
 And do keep the wreath, sister. Let it be a reminder of the fun we had together.<end>
@@ -32,7 +32,7 @@ And do keep the wreath, sister. Let it be a reminder of the fun we had together.
 Was there anything else you needed before we part our ways?<end>
 
 =>q6
-Может быть, вам ещё что-нибудь нужно, прежде чем мы расстанемся?<end>
+Скажешь что-нибудь ещё, прежде чем мы расстанемся?<end>
 
 =>q7_original
 <end>
@@ -86,13 +86,13 @@ And what do I do?<end>
 You - you come here.<end>
 
 =>q15
-Вам - идите сюда.<end>
+Тебе -- ты иди сюда.<end>
 
 =>a16_original
 ::Do as she says.::<end>
 
 =>a16
-::Сделать, как она сказала::<end>
+::Делать, как она сказала.::<end>
 
 =>a17_original
 I'm ready to dance.<end>
@@ -112,21 +112,21 @@ Do we have a spare wreath for our sister?<end>
 Right here, sister. I made this just a few hours ago.<end>
 
 =>q19
-::Она создаёт красивый, замысловатый венок из различных грибов.::
+::Она подносит красивый, замысловатый венок из различных грибов.::
 
-Вот здесь, сестра. Я сделала его всего несколько часов назад.<end>
+Вот он, сестра. Я свила его всего пару часов назад.<end>
 
 =>q20_original
 Take this, and limber up - we're about to dance!<end>
 
 =>q20
-Возьмите его, и наберитесь сил - мы сейчас будем танцевать!<end>
+Надень его и разомнись -- мы будем танцевать!<end>
 
 =>a21_original
 Wait, aren't you going to show me the steps first?<end>
 
 =>a21
-Подождите, разве вы не собираетесь сначала показать мне как танцевать?<end>
+Подожди, ты не покажешь мне как танцевать?<end>
 
 =>q22_original
 Don't worry, sister - you'll pick it up quickly. 
@@ -134,9 +134,9 @@ Don't worry, sister - you'll pick it up quickly.
 Let us dance!<end>
 
 =>q22
-Не волнуйся, сестра, этот танец быстро освоить.
+Не волнуйся, сестра, этот танец просто освоить.
 
-Давайте потанцуем!<end>
+Давайте танцевать!<end>
 
 =>a23_original
 ::Dance!::<end>
@@ -160,19 +160,19 @@ Celebrating!<end>
 *Midsummer* is here!<end>
 
 =>q26
-*Середина лета* пришла!<end>
+*Середина Лета* уже здесь!<end>
 
 =>a27_original
 What's Midsummer?<end>
 
 =>a27
-Что такое Середина лета?<end>
+Что за середина лета?<end>
 
 =>q28_original
 Oh, sweet child: Midsummer is the time when Eternal Light shines the brightest. ::One of them looks up.:: One day this light from above will pierce the ceiling and enlighten us all. But for now, even if invisible to our eyes, some of its energy is still passing through to us.<end>
 
 =>q28
-Ох, милое дитя: Середина лета - время, когда Вечный Свет сияет ярче всего. ::Одна из них смотрит вверх.:: Когда-нибудь этот свет сверху пронзит свод пещеры и просветит всех нас. Но пока, пусть и невидимая для наших глаз, часть его энергии всё же доходит до нас.<end>
+О, милое дитя: Середина Лета -- время, когда Вечный Свет сияет ярче всего. ::Одна из них смотрит вверх.:: Когда-нибудь этот свет сверху пронзит свод пещеры и озарит всех нас. Но пока, пусть и невидимая для наших глаз, часть его энергии всё же доходит до нас.<end>
 
 =>q29_original
 ::The woman nods joyously.::
@@ -188,37 +188,37 @@ The ancient data confirms it. The light *will* shine!<end>
 And so we invite it through song and dance - and celebration.<end>
 
 =>q30
-И поэтому мы приглашаем его через песни и танцы - и праздник.<end>
+И поэтому мы приглашаем его нашими песнями и танцем -- нашим праздником.<end>
 
 =>a31_original
 No, no, it's $(context.player.Name). But I'm flattered.<end>
 
 =>a31
-Нет, нет, я $(context.player.Name). Но я польщ$(#ён/ена).<end>
+Нет, нет, меня зовут $(context.player.Name). Но я польщ$(#ён/ена) гостеприимством.<end>
 
 =>a32_original
 I don't think I follow.<end>
 
 =>a32
-Я не думаю, что я в курсе этого.<end>
+Что-то я вас не понимаю.<end>
 
 =>a33_original
 Whatever you're taking, I'd like some.<end>
 
 =>a33
-Что бы вы ни принимали, я бы хотел$(#/а) немного.<end>
+Что бы вы ни принимали, я тоже не откажусь.<end>
 
 =>a34_original
 Tell me more about this Eternal Light.<end>
 
 =>a34
-Расскажите мне больше об этом Вечном Свете.<end>
+Расскажите мне об этом Вечном Свете.<end>
 
 =>q35_original
 It's waaaay above!<end>
 
 =>q35
-Это высший пу-у-уть!<end>
+Он там, высоко-высоко!<end>
 
 =>q36_original
 Even if there's a barrier between us, it's there, shining so brilliant it would burn your eyes if you stared at it. Ancient art depicts it as a great sphere. 
@@ -226,9 +226,9 @@ Even if there's a barrier between us, it's there, shining so brilliant it would 
 Its energy fluctuates, it must, as there are seasons when it shines more, and there are seasons when it shines less.<end>
 
 =>q36
-Даже если между нами есть преграда, свет там, он сияет так ярко, что, если на неё смотреть, можно обжечь глаза. Древние художники изображали его в виде огромной сферы.
+Пусть даже между нами преграда, Свет там, он сияет так ярко, что если на него посмотреть, можно обжечь глаза. Древние художники изображали его в виде огромной сферы.
 
-Его энергия колеблется, должно быть, в соответствии сезонам, в которые он светит больше, и есть сезоны, в которые он светит меньше.<end>
+Его энергия колеблется, должно быть, потому что есть сезоны, в которые он светит больше, и есть сезоны, в которые он светит меньше.<end>
 
 =>q37_original
 We know of only five of these seasons... <end>
@@ -240,19 +240,19 @@ We know of only five of these seasons... <end>
 There are many, many of them, he-he!<end>
 
 =>q38
-Их много, много, хи-хи!<end>
+Их много-много, хи-хи!<end>
 
 =>q39_original
 ...but the most important for us is *Summer.* It's the time of prosperity, health, and harmony.<end>
 
 =>q39
-...но самым важным для нас всё-таки *лето*. Это время процветания, здоровья и гармонии.<end>
+...но самым важный для нас -- всё-таки *Лето.* Это время процветания, здоровья и гармонии.<end>
 
 =>a40_original
 So Midsummer must be the middle part of Summer, right?<end>
 
 =>a40
-Значит, Середина лета - это именно средина лета, так?<end>
+Значит, Середина Лета -- это буквально середина Лета, так?<end>
 
 =>q41_original
 That is correct. That's when Eternal Light shines the brightest, and more of its energy reaches us.<end>
@@ -270,61 +270,61 @@ What are the other seasons you know of?<end>
 Well, um, beside Summer, we know of *Monsoon*, which comes just before and when cave drizzling is the greatest; then there's the *Autumnal Season*, during which Eternal Light's energy begins to diminish; then there's, um, *Wintry*, yes, when it's the coldest...<end>
 
 =>q43
-Ну, кроме *лета*, мы знаем о сезоне *начала луны*, который наступает незадолго до и во время наибольшего моросящего дождя; об *осеннем сезоне*, во время которого энергия Вечного Света начинает уменьшаться; и, *зима*, да, когда холоднее всего...<end>
+Ну, э-э, кроме *Лета,* мы знаем о сезоне *Луноначала,* который наступает перед ним, и когда в пещерах особенно влажно; об *Осеневом Сезоне,* во время которого энергия Вечного Света идёт на убыль; и, э-э, *Зимица,* да, когда холоднее всего...<end>
 
 =>q44_original
 And there are some who worship the cold! Brrr...<end>
 
 =>q44
-Конечно есть и такие, кто поклоняется холоду! Бр-р-р...<end>
+Конечно, есть и такие, кто поклоняется холоду! Бр-р-р...<end>
 
 =>q45_original
 We've also read about *Prevernal*, but we... we don't know what it means.<end>
 
 =>q45
-Мы также читали о *Предшествующем*, но мы... мы не знаем, что это значит.<end>
+Мы также читали о *Ранневесеннем,* но мы... мы не знаем, что это такое.<end>
 
 =>q46_original
 The ancient data is fragmented and often corrupted, but when it comes to Summer and Midsummer, there is not a shread of doubt regarding its harmonious relationship with Eternal Light!<end>
 
 =>q46
-Древние сведения фрагментарны и часто искажены, но когда речь заходит о лете и Середине лета, не остаётся и тени сомнения в их гармоничной связи с Вечным Светом!<end>
+Древние сведения отрывочны и часто искажены, но когда речь заходит о Лете и Середине Лета, нет и тени сомнения в его гармоничной связи с Вечным Светом!<end>
 
 =>a47_original
 Aren't you afraid of being all alone in the caves, unarmed and drawing so much attention to yourself?<end>
 
 =>a47
-Не боитесь ли вы оставаться в пещерах одни, без оружия и привлекая к себе столько внимания?<end>
+А вы не боитесь находиться в этих пещерах одни, без оружия и привлекая к себе столько внимания?<end>
 
 =>q48_original
 Not in the slightest! We understand Sister Nature and its many moods, when to dance with her - and when to leave her be.<end>
 
 =>q48
-Ни в коем случае! Мы понимаем природу сестёр и их многочисленные настроения, когда нужно танцевать с ней, а когда оставить её в покое.<end>
+Ни капельки! Мы понимаем Сестру Природу и её переменчивое настроение, -- когда можно танцевать с ней, а когда оставить её в покое.<end>
 
 =>q49_original
 ::The other two women nod in confirmation.::<end>
 
 =>q49
-::Две другие женщины кивают в знак подтверждения.::<end>
+::Две другие женщины синхроно кивают.::<end>
 
 =>q50_original
 Our celebration will remain undisturbed, unless the hand of humanity interferes.<end>
 
 =>q50
-Наше торжество не будет нарушено, если в него не вмешается рука человечества.<end>
+Наше празднество не будет нарушено, если в него не вмешается рука человечества.<end>
 
 =>a51_original
 How do all these mushrooms fit in?<end>
 
 =>a51
-Как все эти грибы сочетаются между собой?<end>
+При чем тут все эти грибы?<end>
 
 =>q52_original
 Fungi do not need visible light to grow, but they can find sustenance in Eternal Light's invisible rays, and they benefit the most from them during Midsummer.<end>
 
 =>q52
-Грибы не нуждаются в видимом свете для роста, но они могут найти пропитание в невидимых лучах Вечного Света, и наибольшую пользу они извлекают из них в Середину лета.<end>
+Грибы не нуждаются в видимом свете для роста, но они могут найти пропитание в невидимых лучах Вечного Света, и наибольшую пользу они извлекают из них в Середину Лета.<end>
 
 =>q53_original
 Some fungi cause sickness and death; others are nutritious and beneficial to health. Both kinds are at their most potent now. 
@@ -332,27 +332,27 @@ Some fungi cause sickness and death; others are nutritious and beneficial to hea
 This is the best time to seek them out!<end>
 
 =>q53
-Одни грибы вызывают болезни и смерть, другие питательны и полезны для здоровья. Оба вида грибов сейчас наиболее активны.
+Одни грибы вызывают болезни и смерть, другие вкусны и полезны для здоровья. Но все виды грибов сейчас наиболее напитаны.
 
-Это лучшее время для их поиска!<end>
+Это лучшее время для их сбора!<end>
 
 =>a54_original
 What you're doing here sounds fun. Can I join you in your celebration?<end>
 
 =>a54
-То, что вы здесь делаете, звучит забавно. Могу ли я присоединиться к вашему празднику?<end>
+Всё это звучит очень весело. Могу ли я присоединиться к вашему празднику?<end>
 
 =>q55_original
 But of course, sister! Everyone is welcome to celebrate Midsummer! <end>
 
 =>q55
-Но, конечно, сестра! Все приглашаются на празднование Середины лета! <end>
+Ну конечно же, сестра! Все могут праздновать Середину Лета! <end>
 
 =>q56_original
 In fact, we were just getting ready to start a fertility dance.<end>
 
 =>q56
-На самом деле, мы только готовились начать танец плодородия.<end>
+И мы как раз собираемся начать танец плодородия.<end>
 
 =>a57_original
 Tell me what I need to do.<end>
@@ -364,7 +364,7 @@ Tell me what I need to do.<end>
 Actually, I had a few more questions first.<end>
 
 =>a58
-На самом деле, сначала у меня было ещё несколько вопросов.<end>
+Только сначала я хочу задать несколько вопросов.<end>
 
 =>q59_original
 Do ask, sister.<end>
@@ -376,61 +376,61 @@ Do ask, sister.<end>
 I think I'm fertile enough for now. Have fun dancing, and I'll be on my way.<end>
 
 =>a60
-Думаю, на сегодня я достаточно плодовит$(#/а). Веселитесь, танцуйте, а я пойду своим путём.<end>
+Думаю, я и так достаточно плодовит$(#/а). Веселитесь, танцуйте, а я пойду своим путём.<end>
 
 =>q61_original
 Best of luck, wherever you're headed. <end>
 
 =>q61
-Желаем удачи, куда бы вы ни направлялись. <end>
+Желаем удачи, куда бы ты ни направлял$(#ся/ась). <end>
 
 =>q62_original
 ::They wave at you with a smile.::<end>
 
 =>q62
-::Они машут вам с улыбкой.::<end>
+::Они улыбаются и машут.::<end>
 
 =>q63_original
 Everyone is welcome to celebrate Midsummer, traveler! But...<end>
 
 =>q63
-Все приглашены на празднование Середины лета, путник! Но...<end>
+Все могут праздновать Середину Лета, путник! Вот только...<end>
 
 =>a64_original
 Is there a problem?<end>
 
 =>a64
-Какая-то проблема?<end>
+Есть какая-то проблема?<end>
 
 =>q65_original
 We were just about to start a dance - a fertility dance. And that kind of dance is, ehm... It's not *proper* for men to be involved in it.<end>
 
 =>q65
-Мы как раз собирались начать танец - танец плодородия. А в таких танцах... э-э-э... мужчинам не положено участвовать.<end>
+Мы как раз собирались начать танец плодородия. А в таких танцах... э-э... мужчинам *не положено* участвовать.<end>
 
 =>q66_original
 But we can instead perform the Massage of Serenity. We haven't done that in many seasons!<end>
 
 =>q66
-Но вместо этого мы можем сделать Массаж спокойствия. Мы не делали этого уже много сезонов!<end>
+Но вместо этого мы можем сделать Массаж Безмятежности. Мы не делали его уже несколько сезонов!<end>
 
 =>q67_original
 You're right, sister, you're right! Surely the traveler will appreciate it.<end>
 
 =>q67
-Ты права, сестра, ты права! Наверняка путник оценит это.<end>
+Ты права, сестра, ты права! Наверняка путнику понравится.<end>
 
 =>a68_original
 A... massage? How can I say no!<end>
 
 =>a68
-Ух... массаж? Как я могу отказаться!<end>
+Ух... массаж? Как я могу отказаться?!<end>
 
 =>a69_original
 I'd like to ask you a few more questions first.<end>
 
 =>a69
-Сначала я хотел$(#/а) бы задать вам ещё несколько вопросов.<end>
+Сначала я хотел$(#/а) бы задать вам несколько вопросов.<end>
 
 =>q70_original
 Do ask, traveler.<end>
@@ -442,13 +442,13 @@ Do ask, traveler.<end>
 A free massage in the middle of a remote cave. I think I'll be on my way, girls.<end>
 
 =>a71
-Бесплатный массаж в центре отдалённой пещеры. Я, пожалуй, пойду, девочки.<end>
+Бесплатный массаж в центре отдалённой пещеры? Я, пожалуй, пойду, девочки.<end>
 
 =>a72_original
 But... I'm a guy.<end>
 
 =>a72
-Но... Я парень.<end>
+Но... я мужчина.<end>
 
 =>q73_original
 Well... yes. <end>
@@ -472,19 +472,19 @@ So long, girls.<end>
 You too! <end>
 
 =>q76
-И вам того же! <end>
+И тебе того же! <end>
 
 =>a77_original
 Keep smiling, sisters. Goodbye.<end>
 
 =>a77
-Продолжайте улыбаться, сёстры. До свидания.<end>
+Не теряйте улыбок, сёстры. До свидания.<end>
 
 =>a78_original
 I'll leave you to your strange ways.<end>
 
 =>a78
-Я оставляю вас наедине с вашими странными путями.<end>
+Я оставляю вас наедине с вашими причудами.<end>
 
 =>a79_original
 Bye.<end>
@@ -496,25 +496,25 @@ Bye.<end>
 It was okay, I guess.<end>
 
 =>a80
-Всё было хорошо, я думаю.<end>
+Всё прошло хорошо, мне кажется.<end>
 
 =>q81_original
 You did great for your first time, don't worry.<end>
 
 =>q81
-Для своего первого раза вы справились отлично, не волнуйтесь.<end>
+Для своего первого раза ты справил$(#ся/ась) отлично, не волнуйся.<end>
 
 =>a82_original
 I think this actually made me infertile, instead of the opposite.<end>
 
 =>a82
-Я думаю, что это сделало меня бесплодн$(#ым/ой), а не наоборот.<end>
+Я думаю, что это сделало меня не продородн$(#ым/ой), а наоборот.<end>
 
 =>q83_original
 Don't be silly, sister. It's Midsummer, the time of prosperity, health and harmony.<end>
 
 =>q83
-Не глупите, сестра. Середина лета, время процветания, здоровья и гармонии.<end>
+Не глупи, сестра. Середина Лета -- время процветания, здоровья и гармонии.<end>
 
 =>a84_original
 ::Nod.::<end>
@@ -526,43 +526,43 @@ Don't be silly, sister. It's Midsummer, the time of prosperity, health and harmo
 So, traveler, how was the massage?<end>
 
 =>q85
-Ну что, путешественник, как прошёл массаж?<end>
+Ну что, путешественник, как тебе массаж?<end>
 
 =>a86_original
 That. was. *amazing.*<end>
 
 =>a86
-Это. было. *удивительно.*<end>
+Это. Было. *Невероятно.*<end>
 
 =>q87_original
 It was our pleasure.<end>
 
 =>q87
-Мы были очень рады.<end>
+Мы очень рады.<end>
 
 =>q88_original
 May good health be with you, traveler.<end>
 
 =>q88
-Да пребудет с вами крепкое здоровье, путник.<end>
+Да пребудет с тобой крепкое здоровье, путник.<end>
 
 =>a89_original
 Can I schedule the next one? Or ten?<end>
 
 =>a89
-Могу ли я запланировать следующий? Или десять?<end>
+Могу я ещё раз прийти? Или десять раз?<end>
 
 =>q90_original
 Not until the next Midsummer!<end>
 
 =>q90
-Только в следующий праздник Середины лета!<end>
+Только в следующий праздник Середины Лета!<end>
 
 =>a91_original
 It was okay, I guess.<end>
 
 =>a91
-Всё было хорошо, я думаю.<end>
+Вроде бы, неплохо.<end>
 
 =>a92_original
 ::Nod.::<end>
@@ -574,7 +574,7 @@ It was okay, I guess.<end>
 ::The three women are frolicking by the campfire, talking and smiling as if without a care in the underworld. ::<end>
 
 =>q93
-::Три женщины резвятся у костра, разговаривают и улыбаются, как будто им нет никакого дела до этого подземного мира::<end>
+::Три женщины резвятся у костра, разговаривают и улыбаются, как будто им нет никакого дела до горестей подземного мира. ::<end>
 
 =>q94_original
 ::One of them waves at you.::
@@ -584,7 +584,7 @@ Come, sister, come stand by the fire with us.<end>
 =>q94
 ::Одна из них машет вам рукой.::
 
-Иди, сестра, посиди с нами у костра.<end>
+Иди сюда, сестра, присоединись к нам у костра.<end>
 
 =>a95_original
 Thanks. I could use some rest.<end>
@@ -596,7 +596,7 @@ Thanks. I could use some rest.<end>
 Of course, sister. Come.<end>
 
 =>q96
-Конечно, сестра. Подходите.<end>
+Конечно, сестра. Подходи.<end>
 
 =>q97_original
 
@@ -604,25 +604,27 @@ Of course, sister. Come.<end>
 ::One of them points at a spot by the fire.::<end>
 
 =>q97
+
+
 ::Одна из них показывает на место у костра.::<end>
 
 =>a98_original
 Some other time perhaps. I'll be on my way.<end>
 
 =>a98
-Возможно, в другой раз. Я отправляясь в путь.<end>
+Возможно, в другой раз. Мне надо идти.<end>
 
 =>a99_original
 Not interested.<end>
 
 =>a99
-Не интересует.<end>
+Обойдусь.<end>
 
 =>a100_original
 I'd rather stand over your dead body! ::Attack!::<end>
 
 =>a100
-Я лучше посижу у твоего трупа! ::Напасть!::<end>
+Я лучше брошу в него твой труп! ::Напасть!::<end>
 
 =>q101_original
 ::One of them closes her robe tighter upon seeing you, but you are still greeted with smiles.::
@@ -630,21 +632,21 @@ I'd rather stand over your dead body! ::Attack!::<end>
 Greetings, traveler.<end>
 
 =>q101
-::Одна из них при виде вас плотнее застёгивает халат, но вас всё равно встречают с улыбками.::
+::Одна из них при виде вас плотнее застёгивает халат, но вас всё равно встречают улыбками.::
 
-Приветствуем вас, путник.<end>
+Здравствуй, путник.<end>
 
 =>a102_original
 I mean no harm. Mind if I join you?<end>
 
 =>a102
-Я не хочу причинить вреда. Не возражаете, если я присоединюсь к вам?<end>
+Я не причиню вам вреда. Не возражаете, если я присоединюсь к вам?<end>
 
 =>q103_original
 Not at all, traveler. Come.<end>
 
 =>q103
-Вовсе нет, путник. Подходите.<end>
+Вовсе нет, путник. Подходи.<end>
 
 =>a104_original
 I didn't mean to disturb you. Goodbye.<end>
@@ -656,10 +658,10 @@ I didn't mean to disturb you. Goodbye.<end>
 Greetings. ::Attack!::<end>
 
 =>a105
-Приветствую. ::Напасть!::<end>
+Привет. ::Напасть!::<end>
 
 =>q106_original
 We greet you back, $(#traveler/sister).<end>
 
 =>q106
-Мы приветствуем вас снова, $(#путник/сестра).<end>
+Мы приветствуем тебя снова, $(#путник/сестра).<end>
