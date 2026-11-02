@@ -8,7 +8,7 @@
 Corporal. ::Salutes.::<end>
 
 =>q2
-Капрал. ::Отдаёт честь.::<end>
+Капрал. ::Выполняет привествие.::<end>
 
 =>q3_original
 Area secured, $(#sir/ma'am).<end>
@@ -20,37 +20,37 @@ Area secured, $(#sir/ma'am).<end>
 We won't let another Epione happen, $(#sir/ma'am).<end>
 
 =>q4
-Мы не допустим повторения ещё одного Эпиона.<end>
+Мы не допустим повторения Эпионы, $(#сэр/мэм).<end>
 
 =>q5_original
 Any new orders from Fort Apogee, Corporal?<end>
 
 =>q5
-Какие новые приказы из Форта Апогей, капрал?<end>
+Есть новые приказы из Форта Апогей, капрал?<end>
 
 =>q6_original
 We're on patrol, $(#sir/ma'am).<end>
 
 =>q6
-Мы на патрулировании, $(#сэр/мэм).<end>
+Мы в патруле, $(#сэр/мэм).<end>
 
 =>q7_original
 Even though the Drones have suffered a strong blow, we must remain vigilant.<end>
 
 =>q7
-Несмотря на то, что Шершни получили сильный удар, мы должны оставаться бдительными.<end>
+Несмотря на то, что Шершни получили сильный удар, мы не должны терять бдительности.<end>
 
 =>q8_original
 No Faceless activity detected nearby.<end>
 
 =>q8
-Активность безликих поблизости не обнаружена.<end>
+Признаков активности безликих поблизости не обнаружено.<end>
 
 =>q9_original
 No Faceless activity reported since their withdrawal from Core City.<end>
 
 =>q9
-Ни о какой активности Безликих не сообщалось после их ухода из Кор-Сити.<end>
+Никаких признаков активности Безликих после их ухода из Кор-Сити.<end>
 
 =>q10_original
 Yes?<end>
@@ -68,7 +68,7 @@ Yes?<end>
 Citizen.<end>
 
 =>q12
-Житель.<end>
+Граждан$(#ин/ка).<end>
 
 =>q13_original
 I've got my eyes on you.<end>
@@ -80,7 +80,7 @@ I've got my eyes on you.<end>
 Do not interfere with Protectorate business, citizen.<end>
 
 =>q14
-Не вмешивайтесь в дела Протектората, гражданин.<end>
+Не вмешивайтесь в дела Протектората, граждан$(#ин/ка).<end>
 
 =>q15_original
 Is there a problem?<end>
@@ -98,4 +98,4 @@ Have you noticed anything out of the ordinary nearby?<end>
 If you have any information on the Free Drones, let us know.<end>
 
 =>q17
-Если у вас есть информация о Вольных шершнях, сообщите нам об этом.<end>
+Если у вас есть информация о Вольных шершнях, сообщите её нам.<end>
