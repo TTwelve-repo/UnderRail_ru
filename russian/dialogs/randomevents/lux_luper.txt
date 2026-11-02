@@ -20,7 +20,7 @@ Whatcha starin' at? Time to leave.<end>
 ::He takes a gulp of brew.::<end>
 
 =>q4
-::Он отхлёбывает из бутылки.::<end>
+::Отхлёбывает из бутылки.::<end>
 
 =>q5_original
 <end>
@@ -42,7 +42,7 @@ Aaaaah. Job's done.<end>
 ::[Tailoring] You've kept a close eye on the way he was making the shoes, the way he manipulates and treats the leather, and the things he does to the final product. Therein you've noticed a few little things you could use yourself when making footwear, thus effectively getting not only a pair of shiny shoes but also a valuable shoemaking lesson.::<end>
 
 =>q7
-::[Шитьё] Вы внимательно наблюдаете за тем, как он делает обувь, как работает с кожей, как наносит завершающие штрихи. В процессе, вам удаётся приметить несколько мелочей, которые вы могли бы использовать сами при изготовлении обуви, таким образом эффективно получив не только пару блестящих туфель, но и ценный урок сапожного дела.::<end>
+::[Шитьё] Вы внимательно наблюдали за тем, как он делает обувь, как работает с кожей, как наносит завершающие штрихи. В процессе, вам удалось приметить несколько мелочей, которые вы могли бы использовать сами при изготовлении обуви, таким образом получив не только пару блестящих туфель, но и ценный урок сапожного дела.::<end>
 
 =>q8_original
 ::Additionally, you ::<end>
@@ -120,7 +120,7 @@ I'll just take my money back first, then I'm off. ::Attack!::<end>
 Very well. Thanks for the shoes.<end>
 
 =>a18
-Хорошо. Спасибо за обувь.<end>
+Хорошо. Спасибо за туфли.<end>
 
 =>a19_original
 Not before I take my money back. ::Attack!::<end>
@@ -140,7 +140,7 @@ Not before I take my money back. ::Attack!::<end>
 The hell're you?<end>
 
 =>q21
-::Маленький пьяный человечек ковыляет к вам с бутылкой пойла в руке; при виде вас он останавливается как вкопанный.::
+::Низкорослый пьяный мужчина ковыляет к вам с бутылкой пойла в руке; при виде вас он останавливается как вкопанный.::
 
 Ты ещё что за чучело?<end>
 
@@ -202,13 +202,13 @@ Dohn want anyone <end>
 =>q29
 Убирайся. ::Его взгляд прокован к груде монет, -- вероятно, он оценивает её размер до и после вашего появления.::
 
-Не хочу ничего <end>
+Мне не нужны <end>
 
 =>q30_original
 'ere!<end>
 
 =>q30
-- вот!<end>
+тут гости!<end>
 
 =>q31_original
 <end>
@@ -220,7 +220,7 @@ Dohn want anyone <end>
 Who are you?<end>
 
 =>a32
-Кто вы?<end>
+Кто ты?<end>
 
 =>q33_original
 Nuhna yer business. <end>
@@ -232,7 +232,7 @@ Nuhna yer business. <end>
 Get out.<end>
 
 =>q34
-Уходи.<end>
+Вон отсюда.<end>
 
 =>a35_original
 You feeling okay? Maybe lay off the booze a bit.<end>
@@ -244,25 +244,25 @@ You feeling okay? Maybe lay off the booze a bit.<end>
 My drinkin's *nuhna. yer. business!* Ya continue pissin' me off 'n' I'll getcha, idjit, I'll getcha!<end>
 
 =>q36
-Моя выпивка - это *не твоё дело!* Будешь продолжать бесить меня, и я доберусь до тебя, идиот, доберусь!<end>
+А вот это точно *не твоё дело!* Будешь продолжать бесить меня, и ты у меня получишь, идиот$(#/ка), получишь!<end>
 
 =>q37_original
 Now gettuh hell out already!<end>
 
 =>q37
-А теперь убирайся уже к чёрту!<end>
+А теперь убирайся уже наконец!<end>
 
 =>a38_original
 I see you're working on some shoes. Are you a shoemaker?<end>
 
 =>a38
-Я вижу, ты работаешь над какой-то обувью. Ты сапожник?<end>
+Я вижу, ты делаешь обувь. Ты сапожник?<end>
 
 =>q39_original
 ::He pauses. Could just be drunken delay.:: <end>
 
 =>q39
-::Он делает паузу. Возможно, это из-за большого количества выпитого.:: <end>
+::Он отвечает не сразу. Возможно, это из-за большого количества выпитого.:: <end>
 
 =>q40_original
 Yeah. <end>
@@ -292,7 +292,7 @@ I'll pay you good.<end>
 ::He stares at you. Again, it's hard to differentiate between sensible thought and simple drunken delay.::<end>
 
 =>q44
-::Он смотрит на вас. Опять же, трудно отличить здравую мысль от пьяного бреда.::<end>
+::Он не сводит с вас взгляда. Опять же, вам трудно понять -- думает он или впал в ступор.::<end>
 
 =>q45_original
 <end>
@@ -304,7 +304,7 @@ I'll pay you good.<end>
 ::[Persuade]:: I mean, you got the snazziest pair of shoes I think I've ever seen. Wish I had a pair like that.<end>
 
 =>a46
-::[Убеждение]:: Я имею в виду, у тебя самая шикарная пара туфель из тех, которые я когда-либо видел. Жаль, что у меня нет такой пары.<end>
+::[Убеждение]:: Я хотел$(#/а) сказать, у тебя на ногах самые шикарные туфли из всех, которые я когда-либо видел$(#/а). Жаль, что у меня нет такой пары.<end>
 
 =>q47_original
 <end>
@@ -324,14 +324,15 @@ I'll pay you good.<end>
 <end>
 
 =>q49
-::...затем кивает, но скорее себе, чем вам.::
+::Затем он кивает, но скорее себе, чем вам.::
+
 <end>
 
 =>q50_original
 A hundr'd. Nah - *two* hundr'd charons, 'n' I'll... I'll make ya a pair-a shoes. Best shoes ye'll ever wear.<end>
 
 =>q50
-Сто. Нет, *двести* харонов, и я... я сошью вам пару туфель. Лучшая обувь, которую вы когда-либо носили.<end>
+Сто. Нет, *двести* харонов, и я... я сошью тебе пару туфель. Лучшая обувь, которая у тебя когда-нибудь будет.<end>
 
 =>a51_original
 Got it all here. ::Give him 200 stygian coins.::<end>
@@ -345,15 +346,15 @@ Got it all here. ::Give him 200 stygian coins.::<end>
 Khhh. Show me yer feet.<end>
 
 =>q52
-::Он выхватывает монеты из вашей руки и начинает кивать со всей возрастающей амплитудой, когда начинает их считать. Удовлетворённый, он допивает свою бутылку самогона и внимательно осматривает вас.::
+::Он выхватывает монеты из ваших рук и начинает их считать, кивая со всё возрастающей амплитудой. Удовлетворённый, он допивает свою бутылку самогона и внимательно осматривает вас.::
 
-Кххх. Покажи мне свои ноги.<end>
+Кх-хы. Ноги покажи.<end>
 
 =>a53_original
 ::Do as he says.::<end>
 
 =>a53
-::Сделать, как он сказал::<end>
+::Делать, как он говорит.::<end>
 
 =>q54_original
 ::You sit on the bed and show him your feet.::
@@ -363,11 +364,11 @@ Khm.
 ::He grabs two pieces of mostly clean paper and plants your feet on them.::<end>
 
 =>q54
-::Ты садишься на кровать и показываешь ему свои ноги.::
+::Вы садитесь на кровать и показываете ему свои ноги.::
 
-Кхм.
+Кхм...
 
-::Он хватает два куска почти чистой бумаги и ставит на них ваши ноги.::<end>
+::Он хватает два листа более-менее чистой бумаги и ставит на них ваши ноги.::<end>
 
 =>q55_original
 ::As wobbly and jittery as he seems in general, the way he's taking your measurements exudes curious precision and commitment: He wraps the worn-out measuring tape around your feet, starting with the toe joint, then moves it across the midfoot before reaching the ankle. Along the way he draws out the shape of your foot on the paper and makes a few marks at all of the important spots.
@@ -375,27 +376,27 @@ Khm.
 Also, he gently checks the way your foot bends in various places, nodding slightly in his usual fashion.::<end>
 
 =>q55
-::Каким бы шатким и нервным он ни казался в целом, то, как он снимает с вас мерки, излучает любопытную точность и целеустремлённость: он обматывает изношенную измерительную ленту вокруг ваших ног, начиная с сустава пальца, затем перемещается по середине стопы, прежде чем достичь лодыжки. По пути он рисует форму вашей ноги на бумаге и делает несколько пометок во всех важных местах.
+::Каким бы пьяным и неустойчивым он ни казался, он снимает с вас мерки с точностью и знанием дела: он прикладывает изношенную измерительную ленту к вашим ступням, начиная с сустава пальца, затем через всю стопу до лодыжки. Также, он зарисовывает форму вашей стопы на бумаге и делает несколько пометок.
 
-Кроме того, он осторожно проверяет, как сгибается ваша нога в разных местах, слегка кивая в своей обычной манере.::<end>
+Кроме того, он аккуратно проверяет, как сгибается ваша нога в разных местах, слегка кивая в своей обычной манере.::<end>
 
 =>q56_original
 The toes. They're gonna have ta come off. ::He says before nonchalantly taking a rusty hacksaw from underneath his workbench and bringing it dangerously close to you feet.::<end>
 
 =>q56
-Пальцы ног. Им придётся оторваться. ::Говорит он, прежде чем небрежно вытащить ржавую ножовку из-под своего верстака и поднести её в опасной близости к вашим ногам.::<end>
+Пальцы никуда не годятся. Придётся их отрезать. ::Равнодушно говорит он, вытаскивая ржавую ножовку из-под верстака и поднося её в неуютно близко к вашим ногам.::<end>
 
 =>a57_original
 ::Close your eyes and accept your fate.::<end>
 
 =>a57
-::Закрой глаза и прими свою судьбу.::<end>
+::Закрыть глаза и смириться с судьбой.::<end>
 
 =>q58_original
 ::He looks at you for a moment, then bursts out laughing. ::<end>
 
 =>q58
-::Он мгновение смотрит на тебя, а потом захлёбывается смехом. ::<end>
+::Он мгновение смотрит на вас, а потом разражается хохотом. ::<end>
 
 =>q59_original
 ::It's a full-bodied, boar-like kind of laughter, both throaty and squealy, and the little prank seems to have brought him a lot of joy and has erased his usual annoyed grimace.
@@ -403,9 +404,9 @@ The toes. They're gonna have ta come off. ::He says before nonchalantly taking a
 He chucks the hacksaw away and takes everything else to his bench, where another brew awaits him.::<end>
 
 =>q59
-::Это полнотелый, похожий на хряка смех, одновременно хриплый и визгливый, и маленькая шутка, похоже, принесла ему много радости и стёрла его обычную раздражённую гримасу.
+::Он трясётся всем телом, хрюкая как кабан, одновременно хрипло и визгливо. Эта маленькая шутка, похоже, приносит ему немало радости и стирает с лица его обычную кислую гримасу.
 
-Он отбрасывает ножовку и уносит всё остальное на свою скамейку, где его ждёт ещё одно пойло.::<end>
+Он отбрасывает ножовку и уносит всё на верстак, где его уже ждёт ещё одна бутылка.::<end>
 
 =>a60_original
 ::Wait.::<end>
@@ -417,25 +418,25 @@ He chucks the hacksaw away and takes everything else to his bench, where another
 Wait, wait!<end>
 
 =>a61
-Подождите, подождите!<end>
+Подожди, подожди!<end>
 
 =>a62_original
 ::Pull your feet away.::<end>
 
 =>a62
-::Убери ноги в сторону.::<end>
+::Отдёрнуть ноги.::<end>
 
 =>a63_original
 NOOOOOOOO! ::Attack!::<end>
 
 =>a63
-НЕ-Е-Е-Е-Е-ЕТ! ::Напасть!::<end>
+НЕ-Е-Е-Е-ЕТ! ::Напасть!::<end>
 
 =>q64_original
 ::He stops you by putting his hand on your chest, then bursts out laughing. ::<end>
 
 =>q64
-::Он останавливает вас, кладя руку вам на грудь, а затем захлёбывается смехом. ::<end>
+::Он останавливает вас, кладя руку вам на грудь, а затем разражается хохотом. ::<end>
 
 =>a65_original
 Right now?<end>
@@ -447,25 +448,25 @@ Right now?<end>
 Shut up 'n' show me yer damn feet.<end>
 
 =>q66
-Заткнись и покажи мне свои чёртовы ноги.<end>
+Заткнись и покажи мне свои вонючие ноги.<end>
 
 =>a67_original
 Alright, man, sheesh! ::Do as he says.::<end>
 
 =>a67
-Ладно, чувак, чёрт возьми! ::Делай, как он говорит.::<end>
+Ладно, мужик, полегче! ::Делать, как он говорит.::<end>
 
 =>a68_original
 Are you sure you don't want to sober up a little first? I can wait.<end>
 
 =>a68
-Ты уверен, что не хочешь сначала немного протрезветь? Я не могу ждать.<end>
+Ты уверен, что не хочешь сначала немного протрезветь? Я могу подождать.<end>
 
 =>a69_original
 Now that I think about it, I'll pass. Bye.<end>
 
 =>a69
-Теперь, когда я думаю об этом, я пас. Пока.<end>
+Хотя, если подумать, я пас. Пока.<end>
 
 =>q70_original
 ::He points to the exit with his crooked index finger.::
@@ -481,13 +482,13 @@ Now that I think about it, I'll pass. Bye.<end>
 Bah, I'll just steal yours. ::Attack!::<end>
 
 =>a71
-Я просто украду твою. ::Напасть!::<end>
+Я лучше просто возьму твои. ::Напасть!::<end>
 
 =>q72_original
 ::He stares at you, taking a quick sip of his brew while presumably pondering.::<end>
 
 =>q72
-::Он смотрит на вас, делая быстрый глоток пойла, предположительно размышляя..::<end>
+::Он смотрит на вас, делая быстрый глоток и, предположительно, размышляя.::<end>
 
 =>q73_original
 Don'tnt... uh... care, don't care. Just get out. 
@@ -495,9 +496,9 @@ Don'tnt... uh... care, don't care. Just get out.
 I'm gettin' tired-a this crap. Get out. Get out!<end>
 
 =>q73
-Не... эм... неважно, неважно. Просто убирайся.
+Не... эм... неважно, плевать. Просто убирайся.
 
-Я устал от этого дерьма. Убирайся. Убирайся!<end>
+Я устал от этого дерьма. Вон отсюда. Пош$(#ёл/ла) вон!<end>
 
 =>a74_original
 I'm going.<end>
@@ -509,13 +510,13 @@ I'm going.<end>
 I'm not going anywhere, little man, you are. ::Attack!::<end>
 
 =>a75
-Я никуда не уйду, малыш, а ты уйдёшь. ::Напасть!::<end>
+Я никуда не уйду, коротышка, пойдёшь ты. ::Напасть!::<end>
 
 =>a76_original
 ::[Mercantile]:: If you want that coin pile of yours to grow larger, you better appreciate the fact that I'm willing to pay *good* money for your work.<end>
 
 =>a76
-::[Торговля]:: Если хочешь увеличить свою кучу монет, то обрати внимание на тот факт, что я готов платить *хорошие* деньги за твои работу.<end>
+::[Торговля]:: Если хочешь увеличить свою кучу монет, то обрати внимание на тот факт, что я готов$(#/а) заплатить *хорошие* деньги за твои работу.<end>
 
 =>q77_original
 <end>
@@ -539,7 +540,7 @@ I've got something strong to help you think it through. ::Show him one of your d
 ::Not much of an response from him. He just waits... crossly.::<end>
 
 =>q80
-::Он ничего не отвечает. Просто ждёт... скрестив руки.::<end>
+::Он ничего не отвечает, просто ждёт с раздражённым видом.::<end>
 
 =>q81_original
 <end>
@@ -551,19 +552,19 @@ I've got something strong to help you think it through. ::Show him one of your d
 ::Offer him a mushroom brew.::<end>
 
 =>a82
-::Предложить ему грибное варево.::<end>
+::Предложить ему грибной самогон.::<end>
 
 =>q83_original
 Brew? Shroom? Already got that.<end>
 
 =>q83
-Варево? Шрум? Это я уже понял.<end>
+Самогон? Грибной? Этого у меня полно.<end>
 
 =>a84_original
 ::Offer him the Juice.::<end>
 
 =>a84
-::Предложить ему сок.::<end>
+::Предложить ему Сок.::<end>
 
 =>q85_original
 ::He sniffs the bottle, then gives it back to you in disgust.::
@@ -573,13 +574,13 @@ The hell... the hell is this stinkin' hooch? Keep that 'way from me.<end>
 =>q85
 ::Он нюхает бутылку, прежде чем с отвращением вернуть её вам.::
 
-Чёрт возьми... что, чёрт возьми, это за вонючий самогон? Держи это подальше от меня.<end>
+Что за гадость... что это за вонючее пойло? Я это пить не буду.<end>
 
 =>a86_original
 ::Offer him an Absence.:: You have to light this one on fire.<end>
 
 =>a86
-::Предложить ему абсент.:: Вы должны поджечь его.<end>
+::Предложить ему Отсутствие.:: Сперва его надо поджечь.<end>
 
 =>q87_original
 ::He sniffs it first, then lights it with a torch he picks up from a box underneath his workbench. After quaffing the drink in a few big gulps he stands still, staring through you with a deadpan expression. Steadilyy, his eyes begin to widen, his irises begin to tremble, then to move, and then to bounce around as if trying to escape their ocular confinements.::
@@ -587,9 +588,9 @@ The hell... the hell is this stinkin' hooch? Keep that 'way from me.<end>
 W-w-what's goin' on! What've ya... - HUH!? - g-given meh? ::He looks about, panic-stricken, and starts moving away from you.::<end>
 
 =>q87
-::Сначала он нюхает его, затем зажигает факелом, который достаёт из коробки под своим верстаком. Осушив напиток несколькими большими глотками, он стоит неподвижно, глядя сквозь вас с невозмутимым выражением лица. Постепенно его глаза начинают расширяться, радужная оболочка начинает дрожать, затем двигаться, а затем подпрыгивать, как будто пытаясь вырваться из своих глазных пут.::
+::Сначала он принюхивается, затем зажигает горелкой, которую достаёт из коробки под верстаком. Осушив стакан несколькими глотками, он стоит неподвижно, глядя сквозь вас с непроницаемым выражением лица. Постепенно его глаза начинают расширяться и дрожать, затем метаться, будто пытаясь выпрыгнуть из орбит.::
 
-Ч-ч-что происходит! Что ты... - ХА!? - п-дали мне? ::Он в панике оглядывается по сторонам и начинает постепенно удаляться от вас.::<end>
+Ч-ч-что происходит! Что ты... А?!. мне н-нали$(#/а)? ::Он в панике оглядывается и начинает пятиться от вас.::<end>
 
 =>q88_original
 Where'dja all comin' from!?
@@ -603,11 +604,11 @@ Go away! *Ah!*
 =>q88
 Откуда вы все взялись?!
 
-Уходи! *Ах!*
+Пошлм вон! *Ах!*
 
-*Останови это!*
+*Останови!*
 
-::Он смотрит тебе прямо в глаза.:: *ОСТАНОВИ ЭТО!*<end>
+::Он смотрит вам прямо в глаза.:: *ОСТАНОВИ ЭТО!*<end>
 
 =>a89_original
 ::Fight!::<end>
@@ -619,7 +620,7 @@ Go away! *Ah!*
 ::Offer him an All-in.::<end>
 
 =>a90
-::Предложить ему Всё-в-одном.::<end>
+::Предложить ему Ва-банк.::<end>
 
 =>q91_original
 ::He sniffs it first, then downs it.::
@@ -627,7 +628,7 @@ Go away! *Ah!*
 Khhm... ::He makes a grimace.:: Hits good.<end>
 
 =>q91
-::Сначала он нюхает его, а потом проглатывает.::
+::Сначала он принюхивается, потом выпивает залпом.::
 
 Кхм... ::Он корчит гримасу.:: Даёт по шарам хорошо.<end>
 
@@ -635,7 +636,7 @@ Khhm... ::He makes a grimace.:: Hits good.<end>
 ::His head down and body slouched, he stares at the empty glass in silence, lightly swaying from side to side...::<end>
 
 =>q92
-::Опустив голову и ссутулившись, он молча смотрит на пустой стакан, слегка наклоняя голову из стороны в сторону...::<end>
+::Опустив голову и ссутулившись, он молча смотрит на пустой стакан, покачиваясь из стороны в сторону...::<end>
 
 =>a93_original
 ::Offer him a Boolean.::<end>
@@ -647,7 +648,7 @@ Khhm... ::He makes a grimace.:: Hits good.<end>
 ::Offer him a Bloody Oligarch.::<end>
 
 =>a94
-::Предложить ему Кровавого Олигарха.::<end>
+::Предложить ему Кровавого олигарха.::<end>
 
 =>q95_original
 ::He sniffs it first, then quaffs it in a few big gulps.::
@@ -655,9 +656,9 @@ Khhm... ::He makes a grimace.:: Hits good.<end>
 Khhm... Bloody good.<end>
 
 =>q95
-::Сначала он нюхает его, а затем выпивает несколькими большими глотками.::
+::Сначала он принюхивается, а затем выпивает несколькими большими глотками.::
 
-Кхм... Чертовски хорошо.<end>
+Кхм... А этот хорош.<end>
 
 =>a96_original
 ::Offer him a Cave Tear.::<end>
@@ -671,21 +672,21 @@ Khhm... Bloody good.<end>
 Khhm... ::He belches unashamedly.:: Frothy.<end>
 
 =>q97
-::Сначала он нюхает его, а затем выпивает несколькими большими глотками.::
+::Сначала он принюхивается, а затем выпивает несколькими большими глотками.::
 
-Кхм... ::Он отрыгивает не стесняясь.:: Пенистый..<end>
+Кх-хы... ::Он отрыгивает не стесняясь.:: Пенистый.<end>
 
 =>q98_original
 ::His head down and body slouched, he stares at the empty bottle in silence, lightly swaying from side to side...::<end>
 
 =>q98
-::Опустив голову и ссутулившись, он молча смотрит на пустую бутылку, слегка наклоняя голову из стороны в сторону...::<end>
+::Опустив голову и ссутулившись, он молча смотрит на пустой стакан, покачиваясь из стороны в сторону...::<end>
 
 =>a99_original
 ::Offer him a Clean Deal.::<end>
 
 =>a99
-::Предложить ему Чистую Сделку.::<end>
+::Предложить ему Чистую сделку.::<end>
 
 =>q100_original
 ::He sniffs it first, then downs it.::
@@ -693,7 +694,7 @@ Khhm... ::He belches unashamedly.:: Frothy.<end>
 Khhm... Smokey.<end>
 
 =>q100
-::Сначала он нюхает его, а потом проглатывает.::
+::Сначала он принюхивается, а потом выпивает залпом.::
 
 Кхм... С дымком.<end>
 
@@ -701,7 +702,7 @@ Khhm... Smokey.<end>
 ::Offer him an Ice of Spades.::<end>
 
 =>a101
-::Предложить ему Пиковый Лёд.::<end>
+::Предложить ему Пиковый лёд.::<end>
 
 =>q102_original
 ::He sniffs it first, then downs it.::
@@ -709,7 +710,7 @@ Khhm... Smokey.<end>
 Khhm... Cool.<end>
 
 =>q102
-::Сначала он нюхает его, а потом проглатывает.::
+::Сначала он принюхивается, а потом выпивает залпом.::
 
 Кхм... Прохладный.<end>
 
@@ -717,7 +718,7 @@ Khhm... Cool.<end>
 ::Offer him a Jet Drag.::<end>
 
 =>a103
-::Предложить ему Реактивную Тягу.::<end>
+::Предложить ему Реактивную тягу.::<end>
 
 =>q104_original
 ::He sniffs it first, then downs it.::
@@ -725,7 +726,7 @@ Khhm... Cool.<end>
 Oddly... herbal.<end>
 
 =>q104
-::Сначала он нюхает его, а потом проглатывает.::
+::Сначала он принюхивается, а потом выпивает залпом.::
 
 Странно... травяной.<end>
 
@@ -741,15 +742,15 @@ Oddly... herbal.<end>
 Khhm... Dry.<end>
 
 =>q106
-::Сначала он нюхает его, а потом проглатывает.::
+::Сначала он принюхивается, а потом выпивает залпом.::
 
-Кхм... Сухой.<end>
+Кхм... Суховат.<end>
 
 =>a107_original
 ::Offer him a Mindshroom Martini.::<end>
 
 =>a107
-::Предложить ему мартини Грибомозг.::<end>
+::Предложить ему Мозгляковый мартини.::<end>
 
 =>q108_original
 ::He sniffs it first, then quaffs it in a few big gulps.::
@@ -757,21 +758,21 @@ Khhm... Dry.<end>
 W-whoa! ::His pupils dilate.:: This thing's amazing!<end>
 
 =>q108
-::Сначала он нюхает его, а затем выпивает несколькими большими глотками.::
+::Сначала он принюхивается, а затем выпивает несколькими большими глотками.::
 
-Ух ты! ::Его зрачки расширяются.:: Это потрясающе!<end>
+Ух ты! ::Его зрачки расширяются.:: Потрясающе!<end>
 
 =>q109_original
 ::He stares at the empty glass in silence, his eyes wide open, and then he starts to lightly sway his head from side to side...::<end>
 
 =>q109
-::Он молча смотрит на пустой стакан, его глаза широко открыты, а затем он начинает слегка наклонять голову из стороны в сторону...::<end>
+::Он молча смотрит на пустой стакан широко раскрытыми глазами, а затем начинает покачиваться из стороны в сторону...::<end>
 
 =>a110_original
 ::Offer him an Outwork.::<end>
 
 =>a110
-::Предложить ему Подработку.::<end>
+::Предложить ему Сверхурочные.::<end>
 
 =>q111_original
 ::He sniffs it first, then quaffs it in a few big gulps.::
@@ -779,7 +780,7 @@ W-whoa! ::His pupils dilate.:: This thing's amazing!<end>
 Khhm... Invigoratin'.<end>
 
 =>q111
-::Сначала он нюхает его, а затем выпивает несколькими большими глотками.::
+::Сначала он принюхивается, а затем выпивает несколькими большими глотками.::
 
 Кхм... Бодрящий.<end>
 
@@ -787,7 +788,7 @@ Khhm... Invigoratin'.<end>
 ::Offer him a Scrapperac.::<end>
 
 =>a112
-::Предложить ему Скребок.::<end>
+::Предложить ему Забияку.::<end>
 
 =>q113_original
 ::He sniffs it first, then quaffs it in a few big gulps.::
@@ -795,15 +796,15 @@ Khhm... Invigoratin'.<end>
 Khhm... ::He coughs.:: Hits right where it... khhh... should.<end>
 
 =>q113
-::Сначала он нюхает его, а затем выпивает несколькими большими глотками.::
+::Сначала он принюхивается, а затем выпивает несколькими большими глотками.::
 
-Кхм... ::Он кашляет.:: Попадает прямо туда, куда... кхххмм... должен.<end>
+Кхм... ::Он кашляет.:: По мозгам даёт прям... кх-х-хмм... хорошо.<end>
 
 =>a114_original
 ::Offer him a Slackjaw.::<end>
 
 =>a114
-::Предложить ему Деревенщину.::<end>
+::Предложить ему Разирота.::<end>
 
 =>q115_original
 ::He sniffs it first, then downs it.::
@@ -811,15 +812,15 @@ Khhm... ::He coughs.:: Hits right where it... khhh... should.<end>
 Yyyyeeeehhh!<end>
 
 =>q115
-::Сначала он нюхает его, а потом проглатывает.::
+::Сначала он принюхивается, а потом выпивает залпом.::
 
-Чёрт возьми да!.<end>
+О-о-о-о, да-а-а-а!.<end>
 
 =>a116_original
 ::Offer him a Slampipe.::<end>
 
 =>a116
-::Предложить ему Трубопровод.::<end>
+::Предложить ему Вышибалу.::<end>
 
 =>q117_original
 ::He sniffs it first, then quaffs it in a few big gulps.::
@@ -827,15 +828,15 @@ Yyyyeeeehhh!<end>
 Khhm... Empowerin'.<end>
 
 =>q117
-::Сначала он нюхает его, а затем выпивает несколькими большими глотками.::
+::Сначала он принюхивается, а затем выпивает несколькими большими глотками.::
 
-Кхм... Я чувствую, как меня наполняет необъяснимая сила!.<end>
+Кхм... Прямо силой наполняет!.<end>
 
 =>a118_original
 ::Offer him a Sleight of the Night.::<end>
 
 =>a118
-::Предложить ему Хитрость Ночи.::<end>
+::Предложить ему Хитрость ночи.::<end>
 
 =>q119_original
 ::He sniffs it first, then downs it.
@@ -843,9 +844,9 @@ Khhm... Empowerin'.<end>
 Then he gazes at his fingers, first on one hand, then on the other, not saying a thing to you.::<end>
 
 =>q119
-::Сначала он нюхает его, а потом проглатывает.
+::Сначала он принюхивается, а потом выпивает залпом.
 
-Затем он смотрит на свои пальцы, сначала на одной руке, потом на другой, ничего вам не говоря.::<end>
+Он смотрит на свои пальцы, сначала на одной руке, потом на другой, ничего вам не говоря.::<end>
 
 =>a120_original
 ::Offer him a Stalagdrop.::<end>
@@ -859,7 +860,7 @@ Then he gazes at his fingers, first on one hand, then on the other, not saying a
 Khhm... Refreshin'.<end>
 
 =>q121
-::Сначала он нюхает его, а затем выпивает несколькими большими глотками.::
+::Сначала он принюхивается, а затем выпивает несколькими большими глотками.::
 
 Кхм... Освежает.<end>
 
@@ -867,7 +868,7 @@ Khhm... Refreshin'.<end>
 ::Offer him a White Dude.::<end>
 
 =>a122
-::Предложить ему Белого Чувака.::<end>
+::Предложить ему Белого чувака.::<end>
 
 =>q123_original
 ::He sniffs it first, then quaffs it in a few big gulps.::
@@ -875,7 +876,7 @@ Khhm... Refreshin'.<end>
 Khhm... Creamy.<end>
 
 =>q123
-::Сначала он нюхает его, а затем выпивает несколькими большими глотками.::
+::Сначала он принюхивается, а затем выпивает несколькими большими глотками.::
 
 Кхм... Сливочный.<end>
 
@@ -883,7 +884,7 @@ Khhm... Creamy.<end>
 Now that I think about it, involving more booze might not be the wisest decision right now.<end>
 
 =>a124
-Если хорошо подумать, то привлечение дополнительной выпивки - не самое мудрое решение в данный момент.<end>
+Хотя, если подумать, то наливать тебе ещё -- не самое мудрое решение в данный момент.<end>
 
 =>q125_original
 ::He takes a good healthy chug from his bottle.::
@@ -893,7 +894,7 @@ Wouldja get on with it already?<end>
 =>q125
 ::Он делает хороший здоровый глоток из своей бутылки.::
 
-Может, я уже покончу с этим?<end>
+Ты кончишь чушь нести или нет?<end>
 
 =>a126_original
 Never mind. I'm going.<end>
@@ -923,25 +924,25 @@ Screw this... ::Attack!::<end>
 I'm out, I'm out.<end>
 
 =>a130
-Я ухожу, я ухожу.<end>
+Ухожу я, ухожу.<end>
 
 =>q131_original
 in my hole home, home hole!<end>
 
 =>q131
-В моей дыре, в моей родной дыре.<end>
+гости в моей дыре, в моей норе.<end>
 
 =>a132_original
 I didn't touch anything, I swear!<end>
 
 =>a132
-Я ни к чему не прикасался, клянусь!<end>
+Я ни к чему не прикасал$(#ся/ась), клянусь!<end>
 
 =>q133_original
 Be better fer yer health if ya didn't. <end>
 
 =>q133
-Было бы лучше для твоего здоровья, если бы ты этого не сделал. <end>
+Очень на это надеюсь, ради твоего же блага. <end>
 
 =>a134_original
 $(context.player.Name).<end>
@@ -953,13 +954,13 @@ $(context.player.Name).<end>
 Sorry, man, wrong cave.<end>
 
 =>a135
-Извини, чувак, ошибся пещерой.<end>
+Извини, чувак, ошиб$(#ся/лась) пещерой.<end>
 
 =>a136_original
 The last person you'll ever see. ::Attack!::<end>
 
 =>a136
-Последний человек, которого ты когда-либо увидишь. ::Напасть!::<end>
+Я последн$(#ий/яя), кого ты увидишь. ::Напасть!::<end>
 
 =>q137_original
 <end>
@@ -971,16 +972,16 @@ The last person you'll ever see. ::Attack!::<end>
 Get the hell outta my hole home, home hole!<end>
 
 =>q138
-Убирайся к чёрту из моей дыры, к себе домой!<end>
+Убирайся к крысоволкам из моей дыры, моей норы!<end>
 
 =>q139_original
 I'm warnin' ya, idjit. Get out!<end>
 
 =>q139
-Я предупреждаю тебя, идиот. Убирайся!<end>
+Я предупреждаю тебя, идиот$(#/ка). Вон отсюда!<end>
 
 =>q140_original
 ::He drops the bottle.:: Now ya done it!<end>
 
 =>q140
-::Он роняет бутылку.:: Теперь ты сделал это!<end>
+::Он бросает бутылку.:: Сейчас ты у меня получишь!<end>
