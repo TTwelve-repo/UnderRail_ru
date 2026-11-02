@@ -8,19 +8,19 @@
 Ya got yer shoes.<end>
 
 =>q2
-У тебя есть своя обувь.<end>
+Ты получил$(#/а) свои туфли.<end>
 
 =>q3_original
 Whatcha starin' at? Time to leave.<end>
 
 =>q3
-На что ты уставился? Пора уходить.<end>
+На что уставил$(#ся/ась)? Тебе пора.<end>
 
 =>q4_original
 ::He takes a gulp of brew.::<end>
 
 =>q4
-::Он делает глоток непонятного пойла.::<end>
+::Он отхлёбывает из бутылки.::<end>
 
 =>q5_original
 <end>
@@ -34,15 +34,15 @@ Whatcha starin' at? Time to leave.<end>
 Aaaaah. Job's done.<end>
 
 =>q6
-::Обувь готова. Он с гордостью смотрит на них, пока допивает свой неизвестно какой напиток.::
+::Туфли готовы. Он с гордостью смотрит на них, делая последний глоток непонятного пойла.::
 
-Ааааа. Работа сделана.<end>
+А-а-ах. Работа сделана.<end>
 
 =>q7_original
 ::[Tailoring] You've kept a close eye on the way he was making the shoes, the way he manipulates and treats the leather, and the things he does to the final product. Therein you've noticed a few little things you could use yourself when making footwear, thus effectively getting not only a pair of shiny shoes but also a valuable shoemaking lesson.::<end>
 
 =>q7
-::[Пошив] Вы внимательно следили за тем, как он делал обувь, за тем, как он совершает манипуляции с обработкой кожи, и за тем, что он делает с готовым изделием. В нём вы заметили несколько мелочей, которые вы могли бы использовать самостоятельно при изготовлении обуви, таким образом эффективно получая не только пару блестящих туфель, но и ценный урок сапожного дела.::<end>
+::[Шитьё] Вы внимательно наблюдаете за тем, как он делает обувь, как работает с кожей, как наносит завершающие штрихи. В процессе, вам удаётся приметить несколько мелочей, которые вы могли бы использовать сами при изготовлении обуви, таким образом эффективно получив не только пару блестящих туфель, но и ценный урок сапожного дела.::<end>
 
 =>q8_original
 ::Additionally, you ::<end>
@@ -54,7 +54,7 @@ Aaaaah. Job's done.<end>
 ::couldn't but not be impressed by the way he performed his craft. It's as if he was fading in and out of a grouchy drunkard and a keen-eyed, meticulous artisan.::<end>
 
 =>q9
-::не мог не быть впечатлён тем, как он выполнял своё ремесло. Как будто он то превращался в ворчливого пьяницу, то превращался в проницательного, дотошного ремесленника.::<end>
+::не могли не быть впечатлены его мастерством. Он будто ненадолго превратился из ворчливого пьяницы в собранного, щепетильного ремесленника.::<end>
 
 =>q10_original
 'Ere. ::He hands you your bespoke shoes, all nice and polished.::
@@ -62,9 +62,9 @@ Aaaaah. Job's done.<end>
 We're done. Now... ::He gestures with a quick tilt of his head.:: ...*good-bye*.<end>
 
 =>q10
-- Здесь. ::Он вручает вам вашу обувь, сделанную на заказ, всё красивое и начищенное.::
+Во. ::Он вручает вам вашу пару обуви, сделанную на заказ, начищенную до блеска.::
 
-Мы закончили. Теперь... ::Он жестикулирует быстрым наклоном головы.:: ...*до свидания*.<end>
+Я закончил. Теперь... ::Он указывает головой на выход.:: ...*до свидания.*<end>
 
 =>a11_original
 Where'd you learn to be such a good shoemaker?<end>
@@ -80,17 +80,17 @@ It's what I do. ::He pauses.:: Ain't got much else goin' for. In life. I guess.
 ::His eyes fall on his brew, and a few moments later, he starts reducing it.::<end>
 
 =>q12
-::Он пожимает плечами и открывает ещё одну банку своего неизвестного пойла.::
+::Он пожимает плечами и открывает ещё одну бутылку.::
 
-Это то, что я делаю. ::Он делает паузу.:: Больше мне делать нечего. В жизни. Я думаю.
+Это моя работа. ::Он делает паузу.:: Больше мне делать нечего. В жизни. Наверно.
 
-::Его взгляд падает на его варево, и через несколько мгновений он начинает опустошать банку.::<end>
+::Его взгляд падает на бутылку, и через несколько мгновений он начинает опустошать её.::<end>
 
 =>a13_original
 Thanks for the shoes. See ya.<end>
 
 =>a13
-Спасибо за качественную обувь. Увидимся.<end>
+Спасибо за туфли. Увидимся.<end>
 
 =>q14_original
 Yeah.<end>
@@ -108,19 +108,19 @@ Yeah.<end>
 ::He nods back.::<end>
 
 =>q16
-::Он снова кивает.::<end>
+::Он кивает в ответ.::<end>
 
 =>a17_original
 I'll just take my money back first, then I'm off. ::Attack!::<end>
 
 =>a17
-Сначала я просто заберу свои деньги обратно, а потом уйду. ::Напасть!::<end>
+Но сначала я верну свои деньги. ::Напасть!::<end>
 
 =>a18_original
 Very well. Thanks for the shoes.<end>
 
 =>a18
-Очень хорошо. Спасибо за обувь.<end>
+Хорошо. Спасибо за обувь.<end>
 
 =>a19_original
 Not before I take my money back. ::Attack!::<end>
@@ -132,7 +132,7 @@ Not before I take my money back. ::Attack!::<end>
 ::While waiting, you've observed him carefully and ::<end>
 
 =>q20
-::Пока вы ждали, вы внимательно наблюдали за ним и ::<end>
+::Пока вы ждали, у вас было время понаблюдать за ним, и вы ::<end>
 
 =>q21_original
 ::A little drunken man toddles toward you with a bottle of brew in his hand; the sight of you stops him dead in his tracks.::
@@ -142,7 +142,7 @@ The hell're you?<end>
 =>q21
 ::Маленький пьяный человечек ковыляет к вам с бутылкой пойла в руке; при виде вас он останавливается как вкопанный.::
 
-Кто ты такой, чёрт возьми?<end>
+Ты ещё что за чучело?<end>
 
 =>q22_original
 <end>
@@ -154,7 +154,7 @@ The hell're you?<end>
 The hell are *you*?<end>
 
 =>a23
-Чёрт возьми, кто ты такой?<end>
+Это *ты* ещё что за чучело?<end>
 
 =>q24_original
 ::He looks at his emptied safe - his expression unchanging - then at you, then takes a swig of his brew - one eye open and still on you. ::
@@ -164,9 +164,9 @@ Aaaaaahhhh...
 ::He drops the bottle without breaking eye contact.::<end>
 
 =>q24
-::Он смотрит на свой опустошённый сейф - выражение его лица не меняется - затем на вас, затем делает глоток своего напитка - один глаз открыт и всё ещё смотрит на вас. ::
+::Не меняя выражения лица, он смотрит на свой опустошённый сейф, потом снова на вас, затем делает глоток из бутылки -- не сводя с вас одного открытого глаза.::
 
-Ааааааааааа...
+А-а-а-а-ах...
 
 ::Он роняет бутылку, не прерывая зрительного контакта.::<end>
 
@@ -174,7 +174,7 @@ Aaaaaahhhh...
 Now ya done it, *idjit*.<end>
 
 =>q25
-Теперь ты сделал это, *идиот*.<end>
+Конец тебе, *идиот$(#/ка).*<end>
 
 =>a26_original
 ::Fight!::<end>
@@ -186,13 +186,13 @@ Now ya done it, *idjit*.<end>
 Asked ya first, idjit. Yer in mah hole home, home hole.<end>
 
 =>q27
-Спросил тебя первым, идиот. Ты в моей дыре, в моей родной дыре.<end>
+Я первый спросил, идиот$(#/ка). Ты в моей дыре, в моей норе.<end>
 
 =>q28_original
 ::He raises his free hand.:: Don't matter anyway. <end>
 
 =>q28
-::Он поднимает свободную руку.:: В любом случае это не имеет значения. <end>
+::Он поднимает свободную руку.:: Да какая разница. <end>
 
 =>q29_original
 Get out. ::His eyes are on the coin pile, likely comparing the size before and after your arrival.:: 
@@ -200,7 +200,7 @@ Get out. ::His eyes are on the coin pile, likely comparing the size before and a
 Dohn want anyone <end>
 
 =>q29
-Убирайся. ::Его взгляд направлен на стопку монет, вероятно, он сравнивает размер до и после вашего появления.::
+Убирайся. ::Его взгляд прокован к груде монет, -- вероятно, он оценивает её размер до и после вашего появления.::
 
 Не хочу ничего <end>
 
