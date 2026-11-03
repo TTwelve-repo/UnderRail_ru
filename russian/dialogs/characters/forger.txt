@@ -58,7 +58,9 @@
 Ugh… ugh… W-who's... there?<end>
 
 =>q10
-::Избитый, весь в синяках, едва не теряя сознания, он держится за медицинскую койку, трясясь от боли. Отёк лица мешает ему нормально видеть, но, несмотря на своё состояние, он всё ещё стоит на ногах.::<end>
+::Избитый, весь в синяках, едва не теряя сознания, он держится за медицинскую койку, трясясь от боли. Отёк лица мешает ему нормально видеть, но несмотря на своё состояние, он всё ещё стоит на ногах.::
+
+Ах... ах... К-кто... здесь?<end>
 
 =>a11_original
 Phreak, what has happened to you?<end>
@@ -70,19 +72,19 @@ Phreak, what has happened to you?<end>
 The heat caught up… to me… This is… how it goes...<end>
 
 =>q12
-Жара настигла… меня… Это… оно так бывает..<end>
+Законники нашли... меня... Так... всегда и бывает...<end>
 
 =>a13_original
 Let's get out of here, I've dealt with the guard.<end>
 
 =>a13
-Пошли отсюда, я разобрался с охраной.<end>
+Пошли отсюда, я разобрал$(#ся/ась) с охраной.<end>
 
 =>q14_original
 Huh? ::He turns towards in your direction for a moment and then out of a sudden starts to run away.::<end>
 
 =>q14
-Х-ух? ::Он на мгновение поворачивается в вашу сторону, а затем внезапно убегает.::<end>
+А? ::Он на мгновение поворачивается в вашу сторону, а затем внезапно убегает.::<end>
 
 =>a15_original
 Wait for me!<end>
@@ -100,7 +102,7 @@ Wait for me!<end>
 ::Watch him leave.::<end>
 
 =>a17
-::Смотреть, как он уходит.::<end>
+::Смотреть, как он убегает.::<end>
 
 =>a18_original
 I'll get you out of here, you hear me?<end>
@@ -130,13 +132,13 @@ What's going on here?<end>
 ::He tries to speak but after uttering some inaudible words, he gives up. It would seem that he's refusing to lay down on the bed. There's no doubt that he'd try to leave; however, in this condition3 he can hardy stand still let alone make a run for it.::<end>
 
 =>q22
-::Он пытается заговорить, но, произнеся несколько неразборчивых слов, сдаётся. Вроде бы, он отказывается прилечь на кровать. Нет сомнений, что он попробует скрыться, но в таком состоянии он на месте то стоять не сможет, а уж убегать и подавно.::<end>
+::Он пытается заговорить, но произнеся несколько неразборчивых слов, сдаётся. Похоже, он отказывается ложиться на кровать. Нет сомнений, что он попробует скрыться, но в таком состоянии он стоять-то не может, а уж убегать и подавно.::<end>
 
 =>a23_original
 Get out of here. The guard has been dealt with.<end>
 
 =>a23
-Убирайся отсюда. С охраной разобрались.<end>
+Сматывайся отсюда. С охраной я разобрал$(#ся/ась).<end>
 
 =>a24_original
 ::Leave.::<end>
@@ -160,7 +162,7 @@ Get out of here. The guard has been dealt with.<end>
 The c-crunching will continue after, unghh... the s-s-scheduled broadcast... khhht. ::Drools.::<end>
 
 =>q27
-Х-хруст продолжится после, эээ... з-з-запланированной трансляции... к-х-х-хт. ::Пускает слюни.::<end>
+Х-хруст продолжится после, э-э-э... з-з-запланированной трансляции... к-х-х. ::Пускает слюни.::<end>
 
 =>q28_original
 ::Breathes loudly.::<end>
@@ -172,19 +174,19 @@ The c-crunching will continue after, unghh... the s-s-scheduled broadcast... khh
 L-Leave me... alone. Go watch... Arena or s-something... ::Coughs.::<end>
 
 =>q29
-О-оставь меня... в покое. Поди посмотри... Арену или ещё чего ни будь... ::Кашляет.::<end>
+О-оставь меня... в покое. Поди посмотри... Арену или ещё чего-нибудь... ::Он кашляет.::<end>
 
 =>q30_original
 Mhhnkk... I'll go on the next t-t-train...<end>
 
 =>q30
-Мх-х-н-к-к... Я поеду на следующем п-п-поезде...<end>
+Мх-х-хы... Я поеду на следующем п-п-поезде...<end>
 
 =>q31_original
 Tchh... have you... h-have you had some Core Chips? It'sss g-great...<end>
 
 =>q31
-Тсс... у тебя... у т-тебя где-то были Кор-чипсы? Эт-то з-здорово...<end>
+Ты... т-ты пр... пробовал$(#/а) Кор-чипсы? Оч-ч-чень вкусно...<end>
 
 =>q32_original
 ::Looks around frantically.::<end>
@@ -196,13 +198,13 @@ Tchh... have you... h-have you had some Core Chips? It'sss g-great...<end>
 This t-train's full... I'll... watch the Gauntlet in the... meanwhile.<end>
 
 =>q33
-Этот с-состав полон... Мне надо... посмотреть Смертельный забег... между делом.<end>
+Этот с-состав полон... Я пока... посмотрю Смертельный забег.<end>
 
 =>q34_original
 ::Stands still.::<end>
 
 =>q34
-::Он замер.::<end>
+::Замирает.::<end>
 
 =>q35_original
 ::His bloodshot eyes spasmodically sway around as he struggles to stand still on his trembling feet. Something is causing him to act completely out of character, as the rest of his body shows little motion compared to his top and bottom. He is still wearing his glove; it has been completely torn up, with its wires pulled out, and the light at his palm disabled. 
@@ -210,9 +212,9 @@ This t-train's full... I'll... watch the Gauntlet in the... meanwhile.<end>
 Your arrival doesn't change his behavior as he continues to doesn't recognize you.:: <end>
 
 =>q35
-::Его налитые кровью глаза судорожно подёргиваются, пока он пытается устоять на дрожащих ногах. Что-то заставляет его вести себя неестественно, так как, в отличии от верхних и нижних конечностей, остальные части его тела еле шевелятся. Он всё ещё носит перчатку; однако она полностью разорвана, с вырванными проводами, и свет на его ладони выключен.
+::Его налитые кровью глаза судорожно подёргиваются, пока он пытается устоять на дрожащих ногах. Что-то заставляет его вести себя неестественно, он еле шевелится, если не считать ног и головы. Он всё ещё носит перчатку; она совершенно разорвана, провода вырваны, и свет больше не горит.
 
-Ваше появление не меняет его поведения, так как он всё ещё не узнаёт вас.:: <end>
+Он не реагирует на ваше приближение и всё ещё не узнаёт вас.:: <end>
 
 =>q36_original
 <end>
