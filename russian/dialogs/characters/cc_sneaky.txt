@@ -74,7 +74,7 @@ I took a peek at some of the old city plans. There seems to be a direct uninterr
 Getting inside this room, now that will probably be a problem in itself. Try finding the docks superintendent; see if he can be bribed to give you access to it.<end>
 
 =>q13
-Попасть внутрь может оказаться проблемой. Попробуй найти в доках управляющего, может получиться его подкупить и получить доступ к подсобным помещениям.<end>
+Попасть внутрь может оказаться проблемой. Попробуй найти в доках управляющего, -- может получиться его подкупить и получить доступ к подсобным помещениям.<end>
 
 =>q14_original
 <end>
@@ -86,7 +86,7 @@ Getting inside this room, now that will probably be a problem in itself. Try fin
 And lastly, you could always try entering through the port itself if you got a jet ski or some other kind of vessel available. The port's behind the warehouse, west of it, and is a completely separate section, unconnected with the main docks. Now, going through there should be your last option, though, as security's pretty tight and all traffic's highly regulated. They know *exactly* which vessels should be moving in and out of there and at what time, and no one's yet managed to fool them or their pipeworking scanners.<end>
 
 =>q15
-И потом, ты всегда можешь попробовать войти через сам порт, если у тебя есть гидроцикл или на каком-либо другом судне. Порт находится за складом, к западу от него, и представляет собой отдельную секцию, не связанную с основными доками. Проход там, должен быть последним вариантом, поскольку безопасность довольно жёсткая, и весь трафик сильно регулируется. Они точно знают, какие суда должны входить и выходить оттуда и в какое время, и никому ещё не удалось обмануть их или их сканеры.<end>
+И потом, ты всегда можешь попробовать войти через сам порт, если у тебя есть гидроцикл или на каком-либо другом судне. Порт находится за складом, к западу от него, и представляет собой отдельную секцию, не связанную с основными доками. Но это должен быть твой последний вариант, поскольку охрана там довольно жёсткая, и весь трафик постоянно контролируется. Они *точно* знают, какие суда должны входить и выходить оттуда и в какое время, и никому ещё не удалось обмануть их или их трубочистские сканеры.<end>
 
 =>q16_original
 You could try posing as Bob, but that might be too risky. Even if you manage to pass the gates you'll probably be questioned why you didn't show up for your shift again.<end>
@@ -134,7 +134,7 @@ Where is it?<end>
 It's on the far northeast side of the mid level, just across the Pipeworks.<end>
 
 =>q23
-Это на дальней северо-восточной стороне среднего уровня, прямо напротив Труб.<end>
+Это на дальней северо-восточной стороне среднего уровня, прямо после Труб.<end>
 
 =>a24_original
 Pipeworks?<end>
@@ -242,7 +242,7 @@ Yes...?<end>
 He would just look at me and keep munching on. That's when I said to myself, enough is enough. But he was sweet otherwise, I suppose. We had some fun.<end>
 
 =>q41
-Он просто посмотрит на меня и продолжает жевать. Вот тогда я сказала -- с меня достаточно. Но в остальном он был милым, наверное. Нам было хорошо вместе.<end>
+Он просто посмотрит на меня и продолжает жевать. Вот тогда я сказала, -- с меня достаточно. Но в остальном он был милым, наверное. Нам было хорошо вместе.<end>
 
 =>a42_original
 Just a hunch.<end>
@@ -272,7 +272,7 @@ They - through their enterprises: Coretech, JKK, Praetorian Security - are endle
 These people are filthier than the filthiest toilet bowl in the Pipeworks. It's hard for me to tell you who can be trusted in this pipeworking city, but it's piss-easy to tell you who can't. Stay away from their enterprises, no matter how enticing their offers might sound. Got that?<end>
 
 =>q46
-Эти люди грязнее чем самый загаженный нужник в Трубах. Непросто мне было бы подсказать тебе, кому в этом трубочистском городе можно доверять, но легче лёгкого сказать, кому верить нельзя. Держись подальше от этих организаций, как бы они тебя не заманивали. Ясно?<end>
+Эти люди грязнее, чем самый загаженный нужник в Трубах. Непросто мне было бы подсказать тебе, кому в этом трубочистском городе можно доверять, но легче лёгкого сказать, кому верить нельзя. Держись подальше от этих организаций, как бы они тебя не заманивали. Ясно?<end>
 
 =>a47_original
 What can you tell me about the Oligarchy?<end>
@@ -306,7 +306,7 @@ So what happens now that the Black Crawlers have been dealt with?<end>
 We have everything we need here now. A merchant, some gear, some men. Now we need to lay low for a while; the Zone Rats need some rest.<end>
 
 =>q51
-У нас здесь есть всё, что нам нужно. Торговец, снаряжение, люди. Сейчас нам нужно залечь на дно на некоторое время; Крысам Зоны нужно немного отдохнуть.<end>
+У нас здесь есть всё, что нам нужно. Торговец, снаряжение, люди. Сейчас нам нужно залечь на дно на некоторое время -- Крысам Зоны нужно немного отдохнуть.<end>
 
 =>q52_original
 <end>
@@ -336,7 +336,7 @@ With Gorsky's help, the Zone Rats can only grow stronger.<end>
 We just got here, so the first thing we need to do is get some men and gear to this place. Then, we'll lay low for a while; the Zone Rats need some rest.<end>
 
 =>q56
-Мы же только начали, первое что нам нужно сделать, это набрать немного снаряжения и людей. Затем мы заляжем на дно на какое-то время; Крысам Зоны нужно немного отдохнуть.<end>
+Мы же только начали; первое, что нам нужно сделать, это набрать немного снаряжения и людей. Затем мы заляжем на дно на какое-то время -- Крысам Зоны нужно немного отдохнуть.<end>
 
 =>a57_original
 What do you think about the Free Drones?<end>
@@ -366,4 +366,4 @@ Later.<end>
 Later, Southgater.<end>
 
 =>q61
-До встречи, саутгейтец.<end>
+До встречи, саутгейт$(#ец/ица).<end>
