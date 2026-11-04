@@ -4,7 +4,7 @@
 <end>
 
 =>q1
-::Заметив ваше приближение, человек в маске вытирает грязь с очков и смотрит на вас. Его грязная одежда для него слишком велика; может быть, он много потерял в весе, а может так и было. В любом случае, вы быстро теряете в ней интерес, к тому же, вам приходится прислушиваться к его приглушённому голосу.::
+::Заметив ваше приближение, человек в маске вытирает грязь с очков и смотрит на вас. Его грязная одежда для него слишком велика -- может быть, он много потерял в весе, а может, так и было. В любом случае, вы быстро теряете в ней интерес. К тому же, вам приходится прислушиваться к его приглушённому голосу.::
 
 <end>
 
@@ -12,13 +12,13 @@
 Hello, officer $(#sir/ma'am). <end>
 
 =>q2
-Приветствую <end>
+Приветствую, офицер, $(#сэр/мэм). <end>
 
 =>q3_original
 Welcome to my shack. Ignore the smell if you can and, um - don't fall off the ledge, bre. Seen enough of that for today.<end>
 
 =>q3
-и добро пожаловать в мою лачугу. Не обращай внимания на запах, если сможешь, и смотри не свались вниз, бре. Я уже сегодня насмотрелся на это.<end>
+Добро пожаловать в мою лачугу. Не обращай внимания на запах, если сможешь, и смотри не свались вниз, бре. Я уже сегодня насмотрелся на это.<end>
 
 =>q4_original
 <end>
@@ -48,7 +48,7 @@ That all?<end>
 So, how's life?<end>
 
 =>a8
-Ну что, как жизнь?<end>
+Как жизнь?<end>
 
 =>q9_original
 Well, not that bad, to tell you the truth. Not dominating - but not too bad. We got a, you know, you dig, a small community here. Community of us "foreigners," bre! Hah. Sticking together is the best way to not get dominated around these parts. 
@@ -56,7 +56,7 @@ Well, not that bad, to tell you the truth. Not dominating - but not too bad. We 
 Hey, I'm telling it like it is.<end>
 
 =>q9
-Ну, по правде говоря, не так уж и плохо. Не доминирует, но сойдёт. У нас тут, знаешь ли, небольшая община. Сообщество "пришлых", бре! Ха! Держаться вместе - лучший способ в здешних местах избежать доминирования.
+Ну, по правде говоря, не так уж и плохо. Не доминирующе, но сойдёт. У нас тут, знаешь ли, небольшая община. Сообщество «пришлых», бре! Ха! Держаться вместе -- лучший способ в здешних местах избежать доминирования.
 
 Эй, я говорю всё как есть.<end>
 
@@ -78,7 +78,7 @@ Have any of those been approved by the Core City health organization, if there i
 ::Muffled laughter fills his gas mask.:: You've got a fine sense of humor, bre, $(#brother/sister), you do.<end>
 
 =>q12
-::Сдавленный смех наполняет его противогаз.:: У тебя тонкое чувство юмора, $(#брат/сестра).<end>
+::Сдавленный смех наполняет его противогаз.:: У тебя тонкое чувство юмора, $(#брат/сестра), бре.<end>
 
 =>a13_original
 I'll think about it.<end>
@@ -90,7 +90,7 @@ I'll think about it.<end>
 Sure, bre, $(#brother/sister). Take your time.<end>
 
 =>q14
-Конечно, $(#брат/сестра). Некуда торопиться.<end>
+Конечно, $(#брат/сестра), бре. Некуда торопиться.<end>
 
 =>a15_original
 Bre?<end>
@@ -102,13 +102,13 @@ Bre?<end>
 "Bre" what, bre?<end>
 
 =>q16
-"Бре", что?<end>
+«Бре» -- что, бре?<end>
 
 =>a17_original
 What does "bre" mean?<end>
 
 =>a17
-Что значит, «бре»?<end>
+Что значит «бре»?<end>
 
 =>q18_original
 Eh... It can't be translated. No, no, it can't. On it's own it means nothing, it just, you know, gives more emotion to what you say... draws more attention to it. ::He pauses.::
@@ -120,19 +120,19 @@ Example: When you say "No." that means an ordinary no. But "No, bre!" means don'
 You can also use bre as a standalone word, you dig, but the meaning, again, depends on the context. Like in, let's see... One person is being stupid and doing something over and over. Another person can just say "Bre!" to draw attention to his stupidity.<end>
 
 =>q18
-Ну... Это невозможно перевести. Нет, нет, невозможно. Само по себе это слово ничего не значит, просто придаёт больше эмоций тому, что ты говоришь, как бы... привлекает больше внимания. ::Он делает паузу.::
+Ну... Это невозможно перевести. Нет, нет, невозможно. Само по себе это ничего не значит, просто придаёт больше эмоций тому, что ты говоришь, как бы... привлекает больше внимания. ::Он раздумывает.::
 
-Например: когда ты говоришь "Нет", это просто - нет. Но "Нет, бре!" - значит, даже не думай об этом, бре.
+Пример: когда ты говоришь «нет», это просто -- нет. Но «Нет, бре!» значит -- даже не думай об этом, бре.
 
-"Привет." - значит привет. "Привет, бре!" - это значит, что я очень рад тебя видеть, $(#брат/сестра).
+«Привет» -- значит привет. «Привет, бре!» -- это значит, что я очень рад тебя видеть, $(#брат/сестра).
 
-Ещё ты можешь использовать "бре" как отдельное слово, сечёшь, но значение, опять же, зависит от контекста. Как например... Кто-то ведёт себя глупо, и делает это снова и снова. Другой человек может просто сказать "Бре!", тем самым привлекая внимание к его дурости.<end>
+Ещё ты можешь использовать «бре» как отдельное слово, сечёшь, но значение, опять же, зависит от контекста. Как например... Кто-то ведёт себя глупо, и делает это снова и снова. Другой человек может просто сказать «Бре!», тем самым привлекая внимание к его дурости.<end>
 
 =>q19_original
 You dig any of this?<end>
 
 =>q19
-Нарыл что-нибудь?<end>
+Сечёшь хоть маленько?<end>
 
 =>a20_original
 Yes, bre!<end>
@@ -144,7 +144,7 @@ Yes, bre!<end>
 Alright, bre!<end>
 
 =>q21
-Хорошо, бре!<end>
+Отлично, бре!<end>
 
 =>a22_original
 Yes.<end>
@@ -162,19 +162,19 @@ Eh...<end>
 Not really.<end>
 
 =>a24
-Вряд ли.<end>
+Не очень.<end>
 
 =>q25_original
 Breeeee!<end>
 
 =>q25
-Бреееее!<end>
+Бре-е-е-е!<end>
 
 =>a26_original
 Where are you people from?<end>
 
 =>a26
-Откуда вы?<end>
+Откуда вы все?<end>
 
 =>q27_original
 West. Southwest, actually. It's a long story.<end>
@@ -196,37 +196,37 @@ It's a long story, bre.<end>
 We're here now. ::He nods.:: We're here.<end>
 
 =>q29
-Сейчас мы здесь. ::Он кивает.:: Здесь.<end>
+Теперь мы здесь. ::Он кивает.:: Здесь.<end>
 
 =>a30_original
 Goodbye and take care.<end>
 
 =>a30
-До свидания, и берегите себя.<end>
+До свидания, и береги себя.<end>
 
 =>q31_original
 One moment: Eh, that uniform... where'd you get it?<end>
 
 =>q31
-Один момент: Э-э, эта форма... где ты её взял$(#/а)?<end>
+Один момент: э-э, эта форма... где ты её взял$(#/а)?<end>
 
 =>a32_original
 ::[Tailoring]:: I made it myself, actually. Saw the design somewhere and fell in love with it.<end>
 
 =>a32
-::[Шитьё]:: Вообще-то, я сшил$(#/а), её сам$(#/а),. Увидел$(#/а) где-то дизайн и влюбил$(#ся/ась) в него.<end>
+::[Шитьё]:: Вообще-то, я сшил$(#/а) её сам$(#/а). Увидел$(#/а) где-то дизайн и влюбил$(#ся/ась) в него.<end>
 
 =>q33_original
 Hardcore, bre! It does look... *authentic*. <end>
 
 =>q33
-Хардкор! Она выглядит... *настоящей*. <end>
+Хардкор, бре! Она выглядит... как *настоящая.* <end>
 
 =>a34_original
 Sure does. Any particular reason why you're asking?<end>
 
 =>a34
-Конечно. Есть какая-то конкретная причина, почему ты спрашиваешь?<end>
+Конечно. А почему ты спрашиваешь?<end>
 
 =>q35_original
 No reason, bre. Just asking... 
@@ -234,7 +234,7 @@ No reason, bre. Just asking...
 ...just asking. Bye.<end>
 
 =>q35
-Без причины. Просто интересно...
+Без причины, бре. Просто интересно...
 
 ...просто спросил. Пока.<end>
 
@@ -248,7 +248,7 @@ Well, see ya.<end>
 Yeah.<end>
 
 =>q37
-Да.<end>
+Ага.<end>
 
 =>a38_original
 ::Nod and leave.::<end>
@@ -266,19 +266,19 @@ Found it.<end>
 ::He nods ::<end>
 
 =>q40
-::Он кивает ::<end>
+::Он кивает, ::<end>
 
 =>q41_original
 ::but curiously doesn't say anything further.::<end>
 
 =>q41
-::но любопытно, что дальше ничего не говорит.::<end>
+::но любопытно, что больше ничего не говорит.::<end>
 
 =>a42_original
 Why?<end>
 
 =>a42
-Зачем?<end>
+А что?<end>
 
 =>a43_original
 ::Leave.::<end>
@@ -302,13 +302,13 @@ It was a gift.<end>
 Had to kill a man for it.<end>
 
 =>a46
-Пришлось убить человека за неё.<end>
+Пришлось убить человека ради неё.<end>
 
 =>q47_original
 ::He slightly lowers and shakes his head ::<end>
 
 =>q47
-::Он слегка опускает голову и качает ей ::<end>
+::Он слегка опускает голову и качает ей, ::<end>
 
 =>a48_original
 Can't say.<end>
@@ -332,10 +332,10 @@ None of your business.<end>
 Hello... whoever you are. <end>
 
 =>q51
-Привет... кто бы ты ни был$(#/а), <end>
+Привет... кто бы ты ни был$(#/а). <end>
 
 =>q52_original
 Hello. Watch your step.<end>
 
 =>q52
-Привет. Смотри под ноги. <end>
+Привет. Смотри под ноги.<end>
