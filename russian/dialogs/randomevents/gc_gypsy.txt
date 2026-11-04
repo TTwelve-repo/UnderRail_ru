@@ -1,4 +1,4 @@
-﻿=>q1_original
+﻿	=>q1_original
 You're back.<end>
 
 =>q1
@@ -775,6 +775,7 @@ Sorry. Do proceed.<end>
 
 =>q114
 ::Она делает паузу, глядя на вас томительную секунду. Когда она говорит, выглядит так, словно за неё сейчас говорят глаза.::
+
 <end>
 
 =>q115_original
@@ -818,6 +819,7 @@ Whether you believe it or not, that *is* your fortune, my dear. And if you'd try
 
 =>q120
 Веришь ты или нет, но *это* твоя удача, золото моё. А если бы ты хоть немного поверил$(#/а)...
+
 <end>
 
 =>a121_original
@@ -1014,7 +1016,9 @@ I can sense... A few lone souls... their cries... lives severed too early, yes, 
 Yes, yes...<end>
 
 =>q147
-Я чувствую... Несколько одиноких душ... их крики... жизни, оборвавшиеся слишком рано, да, и так внезапно, без предупреждения. О, это так ясно... ::Она поворачивает голову на север, потом на запад.::<end>
+Я чувствую... Несколько одиноких душ... их крики... жизни, оборвавшиеся слишком рано, да, и так внезапно, без предупреждения. О, это так ясно... ::Она поворачивает голову на север, потом на запад.::
+
+Yes, yes...<end>
 
 =>q148_original
 ::She opens her eyes.::
@@ -1188,7 +1192,9 @@ Can people be possessed too?<end>
 Yes.<end>
 
 =>q171
-::Она делает короткую, но пугающую паузу.::<end>
+::Она делает короткую, но пугающую паузу.::
+
+Yes.<end>
 
 =>q172_original
 I don't mean no psionic trickery - real possession. Either of dyin', or in some cases dead, individuals, or of people involved in dark rituals.<end>
@@ -2077,6 +2083,7 @@ you're a $(#man/woman) who nurtures a balanced mind. You don't overthink or over
 
 =>q302
 ::она снимает вашу перчатку и внимательно осматривает вашу руку.::
+
 <end>
 
 =>a303_original
@@ -2157,7 +2164,9 @@ I got some nice leather. From the animals I caught.
 Interested?<end>
 
 =>q315
-У меня есть хорошая кожа. Кожа пойманных мной животных.<end>
+У меня есть хорошая кожа. Кожа пойманных мной животных.
+
+Interested?<end>
 
 =>a316_original
 Show me what you got. ::Barter.::<end>
@@ -2350,6 +2359,7 @@ This is your lucky coin. Do not lose it.<end>
 
 =>q344
 ::Затем она оглядывается.::
+
 <end>
 
 =>q345_original
@@ -2588,6 +2598,8 @@ Well, well... I think there's still hope for ya.<end>
 =>q381
 ::Она улыбается.::<end>
 
+Well, well... I think there's still hope for ya.<end>
+
 =>q382_original
 ::She puts her hand out.::
 
@@ -2617,6 +2629,7 @@ You gotta show me that you *believe*.
 
 =>q385
 Покажи мне, во что ты *веришь*.
+
 <end>
 
 =>a386_original
@@ -2748,6 +2761,7 @@ Tell me how.<end>
 
 =>q405
 ::Она не отводит взгляда - как будто это её глаза говорят с вами.::
+
 <end>
 
 =>a406_original
@@ -2769,6 +2783,7 @@ I'll bite. Speak.<end>
 
 =>q408
 ::Её глаза немного теряют блеск и шик. Но всё равно кажется, что это они с вами разговаривают.::
+
 <end>
 
 =>a409_original

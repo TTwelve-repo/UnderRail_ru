@@ -783,6 +783,7 @@ Hmm... would you look at that, another stray cockroach took a wrong turn. Some..
 ::His voice sounds familiar to you. Without a shadow of a doubt, you've heard him talk over one of the emergency phones.::<end>
 
 =>q129
+
 ::Его голос кажется вам знакомым. Без тени сомнения, вы слышали, как он разговаривал по одному из телефонов экстренной помощи.::<end>
 
 =>q130_original
@@ -791,6 +792,8 @@ Hmm... would you look at that, another stray cockroach took a wrong turn. Some..
 ::Firstly, you remember hearing him talk on one of the phones in the Ironheads base. He mentioned something about not willing to not do "crunching" anymore.:: <end>
 
 =>q130
+
+
 ::Во-первых, вы помните, как слышали, как он разговаривал по одному из телефонов на базе Айронхедов. Он упомянул что-то о нежелании больше не заниматься «хрустом».:: <end>
 
 =>q131_original
@@ -843,6 +846,8 @@ But there's a caveat. ::He fiercely clenches his fists once more.::
 ::[Perception] While he was turning around, his arms did not just aimlessly glide through the air. His right hand in particular, whenever it would face your direction, would perform a subtle gesture followed by a tiny change in brightness of the blue light emanating from the glove he's wearing.::<end>
 
 =>q137
+
+
 ::[Восприятие] Когда он приближается, вы видите, что он делает короткие отрывистые жесты правой рукой, мигая светом по направлению движения, стараясь скрыть это от вас.::<end>
 
 =>a138_original
@@ -885,7 +890,9 @@ Hmm... the gizmos I'm dealing with have sort of started to drain me up... short 
 Say, you know this place in and out? Could you buzz out something for me?<end>
 
 =>q143
-Хм... приблуды, с которыми я имею дело, начали истощать меня... в стиле короткого замыкания. ::Он начинает осматривать свою перчатку, которая кажется чем-то большим, чем просто предмет одежды или гаджет. Каждое замысловатое движение его пальцев, кажется, взаимодействует с находящимся поблизости персональным компьютером, о чём свидетельствует быстрое мерцание монитора. как будто он с огромной скоростью просматривает какие-то изображения.::<end>
+Хм... приблуды, с которыми я имею дело, начали истощать меня... в стиле короткого замыкания. ::Он начинает осматривать свою перчатку, которая кажется чем-то большим, чем просто предмет одежды или гаджет. Каждое замысловатое движение его пальцев, кажется, взаимодействует с находящимся поблизости персональным компьютером, о чём свидетельствует быстрое мерцание монитора. как будто он с огромной скоростью просматривает какие-то изображения.::
+
+Say, you know this place in and out? Could you buzz out something for me?<end>
 
 =>a144_original
 What do you have in mind?<end>
@@ -1476,6 +1483,7 @@ Rush, rush, rush. No time left for nothing these days, huh? Well, perhaps it's f
 
 =>q239
 Спешка, спешка, спешка. В эти дни не остаётся времени ни на что, да? Что ж, возможно, это и к лучшему. Иногда... ::Он резко останавливается.:: Нет. забудь об этом. Эх, где я был... ах да...
+
 <end>
 
 =>a240_original
@@ -2769,6 +2777,7 @@ You think so? ::He looks around and by the looks on his face, he seems to agree.
 
 =>q448
 Ты так думаешь? ::Он оглядывается и, судя по выражению его лица, соглашается.::
+
 <end>
 
 =>q449_original
@@ -3046,7 +3055,8 @@ About the name, there is someone who goes by... Phreak. Known as such only for t
 <end>
 
 =>q492
-::Его хватка сильна, намного превосходя первое впечатление, которое можно было бы ожидать от такого старика.:: Ради твоего же блага, я надеюсь, что твои слова стоят столько же в металле. ::Он посмеивается.::<end>
+::Его хватка сильна, намного превосходя первое впечатление, которое можно было бы ожидать от такого старика.:: Ради твоего же блага, я надеюсь, что твои слова стоят столько же в металле. ::Он посмеивается.::
+<end>
 
 =>a493_original
 ::Refuse handshake.:: I... don't do that.<end>
@@ -3063,6 +3073,7 @@ Mhm... You're one of those. No biggie, doesn't matter. ::He nods.::
 
 =>q494
 Ммм... Ты один из них. Ничего страшного, неважно. ::Он кивает.::
+
 
 
 <end>
@@ -3128,6 +3139,7 @@ Hmph, the jack part will. And you'll use the rest once you get to the actual cru
 
 =>q504
 Хм, часть разъёма будет. А остальное используешь, когда доберёшься до настоящего хруста.
+
 <end>
 
 =>a505_original
@@ -3208,6 +3220,8 @@ Let's see... ::Without hesitation, he begins to approach you. His right hand scr
 ::[Perception] His orbiting path around you in counter clockwise direction has much more to it than it seems. Whenever he would move out of your sight, with a subtle twist of his right hand, he would face the palm of his glove towards you, and just before returning to where you could see him, his hand would go back to calming his beard.::<end>
 
 =>q517
+
+
 ::[Восприятие] Его орбитальный путь вокруг вас против часовой стрелки имеет гораздо больше смысла, чем кажется. Всякий раз, когда он уходил из поля вашего зрения, лёгким поворотом правой руки он поворачивал ладонь своей перчатки к вам, и прямо перед тем, как вернуться туда, где вы могли его видеть, его рука возвращалась к поглаживанию бороды.::<end>
 
 =>a518_original
@@ -3253,6 +3267,7 @@ Then why did you bring it up? For all I know, you could've been one of the pipew
 
 =>q524
 Тогда зачем ты это поднял$(#/а)? Могло быть ты из трубочистов, с которыми я хрустел.
+
 <end>
 
 =>a525_original
@@ -3285,6 +3300,8 @@ I'm fairly certain that the man I'm looking for is standing right in front of me
 ::[Perception] The subtle movement of his fingers conceals the real intention behind his act. Specifically his right hand glove is periodically facing you, the palm of which emanates dim blue light as if it's scanning something.::<end>
 
 =>q529
+
+
 ::[Восприятие] Неуловимые движения его пальцев скрывает истинное намерение его действий. В частности, его правая перчатка периодически обращена к вам, ладонь которой излучает тусклый синий свет, как будто что-то сканируя.::<end>
 
 =>a530_original
@@ -4444,6 +4461,7 @@ Oh, I'd rather become an ancient rat if that means I don't need to kneel down be
 
 =>q719
 О, уж лучше быть старой крысой, чем унижаться перед *жирной*. Хр-н-нн, дай-ка я тебя обнюхаю. ::Внезапно он делает шаг к вам и начинает шумно вас обнюхивать. Через мгновение он пятится назад, не поворачиваясь к вам спиной.::
+
 <end>
 
 =>q720_original
@@ -4966,6 +4984,8 @@ Sorry, I had no idea anyone lives here. I'll leave you alone.<end>
 ::You remember hearing him talk on one of the phones inside the Ironhead's base. He mentioned something about not willing to not do "crunching" anymore.:: <end>
 
 =>q805
+
+
 ::Вы вспоминаете его разговор по одному из телефонов на базе Железноголовых. Он упомянул что-то о своём нежелании больше заниматься "хрустом".:: <end>
 
 =>q806_original
@@ -4974,6 +4994,8 @@ Sorry, I had no idea anyone lives here. I'll leave you alone.<end>
 ::You recall hearing him speak on a phone south of Warehouse Block Beta, north of GMS compound and near the Ironhead's base. Listening in on a confrontative conversation, you managed to barely hear him say that he's not willing to do "crunching" anymore..::<end>
 
 =>q806
+
+
 ::Вы вспоминаете, как он говорил по телефону к югу от складского блока Бета, к северу от комплекса GMS недалеко от базы Железноголовых. Прослушивая разговор где речь шла о конфронтации, вы едва расслышали, как он сказал, что больше не хочет «хрустеть»...::<end>
 
 =>q807_original
@@ -5633,6 +5655,7 @@ A population that reaches a size of an enclave is after my back. These gizmos we
 
 =>q906
 Куча народа, размером с анклав, преследует меня. Эти приблуды были всего лишь ежедневными неприятностями. Теперь, когда их не стало, моя гора неприятностей оказалась короче всего-то на пару тройку камней.
+
 <end>
 
 =>a907_original
@@ -5648,6 +5671,7 @@ So, you've left them behind there? Never mind them, eventually they'll go after 
 
 =>q908
 Значит, ты оставил$(#/а) их там? Не переживай за них, в конце концов они пойдут за кем-то другим.
+
 <end>
 
 =>a909_original
@@ -5663,6 +5687,7 @@ I've negotiated a deal with them. They have left the place.<end>
 
 =>q910
 ::Ваши слова не приносят ему радости, и он отводит взгляд.:: Ну вот, теперь мне придётся с ними разобраться. Уф-ф...
+
 <end>
 
 =>a911_original
@@ -5678,6 +5703,7 @@ Tch, that's a lie. ::He stands back.:: If you didn't deal with them, I'll have t
 
 =>q912
 Тч-ч, это ложь. ::Он отступает.:: Если ты не разобрал$(#ся/ась) с ними, придётся мне. Однако на этот раз я устрою засаду. По крайней мере, у меня есть то, что мне нужно на данный момент.
+
 <end>
 
 =>a913_original
@@ -5863,6 +5889,7 @@ That I can but they'll cost you. They take some time to craft, too... Also the p
 
 =>q941
 Что я могу, ну по крайней мере рассчитать твои затраты. Их изготовление тоже занимает некоторое время... Также цена не подлежит обсуждению, так как я беру плату без какой-либо выгоды для себя.
+
 <end>
 
 =>q942_original

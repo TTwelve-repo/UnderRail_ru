@@ -225,6 +225,7 @@ Yes, I was about to call you before the attack. But now I'm... Just give me a mo
 
 =>q33
 ::После нескольких минут просмотра его файлов, он поворачивается к вам.::
+
 <end>
 
 =>q34_original
@@ -1864,6 +1865,7 @@ The Acorn was nowhere to be found. I'm sorry, professor.<end>
 
 =>q287
 ::Будто от удара по лицу, профессор отшатнулся и резко сел на кровать. Затем он снял очки, по его щекам катились слёзы.::
+
 <end>
 
 =>q288_original
@@ -2204,6 +2206,8 @@ Where the Surface meets the Sky: Horizon.<end>
 ...They're staring.<end>
 
 =>q334
+
+
 ...Они смотрят во все глаза.<end>
 
 =>a335_original
@@ -2391,6 +2395,7 @@ I... failed.<end>
 
 =>q362
 ::Затем он склоняет голову.::
+
 <end>
 
 =>a363_original
@@ -2559,6 +2564,8 @@ I cannot wait to get out of this place.<end>
 $(context.npc_xpbl_oldfield_playerName)! Wh-- What is the meaning of this?<end>
 
 =>q389
+
+
 $(context.npc_xpbl_oldfield_playerName)! Ч-что всё это значит?<end>
 
 =>a390_original
@@ -2886,6 +2893,7 @@ Alright! AL-BLOODY-RIGHT!<end>
 
 =>q439
 ::профессор выкладывает последние крупицы истины.::
+
 <end>
 
 =>q440_original
@@ -4498,6 +4506,8 @@ Yes, sir.<end>
 You still persist doing things your way, don't you?<end>
 
 =>q684
+
+
 Вы всё же продолжаете делать всё по своему, да?<end>
 
 =>q685_original
@@ -4592,6 +4602,8 @@ I'm sorry, Chief.<end>
 It was very irresponsible of you to go there without speaking with me.<end>
 
 =>q698
+
+
 С вашей стороны было очень безответственно идти туда, не поговорив со мной.<end>
 
 =>q699_original
@@ -6033,6 +6045,7 @@ Mmm? Ah, $(context.npc_xpbl_oldfield_playerName), goodness me.
 
 =>q925
 ::Профессор смотрит на вас, выглядя несколько более отдохнувшим и менее усталым, чем раньше.::
+
 <end>
 
 =>q926_original

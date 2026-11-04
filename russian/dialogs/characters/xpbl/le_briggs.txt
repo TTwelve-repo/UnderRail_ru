@@ -401,6 +401,7 @@ Don't repeat this mistake...
 ::Он делает шаг ближе и протягивает вам свой протез руки. Безжизненной рукой он берётся за вашу ладонь и... мягко сжимает - смотря с чем сравнивать - прежде чем приближает своё лицо к вашему.::
 
 Смотри, не повтори эту ошибку...
+
 <end>
 
 =>q62_original
@@ -439,6 +440,8 @@ Don't repeat this mistake...
 And next time I won't be as gentle.<end>
 
 =>q67
+
+
 И в следующий раз я не буду действовать так нежно.<end>
 
 =>q68_original
@@ -770,6 +773,7 @@ Sorry, I haven't had the time to watch it lately, but I saw that one.<end>
 
 =>q119
 ::Несмотря на то, что он так же сохранил суровое выражение лица, вы чувствуете, что в голосе появились определённые изменения. Позитивные изменения.::
+
 <end>
 
 =>q120_original
@@ -1571,6 +1575,7 @@ I've killed some pirates since I got here, so I hope they won't shoot me on sigh
 
 =>q244
 ::Он делает паузу, обдумывая ваше предложение.::
+
 <end>
 
 =>q245_original
@@ -1586,6 +1591,7 @@ I've already dispatched Yahota on a recon mission inside the pirate territory. B
 
 =>q246
 ::Он снова делает паузу, но эта пауза короче, чем в прошлый раз.::
+
 <end>
 
 =>q247_original
@@ -1655,6 +1661,7 @@ Infiltration it is, then. We cannot trust the pirates.
 
 =>q257
 Значит, проникновение. Мы не можем доверять пиратам.
+
 <end>
 
 =>q258_original
@@ -1736,6 +1743,7 @@ There. You got your backstabbing Southerner.<end>
 
 =>q270
 ::Он нахмурился, но предпочёл не обращать внимания на ваше замечание.::
+
 <end>
 
 =>q271_original
@@ -1791,6 +1799,7 @@ Search $(#him/her).<end>
 
 =>q278
 ::Обыскав вашу одежду, охранник поворачивается к шефу. ::
+
 <end>
 
 =>q279_original
@@ -2222,6 +2231,7 @@ Because of your carelessness the professor is dead. Professor Edward Olfield.<en
 
 =>q344
 ::Затем он обращает безучастный взгляд в сторону.::
+
 <end>
 
 =>a345_original
@@ -2399,6 +2409,7 @@ In addition to that we have lost<end>
 
 =>q373
 ::Он делает короткую паузу.::
+
 <end>
 
 =>q374_original
@@ -2813,6 +2824,8 @@ He's undisciplined, stubborn, and most of his traits are the exact opposite of w
 Take that as you will.<end>
 
 =>q441
+
+
 Воспринимайте это так, как вам хочется.<end>
 
 =>q442_original
@@ -3185,6 +3198,8 @@ Send my regards to Colonel Cathcart.<end>
 Now pack your bags; we'll be moving out soon.<end>
 
 =>q500
+
+
 Пакуйте свои вещи, мы скоро отправляемся.<end>
 
 =>a501_original
@@ -3500,6 +3515,7 @@ You can forget about your first paycheck. If you persist with this behavior you 
 
 =>q552
 Можете забыть о своей первой зарплате. А если будете продолжать в том же духе то и вообще никогда не увидите своего жалованья, потому что вскоре снова окажетесь на причале Кор-Сити. 
+
 <end>
 
 =>a553_original
@@ -3859,4 +3875,5 @@ Don't you have your orders, $(context.player.Name)?<end>
 
 =>q610
 ::Вы нашли его глубоко погруженным в свои мысли. В его взгляде чувствовалось что-то странное, но вы не можете точно сказать, что именно. В остальном выражение его лица было суровым.::
+
 <end>

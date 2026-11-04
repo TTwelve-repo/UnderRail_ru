@@ -1091,6 +1091,7 @@ He's an honest man who'd never, and I mean it, never ever rip anyone off. If he 
 
 =>q176
 
+
 ::Он снова качает головой.:: Долбаная воровская сволочь, почему они всегда нацеливаются на хороших людей...<end>
 
 =>q177_original
@@ -1681,7 +1682,9 @@ So...
 Care for a drink, $(#mate/love)?<end>
 
 =>q270
-Так, что... выпить не желаете, $(#дружище/красавица)?<end>
+Так, что...
+
+Выпить не желаете, $(#дружище/красавица)?<end>
 
 =>a271_original
 What happens now?<end>

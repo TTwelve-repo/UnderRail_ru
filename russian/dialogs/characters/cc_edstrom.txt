@@ -308,7 +308,9 @@ We are done for now, well, almost: I've arranged something for you. Speak to Ola
 After that, maybe you should go and get some rest, $(context.player.Name). Look at yourself - you definitely need it!<end>
 
 =>q47
-Мы уже закончили, ну почти: я приготовил для вас кое-что. Поговорите с Улой; он расскажет вам всё, что нужно знать. После этого, может быть, вам стоит пойти и немного отдохнуть, $(context.player.Name). Посмотрите на себя -- отдых вам не помешает!<end>
+Мы уже закончили, ну почти: я приготовил для вас кое-что. Поговорите с Улой; он расскажет вам всё, что нужно знать.
+
+После этого, может быть, вам стоит пойти и немного отдохнуть, $(context.player.Name). Посмотрите на себя -- отдых вам не помешает!<end>
 
 =>a48_original
 I'm sorry I failed you.<end>

@@ -481,6 +481,7 @@ Heat up grid, then if needed heat up boilers down below.::<end>
 
 =>q73
 ::Двери открыты.::
+
 <end>
 
 =>q74_original
@@ -489,4 +490,6 @@ Heat up grid, then if needed heat up boilers down below.::<end>
 ::Access denied!::<end>
 
 =>q74
-::На экране этого странного компьютера мигает сообщение: ::<end>
+::На экране этого странного компьютера мигает сообщение: ::
+
+::В доступе отказано!::<end>

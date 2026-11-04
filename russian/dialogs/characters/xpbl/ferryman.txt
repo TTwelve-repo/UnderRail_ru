@@ -174,6 +174,8 @@ And if you remembered our conversation, you know I think it'd be best if you chu
 He then sighs.::<end>
 
 =>q25
+
+
 ::Он делает глубокую затяжку, по-прежнему не сводя с вас взгляда, и выдыхает густое облако дыма.
 
 Затем он вздыхает.::<end>
@@ -405,6 +407,7 @@ Just tell him $(context.npc_xpbl_as_todd_playerName) sent you.<end>
 
 =>q60
 ::Он кивает.::
+
 <end>
 
 =>q61_original
@@ -2328,6 +2331,7 @@ Actually, I'd like to discuss some of the other things we talked about.<end>
 
 =>q366
 ::Он затягивается.::
+
 <end>
 
 =>q367_original
@@ -2703,7 +2707,8 @@ As fire burns and the light flames rise and reach the ceiling, ashes scatter and
 =>q423
 ::Он смотрит рассеянно на поверхность моря. Это длится недолго, пока он не осознаёт, что его трубка потухла. Затем он стучит ей по борту корабля, выбрасывая в море то, что когда-то было табаком, а теперь превратилось в пепел, утративший прежние качества.::
 
-Когда горит огонь и лёгкие языки пламени поднимаются и достигают потолка, зола рассеивается и оседает вниз. Часть горячего воздуха выходит через отверстия в потолке, но большая его часть ещё остаётся там, пока не теряет тепло и не рассеивается в ничто. И единственное, что остаётся от огня... пепел.<end>
+Когда горит огонь и лёгкие языки пламени поднимаются и достигают потолка, зола рассеивается и оседает вниз. Часть горячего воздуха выходит через отверстия в потолке, но большая его часть ещё остаётся там, пока не теряет тепло и не рассеивается в ничто. И единственное, что остаётся от огня... пепел.
+<end>
 
 =>q424_original
 ::He pauses, then continues.:: As Humanity accepts *matter* as the only reality, the world, which was once spacious and rarefied, *solidifies*, becoming denser and denser, like a shrinking cell in the prison of burden that we've been unable to see outside of, thus accepting it - matter - in the first place.
@@ -3898,6 +3903,7 @@ Go on.<end>
 
 =>q611
 ::Он делает ещё одну затяжку.::
+
 <end>
 
 =>q612_original
@@ -4633,6 +4639,7 @@ You're lying.<end>
 
 =>q729
 ::Он пускает дым прямо вам в лицо.::
+
 <end>
 
 =>q730_original
@@ -5047,6 +5054,8 @@ They are a tribe of proud, strong warriors, intolerant of weakness and fear - an
 Keep that in mind, kid.<end>
 
 =>q795
+
+
 Имей это в виду, малыш$(#/ка).<end>
 
 =>a796_original
@@ -6020,6 +6029,7 @@ Yes.<end>
 
 =>q948
 ::Он отвечает после паузы.::
+
 <end>
 
 =>q949_original
@@ -6433,6 +6443,7 @@ The frequency's 22.787 megahertz. Again: 22.787 megahertz.
 
 =>q1011
 Частота 22.787 мегагерц. Повторяю, 22.787 мегагерц. 
+
 <end>
 
 =>q1012_original

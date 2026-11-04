@@ -46,7 +46,9 @@ You can say that; at least, he *was* successful in creating an explosion powerfu
 Now, considering that he had lived alone and had no known heirs, this building became city property after his unfortunate demise. Now it is being handed over to you, $(#Mister/Miss) $(context.player.Name).<end>
 
 =>q8
-Вы правы; как минимум, он преуспел в создании взрыва настолько мощного, что он разнёс целый дом, если это можно назвать успехом. Мистер Уорделл организовал лабораторию внутри и, видимо, увлекался, кхм, экспериментами с взрывоопасными веществами по причинам никому кроме него неизвестным. Результат -- его преждевременная кончина, разумеется, а также серьёзные повреждения здания, как вы видите. Учитывая, что он жил один и не имел никаких известных наследников, это здание незамедлительно перешло в городскую собственность после его скоропостижной смерти. И теперь оно передаётся вам, мис$(#тер/с) $(context.player.Name).<end>
+Вы правы; как минимум, он преуспел в создании взрыва настолько мощного, что он разнёс целый дом, если это можно назвать успехом. Мистер Уорделл организовал лабораторию внутри и, видимо, увлекался, кхм, экспериментами с взрывоопасными веществами по причинам никому кроме него неизвестным. Результат -- его преждевременная кончина, разумеется, а также серьёзные повреждения здания, как вы видите.
+
+Учитывая, что он жил один и не имел никаких известных наследников, это здание незамедлительно перешло в городскую собственность после его скоропостижной смерти. И теперь оно передаётся вам, мис$(#тер/с) $(context.player.Name).<end>
 
 =>q9_original
 Now we move to the part that interests you the most, I presume: The renovation of the ground floor will be paid for by the city; you just need to visit Core City Housing Company office so that we can take care of that for you; the floor above and the floor below, however, will have to be funded from your own pocket, I'm afraid. Still, considering that you were gifted a very spacious residence in the most prestigious part of Core City, I believe the deal is indeed fair!<end>

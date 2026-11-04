@@ -83,6 +83,7 @@ Conveyor belt: $(context.loc_fo5_conveyorStatus)::<end>
 ::Melting in progress.::<end>
 
 =>q13
+
 ::Выполняется выплавка.::<end>
 
 =>a14_original
@@ -102,4 +103,5 @@ Conveyor belt: $(context.loc_fo5_conveyorStatus)::<end>
 ::Tank full.::<end>
 
 =>q16
+
 ::Резервуар полон.::<end>

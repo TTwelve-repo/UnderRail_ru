@@ -121,7 +121,8 @@ $(context.player.Name). Anything you need before I pack it all up?
 =>q20
 ::Вы находите его упаковывающим оборудование в коробку. Он на мгновение откладывает её в сторону и подавленным голосом произносит.::
 
-$(context.player.Name). Если что-то нужно, то спрашивай, пока я всё не упаковал.<end>
+$(context.player.Name). Если что-то нужно, то спрашивай, пока я всё не упаковал.
+<end>
 
 =>a21_original
 I need some supplies. ::Barter.::<end>
@@ -808,6 +809,7 @@ I am Corporal $(context.player.Name) of the Underrail Protectorate.<end>
 
 =>q130
 ::Он небрежно отдаёт вам честь.:: 
+
 <end>
 
 =>q131_original
@@ -839,6 +841,7 @@ Whatever that is.
 
 =>q134
 Что бы это ни было.
+
 <end>
 
 =>a135_original
@@ -878,6 +881,7 @@ He cannot. ::He smiles.::
 
 =>q140
 Сомневаюсь. ::Он улыбается.::
+
 <end>
 
 =>a141_original
@@ -899,6 +903,7 @@ That you are.
 
 =>q143
 Это ты и есть.
+
 <end>
 
 =>a144_original
@@ -1192,6 +1197,7 @@ Uh, perhaps there is some other way...
 
 =>q190
 Ну, может быть, есть какой-то другой способ...
+
 <end>
 
 =>q191_original
@@ -1417,6 +1423,7 @@ That's all we've managed to learn<end>
 
 =>q225
 . Если ты этого ещё не сделал$(#/а), то поговори с Сигером. Он восстановил файл регистрации одного... Я думаю, кого-то из службы безопасности. 
+
 <end>
 
 =>q226_original
