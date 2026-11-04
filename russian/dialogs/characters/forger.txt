@@ -234,9 +234,9 @@ Phreak, what has happened to you?<end>
 Stay away... f-from the crunch... Don't look at t-their... g-gizmo... Aahh... Khhhk... D-d-d... O-our p-paths... end here...<end>
 
 =>q38
-::Хаотичный ритм подёргивания его глаз на мгновение прекращается, когда он смотрит прямо на вас, спокойный, как статуя. Этот период благодати длится недолго, вы замечаете, как он изо всех сил пытается сохранить хоть какое-то самообладание. Вскоре образ спокойствия улетучивается, когда его неконтролируемое движение внезапно возвращается, и проявляется на челюсти.::
+::Его зрачки на мгновение прекращают хаотичный танец, и он смотрит прямо на вас, неподвижный как статуя. Это длится недолго, вы видите, что ему трудно даже несколько мгновений стоять спокойно. Вскоре иллюзия контроля улетучивается, что проявляется в непроизвольном подёргивании челюстей.::
 
-Держись подальше... о-от хруста... Не смотри на и-их... п-приблуды... Аа-а-а... К-х-хк... Д-д-д... Н-наши п-пути... расходятся...<end>
+Держись подальше... о-от хруста... Не смотри на и-их... п-приблуды... А-а-ах... К-х-хк... Д-д-д... Н-наши п-пути... здесь расходятся...<end>
 
 =>a39_original
 Who are them? Who did this to you?<end>
@@ -248,19 +248,19 @@ Who are them? Who did this to you?<end>
 Virus for... the mind. F-fed through the eyes... b-buzzed through the ears... N-n-now go... no more... n-no more! ::He waves you off and turns away.::<end>
 
 =>q40
-Зараза для... разума. П-подпитывали через глаза... ж-жужжали и проникали в уши... Т-т-теперь иди... сказано достаточно... д-достаточно! ::Он машет вам рукой на прощание и отворачивается.::<end>
+Вирус для... разума. З-залит в глаза... прож-жужжан в уши в уши... Ид-ди... сказано достаточно... д-достаточно! ::Он отмахивается от вас и отворачивается.::<end>
 
 =>a41_original
 I want to help you.<end>
 
 =>a41
-Я хочу помочь вам.<end>
+Я хочу помочь тебе.<end>
 
 =>q42_original
 ::He waves you off again and begins to ignore you.::<end>
 
 =>q42
-::Он снова отмахивается от вас и полностью игнорирует вас.::<end>
+::Он снова отмахивается и полностью игнорирует вас.::<end>
 
 =>a43_original
 ::Leave.::<end>
@@ -284,13 +284,13 @@ Too bad. ::Leave.::<end>
 What are you doing here?<end>
 
 =>a46
-Что вы здесь делаете?<end>
+Что ты здесь делаешь?<end>
 
 =>a47_original
 What's going on?<end>
 
 =>a47
-Что тут происходит?<end>
+Что происходит?<end>
 
 =>a48_original
 Are you okay? Can you see me?<end>
@@ -308,7 +308,7 @@ Are you okay? Can you see me?<end>
 ::As soon as you make contact, he steps away.:: The monitors... s-stay away... ::He waves you off and proceeds to ignore you.::<end>
 
 =>q50
-::Как только вы устанавливаете связь, он отступает.:: Мониторы... д-держись подальше... ::Отворачивается продолжая вас игнорировать.::<end>
+::Как только вы касаетесь его, он отшатывается.:: Мониторы... д-держись подальше... ::Он отмахивается и полностью игнорирует вас.::<end>
 
 =>a51_original
 Whatever...<end>
@@ -338,13 +338,13 @@ Hello?<end>
 The h-heat... caught up to m-me... Stay away... while you can... ::He looks away and proceeded to ignore you.::<end>
 
 =>q55
-Ж-жар... настиг м-меня... Держись подальше... пока можешь... ::Он отворачивается продолжая игнорировать вас.::<end>
+З-законники... настигли м-меня... Держись подальше... пока можешь... ::Он отворачивается и игнорирует вас.::<end>
 
 =>a56_original
 What do you mean?<end>
 
 =>a56
-Что вы имеете в виду?<end>
+Что ты имеешь в виду?<end>
 
 =>q57_original
 ::He ignores you.::<end>
@@ -368,7 +368,7 @@ Are you alright?<end>
 I like this new, you. Suits you much better.<end>
 
 =>a60
-Мне нравится новый ты. Прикид тебе гораздо больше подходит.<end>
+Мне нравится этот новый ты. Гораздо больше подходит.<end>
 
 =>q61_original
 ::He ignores your comments.::<end>
@@ -398,7 +398,7 @@ Huh?<end>
 ::He doesn't respond at all. His spaced out, yet disturbing stare persists on, staring blankly ahead. ::<end>
 
 =>q65
-::Он вообще не отвечает. Его рассеянный, тревожный взгляд продолжает смотреть в пустоту впереди него.::<end>
+::Он вообще не отвечает. Его рассеянный, тревожный взгляд направлен в пустоту.::<end>
 
 =>a66_original
 What's wrong with you?<end>
@@ -410,7 +410,7 @@ What's wrong with you?<end>
 ::The madness in his eyes ceases for a moment, as his bloodshot eyes meet yours for a second.:: Leave, n-now! ::His attention shifts back to where it once was.::<end>
 
 =>q67
-::Безумие в его глазах на мгновение прекращается, когда его налитые кровью глаза на секунду встречаются с вашими.:: Уйди, н-ну же! ::Его внимание возвращается туда, где было.::<end>
+::Безумие в его глазах на мгновение рассеивается, когда его налитые кровью глаза встречаются с вашими.:: Уйди, н-ну же! ::Он продолжает не обращать на вас внимания.::<end>
 
 =>a68_original
 Want some more?<end>
@@ -422,7 +422,7 @@ Want some more?<end>
 ::He doesn't respond at all. His spaced out, yet disturbing stare persists on, looking into seemingly nothing ahead. ::<end>
 
 =>q69
-::Он вообще не отвечает. Его рассеянный, тревожный взгляд продолжает смотреть в пустоту впереди него.::<end>
+::Он вообще не отвечает. Его рассеянный, тревожный взгляд направлен в пустоту.::<end>
 
 =>a70_original
 ::Push him again.::<end>
@@ -434,7 +434,7 @@ Want some more?<end>
 ::He topples once more. This time he rests for an even longer period of time but once again manages to collect enough strength to rise up going back to what he was doing before.::<end>
 
 =>q71
-:: Он снова падает. На этот раз он отдыхает гораздо дольше, но снова умудряется собрать достаточно сил, чтобы подняться, вернувшись к прежнему занятию.::<end>
+::Он снова падает. На этот раз он лежит гораздо дольше, но снова умудряется собрать достаточно сил, чтобы подняться, возвращаясь к прежнему поведению.::<end>
 
 =>a72_original
 This is weird...<end>
@@ -470,7 +470,7 @@ I'm crunching here. No time to waste.<end>
 Leave me to my crunch.<end>
 
 =>q77
-Оставьте меня с моим хрустом.<end>
+Оставь меня, надо хрустеть.<end>
 
 =>q78_original
 ::He glances over at you but immediately goes back to his work without saying a word.::<end>
@@ -488,19 +488,19 @@ Phreak? Didn't expect to see you here.<end>
 Back to the old days of white hatting... Luck had to run out at some point, I guess.<end>
 
 =>q80
-Старые добрые времена белых шляп... Думаю, удача должна была когда-то кончиться.<end>
+Старые добрые времена белошляпничества... Полагаю, удача не могла длиться вечно.<end>
 
 =>a81_original
 White hatting?<end>
 
 =>a81
-Белошляпничество? <end>
+Белошляпничества?<end>
 
 =>q82_original
 I don't have time to explain. I must continue my crunch. ::He gestures you to leave him alone.::<end>
 
 =>q82
-У меня нет времени объяснять. Продолжаем хруст. ::Он жестом просит вас оставить его в покое.::<end>
+Нет времени объяснять. Продолжаю хруст. ::Он жестом просит вас оставить его в покое.::<end>
 
 =>a83_original
 I hope that you like your new home here.<end>
@@ -518,31 +518,31 @@ I hope that you like your new home here.<end>
 I see. Well, how's it going?<end>
 
 =>a85
-Понимаю. Ну как дела?<end>
+Понимаю. Ну, как дела?<end>
 
 =>q86_original
 No time for yapping. I'm at the crunch. ::He waves you off.::<end>
 
 =>q86
-Нет времени собачиться. Я занят хрустом. ::Взмахом руки он показывает чтобы вы уходили.::<end>
+Нет времени собачиться. Я занят хрустом. ::Он отмахивается от вас.::<end>
 
 =>a87_original
 Fine, I'll leave you be.<end>
 
 =>a87
-Прекрасно, я оставлю вас.<end>
+Ладно, я оставлю тебя.<end>
 
 =>a88_original
 Oh, it's you... What's up?<end>
 
 =>a88
-Ха, это ты... Как делишки?<end>
+А, это ты... Как делишки?<end>
 
 =>q89_original
 Don't you see? I'm busy. Leave me alone... ::He turns away from you.::<end>
 
 =>q89
-Разве ты не видишь? Я очень занят. Оставь меня в покое... ::Он отворачивается от вас.::<end>
+Разве не видишь? Я занят. Оставь меня в покое... ::Он отворачивается от вас.::<end>
 
 =>a90_original
 Why are you here?<end>
@@ -554,7 +554,7 @@ Why are you here?<end>
 ::He waves you off.::<end>
 
 =>q91
-::Взмахом руки он показывает чтобы вы уходили.::<end>
+::Он отмахивается от вас.::<end>
 
 =>a92_original
 ::Leave.::<end>
@@ -572,7 +572,7 @@ You have been warned. <end>
 ::The expression on his face shifts into one filled with rage as he suddenly makes a loud grunt followed up by a dash towards you - his right fist undoubtedly poised to hit you. In the same time his energy shield activates, masking the fine details of his movement.:: <end>
 
 =>q94
-::Выражение его лица искажает гримаса ярости, громко зарычав, он внезапно бросается на вас - очевидно готовясь провести хук справа. Одновременно активируется энергетический щит, маскирующий мелкие детали его движения.:: <end>
+::Его лицо искажает бешеная гримаса; издав громкий рык, он внезапно бросается на вас -- очевидно намереваясь нанести хук справа. Одновременно активируется энергетический щит, смазывающий его движения.:: <end>
 
 =>a95_original
 ::[Strength] Strike him back.::<end>
@@ -584,19 +584,19 @@ You have been warned. <end>
 ::Raw fury flows through your fist as it takes flight. The target - his face, is no match for such vehemence. In a blink of an eye only two feet remain standing. His lifeless body crumbles to the ground, blood rupturing from his pulverized nose. From such short exchange, your culminated wrath has been left perhaps... unsatisfied.:: <end>
 
 =>q96
-::Обнажённая остервенелость охватывает ваш кулак, когда вы направляете его в цель. Его лицо, слишком мелкая сошка для такой ярости. Всё происходит в мгновение ока, он ещё пытается устоять на ногах, а его бездыханное тело уже рухнуло на землю, из разбитого носа хлещет кровь. После такого короткого обмена мнениями ваш кульминационный гнев, возможно, остался... неудовлетворённым.:: <end>
+::Чистый гнев направляет ваш кулак в цель -- его лицо, которое рассыпается под таким натиском. В мгновение ока, его бездыханное тело падает на землю, кровь хлещет из места, где был его нос. Такая коротка схватка оставляет вашу ярость... неудовлетворённой.:: <end>
 
 =>a97_original
 ::Crack your knuckles and leave.::<end>
 
 =>a97
-::Похрустеть костяшками пальцев и уйти.::<end>
+::Хрустнуть костяшками и уйти.::<end>
 
 =>q98_original
 ::You swing back with all power you can muster. Your fist lands on his face first and it ruptures his nose, shattering his glasses in the process. His head flies away like a rag-doll, pouring blood along the way. After the recoil, he struggles to maintain the balance.::<end>
 
 =>q98
-::Ваш удар отбрасывает его назад со всей силой, на которую вы только способны. Ваш кулак сначала попадает ему в лицо, расквасив нос и попутно разбив очки. Его голова отлетает назад, как у тряпичной куклы, заливая всё брызнувшей кровью. Он пошатнулся с трудом удерживая равновесие.::<end>
+::Вы наносите удар со всей силой, на которую способны. Ваш кулак попадает ему в лицо, расквашивая нос и попутно разбивая очки. Его голова закидывается назад, как у тряпичной куклы, орошая всё брызгами крови. Он пошатывается, с трудом удерживая равновесие.::<end>
 
 =>a99_original
 ::Fight!::<end>
@@ -608,7 +608,7 @@ You have been warned. <end>
 ::You time his approach with the swing of your fist and it meets his face at a nigh perfect moment. It lands on his cheek, causing moderate damage as it repulses him away. Despite the success of your assault, he manages to immediately regroup with ease. Your counter attack didn't come without a price; his punch landed on one of your kidneys, inflicting considerable pain. ::<end>
 
 =>q100
-::Всё рассчитав вы приветствуете приближение противника взмахом кулака, который встречается с его лицом почти в идеальный момент. Отталкивающий удар пришёлся по скуле, что можно назвать умеренным уроном. Несмотря на успех вашей атаки, ему удаётся быстро и легко перегруппироваться. Ваша контратака не прошла даром; его ответный удар пришёлся на одну из ваших почек, и оказался очень болезненным.::<end>
+::Вы подгадываете момент и встречаете его лицо своим кулаком. Удар приходится в челюсть, отбрасывая его назад, но ему удаётся быстро сгруппироваться. Не всё так гладко -- его удар пришёлся вам в почку и оказался очень болезненным. ::<end>
 
 =>a101_original
 ::Fight!::<end>
@@ -620,7 +620,7 @@ You have been warned. <end>
 ::You wind up a punch, but before you can commit to it his strike has already found its mark. The sudden trauma you feel in one of your kidneys is unbearable - as if an electric discharge had struck you. Instinctively, you reach for your back, unable to withstand the pain.::<end>
 
 =>q102
-::Вы готовитесь к драке, но его опережающий удар уже находит свою цель. Внезапная вспышка боли, которую вы чувствуете, исходящая от одной из ваших почек, невыносима, как если бы вас ударил электрический разряд. Вы инстинктивно тянетесь к спине, не в силах больше сопротивляться.::<end>
+::Вы заносите кулак, но его опережающий удар уже находит свою цель. Внезапная вспышка боли поражает вас в почку, как электрический разряд. Вы инстинктивно хватаетесь за бок, не в силах устоять.::<end>
 
 =>a103_original
 ::Fight!::<end>
@@ -638,13 +638,13 @@ You have been warned. <end>
 ::Your reflexes allow you to easily avoid his assault. The attack he's attempted has left him exposed spot which grants you an easy opportunity to tackle him. In doing so, he slips up and falls down on the ground, kneels and palms first. In the heat of the moment he rises up, shaking off the pain he has suffered with little success. His robe got torn, his palms are shaking and he's struggling to catch breath.::<end>
 
 =>q105
-::Ваши рефлексы позволяют вам легко избежать нападения. Атака, которую он предпринял, поставила его в уязвимое положение, что позволило вам легко схватить его. При этом он оступился, упал, и теперь стоит на коленях опираясь руками о землю. Разгорячённый в пылу сражения он поднимается, превозмогая боль, правда уже без особого успеха. Его халат порвался, руки трясутся, он изо всех сил пытается восстановить дыхание.::<end>
+::Ваши рефлексы позволяют вам легко уйти от удара. Он раскрывается в выпаде, что позволяет вам провести подсечку -- он оступается и падает на четвереньки. Разгорячённый, он вскакивает, превозмогая боль -- его одежда порвана, руки трясутся, а дыхание сбито.::<end>
 
 =>q106_original
 ::You move by the side and his fist misses you by a hair straw. His body swings forward almost to a tipping point yet he manages to hold back. He stands firm, ready to continue the fight.::<end>
 
 =>q106
-::Вы немного отклоняетесь в сторону, и его кулак пролетает мимо, буквально на волосок от вас. Его тело критически наклонилось вперёд, но ему удаётся удержать равновесие. Теперь он твёрдо стоит на ногах, готовый продолжить бой.::<end>
+::Вы уходите в сторону, и его кулак пролетает на волосок мимо. Он чуть не падает, но всё же сохраняет равновесие и переступает, готовый к бою.::<end>
 
 =>a107_original
 ::Fight!::<end>
@@ -656,43 +656,43 @@ You have been warned. <end>
 ::The speed of your thoughts is not followed up by your muscles as his fist changes direction mid-air and lands on one of your kidneys. Debilitating pain courses through out your body, paralyzing you in the place.::<end>
 
 =>q108
-::Скорость ваших мыслей сильно опережает реакцию ваших мышц, его кулак меняет направление в воздухе и приземляется на одну из ваших почек. Изнурительная парализующая боль проходит через всё ваше тело.::<end>
+::Ваше тело не поспевает за вашим намерением, и его удар находит новую цель -- вашу почку. Сковывающая боль заставляет вас замереть на месте.::<end>
 
 =>a109_original
 ::[Dexterity] Deflect his punch.::<end>
 
 =>a109
-::[Ловкость] Отразить его оплевуху.::<end>
+::[Ловкость] Отразить его удар.::<end>
 
 =>q110_original
 ::His hand changes direction mid-air, now definitively aimed at your kidneys. This move doesn't trick you at all as you easily manage to catch his fist with your own, stopping the attack dead in its track. You don't waste this opportunity as you twist his arm behind his back. Just as you try to restrain him, he manages to pull away from you. This reckless evasion of his came with a hefty price - he almost broke his arm and is now enduring immense physical trauma.::<end>
 
 =>q110
-::Он на ходу меняет направление удара, теперь его рука нацелена на ваши почки. Этот приём ничуть не обманывает вас, так как вам легко удаётся рукой отразить его кулак, изменив направление атаки. Вы не упускаете эту возможность, выкручивая ему руку за спину, вы пытаетесь удержать его, но ему удаётся отодвинуться от вас. Это опрометчивое решение дорого ему обошлось - он чуть не сломал себе руку и теперь можно считать его тяжело раненым.::<end>
+::Он на ходу меняет направление удара, пытаясь поразить вас в почку. Этот финт не обманывает вас, и вы с лёгкостью перехватываете его кулак, сводя атаку на нет. Не упуская возможности, вы заламываете ему руку, но в последний момент ему удаётся вывернуться. Это резкое движение обходится ему дорого -- он чуть не ломает руку и теперь корчится от боли.::<end>
 
 =>q111_original
 ::As if you've predicted his move, you lower your guard and your elbow intercepts his punch which was aiming for the lower parts of your body. With relative ease you guide away his hand completely negating his attack. He then hops back and assumes a guard of his own.::<end>
 
 =>q111
-::Вы разгадали его манёвр, ослабив защиту вы локтем перехватываете его удар, нацеленный в нижнюю часть вашего тела. С относительной лёгкостью вы отбиваете его руку, полностью сводя атаку на нет. Он резко отпрыгивает назад и принимает оборонительную стойку.::<end>
+::Разгадав его манёвр, вы отражаете его кулак, опустив локоть, и с относительной лёгкостью, сводите атаку на нет. Он резко отпрыгивает назад и принимает оборонительную стойку.::<end>
 
 =>q112_original
 ::You raise your guard in time yet his attack completely bypasses it by, aiming at your kidneys. His punch makes a full contact and sends a terrifying, electric pain through out your body, paralyzing you in the process.::<end>
 
 =>q112
-::Вы вовремя проявляете бдительность, но его атака, нацеленная на ваши почки, полностью игнорирует её. Его удар достигает цели посылая ужасающую электрическую боль через ваше тело, попутно парализуя вас.::<end>
+::Вы ставите блок, но его удар нацелен ниже, вам в почку, и достигает цели. Ужасающая электрическая боль парализует вас.::<end>
 
 =>a113_original
 ::[Constitution] Take the hit.::<end>
 
 =>a113
-::[Конституция] Принять удар.::<end>
+::[Телосложение] Принять удар.::<end>
 
 =>q114_original
 ::Your sturdy body takes the hit as if it was a small pinch. or rather, a tame electric shock. Your confident gaze shakes him to the core. Seeing this, he backs away in total confusion. Then, he quickly readjusts his glove and readies up to continue the fight.::<end>
 
 =>q114
-::Ваше крепкое тело воспринимает удар, словно это небольшой щипок, вернее, как слабый электрический разряд. Он смотрит вам в лицо, встречая ваш уверенный взгляд, и даже содрогнувшись. Он отступает в полном замешательстве. Он быстро поправляет свою перчатку готовясь повторить атаку.::<end>
+::Вы воспринимаете удар, словно это нежный щипок, -- вернее, слабый электрический разряд. Ваша непоколебимость приводит его в замешательство и заставляет отпрянуть, но он быстро поправляет свою перчатку, готовясь к бою.::<end>
 
 =>a115_original
 ::Fight!::<end>
@@ -704,25 +704,25 @@ You have been warned. <end>
 ::You stand still as you try to tighten your muscles before the attack. However, none of that matters as his fist lands on one of your kidneys sending electric shock through out your body. The pain is unbearable, leaving you temporarily paralyzed.::<end>
 
 =>q116
-::Вы стоите на месте, пытаясь напрячь мышцы чтобы встретить атаку. Однако всё это не имеет значения, поскольку его кулак приземляется на одну из ваших почек, вызвав электрический разряд по всему телу. Невыносимая боль временно парализует вас.::<end>
+::Вы замираете, напрягая мышцы, чтобы встретить атаку. Однако это не имеет значения, поскольку его кулак приземляется на вашу почку, посылая электрический разряд через всё тело. Невыносимая боль временно парализует вас.::<end>
 
 =>a117_original
 ::[Will] Brace for impact.::<end>
 
 =>a117
-::[Воля] Приготовиться к столкновению.::<end>
+::[Воля] Приготовиться к удару.::<end>
 
 =>q118_original
 ::The impenetrable will of your mind stands ready to face what is to come. As his fist lands on one of your kidneys, you manage to keep your thoughts clean and the pain from the impact becomes non-existent. A brief panic startles him as he pulls back away.::<end>
 
 =>q118
-::Непоколебимая воля вашего разума готова встретить грядущее. Когда его кулак приземляется на одну из ваших почек, вам удаётся сохранять свои мысли чистыми, игнорируя боль от удара. Он испуганно отступает, на какой-то миг его охватывает паника.::<end>
+::Ваша несгибаемая воля готова встретить удар. Когда его кулак приземляется на вашу почку, вы очищаете сознание, игнорируя боль. Он испуганно отступает, на какой-то миг охваченный паникой.::<end>
 
 =>q119_original
 ::You attempt to gather your thoughts as you brace for the impact. Initially, it would seem that he was aiming for your face but instead, his fist lands on one of your kidneys. The attack causes crippling pain across your entire back, temporarily paralyzing you in place.::<end>
 
 =>q119
-::Вы пытаетесь собраться с мыслями, готовясь к удару. Может показаться, что он целится вам в лицо, но вместо этого его кулак попадает в одну из ваших почек. Приступ вызывает сильную боль в спине, временно парализуя вас.::<end>
+::Вы пытаетесь собрать волю в кулак, готовясь к удару. Хотя казалось, что он метит вам в лицо, вместо этого его кулак попадает вам в почку. Удар вызвает невыносимую боль в спине, временно парализуя вас.::<end>
 
 =>q120_original
 <end>
@@ -734,31 +734,31 @@ You have been warned. <end>
 Drop off, worm!<end>
 
 =>q121
-Отвали, червяк!<end>
+Провались, червяк!<end>
 
 =>q122_original
 You'll get crunched if you keep this up.<end>
 
 =>q122
-Продолжишь в том же духе, будешь хрустеть.<end>
+Продолжишь в том же духе, -- будешь хрустнут$(#/а).<end>
 
 =>q123_original
 This corner is mine, zoner!<end>
 
 =>q123
-Этот мой угол, зонер!<end>
+Этот мой угол, зонер$(#/ша)!<end>
 
 =>q124_original
 I'll make you buzz off one way or another.<end>
 
 =>q124
-Я заставлю тебя дудеть так или иначе.<end>
+Жуужжи отсюда или я тебя заставлю.<end>
 
 =>q125_original
 My temper is short.<end>
 
 =>q125
-У меня кроткий нрав.<end>
+У меня короткое терпение.<end>
 
 =>q126_original
 ::The nauseating stench of foul booze pollutes this tiny room. One wouldn't be wrong mistaking it for literal sewage. The out-of-place furniture indicates that there was a deliberate attempt made to turn this end into a living area; however, due to negligence, it much more resembles a torture chamber.::<end>
