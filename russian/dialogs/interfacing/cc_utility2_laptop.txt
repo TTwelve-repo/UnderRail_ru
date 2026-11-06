@@ -1,4 +1,4 @@
-﻿=>q1_original
+﻿будку=>q1_original
 Mhhhnnn? Hnnnn...<end>
 
 =>q1
@@ -18,7 +18,7 @@ Mhhhnnn? Hnnnn...<end>
 =>q3
 ::БПТД вер. 3.0.::
 
-::Компьютер ограничил доступ к большинству своих программ, раскрывая лишь небольшую часть своих данных. Кроме того, вся доступная информация имеет недавнее происхождение, на что указывает назойливая система уведомлений.::<end>
+::Доступ к большинству программ на компьютере ограничен, раскрывая лишь небольшую часть своих данных. Кроме того, вся доступная информация имеет недавнее происхождение, на что указывает назойливая система уведомлений.::<end>
 
 =>a4_original
 ::New device attached! (Remote Controller - HVPC)::<end>
@@ -36,25 +36,25 @@ Mhhhnnn? Hnnnn...<end>
 ::HVPC connected and online. Voltage control established. Penetration target: High-end.::<end>
 
 =>q6
-::ЯПВН подсоединён и подключён к сети. Установлен контроль напряжения. Цель проникновения: Высокого уровня.::<end>
+::ЯПВН подсоединён и подключён к сети. Установлен контроль напряжения. Цель пенетрации: Высокого уровня.::<end>
 
 =>a7_original
 ::Energizing options.::<end>
 
 =>a7
-::Энергетические возможности.::<end>
+::Опции электрификации.::<end>
 
 =>q8_original
 ::Insufficient vulnerability achieved. Compliling solutions, please wait...::<end>
 
 =>q8
-::Допущена неблагоприятная уязвимость. Компиляция решений, пожалуйста, подождите...::<end>
+::Недостаточный уровень уязвимости. Компиляция решений, пожалуйста, подождите...::<end>
 
 =>q9_original
 ::Detected potential weak spots. Cooling facility capabilities unexplored. Overcharge function available and not employed. Location: down-east. Seek further destabilization near the cooling source.::<end>
 
 =>q9
-::Обнаружены потенциальные слабые места. Возможности холодильного оборудования не изучены. Функция перезарядки доступна и не используется. Расположение: на востоке. Ищите дальнейшую дестабилизацию вблизи источника охлаждения.::<end>
+::Обнаружены потенциальные слабые места. Возможности холодильного оборудования не изучены. Функция перегрузки доступна и не используется. Локация: вниз-восток. Искать дальнейшую дестабилизацию у источника охлаждения.::<end>
 
 =>a10_original
 ::Go back::<end>
@@ -88,7 +88,7 @@ Biometrics disabled. Remote control disabled. Short range ionization disabled.
 Battery recharging enabled. Digital assistance enabled.::<end>
 
 =>q14
-::RCEG отключён, отсутствует указанный владелец. Включен безопасный режим.
+::ЭПДУ отключена, отсутствует указанный владелец. Включен безопасный режим.
 
 Биометрия отключена. Дистанционное управление отключено. Ионизация ближнего действия отключена.
 
@@ -98,19 +98,19 @@ Battery recharging enabled. Digital assistance enabled.::<end>
 ::Notes::<end>
 
 =>a15
-::Примечания::<end>
+::Записи::<end>
 
 =>q16_original
 ::There are a few options available, the rest are unselectable.::<end>
 
 =>q16
-::Доступно несколько вариантов, остальные недоступны для выбора.::<end>
+::Доступно несколько вариантов, остальные выбрать нельзя.::<end>
 
 =>a17_original
 ::Hot spots. NEW!::<end>
 
 =>a17
-::Очаги возгарания. НОВЫЕ!::<end>
+::Точки доступа. НОВОЕ!::<end>
 
 =>q18_original
 ::Only three options can be viewed.::<end>
@@ -158,13 +158,13 @@ Battery recharging enabled. Digital assistance enabled.::<end>
 ::Coil plateau. (-)::<end>
 
 =>a25
-:: Плоская катушка. (-)::<end>
+::Плоская катушка. (-)::<end>
 
 =>a26_original
 ::Probing shack. (-) NEW!::<end>
 
 =>a26
-::Исследовать хижину. (-) НОВОЕ!::<end>
+::Исследовать будка. (-) НОВОЕ!::<end>
 
 =>q27_original
 ::The magnet tracker leads to there, without a doubt. Has it been removed, idk, but I have no other option than to crunch my way in there. It looks abandoned, anyway. The box inside is worth it. That research lab must have something in there worth a look.::<end>
